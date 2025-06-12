@@ -1,7 +1,7 @@
 import csv
 from will_trigger_ai_overview import *
 
-input_file = "queries_train.tsv"
+input_file = "datasets/ms-marco-web-search-queries.tsv"
 output_file = "filtered_queries.txt"
 
 def main():
