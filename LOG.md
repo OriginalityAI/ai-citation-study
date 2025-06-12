@@ -1,0 +1,24 @@
+## Thu, 12 June
+
+- Coded a simple reproducible pipeline
+- 9M+ queries -> AI overview trigger filtering -> random sampling -> Google AI Overview response (SerpAPI)
+- Manually checked v1 filter (~62% accuracy on 50 samples)
+
+## Wed, 11 June
+
+- Identified and compared query datasets, selected MS MARCO (2024, 9M+ real Bing queries)
+- Drafted a data collection pipeline
+- (!) Not all queries trigger AI overviews
+- Tested some simple filters that predict if a query is likely to trigger AI overview (open ended questions, keyword matching)
+
+## Tue, 10 June
+
+- Tracked data sources of shared studies
+- Investigated AI Overview results APIs/scraping feasibility and practicality
+- Selected SerpAPI as the cost effective, quick to setup, reliable approach
+
+## Mon, 9 June
+
+- Received project brief and access credentials
+- Setup accounts
+- Read studies
