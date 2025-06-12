@@ -19,3 +19,7 @@ def will_trigger_ai_overview_v1(query):
     if len(q.split()) < min_words:
         return False
     return True
+
+will_trigger_ai_overview_map = {
+    "v1": will_trigger_ai_overview_v1
+}
