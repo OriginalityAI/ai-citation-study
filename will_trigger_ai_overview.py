@@ -20,6 +20,11 @@ def will_trigger_ai_overview_v1(query):
         return False
     return True
 
+# V2 ideas
+# consider removing queries like "what does X mean"
+# filter for "are pabco shingles any good" "... any good"
+# queries that are too long
+
 will_trigger_ai_overview_map = {
     "v1": will_trigger_ai_overview_v1
 }
