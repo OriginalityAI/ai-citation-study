@@ -2,7 +2,7 @@
 
 - Coded a simple reproducible pipeline
 - 9M+ queries -> AI overview trigger filtering -> random sampling -> Google AI Overview response (SerpAPI)
-- Manually checked v1 filter (~62% accuracy on 50 samples)
+- Manually checked v1 filter (~62% out of 50 samples trigger Google AI overview)
 
 ## Wed, 11 June
 
