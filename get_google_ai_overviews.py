@@ -59,7 +59,7 @@ for _, row in df.iterrows():
     })
 
     print(f"Processed {query_id}: {query_text} -> {triggered_ai_overview}")
-    break
+    # break
 
 # Save labeled CSV
 pd.DataFrame(labeled).to_csv(LABELED_QUERIES_FILE, index=False)
