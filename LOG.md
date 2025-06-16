@@ -1,10 +1,14 @@
+## Mon, 16 June
+
+- Integrating SerpAPI to collect AI overview responses
+
 ## Fri, 13 June
 
 - Reading SerpAPI docs, testing
 
 ## Thu, 12 June
 
-- Coded a simple reproducible pipeline
+- Designed a simple reproducible pipeline
 - 9M+ queries -> AI overview trigger filtering -> random sampling -> Google AI Overview response (SerpAPI)
 - Manually checked v1 filter (~62% out of 50 samples trigger Google AI overview)
 
