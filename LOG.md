@@ -1,3 +1,7 @@
+## Fri, 13 June
+
+- Reading SerpAPI docs, testing
+
 ## Thu, 12 June
 
 - Coded a simple reproducible pipeline
