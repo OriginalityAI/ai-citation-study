@@ -20,25 +20,71 @@
 
 ## Data Collection
 
-Dataset comparison (ORCA vs MS MARCO vs ..)
-a table
-number of queries, recency, source (human or not), relevancy (human queries that trigger AI overview)
+### Online Query Datasets
 
-filter queries to those that will trigger AI overview,
-then random sampling (justify)
+| Dataset                                                                          | # Queries   | Recency | Source Type               | Notes                                                 |
+| -------------------------------------------------------------------------------- | ----------- | ------- | ------------------------- | ----------------------------------------------------- |
+| **[MS MARCO Web Search](https://github.com/microsoft/MSMARCO-Document-Ranking)** | ~10 million | ~2024   | Human (Bing search logs)  | Real-world queries; main dataset                      |
+| **[ORCAS](https://microsoft.github.io/msmarco/ORCAS)**                           | ~10 million | ~2020   | Human (click logs)        | Includes query-document pairs with user click signals |
+| **[Natural Questions](https://ai.google.com/research/NaturalQuestions)**         | ~320,000    | ~2019   | Human (Google QA queries) | QA-focused dataset with gold answers                  |
 
-genarate a sample from 9M queries
+We selected **MS MARCO Web Search** as our primary dataset because:
 
-get AI overview responses + citations for the sample, label them as y/n/b
+- Large, diverse set of **real** user queries from Bing
+- Recency (2024), reflecting modern search behavior
+- Representative of average user search, covers a wide range of query types
+- Well documented and formatted
 
-(for next batch, identify which queries don't trigger AI overview and improve filter to maximize number of collected AI overviews)
+## Data Collection Pipeline
 
-fetch cited sources and run their content through Originality AI API (cache duplicates) classify as AI/human
+1. **Start with MS MARCO (9M)**
 
-analyze collected data
+   - Large, recent, real-world queries
 
-future:
-maybe classify queries by topic using GPT API, add cost, value
+2. **Filter likely AI Overview queries**
+
+   - Heuristics: "what is", "how to", etc.
+
+3. **Randomly sample filtered queries**
+
+   - Ensures topic and phrasing diversity
+
+4. **Fetch AI Overviews via SerpAPI**
+
+   - Save response and citations
+   - Label as Y / N / B
+   - Purchase a plan (see pricing table below)
+
+5. **Refine filtering (next batches)**
+
+   - Use failed queries to improve heuristics
+
+6. **Classify cited sources**
+
+   - Fetch content
+   - Use Originality.ai (cache duplicates)
+   - Label as AI / Human
+
+7. **Analyze data**
+
+   - Compute AI vs Human ratios
+   - Plot trends by topic/query type
+
+8. **(Optional) Classify queries by topic**
+   - Use GPT API
+   - ~50 USD to label 100,000 queries
+
+### SerpAPI Pricing Plans
+
+| Plan       | Cost (USD) | Queries | Price per Query (USD) |
+| ---------- | ---------- | ------- | --------------------- |
+| Developer  | $75        | 5,000   | $0.015                |
+| Production | $150       | 15,000  | $0.010                |
+| Big Data   | $275       | 30,000  | $0.009                |
+| Searcher   | $725       | 100,000 | $0.007                |
+| Volume     | $1,475     | 250,000 | $0.006                |
+
+We chose SerpAPI over other tools like Octoparse or custom scrapers because it's easier to use, more stable, and less likely to get blocked.
 
 ## Timeline
 
