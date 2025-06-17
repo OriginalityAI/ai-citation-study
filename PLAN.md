@@ -95,3 +95,9 @@ We chose SerpAPI over other tools like Octoparse or custom scrapers because it's
 - **Weeks 5–7 (July 7+):** Explore secondary questions, refine insights, document insights with supporting graphics and plots
 - **Week 8 (July 28+):** Draft the blog post and prepare it for publishing
 - **Week 9 (August 4+):** Finalize the paper and prepare for publishing
+
+## Likely-to-Trigger AI Overview Filter Stats
+
+| Version | Sample Size | Y   | N   | B   |
+| ------- | ----------- | --- | --- | --- |
+| v1      | 50          | 48% | 18% | 34% |
