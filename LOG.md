@@ -1,6 +1,7 @@
 ## Mon, 16 June
 
 - Integrating SerpAPI to collect AI overview responses
+- Document study plan
 
 ## Fri, 13 June
 
