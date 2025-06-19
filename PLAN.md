@@ -1,6 +1,7 @@
 ## Research Questions
 
-- **What proportion of sources cited in Google AI Overviews are AI-generated?**
+- **Is there a negative correlation between AI-generated content and citation likelihood in Google AI Overviews — and a positive one for human-written content?**
+- What proportion of sources cited in Google AI Overviews are AI-generated?
 - How is AI/human ratio distributed across different query topics?
 - What queries do not result in an AI summary? Which queries result in "An AI Overview is not available for this search"?
 - Does this impact the quality of overviews?
