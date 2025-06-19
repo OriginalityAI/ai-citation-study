@@ -1,3 +1,8 @@
+## Tue, 17 June
+
+- Researching into the new question (different perspective, likelihood of being cited if using AI or human-written)
+- Plan new data collection strategy to calculate the necessary stats
+
 ## Mon, 16 June
 
 - Integrating SerpAPI to collect AI overview responses
