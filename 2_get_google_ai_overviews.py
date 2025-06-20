@@ -33,7 +33,8 @@ for _, row in df.iterrows():
         'q': query_text,
         'api_key': API_KEY,
         'gl': 'us',
-        'hl': 'en'
+        'hl': 'en',
+        'num': 30
     }
     search = GoogleSearch(params)
     results = search.get_dict()
@@ -59,7 +60,7 @@ for _, row in df.iterrows():
     })
 
     print(f"Processed {query_id}: {query_text} -> {triggered_ai_overview}")
-    # break
+    break
 
 # Save labeled CSV
 pd.DataFrame(labeled).to_csv(LABELED_QUERIES_FILE, index=False)
