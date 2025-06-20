@@ -6,9 +6,11 @@
 
 - Refined research question: analyze `P(cited | AI-generated)` vs `P(cited | human-written)`
 - Planned new data collection and citation analysis strategy (use organic results as the ref set)
-- TODO: Integrate Originality API for classification
-- TODO: Review GEO paper and its dataset
+- TODO: Increase number of organic results (N) in SerpAPI queries
 - TODO: Create WTAO_v2 with improved accuracy
+- TODO: Extract URLs from AI Overview citations and organic results, combine into one CSV with columns: `url`, `cited_count`, `in_organic_results_count`
+- TODO: Use Originality Batch API to add the `ai_prob` column
+- TODO: Review GEO paper and its dataset
 
 ---
 
