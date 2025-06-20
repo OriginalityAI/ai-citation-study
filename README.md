@@ -75,8 +75,8 @@ We selected **MS MARCO Web Search** as our primary dataset because:
 4. **Label URLs with Citation & Organic Counts**  
    For each URL, track:
 
-- `cited_count`: Number of times cited by AI Overviews across all queries
-- `in_organic_results_count`: Number of times appearing in organic results
+   - `cited_count`: Number of times cited by AI Overviews across all queries
+   - `in_organic_results_count`: Number of times appearing in organic results
 
 5. **Classify URLs as AI-generated or Human-written**  
    Use Originality.ai Batch Scan API to classify each URL's content.  
@@ -86,7 +86,6 @@ We selected **MS MARCO Web Search** as our primary dataset because:
    Compute conditional probabilities:
 
    - P(cited | AI-generated) = (# cited AI URLs) / (# total AI URLs)
-
    - P(cited | human-written) = (# cited human URLs) / (# total human URLs)
 
    Analyze citation frequency distributions, overlap ratios, and trends over time or by query category.
