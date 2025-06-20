@@ -27,6 +27,8 @@
 
 ## Related Work
 
+- **[GEO: Generative Engine Optimization](https://arxiv.org/abs/2311.09735)** - a large-scale benchmark of diverse user queries across multiple domains, along with relevant web sources to answer these queries. Through rigorous evaluation, we demonstrate that GEO can boost visibility by up to 40% in generative engine responses.
+
 - **[How Deep Do Large Language Models Internalize Scientific Literature and Citation Practices? (arXiv:2504.02767)](https://arxiv.org/abs/2504.02767)** - analyzes ~275,000 GPT‑4 citations across 10,000 simulated papers, revealing a systematic preference for highly cited, recent sources. The “rich get richer” effect in AI-generated references.
 
 - **[From Content Creation to Citation Inflation: A GenAI Case Study](https://arxiv.org/abs/2503.23414)**
