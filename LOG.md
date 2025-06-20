@@ -7,6 +7,7 @@
 - Refined research question: analyze `P(cited | AI-generated)` vs `P(cited | human-written)`
 - Planned new data collection and citation analysis strategy (use organic results as the ref set)
 - TODO: Increase number of organic results (N) in SerpAPI queries
+- TODO: Update sampling script to ignore selected queries from previous batches
 - TODO: Write a script that calculates vX filter stats
 - TODO: Create WTAO_v2 with improved accuracy (test on 50 queries)
 - TODO: Extract URLs from AI Overview citations and organic results, combine into one CSV with columns: `url`, `cited_count`, `in_organic_results_count`
