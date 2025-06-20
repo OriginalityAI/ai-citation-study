@@ -58,42 +58,38 @@ We selected **MS MARCO Web Search** as our primary dataset because:
 
 ## Data Collection Pipeline
 
-1. **Start with MS MARCO (9M)**
+1. **Sample Queries**  
+   Generate or select a large set of queries predicted to trigger AI Overviews using the WTAO filter.
 
-   - Large, recent, real-world queries
+2. **Run Queries & Collect Responses**  
+   For each query, retrieve:
 
-2. **Filter likely AI Overview queries**
+- AI Overview response with all cited URLs
+- Top N organic search result URLs (configurable N, e.g., 10 or 20)
 
-   - Heuristics: "what is", "how to", etc.
+3. **Combine & Deduplicate URLs**  
+   Merge URLs from both organic results and AI Overview citations.  
+   Normalize URLs to avoid duplicates (e.g., remove query parameters, consistent casing).  
+   Deduplicate to create a master pool of unique URLs.
 
-3. **Randomly sample filtered queries**
+4. **Label URLs with Citation & Organic Counts**  
+   For each URL, track:
 
-   - Ensures topic and phrasing diversity
+- `cited_count`: Number of times cited by AI Overviews across all queries
+- `in_organic_results_count`: Number of times appearing in organic results
 
-4. **Fetch AI Overviews via SerpAPI**
+5. **Classify URLs as AI-generated or Human-written**  
+   Use Originality.ai Batch Scan API to classify each URL's content.  
+   Store classification results including confidence scores and labels.
 
-   - Save response and citations
-   - Label as Y / N / B
-   - Purchase a plan (see pricing table below)
+6. **Calculate Citation Probabilities and Analyze**  
+   Compute conditional probabilities:
 
-5. **Refine filtering (next batches)**
+   - P(cited | AI-generated) = (# cited AI URLs) / (# total AI URLs)
 
-   - Use failed queries to improve heuristics
+   - P(cited | human-written) = (# cited human URLs) / (# total human URLs)
 
-6. **Classify cited sources**
-
-   - Fetch content
-   - Use Originality.ai (cache duplicates)
-   - Label as AI / Human
-
-7. **Analyze data**
-
-   - Compute AI vs Human ratios
-   - Plot trends by topic/query type
-
-8. **(Optional) Classify queries by topic**
-   - Use GPT API
-   - ~50 USD to label 100,000 queries
+   Analyze citation frequency distributions, overlap ratios, and trends over time or by query category.
 
 ## Timeline
 
@@ -105,7 +101,7 @@ We selected **MS MARCO Web Search** as our primary dataset because:
 - **Week 8 (July 28+):** Draft the blog post and prepare it for publishing
 - **Week 9 (August 4+):** Finalize the paper and prepare for publishing
 
-## Likely-to-Trigger AI Overview Filter Stats
+## WTAO Filter Stats
 
 | Version | Sample Size | Y   | N   | B   |
 | ------- | ----------- | --- | --- | --- |
