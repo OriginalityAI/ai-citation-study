@@ -11,15 +11,22 @@ Output:
 
 import os
 import json
+from urllib.parse import urlparse
 
 # Set your folder path here
 FOLDER_PATH = "samples/v1_50/res_20250616"
 OUTPUT_FILE = "_cited_in_organic_coverage.txt"
 
+def normalize_url(url):
+    """Remove query params and fragments; return scheme + netloc + path (lowercased, no trailing slash)"""
+    parsed = urlparse(url)
+    norm = f"{parsed.scheme}://{parsed.netloc}{parsed.path}".rstrip('/')
+    return norm.lower()
+
 def extract_links(res):
     """
-    Extract cited and organic links from one JSON response object.
-    Returns sets of lowercase URLs.
+    Extract and normalize cited and organic links from one JSON response object.
+    Returns sets of normalized URLs.
     """
     cited_links = set()
     organic_links = set()
@@ -29,13 +36,13 @@ def extract_links(res):
         for ref in cited_refs:
             link = ref.get("link")
             if link:
-                cited_links.add(link.lower())
+                cited_links.add(normalize_url(link))
 
         organic_res = res.get("organic_results", [])
         for org in organic_res:
             link = org.get("link")
             if link:
-                organic_links.add(link.lower())
+                organic_links.add(normalize_url(link))
     except Exception as e:
         print(f"Error extracting links: {e}")
 
