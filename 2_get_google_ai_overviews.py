@@ -12,7 +12,7 @@ SAMPLE_DIR = Path('samples') / SAMPLE_NAME
 QUERIES_FILE = SAMPLE_DIR / f'queries_{SAMPLE_NAME}.csv'
 LABELED_QUERIES_FILE = SAMPLE_DIR / f'queries_{SAMPLE_NAME}_labeled.csv'
 DATE_STR = datetime.now(timezone.utc).strftime('%Y%m%d')
-RESPONSE_DIR = SAMPLE_DIR / f'res_{DATE_STR}'
+RESPONSE_DIR = SAMPLE_DIR / f'res_{DATE_STR}_n20'
 
 # Ensure output directory exists
 RESPONSE_DIR.mkdir(parents=True, exist_ok=True)
@@ -34,7 +34,7 @@ for _, row in df.iterrows():
         'api_key': API_KEY,
         'gl': 'us',
         'hl': 'en',
-        'num': 30
+        'num': 20
     }
     search = GoogleSearch(params)
     results = search.get_dict()
@@ -60,7 +60,6 @@ for _, row in df.iterrows():
     })
 
     print(f"Processed {query_id}: {query_text} -> {triggered_ai_overview}")
-    break
 
 # Save labeled CSV
 pd.DataFrame(labeled).to_csv(LABELED_QUERIES_FILE, index=False)
