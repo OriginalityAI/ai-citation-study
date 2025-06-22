@@ -1,17 +1,20 @@
 # Ouroboros – Weekly Progress Log
 
+## Week of June 24–July 1
+
+- TODO: Create WTAO_v2 with higher AI overview rate (> 50%)
+- TODO: Collect a larger v2 sample
+- TODO: Combine data into 1 CSV with columns: `url`, `cited_count`, `in_organic_results_count`
+- TODO: Use Originality Batch API to add the `ai_prob` column
+
 ---
 
 ## Week of June 17–24
 
 - Refined research question: analyze `P(cited | AI-generated)` vs `P(cited | human-written)`
 - Planned new data collection and citation analysis strategy (use organic results as the ref set)
-- TODO: Increase number of organic results (N) in SerpAPI queries
-- TODO: Update sampling script to ignore selected queries from previous batches
-- TODO: Write a script that calculates vX filter stats
-- TODO: Create WTAO_v2 with improved accuracy (test on 50 queries)
-- TODO: Extract URLs from AI Overview citations and organic results, combine into one CSV with columns: `url`, `cited_count`, `in_organic_results_count`
-- TODO: Use Originality Batch API to add the `ai_prob` column
+- Write a script that calculates citation presence
+- Found an optimal number of organic results (N=40) with high citation presence (53%)
 - TODO: Review GEO paper and its dataset
 
 ---

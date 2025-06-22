@@ -105,3 +105,12 @@ We selected **MS MARCO Web Search** as our primary dataset because:
 | Version | Sample Size | Y   | N   | B   |
 | ------- | ----------- | --- | --- | --- |
 | v1      | 50          | 48% | 18% | 34% |
+
+## N organic results citation presence stats (v1_50 sample)
+
+| N (organic results) | Matches | Total Cited | Proportion (%) |
+| ------------------- | ------- | ----------- | -------------- |
+| 10                  | 89      | 282         | 31.56%         |
+| 20                  | 117     | 294         | 39.80%         |
+| 40                  | 150     | 282         | 53.19%         |
+| 80                  | 162     | 298         | 54.36%         |
