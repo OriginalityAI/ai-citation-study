@@ -14,7 +14,7 @@ import json
 from urllib.parse import urlparse
 
 # Set your folder path here
-FOLDER_PATH = "samples/v1_50/res_20250616"
+FOLDER_PATH = "samples/v1_50/res_20250622_n20"
 OUTPUT_FILE = "_cited_in_organic_coverage.txt"
 
 def normalize_url(url):
