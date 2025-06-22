@@ -9,6 +9,16 @@
 - Does this impact the quality of overviews?
 - What are the implications for SEO?
 
+## Timeline
+
+- [x] **Week 1 (June 9+):** Plan the study and outline the data collection pipeline
+- [x] **Week 2 (June 16+):** Refined core methodology to measure P(cited | AI) vs P(cited | human). Ran citation coverage analysis across N = 10 to 80 and selected N = 40 as optimal.
+- [ ] **Week 3 (June 23+):** Scale up sample size (v2) and classify documents using Originality.ai. Compute preliminary citation probabilities for AI vs human content.
+- [ ] **Week 4 (June 30+):** Finalize main results (P(cited | AI) vs P(cited | human)), generate supporting tables and plots, and begin drafting key insights.
+- [ ] **Weeks 5–7 (July 7+):** Explore secondary questions (e.g., domain-level trends, content depth), refine plots and findings, and begin outlining blog post.
+- [ ] **Week 8 (July 28+):** Draft the blog post and prepare final graphics and visualizations for publication.
+- [ ] **Week 9 (August 4+):** Optional: package technical findings into a short paper or internal report.
+
 ## Project Setup
 
 1. Download the [MS MARCO queries dataset](https://msmarco.z22.web.core.windows.net/msmarcowebsearch/100M_queries/queries_train.tsv) (9.2M real Bing queries) and save it as `/dataset/ms-marco-web-search-queries.tsv`.
@@ -89,16 +99,6 @@ We selected **MS MARCO Web Search** as our primary dataset because:
    - P(cited | human-written) = (# cited human URLs) / (# total human URLs)
 
    Analyze citation frequency distributions, overlap ratios, and trends over time or by query category.
-
-## Timeline
-
-- **Week 1 (June 9+):** Plan the study and outline the data collection pipeline
-- **Week 2 (June 16+):** Set up Originality.ai API for classification, increase SerpAPI query access, improve AI Overview filtering
-- **Week 3 (June 23+):** Start scaling up the number of samples and get early results on AI vs human citation ratios
-- **Week 4 (June 30+):** Analyze main results and start drafting the paper
-- **Weeks 5–7 (July 7+):** Explore secondary questions, refine insights, document insights with supporting graphics and plots
-- **Week 8 (July 28+):** Draft the blog post and prepare it for publishing
-- **Week 9 (August 4+):** Finalize the paper and prepare for publishing
 
 ## WTAO Filter Stats
 
