@@ -5,6 +5,7 @@ from pathlib import Path
 from serpapi import GoogleSearch
 
 SAMPLE_NAME = 'v1_50'
+N = 40
 
 API_KEY = 'c4edfdc899b4ebb4b7a1d0233cdb70d9dda264bd741978a5e1d2520d3d67c266'
 
@@ -12,7 +13,7 @@ SAMPLE_DIR = Path('samples') / SAMPLE_NAME
 QUERIES_FILE = SAMPLE_DIR / f'queries_{SAMPLE_NAME}.csv'
 LABELED_QUERIES_FILE = SAMPLE_DIR / f'queries_{SAMPLE_NAME}_labeled.csv'
 DATE_STR = datetime.now(timezone.utc).strftime('%Y%m%d')
-RESPONSE_DIR = SAMPLE_DIR / f'res_{DATE_STR}_n20'
+RESPONSE_DIR = SAMPLE_DIR / f'res_{DATE_STR}_n{N}'
 
 # Ensure output directory exists
 RESPONSE_DIR.mkdir(parents=True, exist_ok=True)
@@ -34,7 +35,7 @@ for _, row in df.iterrows():
         'api_key': API_KEY,
         'gl': 'us',
         'hl': 'en',
-        'num': 20
+        'num': N
     }
     search = GoogleSearch(params)
     results = search.get_dict()
