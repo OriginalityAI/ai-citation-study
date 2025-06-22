@@ -5,7 +5,7 @@ from pathlib import Path
 from serpapi import GoogleSearch
 
 SAMPLE_NAME = 'v1_50'
-N = 40
+N = 80
 
 API_KEY = 'c4edfdc899b4ebb4b7a1d0233cdb70d9dda264bd741978a5e1d2520d3d67c266'
 

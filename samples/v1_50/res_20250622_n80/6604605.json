@@ -1,0 +1,1594 @@
+{
+  "search_metadata": {
+    "id": "68584035018c48eb59e601d8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f6419eaab8b6ba82/68584035018c48eb59e601d8.json",
+    "created_at": "2025-06-22 17:41:09 UTC",
+    "processed_at": "2025-06-22 17:41:09 UTC",
+    "google_url": "https://www.google.com/search?q=how+many+times+do+the+hour+and+minute+hands+of+a+clock+overlap+in+a+24+hour+period%3F&oq=how+many+times+do+the+hour+and+minute+hands+of+a+clock+overlap+in+a+24+hour+period%3F&hl=en&gl=us&num=80&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/f6419eaab8b6ba82/68584035018c48eb59e601d8.html",
+    "total_time_taken": 1.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how many times do the hour and minute hands of a clock overlap in a 24 hour period?",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "80",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how many times do the hour and minute hands of a clock overlap in a 24 hour period?",
+    "total_results": 516000,
+    "time_taken_displayed": 0.77,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "questions_and_answers": [
+    {
+      "link": "https://www.reddit.com/r/explainlikeimfive/comments/1jrfu1/eli5_why_are_there_only_22_overlaps_of_the_clock/",
+      "source": "Reddit",
+      "question": "ELI5: Why are there only 22 overlaps of the clock hands in a day?",
+      "answer": "The hour hand moves as the minute hand moves. By the time the minute hand makes it around 12 times the hour hand has made one revolution, so the minute hand can't have lapped it 12 times, but 11. That happens twice a day, so: 22 times a day.",
+      "votes": 5
+    },
+    {
+      "link": "https://www.reddit.com/r/learnmath/comments/c7b8ul/how_many_times_do_clock_hands_pass_in_a_day/",
+      "source": "Reddit",
+      "question": "I'm not sure how to go about this, there are hour/minute/second hands, and the question is how many times each day do hands pass. I don't have any more information. so the seconds will pass both the hours and the minutes, and the minutes will pass the hours. There are going to be times when the minute hand is directly over the hour hand, so when the second hand passes over then is that two passes or one?",
+      "answer": "I'm going to guess that it's a lot simpler than you might be thinking - how many times can the minute hand cross the hour hand every hour?",
+      "votes": 4
+    },
+    {
+      "link": "https://www.quora.com/How-many-times-a-day-do-a-clock%E2%80%99s-hands-overlap-1",
+      "source": "Quora",
+      "question": "How many times a day do a clock’s hands overlap?",
+      "answer": "Check How many times a day do a clock’s hands overlap? [ https://www.quora.com/How-many-times-a-day-do-a-clock’s-hands-overlap-1 ] If that doesn’t explain well, check the below math I did to solve it : 1 day = 24 hours. Minute hand:- In 60 minutes covers 360 degree, so speed of minute hand is 6 degree per minute. Hour hand:- In 12 hours covers 360 degree, so speed of hour hand is 30 degree per hour or 1/2 degree per minute. Angular relative speed between minute and hour hand = 6–1/2 = 11/2 degree per minute. Let’s see when do minute hand and hour hand overlap, basically start with a reference of 12:00 AM, At this point both are at same position but will now move at different speed. They will overlap at the point when the relative speed between them covers the angular distance of 360 degree. So, time = angular distance/angular relative speed = 360/ (11/2) = 720/11 minutes. In every 720/11 minute, the two hands overlap. So, the number of times the two hands overlap will be equ…",
+      "votes": 250
+    }
+  ],
+  "inline_images": [
+    {
+      "source": "https://www.youtube.com/watch?v=ndrRYLYcq8o",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLrNFo7f0eGa3TT96LeoVwaOzYOjCutk6aGlxtQU4qvZTTB89jANNBJMc&s",
+      "original": "https://i.ytimg.com/vi/ndrRYLYcq8o/hqdefault.jpg",
+      "title": "How Many Times do a Clock's Hands Overlap During a 24 Hour Day - Puzzle  Tutorial",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://mindyourdecisions.com/blog/2024/08/18/interview-riddle-how-many-times-do-hands-of-a-clock-overlap-in-a-day/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0deR5U5eMYh5ngTVi6szzGyDSXwbJUO5XfI0vzHAZ-_890l-HrD6QQM&s",
+      "original": "https://mindyourdecisions.com/blog/wp-content/uploads/2024/07/clock-hand-overlap-solution-1.png",
+      "title": "Interview Riddle: How Many Times Do Hands Of A Clock Overlap ...",
+      "source_name": "Mind Your Decisions"
+    },
+    {
+      "source": "https://polypad.amplify.com/lesson/overlapping-hands-of-a-clock",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf5aSpHfVMmCMUOJ4MCF-obZIweYIzfmITIc28z54Eq7EjJ-HLBiN0R5k&s",
+      "original": "https://static.mathigon.org/cms/83ab76792837cd4e6efc04998d9dd08d.png",
+      "title": "Overlapping Hands of a Clock – Polypad",
+      "source_name": "Polypad - Amplify"
+    },
+    {
+      "source": "https://polypad.amplify.com/lesson/overlapping-hands-of-a-clock",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRftElgAt-TnN1r5lBL_h8DQdZS-jfh4TF7chLmf9ulHS7OPKsHeyilaq4&s",
+      "original": "https://static.mathigon.org/cms/346586d083142be5af7476b695314bf2.png",
+      "title": "Overlapping Hands of a Clock – Polypad",
+      "source_name": "Polypad - Amplify"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=IPoUtTXqx0s",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCY5mT6_XjICMGEd8wC2hUqmaYZUoyfIwwD4VHQMU88JCAAq0YgcJPSPI&s",
+      "original": "https://i.ytimg.com/vi/IPoUtTXqx0s/maxresdefault.jpg",
+      "title": "How Many Times Are A Clock's Hands Opposite During a 24 Hour Day - Step by  Step Tutorial - Puzzle",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://www.quora.com/How-many-times-all-3-clock-needle-meet-in-a-day",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6SesOqjrGpBEObLzdAq4gR9FQk8n1mg7wl_dI8M6MLlEVHMqvFDmXhfw&s",
+      "original": "https://qph.cf2.quoracdn.net/main-qimg-b56772aaf6787f79567b43ae68d6a626.webp",
+      "title": "How many times all 3 clock needle meet in a day? - Quora",
+      "source_name": "Quora"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=-HGUYW2-VlA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DtKKQi3_VuPIYAtqtW_5AwHU2PvpUpC6afvQD2F3rKTC6rRS_65je18&s",
+      "original": "https://i.ytimg.com/vi/-HGUYW2-VlA/maxresdefault.jpg",
+      "title": "How Many Times are the Clock's Hands at Right Angles During a 24 Hour Day -  Puzzle Tutorial",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://www.quora.com/How-many-times-in-a-24-hour-period-do-the-hour-and-second-hands-of-a-clock-point-in-the-same-direction",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jff4ZjNXAkFcZlubfCcy8VGx07lOLPedp6b4Gtvzj4wXRHvp07bDs0s&s",
+      "original": "https://qph.cf2.quoracdn.net/main-qimg-7e6d0fbb0f40b614c3d5114d9c0961d7",
+      "title": "How many times in a 24-hour period do the hour and second ...",
+      "source_name": "Quora"
+    },
+    {
+      "source": "https://polypad.amplify.com/lesson/overlapping-hands-of-a-clock",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQArVcSk9-V5BetAHuXX9uR3JXGmFEG0owdR9DYo00japrlSEX7uRMMSz0&s",
+      "original": "https://static.mathigon.org/cms/8fd2d5fe4d11808434feb6d7381560fb.png",
+      "title": "Clock 1",
+      "source_name": "Polypad - Amplify"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How many times do the hour and minute hand overlap in 24 hours?",
+      "snippet": "The two hands coincide at the times 12:00, 1:05, 2:11, 3:16 and so on. These coincide every 65 minutes, not 60 minutes. They coincide 11 times in 12 hours and hence coincide 22 times in 24 hours. Hence the hands coincide 22 times in a day.",
+      "title": "22 times",
+      "date": "Dec 28, 2019",
+      "link": "https://testbook.com/question-answer/how-many-times-do-the-hands-of-a-clock-coincide-in--5b62eb2b3e985b0c3db09224#:~:text=The%20two%20hands%20coincide%20at,22%20times%20in%20a%20day.",
+      "displayed_link": "https://testbook.com › ... › Clock and Calendar",
+      "source_logo": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/3138f8ba2f2be3b4ab63d40057b92ae8b70fc6321a4bb88c1c114b5585abb6a1.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFuaHhOM1pEWTJsek1FTnVka1J0YkU5WE5sVlRURWh3ZDFwNFppMDNVRUpzTFVwSVlXMU5UbXgzTVdOdFUzVnlMWGhtY0VoV1puWXlSakpVUVZaUVdsUXRXRWcwWlhsbmFITnRTM051YmxZemMzSjFNM0JyUVdGMWR4SVhUbFZDV1dGTGNYZFBTbEJGTlU5VlVHZHdZVFl0VVdzYUlrRkdUVUZIUjNGVVFuaHBhMTlRZFZneVR6WnBiM05YYWxWQlVIVkNXVWxVWm1jIiwiZmN2IjoiMyIsImVpIjoiTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWsiLCJxYyI6ImMtTUt5c2d2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZktCN0dLRl9EU0ZSSVhrblB6a2JJWDhzdFNpbk1RQ2hjdzhvSkNSQ1VSRFFXcFJabjZLQUVOdEZkOHRPd0EiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHRpbWVzIGRvIHRoZSBob3VyIGFuZCBtaW51dGUgaGFuZCBvdmVybGFwIGluIDI0IGhvdXJzPyIsImxrIjoiYzVPeXk4Z3ZWOGhOekt0VUtNbk1UUzFXU01sWEtNbElWY2pJTHkxU1NNeExVY2pOekNzdEFmSkI3UHl5MUtLY3hBS0Z6RHdGSXhPd2ttSUEiLCJicyI6ImMtTnFZLVN5OThndlY4aE56S3RVS01uTVRTMVdTTWxYS01sSVZjaklMeTFTU014TFVjak56Q3N0QWZKQjdQeXkxS0tjeEFLRnpEd0ZJeE93a21KN2lVbGhSZzVTZGhrVW1jS1Z3R1VRbnBGWVFsaDNNVXc3MEdKZkkwMHBkWWlPOG96VVBMeTJjVFV5Y2ptZ2VUV3pHR3dOVkRWSU1kZ0VzTGJpa3FMRXpQU01FbFNfTmxnYVdVbFpvUG1WYVAxYzJ4aTV3dEhkZ0pCV1NDeEtSZmdiYkFxR1o5SVVFaFdTY19LVHN4V0FnVlVFdGlBeEx6MG4xVjdpZjVaUmhGUllCbTdUaVRjWjZBeFUwd1VZQVEiLCJpZCI6ImZjX05VQllhS3F3T0pQRTVPVVBncGE2LVFrXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFuaHhOM1pEWTJsek1FTnVka1J0YkU5WE5sVlRURWh3ZDFwNFppMDNVRUpzTFVwSVlXMU5UbXgzTVdOdFUzVnlMWGhtY0VoV1puWXlSakpVUVZaUVdsUXRXRWcwWlhsbmFITnRTM051YmxZemMzSjFNM0JyUVdGMWR4SVhUbFZDV1dGTGNYZFBTbEJGTlU5VlVHZHdZVFl0VVdzYUlrRkdUVUZIUjNGVVFuaHBhMTlRZFZneVR6WnBiM05YYWxWQlVIVkNXVWxVWm1jIiwiZmN2IjoiMyIsImVpIjoiTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWsiLCJxYyI6ImMtTUt5c2d2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZktCN0dLRl9EU0ZSSVhrblB6a2JJWDhzdFNpbk1RQ2hjdzhvSkNSQ1VSRFFXcFJabjZLQUVOdEZkOHRPd0EiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHRpbWVzIGRvIHRoZSBob3VyIGFuZCBtaW51dGUgaGFuZCBvdmVybGFwIGluIDI0IGhvdXJzPyIsImxrIjoiYzVPeXk4Z3ZWOGhOekt0VUtNbk1UUzFXU01sWEtNbElWY2pJTHkxU1NNeExVY2pOekNzdEFmSkI3UHl5MUtLY3hBS0Z6RHdGSXhPd2ttSUEiLCJicyI6ImMtTnFZLVN5OThndlY4aE56S3RVS01uTVRTMVdTTWxYS01sSVZjaklMeTFTU014TFVjak56Q3N0QWZKQjdQeXkxS0tjeEFLRnpEd0ZJeE93a21KN2lVbGhSZzVTZGhrVW1jS1Z3R1VRbnBGWVFsaDNNVXc3MEdKZkkwMHBkWWlPOG96VVBMeTJjVFV5Y2ptZ2VUV3pHR3dOVkRWSU1kZ0VzTGJpa3FMRXpQU01FbFNfTmxnYVdVbFpvUG1WYVAxYzJ4aTV3dEhkZ0pCV1NDeEtSZmdiYkFxR1o5SVVFaFdTY19LVHN4V0FnVlVFdGlBeEx6MG4xVjdpZjVaUmhGUllCbTdUaVRjWjZBeFUwd1VZQVEiLCJpZCI6ImZjX05VQllhS3F3T0pQRTVPVVBncGE2LVFrXzEifQ%3D%3D"
+    },
+    {
+      "question": "What times do the hour and minute hands overlap?",
+      "snippet": "That shows that the only time when this happens is after an integer multiple of 12 hours, that is, at 12 o'clock. All the places where the hour and minute hands align (angle difference being a multiple of 360°) are different from all the places the hour and the second hands align (other than 12:00).",
+      "title": "Aligned Clock Hands - DataGenetics",
+      "link": "http://datagenetics.com/blog/november12016/index.html#:~:text=That%20shows%20that%20the%20only,other%20than%2012%3A00).",
+      "displayed_link": "http://datagenetics.com › blog › november12016",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4EOd2qhF4TnSqH-pXwpx3p8YJLUGqTlBIPHJLsuSn5w&s",
+      "source_logo": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/3138f8ba2f2be3b4ab63d40057b92ae89c1ebe93e9cc12c3844c1d759774318d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFuaHhOM1pEWTJsek1FTnVka1J0YkU5WE5sVlRURWh3ZDFwNFppMDNVRUpzTFVwSVlXMU5UbXgzTVdOdFUzVnlMWGhtY0VoV1puWXlSakpVUVZaUVdsUXRXRWcwWlhsbmFITnRTM051YmxZemMzSjFNM0JyUVdGMWR4SVhUbFZDV1dGTGNYZFBTbEJGTlU5VlVHZHdZVFl0VVdzYUlrRkdUVUZIUjNGVVFuaHBhMTlRZFZneVR6WnBiM05YYWxWQlVIVkNXVWxVWm1jIiwiZmN2IjoiMyIsImVpIjoiTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWsiLCJxYyI6ImMtTUt5c2d2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZktCN0dLRl9EU0ZSSVhrblB6a2JJWDhzdFNpbk1RQ2hjdzhvSkNSQ1VSRFFXcFJabjZLQUVOdEZkOHRPd0EiLCJxdWVzdGlvbiI6IldoYXQgdGltZXMgZG8gdGhlIGhvdXIgYW5kIG1pbnV0ZSBoYW5kcyBvdmVybGFwPyIsImxrIjoiYzVOU0w4bk1UUzFXS005SXpWUEl5Qzh0VWtqTVMxSEl6Y3dyTFVsVnlBQ3g4OHRTaTNJU0N3QSIsImJzIjoiYy1OcVktU3k5OGd2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZkpCN1B5eTFLS2N4QUtGekR3Rkl4T3drbUo3aVVsaFJnNVNkaGtVbWNLVndHVVFucEZZUWxoM01VdzcwR0pmSTAwcGRZaU84b3pVUEx5MmNUVXljam1nZVRXekdHd05WRFZJTWRnRXNMYmlrcUxFelBTTUVsU19ObGdhV1VsWm9QbVZhUDFjMnhpNXd0SGRnSkJXU0N4S1JmZ2JiQXFHWjlJVUVoV1NjX0tUc3hXQWdWVUV0aUF4THowbjFWN2lmNVpSaEZSWUJtN1RpVGNaNkF4VTB3VVlBUSIsImlkIjoiZmNfTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFuaHhOM1pEWTJsek1FTnVka1J0YkU5WE5sVlRURWh3ZDFwNFppMDNVRUpzTFVwSVlXMU5UbXgzTVdOdFUzVnlMWGhtY0VoV1puWXlSakpVUVZaUVdsUXRXRWcwWlhsbmFITnRTM051YmxZemMzSjFNM0JyUVdGMWR4SVhUbFZDV1dGTGNYZFBTbEJGTlU5VlVHZHdZVFl0VVdzYUlrRkdUVUZIUjNGVVFuaHBhMTlRZFZneVR6WnBiM05YYWxWQlVIVkNXVWxVWm1jIiwiZmN2IjoiMyIsImVpIjoiTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWsiLCJxYyI6ImMtTUt5c2d2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZktCN0dLRl9EU0ZSSVhrblB6a2JJWDhzdFNpbk1RQ2hjdzhvSkNSQ1VSRFFXcFJabjZLQUVOdEZkOHRPd0EiLCJxdWVzdGlvbiI6IldoYXQgdGltZXMgZG8gdGhlIGhvdXIgYW5kIG1pbnV0ZSBoYW5kcyBvdmVybGFwPyIsImxrIjoiYzVOU0w4bk1UUzFXS005SXpWUEl5Qzh0VWtqTVMxSEl6Y3dyTFVsVnlBQ3g4OHRTaTNJU0N3QSIsImJzIjoiYy1OcVktU3k5OGd2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZkpCN1B5eTFLS2N4QUtGekR3Rkl4T3drbUo3aVVsaFJnNVNkaGtVbWNLVndHVVFucEZZUWxoM01VdzcwR0pmSTAwcGRZaU84b3pVUEx5MmNUVXljam1nZVRXekdHd05WRFZJTWRnRXNMYmlrcUxFelBTTUVsU19ObGdhV1VsWm9QbVZhUDFjMnhpNXd0SGRnSkJXU0N4S1JmZ2JiQXFHWjlJVUVoV1NjX0tUc3hXQWdWVUV0aUF4THowbjFWN2lmNVpSaEZSWUJtN1RpVGNaNkF4VTB3VVlBUSIsImlkIjoiZmNfTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWtfMSJ9"
+    },
+    {
+      "question": "How many times is the minute and hour hand straight in 24 hours?",
+      "snippet": "How many times in a day, the hands of a clock are straight? Solution: The hands of clocks make a straight line of 180° about 22 times in 24 hours.",
+      "title": "22 times",
+      "link": "https://byjus.com/govt-exams/clocks-logical-reasoning/#:~:text=How%20many%20times%20in%20a%20day%2C%20the,of%20a%20clock%20are%20straight%3F&text=48-,Solution%3A,22%20times%20in%2024%20hours.",
+      "displayed_link": "https://byjus.com › govt-exams › clocks-logical-reasoning",
+      "source_logo": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/3138f8ba2f2be3b4ab63d40057b92ae8ddc7abbf9f3a6cbb9f5dcf38fab47863.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFuaHhOM1pEWTJsek1FTnVka1J0YkU5WE5sVlRURWh3ZDFwNFppMDNVRUpzTFVwSVlXMU5UbXgzTVdOdFUzVnlMWGhtY0VoV1puWXlSakpVUVZaUVdsUXRXRWcwWlhsbmFITnRTM051YmxZemMzSjFNM0JyUVdGMWR4SVhUbFZDV1dGTGNYZFBTbEJGTlU5VlVHZHdZVFl0VVdzYUlrRkdUVUZIUjNGVVFuaHBhMTlRZFZneVR6WnBiM05YYWxWQlVIVkNXVWxVWm1jIiwiZmN2IjoiMyIsImVpIjoiTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWsiLCJxYyI6ImMtTUt5c2d2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZktCN0dLRl9EU0ZSSVhrblB6a2JJWDhzdFNpbk1RQ2hjdzhvSkNSQ1VSRFFXcFJabjZLQUVOdEZkOHRPd0EiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHRpbWVzIGlzIHRoZSBtaW51dGUgYW5kIGhvdXIgaGFuZCBzdHJhaWdodCBpbiAyNCBob3Vycz8iLCJsayI6ImM1T3l5TWd2VjhoTnpLdFVLTW5NVFMxV3lNM01LeTFKVlVqTVMxSEl5Qzh0VXNnQXNZcExpaEl6MHpOS0ZETHpGSXhNd0JMRkFBIiwiYnMiOiJjLU5xWS1TeTk4Z3ZWOGhOekt0VUtNbk1UUzFXU01sWEtNbElWY2pJTHkxU1NNeExVY2pOekNzdEFmSkI3UHl5MUtLY3hBS0Z6RHdGSXhPd2ttSjdpVWxoUmc1U2Roa1VtY0tWd0dVUW5wRllRbGgzTVV3NzBHSmZJMDBwZFlpTzhvelVQTHkyY1RVeWNqbWdlVFd6R0d3TlZEVklNZGdFc0xiaWtxTEV6UFNNRWxTX05sZ2FXVWxab1BtVmFQMWMyeGk1d3RIZGdKQldTQ3hLUmZnYmJBcUdaOUlVRWhXU2NfS1RzeFdBZ1ZVRXRpQXhMejBuMVY3aWY1WlJoRlJZQm03VGlUY1o2QXhVMHdVWUFRIiwiaWQiOiJmY19OVUJZYUtxd09KUEU1T1VQZ3BhNi1Ra18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFuaHhOM1pEWTJsek1FTnVka1J0YkU5WE5sVlRURWh3ZDFwNFppMDNVRUpzTFVwSVlXMU5UbXgzTVdOdFUzVnlMWGhtY0VoV1puWXlSakpVUVZaUVdsUXRXRWcwWlhsbmFITnRTM051YmxZemMzSjFNM0JyUVdGMWR4SVhUbFZDV1dGTGNYZFBTbEJGTlU5VlVHZHdZVFl0VVdzYUlrRkdUVUZIUjNGVVFuaHBhMTlRZFZneVR6WnBiM05YYWxWQlVIVkNXVWxVWm1jIiwiZmN2IjoiMyIsImVpIjoiTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWsiLCJxYyI6ImMtTUt5c2d2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZktCN0dLRl9EU0ZSSVhrblB6a2JJWDhzdFNpbk1RQ2hjdzhvSkNSQ1VSRFFXcFJabjZLQUVOdEZkOHRPd0EiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHRpbWVzIGlzIHRoZSBtaW51dGUgYW5kIGhvdXIgaGFuZCBzdHJhaWdodCBpbiAyNCBob3Vycz8iLCJsayI6ImM1T3l5TWd2VjhoTnpLdFVLTW5NVFMxV3lNM01LeTFKVlVqTVMxSEl5Qzh0VXNnQXNZcExpaEl6MHpOS0ZETHpGSXhNd0JMRkFBIiwiYnMiOiJjLU5xWS1TeTk4Z3ZWOGhOekt0VUtNbk1UUzFXU01sWEtNbElWY2pJTHkxU1NNeExVY2pOekNzdEFmSkI3UHl5MUtLY3hBS0Z6RHdGSXhPd2ttSjdpVWxoUmc1U2Roa1VtY0tWd0dVUW5wRllRbGgzTVV3NzBHSmZJMDBwZFlpTzhvelVQTHkyY1RVeWNqbWdlVFd6R0d3TlZEVklNZGdFc0xiaWtxTEV6UFNNRWxTX05sZ2FXVWxab1BtVmFQMWMyeGk1d3RIZGdKQldTQ3hLUmZnYmJBcUdaOUlVRWhXU2NfS1RzeFdBZ1ZVRXRpQXhMejBuMVY3aWY1WlJoRlJZQm03VGlUY1o2QXhVMHdVWUFRIiwiaWQiOiJmY19OVUJZYUtxd09KUEU1T1VQZ3BhNi1Ra18xIn0%3D"
+    },
+    {
+      "question": "How many times in 24 hours are the hour hand and minute hand of a clock at right angle?",
+      "snippet": "Thus, the two hands form a right angle after every 360/11 minutes. Total number of minutes in a day = 24 × 60 = 1440 minutes. Hence, the two hands will form right angle \"44 times\" in a day.",
+      "title": "[Solved] How many times the hands of a clock are at right angles to r",
+      "date": "Mar 7, 2025",
+      "link": "https://testbook.com/question-answer/how-many-times-the-hands-of-a-clock-are-at-right-a--6113ef3b48159710f114bda1#:~:text=Thus%2C%20the%20two%20hands%20form,24%20%C3%97%2060%20%3D%201440%20minutes.&text=Hence%2C%20the%20two%20hands%20will,44%20times%22%20in%20a%20day.",
+      "displayed_link": "https://testbook.com › question-answer › how-many-time...",
+      "source_logo": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/3138f8ba2f2be3b4ab63d40057b92ae8feb3b709e168166882cd5b79d80c2998.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFuaHhOM1pEWTJsek1FTnVka1J0YkU5WE5sVlRURWh3ZDFwNFppMDNVRUpzTFVwSVlXMU5UbXgzTVdOdFUzVnlMWGhtY0VoV1puWXlSakpVUVZaUVdsUXRXRWcwWlhsbmFITnRTM051YmxZemMzSjFNM0JyUVdGMWR4SVhUbFZDV1dGTGNYZFBTbEJGTlU5VlVHZHdZVFl0VVdzYUlrRkdUVUZIUjNGVVFuaHBhMTlRZFZneVR6WnBiM05YYWxWQlVIVkNXVWxVWm1jIiwiZmN2IjoiMyIsImVpIjoiTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWsiLCJxYyI6ImMtTUt5c2d2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZktCN0dLRl9EU0ZSSVhrblB6a2JJWDhzdFNpbk1RQ2hjdzhvSkNSQ1VSRFFXcFJabjZLQUVOdEZkOHRPd0EiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHRpbWVzIGluIDI0IGhvdXJzIGFyZSB0aGUgaG91ciBoYW5kIGFuZCBtaW51dGUgaGFuZCBvZiBhIGNsb2NrIGF0IHJpZ2h0IGFuZ2xlPyIsImxrIjoiY3lXS1N3cUFNQXdGNy1IcW5VRThpX3RRWXhOc0UyaFR4TnY3V3d6TXdFeXItSWxLZGlHMGNvY2E1Z1hpbzNXRThHY1FzZzB2VlcwRV8tMDdDS2w0T2tDTlFZR21XZUw1Y3VFYiIsImJzIjoiYy1OcVktU3k5OGd2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZkpCN1B5eTFLS2N4QUtGekR3Rkl4T3drbUo3aVVsaFJnNVNkaGtVbWNLVndHVVFucEZZUWxoM01VdzcwR0pmSTAwcGRZaU84b3pVUEx5MmNUVXljam1nZVRXekdHd05WRFZJTWRnRXNMYmlrcUxFelBTTUVsU19ObGdhV1VsWm9QbVZhUDFjMnhpNXd0SGRnSkJXU0N4S1JmZ2JiQXFHWjlJVUVoV1NjX0tUc3hXQWdWVUV0aUF4THowbjFWN2lmNVpSaEZSWUJtN1RpVGNaNkF4VTB3VVlBUSIsImlkIjoiZmNfTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFuaHhOM1pEWTJsek1FTnVka1J0YkU5WE5sVlRURWh3ZDFwNFppMDNVRUpzTFVwSVlXMU5UbXgzTVdOdFUzVnlMWGhtY0VoV1puWXlSakpVUVZaUVdsUXRXRWcwWlhsbmFITnRTM051YmxZemMzSjFNM0JyUVdGMWR4SVhUbFZDV1dGTGNYZFBTbEJGTlU5VlVHZHdZVFl0VVdzYUlrRkdUVUZIUjNGVVFuaHBhMTlRZFZneVR6WnBiM05YYWxWQlVIVkNXVWxVWm1jIiwiZmN2IjoiMyIsImVpIjoiTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWsiLCJxYyI6ImMtTUt5c2d2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZktCN0dLRl9EU0ZSSVhrblB6a2JJWDhzdFNpbk1RQ2hjdzhvSkNSQ1VSRFFXcFJabjZLQUVOdEZkOHRPd0EiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHRpbWVzIGluIDI0IGhvdXJzIGFyZSB0aGUgaG91ciBoYW5kIGFuZCBtaW51dGUgaGFuZCBvZiBhIGNsb2NrIGF0IHJpZ2h0IGFuZ2xlPyIsImxrIjoiY3lXS1N3cUFNQXdGNy1IcW5VRThpX3RRWXhOc0UyaFR4TnY3V3d6TXdFeXItSWxLZGlHMGNvY2E1Z1hpbzNXRThHY1FzZzB2VlcwRV8tMDdDS2w0T2tDTlFZR21XZUw1Y3VFYiIsImJzIjoiYy1OcVktU3k5OGd2VjhoTnpLdFVLTW5NVFMxV1NNbFhLTWxJVmNqSUx5MVNTTXhMVWNqTnpDc3RBZkpCN1B5eTFLS2N4QUtGekR3Rkl4T3drbUo3aVVsaFJnNVNkaGtVbWNLVndHVVFucEZZUWxoM01VdzcwR0pmSTAwcGRZaU84b3pVUEx5MmNUVXljam1nZVRXekdHd05WRFZJTWRnRXNMYmlrcUxFelBTTUVsU19ObGdhV1VsWm9QbVZhUDFjMnhpNXd0SGRnSkJXU0N4S1JmZ2JiQXFHWjlJVUVoV1NjX0tUc3hXQWdWVUV0aUF4THowbjFWN2lmNVpSaEZSWUJtN1RpVGNaNkF4VTB3VVlBUSIsImlkIjoiZmNfTlVCWWFLcXdPSlBFNU9VUGdwYTYtUWtfMSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "U3phPXicvZTbcqJIGIBv90XWGyaKSDRJFTXVNB1FMaQ9JHFuLARskUMriKB38y5b-1D7NNs2SuEkmd2t3Vqo6tPf_6H__vr__lvgRf4fv_y-2u02yUOjkWVZnVBKArdu07BhJYfIbixpkMT26usqUNyoRgIlTWqHvdKq2Yki1lxPeZqqM2uwzcz-M7o1p89kY7VvsF_j6sp8YSXumlnP10lj3mCN_2tLY5N6Unejei5LWtxrhU2J1CWxeVc3G1bINoB_88Ef5jpvpwgAVK6xEflYW2UCzORXVspJl8kAwCoEFBAVV_dozNF5HwEjBOZzuweyqsfCPOhXDcusMR6BCjN4uA6kEh-8WoQ_RI7fTfSKw48-tml2iYoFZMgXGwQMT513amyA81JDZ1NVfpb7EH6UOKRDOANt_y3_NK06mozz5kmKGw5hdyw2FjHrmo04Od04nNyLtDtZr27RaNK2m6PX5jPYdpDfzZ5GS3mRfeEs2UkJU1KFaZ7eod5hsWyvad2oq82SJPXkfXxOxqw4CwYvP80POgthJY2XHrLREJI1T7IKRAZDCYIJtK6Jt2wzrNiCF3UWSsb9sxWCiqAYST6XcPDYNsbeCX8P86SxnwtngFAmJefLACAFDngtbM54y-nRGElAh1lxagxReRu4OACPBWJgsAMwJxQYmmjjInzClEjxWPgtDpjlGVdhL0IHGkFTAHqcaJWdSueGOExFnlYnr-kZXNLn_roMKHhFElfIwF99058J8QfoPLrrlxZeGBNzI3Ws-zgHA9OMepb3TMkZHRou_kEhsv9nuHS-NkVD6JdwoU_huipTF7jgBa4uD-pUppKiTFXh0i9wrfQRUlmZWoKshAuVcPWrcJVlSmZl6gou_qL_Dly4Chcu4UKfw1WUqRIuQ07xBS5epsJ3cP3HZYoz5hbddc1K1-Rd7dIP-xESD87e1J38Cbabuey7Dny9H-Ev82W4e9jEJxQ950GV-ruDU9sqK5oJoRUdhJ0XuongUGG3coUVTWPBihwh9KJ0x-ZsnAh0KViCHVDbF-jejQNrI3gRW5LkQmHjxh51vtbCIKaKaMnDMepv5alHb9azjQlfXvup2tzurJv0LQhaRpDox8OtOHEfjdZS9GaZ1lOnsvtN3d7JRz83eoOZKrXjAN4NaOdb5KaG-ziBb_g4fJWMbRof37SbYaatHoP46EyicfaElrHp2Lf7_vH41PFjaY2mjkbG3niOFhTzuBJFupvmc9skc9-uhbGtsNuVfTCsJbY1d5O9InWkti0uxPtWS3QWLbcWkt1hozSlPwF7P4lw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=U3phPXicvZTbcqJIGIBv90XWGyaKSDRJFTXVNB1FMaQ9JHFuLARskUMriKB38y5b-1D7NNs2SuEkmd2t3Vqo6tPf_6H__vr__lvgRf4fv_y-2u02yUOjkWVZnVBKArdu07BhJYfIbixpkMT26usqUNyoRgIlTWqHvdKq2Yki1lxPeZqqM2uwzcz-M7o1p89kY7VvsF_j6sp8YSXumlnP10lj3mCN_2tLY5N6Unejei5LWtxrhU2J1CWxeVc3G1bINoB_88Ef5jpvpwgAVK6xEflYW2UCzORXVspJl8kAwCoEFBAVV_dozNF5HwEjBOZzuweyqsfCPOhXDcusMR6BCjN4uA6kEh-8WoQ_RI7fTfSKw48-tml2iYoFZMgXGwQMT513amyA81JDZ1NVfpb7EH6UOKRDOANt_y3_NK06mozz5kmKGw5hdyw2FjHrmo04Od04nNyLtDtZr27RaNK2m6PX5jPYdpDfzZ5GS3mRfeEs2UkJU1KFaZ7eod5hsWyvad2oq82SJPXkfXxOxqw4CwYvP80POgthJY2XHrLREJI1T7IKRAZDCYIJtK6Jt2wzrNiCF3UWSsb9sxWCiqAYST6XcPDYNsbeCX8P86SxnwtngFAmJefLACAFDngtbM54y-nRGElAh1lxagxReRu4OACPBWJgsAMwJxQYmmjjInzClEjxWPgtDpjlGVdhL0IHGkFTAHqcaJWdSueGOExFnlYnr-kZXNLn_roMKHhFElfIwF99058J8QfoPLrrlxZeGBNzI3Ws-zgHA9OMepb3TMkZHRou_kEhsv9nuHS-NkVD6JdwoU_huipTF7jgBa4uD-pUppKiTFXh0i9wrfQRUlmZWoKshAuVcPWrcJVlSmZl6gou_qL_Dly4Chcu4UKfw1WUqRIuQ07xBS5epsJ3cP3HZYoz5hbddc1K1-Rd7dIP-xESD87e1J38Cbabuey7Dny9H-Ev82W4e9jEJxQ950GV-ruDU9sqK5oJoRUdhJ0XuongUGG3coUVTWPBihwh9KJ0x-ZsnAh0KViCHVDbF-jejQNrI3gRW5LkQmHjxh51vtbCIKaKaMnDMepv5alHb9azjQlfXvup2tzurJv0LQhaRpDox8OtOHEfjdZS9GaZ1lOnsvtN3d7JRz83eoOZKrXjAN4NaOdb5KaG-ziBb_g4fJWMbRof37SbYaatHoP46EyicfaElrHp2Lf7_vH41PFjaY2mjkbG3niOFhTzuBJFupvmc9skc9-uhbGtsNuVfTCsJbY1d5O9InWkti0uxPtWS3QWLbcWkt1hozSlPwF7P4lw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How often do clock hands overlap in a 24-hour period? ...",
+      "link": "https://www.reddit.com/r/math/comments/5dbqoh/how_often_do_clock_hands_overlap_in_a_24hour/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/math/comments/5dbqoh/how_often_do_clock_hands_overlap_in_a_24hour/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECB8QAQ",
+      "displayed_link": "50+ comments · 8 years ago",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3766c179c208386820845d77d52888a2e7.png",
+      "snippet": "Short proof: In 24 hours, the hour hand goes around twice, and the minute hand goes around 24 times in the same direction. Therefore the minute ...",
+      "snippet_highlighted_words": [
+        "24 hours",
+        "hour hand",
+        "minute hand",
+        "times",
+        "minute"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Why are there only 22 overlaps of the clock hands in a day?",
+            "link": "https://www.reddit.com/r/explainlikeimfive/comments/1jrfu1/eli5_why_are_there_only_22_overlaps_of_the_clock/",
+            "answer_count": 6,
+            "date": "Aug 5, 2013"
+          },
+          {
+            "title": "how many times do clock hands pass in a day - Reddit",
+            "link": "https://www.reddit.com/r/learnmath/comments/c7b8ul/how_many_times_do_clock_hands_pass_in_a_day/",
+            "answer_count": 12,
+            "date": "Jun 30, 2019"
+          }
+        ]
+      },
+      "source": "Reddit · r/math"
+    },
+    {
+      "position": 2,
+      "title": "How to solve Google's clock hands interview riddle",
+      "link": "https://www.youtube.com/watch?v=g_ulAemUyNs",
+      "displayed_link": "904K+ views · 10 months ago",
+      "thumbnail": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37eb1d15b66b6f4247fda052f30ae1131f.jpeg",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e375fbc6c9890eaf064b108615e931e3c3a.png",
+      "snippet": "This is a simple interview riddle that has been asked at tech companies like Amazon, Microsoft, and Google and even at investment banks like ...",
+      "duration": "15:33",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "problem",
+          "link": "https://www.youtube.com/watch?v=g_ulAemUyNs&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqJFMLEcSBKr8Sda0Hpsf8JA8g5VPJlPS3142OCERLJg&s"
+        },
+        {
+          "time": "03:03",
+          "title": "answer",
+          "link": "https://www.youtube.com/watch?v=g_ulAemUyNs&t=183",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZO_0KusSZMEHNkc9W2kPfGLpeeDQY6L109Nd_z5ggA&s"
+        },
+        {
+          "time": "06:02",
+          "title": "solution 1",
+          "link": "https://www.youtube.com/watch?v=g_ulAemUyNs&t=362",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeUxZ5TCiQUucMhRTgXiE6S1M8wHxSdcgW2OJasXwNA&s"
+        },
+        {
+          "time": "07:46",
+          "title": "solution 2",
+          "link": "https://www.youtube.com/watch?v=g_ulAemUyNs&t=466",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwG4oG66s96Al0mX9xG_YNAZBeqEBNH5xtHLA1cKZWYw&s"
+        },
+        {
+          "time": "10:10",
+          "title": "solution 3",
+          "link": "https://www.youtube.com/watch?v=g_ulAemUyNs&t=610",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCcmC4KegFCIeMMKcpi7Nl0HY4I8aohzSa6kvvd4foQQ&s"
+        },
+        {
+          "time": "12:45",
+          "title": "solution 4",
+          "link": "https://www.youtube.com/watch?v=g_ulAemUyNs&t=765",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryvQyj4JyjtmqA9gZLO0gRnZUyR0IAgxeLh6V0_U7RA&s"
+        }
+      ],
+      "source": "YouTube · MindYourDecisions"
+    },
+    {
+      "position": 3,
+      "title": "How Many Times Do Hands Of A Clock Overlap In A Day?",
+      "link": "https://mindyourdecisions.com/blog/2024/08/18/interview-riddle-how-many-times-do-hands-of-a-clock-overlap-in-a-day/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mindyourdecisions.com/blog/2024/08/18/interview-riddle-how-many-times-do-hands-of-a-clock-overlap-in-a-day/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECFYQAQ",
+      "displayed_link": "https://mindyourdecisions.com › blog › 2024/08/18 › i...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37b42a79b7ca50bb06b6d95c3db09cf92c.jpeg",
+      "date": "Aug 18, 2024",
+      "snippet": "The hands overlap when the graphs intersect. There are 11 intersections in 12 hours, which leads to 22 overlaps per 24 hours of a day.",
+      "snippet_highlighted_words": [
+        "22 overlaps per 24 hours of a day"
+      ],
+      "source": "Mind Your Decisions"
+    },
+    {
+      "position": 4,
+      "title": "When do clock hands overlap? - Numberphile",
+      "link": "https://www.youtube.com/watch?v=HcqdqsQq-6M",
+      "displayed_link": "654.4K+ views · 7 years ago",
+      "thumbnail": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e378d5eb2d4e1e91be9bc4b5371a4971fda.jpeg",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37e65ff17bad7b5a19f644f65a5d282b0c.png",
+      "snippet": "How often do a clock's minute and hour hands cross? Featuring Cliff Stoll.",
+      "duration": "3:32",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSy_8IvWxn75D2eDMRxCLHEVLfpIAt4M-qYHg",
+      "source": "YouTube · Numberphile"
+    },
+    {
+      "position": 5,
+      "title": "Times Clock Hands Overlap? | Interview Questions",
+      "link": "https://www.livecareer.com/resources/interviews/questions/how-many-times-do-a-clocks-hands-overlap-in-a-day",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.livecareer.com/resources/interviews/questions/how-many-times-do-a-clocks-hands-overlap-in-a-day&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECGkQAQ",
+      "displayed_link": "https://www.livecareer.com › ... › Interview Questions",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37414156e3fcfd894d676389d534b28d3c.png",
+      "snippet": "They're not exact, but the hands would also overlap near 1:05, 2:10, 3:15, 4:20, 5:25, 6:30, 7:35, 8:40, 9:45, 10:50 and 11:55 twice each day. Actually, you ...",
+      "snippet_highlighted_words": [
+        "hands",
+        "overlap"
+      ],
+      "source": "LiveCareer"
+    },
+    {
+      "position": 6,
+      "title": "How many times a day do the hands of a clock overlap?",
+      "link": "https://charlie-paris.com/en/blogs/magazine/aiguilles-montre-chevauchent",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://charlie-paris.com/en/blogs/magazine/aiguilles-montre-chevauchent&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCIcBEAE",
+      "displayed_link": "https://charlie-paris.com › Magazine",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37ecab949ad7fa8f205983a1162ba070c7.png",
+      "snippet": "The hands therefore overlap 22 times a day. This number corresponds to the coincidence of the watch hands twice a day.",
+      "snippet_highlighted_words": [
+        "22 times a day"
+      ],
+      "source": "CHARLIE - Paris"
+    },
+    {
+      "position": 7,
+      "title": "How many times a day do a clock's hands overlap?",
+      "link": "https://www.quora.com/How-many-times-a-day-do-a-clock%E2%80%99s-hands-overlap-1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/How-many-times-a-day-do-a-clock%25E2%2580%2599s-hands-overlap-1&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCNMBEAE",
+      "displayed_link": "80+ answers · 15 years ago",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e372427e61546078bcd55f2852a4b9e3e9a.png",
+      "snippet": "However, the hour hand goes around twice in a 24h period so the minute hand passes the hour hand 22 times (and thus overlaps 22 times).",
+      "snippet_highlighted_words": [
+        "hour hand",
+        "24h period",
+        "minute hand",
+        "hour hand",
+        "times",
+        "times"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How many times do a clock's minute, hour and seconds ...",
+            "link": "https://www.quora.com/How-many-times-do-a-clocks-minute-hour-and-seconds-hands-overlap-in-a-24-hour-day",
+            "answer_count": 8,
+            "date": "Mar 8, 2019"
+          },
+          {
+            "title": "How many times in a day do the two hands on a clock ...",
+            "link": "https://www.quora.com/How-many-times-in-a-day-do-the-two-hands-on-a-clock-coincide",
+            "answer_count": 2,
+            "date": "Feb 27, 2022"
+          }
+        ]
+      },
+      "source": "Quora"
+    },
+    {
+      "position": 8,
+      "title": "How Many Times do a Clock's Hands Overlap During a 24 ...",
+      "link": "https://www.youtube.com/watch?v=ndrRYLYcq8o",
+      "displayed_link": "46.7K+ views · 7 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFsInG7eqzGT0JMjQRVc06avOjq3xlwCIkVMFVNzeYSCwq&s",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e378aee3fd23d8d83fd0dc9ce4a7bf8a1a9.png",
+      "snippet": "There's only 22 times that the hands on a clock are aligned or line up in a 24 hour day.",
+      "duration": "4:17",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTLPxtYQwoMjdSROA2dHmE7PbyOfr0sY2EOTw",
+      "source": "YouTube · How to... Solve Puzzles"
+    },
+    {
+      "position": 9,
+      "title": "Overlapping Hands of a Clock - Polypad - Amplify",
+      "link": "https://polypad.amplify.com/lesson/overlapping-hands-of-a-clock",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://polypad.amplify.com/lesson/overlapping-hands-of-a-clock&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECDgQAQ",
+      "displayed_link": "https://polypad.amplify.com › lesson › overlapping-han...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37756ba6a28bcdc2f6445b2da66fe2ca0c.png",
+      "snippet": "In 12 hours, there are 11 times they can observe a straight angle. · After 6 a.m, almost every 65 minutes, they see a straight angle.",
+      "snippet_highlighted_words": [
+        "hours",
+        "times",
+        "minutes"
+      ],
+      "source": "Polypad"
+    },
+    {
+      "position": 10,
+      "title": "How many times do a clock's hands overlap in a day?",
+      "link": "https://learn.rumie.org/jR/bytes/how-to-answer-how-many-times-do-a-clock-s-hands-overlap-in-a-day/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.rumie.org/jR/bytes/how-to-answer-how-many-times-do-a-clock-s-hands-overlap-in-a-day/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECGoQAQ",
+      "displayed_link": "https://learn.rumie.org › ... › Job Hunting › Interviewing",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37100bfd69271400d203dc619dcd7f8543.png",
+      "snippet": "Many people want to say 24! BUT the actual answer is 22. Clock hands overlap at: 12:00, 1:05, 2:10, 3:15, 4:20, 5:25, 6:30, 7:35, 8:40, 9:45, and 10:50 TWICE A ...",
+      "source": "Rumie"
+    },
+    {
+      "position": 11,
+      "title": "How Many Times Do a Clock's Hands Overlap in A Day?",
+      "link": "https://www.resourcequeue.com/blog/how-many-times-clocks-hands-overlap-daily",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.resourcequeue.com/blog/how-many-times-clocks-hands-overlap-daily&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCIYBEAE",
+      "displayed_link": "https://www.resourcequeue.com › blog › how-many-ti...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e373fee9e426ffbec3596ab3e886a6f799b.png",
+      "date": "Jun 22, 2024",
+      "snippet": "The hands line up or face opposite directions 22 times in a 12-hour period. Forty-four times a day, the hands will line up or cross throughout a 24-hour period.",
+      "snippet_highlighted_words": [
+        "Forty-four times a day"
+      ],
+      "source": "ResourceQueue"
+    },
+    {
+      "position": 12,
+      "title": "Answer to Puzzle #35: When the Hands of a Clock First Overlap",
+      "link": "https://puzzles.nigelcoldwell.co.uk/thirtyfive.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://puzzles.nigelcoldwell.co.uk/thirtyfive.htm&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCKABEAE",
+      "displayed_link": "https://puzzles.nigelcoldwell.co.uk › thirtyfive",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3755b2921edfaddb1818d0dc9720fc4165.png",
+      "snippet": "The hour and minute hands of a regular clock will overlap 22 times a day. The hands overlap exactly at 12:00 AM and 12:00 PM. They also overlap approximately ...",
+      "snippet_highlighted_words": [
+        "22 times a day"
+      ],
+      "source": "A Collection of Quant Riddles With Answers"
+    },
+    {
+      "position": 13,
+      "title": "How many times do a clock's hour, minute, and second ...",
+      "link": "https://brainly.com/question/37369640",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/37369640&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCL4BEAE",
+      "displayed_link": "https://brainly.com › English › High School",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37516d87e03f5395a22dc7ffc6a1b03745.png",
+      "date": "Sep 11, 2023",
+      "snippet": "In a 24-hour period, a clock's hour, minute, and second hands overlap 22 times. They overlap once every hour, with an exception at the ...",
+      "snippet_highlighted_words": [
+        "22 times"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 14,
+      "title": "How Many Times Does a Clock's Hands Overlap in a 24 Hour ...",
+      "link": "https://www.youtube.com/watch?v=yEOW94Er8H8",
+      "displayed_link": "980+ views · 5 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF82maK9aTmADGjM5Yui6iUKnp-DgHBTZ6F6zI8c-XlRNa&s",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e374cabb833bdd73c2ff6d1d87ed6d910bc.png",
+      "snippet": "The usual answer is that the clock's hands line up 22 times in a 24-hour day.",
+      "duration": "5:19",
+      "missing": [
+        "period?"
+      ],
+      "must_include": {
+        "word": "period?",
+        "link": "https://www.google.com/search?num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&q=how+many+times+do+the+hour+and+minute+hands+of+a+clock+overlap+in+a+24+hour+%22period?%22&sa=X&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q5t4CegUIlgIQEw"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSBAHfovnq1SyiQfgqcuicWt7UBj8igX0dCVg",
+      "source": "YouTube · How to... Solve Puzzles"
+    },
+    {
+      "position": 15,
+      "title": "How many times do the hour and minute hands of a clock ...",
+      "link": "https://homework.study.com/explanation/how-many-times-do-the-hour-and-minute-hands-of-a-clock-overlap-in-a-24-hour-period.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homework.study.com/explanation/how-many-times-do-the-hour-and-minute-hands-of-a-clock-overlap-in-a-24-hour-period.html&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCNsBEAE",
+      "displayed_link": "https://homework.study.com › explanation › how-many...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e372b65408a4b97a7d503f7b22fc5cb442c.png",
+      "snippet": "The hands of a clock overlap 22 times during a 24 hour period. There are 24 hours in a day. Additionally, in X hours, the minute hand will complete X laps.",
+      "snippet_highlighted_words": [
+        "22 times during a 24 hour period"
+      ],
+      "source": "Homework.Study.com"
+    },
+    {
+      "position": 16,
+      "title": "How many times do the hour hand and the minute hand ...",
+      "link": "https://yunfeitakualiu.com/blog/2023/10/11/how-many-times-do-the-hour-hand-and-the-minute-hand-coincide-in-a-day/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://yunfeitakualiu.com/blog/2023/10/11/how-many-times-do-the-hour-hand-and-the-minute-hand-coincide-in-a-day/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCPcBEAE",
+      "displayed_link": "https://yunfeitakualiu.com › blog › 2023/10/11 › how-...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37f6534b56ac36ca543e1bbe49850ed3d8.png",
+      "date": "Oct 11, 2023",
+      "snippet": "The hour hand and the minute hand coincide at the same location 22 times in a day. This happens because an analog clock has 12 hours and 360 degrees.",
+      "snippet_highlighted_words": [
+        "22 times in a day"
+      ],
+      "source": "yunfeitakualiu.com"
+    },
+    {
+      "position": 17,
+      "title": "How many times will minute hand and hour hand coincide ...",
+      "link": "https://gmatclub.com/forum/how-many-times-will-minute-hand-and-hour-hand-coincide-in-24-hours-387285.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gmatclub.com/forum/how-many-times-will-minute-hand-and-hour-hand-coincide-in-24-hours-387285.html&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECDYQAQ",
+      "displayed_link": "https://gmatclub.com › forum › how-many-times-will-...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37251fc5a229d816c64d9d81402299d287.png",
+      "date": "Apr 14, 2022",
+      "snippet": "Assume the 24 hour period begins at 12 o'clock. So both hands are aligned, 1 instance. The minute hand will then sweep over the hour hand ...",
+      "snippet_highlighted_words": [
+        "1 instance"
+      ],
+      "source": "GMAT Club"
+    },
+    {
+      "position": 18,
+      "title": "How many times do the hands of a clock coincide in a day?",
+      "link": "https://testbook.com/question-answer/how-many-times-do-the-hands-of-a-clock-coincide-in--5b62eb2b3e985b0c3db09224",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://testbook.com/question-answer/how-many-times-do-the-hands-of-a-clock-coincide-in--5b62eb2b3e985b0c3db09224&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECFQQAQ",
+      "displayed_link": "https://testbook.com › ... › Clock and Calendar",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e371cd91feb2cf4c742a57aff9287b9277d.png",
+      "date": "Dec 28, 2019",
+      "snippet": "They coincide 11 times in 12 hours and hence coincide 22 times in 24 hours. Hence the hands coincide 22 times in a day.",
+      "snippet_highlighted_words": [
+        "22 times in 24 hours"
+      ],
+      "source": "Testbook"
+    },
+    {
+      "position": 19,
+      "title": "How many times do all 3 clock hands align?",
+      "link": "https://math.stackexchange.com/questions/3014525/how-many-times-do-all-3-clock-hands-align",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://math.stackexchange.com/questions/3014525/how-many-times-do-all-3-clock-hands-align&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECHIQAQ",
+      "displayed_link": "https://math.stackexchange.com › questions › how-man...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37418a4cd08b16090ad40c40c6d7e78b64.png",
+      "date": "Nov 26, 2018",
+      "snippet": "In 12 hours, the hour hand rotates once while the minute hand rotates 12 times. Therefore the minute hand does 12−1=11 rotations relative ...",
+      "snippet_highlighted_words": [
+        "hours",
+        "hour hand",
+        "minute hand",
+        "times",
+        "minute hand does"
+      ],
+      "source": "Mathematics Stack Exchange"
+    },
+    {
+      "position": 20,
+      "title": "How many times do a clock's hands overlap in a day?",
+      "link": "https://www.facebook.com/lhtambuwal/posts/how-many-times-do-a-clocks-hands-overlap-in-a-day/800836795485533/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/lhtambuwal/posts/how-many-times-do-a-clocks-hands-overlap-in-a-day/800836795485533/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCIwBEAE",
+      "displayed_link": "60+ reactions · 12 months ago",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e377b3c233e32ada71e24e01ed3354a28db.png",
+      "snippet": "A clock's hands overlap 22 times in a 24- hour period. This occurs every 65.45 minutes, or approximately every 1 hour and 5.45 minutes.",
+      "snippet_highlighted_words": [
+        "22 times in a 24- hour period"
+      ],
+      "source": "Facebook · Tambuwal Maths Class"
+    },
+    {
+      "position": 21,
+      "title": "4 ways of solving the Overlapping Clock Hands Problem",
+      "link": "https://www.youtube.com/watch?v=nYGZ_1d8794",
+      "displayed_link": "9.6K+ views · 7 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkELfufkV5adt50BloJMS5cgKH2dxjRWz36HSPJF-N6SRB&s",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37f4b73e86931aec0f7a21a86a3c483dab.png",
+      "snippet": "The overlapping clock hands problem asks how much time passes between exact overlaps of the hour hand and the minute hand of a clock or watch.",
+      "duration": "6:30",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "The Overlapping Clock Hands Problem",
+          "link": "https://www.youtube.com/watch?v=nYGZ_1d8794&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1tcJU0rrhf5HaVFKuHYmNdnir2EAIPW7MWG069_1GA&s"
+        },
+        {
+          "time": "00:25",
+          "title": "Counting overlaps",
+          "link": "https://www.youtube.com/watch?v=nYGZ_1d8794&t=25",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfUSuLLOMr6u5E97r7ZeDi3uLZWR2zywKTgGwOsaZJCQ&s"
+        },
+        {
+          "time": "01:16",
+          "title": "Using angles",
+          "link": "https://www.youtube.com/watch?v=nYGZ_1d8794&t=76",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRGzKIpJ4TKXEx5XrN6_SXRgpJ04qzDwDAdLh2FpiqPQ&s"
+        },
+        {
+          "time": "01:50",
+          "title": "Using relative angular speed",
+          "link": "https://www.youtube.com/watch?v=nYGZ_1d8794&t=110",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTubM9NH1edidCoKKXciYFlLWef_LofrGzV6tGFyV0xSA&s"
+        },
+        {
+          "time": "02:21",
+          "title": "Third method",
+          "link": "https://www.youtube.com/watch?v=nYGZ_1d8794&t=141",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujo0VG51w-1eQ3GDKrrjApsDMF0BfcDHTJ4mRikv3xw&s"
+        },
+        {
+          "time": "03:25",
+          "title": "Geometric Series",
+          "link": "https://www.youtube.com/watch?v=nYGZ_1d8794&t=205",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawIE5tiOT_YG_GYpeyE7-b03738wgSpsGIFMoHZ6jGg&s"
+        },
+        {
+          "time": "03:41",
+          "title": "Geometric series formula",
+          "link": "https://www.youtube.com/watch?v=nYGZ_1d8794&t=221",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_FD9jF-Jtp_rCxOMo-YoRHTeKyXFyp-SvR9ONtM26YQ&s"
+        },
+        {
+          "time": "04:38",
+          "title": "Applying a periodic function",
+          "link": "https://www.youtube.com/watch?v=nYGZ_1d8794&t=278",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd4jS7BMYCp36xIxs4eixgtkh1N0L0a0F3xSIY5XRrA&s"
+        },
+        {
+          "time": "05:34",
+          "title": "Numerical solution",
+          "link": "https://www.youtube.com/watch?v=nYGZ_1d8794&t=334",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6pwIpzz1ibT6Zs7ruIGZxA4_d0J--iaHE0vQbYm76CA&s"
+        }
+      ],
+      "source": "YouTube · MathAndPhysics"
+    },
+    {
+      "position": 22,
+      "title": "Google's Infamous Clock Question - by Ajitesh Dasaratha",
+      "link": "https://medium.com/@ajitesh.dasaratha1/googles-infamous-clock-question-2a2553f4f685",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40ajitesh.dasaratha1/googles-infamous-clock-question-2a2553f4f685&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCKUBEAE",
+      "displayed_link": "2 months ago",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e372f98cd6e2937ec5dc1bb0debc903768c.png",
+      "snippet": "My favorite way to solve this problem: minute hand does 24 rounds a day, and the hour hand does 2. Minute hand overtook hour hand 22 times, ...",
+      "snippet_highlighted_words": [
+        "minute hand does 24",
+        "hour hand does",
+        "Minute hand",
+        "hour hand",
+        "times"
+      ],
+      "source": "Medium · Ajitesh Dasaratha"
+    },
+    {
+      "position": 23,
+      "title": "How Many Times Are A Clock's Hands Opposite During a 24 ...",
+      "link": "https://www.youtube.com/watch?v=IPoUtTXqx0s",
+      "displayed_link": "25.8K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOFugLg_3eG8lBIT8sGSkpSv_odHiTKWhx7nJmRTtIx8x&s",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37c0f7fbd05dd4d7f34d86137bee0ea338.png",
+      "snippet": "Therefore 24 x 60 = 1440 minutes in a day. 1440 minutes divided by 22 times (the number of times the hands are opposite in 24 hours) = 65.4545 ...",
+      "duration": "5:42",
+      "missing": [
+        "period?"
+      ],
+      "must_include": {
+        "word": "period?",
+        "link": "https://www.google.com/search?num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&q=how+many+times+do+the+hour+and+minute+hands+of+a+clock+overlap+in+a+24+hour+%22period?%22&sa=X&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q5t4CegUIkwIQEw"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS1AFi03_nK2fOt9_ZAbp7PknMjjOfmmoAf2Q",
+      "source": "YouTube · How to... Solve Puzzles"
+    },
+    {
+      "position": 24,
+      "title": "How many times minute-hand coincides with hour-hand in ...",
+      "link": "https://www.doubtnut.com/qna/510425457",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doubtnut.com/qna/510425457&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCLoBEAE",
+      "displayed_link": "https://www.doubtnut.com › Class 14 › MATHS",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37166e07baa06dd9e95f3876f87eab1463.png",
+      "snippet": "The correct Answer is:11 times. To find out how many times the minute hand coincides with the hour hand in 12 hours, we can follow these steps:.",
+      "snippet_highlighted_words": [
+        "how many times",
+        "minute hand",
+        "hour hand",
+        "hours"
+      ],
+      "source": "Doubtnut"
+    },
+    {
+      "position": 25,
+      "title": "How many times do the hands of a clock overlap in 24 hours?",
+      "link": "https://brainly.com/question/59650059",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/59650059&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCMEBEAE",
+      "displayed_link": "https://brainly.com › Mathematics › Middle School",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37348962a194591614cbe7297e050ddef5.png",
+      "date": "Mar 28, 2025",
+      "snippet": "The hands of a clock overlap 22 times in a 24-hour period. This occurs 11 times in each 12-hour period, including both AM and PM. The time ...",
+      "snippet_highlighted_words": [
+        "22 times in a 24-hour period"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 26,
+      "title": "How many times a day do minute hand and hour hand meet?",
+      "link": "https://testbook.com/question-answer/how-many-times-a-day-do-minute-hand-and-hour-hand--5fcf58b9ec04009f3b39ba6a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://testbook.com/question-answer/how-many-times-a-day-do-minute-hand-and-hour-hand--5fcf58b9ec04009f3b39ba6a&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCN0BEAE",
+      "displayed_link": "https://testbook.com › ... › Clock and Calendar",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37279adfe376030449d9a5852b0c08cc46.png",
+      "snippet": "The hands of a clock meet 11 times in 12 hours. In 12 hours if the hands of a clock meet 11 times, so in 24 hours it should be double of 11. Hence 11× 2 = 22 ...",
+      "snippet_highlighted_words": [
+        "22"
+      ],
+      "source": "Testbook"
+    },
+    {
+      "position": 27,
+      "title": "Interview teaser question: how many times a day (24 hour...",
+      "link": "https://www.watchuseek.com/threads/interview-teaser-question-how-many-times-a-day-24-hour-period-do-hour-and-minute-hand-overlap.5483188/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.watchuseek.com/threads/interview-teaser-question-how-many-times-a-day-24-hour-period-do-hour-and-minute-hand-overlap.5483188/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCNoBEAE",
+      "displayed_link": "https://www.watchuseek.com › ... › Public Forum",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e370cd4624d3ba9d919e0324689b22a4fef.jpeg",
+      "date": "Mar 26, 2023",
+      "snippet": "The hour and minute hands of a clock overlap (or coincide) at different times during the day. They overlap once every hour, except for when the ...",
+      "snippet_highlighted_words": [
+        "They overlap once every hour"
+      ],
+      "source": "WatchUSeek Watch Forums"
+    },
+    {
+      "position": 28,
+      "title": "How many times a day do the two hands on a clock overlap ...",
+      "link": "https://www.facebook.com/OfficialQI/videos/how-many-times-a-day-do-the-two-hands-on-a-clock-overlap-/1208856310543524/",
+      "displayed_link": "20.1K+ reactions · 11 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLlHmP0HOVoYaYDsYg9hKGHnZ5-GfVETTll7BFWB1I9Bdn&s",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37ddc2bc6f1a489e73c23d4922c17561e1.png",
+      "snippet": "How many times a day do the two hands on a clock overlap?",
+      "duration": "1:17",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSo9d6v7LWh-g-0e_Crks4lMaAY9qjMto-LRw",
+      "source": "Facebook · QI - Quite Interesting"
+    },
+    {
+      "position": 29,
+      "title": "How many times a day do the two hands on a clock overlap ...",
+      "link": "https://www.facebook.com/OfficialQI/posts/how-many-times-a-day-do-the-two-hands-on-a-clock-overlap-/898266739006949/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/OfficialQI/posts/how-many-times-a-day-do-the-two-hands-on-a-clock-overlap-/898266739006949/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCOcBEAE",
+      "displayed_link": "20.1K+ reactions · 11 months ago",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37c8a7e61c0615631495983db1be98f5f3.png",
+      "snippet": "There are only 22 times the hands are exactly overlapping in a 24 hour period. 11 mos. 6.",
+      "snippet_highlighted_words": [
+        "times",
+        "hands",
+        "overlapping",
+        "24 hour period"
+      ],
+      "source": "Facebook · QI - Quite Interesting"
+    },
+    {
+      "position": 30,
+      "title": "Might there be a formula to determine when watch hands ...",
+      "link": "https://www.physicsforums.com/threads/might-there-be-a-formula-to-determine-when-watch-hands-coincide.983697/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.physicsforums.com/threads/might-there-be-a-formula-to-determine-when-watch-hands-coincide.983697/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCPYBEAE",
+      "displayed_link": "https://www.physicsforums.com › threads › might-there...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37b13850d9c6994f73ceecc6d2ec30dd3c.png",
+      "date": "Jan 29, 2020",
+      "snippet": "The sec hand passes the hour hand every ~1.034 minutes. or 696 times every 12 hrs. All three hands only all line up with each other every twelve ...",
+      "snippet_highlighted_words": [
+        "696 times every 12 hrs"
+      ],
+      "source": "Physics Forums"
+    },
+    {
+      "position": 31,
+      "title": "How many times do the hour hand and the minute han",
+      "link": "https://prepp.in/question/how-many-times-do-the-hour-hand-and-the-minute-han-673ce682f7163a707b3c2286",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://prepp.in/question/how-many-times-do-the-hour-hand-and-the-minute-han-673ce682f7163a707b3c2286&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCIgCEAE",
+      "displayed_link": "https://prepp.in › CSAT › Miscellaneous Topics",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e374392d091d3b7ac8e4914cc0310873b59.png",
+      "snippet": "10 a.m. to 11 a.m.: The hands do not coincide. · 11 a.m. to 12 p.m.: The hands coincide once, around 12 p.m. · 12 p.m. to 1 p.m.: The hands coincide once, after 1 ...",
+      "snippet_highlighted_words": [
+        "hands do",
+        "coincide",
+        "hands coincide",
+        "hands coincide"
+      ],
+      "source": "Prepp"
+    },
+    {
+      "position": 32,
+      "title": "How many times in a day do a clock's hands make zero ...",
+      "link": "https://www.quora.com/How-many-times-in-a-day-do-a-clock-s-hands-make-zero-degrees-with-each-other-and-overlap?top_ans=2311",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/How-many-times-in-a-day-do-a-clock-s-hands-make-zero-degrees-with-each-other-and-overlap%3Ftop_ans%3D2311&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECD0QAQ",
+      "displayed_link": "5 answers · 2 years ago",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3793882163bc543e1a3eee4df26b3c1cd6.png",
+      "snippet": "22 times a day if you only count the minute and hour hands overlapping. 2 times a day if you only count when all three hands overlap. This ...",
+      "snippet_highlighted_words": [
+        "22 times a day"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 33,
+      "title": "How many times during a 12 hour period does the ...",
+      "link": "https://us.edugain.com/questions/How-many-times-during-a-12-hour-period-does-the-hour-hand-and-the-minute-hand-of-the-clock-cross-each-other",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://us.edugain.com/questions/How-many-times-during-a-12-hour-period-does-the-hour-hand-and-the-minute-hand-of-the-clock-cross-each-other&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCKEBEAE",
+      "displayed_link": "https://us.edugain.com › questions › How-many-times-...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37c58aab56d82a8aa584542643d8fbf775.png",
+      "snippet": "The minute hand makes one full revolution every one hour. Therefore, it will make 12 revolutions in a period of 12 hours. During each revolution, the minute ...",
+      "snippet_highlighted_words": [
+        "minute hand",
+        "hour",
+        "period",
+        "hours",
+        "minute"
+      ],
+      "source": "Edugain Math"
+    },
+    {
+      "position": 34,
+      "title": "How many times in a day do the two hands on a clock ...",
+      "link": "https://www.askiitians.com/forums/7-grade-maths/how-many-times-in-a-day-do-the-two-hands-on-a-cloc_467273.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.askiitians.com/forums/7-grade-maths/how-many-times-in-a-day-do-the-two-hands-on-a-cloc_467273.htm&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECFcQAQ",
+      "displayed_link": "https://www.askiitians.com › forums › 7-grade-maths › h...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37aff4bc89e0245b334189b0b2530841fa.png",
+      "date": "Mar 17, 2025",
+      "snippet": "Specifically, the hour and minute hands overlap each other at exactly 12 o'clock (noon) and 12 o'clock midnight, forming a perfect overlap. In ...",
+      "snippet_highlighted_words": [
+        "12"
+      ],
+      "source": "askIITians"
+    },
+    {
+      "position": 35,
+      "title": "Clock Angle Formula – Definition, Tricks, Examples, Facts ...",
+      "link": "https://www.splashlearn.com/math-vocabulary/clock-angle-formula",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.splashlearn.com/math-vocabulary/clock-angle-formula&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECE0QAQ",
+      "displayed_link": "https://www.splashlearn.com › math-vocabulary › clock-...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e375b25220e5793ddda7279e33e3a0a4c81.png",
+      "snippet": "How many times do the hands of a clock coincide in a day? The hands of a clock coincide 11 times in every 12 hours (Since between 11 and 1, they coincide ...",
+      "snippet_highlighted_words": [
+        "11 times in every 12 hours"
+      ],
+      "source": "SplashLearn"
+    },
+    {
+      "position": 36,
+      "title": "Puzzle - The Hands of a Clock First Overlap",
+      "link": "https://www.geeksforgeeks.org/aptitude/puzzle-the-hands-of-a-clock-first-overlap/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/aptitude/puzzle-the-hands-of-a-clock-first-overlap/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECG4QAQ",
+      "displayed_link": "https://www.geeksforgeeks.org › aptitude › puzzle-the-...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e379f75323bded68b2b888277c6224d7bbb.png",
+      "date": "Jan 18, 2023",
+      "snippet": "11 + 11 = 22 in total. That means an hour hand and a minute hand will overlap or meet 22 times in a day.",
+      "snippet_highlighted_words": [
+        "hour hand",
+        "minute hand",
+        "overlap",
+        "times"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 37,
+      "title": "The hour hand and the minute hand of a clock coincide at ...",
+      "link": "https://www.doubtnut.com/qna/121603799",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doubtnut.com/qna/121603799&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECHEQAQ",
+      "displayed_link": "https://www.doubtnut.com › Class 12 › PHYSICS",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37f4504ed507e9d729a50fc62274c856af.png",
+      "snippet": "Final Answer: The hour hand and the minute hand of a clock coincide every 1211 hours.",
+      "snippet_highlighted_words": [
+        "every 1211 hours"
+      ],
+      "source": "Doubtnut"
+    },
+    {
+      "position": 38,
+      "title": "Clock face",
+      "link": "https://en.wikipedia.org/wiki/Clock_face",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Clock_face&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECG8QAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Clock_face",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3733e43d2d31a22a5e30d2c0ad7aa49d43.png",
+      "snippet": "A long minute hand makes one revolution every hour. The face may also include a second hand, which makes one revolution per minute. The term is less commonly ...",
+      "snippet_highlighted_words": [
+        "minute hand",
+        "hour",
+        "hand",
+        "minute"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 39,
+      "title": "On Time - NRICH - Millennium Mathematics Project",
+      "link": "https://nrich.maths.org/problems/time",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nrich.maths.org/problems/time&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCIoBEAE",
+      "displayed_link": "https://nrich.maths.org › problems › time",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37e8191c45cee69b6e009fc8005fe1e607.png",
+      "snippet": "On a clock the three hands - the second, minute and hour hands - are on the same axis. How often in a 24 hour day will the second hand be parallel to either of ...",
+      "snippet_highlighted_words": [
+        "clock",
+        "hands",
+        "minute",
+        "hour hands",
+        "How often",
+        "24 hour",
+        "hand"
+      ],
+      "source": "NRICH"
+    },
+    {
+      "position": 40,
+      "title": "Quiz Time! 🤓☝️📚 “What is the last time of the day that both ...",
+      "link": "https://www.threads.com/@talktothenation/post/DCgnNtACVti?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.threads.com/%40talktothenation/post/DCgnNtACVti%3Fhl%3Den&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCIUBEAE",
+      "displayed_link": "https://www.threads.com › @talktothenation",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37e8a52f27c6271c366d492a4a6183c24b.png",
+      "date": "Nov 18, 2024",
+      "snippet": "The assumption is that the hands meet 11 times in the 12 hour period. And that they are equally spaced apart. So the calculation was 12 ...",
+      "snippet_highlighted_words": [
+        "hands",
+        "times",
+        "hour period"
+      ],
+      "source": "Threads"
+    },
+    {
+      "position": 41,
+      "title": "How many times a day a clock's hands overlap?",
+      "link": "https://www.kodyaz.com/articles/how-many-times-a-day-clocks-hands-overlap.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kodyaz.com/articles/how-many-times-a-day-clocks-hands-overlap.aspx&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCIkBEAE",
+      "displayed_link": "https://www.kodyaz.com › articles › how-many-times-a-...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37e79032ab3007a56f63f18ca31975824a.png",
+      "snippet": "Now assume that the clock's hour and minute hands overlap for the next time. The first overlapping after 12:00 o'clock will happen between 1 o'clock and 2 o' ...",
+      "snippet_highlighted_words": [
+        "clock's hour and minute hands overlap",
+        "time",
+        "overlapping",
+        "clock",
+        "clock"
+      ],
+      "source": "Kodyaz.com"
+    },
+    {
+      "position": 42,
+      "title": "Formulas for Clocks Questions",
+      "link": "https://prepinsta.com/clocks/formulas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://prepinsta.com/clocks/formulas/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCJ0BEAE",
+      "displayed_link": "https://prepinsta.com › Clocks",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37c27d8d92cbd43a4bab4e9867d624a29d.png",
+      "snippet": "Therefore, the hour and minute hands will be exactly 120 degrees apart at 4:00. Question 5: How many times do the hour and minute hands of a clock overlap in a ...",
+      "snippet_highlighted_words": [
+        "hour and minute hands",
+        "How many times do the hour and minute hands of a clock overlap in a"
+      ],
+      "source": "PrepInsta"
+    },
+    {
+      "position": 43,
+      "title": "The Clock Hands Overlap Puzzle - Word Riddle",
+      "link": "https://wordriddle.co/question/the-clock-hands-overlap-puzzle/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wordriddle.co/question/the-clock-hands-overlap-puzzle/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCKQBEAE",
+      "displayed_link": "https://wordriddle.co › question › the-clock-hands-overla...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3792b36dc642c22e7efacc61836499b350.png",
+      "snippet": "How many times do the hands of a clock overlap in a day ... Explanation: The hands overlap approximately every 65 minutes, resulting in 22 overlaps in a 24-hour ...",
+      "snippet_highlighted_words": [
+        "How many times do",
+        "hands of a clock overlap",
+        "hands overlap",
+        "minutes",
+        "24",
+        "hour"
+      ],
+      "source": "wordriddle.co"
+    },
+    {
+      "position": 44,
+      "title": "When Do A Clock's Hands Overlap?",
+      "link": "https://infinitesimallysmallcom.wordpress.com/2022/02/27/when-do-a-clocks-hands-overlap/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://infinitesimallysmallcom.wordpress.com/2022/02/27/when-do-a-clocks-hands-overlap/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCKIBEAE",
+      "displayed_link": "https://infinitesimallysmallcom.wordpress.com › when-...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37d55bc361c4da437fe1be19bde1f3ed4b.png",
+      "date": "Feb 27, 2022",
+      "snippet": "Consider a clock as a circle. As you know, a circle has 360 degrees. In a 1-hour rotation, the minute hand covers one entire circle around the ...",
+      "snippet_highlighted_words": [
+        "clock",
+        "hour",
+        "minute hand"
+      ],
+      "source": "WordPress.com"
+    },
+    {
+      "position": 45,
+      "title": "How many times do the hands of a clock coincide in a day?",
+      "link": "https://prepp.in/question/how-many-times-do-the-hands-of-a-clock-coincide-in-6639fa590368feeaa5bf25cb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://prepp.in/question/how-many-times-do-the-hands-of-a-clock-coincide-in-6639fa590368feeaa5bf25cb&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCKsBEAE",
+      "displayed_link": "https://prepp.in › ... › Clock and Calendar",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37ffc9678f614635ffc4f3abbf081ed91d.png",
+      "snippet": "This question asks about the number of times the hour hand and the minute hand of a standard 12-hour clock overlap or coincide within a full day (24 hours).",
+      "snippet_highlighted_words": [
+        "times",
+        "hour hand",
+        "minute hand",
+        "hour clock overlap",
+        "coincide",
+        "24 hours"
+      ],
+      "source": "Prepp"
+    },
+    {
+      "position": 46,
+      "title": "At exactly what times do the hour and minute hands align?",
+      "link": "https://www.watchuseek.com/threads/at-exactly-what-times-do-the-hour-and-minute-hands-align.5414429/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.watchuseek.com/threads/at-exactly-what-times-do-the-hour-and-minute-hands-align.5414429/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCKYBEAE",
+      "displayed_link": "https://www.watchuseek.com › ... › Public Forum",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3788d503fd5d4e528fcad3f8d544789724.jpeg",
+      "date": "Jun 8, 2022",
+      "snippet": "There's eleven times the hands cross in a twelve-hour period. Divide sixty by 11 and that times n where n goes from zero to 10. Each answer is ...",
+      "snippet_highlighted_words": [
+        "times",
+        "hands",
+        "hour period",
+        "times"
+      ],
+      "source": "WatchUSeek Watch Forums"
+    },
+    {
+      "position": 47,
+      "title": "Reading And Representing Time | Solved Examples",
+      "link": "https://www.cuemath.com/measurement/reading-and-representing-time/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cuemath.com/measurement/reading-and-representing-time/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCLkBEAE",
+      "displayed_link": "https://www.cuemath.com › measurement › reading-and-...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37cfb278fde17393a864f51ce68a14ef92.png",
+      "snippet": "The minute hand makes one full revolution every hour and there are 24 hours in a day. Thus, makes 24 revolutions per day. How Many Times the Hands of the Clock ...",
+      "snippet_highlighted_words": [
+        "minute hand",
+        "hour",
+        "24 hours",
+        "How Many Times",
+        "Hands",
+        "Clock"
+      ],
+      "source": "Cuemath"
+    },
+    {
+      "position": 48,
+      "title": "clocks hands | Free Math Help Forum",
+      "link": "https://www.freemathhelp.com/forum/threads/clocks-hands.113612/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.freemathhelp.com/forum/threads/clocks-hands.113612/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCL0BEAE",
+      "displayed_link": "https://www.freemathhelp.com › ... › Beginning Algebra",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37703aeb06457a6ae5c5914027b0d7604d.jpeg",
+      "date": "Dec 1, 2018",
+      "snippet": "How many times the hour hand is exactly on the minute hand in analogical clock in period of 24 hours? The answer is maybe 25 or 24.",
+      "snippet_highlighted_words": [
+        "How many times",
+        "hour hand",
+        "minute hand",
+        "clock",
+        "period",
+        "24 hours"
+      ],
+      "source": "Free Math Help"
+    },
+    {
+      "position": 49,
+      "title": "When and how many times a day do a clock's hands ...",
+      "link": "https://math.stackexchange.com/questions/2740964/when-and-how-many-times-a-day-do-a-clock-s-hands-overlap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://math.stackexchange.com/questions/2740964/when-and-how-many-times-a-day-do-a-clock-s-hands-overlap&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCLsBEAE",
+      "displayed_link": "https://math.stackexchange.com › questions › when-and...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37543867b0d4bcb2a19b97a5c9874ac11f.png",
+      "date": "Apr 17, 2018",
+      "snippet": "For simplicity sake, lets figure it out for 12 rather than 24 hour period. If m is the number of minutes past noon, then the hour hand is at ...",
+      "snippet_highlighted_words": [
+        "24 hour period",
+        "minutes",
+        "hour hand"
+      ],
+      "source": "Mathematics Stack Exchange"
+    },
+    {
+      "position": 50,
+      "title": "Overlapping Hands of a Clock - Polypad",
+      "link": "https://polypad.amplify.com/ja/lesson/overlapping-hands-of-a-clock",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://polypad.amplify.com/ja/lesson/overlapping-hands-of-a-clock&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCMABEAE",
+      "displayed_link": "https://polypad.amplify.com › ove...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37c7d9d1def8c83b3234f36e4f2652d04c.png",
+      "snippet": "Therefore in a 24-hour day, we already found two examples of times that the minute and hour hand create a 18 0 o 180^o 180o angle. You may suggest students use ...",
+      "snippet_highlighted_words": [
+        "24",
+        "hour",
+        "times",
+        "minute",
+        "hour hand"
+      ],
+      "source": "Polypad"
+    },
+    {
+      "position": 51,
+      "title": "Aspire's Library",
+      "link": "https://myaspirestudy.com/library/qus/10260",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myaspirestudy.com/library/qus/10260&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCMgBEAE",
+      "displayed_link": "https://myaspirestudy.com › library › qus",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e374ff235f62925d51f63bd127a51c5358f.png",
+      "snippet": "How many times do the hour and the minute hands of a clock overlap in 24 hours? Options: (1) 24 (2) 22 (3) 26 (4) 20 | NIMCET Coaching.",
+      "snippet_highlighted_words": [
+        "How many times do the hour",
+        "minute hands of a clock overlap",
+        "24 hours"
+      ],
+      "source": "Aspire Study"
+    },
+    {
+      "position": 52,
+      "title": "Q. How many times the hour hand and the minute ...",
+      "link": "https://upscsociology.in/q-how-many-times-the-hour-hand-and-the-minute-hand-coincide-in-a-clock-between-1000-a-m-and-200-p-m-same-day/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://upscsociology.in/q-how-many-times-the-hour-hand-and-the-minute-hand-coincide-in-a-clock-between-1000-a-m-and-200-p-m-same-day/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCNYBEAE",
+      "displayed_link": "https://upscsociology.in › q-how-many-times-the-hour-...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37bf37c9014ba8effb9a55dcd53224f808.png",
+      "snippet": "Explanation : · 1) First, let's understand how the hands move: · 2) For hands to coincide, they must point at the same angle. · 3) From 10:00 AM to 2:00 PM is 4 ...",
+      "snippet_highlighted_words": [
+        "hands",
+        "hands",
+        "coincide"
+      ],
+      "source": "Sociology OWL"
+    },
+    {
+      "position": 53,
+      "title": "Hands of Clock Fundamentals | PDF | Speed",
+      "link": "https://www.scribd.com/document/337422644/Hands-of-Clock-Fundamentals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/337422644/Hands-of-Clock-Fundamentals&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCNcBEAE",
+      "displayed_link": "https://www.scribd.com › document › Hands-of-Clock-...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e376a27b5d6aadae4bf730229ecaf77b7ae.png",
+      "snippet": "The document discusses when the hour and minute hands of a clock will overlap ... hour period, meaning the hands overlap every 1 hour and 5 minutes.",
+      "snippet_highlighted_words": [
+        "when",
+        "hour and minute hands of a clock",
+        "overlap",
+        "hour period",
+        "hands overlap",
+        "hour",
+        "minutes"
+      ],
+      "source": "Scribd"
+    },
+    {
+      "position": 54,
+      "title": "clock - Naukri Code 360",
+      "link": "https://www.naukri.com/code360/library/clocks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.naukri.com/code360/library/clocks&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCNgBEAE",
+      "displayed_link": "https://www.naukri.com › ... › Aptitude › Logical Ability",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37d145db5fd782ba7ffabdf19884340fb8.png",
+      "date": "Mar 27, 2024",
+      "snippet": "How many times are the minute and hour hands straight to each other in a day(overlapping or exact opposite to each other)?. The hands of a clock ...",
+      "snippet_highlighted_words": [
+        "How many times",
+        "minute",
+        "hour hands",
+        "overlapping",
+        "hands of a clock"
+      ],
+      "source": "Naukri.com"
+    },
+    {
+      "position": 55,
+      "title": "Clock Problem concepts Tricks, and Shortcuts",
+      "link": "https://www.hitbullseye.com/Quant/Problems-on-Clocks.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hitbullseye.com/Quant/Problems-on-Clocks.php&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCNwBEAE",
+      "displayed_link": "https://www.hitbullseye.com › Quant › Problems-on-Cl...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e373f37d45c44e42548dee26cde87fc68d3.png",
+      "snippet": "Some facts about clocks: · Every hour, both the hands coincide once. · The hands are in the same straight line when they are coincident or opposite to each other.",
+      "snippet_highlighted_words": [
+        "clocks",
+        "hour",
+        "hands coincide",
+        "hands",
+        "when"
+      ],
+      "source": "Hitbullseye"
+    },
+    {
+      "position": 56,
+      "title": "Clocks | Brilliant Math & Science Wiki",
+      "link": "https://brilliant.org/wiki/clocks/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brilliant.org/wiki/clocks/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCO4BEAE",
+      "displayed_link": "https://brilliant.org › wiki › clocks",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3776594baee284859f409b11ccff937113.png",
+      "snippet": "The time is usually based on 12-hour clock. A method to solve such problems is to consider the rate of change of the angle in degrees per minute. The hour hand ...",
+      "snippet_highlighted_words": [
+        "time",
+        "hour clock",
+        "minute",
+        "hour hand"
+      ],
+      "source": "Brilliant"
+    },
+    {
+      "position": 57,
+      "title": "What time between 2 and 3 o' clock do the minute hand ...",
+      "link": "https://math.answers.com/other-math/What_time_between_2_and_3_o%27_clock_do_the_minute_hand_and_the_hour_hand_overlap_each_other",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://math.answers.com/other-math/What_time_between_2_and_3_o%2527_clock_do_the_minute_hand_and_the_hour_hand_overlap_each_other&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCPIBEAE",
+      "displayed_link": "https://math.answers.com › Math › Other Math",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e375eb5680b9999880f081299cd6bf75a7c.png",
+      "date": "Apr 28, 2022",
+      "snippet": "Hence between one and two o'clock the time when the hands are in the same place is 60/11 = 5.4545... minutes past the hour, between two and ...",
+      "snippet_highlighted_words": [
+        "clock",
+        "time when",
+        "hands",
+        "minutes",
+        "hour"
+      ],
+      "source": "Answers"
+    },
+    {
+      "position": 58,
+      "title": "On a 12-hour analog clock, the hour hand moves at ...",
+      "link": "https://gmatclub.com/forum/on-a-12-hour-analog-clock-the-hour-hand-moves-at-a-constant-rate-of-426102.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gmatclub.com/forum/on-a-12-hour-analog-clock-the-hour-hand-moves-at-a-constant-rate-of-426102.html&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCPMBEAE",
+      "displayed_link": "https://gmatclub.com › forum › on-a-12-hour-analog-cl...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37256171350c229374e4c313191a4965e9.png",
+      "date": "Feb 18, 2024",
+      "snippet": "On a 12-hour analog clock, the hour hand moves at a constant rate of 1 revolution every 12 hours, and the minute hand moves at a constant ...",
+      "snippet_highlighted_words": [
+        "hour",
+        "clock",
+        "hour hand",
+        "hours",
+        "minute hand"
+      ],
+      "source": "GMAT Club"
+    },
+    {
+      "position": 59,
+      "title": "MTBF, MTTR, MTTF, MTTA: Understanding incident metrics",
+      "link": "https://www.atlassian.com/incident-management/kpis/common-metrics",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlassian.com/incident-management/kpis/common-metrics&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCPQBEAE",
+      "displayed_link": "https://www.atlassian.com › kpis › common-metrics",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37ff9343a26054f40cb8d2abcde88e814a.png",
+      "snippet": "So, let's say we're assessing a 24-hour period and there were two hours of downtime in two separate incidents. ... Which means the mean time to repair in this ...",
+      "snippet_highlighted_words": [
+        "24",
+        "hour period",
+        "time"
+      ],
+      "source": "Atlassian"
+    },
+    {
+      "position": 60,
+      "title": "The hands of a clock coincide after every 65 minutes. How ...",
+      "link": "https://mypat.in/community/question-detail/the-hands-of-a-clock-coincide-after-every-65-minutes-how-many-minutes-is-it-losing-or-gain?qid=5d18cb6901ac40163f3d44c8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mypat.in/community/question-detail/the-hands-of-a-clock-coincide-after-every-65-minutes-how-many-minutes-is-it-losing-or-gain%3Fqid%3D5d18cb6901ac40163f3d44c8&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCPgBEAE",
+      "displayed_link": "https://mypat.in › community › question-detail › the-ha...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37dc0f0f7c4885e126edc4a11f21472f9f.png",
+      "snippet": "In 24 hours the hands of hour and minute coincide 22 times. 24 hours equals 24*60=1440 minutes. 1440/22 = 65 and 5/11 minutes.=> every 65 and 5/11 min, they ...",
+      "snippet_highlighted_words": [
+        "24 hours",
+        "hands",
+        "hour and minute coincide",
+        "times",
+        "24 hours",
+        "minutes",
+        "minutes",
+        "min"
+      ],
+      "source": "myPAT"
+    },
+    {
+      "position": 61,
+      "title": "How many times does the minute hand cross over the hour ...",
+      "link": "https://trivia.education.narkive.com/QMWYUvxu/how-many-times-does-the-minute-hand-cross-over-the-hour-hand-on-a-clock",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://trivia.education.narkive.com/QMWYUvxu/how-many-times-does-the-minute-hand-cross-over-the-hour-hand-on-a-clock&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCPUBEAE",
+      "displayed_link": "https://trivia.education.narkive.com › QMWYUvxu › h...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e371257c839674a0938aa00a5f13613b3a5.png",
+      "snippet": "In a 24-hour day, the hour and minute hand meet 22 times. The reason is, the hour hand also makes 2 revolutions around the clock each 24 hours. So you have ...",
+      "snippet_highlighted_words": [
+        "24",
+        "hour",
+        "hour and minute hand",
+        "times",
+        "hour hand",
+        "clock",
+        "24 hours"
+      ],
+      "source": "narkive"
+    },
+    {
+      "position": 62,
+      "title": "Hughes Systique Aptitude Questions for Placements -",
+      "link": "https://www.learntheta.com/aptitude-questions-hughes-systique/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.learntheta.com/aptitude-questions-hughes-systique/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCIkCEAE",
+      "displayed_link": "https://www.learntheta.com › aptitude-questions-hughes...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e373aebf1dc073f3eaa358d865ef120e078.png",
+      "date": "2 days ago",
+      "snippet": "The minute and hour hands overlap approximately every 65 minutes. In a 12-hour period, they overlap 11 times. Therefore, in a 24-hour period, ...",
+      "snippet_highlighted_words": [
+        "minute",
+        "hour hands overlap",
+        "minutes",
+        "hour period",
+        "overlap",
+        "times",
+        "24",
+        "hour period"
+      ],
+      "source": "learntheta.com"
+    },
+    {
+      "position": 63,
+      "title": "Split Time into Intervals",
+      "link": "https://onlinetools.com/time/split-time-into-intervals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://onlinetools.com/time/split-time-into-intervals&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCJgCEAE",
+      "displayed_link": "https://onlinetools.com › time › split-time-into-intervals",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3714a3e0af9eea345f5f8b6a36a405a33e.png",
+      "snippet": "Swap Clock Hands. Swap a clock's hour hand with minute hand. Reverse Clock Time. Find the reverse of the given clock time. Invert Clock Time. Find the inverse ...",
+      "snippet_highlighted_words": [
+        "Clock Hands",
+        "clock's hour hand",
+        "minute hand",
+        "Clock Time",
+        "clock time",
+        "Clock Time"
+      ],
+      "source": "Online Tools"
+    },
+    {
+      "position": 64,
+      "title": "How many times do the hour hand and the minute hand ...",
+      "link": "https://www.youtube.com/watch?v=DSLU4MTEnRI",
+      "displayed_link": "4.9K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtB7O6iS-XBo2DhQTUwnQ_6BG7Oo0m-zaSz9uekbHMzyk&s",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e378fde14c89659941708c287ab89430993.png",
+      "snippet": "How many times do the hour hand and the minute hand coincide in a clock between 10:00 a.m. and 2:00 p.m. (same day)?",
+      "duration": "3:25",
+      "source": "YouTube · ClearIAS"
+    },
+    {
+      "position": 65,
+      "title": "The hour hand of a clock moves from - 2 - to - 5",
+      "link": "https://homework.study.com/explanation/the-hour-hand-of-a-clock-moves-from-2-to-5-o-clock-through-how-many-degrees-does-it-move.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homework.study.com/explanation/the-hour-hand-of-a-clock-moves-from-2-to-5-o-clock-through-how-many-degrees-does-it-move.html&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECDwQAQ",
+      "displayed_link": "https://homework.study.com › ... › Arc (geometry)",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3751704ea8369c25bfa8244210510dd7d0.png",
+      "snippet": "The hour hand of a clock is used to measure the time in hour, and this clock moves around 360 ∘ in its one revolution.",
+      "snippet_highlighted_words": [
+        "hour hand",
+        "clock",
+        "time",
+        "hour",
+        "clock"
+      ],
+      "source": "Homework.Study.com"
+    },
+    {
+      "position": 66,
+      "title": "Clock - Aptitude Questions and Answers",
+      "link": "https://www.geeksforgeeks.org/aptitude/clock-questions-aptitude/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/aptitude/clock-questions-aptitude/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCJ8BEAE",
+      "displayed_link": "https://www.geeksforgeeks.org › aptitude › clock-questi...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3721f23abe8f87215ac879b1541369fd3c.png",
+      "date": "Jun 11, 2025",
+      "snippet": "Between 11 to 1, the hands of the clock coincide only once, i.e., at 12. At 12:00 AM and 12:00 PM, the hour hand and the minute hand do not ...",
+      "snippet_highlighted_words": [
+        "hands",
+        "clock coincide",
+        "hour hand",
+        "minute hand do"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 67,
+      "title": "Ultimate Clock Quiz: When Do Clock Hands Overlap?",
+      "link": "https://www.tiktok.com/@talktothenation/video/7438564803947351328",
+      "displayed_link": "1.6M+ views · 7 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9e57PCY-REXiTVR69vA6MvzxynTq5HPnCFJ_Lq71hQ3jr&s",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37f536e48dcfdc0babb6a259d8b08cba70.png",
+      "snippet": "Discover the answer to 'What is the last time of the day that both hands of a clock overlap?' #trivia #quiz #education #brainteasers #puzzle # ...",
+      "duration": "1:29",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRu3vKdczM3OdQnuBB2bTDwoE9JIx_MIFV3sQ",
+      "source": "TikTok · Talk to the Nation"
+    },
+    {
+      "position": 68,
+      "title": "How many times in a day the angle between the hour and ...",
+      "link": "https://medium.com/@rkmishra10892/how-many-times-in-a-day-the-angle-between-the-hour-and-minute-hands-of-a-clock-is-180-and-90-e4fc74836a3e",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40rkmishra10892/how-many-times-in-a-day-the-angle-between-the-hour-and-minute-hands-of-a-clock-is-180-and-90-e4fc74836a3e&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECFIQAQ",
+      "displayed_link": "2 years ago",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37128bcec748bdec950f7ed545bf8961d9.png",
+      "snippet": "Means 11 times in 12 hours. So, the required result= 24×1- 2=22. Note: The hour and minute hands of a clock make an angle of 90 ...",
+      "snippet_highlighted_words": [
+        "times",
+        "hours",
+        "24",
+        "hour and minute hands of a clock"
+      ],
+      "source": "Medium · Rajnikant Mishra"
+    },
+    {
+      "position": 69,
+      "title": "Appendix G: Mitigation and Monitoring",
+      "link": "https://www.boem.gov/renewable-energy/state-activities/boem-nyb-peisappgmitigation-and-monitoring",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.boem.gov/renewable-energy/state-activities/boem-nyb-peisappgmitigation-and-monitoring&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECFEQAQ",
+      "displayed_link": "https://www.boem.gov › state-activities › boem-ny...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e373194f254f753aa3db4dc0a2e331404bd.png",
+      "snippet": "PSOs must not work for more than 12 hours in any 24-hour period. • Visual ... Enter all times in 24 Hour Coordinated Universal Time (UTC) as HH:MM. The ...",
+      "snippet_highlighted_words": [
+        "24",
+        "hour period",
+        "times",
+        "24 Hour",
+        "Time"
+      ],
+      "source": "Bureau of Ocean Energy Management (.gov)"
+    },
+    {
+      "position": 70,
+      "title": "How many times does the hour hand move around a clock ...",
+      "link": "https://math.answers.com/other-math/How_many_times_does_the_hour_hand_move_around_a_clock_in_one_day",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://math.answers.com/other-math/How_many_times_does_the_hour_hand_move_around_a_clock_in_one_day&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECE4QAQ",
+      "displayed_link": "https://math.answers.com › Math › Other Math",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37c29a0b377b05244c04ce511ee2d1b41a.png",
+      "date": "Sep 9, 2011",
+      "snippet": "Oh, dude, the hour hand moves around a clock a total of 24 times in one day. I mean, it's not like the hour hand is taking a nap or going on ...",
+      "snippet_highlighted_words": [
+        "hour hand",
+        "clock",
+        "24 times",
+        "hour hand"
+      ],
+      "source": "Answers"
+    },
+    {
+      "position": 71,
+      "title": "Question 2: Calculating Time Until Clock Hands AlignA ...",
+      "link": "https://askfilo.com/user-question-answers-smart-solutions/question-2-andnbsp-calculating-time-until-clock-hands-aligna-3138383030373338",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://askfilo.com/user-question-answers-smart-solutions/question-2-andnbsp-calculating-time-until-clock-hands-aligna-3138383030373338&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECFUQAQ",
+      "displayed_link": "https://askfilo.com › ... › Smart Solutions",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e374e90af328f88a3dd1095ac2c4927ec46.png",
+      "date": "Jan 7, 2025",
+      "snippet": "To solve this problem, we need to find the time when the minute hand and the hour hand align again. The minute hand completes one full ...",
+      "snippet_highlighted_words": [
+        "time when",
+        "minute hand",
+        "hour hand",
+        "minute hand"
+      ],
+      "source": "Filo"
+    },
+    {
+      "position": 72,
+      "title": "Important Formulas: Clocks - CSAT Preparation - UPSC ...",
+      "link": "https://edurev.in/t/74092/Clocks-Important-Formulaes--Logical-Reasoning",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://edurev.in/t/74092/Clocks-Important-Formulaes--Logical-Reasoning&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECGsQAQ",
+      "displayed_link": "https://edurev.in › ... › UPSC Notes › CSAT Preparation",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e373dabbec5d28621cb8de4cde2ca305d3f.png",
+      "snippet": "Overlap: Once every hour, both hands will coincide. Straight Line: When the hands are parallel or opposed to each other, they form a straight line.",
+      "snippet_highlighted_words": [
+        "Overlap",
+        "hour",
+        "hands",
+        "coincide",
+        "When",
+        "hands"
+      ],
+      "source": "EduRev"
+    },
+    {
+      "position": 73,
+      "title": "How Many Times are the Clock's Hands at Right Angles ...",
+      "link": "https://www.youtube.com/watch?v=-HGUYW2-VlA",
+      "displayed_link": "118.6K+ views · 6 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeg4r9EqgJzdU6f1-kpcx2HxNMwZFjXHePZJboeTDY3269&s",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3741e1ed4e436426a9b5a71415486b431d.png",
+      "snippet": "Twice an hour approximately, the hands on a clock are at right angles. The hour hand and the minute hand are at 90 degrees. The big hand and ...",
+      "duration": "4:20",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSbKaCwN_44D96ccPoD6be6tCr_4KBE7UoiNQ",
+      "source": "YouTube · How to... Solve Puzzles"
+    },
+    {
+      "position": 74,
+      "title": "Elgin Jitterbugs | NAWCC Forums",
+      "link": "https://mb.nawcc.org/threads/elgin-jitterbugs.85030/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mb.nawcc.org/threads/elgin-jitterbugs.85030/&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECG0QAQ",
+      "displayed_link": "https://mb.nawcc.org › ... › American Pocket Watches",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37da0f55394930ce54b88211f382697436.png",
+      "date": "Feb 28, 2012",
+      "snippet": "The subsidiary dial hand would index over one number every 10 seconds. After 60 seconds, the sub hand was pointing at 1; i.e. one minute. It was ...",
+      "snippet_highlighted_words": [
+        "hand",
+        "hand",
+        "minute"
+      ],
+      "source": "NAWCC Forums"
+    },
+    {
+      "position": 75,
+      "title": "NCHRP Report 812 – Signal Timing Manual, Second Edition",
+      "link": "https://transops.s3.amazonaws.com/uploaded_files/Signal%20Timing%20Manual%20812.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://transops.s3.amazonaws.com/uploaded_files/Signal%2520Timing%2520Manual%2520812.pdf&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCIsBEAE",
+      "displayed_link": "https://transops.s3.amazonaws.com › uploaded_files",
+      "snippet": "... 24-hour period. In this case, traf ic peaks in the morning ... intersections by de ining the point in time (relative to the master clock) when the cycle.",
+      "snippet_highlighted_words": [
+        "24",
+        "hour period",
+        "time",
+        "clock",
+        "when",
+        "cycle"
+      ],
+      "source": "Amazon Web Services (AWS)"
+    },
+    {
+      "position": 76,
+      "title": "Time and its measurement",
+      "link": "https://archive.org/download/timeitsmeasureme00arth/timeitsmeasureme00arth.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://archive.org/download/timeitsmeasureme00arth/timeitsmeasureme00arth.pdf&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoFCIgBEAE",
+      "displayed_link": "https://archive.org › download",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37eb79f79a5a4fbb78ad92eb5bfe3b6862.png",
+      "snippet": "The sidereal clock of the as- onomer does run to a regular motion nt our 24-hour clocks do not, as we lall see later. Now consider the year, r the sun's ...",
+      "snippet_highlighted_words": [
+        "clock",
+        "does",
+        "24",
+        "hour clocks do"
+      ],
+      "source": "Internet Archive"
+    },
+    {
+      "position": 77,
+      "title": "NASA-STD-3001, Volume 2, Revision E",
+      "link": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-std-3001-vol-2-rev-d-with-signature.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nasa.gov/wp-content/uploads/2023/11/nasa-std-3001-vol-2-rev-d-with-signature.pdf&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECDUQAQ",
+      "displayed_link": "https://www.nasa.gov › uploads › 2023/11 › nas...",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e37bc7a1b38027cea13be1bf52be89bc591.png",
+      "snippet": "remaining 1-second time windows during the 24-hour period. These 1-second ... hour light-dark cycle (or a 24-hour and 40-minute cycle for Mars missions) will lead ...",
+      "snippet_highlighted_words": [
+        "time",
+        "24",
+        "hour period",
+        "hour",
+        "cycle",
+        "24",
+        "hour",
+        "minute cycle"
+      ],
+      "source": "NASA (.gov)"
+    },
+    {
+      "position": 78,
+      "title": "Minimum Standards for Child-Care Centers",
+      "link": "https://licensingregulations.acf.hhs.gov/sites/default/files/licensing_regulation/TX_CENTER_MAR_2022.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://licensingregulations.acf.hhs.gov/sites/default/files/licensing_regulation/TX_CENTER_MAR_2022.pdf&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECDcQAQ",
+      "displayed_link": "https://licensingregulations.acf.hhs.gov › sites › files",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e370119586d57fbe6ea42a072601929d4e5.png",
+      "date": "Mar 22, 2022",
+      "snippet": "... How many clock hours of annual training must be obtained by ... (1) No more than 16 hours within a 24-hour period on a daily basis.",
+      "snippet_highlighted_words": [
+        "How many clock",
+        "24",
+        "hour period"
+      ],
+      "source": "National Database of Child Care Licensing Regulations (.gov)"
+    },
+    {
+      "position": 79,
+      "title": "1 of 6 FY-22 NAVSEA STANDARD ITEM NUMERICAL INDEX ...",
+      "link": "https://www.navsea.navy.mil/Portals/103/Documents/SSRAC/NSI/FY%2022/FY%2022%20CH-1/FY22%20CH-1%20NAVSEA%20Standard%20Items%2021%20FEB%202021-1.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.navsea.navy.mil/Portals/103/Documents/SSRAC/NSI/FY%252022/FY%252022%2520CH-1/FY22%2520CH-1%2520NAVSEA%2520Standard%2520Items%252021%2520FEB%25202021-1.pdf&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8QFnoECDoQAQ",
+      "displayed_link": "https://www.navsea.navy.mil › SSRAC › NSI",
+      "favicon": "https://serpapi.com/searches/68584035018c48eb59e601d8/images/b038ba9167fc9f7d42ded5b9931f8e3723c382c2e92a56c6e71aa63fcf41db5c.jpeg",
+      "date": "Feb 21, 2021",
+      "snippet": "1 When a Work Item does not require a report, and one is determined to be necessary in order to produce a reliable or complete repair ...",
+      "snippet_highlighted_words": [
+        "When",
+        "does"
+      ],
+      "source": "NAVSEA (.mil)"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&q=how+many+times+do+the+hour+and+minute+hands+of+a+clock+overlap+in+a+24+hour+period?&udm=2&source=univ&fir=EaCso3UIwo0LhM%252C7n7_6cNDcMqjHM%252C_%253B9o17uKcAJ6gMnM%252CQCr9tflRl-jSJM%252C_%253B1IxN0PLqgK_qGM%252CWRxLbOtFh3V_QM%252C_%253BugRzFxR-2ZwF8M%252CWRxLbOtFh3V_QM%252C_%253BbWwIcNbFn14thM%252CO-_41yYtIJzEiM%252C_%253B5FAMYIuYAehjQM%252C1NfpZHpwDGlKqM%252C_%253Bus2RzAUpCm4lRM%252C2sxT3JqIXAtOkM%252C_%253B3ntwbBVP3D9mZM%252ClHUQpySuHEe9OM%252C_%253Bnf97Cs2n5DzObM%252CWRxLbOtFh3V_QM%252C_&usg=AI4_-kRtuK_1k43eHcY1MHYHtXMKbqlUhQ&sa=X&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q7Al6BQiEARAF",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=how+many+times+do+the+hour+and+minute+hands+of+a+clock+overlap+in+a+24+hour+period%3F",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How many times minute and hour hand overlap in 24 hours",
+      "link": "https://www.google.com/search?num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&q=How+many+times+minute+and+hour+hand+overlap+in+24+hours&sa=X&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q1QJ6BQihAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=How+many+times+minute+and+hour+hand+overlap+in+24+hours"
+    },
+    {
+      "block_position": 1,
+      "query": "How many times do clock hands overlap in 12 hours",
+      "link": "https://www.google.com/search?num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&q=How+many+times+do+clock+hands+overlap+in+12+hours&sa=X&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q1QJ6BQigAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=How+many+times+do+clock+hands+overlap+in+12+hours"
+    },
+    {
+      "block_position": 1,
+      "query": "How many times does the minute hand pass the hour hand in 24 hours",
+      "link": "https://www.google.com/search?num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&q=How+many+times+does+the+minute+hand+pass+the+hour+hand+in+24+hours&sa=X&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q1QJ6BQieAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=How+many+times+does+the+minute+hand+pass+the+hour+hand+in+24+hours"
+    },
+    {
+      "block_position": 1,
+      "query": "How many times do clock hands overlap in 12 hours Professor Layton",
+      "link": "https://www.google.com/search?num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&q=How+many+times+do+clock+hands+overlap+in+12+hours+Professor+Layton&sa=X&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q1QJ6BQibAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=How+many+times+do+clock+hands+overlap+in+12+hours+Professor+Layton"
+    },
+    {
+      "block_position": 1,
+      "query": "How many times will the long and short hands pass over each other between 12 noon and 12 midnight",
+      "link": "https://www.google.com/search?num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&q=How+many+times+will+the+long+and+short+hands+pass+over+each+other+between+12+noon+and+12+midnight&sa=X&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q1QJ6BQiaAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=How+many+times+will+the+long+and+short+hands+pass+over+each+other+between+12+noon+and+12+midnight"
+    },
+    {
+      "block_position": 1,
+      "query": "When do clock hands overlap",
+      "link": "https://www.google.com/search?num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&q=When+do+clock+hands+overlap&sa=X&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q1QJ6BQiZAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=When+do+clock+hands+overlap"
+    },
+    {
+      "block_position": 1,
+      "query": "When do the hour and minute hand meet",
+      "link": "https://www.google.com/search?num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&q=When+do+the+hour+and+minute+hand+meet&sa=X&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q1QJ6BQiXAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=When+do+the+hour+and+minute+hand+meet"
+    },
+    {
+      "block_position": 1,
+      "query": "Clock hands overlap meaning",
+      "link": "https://www.google.com/search?num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&q=Clock+hands+overlap+meaning&sa=X&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q1QJ6BQiVAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=Clock+hands+overlap+meaning"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+many+times+do+the+hour+and+minute+hands+of+a+clock+overlap+in+a+24+hour+period?&num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&ei=NUBYaKqwOJPE5OUPgpa6-Qk&start=80&sa=N&sstk=Ac65TH6vogrtypU54AzIobOzgDRhP-c726XzKqYEPdGtfRmDeKJbfOGb4AYCpmwQpWoyi9sXZ3zksXbgYsuOJr2jGdF8q6T1v0DrGQ&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q8NMDegQIChAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+many+times+do+the+hour+and+minute+hands+of+a+clock+overlap+in+a+24+hour+period?&num=80&sca_esv=2726c0b09330db3e&hl=en&gl=us&ei=NUBYaKqwOJPE5OUPgpa6-Qk&start=80&sa=N&sstk=Ac65TH6vogrtypU54AzIobOzgDRhP-c726XzKqYEPdGtfRmDeKJbfOGb4AYCpmwQpWoyi9sXZ3zksXbgYsuOJr2jGdF8q6T1v0DrGQ&ved=2ahUKEwjqnpvOyYWOAxUTIrkGHQKLLp8Q8tMDegQIChAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=how+many+times+do+the+hour+and+minute+hands+of+a+clock+overlap+in+a+24+hour+period%3F&start=80",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=how+many+times+do+the+hour+and+minute+hands+of+a+clock+overlap+in+a+24+hour+period%3F&start=80",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=80&q=how+many+times+do+the+hour+and+minute+hands+of+a+clock+overlap+in+a+24+hour+period%3F&start=80"
+    }
+  }
+}
