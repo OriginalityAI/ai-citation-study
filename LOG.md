@@ -15,7 +15,7 @@
 - Planned new data collection and citation analysis strategy (use organic results as the ref set)
 - Write a script that calculates citation presence
 - Found an optimal number of organic results (N=40) with high citation presence (53%)
-- TODO: Review GEO paper and its dataset
+- Review GEO paper and its dataset
 
 ---
 
