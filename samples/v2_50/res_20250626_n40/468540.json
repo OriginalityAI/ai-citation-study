@@ -1,0 +1,956 @@
+{
+  "search_metadata": {
+    "id": "685dd2c9392e0bc699c235f7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f9ca0c1ceec578b9/685dd2c9392e0bc699c235f7.json",
+    "created_at": "2025-06-26 23:07:53 UTC",
+    "processed_at": "2025-06-26 23:07:53 UTC",
+    "google_url": "https://www.google.com/search?q=how+to+add+css+in+cshtml+page&oq=how+to+add+css+in+cshtml+page&hl=en&gl=us&num=40&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/f9ca0c1ceec578b9/685dd2c9392e0bc699c235f7.html",
+    "total_time_taken": 3.4
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how to add css in cshtml page",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "40",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how to add css in cshtml page",
+    "total_results": 1350000,
+    "time_taken_displayed": 0.19,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How do I import CSS into Cshtml?",
+      "snippet": "CSS files must be added in the <head> tag which is located in the layout. cshtml. While it has always been possible to inject CSS specific to a page/view, this is code you must write and maintain. The new CSS Isolation feature simply lets you add CSS at a page level.",
+      "title": "why I can use css file in pages but can not use js file? - Microsoft Q&A",
+      "date": "Feb 12, 2023",
+      "link": "https://learn.microsoft.com/en-us/answers/questions/1179882/why-i-can-use-css-file-in-pages-but-can-not-use-js#:~:text=CSS%20files%20must%20be%20added,CSS%20at%20a%20page%20level.",
+      "displayed_link": "https://learn.microsoft.com › en-us › answers › questions",
+      "source_logo": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/db04c67d29c0a347bf68a748309d4f5b27e3780f728b5d0158113b64f4d6f465.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFpTMVpMWGh5Ykd0VGNFaG9kVFJrYzNsdVkwSkpTREUzTms1UU4zcExaa0p3WlVNdFlubERiazFCZGpOVVUxZzNlSGxMWld4U1lTMU9OV3hSUlRSSFRFaHFORTFYZGpKTUxVZ3dPR05qVERaUVprRnJOV1UwY21SZlp4SVhlVGxLWkdGSlh5MU9XbnBIY0RnMFVHMWxaWGQxUVZrYUlrRkdUVUZIUjI5dE5VWmlabDlDVmkxM1dGcElWemxwZEc5YVRXeFBNbmRqUVZFIiwiZmN2IjoiMyIsImVpIjoieTlKZGFJXy1OWnpHcDg0UG1lZXd1QVkiLCJxYyI6IkNoMW9iM2NnZEc4Z1lXUmtJR056Y3lCcGJpQmpjMmgwYld3Z2NHRm5aUkFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IGRvIEkgaW1wb3J0IENTUyBpbnRvIENzaHRtbD8iLCJsayI6IkdoUnBiWEJ2Y25RZ1kzTnpJSFJ2SUdOemFIUnRiQSIsImJzIjoiYzJYT1B3NkNNQlRIOGJnLUZ3ZGpTS2VIZl9mdWhJRUZqU1lJWG9CUUlpUkFDUzFCUFlWZXcxTjRORnRTaWNiNTkzbmZQSEFBZmQ0aDQ3akZ2S3g1STlHTElzd3J5ZEVUbVN3TDE3cGY2SXhNelpvSWdXcEwtZzJPc0JuT1k4YjZXeUd2UmFwTlhLRl9PdXl4anMtcGF6MGN1aUIycHJTZWxOV2x3ZXBhRHlHRWxmLUZXaUY1YVg3Q2dIZHBnNEZpd3JWZVk3b215LXpQNnE2eWRXOTFVc0FPYk5QTXE2Um9XZm9KaHZHTk4tYkJaMFRuQkxOZloyTE40Q2FqTnciLCJpZCI6ImZjX3k5SmRhSV8tTlp6R3A4NFBtZWV3dUFZXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFpTMVpMWGh5Ykd0VGNFaG9kVFJrYzNsdVkwSkpTREUzTms1UU4zcExaa0p3WlVNdFlubERiazFCZGpOVVUxZzNlSGxMWld4U1lTMU9OV3hSUlRSSFRFaHFORTFYZGpKTUxVZ3dPR05qVERaUVprRnJOV1UwY21SZlp4SVhlVGxLWkdGSlh5MU9XbnBIY0RnMFVHMWxaWGQxUVZrYUlrRkdUVUZIUjI5dE5VWmlabDlDVmkxM1dGcElWemxwZEc5YVRXeFBNbmRqUVZFIiwiZmN2IjoiMyIsImVpIjoieTlKZGFJXy1OWnpHcDg0UG1lZXd1QVkiLCJxYyI6IkNoMW9iM2NnZEc4Z1lXUmtJR056Y3lCcGJpQmpjMmgwYld3Z2NHRm5aUkFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IGRvIEkgaW1wb3J0IENTUyBpbnRvIENzaHRtbD8iLCJsayI6IkdoUnBiWEJ2Y25RZ1kzTnpJSFJ2SUdOemFIUnRiQSIsImJzIjoiYzJYT1B3NkNNQlRIOGJnLUZ3ZGpTS2VIZl9mdWhJRUZqU1lJWG9CUUlpUkFDUzFCUFlWZXcxTjRORnRTaWNiNTkzbmZQSEFBZmQ0aDQ3akZ2S3g1STlHTElzd3J5ZEVUbVN3TDE3cGY2SXhNelpvSWdXcEwtZzJPc0JuT1k4YjZXeUd2UmFwTlhLRl9PdXl4anMtcGF6MGN1aUIycHJTZWxOV2x3ZXBhRHlHRWxmLUZXaUY1YVg3Q2dIZHBnNEZpd3JWZVk3b215LXpQNnE2eWRXOTFVc0FPYk5QTXE2Um9XZm9KaHZHTk4tYkJaMFRuQkxOZloyTE40Q2FqTnciLCJpZCI6ImZjX3k5SmRhSV8tTlp6R3A4NFBtZWV3dUFZXzIifQ%3D%3D"
+    },
+    {
+      "question": "How do I add CSS style to an HTML page?",
+      "snippet": null,
+      "title": "CSS can be added to HTML documents in 3 ways:",
+      "link": "https://www.w3schools.com/html/html_css.asp",
+      "list": [
+        "Inline - by using the style attribute inside HTML elements.",
+        "Internal - by using a <style> element in the <head> section.",
+        "External - by using a <link> element to link to an external CSS file."
+      ],
+      "displayed_link": "https://www.w3schools.com › html › html_css",
+      "source_logo": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/db04c67d29c0a347bf68a748309d4f5b7079ef8b01dfc2372c4add7ae137cbea.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFpTMVpMWGh5Ykd0VGNFaG9kVFJrYzNsdVkwSkpTREUzTms1UU4zcExaa0p3WlVNdFlubERiazFCZGpOVVUxZzNlSGxMWld4U1lTMU9OV3hSUlRSSFRFaHFORTFYZGpKTUxVZ3dPR05qVERaUVprRnJOV1UwY21SZlp4SVhlVGxLWkdGSlh5MU9XbnBIY0RnMFVHMWxaWGQxUVZrYUlrRkdUVUZIUjI5dE5VWmlabDlDVmkxM1dGcElWemxwZEc5YVRXeFBNbmRqUVZFIiwiZmN2IjoiMyIsImVpIjoieTlKZGFJXy1OWnpHcDg0UG1lZXd1QVkiLCJxYyI6IkNoMW9iM2NnZEc4Z1lXUmtJR056Y3lCcGJpQmpjMmgwYld3Z2NHRm5aUkFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IGRvIEkgYWRkIENTUyBzdHlsZSB0byBhbiBIVE1MIHBhZ2U/IiwibGsiOiJHaUZvYjNjZ2RHOGdZV1JrSUdOemN5QnpkSGxzWlNCMGJ5Qm9kRzFzSUhCaFoyVSIsImJzIjoiYzJYT1B3NkNNQlRIOGJnLUZ3ZGpTS2VIZl9mdWhJRUZqU1lJWG9CUUlpUkFDUzFCUFlWZXcxTjRORnRTaWNiNTkzbmZQSEFBZmQ0aDQ3akZ2S3g1STlHTElzd3J5ZEVUbVN3TDE3cGY2SXhNelpvSWdXcEwtZzJPc0JuT1k4YjZXeUd2UmFwTlhLRl9PdXl4anMtcGF6MGN1aUIycHJTZWxOV2x3ZXBhRHlHRWxmLUZXaUY1YVg3Q2dIZHBnNEZpd3JWZVk3b215LXpQNnE2eWRXOTFVc0FPYk5QTXE2Um9XZm9KaHZHTk4tYkJaMFRuQkxOZloyTE40Q2FqTnciLCJpZCI6ImZjX3k5SmRhSV8tTlp6R3A4NFBtZWV3dUFZXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFpTMVpMWGh5Ykd0VGNFaG9kVFJrYzNsdVkwSkpTREUzTms1UU4zcExaa0p3WlVNdFlubERiazFCZGpOVVUxZzNlSGxMWld4U1lTMU9OV3hSUlRSSFRFaHFORTFYZGpKTUxVZ3dPR05qVERaUVprRnJOV1UwY21SZlp4SVhlVGxLWkdGSlh5MU9XbnBIY0RnMFVHMWxaWGQxUVZrYUlrRkdUVUZIUjI5dE5VWmlabDlDVmkxM1dGcElWemxwZEc5YVRXeFBNbmRqUVZFIiwiZmN2IjoiMyIsImVpIjoieTlKZGFJXy1OWnpHcDg0UG1lZXd1QVkiLCJxYyI6IkNoMW9iM2NnZEc4Z1lXUmtJR056Y3lCcGJpQmpjMmgwYld3Z2NHRm5aUkFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IGRvIEkgYWRkIENTUyBzdHlsZSB0byBhbiBIVE1MIHBhZ2U%2FIiwibGsiOiJHaUZvYjNjZ2RHOGdZV1JrSUdOemN5QnpkSGxzWlNCMGJ5Qm9kRzFzSUhCaFoyVSIsImJzIjoiYzJYT1B3NkNNQlRIOGJnLUZ3ZGpTS2VIZl9mdWhJRUZqU1lJWG9CUUlpUkFDUzFCUFlWZXcxTjRORnRTaWNiNTkzbmZQSEFBZmQ0aDQ3akZ2S3g1STlHTElzd3J5ZEVUbVN3TDE3cGY2SXhNelpvSWdXcEwtZzJPc0JuT1k4YjZXeUd2UmFwTlhLRl9PdXl4anMtcGF6MGN1aUIycHJTZWxOV2x3ZXBhRHlHRWxmLUZXaUY1YVg3Q2dIZHBnNEZpd3JWZVk3b215LXpQNnE2eWRXOTFVc0FPYk5QTXE2Um9XZm9KaHZHTk4tYkJaMFRuQkxOZloyTE40Q2FqTnciLCJpZCI6ImZjX3k5SmRhSV8tTlp6R3A4NFBtZWV3dUFZXzIifQ%3D%3D"
+    },
+    {
+      "question": "How to add custom CSS in Power Pages?",
+      "snippet": null,
+      "title": "Add custom CSS to your site",
+      "date": "Mar 9, 2023",
+      "link": "https://learn.microsoft.com/en-us/power-pages/getting-started/tutorial-add-custom-style",
+      "list": [
+        "To create a sample, in your favorite CSS editor, create the button_shadow. ... ",
+        "Go to Power Pages.",
+        "Select the site to which you want to add the custom theme and choose Edit.",
+        "Open up the Styling workspace.",
+        "Select a theme and select the ..."
+      ],
+      "displayed_link": "https://learn.microsoft.com › power-pages › getting-started",
+      "source_logo": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/db04c67d29c0a347bf68a748309d4f5b79de471587b78c3caf2da99f4eadde0f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFpTMVpMWGh5Ykd0VGNFaG9kVFJrYzNsdVkwSkpTREUzTms1UU4zcExaa0p3WlVNdFlubERiazFCZGpOVVUxZzNlSGxMWld4U1lTMU9OV3hSUlRSSFRFaHFORTFYZGpKTUxVZ3dPR05qVERaUVprRnJOV1UwY21SZlp4SVhlVGxLWkdGSlh5MU9XbnBIY0RnMFVHMWxaWGQxUVZrYUlrRkdUVUZIUjI5dE5VWmlabDlDVmkxM1dGcElWemxwZEc5YVRXeFBNbmRqUVZFIiwiZmN2IjoiMyIsImVpIjoieTlKZGFJXy1OWnpHcDg0UG1lZXd1QVkiLCJxYyI6IkNoMW9iM2NnZEc4Z1lXUmtJR056Y3lCcGJpQmpjMmgwYld3Z2NHRm5aUkFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGFkZCBjdXN0b20gQ1NTIGluIFBvd2VyIFBhZ2VzPyIsImxrIjoiR2lSb2IzY2dkRzhnWVdSa0lHTjFjM1J2YlNCamMzTWdhVzRnY0c5M1pYSWdjR0ZuWlhNIiwiYnMiOiJjMlhPUHc2Q01CVEg4YmctRndkalNLZUhmX2Z1aElFRmpTWUlYb0JRSWlSQUNTMUJQWVZldzFONE5GdFNpY2I1OTNuZlBIQUFmZDRoNDdqRnZLeDVJOUdMSXN3cnlkRVRtU3dMMTdwZjZJeE16Wm9JZ1dwTC1nMk9zQm5PWThiNld5R3ZSYXBOWEtGX091eXhqcy1wYXowY3VpQjJwclNlbE5XbHdlcGFEeUdFbGYtRldpRjVhWDdDZ0hkcGc0Rml3clZlWTdvbXktelA2cTZ5ZFc5MVVzQU9iTlBNcTZSb1dmb0podkdOTi1iQlowVG5CTE5mWjJMTjRDYWpOdyIsImlkIjoiZmNfeTlKZGFJXy1OWnpHcDg0UG1lZXd1QVlfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFpTMVpMWGh5Ykd0VGNFaG9kVFJrYzNsdVkwSkpTREUzTms1UU4zcExaa0p3WlVNdFlubERiazFCZGpOVVUxZzNlSGxMWld4U1lTMU9OV3hSUlRSSFRFaHFORTFYZGpKTUxVZ3dPR05qVERaUVprRnJOV1UwY21SZlp4SVhlVGxLWkdGSlh5MU9XbnBIY0RnMFVHMWxaWGQxUVZrYUlrRkdUVUZIUjI5dE5VWmlabDlDVmkxM1dGcElWemxwZEc5YVRXeFBNbmRqUVZFIiwiZmN2IjoiMyIsImVpIjoieTlKZGFJXy1OWnpHcDg0UG1lZXd1QVkiLCJxYyI6IkNoMW9iM2NnZEc4Z1lXUmtJR056Y3lCcGJpQmpjMmgwYld3Z2NHRm5aUkFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGFkZCBjdXN0b20gQ1NTIGluIFBvd2VyIFBhZ2VzPyIsImxrIjoiR2lSb2IzY2dkRzhnWVdSa0lHTjFjM1J2YlNCamMzTWdhVzRnY0c5M1pYSWdjR0ZuWlhNIiwiYnMiOiJjMlhPUHc2Q01CVEg4YmctRndkalNLZUhmX2Z1aElFRmpTWUlYb0JRSWlSQUNTMUJQWVZldzFONE5GdFNpY2I1OTNuZlBIQUFmZDRoNDdqRnZLeDVJOUdMSXN3cnlkRVRtU3dMMTdwZjZJeE16Wm9JZ1dwTC1nMk9zQm5PWThiNld5R3ZSYXBOWEtGX091eXhqcy1wYXowY3VpQjJwclNlbE5XbHdlcGFEeUdFbGYtRldpRjVhWDdDZ0hkcGc0Rml3clZlWTdvbXktelA2cTZ5ZFc5MVVzQU9iTlBNcTZSb1dmb0podkdOTi1iQlowVG5CTE5mWjJMTjRDYWpOdyIsImlkIjoiZmNfeTlKZGFJXy1OWnpHcDg0UG1lZXd1QVlfMiJ9"
+    },
+    {
+      "question": "How to include CSS in Razor page?",
+      "snippet": null,
+      "title": "Steps to setup CSS Isolation on a Razor Page",
+      "date": "Jan 16, 2023",
+      "link": "https://dev.to/karenpayneoregon/razor-pages-css-isolation-3f5",
+      "list": [
+        "Right click on Pages folder.",
+        "Add a new item, select text file.",
+        "Save the text file as Index. ... ",
+        "Add styles into Index.cshtml.css.",
+        "Open Index.cshtml and add <link rel=\"stylesheet\" href=\"~/@(nameof(IsolationWebApp)).styles.css\" /> ."
+      ],
+      "displayed_link": "https://dev.to › karenpayneoregon › razor-pages-css-iso...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFpTMVpMWGh5Ykd0VGNFaG9kVFJrYzNsdVkwSkpTREUzTms1UU4zcExaa0p3WlVNdFlubERiazFCZGpOVVUxZzNlSGxMWld4U1lTMU9OV3hSUlRSSFRFaHFORTFYZGpKTUxVZ3dPR05qVERaUVprRnJOV1UwY21SZlp4SVhlVGxLWkdGSlh5MU9XbnBIY0RnMFVHMWxaWGQxUVZrYUlrRkdUVUZIUjI5dE5VWmlabDlDVmkxM1dGcElWemxwZEc5YVRXeFBNbmRqUVZFIiwiZmN2IjoiMyIsImVpIjoieTlKZGFJXy1OWnpHcDg0UG1lZXd1QVkiLCJxYyI6IkNoMW9iM2NnZEc4Z1lXUmtJR056Y3lCcGJpQmpjMmgwYld3Z2NHRm5aUkFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGluY2x1ZGUgQ1NTIGluIFJhem9yIHBhZ2U/IiwibGsiOiJHaUJvYjNjZ2RHOGdhVzVqYkhWa1pTQmpjM01nYVc0Z2NtRjZiM0lnY0dGblpRIiwiYnMiOiJjMlhPUHc2Q01CVEg4YmctRndkalNLZUhmX2Z1aElFRmpTWUlYb0JRSWlSQUNTMUJQWVZldzFONE5GdFNpY2I1OTNuZlBIQUFmZDRoNDdqRnZLeDVJOUdMSXN3cnlkRVRtU3dMMTdwZjZJeE16Wm9JZ1dwTC1nMk9zQm5PWThiNld5R3ZSYXBOWEtGX091eXhqcy1wYXowY3VpQjJwclNlbE5XbHdlcGFEeUdFbGYtRldpRjVhWDdDZ0hkcGc0Rml3clZlWTdvbXktelA2cTZ5ZFc5MVVzQU9iTlBNcTZSb1dmb0podkdOTi1iQlowVG5CTE5mWjJMTjRDYWpOdyIsImlkIjoiZmNfeTlKZGFJXy1OWnpHcDg0UG1lZXd1QVlfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFpTMVpMWGh5Ykd0VGNFaG9kVFJrYzNsdVkwSkpTREUzTms1UU4zcExaa0p3WlVNdFlubERiazFCZGpOVVUxZzNlSGxMWld4U1lTMU9OV3hSUlRSSFRFaHFORTFYZGpKTUxVZ3dPR05qVERaUVprRnJOV1UwY21SZlp4SVhlVGxLWkdGSlh5MU9XbnBIY0RnMFVHMWxaWGQxUVZrYUlrRkdUVUZIUjI5dE5VWmlabDlDVmkxM1dGcElWemxwZEc5YVRXeFBNbmRqUVZFIiwiZmN2IjoiMyIsImVpIjoieTlKZGFJXy1OWnpHcDg0UG1lZXd1QVkiLCJxYyI6IkNoMW9iM2NnZEc4Z1lXUmtJR056Y3lCcGJpQmpjMmgwYld3Z2NHRm5aUkFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGluY2x1ZGUgQ1NTIGluIFJhem9yIHBhZ2U%2FIiwibGsiOiJHaUJvYjNjZ2RHOGdhVzVqYkhWa1pTQmpjM01nYVc0Z2NtRjZiM0lnY0dGblpRIiwiYnMiOiJjMlhPUHc2Q01CVEg4YmctRndkalNLZUhmX2Z1aElFRmpTWUlYb0JRSWlSQUNTMUJQWVZldzFONE5GdFNpY2I1OTNuZlBIQUFmZDRoNDdqRnZLeDVJOUdMSXN3cnlkRVRtU3dMMTdwZjZJeE16Wm9JZ1dwTC1nMk9zQm5PWThiNld5R3ZSYXBOWEtGX091eXhqcy1wYXowY3VpQjJwclNlbE5XbHdlcGFEeUdFbGYtRldpRjVhWDdDZ0hkcGc0Rml3clZlWTdvbXktelA2cTZ5ZFc5MVVzQU9iTlBNcTZSb1dmb0podkdOTi1iQlowVG5CTE5mWjJMTjRDYWpOdyIsImlkIjoiZmNfeTlKZGFJXy1OWnpHcDg0UG1lZXd1QVlfMiJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Adding CSS to Cshtml (Example)",
+      "link": "https://teamtreehouse.com/community/adding-css-to-cshtml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://teamtreehouse.com/community/adding-css-to-cshtml&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECAsQAQ",
+      "displayed_link": "https://teamtreehouse.com › community › adding-css-to...",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa03935e4c9b21483c94a9e2d75b37ec25.png",
+      "date": "Oct 27, 2017",
+      "snippet": "Just place your CSS code in the <head> section of the cshtml file, surrounded by <style> tags. Or if the CSS is intended to be shared across ...",
+      "snippet_highlighted_words": [
+        "Just place your CSS code in the <head> section of the cshtml file"
+      ],
+      "source": "Treehouse"
+    },
+    {
+      "position": 2,
+      "title": "Modification off Index.cshtml file in asp .net core razor ...",
+      "link": "https://learn.microsoft.com/en-us/answers/questions/817663/modification-off-index-cshtml-file-in-asp-net-core",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.microsoft.com/en-us/answers/questions/817663/modification-off-index-cshtml-file-in-asp-net-core&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECCEQAQ",
+      "displayed_link": "https://learn.microsoft.com › en-us › answers › questions",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa6a649e5ffe879023e3e9b4127bebffcb.png",
+      "snippet": "Right click the Pages folder, and add a style file named “Index.cshtml.css”, then you can add the CSS style in the Index.cshtml.css file. The result like this: ...",
+      "snippet_highlighted_words": [
+        "Right click the Pages folder, and add a style file named “Index.cshtml.css"
+      ],
+      "source": "Learn Microsoft"
+    },
+    {
+      "position": 3,
+      "title": "How to add child css file under .cshtml in .net core & visual ...",
+      "link": "https://stackoverflow.com/questions/75963933/how-to-add-child-css-file-under-cshtml-in-net-core-visual-studio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/75963933/how-to-add-child-css-file-under-cshtml-in-net-core-visual-studio&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECCUQAQ",
+      "displayed_link": "1 answer · 2 years ago",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa710211c979e79835e0a35eec4cddd0d3.png",
+      "snippet": "1 Answer 1 · Right click on Pages folder · Add a new item, select text file · Save the text file as Index.cshtml. · Add styles into Index.cshtml ...",
+      "snippet_highlighted_words": [
+        "Right click on Pages folder"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How to add a .css to a .cshtml - Stack Overflow",
+            "link": "https://stackoverflow.com/questions/13144234/how-to-add-a-css-to-a-cshtml",
+            "answer_count": 3,
+            "date": "Oct 30, 2012"
+          },
+          {
+            "title": "Add css file to cshtml file? - asp.net - Stack Overflow",
+            "link": "https://stackoverflow.com/questions/42589395/add-css-file-to-cshtml-file",
+            "answer_count": 2,
+            "date": "Mar 3, 2017"
+          }
+        ]
+      },
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 4,
+      "title": "How to add a .css to a .cshtml",
+      "link": "https://stackoverflow.com/questions/13144234/how-to-add-a-css-to-a-cshtml/13144260",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/13144234/how-to-add-a-css-to-a-cshtml/13144260&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECB0QAQ",
+      "displayed_link": "3 answers · 12 years ago",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa796afbf181da36a6d528ff3092dff5d5.png",
+      "snippet": "Here is the basic option - you add a style tag to the <head> of your document... <link rel=\"stylesheet\" href=\"app.css\" type=\"text/css\" />.",
+      "snippet_highlighted_words": [
+        "add",
+        "link",
+        "stylesheet",
+        "css",
+        "css"
+      ],
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 5,
+      "title": "How to use Scoped CSS Styles with .CSHTML Razor Views in ...",
+      "link": "https://www.youtube.com/watch?v=dyULqjVUMCg",
+      "displayed_link": "8.7K+ views · 3 years ago",
+      "thumbnail": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fae2b42fb995f136ebac59f1c623c16573.jpeg",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa39b36b866313d904f20786d9d4860031.png",
+      "snippet": "In this short video I talk about a new feature in ASP.NET 6.0 when browsing through the GitHub project board of the .",
+      "duration": "9:56",
+      "key_moments": [
+        {
+          "time": "00:03",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=dyULqjVUMCg&t=3",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStUYZ0-B053TfMyeG15yeg5T-_Bau5sQRohhQr1rYVKQ&s"
+        },
+        {
+          "time": "02:20",
+          "title": "Creating a new ASP.NET 6.0 ASP.NET MVC project",
+          "link": "https://www.youtube.com/watch?v=dyULqjVUMCg&t=140",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_rjhXFvp713bc1kohHP6ZtDMvN7nVieTNceF7yIpkQ&s"
+        },
+        {
+          "time": "02:55",
+          "title": "Setup ASP.NET 6.0 preview",
+          "link": "https://www.youtube.com/watch?v=dyULqjVUMCg&t=175",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xadxL4HiHpJXawiSpMxB0YnFOg_4AIOQqYkuEfWusA&s"
+        },
+        {
+          "time": "03:09",
+          "title": "Run the application",
+          "link": "https://www.youtube.com/watch?v=dyULqjVUMCg&t=189",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9YN6Te3WgAxuh7pvFJVHDkqJLhnNGO7UPfEgIYVPJwg&s"
+        },
+        {
+          "time": "04:12",
+          "title": "Adding Scoped CSS",
+          "link": "https://www.youtube.com/watch?v=dyULqjVUMCg&t=252",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bB1-mGvl6ixhZ13XfxOVNrQFLXM3PFh5Ot4UbWRL0g&s"
+        },
+        {
+          "time": "05:21",
+          "title": "Update the Layout",
+          "link": "https://www.youtube.com/watch?v=dyULqjVUMCg&t=321",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPYbyTagjVY6f1ylq6bVCtyUBad_dNsDQTm6D2wvRvfQ&s"
+        },
+        {
+          "time": "06:06",
+          "title": "Adding the CSS to the Top Level Layout",
+          "link": "https://www.youtube.com/watch?v=dyULqjVUMCg&t=366",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZaIu3dOjXtD5FmFUlWCVenbH4MBuYJR_Lrt1q60m0dQ&s"
+        },
+        {
+          "time": "06:41",
+          "title": "Troubleshooting",
+          "link": "https://www.youtube.com/watch?v=dyULqjVUMCg&t=401",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwOGdWyDhf9xj8aYZpBiYGChe-CaYkQ0Z4zGD5Ix8cvQ&s"
+        },
+        {
+          "time": "08:52",
+          "title": "Applying Scoped CSS Styles",
+          "link": "https://www.youtube.com/watch?v=dyULqjVUMCg&t=532",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6PvKAPywj5PCMmiR5K6ddJLWPWAsqdOUPl7uycGN0Cg&s"
+        },
+        {
+          "time": "09:25",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=dyULqjVUMCg&t=565",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQk7j4h1K4DqtwKTtGrhM6gB2lkShm1IVm2ZAKI4zGog&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQYQB5gtIC2drZhzPFV01b-PI0MZpWlR3iXiA",
+      "source": "YouTube · Warren Buckley"
+    },
+    {
+      "position": 6,
+      "title": "Loading Custom CSS Files in Razor Pages",
+      "link": "https://dev.to/amjadmh73/loading-custom-css-files-in-razor-pages-4no9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dev.to/amjadmh73/loading-custom-css-files-in-razor-pages-4no9&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECCsQAQ",
+      "displayed_link": "https://dev.to › amjadmh73 › loading-custom-css-files-i...",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fad46cf9286937cf86f44d938295e2f553.png",
+      "date": "May 23, 2020",
+      "snippet": "The trick that will dynamically load a chosen css file into a child page will be done by using the RenderSection feature of ASP.Net Core.",
+      "snippet_highlighted_words": [
+        "css file",
+        "page"
+      ],
+      "source": "DEV Community"
+    },
+    {
+      "position": 7,
+      "title": "Working With Layout and CSS in ASP.Net Web Pages 2",
+      "link": "https://www.c-sharpcorner.com/UploadFile/4b0136/working-with-layout-and-css-in-Asp-Net-web-pages-2/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.c-sharpcorner.com/UploadFile/4b0136/working-with-layout-and-css-in-Asp-Net-web-pages-2/&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECGQQAQ",
+      "displayed_link": "https://www.c-sharpcorner.com › UploadFile › working-...",
+      "snippet": "Step 1: Create a CSHTML page named _LayoutPage. Creating Layout Page ; Step 1: Create a New Folder to add the Styles Folder to contain the CSS. Adding New Folder ...",
+      "snippet_highlighted_words": [
+        "Create a CSHTML page named _LayoutPage"
+      ],
+      "source": "C# Corner"
+    },
+    {
+      "position": 8,
+      "title": "Question: ASP.net Core Web App Styles : r/csharp",
+      "link": "https://www.reddit.com/r/csharp/comments/sbj4ky/question_aspnet_core_web_app_styles/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/csharp/comments/sbj4ky/question_aspnet_core_web_app_styles/&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECDAQAQ",
+      "displayed_link": "10+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fab0f6998f3e606ed5515f531ea26fbe9b.png",
+      "snippet": "put in the wwwroot . Then open the _Layout.cshtml and put the normal css link e.g \"~/my.css\" . and dont forget the wwwroot/my.css. Upvote 1",
+      "snippet_highlighted_words": [
+        "put in the wwwroot"
+      ],
+      "source": "Reddit · r/csharp"
+    },
+    {
+      "position": 9,
+      "title": "CSS Isolation In Razor Pages",
+      "link": "https://www.mikesdotnetting.com/article/355/css-isolation-in-razor-pages",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mikesdotnetting.com/article/355/css-isolation-in-razor-pages&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECEMQAQ",
+      "displayed_link": "https://www.mikesdotnetting.com › article › css-isolation...",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa4706093a8dd4652db1851833434194d0.png",
+      "date": "Jul 19, 2021",
+      "snippet": "CSS isolation in Razor Pages basically removes the reliance on sections and includes bundling for free.",
+      "snippet_highlighted_words": [
+        "CSS",
+        "Pages"
+      ],
+      "source": "Mikesdotnetting"
+    },
+    {
+      "position": 10,
+      "title": "Use CSS isolation in ASP.NET Core MVC, Razor Pages, and ...",
+      "link": "https://www.binaryintellect.net/articles/d94c00f5-e8fe-44ef-8a6e-1a4d66510c9f.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.binaryintellect.net/articles/d94c00f5-e8fe-44ef-8a6e-1a4d66510c9f.aspx&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECHIQAQ",
+      "displayed_link": "https://www.binaryintellect.net › articles",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa8b4ec45b067e4955df4649cc925ba4be.png",
+      "date": "May 17, 2021",
+      "snippet": "Next, open _Layout.cshtml file from under Views > Shared folder and add the following markup in its <head> section. <link rel=\"stylesheet\" href= ...",
+      "snippet_highlighted_words": [
+        "cshtml file",
+        "add",
+        "link",
+        "stylesheet"
+      ],
+      "source": "binaryintellect.net"
+    },
+    {
+      "position": 11,
+      "title": "How to Add CSS Styles in ASP.NET MVC - Part 7",
+      "link": "https://www.youtube.com/watch?v=bx6T2TglpH8",
+      "displayed_link": "50.5K+ views · 9 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGu4knwBZxLPcwN-Rrn3cO3lPSm88OavlU01GCgkm1fkh&s",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fae5c476fd81a93750393cb62232951112.png",
+      "snippet": "In this video I'm going to talk about how we can add the custom CSS or the styling so to speak on our MVC web pages.",
+      "duration": "3:26",
+      "key_moments": [
+        {
+          "time": "00:08",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=bx6T2TglpH8&t=8",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Y3N5seMVTOgSEfal9kXEsGk1ic14bVi2rhbxdB6gWA&s"
+        },
+        {
+          "time": "00:24",
+          "title": "Setup",
+          "link": "https://www.youtube.com/watch?v=bx6T2TglpH8&t=24",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmY05VzTqIrLHFFi76RMfDWRy3jG0uv8UVbrG6Ov-RwA&s"
+        },
+        {
+          "time": "01:15",
+          "title": "What we will learn in this video",
+          "link": "https://www.youtube.com/watch?v=bx6T2TglpH8&t=75",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTTc9IldLYHW2bF10S1txu7dT481xFFUbNpTawX6e4lg&s"
+        },
+        {
+          "time": "02:11",
+          "title": "Adding a reference to the CSS file in the Page Layout",
+          "link": "https://www.youtube.com/watch?v=bx6T2TglpH8&t=131",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9IIX2HZLjE3ikgU1r6fe0BLPpk1qDFgxVxNImJwjugg&s"
+        },
+        {
+          "time": "03:04",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=bx6T2TglpH8&t=184",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3AcnSjWRBvg_2pf2mpNuP8BnLnYoXarN_Y5Aj2NT5Qw&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRn-KXmgfuofqzHgAvDfKVtdvFLXGImV4E2Zw",
+      "source": "YouTube · the IT videos"
+    },
+    {
+      "position": 12,
+      "title": "Razor Pages CSS Isolation",
+      "link": "https://dev.to/karenpayneoregon/razor-pages-css-isolation-3f5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dev.to/karenpayneoregon/razor-pages-css-isolation-3f5&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECCwQAQ",
+      "displayed_link": "https://dev.to › karenpayneoregon › razor-pages-css-iso...",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fabf2e23b7dee1888b370f074a5c78a3d0.png",
+      "date": "Jan 16, 2023",
+      "snippet": "Steps to setup CSS Isolation on a Razor Page · Right click on Pages folder · Add a new item, select text file · Save the text file as Index.cshtml.",
+      "snippet_highlighted_words": [
+        "Right click on Pages folder"
+      ],
+      "source": "DEV Community"
+    },
+    {
+      "position": 13,
+      "title": "apply css to specific page created using document type ...",
+      "link": "https://our.umbraco.com/forum/using-umbraco-and-getting-started/108312-apply-css-to-specific-page-created-using-document-type-and-template",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://our.umbraco.com/forum/using-umbraco-and-getting-started/108312-apply-css-to-specific-page-created-using-document-type-and-template&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECEQQAQ",
+      "displayed_link": "https://our.umbraco.com › forum › 108312-apply-css-t...",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa42d3e08c27f81a7e1ba829ac7116f40e.png",
+      "date": "Feb 16, 2022",
+      "snippet": "I have page created from document type using template. I want to apply CSS only to specific page. How can I apply it.",
+      "snippet_highlighted_words": [
+        "page",
+        "apply CSS",
+        "page",
+        "apply"
+      ],
+      "source": "Umbraco"
+    },
+    {
+      "position": 14,
+      "title": "Trying to apply css to razor page : r/dotnet",
+      "link": "https://www.reddit.com/r/dotnet/comments/15jpwj4/trying_to_apply_css_to_razor_page/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/dotnet/comments/15jpwj4/trying_to_apply_css_to_razor_page/&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECEUQAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa167a142e1e08af40ad2882e62c1a08fe.png",
+      "snippet": "I have been trying everything stack overflow and google suggests but cannot get the css to render on this one razor page. Does anyone know how to do this?",
+      "snippet_highlighted_words": [
+        "css",
+        "page"
+      ],
+      "source": "Reddit · r/dotnet"
+    },
+    {
+      "position": 15,
+      "title": "Inline CSS and Styles with Html Helpers in MVC3 Razor",
+      "link": "https://www.scholarhat.com/tutorial/mvc/inline-css-and-styles-with-html-helpers-in-mvc3-razor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scholarhat.com/tutorial/mvc/inline-css-and-styles-with-html-helpers-in-mvc3-razor&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECEYQAQ",
+      "displayed_link": "https://www.scholarhat.com › Tutorials › Mvc",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fad7f69493b710548a4252cb7ba5cb62a6.png",
+      "date": "Mar 27, 2024",
+      "snippet": "Step 1: Create an empty ASP.Net MVC Application. · Step 2: Then Right-click the controller and add a controller. · Step 3: Right-click the action ...",
+      "snippet_highlighted_words": [
+        "Step 1: Create an empty ASP.Net MVC Application"
+      ],
+      "source": "ScholarHat"
+    },
+    {
+      "position": 16,
+      "title": "How to use External CSS file in ASP.NET MVC Web ...",
+      "link": "https://www.youtube.com/watch?v=iNs9eSPEcW8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DiNs9eSPEcW8&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECGMQAQ",
+      "displayed_link": "6.4K+ views · 2 years ago",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa92bc606662ef281de8c46bd3bdcf8339.png",
+      "snippet": "Let's go ahead and see how we can use external CSS file in our asp.net MVC web application.",
+      "snippet_highlighted_words": [
+        "how we can use external CSS file"
+      ],
+      "source": "YouTube · Coffee Programmer"
+    },
+    {
+      "position": 17,
+      "title": "Where do we write the code of CSS in MVC?",
+      "link": "https://www.quora.com/Where-do-we-write-the-code-of-CSS-in-MVC",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Where-do-we-write-the-code-of-CSS-in-MVC&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECHgQAQ",
+      "displayed_link": "4 answers · 8 years ago",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73faab8072825bb407139995384e7c820e61.png",
+      "snippet": "Under Solution Explorer go to Content -> Site.css , open this file and write your custom styles there. Continue Reading.",
+      "snippet_highlighted_words": [
+        "Under Solution Explorer go to Content -> Site.css"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 18,
+      "title": "How to add css in .cshtml file",
+      "link": "https://www.c-sharpcorner.com/forums/how-to-add-css-in-cshtml-file",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.c-sharpcorner.com/forums/how-to-add-css-in-cshtml-file&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoFCIMBEAE",
+      "displayed_link": "https://www.c-sharpcorner.com › forums › how-to-add-c...",
+      "snippet": "HI I have tried adding css in .cshtml file but it is not working. <link href=\"/skins/base/css/invoicepdf.css\" rel=\"stylesheet\" type=\"text/css\" />.",
+      "snippet_highlighted_words": [
+        "link href=\"/skins/base/css/invoicepdf.css\" rel=\"stylesheet\" type=\"text/css"
+      ],
+      "source": "C# Corner"
+    },
+    {
+      "position": 19,
+      "title": "Create, Add StyleSheet in ASP.NET MVC",
+      "link": "https://www.youtube.com/watch?v=yhhVicqyi1U",
+      "displayed_link": "42.9K+ views · 9 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBTNqjJMnzbY958uVNOMUOWis1Y5UMO4sxSjj5ufZD6v6N&s",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa719857f8fb611cc7531f33b140f01439.png",
+      "snippet": "In this Video Tutorial we will Learn, How to create Style sheet (.css) file in asp.net MVC. How to add style sheet in Layout page(.cshtml).",
+      "duration": "5:57",
+      "key_moments": [
+        {
+          "time": "00:02",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=yhhVicqyi1U&t=2",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJNBlC5vDgjihINstJelaPvO51EgdDCIV9Y-JwRjhQCw&s"
+        },
+        {
+          "time": "00:15",
+          "title": "Create ASP.NET MVC Project",
+          "link": "https://www.youtube.com/watch?v=yhhVicqyi1U&t=15",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwkHcCaLKm_Ek7n_LVRC2vEOOT1Pwz91OtponwuF2swQ&s"
+        },
+        {
+          "time": "00:43",
+          "title": "Add Controller",
+          "link": "https://www.youtube.com/watch?v=yhhVicqyi1U&t=43",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_zs-uZDGbcY0Oww6CsUrMZL7VLP0Xrm8sXa-ymi3-A&s"
+        },
+        {
+          "time": "01:49",
+          "title": "Add Stylesheet in Head Section",
+          "link": "https://www.youtube.com/watch?v=yhhVicqyi1U&t=109",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6remtZXebyrwMGKMVfERplRXKNo0Q5W1_bOEH_M7QuA&s"
+        },
+        {
+          "time": "04:06",
+          "title": "Create Page Class",
+          "link": "https://www.youtube.com/watch?v=yhhVicqyi1U&t=246",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjGPbeSdpkjXzo4VwbEgB-2OF395yax6VldBlYMJhNw&s"
+        },
+        {
+          "time": "05:33",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=yhhVicqyi1U&t=333",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Mud3T_aEBuLLIl_WIgePdWTh1f39PXjIh_a_10D4WA&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRB1aHJthkmvoiDEcfl3gMdNOFUuGAUal1BYQ",
+      "source": "YouTube · ASP.NET MVC"
+    },
+    {
+      "position": 20,
+      "title": "CSS isolation for MVC Views and Razor Pages",
+      "link": "https://asp.net-hacker.rocks/2021/05/10/aspnetcore6-08-css-isolation.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://asp.net-hacker.rocks/2021/05/10/aspnetcore6-08-css-isolation.html&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECCoQAQ",
+      "displayed_link": "https://asp.net-hacker.rocks › aspnetcore6-08-css-isolation",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa08ceb1ce2226bf91c60da2f9d7d50ddd.png",
+      "date": "May 10, 2021",
+      "snippet": "After VSCode opens, create an Index.cshtml.css file in the Views/Home folder. In Visual Studio this file will be nested under the Index.cshtml .",
+      "snippet_highlighted_words": [
+        "create an Index.cshtml.css file in the Views/Home folder"
+      ],
+      "source": "ASP.NET Hacker"
+    },
+    {
+      "position": 21,
+      "title": "ASP.NET Web Pages - Adding Razor Code",
+      "link": "https://www.w3schools.com/asp/webpages_razor.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3schools.com/asp/webpages_razor.asp&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECC0QAQ",
+      "displayed_link": "https://www.w3schools.com › asp › webpages_razor",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa68d5881cfd26c787158b7e39b6b08e12.png",
+      "snippet": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, ...",
+      "snippet_highlighted_words": [
+        "CSS"
+      ],
+      "source": "W3Schools"
+    },
+    {
+      "position": 22,
+      "title": "Styling a Razor Page | ASP.NET Core 101 [6 of 13]",
+      "link": "https://www.youtube.com/watch?v=9lJF47kFRcU",
+      "displayed_link": "154.6K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOdbINVMzpstczw55R5JlqKIR2FupM5kesQ-T8Hi-RAKRR&s",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73facaec4cc2f50ac3c3384b761abe568d57.png",
+      "snippet": "Let's add some CSS to our Bootstrap template that will take our ASP.NET Core website to the next level. Follow Scott Hanselman: https ...",
+      "duration": "10:19",
+      "key_moments": [
+        {
+          "time": "00:59",
+          "title": "Adding Bootstrap classes",
+          "link": "https://www.youtube.com/watch?v=9lJF47kFRcU&t=59"
+        },
+        {
+          "time": "01:15",
+          "title": "Styling the Card Column",
+          "link": "https://www.youtube.com/watch?v=9lJF47kFRcU&t=75"
+        },
+        {
+          "time": "02:40",
+          "title": "Setting a background image",
+          "link": "https://www.youtube.com/watch?v=9lJF47kFRcU&t=160"
+        },
+        {
+          "time": "03:34",
+          "title": "Adding a title",
+          "link": "https://www.youtube.com/watch?v=9lJF47kFRcU&t=214"
+        },
+        {
+          "time": "04:41",
+          "title": "Running the application",
+          "link": "https://www.youtube.com/watch?v=9lJF47kFRcU&t=281"
+        },
+        {
+          "time": "05:24",
+          "title": "Adding CSS",
+          "link": "https://www.youtube.com/watch?v=9lJF47kFRcU&t=324"
+        },
+        {
+          "time": "05:58",
+          "title": "Styling the Card Image",
+          "link": "https://www.youtube.com/watch?v=9lJF47kFRcU&t=358"
+        },
+        {
+          "time": "07:05",
+          "title": "Applying styles to the whole website",
+          "link": "https://www.youtube.com/watch?v=9lJF47kFRcU&t=425"
+        },
+        {
+          "time": "08:32",
+          "title": "Adding custom fonts",
+          "link": "https://www.youtube.com/watch?v=9lJF47kFRcU&t=512"
+        },
+        {
+          "time": "09:49",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=9lJF47kFRcU&t=589"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTt15LCiM0884PdDMCdWULRs4Vt-_Ff2iP-mA",
+      "source": "YouTube · dotnet"
+    },
+    {
+      "position": 23,
+      "title": "<table>: The Table element - HTML - MDN Web Docs - Mozilla",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECEIQAQ",
+      "displayed_link": "https://developer.mozilla.org › ... › Reference › Elements",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa7417ff055fad0e3d502a6d41655cd72a.png",
+      "date": "3 days ago",
+      "snippet": "This example extends the basic table, extending the content and adding basic CSS styles. HTML. The table comprises four rows ( <tr> elements) ...",
+      "snippet_highlighted_words": [
+        "adding",
+        "CSS"
+      ],
+      "source": "MDN Web Docs"
+    },
+    {
+      "position": 24,
+      "title": "add css stylesheet from macro partial in umbraco 5",
+      "link": "https://our.umbraco.com/forum/developers/razor/29815-Add-CSS-Stylesheet-from-Macro-Partial-in-Umbraco-5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://our.umbraco.com/forum/developers/razor/29815-Add-CSS-Stylesheet-from-Macro-Partial-in-Umbraco-5&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECFAQAQ",
+      "displayed_link": "https://our.umbraco.com › forum › developers › razor",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa4fee06b579430daade6c35e1032420f8.png",
+      "date": "Mar 14, 2012",
+      "snippet": "I'm trying to create a macro partial in Umbraco 5, and add css stylessheets and javascripts to the <head> element from the macro partial.",
+      "snippet_highlighted_words": [
+        "add css stylessheets"
+      ],
+      "source": "Umbraco"
+    },
+    {
+      "position": 25,
+      "title": "ASP.NET Core CSS 分離 - C#",
+      "link": "https://qiita.com/hiromasa-masuda/items/ea458f90d5372c1b8c08",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://qiita.com/hiromasa-masuda/items/ea458f90d5372c1b8c08&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECFEQAQ",
+      "displayed_link": "https://qiita.com › C#",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73faaaae633d4ce182b315dff59c5d107724.png",
+      "date": "May 6, 2023",
+      "snippet": "作成した CSS ファイルにスタイルを定義します。 例として、ファイル Index.cshtml.css を作成し、h1 要素のフォントを白、背景色を赤に設定しています。",
+      "snippet_highlighted_words": [
+        "CSS",
+        "cshtml",
+        "css"
+      ],
+      "source": "Qiita"
+    },
+    {
+      "position": 26,
+      "title": "Installation",
+      "link": "https://mudblazor.com/getting-started/installation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mudblazor.com/getting-started/installation&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECE8QAQ",
+      "displayed_link": "https://mudblazor.com › getting-started › installation",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fae49764c299b75028e6339f29f360259e.png",
+      "snippet": "Add the following to your HTML head section, it's either index.html or _Layout.cshtml / _Host.cshtml / App.razor depending on whether you're running WebAssembly ...",
+      "snippet_highlighted_words": [
+        "Add the following to your HTML head section"
+      ],
+      "source": "MudBlazor"
+    },
+    {
+      "position": 27,
+      "title": "Live Preview - VS Code Extension",
+      "link": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://marketplace.visualstudio.com/items%3FitemName%3Dms-vscode.live-server&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECGEQAQ",
+      "displayed_link": "https://marketplace.visualstudio.com › items",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa3a2dee929fbe217019a784d6c0e92aea.png",
+      "snippet": "An extension that hosts a local server for you to preview your web projects on! This extension is most useful for projects where a server is not already ...",
+      "source": "Visual Studio Marketplace"
+    },
+    {
+      "position": 28,
+      "title": "ASP.NET MVC - Adding CSS to your view (inside of the view ...",
+      "link": "https://www.youtube.com/watch?v=pgRwT23t42A",
+      "displayed_link": "30+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgKrBS5ccOzHl186pMWntmlsqIi5UP2Az-6FKHPu3h-Jp&s",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fafc51b74547065c870bd6ea97ba58a59d.png",
+      "snippet": "... ASP.NET MVC - Adding CSS to your view (inside of the view not an external .css file) ... How to use Scoped CSS Styles with .CSHTML Razor Views in ...",
+      "duration": "1:46",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ-bSjmuBwQijgCUarlmRXEe7GLOa_-D8cX4g",
+      "source": "YouTube · The Debug Zone"
+    },
+    {
+      "position": 29,
+      "title": "CSS · Bootstrap",
+      "link": "https://getbootstrap.com/docs/3.3/css/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://getbootstrap.com/docs/3.3/css/&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECGIQAQ",
+      "displayed_link": "https://getbootstrap.com › docs › css",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73faa1f8191744cdb8cddad0f67bae8b010a.png",
+      "snippet": "Global CSS settings, fundamental HTML elements styled and enhanced with extensible classes, and an advanced grid system.",
+      "snippet_highlighted_words": [
+        "Global CSS settings"
+      ],
+      "source": "Bootstrap"
+    },
+    {
+      "position": 30,
+      "title": "<input type=\"number\"> - HTML - MDN Web Docs",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/number",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/number&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECHMQAQ",
+      "displayed_link": "https://developer.mozilla.org › ... › Elements › <input>",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73faf2556fa00a2ee0ef11d63a937cbc23ed.png",
+      "date": "Jun 2, 2025",
+      "snippet": "You'll have to resort to CSS to change the size of these controls. For example, to adjust the width of the input to be only as wide as is ...",
+      "snippet_highlighted_words": [
+        "CSS"
+      ],
+      "source": "MDN Web Docs"
+    },
+    {
+      "position": 31,
+      "title": "Space between two rows in a table using CSS",
+      "link": "https://www.geeksforgeeks.org/css/space-between-two-rows-in-a-table-using-css/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/css/space-between-two-rows-in-a-table-using-css/&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECH4QAQ",
+      "displayed_link": "https://www.geeksforgeeks.org › css › space-between-t...",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa974437f0539a0b5dd4810f314449cbd5.png",
+      "date": "Sep 16, 2024",
+      "snippet": "The space between two rows in a table can be done using CSS border-spacing and border-collapse properties. The border-spacing property is ...",
+      "snippet_highlighted_words": [
+        "using CSS border-spacing and border-collapse properties"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 32,
+      "title": "Beautify HTML Code Online",
+      "link": "https://www.site24x7.com/tools/html-beautifier.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.site24x7.com/tools/html-beautifier.html&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECH8QAQ",
+      "displayed_link": "https://www.site24x7.com › tools › html-beautifier",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa36aae6c1b9d7905a139b941e80891aa5.png",
+      "snippet": "About the HTML Beautifier and how to use · Upload your minified HTML code that you want to beautify and paste it into the input field. · Click the Beautify button ...",
+      "snippet_highlighted_words": [
+        "Upload your minified HTML code that you want to beautify"
+      ],
+      "source": "Site24x7"
+    },
+    {
+      "position": 33,
+      "title": "Free PDF to HTML Converter Online",
+      "link": "https://xodo.com/convert-pdf-to-html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://xodo.com/convert-pdf-to-html&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoFCIIBEAE",
+      "displayed_link": "https://xodo.com › convert-pdf-to-html",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fab1dad55231db1bdd94a8987d02583b29.png",
+      "snippet": "Select your PDF file in our free online PDF to HTML converter. 2. Click the Convert button to start the conversion. 3. Download the converted HTML file to your ...",
+      "snippet_highlighted_words": [
+        "Select your PDF file in our free online PDF to HTML converter"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.9,
+            "reviews": 519
+          },
+          "extensions": [
+            "3.9(519)"
+          ]
+        }
+      },
+      "source": "Xodo"
+    },
+    {
+      "position": 34,
+      "title": "HTML fieldset tag",
+      "link": "https://www.w3schools.com/tags/tag_fieldset.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3schools.com/tags/tag_fieldset.asp&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoFCIQBEAE",
+      "displayed_link": "https://www.w3schools.com › tags › tag_fieldset",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa79919b65697e23f2d11c73857b31dac0.png",
+      "snippet": "The <fieldset> tag is used to group related elements in a form. The <fieldset> tag draws a box around the related elements.",
+      "source": "W3Schools"
+    },
+    {
+      "position": 35,
+      "title": "Spinners · Bootstrap v5.0",
+      "link": "https://getbootstrap.com/docs/5.0/components/spinners/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://getbootstrap.com/docs/5.0/components/spinners/&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoFCJcBEAE",
+      "displayed_link": "https://getbootstrap.com › docs › components › spinners",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa92a5f2fa2700623c8dfe75c75cf42bd6.png",
+      "snippet": "Indicate the loading state of a component or page with Bootstrap spinners, built entirely with HTML, CSS, and no JavaScript.",
+      "snippet_highlighted_words": [
+        "Bootstrap spinners"
+      ],
+      "source": "Bootstrap"
+    },
+    {
+      "position": 36,
+      "title": "Linking CSS file with MVC View (MVC.net)",
+      "link": "https://www.youtube.com/watch?v=R_fQuVe5sPU",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DR_fQuVe5sPU&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECC8QAQ",
+      "displayed_link": "8.9K+ views · 3 years ago",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fae8f6eaa113d8691d34752029b93b0164.png",
+      "snippet": "Linking CSS file with MVC View (MVC.net). 8.9K views · 3 years ago ... Single-Page Application with ASP.NET & jQuery Hands-On. Patrick ...",
+      "snippet_highlighted_words": [
+        "Linking CSS file with MVC View"
+      ],
+      "source": "YouTube · CODINGisFUN"
+    },
+    {
+      "position": 37,
+      "title": "Free Online HTML Formatter",
+      "link": "https://www.freeformatter.com/html-formatter.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.freeformatter.com/html-formatter.html&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECC4QAQ",
+      "displayed_link": "https://www.freeformatter.com › html-formatter",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa8fd917ea01ac83e0dcd75609c01a2760.png",
+      "snippet": "This free online HTML formatter and validator lets you chose your indentation level and also lets you export to file.",
+      "snippet_highlighted_words": [
+        "file"
+      ],
+      "source": "FreeFormatter.com"
+    },
+    {
+      "position": 38,
+      "title": "SB Admin - Free Bootstrap Admin Template",
+      "link": "https://startbootstrap.com/template/sb-admin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://startbootstrap.com/template/sb-admin&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECCkQAQ",
+      "displayed_link": "https://startbootstrap.com › template › sb-admin",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa5393f063a6c3350ff3676b8a5602bec2.png",
+      "snippet": "This template uses the default Bootstrap 5 styles along with a variety of plugins to create a powerful framework for creating admin panels, web apps, or ...",
+      "source": "Start Bootstrap"
+    },
+    {
+      "position": 39,
+      "title": "PDF to HTML Converter",
+      "link": "https://cloudconvert.com/pdf-to-html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cloudconvert.com/pdf-to-html&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQFnoECGAQAQ",
+      "displayed_link": "https://cloudconvert.com › pdf-to-html",
+      "favicon": "https://serpapi.com/searches/685dd2c9392e0bc699c235f7/images/f11c0edafac33531c64c05f8f82b73fa5e7405d5ed84ae57dfadd3e3c1011123.png",
+      "snippet": "It can embed texts, image, heading, tables etc using the tags. Other markup languages like PHP, CSS etc can be used with html tags. +200 Formats Supported.",
+      "snippet_highlighted_words": [
+        "embed",
+        "CSS"
+      ],
+      "source": "CloudConvert"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=how+to+add+css+in+cshtml+page&num=40&sca_esv=319a8605ed997738&gl=us&hl=en&udm=18&sa=X&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQ8poLegQIExAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=how+to+add+css+in+cshtml+page",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How to add inline CSS in cshtml page",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&gl=us&hl=en&q=How+to+add+inline+CSS+in+cshtml+page&sa=X&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQ1QJ6BQijARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=How+to+add+inline+CSS+in+cshtml+page"
+    },
+    {
+      "block_position": 1,
+      "query": "How to add css in cshtml page using css",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&gl=us&hl=en&q=How+to+add+css+in+cshtml+page+using+css&sa=X&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQ1QJ6BQiiARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=How+to+add+css+in+cshtml+page+using+css"
+    },
+    {
+      "block_position": 1,
+      "query": "How to add css in cshtml page using javascript",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&gl=us&hl=en&q=How+to+add+css+in+cshtml+page+using+javascript&sa=X&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQ1QJ6BQikARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=How+to+add+css+in+cshtml+page+using+javascript"
+    },
+    {
+      "block_position": 1,
+      "query": "_Layout cshtml css",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&gl=us&hl=en&q=_Layout+cshtml+css&sa=X&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQ1QJ6BQicARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=_Layout+cshtml+css"
+    },
+    {
+      "block_position": 1,
+      "query": "Cshtml css not working",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&gl=us&hl=en&q=Cshtml+css+not+working&sa=X&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQ1QJ6BQidARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=Cshtml+css+not+working"
+    },
+    {
+      "block_position": 1,
+      "query": "Cshtml style section",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&gl=us&hl=en&q=Cshtml+style+section&sa=X&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQ1QJ6BQieARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=Cshtml+style+section"
+    },
+    {
+      "block_position": 1,
+      "query": "How to add CSS in Razor view",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&gl=us&hl=en&q=How+to+add+CSS+in+Razor+view&sa=X&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQ1QJ6BQifARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=How+to+add+CSS+in+Razor+view"
+    },
+    {
+      "block_position": 1,
+      "query": "How to add external css in mvc",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&gl=us&hl=en&q=How+to+add+external+css+in+mvc&sa=X&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQ1QJ6BQihARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=How+to+add+external+css+in+mvc"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "How to add a .css to a .cshtml",
+      "link": "https://stackoverflow.com/questions/13144234/how-to-add-a-css-to-a-cshtml",
+      "date": "12 years ago",
+      "extensions": [
+        "3 answers"
+      ],
+      "source": "Stack Overflow",
+      "answers": [
+        {
+          "snippet": "Here is the basic option - you add a style tag to the of your document... If you are ...",
+          "link": "https://stackoverflow.com/a/13144260",
+          "extensions": [
+            "Top answer",
+            "46 votes",
+            "12 years ago"
+          ]
+        },
+        {
+          "snippet": "You could also make the use of while using CSS in .cshtml files. In this case, paste the following ...",
+          "link": "https://stackoverflow.com/a/54491636",
+          "extensions": [
+            "12 votes",
+            "6 years ago"
+          ]
+        },
+        {
+          "snippet": "dotnet core First, make sure you have wwwroot folder and put your css file inside it. Second, ...",
+          "link": "https://stackoverflow.com/a/68771773",
+          "extensions": [
+            "3 years ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "will the cshtml auto contain the cshtml.js and cshtml.css? - Microsoft Q&A",
+      "link": "https://learn.microsoft.com/en-us/answers/questions/989548/will-the-cshtml-auto-contain-the-cshtml-js-and-csh",
+      "date": "2 years ago",
+      "source": "Learn Microsoft",
+      "answers": [
+        {
+          "snippet": ".cshtml auto contain Index.cshtml.js? Need I add <script type=\"text/javascript\" src=\"/Index.cshtml ... css files. In MVC project...",
+          "link": "https://learn.microsoft.com/en-us/answers/questions/989548/will-the-cshtml-auto-contain-the-cshtml-js-and-csh"
+        }
+      ]
+    },
+    {
+      "title": "Trying to apply css to razor page",
+      "link": "https://www.reddit.com/r/dotnet/comments/15jpwj4/trying_to_apply_css_to_razor_page/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/dotnet",
+        "10+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "snippet": "Anyway I've added something like div { background-color: yellow; } to my wwwroot/css/site.css file. That yellow works on the Views, but not on ...",
+          "link": "https://www.reddit.com/r/dotnet/comments/15jpwj4/trying_to_apply_css_to_razor_page/"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+to+add+css+in+cshtml+page&num=40&sca_esv=319a8605ed997738&gl=us&hl=en&ei=y9JdaI_-NZzGp84PmeewuAY&start=40&sa=N&sstk=Ac65TH54pokVUDHjUD5q8UVNW2oAPq-0KqbBvD7Y7WgEY7K6dwvoVldQw0ZSrOzcGK-xobS3-HEJFjZmcL-E3uJwjfGuOfURZWwD3g&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQ8NMDegUIlgEQBg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+to+add+css+in+cshtml+page&num=40&sca_esv=319a8605ed997738&gl=us&hl=en&ei=y9JdaI_-NZzGp84PmeewuAY&start=40&sa=N&sstk=Ac65TH54pokVUDHjUD5q8UVNW2oAPq-0KqbBvD7Y7WgEY7K6dwvoVldQw0ZSrOzcGK-xobS3-HEJFjZmcL-E3uJwjfGuOfURZWwD3g&ved=2ahUKEwjPj_6NmpCOAxUc48kDHZkzDGcQ8tMDegUIlgEQBA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=how+to+add+css+in+cshtml+page&start=40",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=how+to+add+css+in+cshtml+page&start=40",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=how+to+add+css+in+cshtml+page&start=40"
+    }
+  }
+}
