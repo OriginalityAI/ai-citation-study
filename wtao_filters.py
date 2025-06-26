@@ -38,7 +38,7 @@ def will_trigger_ai_overview_v2(query):
         return False
     if not any(q.startswith(p + ' ') for p in prefixes):
         return False
-    if any(f" {b} " in f" {q} " for b in bad_keywords):
+    if any(b in q for b in bad_keywords):
         return False
     return True
 
