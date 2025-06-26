@@ -20,11 +20,30 @@ def will_trigger_ai_overview_v1(query):
         return False
     return True
 
-# V2 ideas
-# consider removing queries like "what does X mean"
-# filter for "are pabco shingles any good" "... any good"
-# queries that are too long
+
+def will_trigger_ai_overview_v2(query):
+    min_words = 3
+    max_words = 12
+    prefixes = [
+        "how", "what", "why", "can", "does", "when", "which", "do"
+    ]
+    bad_keywords = [
+        "login", "facebook", "youtube", "netflix", "twitter", "instagram", "nba",
+        "download", "best", "reddit", "porn", "murder", "pregnant", "hate", "suicide", "anime",
+        "buy", "price", "worth", "good", "bad", "vs", "vs.", "review", "list", "ranking", "any good"
+    ]
+    q = query.lower().strip()
+    word_count = len(q.split())
+    if word_count < min_words or word_count > max_words:
+        return False
+    if not any(q.startswith(p + ' ') for p in prefixes):
+        return False
+    if any(f" {b} " in f" {q} " for b in bad_keywords):
+        return False
+    return True
+
 
 will_trigger_ai_overview_map = {
-    "v1": will_trigger_ai_overview_v1
+    "v1": will_trigger_ai_overview_v1,
+    "v2": will_trigger_ai_overview_v2
 }
