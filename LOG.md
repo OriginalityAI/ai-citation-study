@@ -2,10 +2,14 @@
 
 ## Week of June 24–July 1
 
-- TODO: Create WTAO_v2 with higher AI overview rate (> 50%)
-- TODO: Collect a larger v2 sample
+- Create new WTAO filters
+- Collect 1000 responses
 - TODO: Combine data into 1 CSV with columns: `url`, `cited_count`, `in_organic_results_count`
 - TODO: Use Originality Batch API to add the `ai_prob` column
+- TODO: (Plot) Calc 2 probabilities, plot 2 bars
+- TODO: (Plot) Piechart with ynb
+- TODO: (Plot) Piechart with ratio of ai/human for all citations
+- TODO: (Plot) Citation density per index in organic results (scatter plot, buckets)
 
 ---
 
