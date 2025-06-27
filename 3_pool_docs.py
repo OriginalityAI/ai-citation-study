@@ -2,7 +2,7 @@ import os
 import json
 import csv
 from collections import defaultdict
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qsl, urlencode
 
 # === Configuration ===
 FOLDER_PATH = "samples/v3_1000/res_20250627_n100"
@@ -10,7 +10,17 @@ OUTPUT_CSV = "_url_counts.csv"
 
 def normalize_url(url):
     parsed = urlparse(url)
-    norm = f"{parsed.scheme}://{parsed.netloc}{parsed.path}".rstrip('/')
+
+    # Domains that require query params for content identity
+    query_sensitive_domains = {
+        "www.youtube.com", "youtube.com", "m.youtube.com", "youtu.be",
+        "www.google.com", "www.bing.com"
+    }
+
+    keep_query = parsed.netloc in query_sensitive_domains
+    query = f"?{urlencode(sorted(parse_qsl(parsed.query)))}" if keep_query and parsed.query else ""
+
+    norm = f"{parsed.scheme}://{parsed.netloc}{parsed.path}{query}".rstrip('/')
     return norm.lower()
 
 def extract_normalized_links(res):
