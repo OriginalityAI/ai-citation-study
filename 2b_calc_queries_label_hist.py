@@ -1,7 +1,7 @@
 from pathlib import Path
 import pandas as pd
 
-SAMPLE_NAME = 'v1_50'
+SAMPLE_NAME = 'v3_1000'
 SAMPLE_DIR = Path('samples') / SAMPLE_NAME
 LABELED_QUERIES_FILE = SAMPLE_DIR / f'queries_{SAMPLE_NAME}_labeled.csv'
 OUTPUT_TXT_FILE = SAMPLE_DIR / f'{SAMPLE_NAME}_overview_stats.txt'
