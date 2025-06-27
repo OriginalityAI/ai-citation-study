@@ -6,7 +6,7 @@ from wtao_filters import will_trigger_ai_overview_map
 random.seed(42)
 
 SAMPLE_SIZE = 50
-OVERVIEW_TRIGGER_VERSION = 'v2'
+OVERVIEW_TRIGGER_VERSION = 'v3'
 
 will_trigger_ai_overview = will_trigger_ai_overview_map[OVERVIEW_TRIGGER_VERSION]
 

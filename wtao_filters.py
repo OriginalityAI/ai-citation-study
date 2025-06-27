@@ -74,5 +74,6 @@ def will_trigger_ai_overview_v3(query):
 
 will_trigger_ai_overview_map = {
     "v1": will_trigger_ai_overview_v1,
-    "v2": will_trigger_ai_overview_v2
+    "v2": will_trigger_ai_overview_v2,
+    "v3": will_trigger_ai_overview_v3
 }
