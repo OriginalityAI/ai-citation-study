@@ -1,0 +1,888 @@
+{
+  "search_metadata": {
+    "id": "685de08de642507858fcb81d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6ca055633d615179/685de08de642507858fcb81d.json",
+    "created_at": "2025-06-27 00:06:37 UTC",
+    "processed_at": "2025-06-27 00:06:37 UTC",
+    "google_url": "https://www.google.com/search?q=how+to+export+a+database+in+sql+server&oq=how+to+export+a+database+in+sql+server&hl=en&gl=us&num=40&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6ca055633d615179/685de08de642507858fcb81d.html",
+    "total_time_taken": 5.18
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how to export a database in sql server",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "40",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how to export a database in sql server",
+    "total_results": 46800000,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How to export an entire database in SQL Server?",
+      "snippet": null,
+      "title": "To start the SQL Server Import and Export Wizard from SQL Server Management Studio, follow these steps:",
+      "date": "Sep 29, 2024",
+      "link": "https://learn.microsoft.com/en-us/sql/integration-services/import-export-data/start-the-sql-server-import-and-export-wizard?view=sql-server-ver17",
+      "list": [
+        "In SQL Server Management Studio, connect to an instance of the SQL Server Database Engine.",
+        "Expand Databases.",
+        "Right-click a database.",
+        "Point to Tasks.",
+        "Select one of the following options. Import Data. Export Data."
+      ],
+      "displayed_link": "https://learn.microsoft.com › sql › integration-services",
+      "source_logo": "https://serpapi.com/searches/685de08de642507858fcb81d/images/ceb577f2edd2373a65c58044991771ea601ba5465aaa90d648f7287b4ba5054c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFJXbFVTazVCUkV3eVVUTkNSblJzUzBOclZrY3pZa0ZKVldadGVucHRUek15ZW5SdU0zTm5WbEozTVRaRFMyNWxkMVUyZWt3d1JUZDJWa2hZYjFkV1JYQndNalpzT1RKWGRtNHlVekZSVm01blgzbGhaRE5VVjJSR1FSSVhhM1ZDWkdGTlV6WkZjRmhhTVhOUlVHMUtSM1ZwUVZrYUlrRkdUVUZIUjNKU2JVaElYMEpqVDJsWFJHbFFWa2w1VmpSTWNEUjVVSEZUVUhjIiwiZmN2IjoiMyIsImVpIjoia3VCZGFNUzZFcFhaMXNRUG1KR3VpQVkiLCJxYyI6IkNpWm9iM2NnZEc4Z1pYaHdiM0owSUdFZ1pHRjBZV0poYzJVZ2FXNGdjM0ZzSUhObGNuWmxjaEFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGV4cG9ydCBhbiBlbnRpcmUgZGF0YWJhc2UgaW4gU1FMIFNlcnZlcj8iLCJsayI6IkdpdG9iM2NnZEc4Z1pYaHdiM0owSUdWdWRHbHlaU0JrWVhSaFltRnpaU0JwYmlCemNXd2djMlZ5ZG1WeSIsImJzIjoiYy1OSzV0TDN5QzlYS01sWFNLMG95QzhxVVVqTVUwak5LOGtzU2xWSVNTeEpURW9zVGxYSXpGTUlEdlJSQ0U0dEtrc3RzcGRZazJta0s2V2RnYUlMaTViaXdoeUZZckFXTGk4dVRaQWxLZmtLbGZtbE1DMXd0U0NHUWxwUmZpN0lGbnVKVllKR1VsSVNXQlVCamVSQ09EZzV2NkFTbTNOaFJzRWRQTTBQeWNGZ1hWaTFJRGs0amtzSGFrbFNZbkoyYVlFQzBJR2xPVGs0ZzJSVG5wRzJsR1lHaWhZTURRanpCUmdCIiwiaWQiOiJmY19rdUJkYU1TNkVwWFoxc1FQbUpHdWlBWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFJXbFVTazVCUkV3eVVUTkNSblJzUzBOclZrY3pZa0ZKVldadGVucHRUek15ZW5SdU0zTm5WbEozTVRaRFMyNWxkMVUyZWt3d1JUZDJWa2hZYjFkV1JYQndNalpzT1RKWGRtNHlVekZSVm01blgzbGhaRE5VVjJSR1FSSVhhM1ZDWkdGTlV6WkZjRmhhTVhOUlVHMUtSM1ZwUVZrYUlrRkdUVUZIUjNKU2JVaElYMEpqVDJsWFJHbFFWa2w1VmpSTWNEUjVVSEZUVUhjIiwiZmN2IjoiMyIsImVpIjoia3VCZGFNUzZFcFhaMXNRUG1KR3VpQVkiLCJxYyI6IkNpWm9iM2NnZEc4Z1pYaHdiM0owSUdFZ1pHRjBZV0poYzJVZ2FXNGdjM0ZzSUhObGNuWmxjaEFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGV4cG9ydCBhbiBlbnRpcmUgZGF0YWJhc2UgaW4gU1FMIFNlcnZlcj8iLCJsayI6IkdpdG9iM2NnZEc4Z1pYaHdiM0owSUdWdWRHbHlaU0JrWVhSaFltRnpaU0JwYmlCemNXd2djMlZ5ZG1WeSIsImJzIjoiYy1OSzV0TDN5QzlYS01sWFNLMG95QzhxVVVqTVUwak5LOGtzU2xWSVNTeEpURW9zVGxYSXpGTUlEdlJSQ0U0dEtrc3RzcGRZazJta0s2V2RnYUlMaTViaXdoeUZZckFXTGk4dVRaQWxLZmtLbGZtbE1DMXd0U0NHUWxwUmZpN0lGbnVKVllKR1VsSVNXQlVCamVSQ09EZzV2NkFTbTNOaFJzRWRQTTBQeWNGZ1hWaTFJRGs0amtzSGFrbFNZbkoyYVlFQzBJR2xPVGs0ZzJSVG5wRzJsR1lHaWhZTURRanpCUmdCIiwiaWQiOiJmY19rdUJkYU1TNkVwWFoxc1FQbUpHdWlBWV8xIn0%3D"
+    },
+    {
+      "question": "How do you export database data from SQL?",
+      "snippet": null,
+      "title": "Method 1: Using SQL Server Management Studio",
+      "link": "https://www.devart.com/dbforge/sql/studio/export-sql-table-to-csv.html",
+      "list": [
+        "In SQL Server Management Studio, connect to a database you want to export a table from.",
+        "Right-click the database and navigate to Tasks > Export Data:",
+        "In the SQL Server Import and Export Wizard window, click Next:",
+        "Customize the data in the Choose a Data Source window:"
+      ],
+      "displayed_link": "https://www.devart.com › dbforge › sql › studio › expo...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYSnlhIvzuNkC-Z1l_ky0KxfapXKFhxBfcHs-ZmcP5IA&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFJXbFVTazVCUkV3eVVUTkNSblJzUzBOclZrY3pZa0ZKVldadGVucHRUek15ZW5SdU0zTm5WbEozTVRaRFMyNWxkMVUyZWt3d1JUZDJWa2hZYjFkV1JYQndNalpzT1RKWGRtNHlVekZSVm01blgzbGhaRE5VVjJSR1FSSVhhM1ZDWkdGTlV6WkZjRmhhTVhOUlVHMUtSM1ZwUVZrYUlrRkdUVUZIUjNKU2JVaElYMEpqVDJsWFJHbFFWa2w1VmpSTWNEUjVVSEZUVUhjIiwiZmN2IjoiMyIsImVpIjoia3VCZGFNUzZFcFhaMXNRUG1KR3VpQVkiLCJxYyI6IkNpWm9iM2NnZEc4Z1pYaHdiM0owSUdFZ1pHRjBZV0poYzJVZ2FXNGdjM0ZzSUhObGNuWmxjaEFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBleHBvcnQgZGF0YWJhc2UgZGF0YSBmcm9tIFNRTD8iLCJsayI6ImM1T1NTSzBveUM4cVVVaEpMRWxNU2l4T0JUTVVpZ3R6QUEiLCJicyI6ImMtTks1dEwzeUM5WEtNbFhTSzBveUM4cVVVak1VMGpOSzhrc1NsVklTU3hKVEVvc1RsWEl6Rk1JRHZSUkNFNHRLa3N0c3BkWWsybWtLNldkZ2FJTGk1Yml3aHlGWXJBV0xpOHVUWkFsS2ZrS2xmbWxNQzF3dFNDR1FscFJmaTdJRm51SlZZSkdVbElTV0JVQmplUkNPRGc1djZBU20zTmhSc0VkUE0wUHljRmdYVmkxSURrNGprc0hha2xTWW5KMmFZRUMwSUdsT1RrNGcyUlRucEcybEdZR2loWU1EUWp6QlJnQiIsImlkIjoiZmNfa3VCZGFNUzZFcFhaMXNRUG1KR3VpQVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFJXbFVTazVCUkV3eVVUTkNSblJzUzBOclZrY3pZa0ZKVldadGVucHRUek15ZW5SdU0zTm5WbEozTVRaRFMyNWxkMVUyZWt3d1JUZDJWa2hZYjFkV1JYQndNalpzT1RKWGRtNHlVekZSVm01blgzbGhaRE5VVjJSR1FSSVhhM1ZDWkdGTlV6WkZjRmhhTVhOUlVHMUtSM1ZwUVZrYUlrRkdUVUZIUjNKU2JVaElYMEpqVDJsWFJHbFFWa2w1VmpSTWNEUjVVSEZUVUhjIiwiZmN2IjoiMyIsImVpIjoia3VCZGFNUzZFcFhaMXNRUG1KR3VpQVkiLCJxYyI6IkNpWm9iM2NnZEc4Z1pYaHdiM0owSUdFZ1pHRjBZV0poYzJVZ2FXNGdjM0ZzSUhObGNuWmxjaEFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBleHBvcnQgZGF0YWJhc2UgZGF0YSBmcm9tIFNRTD8iLCJsayI6ImM1T1NTSzBveUM4cVVVaEpMRWxNU2l4T0JUTVVpZ3R6QUEiLCJicyI6ImMtTks1dEwzeUM5WEtNbFhTSzBveUM4cVVVak1VMGpOSzhrc1NsVklTU3hKVEVvc1RsWEl6Rk1JRHZSUkNFNHRLa3N0c3BkWWsybWtLNldkZ2FJTGk1Yml3aHlGWXJBV0xpOHVUWkFsS2ZrS2xmbWxNQzF3dFNDR1FscFJmaTdJRm51SlZZSkdVbElTV0JVQmplUkNPRGc1djZBU20zTmhSc0VkUE0wUHljRmdYVmkxSURrNGprc0hha2xTWW5KMmFZRUMwSUdsT1RrNGcyUlRucEcybEdZR2loWU1EUWp6QlJnQiIsImlkIjoiZmNfa3VCZGFNUzZFcFhaMXNRUG1KR3VpQVlfMSJ9"
+    },
+    {
+      "question": "How to copy an entire database from SQL Server?",
+      "snippet": "On either the source or destination SQL Server instance, launch the Copy Database Wizard in SQL Server Management Studio from Object Explorer and expand Databases. Then right-click a database, point to Tasks, and then select Copy Database. If the Welcome to the Copy Database Wizard splash page appears, select Next.",
+      "title": "Use the Copy Database Wizard - SQL Server | Microsoft Learn",
+      "link": "https://learn.microsoft.com/en-us/sql/relational-databases/databases/use-the-copy-database-wizard?view=sql-server-ver17#:~:text=On%20either%20the%20source%20or,splash%20page%20appears%2C%20select%20Next.",
+      "displayed_link": "https://learn.microsoft.com › en-us › sql › databases › us...",
+      "source_logo": "https://serpapi.com/searches/685de08de642507858fcb81d/images/ceb577f2edd2373a65c58044991771eaa575abed609a75dcf6ace83656022f00.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFJXbFVTazVCUkV3eVVUTkNSblJzUzBOclZrY3pZa0ZKVldadGVucHRUek15ZW5SdU0zTm5WbEozTVRaRFMyNWxkMVUyZWt3d1JUZDJWa2hZYjFkV1JYQndNalpzT1RKWGRtNHlVekZSVm01blgzbGhaRE5VVjJSR1FSSVhhM1ZDWkdGTlV6WkZjRmhhTVhOUlVHMUtSM1ZwUVZrYUlrRkdUVUZIUjNKU2JVaElYMEpqVDJsWFJHbFFWa2w1VmpSTWNEUjVVSEZUVUhjIiwiZmN2IjoiMyIsImVpIjoia3VCZGFNUzZFcFhaMXNRUG1KR3VpQVkiLCJxYyI6IkNpWm9iM2NnZEc4Z1pYaHdiM0owSUdFZ1pHRjBZV0poYzJVZ2FXNGdjM0ZzSUhObGNuWmxjaEFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGNvcHkgYW4gZW50aXJlIGRhdGFiYXNlIGZyb20gU1FMIFNlcnZlcj8iLCJsayI6IkdpdG9iM2NnZEc4Z1kyOXdlU0JsYm5ScGNtVWdaR0YwWVdKaGMyVWdabkp2YlNCemNXd2djMlZ5ZG1WeSIsImJzIjoiYy1OSzV0TDN5QzlYS01sWFNLMG95QzhxVVVqTVUwak5LOGtzU2xWSVNTeEpURW9zVGxYSXpGTUlEdlJSQ0U0dEtrc3RzcGRZazJta0s2V2RnYUlMaTViaXdoeUZZckFXTGk4dVRaQWxLZmtLbGZtbE1DMXd0U0NHUWxwUmZpN0lGbnVKVllKR1VsSVNXQlVCamVSQ09EZzV2NkFTbTNOaFJzRWRQTTBQeWNGZ1hWaTFJRGs0amtzSGFrbFNZbkoyYVlFQzBJR2xPVGs0ZzJSVG5wRzJsR1lHaWhZTURRanpCUmdCIiwiaWQiOiJmY19rdUJkYU1TNkVwWFoxc1FQbUpHdWlBWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFJXbFVTazVCUkV3eVVUTkNSblJzUzBOclZrY3pZa0ZKVldadGVucHRUek15ZW5SdU0zTm5WbEozTVRaRFMyNWxkMVUyZWt3d1JUZDJWa2hZYjFkV1JYQndNalpzT1RKWGRtNHlVekZSVm01blgzbGhaRE5VVjJSR1FSSVhhM1ZDWkdGTlV6WkZjRmhhTVhOUlVHMUtSM1ZwUVZrYUlrRkdUVUZIUjNKU2JVaElYMEpqVDJsWFJHbFFWa2w1VmpSTWNEUjVVSEZUVUhjIiwiZmN2IjoiMyIsImVpIjoia3VCZGFNUzZFcFhaMXNRUG1KR3VpQVkiLCJxYyI6IkNpWm9iM2NnZEc4Z1pYaHdiM0owSUdFZ1pHRjBZV0poYzJVZ2FXNGdjM0ZzSUhObGNuWmxjaEFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGNvcHkgYW4gZW50aXJlIGRhdGFiYXNlIGZyb20gU1FMIFNlcnZlcj8iLCJsayI6IkdpdG9iM2NnZEc4Z1kyOXdlU0JsYm5ScGNtVWdaR0YwWVdKaGMyVWdabkp2YlNCemNXd2djMlZ5ZG1WeSIsImJzIjoiYy1OSzV0TDN5QzlYS01sWFNLMG95QzhxVVVqTVUwak5LOGtzU2xWSVNTeEpURW9zVGxYSXpGTUlEdlJSQ0U0dEtrc3RzcGRZazJta0s2V2RnYUlMaTViaXdoeUZZckFXTGk4dVRaQWxLZmtLbGZtbE1DMXd0U0NHUWxwUmZpN0lGbnVKVllKR1VsSVNXQlVCamVSQ09EZzV2NkFTbTNOaFJzRWRQTTBQeWNGZ1hWaTFJRGs0amtzSGFrbFNZbkoyYVlFQzBJR2xPVGs0ZzJSVG5wRzJsR1lHaWhZTURRanpCUmdCIiwiaWQiOiJmY19rdUJkYU1TNkVwWFoxc1FQbUpHdWlBWV8xIn0%3D"
+    },
+    {
+      "question": "How to backup a full database in SQL Server?",
+      "snippet": "Log in to the computer that hosts the database that you want to back up. Open Microsoft SQL Server Management Studio. In the left navigation bar, expand Databases. Right-click on the database that you want to back up and then click Tasks > Back Up.",
+      "title": "Backing up the MS SQL Server database - IBM",
+      "link": "https://www.ibm.com/docs/en/license-metric-tool/9.2.0?topic=database-backing-up-ms-sql-server#:~:text=Log%20in%20to%20the%20computer,then%20click%20Tasks%20%3E%20Back%20Up.",
+      "displayed_link": "https://www.ibm.com › docs › license-metric-tool › topic...",
+      "source_logo": "https://serpapi.com/searches/685de08de642507858fcb81d/images/ceb577f2edd2373a65c58044991771ea04ac3ccbd1e16e97d73df1ad2ce7d20f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFJXbFVTazVCUkV3eVVUTkNSblJzUzBOclZrY3pZa0ZKVldadGVucHRUek15ZW5SdU0zTm5WbEozTVRaRFMyNWxkMVUyZWt3d1JUZDJWa2hZYjFkV1JYQndNalpzT1RKWGRtNHlVekZSVm01blgzbGhaRE5VVjJSR1FSSVhhM1ZDWkdGTlV6WkZjRmhhTVhOUlVHMUtSM1ZwUVZrYUlrRkdUVUZIUjNKU2JVaElYMEpqVDJsWFJHbFFWa2w1VmpSTWNEUjVVSEZUVUhjIiwiZmN2IjoiMyIsImVpIjoia3VCZGFNUzZFcFhaMXNRUG1KR3VpQVkiLCJxYyI6IkNpWm9iM2NnZEc4Z1pYaHdiM0owSUdFZ1pHRjBZV0poYzJVZ2FXNGdjM0ZzSUhObGNuWmxjaEFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGJhY2t1cCBhIGZ1bGwgZGF0YWJhc2UgaW4gU1FMIFNlcnZlcj8iLCJsayI6IkdpbG9iM2NnZEc4Z1ltRmphM1Z3SUdaMWJHd2daR0YwWVdKaGMyVWdhVzRnYzNGc0lITmxjblpsY2ciLCJicyI6ImMtTks1dEwzeUM5WEtNbFhTSzBveUM4cVVVak1VMGpOSzhrc1NsVklTU3hKVEVvc1RsWEl6Rk1JRHZSUkNFNHRLa3N0c3BkWWsybWtLNldkZ2FJTGk1Yml3aHlGWXJBV0xpOHVUWkFsS2ZrS2xmbWxNQzF3dFNDR1FscFJmaTdJRm51SlZZSkdVbElTV0JVQmplUkNPRGc1djZBU20zTmhSc0VkUE0wUHljRmdYVmkxSURrNGprc0hha2xTWW5KMmFZRUMwSUdsT1RrNGcyUlRucEcybEdZR2loWU1EUWp6QlJnQiIsImlkIjoiZmNfa3VCZGFNUzZFcFhaMXNRUG1KR3VpQVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFJXbFVTazVCUkV3eVVUTkNSblJzUzBOclZrY3pZa0ZKVldadGVucHRUek15ZW5SdU0zTm5WbEozTVRaRFMyNWxkMVUyZWt3d1JUZDJWa2hZYjFkV1JYQndNalpzT1RKWGRtNHlVekZSVm01blgzbGhaRE5VVjJSR1FSSVhhM1ZDWkdGTlV6WkZjRmhhTVhOUlVHMUtSM1ZwUVZrYUlrRkdUVUZIUjNKU2JVaElYMEpqVDJsWFJHbFFWa2w1VmpSTWNEUjVVSEZUVUhjIiwiZmN2IjoiMyIsImVpIjoia3VCZGFNUzZFcFhaMXNRUG1KR3VpQVkiLCJxYyI6IkNpWm9iM2NnZEc4Z1pYaHdiM0owSUdFZ1pHRjBZV0poYzJVZ2FXNGdjM0ZzSUhObGNuWmxjaEFBZlR2YkV6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGJhY2t1cCBhIGZ1bGwgZGF0YWJhc2UgaW4gU1FMIFNlcnZlcj8iLCJsayI6IkdpbG9iM2NnZEc4Z1ltRmphM1Z3SUdaMWJHd2daR0YwWVdKaGMyVWdhVzRnYzNGc0lITmxjblpsY2ciLCJicyI6ImMtTks1dEwzeUM5WEtNbFhTSzBveUM4cVVVak1VMGpOSzhrc1NsVklTU3hKVEVvc1RsWEl6Rk1JRHZSUkNFNHRLa3N0c3BkWWsybWtLNldkZ2FJTGk1Yml3aHlGWXJBV0xpOHVUWkFsS2ZrS2xmbWxNQzF3dFNDR1FscFJmaTdJRm51SlZZSkdVbElTV0JVQmplUkNPRGc1djZBU20zTmhSc0VkUE0wUHljRmdYVmkxSURrNGprc0hha2xTWW5KMmFZRUMwSUdsT1RrNGcyUlRucEcybEdZR2loWU1EUWp6QlJnQiIsImlkIjoiZmNfa3VCZGFNUzZFcFhaMXNRUG1KR3VpQVlfMSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "Q2YLn3icvZbdcrpGFMBv-yLlxvxV_IiSGaazLKCLEiWoid4wCLigfBgXRXLX-z5Gn6pP0wXEkJh02mmnO-rC2XPOnnP2t2f89XffC3d__PSbG8d78tBoJElSx1GEfaduRUHDJGloNTaRTw6W-4vr807IYJ8_EiY98W3GInyTcTx-dxRsU9Xvpf3LiiXaNFAGRw8smdycN9YmcbbU-3lLGkaD_ux-bov0pU7qTliXW93dFqlP4wGot5psvz5pmAFVAP9mwBsJAkAAQJM_aWlfWUsw0wVA-SQXygcxc4cQEKQ5fYuqOirA2WLuXZA00eBSq5ILvvrSLmrZ6NBnJFNbILeA9jGmd61y_zK5D_ti8GHkVlJV-2bALI_yGWeVMN7jya1zJ0NJsio2Q6xa4mSkf9rvsiwJggo2-jjBXxaWpoCkmX5mM2utYWN6zs3G-kAntnEg2anDGdeMZGtEZgNnNz0OJZTuxBVWX2fGkzgFJrjLebLIFShSBeqE5q2UCxXQn9fHdYG90pTXTpeKKJZFiTSwuBTp6yFdFiGoql0KKmSzmrpFIbC3RGCkF0sITJcKPNAUK4dXoQmVMUg5k88AwUzm5jRSf8jLykP1NUoEzO0kLOFdFgTEkB4W2BUx0K-oTbGQmWKMcCZo5hsUNLngEtIc4Gssc1Aa0w-BEIGU7hoBPeGGl4QzXemCGw0KynRrtbhBAElATASBspNkWlSAi-RgmRzEUjbLSVG1JdSyewHA-BNNeVXV7-t_GaO_WtS-wGfoNZMB7izC7vlZcT3ltYu7nBefFqv7Ep8oWP-DhmT974ChHDBNrgI2-gaw23ZVACaUgL3kgCHglu2qChi-AOZJ7k4b0nbVF98Bc0EJmKahK2CVdtUGenHTS8AQ-FuAZb2rAtjoChj8DrBruyoAo1KjBKxTAIZuAPuP21XOmVNMH3vXcYtvIEx9uLHXi9ULy6ktVQ1bzcms92bvD752Z2yC-MG0_TvDsx-ElhKnNvPKu1FSi6Oac95Hh7hm1mwzNjNaa15YI69-jTiHk3NgAv8Q8U2zG_eU82p_GnBP7o9HPWIHtvjmqT1oQtE7i5FikT4bnJ7FQSiOjoAbj5_XHh63ZLs1W3NbXYGnsWrdxzLHbvXtcBEKxrlndl96pvykv5rWdDIJhkGiPw7bb6fBxtflH8bbepqM-zDp9Scz3XancxMpoWR3haQF8rgI76Wy-djF-uQJMYFpE4dnmeBg8fT8OjugMsQyDYfQvw8sZ_bvm13H5rher91nAhyne77T-RO8nXuY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Q2YLn3icvZbdcrpGFMBv-yLlxvxV_IiSGaazLKCLEiWoid4wCLigfBgXRXLX-z5Gn6pP0wXEkJh02mmnO-rC2XPOnnP2t2f89XffC3d__PSbG8d78tBoJElSx1GEfaduRUHDJGloNTaRTw6W-4vr807IYJ8_EiY98W3GInyTcTx-dxRsU9Xvpf3LiiXaNFAGRw8smdycN9YmcbbU-3lLGkaD_ux-bov0pU7qTliXW93dFqlP4wGot5psvz5pmAFVAP9mwBsJAkAAQJM_aWlfWUsw0wVA-SQXygcxc4cQEKQ5fYuqOirA2WLuXZA00eBSq5ILvvrSLmrZ6NBnJFNbILeA9jGmd61y_zK5D_ti8GHkVlJV-2bALI_yGWeVMN7jya1zJ0NJsio2Q6xa4mSkf9rvsiwJggo2-jjBXxaWpoCkmX5mM2utYWN6zs3G-kAntnEg2anDGdeMZGtEZgNnNz0OJZTuxBVWX2fGkzgFJrjLebLIFShSBeqE5q2UCxXQn9fHdYG90pTXTpeKKJZFiTSwuBTp6yFdFiGoql0KKmSzmrpFIbC3RGCkF0sITJcKPNAUK4dXoQmVMUg5k88AwUzm5jRSf8jLykP1NUoEzO0kLOFdFgTEkB4W2BUx0K-oTbGQmWKMcCZo5hsUNLngEtIc4Gssc1Aa0w-BEIGU7hoBPeGGl4QzXemCGw0KynRrtbhBAElATASBspNkWlSAi-RgmRzEUjbLSVG1JdSyewHA-BNNeVXV7-t_GaO_WtS-wGfoNZMB7izC7vlZcT3ltYu7nBefFqv7Ep8oWP-DhmT974ChHDBNrgI2-gaw23ZVACaUgL3kgCHglu2qChi-AOZJ7k4b0nbVF98Bc0EJmKahK2CVdtUGenHTS8AQ-FuAZb2rAtjoChj8DrBruyoAo1KjBKxTAIZuAPuP21XOmVNMH3vXcYtvIEx9uLHXi9ULy6ktVQ1bzcms92bvD752Z2yC-MG0_TvDsx-ElhKnNvPKu1FSi6Oac95Hh7hm1mwzNjNaa15YI69-jTiHk3NgAv8Q8U2zG_eU82p_GnBP7o9HPWIHtvjmqT1oQtE7i5FikT4bnJ7FQSiOjoAbj5_XHh63ZLs1W3NbXYGnsWrdxzLHbvXtcBEKxrlndl96pvykv5rWdDIJhkGiPw7bb6fBxtflH8bbepqM-zDp9Scz3XancxMpoWR3haQF8rgI76Wy-djF-uQJMYFpE4dnmeBg8fT8OjugMsQyDYfQvw8sZ_bvm13H5rher91nAhyne77T-RO8nXuY"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Import / Export database with SQL Server ...",
+      "link": "https://stackoverflow.com/questions/1126571/import-export-database-with-sql-server-server-management-studio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/1126571/import-export-database-with-sql-server-server-management-studio&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECBYQAQ",
+      "displayed_link": "7 answers · 15 years ago",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fcb012cff5fcd9486ad64aff46759d0eb.png",
+      "snippet": "7 Answers 7 · On Object Explorer right click database you want to export listed in Databases node. · Select Tasks then select Export Data-tier ...",
+      "snippet_highlighted_words": [
+        "On Object Explorer right click database you want to export"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "SQL Server: how do I export entire database? - Stack ...",
+            "link": "https://stackoverflow.com/questions/3240978/sql-server-how-do-i-export-entire-database",
+            "answer_count": 5,
+            "date": "Jul 13, 2010"
+          },
+          {
+            "title": "How to export database with data in MSSQL? - Stack ...",
+            "link": "https://stackoverflow.com/questions/18355477/how-to-export-database-with-data-in-mssql",
+            "answer_count": 4,
+            "date": "Aug 21, 2013"
+          }
+        ]
+      },
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 2,
+      "title": "Start the SQL Server Import and Export Wizard",
+      "link": "https://learn.microsoft.com/en-us/sql/integration-services/import-export-data/start-the-sql-server-import-and-export-wizard?view=sql-server-ver17",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.microsoft.com/en-us/sql/integration-services/import-export-data/start-the-sql-server-import-and-export-wizard%3Fview%3Dsql-server-ver17&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECBIQAQ",
+      "displayed_link": "https://learn.microsoft.com › sql › integration-services",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fedd530abcf08a684729697f65d9e61ff.png",
+      "date": "Sep 29, 2024",
+      "snippet": "On the Start menu, find and expand folder for your SQL Server version. · Select the SQL Server (version) Import and Export data tool you want to ...",
+      "snippet_highlighted_words": [
+        "Select the SQL Server (version) Import and Export data tool"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Get the wizard",
+            "link": "https://learn.microsoft.com/en-us/sql/integration-services/import-export-data/start-the-sql-server-import-and-export-wizard?view=sql-server-ver17#get-the-wizard"
+          },
+          {
+            "title": "SQL Server Management...",
+            "link": "https://learn.microsoft.com/en-us/sql/integration-services/import-export-data/start-the-sql-server-import-and-export-wizard?view=sql-server-ver17#sql-server-management-studio-ssms"
+          }
+        ]
+      },
+      "source": "Learn Microsoft"
+    },
+    {
+      "position": 3,
+      "title": "SQL Server Express: How to export/import database with ...",
+      "link": "https://learn.microsoft.com/en-us/answers/questions/1355174/sql-server-express-how-to-export-import-database-w",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.microsoft.com/en-us/answers/questions/1355174/sql-server-express-how-to-export-import-database-w&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECDMQAQ",
+      "displayed_link": "https://learn.microsoft.com › en-us › answers › questions",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fcbb294e95b633fa12e803afff05f3ce0.png",
+      "date": "Aug 30, 2023",
+      "snippet": "Right click remote database, select \"Tasks\"->\"Export Data\" to start the wizard, select \"Microsoft OLE DB Provider for SQL Server\" at \"Data Source\".",
+      "snippet_highlighted_words": [
+        "Right click remote database"
+      ],
+      "source": "Learn Microsoft"
+    },
+    {
+      "position": 4,
+      "title": "Microsoft SQL Server Management Studio -- How to export ...",
+      "link": "https://www.reddit.com/r/SQL/comments/cr77me/microsoft_sql_server_management_studio_how_to/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/SQL/comments/cr77me/microsoft_sql_server_management_studio_how_to/&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECHQQAQ",
+      "displayed_link": "7 comments · 5 years ago",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f9af00a4d52b3da46edb2a966403a40cf.png",
+      "snippet": "Right click the database on the file explorer area (left of the screen), tasks, backup, make sure the backup is a full backup and it will produce a .bak file.",
+      "snippet_highlighted_words": [
+        "Right click the database on the file explorer area"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Can I export data from a single table in mssms? - Reddit",
+            "link": "https://www.reddit.com/r/SQLServer/comments/13p3pc8/can_i_export_data_from_a_single_table_in_mssms/",
+            "answer_count": 13,
+            "date": "May 22, 2023"
+          },
+          {
+            "title": "Super noob here, can I safely export a SQL database to ...",
+            "link": "https://www.reddit.com/r/SQLServer/comments/fpze9l/super_noob_here_can_i_safely_export_a_sql/",
+            "answer_count": 13,
+            "date": "Mar 27, 2020"
+          }
+        ]
+      },
+      "source": "Reddit · r/SQL"
+    },
+    {
+      "position": 5,
+      "title": "Import and Export SQL database to *.sql script via ...",
+      "link": "https://www.telerik.com/products/aspnet-ajax/documentation/knowledge-base/common-import-and-export-sql-database-to-sql-script-via-sql-management-studio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.telerik.com/products/aspnet-ajax/documentation/knowledge-base/common-import-and-export-sql-database-to-sql-script-via-sql-management-studio&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECDEQAQ",
+      "displayed_link": "https://www.telerik.com › aspnet-ajax › knowledge-base",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fc54a04bddbf071d5184e2afa56a59c68.png",
+      "snippet": "Right-click on the database that should be exported. · \"Tasks\" -> \"Generate Scripts...\" - A Generate and Publish Scripts popup should appear.",
+      "snippet_highlighted_words": [
+        "Right-click on the database that should be exported"
+      ],
+      "source": "Telerik.com"
+    },
+    {
+      "position": 6,
+      "title": "3 Ways To Export Data From SQL Server (including Excel)",
+      "link": "https://www.youtube.com/watch?v=SxJz3yQx_XE",
+      "displayed_link": "22.3K+ views · 3 years ago",
+      "thumbnail": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f5bfd389e3bb21e1a04b92e6585943016.jpeg",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fb9b492d1174fe4b8c3059b1b09a262d2.png",
+      "snippet": "In today's tutorial we're going to look at how to export data from sql server into excel i'm going to cover three ways how to do this.",
+      "duration": "7:01",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Overview",
+          "link": "https://www.youtube.com/watch?v=SxJz3yQx_XE&t=0"
+        },
+        {
+          "time": "00:51",
+          "title": "Import Export Wizard",
+          "link": "https://www.youtube.com/watch?v=SxJz3yQx_XE&t=51"
+        },
+        {
+          "time": "03:53",
+          "title": "Exporting To File",
+          "link": "https://www.youtube.com/watch?v=SxJz3yQx_XE&t=233"
+        },
+        {
+          "time": "05:41",
+          "title": "Exporting to csv",
+          "link": "https://www.youtube.com/watch?v=SxJz3yQx_XE&t=341"
+        }
+      ],
+      "source": "YouTube · The SQL Guy"
+    },
+    {
+      "position": 7,
+      "title": "How to Import and Export SQL Server Database?",
+      "link": "https://www.geeksforgeeks.org/sql/how-to-import-and-export-sql-server-database/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/sql/how-to-import-and-export-sql-server-database/&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECG4QAQ",
+      "displayed_link": "https://www.geeksforgeeks.org › sql › how-to-import-a...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f923d49a90c104a3fb60d0132986db5a0.png",
+      "date": "Aug 16, 2024",
+      "snippet": "Step 1: Open the Object Explorer, Right-click on the Database that you want to export and click the \"task\" option and select \"Export Data-Tier ...",
+      "snippet_highlighted_words": [
+        "Right-click on the Database that you want to export"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 8,
+      "title": "How to dump a Microsoft SQL Server database ...",
+      "link": "https://serverfault.com/questions/147638/how-to-dump-a-microsoft-sql-server-database-to-a-sql-script",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://serverfault.com/questions/147638/how-to-dump-a-microsoft-sql-server-database-to-a-sql-script&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoFCIQBEAE",
+      "displayed_link": "https://serverfault.com › questions › how-to-dump-a-mi...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f29b1fb5854aa6077fa1ea20f9cb985ca.png",
+      "date": "Aug 25, 2008",
+      "snippet": "Right click on the database and select \"Tasks -> Generate Scripts...\". Select the database and what you want to back up. Click next and set the \"Script Data\" to ...",
+      "snippet_highlighted_words": [
+        "Right click on the database and select \"Tasks -> Generate Scripts"
+      ],
+      "source": "Server Fault"
+    },
+    {
+      "position": 9,
+      "title": "Simple way to export and import data in SQL Server",
+      "link": "https://dba.stackexchange.com/questions/163724/simple-way-to-export-and-import-data-in-sql-server",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dba.stackexchange.com/questions/163724/simple-way-to-export-and-import-data-in-sql-server&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECDIQAQ",
+      "displayed_link": "https://dba.stackexchange.com › questions › simple-wa...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06feba0e330d4ff9e5110ff9efac10c6ed5.png",
+      "date": "Feb 9, 2017",
+      "snippet": "Right Click DatabaseName -> Go to Task -> Generate Script One dialog is open. 1). Select ALL Table & Click on Next.",
+      "snippet_highlighted_words": [
+        "Right Click DatabaseName"
+      ],
+      "source": "Database Administrators Stack Exchange"
+    },
+    {
+      "position": 10,
+      "title": "How to Export a SQL Server Database Table When ...",
+      "link": "https://www.veritas.com/support/en_US/article.100029386",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.veritas.com/support/en_US/article.100029386&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECEwQAQ",
+      "displayed_link": "https://www.veritas.com › en_US › article.100029386",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f2bff8e447d1ba9f7f147d7247710ce7b.png",
+      "date": "Sep 13, 2021",
+      "snippet": "1. Open the Microsoft SQL Server Management Studio. 2. Expand the console tree to display the name of the database to be exported. 3. Right- ...",
+      "snippet_highlighted_words": [
+        "1. Open the Microsoft SQL Server Management Studio"
+      ],
+      "source": "Veritas Technologies"
+    },
+    {
+      "position": 11,
+      "title": "Export/import Database on MS SQL 2012",
+      "link": "https://community.spiceworks.com/t/export-import-database-on-ms-sql-2012/726425",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.spiceworks.com/t/export-import-database-on-ms-sql-2012/726425&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECFIQAQ",
+      "displayed_link": "https://community.spiceworks.com › export-import-dat...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f2f48feeda6b66c3e0b79a799a1a5d767.png",
+      "date": "Aug 20, 2019",
+      "snippet": "I would like to export database x and import database x into database y. after this step I would like results to look like this… database x ...",
+      "snippet_highlighted_words": [
+        "export database x"
+      ],
+      "source": "Spiceworks Community"
+    },
+    {
+      "position": 12,
+      "title": "Export Tables from a Database - Alpha Anywhere",
+      "link": "https://documentation.alphasoftware.com/documentation/pages/HowTo/Databases/Export%20Tables%20from%20a%20Database.xml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://documentation.alphasoftware.com/documentation/pages/HowTo/Databases/Export%2520Tables%2520from%2520a%2520Database.xml&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECGgQAQ",
+      "displayed_link": "https://documentation.alphasoftware.com › pages › HowTo",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f8da954a6d5600490a467659791907544.jpeg",
+      "snippet": "Exporting Tables Using SQL Server Management Studio · Right-click on the database that contains tables you wish to export. · Click Next > on the Introduction page ...",
+      "snippet_highlighted_words": [
+        "Right-click on the database that contains tables you wish to export"
+      ],
+      "source": "Alpha Anywhere Documentation"
+    },
+    {
+      "position": 13,
+      "title": "How To Export SQL Server Data From Table To a CSV File",
+      "link": "https://www.devart.com/dbforge/sql/studio/export-sql-table-to-csv.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.devart.com/dbforge/sql/studio/export-sql-table-to-csv.html&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECG8QAQ",
+      "displayed_link": "https://www.devart.com › dbforge › sql › studio › expo...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f3eb9b2c96de462a6898e0f6c8ed1e8db.png",
+      "snippet": "1. In SQL Server Management Studio, connect to a database you want to export a table from. · 2. Right-click the database and navigate to Tasks > Export Data: · 3.",
+      "snippet_highlighted_words": [
+        "Right-click the database and navigate to Tasks > Export Data"
+      ],
+      "source": "Devart"
+    },
+    {
+      "position": 14,
+      "title": "SQL Server Export Data Wizard explained - Database ...",
+      "link": "https://www.youtube.com/watch?v=Ox1WHXFyyVM",
+      "displayed_link": "370+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLHVEKhkM2ME9_1UEMkj5SQhhAirmtMxk0ZwlwIl42_bl-&s",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f74fa028563de9712b2d7aa08ee9aead3.png",
+      "snippet": "SQL Server Export Data Wizard explained - Database development for beginners. In this video I explain how to use the database export data ...",
+      "duration": "5:13",
+      "key_moments": [
+        {
+          "time": "00:08",
+          "title": "Export Wizard",
+          "link": "https://www.youtube.com/watch?v=Ox1WHXFyyVM&t=8"
+        },
+        {
+          "time": "00:20",
+          "title": "Export Data",
+          "link": "https://www.youtube.com/watch?v=Ox1WHXFyyVM&t=20"
+        },
+        {
+          "time": "00:26",
+          "title": "Define Your Data Source",
+          "link": "https://www.youtube.com/watch?v=Ox1WHXFyyVM&t=26"
+        },
+        {
+          "time": "01:46",
+          "title": "Edit Mappings",
+          "link": "https://www.youtube.com/watch?v=Ox1WHXFyyVM&t=106"
+        }
+      ],
+      "source": "YouTube · Brendan Callaghan"
+    },
+    {
+      "position": 15,
+      "title": "How to export database in SQL Server 2018 ?",
+      "link": "https://www.youtube.com/watch?v=baGYmzqGnzM",
+      "displayed_link": "7.9K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2FdmH53jJvq2-oj31jSU_qQszL8dHe5rJsYfrbyFXN5O&s",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f097a82dd4abf65eadc946993fb1fc6fc.png",
+      "snippet": "Right click on a database just click task tab select backup.",
+      "duration": "1:19",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQgiDuWDvLCGWhk4lldQUoQZipqFVeq3B-80A",
+      "source": "YouTube · HaTkesh InFotech Pvt.Ltd."
+    },
+    {
+      "position": 16,
+      "title": "How to export SQL Server data to SQL - Documentation - Devart",
+      "link": "https://docs.devart.com/data-pump/exporting-data/export-to-sql.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.devart.com/data-pump/exporting-data/export-to-sql.html&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoFCJMBEAE",
+      "displayed_link": "https://docs.devart.com › data-pump › export-to-sql",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f4b6d7239ab80ce7e8bc420b3b03c2280.png",
+      "date": "Dec 1, 2021",
+      "snippet": "To export SQL data, right-click a database, select SQL export format, choose source, output settings, and then click Export.",
+      "snippet_highlighted_words": [
+        "export SQL",
+        "database",
+        "SQL export",
+        "Export"
+      ],
+      "source": "Devart"
+    },
+    {
+      "position": 17,
+      "title": "Export Data from SQL Server to Another Database",
+      "link": "https://www.linkedin.com/pulse/export-data-from-sql-server-another-database-jackson-andrew-yox4f",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pulse/export-data-from-sql-server-another-database-jackson-andrew-yox4f&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECDUQAQ",
+      "displayed_link": "2 reactions · 9 months ago",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f35e1698859d63379f13f27b2d5784265.png",
+      "snippet": "You can use the bcp utility or SSIS to export data from SQL Server to a CSV file. The bcp utility is a command-line tool that can be used to ...",
+      "snippet_highlighted_words": [
+        "You can use the bcp utility or SSIS"
+      ],
+      "source": "LinkedIn · Jackson Andrew"
+    },
+    {
+      "position": 18,
+      "title": "Export of a SQL Server database",
+      "link": "https://docs.rubrik.com/en-us/saas/saas/mssql_export_of_a_SQLServer_database.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.rubrik.com/en-us/saas/saas/mssql_export_of_a_SQLServer_database.html&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECFcQAQ",
+      "displayed_link": "https://docs.rubrik.com › en-us › saas › saas › mssql_exp...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fa0d3086782164ebb102b16c360a5e6c2.png",
+      "snippet": "Each export path must point to a location that has sufficient free storage to accommodate the database files. The Rubrik cluster checks the available space ...",
+      "snippet_highlighted_words": [
+        "export",
+        "database"
+      ],
+      "source": "Rubrik"
+    },
+    {
+      "position": 19,
+      "title": "MS SQL Export Table: Easy Steps Explained",
+      "link": "https://hevodata.com/learn/ms-sql-export-table/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hevodata.com/learn/ms-sql-export-table/&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECE4QAQ",
+      "displayed_link": "https://hevodata.com › Learn",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f9456e1bb6f1509d813526cc71b9a1f43.png",
+      "date": "Oct 23, 2024",
+      "snippet": "You can export a table in MS SQL using SQL Server Management Studio (SSMS) by right-clicking on the database, selecting Tasks, and then Export ...",
+      "snippet_highlighted_words": [
+        "right-clicking on the database, selecting Tasks, and then Export"
+      ],
+      "source": "Hevo Data"
+    },
+    {
+      "position": 20,
+      "title": "How To Export SQL to Excel with SSMS",
+      "link": "https://www.youtube.com/watch?v=lQPyVhIazMo",
+      "displayed_link": "22.2K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9dZWMP1EoLCifL2EwDIB8RrRR_eHWVkEuUF3NbYHS3ObE&s",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f688aa3f42e1e1ee0fc3ab150f1cc4e79.png",
+      "snippet": "In this video I'm going to show you how to take SQL results from ssms and take them and pass them into an Excel file.",
+      "duration": "7:12",
+      "key_moments": [
+        {
+          "time": "02:18",
+          "title": "Export Data",
+          "link": "https://www.youtube.com/watch?v=lQPyVhIazMo&t=138"
+        },
+        {
+          "time": "02:24",
+          "title": "Import and Export Wizard",
+          "link": "https://www.youtube.com/watch?v=lQPyVhIazMo&t=144"
+        },
+        {
+          "time": "02:49",
+          "title": "Data Source",
+          "link": "https://www.youtube.com/watch?v=lQPyVhIazMo&t=169"
+        },
+        {
+          "time": "02:55",
+          "title": "Sql Server Native Client",
+          "link": "https://www.youtube.com/watch?v=lQPyVhIazMo&t=175"
+        },
+        {
+          "time": "04:33",
+          "title": "Write a Query",
+          "link": "https://www.youtube.com/watch?v=lQPyVhIazMo&t=273"
+        }
+      ],
+      "source": "YouTube · Pragmatic Works"
+    },
+    {
+      "position": 21,
+      "title": "How to Export an SQL Server Database Schema Into a ...",
+      "link": "https://vertabelo.com/blog/export-sql-server-schema-diagram/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vertabelo.com/blog/export-sql-server-schema-diagram/&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECFUQAQ",
+      "displayed_link": "https://vertabelo.com › blog › export-sql-server-schema...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fada0acb8cf282a5b2181867d5b939891.png",
+      "date": "Feb 14, 2023",
+      "snippet": "First, choose all the tables you want to include in the database diagram. Then, click on the Add button and wait until all tables are loaded.",
+      "snippet_highlighted_words": [
+        "choose all the tables you want to include in the database diagram"
+      ],
+      "source": "Vertabelo Database Modeler"
+    },
+    {
+      "position": 22,
+      "title": "6.5.2 SQL Data Export and Import Wizard",
+      "link": "https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-management.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-management.html&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECFgQAQ",
+      "displayed_link": "https://dev.mysql.com › doc › workbench › wb-admin-e...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f6b1fe9a68812b271cc7877f2e87c3c06.png",
+      "snippet": "Select each schema you want to export, optionally choose specific schema objects/tables from each schema, and generate the export. Configuration options include ...",
+      "snippet_highlighted_words": [
+        "Select each schema you want to export"
+      ],
+      "source": "MySQL :: Developer Zone"
+    },
+    {
+      "position": 23,
+      "title": "Export and Import Data from SQL Server",
+      "link": "https://www.infiflex.com/export-and-import-data-from-sql-server",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.infiflex.com/export-and-import-data-from-sql-server&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECGkQAQ",
+      "displayed_link": "https://www.infiflex.com › export-and-import-data-fro...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f47d71c7934bde2eba3a4a6218064992d.png",
+      "snippet": "Use SSMS Export Wizard to export data, right-click database, select Tasks > Export Data. For import, right-click database, select Tasks > Import Data.",
+      "snippet_highlighted_words": [
+        "right-click database, select Tasks > Export Data"
+      ],
+      "source": "Infiflex Technologies"
+    },
+    {
+      "position": 24,
+      "title": "Exporting your database schema and data as a script",
+      "link": "https://portal.hostmedia.uk/knowledgebase/201204271/Exporting-your-database-schema-and-data-as-a-script.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://portal.hostmedia.uk/knowledgebase/201204271/Exporting-your-database-schema-and-data-as-a-script.html&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECHAQAQ",
+      "displayed_link": "https://portal.hostmedia.uk › knowledgebase › Exporting...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f1775291ac93ab7da38d1b5e1f35c4c9f.png",
+      "snippet": "To export your MsSQL databases as a query to be used as a backup or to restore data on a new database, you will need to download and install SQL Server ...",
+      "snippet_highlighted_words": [
+        "export",
+        "database",
+        "SQL Server"
+      ],
+      "source": "Host Media"
+    },
+    {
+      "position": 25,
+      "title": "How to Export Data from SQL Server to Excel",
+      "link": "https://sqlspreads.com/blog/how-to-export-data-from-sql-server-to-excel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sqlspreads.com/blog/how-to-export-data-from-sql-server-to-excel/&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECHIQAQ",
+      "displayed_link": "https://sqlspreads.com › blog › how-to-export-data-fro...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f2e95445a1c51794b324bf9436cc84786.png",
+      "snippet": "To get started with the export from SQL Server to Excel, click on Data > Get Data > From Database > From SQL Server Database. excel_getdata_fromsql. You are ...",
+      "snippet_highlighted_words": [
+        "click on Data > Get Data > From Database > From SQL Server Database"
+      ],
+      "source": "SQL Spreads"
+    },
+    {
+      "position": 26,
+      "title": "SQL Server import and export wizard - Database Migration ...",
+      "link": "https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.sql-server-rds-sql-server-full-load-import-export.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.sql-server-rds-sql-server-full-load-import-export.html&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECHMQAQ",
+      "displayed_link": "https://docs.aws.amazon.com › dms › latest › sbs › chap-...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fa422695c10187f8e9c4bf76deb519b3e.png",
+      "snippet": "Open the SQL Server Import and Export Wizard from the Windows Start menu. Connect to your source and target databases and select the source tables and views.",
+      "snippet_highlighted_words": [
+        "Connect to your source and target databases"
+      ],
+      "source": "Amazon AWS Documentation"
+    },
+    {
+      "position": 27,
+      "title": "Export and import using SQL dump files",
+      "link": "https://cloud.google.com/sql/docs/mysql/import-export/import-export-sql",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cloud.google.com/sql/docs/mysql/import-export/import-export-sql&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECH8QAQ",
+      "displayed_link": "https://cloud.google.com › ... › Documentation › MySQL",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fd31d8c75a300343ff2eff50d6d15cd3b.png",
+      "snippet": "In the Google Cloud console, go to the Cloud SQL Instances page. · To open the Overview page of an instance, click the instance name. · Click Export. · In the File ...",
+      "snippet_highlighted_words": [
+        "SQL",
+        "Export"
+      ],
+      "source": "Google Cloud"
+    },
+    {
+      "position": 28,
+      "title": "sql server - Extract data to another computer",
+      "link": "https://dba.stackexchange.com/questions/45880/extract-data-to-another-computer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dba.stackexchange.com/questions/45880/extract-data-to-another-computer&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoFCIUBEAE",
+      "displayed_link": "https://dba.stackexchange.com › questions › extract-dat...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f7990e3a746dcec22c01591ab3aba1dac.png",
+      "date": "Jul 8, 2013",
+      "snippet": "Right-click in the database -> Tasks -> Export -> Set server name + password + set database source. ... Using SQL Server Import\\Export Wizard with ...",
+      "snippet_highlighted_words": [
+        "Right-click in the database -> Tasks -> Export"
+      ],
+      "source": "Database Administrators Stack Exchange"
+    },
+    {
+      "position": 29,
+      "title": "How to Export Data From Microsoft SQL Server to a CSV File",
+      "link": "https://learnsql.com/blog/export-csv-file-ms-sql-server/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learnsql.com/blog/export-csv-file-ms-sql-server/&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoFCJIBEAE",
+      "displayed_link": "https://learnsql.com › blog › export-csv-file-ms-sql-server",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f0aeb2ec0818caa26e173673b1dfae662.png",
+      "date": "Dec 8, 2022",
+      "snippet": "Right-click the name of the database from which you want to export data to a CSV file, choose Tasks, and then, Export Data. How to Export Data ...",
+      "snippet_highlighted_words": [
+        "Right-click the name of the database from which you want to export data"
+      ],
+      "source": "LearnSQL.com"
+    },
+    {
+      "position": 30,
+      "title": "How To Import/Export SQL Server Database Using Microsoft ...",
+      "link": "https://www.youtube.com/watch?v=h_0wihZ_ABs",
+      "displayed_link": "4.2K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSlgQ9iFfdYV1luXDIkwXJRlsRmMfPJPIBGTr8TX7NiD9&s",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06ff3dd23faa289d56c04e931fb592dbc5e.png",
+      "snippet": "In this video I will show you how to import and export complete database from SQL Server using Microsoft SQL Server management studio engine.",
+      "duration": "12:34",
+      "key_moments": [
+        {
+          "time": "00:34",
+          "title": "Setup Database",
+          "link": "https://www.youtube.com/watch?v=h_0wihZ_ABs&t=34"
+        },
+        {
+          "time": "06:51",
+          "title": "Import Data with Existing Database",
+          "link": "https://www.youtube.com/watch?v=h_0wihZ_ABs&t=411"
+        },
+        {
+          "time": "08:01",
+          "title": "Import Data from the Excel File",
+          "link": "https://www.youtube.com/watch?v=h_0wihZ_ABs&t=481"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQiYQSAJucc6EheWofi22bKpjfkRglw8bjZzQ",
+      "source": "YouTube · Knowledge 360"
+    },
+    {
+      "position": 31,
+      "title": "How to export data from SQL Server to a Flat file",
+      "link": "https://www.sqlshack.com/export-data-sql-server-flat-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sqlshack.com/export-data-sql-server-flat-file/&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoFCJQBEAE",
+      "displayed_link": "https://www.sqlshack.com › export-data-sql-server-flat-file",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f3de68cc8831fbab30faa4d0f6f839fb6.png",
+      "date": "Dec 7, 2017",
+      "snippet": "In this article, we will illustrate how to export SQL Server data into a Flat file, by using the SQL Server Import and Export Wizard.",
+      "snippet_highlighted_words": [
+        "how to export SQL Server data into a Flat file"
+      ],
+      "source": "SQL Shack"
+    },
+    {
+      "position": 32,
+      "title": "How export database from mssql by using command line",
+      "link": "https://serverfault.com/questions/584878/how-export-database-from-mssql-by-using-command-line",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://serverfault.com/questions/584878/how-export-database-from-mssql-by-using-command-line&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoFCJYBEAE",
+      "displayed_link": "https://serverfault.com › questions › how-export-databa...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f5f90cd7dfb016c974876da7ff7eace79.png",
+      "date": "Mar 27, 2014",
+      "snippet": "Try: SqlCmd -E -S Server_Name –Q \"BACKUP DATABASE [Name_of_Database] TO DISK='X:PathToBackupLocation[Name_of_Database].bak'\"",
+      "snippet_highlighted_words": [
+        "DATABASE",
+        "Database",
+        "Database"
+      ],
+      "source": "Server Fault"
+    },
+    {
+      "position": 33,
+      "title": "How to export data from one SQL server to another server",
+      "link": "https://www.quora.com/How-can-I-export-data-from-one-SQL-server-to-another-server",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/How-can-I-export-data-from-one-SQL-server-to-another-server&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECDkQAQ",
+      "displayed_link": "2 answers · 4 years ago",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fa5e0554340a07adabfdac5dc0efa1026.png",
+      "snippet": "Use the Export Data tool (right-click the database in the Object Explorer, select Tasks, Export Data). First you'll need to install an ODBC ...",
+      "snippet_highlighted_words": [
+        "Use the Export Data tool"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 34,
+      "title": "How to Export Data from SQL Server: Comprehensive Guide",
+      "link": "https://coefficient.io/export-data-from-sql-server",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coefficient.io/export-data-from-sql-server&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECFYQAQ",
+      "displayed_link": "https://coefficient.io › export-data-from-sql-server",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fa4acc85a9aab1a1ee8f367fc9132505e.png",
+      "date": "Aug 29, 2024",
+      "snippet": "Step 1: Open SQL Server Management Studio (SSMS). · Step 2: Connect to your database. · Step 3: Initiate the export process. · Step 4: Choose your ...",
+      "snippet_highlighted_words": [
+        "SQL Server",
+        "database",
+        "export"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 574
+          },
+          "extensions": [
+            "4.9(574)"
+          ]
+        }
+      },
+      "source": "coefficient.io"
+    },
+    {
+      "position": 35,
+      "title": "How To Export and Import a .SQL File From Command ...",
+      "link": "https://www.geeksforgeeks.org/sql/how-to-export-and-import-a-sql-file-from-command-line-with-options/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/sql/how-to-export-and-import-a-sql-file-from-command-line-with-options/&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECE0QAQ",
+      "displayed_link": "https://www.geeksforgeeks.org › sql › how-to-export-a...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f3a6a8038961b4db7765e4842c1242331.png",
+      "date": "Oct 2, 2022",
+      "snippet": "Export: · -h / --host : host address to connect · -u / --user : username of the account in the server · -p / --password : to get the password ...",
+      "snippet_highlighted_words": [
+        "Export",
+        "server"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 36,
+      "title": "Simple way to export data from SQL Server",
+      "link": "https://www.mssqltips.com/tutorial/simple-way-to-export-data-from-sql-server/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mssqltips.com/tutorial/simple-way-to-export-data-from-sql-server/&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECDgQAQ",
+      "displayed_link": "https://www.mssqltips.com › tutorial › simple-way-to-e...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06fab1cb0cb5bd406ca2af554f4dff279a4.png",
+      "date": "Oct 22, 2009",
+      "snippet": "Simple way to export data from SQL Server · Choose a Data Source · Choose a Destination · Specify Table Copy or Query · Select Source Tables and ...",
+      "snippet_highlighted_words": [
+        "Simple way to export data from SQL Server"
+      ],
+      "source": "MSSQLTips.com"
+    },
+    {
+      "position": 37,
+      "title": "Export | DataGrip Documentation",
+      "link": "https://www.jetbrains.com/help/datagrip/export-data.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jetbrains.com/help/datagrip/export-data.html&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECDQQAQ",
+      "displayed_link": "https://www.jetbrains.com › Export and import › Export",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f4ba6dd9cea49d7bb65455b56a9952c17.png",
+      "date": "Apr 3, 2025",
+      "snippet": "In the Database Explorer, right-click a database object and navigate to Import/Export | Export Data to File. · In the Export Data dialog, ...",
+      "snippet_highlighted_words": [
+        "right-click a database object and navigate to Import/Export | Export Data to File"
+      ],
+      "source": "JetBrains"
+    },
+    {
+      "position": 38,
+      "title": "Export/Import Database of SQL SERVER using MS ...",
+      "link": "https://support.tibco.com/s/article/Export-Import-Database-of-SQL-SERVER-using-MS-SQL-Management-Studio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.tibco.com/s/article/Export-Import-Database-of-SQL-SERVER-using-MS-SQL-Management-Studio&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECDYQAQ",
+      "displayed_link": "https://support.tibco.com › article › Export-Import-Data...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f8a49724c7d41dbfb63bd70d0783e924e.png",
+      "date": "May 30, 2019",
+      "snippet": "1) Open MS SQL Server Studio right click on the respective Database(MDM PROD database) from the Databases,and choose tasks option and click on \" ...",
+      "snippet_highlighted_words": [
+        "1) Open MS SQL Server Studio"
+      ],
+      "source": "Tibco"
+    },
+    {
+      "position": 39,
+      "title": "How to export data from MSSQL using SQL Server ...",
+      "link": "https://www.dbload.com/articles/export-data-from-mssql.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dbload.com/articles/export-data-from-mssql.htm&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECE8QAQ",
+      "displayed_link": "https://www.dbload.com › articles › export-data-from-ms...",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f492a2bf358a7878091b455e579c41efc.png",
+      "snippet": "Right-click on the selected database and choose \"Tasks\" > \"Export Data...\" from the context menu. This will open the SQL Server Import and Export Wizard.",
+      "snippet_highlighted_words": [
+        "Right-click on the selected database and choose \"Tasks\" > \"Export Data"
+      ],
+      "source": "DBLoad.com"
+    },
+    {
+      "position": 40,
+      "title": "SQL Server export and import into a database",
+      "link": "https://usavps.com/blog/116707/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://usavps.com/blog/116707/&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQFnoECDcQAQ",
+      "displayed_link": "https://usavps.com › Home › Database",
+      "favicon": "https://serpapi.com/searches/685de08de642507858fcb81d/images/1c5bd2bbd9d24b202244230302cef06f8d2e66e8e82d4605f4f8878101ebc986.png",
+      "date": "Nov 18, 2024",
+      "snippet": "Open SQL Server Management Studio and connect to your database. · Right-click on the database you want to export data from. · Select Tasks > ...",
+      "snippet_highlighted_words": [
+        "Right-click on the database you want to export data from"
+      ],
+      "source": "USAVPS"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "SQL Server Management Studio",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe7GsSlS9mP8RIMRSlPMfpQ_Q-MhM4O7OlXzbY&s=0",
+          "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=SQL+Server+Management+Studio&stick=H4sIAAAAAAAAAOMwVOLSz9U3MCqsKK80_MXIsIGF4RULDxeS4CsWbi5OENfQyKCsCM4zKrIwTHvFwsXFAeKZVBpnw6XS0rLzzF6x8HPx6qfrGxomG5dbWmYbVyIMyk4vtETYYlqSkmQC5xqXJ-WkZMHVGptbGpQtYpUJDvRRCE4tKkstUvBNzEtMT81NzStRCC4pTcnMv8UmybB7UcdPFtf9hhstjTduEnu8nf2X-9_atBkrF3GIBaTmF-SkKiTmFOcrFKcmFiVnKKTlF63gYAQAovACxf0AAAA&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQs9oBKAB6BQijARAK",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=SQL+Server+Management+Studio&stick=H4sIAAAAAAAAAOMwVOLSz9U3MCqsKK80_MXIsIGF4RULDxeS4CsWbi5OENfQyKCsCM4zKrIwTHvFwsXFAeKZVBpnw6XS0rLzzF6x8HPx6qfrGxomG5dbWmYbVyIMyk4vtETYYlqSkmQC5xqXJ-WkZMHVGptbGpQtYpUJDvRRCE4tKkstUvBNzEtMT81NzStRCC4pTcnMv8UmybB7UcdPFtf9hhstjTduEnu8nf2X-9_atBkrF3GIBaTmF-SkKiTmFOcrFKcmFiVnKKTlF63gYAQAovACxf0AAAA"
+        },
+        {
+          "name": "Microsoft SQL Server",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUiTUG9g6zXzeLhEU5uzTP3WJtZ5a0-rPeEdGO&s=0",
+          "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=Microsoft+SQL+Server&stick=H4sIAAAAAAAAAOMwVOLUz9U3MDQyKCv6xciwgYXhFQsPFxdIzKiworzS8BULNxdCCZxnVGRhmPaKhYuLA8QzqTTOhkulpWXnmb1i4efi1U_XNzRMNi63tMw2rkQYlJ1eaImwxbQkJckEzjUuT8pJyYKrNTa3NChbxCrim5lclF-cn1aiEBzooxCcWlSWWnSLTZJh96KOnyyu-w03Whpv3CT2eDv7L_e_tWkzVi7iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIABZ9uzD0AAAA&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQs9oBKAB6BQijARAP",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=Microsoft+SQL+Server&stick=H4sIAAAAAAAAAOMwVOLUz9U3MDQyKCv6xciwgYXhFQsPFxdIzKiworzS8BULNxdCCZxnVGRhmPaKhYuLA8QzqTTOhkulpWXnmb1i4efi1U_XNzRMNi63tMw2rkQYlJ1eaImwxbQkJckEzjUuT8pJyYKrNTa3NChbxCrim5lclF-cn1aiEBzooxCcWlSWWnSLTZJh96KOnyyu-w03Whpv3CT2eDv7L_e_tWkzVi7iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIABZ9uzD0AAAA"
+        },
+        {
+          "name": "phpMyAdmin",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRheqr-6WpAQaLM3b6mdvV5ITxuXyr9M5pi8A8bAWl_toaTozuUTIe1&s=0",
+          "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=phpMyAdmin&stick=H4sIAAAAAAAAAOMwVOLUz9U3MCqyMEz7xciwgYXhFQsPFxdYrLCivNLwFQs3F1iJoZFBWRGcB9bwioWLiwPEM6k0zoZLpaVl55m9YuHn4tVP1zc0TDYut7TMNq5EGJSdXmiJsMW0JCXJBM41Lk_KScmCqzU2tzQoW8TKVZBR4FvpmJKbmXeLTZJh96KOnyyu-w03Whpv3CT2eDv7L_e_tWkzVi7iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIAGqhNizqAAAA&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQs9oBKAB6BQijARAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=phpMyAdmin&stick=H4sIAAAAAAAAAOMwVOLUz9U3MCqyMEz7xciwgYXhFQsPFxdYrLCivNLwFQs3F1iJoZFBWRGcB9bwioWLiwPEM6k0zoZLpaVl55m9YuHn4tVP1zc0TDYut7TMNq5EGJSdXmiJsMW0JCXJBM41Lk_KScmCqzU2tzQoW8TKVZBR4FvpmJKbmXeLTZJh96KOnyyu-w03Whpv3CT2eDv7L_e_tWkzVi7iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIAGqhNizqAAAA"
+        },
+        {
+          "name": "MySQL",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7xkmMv0WFKLO8s5UUmtXFSp5y-A-Xt_1yZyiYfY-R4pBH7RBiW7_Z&s=0",
+          "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=MySQL&stick=H4sIAAAAAAAAAOMwVOLQz9U3MKk0zv7FyLCBheEVCw8XF0jIqLCivNLwFQs3FyeIa2hkUFYE5xkVWRimvWLh4oLrhkulpWXnmb1i4efi1U_XNzRMNi63tMw2rkQYlJ1eaImwxbQkJckEzjUuT8pJyYKrNTa3NChbxMrqWxkc6HOLTZJh96KOnyyu-w03Whpv3CT2eDv7L_e_tWkzVi7iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIAGSmgzjkAAAA&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQs9oBKAB6BQijARAZ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=MySQL&stick=H4sIAAAAAAAAAOMwVOLQz9U3MKk0zv7FyLCBheEVCw8XF0jIqLCivNLwFQs3FyeIa2hkUFYE5xkVWRimvWLh4oLrhkulpWXnmb1i4efi1U_XNzRMNi63tMw2rkQYlJ1eaImwxbQkJckEzjUuT8pJyYKrNTa3NChbxMrqWxkc6HOLTZJh96KOnyyu-w03Whpv3CT2eDv7L_e_tWkzVi7iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIAGSmgzjkAAAA"
+        },
+        {
+          "name": "MySQL Workbench",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkTpFbp4oi3eIQCyxwS8cKyqdxA-D-_qSFcQI8aZ1zLPNXsUanWlF9&s=0",
+          "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=MySQL+Workbench&stick=H4sIAAAAAAAAAOMwVOLUz9U3SEvLzjP7xciwgYXhFQsPFxdIzKiworzS8BULNxdYiaGRQVkRnGdUZGGY9oqFi4sDxDOpNM6GS4HNesXCz8Wrn65vaJhsXG5pmW1ciTAoO73QEmGLaUlKkgmca1yelJOSBVdrbG5pULaIld-3MjjQRyE8vyg7KTUvOeMWmyTD7kUdP1lc9xtutDTeuEns8Xb2X-5_a9NmrFzEIRaQml-Qk6qQmFOcr1CcmliUnKGQll-0goMRACqi3VbvAAAA&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQs9oBKAB6BQijARAe",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=MySQL+Workbench&stick=H4sIAAAAAAAAAOMwVOLUz9U3SEvLzjP7xciwgYXhFQsPFxdIzKiworzS8BULNxdYiaGRQVkRnGdUZGGY9oqFi4sDxDOpNM6GS4HNesXCz8Wrn65vaJhsXG5pmW1ciTAoO73QEmGLaUlKkgmca1yelJOSBVdrbG5pULaIld-3MjjQRyE8vyg7KTUvOeMWmyTD7kUdP1lc9xtutDTeuEns8Xb2X-5_a9NmrFzEIRaQml-Qk6qQmFOcr1CcmliUnKGQll-0goMRACqi3VbvAAAA"
+        },
+        {
+          "name": "DBeaver",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQVrR3wONNQ_jYbkKkhtNAyzUMcaX-BhV24L4H1uNnihuuHwpOo0Ty&s=0",
+          "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=DBeaver&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEw2Lre0zDau_MXIsIGF4RULDxeXfq6-gVFhRXml4SsWbi5OENfQyKCsCM4zKrIwTHvFwsXFAeKZVBpnw6XS0rLzzF6x8HOhmo4wKDu90BJhi2lJSpIJnGtcnpSTkgVXa2xuaVC2iJXdxSk1sSy16BabJMPuRR0_WVz3G260NN64SezxdvZf7n9r02asXMQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEADhvg6-sAAAA&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQs9oBKAB6BQijARAj",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=DBeaver&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEw2Lre0zDau_MXIsIGF4RULDxeXfq6-gVFhRXml4SsWbi5OENfQyKCsCM4zKrIwTHvFwsXFAeKZVBpnw6XS0rLzzF6x8HOhmo4wKDu90BJhi2lJSpIJnGtcnpSTkgVXa2xuaVC2iJXdxSk1sSy16BabJMPuRR0_WVz3G260NN64SezxdvZf7n9r02asXMQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEADhvg6-sAAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "How to export database in SQL Server Management Studio",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=How+to+export+database+in+SQL+Server+Management+Studio&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ1QJ6BQiqARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=How+to+export+database+in+SQL+Server+Management+Studio"
+    },
+    {
+      "block_position": 1,
+      "query": "SQL Server export database to SQL file",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=SQL+Server+export+database+to+SQL+file&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ1QJ6BQipARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=SQL+Server+export+database+to+SQL+file"
+    },
+    {
+      "block_position": 1,
+      "query": "How to import database in SQL Server Management Studio",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=How+to+import+database+in+SQL+Server+Management+Studio&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ1QJ6BQioARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=How+to+import+database+in+SQL+Server+Management+Studio"
+    },
+    {
+      "block_position": 1,
+      "query": "How to export SQL Server database to bak file",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=How+to+export+SQL+Server+database+to+bak+file&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ1QJ6BQinARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=How+to+export+SQL+Server+database+to+bak+file"
+    },
+    {
+      "block_position": 1,
+      "query": "Export database SQL Server command line",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=Export+database+SQL+Server+command+line&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ1QJ6BQimARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=Export+database+SQL+Server+command+line"
+    },
+    {
+      "block_position": 1,
+      "query": "SQL Server Import and Export Wizard",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=SQL+Server+Import+and+Export+Wizard&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ1QJ6BQikARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=SQL+Server+Import+and+Export+Wizard"
+    },
+    {
+      "block_position": 1,
+      "query": "SQL Server Management Studio export database to SQL file",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=SQL+Server+Management+Studio+export+database+to+SQL+file&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ1QJ6BQilARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=SQL+Server+Management+Studio+export+database+to+SQL+file"
+    },
+    {
+      "block_position": 1,
+      "query": "How to export sql database in phpMyAdmin",
+      "link": "https://www.google.com/search?num=40&sca_esv=319a8605ed997738&hl=en&gl=us&q=How+to+export+sql+database+in+phpMyAdmin&sa=X&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ1QJ6BQirARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=How+to+export+sql+database+in+phpMyAdmin"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+to+export+a+database+in+sql+server&num=40&sca_esv=319a8605ed997738&hl=en&gl=us&ei=kuBdaMS6EpXZ1sQPmJGuiAY&start=40&sa=N&sstk=Ac65TH7VM8VDnjmV6Wo9Q8wNEn6yx5pqkx09VurUiXJYpdkMcne7pneHqmb1CH5QawF32qrprP6eWpwfYsLLjTT2GbjquofAURwbkw&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ8NMDegQIDRAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+to+export+a+database+in+sql+server&num=40&sca_esv=319a8605ed997738&hl=en&gl=us&ei=kuBdaMS6EpXZ1sQPmJGuiAY&start=40&sa=N&sstk=Ac65TH7VM8VDnjmV6Wo9Q8wNEn6yx5pqkx09VurUiXJYpdkMcne7pneHqmb1CH5QawF32qrprP6eWpwfYsLLjTT2GbjquofAURwbkw&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=how+to+export+a+database+in+sql+server&num=40&sca_esv=319a8605ed997738&hl=en&gl=us&ei=kuBdaMS6EpXZ1sQPmJGuiAY&start=80&sa=N&sstk=Ac65TH7VM8VDnjmV6Wo9Q8wNEn6yx5pqkx09VurUiXJYpdkMcne7pneHqmb1CH5QawF32qrprP6eWpwfYsLLjTT2GbjquofAURwbkw&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=how+to+export+a+database+in+sql+server&num=40&sca_esv=319a8605ed997738&hl=en&gl=us&ei=kuBdaMS6EpXZ1sQPmJGuiAY&start=120&sa=N&sstk=Ac65TH7VM8VDnjmV6Wo9Q8wNEn6yx5pqkx09VurUiXJYpdkMcne7pneHqmb1CH5QawF32qrprP6eWpwfYsLLjTT2GbjquofAURwbkw&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=how+to+export+a+database+in+sql+server&num=40&sca_esv=319a8605ed997738&hl=en&gl=us&ei=kuBdaMS6EpXZ1sQPmJGuiAY&start=160&sa=N&sstk=Ac65TH7VM8VDnjmV6Wo9Q8wNEn6yx5pqkx09VurUiXJYpdkMcne7pneHqmb1CH5QawF32qrprP6eWpwfYsLLjTT2GbjquofAURwbkw&ved=2ahUKEwjEy8Gfp5COAxWVrJUCHZiIC2EQ8tMDegQIDRAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=how+to+export+a+database+in+sql+server&start=40",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=how+to+export+a+database+in+sql+server&start=40",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=how+to+export+a+database+in+sql+server&start=40",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=how+to+export+a+database+in+sql+server&start=80",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=how+to+export+a+database+in+sql+server&start=120",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=40&q=how+to+export+a+database+in+sql+server&start=160"
+    }
+  }
+}
