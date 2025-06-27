@@ -1,0 +1,509 @@
+{
+  "search_metadata": {
+    "id": "685de971304eba304c1fbe69",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1556c05247aecc72/685de971304eba304c1fbe69.json",
+    "created_at": "2025-06-27 00:44:33 UTC",
+    "processed_at": "2025-06-27 00:44:34 UTC",
+    "google_url": "https://www.google.com/search?q=how+to+style+button+in+react+native&oq=how+to+style+button+in+react+native&hl=en&gl=us&num=200&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/1556c05247aecc72/685de971304eba304c1fbe69.html",
+    "total_time_taken": 1.04
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how to style button in react native",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "200",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how to style button in react native",
+    "total_results": 36300000,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How to add style in button React Native?",
+      "snippet": "Add styles to buttons in React Native by adding more props For example, you can add a prop to change the button size or change the background color. const AppButton = ({ onPress, title, size, backgroundColor }) => ( <TouchableOpacity onPress={onPress} style={[ styles.",
+      "title": "How to create and style custom buttons in React Native",
+      "date": "Jan 14, 2022",
+      "link": "https://blog.logrocket.com/create-style-custom-buttons-react-native/#:~:text=Add%20styles%20to%20buttons%20in%20React%20Native%20by%20adding%20more%20props&text=For%20example%2C%20you%20can%20add,onPress%7D%20style%3D%7B%5B%20styles.",
+      "displayed_link": "https://blog.logrocket.com › create-style-custom-button...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVZqTjRaM2c0U3poM056RllXRlpGZFZoU1VVZHZYMmRsWldWbmFVNWFMVEZtTmxaeFVXVkhhRFpDU1V0SE1qRkxORUZ3T1VwcFZtMXBWekZqZWswMVltMXhkM1EwVlZCR1IwWjJUR2xIZW5Ga01uZHhOek5HTUhSWlVSSVdZM1ZzWkdGSmNqQkdOREprYUdKSlVIaGFabTFSVVJvaVFVWk5RVWRIY0ZKaFdIUkJaV3RWYWpjd1NtbDJNSEJNYTJ4TVdXVk9SVmRmVVEiLCJmY3YiOiIzIiwiZWkiOiJjdWxkYUlyMEY0MmRoYklQeFpmbVFRIiwicWMiOiJDaU5vYjNjZ2RHOGdjM1I1YkdVZ1luVjBkRzl1SUdsdUlISmxZV04wSUc1aGRHbDJaUkFBZlp6R0V6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGFkZCBzdHlsZSBpbiBidXR0b24gUmVhY3QgTmF0aXZlPyIsImxrIjoiR2lkb2IzY2dkRzhnWVdSa0lITjBlV3hsSUdsdUlHSjFkSFJ2YmlCeVpXRmpkQ0J1WVhScGRtVSIsImJzIjoiYy1PSzROTHd5QzlYS01sWFNFeEpVU2d1cWN4SlZjak1VMGdxTFNuSnoxTUlTazFNTGxId1N5ekpMRXUxbDVnWGFLUXBwWjZCVzNrUldIa2VXRGxYRkpjVzFPVGswdUtTX056TXFsU0ZSSmpLVEhTekQ0c2ptWTNRZ0ZDT1lyWURsd3pVYklnVEVxR21RWlRiUzNTSUdzbEtTV2VnS2lsQ1VzTGx3NlVFTlNFRm9pSXpMeDNUVllma2pKU2xGRE93S1VSMmp3QWpBQSIsImlkIjoiZmNfY3VsZGFJcjBGNDJkaGJJUHhaZm1RUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVZqTjRaM2c0U3poM056RllXRlpGZFZoU1VVZHZYMmRsWldWbmFVNWFMVEZtTmxaeFVXVkhhRFpDU1V0SE1qRkxORUZ3T1VwcFZtMXBWekZqZWswMVltMXhkM1EwVlZCR1IwWjJUR2xIZW5Ga01uZHhOek5HTUhSWlVSSVdZM1ZzWkdGSmNqQkdOREprYUdKSlVIaGFabTFSVVJvaVFVWk5RVWRIY0ZKaFdIUkJaV3RWYWpjd1NtbDJNSEJNYTJ4TVdXVk9SVmRmVVEiLCJmY3YiOiIzIiwiZWkiOiJjdWxkYUlyMEY0MmRoYklQeFpmbVFRIiwicWMiOiJDaU5vYjNjZ2RHOGdjM1I1YkdVZ1luVjBkRzl1SUdsdUlISmxZV04wSUc1aGRHbDJaUkFBZlp6R0V6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGFkZCBzdHlsZSBpbiBidXR0b24gUmVhY3QgTmF0aXZlPyIsImxrIjoiR2lkb2IzY2dkRzhnWVdSa0lITjBlV3hsSUdsdUlHSjFkSFJ2YmlCeVpXRmpkQ0J1WVhScGRtVSIsImJzIjoiYy1PSzROTHd5QzlYS01sWFNFeEpVU2d1cWN4SlZjak1VMGdxTFNuSnoxTUlTazFNTGxId1N5ekpMRXUxbDVnWGFLUXBwWjZCVzNrUldIa2VXRGxYRkpjVzFPVGswdUtTX056TXFsU0ZSSmpLVEhTekQ0c2ptWTNRZ0ZDT1lyWURsd3pVYklnVEVxR21RWlRiUzNTSUdzbEtTV2VnS2lsQ1VzTGx3NlVFTlNFRm9pSXpMeDNUVllma2pKU2xGRE93S1VSMmp3QWpBQSIsImlkIjoiZmNfY3VsZGFJcjBGNDJkaGJJUHhaZm1RUV8xIn0%3D"
+    },
+    {
+      "question": "How to customize a button in React Native?",
+      "snippet": "In React Native, a button can be created using the built-in Button component or through TouchableOpacity , TouchableHighlight , and Pressable . While Button offers simplicity by providing basic styling, TouchableOpacity and TouchableHighlight provide more options for customization.",
+      "title": "Crafting a Custom Button Component in React Native",
+      "date": "Jan 28, 2024",
+      "link": "https://dev.to/9bytes/crafting-a-custom-button-component-in-react-native-2inj#:~:text=In%20React%20Native%2C%20a%20button,provide%20more%20options%20for%20customization.",
+      "displayed_link": "https://dev.to › crafting-a-custom-button-component-in...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVZqTjRaM2c0U3poM056RllXRlpGZFZoU1VVZHZYMmRsWldWbmFVNWFMVEZtTmxaeFVXVkhhRFpDU1V0SE1qRkxORUZ3T1VwcFZtMXBWekZqZWswMVltMXhkM1EwVlZCR1IwWjJUR2xIZW5Ga01uZHhOek5HTUhSWlVSSVdZM1ZzWkdGSmNqQkdOREprYUdKSlVIaGFabTFSVVJvaVFVWk5RVWRIY0ZKaFdIUkJaV3RWYWpjd1NtbDJNSEJNYTJ4TVdXVk9SVmRmVVEiLCJmY3YiOiIzIiwiZWkiOiJjdWxkYUlyMEY0MmRoYklQeFpmbVFRIiwicWMiOiJDaU5vYjNjZ2RHOGdjM1I1YkdVZ1luVjBkRzl1SUdsdUlISmxZV04wSUc1aGRHbDJaUkFBZlp6R0V6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGN1c3RvbWl6ZSBhIGJ1dHRvbiBpbiBSZWFjdCBOYXRpdmU/IiwibGsiOiJHaWRvYjNjZ2RHOGdZM1Z6ZEc5dGFYcGxJR0oxZEhSdmJpQnBiaUJ5WldGamRDQnVZWFJwZG1VIiwiYnMiOiJjLU9LNE5Md3lDOVhLTWxYU0V4SlVTZ3VxY3hKVmNqTVUwZ3FMU25KejFNSVNrMU1MbEh3U3l6SkxFdTFsNWdYYUtRcHBaNkJXM2tSV0hrZVdEbFhGSmNXMU9UazB1S1NfTnpNcWxTRlJKaktUSFN6RDRzam1ZM1FnRkNPWXJZRGx3elViSWdURXFHbVFaVGJTM1NJR3NsS1NXZWdLaWxDVXNMbHc2VUVOU0VGb2lJekx4M1RWWWZrakpTbEZET3dLVVIyandBakFBIiwiaWQiOiJmY19jdWxkYUlyMEY0MmRoYklQeFpmbVFRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVZqTjRaM2c0U3poM056RllXRlpGZFZoU1VVZHZYMmRsWldWbmFVNWFMVEZtTmxaeFVXVkhhRFpDU1V0SE1qRkxORUZ3T1VwcFZtMXBWekZqZWswMVltMXhkM1EwVlZCR1IwWjJUR2xIZW5Ga01uZHhOek5HTUhSWlVSSVdZM1ZzWkdGSmNqQkdOREprYUdKSlVIaGFabTFSVVJvaVFVWk5RVWRIY0ZKaFdIUkJaV3RWYWpjd1NtbDJNSEJNYTJ4TVdXVk9SVmRmVVEiLCJmY3YiOiIzIiwiZWkiOiJjdWxkYUlyMEY0MmRoYklQeFpmbVFRIiwicWMiOiJDaU5vYjNjZ2RHOGdjM1I1YkdVZ1luVjBkRzl1SUdsdUlISmxZV04wSUc1aGRHbDJaUkFBZlp6R0V6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGN1c3RvbWl6ZSBhIGJ1dHRvbiBpbiBSZWFjdCBOYXRpdmU%2FIiwibGsiOiJHaWRvYjNjZ2RHOGdZM1Z6ZEc5dGFYcGxJR0oxZEhSdmJpQnBiaUJ5WldGamRDQnVZWFJwZG1VIiwiYnMiOiJjLU9LNE5Md3lDOVhLTWxYU0V4SlVTZ3VxY3hKVmNqTVUwZ3FMU25KejFNSVNrMU1MbEh3U3l6SkxFdTFsNWdYYUtRcHBaNkJXM2tSV0hrZVdEbFhGSmNXMU9UazB1S1NfTnpNcWxTRlJKaktUSFN6RDRzam1ZM1FnRkNPWXJZRGx3elViSWdURXFHbVFaVGJTM1NJR3NsS1NXZWdLaWxDVXNMbHc2VUVOU0VGb2lJekx4M1RWWWZrakpTbEZET3dLVVIyandBakFBIiwiaWQiOiJmY19jdWxkYUlyMEY0MmRoYklQeFpmbVFRXzEifQ%3D%3D"
+    },
+    {
+      "question": "How to style a React button?",
+      "snippet": "Our restyled button with styled-components We mainly want to change the background color, increase the font size, add more padding (vertical then horizontal below), add a border radius, and change the cursor to a pointer. Doing those 5 things will give you a modern looking React Button you can use.",
+      "title": "React Button Examples",
+      "link": "https://react.school/ui/button/#:~:text=Our%20restyled%20button%20with%20styled,React%20Button%20you%20can%20use.",
+      "displayed_link": "https://react.school › button",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVZqTjRaM2c0U3poM056RllXRlpGZFZoU1VVZHZYMmRsWldWbmFVNWFMVEZtTmxaeFVXVkhhRFpDU1V0SE1qRkxORUZ3T1VwcFZtMXBWekZqZWswMVltMXhkM1EwVlZCR1IwWjJUR2xIZW5Ga01uZHhOek5HTUhSWlVSSVdZM1ZzWkdGSmNqQkdOREprYUdKSlVIaGFabTFSVVJvaVFVWk5RVWRIY0ZKaFdIUkJaV3RWYWpjd1NtbDJNSEJNYTJ4TVdXVk9SVmRmVVEiLCJmY3YiOiIzIiwiZWkiOiJjdWxkYUlyMEY0MmRoYklQeFpmbVFRIiwicWMiOiJDaU5vYjNjZ2RHOGdjM1I1YkdVZ1luVjBkRzl1SUdsdUlISmxZV04wSUc1aGRHbDJaUkFBZlp6R0V6OCIsInF1ZXN0aW9uIjoiSG93IHRvIHN0eWxlIGEgUmVhY3QgYnV0dG9uPyIsImxrIjoiR2h0b2IzY2dkRzhnYzNSNWJHVWdZU0J5WldGamRDQmlkWFIwYjI0IiwiYnMiOiJjLU9LNE5Md3lDOVhLTWxYU0V4SlVTZ3VxY3hKVmNqTVUwZ3FMU25KejFNSVNrMU1MbEh3U3l6SkxFdTFsNWdYYUtRcHBaNkJXM2tSV0hrZVdEbFhGSmNXMU9UazB1S1NfTnpNcWxTRlJKaktUSFN6RDRzam1ZM1FnRkNPWXJZRGx3elViSWdURXFHbVFaVGJTM1NJR3NsS1NXZWdLaWxDVXNMbHc2VUVOU0VGb2lJekx4M1RWWWZrakpTbEZET3dLVVIyandBakFBIiwiaWQiOiJmY19jdWxkYUlyMEY0MmRoYklQeFpmbVFRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVZqTjRaM2c0U3poM056RllXRlpGZFZoU1VVZHZYMmRsWldWbmFVNWFMVEZtTmxaeFVXVkhhRFpDU1V0SE1qRkxORUZ3T1VwcFZtMXBWekZqZWswMVltMXhkM1EwVlZCR1IwWjJUR2xIZW5Ga01uZHhOek5HTUhSWlVSSVdZM1ZzWkdGSmNqQkdOREprYUdKSlVIaGFabTFSVVJvaVFVWk5RVWRIY0ZKaFdIUkJaV3RWYWpjd1NtbDJNSEJNYTJ4TVdXVk9SVmRmVVEiLCJmY3YiOiIzIiwiZWkiOiJjdWxkYUlyMEY0MmRoYklQeFpmbVFRIiwicWMiOiJDaU5vYjNjZ2RHOGdjM1I1YkdVZ1luVjBkRzl1SUdsdUlISmxZV04wSUc1aGRHbDJaUkFBZlp6R0V6OCIsInF1ZXN0aW9uIjoiSG93IHRvIHN0eWxlIGEgUmVhY3QgYnV0dG9uPyIsImxrIjoiR2h0b2IzY2dkRzhnYzNSNWJHVWdZU0J5WldGamRDQmlkWFIwYjI0IiwiYnMiOiJjLU9LNE5Md3lDOVhLTWxYU0V4SlVTZ3VxY3hKVmNqTVUwZ3FMU25KejFNSVNrMU1MbEh3U3l6SkxFdTFsNWdYYUtRcHBaNkJXM2tSV0hrZVdEbFhGSmNXMU9UazB1S1NfTnpNcWxTRlJKaktUSFN6RDRzam1ZM1FnRkNPWXJZRGx3elViSWdURXFHbVFaVGJTM1NJR3NsS1NXZWdLaWxDVXNMbHc2VUVOU0VGb2lJekx4M1RWWWZrakpTbEZET3dLVVIyandBakFBIiwiaWQiOiJmY19jdWxkYUlyMEY0MmRoYklQeFpmbVFRXzEifQ%3D%3D"
+    },
+    {
+      "question": "How to do styling in React Native?",
+      "snippet": null,
+      "title": "Here are the primary methods for styling in React Native:",
+      "date": "Nov 29, 2024",
+      "link": "https://blog.logrocket.com/react-native-styling-tutorial-examples/",
+      "list": [
+        "Inline styles. Direct styling applied directly to components. ... ",
+        "StyleSheet. create() ... ",
+        "External libraries. Third-party libraries like styled-components and NativeWind. ... ",
+        "Theme-based styling. Creates a centralized theme object."
+      ],
+      "displayed_link": "https://blog.logrocket.com › react-native-styling-tutorial...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLm2GbOYAXuoUn4xf0Ja5x6tcE-7mgi1sIr0xBWfcB9g&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVZqTjRaM2c0U3poM056RllXRlpGZFZoU1VVZHZYMmRsWldWbmFVNWFMVEZtTmxaeFVXVkhhRFpDU1V0SE1qRkxORUZ3T1VwcFZtMXBWekZqZWswMVltMXhkM1EwVlZCR1IwWjJUR2xIZW5Ga01uZHhOek5HTUhSWlVSSVdZM1ZzWkdGSmNqQkdOREprYUdKSlVIaGFabTFSVVJvaVFVWk5RVWRIY0ZKaFdIUkJaV3RWYWpjd1NtbDJNSEJNYTJ4TVdXVk9SVmRmVVEiLCJmY3YiOiIzIiwiZWkiOiJjdWxkYUlyMEY0MmRoYklQeFpmbVFRIiwicWMiOiJDaU5vYjNjZ2RHOGdjM1I1YkdVZ1luVjBkRzl1SUdsdUlISmxZV04wSUc1aGRHbDJaUkFBZlp6R0V6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGRvIHN0eWxpbmcgaW4gUmVhY3QgTmF0aXZlPyIsImxrIjoiR2lGb2IzY2dkRzhnWkc4Z2MzUjViR2x1WnlCcGJpQnlaV0ZqZENCdVlYUnBkbVUiLCJicyI6ImMtT0s0Tkx3eUM5WEtNbFhTRXhKVVNndXFjeEpWY2pNVTBncUxTbkp6MU1JU2sxTUxsSHdTeXpKTEV1MWw1Z1hhS1FwcFo2Qlcza1JXSGtlV0RsWEZKY1cxT1RrMHVLU19Oek1xbFNGUkpqS1RIU3pENHNqbVkzUWdGQ09ZcllEbHd6VWJJZ1RFcUdtUVpUYlMzU0lHc2xLU1dlZ0tpbENVc0xsdzZVRU5TRUZvaUl6THgzVFZZZmtqSlNsRkRPd0tVUjJqd0FqQUEiLCJpZCI6ImZjX2N1bGRhSXIwRjQyZGhiSVB4WmZtUVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVZqTjRaM2c0U3poM056RllXRlpGZFZoU1VVZHZYMmRsWldWbmFVNWFMVEZtTmxaeFVXVkhhRFpDU1V0SE1qRkxORUZ3T1VwcFZtMXBWekZqZWswMVltMXhkM1EwVlZCR1IwWjJUR2xIZW5Ga01uZHhOek5HTUhSWlVSSVdZM1ZzWkdGSmNqQkdOREprYUdKSlVIaGFabTFSVVJvaVFVWk5RVWRIY0ZKaFdIUkJaV3RWYWpjd1NtbDJNSEJNYTJ4TVdXVk9SVmRmVVEiLCJmY3YiOiIzIiwiZWkiOiJjdWxkYUlyMEY0MmRoYklQeFpmbVFRIiwicWMiOiJDaU5vYjNjZ2RHOGdjM1I1YkdVZ1luVjBkRzl1SUdsdUlISmxZV04wSUc1aGRHbDJaUkFBZlp6R0V6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGRvIHN0eWxpbmcgaW4gUmVhY3QgTmF0aXZlPyIsImxrIjoiR2lGb2IzY2dkRzhnWkc4Z2MzUjViR2x1WnlCcGJpQnlaV0ZqZENCdVlYUnBkbVUiLCJicyI6ImMtT0s0Tkx3eUM5WEtNbFhTRXhKVVNndXFjeEpWY2pNVTBncUxTbkp6MU1JU2sxTUxsSHdTeXpKTEV1MWw1Z1hhS1FwcFo2Qlcza1JXSGtlV0RsWEZKY1cxT1RrMHVLU19Oek1xbFNGUkpqS1RIU3pENHNqbVkzUWdGQ09ZcllEbHd6VWJJZ1RFcUdtUVpUYlMzU0lHc2xLU1dlZ0tpbENVc0xsdzZVRU5TRUZvaUl6THgzVFZZZmtqSlNsRkRPd0tVUjJqd0FqQUEiLCJpZCI6ImZjX2N1bGRhSXIwRjQyZGhiSVB4WmZtUVFfMSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "kLjfhnicvZRbc-o2EIBf-0fKCwkYQgLOjOfM2tggDJwIh3B58RhhZMAXsA3GPLX_pb-qv-bIF4iTcDrttFMxWLfd1e7q0_7-h712t3_-8psVhrvguVqNoqhCPY_aZoV4TtUIYpdUV54d-MT6ZtmC6ZaoLRyCUnwUHkokELiSuRbIwV4ayOeURn1pLdDLab5yMC6l2oK-MAJzw4yfNkFVr7LP9teHNptUgorpVpT643aDBqN-Byp1rtaqfK8aDhOAf9OkLysIQATAyicpfEtblhJZgN6ndfEyaCfmEAJRHrOZV5QZAE02U-uijNs6H5FCLPRqC-diSWuwMVKYLih1wB99epfKzhevwX04l8KHlmrJeZC3m5TEcRnTJBP6uz-pdmqkK8uDgk6XDkj7u6p9Oi_flkVxACutH9GbiWXeI_lVO9USbVxdUnbPXHXhs65W9YPk1qVXnvO6GmnN6_3OWeE1_b6lGWATF3UaGDXgLuWJBFeggiJQRzSux7zbg9a40q-ItStNae40OfNilqUIw1uepNtNzjclKIrlCRWTfhBbWSLoeoZA1bItBC-znuSzEAuXV6AJXXyQUyYngKRkzUppZPbQGjJdzDIvpXoyZb_ECZFK7LJgm_nA_m3apWKiSimiyQKXHpDRZEHu0hjo1ZcxXJRFEANJQhCzUz3QIr6bB5zIyjnuzClJYUcPshcESIZ2JIqMnSiRYgs0C066BCcxV1mvRFnWZhJO3gVA_xNNaVaL09tN_atNfAMfubVznen5xTE35LXdVKfTI-ef_Q7X7-AcH89Z_IOCRP53wFAKGFaKgKk_AexrucoAEy-ATVPAEFiXclUEjOaArWVLxl2dP7Xa74BZcAEMY3QFrFCuHkDLXvoFMAR_C7CkdhUAU6-AST8D7FquMsDYqn4BrJEBhr4A9h-Xq5QzM-s-1q7Dhn6GsCOZpHne7mu9vdPda7vhajY52oo-d87Rnb5ywued79E7fb18Fuu9MF6W9oLlReXQKwdhbJvlxSEMPbe8dsu-aZCw7Brh-miWHNv3BM5okn08fRvVNrW51W_1J3DP42UwXg2e_HjIE3Pa4yeS2JNP3kRvHHr4ccS7j68vk5cWwv5Ie5iMhpwqu2_-uLtCrtKEJryyqRIquLvmHqe2MnceZnQVDzVX1Yb-fqRyZ5c88cPeOjq87YxRHDX7q43tPElH1aOpX4FA-jS6H0rzN3VWcnwisFtrbGFQCoihm8FRWLa4p0WdI3yTaxpNky85NIx3QusHPVN4Zw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kLjfhnicvZRbc-o2EIBf-0fKCwkYQgLOjOfM2tggDJwIh3B58RhhZMAXsA3GPLX_pb-qv-bIF4iTcDrttFMxWLfd1e7q0_7-h712t3_-8psVhrvguVqNoqhCPY_aZoV4TtUIYpdUV54d-MT6ZtmC6ZaoLRyCUnwUHkokELiSuRbIwV4ayOeURn1pLdDLab5yMC6l2oK-MAJzw4yfNkFVr7LP9teHNptUgorpVpT643aDBqN-Byp1rtaqfK8aDhOAf9OkLysIQATAyicpfEtblhJZgN6ndfEyaCfmEAJRHrOZV5QZAE02U-uijNs6H5FCLPRqC-diSWuwMVKYLih1wB99epfKzhevwX04l8KHlmrJeZC3m5TEcRnTJBP6uz-pdmqkK8uDgk6XDkj7u6p9Oi_flkVxACutH9GbiWXeI_lVO9USbVxdUnbPXHXhs65W9YPk1qVXnvO6GmnN6_3OWeE1_b6lGWATF3UaGDXgLuWJBFeggiJQRzSux7zbg9a40q-ItStNae40OfNilqUIw1uepNtNzjclKIrlCRWTfhBbWSLoeoZA1bItBC-znuSzEAuXV6AJXXyQUyYngKRkzUppZPbQGjJdzDIvpXoyZb_ECZFK7LJgm_nA_m3apWKiSimiyQKXHpDRZEHu0hjo1ZcxXJRFEANJQhCzUz3QIr6bB5zIyjnuzClJYUcPshcESIZ2JIqMnSiRYgs0C066BCcxV1mvRFnWZhJO3gVA_xNNaVaL09tN_atNfAMfubVznen5xTE35LXdVKfTI-ef_Q7X7-AcH89Z_IOCRP53wFAKGFaKgKk_AexrucoAEy-ATVPAEFiXclUEjOaArWVLxl2dP7Xa74BZcAEMY3QFrFCuHkDLXvoFMAR_C7CkdhUAU6-AST8D7FquMsDYqn4BrJEBhr4A9h-Xq5QzM-s-1q7Dhn6GsCOZpHne7mu9vdPda7vhajY52oo-d87Rnb5ywued79E7fb18Fuu9MF6W9oLlReXQKwdhbJvlxSEMPbe8dsu-aZCw7Brh-miWHNv3BM5okn08fRvVNrW51W_1J3DP42UwXg2e_HjIE3Pa4yeS2JNP3kRvHHr4ccS7j68vk5cWwv5Ie5iMhpwqu2_-uLtCrtKEJryyqRIquLvmHqe2MnceZnQVDzVX1Yb-fqRyZ5c88cPeOjq87YxRHDX7q43tPElH1aOpX4FA-jS6H0rzN3VWcnwisFtrbGFQCoihm8FRWLa4p0WdI3yTaxpNky85NIx3QusHPVN4Zw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Button",
+      "link": "https://reactnative.dev/docs/button",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://reactnative.dev/docs/button&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQFnoECBcQAQ",
+      "displayed_link": "https://reactnative.dev › docs › button",
+      "favicon": "https://serpapi.com/searches/685de971304eba304c1fbe69/images/dce462e6997425ef0a29b8bc7566d4d2bb07605b3ba0867a7e077fde0cfd97bf.png",
+      "date": "Jun 17, 2025",
+      "snippet": "A basic button component that should render nicely on any platform. Supports a minimal level of customization.",
+      "snippet_highlighted_words": [
+        "button"
+      ],
+      "source": "React Native"
+    },
+    {
+      "position": 2,
+      "title": "React-Native Button style not work",
+      "link": "https://stackoverflow.com/questions/43585297/react-native-button-style-not-work",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/43585297/react-native-button-style-not-work&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQFnoECB0QAQ",
+      "displayed_link": "10+ answers · 8 years ago",
+      "favicon": "https://serpapi.com/searches/685de971304eba304c1fbe69/images/dce462e6997425ef0a29b8bc7566d4d289d1edc5cb52f5d46d5265135dff9ad5.png",
+      "snippet": "React Native buttons are very limited in the option they provide. You can use TouchableHighlight or TouchableOpacity by styling these element and wrapping your ...",
+      "snippet_highlighted_words": [
+        "React Native buttons are very limited in the option they provide"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How to customize button of react native - Stack Overflow",
+            "link": "https://stackoverflow.com/questions/43606372/how-to-customize-button-of-react-native",
+            "answer_count": 7,
+            "date": "Apr 25, 2017"
+          },
+          {
+            "title": "tailwind css - React-Native: How to style Button ...",
+            "link": "https://stackoverflow.com/questions/75124899/react-native-how-to-style-button-component-with-tailwindcss-nativewind",
+            "answer_count": 3,
+            "date": "Jan 15, 2023"
+          }
+        ]
+      },
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 3,
+      "title": "React Native — The Button - Mikael Ainalem",
+      "link": "https://mikael-ainalem.medium.com/react-native-the-button-4faa843c4e96",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mikael-ainalem.medium.com/react-native-the-button-4faa843c4e96&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQFnoECBgQAQ",
+      "displayed_link": "80+ likes · 1 year ago",
+      "favicon": "https://serpapi.com/searches/685de971304eba304c1fbe69/images/dce462e6997425ef0a29b8bc7566d4d23c329feb09640ce7c7b45036e1936c10.png",
+      "snippet": "Create your own <Button ... /> using a simple but elegant custom component. In this tutorial, we will go through how to build this component from scratch.",
+      "snippet_highlighted_words": [
+        "Button"
+      ],
+      "source": "Medium · Mikael Ainalem"
+    },
+    {
+      "position": 4,
+      "title": "How to create and style custom buttons in React Native",
+      "link": "https://blog.logrocket.com/create-style-custom-buttons-react-native/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.logrocket.com/create-style-custom-buttons-react-native/&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQFnoECBkQAQ",
+      "displayed_link": "https://blog.logrocket.com › create-style-custom-button...",
+      "favicon": "https://serpapi.com/searches/685de971304eba304c1fbe69/images/dce462e6997425ef0a29b8bc7566d4d2ba7f9edc38a6ff299e41759b13ea8f6e.png",
+      "date": "Jan 14, 2022",
+      "snippet": "To create custom buttons, you need to customize the <TouchableOpacity /> component and include the <Text /> component inside of it to display ...",
+      "snippet_highlighted_words": [
+        "buttons"
+      ],
+      "source": "LogRocket Blog"
+    },
+    {
+      "position": 5,
+      "title": "React native buttons - Beautiful Custom Button Component",
+      "link": "https://www.youtube.com/watch?v=7AYiibBYiuo",
+      "displayed_link": "2.3K+ views · 2 years ago",
+      "thumbnail": "https://serpapi.com/searches/685de971304eba304c1fbe69/images/dce462e6997425ef0a29b8bc7566d4d2cabda829f294a5dae61d56ec0e36ee5e.jpeg",
+      "favicon": "https://serpapi.com/searches/685de971304eba304c1fbe69/images/dce462e6997425ef0a29b8bc7566d4d2beb151ba5234df4b7ce399b884e305f8.png",
+      "snippet": "Learn and create your own custom button component to style beautiful buttons in React Native. These buttons will display nicely on both Android ...",
+      "duration": "43:27",
+      "key_moments": [
+        {
+          "time": "00:06",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=7AYiibBYiuo&t=6",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJDOpzMiQmASATMqWG1U7OJWhaZnB_Dk2lNtTj0KIkQ&s"
+        },
+        {
+          "time": "04:01",
+          "title": "Update info.plist file",
+          "link": "https://www.youtube.com/watch?v=7AYiibBYiuo&t=241",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn0gWjPfd94Ij0lhYFVVyUVtkJFwzUvbWBm58vVnokTg&s"
+        },
+        {
+          "time": "07:46",
+          "title": "Adding basic styles",
+          "link": "https://www.youtube.com/watch?v=7AYiibBYiuo&t=466",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ua93MRzoVJa73esSYwzyS--ZqGaltBUBOBb0_hvyyA&s"
+        },
+        {
+          "time": "14:54",
+          "title": "Adding rounded property",
+          "link": "https://www.youtube.com/watch?v=7AYiibBYiuo&t=894",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2SodQ7m4VWyEKwX0tD6sX_jU4rpxnqOsgBNbhTe3guw&s"
+        },
+        {
+          "time": "20:05",
+          "title": "Adding rounded corners",
+          "link": "https://www.youtube.com/watch?v=7AYiibBYiuo&t=1205",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCndC-XOm1S8a6UQlHTrgDJGImVd0HdcPg9pqriZofQ&s"
+        },
+        {
+          "time": "24:46",
+          "title": "Adding background color",
+          "link": "https://www.youtube.com/watch?v=7AYiibBYiuo&t=1486",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqrXoJiwsOJWEZz_0BCke1MSipGuSdyr8raZ-DBcOUkA&s"
+        },
+        {
+          "time": "30:37",
+          "title": "Adding a button shadow",
+          "link": "https://www.youtube.com/watch?v=7AYiibBYiuo&t=1837",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQf4hqnnyd7QglAtFz6ljg2f6wUGeV4Fj6mEt5qkQuDg&s"
+        },
+        {
+          "time": "33:55",
+          "title": "Adding more buttons",
+          "link": "https://www.youtube.com/watch?v=7AYiibBYiuo&t=2035",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfTr8uTsUcD4iOL_vfJaUgzc1K7RWwg1nZhE462ulNag&s"
+        },
+        {
+          "time": "39:30",
+          "title": "Red rounded button with shadow",
+          "link": "https://www.youtube.com/watch?v=7AYiibBYiuo&t=2370",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHJSFoVh4UCAvoiK1lzg4si4Xi_svbUaTm7RR4WnvfAQ&s"
+        },
+        {
+          "time": "42:50",
+          "title": "Wrap up",
+          "link": "https://www.youtube.com/watch?v=7AYiibBYiuo&t=2570",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdiNb0DH1yn88Ao09Bqf-n57vgKl84HNdHDv5LezUEA&s"
+        }
+      ],
+      "source": "YouTube · Code with Gigi"
+    },
+    {
+      "position": 6,
+      "title": "Button",
+      "link": "https://reactnativeelements.com/docs/components/button",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://reactnativeelements.com/docs/components/button&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQFnoECEEQAQ",
+      "displayed_link": "https://reactnativeelements.com › docs › components",
+      "favicon": "https://serpapi.com/searches/685de971304eba304c1fbe69/images/dce462e6997425ef0a29b8bc7566d4d2bbf50245a1fa1af7e8d950c9ba4c73db.png",
+      "snippet": "Buttons are touchable elements used to interact with the screen and to perform and operation. They may display text, icons, or both. Buttons can be styled ...",
+      "snippet_highlighted_words": [
+        "Buttons",
+        "Buttons"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "4.0.0-rc.7",
+            "link": "https://reactnativeelements.com/docs/4.0.0-rc.7/components/button"
+          },
+          {
+            "title": "ButtonGroup",
+            "link": "https://reactnativeelements.com/docs/components/buttongroup"
+          },
+          {
+            "title": "4.0.0-rc.4",
+            "link": "https://reactnativeelements.com/docs/4.0.0-rc.4/components/button"
+          },
+          {
+            "title": "4.0.0-rc.5",
+            "link": "https://reactnativeelements.com/docs/4.0.0-rc.5/components/button"
+          }
+        ]
+      },
+      "source": "React Native Elements"
+    },
+    {
+      "position": 7,
+      "title": "Style",
+      "link": "https://reactnative.dev/docs/style",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://reactnative.dev/docs/style&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQFnoECEoQAQ",
+      "displayed_link": "https://reactnative.dev › docs › style",
+      "favicon": "https://serpapi.com/searches/685de971304eba304c1fbe69/images/dce462e6997425ef0a29b8bc7566d4d2c9f818c82500b465236a5618729f3227.png",
+      "date": "Jun 17, 2025",
+      "snippet": "With React Native, you style your application using JavaScript. All of the core components accept a prop named style.",
+      "snippet_highlighted_words": [
+        "React Native"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Height and Width",
+            "link": "https://reactnative.dev/docs/height-and-width"
+          },
+          {
+            "title": "0.78",
+            "link": "https://reactnative.dev/docs/0.78/style"
+          },
+          {
+            "title": "0.77",
+            "link": "https://reactnative.dev/docs/0.77/style"
+          },
+          {
+            "title": "0.76",
+            "link": "https://reactnative.dev/docs/0.76/style"
+          }
+        ]
+      },
+      "source": "React Native"
+    },
+    {
+      "position": 8,
+      "title": "React Native Buttons From Basic to Advanced | Waldo Blog",
+      "link": "https://www.waldo.com/blog/react-native-buttons",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.waldo.com/blog/react-native-buttons&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQFnoECEAQAQ",
+      "displayed_link": "https://www.waldo.com › blog › react-native-buttons",
+      "favicon": "https://serpapi.com/searches/685de971304eba304c1fbe69/images/dce462e6997425ef0a29b8bc7566d4d2c95ef174070b8c8afd0554b1ce6f9ffe.png",
+      "date": "Nov 9, 2021",
+      "snippet": "Learn all about buttons in React Native, the various types of native buttons, and which button components to use when.",
+      "snippet_highlighted_words": [
+        "React Native"
+      ],
+      "source": "waldo.com"
+    },
+    {
+      "position": 9,
+      "title": "Custom button style #2284 - callstack/react-native-paper",
+      "link": "https://github.com/callstack/react-native-paper/issues/2284",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/callstack/react-native-paper/issues/2284&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQFnoECD4QAQ",
+      "displayed_link": "https://github.com › callstack › react-native-paper › issues",
+      "favicon": "https://serpapi.com/searches/685de971304eba304c1fbe69/images/dce462e6997425ef0a29b8bc7566d4d23b8f72c512c74024fdd6357a42f5cdb9.png",
+      "date": "Oct 10, 2020",
+      "snippet": "It's better to create a custom button component for this with the TouchableRipple provided by React Native Paper. This is not possible with the default Button.",
+      "snippet_highlighted_words": [
+        "React Native Paper"
+      ],
+      "source": "GitHub"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=how+to+style+button+in+react+native&num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&udm=18&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQ8poLegQISBAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+style+button+in+react+native",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "React Native",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0DFpTNpRKJqhKoO8hjQJXb3sidp7wPmVm33vDEo4k0Mjo5sG287q&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=React+Native&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMwwME5Pq6i0_MXIsIGF4RULPxeq-CsWXi5u_Vx9A0OjHMOyijKEitxyc2PzkqSSVyw8XFwgFVlm5oY5eQgFaQbG8UVVSemvWPi4eEAihWY58XkGeQYIJcmm5uVFRpUIM8yq8oqLTOFc4_KkHEOTRaw8QamJySUKfoklmWWpt9gkGXYv6vjJ4rrfcKOl8cZNYo-3s_9y_1ubNmPlIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjADTpr059AAAAA&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQs9oBKAB6BAg9EAo",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=React+Native&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMwwME5Pq6i0_MXIsIGF4RULPxeq-CsWXi5u_Vx9A0OjHMOyijKEitxyc2PzkqSSVyw8XFwgFVlm5oY5eQgFaQbG8UVVSemvWPi4eEAihWY58XkGeQYIJcmm5uVFRpUIM8yq8oqLTOFc4_KkHEOTRaw8QamJySUKfoklmWWpt9gkGXYv6vjJ4rrfcKOl8cZNYo-3s_9y_1ubNmPlIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjADTpr059AAAAA"
+        },
+        {
+          "name": "React",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB8Cn0BVbxkTu4x5un4f0o1h09CyeDcoP2tu4muwFT2YNuO9yR5Gd&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=React&stick=H4sIAAAAAAAAAOMwVOLWz9U3MDTKMSyrKPvFyLCBheEVCz8Xr366vqFhhoFxelpFpeUrFl4uZHUIFbnl5sbmJUklr1h4uLhAKrLMzA1z8hAK0gyM44uqktJfsfBx8YBECs1y4vMM8gwQSpJNzcuLjCoRZphV5RUXmcK5xuVJOYYmi1hZg1ITk0tusUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAc5P-ljrAAAA&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQs9oBKAB6BAg9EA8",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=React&stick=H4sIAAAAAAAAAOMwVOLWz9U3MDTKMSyrKPvFyLCBheEVCz8Xr366vqFhhoFxelpFpeUrFl4uZHUIFbnl5sbmJUklr1h4uLhAKrLMzA1z8hAK0gyM44uqktJfsfBx8YBECs1y4vMM8gwQSpJNzcuLjCoRZphV5RUXmcK5xuVJOYYmi1hZg1ITk0tusUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAc5P-ljrAAAA"
+        },
+        {
+          "name": "Tailwind CSS",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOlL5XnbN-jPdacxT-pgqgqAg6Oe5ijaJNRCccDgYsq5SOQfn05uu&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=Tailwind+CSS&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMwtNzc2L0kq-cXIsIGF4RULPxdEPMPAOD2totLyFQsvF7d-rr6BoVGOYVlFGUIFTOcrFh4uLpCKLDNzw5w8hII0A-P4oqqk9FcsfFw8IJFCs5z4PIM8A4SSZFPz8iKjSoQZZlV5xUWmcK5xeVKOockiVp6QxMyc8sy8FAXn4OBbbJIMuxd1_GRx3W-40dJ44yaxx9vZf7n_rU2bsXIRh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GAOGdbFb0AAAA&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQs9oBKAB6BAg9EBQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Tailwind+CSS&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMwtNzc2L0kq-cXIsIGF4RULPxdEPMPAOD2totLyFQsvF7d-rr6BoVGOYVlFGUIFTOcrFh4uLpCKLDNzw5w8hII0A-P4oqqk9FcsfFw8IJFCs5z4PIM8A4SSZFPz8iKjSoQZZlV5xUWmcK5xeVKOockiVp6QxMyc8sy8FAXn4OBbbJIMuxd1_GRx3W-40dJ44yaxx9vZf7n_rU2bsXIRh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GAOGdbFb0AAAA"
+        },
+        {
+          "name": "Bootstrap",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCe0tnpToL8kCAi5uonYA47g9NeZNpG2uZNKCyqjblrBVYmEspmM7&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=Bootstrap&stick=H4sIAAAAAAAAAOMwVOLSz9U3yDIzN8zJ-8XIsIGF4RULPxevfrq-oWGGgXF6WkWl5SsWXi5ukDJDoxzDsooyhIrccnNj85KkklcsPFxIBiEUpBkYxxdVJaW_YuHj4gGJFJrlxOcZ5BkglCSbmpcXGVUizDCryisuMoVzjcuTcgxNFrFyOuXnlxSXFCUW3GKTZNi9qOMni-t-w42Wxhs3iT3ezv7L_W9t2oyVizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAU9sZsu4AAAA&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQs9oBKAB6BAg9EBk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Bootstrap&stick=H4sIAAAAAAAAAOMwVOLSz9U3yDIzN8zJ-8XIsIGF4RULPxevfrq-oWGGgXF6WkWl5SsWXi5ukDJDoxzDsooyhIrccnNj85KkklcsPFxIBiEUpBkYxxdVJaW_YuHj4gGJFJrlxOcZ5BkglCSbmpcXGVUizDCryisuMoVzjcuTcgxNFrFyOuXnlxSXFCUW3GKTZNi9qOMni-t-w42Wxhs3iT3ezv7L_W9t2oyVizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAU9sZsu4AAAA"
+        },
+        {
+          "name": "Flutter",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9jB2VBhFEVr4FLYk0hdWphk3AaqHcljVQslqPbjLjjoO5gNbLvFjZ&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=Flutter&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwzMI4vqkpK_8XIsIGF4RULPxdEPMPAOD2totLyFQsvF7d-rr6BoVGOYVlFGUJFbrm5sXlJUskrFh4uLpCKLDNzw5w8hAKY0a9Y-Lh4QCKFZjnxeQZ5Bgglyabm5UVGlQgzzKryiotM4Vzj8qQcQ5NFrOxuOaUlJalFt9gkGXYv6vjJ4rrfcKOl8cZNYo-3s_9y_1ubNmPlIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjAC7WpT97wAAAA&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQs9oBKAB6BAg9EB4",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Flutter&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwzMI4vqkpK_8XIsIGF4RULPxdEPMPAOD2totLyFQsvF7d-rr6BoVGOYVlFGUJFbrm5sXlJUskrFh4uLpCKLDNzw5w8hAKY0a9Y-Lh4QCKFZjnxeQZ5Bgglyabm5UVGlQgzzKryiotM4Vzj8qQcQ5NFrOxuOaUlJalFt9gkGXYv6vjJ4rrfcKOl8cZNYo-3s_9y_1ubNmPlIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjAC7WpT97wAAAA"
+        },
+        {
+          "name": "Ionic",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBAfPWy9rA6SZi4IzLYh9I023nTKRsikG21ELixQIx6lcWeCwINl5S5A&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=Ionic&stick=H4sIAAAAAAAAAOMwVOLRT9c3LDTLic8zyDP4xciwgYXhFQs_Fy9I2DDDwDg9raLS8hULLxe3fq6-gaFRjmFZRRlCRW65ubF5SVLJKxYeLi6Qiiwzc8OcPISCNAPj-KKqpPRXLHxcKHYhlCSbmpcXGVUizDCryisuMoVzjcuTcgxNFrGyeubnZSbfYpNk2L2o4yeL637DjZbGGzeJPd7O_sv9b23ajJWLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgBrKW2B7AAAAA&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQs9oBKAB6BAg9ECM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Ionic&stick=H4sIAAAAAAAAAOMwVOLRT9c3LDTLic8zyDP4xciwgYXhFQs_Fy9I2DDDwDg9raLS8hULLxe3fq6-gaFRjmFZRRlCRW65ubF5SVLJKxYeLi6Qiiwzc8OcPISCNAPj-KKqpPRXLHxcKHYhlCSbmpcXGVUizDCryisuMoVzjcuTcgxNFrGyeubnZSbfYpNk2L2o4yeL637DjZbGGzeJPd7O_sv9b23ajJWLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgBrKW2B7AAAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "React native button",
+      "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=React+native+button&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=React+native+button"
+    },
+    {
+      "block_position": 1,
+      "query": "React native button style not working",
+      "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=React+native+button+style+not+working&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=React+native+button+style+not+working"
+    },
+    {
+      "block_position": 1,
+      "query": "React native button background color",
+      "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=React+native+button+background+color&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=React+native+button+background+color"
+    },
+    {
+      "block_position": 1,
+      "query": "React native custom button",
+      "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=React+native+custom+button&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=React+native+custom+button"
+    },
+    {
+      "block_position": 1,
+      "query": "React native button size",
+      "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=React+native+button+size&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=React+native+button+size"
+    },
+    {
+      "block_position": 1,
+      "query": "React native button with icon",
+      "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=React+native+button+with+icon&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=React+native+button+with+icon"
+    },
+    {
+      "block_position": 1,
+      "query": "React native button border radius",
+      "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=React+native+button+border+radius&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=React+native+button+border+radius"
+    },
+    {
+      "block_position": 1,
+      "query": "React native button animation",
+      "link": "https://www.google.com/search?num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&q=React+native+button+animation&sa=X&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=React+native+button+animation"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "How do you design Button in React js?",
+      "link": "https://www.reddit.com/r/reactjs/comments/13if0io/how_do_you_design_button_in_react_js/",
+      "date": "2 years ago",
+      "extensions": [
+        "r/reactjs",
+        "9 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "snippet": "You make a reusable button with whatever props you need. And then you use it across ...",
+          "link": "https://www.reddit.com/r/reactjs/comments/13if0io/how_do_you_design_button_in_react_js/jk9o0x7/",
+          "extensions": [
+            "Top answer",
+            "4 votes",
+            "2 years ago"
+          ]
+        },
+        {
+          "snippet": "You can create a custom button component, where you pass props to it, and those props ...",
+          "link": "https://www.reddit.com/r/reactjs/comments/13if0io/how_do_you_design_button_in_react_js/jkn5qfu/",
+          "extensions": [
+            "2 votes",
+            "2 years ago"
+          ]
+        },
+        {
+          "snippet": "You can use the storybook library. Create your button component and provide props to ...",
+          "link": "https://www.reddit.com/r/reactjs/comments/13if0io/how_do_you_design_button_in_react_js/jkbo0mb/",
+          "extensions": [
+            "2 years ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Style Button as inline text in react-native - css",
+      "link": "https://stackoverflow.com/questions/74890705/style-button-as-inline-text-in-react-native",
+      "date": "2 years ago",
+      "extensions": [
+        "3 answers"
+      ],
+      "source": "Stack Overflow",
+      "answers": [
+        {
+          "snippet": "One way to accomplish this is to use nested texts. Something like this: const NestedText = ...",
+          "link": "https://stackoverflow.com/a/74891542",
+          "extensions": [
+            "Top answer",
+            "3 votes",
+            "2 years ago"
+          ]
+        },
+        {
+          "snippet": "This is the best approach to using the Pressable component from the react-native package See ...",
+          "link": "https://stackoverflow.com/a/74891629",
+          "extensions": [
+            "2 votes",
+            "2 years ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How do I make all the buttons be the same size in this React Native/Expo ...",
+      "link": "https://www.reddit.com/r/reactnative/comments/1dlj7ah/how_do_i_make_all_the_buttons_be_the_same_size_in/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/reactnative"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "snippet": "topic, selectedTopics.includes(topic.name) && styles.selectedTopic ]}> <TouchableOpacity onPress={() => handlePress(topic.name)} style={[styles ...",
+          "link": "https://www.reddit.com/r/reactnative/comments/1dlj7ah/how_do_i_make_all_the_buttons_be_the_same_size_in/"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+to+style+button+in+react+native&num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&ei=culdaIr0F42dhbIPxZfmQQ&start=100&sa=N&sstk=Ac65TH73LN-dOi6dcgTA9HP8iYhhdlB6npF49SAPsh3zSHFuAuCwNbHgKH37lU1A7GM2xTLTzLk5cNP99qsF9rj7bt4RfRypQYoROw&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQ8NMDegQICxAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+to+style+button+in+react+native&num=100&sca_esv=d806b20c9707a7e9&hl=en&gl=us&ei=culdaIr0F42dhbIPxZfmQQ&start=100&sa=N&sstk=Ac65TH73LN-dOi6dcgTA9HP8iYhhdlB6npF49SAPsh3zSHFuAuCwNbHgKH37lU1A7GM2xTLTzLk5cNP99qsF9rj7bt4RfRypQYoROw&ved=2ahUKEwiK9fbar5COAxWNTkEAHcWLOQgQ8tMDegQICxAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+style+button+in+react+native&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+style+button+in+react+native&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+style+button+in+react+native&start=100"
+    }
+  }
+}

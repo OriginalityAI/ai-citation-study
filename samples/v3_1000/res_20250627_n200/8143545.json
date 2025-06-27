@@ -1,0 +1,1826 @@
+{
+  "search_metadata": {
+    "id": "685def92a204ab982552f227",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/064fb8c314f7000f/685def92a204ab982552f227.json",
+    "created_at": "2025-06-27 01:10:42 UTC",
+    "processed_at": "2025-06-27 01:10:42 UTC",
+    "google_url": "https://www.google.com/search?q=how+to+create+a+new+file+with+python&oq=how+to+create+a+new+file+with+python&hl=en&gl=us&num=200&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/064fb8c314f7000f/685def92a204ab982552f227.html",
+    "total_time_taken": 5.16
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how to create a new file with python",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "200",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how to create a new file with python",
+    "total_results": 253000000,
+    "time_taken_displayed": 0.45,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How do you create a new file in Python?",
+      "snippet": "In Python, you use the open() function with one of the following options – \"x\" or \"w\" – to create a new file: \"x\" – Create: this command will create a new file if and only if there is no file already in existence with that name or else it will return an error.",
+      "title": "File Handling in Python – How to Create, Read, and Write to a ...",
+      "date": "Aug 26, 2022",
+      "link": "https://www.freecodecamp.org/news/file-handling-in-python/#:~:text=In%20Python%2C%20you%20use%20the,it%20will%20return%20an%20error.",
+      "displayed_link": "https://www.freecodecamp.org › news › file-handling-i...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJGZExOMkl4WDFoQlVsZHVRVTVmYkRWaFdFdDFlVlZuWldOak0yZEhVM2RDT1ZOaGVVRXhORGR1WWw5aGQxTkZSbVZ6WjNSWVNEUk1kV0phV2pKa1ZYRlZTSGxFTjIxdlN6ZDFZM1JmYzFSdE56VkJZa3RHWVdWcmR4SVhiSFU1WkdGT1RGcE1OM0kwYVMxblVIcFBja295UVdzYUlrRkdUVUZIUjI5VWRXNVdZMkZqTTBKcE0wNWpOVEIyV2s1MGRHWjNRbmhCV25jIiwiZmN2IjoiMyIsImVpIjoibHU5ZGFOTFpMN3I0aS1nUHpPckoyQWsiLCJxYyI6IkNpUm9iM2NnZEc4Z1kzSmxZWFJsSUdFZ2JtVjNJR1pwYkdVZ2QybDBhQ0J3ZVhSb2IyNFFBSDE5aEFRXyIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBjcmVhdGUgYSBuZXcgZmlsZSBpbiBQeXRob24/IiwibGsiOiJHaFp3ZVhSb2IyNGdZM0psWVhSbElHNWxkeUJtYVd4bCIsImJzIjoiYy1OeTQxTDN5QzlYU01sWHFNd3ZWVWd1U2swc1NWVklWTWhMTFZkSXk4eEpWY2pNVXdpb0xNbkl6N09YNkFvMGtwQVNLd0R6WUNwaDZyaWl1RFJCNXBUa281cVJtbHRRVW9saDBvNFNJeTBwalF5QzZpRjJjV1Z3R1dBekcySWFYSEZ5Zm01dVlsNktRazVtWHFxOXhIRlBJME1wZld4V0ZPRFd4dVhGcFFTMXFid29FNnlqcEtJRXdfbWZiWTBVcGVRemtCVWlLNE5ZSU1BSUFBIiwiaWQiOiJmY19sdTlkYU5MWkw3cjRpLWdQek9ySjJBa18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJGZExOMkl4WDFoQlVsZHVRVTVmYkRWaFdFdDFlVlZuWldOak0yZEhVM2RDT1ZOaGVVRXhORGR1WWw5aGQxTkZSbVZ6WjNSWVNEUk1kV0phV2pKa1ZYRlZTSGxFTjIxdlN6ZDFZM1JmYzFSdE56VkJZa3RHWVdWcmR4SVhiSFU1WkdGT1RGcE1OM0kwYVMxblVIcFBja295UVdzYUlrRkdUVUZIUjI5VWRXNVdZMkZqTTBKcE0wNWpOVEIyV2s1MGRHWjNRbmhCV25jIiwiZmN2IjoiMyIsImVpIjoibHU5ZGFOTFpMN3I0aS1nUHpPckoyQWsiLCJxYyI6IkNpUm9iM2NnZEc4Z1kzSmxZWFJsSUdFZ2JtVjNJR1pwYkdVZ2QybDBhQ0J3ZVhSb2IyNFFBSDE5aEFRXyIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBjcmVhdGUgYSBuZXcgZmlsZSBpbiBQeXRob24%2FIiwibGsiOiJHaFp3ZVhSb2IyNGdZM0psWVhSbElHNWxkeUJtYVd4bCIsImJzIjoiYy1OeTQxTDN5QzlYU01sWHFNd3ZWVWd1U2swc1NWVklWTWhMTFZkSXk4eEpWY2pNVXdpb0xNbkl6N09YNkFvMGtwQVNLd0R6WUNwaDZyaWl1RFJCNXBUa281cVJtbHRRVW9saDBvNFNJeTBwalF5QzZpRjJjV1Z3R1dBekcySWFYSEZ5Zm01dVlsNktRazVtWHFxOXhIRlBJME1wZld4V0ZPRFd4dVhGcFFTMXFid29FNnlqcEtJRXdfbWZiWTBVcGVRemtCVWlLNE5ZSU1BSUFBIiwiaWQiOiJmY19sdTlkYU5MWkw3cjRpLWdQek9ySjJBa18xIn0%3D"
+    },
+    {
+      "question": "How to create a new empty file in Python?",
+      "snippet": null,
+      "title": "Create an Empty File Using Python",
+      "date": "May 15, 2025",
+      "link": "https://www.tutorialspoint.com/How-to-create-an-empty-file-using-Python",
+      "list": [
+        "Using open() with Write Mode 'w' The open() function is the most straightforward way to create an empty file. ... ",
+        "Using open() with Append Mode 'a' The open() function can also be used with append mode 'a' to create an empty file. ... ",
+        "Using pathlib. Path."
+      ],
+      "displayed_link": "https://www.tutorialspoint.com › How-to-create-an-emp...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJGZExOMkl4WDFoQlVsZHVRVTVmYkRWaFdFdDFlVlZuWldOak0yZEhVM2RDT1ZOaGVVRXhORGR1WWw5aGQxTkZSbVZ6WjNSWVNEUk1kV0phV2pKa1ZYRlZTSGxFTjIxdlN6ZDFZM1JmYzFSdE56VkJZa3RHWVdWcmR4SVhiSFU1WkdGT1RGcE1OM0kwYVMxblVIcFBja295UVdzYUlrRkdUVUZIUjI5VWRXNVdZMkZqTTBKcE0wNWpOVEIyV2s1MGRHWjNRbmhCV25jIiwiZmN2IjoiMyIsImVpIjoibHU5ZGFOTFpMN3I0aS1nUHpPckoyQWsiLCJxYyI6IkNpUm9iM2NnZEc4Z1kzSmxZWFJsSUdFZ2JtVjNJR1pwYkdVZ2QybDBhQ0J3ZVhSb2IyNFFBSDE5aEFRXyIsInF1ZXN0aW9uIjoiSG93IHRvIGNyZWF0ZSBhIG5ldyBlbXB0eSBmaWxlIGluIFB5dGhvbj8iLCJsayI6IkdpaG9iM2NnZEc4Z1kzSmxZWFJsSUdFZ2JtVjNJR1Z0Y0hSNUlHWnBiR1VnYVc0Z2NIbDBhRzl1IiwiYnMiOiJjLU55NDFMM3lDOVhTTWxYcU13dlZVZ3VTazBzU1ZWSVZNaExMVmRJeTh4SlZjak1Vd2lvTE1uSXo3T1g2QW8wa3BBU0t3RHpZQ3BoNnJpaXVEUkI1cFRrbzVxUm1sdFFVb2xoMG80U0l5MHBqUXlDNmlGMmNXVndHV0F6RzJJYVhIRnlmbTV1WWw2S1FrNW1YcXE5eEhGUEkwTXBmV3hXRk9EV3h1WEZwUVMxcWJ3b0U2eWpwS0lFd19tZmJZMFVwZVF6a0JVaUs0TllJTUFJQUEiLCJpZCI6ImZjX2x1OWRhTkxaTDdyNGktZ1B6T3JKMkFrXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJGZExOMkl4WDFoQlVsZHVRVTVmYkRWaFdFdDFlVlZuWldOak0yZEhVM2RDT1ZOaGVVRXhORGR1WWw5aGQxTkZSbVZ6WjNSWVNEUk1kV0phV2pKa1ZYRlZTSGxFTjIxdlN6ZDFZM1JmYzFSdE56VkJZa3RHWVdWcmR4SVhiSFU1WkdGT1RGcE1OM0kwYVMxblVIcFBja295UVdzYUlrRkdUVUZIUjI5VWRXNVdZMkZqTTBKcE0wNWpOVEIyV2s1MGRHWjNRbmhCV25jIiwiZmN2IjoiMyIsImVpIjoibHU5ZGFOTFpMN3I0aS1nUHpPckoyQWsiLCJxYyI6IkNpUm9iM2NnZEc4Z1kzSmxZWFJsSUdFZ2JtVjNJR1pwYkdVZ2QybDBhQ0J3ZVhSb2IyNFFBSDE5aEFRXyIsInF1ZXN0aW9uIjoiSG93IHRvIGNyZWF0ZSBhIG5ldyBlbXB0eSBmaWxlIGluIFB5dGhvbj8iLCJsayI6IkdpaG9iM2NnZEc4Z1kzSmxZWFJsSUdFZ2JtVjNJR1Z0Y0hSNUlHWnBiR1VnYVc0Z2NIbDBhRzl1IiwiYnMiOiJjLU55NDFMM3lDOVhTTWxYcU13dlZVZ3VTazBzU1ZWSVZNaExMVmRJeTh4SlZjak1Vd2lvTE1uSXo3T1g2QW8wa3BBU0t3RHpZQ3BoNnJpaXVEUkI1cFRrbzVxUm1sdFFVb2xoMG80U0l5MHBqUXlDNmlGMmNXVndHV0F6RzJJYVhIRnlmbTV1WWw2S1FrNW1YcXE5eEhGUEkwTXBmV3hXRk9EV3h1WEZwUVMxcWJ3b0U2eWpwS0lFd19tZmJZMFVwZVF6a0JVaUs0TllJTUFJQUEiLCJpZCI6ImZjX2x1OWRhTkxaTDdyNGktZ1B6T3JKMkFrXzEifQ%3D%3D"
+    },
+    {
+      "question": "How to create a new Python file in command line?",
+      "snippet": "And come back here. And use Vim. So Vim will allow you to create hello.py. So now you would create your first Python file by doing hello.py. And then you need to understand how to use the vi editor.",
+      "title": "Create Python File From Terminal (Command Line) | jcchouinard.com",
+      "link": "https://www.youtube.com/watch?v=1fxc-RpEQJo",
+      "displayed_link": null,
+      "source_logo": "https://serpapi.com/searches/685def92a204ab982552f227/images/e17f140d0640ead668322b2545fde52799768ec264ea835c9d217513f9ea163c.png",
+      "next_page_token": "eyJvbnMiOiIyNjc5IiwiZmMiOiJFdUlDQ3FJQ1FVeHJkRjkyU0d4cFprUnpUbEl3T1RaTWFrWlJNbkp1UWs1SlUyUnhiRTVmY2tKdVRucEtla042VGpnd1VrUlliVFpGYzA5bmJHbFBkVTVpYmxJemIyNUtRakIwYWtwclVtMTZSbVJIYlVOaWRtTk5ZaTFDYW10TGEwMDJPVWxXUzBabGJIVmZObDgzYVdKdUxXRmFPV2t3ZUMweU5qSklkMGhSU1V4dFdISnNWbk5MYzNReVIyUXlSRXM1VVhsMk1YVk9NMUJPYVVwbFZIa3pSVzVHVGxkNldGVlBTVXQwYm5oR1IxQnJRazVQUW5SUmRuQlVXRm90YUVzeVYwRjNjWE41TjJoM1l6Wm9SbEZtUW5SamRWbzVNMWRYZERWdmQxVjJibUpCTVdNNFdqZEZka1phWjNoMGNGUktiV3BHUTNGMk4wWlhTbEJVT0dWclZEaEtUVVZ6U0RJNFpHaGFjMUpwUmxOQmVWZFJObFZQTVZOMmRFZFRiemMyVFhCS2MzY1NGMngxT1dSaFRreGFURGR5TkdrdFoxQjZUM0pLTWtGckdpSkJSazFCUjBkdk5HSjBkWFpKYWtaak5YZHhjamR4ZEVwS1duaHRRMVZGWjAxMyIsImZjdiI6IjMiLCJlaSI6Imx1OWRhTkxaTDdyNGktZ1B6T3JKMkFrIiwicWMiOiJDaVJvYjNjZ2RHOGdZM0psWVhSbElHRWdibVYzSUdacGJHVWdkMmwwYUNCd2VYUm9iMjRRQUgxOWhBUV8iLCJxdWVzdGlvbiI6IkhvdyB0byBjcmVhdGUgYSBuZXcgUHl0aG9uIGZpbGUgaW4gY29tbWFuZCBsaW5lPyIsImxrIjoiR2k5b2IzY2dkRzhnWTNKbFlYUmxJR0VnYm1WM0lIQjVkR2h2YmlCbWFXeGxJR2x1SUdOdmJXMWhibVFnYkdsdVpRIiwiYnMiOiJjLU55NDFMM3lDOVhTTWxYcU13dlZVZ3VTazBzU1ZWSVZNaExMVmRJeTh4SlZjak1Vd2lvTE1uSXo3T1g2QW8wa3BBU0t3RHpZQ3BoNnJpaXVEUkI1cFRrbzVxUm1sdFFVb2xoMG80U0l5MHBqUXlDNmlGMmNXVndHV0F6RzJJYVhIRnlmbTV1WWw2S1FrNW1YcXE5eEhGUEkwTXBmV3hXRk9EV3h1WEZwUVMxcWJ3b0U2eWpwS0lFd19tZmJZMFVwZVF6a0JVaUs0TllJTUFJQUEiLCJpZCI6ImZjX2x1OWRhTkxaTDdyNGktZ1B6T3JKMkFrXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIyNjc5IiwiZmMiOiJFdUlDQ3FJQ1FVeHJkRjkyU0d4cFprUnpUbEl3T1RaTWFrWlJNbkp1UWs1SlUyUnhiRTVmY2tKdVRucEtla042VGpnd1VrUlliVFpGYzA5bmJHbFBkVTVpYmxJemIyNUtRakIwYWtwclVtMTZSbVJIYlVOaWRtTk5ZaTFDYW10TGEwMDJPVWxXUzBabGJIVmZObDgzYVdKdUxXRmFPV2t3ZUMweU5qSklkMGhSU1V4dFdISnNWbk5MYzNReVIyUXlSRXM1VVhsMk1YVk9NMUJPYVVwbFZIa3pSVzVHVGxkNldGVlBTVXQwYm5oR1IxQnJRazVQUW5SUmRuQlVXRm90YUVzeVYwRjNjWE41TjJoM1l6Wm9SbEZtUW5SamRWbzVNMWRYZERWdmQxVjJibUpCTVdNNFdqZEZka1phWjNoMGNGUktiV3BHUTNGMk4wWlhTbEJVT0dWclZEaEtUVVZ6U0RJNFpHaGFjMUpwUmxOQmVWZFJObFZQTVZOMmRFZFRiemMyVFhCS2MzY1NGMngxT1dSaFRreGFURGR5TkdrdFoxQjZUM0pLTWtGckdpSkJSazFCUjBkdk5HSjBkWFpKYWtaak5YZHhjamR4ZEVwS1duaHRRMVZGWjAxMyIsImZjdiI6IjMiLCJlaSI6Imx1OWRhTkxaTDdyNGktZ1B6T3JKMkFrIiwicWMiOiJDaVJvYjNjZ2RHOGdZM0psWVhSbElHRWdibVYzSUdacGJHVWdkMmwwYUNCd2VYUm9iMjRRQUgxOWhBUV8iLCJxdWVzdGlvbiI6IkhvdyB0byBjcmVhdGUgYSBuZXcgUHl0aG9uIGZpbGUgaW4gY29tbWFuZCBsaW5lPyIsImxrIjoiR2k5b2IzY2dkRzhnWTNKbFlYUmxJR0VnYm1WM0lIQjVkR2h2YmlCbWFXeGxJR2x1SUdOdmJXMWhibVFnYkdsdVpRIiwiYnMiOiJjLU55NDFMM3lDOVhTTWxYcU13dlZVZ3VTazBzU1ZWSVZNaExMVmRJeTh4SlZjak1Vd2lvTE1uSXo3T1g2QW8wa3BBU0t3RHpZQ3BoNnJpaXVEUkI1cFRrbzVxUm1sdFFVb2xoMG80U0l5MHBqUXlDNmlGMmNXVndHV0F6RzJJYVhIRnlmbTV1WWw2S1FrNW1YcXE5eEhGUEkwTXBmV3hXRk9EV3h1WEZwUVMxcWJ3b0U2eWpwS0lFd19tZmJZMFVwZVF6a0JVaUs0TllJTUFJQUEiLCJpZCI6ImZjX2x1OWRhTkxaTDdyNGktZ1B6T3JKMkFrXzIifQ%3D%3D"
+    },
+    {
+      "question": "How to write a txt file in Python?",
+      "snippet": "Procedure to Create a new text file in Python: >>> new_file = \"path/to/new/file. txt\" >>> # Open the file in write mode >>> with open(new_file, \"w\") as file: >>> file. write(\"Hello, world!\") >>> file. write(\"This is a new text file created using Python.\") >>> file.",
+      "title": "Create a text file in Python - GUVI",
+      "link": "https://www.guvi.in/hub/python/create-a-new-text-file-in-python/#:~:text=Procedure%20to%20Create%20a%20new%20text%20file%20in%20Python%3A,-Creating%20a%20text&text=%3E%3E%3E%20new_file%20%3D%20%22path,%22)%20%3E%3E%3E%20file.",
+      "displayed_link": "https://www.guvi.in › hub › create-a-new-text-file-in-pyt...",
+      "source_logo": "https://serpapi.com/searches/685def92a204ab982552f227/images/e17f140d0640ead668322b2545fde527efa5268908a9c1e39348595342275d3e.png",
+      "next_page_token": "eyJvbnMiOiIyNjc5IiwiZmMiOiJFdUlDQ3FJQ1FVeHJkRjkyU0d4cFprUnpUbEl3T1RaTWFrWlJNbkp1UWs1SlUyUnhiRTVmY2tKdVRucEtla042VGpnd1VrUlliVFpGYzA5bmJHbFBkVTVpYmxJemIyNUtRakIwYWtwclVtMTZSbVJIYlVOaWRtTk5ZaTFDYW10TGEwMDJPVWxXUzBabGJIVmZObDgzYVdKdUxXRmFPV2t3ZUMweU5qSklkMGhSU1V4dFdISnNWbk5MYzNReVIyUXlSRXM1VVhsMk1YVk9NMUJPYVVwbFZIa3pSVzVHVGxkNldGVlBTVXQwYm5oR1IxQnJRazVQUW5SUmRuQlVXRm90YUVzeVYwRjNjWE41TjJoM1l6Wm9SbEZtUW5SamRWbzVNMWRYZERWdmQxVjJibUpCTVdNNFdqZEZka1phWjNoMGNGUktiV3BHUTNGMk4wWlhTbEJVT0dWclZEaEtUVVZ6U0RJNFpHaGFjMUpwUmxOQmVWZFJObFZQTVZOMmRFZFRiemMyVFhCS2MzY1NGMngxT1dSaFRreGFURGR5TkdrdFoxQjZUM0pLTWtGckdpSkJSazFCUjBkdk5HSjBkWFpKYWtaak5YZHhjamR4ZEVwS1duaHRRMVZGWjAxMyIsImZjdiI6IjMiLCJlaSI6Imx1OWRhTkxaTDdyNGktZ1B6T3JKMkFrIiwicWMiOiJDaVJvYjNjZ2RHOGdZM0psWVhSbElHRWdibVYzSUdacGJHVWdkMmwwYUNCd2VYUm9iMjRRQUgxOWhBUV8iLCJxdWVzdGlvbiI6IkhvdyB0byB3cml0ZSBhIHR4dCBmaWxlIGluIFB5dGhvbj8iLCJsayI6IkdoOW9iM2NnZEc4Z2QzSnBkR1VnZEhoMElHWnBiR1VnYVc0Z2NIbDBhRzl1IiwiYnMiOiJjLU55NDFMM3lDOVhTTWxYcU13dlZVZ3VTazBzU1ZWSVZNaExMVmRJeTh4SlZjak1Vd2lvTE1uSXo3T1g2QW8wa3BBU0t3RHpZQ3BoNnJpaXVEUkI1cFRrbzVxUm1sdFFVb2xoMG80U0l5MHBqUXlDNmlGMmNXVndHV0F6RzJJYVhIRnlmbTV1WWw2S1FrNW1YcXE5eEhGUEkwTXBmV3hXRk9EV3h1WEZwUVMxcWJ3b0U2eWpwS0lFd19tZmJZMFVwZVF6a0JVaUs0TllJTUFJQUEiLCJpZCI6ImZjX2x1OWRhTkxaTDdyNGktZ1B6T3JKMkFrXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIyNjc5IiwiZmMiOiJFdUlDQ3FJQ1FVeHJkRjkyU0d4cFprUnpUbEl3T1RaTWFrWlJNbkp1UWs1SlUyUnhiRTVmY2tKdVRucEtla042VGpnd1VrUlliVFpGYzA5bmJHbFBkVTVpYmxJemIyNUtRakIwYWtwclVtMTZSbVJIYlVOaWRtTk5ZaTFDYW10TGEwMDJPVWxXUzBabGJIVmZObDgzYVdKdUxXRmFPV2t3ZUMweU5qSklkMGhSU1V4dFdISnNWbk5MYzNReVIyUXlSRXM1VVhsMk1YVk9NMUJPYVVwbFZIa3pSVzVHVGxkNldGVlBTVXQwYm5oR1IxQnJRazVQUW5SUmRuQlVXRm90YUVzeVYwRjNjWE41TjJoM1l6Wm9SbEZtUW5SamRWbzVNMWRYZERWdmQxVjJibUpCTVdNNFdqZEZka1phWjNoMGNGUktiV3BHUTNGMk4wWlhTbEJVT0dWclZEaEtUVVZ6U0RJNFpHaGFjMUpwUmxOQmVWZFJObFZQTVZOMmRFZFRiemMyVFhCS2MzY1NGMngxT1dSaFRreGFURGR5TkdrdFoxQjZUM0pLTWtGckdpSkJSazFCUjBkdk5HSjBkWFpKYWtaak5YZHhjamR4ZEVwS1duaHRRMVZGWjAxMyIsImZjdiI6IjMiLCJlaSI6Imx1OWRhTkxaTDdyNGktZ1B6T3JKMkFrIiwicWMiOiJDaVJvYjNjZ2RHOGdZM0psWVhSbElHRWdibVYzSUdacGJHVWdkMmwwYUNCd2VYUm9iMjRRQUgxOWhBUV8iLCJxdWVzdGlvbiI6IkhvdyB0byB3cml0ZSBhIHR4dCBmaWxlIGluIFB5dGhvbj8iLCJsayI6IkdoOW9iM2NnZEc4Z2QzSnBkR1VnZEhoMElHWnBiR1VnYVc0Z2NIbDBhRzl1IiwiYnMiOiJjLU55NDFMM3lDOVhTTWxYcU13dlZVZ3VTazBzU1ZWSVZNaExMVmRJeTh4SlZjak1Vd2lvTE1uSXo3T1g2QW8wa3BBU0t3RHpZQ3BoNnJpaXVEUkI1cFRrbzVxUm1sdFFVb2xoMG80U0l5MHBqUXlDNmlGMmNXVndHV0F6RzJJYVhIRnlmbTV1WWw2S1FrNW1YcXE5eEhGUEkwTXBmV3hXRk9EV3h1WEZwUVMxcWJ3b0U2eWpwS0lFd19tZmJZMFVwZVF6a0JVaUs0TllJTUFJQUEiLCJpZCI6ImZjX2x1OWRhTkxaTDdyNGktZ1B6T3JKMkFrXzIifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "an5puXicvZTLkrJGFIC3eZGw8R9R8MZUUakGQVshyDBodEMhYoOgOICDuEueJU-Vp0k3iMM4_qmkkkoX2rdz-lz66_Pr76F_CP744TcvTY_JM01nWdZEUYRCt-lEe9pO8oNDb6MwiR3vJxTyp4TyQt49UPk7z1JOwrco1-fDE7exf1ZWSj_u-E9odtHiCQMCqlDnrbWduDt8-nmX0BaN_4If2SGeNJOme2jKTDfYQfVFGYEm02oPmhpt77EA-DdN_LICARAA0OU7Kf2RtiQSWQAmd-tCNRiS4yAEgmTiWVSXUQEim8XpgqQPLS5zarGg4iNn6Vcx0jp4DGWsC2QG6J99-pCq7FfBfbKLPrtaaEl16S9NJHFUY0QyYX34U2gXh4xHklrTGSPVGWpT487edVsSBBVsDSVDDxOLQ4DSq3FuE22d3iB8zy16HeOuTccJuXXxlWtFMjS29ikLw7Uj2VPLdpb-_tIJ-pdZnH0reHKSG1BJHah3aDI5d5iAgdlUmkL7RlORO0MqvViWKdLB_Jqkx026boqgLnZNqEB6NffKRCDfgWBqlFsQzJYTMcYh1i6vRhOsfJAKJhcAimTNK2gk5_kkPVhex5kXCz0JSSggTghIxJcFgtIH_BuiGRKIKkIQkYVWYaCkyQNXl0yAbr6YoFLGXyKKEOTYagSMjBtfAyay0hU37JQoY9Nq-YIAlMAwEwTMTkak8AIqgxOr4EQkkV7OyqwtRZ28CwCUO5qKrNanj9v0rzb1R_h02kLeNfonKVvtgnkHmFtncOJepJSp8In2639QkJz_HTBYAKbLdcCm3wHsa7kqARMqwH4pAIPAu5WrGmDoCpgveYE-trjzYPgBmIcNl4DpOrwBVitXLDDKl14BBsHfAow4UQNsegNM_B5gt3JVAoZXrQqwTgkY_ALYf1yuCs7csvtcu047dA_hyJhwZtJ9ynsR5_W4kcdGYNEznXFfwxBu9-nzMY7QN8vfPAvMJM031BvvRVkjjRpO7Nqp27AbBzdrbP3QbWR-6jWOeepFB2ofxhHfsrsw08-L_RnM8sj0fdk5pbKmxvODH5-ss-ZZc241f4rNnvOGr5sBL9kbOm68cHMxBgdmOQnMS2_6Kg6W1mg1NdgUtRaSbA6zJNEWYX5Yv8-t3Rklqt-zfF1J0UoTPZZlxllo2r7JKprW5vxzPJxtXCV8O2eFXwlvOqGv5OEi77eofezw-No6AVCpxLEtN3nnmQ7b73bd3nrAsP1Bm6P2KM2P_OBPTPB71Q",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=an5puXicvZTLkrJGFIC3eZGw8R9R8MZUUakGQVshyDBodEMhYoOgOICDuEueJU-Vp0k3iMM4_qmkkkoX2rdz-lz66_Pr76F_CP744TcvTY_JM01nWdZEUYRCt-lEe9pO8oNDb6MwiR3vJxTyp4TyQt49UPk7z1JOwrco1-fDE7exf1ZWSj_u-E9odtHiCQMCqlDnrbWduDt8-nmX0BaN_4If2SGeNJOme2jKTDfYQfVFGYEm02oPmhpt77EA-DdN_LICARAA0OU7Kf2RtiQSWQAmd-tCNRiS4yAEgmTiWVSXUQEim8XpgqQPLS5zarGg4iNn6Vcx0jp4DGWsC2QG6J99-pCq7FfBfbKLPrtaaEl16S9NJHFUY0QyYX34U2gXh4xHklrTGSPVGWpT487edVsSBBVsDSVDDxOLQ4DSq3FuE22d3iB8zy16HeOuTccJuXXxlWtFMjS29ikLw7Uj2VPLdpb-_tIJ-pdZnH0reHKSG1BJHah3aDI5d5iAgdlUmkL7RlORO0MqvViWKdLB_Jqkx026boqgLnZNqEB6NffKRCDfgWBqlFsQzJYTMcYh1i6vRhOsfJAKJhcAimTNK2gk5_kkPVhex5kXCz0JSSggTghIxJcFgtIH_BuiGRKIKkIQkYVWYaCkyQNXl0yAbr6YoFLGXyKKEOTYagSMjBtfAyay0hU37JQoY9Nq-YIAlMAwEwTMTkak8AIqgxOr4EQkkV7OyqwtRZ28CwCUO5qKrNanj9v0rzb1R_h02kLeNfonKVvtgnkHmFtncOJepJSp8In2639QkJz_HTBYAKbLdcCm3wHsa7kqARMqwH4pAIPAu5WrGmDoCpgveYE-trjzYPgBmIcNl4DpOrwBVitXLDDKl14BBsHfAow4UQNsegNM_B5gt3JVAoZXrQqwTgkY_ALYf1yuCs7csvtcu047dA_hyJhwZtJ9ynsR5_W4kcdGYNEznXFfwxBu9-nzMY7QN8vfPAvMJM031BvvRVkjjRpO7Nqp27AbBzdrbP3QbWR-6jWOeepFB2ofxhHfsrsw08-L_RnM8sj0fdk5pbKmxvODH5-ss-ZZc241f4rNnvOGr5sBL9kbOm68cHMxBgdmOQnMS2_6Kg6W1mg1NdgUtRaSbA6zJNEWYX5Yv8-t3Rklqt-zfF1J0UoTPZZlxllo2r7JKprW5vxzPJxtXCV8O2eFXwlvOqGv5OEi77eofezw-No6AVCpxLEtN3nnmQ7b73bd3nrAsP1Bm6P2KM2P_OBPTPB71Q"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Python File Write",
+      "link": "https://www.w3schools.com/python/python_file_write.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3schools.com/python/python_file_write.asp&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECBAQAQ",
+      "displayed_link": "https://www.w3schools.com › python › python_file_write",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b01f6cda04cd43dd912da6e21e597183c.png",
+      "snippet": "Note: the \"w\" method will overwrite the entire file. Create a New File. To create a new file in Python, use the open() method, with one of the following ...",
+      "snippet_highlighted_words": [
+        "Create a New File"
+      ],
+      "source": "W3Schools"
+    },
+    {
+      "position": 2,
+      "title": "How to create a new text file using Python",
+      "link": "https://stackoverflow.com/questions/48959098/how-to-create-a-new-text-file-using-python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/48959098/how-to-create-a-new-text-file-using-python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECBwQAQ",
+      "displayed_link": "3 answers · 7 years ago",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b2363761831f48d2de71e1ac00b31fdcf.png",
+      "snippet": "Try w : with open(\"copy.txt\", \"w\") as file: file.write(\"Your text goes here\") The default value is r and will fail if the file does not exist.",
+      "snippet_highlighted_words": [
+        "file",
+        "file",
+        "file"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "python - Create a file if it doesn't exist - Stack Overflow",
+            "link": "https://stackoverflow.com/questions/35807605/create-a-file-if-it-doesnt-exist",
+            "answer_count": 9,
+            "date": "Mar 4, 2016"
+          },
+          {
+            "title": "linux - Create new txt file inside directory PYTHON ...",
+            "link": "https://stackoverflow.com/questions/68486877/create-new-txt-file-inside-directory-python-script",
+            "answer_count": 4,
+            "date": "Jul 22, 2021"
+          }
+        ]
+      },
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 3,
+      "title": "Create a New Text File in Python",
+      "link": "https://www.geeksforgeeks.org/create-a-new-text-file-in-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/create-a-new-text-file-in-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECBEQAQ",
+      "displayed_link": "https://www.geeksforgeeks.org › create-a-new-text-file-...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b9028f59b1a1fbd44d5894bad515b942f.png",
+      "date": "Feb 5, 2024",
+      "snippet": "Create a New Text File Using open() Function. In this example, below code the open() function to create a new text file named new_file.txt . The ...",
+      "snippet_highlighted_words": [
+        "Create a New Text File Using open() Function"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 4,
+      "title": "is there a way to create a new file in a specific location on ...",
+      "link": "https://www.reddit.com/r/learnpython/comments/tretb7/is_there_a_way_to_create_a_new_file_in_a_specific/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/learnpython/comments/tretb7/is_there_a_way_to_create_a_new_file_in_a_specific/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCIQBEAE",
+      "displayed_link": "20+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bedca61743b3f3060f31b257b4e954c53.png",
+      "snippet": "You could have a template folder that holds all your original files, and use python to copy and paste. I mean, you could just do it straight ...",
+      "snippet_highlighted_words": [
+        "have a template folder that holds all your original files"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "someone help me how to create a py file in terminal ...",
+            "link": "https://www.reddit.com/r/learnpython/comments/15wkpol/someone_help_me_how_to_create_a_py_file_in/",
+            "answer_count": 5,
+            "date": "Aug 20, 2023"
+          },
+          {
+            "title": "Create file if it doesn't exist, as well as its folders ...",
+            "link": "https://www.reddit.com/r/learnpython/comments/wgzx2w/create_file_if_it_doesnt_exist_as_well_as_its/",
+            "answer_count": 26,
+            "date": "Aug 5, 2022"
+          }
+        ]
+      },
+      "source": "Reddit · r/learnpython"
+    },
+    {
+      "position": 5,
+      "title": "File Handling in Python – How to Create, Read, and Write ...",
+      "link": "https://www.freecodecamp.org/news/file-handling-in-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.freecodecamp.org/news/file-handling-in-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCMQCEAE",
+      "displayed_link": "https://www.freecodecamp.org › news › file-handling-i...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bcf9dfb2ccaa779331802d2ffecfb2236.png",
+      "date": "Aug 26, 2022",
+      "snippet": "How to Create Files in Python ... In Python, you use the open() function with one of the following options – \"x\" or \"w\" – to create a new file:.",
+      "snippet_highlighted_words": [
+        "open() function with one of the following options – \"x\" or \"w"
+      ],
+      "source": "freeCodeCamp"
+    },
+    {
+      "position": 6,
+      "title": "52. Write/Create Files in Python",
+      "link": "https://www.youtube.com/watch?v=FpyV-ikYUHo",
+      "displayed_link": "6.4K+ views · 3 years ago",
+      "thumbnail": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bbbab8678ae7144054909ac5a072c4a59.png",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b5e9c3776812fb2fd68922817a7c31425.png",
+      "snippet": "In this video we are going to discuss about how to write data into files in python or how to create a file using python.",
+      "duration": "6:02",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=FpyV-ikYUHo&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXukcjOa4UadtSKOQRzkXf-CuYMSZjSHoY3R-3MNy9ow&s"
+        },
+        {
+          "time": "00:40",
+          "title": "Modes in Python",
+          "link": "https://www.youtube.com/watch?v=FpyV-ikYUHo&t=40",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAhyv4GmT8eUDIjKFpaS_C3BzCZROm7shs7rSCFPs9Q&s"
+        },
+        {
+          "time": "01:05",
+          "title": "Practical Example",
+          "link": "https://www.youtube.com/watch?v=FpyV-ikYUHo&t=65",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdUq7GEA_TyRBr2XZMHXBUs4kR9cCfMv8iTinFH49-xQ&s"
+        },
+        {
+          "time": "01:22",
+          "title": "Append data into a file",
+          "link": "https://www.youtube.com/watch?v=FpyV-ikYUHo&t=82",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm0_LFhUY6cegbElmVAa9NZVEkAMOM37YVAwjrRzO41w&s"
+        },
+        {
+          "time": "01:59",
+          "title": "Write() method",
+          "link": "https://www.youtube.com/watch?v=FpyV-ikYUHo&t=119",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf296uFMxSAzkgef8qR-u05nVNYC5fhhn2gQfczPgopg&s"
+        },
+        {
+          "time": "02:41",
+          "title": "Write a file with mode w",
+          "link": "https://www.youtube.com/watch?v=FpyV-ikYUHo&t=161",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZf15iMCZp1I7aImU2XABeN2QUYjcxn6Oujx4CbjnPAQ&s"
+        },
+        {
+          "time": "03:11",
+          "title": "Create a new file",
+          "link": "https://www.youtube.com/watch?v=FpyV-ikYUHo&t=191",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV8MvR3UUdf0gOJIxMKuSCKQcMN19X9BIi41jgkAfAyQ&s"
+        },
+        {
+          "time": "04:07",
+          "title": "Append mode",
+          "link": "https://www.youtube.com/watch?v=FpyV-ikYUHo&t=247",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSusQa94XgbNb9LhnUXaEC6dLznV-YYtlnBbExXgb4ZBw&s"
+        },
+        {
+          "time": "04:23",
+          "title": "Code Execution",
+          "link": "https://www.youtube.com/watch?v=FpyV-ikYUHo&t=263",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSs6s__JzOZPszoe6Rk9kO5AZ2QJSR8LE1DZ748si3UA&s"
+        },
+        {
+          "time": "05:46",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=FpyV-ikYUHo&t=346",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5dRCpfvmVjnsTEpc92C3gumkRrZM7a-wiP5HuLZtgQ&s"
+        }
+      ],
+      "source": "YouTube · WafaStudies"
+    },
+    {
+      "position": 7,
+      "title": "Quick Start Guide for Python in VS Code",
+      "link": "https://code.visualstudio.com/docs/python/python-quick-start",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://code.visualstudio.com/docs/python/python-quick-start&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCNwBEAE",
+      "displayed_link": "https://code.visualstudio.com › docs › python-quick-start",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bb844065e5d3d07f8f577f067a3ad188b.png",
+      "snippet": "You can create a new Python file by selecting New File on the VS Code ... Python file, or by navigating to File > New File (unassigned). Tip: If you ...",
+      "snippet_highlighted_words": [
+        "selecting New File on the VS Code"
+      ],
+      "source": "Visual Studio Code"
+    },
+    {
+      "position": 8,
+      "title": "How do you create a new file in Python - API",
+      "link": "https://community.openai.com/t/how-do-you-create-a-new-file-in-python/599246",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.openai.com/t/how-do-you-create-a-new-file-in-python/599246&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCPIBEAE",
+      "displayed_link": "https://community.openai.com › how-do-you-create-a-...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b1020f21f093d734be31b23ce7b5a79b1.png",
+      "date": "Jan 24, 2024",
+      "snippet": "To do this, create a file named openai-test.py using th terminal or an IDE. Inside the file, copy and paste one of the examples below.",
+      "snippet_highlighted_words": [
+        "create a file named openai-test.py"
+      ],
+      "source": "OpenAI Developer Community"
+    },
+    {
+      "position": 9,
+      "title": "How to create a file inside another folder using Python",
+      "link": "https://www.quora.com/How-do-you-create-a-file-inside-another-folder-using-Python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/How-do-you-create-a-file-inside-another-folder-using-Python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCMUCEAE",
+      "displayed_link": "2 answers · 2 years ago",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bb49ba15759623c61982331d365c6b7f3.png",
+      "snippet": "Right click in folder empty space and in popup menu select New and then “Text Document”. This will create “New Text Document.txt” file. Just ...",
+      "snippet_highlighted_words": [
+        "Right click in folder empty space and in popup menu select New"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 10,
+      "title": "Creating Files in Python: Step-by-Step Tutorial",
+      "link": "https://ioflood.com/blog/python-create-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ioflood.com/blog/python-create-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECFUQAQ",
+      "displayed_link": "https://ioflood.com › blog › python-create-file",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b3aa7314f440871e7ba182c90924c1d69.png",
+      "date": "Sep 11, 2023",
+      "snippet": "To create a file in Python, you can use the open() function with the 'a' mode such as file = open('myfile.txt', 'a') . This function opens a ...",
+      "snippet_highlighted_words": [
+        "open() function with the 'a' mode"
+      ],
+      "source": "IOFLOOD.com"
+    },
+    {
+      "position": 11,
+      "title": "Create and run your first project | PyCharm Documentation",
+      "link": "https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCNQBEAE",
+      "displayed_link": "https://www.jetbrains.com › help › pycharm › creating-...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b9fa479c0c646d1d4219642a28ae5d429.png",
+      "date": "May 27, 2025",
+      "snippet": "Select the option Python File from the context menu, and then type the new filename. Creating a new Python file. PyCharm creates a new Python ...",
+      "snippet_highlighted_words": [
+        "Select the option Python File from the context menu, and then type the new filename"
+      ],
+      "source": "JetBrains"
+    },
+    {
+      "position": 12,
+      "title": "Here is how to create a new file in Python",
+      "link": "https://pythonhow.com/how/create-a-new-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pythonhow.com/how/create-a-new-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCNUBEAE",
+      "displayed_link": "https://pythonhow.com › how › create-a-new-file",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b2be7c74e3494abdfdc39c24d22f70b53.png",
+      "snippet": "# Create a new text file and add some content with open('newfile.txt', 'w') as file: file.write(\"I am the file content!\")",
+      "snippet_highlighted_words": [
+        "open('newfile.txt', 'w') as file"
+      ],
+      "source": "PythonHow"
+    },
+    {
+      "position": 13,
+      "title": "Create an empty file using Python",
+      "link": "https://www.geeksforgeeks.org/python/create-an-empty-file-using-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/python/create-an-empty-file-using-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCMIBEAE",
+      "displayed_link": "https://www.geeksforgeeks.org › python › create-an-em...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bb0616b0065b4c6e1fd13ed02f34df040.png",
+      "date": "Dec 12, 2023",
+      "snippet": "In this example, we are using OS Module to create a Python file. we will create a new file myfile.txt. To verify this we will use os.listdir ...",
+      "snippet_highlighted_words": [
+        "create a new file myfile.txt"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 14,
+      "title": "Create a text file in Python",
+      "link": "https://www.guvi.in/hub/python/create-a-new-text-file-in-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.guvi.in/hub/python/create-a-new-text-file-in-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCPEBEAE",
+      "displayed_link": "https://www.guvi.in › hub › create-a-new-text-file-in-pyt...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bfd8ab1744f962cf6501eeba01642842e.png",
+      "snippet": "Creating a text file in Python involves a few steps and you will be using built-in functions like 'open()', 'write()', and 'with()'.",
+      "snippet_highlighted_words": [
+        "file",
+        "Python"
+      ],
+      "source": "GUVI"
+    },
+    {
+      "position": 15,
+      "title": "Create File in Python [4 Ways]",
+      "link": "https://pynative.com/python-create-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pynative.com/python-create-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCPUBEAE",
+      "displayed_link": "https://pynative.com › Python › File Handling",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163ba19aa053672ff82c7e1d4e183c39b9ea.png",
+      "date": "Jul 2, 2021",
+      "snippet": "In this tutorial, you'll learn how to create a file in Python. Python is widely used in data analytics and comes with some inbuilt functions to work with files.",
+      "snippet_highlighted_words": [
+        "how to create a file in Python"
+      ],
+      "source": "PYnative"
+    },
+    {
+      "position": 16,
+      "title": "How to Create (Write) Text File in Python",
+      "link": "https://www.guru99.com/reading-and-writing-files-in-python.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.guru99.com/reading-and-writing-files-in-python.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCKYCEAE",
+      "displayed_link": "https://www.guru99.com › Python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b247f64a8e78263c19a3788e84bdd1441.png",
+      "date": "Aug 12, 2024",
+      "snippet": "How to Create a Text File in Python · Step 1) Open the .txt file · Step 2) Enter data into the file · Step 3) Close the file instance",
+      "snippet_highlighted_words": [
+        "Step 1) Open the .txt file"
+      ],
+      "source": "Guru99"
+    },
+    {
+      "position": 17,
+      "title": "Create a New File in Python",
+      "link": "https://www.youtube.com/watch?v=5WJkAAwMPNk",
+      "displayed_link": "270+ views · 6 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGZzN86czOs7-bsggAtZ9ocOaa2hB848KqlSzgyIE6zns&s",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b12ebeab688da8278fab607fed2fdba7e.png",
+      "snippet": "We will have a look at how to create a new file so at the minute we've got file equals open and then we've got the file name and then R for read file.",
+      "duration": "0:53",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQsLCKTKthr8g6L77JE5bbsN0qoCQj-97iP_Q",
+      "source": "YouTube · Jafer Sabir"
+    },
+    {
+      "position": 18,
+      "title": "Allow `open()` to create non-existent directories in write mode",
+      "link": "https://discuss.python.org/t/allow-open-to-create-non-existent-directories-in-write-mode/16165",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discuss.python.org/t/allow-open-to-create-non-existent-directories-in-write-mode/16165&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECEUQAQ",
+      "displayed_link": "https://discuss.python.org › allow-open-to-create-non-e...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b9c99928d80666c5e493dd5b313b57cfa.png",
+      "date": "Jun 1, 2022",
+      "snippet": "I'd like that open() creates non-existent directories, like it creates the file when opening it in write mode if it does not exist.",
+      "snippet_highlighted_words": [
+        "creates",
+        "creates",
+        "file"
+      ],
+      "source": "Python.org"
+    },
+    {
+      "position": 19,
+      "title": "How to Create a New Text File in Python",
+      "link": "https://www.pythontutorial.net/python-basics/python-create-text-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pythontutorial.net/python-basics/python-create-text-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECFgQAQ",
+      "displayed_link": "https://www.pythontutorial.net › Python Basics",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b12dcdc1712f3cc3b8a5e1ff50e080c71.png",
+      "snippet": "To create a new text file, you use the open() function. The open() function has many parameters. However, we'll focus on the first two parameters.",
+      "snippet_highlighted_words": [
+        "open() function"
+      ],
+      "source": "pythontutorial.net"
+    },
+    {
+      "position": 20,
+      "title": "How to create directories and files using Python",
+      "link": "https://labex.io/tutorials/python-how-to-create-directories-and-files-using-python-397679",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://labex.io/tutorials/python-how-to-create-directories-and-files-using-python-397679&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCMMBEAE",
+      "displayed_link": "https://labex.io › tutorials › python-how-to-create-directo...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bf9dc2f1bde9df06b6d675ed734b66402.png",
+      "snippet": "Creating Files. To create a new file in Python, you can use the built-in open() function. This function takes the file path and ...",
+      "snippet_highlighted_words": [
+        "To create a new file in Python, you can use the built-in open() function"
+      ],
+      "source": "LabEx"
+    },
+    {
+      "position": 21,
+      "title": "Files are not being made (.txt, .csv) when I try to create them in ...",
+      "link": "https://forum.sublimetext.com/t/files-are-not-being-made-txt-csv-when-i-try-to-create-them-in-python/59236",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.sublimetext.com/t/files-are-not-being-made-txt-csv-when-i-try-to-create-them-in-python/59236&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCIUBEAE",
+      "displayed_link": "https://forum.sublimetext.com › files-are-not-being-ma...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bc888a626ae7ba21a0499f34985670d08.png",
+      "date": "Jun 25, 2021",
+      "snippet": "I have a problem when I try to create a basic .txt file in sublime text. The basic code is below. The text file never shows up in the directory where my python ...",
+      "snippet_highlighted_words": [
+        "create",
+        "file",
+        "file"
+      ],
+      "source": "Sublime Forum"
+    },
+    {
+      "position": 22,
+      "title": "Create Text files from a loop with Python? [closed]",
+      "link": "https://gis.stackexchange.com/questions/60730/create-text-files-from-a-loop-with-python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gis.stackexchange.com/questions/60730/create-text-files-from-a-loop-with-python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCLMBEAE",
+      "displayed_link": "https://gis.stackexchange.com › questions › create-text-f...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b39807a644abcfc9e0489a77ed815988c.png",
+      "date": "May 14, 2013",
+      "snippet": "This python snippet will loop over a directory, get all of the filenames that end with a .jpg extension and the create a new text file with the new .fsv ...",
+      "snippet_highlighted_words": [
+        "python",
+        "create a new",
+        "file"
+      ],
+      "source": "Geographic Information Systems Stack Exchange"
+    },
+    {
+      "position": 23,
+      "title": "Python Create File – How to Append and Write to a Text File",
+      "link": "https://www.freecodecamp.org/news/python-create-file-how-to-append-and-write-to-a-text-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.freecodecamp.org/news/python-create-file-how-to-append-and-write-to-a-text-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCJUBEAE",
+      "displayed_link": "https://www.freecodecamp.org › news › python-create-...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b02c78ce5bfe2c699266850926c7ef8f1.png",
+      "date": "Sep 7, 2021",
+      "snippet": "How to write to text files in Python · You first start off with the with keyword. · Next, you open the text file. · Then we have the as keyword.",
+      "snippet_highlighted_words": [
+        "You first start off with the with keyword"
+      ],
+      "source": "freeCodeCamp"
+    },
+    {
+      "position": 24,
+      "title": "Python Tutorial for Beginners 41 - Create a Text File and Write ...",
+      "link": "https://www.youtube.com/watch?v=walXPsausPI",
+      "displayed_link": "143.9K+ views · 6 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkpnbyrjG2BLqfZ0oNtKXUjNF2hzevIYTYTQRU2j5yhR58&s",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b84d4dd0ffe6870a1c37031d140ecc202.png",
+      "snippet": "In this Python Tutorial for Beginners video I am going to show you How to Create a Text File and Write in It Using Python . To open a file ...",
+      "duration": "13:34",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=walXPsausPI&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJ5Lq8kIopN0RJiqz_t-r0dLgik0s0Xh-7H7pk4eaMw&s"
+        },
+        {
+          "time": "00:12",
+          "title": "Open() function",
+          "link": "https://www.youtube.com/watch?v=walXPsausPI&t=12",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVD0c_4mGIY9Rrik-UmlLu7MjkCW7b6slRQZAQN7ezg&s"
+        },
+        {
+          "time": "01:17",
+          "title": "Read mode in python",
+          "link": "https://www.youtube.com/watch?v=walXPsausPI&t=77",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzUxcQcHtRnsyw5yEOpk_h3-FeurBvV3AqcsSqAiR64Q&s"
+        },
+        {
+          "time": "02:30",
+          "title": "Write into a file using Python",
+          "link": "https://www.youtube.com/watch?v=walXPsausPI&t=150",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf62A_WgqkT4HrNOgiK-86X1EbVGgBY8yZnEtUJY4s-g&s"
+        },
+        {
+          "time": "03:06",
+          "title": "Close() function",
+          "link": "https://www.youtube.com/watch?v=walXPsausPI&t=186",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMYLSJ_XNJx1oYdvk_VVIGU0hHRKAr7XSF0ZISKtyJMw&s"
+        },
+        {
+          "time": "04:42",
+          "title": "Add Line Breaks",
+          "link": "https://www.youtube.com/watch?v=walXPsausPI&t=282",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1GBkWHaFzE5EX23HxVmuP-B6mMRZOhxnCjeD1nEFptA&s"
+        },
+        {
+          "time": "06:56",
+          "title": "Print Line Numbers",
+          "link": "https://www.youtube.com/watch?v=walXPsausPI&t=416",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThSx_j5Tl7y4m947bp4T52LitFvflV3e_LigP9NBw4XQ&s"
+        },
+        {
+          "time": "08:29",
+          "title": "Append to a file",
+          "link": "https://www.youtube.com/watch?v=walXPsausPI&t=509",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyy8e_gV4vS81AQgNvcEKQvNq9b4PFQFM8R8BmgdLkJw&s"
+        },
+        {
+          "time": "10:22",
+          "title": "Shorter way to create a file in Python",
+          "link": "https://www.youtube.com/watch?v=walXPsausPI&t=622",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGQ4FVkgxAEtcYuoYkCf3fsiHqK1cQZXnwJ6UdjSZ5g&s"
+        },
+        {
+          "time": "13:09",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=walXPsausPI&t=789",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxSRE_TCD_8gHNjHnEiZCV_glj95H1dIbzR7_NHB2CgA&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSYIN7Ztl_eiF90cm9krZuTc-1ZhDQ9nTCuaA",
+      "source": "YouTube · ProgrammingKnowledge"
+    },
+    {
+      "position": 25,
+      "title": "Write to a file in Python",
+      "link": "https://www.pythonmorsels.com/creating-and-writing-file-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pythonmorsels.com/creating-and-writing-file-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCM4BEAE",
+      "displayed_link": "https://www.pythonmorsels.com › creating-and-writing-f...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bf9b91c5dc55950c170916121a10d9c57.png",
+      "date": "Oct 18, 2021",
+      "snippet": "To write to a file in Python, you can use the built-in open function, specifying a mode of w or wt and then use the write method on the file ...",
+      "snippet_highlighted_words": [
+        "the built-in open function, specifying a mode of w or wt"
+      ],
+      "source": "Python Morsels"
+    },
+    {
+      "position": 26,
+      "title": "Here is how to create a text file and write text on it in Python",
+      "link": "https://pythonhow.com/how/create-a-text-file-with-and-write-text-on-it/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pythonhow.com/how/create-a-text-file-with-and-write-text-on-it/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCJoCEAE",
+      "displayed_link": "https://pythonhow.com › how › create-a-text-file-with-a...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b62a6a6ef673416ff10df110f83628a5f.png",
+      "snippet": "Here is how to create a text file and write text on it in Python. Specify the path for the new text file new_file_path = 'new_file.txt'",
+      "snippet_highlighted_words": [
+        "Specify the path for the new text file new_file_path = 'new_file.txt"
+      ],
+      "source": "PythonHow"
+    },
+    {
+      "position": 27,
+      "title": "Read, Write, and Create Files in Python (with and open())",
+      "link": "https://note.nkmk.me/en/python-file-io-open-with/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://note.nkmk.me/en/python-file-io-open-with/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCPYBEAE",
+      "displayed_link": "https://note.nkmk.me › Home › Python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b2c9c1449306eea316767e296ded0633a.png",
+      "date": "May 7, 2023",
+      "snippet": "In Python, the open() function allows you to read a file as a string or list, and create, overwrite, or append a file.",
+      "snippet_highlighted_words": [
+        "read a file as a string or list"
+      ],
+      "source": "nkmk.me"
+    },
+    {
+      "position": 28,
+      "title": "Overwriting a file in Python",
+      "link": "https://discuss.python.org/t/overwriting-a-file-in-python/24085",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discuss.python.org/t/overwriting-a-file-in-python/24085&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCPcBEAE",
+      "displayed_link": "https://discuss.python.org › overwriting-a-file-in-python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b1c7a98edde7c655ed3d60187fbc9566f.png",
+      "date": "Feb 21, 2023",
+      "snippet": "To overwrite the files sss.txt and rrr.txt every time you run the code, you need to open them with the mode 'w' instead of 'a'.",
+      "source": "Python.org"
+    },
+    {
+      "position": 29,
+      "title": "How to use Python to Create File?",
+      "link": "https://flexiple.com/python/python-create-file",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://flexiple.com/python/python-create-file&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCIYCEAE",
+      "displayed_link": "https://flexiple.com › python › python-create-file",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bb90975ff369d0a9a1fc5b7236850786b.png",
+      "date": "Mar 14, 2022",
+      "snippet": "To create a file in Python we use the in-built open() function. There are other methods that utilize the OS module in Python, however, a few ...",
+      "snippet_highlighted_words": [
+        "in-built open() function"
+      ],
+      "source": "Flexiple"
+    },
+    {
+      "position": 30,
+      "title": "How to create and open a text file with Python",
+      "link": "https://www.youtube.com/watch?v=03G21-XMpE0",
+      "displayed_link": "47.8K+ views · 10 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgJbm7_sISISpQz8UKBAZ1tA2hPepEFA9W4U3MfMbs5aKO&s",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b64af7f7d51c18c2321002b4dab2c2e54.png",
+      "snippet": "This 4-minute annotated video will not simply teach you how to create a file in Python and write content on that file, but it will also let ...",
+      "duration": "4:07",
+      "key_moments": [
+        {
+          "time": "00:50",
+          "title": "Storing a Python file object in a variable",
+          "link": "https://www.youtube.com/watch?v=03G21-XMpE0&t=50"
+        },
+        {
+          "time": "01:20",
+          "title": "Specifying the file opening mode",
+          "link": "https://www.youtube.com/watch?v=03G21-XMpE0&t=80"
+        },
+        {
+          "time": "03:00",
+          "title": "How to open an existing file",
+          "link": "https://www.youtube.com/watch?v=03G21-XMpE0&t=180"
+        },
+        {
+          "time": "03:30",
+          "title": "How to read a file from within Python",
+          "link": "https://www.youtube.com/watch?v=03G21-XMpE0&t=210"
+        }
+      ],
+      "source": "YouTube · PythonHow by Ardit Sulce"
+    },
+    {
+      "position": 31,
+      "title": "Create a File If Not Exists in Python",
+      "link": "https://dev.to/askyt/create-a-file-if-not-exists-in-python-19j3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dev.to/askyt/create-a-file-if-not-exists-in-python-19j3&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCK0CEAE",
+      "displayed_link": "https://dev.to › askyt › create-a-file-if-not-exists-in-pyth...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b930a97018a60cad07a275d874640b021.png",
+      "date": "Dec 15, 2024",
+      "snippet": "One of the most straightforward ways to create a file only if it doesn't exist is by using Python's built-in open() function with the 'x' mode.",
+      "snippet_highlighted_words": [
+        "Python's built-in open() function with the 'x' mode"
+      ],
+      "source": "DEV Community"
+    },
+    {
+      "position": 32,
+      "title": "Python File Open",
+      "link": "https://www.w3schools.com/python/python_file_handling.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3schools.com/python/python_file_handling.asp&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCJACEAE",
+      "displayed_link": "https://www.w3schools.com › python_file_handling",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bad791318b5f2927cc92334fb5fa188a8.png",
+      "snippet": "The open() function takes two parameters; filename, and mode. There are four different methods (modes) for opening a file: \"r\" - Read - Default value. Opens a ...",
+      "snippet_highlighted_words": [
+        "file"
+      ],
+      "source": "W3Schools"
+    },
+    {
+      "position": 33,
+      "title": "How to Write to File in Python",
+      "link": "https://learnpython.com/blog/write-to-file-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learnpython.com/blog/write-to-file-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCMsCEAE",
+      "displayed_link": "https://learnpython.com › blog › write-to-file-python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b8963a95bd551d386751681f1215d8219.png",
+      "date": "Nov 4, 2021",
+      "snippet": "The first step to write a file in Python is to open it, which means you can access it through a script. There are two ways to open a file.",
+      "snippet_highlighted_words": [
+        "open it"
+      ],
+      "source": "LearnPython.com"
+    },
+    {
+      "position": 34,
+      "title": "Master Python File Operations: Read, Write & Delete Files",
+      "link": "https://www.digitalocean.com/community/tutorials/python-read-file-open-write-delete-copy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.digitalocean.com/community/tutorials/python-read-file-open-write-delete-copy&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECEYQAQ",
+      "displayed_link": "https://www.digitalocean.com › community › tutorials",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b0db2870c4583511083eadbdcc3edd245.png",
+      "date": "Dec 18, 2024",
+      "snippet": "In this tutorial, you will work on the different file operations in Python. You will go over how to use Python to read a file, write to a file, delete files, ...",
+      "snippet_highlighted_words": [
+        "file",
+        "Python",
+        "Python",
+        "file",
+        "file"
+      ],
+      "source": "DigitalOcean"
+    },
+    {
+      "position": 35,
+      "title": "How do I append to a file in Python?",
+      "link": "https://betterstack.com/community/questions/how-to-append-to-a-file-in-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://betterstack.com/community/questions/how-to-append-to-a-file-in-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCLoCEAE",
+      "displayed_link": "https://betterstack.com › community › questions › how-t...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b655dd204562c06fbd2b7b38f047b8079.png",
+      "date": "Feb 3, 2023",
+      "snippet": "To append to a file in Python, you can use the \"a\" mode in the open() function. This will open the file in append mode, which means that you can write new data ...",
+      "snippet_highlighted_words": [
+        "a\" mode in the open() function"
+      ],
+      "source": "Better Stack"
+    },
+    {
+      "position": 36,
+      "title": "Python, how to create an empty file",
+      "link": "https://flaviocopes.com/python-create-empty-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://flaviocopes.com/python-create-empty-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECFsQAQ",
+      "displayed_link": "https://flaviocopes.com › python-create-empty-file",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b8b38236ad20921ab2f709a74a90260c5.png",
+      "date": "Jan 28, 2021",
+      "snippet": "To create a file, use the open() global function. It accepts 2 parameters: the file path, and the mode. You can use a as the mode, to tell Python to open the ...",
+      "snippet_highlighted_words": [
+        "use the open() global function"
+      ],
+      "source": "Flavio Copes"
+    },
+    {
+      "position": 37,
+      "title": "Python File Writing",
+      "link": "https://pythonspot.com/write-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pythonspot.com/write-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECFoQAQ",
+      "displayed_link": "https://pythonspot.com › write-file",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163be38578a02dca8fb4fe5c3a8123a774c2.png",
+      "date": "Mar 9, 2016",
+      "snippet": "Creating or Overwriting a File in Python · #!/usr/bin/env python · # Specify the filename · \"newfile.txt\" · # Open the file with write permissions",
+      "snippet_highlighted_words": [
+        "usr/bin/env python"
+      ],
+      "source": "Pythonspot"
+    },
+    {
+      "position": 38,
+      "title": "How to create a file in Python and more",
+      "link": "https://www.androidauthority.com/how-to-create-a-file-in-python-1136935/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.androidauthority.com/how-to-create-a-file-in-python-1136935/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECGoQAQ",
+      "displayed_link": "https://www.androidauthority.com › how-to-create-a-file...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bcb653860a8cd76c73e489177a4dc7e50.png",
+      "snippet": "The “w+” tells Python that we will be writing a new file. If the file already exists, then this will write over the file. If you replace this with a “w” then ...",
+      "snippet_highlighted_words": [
+        "Python",
+        "new file",
+        "file",
+        "file"
+      ],
+      "source": "Android Authority"
+    },
+    {
+      "position": 39,
+      "title": "Creating & Running Your First Python Script",
+      "link": "https://www.youtube.com/watch?v=yCARyqR4iUg",
+      "displayed_link": "5.4K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ67XIwC04JtPgMlSYEimFce4gv0AiC2EfCNG0MluSYbszs&s",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bdd8b60d468f444522c7749da9f9fce1c.png",
+      "snippet": "In this video, I'll show you how to create a Python (.py) file on Windows 10, right from creating a text file to renaming it with a .py ...",
+      "duration": "3:52",
+      "source": "YouTube · Code In Piece"
+    },
+    {
+      "position": 40,
+      "title": "Python Write to File: A How-To Guide",
+      "link": "https://blog.enterprisedna.co/python-write-to-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.enterprisedna.co/python-write-to-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCNcBEAE",
+      "displayed_link": "https://blog.enterprisedna.co › python-write-to-file",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163ba1d0c3c674314d349afff0fa2dc86772.png",
+      "snippet": "In this section, we'll explore the common methods of writing text files in Python, including the write(), writelines(), and print() functions.",
+      "snippet_highlighted_words": [
+        "common methods of writing text files in Python"
+      ],
+      "source": "Enterprise DNA"
+    },
+    {
+      "position": 41,
+      "title": "How To Create New Files in Python 3 - Better Programming",
+      "link": "https://medium.com/better-programming/how-to-create-new-files-in-python-3-a905ff7a2808",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/better-programming/how-to-create-new-files-in-python-3-a905ff7a2808&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCKwCEAE",
+      "displayed_link": "100+ likes · 4 years ago",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b736d7ca785d8984fc79ad29e859d812c.png",
+      "snippet": "Create a New File Exclusively · newfile = open(“unique_new_file.txt”, “x”). x means open a new file only if it doesn't already exist. If the file ...",
+      "snippet_highlighted_words": [
+        "Create a New File",
+        "newfile",
+        "new file",
+        "file"
+      ],
+      "source": "Medium · Erikka Innes"
+    },
+    {
+      "position": 42,
+      "title": "Write one or more lines to a file in Python - Sentry",
+      "link": "https://sentry.io/answers/write-one-or-more-lines-to-a-file-in-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sentry.io/answers/write-one-or-more-lines-to-a-file-in-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCIwBEAE",
+      "displayed_link": "https://sentry.io › Sentry Answers › Python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bb85b3f01328f6d7051e5b4ea6fc7c328.png",
+      "date": "Jun 15, 2023",
+      "snippet": "We use Python's open() function to open the file and create a corresponding file object, f . ... write(\"\"\"A new line A second new line.",
+      "snippet_highlighted_words": [
+        "Python's",
+        "file",
+        "create",
+        "file",
+        "new",
+        "new"
+      ],
+      "source": "sentry.io"
+    },
+    {
+      "position": 43,
+      "title": "How to Create Text File in Python?",
+      "link": "https://www.itsolutionstuff.com/post/how-to-create-text-file-in-pythonexample.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.itsolutionstuff.com/post/how-to-create-text-file-in-pythonexample.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCJABEAE",
+      "displayed_link": "https://www.itsolutionstuff.com › post › how-to-create-t...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bc905e8b8c39d3f4e05e18a714b49b95c.png",
+      "date": "Oct 30, 2023",
+      "snippet": "# create a new text file code with open('readme.txt', 'w') as f: f ...",
+      "snippet_highlighted_words": [
+        "create a new",
+        "file"
+      ],
+      "source": "ItSolutionStuff.com"
+    },
+    {
+      "position": 44,
+      "title": "Handling Text Files in Python: How to Read from a File",
+      "link": "https://www.codecademy.com/article/handling-text-files-in-python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.codecademy.com/article/handling-text-files-in-python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCI8CEAE",
+      "displayed_link": "https://www.codecademy.com › article › handling-text-...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bd320bb2cdbffb73949090a27a5527e3a.png",
+      "snippet": "'x' (Exclusive Creation Mode): This mode allows a person to create a new file. If the file already exists, it raises a FileExistsError error. 'b' (Binary Mode): ...",
+      "snippet_highlighted_words": [
+        "create a new file",
+        "file"
+      ],
+      "source": "Codecademy"
+    },
+    {
+      "position": 45,
+      "title": "Python Write/Create Files",
+      "link": "https://www.tutlane.com/tutorial/python/python-write-create-files",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tutlane.com/tutorial/python/python-write-create-files&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCJ8BEAE",
+      "displayed_link": "https://www.tutlane.com › tutorial › python-write-create-...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b6796a7386464c50b3f3e1be428530291.png",
+      "snippet": "Create a New File. In python, you can create a file by using the open() method with x mode. Following is the example ...",
+      "snippet_highlighted_words": [
+        "Create a New File",
+        "python",
+        "create",
+        "file"
+      ],
+      "source": "Tutlane"
+    },
+    {
+      "position": 46,
+      "title": "Python Intro: Reading and Writing Text Files",
+      "link": "https://eldoyle.github.io/PythonIntro/08-ReadingandWritingTextFiles/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eldoyle.github.io/PythonIntro/08-ReadingandWritingTextFiles/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCKYBEAE",
+      "displayed_link": "https://eldoyle.github.io › PythonIntro › 08-Readingand...",
+      "snippet": "Writing new lines and numbers ... Go open and examine the file you just wrote. You will see that all of the numbers are written on the same line. Modify the code ...",
+      "snippet_highlighted_words": [
+        "new",
+        "file"
+      ],
+      "source": "GitHub Pages"
+    },
+    {
+      "position": 47,
+      "title": "An Ultimate Guide to Write a File in Python",
+      "link": "https://www.simplilearn.com/tutorials/python-tutorial/python-write-to-file",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.simplilearn.com/tutorials/python-tutorial/python-write-to-file&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCLoBEAE",
+      "displayed_link": "https://www.simplilearn.com › tutorials › python-tutorial",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bb0ce83430b65e932617daa21b7d0ecc6.png",
+      "date": "Sep 16, 2022",
+      "snippet": "The Python write to file in-built functions allow you to create, read, write, or append to different types of files.",
+      "snippet_highlighted_words": [
+        "Python",
+        "file",
+        "create"
+      ],
+      "source": "Simplilearn.com"
+    },
+    {
+      "position": 48,
+      "title": "Write to File in Python",
+      "link": "https://www.tutorialspoint.com/python/python_write_to_file.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tutorialspoint.com/python/python_write_to_file.htm&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECHAQAQ",
+      "displayed_link": "https://www.tutorialspoint.com › python › python_writ...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b6de7611cd8edfa79b27a65ca55ef31c1.png",
+      "snippet": "w (Write mode) − Opens the file for writing. If the file exists, it truncates (empties) the file before writing. If the file does not exist, it creates a new ...",
+      "snippet_highlighted_words": [
+        "file",
+        "file",
+        "file",
+        "file",
+        "creates a new"
+      ],
+      "source": "Tutorialspoint"
+    },
+    {
+      "position": 49,
+      "title": "Tutorial: How to Easily Read Files in Python (Text, CSV, ...",
+      "link": "https://www.dataquest.io/blog/read-file-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dataquest.io/blog/read-file-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECH0QAQ",
+      "displayed_link": "https://www.dataquest.io › blog › read-file-python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bb533eee032e8e202358e668cce023ce9.png",
+      "date": "Apr 7, 2025",
+      "snippet": "Python will start writing at the end of the file. 'x', Opens a file for exclusive creation. It will create a new file, but if a file with that ...",
+      "snippet_highlighted_words": [
+        "Python",
+        "start",
+        "file",
+        "file",
+        "create a new file",
+        "file"
+      ],
+      "source": "Dataquest"
+    },
+    {
+      "position": 50,
+      "title": "How to Create or Append to Log Files - Python Logging",
+      "link": "https://signoz.io/guides/python-logging-create-log-if-not-exists-or-open-and-continue-logging-if-it-does/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://signoz.io/guides/python-logging-create-log-if-not-exists-or-open-and-continue-logging-if-it-does/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCN4BEAE",
+      "displayed_link": "https://signoz.io › guides › python-logging-create-log-i...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b088ac4d6f5295ddf9f17d56e9d8e17ed.png",
+      "date": "Sep 5, 2024",
+      "snippet": "If the file already exists, it will be opened in append mode by default, ensuring that new log entries are added to the end of the file. Logger: ...",
+      "snippet_highlighted_words": [
+        "file",
+        "new",
+        "file"
+      ],
+      "source": "SigNoz"
+    },
+    {
+      "position": 51,
+      "title": "Python Read And Write File: With Examples",
+      "link": "https://python.land/operating-system/python-files",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://python.land/operating-system/python-files&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCOoBEAE",
+      "displayed_link": "https://python.land › operating-system › python-files",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bf151aec8820ff7787f1a14be57361bd0.png",
+      "date": "Jun 26, 2022",
+      "snippet": "Common Python file operations · Use Python to check if file exists · Use Python to check if a directory exists · Create a directory · Delete a file.",
+      "snippet_highlighted_words": [
+        "Python file",
+        "Python",
+        "file",
+        "Python",
+        "Create",
+        "file"
+      ],
+      "source": "Python Land"
+    },
+    {
+      "position": 52,
+      "title": "File Handling in Python: Create, Open, Append, Read, Write",
+      "link": "https://phoenixnap.com/kb/file-handling-in-python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://phoenixnap.com/kb/file-handling-in-python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCO8BEAE",
+      "displayed_link": "https://phoenixnap.com › ... › DevOps and Development",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b044ea66c29d427f028a9001f6c9d4a32.png",
+      "date": "Feb 24, 2022",
+      "snippet": "The read mode in Python opens an existing file for reading, positioning the pointer at the file's start. Note: If the file does not exist, ...",
+      "snippet_highlighted_words": [
+        "Python",
+        "file",
+        "file's start",
+        "file"
+      ],
+      "source": "phoenixNAP"
+    },
+    {
+      "position": 53,
+      "title": "Python File Handling Tutorial: How to Create, Open, Read, ...",
+      "link": "https://www.softwaretestinghelp.com/python/python-file-reading-writing/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.softwaretestinghelp.com/python/python-file-reading-writing/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECEMQAQ",
+      "displayed_link": "https://www.softwaretestinghelp.com › python › python...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b70bbcdaa2332d2c121f8b31ae42bf6e4.png",
+      "snippet": "As files are non-volatile in nature, the data will be stored permanently in a secondary device like Hard Disk and using python we will handle these files in our ...",
+      "snippet_highlighted_words": [
+        "python"
+      ],
+      "source": "Software Testing Help"
+    },
+    {
+      "position": 54,
+      "title": "Writing to File in Python",
+      "link": "https://www.scaler.com/topics/python/how-to-write-a-file-in-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scaler.com/topics/python/how-to-write-a-file-in-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCPgBEAE",
+      "displayed_link": "https://www.scaler.com › how-to-write-a-file-in-python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bf7c0d2ea650202b64daf8e528128aa54.png",
+      "date": "Nov 15, 2023",
+      "snippet": "Write and Read ('w+'): Enables reading and writing, with existing data truncated and overwritten. The handle is positioned at the start of the ...",
+      "snippet_highlighted_words": [
+        "start"
+      ],
+      "source": "Scaler"
+    },
+    {
+      "position": 55,
+      "title": "Packaging Python Projects",
+      "link": "https://packaging.python.org/tutorials/packaging-projects/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://packaging.python.org/tutorials/packaging-projects/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCIICEAE",
+      "displayed_link": "https://packaging.python.org › tutorials › packaging-proj...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b9c110be33021458c81ff4550e3551750.png",
+      "snippet": "... tutorial. We recommend following this tutorial as-is using this project, before packaging your own project. Create the following file structure locally:.",
+      "snippet_highlighted_words": [
+        "Create",
+        "file"
+      ],
+      "source": "Python Packaging User Guide"
+    },
+    {
+      "position": 56,
+      "title": "Python File Handling, Read File, Open File, Write ...",
+      "link": "https://jobtensor.com/Tutorial/Python/en/File-Handling",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jobtensor.com/Tutorial/Python/en/File-Handling&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCIsCEAE",
+      "displayed_link": "https://jobtensor.com › Tutorial › Python › File-Handling",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163beb3f6520d86e961f27093166a7aa111a.png",
+      "snippet": "File Handling - Python Advance · Open a File · Read Only Parts of the File · Write to an Existing File · Create a New File · Delete a File · Check if File exist.",
+      "snippet_highlighted_words": [
+        "File",
+        "Python",
+        "File",
+        "File",
+        "File",
+        "Create a New File",
+        "File",
+        "File"
+      ],
+      "source": "Jobtensor"
+    },
+    {
+      "position": 57,
+      "title": "How to Read Text File in Python?",
+      "link": "https://hackernoon.com/how-to-read-text-file-in-python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hackernoon.com/how-to-read-text-file-in-python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCIwCEAE",
+      "displayed_link": "https://hackernoon.com › how-to-read-text-file-in-python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bc27311188054ac29f97976a5afdd9993.png",
+      "date": "Oct 12, 2021",
+      "snippet": "Python will create a new file if does not exist or truncates a file content if the file exists ... file and returns in the form of a string.",
+      "snippet_highlighted_words": [
+        "Python",
+        "create a new file",
+        "file",
+        "file",
+        "file",
+        "form"
+      ],
+      "source": "HackerNoon"
+    },
+    {
+      "position": 58,
+      "title": "Reading and Writing Files in Python (Guide)",
+      "link": "https://realpython.com/read-write-files-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://realpython.com/read-write-files-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCJQCEAE",
+      "displayed_link": "https://realpython.com › read-write-files-python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b2ea91c9b446f3d8c3bfc6d5669bdb9e4.png",
+      "snippet": "One problem often encountered when working with file data is the representation of a new line or line ending. The line ending has its roots from back in the ...",
+      "snippet_highlighted_words": [
+        "file",
+        "new"
+      ],
+      "source": "Real Python"
+    },
+    {
+      "position": 59,
+      "title": "File Creating With Python Programming : 4 Steps",
+      "link": "https://www.instructables.com/File-Creating-With-Python-Programming/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instructables.com/File-Creating-With-Python-Programming/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCJICEAE",
+      "displayed_link": "https://www.instructables.com › Circuits › Software",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b7fc9f1812f34f2a5ea0ecf3162718e0c.png",
+      "snippet": "A Python Programming example of how to create a new text file and how to add data to an existing text file using Python.",
+      "snippet_highlighted_words": [
+        "Python",
+        "how to create a new",
+        "file",
+        "file",
+        "Python"
+      ],
+      "source": "Instructables"
+    },
+    {
+      "position": 60,
+      "title": "Write and Save Files in Python",
+      "link": "https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-2-WriteFile.ipynb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://colab.research.google.com/github/computationalcore/introduction-to-python/blob/master/notebooks/4-files/PY0101EN-4-2-WriteFile.ipynb&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCKcCEAE",
+      "displayed_link": "https://colab.research.google.com › notebooks › 4-files",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bc80e29e388ff26527bf59a1616025a0d.png",
+      "snippet": "... file in the Python Programming Language. ... The process is illustrated in the figure , the different colour coding of the grid represents a new line added to the ...",
+      "snippet_highlighted_words": [
+        "file",
+        "Python",
+        "new"
+      ],
+      "source": "Google Colab"
+    },
+    {
+      "position": 61,
+      "title": "Python in Visual Studio tutorial Step 1, create a project",
+      "link": "https://learn.microsoft.com/en-us/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-01-create-project?view=vs-2022",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.microsoft.com/en-us/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-01-create-project%3Fview%3Dvs-2022&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCN8BEAE",
+      "displayed_link": "https://learn.microsoft.com › en-us › tutorial-working-wi...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bd443c9dfb6afc483543d46995ea3169a.png",
+      "date": "Apr 18, 2024",
+      "snippet": "Create a new Python project · In Visual Studio, select File > New > Project to open the New Project dialog. · To view Python templates, select ...",
+      "snippet_highlighted_words": [
+        "Create a new Python",
+        "File",
+        "New",
+        "New",
+        "Python"
+      ],
+      "source": "Learn Microsoft"
+    },
+    {
+      "position": 62,
+      "title": "Python Tutorial - File and Text Processing",
+      "link": "https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/Python_FileText.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/Python_FileText.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCMwCEAE",
+      "displayed_link": "https://www3.ntu.edu.sg › ehchua › webprogramming",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b9d7c6b776095978aebb9cb8ca07f0a74.png",
+      "snippet": "open(file, [mode='r']) -> fileObj: Open the file and return a file object. The available modes are: 'r' (read-only) (default), 'w' (write - erase all contents ...",
+      "snippet_highlighted_words": [
+        "file",
+        "file",
+        "file"
+      ],
+      "source": "Nanyang Technological University - NTU Singapore"
+    },
+    {
+      "position": 63,
+      "title": "Python Write to File: A Guide",
+      "link": "https://careerkarma.com/blog/python-write-to-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://careerkarma.com/blog/python-write-to-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCLICEAE",
+      "displayed_link": "https://careerkarma.com › Blog › Python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163ba2f82db20ab11d579e49b02594a0d875.png",
+      "date": "Oct 22, 2020",
+      "snippet": "To do so, we can use the write() function. This adds the characters you specify to the end of a file. When you create a new file object, a new ...",
+      "snippet_highlighted_words": [
+        "file",
+        "create a new file",
+        "new"
+      ],
+      "source": "Career Karma"
+    },
+    {
+      "position": 64,
+      "title": "Write Text And Populate a New File From Template with Python",
+      "link": "https://pavolkutaj.medium.com/write-text-and-populate-a-new-file-from-template-with-python-165c2cad38ad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pavolkutaj.medium.com/write-text-and-populate-a-new-file-from-template-with-python-165c2cad38ad&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCMcCEAE",
+      "displayed_link": "4 likes · 4 years ago",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b39415ebd09c95c26cf70d3a5b22f3840.png",
+      "snippet": "1. open() · 2. write() · 3. usecase: populate a new file with a template for documentation · 4. sources.",
+      "snippet_highlighted_words": [
+        "new file"
+      ],
+      "source": "Medium · Pavol Kutaj"
+    },
+    {
+      "position": 65,
+      "title": "How to create a file in Python",
+      "link": "https://www.altcademy.com/blog/how-to-create-a-file-in-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.altcademy.com/blog/how-to-create-a-file-in-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCM4CEAE",
+      "displayed_link": "https://www.altcademy.com › blog › how-to-create-a-fil...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b93c061fa77789e68a1d9673f15cf116e.png",
+      "date": "Jun 13, 2023",
+      "snippet": "txt in \"write\" mode, which is represented by the letter \"w\". This means that we can write new data to the file. After opening the file, we store ...",
+      "snippet_highlighted_words": [
+        "new",
+        "file",
+        "file"
+      ],
+      "source": "Altcademy.com"
+    },
+    {
+      "position": 66,
+      "title": "Reading and Writing Files — Python Beginners documentation",
+      "link": "https://python-adv-web-apps.readthedocs.io/en/latest/working_with_files.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://python-adv-web-apps.readthedocs.io/en/latest/working_with_files.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCLACEAE",
+      "displayed_link": "https://python-adv-web-apps.readthedocs.io › latest › wo...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bf540c3c289654c3d69ff8f5ffe39b44d.png",
+      "snippet": "In the following example, first we write two new lines into a new file. ... To create a Python list from a file, use readlines() . Open and read a file ...",
+      "snippet_highlighted_words": [
+        "new",
+        "new file",
+        "create",
+        "Python",
+        "file",
+        "file"
+      ],
+      "source": "Read the Docs"
+    },
+    {
+      "position": 67,
+      "title": "Python Program to Append to a File",
+      "link": "https://docs.vultr.com/python/examples/append-to-a-file",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.vultr.com/python/examples/append-to-a-file&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECEQQAQ",
+      "displayed_link": "https://docs.vultr.com › Python › Examples",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bf32ec6f3eb6ca30fff014d18aba3ff9c.png",
+      "date": "Dec 6, 2024",
+      "snippet": "Basic Text Appending · Open the file in append mode by setting the mode to 'a' . If the file doesn't exist, Python creates it. · Use the write() ...",
+      "snippet_highlighted_words": [
+        "file",
+        "file",
+        "Python creates"
+      ],
+      "source": "Vultr Docs"
+    },
+    {
+      "position": 68,
+      "title": "Getting Started with Python Programming for Windows Users",
+      "link": "https://www.cs.utexas.edu/~mitra/bytes/start.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.utexas.edu/~mitra/bytes/start.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECEgQAQ",
+      "displayed_link": "https://www.cs.utexas.edu › ~mitra › bytes › start",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b6d02ad470179c70be47f2e6c974abab6.png",
+      "snippet": "Writing Your First Python Program · Go to File and click on Save as. · In the field Save in browse for the C: drive and then select the folder PythonPrograms.",
+      "snippet_highlighted_words": [
+        "Python",
+        "File",
+        "PythonPrograms"
+      ],
+      "source": "University of Texas at Austin"
+    },
+    {
+      "position": 69,
+      "title": "How to create a file in Python",
+      "link": "https://labex.io/tutorials/python-how-to-create-a-file-in-python-397968",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://labex.io/tutorials/python-how-to-create-a-file-in-python-397968&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECEcQAQ",
+      "displayed_link": "https://labex.io › tutorials › python-how-to-create-a-file-i...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b5ae4d77f01693bd76d6d5da33ea06fe2.png",
+      "snippet": "Python provides several built-in functions for creating files. The most commonly used function is open() , which allows you to open a file in a specific mode ...",
+      "snippet_highlighted_words": [
+        "Python",
+        "for creating",
+        "file"
+      ],
+      "source": "LabEx"
+    },
+    {
+      "position": 70,
+      "title": "Python Directory and Files Management (With Examples)",
+      "link": "https://www.programiz.com/python-programming/directory",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.programiz.com/python-programming/directory&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECFkQAQ",
+      "displayed_link": "https://www.programiz.com › python-programming › d...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b6155b0e58edbb2a9a12f8bb458badfc5.png",
+      "snippet": "Making a New Directory in Python ... In Python, we can make a new directory using the mkdir() method. This method takes in the path of the new directory. If the ...",
+      "snippet_highlighted_words": [
+        "Making a New",
+        "Python",
+        "Python",
+        "new",
+        "new"
+      ],
+      "source": "Programiz"
+    },
+    {
+      "position": 71,
+      "title": "Writing to a File - Python Cookbook [Book]",
+      "link": "https://www.oreilly.com/library/view/python-cookbook/0596001673/ch04s03.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oreilly.com/library/view/python-cookbook/0596001673/ch04s03.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCNYBEAE",
+      "displayed_link": "https://www.oreilly.com › library › view › python-cook...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b66a4deb167000cf83decd9ca246898f1.png",
+      "snippet": "To create a file object for writing, you must always pass a second argument to open —either 'w' to write textual data, or 'wb' to write binary data ...",
+      "snippet_highlighted_words": [
+        "create",
+        "file"
+      ],
+      "source": "O'Reilly Media"
+    },
+    {
+      "position": 72,
+      "title": "How To Create A New Text File (.txt) | Intro To Python",
+      "link": "https://www.youtube.com/watch?v=s101SvwRmA4",
+      "displayed_link": "390+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFI80PMW_1QtigzYJ7x1NGhRnXGc1Z3o4eP-JcLFn3VUQl&s",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b600bdd5bc5549bed42c14ef5556e1f79.png",
+      "snippet": "How To Create A New Text File (.txt) | Intro To Python. 396 views · 4 years ago ...more. danzafut. 1.28K. Subscribe.",
+      "duration": "5:34",
+      "source": "YouTube · danzafut"
+    },
+    {
+      "position": 73,
+      "title": "File Objects — h5py 3.14.0 documentation",
+      "link": "https://docs.h5py.org/en/stable/high/file.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.h5py.org/en/stable/high/file.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECHIQAQ",
+      "displayed_link": "https://docs.h5py.org › stable › high › file",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b084989236287428eae516d8332176db7.png",
+      "snippet": "When using a Python file-like object for an HDF5 file, make sure to close ... Open or create a new file. Note that in addition to the File -specific ...",
+      "snippet_highlighted_words": [
+        "Python file",
+        "file",
+        "create a new file",
+        "File"
+      ],
+      "source": "H5py"
+    },
+    {
+      "position": 74,
+      "title": "How to Create and Run a Python Script with Terminal ...",
+      "link": "https://www.jcchouinard.com/create-python-script-from-terminal/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jcchouinard.com/create-python-script-from-terminal/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCM8BEAE",
+      "displayed_link": "https://www.jcchouinard.com › create-python-script-fro...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b4b3e3aefd0357691e05914f2e0007989.jpeg",
+      "date": "Apr 4, 2025",
+      "snippet": "You can create a Python file by typing “vim” along with the file name in the Terminal. For example, you can create a new Python file called “hello.py” by ...",
+      "snippet_highlighted_words": [
+        "create",
+        "Python file",
+        "file",
+        "create a new Python file"
+      ],
+      "source": "JC Chouinard"
+    },
+    {
+      "position": 75,
+      "title": "Python - Read and Write Files",
+      "link": "https://www.tutorialsteacher.com/python/python-read-write-file",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tutorialsteacher.com/python/python-read-write-file&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCMABEAE",
+      "displayed_link": "https://www.tutorialsteacher.com › python › python-read...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bd015ede35ef5be71bb58e8b769232323.png",
+      "snippet": "Create a new File and Write ... The following creates a new file if it does not exist or overwrites to an existing file. ... In the above example, the f=open(\" ...",
+      "snippet_highlighted_words": [
+        "Create a new File",
+        "creates a new file",
+        "file"
+      ],
+      "source": "TutorialsTeacher"
+    },
+    {
+      "position": 76,
+      "title": "How to Copy a File in Python",
+      "link": "https://builtin.com/data-science/copy-a-file-with-python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://builtin.com/data-science/copy-a-file-with-python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECG8QAQ",
+      "displayed_link": "https://builtin.com › data-science › copy-a-file-with-pyth...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bb22a3590b5dac0247b63da976f852179.png",
+      "date": "Mar 25, 2025",
+      "snippet": "Copy file example.txt into a new file called example_copy.txt shutil. ... Using copy() can be helpful for creating a new object with the same ...",
+      "snippet_highlighted_words": [
+        "file",
+        "new file",
+        "for creating a new"
+      ],
+      "source": "Built In"
+    },
+    {
+      "position": 77,
+      "title": "Python: How to read and write files",
+      "link": "https://thepythonguru.com/python-how-to-read-and-write-files/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thepythonguru.com/python-how-to-read-and-write-files/index.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECHEQAQ",
+      "displayed_link": "https://thepythonguru.com › python-how-to-read-and-...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163be6960923ed20b97dac3f6670c0773b64.png",
+      "date": "Jan 7, 2020",
+      "snippet": "Open the file in append mode i.e add new data to the end of the file. ... Python will automatically create the file for you. If the file ...",
+      "snippet_highlighted_words": [
+        "file",
+        "new",
+        "file",
+        "Python",
+        "create",
+        "file",
+        "file"
+      ],
+      "source": "ThePythonGuru.com"
+    },
+    {
+      "position": 78,
+      "title": "Create a requirements.txt file",
+      "link": "https://docs.posit.co/connect-cloud/how-to/python/dependencies.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.posit.co/connect-cloud/how-to/python/dependencies.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECFwQAQ",
+      "displayed_link": "https://docs.posit.co › how-to › python › dependencies",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b99cd529341e452f89afb140620484792.png",
+      "snippet": "A dependency file is required to let Connect Cloud know which Python packages to include in a given deployment.",
+      "snippet_highlighted_words": [
+        "file",
+        "Python"
+      ],
+      "source": "Posit Docs"
+    },
+    {
+      "position": 79,
+      "title": "How to Move Files in Python: Single and Multiple ...",
+      "link": "https://www.learndatasci.com/solutions/python-move-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.learndatasci.com/solutions/python-move-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECF0QAQ",
+      "displayed_link": "https://www.learndatasci.com › solutions › python-mov...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b586c11016699a74a847cbdb14d7fc815.png",
+      "snippet": "In cases where the original file is protected, shutil.move() will create a copy of the file in the new location, but Python will be unable to delete the ...",
+      "snippet_highlighted_words": [
+        "file",
+        "create",
+        "file",
+        "new",
+        "Python"
+      ],
+      "source": "LearnDataSci"
+    },
+    {
+      "position": 80,
+      "title": "os — Miscellaneous operating system interfaces",
+      "link": "https://docs.python.org/3/library/os.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.python.org/3/library/os.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCKACEAE",
+      "displayed_link": "https://docs.python.org › library",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b1923faf9a0f8219a22400efc540bf56e.png",
+      "snippet": "File Object Creation¶. These functions create new file objects. (See also open() for opening file descriptors.) os.fdopen(fd, *args, **kwargs)¶. Return an ...",
+      "snippet_highlighted_words": [
+        "File",
+        "create new file",
+        "file"
+      ],
+      "source": "Python documentation"
+    },
+    {
+      "position": 81,
+      "title": "Python in the Terminal - Pythia Foundations",
+      "link": "https://foundations.projectpythia.org/foundations/terminal.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://foundations.projectpythia.org/foundations/terminal.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCIYBEAE",
+      "displayed_link": "https://foundations.projectpythia.org › foundations › ter...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b0ac793fb7d97cdee0a071d100d2d8ca9.png",
+      "snippet": "Activate your Conda environment: · Create a directory to store our work. · Go into the directory: · Create a new Python file: · And now that you've set up our ...",
+      "snippet_highlighted_words": [
+        "Create",
+        "Create a new Python file",
+        "set up"
+      ],
+      "source": "Project Pythia Foundations"
+    },
+    {
+      "position": 82,
+      "title": "Create an Empty File Using Python",
+      "link": "https://www.tutorialspoint.com/How-to-create-an-empty-file-using-Python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tutorialspoint.com/How-to-create-an-empty-file-using-Python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCIsBEAE",
+      "displayed_link": "https://www.tutorialspoint.com › How-to-create-an-emp...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b6fcf44becd401055dffcb4c4d93ca399.png",
+      "date": "May 15, 2025",
+      "snippet": "The open() function is the most straightforward way to create an empty file. When we use the write mode 'w', then it creates a new file if it ...",
+      "snippet_highlighted_words": [
+        "create",
+        "file",
+        "creates a new file"
+      ],
+      "source": "Tutorialspoint"
+    },
+    {
+      "position": 83,
+      "title": "Adding Python files | DataSpell Documentation",
+      "link": "https://www.jetbrains.com/help/dataspell/populating-projects.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jetbrains.com/help/dataspell/populating-projects.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCKkCEAE",
+      "displayed_link": "https://www.jetbrains.com › Python › Add a Python file",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b8a40112b841c2bbc0b86049e50823406.png",
+      "date": "Feb 27, 2025",
+      "snippet": "In the Workspace tool window ( Alt 01 ), select the directory in which you want to create a new file, and then choose File | New from the main ...",
+      "snippet_highlighted_words": [
+        "create a new file",
+        "File",
+        "New"
+      ],
+      "source": "JetBrains"
+    },
+    {
+      "position": 84,
+      "title": "Exclusively create a file in Python 3",
+      "link": "https://alexwlchan.net/2016/exclusive-create-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alexwlchan.net/2016/exclusive-create-python/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCI0BEAE",
+      "displayed_link": "https://alexwlchan.net › exclusive-create-python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b1f5d4484f7622979a6e83996dcf31765.jpeg",
+      "date": "Mar 27, 2016",
+      "snippet": "If you want to create a file, but only if it doesn't already exist, Python 3 has a helpful new file mode `x`.",
+      "snippet_highlighted_words": [
+        "create",
+        "file",
+        "Python",
+        "new file"
+      ],
+      "source": "alexwlchan"
+    },
+    {
+      "position": 85,
+      "title": "Python Program to Write List to File",
+      "link": "https://www.scaler.com/topics/python-write-list-to-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scaler.com/topics/python-write-list-to-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCJECEAE",
+      "displayed_link": "https://www.scaler.com › topics › python-write-list-to-file",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b19673cd39eef8e46395ac6c47bb1c5a8.png",
+      "date": "May 3, 2023",
+      "snippet": "How to Write List to File in Python · Open a text file in write mode · Write current items from the list into the text file · Close the file after ...",
+      "snippet_highlighted_words": [
+        "File",
+        "Python",
+        "file",
+        "file",
+        "file"
+      ],
+      "source": "Scaler"
+    },
+    {
+      "position": 86,
+      "title": "Writing To File In Python",
+      "link": "https://flexiple.com/python/writing-file-python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://flexiple.com/python/writing-file-python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCJoBEAE",
+      "displayed_link": "https://flexiple.com › python › writing-file-python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b131fef50f1d86ce398c3a93095e2b627.png",
+      "date": "Mar 8, 2024",
+      "snippet": "You use the open() function, specifying the file path and 'w' mode for writing. If the file does not exist, Python creates it for you. For ...",
+      "snippet_highlighted_words": [
+        "file",
+        "file",
+        "Python creates"
+      ],
+      "source": "Flexiple"
+    },
+    {
+      "position": 87,
+      "title": "How To Handle Plain Text Files in Python 3",
+      "link": "https://www.digitalocean.com/community/tutorials/how-to-handle-plain-text-files-in-python-3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.digitalocean.com/community/tutorials/how-to-handle-plain-text-files-in-python-3&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCKEBEAE",
+      "displayed_link": "https://www.digitalocean.com › community › tutorials",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b5a77568079f17f489d368cfbee5f3f55.png",
+      "date": "Jul 12, 2022",
+      "snippet": "Before we can begin working in Python, we need to make sure we have a file to work with. To do this, open your code editor and create a new ...",
+      "snippet_highlighted_words": [
+        "Python",
+        "file",
+        "create a new"
+      ],
+      "source": "DigitalOcean"
+    },
+    {
+      "position": 88,
+      "title": "File handling in Python – Complete Guide",
+      "link": "https://codedamn.com/news/python/file-handling-in-python-complete-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://codedamn.com/news/python/file-handling-in-python-complete-guide&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCKABEAE",
+      "displayed_link": "https://codedamn.com › Python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b35ca68458cf528441b76738b4e64cb51.png",
+      "date": "Jan 2, 2023",
+      "snippet": "Now that we know the different access modes, let's talk about how we can create a file in Python. To do this, we will use the built-in open() ...",
+      "snippet_highlighted_words": [
+        "create",
+        "file",
+        "Python"
+      ],
+      "source": "Codedamn"
+    },
+    {
+      "position": 89,
+      "title": "How to Overwrite a File in Python? (5 Best Methods with ...",
+      "link": "https://favtutor.com/blogs/overwrite-file-python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://favtutor.com/blogs/overwrite-file-python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCKkBEAE",
+      "displayed_link": "https://favtutor.com › blogs › overwrite-file-python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b47286c6ffc3fa616d4f33212084e34f1.png",
+      "date": "Oct 19, 2022",
+      "snippet": "It is used to write in a file. (This creates a new file if the file doesn't exist). This overwrites on an existing file. 4. Write & Read ...",
+      "snippet_highlighted_words": [
+        "file",
+        "creates a new file",
+        "file",
+        "file"
+      ],
+      "source": "FavTutor"
+    },
+    {
+      "position": 90,
+      "title": "Python files (.py)",
+      "link": "https://pythonsupport.dtu.dk/learn-more/vscode/python-script.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pythonsupport.dtu.dk/learn-more/vscode/python-script.html&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCKgBEAE",
+      "displayed_link": "https://pythonsupport.dtu.dk › learn-more › vscode › pyt...",
+      "snippet": "Press the File button in the top left corner of VS Code. Select New File ‣ Python File from the menu that drops down. IDLE Shell. MacOS. Press the File button ...",
+      "snippet_highlighted_words": [
+        "File",
+        "New File",
+        "Python File",
+        "File"
+      ],
+      "source": "Python support DTU"
+    },
+    {
+      "position": 91,
+      "title": "Create and Modify PDF Files in Python",
+      "link": "https://realpython.com/creating-modifying-pdf/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://realpython.com/creating-modifying-pdf/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCK0BEAE",
+      "displayed_link": "https://realpython.com › creating-modifying-pdf",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b0c0a195ee6a3a5e965f63c25927996da.png",
+      "date": "Jan 19, 2025",
+      "snippet": "You can read, manipulate, and create PDF files using these tools. pypdf lets you extract text, split, merge, rotate, crop, encrypt, and decrypt PDFs.",
+      "snippet_highlighted_words": [
+        "create"
+      ],
+      "source": "Real Python"
+    },
+    {
+      "position": 92,
+      "title": "How to Use Python's Pathlib (with Examples)",
+      "link": "https://www.datacamp.com/tutorial/comprehensive-tutorial-on-using-pathlib-in-python-for-file-system-manipulation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.datacamp.com/tutorial/comprehensive-tutorial-on-using-pathlib-in-python-for-file-system-manipulation&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCLgBEAE",
+      "displayed_link": "https://www.datacamp.com › Tutorials › Python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b1e9e45a880bcfbc13750d8c4c3b5d248.png",
+      "date": "May 22, 2024",
+      "snippet": "Existing Path objects can serve as building blocks for creating new paths. We do this by combining a base path, a data directory, and a file ...",
+      "snippet_highlighted_words": [
+        "for creating new",
+        "file"
+      ],
+      "source": "DataCamp"
+    },
+    {
+      "position": 93,
+      "title": "How to Write to Text File in Python",
+      "link": "https://www.pythontutorial.net/python-basics/python-write-text-file/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pythontutorial.net/python-basics/python-write-text-file/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECGsQAQ",
+      "displayed_link": "https://www.pythontutorial.net › Python Basics",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bbbc6550499beb9dd17230744adfb49d4.png",
+      "snippet": "If the readme.txt file doesn't exist, the open() function will create a new file. The following shows how to write ...",
+      "snippet_highlighted_words": [
+        "file",
+        "create a new file"
+      ],
+      "source": "pythontutorial.net"
+    },
+    {
+      "position": 94,
+      "title": "How can I create a new file in Python",
+      "link": "https://www.edureka.co/community/558/how-can-i-create-a-new-file-in-python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.edureka.co/community/558/how-can-i-create-a-new-file-in-python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECHMQAQ",
+      "displayed_link": "https://www.edureka.co › ... › Categories › Python",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b35ace1e6f4f2538a4ba9314ec24a8605.png",
+      "date": "Mar 31, 2018",
+      "snippet": "You can try the below code which creates the new file with \"write\" acccess. import sys def WriteFile(): name = input('Enter name of the ...",
+      "snippet_highlighted_words": [
+        "creates",
+        "new file"
+      ],
+      "source": "edureka.co"
+    },
+    {
+      "position": 95,
+      "title": "How to create multiple text files in Python",
+      "link": "https://www.quora.com/How-do-I-create-multiple-text-files-in-Python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/How-do-I-create-multiple-text-files-in-Python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCLwBEAE",
+      "displayed_link": "6 answers · 3 years ago",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b6bb19b679226337f1d23dbc4a1c1b70a.png",
+      "snippet": "To create multiple text files in Python, you can use a loop to iterate over a list of file names and create a new file using the ”open()“ ...",
+      "snippet_highlighted_words": [
+        "create",
+        "Python",
+        "file",
+        "create a new file"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 96,
+      "title": "Create Python project from existing code in Visual Studio",
+      "link": "https://learn.microsoft.com/en-us/visualstudio/python/quickstart-01-python-in-visual-studio-project-from-existing-code?view=vs-2022",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.microsoft.com/en-us/visualstudio/python/quickstart-01-python-in-visual-studio-project-from-existing-code%3Fview%3Dvs-2022&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECDgQAQ",
+      "displayed_link": "https://learn.microsoft.com › en-us › quickstart-01-pytho...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b5b2cab1ea0aad13c6b8a20999a454fcf.png",
+      "date": "Apr 18, 2024",
+      "snippet": "In the Create New Project from Existing Python Code wizard, set the Folder path to your existing code, set a Filter for file types, and specify ...",
+      "snippet_highlighted_words": [
+        "Create New",
+        "Python",
+        "file"
+      ],
+      "source": "Learn Microsoft"
+    },
+    {
+      "position": 97,
+      "title": "Chapter 10 – Organizing Files",
+      "link": "https://automatetheboringstuff.com/2e/chapter10/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://automatetheboringstuff.com/2e/chapter10/&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoECDcQAQ",
+      "displayed_link": "https://automatetheboringstuff.com › chapter10",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b0d1b9067cd896f79535df788e406f3f7.png",
+      "snippet": "In the previous chapter, you learned how to create and write to new files in Python. ... This code will create a new ZIP file named new.zip that has the ...",
+      "snippet_highlighted_words": [
+        "how to create",
+        "new",
+        "Python",
+        "create a new",
+        "file",
+        "new"
+      ],
+      "source": "Automate the Boring Stuff"
+    },
+    {
+      "position": 98,
+      "title": "How to Modify a Text File in Python",
+      "link": "https://www.askpython.com/python/built-in-methods/modify-text-file-python",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.askpython.com/python/built-in-methods/modify-text-file-python&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCLsBEAE",
+      "displayed_link": "https://www.askpython.com › python › built-in-methods",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163be923dbe921407326ebf6d80aad477aac.png",
+      "date": "May 19, 2023",
+      "snippet": "Allows both write and read and if the file doesn't exist the new file is created with the same name. ... Let's create a text file and write some ...",
+      "snippet_highlighted_words": [
+        "file",
+        "new file",
+        "create",
+        "file"
+      ],
+      "source": "AskPython"
+    },
+    {
+      "position": 99,
+      "title": "Getting Started with Python in VS Code",
+      "link": "https://code.visualstudio.com/docs/python/python-tutorial",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://code.visualstudio.com/docs/python/python-tutorial&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCKsCEAE",
+      "displayed_link": "https://code.visualstudio.com › python › python-tutorial",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163bc3a546e49e575ac461d65f9fee959b0e.png",
+      "snippet": "Note: The File Explorer toolbar also allows you to create folders within your workspace to better organize your code. You can use the New folder button to ...",
+      "snippet_highlighted_words": [
+        "File",
+        "create",
+        "New"
+      ],
+      "source": "Visual Studio Code"
+    },
+    {
+      "position": 100,
+      "title": "Python File Operation (With Examples)",
+      "link": "https://www.programiz.com/python-programming/file-operation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.programiz.com/python-programming/file-operation&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQFnoFCOkBEAE",
+      "displayed_link": "https://www.programiz.com › python-programming › f...",
+      "favicon": "https://serpapi.com/searches/685def92a204ab982552f227/images/a8858588fbd3cb6d4f3cc6c77544163b297ec88e10e5a0d5fef5d22c00b24391.png",
+      "snippet": "In Python, we need to open a file first to perform any operations on it—we use the open() function to do so. Let's look at an example: Suppose we have a file ...",
+      "snippet_highlighted_words": [
+        "Python",
+        "file",
+        "file"
+      ],
+      "source": "Programiz"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How to create a new file with python w3schools",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+to+create+a+new+file+with+python+w3schools&sa=X&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+create+a+new+file+with+python+w3schools"
+    },
+    {
+      "block_position": 1,
+      "query": "How to create a text file in Python",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+to+create+a+text+file+in+Python&sa=X&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+create+a+text+file+in+Python"
+    },
+    {
+      "block_position": 1,
+      "query": "Python create file if not exists",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Python+create+file+if+not+exists&sa=X&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Python+create+file+if+not+exists"
+    },
+    {
+      "block_position": 1,
+      "query": "Python create and write to file",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Python+create+and+write+to+file&sa=X&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Python+create+and+write+to+file"
+    },
+    {
+      "block_position": 1,
+      "query": "File handling in Python",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=File+handling+in+Python&sa=X&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=File+handling+in+Python"
+    },
+    {
+      "block_position": 1,
+      "query": "How to write to a file in Python",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+to+write+to+a+file+in+Python&sa=X&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+write+to+a+file+in+Python"
+    },
+    {
+      "block_position": 1,
+      "query": "Python write to file line by line",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Python+write+to+file+line+by+line&sa=X&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Python+write+to+file+line+by+line"
+    },
+    {
+      "block_position": 1,
+      "query": "Python create text file in directory",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Python+create+text+file+in+directory&sa=X&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Python+create+text+file+in+directory"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+to+create+a+new+file+with+python&num=100&sca_esv=243755e6b8237819&gl=us&hl=en&ei=lu9daNLZL7r4i-gPzOrJ2Ak&start=100&sa=N&sstk=Ac65TH6W5Va5aULkUN1fhg7WI9gXOknz7CeHQluo1jm5TduKq9AokdLqOrLsLKYL0TtogclWF1uwxKZBp4PmYdrvDHWNG-t76gTo2w&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQ8NMDegQICRAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+to+create+a+new+file+with+python&num=100&sca_esv=243755e6b8237819&gl=us&hl=en&ei=lu9daNLZL7r4i-gPzOrJ2Ak&start=100&sa=N&sstk=Ac65TH6W5Va5aULkUN1fhg7WI9gXOknz7CeHQluo1jm5TduKq9AokdLqOrLsLKYL0TtogclWF1uwxKZBp4PmYdrvDHWNG-t76gTo2w&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=how+to+create+a+new+file+with+python&num=100&sca_esv=243755e6b8237819&gl=us&hl=en&ei=lu9daNLZL7r4i-gPzOrJ2Ak&start=200&sa=N&sstk=Ac65TH6W5Va5aULkUN1fhg7WI9gXOknz7CeHQluo1jm5TduKq9AokdLqOrLsLKYL0TtogclWF1uwxKZBp4PmYdrvDHWNG-t76gTo2w&ved=2ahUKEwjS_NnItZCOAxU6_AIHHUx1EpsQ8tMDegQICRAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+create+a+new+file+with+python&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+create+a+new+file+with+python&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+create+a+new+file+with+python&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+create+a+new+file+with+python&start=200"
+    }
+  }
+}

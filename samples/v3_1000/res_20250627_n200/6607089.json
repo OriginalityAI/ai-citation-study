@@ -1,0 +1,2094 @@
+{
+  "search_metadata": {
+    "id": "685df71d55ba65e190b29d5e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3af44b6c767f8bcf/685df71d55ba65e190b29d5e.json",
+    "created_at": "2025-06-27 01:42:53 UTC",
+    "processed_at": "2025-06-27 01:42:53 UTC",
+    "google_url": "https://www.google.com/search?q=how+to+calculate+the+dew+point&oq=how+to+calculate+the+dew+point&hl=en&gl=us&num=200&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3af44b6c767f8bcf/685df71d55ba65e190b29d5e.html",
+    "total_time_taken": 1.31
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how to calculate the dew point",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "200",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how to calculate the dew point",
+    "total_results": 6020000,
+    "time_taken_displayed": 0.46,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "questions_and_answers": [
+    {
+      "link": "https://www.reddit.com/r/explainlikeimfive/comments/14o0zen/eli5_how_does_the_dew_point_work/",
+      "source": "Reddit",
+      "question": "ELI5: how does the dew point work?",
+      "answer": "Relative humidity is also temperature dependent! If you cool down the same cube of air, RH goes up! Convert it to absolute humidity (you need temperature, RH and pressure), then convert it back to RH at the lower temperature. You'll see that the result is at/above 100% - water is gonna drop out of the air.",
+      "votes": 13
+    },
+    {
+      "link": "https://www.reddit.com/r/meteorology/comments/jhvpuj/can_you_calculate_dew_point_or_air_temp_with_just/",
+      "source": "Reddit",
+      "question": "Can you calculate dew point or air temp with just the relative humidity?",
+      "answer": "No it's not. Like someone said, you need either the dewpoint or ambient temperature. You can calculate the water vapor values for either from a Skew-T. There's a certain formula you can use, which I'll link below. actual water vapor (dew point)/ water vapor storage capacity (ambient temperature) = RH Get one of those and do algebra More info: https://www.weather.gov/media/epz/wxcalc/vaporPressure.pdf",
+      "votes": 3
+    },
+    {
+      "link": "https://brainly.com/question/46520144",
+      "source": "Brainly",
+      "question": "Is there an equation that calculates the dew point without needing to know the relative humidity? Or is there one that calculates the relative humidity without needing the dew point and actual water vapor pressure?",
+      "answer": "Final Answer: The dew point can be calculated using reference tables that match the actual water vapor density to temperatures. Relative humidity may require known saturation vapor pressures, which can be derived from temperature. Both measurements are linked through the concepts of saturation and actual vapor densities. ; Explanation: To calculate the dew point without knowing the relative humidity, one common method is to utilize a reference table that shows the relationship between the air temperature and the saturation vapor density of water. Using Vapor Density : If you know the actual amount of water vapor in the air (measured in grams per cubic meter), you can compare this value to the saturation vapor densities at various temperatures taken from a reference table. The dew point is the temperature at which the actual water vapor density equals the saturation vapor density, meaning the air would be saturated. Example Calculation : For instance, if the air contains 9.40 g/m³ of …",
+      "votes": 0
+    },
+    {
+      "link": "https://www.researchgate.net/post/Calculating_Relative_Humidity_Using_2-Meter_Dew_Point_Temperature_and_Air_Temperature",
+      "source": "ResearchGate",
+      "question": "Hi everyone, I'm trying to calculate the relative humidity using the 2-meter dew point temperature and the air temperature. I know the dew point temperature at 2 meters above the surface is a measure of the humidity of the air, and combined with temperature and pressure, it can be used to calculate relative humidity. The dew point temperature is calculated by interpolating between the lowest model level and the Earth's surface, considering the atmospheric conditions. This is from the overview of ERA5-Land hourly data. Here’s what I understand so far: - Dew point temperature (in °C) can be converted from Kelvin by subtracting 273.15. - I need to calculate the actual vapor pressure (e_d) and the saturation vapor pressure (e_s) using the following formulas: - e_d = 6.11 * 10 ^ (7.5 * T_d / (237.3 + T_d)) - e_s = 6.11 * 10 ^ (7.5 * T / (237.3 + T)) - Then, the relative humidity (RH) can be calculated as: - RH = 100 * (e_d / e_s) Could someone confirm if this approach is correct, or suggest any adjustments? Additionally, are there any considerations or common pitfalls I should be aware of when using these calculations? Thanks in advance for your help!",
+      "answer": "There is a very useful package in R called Humidity. here is a link to it https://cran.r-project.org/web/packages/humidity/humidity.pdf. You would only need mean temperature and due temperature to parametize it. Best.",
+      "votes": 0
+    }
+  ],
+  "inline_images": [
+    {
+      "thumbnail": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/ced96fcb21391cb13ffd0cc57eb5b831e64ceae3bf53655eb91b9f2b7bbc8e83.jpeg"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the formula for calculating dew point?",
+      "snippet": "Td = T - ((100 - RH)/5.) where Td is dew point temperature (in degrees Celsius), T is observed temperature (in degrees Celsius), and RH is relative humidity (in percent). Apparently this relationship is fairly accurate for relative humidity values above 50%.",
+      "title": "How do I calculate dew point? - Climate Data Library",
+      "link": "https://iridl.ldeo.columbia.edu/dochelp/QA/Basic/dewpoint.html#:~:text=Td%20%3D%20T%20%2D%20((100%20%2D,relative%20humidity%20values%20above%2050%25.",
+      "displayed_link": "https://iridl.ldeo.columbia.edu › dochelp › Basic › dew...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlpWRkJYMTl4YkRkUmIxQkZPRWxmUTBwNWRWUlRWbkZYWldKWFNWVkhiVmx0TURVM2FrUllUMUZHZEZKWVVEQnpVRUZFVlUxWlFYUmtXVVExVGxwelEyaG9VV05RVldoclEzUm1kbGhhY1hwRFpEaEVYemxSVkRWVVFSSVhTR1prWkdGS2NYbE1ZMWgwYVMxblVHbG1VRzl6VVRRYUlrRkdUVUZIUjNGd2FIUkNVa3hLVEVZMmN6Vm9hRWhLTUdZM2NFSnhUSFEwUVZFIiwiZmN2IjoiMyIsImVpIjoiSGZkZGFKcXlMY1h0aS1nUGlmUG9zUTQiLCJxYyI6IkNoNW9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElIUm9aU0JrWlhjZ2NHOXBiblFRQUgyRklRa18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGZvcm11bGEgZm9yIGNhbGN1bGF0aW5nIGRldyBwb2ludD8iLCJsayI6ImM1UFNMYzlJTEZISUxGWW95VWhWU01zdnlpM05TUVRSQ3NtSk9jbEFka2xtWHJwQ1NtcTVRa0YtWmw0SkFBIiwiYnMiOiJjLU5LNGRJTHowZ3NVY2dzVmlqSlNGVkl5eV9LTGMxSkJORUt5WWs1eVVCMlNXWmV1a0pLYXJsQ1FYNW1Yb205eEJZZEkzMHAzWEpTTkhGNWNDbDQ1SmNESmZNVVBCVnlVeE9MUzR0U3dWcVJ6RzBSTTFLVWtzLUFLc3ZFcm96TGdVc0oyYjF3Q2JEbEthVzV1Wm1weGZZU0cyeU14S1ZFc1VweUdYRkpZemVocURRbjFWNWlrYmFSZ0JRZnFxZ0FJd0EiLCJpZCI6ImZjX0hmZGRhSnF5TGNYdGktZ1BpZlBvc1E0XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlpWRkJYMTl4YkRkUmIxQkZPRWxmUTBwNWRWUlRWbkZYWldKWFNWVkhiVmx0TURVM2FrUllUMUZHZEZKWVVEQnpVRUZFVlUxWlFYUmtXVVExVGxwelEyaG9VV05RVldoclEzUm1kbGhhY1hwRFpEaEVYemxSVkRWVVFSSVhTR1prWkdGS2NYbE1ZMWgwYVMxblVHbG1VRzl6VVRRYUlrRkdUVUZIUjNGd2FIUkNVa3hLVEVZMmN6Vm9hRWhLTUdZM2NFSnhUSFEwUVZFIiwiZmN2IjoiMyIsImVpIjoiSGZkZGFKcXlMY1h0aS1nUGlmUG9zUTQiLCJxYyI6IkNoNW9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElIUm9aU0JrWlhjZ2NHOXBiblFRQUgyRklRa18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGZvcm11bGEgZm9yIGNhbGN1bGF0aW5nIGRldyBwb2ludD8iLCJsayI6ImM1UFNMYzlJTEZISUxGWW95VWhWU01zdnlpM05TUVRSQ3NtSk9jbEFka2xtWHJwQ1NtcTVRa0YtWmw0SkFBIiwiYnMiOiJjLU5LNGRJTHowZ3NVY2dzVmlqSlNGVkl5eV9LTGMxSkJORUt5WWs1eVVCMlNXWmV1a0pLYXJsQ1FYNW1Yb205eEJZZEkzMHAzWEpTTkhGNWNDbDQ1SmNESmZNVVBCVnlVeE9MUzR0U3dWcVJ6RzBSTTFLVWtzLUFLc3ZFcm96TGdVc0oyYjF3Q2JEbEthVzV1Wm1weGZZU0cyeU14S1ZFc1VweUdYRkpZemVocURRbjFWNWlrYmFSZ0JRZnFxZ0FJd0EiLCJpZCI6ImZjX0hmZGRhSnF5TGNYdGktZ1BpZlBvc1E0XzEifQ%3D%3D"
+    },
+    {
+      "question": "How can I measure the dew point?",
+      "snippet": "Measurement. Devices called hygrometers are used to measure dew point over a wide range of temperatures. These devices consist of a polished metal mirror which is cooled as air is passed over it. The dew point is revealed by observing the loss of clarity in the reflection cast by the mirror.",
+      "title": "Dew point - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Dew_point#:~:text=8%20July%202003.-,Measurement,reflection%20cast%20by%20the%20mirror.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Dew_point",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlpWRkJYMTl4YkRkUmIxQkZPRWxmUTBwNWRWUlRWbkZYWldKWFNWVkhiVmx0TURVM2FrUllUMUZHZEZKWVVEQnpVRUZFVlUxWlFYUmtXVVExVGxwelEyaG9VV05RVldoclEzUm1kbGhhY1hwRFpEaEVYemxSVkRWVVFSSVhTR1prWkdGS2NYbE1ZMWgwYVMxblVHbG1VRzl6VVRRYUlrRkdUVUZIUjNGd2FIUkNVa3hLVEVZMmN6Vm9hRWhLTUdZM2NFSnhUSFEwUVZFIiwiZmN2IjoiMyIsImVpIjoiSGZkZGFKcXlMY1h0aS1nUGlmUG9zUTQiLCJxYyI6IkNoNW9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElIUm9aU0JrWlhjZ2NHOXBiblFRQUgyRklRa18iLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBtZWFzdXJlIHRoZSBkZXcgcG9pbnQ/IiwibGsiOiJHaDlvYjNjZ1kyRnVJR2tnYldWaGMzVnlaU0IwYUdVZ1pHVjNJSEJ2YVc1MCIsImJzIjoiYy1OSzRkSUx6MGdzVWNnc1ZpakpTRlZJeXlfS0xjMUpCTkVLeVlrNXlVQjJTV1pldWtKS2FybENRWDVtWG9tOXhCWWRJMzBwM1hKU05IRjVjQ2w0NUpjREpmTVVQQlZ5VXhPTFM0dFN3VnFSekcwUk0xS1Vrcy1BS3N2RXJvekxnVXNKMmIxd0NiRGxLYVc1dVptcHhmWVNHMnlNeEtWRXNVcHlHWEZKWXplaHFEUW4xVjVpa2JhUmdCUWZxcWdBSXdBIiwiaWQiOiJmY19IZmRkYUpxeUxjWHRpLWdQaWZQb3NRNF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlpWRkJYMTl4YkRkUmIxQkZPRWxmUTBwNWRWUlRWbkZYWldKWFNWVkhiVmx0TURVM2FrUllUMUZHZEZKWVVEQnpVRUZFVlUxWlFYUmtXVVExVGxwelEyaG9VV05RVldoclEzUm1kbGhhY1hwRFpEaEVYemxSVkRWVVFSSVhTR1prWkdGS2NYbE1ZMWgwYVMxblVHbG1VRzl6VVRRYUlrRkdUVUZIUjNGd2FIUkNVa3hLVEVZMmN6Vm9hRWhLTUdZM2NFSnhUSFEwUVZFIiwiZmN2IjoiMyIsImVpIjoiSGZkZGFKcXlMY1h0aS1nUGlmUG9zUTQiLCJxYyI6IkNoNW9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElIUm9aU0JrWlhjZ2NHOXBiblFRQUgyRklRa18iLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBtZWFzdXJlIHRoZSBkZXcgcG9pbnQ%2FIiwibGsiOiJHaDlvYjNjZ1kyRnVJR2tnYldWaGMzVnlaU0IwYUdVZ1pHVjNJSEJ2YVc1MCIsImJzIjoiYy1OSzRkSUx6MGdzVWNnc1ZpakpTRlZJeXlfS0xjMUpCTkVLeVlrNXlVQjJTV1pldWtKS2FybENRWDVtWG9tOXhCWWRJMzBwM1hKU05IRjVjQ2w0NUpjREpmTVVQQlZ5VXhPTFM0dFN3VnFSekcwUk0xS1Vrcy1BS3N2RXJvekxnVXNKMmIxd0NiRGxLYVc1dVptcHhmWVNHMnlNeEtWRXNVcHlHWEZKWXplaHFEUW4xVjVpa2JhUmdCUWZxcWdBSXdBIiwiaWQiOiJmY19IZmRkYUpxeUxjWHRpLWdQaWZQb3NRNF8xIn0%3D"
+    },
+    {
+      "question": "What is the dew point for dummies?",
+      "snippet": null,
+      "title": "AI Overview",
+      "link": "https://tempest.earth/resources/what-is-dew-point/",
+      "list": [
+        "What it measures: The dew point indicates the temperature at which water vapor in the air will condense into liquid water.  ",
+        "How it's different from humidity: While humidity is a percentage that changes with temperature, dew point is an absolute measure of the moisture content in the air.  ",
+        "High dew point, high humidity: A high dew point (e.g., above 65°F or 18°C) indicates a lot of moisture in the air, making it feel muggy and uncomfortable, even if the relative humidity isn't very high.  ",
+        "Low dew point, low humidity: A low dew point (e.g., below 55°F or 13°C) means the air is dry, and it will feel more comfortable.  ",
+        "Ideal dew point: A dew point between 50°F and 60°F (10°C and 16°C) is generally considered comfortable for most people, according to WeatherFlow-Tempest, Inc..  ",
+        "Importance: Dew point is important for understanding how the air will feel, predicting fog and dew formation, and even assessing potential for mold growth.  ",
+        "Real-world examples: Dew point helps explain why the air feels heavy and sticky on a hot, humid summer day or why condensation forms on a cold drink.  "
+      ],
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlpWRkJYMTl4YkRkUmIxQkZPRWxmUTBwNWRWUlRWbkZYWldKWFNWVkhiVmx0TURVM2FrUllUMUZHZEZKWVVEQnpVRUZFVlUxWlFYUmtXVVExVGxwelEyaG9VV05RVldoclEzUm1kbGhhY1hwRFpEaEVYemxSVkRWVVFSSVhTR1prWkdGS2NYbE1ZMWgwYVMxblVHbG1VRzl6VVRRYUlrRkdUVUZIUjNGd2FIUkNVa3hLVEVZMmN6Vm9hRWhLTUdZM2NFSnhUSFEwUVZFIiwiZmN2IjoiMyIsImVpIjoiSGZkZGFKcXlMY1h0aS1nUGlmUG9zUTQiLCJxYyI6IkNoNW9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElIUm9aU0JrWlhjZ2NHOXBiblFRQUgyRklRa18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRldyBwb2ludCBmb3IgZHVtbWllcz8iLCJsayI6IkdoVmtaWGNnY0c5cGJuUWdabTl5SUdSMWJXMXBaWE0iLCJicyI6ImMtTks0ZElMejBnc1VjZ3NWaWpKU0ZWSXl5X0tMYzFKQk5FS3lZazV5VUIyU1daZXVrSkthcmxDUVg1bVhvbTl4QllkSTMwcDNYSlNOSEY1Y0NsNDVKY0RKZk1VUEJWeVV4T0xTNHRTd1ZxUnpHMFJNMUtVa3MtQUtzdkVyb3pMZ1VzSjJiMXdDYkRsS2FXNXVabXB4ZllTRzJ5TXhLVkVzVXB5R1hGSll6ZWhxRFFuMVY1aWtiYVJnQlFmcXFnQUl3QSIsImlkIjoiZmNfSGZkZGFKcXlMY1h0aS1nUGlmUG9zUTRfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlpWRkJYMTl4YkRkUmIxQkZPRWxmUTBwNWRWUlRWbkZYWldKWFNWVkhiVmx0TURVM2FrUllUMUZHZEZKWVVEQnpVRUZFVlUxWlFYUmtXVVExVGxwelEyaG9VV05RVldoclEzUm1kbGhhY1hwRFpEaEVYemxSVkRWVVFSSVhTR1prWkdGS2NYbE1ZMWgwYVMxblVHbG1VRzl6VVRRYUlrRkdUVUZIUjNGd2FIUkNVa3hLVEVZMmN6Vm9hRWhLTUdZM2NFSnhUSFEwUVZFIiwiZmN2IjoiMyIsImVpIjoiSGZkZGFKcXlMY1h0aS1nUGlmUG9zUTQiLCJxYyI6IkNoNW9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElIUm9aU0JrWlhjZ2NHOXBiblFRQUgyRklRa18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRldyBwb2ludCBmb3IgZHVtbWllcz8iLCJsayI6IkdoVmtaWGNnY0c5cGJuUWdabTl5SUdSMWJXMXBaWE0iLCJicyI6ImMtTks0ZElMejBnc1VjZ3NWaWpKU0ZWSXl5X0tMYzFKQk5FS3lZazV5VUIyU1daZXVrSkthcmxDUVg1bVhvbTl4QllkSTMwcDNYSlNOSEY1Y0NsNDVKY0RKZk1VUEJWeVV4T0xTNHRTd1ZxUnpHMFJNMUtVa3MtQUtzdkVyb3pMZ1VzSjJiMXdDYkRsS2FXNXVabXB4ZllTRzJ5TXhLVkVzVXB5R1hGSll6ZWhxRFFuMVY1aWtiYVJnQlFmcXFnQUl3QSIsImlkIjoiZmNfSGZkZGFKcXlMY1h0aS1nUGlmUG9zUTRfMSJ9"
+    },
+    {
+      "question": "What is the dew point rule?",
+      "snippet": "'Dew Point Rule'or 'Three Degree Rule' The Dew Point Rule states that a cargo hold should be ventilated when the dew point of the outside air is lower than the dew point of the air inside the cargo space. Both rules are a suitable means of deciding whether or not it is appropriate to ventilate.",
+      "title": "VENTILATION - Japan P&I Club",
+      "link": "https://www.piclub.or.jp/wp-content/uploads/2018/04/Loss-Prevention-Bulletin-Vol.41-Full.pdf",
+      "displayed_link": "https://www.piclub.or.jp › wp-content › uploads › 2018/04",
+      "source_logo": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/f0a84b4e7f7c2de6ecb2648ec6552bc991372de476bcf5867b68d1a045fe768b.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlpWRkJYMTl4YkRkUmIxQkZPRWxmUTBwNWRWUlRWbkZYWldKWFNWVkhiVmx0TURVM2FrUllUMUZHZEZKWVVEQnpVRUZFVlUxWlFYUmtXVVExVGxwelEyaG9VV05RVldoclEzUm1kbGhhY1hwRFpEaEVYemxSVkRWVVFSSVhTR1prWkdGS2NYbE1ZMWgwYVMxblVHbG1VRzl6VVRRYUlrRkdUVUZIUjNGd2FIUkNVa3hLVEVZMmN6Vm9hRWhLTUdZM2NFSnhUSFEwUVZFIiwiZmN2IjoiMyIsImVpIjoiSGZkZGFKcXlMY1h0aS1nUGlmUG9zUTQiLCJxYyI6IkNoNW9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElIUm9aU0JrWlhjZ2NHOXBiblFRQUgyRklRa18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRldyBwb2ludCBydWxlPyIsImxrIjoiR2c1a1pYY2djRzlwYm5RZ2NuVnNaUSIsImJzIjoiYy1OSzRkSUx6MGdzVWNnc1ZpakpTRlZJeXlfS0xjMUpCTkVLeVlrNXlVQjJTV1pldWtKS2FybENRWDVtWG9tOXhCWWRJMzBwM1hKU05IRjVjQ2w0NUpjREpmTVVQQlZ5VXhPTFM0dFN3VnFSekcwUk0xS1Vrcy1BS3N2RXJvekxnVXNKMmIxd0NiRGxLYVc1dVptcHhmWVNHMnlNeEtWRXNVcHlHWEZKWXplaHFEUW4xVjVpa2JhUmdCUWZxcWdBSXdBIiwiaWQiOiJmY19IZmRkYUpxeUxjWHRpLWdQaWZQb3NRNF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlpWRkJYMTl4YkRkUmIxQkZPRWxmUTBwNWRWUlRWbkZYWldKWFNWVkhiVmx0TURVM2FrUllUMUZHZEZKWVVEQnpVRUZFVlUxWlFYUmtXVVExVGxwelEyaG9VV05RVldoclEzUm1kbGhhY1hwRFpEaEVYemxSVkRWVVFSSVhTR1prWkdGS2NYbE1ZMWgwYVMxblVHbG1VRzl6VVRRYUlrRkdUVUZIUjNGd2FIUkNVa3hLVEVZMmN6Vm9hRWhLTUdZM2NFSnhUSFEwUVZFIiwiZmN2IjoiMyIsImVpIjoiSGZkZGFKcXlMY1h0aS1nUGlmUG9zUTQiLCJxYyI6IkNoNW9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElIUm9aU0JrWlhjZ2NHOXBiblFRQUgyRklRa18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRldyBwb2ludCBydWxlPyIsImxrIjoiR2c1a1pYY2djRzlwYm5RZ2NuVnNaUSIsImJzIjoiYy1OSzRkSUx6MGdzVWNnc1ZpakpTRlZJeXlfS0xjMUpCTkVLeVlrNXlVQjJTV1pldWtKS2FybENRWDVtWG9tOXhCWWRJMzBwM1hKU05IRjVjQ2w0NUpjREpmTVVQQlZ5VXhPTFM0dFN3VnFSekcwUk0xS1Vrcy1BS3N2RXJvekxnVXNKMmIxd0NiRGxLYVc1dVptcHhmWVNHMnlNeEtWRXNVcHlHWEZKWXplaHFEUW4xVjVpa2JhUmdCUWZxcWdBSXdBIiwiaWQiOiJmY19IZmRkYUpxeUxjWHRpLWdQaWZQb3NRNF8xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The dew point, the temperature at which air becomes saturated and condensation forms, can be calculated using a formula that relates temperature and relative humidity. A common approximation is: Td = T - ((100 - RH)/5), where Td is dew point in Celsius, T is the current temperature in Celsius, and RH is the relative humidity in percent, according to the Climate Data Library. This formula is most accurate when relative humidity is above 50%.",
+        "snippet_highlighted_words": [
+          "Td = T - ((100 - RH)/5)"
+        ],
+        "reference_indexes": [
+          0,
+          1,
+          2,
+          5,
+          10,
+          13
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Here's a more detailed breakdown:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "1. Understanding the variables:",
+            "reference_indexes": [
+              6
+            ],
+            "list": [
+              {
+                "snippet": "Temperature (T): The current air temperature in Celsius or Fahrenheit."
+              },
+              {
+                "snippet": "Relative Humidity (RH): The amount of moisture in the air, expressed as a percentage of the maximum amount it can hold at that temperature.",
+                "reference_indexes": [
+                  6
+                ]
+              },
+              {
+                "snippet": "Dew Point (Td): The temperature at which the air would become saturated (100% relative humidity) if cooled at constant pressure, leading to condensation.",
+                "reference_indexes": [
+                  5,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "title": "2. Formula:",
+            "reference_indexes": [
+              0,
+              10
+            ],
+            "list": [
+              {
+                "snippet": "A widely used approximation is: Td = T - ((100 - RH)/5)",
+                "reference_indexes": [
+                  0,
+                  10
+                ]
+              },
+              {
+                "snippet": "For Fahrenheit, the formula is: Td = T - ((100 - RH)/5) * 1.8",
+                "reference_indexes": [
+                  2,
+                  10
+                ]
+              },
+              {
+                "snippet": "This formula provides a reasonable estimate, especially when relative humidity is above 50%, says the Climate Data Library and Homework.Study.com.",
+                "reference_indexes": [
+                  0,
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. Example:",
+            "reference_indexes": [
+              14
+            ],
+            "list": [
+              {
+                "snippet": "If the temperature (T) is 25°C and the relative humidity (RH) is 60%, the dew point (Td) would be approximately:",
+                "reference_indexes": [
+                  14
+                ]
+              }
+            ]
+          },
+          {
+            "title": "4. More Accurate Calculations:",
+            "reference_indexes": [
+              1,
+              3,
+              4,
+              5
+            ],
+            "list": [
+              {
+                "snippet": "For higher accuracy, especially at lower relative humidities or across a wider temperature range, more complex formulas, like the Magnus formula, are used. These formulas incorporate factors like saturation vapor pressure.",
+                "reference_indexes": [
+                  1,
+                  3,
+                  4,
+                  5
+                ]
+              },
+              {
+                "snippet": "Psychrometric charts can also be used to determine dew point by finding the intersection of temperature and relative humidity lines.",
+                "reference_indexes": [
+                  8,
+                  11
+                ]
+              }
+            ]
+          },
+          {
+            "title": "5. Direct Measurement:",
+            "reference_indexes": [
+              10,
+              12
+            ],
+            "list": [
+              {
+                "snippet": "Dew point can also be measured directly using a dew point hygrometer, which cools a surface until condensation forms and measures the temperature at that point.",
+                "reference_indexes": [
+                  10,
+                  12
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "How do I calculate dew point? - Climate Data Library",
+        "link": "https://iridl.ldeo.columbia.edu/dochelp/QA/Basic/dewpoint.html#:~:text=Td%20=%20T%20%2D%20((100%20%2D,relative%20humidity%20values%20above%2050%25.",
+        "snippet": "Td = T - ((100 - RH)/5.) where Td is dew point temperature (in degrees Celsius), T is observed temperature (in degrees Celsius), a...",
+        "source": "Climate Data Library",
+        "index": 0
+      },
+      {
+        "title": "Dew point - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Dew_point#:~:text=Graph%20of%20the%20dependence%20of,expressed%20in%20degrees%20Celsius):",
+        "snippet": "Graph of the dependence of the dew point upon air temperature for several levels of relative humidity. See also: Psychrometric cha...",
+        "source": "Wikipedia",
+        "index": 1
+      },
+      {
+        "title": "ELI5: how does the dew point work? : r/explainlikeimfive - Reddit",
+        "link": "https://www.reddit.com/r/explainlikeimfive/comments/14o0zen/eli5_how_does_the_dew_point_work/#:~:text=If%20you%20use%20the%20Td,can%20hold%20exponentially%20more%20moisture.",
+        "snippet": "Jul 1, 2023 — If you use the Td = T-((100-RH)/5) formula you get 26-((100-60)/5)= 18C That is good approximation of the correct value...",
+        "source": "Reddit · r/explainlikeimfive",
+        "index": 2
+      },
+      {
+        "title": "Temperature, Dewpoint, and Relative Humidity Calculator",
+        "link": "https://bmcnoldy.earth.miami.edu/Humidity.html#:~:text=*%20Spreadsheet%2Dready%20equations%20for%20each%20unknown%20in,=100*(EXP((17.625*TD)/(243.04+TD))/EXP((17.625*T)/(243.04+T)))%20*%20TD:%20=243.04*(LN(RH/100)+((17.625*T)/(243.04+T)))/(17.625%2DLN(RH/100)%2D((17.625*T)/(243.04+T)))%20*%20T:%20=243.04*(((17.625*TD)/(243.04+TD))%2DLN(RH/100))/(17.625+LN(RH/100)%2D((17.625*TD)/(243.04+TD)))",
+        "snippet": "* Spreadsheet-ready equations for each unknown in terms of the two knowns: * RH: =100*(EXP((17.625*TD)/(243.04+TD))/EXP((17.625*T...",
+        "source": "University of Miami",
+        "index": 3
+      },
+      {
+        "title": "How can temperature be calculated given relative humidity and dew ...",
+        "link": "https://earthscience.stackexchange.com/questions/14899/how-can-temperature-be-calculated-given-relative-humidity-and-dew-point#:~:text=The%20dew%20point%20is%20the%20temperature%20at,for%20different%20values%20of%20the%20relative%20humidity.",
+        "snippet": "Aug 18, 2018 — The dew point is the temperature at which condensation appears. Therefore, for a given relative humidity, the hotter t...",
+        "source": "Earth Science Stack Exchange",
+        "index": 4
+      },
+      {
+        "title": "Dew Point | Definition, Formula & Examples - Lesson - Study.com",
+        "link": "https://study.com/academy/lesson/what-is-dew-point-definition-formula-calculation.html#:~:text=Relative%20Humidity%20and%20Temperature,100%25%20RH%2C%20or%20saturation.",
+        "snippet": "Relative Humidity and Temperature Relative humidity is entwined with temperature. The temperature of the air at 100% relative humi...",
+        "source": "Study.com",
+        "index": 5
+      },
+      {
+        "title": "Video: Dew Point | Definition, Formula & Examples - Study.com",
+        "link": "https://study.com/academy/lesson/video/what-is-dew-point-definition-formula-calculation.html#:~:text=What%20Does%20Dew%20Point%20Mean,lower%20than%20the%20air%20temperature.",
+        "snippet": "What Does Dew Point Mean? Humidity refers to the amount of water vapor in the air, with relative humidity as an indication on how ...",
+        "source": "Study.com",
+        "index": 6
+      },
+      {
+        "title": "[FREE] Is there an equation that calculates the dew point without needing to know the relative humidity? Or is there one that calculates the relative humidity without needing the dew point and actual water vapor pressure?",
+        "link": "https://brainly.com/question/46520144",
+        "snippet": "Jan 24, 2024",
+        "source": "Brainly",
+        "index": 7
+      },
+      {
+        "title": "What is the dewpoint? How do you calculate it from temperature and relative humidity?",
+        "link": "https://www.quora.com/What-is-the-dewpoint-How-do-you-calculate-it-from-temperature-and-relative-humidity",
+        "snippet": "Oct 14, 2022",
+        "source": "Quora",
+        "index": 8
+      },
+      {
+        "title": "Determining the Dew Point of a Gas Sample - Interscan | Fixed & Portable Industrial Gas Detectors",
+        "link": "https://gasdetection.com/articles/determining-the-dew-point-of-a-gas-sample/#:~:text=%E2%80%9CDew%20Point%E2%80%9D%20is%20defined%20as%20the%20temperature,further%2C%20some%20of%20the%20moisture%20will%20condense.",
+        "snippet": "Jun 17, 2012 — “Dew Point” is defined as the temperature to which a given volume of air must be cooled at constant pressure and const...",
+        "source": "gasdetection.com",
+        "index": 9
+      },
+      {
+        "title": "How is the dew point calculated?",
+        "link": "https://homework.study.com/explanation/how-is-the-dew-point-calculated.html#:~:text=A%20rough%20estimate%20of%20the%20dew%20point,surface%20the%20dew%20point%20has%20been%20reached.",
+        "snippet": "A rough estimate of the dew point can be calculated using Td = T - ((100 - RH)/5.) where Td is the dew point and T is the current ...",
+        "source": "Homework.Study.com",
+        "index": 10
+      },
+      {
+        "title": "Calculating the Dew-Point and Wet-Bulb Temperature of Air",
+        "link": "https://www.maplesoft.com/applications/download.aspx?id=154054/Dew_Point_and_Wet_Bulb_Temperature.pdf",
+        "snippet": "You can also read the dew-point temperature directly from a Psychrometric chart. Simply draw a horizontal line from the current po...",
+        "source": "Maplesoft",
+        "index": 11
+      },
+      {
+        "title": "Dew point meter- is it measured or calculated?",
+        "link": "https://www.tradeindia.com/question-answer/dew-point-meter-is-it-measured-or-calculated/#:~:text=One%20can%20use%20a%20hygrometer%20to%20directly,difficult%20to%20understand%20so%20let's%20simplify%20it.",
+        "snippet": "One can use a hygrometer to directly measure the dew point or one can calculate it from the relative humidity.Measurement: A dew p...",
+        "source": "Tradeindia",
+        "index": 12
+      },
+      {
+        "title": "\"(D=T-frac{9}{25}(100-H)) The formula above can be used to approximate the dew point D, in degrees Fahrenheit, given the temperature T, in degrees Fahrenheit, and the relative humidity of H percent, where H > 50. Which of the following expresses the relative humidity in terms of the temperature and the dew point? A. (H=frac{25}{9}(D-T)+100) B. (H=frac{25}{9}(D-T)-100) C. (H=frac{25}{9}(D+T)+100) D. (H=frac{25}{9}(D+T)-100)\"",
+        "link": "https://testbook.com/question-answer/dt-frac925100-hthe-formula-above-can--66f455ec8fec4264849f95e7",
+        "snippet": "Oct 2, 2024 — \"Choice A is correct. It's given that (D=T-frac{9}{25}(100-H)). Solving this formula for H expresses the relative humid...",
+        "source": "Testbook",
+        "index": 13
+      },
+      {
+        "title": "What is the relative humidity if the temperature is 25°C and the dew point is 14°C?",
+        "link": "https://blogs.wizklub.com/question-answers/what-is-the-relative-humidity-if-the-temperature-is-25c-and-the-dew-point-is-14c/#:~:text=The%20relative%20humidity%20can%20be%20calculated%20using,100%20%E2%80%93%205(25%20%E2%80%93%2014)%20=%2060%25.",
+        "snippet": "The relative humidity can be calculated using the formula RH = 100 – 5(T – dew point). In this case, RH = 100 – 5(25 – 14) = 60%.",
+        "source": "WizKlub",
+        "index": 14
+      },
+      {
+        "title": "Inspecting and testing subfloors, Moisture in subfloors, Relative humidity and moisture",
+        "link": "https://www.flooringtech.com.au/unit2_insp_test_subfloors/section2_moisture_in_subfloors/lesson1_relative_humidity_and_moisture.htm#:~:text=For%20example%2C%20if%20the%20RH%20is%2050%25%2C,moisture%20will%20result%20in%20condensation%2C%20or%20'dew'.",
+        "snippet": "For example, if the RH is 50%, it means that the air is holding half of the total amount possible at that temperature. As the RH a...",
+        "source": "flooringtech.com.au",
+        "index": 15
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Dew Point Calculator",
+      "link": "https://www.calculator.net/dew-point-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculator.net/dew-point-calculator.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECBYQAQ",
+      "displayed_link": "https://www.calculator.net › other",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f126cb6a349035afbab86f3268560704f44.png",
+      "snippet": "It is calculated by dividing the total mass of water vapor by the volume of the air. Given the same amount of water vapor in the air, the absolute humidity does ...",
+      "snippet_highlighted_words": [
+        "dividing the total mass of water vapor by the volume of the air"
+      ],
+      "source": "Calculator.net"
+    },
+    {
+      "position": 2,
+      "title": "How do I calculate dew point?",
+      "link": "https://iridl.ldeo.columbia.edu/dochelp/QA/Basic/dewpoint.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iridl.ldeo.columbia.edu/dochelp/QA/Basic/dewpoint.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECBcQAQ",
+      "displayed_link": "https://iridl.ldeo.columbia.edu › dochelp › Basic › dew...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f120c1043b87e01ed70adf2dfbe2bec8c67.png",
+      "snippet": "Td = T - ((100 - RH)/5.) where Td is dew point temperature (in degrees Celsius), T is observed temperature (in degrees Celsius), and RH is relative humidity ( ...",
+      "snippet_highlighted_words": [
+        "Td = T - ((100 - RH)/5"
+      ],
+      "source": "Climate Data Library"
+    },
+    {
+      "position": 3,
+      "title": "Dew point",
+      "link": "https://en.wikipedia.org/wiki/Dew_point",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Dew_point&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCO0BEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Dew_point",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f124f62040894e359706b4c0a393bf31373.png",
+      "snippet": "Calculating the dew point · a = 6.1121 mbar, b = 17.368, c = 238.88 °C; for 0 °C ≤ T ≤ 50 °C (error ≤ 0.05%). · a = 6.1121 mbar, b = 17.966, c = 247.15 °C; for − ...",
+      "snippet_highlighted_words": [
+        "a = 6.1121 mbar, b = 17.368, c = 238.88 °C"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Humidity",
+            "link": "https://en.wikipedia.org/wiki/Dew_point#Humidity"
+          },
+          {
+            "title": "Relationship to human comfort",
+            "link": "https://en.wikipedia.org/wiki/Dew_point#Relationship_to_human_comfort"
+          },
+          {
+            "title": "Measurement",
+            "link": "https://en.wikipedia.org/wiki/Dew_point#Measurement"
+          },
+          {
+            "title": "Calculating the dew point",
+            "link": "https://en.wikipedia.org/wiki/Dew_point#Calculating_the_dew_point"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "ELI5: how does the dew point work? : r/explainlikeimfive",
+      "link": "https://www.reddit.com/r/explainlikeimfive/comments/14o0zen/eli5_how_does_the_dew_point_work/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/explainlikeimfive/comments/14o0zen/eli5_how_does_the_dew_point_work/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCOwCEAE",
+      "displayed_link": "6 comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1264780789e3a8b43c358813a75e1a7e2a.png",
+      "snippet": "The formula for the dew point (Td) is Td = T-((100-RH)/5) there T is the observed temperature and RH is the relative humidity.",
+      "snippet_highlighted_words": [
+        "Td = T-((100-RH)/5"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Can you calculate dew point or air temp with just the ...",
+            "link": "https://www.reddit.com/r/meteorology/comments/jhvpuj/can_you_calculate_dew_point_or_air_temp_with_just/",
+            "answer_count": 8,
+            "date": "Oct 25, 2020"
+          },
+          {
+            "title": "Is it possible to calculate dew point without using a ...",
+            "link": "https://www.reddit.com/r/ChemicalEngineering/comments/x5h560/is_it_possible_to_calculate_dew_point_without/",
+            "answer_count": 10,
+            "date": "Sep 4, 2022"
+          }
+        ]
+      },
+      "source": "Reddit · r/explainlikeimfive"
+    },
+    {
+      "position": 5,
+      "title": "Dew Point Calculator",
+      "link": "https://www.omnicalculator.com/physics/dew-point",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omnicalculator.com/physics/dew-point&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCM0BEAE",
+      "displayed_link": "https://www.omnicalculator.com › physics › dew-point",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12c76b5b8ff0e3f7f491d7cea93493f2fa.png",
+      "snippet": "How do I calculate dew point? · Measure the temperature and relative humidity of the air. · Multiply 17.625 by the temperature and divide the result by the ...",
+      "snippet_highlighted_words": [
+        "Measure the temperature and relative humidity of the air"
+      ],
+      "source": "Omni Calculator"
+    },
+    {
+      "position": 6,
+      "title": "DEW POINT CALCULATION CHART",
+      "link": "https://www.kosterusa.com/files/us_en/dew-point-chart.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kosterusa.com/files/us_en/dew-point-chart.pdf&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJICEAE",
+      "displayed_link": "https://www.kosterusa.com › files › us_en › dew-p...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12389cb8c0df120433e2e411123d7e92f3.png",
+      "snippet": "EXAMPLE: If air temperature is 70°F and relative humidity is 65%, the dew point is 57°F. No coating should be applied unless the surface temperature of the ...",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "page": 1
+          },
+          "extensions": [
+            "1 page"
+          ]
+        }
+      },
+      "source": "KOSTER USA"
+    },
+    {
+      "position": 7,
+      "title": "Is there an equation that calculates the dew point without ...",
+      "link": "https://brainly.com/question/46520144",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/46520144&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCMcCEAE",
+      "displayed_link": "https://brainly.com › Physics › High School",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f126c37e5b2a695d637d23555943346e6be.png",
+      "date": "Jan 24, 2024",
+      "snippet": "The dew point can be found at the temperature where the known water vapor density equals the saturation vapor density, indicating 100% relative ...",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 8,
+      "title": "What is dew point and how to measure it?",
+      "link": "https://www.vaisala.com/en/blog/2019-09/what-dew-point-and-how-measure-it",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vaisala.com/en/blog/2019-09/what-dew-point-and-how-measure-it&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECFEQAQ",
+      "displayed_link": "https://www.vaisala.com › blog › what-dew-point-and-...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f120e8a8929c5c0306cea1909fe325a1cc3.png",
+      "snippet": "The maximum dew point happens under higher pressure, higher relative humidity and higher temperature. If we put 7 bar, 80 % RH, and 50 degrees Celsius to the ...",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "Vaisala"
+    },
+    {
+      "position": 9,
+      "title": "How can temperature be calculated given relative humidity ...",
+      "link": "https://earthscience.stackexchange.com/questions/14899/how-can-temperature-be-calculated-given-relative-humidity-and-dew-point",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://earthscience.stackexchange.com/questions/14899/how-can-temperature-be-calculated-given-relative-humidity-and-dew-point&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJcBEAE",
+      "displayed_link": "https://earthscience.stackexchange.com › questions › ho...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12f9c417af1e07290382f3f00be6391e3f.png",
+      "date": "Aug 18, 2018",
+      "snippet": "This calculator that will calculate the temperature given relative humidity and dew point - for example a dew point of 70°F and a relative humidity of 90% ...",
+      "snippet_highlighted_words": [
+        "calculator",
+        "calculate",
+        "dew point",
+        "dew point"
+      ],
+      "source": "Earth Science Stack Exchange"
+    },
+    {
+      "position": 10,
+      "title": "Application Note Dew-point Calculation",
+      "link": "https://irtfweb.ifa.hawaii.edu/~tcs3/tcs3/Misc/Dewpoint_Calculation_Humidity_Sensor_E.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://irtfweb.ifa.hawaii.edu/~tcs3/tcs3/Misc/Dewpoint_Calculation_Humidity_Sensor_E.pdf&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCLgBEAE",
+      "displayed_link": "https://irtfweb.ifa.hawaii.edu › ~tcs3 › tcs3 › Misc",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f128e20f5a6c7c24eefa6b564b176b97faa.png",
+      "snippet": "When the temperature cools to the dew point, fog or dew can occur, and the relative humidity becomes. 100%. Calculation of the dew point: The Magnus formula [ ...",
+      "snippet_highlighted_words": [
+        "dew point",
+        "Calculation",
+        "dew point",
+        "formula"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 3
+          },
+          "extensions": [
+            "3 pages"
+          ]
+        }
+      },
+      "source": "NASA IRTF"
+    },
+    {
+      "position": 11,
+      "title": "Dewpoint and Vapor Pressure Deficit Equations",
+      "link": "https://andrewsforest.oregonstate.edu/data/studies/ms01/dewpt_vpd_calculations.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://andrewsforest.oregonstate.edu/data/studies/ms01/dewpt_vpd_calculations.pdf&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJ4CEAE",
+      "displayed_link": "https://andrewsforest.oregonstate.edu › studies",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f121cf630ee4c6a4fe9f0029b3379a10505.png",
+      "snippet": "From Tetens Formula, the relation between temperature and the partial pressure of water vapor: e(millibars) = 6.1078 exp( (17.269*T) / (237.3+T) ).",
+      "snippet_highlighted_words": [
+        "Formula"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 2
+          },
+          "extensions": [
+            "2 pages"
+          ]
+        }
+      },
+      "source": "H.J. Andrews Experimental Forest"
+    },
+    {
+      "position": 12,
+      "title": "Dew Point",
+      "link": "https://www.acurite.com/pages/learn-glossary-dew-point?srsltid=AfmBOop_50i_Z9Pr7bGvBQOq6yRxzSWNAlAKSBaaivZ7bjnf3-wDcWyJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.acurite.com/pages/learn-glossary-dew-point%3Fsrsltid%3DAfmBOop_50i_Z9Pr7bGvBQOq6yRxzSWNAlAKSBaaivZ7bjnf3-wDcWyJ&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECFAQAQ",
+      "displayed_link": "https://www.acurite.com › learn-glossary-dew-point",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12bb7ed5b666d86a198b6ed0b5fb5ce0f5.png",
+      "snippet": "The dew point formula relies on environmental data including the relative humidity and ambient air temperature. The dew point temperature will always be lower ...",
+      "snippet_highlighted_words": [
+        "dew point formula",
+        "dew point"
+      ],
+      "source": "AcuRite"
+    },
+    {
+      "position": 13,
+      "title": "Dew Point Calculator | PST Michell Free Humidity Calculator",
+      "link": "https://www.processsensing.com/en-us/humidity-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.processsensing.com/en-us/humidity-calculator/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCMACEAE",
+      "displayed_link": "https://www.processsensing.com › en-us › humidity-cal...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12e04befa6fee4bc267e927f80530b7641.png",
+      "snippet": "Our free dew point calculator calculates and converts dp to ppmv, ppm to mgm3, dp to ppm, relative humidity, molecular weight (Air, 02, N2, H2, C02, ...",
+      "snippet_highlighted_words": [
+        "dew point calculator"
+      ],
+      "source": "Process Sensing Technologies"
+    },
+    {
+      "position": 14,
+      "title": "Dewpoint calculation possible? - Questions & Help",
+      "link": "https://community.homey.app/t/dewpoint-calculation-possible/11039",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.homey.app/t/dewpoint-calculation-possible/11039&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCN8CEAE",
+      "displayed_link": "https://community.homey.app › dewpoint-calculation-p...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12dc92d1f143a05903d6695427c27a8a12.png",
+      "date": "Mar 26, 2019",
+      "snippet": "Yes. Create a Logic Variable or Better Logic Variable. Use a flow to set a calculation card with ((T - ((100 - RH)/5)) T = Temp in Celsius RH = Relative ...",
+      "snippet_highlighted_words": [
+        "calculation"
+      ],
+      "source": "Homey Community Forum"
+    },
+    {
+      "position": 15,
+      "title": "Temperature, Dewpoint, and Relative Humidity Calculator",
+      "link": "https://bmcnoldy.earth.miami.edu/Humidity.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bmcnoldy.earth.miami.edu/Humidity.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECF0QAQ",
+      "displayed_link": "https://bmcnoldy.earth.miami.edu › Humidity",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f125292eb4e58a2e92d7069e041ea17850e.png",
+      "snippet": "Calculate temperature, dewpoint, or relative humidity. 1) Choose a temperature scale. 2) Enter values in 2 of the 3 boxes. 3) Press \"Calculate\" to find the ...",
+      "snippet_highlighted_words": [
+        "Calculate",
+        "dewpoint",
+        "Calculate"
+      ],
+      "source": "University of Miami"
+    },
+    {
+      "position": 16,
+      "title": "Dew Point vs Humidity",
+      "link": "https://www.weather.gov/arx/why_dewpoint_vs_humidity",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.weather.gov/arx/why_dewpoint_vs_humidity&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECGAQAQ",
+      "displayed_link": "https://www.weather.gov › arx › why_dewpoint_vs_hu...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1258eb88c3a71f7e59aa41a2bf9f7241b3.png",
+      "snippet": "The dew point is the temperature the air needs to be cooled to (at constant pressure) in order to achieve a relative humidity (RH) of 100%.",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "National Weather Service (.gov)"
+    },
+    {
+      "position": 17,
+      "title": "Video: Dew Point | Definition, Formula & Examples",
+      "link": "https://study.com/academy/lesson/video/what-is-dew-point-definition-formula-calculation.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://study.com/academy/lesson/video/what-is-dew-point-definition-formula-calculation.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCMIBEAE",
+      "displayed_link": "https://study.com › academy › lesson › video › what-is-...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12a51ed154a7bf61c539a9325be056dd1d.png",
+      "snippet": "Dew points are based on humidity levels. For instance, deserts have low dew points because of dry conditions, while Florida has high dew points due to high ...",
+      "snippet_highlighted_words": [
+        "Dew points",
+        "dew points",
+        "dew points"
+      ],
+      "source": "Study.com"
+    },
+    {
+      "position": 18,
+      "title": "How do I convert between dew point and relative humidity?",
+      "link": "https://www.npl.co.uk/resources/q-a/dew-point-and-relative-humidity",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.npl.co.uk/resources/q-a/dew-point-and-relative-humidity&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJIBEAE",
+      "displayed_link": "https://www.npl.co.uk › resources › dew-point-and-relati...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12f23f2dd160b4086615a6afddf9f94e7f.png",
+      "snippet": "Unfortunately, there is no simple, direct formula for converting between dew point and relative humidity. Conversions between these two parameters must be ...",
+      "snippet_highlighted_words": [
+        "formula",
+        "dew point"
+      ],
+      "source": "National Physical Laboratory (NPL)"
+    },
+    {
+      "position": 19,
+      "title": "Dew Point Calculator",
+      "link": "http://www.dpcalc.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.dpcalc.org/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJgBEAE",
+      "displayed_link": "http://www.dpcalc.org",
+      "snippet": "Use the sliders to explore combinations of temperature (T), relative humidity (RH), and dew point (DP) to compare the preservation quality of your environment.",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "DPcalc.org"
+    },
+    {
+      "position": 20,
+      "title": "Dew Point Calculator",
+      "link": "https://www.associatedenvironmentalsystems.com/dew-point-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.associatedenvironmentalsystems.com/dew-point-calculator&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCKQCEAE",
+      "displayed_link": "https://www.associatedenvironmentalsystems.com › dew...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12223bb2e6ef446e392f7563fca7f323af.png",
+      "snippet": "Input your temperature and relative humidity values, then press calculate to see your results.",
+      "snippet_highlighted_words": [
+        "calculate"
+      ],
+      "source": "Associated Environmental Systems"
+    },
+    {
+      "position": 21,
+      "title": "Relative Humidity and Dewpoint",
+      "link": "https://www.youtube.com/watch?v=OZh9ksAy9kc",
+      "displayed_link": "360.6K+ views · 11 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozC7lYkUm8DQAaLPwfG6Y9HhYP3yilQOGoDuuHkNgDAZ0&s",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12a04cf2d314feb5c638ac336724e55a1a.png",
+      "snippet": "In this video, we take a look at how to use the Earth Science Reference Tables and a sling psychrometer to calculate relative humidity and ...",
+      "duration": "5:58",
+      "key_moments": [
+        {
+          "time": "00:04",
+          "title": "What is Relative Humidity?",
+          "link": "https://www.youtube.com/watch?v=OZh9ksAy9kc&t=4",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDkL63RF_ZVhsWKVw2mIy6afPSisgqiChHL9-4HD8tQ&s"
+        },
+        {
+          "time": "00:24",
+          "title": "Dewpoint",
+          "link": "https://www.youtube.com/watch?v=OZh9ksAy9kc&t=24",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUNvFZV8XLIkyRVapWZMgx6Q88E2aIRXQkB0DPJduwig&s"
+        },
+        {
+          "time": "00:55",
+          "title": "How to calculate humidity and dewpoint",
+          "link": "https://www.youtube.com/watch?v=OZh9ksAy9kc&t=55",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3pPM-V_8tNrHjwBasxUgRqMWLBIU8uV6wKNNlSnw1JQ&s"
+        },
+        {
+          "time": "01:23",
+          "title": "How a psychrometer works",
+          "link": "https://www.youtube.com/watch?v=OZh9ksAy9kc&t=83",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzyb1DPrp0l88zR9tXzfzRaZv7rIw0kyD5lkB_AKFtyg&s"
+        },
+        {
+          "time": "01:47",
+          "title": "Sling Psychrometer",
+          "link": "https://www.youtube.com/watch?v=OZh9ksAy9kc&t=107",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6SlTESNDkTsyq_tFNsHsRwYd8uMKDmOuMvhmwmqJfLQ&s"
+        },
+        {
+          "time": "02:24",
+          "title": "Calculating Relative Humidity",
+          "link": "https://www.youtube.com/watch?v=OZh9ksAy9kc&t=144",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrPqfF460gMOpbaMHjVX7ZfLfyIeag1EMKYHiYwoKC4w&s"
+        },
+        {
+          "time": "02:48",
+          "title": "Dry Bulb and Wet Bulb Temperatures",
+          "link": "https://www.youtube.com/watch?v=OZh9ksAy9kc&t=168",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdjQGBEy4xJ-YYBL12xZpCNvsZ9Pe7M3_vP7wwYfAfgA&s"
+        },
+        {
+          "time": "03:16",
+          "title": "Subtract Dry Bulb from Wet Bulb",
+          "link": "https://www.youtube.com/watch?v=OZh9ksAy9kc&t=196",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj5YfBT2HEjmvXOZsmVuuIjH-nm-Ss-2bOAPIJyP4ZBg&s"
+        },
+        {
+          "time": "03:58",
+          "title": "Locate Depression",
+          "link": "https://www.youtube.com/watch?v=OZh9ksAy9kc&t=238",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0TYUWhLnNdBXLjUYbXb2aZIoe1spw5mWQ3Jmy_PTTA&s"
+        },
+        {
+          "time": "05:41",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=OZh9ksAy9kc&t=341",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5alwaQOt_9VCPLnG4_kx-u7SV2WZTLOnafxeLFooaOg&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSgQsBsgr6PtiPDrkA6xXF71AtnEGjGa-gFtQ",
+      "source": "YouTube · Mike Sammartano"
+    },
+    {
+      "position": 22,
+      "title": "Dew Point | Definition, Formula & Examples - Lesson",
+      "link": "https://study.com/academy/lesson/what-is-dew-point-definition-formula-calculation.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://study.com/academy/lesson/what-is-dew-point-definition-formula-calculation.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCOYBEAE",
+      "displayed_link": "https://study.com › ... › Earth Science 101: Earth Science",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12985b62c4d75227f82b194fb16c6dba45.png",
+      "snippet": "Dew Point Calculation. You can physically determine the dew point temperature with a device called a hygrometer. For it to work, a smooth, shiny surface, like a ...",
+      "snippet_highlighted_words": [
+        "Dew Point Calculation",
+        "determine",
+        "dew point"
+      ],
+      "source": "Study.com"
+    },
+    {
+      "position": 23,
+      "title": "Dew Point Definition and How to Measure It for Industries",
+      "link": "https://www.processsensing.com/en-us/blog/dew-point-definition-and-how-to-measure-it-for-industries.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.processsensing.com/en-us/blog/dew-point-definition-and-how-to-measure-it-for-industries.htm&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCIMCEAE",
+      "displayed_link": "https://www.processsensing.com › en-us › blog › dew-p...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1276be3437526921b043ae3033b6a7cdd8.png",
+      "snippet": "A common principle when measuring dew point is that an increase in pressure generally raises the dew point, while a decrease in pressure lowers it. An example ...",
+      "snippet_highlighted_words": [
+        "dew point",
+        "dew point"
+      ],
+      "source": "Process Sensing Technologies"
+    },
+    {
+      "position": 24,
+      "title": "The use of dew-point temperature in humidity calculations",
+      "link": "https://nvlpubs.nist.gov/nistpubs/jres/74c/jresv74cn3-4p117_a1b.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nvlpubs.nist.gov/nistpubs/jres/74c/jresv74cn3-4p117_a1b.pdf&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCIsCEAE",
+      "displayed_link": "https://nvlpubs.nist.gov › nistpubs › jres",
+      "author": "by LA Wood",
+      "snippet": "Key words: Antoine Equation; dew point; humidity; hygrometry; psychrometric chart; relative hu- midity; vapor pressure of water; wet-bulb temperature. 1.",
+      "snippet_highlighted_words": [
+        "Equation",
+        "dew point"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 6
+          },
+          "extensions": [
+            "6 pages"
+          ]
+        }
+      },
+      "source": "National Institute of Standards and Technology (.gov)"
+    },
+    {
+      "position": 25,
+      "title": "Measuring Dew Point and Heat Index",
+      "link": "https://support.thepocketlab.com/knowledge/measuring-dew-point-and-heat-index",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.thepocketlab.com/knowledge/measuring-dew-point-and-heat-index&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJ8CEAE",
+      "displayed_link": "https://support.thepocketlab.com › ... › PocketLab Sensors",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f126d3749524924e3734ea51ae5a06e7aaa.png",
+      "snippet": "Dew point is calculated from the current air temperature and the relative humidity of the air. The dew point can never be higher than the current air ...",
+      "snippet_highlighted_words": [
+        "Dew point",
+        "calculated",
+        "dew point"
+      ],
+      "source": "PocketLab"
+    },
+    {
+      "position": 26,
+      "title": "Material Calculations: Dew Point Profile Part 1",
+      "link": "https://www.youtube.com/watch?v=X0C6aJSldLA",
+      "displayed_link": "3.3K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSbEBupjVwMbgrOPt2t4LhHtYGFj2MN8qAuBajfF5jgGij&s",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12e85f538339b8ee8ce9fa7a8cdcd1852d.png",
+      "snippet": "Method of calculating dew point through a wall section with given material properties. Includes looking at application of basic formula.",
+      "duration": "7:53",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=X0C6aJSldLA&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5tNZbucY6uyy-DEpnl3CqqpNjyhwfduXKvoknmL9IPA&s"
+        },
+        {
+          "time": "00:47",
+          "title": "Outside Temperature and Relative Humidity",
+          "link": "https://www.youtube.com/watch?v=X0C6aJSldLA&t=47",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZT6ECkbAIGNMhUNJV87pSA-WvobGUL0Qt-xBTRACPQ&s"
+        },
+        {
+          "time": "01:57",
+          "title": "Thermal Resistance",
+          "link": "https://www.youtube.com/watch?v=X0C6aJSldLA&t=117",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR42RTNgiemZFj_TgxyOXitLztVg2poxHXMaR-F4sRDjw&s"
+        },
+        {
+          "time": "02:59",
+          "title": "Temperature Drop",
+          "link": "https://www.youtube.com/watch?v=X0C6aJSldLA&t=179",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQBMBK7_MNTfV2jKsry683XKYSAryvYy7g3IJF1NkOXg&s"
+        },
+        {
+          "time": "06:28",
+          "title": "Summary",
+          "link": "https://www.youtube.com/watch?v=X0C6aJSldLA&t=388",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-OtchA9nU_5USCJ_NxiPaIhlvRzj_EGpDNTyw9yvrg&s"
+        },
+        {
+          "time": "07:45",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=X0C6aJSldLA&t=465",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGeXJWJZdLTz6DXrZyylmcyv3nSWftwxvIAtfudgJerQ&s"
+        }
+      ],
+      "source": "YouTube · Silkensolutions"
+    },
+    {
+      "position": 27,
+      "title": "Estimation of Dew Point",
+      "link": "https://help.campbellsci.com/crbasic/cr6/Content/Instructions/estimationofdewpoint.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.campbellsci.com/crbasic/cr6/Content/Instructions/estimationofdewpoint.htm&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCLsCEAE",
+      "displayed_link": "https://help.campbellsci.com › Content › Instructions › es...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12336ce47d332b20f46718c0c03025d8e3.png",
+      "snippet": "The dew point temperature is found from the vapor pressure, relative humidity, and the saturation vapor pressure. The saturation vapor pressure is found from ...",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "Campbell Scientific"
+    },
+    {
+      "position": 28,
+      "title": "Heat Index Calculation",
+      "link": "https://www.wpc.ncep.noaa.gov/html/heatindex.shtml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wpc.ncep.noaa.gov/html/heatindex.shtml&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCKkCEAE",
+      "displayed_link": "https://www.wpc.ncep.noaa.gov › html › heatindex",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1240673e47eb2e7447c2bfccc216f4c1c9.png",
+      "date": "Aug 25, 2023",
+      "snippet": "Using Dew Point Temperature, Using Relative Humidity ; Air Temperature · F oC. Dew Point Temperature · F oC. Heat Index = Air Temperature · F oC.",
+      "snippet_highlighted_words": [
+        "Dew Point",
+        "Dew Point"
+      ],
+      "source": "National Oceanic and Atmospheric Administration (.gov)"
+    },
+    {
+      "position": 29,
+      "title": "Dew Point Calculation. - ambient weather",
+      "link": "https://ambientweather.com/faqs/question/view/id/1869/?srsltid=AfmBOopaiy2oczs3ml-i77LQH6lDlW-uReGMtktyVdf1SsB6v6uX7FOL",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ambientweather.com/faqs/question/view/id/1869/%3Fsrsltid%3DAfmBOopaiy2oczs3ml-i77LQH6lDlW-uReGMtktyVdf1SsB6v6uX7FOL&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCNECEAE",
+      "displayed_link": "https://ambientweather.com › faqs › question › view",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12cb91749843deeadf24f2362ae880639e.png",
+      "snippet": "The dew point is the temperature at which a given parcel of humid air must be cooled, at constant barometric pressure, for water vapor to condense into water.",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "ambientweather.com"
+    },
+    {
+      "position": 30,
+      "title": "Finding the Dew Point | Cyberchase | PBS LearningMedia",
+      "link": "https://www.pbslearningmedia.org/resource/ng09.sci.ps.earth.dewpoint/finding-the-dew-point/",
+      "displayed_link": "https://www.pbslearningmedia.org · Apr 7, 2013",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFEOyslPtLbdbAoPfxoz7kgfyfDWbuExfn9HpprhtecOit&s",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1249929c39719ee08b666bcebb3d7d7592.png",
+      "snippet": "In this video from Cyberchase, the CyberSquad learns to keep track of both air temperature and humidity so they can predict when fog will appear.",
+      "duration": "2:49",
+      "source": "PBS Learning Media"
+    },
+    {
+      "position": 31,
+      "title": "Determining the Dew Point With A Sling Psychrometer",
+      "link": "https://ia.iowadot.gov/erl/archiveapril2013/IM/content/378.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ia.iowadot.gov/erl/archiveapril2013/IM/content/378.pdf&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECF4QAQ",
+      "displayed_link": "https://ia.iowadot.gov › archiveapril2013 › content",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12c652a3db06dcdbc64bd3351f36def5d1.png",
+      "date": "Oct 26, 1999",
+      "snippet": "From the dry bulb and wet bulb temperature the dew point is calculated. The dew point is the temperature at which moisture in the air will start ...",
+      "snippet_highlighted_words": [
+        "dew point",
+        "calculated. The dew"
+      ],
+      "source": "Iowa Department of Transportation (.gov)"
+    },
+    {
+      "position": 32,
+      "title": "Convert Relative Humidity to Dew Point Temperature",
+      "link": "https://chemicalengineeringguy.com/the-blog/general/dew-point-calculator-convert-relative-humidity-to-dew-point-temperature/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://chemicalengineeringguy.com/the-blog/general/dew-point-calculator-convert-relative-humidity-to-dew-point-temperature/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECHIQAQ",
+      "displayed_link": "https://chemicalengineeringguy.com › ... › General",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f128c1aea044d5122391915bcfec3f7c039.png",
+      "snippet": "Both relative humidity and dew point temperature are measure of the amount of moisture in air or other gases. Some applications require the moisture content ...",
+      "snippet_highlighted_words": [
+        "dew point",
+        "measure"
+      ],
+      "source": "Chemical Engineering Guy"
+    },
+    {
+      "position": 33,
+      "title": "Dew Point - an overview",
+      "link": "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/dew-point",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/topics/earth-and-planetary-sciences/dew-point&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECHUQAQ",
+      "displayed_link": "https://www.sciencedirect.com › topics › dew-point",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12587638a36d7d22f50503370a86578a7e.png",
+      "snippet": "The dew-point temperature ( T d ) of a sample of air with vapor pressure e is the temperature to which it must be cooled to become saturated, i.e. it is defined ...",
+      "snippet_highlighted_words": [
+        "dew",
+        "point"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 34,
+      "title": "Dew Point Calculator: Manage Home Comfort, ...",
+      "link": "https://www.bayviewwindows.ca/blog/unlocking-comfort-understanding-dew-point-and-humidity-in-your-Home/extreme_temperatures",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bayviewwindows.ca/blog/unlocking-comfort-understanding-dew-point-and-humidity-in-your-Home/extreme_temperatures&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECHkQAQ",
+      "displayed_link": "https://www.bayviewwindows.ca › extreme_temperatures",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f125d1b6a50b4e0ea54fc159d95168ef8fb.png",
+      "date": "Mar 19, 2025",
+      "snippet": "Dew Point Calculator: Enter the current temperature and relative humidity to calculate the dew point.",
+      "snippet_highlighted_words": [
+        "calculate the dew point"
+      ],
+      "source": "Bayview Windows"
+    },
+    {
+      "position": 35,
+      "title": "understanding-dew-point-calculations- ...",
+      "link": "https://www.efficiencyvermont.com/Media/Default/bbd/2020/docs/presentations/understanding-dew-point-calculations-bbd-2020.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.efficiencyvermont.com/Media/Default/bbd/2020/docs/presentations/understanding-dew-point-calculations-bbd-2020.pdf&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCIEBEAE",
+      "displayed_link": "https://www.efficiencyvermont.com › presentations",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12aae2a605c1a2548988cbd19188a5b359.png",
+      "snippet": "Understanding Basic Dew Point Calculations for High Performance. Basements ... Simplified dew point calculation. T dp. ≈ T db. - 9/25 (100 – RH) or, in ...",
+      "snippet_highlighted_words": [
+        "Dew Point Calculations",
+        "dew point calculation"
+      ],
+      "source": "Efficiency Vermont"
+    },
+    {
+      "position": 36,
+      "title": "Dew Point Calculator with Selectable Engineering Units",
+      "link": "https://www.shawmeters.com/dew-point-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shawmeters.com/dew-point-calculator/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJABEAE",
+      "displayed_link": "https://www.shawmeters.com › dew-point-calculator",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12bbe03bbd2b9ccddccd2a2a70099d4e6a.png",
+      "snippet": "This online tool brings together many different measurement units for accurate calculations of pressure dew point and moisture content equivalents.",
+      "snippet_highlighted_words": [
+        "calculations",
+        "dew point"
+      ],
+      "source": "Shaw Moisture Meters"
+    },
+    {
+      "position": 37,
+      "title": "Relative Humidity vs. Dew Point in Compressed Air Systems",
+      "link": "https://fluidairedynamics.com/blogs/articles/relative-humidity-vs-dew-point-compressed-air-systems?srsltid=AfmBOopU6uhz6Fx8pVjwWIUXVgN53WdoofsqN6H5xWr2FzHCsGo5gzie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fluidairedynamics.com/blogs/articles/relative-humidity-vs-dew-point-compressed-air-systems%3Fsrsltid%3DAfmBOopU6uhz6Fx8pVjwWIUXVgN53WdoofsqN6H5xWr2FzHCsGo5gzie&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJQBEAE",
+      "displayed_link": "https://fluidairedynamics.com › Blog",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12f1fc61da9126975d5271c9ece703e9d0.png",
+      "snippet": "The compressed air pressure dew point is a measure of how much moisture is in the air at a given pressure. The higher the pressure, the less moisture the air is ...",
+      "snippet_highlighted_words": [
+        "dew point",
+        "measure"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 149
+          },
+          "extensions": [
+            "4.8(149)"
+          ]
+        }
+      },
+      "source": "Fluid-Aire Dynamics"
+    },
+    {
+      "position": 38,
+      "title": "How to Calculate Dew Point: Formula and Dew Point Chart",
+      "link": "https://www.aivyter.com/blog/calculate-dew-point.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aivyter.com/blog/calculate-dew-point.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJEBEAE",
+      "displayed_link": "https://www.aivyter.com › News › Blog",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12cee7cce9833d0b46294928a893f55656.png",
+      "date": "Nov 27, 2024",
+      "snippet": "A. Dew Point Approximation Formula ; -10, -17.5, -14.8 ; -5, -12.8, -10.0 ; 0, -8.5, -5.7 ; 5, -4.7, -2.0 ...",
+      "snippet_highlighted_words": [
+        "Dew Point",
+        "Formula"
+      ],
+      "source": "Aivyter"
+    },
+    {
+      "position": 39,
+      "title": "Dew Point Calculator for Moisture",
+      "link": "https://gasquip.com/dew-point-calculator-for-moisture/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gasquip.com/dew-point-calculator-for-moisture/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCKIBEAE",
+      "displayed_link": "https://gasquip.com › dew-point-calculator-for-moisture",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12994fa2c3135dc70d66629e397ce09bdf.png",
+      "snippet": "Steps: 1. Dew Point or Absolute Values: Begin by entering data into the dew point fields or any of the four absolute value sections.",
+      "snippet_highlighted_words": [
+        "Dew Point",
+        "dew point"
+      ],
+      "source": "GasQuip"
+    },
+    {
+      "position": 40,
+      "title": "Calculating Relative Humidity And Dewpoint YouTube",
+      "link": "https://www.youtube.com/watch?v=5SHfffEdOiU&pp=ygUSI2RlZmV0ZWRieWh1bWlkaXR5",
+      "displayed_link": "38.9K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJU_3lTeynN09jI-DBjVxqgwmFzbIl9-F-Ze2ajPfnexI&s",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f122c577137524f3411b59290dbe9854df9.png",
+      "snippet": "8:26 Go to channel How to measure Dewpoint & Relative Humidity using a Whirling Hygrometer or Sling Psychrometer",
+      "duration": "5:58",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRAv0tIaq4O0vDrdynapqgJ0Iu8cjidhsN_pQ",
+      "source": "YouTube · LEARNING MATERIALS"
+    },
+    {
+      "position": 41,
+      "title": "Calculating of the dew point temperature - Knowledge Base",
+      "link": "https://knowledgebase.grenton.com/calculating-of-the-dew-point-temperature",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://knowledgebase.grenton.com/calculating-of-the-dew-point-temperature&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCLkBEAE",
+      "displayed_link": "https://knowledgebase.grenton.com › Manuals",
+      "snippet": "Calculating of the dew point temperature. Based on the air temperature and humidity value, it is possible to determine the dew point temperature.",
+      "snippet_highlighted_words": [
+        "Calculating",
+        "dew point",
+        "determine",
+        "dew point"
+      ],
+      "source": "grenton.com"
+    },
+    {
+      "position": 42,
+      "title": "How to Measure Dew Point in a Compressed Air System",
+      "link": "https://www.iothrifty.com/blogs/news/how-to-measure-dew-point-in-a-compressed-air-system-a-comprehensive-guide?srsltid=AfmBOooZTGgaoQtp_1M7FVWGVA7fiAZuz9UElMP_-WDvWsWX1ZpTPoqQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iothrifty.com/blogs/news/how-to-measure-dew-point-in-a-compressed-air-system-a-comprehensive-guide%3Fsrsltid%3DAfmBOooZTGgaoQtp_1M7FVWGVA7fiAZuz9UElMP_-WDvWsWX1ZpTPoqQ&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCNcBEAE",
+      "displayed_link": "https://www.iothrifty.com › blogs › news › how-to-meas...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12ef59cd84d4b2f57952bd841b4d8942e5.png",
+      "date": "Mar 7, 2025",
+      "snippet": "Dew point can be calculated from temperature and relative humidity using empirical formulas. One common approximation is the Magnus formula.",
+      "snippet_highlighted_words": [
+        "Dew point",
+        "calculated",
+        "formula"
+      ],
+      "source": "IOThrifty"
+    },
+    {
+      "position": 43,
+      "title": "Understanding psychrometric charts and dew points",
+      "link": "https://angelicaisa.com/blog/understanding-dewpoint",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://angelicaisa.com/blog/understanding-dewpoint&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCNkBEAE",
+      "displayed_link": "https://angelicaisa.com › blog › understanding-dewpoint",
+      "date": "Jul 31, 2021",
+      "snippet": "Dew point is read as a temperature. · It represents the absolute moisture content of the air. · Dew point is the temperature at which Relative ...",
+      "snippet_highlighted_words": [
+        "Dew point",
+        "Dew point"
+      ],
+      "source": "Angelica Isa"
+    },
+    {
+      "position": 44,
+      "title": "All You Need To Know About Dew Point And How It Differs ...",
+      "link": "https://www2.purpleair.com/blogs/blog-home/all-you-need-to-know-about-dew-point-and-how-it-differs-from-humidity?srsltid=AfmBOorPQ2OhG8mKTeUAj7A0WMeOJvqJnabejEPWEszs5REKQUiy3Y2f",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www2.purpleair.com/blogs/blog-home/all-you-need-to-know-about-dew-point-and-how-it-differs-from-humidity%3Fsrsltid%3DAfmBOorPQ2OhG8mKTeUAj7A0WMeOJvqJnabejEPWEszs5REKQUiy3Y2f&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCOoBEAE",
+      "displayed_link": "https://www2.purpleair.com › blogs › blog-home › all-...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12e48610a6498f3dd20162db575923f326.png",
+      "date": "Nov 9, 2022",
+      "snippet": "The dew point is the temperature at which water vapor in the air condenses into a liquid at the same rate liquid water vaporizes. In this state ...",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "PurpleAir"
+    },
+    {
+      "position": 45,
+      "title": "How to Determine if Condensation Will Occur",
+      "link": "https://www.wikihow.com/Determine-if-Condensation-Will-Occur",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wikihow.com/Determine-if-Condensation-Will-Occur&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCPMBEAE",
+      "displayed_link": "https://www.wikihow.com › ... › Science › Meteorology",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f126f6d901a2a75567ee41c83b4359abb0d.png",
+      "snippet": "The dew point—the temperature at which water condensation occurs—is determined primarily by the air temperature and the relative humidity. · Relative humidity ...",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "wikiHow"
+    },
+    {
+      "position": 46,
+      "title": "Calculate Dew Point from Wet-Bulb | Weather",
+      "link": "http://www.djburnette.com/weather/wxcalc/dewpointwb.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.djburnette.com/weather/wxcalc/dewpointwb.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCLwCEAE",
+      "displayed_link": "http://www.djburnette.com › weather › wxcalc › dewpo...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12e7024bff1440a6b5bdea408db4a56b12.jpeg",
+      "snippet": "In the above equation, T is the temperature in °C, Wb is the wet-bulb temperature in °C, Psta is the station pressure in millibars, ew is vapor pressure related ...",
+      "snippet_highlighted_words": [
+        "equation"
+      ],
+      "source": "Dorian J. Burnette"
+    },
+    {
+      "position": 47,
+      "title": "How to measure dew point",
+      "link": "https://www.quora.com/How-do-I-measure-dew-point",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/How-do-I-measure-dew-point&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCIQCEAE",
+      "displayed_link": "2 answers · 2 years ago",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f127c30e414421b34c82a687c30063c395e.png",
+      "snippet": "Dew point temperature is usually not measured directly but is caluculated by comparing dry bulb and wet bulb temperatures. Hygrometric tables ...",
+      "snippet_highlighted_words": [
+        "Dew point"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 48,
+      "title": "DewPoint Calculation within the wall Assembly",
+      "link": "https://community.blackspectacles.com/t/dewpoint-calculation-within-the-wall-assembly/3087",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.blackspectacles.com/t/dewpoint-calculation-within-the-wall-assembly/3087&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCIUCEAE",
+      "displayed_link": "https://community.blackspectacles.com › dewpoint-calc...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f121f392b828b88a1f81ed8a0d0321fbd95.png",
+      "date": "May 24, 2021",
+      "snippet": "The dew point would be determined by locating the dry bulb and wet bulb temperature on a psychometric chart and drawing a horizontal line to the left.",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "Black Spectacles ARE Community"
+    },
+    {
+      "position": 49,
+      "title": "Accurate expressions for the dew point and frost ...",
+      "link": "https://www.arm.gov/publications/other/P012295.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.arm.gov/publications/other/P012295.pdf&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJACEAE",
+      "displayed_link": "https://www.arm.gov › publications › other",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12fec0bda5fdb1a31920dc002e466e9387.png",
+      "author": "by DM Romps",
+      "snippet": "Bosen, J. F., 1958: An approximation formula to compute relative humidity from dry bulb and dew point temperatures. Monthly Weather Review, 86 (12), 486–486 ...",
+      "snippet_highlighted_words": [
+        "formula to compute",
+        "dew point"
+      ],
+      "source": "Atmospheric Radiation Measurement (ARM) User Facility (.gov)"
+    },
+    {
+      "position": 50,
+      "title": "9 The dew point in degrees Fahrenheit can be calculated ...",
+      "link": "https://brainly.com/question/19644246",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/19644246&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCLYCEAE",
+      "displayed_link": "https://brainly.com › Mathematics › High School",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f124eee23b11987edfdad8b3df10c20b91e.png",
+      "date": "Dec 1, 2020",
+      "snippet": "The dew point in degrees Fahrenheit can be calculated with the formula DP = T (100 - RH), where DP is the dew point, T is the dry-bulb temperature, and RH is ...",
+      "snippet_highlighted_words": [
+        "dew point",
+        "calculated",
+        "formula",
+        "dew point"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 51,
+      "title": "Dew point temperature – What does it mean and how can ...",
+      "link": "https://www.vaisala.com/en/expert-article/dew-point-temperature-what-does-it-mean-and-how-can-it-be-calculated",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vaisala.com/en/expert-article/dew-point-temperature-what-does-it-mean-and-how-can-it-be-calculated&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCIwCEAE",
+      "displayed_link": "https://www.vaisala.com › expert-article › dew-point-te...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f129e7e40b736b2520ec34351efb8246f78.png",
+      "snippet": "While dew point temperature is not dependent on temperature, it is dependent on pressure: the higher the pressure, the higher the dewpoint temperature. One ...",
+      "snippet_highlighted_words": [
+        "dew point",
+        "dewpoint"
+      ],
+      "source": "Vaisala"
+    },
+    {
+      "position": 52,
+      "title": "Dew point - Estimation.tools",
+      "link": "https://www.estimation.tools/moisture/dew_point.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.estimation.tools/moisture/dew_point.php&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJ0CEAE",
+      "displayed_link": "https://www.estimation.tools › moisture › dew_point",
+      "snippet": "Dew point · Temperature. Refers to the temperature in the air as the moisture content should be calculated. · Relative humidity. Relative humidity is a measure of ...",
+      "snippet_highlighted_words": [
+        "Dew point",
+        "calculated",
+        "measure"
+      ],
+      "source": "estimation.tools"
+    },
+    {
+      "position": 53,
+      "title": "Dew Point Calculator",
+      "link": "https://www.calctool.org/atmospheric-thermodynamics/dew-point",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calctool.org/atmospheric-thermodynamics/dew-point&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCLoCEAE",
+      "displayed_link": "https://www.calctool.org › atmospheric-thermodynamics",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f128867fd94fb271d336b35eb71b02756ee.png",
+      "date": "Jul 28, 2022",
+      "snippet": "How do I calculate the dew point? · Tdp = bα/(a - α) · α = ln(RH%/100) + aT/(b + T).",
+      "snippet_highlighted_words": [
+        "calculate the dew point"
+      ],
+      "source": "CalcTool"
+    },
+    {
+      "position": 54,
+      "title": "How can we calculate dew point from relative humidity?",
+      "link": "https://www.ck12.org/flexi/earth-science/humidity/how-can-we-calculate-dew-point-from-relative-humidity/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ck12.org/flexi/earth-science/humidity/how-can-we-calculate-dew-point-from-relative-humidity/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCNcCEAE",
+      "displayed_link": "https://www.ck12.org › ... › Earth Science › Humidity",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f122c3738790b51fbc1f530eb81e544d295.png",
+      "snippet": "The dew point temperature can be calculated from relative humidity and actual air temperature using the following formula: T d = T − ( ( 100 − R H ) 5 ).",
+      "snippet_highlighted_words": [
+        "dew point",
+        "calculated",
+        "formula"
+      ],
+      "source": "CK-12 Foundation"
+    },
+    {
+      "position": 55,
+      "title": "Dew Point Calculation",
+      "link": "https://groups.google.com/g/swatuser/c/MEK4duoV1aw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://groups.google.com/g/swatuser/c/MEK4duoV1aw&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCN0CEAE",
+      "displayed_link": "https://groups.google.com › swatuser",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f128af05246fa4a42b24675f43c6885598a.png",
+      "date": "Jun 2, 2015",
+      "snippet": "Td = T - ((100 - RH)/5.) where Td is dew point temperature (in degrees Celsius), T is observed temperature ( ...",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "Google Groups"
+    },
+    {
+      "position": 56,
+      "title": "Humidity calculator for relative humidity, dew point, water ...",
+      "link": "https://www.dks-engineering.com/en/knowledge/humidity-moisture-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dks-engineering.com/en/knowledge/humidity-moisture-calculator&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCMECEAE",
+      "displayed_link": "https://www.dks-engineering.com › knowledge › humidi...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12f3d42c8e4be6ee4ecffa3dc8b4d46097.png",
+      "snippet": "Humidity calculator for relative humidity, dew point, water vapor content and much more. With the DKS humidity calculator, the parameters volume fractions ...",
+      "snippet_highlighted_words": [
+        "calculator",
+        "dew point",
+        "calculator"
+      ],
+      "source": "DKS GmbH Engineering und Vertrieb"
+    },
+    {
+      "position": 57,
+      "title": "Dewpoint",
+      "link": "https://cales.arizona.edu/AZMET/dewpoint.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cales.arizona.edu/AZMET/dewpoint.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCNYCEAE",
+      "displayed_link": "https://cales.arizona.edu › AZMET › dewpoint",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f123d30273b0d4e0ec48a355e78945dbfeb.png",
+      "snippet": "Dewpoint Formulas. Dewpoint calculated from: Dry Bulb Temperature Relative Humidity ...",
+      "snippet_highlighted_words": [
+        "Dewpoint",
+        "Dewpoint calculated"
+      ],
+      "source": "College of Agriculture, Life & Environmental Sciences"
+    },
+    {
+      "position": 58,
+      "title": "Understanding Dew Point Temperature",
+      "link": "https://www.greenbuildingadvisor.com/article/understanding-dew-point-temperature",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.greenbuildingadvisor.com/article/understanding-dew-point-temperature&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCNQCEAE",
+      "displayed_link": "https://www.greenbuildingadvisor.com › article › under...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12007a20bd90f60855df8a231f32e4eb82.png",
+      "date": "Jul 13, 2018",
+      "snippet": "The dew point is the temperature the air needs to be cooled to (at constant pressure) in order to achieve a relative humidity (RH) of 100%.",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "GreenBuildingAdvisor"
+    },
+    {
+      "position": 59,
+      "title": "Dew point calculator - Easily convert to the desired dew point",
+      "link": "https://airpack.nl/tools/dew-point-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://airpack.nl/tools/dew-point-calculator/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCNoCEAE",
+      "displayed_link": "https://airpack.nl › tools › dew-point-calculator",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f120847d90830e93866d7f3779ef90ef669.png",
+      "snippet": "Dew point calculation (between °C and bar) - Easily calculate the desired dew point. Choose between both the pressure and the atmospheric dew point.",
+      "snippet_highlighted_words": [
+        "Dew point calculation",
+        "calculate",
+        "dew point",
+        "dew point"
+      ],
+      "source": "Airpack"
+    },
+    {
+      "position": 60,
+      "title": "Calculating Dew Point with a Psychrometric Chart",
+      "link": "https://www.youtube.com/watch?v=Wk_NGSbj6HQ&pp=0gcJCfcAhR29_xXO",
+      "displayed_link": "57.6K+ views · 11 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkWXQKw5DXempVPkhjH3LouTter_pbApGNauaw9MQwN4R&s",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12c666ca52db129057592cec04de19ea94.png",
+      "snippet": "In this IAQA Tech Tip video from the Indoor Air Quality Association (http://iaqa.org), you'll learn how to use a psychrometric chart in ...",
+      "duration": "2:13",
+      "key_moments": [
+        {
+          "time": "00:04",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=Wk_NGSbj6HQ&pp=0gcJCfcAhR29_xXO&t=4",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJkb-0w79JoL9SmkXKmVha0GzMOpfSoSXV9uMFYjaKQ&s"
+        },
+        {
+          "time": "00:31",
+          "title": "Why is dew point important?",
+          "link": "https://www.youtube.com/watch?v=Wk_NGSbj6HQ&pp=0gcJCfcAhR29_xXO&t=31",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfBx1wvVrNB1nmnStj0t3gp3Zjpc7M8g4XI21HZNkAWQ&s"
+        },
+        {
+          "time": "00:58",
+          "title": "Calculating Dew Point",
+          "link": "https://www.youtube.com/watch?v=Wk_NGSbj6HQ&pp=0gcJCfcAhR29_xXO&t=58",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPnNCbmHjtGLQWnJ6tw0p73BBiQvyL8MthkoWdKZg8A&s"
+        },
+        {
+          "time": "01:28",
+          "title": "Draw a thick line through relative humidity",
+          "link": "https://www.youtube.com/watch?v=Wk_NGSbj6HQ&pp=0gcJCfcAhR29_xXO&t=88",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPi04POXWyfLd7FORR5GIzMqbPHEx89RUfmpYEBRhnA&s"
+        },
+        {
+          "time": "01:40",
+          "title": "Saturation Curve",
+          "link": "https://www.youtube.com/watch?v=Wk_NGSbj6HQ&pp=0gcJCfcAhR29_xXO&t=100",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8VRDDybDYvLFR4QG5CyUZWHFMKOChlnf_mxtKaReI5Q&s"
+        },
+        {
+          "time": "01:52",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=Wk_NGSbj6HQ&pp=0gcJCfcAhR29_xXO&t=112",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZyoV6PukPGp6IUgwaW_ShJflYeFryQLGP39k704R_9g&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQVfIrcakkoDTF3fo9IJ9ulsNZrY6u9KN4czg",
+      "source": "YouTube · Indoor Air Quality Association (IAQA)"
+    },
+    {
+      "position": 61,
+      "title": "Dew point formula | Pico Knowledge Base",
+      "link": "https://www.picotech.com/library/knowledge-bases/data-loggers/dew-point-formula",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.picotech.com/library/knowledge-bases/data-loggers/dew-point-formula&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECFwQAQ",
+      "displayed_link": "https://www.picotech.com › All › Pico Knowledge Bases",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f122007279e2c3ccd6d7dbe947ebd35c4c4.png",
+      "date": "Mar 24, 2025",
+      "snippet": "The dew point is the temperature at which air is saturated with water vapor. If the temperature goes below the dew point, water will begin to condense.",
+      "snippet_highlighted_words": [
+        "dew point",
+        "dew point"
+      ],
+      "source": "Pico Technology"
+    },
+    {
+      "position": 62,
+      "title": "Dew Point Calculator",
+      "link": "https://calculator.academy/dew-point-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://calculator.academy/dew-point-calculator/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECF8QAQ",
+      "displayed_link": "https://calculator.academy › dew-point-calculator",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1213a1c447a56e7d311863d1ff779a61b0.png",
+      "date": "Aug 13, 2024",
+      "snippet": "Calculate the total dew point in Fahrenheit. Enter the current temperature and relative humidity ($) and this calculator will determine the dew point.",
+      "snippet_highlighted_words": [
+        "Calculate",
+        "dew point",
+        "calculator",
+        "determine",
+        "dew point"
+      ],
+      "source": "Calculator Academy"
+    },
+    {
+      "position": 63,
+      "title": "How Do I calculate the Dew Point from the Temperature ...",
+      "link": "https://au.mathworks.com/matlabcentral/answers/787414-how-do-i-calculate-the-dew-point-from-the-temperature-and-relative-humidity-the-equation-i-need-to",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://au.mathworks.com/matlabcentral/answers/787414-how-do-i-calculate-the-dew-point-from-the-temperature-and-relative-humidity-the-equation-i-need-to&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECGIQAQ",
+      "displayed_link": "https://au.mathworks.com › matlabcentral › answers › 7...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1220f3cc09c1c5a0c0e1a0a17fc0e7654a.png",
+      "date": "Mar 29, 2021",
+      "snippet": "How Do I calculate the Dew Point from the Temperature and Relative Humidity. The equation I need to use is: Td = T - ((100 - RH)/5.).",
+      "snippet_highlighted_words": [
+        "calculate the Dew Point"
+      ],
+      "source": "MathWorks"
+    },
+    {
+      "position": 64,
+      "title": "Dew point calculator - Custom Drivers",
+      "link": "https://community.hubitat.com/t/dew-point-calculator/72758",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.hubitat.com/t/dew-point-calculator/72758&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECGEQAQ",
+      "displayed_link": "https://community.hubitat.com › ... › Custom Drivers",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12f50d6b080a7c0eb8dbca2175363a1bfe.png",
+      "date": "May 17, 2021",
+      "snippet": "Install the below App and Driver. The App will allow you to select the temp and humidity input. The driver will present you with a variable you ...",
+      "source": "Hubitat"
+    },
+    {
+      "position": 65,
+      "title": "What is dew point? Is it measured or calculated? Reader's ...",
+      "link": "https://www.cleveland.com/weather/blog/2016/07/reader_questions_answered_what.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cleveland.com/weather/blog/2016/07/reader_questions_answered_what.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECHgQAQ",
+      "displayed_link": "https://www.cleveland.com › weather › blog › 2016/07",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f129a3aecf3d97b3b5417a4dd7e3715131a.png",
+      "date": "Jul 8, 2016",
+      "snippet": "What exactly is dew point and is it measured or calculated? Cleveland.com meteorologist Kelly Reardon answers reader questions.",
+      "snippet_highlighted_words": [
+        "dew point",
+        "calculated"
+      ],
+      "source": "Cleveland.com"
+    },
+    {
+      "position": 66,
+      "title": "Dew Point calculation - Physics, Space Science and Theories",
+      "link": "https://stargazerslounge.com/topic/180593-dew-point-calculation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stargazerslounge.com/topic/180593-dew-point-calculation/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECHcQAQ",
+      "displayed_link": "https://stargazerslounge.com › topic › 180593-dew-poi...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1267c95b49e0bbca9157ae81b17f775f1e.png",
+      "date": "Mar 15, 2013",
+      "snippet": "E.g Enter 15 C as ambient temp and 55% Rh. The dewpoint of +6.03 Deg C will appear. That means is the temperature at which condensate will occur ...",
+      "snippet_highlighted_words": [
+        "dewpoint"
+      ],
+      "source": "Stargazers Lounge"
+    },
+    {
+      "position": 67,
+      "title": "Dew Point Calculator",
+      "link": "https://www.decatur.de/javascript/dew/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.decatur.de/javascript/dew/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECHYQAQ",
+      "displayed_link": "https://www.decatur.de › javascript › dew",
+      "snippet": "Computes the dewpoint or frostpoint temperatures at a given ambient temperature and relative humidity. Temperature scale. Celsius Fahrenheit",
+      "snippet_highlighted_words": [
+        "dewpoint"
+      ],
+      "source": "decatur.de"
+    },
+    {
+      "position": 68,
+      "title": "How Do I Calculate Dew Point | PDF",
+      "link": "https://www.scribd.com/document/721392323/How-do-I-calculate-dew-point",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/721392323/How-do-I-calculate-dew-point&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCLABEAE",
+      "displayed_link": "https://www.scribd.com › document › How-do-I-calcul...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f128fa0ef9b87a381a6926d399ea25292a5.png",
+      "snippet": "To calculate dew point, the document outlines using the Clausius-Clapeyron equation to relate vapor pressure, saturation vapor pressure, and temperature ...",
+      "snippet_highlighted_words": [
+        "calculate dew point"
+      ],
+      "source": "Scribd"
+    },
+    {
+      "position": 69,
+      "title": "Dew Point Calculator",
+      "link": "https://www.calcunation.com/calculator/dew-point.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calcunation.com/calculator/dew-point.php&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCLMBEAE",
+      "displayed_link": "https://www.calcunation.com › calculator › dew-point",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12b3fe688e5083b11741b177fb207748c9.png",
+      "snippet": "This calculator uses the Magnus formula to calculate the dew point when the temperature range is between -45 and 60 degrees celsius.",
+      "snippet_highlighted_words": [
+        "calculate the dew point"
+      ],
+      "source": "CalcuNation"
+    },
+    {
+      "position": 70,
+      "title": "Calculate dew point temperature.",
+      "link": "https://search.r-project.org/CRAN/refmans/weathermetrics/html/humidity.to.dewpoint.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://search.r-project.org/CRAN/refmans/weathermetrics/html/humidity.to.dewpoint.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCK4BEAE",
+      "displayed_link": "https://search.r-project.org › humidity.to.dewpoint.html",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f121854a2ba777546078adc39a5ebf232bb.png",
+      "snippet": "humidity.to.dewpoint creates a numeric vector of dew point temperature from numeric vectors of air temperature and relative humidity.",
+      "snippet_highlighted_words": [
+        "dewpoint",
+        "dew point"
+      ],
+      "source": "R Project"
+    },
+    {
+      "position": 71,
+      "title": "FilmCare.org",
+      "link": "https://filmcare.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://filmcare.org/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCIsBEAE",
+      "displayed_link": "https://filmcare.org",
+      "snippet": "About the Project. FilmCare.org is a central resource for best practices in film preservation that provides guidelines for dealing with the preservation of ...",
+      "source": "FilmCare"
+    },
+    {
+      "position": 72,
+      "title": "Dew Point and Relative Humidity Calculations",
+      "link": "https://www.wpc.ncep.noaa.gov/html/dewrh.shtml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wpc.ncep.noaa.gov/html/dewrh.shtml&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCMsBEAE",
+      "displayed_link": "https://www.wpc.ncep.noaa.gov › html › dewrh",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1229fbc9c82ab6cff0cf593313cfbbfb54.png",
+      "snippet": "Meteorological Conversions and Calculations. Relative Humidity Calculator Enter a temperature and a dew point, in either. Fahrenheit or Celsius.",
+      "snippet_highlighted_words": [
+        "Calculations",
+        "Calculator",
+        "dew point"
+      ],
+      "source": "National Oceanic and Atmospheric Administration (.gov)"
+    },
+    {
+      "position": 73,
+      "title": "How to Calculate Dew point & Relative Humidity when ...",
+      "link": "https://www.youtube.com/watch?v=VlhpRSHEzq0",
+      "displayed_link": "1.9K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ScVzu34Y-M59uGUfgzPzv85H8I2xciR4e1XZ7oltTwZl&s",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f123ca17a8b30292b5db20f284d7b366965.png",
+      "snippet": "This video talks about how to measure dew point and relative humidity for your next application. When you are applying a coating you need to ...",
+      "duration": "2:15",
+      "source": "YouTube · CIM Industries Inc"
+    },
+    {
+      "position": 74,
+      "title": "Dew Point - an overview",
+      "link": "https://www.sciencedirect.com/topics/engineering/dew-point",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/topics/engineering/dew-point&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCKICEAE",
+      "displayed_link": "https://www.sciencedirect.com › topics › engineering › d...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12ec01470523a24a91622f147ddcea316f.png",
+      "snippet": "The process is shown on the general form of the psychrometric chart (Figure 22.1). Line AB represents cooling at constant humidity until saturation is reached.",
+      "snippet_highlighted_words": [
+        "Figure"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 75,
+      "title": "Heat Index Calculator",
+      "link": "https://www.calculator.net/heat-index-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculator.net/heat-index-calculator.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCKUCEAE",
+      "displayed_link": "https://www.calculator.net › other",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f123f1e771252cac772664bdbffac1913dc.png",
+      "snippet": "Modify values and click calculate to use. Use Relative Humidity. Air Temperature. Fahrenheit °F, Celsius °C, Kelvin. Relative Humidity. Use Dew Point ...",
+      "snippet_highlighted_words": [
+        "calculate",
+        "Dew Point"
+      ],
+      "source": "Calculator.net"
+    },
+    {
+      "position": 76,
+      "title": "Free online Dewpoint Calculator by Alpha Moisture Systems",
+      "link": "https://dew-point.com/dewpoint-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dew-point.com/dewpoint-calculator/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCJMBEAE",
+      "displayed_link": "https://dew-point.com › dewpoint-calculator",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12e103fdaa3f077cd52c03fd0d21aef245.png",
+      "snippet": "The Alpha dewpoint calculator will convert between various units of measurement. To use, simply enter a number in either one of the two dewpoint values.",
+      "snippet_highlighted_words": [
+        "dewpoint calculator",
+        "dewpoint"
+      ],
+      "source": "Alpha Moisture Systems"
+    },
+    {
+      "position": 77,
+      "title": "How does a scientist calculate dew point temperature?",
+      "link": "https://homework.study.com/explanation/how-does-a-scientist-calculate-dew-point-temperature.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homework.study.com/explanation/how-does-a-scientist-calculate-dew-point-temperature.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCKMBEAE",
+      "displayed_link": "https://homework.study.com › explanation › how-does-...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12b22560e13d853ed3f6af2443ba972343.png",
+      "snippet": "The dew point temperature equals the current temperature minus the following: (100 - relative humidity) divided by five.",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "Homework.Study.com"
+    },
+    {
+      "position": 78,
+      "title": "Temperature - Dry Bulb/Web Bulb/Dew Point",
+      "link": "https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCIoCEAE",
+      "displayed_link": "https://www.weather.gov › dry_wet_bulb_definition",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f129959e0627338ecee36a1d2297a3d3b42.png",
+      "snippet": "Example · Jot down the two points being considered: T1 = 40 F, H1 = 2,000ft., T2 = 10 F, H2 = 6,000 ft. · Use the formula: (10F - 40F)/(6,000ft. - 2,000ft.) ...",
+      "snippet_highlighted_words": [
+        "points",
+        "formula"
+      ],
+      "source": "National Weather Service (.gov)"
+    },
+    {
+      "position": 79,
+      "title": "Dew Point Calculator",
+      "link": "https://manycalculators.com/physics/dew-point-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://manycalculators.com/physics/dew-point-calculator&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCIICEAE",
+      "displayed_link": "https://manycalculators.com › physics › dew-point-calc...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f129e6ace57edebeb0aef0ce27b98508071.png",
+      "snippet": "The Dew Point Calculator is a simple yet powerful online tool that determines the dew point temperature based on air temperature and relative humidity.",
+      "snippet_highlighted_words": [
+        "Dew Point Calculator",
+        "dew point"
+      ],
+      "source": "Many Calculators"
+    },
+    {
+      "position": 80,
+      "title": "Relative Humidity approximation from Dew Point and ...",
+      "link": "https://earthscience.stackexchange.com/questions/20577/relative-humidity-approximation-from-dew-point-and-temperature",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://earthscience.stackexchange.com/questions/20577/relative-humidity-approximation-from-dew-point-and-temperature&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCLQBEAE",
+      "displayed_link": "https://earthscience.stackexchange.com › questions › rel...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1213fe6c5500a3be5138351efc96ac9252.png",
+      "date": "Dec 14, 2020",
+      "snippet": "using those values yield weird results. I tried it (the RH formula with the constants in the first row of the table) with T = 16.15 and TD (dew ...",
+      "snippet_highlighted_words": [
+        "formula",
+        "dew"
+      ],
+      "source": "Earth Science Stack Exchange"
+    },
+    {
+      "position": 81,
+      "title": "How do I calculate dew point when I know the",
+      "link": "https://www.scribd.com/doc/254383317/dew-point",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/doc/254383317/dew-point&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECHoQAQ",
+      "displayed_link": "https://www.scribd.com › doc › dew-point",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1219a3ab4ab56199ea8a4b4e04e028a437.png",
+      "snippet": "So, if you know the temperature, you can solve for Es, and substitute the equation for E into the expression for relative humidity and solve for Td (dew point).",
+      "snippet_highlighted_words": [
+        "equation",
+        "dew point"
+      ],
+      "source": "Scribd"
+    },
+    {
+      "position": 82,
+      "title": "How to calculate Dew point temperature from Humidity ...",
+      "link": "https://www.researchgate.net/post/How-to-calculate-Dew-point-temperature-from-Humidity-Maximum-Minimum-and-Average-Air-Temperature",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.researchgate.net/post/How-to-calculate-Dew-point-temperature-from-Humidity-Maximum-Minimum-and-Average-Air-Temperature&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoECHsQAQ",
+      "displayed_link": "https://www.researchgate.net › post › How-to-calculate-...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1293556f6a3de1d9c4da05c44ae5741a8a.png",
+      "date": "Oct 31, 2017",
+      "snippet": "You can use the weathermetrics package in R, which has the \" humidity.to.dewpoint \" function. The input of this function is relative humidity and air ...",
+      "snippet_highlighted_words": [
+        "dewpoint"
+      ],
+      "source": "ResearchGate"
+    },
+    {
+      "position": 83,
+      "title": "Wet Bulb Calculator",
+      "link": "https://www.omnicalculator.com/physics/wet-bulb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omnicalculator.com/physics/wet-bulb&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCMoBEAE",
+      "displayed_link": "https://www.omnicalculator.com › physics › wet-bulb",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f128cb51d7b27bc0cd6b8339e89fe7c4245.png",
+      "snippet": "... dew point at constant pressure. By definition, wet-bulb temperature is the lowest temperature a portion of air can acquire by evaporative cooling only. When ...",
+      "snippet_highlighted_words": [
+        "dew point"
+      ],
+      "source": "Omni Calculator"
+    },
+    {
+      "position": 84,
+      "title": "Dew Point Calculation: Find the Temperature",
+      "link": "https://www.physicsforums.com/threads/dew-point-calculation-find-the-temperature.684813/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.physicsforums.com/threads/dew-point-calculation-find-the-temperature.684813/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCMwBEAE",
+      "displayed_link": "https://www.physicsforums.com › threads › dew-point-...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1215e70e05498551cdc92b20e03c090cf5.png",
+      "date": "Apr 11, 2013",
+      "snippet": "Use the ideal gas law to calculate the partial pressure of the water vapor in the gas phase. Then, find the temperature at which this partial pressure is equal ...",
+      "snippet_highlighted_words": [
+        "calculate"
+      ],
+      "source": "Physics Forums"
+    },
+    {
+      "position": 85,
+      "title": "HOW IS DEWPOINT CALCULATED?",
+      "link": "https://www.theweatherprediction.com/habyhints/330/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theweatherprediction.com/habyhints/330/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCM4BEAE",
+      "displayed_link": "https://www.theweatherprediction.com › habyhints",
+      "snippet": "Dewpoint is the temperature air will reach saturation when air cools and maintains a constant pressure and constant moisture content. To find dewpoint, the ...",
+      "snippet_highlighted_words": [
+        "Dewpoint",
+        "dewpoint"
+      ],
+      "source": "The Weather Prediction"
+    },
+    {
+      "position": 86,
+      "title": "Dew Point Temp calculate from Dry Bulb & Relative Humidity",
+      "link": "https://discourse.ladybug.tools/t/dew-point-temp-calculate-from-dry-bulb-relative-humidity/19266",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discourse.ladybug.tools/t/dew-point-temp-calculate-from-dry-bulb-relative-humidity/19266&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCN0BEAE",
+      "displayed_link": "https://discourse.ladybug.tools › grasshopper › dragonfly",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12ca6e40b8b60e2c5f6ef3725ccc21a47a.png",
+      "date": "Aug 14, 2022",
+      "snippet": "I find the right formula to calculate the Dew Point having the Temperature and the Relative humidity, but I don't have the knowledge to replicate this formula ...",
+      "snippet_highlighted_words": [
+        "calculate the Dew Point"
+      ],
+      "source": "Ladybug Tools | Forum"
+    },
+    {
+      "position": 87,
+      "title": "Accurate Dew Point Calculation - Essential Tool for Climate ...",
+      "link": "https://newtum.com/calculators/physics/dew-point-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://newtum.com/calculators/physics/dew-point-calculator&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCNIBEAE",
+      "displayed_link": "https://newtum.com › physics › dew-point-calculator",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12e1f9247dbfee273fb0baf84a5d7d7ca4.png",
+      "date": "Oct 12, 2024",
+      "snippet": "The Dew Point Calculator is an essential tool for determining the temperature at which air becomes saturated with moisture, known as the dew ...",
+      "snippet_highlighted_words": [
+        "Dew Point Calculator",
+        "determining"
+      ],
+      "source": "Newtum"
+    },
+    {
+      "position": 88,
+      "title": "Dew Point Calculation Formula",
+      "link": "https://globaldatabase.ecpat.org/pdf/papersCollection/PDF_Files:G7I3/fetch.php/dew-point-calculation-formula.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://globaldatabase.ecpat.org/pdf/papersCollection/PDF_Files:G7I3/fetch.php/dew-point-calculation-formula.pdf&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCOcBEAE",
+      "displayed_link": "https://globaldatabase.ecpat.org › pdf › fetch.php",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f120a2d7fc9747df7ceb89733ba8b017797.png",
+      "snippet": "Dew Point Calculator – Calculate Dew Point Easily The dew point for air at 20°C with 65% relative humidity is approximately 13.2°C. How to Calculate Dewpoint?",
+      "snippet_highlighted_words": [
+        "Calculate Dew Point",
+        "How to Calculate Dewpoint"
+      ],
+      "source": "ECPAT"
+    },
+    {
+      "position": 89,
+      "title": "Calculate the dew point of natural gas if I know ...",
+      "link": "https://www.eng-tips.com/threads/calculate-the-dew-point-of-natural-gas-if-i-know-the-composition.53663/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eng-tips.com/threads/calculate-the-dew-point-of-natural-gas-if-i-know-the-composition.53663/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCOgBEAE",
+      "displayed_link": "https://www.eng-tips.com › threads › calculate-the-dew-p...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f126734150963a93d7f4b42a89879d7c402.png",
+      "date": "Apr 23, 2003",
+      "snippet": "The partial pressure of the water vapor can be easily calculated as the vol fraction of water vapor X the total operating pressure: example: say ...",
+      "snippet_highlighted_words": [
+        "calculated"
+      ],
+      "source": "Eng-Tips"
+    },
+    {
+      "position": 90,
+      "title": "How to Calculate Dew Point",
+      "link": "https://www.youtube.com/watch?v=wakncasREvI",
+      "displayed_link": "17.1K+ views · 10 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSI-g1l9WXfRp9IYwJTTar_JYIwWpeURkoIzG-xT7A9EXr&s",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12d26f89bd40213f72e9e03bfd51ed525e.png",
+      "snippet": "This is the 2nd video in a multipart tutorial on understtanding humidity. In this video we look at how to calculate dew point.",
+      "duration": "6:04",
+      "key_moments": [
+        {
+          "time": "00:08",
+          "title": "What is dew point?",
+          "link": "https://www.youtube.com/watch?v=wakncasREvI&t=8",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvYZbtGRVliqC8C3pC63dOAJ98bHks0Mjh41NmfQM2w&s"
+        },
+        {
+          "time": "00:28",
+          "title": "Dew point example",
+          "link": "https://www.youtube.com/watch?v=wakncasREvI&t=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxgjHoDNXp1RSq_Qt0uPFjNWsCN3kVS-EW03QXDpxWg&s"
+        },
+        {
+          "time": "03:11",
+          "title": "Calculating Relative Humidity",
+          "link": "https://www.youtube.com/watch?v=wakncasREvI&t=191",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTYhgzEeIFf5WgP-K3d0D4fTcvechABhvliSAVYdlGzg&s"
+        },
+        {
+          "time": "03:29",
+          "title": "Relative Humidity",
+          "link": "https://www.youtube.com/watch?v=wakncasREvI&t=209",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXBg9GH82LOKqLfI3OIY8gug1mMhOKu737mJNgh0nhXw&s"
+        },
+        {
+          "time": "05:18",
+          "title": "Air's capacity to hold water is dependent on temperature",
+          "link": "https://www.youtube.com/watch?v=wakncasREvI&t=318",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRd0EVTaC2S73ImryFwiP4QS8c5oURGyaGrmUZav9f2Q&s"
+        },
+        {
+          "time": "05:47",
+          "title": "Summary",
+          "link": "https://www.youtube.com/watch?v=wakncasREvI&t=347",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqtWKkF-wHwnE1Sv0kN8JDTspOfIblp22U7MUGo0fqA&s"
+        }
+      ],
+      "source": "YouTube · Marcos Luna"
+    },
+    {
+      "position": 91,
+      "title": "Psychrometric Calculator",
+      "link": "https://www.kwangu.com/work/psychrometric.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kwangu.com/work/psychrometric.htm&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCOwBEAE",
+      "displayed_link": "https://www.kwangu.com › work › psychrometric",
+      "date": "Dec 25, 2020",
+      "snippet": "Psychrometric Calculator. Enter dry bulb temperature, plus either wet bulb temp, %RH or dewpoint temp. Dry bulb temp °C, Wet bulb temp",
+      "snippet_highlighted_words": [
+        "Calculator",
+        "dewpoint"
+      ],
+      "source": "Kwangu"
+    },
+    {
+      "position": 92,
+      "title": "Dew Point Calculation Formula",
+      "link": "https://old.yarrah.com/pdf/uploaded-files:2400/DewPointCalculationFormula.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://old.yarrah.com/pdf/uploaded-files:2400/DewPointCalculationFormula.pdf&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCPIBEAE",
+      "displayed_link": "https://old.yarrah.com › pdf › uploaded-files:2400 › De...",
+      "date": "Feb 27, 2025",
+      "snippet": "Have you ever stepped outside on a humid summer morning and felt that clinging dampness in the air? Or perhaps noticed your glasses fogging ...",
+      "source": "Yarrah"
+    },
+    {
+      "position": 93,
+      "title": "Dew Point Calculator - Calcx",
+      "link": "https://www.calcx.org/dew-point-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calcx.org/dew-point-calculator&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCPgBEAE",
+      "displayed_link": "https://www.calcx.org › dew-point-calculator",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f12a6eff4fdcdd5ee0dc50029238c5c8da4.png",
+      "snippet": "The dew point is the temperature at which air becomes saturated with moisture and water vapor begins to condense into liquid water (dew). It is a direct measure ...",
+      "snippet_highlighted_words": [
+        "dew point",
+        "measure"
+      ],
+      "source": "calcx.org"
+    },
+    {
+      "position": 94,
+      "title": "formula to calculate dew point from temperature and humidity",
+      "link": "https://stackoverflow.com/questions/27288021/formula-to-calculate-dew-point-from-temperature-and-humidity",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/27288021/formula-to-calculate-dew-point-from-temperature-and-humidity&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCKACEAE",
+      "displayed_link": "2 answers · 10 years ago",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1287a0bf6c96c15927f3132e76073d9309.png",
+      "snippet": "This should do the job. Below Code only take Celsius and Fahrenheit in account. To use other units of temperature, modify code accordingly;",
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 95,
+      "title": "Is there any formula to calculate dewpoint temperature ...",
+      "link": "https://www.researchgate.net/post/Is_there_any_formula_to_calculate_dewpoint_temperature_without_knowing_relative_humidity",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.researchgate.net/post/Is_there_any_formula_to_calculate_dewpoint_temperature_without_knowing_relative_humidity&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCLgCEAE",
+      "displayed_link": "https://www.researchgate.net › post › Is_there_any_for...",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1213e7cb073aedbef01083a7701505d8a6.png",
+      "date": "Jan 18, 2022",
+      "snippet": "I want to calculate actual vapor pressure from saturation vapor pressure data. For this, I need relative humidity or dewpoint temperature data.",
+      "snippet_highlighted_words": [
+        "calculate",
+        "dewpoint"
+      ],
+      "source": "ResearchGate"
+    },
+    {
+      "position": 96,
+      "title": "Dew Point in Wall Calculations - WUFI® Forum",
+      "link": "https://www.wufi-forum.com/viewtopic.php?t=1018",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wufi-forum.com/viewtopic.php%3Ft%3D1018&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCL0CEAE",
+      "displayed_link": "https://www.wufi-forum.com › ... › General",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f1255fa52f1d00c43869bfa073f77a382c9.png",
+      "date": "Jan 19, 2015",
+      "snippet": "In the calculation movie go to properties, open the section heat, there you will find the dewpoint. If you swich it to visible, you will see it in the movie ...",
+      "snippet_highlighted_words": [
+        "calculation",
+        "dewpoint"
+      ],
+      "source": "wufi-forum.com"
+    },
+    {
+      "position": 97,
+      "title": "Dew Point Calculation - Student",
+      "link": "https://www.cheresources.com/invision/topic/30705-dew-point-calculation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cheresources.com/invision/topic/30705-dew-point-calculation/&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCLIBEAE",
+      "displayed_link": "https://www.cheresources.com › ... › Student",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f121ccde2a772e0c428c169ca96e3401d6f.png",
+      "date": "Mar 1, 2022",
+      "snippet": "You will need to know what is in the rest of your gas mix so you can choose an appropriate thermodynamic VLE model for calculating the dew point ...",
+      "snippet_highlighted_words": [
+        "calculating the dew point"
+      ],
+      "source": "cheresources.com"
+    },
+    {
+      "position": 98,
+      "title": "Dew Point Calculation in a Gas Mixture",
+      "link": "https://groups.google.com/g/alt.hvac/c/WtPCNX25Bjo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://groups.google.com/g/alt.hvac/c/WtPCNX25Bjo&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQFnoFCK8BEAE",
+      "displayed_link": "https://groups.google.com › alt.hvac",
+      "favicon": "https://serpapi.com/searches/685df71d55ba65e190b29d5e/images/4e5210be11a8561a5dd0201e70d80f122bfbf37326e23124cbc2b83e27868bcd.png",
+      "snippet": "Does anybody knows where to find information to calculate the Dew Point temperature of water in a gas mixture. In air it is stated in ASHRAE, ...",
+      "snippet_highlighted_words": [
+        "calculate the Dew Point"
+      ],
+      "source": "Google Groups"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=how+to+calculate+the+dew+point&num=100&sca_esv=243755e6b8237819&hl=en&gl=us&udm=18&sa=X&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ8poLegQIVBAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+calculate+the+dew+point",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How to calculate the dew point in fahrenheit",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=How+to+calculate+the+dew+point+in+fahrenheit&sa=X&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+calculate+the+dew+point+in+fahrenheit"
+    },
+    {
+      "block_position": 1,
+      "query": "How to calculate the dew point in celsius",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=How+to+calculate+the+dew+point+in+celsius&sa=X&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+calculate+the+dew+point+in+celsius"
+    },
+    {
+      "block_position": 1,
+      "query": "Dew point chart",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=Dew+point+chart&sa=X&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Dew+point+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "What is dew point",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=What+is+dew+point&sa=X&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+is+dew+point"
+    },
+    {
+      "block_position": 1,
+      "query": "How to calculate dew point without relative humidity",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=How+to+calculate+dew+point+without+relative+humidity&sa=X&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+calculate+dew+point+without+relative+humidity"
+    },
+    {
+      "block_position": 1,
+      "query": "Dew point calculator Excel",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=Dew+point+calculator+Excel&sa=X&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Dew+point+calculator+Excel"
+    },
+    {
+      "block_position": 1,
+      "query": "Dew point temperature",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=Dew+point+temperature&sa=X&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Dew+point+temperature"
+    },
+    {
+      "block_position": 1,
+      "query": "Dew point vs humidity",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=Dew+point+vs+humidity&sa=X&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Dew+point+vs+humidity"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Understanding dew point",
+      "link": "https://www.reddit.com/r/weather/comments/19fitrk/understanding_dew_point/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/weather",
+        "10+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "snippet": "The dew point is determined only by the amount of water vapor present. The dew point represents the temperature at which the air would become ...",
+          "link": "https://www.reddit.com/r/weather/comments/19fitrk/understanding_dew_point/"
+        }
+      ]
+    },
+    {
+      "title": "What is the dewpoint? How do you calculate it from temperature and ...",
+      "link": "https://www.quora.com/What-is-the-dewpoint-How-do-you-calculate-it-from-temperature-and-relative-humidity",
+      "date": "2 years ago",
+      "extensions": [
+        "1 answer"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "snippet": "The dew point is the temperature to which you have to cool the air for water to start condensing out of it. The dew point normally has to be observed, ...",
+          "link": "https://www.quora.com/What-is-the-dewpoint-How-do-you-calculate-it-from-temperature-and-relative-humidity?top_ans=392461742",
+          "extensions": [
+            "Top answer",
+            "2 years ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How to measure dew point",
+      "link": "https://www.quora.com/How-do-I-measure-dew-point",
+      "date": "2 years ago",
+      "extensions": [
+        "2 answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "snippet": "Dew point temperature is usually not measured directly but is caluculated by comparing dry bulb and wet bulb temperatures. Hygrometric tables ...",
+          "link": "https://www.quora.com/How-do-I-measure-dew-point"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+to+calculate+the+dew+point&num=100&sca_esv=243755e6b8237819&hl=en&gl=us&ei=HfddaJqyLcXti-gPifPosQ4&start=100&sa=N&sstk=Ac65TH4Z-S9k4-SYJftiS-nSm8sTcVGOopcAX_7eUj6gONZpY1SQ7TnzYoI2xQ5EmS3QnWug8ZGgekUBhmUH9Zse-pEXh3CqKrKlGw&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ8NMDegQIBxAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+to+calculate+the+dew+point&num=100&sca_esv=243755e6b8237819&hl=en&gl=us&ei=HfddaJqyLcXti-gPifPosQ4&start=100&sa=N&sstk=Ac65TH4Z-S9k4-SYJftiS-nSm8sTcVGOopcAX_7eUj6gONZpY1SQ7TnzYoI2xQ5EmS3QnWug8ZGgekUBhmUH9Zse-pEXh3CqKrKlGw&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=how+to+calculate+the+dew+point&num=100&sca_esv=243755e6b8237819&hl=en&gl=us&ei=HfddaJqyLcXti-gPifPosQ4&start=200&sa=N&sstk=Ac65TH4Z-S9k4-SYJftiS-nSm8sTcVGOopcAX_7eUj6gONZpY1SQ7TnzYoI2xQ5EmS3QnWug8ZGgekUBhmUH9Zse-pEXh3CqKrKlGw&ved=2ahUKEwjatMbfvJCOAxXF9gIHHYk5OuYQ8tMDegQIBxAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+calculate+the+dew+point&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+calculate+the+dew+point&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+calculate+the+dew+point&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+calculate+the+dew+point&start=200"
+    }
+  }
+}

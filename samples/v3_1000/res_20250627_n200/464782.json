@@ -1,0 +1,712 @@
+{
+  "search_metadata": {
+    "id": "685decc4529e4b991c140ac8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a2df3a60b3882521/685decc4529e4b991c140ac8.json",
+    "created_at": "2025-06-27 00:58:44 UTC",
+    "processed_at": "2025-06-27 00:58:44 UTC",
+    "google_url": "https://www.google.com/search?q=how+does+tracking+work&oq=how+does+tracking+work&hl=en&gl=us&num=200&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a2df3a60b3882521/685decc4529e4b991c140ac8.html",
+    "total_time_taken": 1.17
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how does tracking work",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "200",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how does tracking work",
+    "total_results": 2700000000,
+    "time_taken_displayed": 0.36,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "thumbnail": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/67af9d3f7d8fe2753bb4e87d4de2d3815b34406324d52eb9729e9bd0213f9fe1.jpeg"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How does a tracking system work?",
+      "snippet": "GPS tracking systems utilize the global navigation satellite system (GNSS) network. Each of these satellites in orbit sends microwave signals to a receiver. The receiver then uses these signals to calculate your precise location from at least four of the GPS satellites.",
+      "title": "How a GPS Tracker Works - Trackimo",
+      "link": "https://trackimo.com/how-gps-tracker-works/#:~:text=GPS%20tracking%20systems%20utilize%20the,four%20of%20the%20GPS%20satellites.",
+      "displayed_link": "https://trackimo.com › how-gps-tracker-works",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2HWCGI5141Ekq03raxvKd7ghQh5yWJ1kQREO0dOW-yw&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2ExcEdSWFZUY2pWVVJYWk1Ta0oxZUhBeGNqbG9NVU5DVVdGdFJXeFNUbTFNZUZaMlNXc3hPRm96UXpaa1JWWlZObU5GVlZOSlFsRmlRbFZMVWtkaVFsTlNiV2x0WVhwb1ppMDBRekJwYUc1VWFIazFiV1o0VURaQ2R4SVhlRTk0WkdGSlluSlBUa3REYUdKSlVISnpZazVwVVZVYUlrRkdUVUZIUjNCT1pUWnVjMjUyVFVoWGRVcE5NMmhtYjJsMmRXSkhObkV6U0djIiwiZmN2IjoiMyIsImVpIjoieE94ZGFJYnJPTktDaGJJUHJzYk5pUVUiLCJxYyI6IkNoWm9iM2NnWkc5bGN5QjBjbUZqYTJsdVp5QjNiM0pyRUFCOVJ4WWxQdyIsInF1ZXN0aW9uIjoiSG93IGRvZXMgYSB0cmFja2luZyBzeXN0ZW0gd29yaz8iLCJsayI6IkdoMW9iM2NnWkc5bGN5QjBjbUZqYTJsdVp5QnplWE4wWlcwZ2QyOXlhdyIsImJzIjoiYzUzT1BRckNRQkNHWWNSdUs4c1FGRDhWd1RxVjJxUVJDZFplWUVrbWJzalB4dDBOSVY3Qnc0bmdnVFQtWUNUYTJBM0RNeV9EMWd5ZUxCRkkwdUF3aXZ0eGxPMmdLMjBvUlNsVjdGckh2VE8wQi1MRnZpRzJZU092QlRqeTI4UjM5QXlkLTg3WVJqdjA2ZGlXelZhTmYwamQxeWdGWlRDQzRIT0ZTRU9Hb1d0ZFBHZHFUNEpmX0UzWmdTMGVINktTQlF3bENhSVFXcVlrTTRMZ0dubGhHaEdaMVZEVkNkYzZkWjJsUFJkXzN2YzZWdyIsImlkIjoiZmNfeE94ZGFJYnJPTktDaGJJUHJzYk5pUVVfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2ExcEdSWFZUY2pWVVJYWk1Ta0oxZUhBeGNqbG9NVU5DVVdGdFJXeFNUbTFNZUZaMlNXc3hPRm96UXpaa1JWWlZObU5GVlZOSlFsRmlRbFZMVWtkaVFsTlNiV2x0WVhwb1ppMDBRekJwYUc1VWFIazFiV1o0VURaQ2R4SVhlRTk0WkdGSlluSlBUa3REYUdKSlVISnpZazVwVVZVYUlrRkdUVUZIUjNCT1pUWnVjMjUyVFVoWGRVcE5NMmhtYjJsMmRXSkhObkV6U0djIiwiZmN2IjoiMyIsImVpIjoieE94ZGFJYnJPTktDaGJJUHJzYk5pUVUiLCJxYyI6IkNoWm9iM2NnWkc5bGN5QjBjbUZqYTJsdVp5QjNiM0pyRUFCOVJ4WWxQdyIsInF1ZXN0aW9uIjoiSG93IGRvZXMgYSB0cmFja2luZyBzeXN0ZW0gd29yaz8iLCJsayI6IkdoMW9iM2NnWkc5bGN5QjBjbUZqYTJsdVp5QnplWE4wWlcwZ2QyOXlhdyIsImJzIjoiYzUzT1BRckNRQkNHWWNSdUs4c1FGRDhWd1RxVjJxUVJDZFplWUVrbWJzalB4dDBOSVY3Qnc0bmdnVFQtWUNUYTJBM0RNeV9EMWd5ZUxCRkkwdUF3aXZ0eGxPMmdLMjBvUlNsVjdGckh2VE8wQi1MRnZpRzJZU092QlRqeTI4UjM5QXlkLTg3WVJqdjA2ZGlXelZhTmYwamQxeWdGWlRDQzRIT0ZTRU9Hb1d0ZFBHZHFUNEpmX0UzWmdTMGVINktTQlF3bENhSVFXcVlrTTRMZ0dubGhHaEdaMVZEVkNkYzZkWjJsUFJkXzN2YzZWdyIsImlkIjoiZmNfeE94ZGFJYnJPTktDaGJJUHJzYk5pUVVfMSJ9"
+    },
+    {
+      "question": "How does tracking a package work?",
+      "snippet": "To track the parcel the shipment is assigned a unique number — the tracking number — and a series of notifications regarding the flow of goods is sent. Multiple orders (each with its order number) can have the same tracking number, in the case of a shipment with multiple parcels for the same customer.",
+      "title": "Shipment tracking monitoring systems: the complete guide",
+      "link": "https://www.qapla.io/blog/shipping/shipment-tracking-complete-guide/#:~:text=To%20track%20the%20parcel%20the,parcels%20for%20the%20same%20customer.",
+      "displayed_link": "https://www.qapla.io › Blog › Shipping",
+      "source_logo": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0322b61b98be72421cdcfc09ef16529ed145e164c7d55496c3e1b1875a157f1c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2ExcEdSWFZUY2pWVVJYWk1Ta0oxZUhBeGNqbG9NVU5DVVdGdFJXeFNUbTFNZUZaMlNXc3hPRm96UXpaa1JWWlZObU5GVlZOSlFsRmlRbFZMVWtkaVFsTlNiV2x0WVhwb1ppMDBRekJwYUc1VWFIazFiV1o0VURaQ2R4SVhlRTk0WkdGSlluSlBUa3REYUdKSlVISnpZazVwVVZVYUlrRkdUVUZIUjNCT1pUWnVjMjUyVFVoWGRVcE5NMmhtYjJsMmRXSkhObkV6U0djIiwiZmN2IjoiMyIsImVpIjoieE94ZGFJYnJPTktDaGJJUHJzYk5pUVUiLCJxYyI6IkNoWm9iM2NnWkc5bGN5QjBjbUZqYTJsdVp5QjNiM0pyRUFCOVJ4WWxQdyIsInF1ZXN0aW9uIjoiSG93IGRvZXMgdHJhY2tpbmcgYSBwYWNrYWdlIHdvcms/IiwibGsiOiJHaUJvYjNjZ1pHOWxjeUIwY21GamEybHVaeUJoSUhCaFkydGhaMlVnZDI5eWF3IiwiYnMiOiJjNTNPUFFyQ1FCQ0dZY1J1SzhzUUZEOFZ3VHFWMnFRUkNkWmVZRWttYnNqUHh0ME5JVjdCdzRuZ2dUVC1ZQ1RhMkEzRE15X0QxZ3llTEJGSTB1QXdpdnR4bE8yZ0syMG9SU2xWN0ZySHZUTzBCLUxGdmlHMllTT3ZCVGp5MjhSMzlBeWQtODdZUmp2MDZkaVd6VmFOZjBqZDF5Z0ZaVENDNEhPRlNFT0dvV3RkUEdkcVQ0SmZfRTNaZ1MwZUg2S1NCUXdsQ2FJUVdxWWtNNExnR25saEdoR1oxVkRWQ2RjNmRaMmxQUmRfM3ZjNlZ3IiwiaWQiOiJmY194T3hkYUlick9OS0NoYklQcnNiTmlRVV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2ExcEdSWFZUY2pWVVJYWk1Ta0oxZUhBeGNqbG9NVU5DVVdGdFJXeFNUbTFNZUZaMlNXc3hPRm96UXpaa1JWWlZObU5GVlZOSlFsRmlRbFZMVWtkaVFsTlNiV2x0WVhwb1ppMDBRekJwYUc1VWFIazFiV1o0VURaQ2R4SVhlRTk0WkdGSlluSlBUa3REYUdKSlVISnpZazVwVVZVYUlrRkdUVUZIUjNCT1pUWnVjMjUyVFVoWGRVcE5NMmhtYjJsMmRXSkhObkV6U0djIiwiZmN2IjoiMyIsImVpIjoieE94ZGFJYnJPTktDaGJJUHJzYk5pUVUiLCJxYyI6IkNoWm9iM2NnWkc5bGN5QjBjbUZqYTJsdVp5QjNiM0pyRUFCOVJ4WWxQdyIsInF1ZXN0aW9uIjoiSG93IGRvZXMgdHJhY2tpbmcgYSBwYWNrYWdlIHdvcms%2FIiwibGsiOiJHaUJvYjNjZ1pHOWxjeUIwY21GamEybHVaeUJoSUhCaFkydGhaMlVnZDI5eWF3IiwiYnMiOiJjNTNPUFFyQ1FCQ0dZY1J1SzhzUUZEOFZ3VHFWMnFRUkNkWmVZRWttYnNqUHh0ME5JVjdCdzRuZ2dUVC1ZQ1RhMkEzRE15X0QxZ3llTEJGSTB1QXdpdnR4bE8yZ0syMG9SU2xWN0ZySHZUTzBCLUxGdmlHMllTT3ZCVGp5MjhSMzlBeWQtODdZUmp2MDZkaVd6VmFOZjBqZDF5Z0ZaVENDNEhPRlNFT0dvV3RkUEdkcVQ0SmZfRTNaZ1MwZUg2S1NCUXdsQ2FJUVdxWWtNNExnR25saEdoR1oxVkRWQ2RjNmRaMmxQUmRfM3ZjNlZ3IiwiaWQiOiJmY194T3hkYUlick9OS0NoYklQcnNiTmlRVV8xIn0%3D"
+    },
+    {
+      "question": "Does a tracker work when the car is off?",
+      "snippet": "Additionally, because they rely on vehicle power, they cannot follow the vehicle when the vehicle is turned off. Plug-in GPS trackers are typically used in situations where constant real-time tracking is required, such as tracking a fleet of commercial vehicles.",
+      "title": "What is the endurance and battery life of car GPS trackers? - Capturs",
+      "link": "https://www.capturs.com/en/endurance-battery-life-car-gps-tracker/#:~:text=Additionally%2C%20because%20they%20rely%20on,a%20fleet%20of%20commercial%20vehicles.",
+      "displayed_link": "https://www.capturs.com › endurance-battery-life-car-gp...",
+      "source_logo": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0322b61b98be72421cdcfc09ef16529ebc2fc0da4ea3a9c839dd10cafdc274f6.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2ExcEdSWFZUY2pWVVJYWk1Ta0oxZUhBeGNqbG9NVU5DVVdGdFJXeFNUbTFNZUZaMlNXc3hPRm96UXpaa1JWWlZObU5GVlZOSlFsRmlRbFZMVWtkaVFsTlNiV2x0WVhwb1ppMDBRekJwYUc1VWFIazFiV1o0VURaQ2R4SVhlRTk0WkdGSlluSlBUa3REYUdKSlVISnpZazVwVVZVYUlrRkdUVUZIUjNCT1pUWnVjMjUyVFVoWGRVcE5NMmhtYjJsMmRXSkhObkV6U0djIiwiZmN2IjoiMyIsImVpIjoieE94ZGFJYnJPTktDaGJJUHJzYk5pUVUiLCJxYyI6IkNoWm9iM2NnWkc5bGN5QjBjbUZqYTJsdVp5QjNiM0pyRUFCOVJ4WWxQdyIsInF1ZXN0aW9uIjoiRG9lcyBhIHRyYWNrZXIgd29yayB3aGVuIHRoZSBjYXIgaXMgb2ZmPyIsImxrIjoiR2lOa2IyVnpJR0VnZEhKaFkydGxjaUIzYjNKcklIZG9aVzRnWTJGeUlHbHpJRzltWmciLCJicyI6ImM1M09QUXJDUUJDR1ljUnVLOHNRRkQ4VndUcVYycVFSQ2RaZVlFa21ic2pQeHQwTklWN0J3NG5nZ1RULVlDVGEyQTNETXlfRDFneWVMQkZJMHVBd2l2dHhsTzJnSzIwb1JTbFY3RnJIdlRPMEItTEZ2aUcyWVNPdkJUankyOFIzOUF5ZC04N1lSanYwNmRpV3pWYU5mMGpkMXlnRlpUQ0M0SE9GU0VPR29XdGRQR2RxVDRKZl9FM1pnUzBlSDZLU0JRd2xDYUlRV3FZa000TGdHbmxoR2hHWjFWRFZDZGM2ZFoybFBSZF8zdmM2VnciLCJpZCI6ImZjX3hPeGRhSWJyT05LQ2hiSVByc2JOaVFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2ExcEdSWFZUY2pWVVJYWk1Ta0oxZUhBeGNqbG9NVU5DVVdGdFJXeFNUbTFNZUZaMlNXc3hPRm96UXpaa1JWWlZObU5GVlZOSlFsRmlRbFZMVWtkaVFsTlNiV2x0WVhwb1ppMDBRekJwYUc1VWFIazFiV1o0VURaQ2R4SVhlRTk0WkdGSlluSlBUa3REYUdKSlVISnpZazVwVVZVYUlrRkdUVUZIUjNCT1pUWnVjMjUyVFVoWGRVcE5NMmhtYjJsMmRXSkhObkV6U0djIiwiZmN2IjoiMyIsImVpIjoieE94ZGFJYnJPTktDaGJJUHJzYk5pUVUiLCJxYyI6IkNoWm9iM2NnWkc5bGN5QjBjbUZqYTJsdVp5QjNiM0pyRUFCOVJ4WWxQdyIsInF1ZXN0aW9uIjoiRG9lcyBhIHRyYWNrZXIgd29yayB3aGVuIHRoZSBjYXIgaXMgb2ZmPyIsImxrIjoiR2lOa2IyVnpJR0VnZEhKaFkydGxjaUIzYjNKcklIZG9aVzRnWTJGeUlHbHpJRzltWmciLCJicyI6ImM1M09QUXJDUUJDR1ljUnVLOHNRRkQ4VndUcVYycVFSQ2RaZVlFa21ic2pQeHQwTklWN0J3NG5nZ1RULVlDVGEyQTNETXlfRDFneWVMQkZJMHVBd2l2dHhsTzJnSzIwb1JTbFY3RnJIdlRPMEItTEZ2aUcyWVNPdkJUankyOFIzOUF5ZC04N1lSanYwNmRpV3pWYU5mMGpkMXlnRlpUQ0M0SE9GU0VPR29XdGRQR2RxVDRKZl9FM1pnUzBlSDZLU0JRd2xDYUlRV3FZa000TGdHbmxoR2hHWjFWRFZDZGM2ZFoybFBSZF8zdmM2VnciLCJpZCI6ImZjX3hPeGRhSWJyT05LQ2hiSVByc2JOaVFVXzEifQ%3D%3D"
+    },
+    {
+      "question": "How do you tell if someone has put a tracker on your car?",
+      "snippet": "Wheel Wells: Check inside the wheel wells for anything attached or wires sticking out. These spots are often used for hiding trackers. Bumpers: Inspect both the front and rear bumpers for gaps or hidden devices. Roof and Hood: Look for unusual wires or objects near the roof racks or antennas on the roof or hood.",
+      "title": "How To Find And Remove a GPS Tracker From Your Car | Family1st",
+      "link": "https://family1st.io/how-to-find-and-remove-gps-tracker-from-car/#:~:text=Wheel%20Wells%3A%20Check%20inside%20the,on%20the%20roof%20or%20hood.",
+      "displayed_link": "https://family1st.io › how-to-find-and-remove-gps-tracke...",
+      "source_logo": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0322b61b98be72421cdcfc09ef16529e62db7c78affe3f87c9339681afaa79e0.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2ExcEdSWFZUY2pWVVJYWk1Ta0oxZUhBeGNqbG9NVU5DVVdGdFJXeFNUbTFNZUZaMlNXc3hPRm96UXpaa1JWWlZObU5GVlZOSlFsRmlRbFZMVWtkaVFsTlNiV2x0WVhwb1ppMDBRekJwYUc1VWFIazFiV1o0VURaQ2R4SVhlRTk0WkdGSlluSlBUa3REYUdKSlVISnpZazVwVVZVYUlrRkdUVUZIUjNCT1pUWnVjMjUyVFVoWGRVcE5NMmhtYjJsMmRXSkhObkV6U0djIiwiZmN2IjoiMyIsImVpIjoieE94ZGFJYnJPTktDaGJJUHJzYk5pUVUiLCJxYyI6IkNoWm9iM2NnWkc5bGN5QjBjbUZqYTJsdVp5QjNiM0pyRUFCOVJ4WWxQdyIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSB0ZWxsIGlmIHNvbWVvbmUgaGFzIHB1dCBhIHRyYWNrZXIgb24geW91ciBjYXI/IiwibGsiOiJjeFhLd1FtQU1CQkZ3VDQ4dlRKc1o0a3JFV08tYkRhSTNZdHpubVd0ZXRqRXEwbDZheHc3UTVlck85VUc5MHlNREN1bkItcF9ESXJGQnciLCJicyI6ImM1M09QUXJDUUJDR1ljUnVLOHNRRkQ4VndUcVYycVFSQ2RaZVlFa21ic2pQeHQwTklWN0J3NG5nZ1RULVlDVGEyQTNETXlfRDFneWVMQkZJMHVBd2l2dHhsTzJnSzIwb1JTbFY3RnJIdlRPMEItTEZ2aUcyWVNPdkJUankyOFIzOUF5ZC04N1lSanYwNmRpV3pWYU5mMGpkMXlnRlpUQ0M0SE9GU0VPR29XdGRQR2RxVDRKZl9FM1pnUzBlSDZLU0JRd2xDYUlRV3FZa000TGdHbmxoR2hHWjFWRFZDZGM2ZFoybFBSZF8zdmM2VnciLCJpZCI6ImZjX3hPeGRhSWJyT05LQ2hiSVByc2JOaVFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2ExcEdSWFZUY2pWVVJYWk1Ta0oxZUhBeGNqbG9NVU5DVVdGdFJXeFNUbTFNZUZaMlNXc3hPRm96UXpaa1JWWlZObU5GVlZOSlFsRmlRbFZMVWtkaVFsTlNiV2x0WVhwb1ppMDBRekJwYUc1VWFIazFiV1o0VURaQ2R4SVhlRTk0WkdGSlluSlBUa3REYUdKSlVISnpZazVwVVZVYUlrRkdUVUZIUjNCT1pUWnVjMjUyVFVoWGRVcE5NMmhtYjJsMmRXSkhObkV6U0djIiwiZmN2IjoiMyIsImVpIjoieE94ZGFJYnJPTktDaGJJUHJzYk5pUVUiLCJxYyI6IkNoWm9iM2NnWkc5bGN5QjBjbUZqYTJsdVp5QjNiM0pyRUFCOVJ4WWxQdyIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSB0ZWxsIGlmIHNvbWVvbmUgaGFzIHB1dCBhIHRyYWNrZXIgb24geW91ciBjYXI%2FIiwibGsiOiJjeFhLd1FtQU1CQkZ3VDQ4dlRKc1o0a3JFV08tYkRhSTNZdHpubVd0ZXRqRXEwbDZheHc3UTVlck85VUc5MHlNREN1bkItcF9ESXJGQnciLCJicyI6ImM1M09QUXJDUUJDR1ljUnVLOHNRRkQ4VndUcVYycVFSQ2RaZVlFa21ic2pQeHQwTklWN0J3NG5nZ1RULVlDVGEyQTNETXlfRDFneWVMQkZJMHVBd2l2dHhsTzJnSzIwb1JTbFY3RnJIdlRPMEItTEZ2aUcyWVNPdkJUankyOFIzOUF5ZC04N1lSanYwNmRpV3pWYU5mMGpkMXlnRlpUQ0M0SE9GU0VPR29XdGRQR2RxVDRKZl9FM1pnUzBlSDZLU0JRd2xDYUlRV3FZa000TGdHbmxoR2hHWjFWRFZDZGM2ZFoybFBSZF8zdmM2VnciLCJpZCI6ImZjX3hPeGRhSWJyT05LQ2hiSVByc2JOaVFVXzEifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Tracking involves using technology to monitor the location or activity of a person, object, or data point. This can be done through various methods, including GPS, cellular data, or website tracking. GPS tracking uses satellite signals to determine location, while cellular tracking leverages cell tower pings. Website tracking can involve cookies, fingerprinting, or account logins to monitor browsing activity.",
+        "snippet_highlighted_words": [
+          "using technology to monitor the location or activity of a person, object, or data point"
+        ],
+        "reference_indexes": [
+          0,
+          1,
+          3,
+          5,
+          8,
+          9,
+          12,
+          13,
+          15,
+          16,
+          19
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Here's a more detailed breakdown:"
+      },
+      {
+        "type": "heading",
+        "snippet": "1. GPS Tracking:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Satellite Signals:",
+            "snippet": "GPS trackers receive signals from a network of orbiting satellites.",
+            "reference_indexes": [
+              0,
+              3
+            ]
+          },
+          {
+            "title": "Trilateration:",
+            "snippet": "These signals are used to calculate the tracker's distance from multiple satellites, allowing it to pinpoint its location using a process called trilateration.",
+            "reference_indexes": [
+              3,
+              10
+            ]
+          },
+          {
+            "title": "Data Transmission:",
+            "snippet": "The tracker then transmits this location data to a server or mobile device, often in real-time.",
+            "reference_indexes": [
+              3,
+              8
+            ]
+          },
+          {
+            "title": "Software Interpretation:",
+            "snippet": "The received data is used by tracking software to display the tracker's location on a map and track its movements.",
+            "reference_indexes": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. Cellular Tracking:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Cell Tower Pings:",
+            "snippet": "Cell phones constantly ping nearby cell towers to maintain connectivity. This creates a record of the phone's approximate location.",
+            "reference_indexes": [
+              7,
+              19
+            ]
+          },
+          {
+            "title": "Location Sharing:",
+            "snippet": "Apps can request permission to access location data from the phone's operating system, often using a combination of GPS and cell tower information.",
+            "reference_indexes": [
+              11,
+              14,
+              20,
+              21
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. Website Tracking:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Cookies:",
+            "snippet": "Websites use cookies (small text files) to store user preferences and track browsing activity.",
+            "reference_indexes": [
+              12
+            ]
+          },
+          {
+            "title": "Fingerprinting:",
+            "snippet": "Websites can also use fingerprinting, a more advanced method, to identify devices based on unique browser and system characteristics, even without cookies.",
+            "reference_indexes": [
+              1,
+              12
+            ]
+          },
+          {
+            "title": "Account Logins:",
+            "snippet": "If users log into a website with the same account on multiple devices, the website can correlate those devices.",
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4. Other Tracking Methods:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "USPS Tracking:",
+            "snippet": "Packages are tracked using unique barcodes and scanners at various points during shipment.",
+            "reference_indexes": [
+              2,
+              6
+            ]
+          },
+          {
+            "title": "Shipping Tracking:",
+            "snippet": "E-commerce retailers generate labels with tracking numbers, which are scanned at different stages of the shipping process.",
+            "reference_indexes": [
+              17,
+              18
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      }
+    ],
+    "references": [
+      {
+        "title": "How do GPS Tracking Devices Work? - Family1st",
+        "link": "https://family1st.io/how-do-gps-tracking-devices-work/#:~:text=Key%20Takeaways:,fleet%20management%2C%20and%20asset%20tracking.",
+        "snippet": "Key Takeaways: GPS trackers work by connecting to GNSS satellites, using trilateration to find the exact location, and sending the...",
+        "source": "Family1st",
+        "index": 0
+      },
+      {
+        "title": "How exactly does website tracking work?",
+        "link": "https://www.reddit.com/r/cybersecurity/comments/1eyhszk/how_exactly_does_website_tracking_work/",
+        "snippet": "Aug 22, 2024",
+        "source": "Reddit · r/cybersecurity",
+        "index": 1
+      },
+      {
+        "title": "USPS Tracking® - The Basics",
+        "link": "https://faq.usps.com/s/article/USPS-Tracking-The-Basics#:~:text=Entering%20the%20tracking%20number%20associated,service%20requires%20paying%20a%20fee.",
+        "snippet": "Entering the tracking number associated with a mailpiece into the USPS Tracking page gives you the current status of an item along...",
+        "source": "FAQ | USPS",
+        "index": 2
+      },
+      {
+        "title": "Understanding GPS Tracking: How It Works Explained - LandAirSea",
+        "link": "https://landairsea.com/blogs/consumers/how-gps-tracking-works#:~:text=Satellites%20send%20signals%20to%20the,trilateration%20to%20determine%20their%20locations.",
+        "snippet": "Satellites send signals to the Earth's surface. Ground stations receive signals and send the information to a master control stati...",
+        "source": "LandAirSea",
+        "index": 3
+      },
+      {
+        "title": "How does GPS tracking work? - Motive",
+        "link": "https://gomotive.com/guides/gps-tracking/how-does-gps-tracking-work/#:~:text=Finding%20one%20object's%20location%20takes,user's%20dashboard%20while%20cable%20powered.",
+        "snippet": "Finding one object's location takes multiple satellites. While hurtling hundreds of miles per hour in space, the satellites bounce...",
+        "source": "Motive",
+        "index": 4
+      },
+      {
+        "title": "How do fleet tracking devices work?",
+        "link": "https://forcefleettracking.com/blog/how-do-fleet-tracking-devices-work/#:~:text=will%20then%20use%20cellular%20or%20a%20wireless,dashboard%20for%20you%20to%20monitor%20and%20save.",
+        "snippet": "Mar 1, 2022 — will then use cellular or a wireless network to send this information to a cloud service or to be tracked on a web-base...",
+        "source": "Force Fleet Tracking",
+        "index": 5
+      },
+      {
+        "title": "How does tracking work technically? Do they put GPS device with ...",
+        "link": "https://www.quora.com/How-does-tracking-work-technically-Do-they-put-GPS-device-with-database-of-tracking-numbers-of-traced-items-and-this-GPS-device-moves-with-those-packages-worldwide-and-is-connected-to-internet-24-7#:~:text=*%20There%20is%20a%20bar%20code%20printed,as%20a%20destination%20scan%20so%20the%20process.",
+        "snippet": "Feb 9, 2024 — * There is a bar code printed on each label. * At each stage of the process all packages are scanned, the bar code is ...",
+        "source": "Quora",
+        "index": 6
+      },
+      {
+        "title": "How Does Cell Phone Tracking Work?",
+        "link": "https://www.youtube.com/watch?v=XamZ_pX5XyA",
+        "snippet": "Nov 7, 2022 — when you look at cell. data from the cell. company. it's going to tell you a number of things about that tower. it's go...",
+        "source": "YouTube · Private Investigator Videos",
+        "index": 7
+      },
+      {
+        "title": "How Do GPS Tracking Devices Work? A Comprehensive Guide",
+        "link": "https://zenduit.com/how-do-gps-tracking-devices-work/#:~:text=GPS%20Technology%20in%20GPS%20Tracking,device's%20location%20in%20real%2Dtime.",
+        "snippet": "May 11, 2023 — GPS Technology in GPS Tracking Devices Global positioning system trackers use GPS technology to determine their locati...",
+        "source": "ZenduIT",
+        "index": 8
+      },
+      {
+        "title": "What is a GPS Tracker and How Does it Work? - Trackhawk GPS",
+        "link": "https://trackhawkgps.com/blog/what-is-a-gps-tracker-and-how-does-it-work/#:~:text=How%20do%20GPS%20trackers%20work,wearable%20trackers%20for%20personal%20safety.",
+        "snippet": "Jan 31, 2024 — How do GPS trackers work, and what types are available for public use? GPS trackers work by receiving signals from sat...",
+        "source": "Trackhawk GPS",
+        "index": 9
+      },
+      {
+        "title": "How Do GPS Trackers Work? Everything You Need To Know",
+        "link": "https://cosmotogether.com/blogs/news/how-do-gps-trackers-work-everything-you-need-to-know#:~:text=GPS%20systems%20must%20simultaneously%20receive,to%20determine%20precise%20location%20information.",
+        "snippet": "Sep 8, 2023 — GPS systems must simultaneously receive signals from at least four satellites to achieve accurate positioning. By recei...",
+        "source": "COSMO Technologies, Inc.",
+        "index": 10
+      },
+      {
+        "title": "Is Someone Tracking Your Phone's Location? How to Check ... - YouTube",
+        "link": "https://www.youtube.com/watch?v=yVQWeAuhbPQ&t=280",
+        "snippet": "Mar 17, 2025 — it. so here's how to check who's tracking you with these apps on iPhone open the Find My app and tap the people tab to...",
+        "source": "YouTube · Certo Software",
+        "index": 11
+      },
+      {
+        "title": "How you are being tracked in the web | Online Tracking explained",
+        "link": "https://m.youtube.com/watch?v=wefD2N-GWUo&t=0s",
+        "snippet": "Jul 16, 2019 — and persistent session cookies are good they enable us to move from one part of a website say a product page to anothe...",
+        "source": "YouTube · DW Shift",
+        "index": 12
+      },
+      {
+        "title": "What is Location Based Tracking? How it Works? Its Applications",
+        "link": "https://trackobit.com/blog/what-is-location-based-tracking-how-it-works#:~:text=Location%20based%20tracking%20software%20leverages%20cellular%20network,signals%20to%20provide%20precise%20global%20positioning%20information.",
+        "snippet": "Sep 8, 2023 — Location based tracking software leverages cellular network infrastructure to calculate location based on cell tower pr...",
+        "source": "TrackoBit",
+        "index": 13
+      },
+      {
+        "title": "Turn Location Services and GPS on or off on your iPhone, iPad, or iPod touch",
+        "link": "https://support.apple.com/en-us/102647#:~:text=How%20to%20share%20your%20specific%20location%20Location,for%20your%20permission%20and%20you%20allow%20permission.",
+        "snippet": "Mar 26, 2025 — How to share your specific location Location Services uses GPS and Bluetooth (where they're available), along with cro...",
+        "source": "Apple Support",
+        "index": 14
+      },
+      {
+        "title": "How to Create a Successful Data Tracking Plan - Twilio Segment",
+        "link": "https://segment.com/academy/collecting-data/how-to-create-a-tracking-plan/#:~:text=Data%20tracking%20is%20the%20process,protect%20user%20privacy%20and%20security.",
+        "snippet": "Data tracking is the process of collecting, identifying, and categorizing individual data points throughout the data pipeline so t...",
+        "source": "Segment",
+        "index": 15
+      },
+      {
+        "title": "Shipment tracking monitoring systems: the complete guide - Qapla",
+        "link": "https://www.qapla.io/blog/shipping/shipment-tracking-complete-guide/#:~:text=Using%20special%20devices%2C%20the%20shipping,and%20monitor%20the%20tracking%20page.",
+        "snippet": "Using special devices, the shipping staff will scan the number on the parcels, so the system will be automatically updated and mak...",
+        "source": "qapla.io",
+        "index": 16
+      },
+      {
+        "title": "The power of parcel tracking: Why it's essential for your retail business",
+        "link": "https://shipping.amazon.co.uk/blog/how-to-track-packages#:~:text=How%20does%20parcel%20tracking%20work,points%20during%20the%20package's%20journey.",
+        "snippet": "Jan 24, 2025 — How does parcel tracking work? After processing an order, e-commerce retailers generate a label with a unique tracking...",
+        "source": "Amazon UK",
+        "index": 17
+      },
+      {
+        "title": "Global positioning system (GPS) — Science Learning Hub",
+        "link": "https://www.sciencelearn.org.nz/resources/1609-global-positioning-system-gps#:~:text=This%20video%20explains%20how%20GPS%20works%20in%20more%20detail.",
+        "snippet": "Sep 2, 2010 — This video explains how GPS works in more detail.",
+        "source": "Science Learning Hub",
+        "index": 18
+      },
+      {
+        "title": "The WIRED Guide to Protecting Yourself From Government Surveillance",
+        "link": "https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/#:~:text=No%20matter%20how%20much%20you've%20limited%20location,you%20to%20stay%20connected%20to%20the%20network.",
+        "snippet": "Jun 16, 2025 — No matter how much you've limited location tracking in apps and operating systems, your smartphone can also be tracked...",
+        "source": "WIRED",
+        "index": 19
+      },
+      {
+        "title": "A First Look at Privacy Analysis of COVID-19 Contact-Tracing Mobile Applications",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8768965/#:~:text=Smartphone%20apps%20normally%20get%20access%20to%20user,the%20mobile%20phone%2C%20the%20search%20history%2C%20etc.",
+        "snippet": "Smartphone apps normally get access to user data and other information through the use of permission [22] that the users provide t...",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "index": 20
+      },
+      {
+        "title": "Cell Phones and Privacy Invasion",
+        "link": "https://www.centrallaw.com/criminal-defense/computer-crimes/cell-phones-and-privacy-invasion/#:~:text=This%20tracking%20is%20made%20possible%20through%20a,nearby%20cell%20towers%20to%20establish%20its%20location.",
+        "snippet": "This tracking is made possible through a combination of cellular networks and GPS technology. When a cell phone is powered on and ...",
+        "source": "Law Office of W.F. ''Casey'' Ebsary Jr",
+        "index": 21
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How Do GPS Trackers Work: Vehicle GPS Devices Explained",
+      "link": "https://www.lytx.com/blog/what-is-gps-tracking-and-how-does-it-work",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lytx.com/blog/what-is-gps-tracking-and-how-does-it-work&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQFnoECBkQAQ",
+      "displayed_link": "https://www.lytx.com › blog › what-is-gps-tracking-and-...",
+      "favicon": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0c4bf75fbb0dc39fc3593990d356a4edcc62b3fe350cead8dacd79a899c4a5bd.png",
+      "snippet": "GPS trackers use GPS technology to track a vehicle's current location and trip history. The GPS data is then broadcasted to a computer, smartphone, or tablet.",
+      "snippet_highlighted_words": [
+        "GPS trackers use GPS technology to track a vehicle's current location and trip history"
+      ],
+      "source": "Lytx"
+    },
+    {
+      "position": 2,
+      "title": "How do GPS Tracking Devices Work?",
+      "link": "https://family1st.io/how-do-gps-tracking-devices-work/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://family1st.io/how-do-gps-tracking-devices-work/&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQFnoECBgQAQ",
+      "displayed_link": "https://family1st.io › GPS Trackers",
+      "favicon": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0c4bf75fbb0dc39fc3593990d356a4ed53231436f91aca43f431a343c1c83104.png",
+      "snippet": "GPS trackers work by connecting to GNSS satellites, using trilateration to find the exact location, and sending the data to a server for real-time or later ...",
+      "snippet_highlighted_words": [
+        "GPS trackers work by connecting to GNSS satellites"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How Do GPS Trackers Work?",
+            "link": "https://family1st.io/how-do-gps-tracking-devices-work/#How_Do_GPS_Trackers_Work"
+          },
+          {
+            "title": "What is Geofencing, and How...",
+            "link": "https://family1st.io/how-do-gps-tracking-devices-work/#What_is_Geofencing_and_How_Does_It_Work"
+          }
+        ]
+      },
+      "source": "Family1st"
+    },
+    {
+      "position": 3,
+      "title": "Understanding GPS Tracking: How It Works Explained",
+      "link": "https://landairsea.com/blogs/consumers/how-gps-tracking-works?srsltid=AfmBOordv0355wsqVmTU-3kddke7eHQhKFI9VjyezPwKegPfOZWpRvVI",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://landairsea.com/blogs/consumers/how-gps-tracking-works%3Fsrsltid%3DAfmBOordv0355wsqVmTU-3kddke7eHQhKFI9VjyezPwKegPfOZWpRvVI&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQFnoECFEQAQ",
+      "displayed_link": "https://landairsea.com › blogs › consumers › how-gps-tra...",
+      "favicon": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0c4bf75fbb0dc39fc3593990d356a4edc1d43a376aca4af96f7510ba7c28f9e7.png",
+      "snippet": "GPS tracking systems must do more than identify a device's location. They must continuously follow the device to show current and historical location data.",
+      "snippet_highlighted_words": [
+        "GPS tracking systems must do more than identify a device's location"
+      ],
+      "source": "LandAirSea"
+    },
+    {
+      "position": 4,
+      "title": "USPS Tracking® - The Basics",
+      "link": "https://faq.usps.com/s/article/USPS-Tracking-The-Basics",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://faq.usps.com/s/article/USPS-Tracking-The-Basics&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQFnoECFMQAQ",
+      "displayed_link": "https://faq.usps.com › article › USPS-Tracking-The-Bas...",
+      "favicon": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0c4bf75fbb0dc39fc3593990d356a4edcadd9ea443075ac0129a597ce2da0f0d.png",
+      "snippet": "How does USPS Tracking® work? The label of your trackable item is scanned several times throughout the mailstream, whether we possess it or one of our shipping ...",
+      "snippet_highlighted_words": [
+        "The label of your trackable item is scanned several times throughout the mailstream"
+      ],
+      "source": "USPS"
+    },
+    {
+      "position": 5,
+      "title": "How a GPS Tracker Works",
+      "link": "https://trackimo.com/how-gps-tracker-works/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://trackimo.com/how-gps-tracker-works/&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQFnoECFIQAQ",
+      "displayed_link": "https://trackimo.com › how-gps-tracker-works",
+      "favicon": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0c4bf75fbb0dc39fc3593990d356a4ed6ffb1c66daa6656c9f4d408e063bed55.png",
+      "snippet": "A GPS tracker device will calculate its location and transmit the concluded data to a server over the Internet using worldwide GSM cellular network.",
+      "snippet_highlighted_words": [
+        "calculate its location and transmit the concluded data"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 28.88,
+            "currency": "$"
+          },
+          "extensions": [
+            "$28.88"
+          ]
+        }
+      },
+      "source": "Trackimo"
+    },
+    {
+      "position": 6,
+      "title": "Commercial GPS Tracking System: What is it and How ...",
+      "link": "https://www.mixtelematics.com/us/resources/blog/what-is-a-commercial-gps-tracker-and-how-does-it-work/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mixtelematics.com/us/resources/blog/what-is-a-commercial-gps-tracker-and-how-does-it-work/&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQFnoECFAQAQ",
+      "displayed_link": "https://www.mixtelematics.com › ... › Blog",
+      "favicon": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0c4bf75fbb0dc39fc3593990d356a4edebd28b92c605d45519adb4354ad47e0c.png",
+      "snippet": "Passive GPS tracking monitors location and stores data on trips based on specific events. This type of system can log data on where the devices have been in the ...",
+      "snippet_highlighted_words": [
+        "Passive GPS tracking monitors location and stores data on trips"
+      ],
+      "source": "MiX by Powerfleet"
+    },
+    {
+      "position": 7,
+      "title": "How does GPS tracking work and how is GPS used?",
+      "link": "https://www.verizonconnect.com/resources/article/how-does-gps-tracking-work/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.verizonconnect.com/resources/article/how-does-gps-tracking-work/&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQFnoECFQQAQ",
+      "displayed_link": "https://www.verizonconnect.com › Resources › Blog",
+      "favicon": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0c4bf75fbb0dc39fc3593990d356a4edff0f4bbb7309490c68758432b4396831.png",
+      "date": "Oct 23, 2024",
+      "snippet": "A GPS receiver equipment receives GPS satellite signals and uses this information to calculate a user's 3D position and time. In vehicles, GPS ...",
+      "snippet_highlighted_words": [
+        "uses this information to calculate a user's 3D position and time"
+      ],
+      "source": "Verizon Connect"
+    },
+    {
+      "position": 8,
+      "title": "How does GPS tracking work?",
+      "link": "https://gomotive.com/guides/gps-tracking/how-does-gps-tracking-work/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gomotive.com/guides/gps-tracking/how-does-gps-tracking-work/&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQFnoECE8QAQ",
+      "displayed_link": "https://gomotive.com › Guides › GPS Tracking for Fleets",
+      "favicon": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0c4bf75fbb0dc39fc3593990d356a4ed971b86486cb116f88abfe61df8c4fea0.png",
+      "snippet": "A GPS tracking device, fitted with a receiver, is attached to the object you want to monitor. The device is also built to record the time and location.",
+      "snippet_highlighted_words": [
+        "tracking"
+      ],
+      "source": "Motive"
+    },
+    {
+      "position": 9,
+      "title": "Introduction to GPS tracking: A brief overview of what ...",
+      "link": "https://cphtrackers.com/blogs/news/introduction-to-gps-tracking-a-brief-overview-of-what-gps-tracking-is-and-how-it-works?srsltid=AfmBOorPETmh5nsP6PvHXfFoQKN5XKILMZugZZxlgmijGJLk90QbiihR",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cphtrackers.com/blogs/news/introduction-to-gps-tracking-a-brief-overview-of-what-gps-tracking-is-and-how-it-works%3Fsrsltid%3DAfmBOorPETmh5nsP6PvHXfFoQKN5XKILMZugZZxlgmijGJLk90QbiihR&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQFnoECFUQAQ",
+      "displayed_link": "https://cphtrackers.com › blogs › news › introduction-t...",
+      "favicon": "https://serpapi.com/searches/685decc4529e4b991c140ac8/images/0c4bf75fbb0dc39fc3593990d356a4ed3213fe8bf4ca5d57c3ef9c136f7ac97f.png",
+      "date": "Jan 16, 2023",
+      "snippet": "What is GPS tracking? GPS tracking is a technology that uses ... How does a GPS Tracker work? GPS tracking works by using a network ...",
+      "snippet_highlighted_words": [
+        "tracking",
+        "tracking",
+        "How does",
+        "Tracker work",
+        "tracking"
+      ],
+      "source": "Copenhagen Trackers"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=how+does+tracking+work&num=100&sca_esv=243755e6b8237819&gl=us&hl=en&udm=18&sa=X&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ8poLegQIbRAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+does+tracking+work",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How GPS tracker works in mobile",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+GPS+tracker+works+in+mobile&sa=X&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+GPS+tracker+works+in+mobile"
+    },
+    {
+      "block_position": 1,
+      "query": "How does GPS tracking work without internet",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+does+GPS+tracking+work+without+internet&sa=X&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+does+GPS+tracking+work+without+internet"
+    },
+    {
+      "block_position": 1,
+      "query": "how does real-time gps tracking work",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=how+does+real-time+gps+tracking+work&sa=X&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+does+real-time+gps+tracking+work"
+    },
+    {
+      "block_position": 1,
+      "query": "how gps tracker works in-car",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=how+gps+tracker+works+in-car&sa=X&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+gps+tracker+works+in-car"
+    },
+    {
+      "block_position": 1,
+      "query": "How does a GPS tracker work",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+does+a+GPS+tracker+work&sa=X&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+does+a+GPS+tracker+work"
+    },
+    {
+      "block_position": 1,
+      "query": "How do mini GPS trackers work",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+do+mini+GPS+trackers+work&sa=X&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+do+mini+GPS+trackers+work"
+    },
+    {
+      "block_position": 1,
+      "query": "What is a GPS tracker in sport",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=What+is+a+GPS+tracker+in+sport&sa=X&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+is+a+GPS+tracker+in+sport"
+    },
+    {
+      "block_position": 1,
+      "query": "How does a GPS tracker look like",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+does+a+GPS+tracker+look+like&sa=X&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+does+a+GPS+tracker+look+like"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "How does tracking work technically? Do they put GPS device ...",
+      "link": "https://www.quora.com/How-does-tracking-work-technically-Do-they-put-GPS-device-with-database-of-tracking-numbers-of-traced-items-and-this-GPS-device-moves-with-those-packages-worldwide-and-is-connected-to-internet-24-7",
+      "date": "1 year ago",
+      "extensions": [
+        "9 answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "snippet": "Not generally, although real-time technology exists, and is probably available ...",
+          "link": "https://www.quora.com/How-does-tracking-work-technically-Do-they-put-GPS-device-with-database-of-tracking-numbers-of-traced-items-and-this-GPS-device-moves-with-those-packages-worldwide-and-is-connected-to-internet-24-7?top_ans=1477743737877781",
+          "extensions": [
+            "Top answer",
+            "2 votes",
+            "a year ago"
+          ]
+        },
+        {
+          "snippet": "There are some shipments valuable enough to have their own GPS trackers that update when they ...",
+          "link": "https://www.quora.com/How-does-tracking-work-technically-Do-they-put-GPS-device-with-database-of-tracking-numbers-of-traced-items-and-this-GPS-device-moves-with-those-packages-worldwide-and-is-connected-to-internet-24-7?top_ans=1477743737875651",
+          "extensions": [
+            "a year ago"
+          ]
+        },
+        {
+          "snippet": "There are many ways to do GPS tracking. Some are real time as in you can find out at any time ...",
+          "link": "https://www.quora.com/How-does-tracking-work-technically-Do-they-put-GPS-device-with-database-of-tracking-numbers-of-traced-items-and-this-GPS-device-moves-with-those-packages-worldwide-and-is-connected-to-internet-24-7?top_ans=1477743738073728",
+          "extensions": [
+            "a year ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Can someone explain how tracking works?",
+      "link": "https://www.reddit.com/r/TheFirstDescendant/comments/1duzt2a/can_someone_explain_how_tracking_works/",
+      "date": "11 months ago",
+      "extensions": [
+        "r/TheFirstDescendant",
+        "10+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "snippet": "I honestly find it useless, I thought it would direct me to a specific location for its drop.",
+          "link": "https://www.reddit.com/r/TheFirstDescendant/comments/1duzt2a/can_someone_explain_how_tracking_works/lckaecy/",
+          "extensions": [
+            "Top answer",
+            "3 votes",
+            "11 months ago"
+          ]
+        },
+        {
+          "snippet": "Figured it out, you HAVE to go to Access Info tab in start menu. NO other menu has worked ...",
+          "link": "https://www.reddit.com/r/TheFirstDescendant/comments/1duzt2a/can_someone_explain_how_tracking_works/ld8o778/",
+          "extensions": [
+            "2 votes",
+            "11 months ago"
+          ]
+        },
+        {
+          "snippet": "i would like to know what the point is to track \"season weekly challenges\" i can only track ...",
+          "link": "https://www.reddit.com/r/TheFirstDescendant/comments/1duzt2a/can_someone_explain_how_tracking_works/lbsz1ld/",
+          "extensions": [
+            "2 votes",
+            "11 months ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How exactly does website tracking work?",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1eyhszk/how_exactly_does_website_tracking_work/",
+      "date": "10 months ago",
+      "extensions": [
+        "r/cybersecurity",
+        "10+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "snippet": "They somehow associated the data between accounts. So they know that two different accounts ...",
+          "link": "https://www.reddit.com/r/cybersecurity/comments/1eyhszk/how_exactly_does_website_tracking_work/lje2wuu/",
+          "extensions": [
+            "Top answer",
+            "10 votes",
+            "10 months ago"
+          ]
+        },
+        {
+          "snippet": "https://amiunique.org/ This is a pretty ...",
+          "link": "https://www.reddit.com/r/cybersecurity/comments/1eyhszk/how_exactly_does_website_tracking_work/ljee2u2/",
+          "extensions": [
+            "6 votes",
+            "10 months ago"
+          ]
+        },
+        {
+          "snippet": "Go to bing.com and look at your Microsoft Rewards points balance. Is it the same number at ...",
+          "link": "https://www.reddit.com/r/cybersecurity/comments/1eyhszk/how_exactly_does_website_tracking_work/ljefgaq/",
+          "extensions": [
+            "2 votes",
+            "10 months ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+does+tracking+work&num=100&sca_esv=243755e6b8237819&gl=us&hl=en&ei=xOxdaIbrONKChbIPrsbNiQU&start=100&sa=N&sstk=Ac65TH5urR11f2-J8XZA7ebCgiyvMONubfUyZLYN-Gdj7lO3HdNdJLz1i9I3xa35dewvNYaOiHWivm33VzTuC6C5JMyBTq3T33zMpA&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ8NMDegQIDhAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+does+tracking+work&num=100&sca_esv=243755e6b8237819&gl=us&hl=en&ei=xOxdaIbrONKChbIPrsbNiQU&start=100&sa=N&sstk=Ac65TH5urR11f2-J8XZA7ebCgiyvMONubfUyZLYN-Gdj7lO3HdNdJLz1i9I3xa35dewvNYaOiHWivm33VzTuC6C5JMyBTq3T33zMpA&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ8tMDegQIDhAE",
+      "3": "https://www.google.com/search?q=how+does+tracking+work&num=100&sca_esv=243755e6b8237819&gl=us&hl=en&ei=xOxdaIbrONKChbIPrsbNiQU&start=200&sa=N&sstk=Ac65TH5urR11f2-J8XZA7ebCgiyvMONubfUyZLYN-Gdj7lO3HdNdJLz1i9I3xa35dewvNYaOiHWivm33VzTuC6C5JMyBTq3T33zMpA&ved=2ahUKEwiG3b_wspCOAxVSQUEAHS5jM1EQ8tMDegQIDhAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+does+tracking+work&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+does+tracking+work&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+does+tracking+work&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+does+tracking+work&start=200"
+    }
+  }
+}

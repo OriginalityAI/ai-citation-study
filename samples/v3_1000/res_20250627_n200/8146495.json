@@ -1,0 +1,2021 @@
+{
+  "search_metadata": {
+    "id": "685df0a4f965611949dde455",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/75f0838fbed5d895/685df0a4f965611949dde455.json",
+    "created_at": "2025-06-27 01:15:16 UTC",
+    "processed_at": "2025-06-27 01:15:16 UTC",
+    "google_url": "https://www.google.com/search?q=how+to+install+systemctl+in+linux&oq=how+to+install+systemctl+in+linux&hl=en&gl=us&num=200&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/75f0838fbed5d895/685df0a4f965611949dde455.html",
+    "total_time_taken": 3.81
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how to install systemctl in linux",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "200",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how to install systemctl in linux",
+    "total_results": 8460000,
+    "time_taken_displayed": 0.42,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How do I install Systemctl on Linux?",
+      "snippet": null,
+      "title": "AI Overview",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Check+your+PATH&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QxccNegUI_QIQAw",
+      "list": [
+        "Use the command dpkg -l | grep systemd (for Debian/Ubuntu) or rpm -qa | grep systemd (for Fedora/RHEL) to see if the systemd package is installed.  ",
+        "If it's not installed, you'll need to install it using your distribution's package manager. For example, on Debian/Ubuntu: sudo apt-get install systemd.  ",
+        "Check your PATH: . Opens in new tabMake sure the directory containing systemctl (usually /bin or /usr/bin) is in your system's PATH environment variable. ",
+        "Reinstall systemd: . Opens in new tabYou can try reinstalling systemd to ensure all components are properly installed: sudo apt-get install --reinstall systemd (Debian/Ubuntu). ",
+        "Check for damaged files: . Opens in new tabIf reinstalling doesn't help, list the files in the systemd package to see if the binary is present and potentially corrupted: dpkg -L systemd (Debian/Ubuntu).  ",
+        "systemctl is used to manage services and units. Some common commands include: systemctl start <service_name>: Starts a service. systemctl stop <service_name>: Stops a service. systemctl status <service_name>: Shows the status of a service. systemctl enable <service_name>: Enables a service to start on boot. systemctl disable <service_name>: Disables a service from starting on boot. systemctl list-unit-files | grep service: Lists all service unit files. systemctl daemon-reload: Reloads the systemd configuration after changes.  ",
+        "systemctl start <service_name>: Starts a service. ",
+        "systemctl stop <service_name>: Stops a service. ",
+        "systemctl status <service_name>: Shows the status of a service. ",
+        "systemctl enable <service_name>: Enables a service to start on boot. ",
+        "systemctl disable <service_name>: Disables a service from starting on boot. ",
+        "systemctl list-unit-files | grep service: Lists all service unit files. ",
+        "systemctl daemon-reload: Reloads the systemd configuration after changes.  "
+      ],
+      "displayed_link": null,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxK2qqSHZ8F13JstfDX_IgFsoldK6eWqY3K4228BWSE2GxWcTL2QNyr9hH&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRllsQjFSRGd3TkZWblNXSnZhR2xHVUdGV1VHVkdTRU4xTjFaaFVXUnJTVzgzZVU5NU1qaG1SVk0yVVdSdlNuRjVZemRtU1UxbVRFVXpNV2RZTVdsRGNtUnZXRXhTU2pBMFZXdHJjbkpVTWpGSmJuWkJVWFZrY0VSSmR4SVhjSFpDWkdGSmFtaE5aVWRtZDFCQlVHcHlWSGt0UVZVYUlrRkdUVUZIUjNJMGFqZEpVVFZNWWpkZk5uZGpYMUYxUTJwS1owZDVOMlp5WDJjIiwiZmN2IjoiMyIsImVpIjoicHZCZGFJamhNZUdmd1BBUGpyVHktQVUiLCJxYyI6IkNpRm9iM2NnZEc4Z2FXNXpkR0ZzYkNCemVYTjBaVzFqZEd3Z2FXNGdiR2x1ZFhnUUFIMk0wUUlfIiwicXVlc3Rpb24iOiJIb3cgZG8gSSBpbnN0YWxsIFN5c3RlbWN0bCBvbiBMaW51eD8iLCJsayI6IkdoZHNhVzUxZUNCcGJuTjBZV3hzSUhONWMzUmxiV04wYkEiLCJicyI6ImMtTnk0Vkx4eUM5WFNNbFg4RlRJekNzdVNjekpVUWl1TEM1SnpVMHV5VkhJejFQd3ljd3JyYkNYZUJkbUpDa2xuZ1Bpd05VVnc5UnhXWEZKWXBnQ2tVMnhsLWhJTjVLU2tzaUF5R2VpeTNONWNTbUM5SmJrdzJXUzgzTnpFX05TaW9FQ01PdjdISTJVcEJReWNLc0R1NHdyaEVzTmFsWlJhUjdDZlRDVlNBWWVyek5TbDFMTklLQVliS29BSXdBIiwiaWQiOiJmY19wdkJkYUlqaE1lR2Z3UEFQanJUeS1BVV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRllsQjFSRGd3TkZWblNXSnZhR2xHVUdGV1VHVkdTRU4xTjFaaFVXUnJTVzgzZVU5NU1qaG1SVk0yVVdSdlNuRjVZemRtU1UxbVRFVXpNV2RZTVdsRGNtUnZXRXhTU2pBMFZXdHJjbkpVTWpGSmJuWkJVWFZrY0VSSmR4SVhjSFpDWkdGSmFtaE5aVWRtZDFCQlVHcHlWSGt0UVZVYUlrRkdUVUZIUjNJMGFqZEpVVFZNWWpkZk5uZGpYMUYxUTJwS1owZDVOMlp5WDJjIiwiZmN2IjoiMyIsImVpIjoicHZCZGFJamhNZUdmd1BBUGpyVHktQVUiLCJxYyI6IkNpRm9iM2NnZEc4Z2FXNXpkR0ZzYkNCemVYTjBaVzFqZEd3Z2FXNGdiR2x1ZFhnUUFIMk0wUUlfIiwicXVlc3Rpb24iOiJIb3cgZG8gSSBpbnN0YWxsIFN5c3RlbWN0bCBvbiBMaW51eD8iLCJsayI6IkdoZHNhVzUxZUNCcGJuTjBZV3hzSUhONWMzUmxiV04wYkEiLCJicyI6ImMtTnk0Vkx4eUM5WFNNbFg4RlRJekNzdVNjekpVUWl1TEM1SnpVMHV5VkhJejFQd3ljd3JyYkNYZUJkbUpDa2xuZ1Bpd05VVnc5UnhXWEZKWXBnQ2tVMnhsLWhJTjVLU2tzaUF5R2VpeTNONWNTbUM5SmJrdzJXUzgzTnpFX05TaW9FQ01PdjdISTJVcEJReWNLc0R1NHdyaEVzTmFsWlJhUjdDZlRDVlNBWWVyek5TbDFMTklLQVliS29BSXdBIiwiaWQiOiJmY19wdkJkYUlqaE1lR2Z3UEFQanJUeS1BVV8xIn0%3D"
+    },
+    {
+      "question": "How do I install systemd?",
+      "snippet": "In most Linux distributions, the 'systemd' command comes pre-installed, you can check this with the command systemctl --version . If it isn't installed you can add it with the command, sudo apt-get install systemd or sudo yum install systemd .",
+      "title": "'systemd' Command Installation and Usage | Linux Guide",
+      "date": "Jan 8, 2024",
+      "link": "https://ioflood.com/blog/install-systemd-command-linux/#:~:text=In%20most%20Linux%20distributions%2C%20the,or%20sudo%20yum%20install%20systemd%20.",
+      "displayed_link": "https://ioflood.com › blog › install-systemd-command-li...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN010-yK-2rSHaCdIej7J_FCj_WR22AJAqb7y3pvAHoQ&s",
+      "source_logo": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ace8abfb9b8d40812103c145528718f9675068250e9fc543c942d9077e132d05.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRllsQjFSRGd3TkZWblNXSnZhR2xHVUdGV1VHVkdTRU4xTjFaaFVXUnJTVzgzZVU5NU1qaG1SVk0yVVdSdlNuRjVZemRtU1UxbVRFVXpNV2RZTVdsRGNtUnZXRXhTU2pBMFZXdHJjbkpVTWpGSmJuWkJVWFZrY0VSSmR4SVhjSFpDWkdGSmFtaE5aVWRtZDFCQlVHcHlWSGt0UVZVYUlrRkdUVUZIUjNJMGFqZEpVVFZNWWpkZk5uZGpYMUYxUTJwS1owZDVOMlp5WDJjIiwiZmN2IjoiMyIsImVpIjoicHZCZGFJamhNZUdmd1BBUGpyVHktQVUiLCJxYyI6IkNpRm9iM2NnZEc4Z2FXNXpkR0ZzYkNCemVYTjBaVzFqZEd3Z2FXNGdiR2x1ZFhnUUFIMk0wUUlfIiwicXVlc3Rpb24iOiJIb3cgZG8gSSBpbnN0YWxsIHN5c3RlbWQ/IiwibGsiOiJHaGhvYjNjZ1pHOGdhU0JwYm5OMFlXeHNJSE41YzNSbGJXUSIsImJzIjoiYy1OeTRWTHh5QzlYU01sWDhGVEl6Q3N1U2N6SlVRaXVMQzVKelUwdXlWSEl6MVB3eWN3cnJiQ1hlQmRtSkNrbG5nUGl3TlVWdzlSeFdYRkpZcGdDa1UyeGwtaElONUtTa3NpQXlHZWl5M041Y1NtQzlKYmt3MldTODNOekVfTlNpb0VDTU92N0hJMlVwQlF5Y0tzRHU0d3JoRXNOYWxaUmFSN0NmVENWU0FZZXJ6TlNsMUxOSUtBWWJLb0FJd0EiLCJpZCI6ImZjX3B2QmRhSWpoTWVHZndQQVBqclR5LUFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRllsQjFSRGd3TkZWblNXSnZhR2xHVUdGV1VHVkdTRU4xTjFaaFVXUnJTVzgzZVU5NU1qaG1SVk0yVVdSdlNuRjVZemRtU1UxbVRFVXpNV2RZTVdsRGNtUnZXRXhTU2pBMFZXdHJjbkpVTWpGSmJuWkJVWFZrY0VSSmR4SVhjSFpDWkdGSmFtaE5aVWRtZDFCQlVHcHlWSGt0UVZVYUlrRkdUVUZIUjNJMGFqZEpVVFZNWWpkZk5uZGpYMUYxUTJwS1owZDVOMlp5WDJjIiwiZmN2IjoiMyIsImVpIjoicHZCZGFJamhNZUdmd1BBUGpyVHktQVUiLCJxYyI6IkNpRm9iM2NnZEc4Z2FXNXpkR0ZzYkNCemVYTjBaVzFqZEd3Z2FXNGdiR2x1ZFhnUUFIMk0wUUlfIiwicXVlc3Rpb24iOiJIb3cgZG8gSSBpbnN0YWxsIHN5c3RlbWQ%2FIiwibGsiOiJHaGhvYjNjZ1pHOGdhU0JwYm5OMFlXeHNJSE41YzNSbGJXUSIsImJzIjoiYy1OeTRWTHh5QzlYU01sWDhGVEl6Q3N1U2N6SlVRaXVMQzVKelUwdXlWSEl6MVB3eWN3cnJiQ1hlQmRtSkNrbG5nUGl3TlVWdzlSeFdYRkpZcGdDa1UyeGwtaElONUtTa3NpQXlHZWl5M041Y1NtQzlKYmt3MldTODNOekVfTlNpb0VDTU92N0hJMlVwQlF5Y0tzRHU0d3JoRXNOYWxaUmFSN0NmVENWU0FZZXJ6TlNsMUxOSUtBWWJLb0FJd0EiLCJpZCI6ImZjX3B2QmRhSWpoTWVHZndQQVBqclR5LUFVXzEifQ%3D%3D"
+    },
+    {
+      "question": "How to install commands in Linux?",
+      "snippet": "The install command is my favorite Linux command i use the install command to copy. And install files. Exactly how I want the simplest use of the install command. Works just like the cp command.",
+      "title": "The 'install' Command In Linux - YouTube",
+      "link": "https://www.youtube.com/shorts/4wR7BzWuijk",
+      "displayed_link": null,
+      "source_logo": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ace8abfb9b8d40812103c145528718f9ce8a0578f0c3d5d16835ba24ac950160.png",
+      "next_page_token": "eyJvbnMiOiIyNjc5IiwiZmMiOiJFc3dDQ293Q1FVeHJkRjkyU0ZWSU9FSlliVWRmWlRkTVptZHhNVEJsYkhrd2NWOURhVUoyYVVveFIwNUtUblZPYUVsVE0xVmhSMEZzTmw5TldGZENOREpVYjJNelJsOTFXV1ZVYTA0d05ETXhVR1J0V21GVU5HdGhaRWRLZGt4aFVrTnZSVXN5V0RCS1puQTJVMDgyTjJ4d05teHpibXBvY1ZsRFozTkhVWGw2VjJwUFYyRnZaa0Y1Y1MweVRFUXlabmhTTFZoVlZWbHZOa2RCTFROMVUxcFpja3hhUlcxZldFdG5VVVV4YURCV1dWOHljVTFuVERNd1NrTnZhMnd0WjBRNGVqWnhVVEpzY2s1TGVWUnNlREphVW5CWFEzRkZVREpoVEMweGIzbEVOSEJxTlc1VGRraFRaWHB0TlMxU1JUSm5YMlZRUjNKU2IyVXRXWEpYVGxKVmNVdGZWVEpZUlZVeFRGcDFNUzFsYXhJWGNIWkNaR0ZKYW1oTlpVZG1kMUJCVUdweVZIa3RRVlVhSWtGR1RVRkhSM0paV0d4TGVFdFVhV2xCY3kweFZIYzJWa1prTFc1WWVFNWZaRUUiLCJmY3YiOiIzIiwiZWkiOiJwdkJkYUlqaE1lR2Z3UEFQanJUeS1BVSIsInFjIjoiQ2lGb2IzY2dkRzhnYVc1emRHRnNiQ0J6ZVhOMFpXMWpkR3dnYVc0Z2JHbHVkWGdRQUgyTTBRSV8iLCJxdWVzdGlvbiI6IkhvdyB0byBpbnN0YWxsIGNvbW1hbmRzIGluIExpbnV4PyIsImxrIjoiR2lCb2IzY2dkRzhnYVc1emRHRnNiQ0JqYjIxdFlXNWtjeUJwYmlCc2FXNTFlQSIsImJzIjoiYy1OeTRWTHh5QzlYU01sWDhGVEl6Q3N1U2N6SlVRaXVMQzVKelUwdXlWSEl6MVB3eWN3cnJiQ1hlQmRtSkNrbG5nUGl3TlVWdzlSeFdYRkpZcGdDa1UyeGwtaElONUtTa3NpQXlHZWl5M041Y1NtQzlKYmt3MldTODNOekVfTlNpb0VDTU92N0hJMlVwQlF5Y0tzRHU0d3JoRXNOYWxaUmFSN0NmVENWU0FZZXJ6TlNsMUxOSUtBWWJLb0FJd0EiLCJpZCI6ImZjX3B2QmRhSWpoTWVHZndQQVBqclR5LUFVXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIyNjc5IiwiZmMiOiJFc3dDQ293Q1FVeHJkRjkyU0ZWSU9FSlliVWRmWlRkTVptZHhNVEJsYkhrd2NWOURhVUoyYVVveFIwNUtUblZPYUVsVE0xVmhSMEZzTmw5TldGZENOREpVYjJNelJsOTFXV1ZVYTA0d05ETXhVR1J0V21GVU5HdGhaRWRLZGt4aFVrTnZSVXN5V0RCS1puQTJVMDgyTjJ4d05teHpibXBvY1ZsRFozTkhVWGw2VjJwUFYyRnZaa0Y1Y1MweVRFUXlabmhTTFZoVlZWbHZOa2RCTFROMVUxcFpja3hhUlcxZldFdG5VVVV4YURCV1dWOHljVTFuVERNd1NrTnZhMnd0WjBRNGVqWnhVVEpzY2s1TGVWUnNlREphVW5CWFEzRkZVREpoVEMweGIzbEVOSEJxTlc1VGRraFRaWHB0TlMxU1JUSm5YMlZRUjNKU2IyVXRXWEpYVGxKVmNVdGZWVEpZUlZVeFRGcDFNUzFsYXhJWGNIWkNaR0ZKYW1oTlpVZG1kMUJCVUdweVZIa3RRVlVhSWtGR1RVRkhSM0paV0d4TGVFdFVhV2xCY3kweFZIYzJWa1prTFc1WWVFNWZaRUUiLCJmY3YiOiIzIiwiZWkiOiJwdkJkYUlqaE1lR2Z3UEFQanJUeS1BVSIsInFjIjoiQ2lGb2IzY2dkRzhnYVc1emRHRnNiQ0J6ZVhOMFpXMWpkR3dnYVc0Z2JHbHVkWGdRQUgyTTBRSV8iLCJxdWVzdGlvbiI6IkhvdyB0byBpbnN0YWxsIGNvbW1hbmRzIGluIExpbnV4PyIsImxrIjoiR2lCb2IzY2dkRzhnYVc1emRHRnNiQ0JqYjIxdFlXNWtjeUJwYmlCc2FXNTFlQSIsImJzIjoiYy1OeTRWTHh5QzlYU01sWDhGVEl6Q3N1U2N6SlVRaXVMQzVKelUwdXlWSEl6MVB3eWN3cnJiQ1hlQmRtSkNrbG5nUGl3TlVWdzlSeFdYRkpZcGdDa1UyeGwtaElONUtTa3NpQXlHZWl5M041Y1NtQzlKYmt3MldTODNOekVfTlNpb0VDTU92N0hJMlVwQlF5Y0tzRHU0d3JoRXNOYWxaUmFSN0NmVENWU0FZZXJ6TlNsMUxOSUtBWWJLb0FJd0EiLCJpZCI6ImZjX3B2QmRhSWpoTWVHZndQQVBqclR5LUFVXzIifQ%3D%3D"
+    },
+    {
+      "question": "How to run systemctl command in Linux?",
+      "snippet": "To start a systemd service, executing instructions in the service's unit file, use the start command. If you are running as a non-root user, you will have to use sudo since this will affect the state of the operating system: sudo systemctl start application . service.",
+      "title": "Manage Systemd Services with systemctl on Linux",
+      "date": "Apr 18, 2025",
+      "link": "https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units#:~:text=To%20start%20a%20systemd%20service,service",
+      "displayed_link": "https://www.digitalocean.com › community › tutorials",
+      "next_page_token": "eyJvbnMiOiIyNjc5IiwiZmMiOiJFc3dDQ293Q1FVeHJkRjkyU0ZWSU9FSlliVWRmWlRkTVptZHhNVEJsYkhrd2NWOURhVUoyYVVveFIwNUtUblZPYUVsVE0xVmhSMEZzTmw5TldGZENOREpVYjJNelJsOTFXV1ZVYTA0d05ETXhVR1J0V21GVU5HdGhaRWRLZGt4aFVrTnZSVXN5V0RCS1puQTJVMDgyTjJ4d05teHpibXBvY1ZsRFozTkhVWGw2VjJwUFYyRnZaa0Y1Y1MweVRFUXlabmhTTFZoVlZWbHZOa2RCTFROMVUxcFpja3hhUlcxZldFdG5VVVV4YURCV1dWOHljVTFuVERNd1NrTnZhMnd0WjBRNGVqWnhVVEpzY2s1TGVWUnNlREphVW5CWFEzRkZVREpoVEMweGIzbEVOSEJxTlc1VGRraFRaWHB0TlMxU1JUSm5YMlZRUjNKU2IyVXRXWEpYVGxKVmNVdGZWVEpZUlZVeFRGcDFNUzFsYXhJWGNIWkNaR0ZKYW1oTlpVZG1kMUJCVUdweVZIa3RRVlVhSWtGR1RVRkhSM0paV0d4TGVFdFVhV2xCY3kweFZIYzJWa1prTFc1WWVFNWZaRUUiLCJmY3YiOiIzIiwiZWkiOiJwdkJkYUlqaE1lR2Z3UEFQanJUeS1BVSIsInFjIjoiQ2lGb2IzY2dkRzhnYVc1emRHRnNiQ0J6ZVhOMFpXMWpkR3dnYVc0Z2JHbHVkWGdRQUgyTTBRSV8iLCJxdWVzdGlvbiI6IkhvdyB0byBydW4gc3lzdGVtY3RsIGNvbW1hbmQgaW4gTGludXg/IiwibGsiOiJHaVZvYjNjZ2RHOGdjblZ1SUhONWMzUmxiV04wYkNCamIyMXRZVzVrSUdsdUlHeHBiblY0IiwiYnMiOiJjLU55NFZMeHlDOVhTTWxYOEZUSXpDc3VTY3pKVVFpdUxDNUp6VTB1eVZISXoxUHd5Y3dycmJDWGVCZG1KQ2tsbmdQaXdOVVZ3OVJ4V1hGSllwZ0NrVTJ4bC1oSU41S1Nrc2lBeUdlaXkzTjVjU21DOUpia3cyV1M4M056RV9OU2lvRUNNT3Y3SEkyVXBCUXljS3NEdTR3cmhFc05hbFpSYVI3Q2ZUQ1ZTQVllcnpOU2wxTE5JS0FZYktvQUl3QSIsImlkIjoiZmNfcHZCZGFJamhNZUdmd1BBUGpyVHktQVVfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIyNjc5IiwiZmMiOiJFc3dDQ293Q1FVeHJkRjkyU0ZWSU9FSlliVWRmWlRkTVptZHhNVEJsYkhrd2NWOURhVUoyYVVveFIwNUtUblZPYUVsVE0xVmhSMEZzTmw5TldGZENOREpVYjJNelJsOTFXV1ZVYTA0d05ETXhVR1J0V21GVU5HdGhaRWRLZGt4aFVrTnZSVXN5V0RCS1puQTJVMDgyTjJ4d05teHpibXBvY1ZsRFozTkhVWGw2VjJwUFYyRnZaa0Y1Y1MweVRFUXlabmhTTFZoVlZWbHZOa2RCTFROMVUxcFpja3hhUlcxZldFdG5VVVV4YURCV1dWOHljVTFuVERNd1NrTnZhMnd0WjBRNGVqWnhVVEpzY2s1TGVWUnNlREphVW5CWFEzRkZVREpoVEMweGIzbEVOSEJxTlc1VGRraFRaWHB0TlMxU1JUSm5YMlZRUjNKU2IyVXRXWEpYVGxKVmNVdGZWVEpZUlZVeFRGcDFNUzFsYXhJWGNIWkNaR0ZKYW1oTlpVZG1kMUJCVUdweVZIa3RRVlVhSWtGR1RVRkhSM0paV0d4TGVFdFVhV2xCY3kweFZIYzJWa1prTFc1WWVFNWZaRUUiLCJmY3YiOiIzIiwiZWkiOiJwdkJkYUlqaE1lR2Z3UEFQanJUeS1BVSIsInFjIjoiQ2lGb2IzY2dkRzhnYVc1emRHRnNiQ0J6ZVhOMFpXMWpkR3dnYVc0Z2JHbHVkWGdRQUgyTTBRSV8iLCJxdWVzdGlvbiI6IkhvdyB0byBydW4gc3lzdGVtY3RsIGNvbW1hbmQgaW4gTGludXg%2FIiwibGsiOiJHaVZvYjNjZ2RHOGdjblZ1SUhONWMzUmxiV04wYkNCamIyMXRZVzVrSUdsdUlHeHBiblY0IiwiYnMiOiJjLU55NFZMeHlDOVhTTWxYOEZUSXpDc3VTY3pKVVFpdUxDNUp6VTB1eVZISXoxUHd5Y3dycmJDWGVCZG1KQ2tsbmdQaXdOVVZ3OVJ4V1hGSllwZ0NrVTJ4bC1oSU41S1Nrc2lBeUdlaXkzTjVjU21DOUpia3cyV1M4M056RV9OU2lvRUNNT3Y3SEkyVXBCUXljS3NEdTR3cmhFc05hbFpSYVI3Q2ZUQ1ZTQVllcnpOU2wxTE5JS0FZYktvQUl3QSIsImlkIjoiZmNfcHZCZGFJamhNZUdmd1BBUGpyVHktQVVfMiJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "InrnDHicvZXbkrJGEIBv8yLxZn_FA7vKVlGpBgcdlVVWXdQbChEHFUUdFPEiVXmXPFWeJsPJZd3dVFJJZUod6Onu6e75pv3td3e12_zx06-O7-_pM8cFQVAinkdcu2R5W86k4c7ilp5Lj5bzC3HFEy04rmjvCuFZrBUsKpYL9krcn6WFideOareWwQAG6-MoLMK4EJuLxtyk9pp5v6wpZ3DsZ_NzrcleSrRk70pK9XGzxuprrwWlarnSKPU5c8sU4N8M-ZMEA0gAmnKnpX1ljeRIF6BzJ5eyh2bkDmOQ0Ji9eXkdFUi0GHuXkNY0hMDK5UJuvrRULRo8e8YKswWlCtrHmN61sv2z5D7sS-DDiK1QXvvTkKM8smcSVcJ4jye2jp20EbJyNm2iWs1-d3i3X7qMYK_CctgLyJeFZSlgNBpeKpG1xi0IO-cyNz-yqcIdaXTq8kgoe23z2u5tF86-03Rb4evLSUfGE7VXi5lOfsQ8WfQGFM0DdcbjaijsOtAYl3olqXKjKa7dECVRTJMSafCWFunrgdJFGfJqaUGlaFZDJykEWVkYusNkCcNg2pGPLMXc4eVowlkMKGZSByxHMiemMfK3isrD9DVGhBzZYUQQ2cRBEJkdFmySGNi3SdpEikwJwSQSlOMNEpocSEMaA7nFMobMmH18WcYQsl09GAZCO0040kUpbiwoWWFbq8kNYrFAM5Akxk4QaTEBSZKTs-RkgqJZCZKqTWUtuhcAvTua4qqq39c_Hd2_WtS-wAe5gg1F_WlZDe3r1ZiRSb-Pjk3-3DIhxcfbzv9BQ7L-d8BwDJim5AHrfgPY53aVACZlgE1iwDA4t3aVA4ykgK2Qs9HarF01mu-AOZABpmn4BliuXdVgmNz0DDAMfwuwKIgcYN0bYPJ3gN3aVQIYkxoZYHwCGP4E2H_crmLO7GT62LtOa3IPYWtW1F-Fk2b6fR8pL1d9ouyVzW5ZRrr2w1hu_ef90WPdbLV4lqodP1wUDqLjBQ--97DaUd903QcaUt_eWr7LJA_sn_p0KWzdoyeWTf4a8BZtmUpgKKOBMAqcCcL9nlBxSAtXywdbejOLvBCCep6bunOaDt7W-1nN3K606Rx7FG-6jaHiyQfhUgz1zRN-oza_2tNBv2MFXmgUqV7nO9eXlnNqLNz662HmYu9Rni2LYDv1y-5Q9ClFfNU6l_2wHEdFxbZhT2SH5_s6FLZHS2Qnxm9ALVDLNGx6Fqt8rf74aD_NG9VavVERClvih3uRr_wJVVJ52Q",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=InrnDHicvZXbkrJGEIBv8yLxZn_FA7vKVlGpBgcdlVVWXdQbChEHFUUdFPEiVXmXPFWeJsPJZd3dVFJJZUod6Onu6e75pv3td3e12_zx06-O7-_pM8cFQVAinkdcu2R5W86k4c7ilp5Lj5bzC3HFEy04rmjvCuFZrBUsKpYL9krcn6WFideOareWwQAG6-MoLMK4EJuLxtyk9pp5v6wpZ3DsZ_NzrcleSrRk70pK9XGzxuprrwWlarnSKPU5c8sU4N8M-ZMEA0gAmnKnpX1ljeRIF6BzJ5eyh2bkDmOQ0Ji9eXkdFUi0GHuXkNY0hMDK5UJuvrRULRo8e8YKswWlCtrHmN61sv2z5D7sS-DDiK1QXvvTkKM8smcSVcJ4jye2jp20EbJyNm2iWs1-d3i3X7qMYK_CctgLyJeFZSlgNBpeKpG1xi0IO-cyNz-yqcIdaXTq8kgoe23z2u5tF86-03Rb4evLSUfGE7VXi5lOfsQ8WfQGFM0DdcbjaijsOtAYl3olqXKjKa7dECVRTJMSafCWFunrgdJFGfJqaUGlaFZDJykEWVkYusNkCcNg2pGPLMXc4eVowlkMKGZSByxHMiemMfK3isrD9DVGhBzZYUQQ2cRBEJkdFmySGNi3SdpEikwJwSQSlOMNEpocSEMaA7nFMobMmH18WcYQsl09GAZCO0040kUpbiwoWWFbq8kNYrFAM5Akxk4QaTEBSZKTs-RkgqJZCZKqTWUtuhcAvTua4qqq39c_Hd2_WtS-wAe5gg1F_WlZDe3r1ZiRSb-Pjk3-3DIhxcfbzv9BQ7L-d8BwDJim5AHrfgPY53aVACZlgE1iwDA4t3aVA4ykgK2Qs9HarF01mu-AOZABpmn4BliuXdVgmNz0DDAMfwuwKIgcYN0bYPJ3gN3aVQIYkxoZYHwCGP4E2H_crmLO7GT62LtOa3IPYWtW1F-Fk2b6fR8pL1d9ouyVzW5ZRrr2w1hu_ef90WPdbLV4lqodP1wUDqLjBQ--97DaUd903QcaUt_eWr7LJA_sn_p0KWzdoyeWTf4a8BZtmUpgKKOBMAqcCcL9nlBxSAtXywdbejOLvBCCep6bunOaDt7W-1nN3K606Rx7FG-6jaHiyQfhUgz1zRN-oza_2tNBv2MFXmgUqV7nO9eXlnNqLNz662HmYu9Rni2LYDv1y-5Q9ClFfNU6l_2wHEdFxbZhT2SH5_s6FLZHS2Qnxm9ALVDLNGx6Fqt8rf74aD_NG9VavVERClvih3uRr_wJVVJ52Q"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Linux Systemctl Command | Installation and Usage Guide",
+      "link": "https://ioflood.com/blog/install-systemctl-command-linux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ioflood.com/blog/install-systemctl-command-linux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECBoQAQ",
+      "displayed_link": "https://ioflood.com › blog › install-systemctl-command-li...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5df6e2fb85bdf1b1be0d9252d88f7f357.png",
+      "date": "Jan 8, 2024",
+      "snippet": "In most Linux distributions, 'systemctl' comes pre-installed as part of the systemd package. To check if it's installed, you can run the command ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "systemctl"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Understanding and Installing...",
+            "link": "https://ioflood.com/blog/install-systemctl-command-linux/#Understanding_and_Installing_the_8216systemctl8217_Command"
+          },
+          {
+            "title": "Installing Different Versions of...",
+            "link": "https://ioflood.com/blog/install-systemctl-command-linux/#Installing_Different_Versions_of_Systemctl"
+          }
+        ]
+      },
+      "source": "IOFLOOD.com"
+    },
+    {
+      "position": 2,
+      "title": "systemctl: command not found on ubuntu 16.04",
+      "link": "https://askubuntu.com/questions/988266/systemctl-command-not-found-on-ubuntu-16-04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://askubuntu.com/questions/988266/systemctl-command-not-found-on-ubuntu-16-04&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECBwQAQ",
+      "displayed_link": "https://askubuntu.com › questions › systemctl-comman...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f524084487285e9ed030774d3cb8619f5f.png",
+      "date": "Dec 21, 2017",
+      "snippet": "First you need to check if systemd package is installed - sudo dpkg -l | grep systemd . · If not then install it by hands sudo apt-get install ...",
+      "snippet_highlighted_words": [
+        "sudo dpkg -l | grep systemd"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Unable to use systemctl - Ask Ubuntu",
+            "link": "https://askubuntu.com/questions/925932/unable-to-use-systemctl",
+            "answer_count": 1,
+            "date": "Jun 16, 2017"
+          },
+          {
+            "title": "How do I properly install a systemd timer and service?",
+            "link": "https://askubuntu.com/questions/1083537/how-do-i-properly-install-a-systemd-timer-and-service",
+            "answer_count": 1,
+            "date": "Oct 13, 2018"
+          }
+        ]
+      },
+      "source": "Ask Ubuntu"
+    },
+    {
+      "position": 3,
+      "title": "[SOLVED] Installation of systemctl",
+      "link": "https://forums.linuxmint.com/viewtopic.php?t=348198",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.linuxmint.com/viewtopic.php%3Ft%3D348198&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECDcQAQ",
+      "displayed_link": "https://forums.linuxmint.com › viewtopic",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5a9994b9b74e03b82dd4bcd5cdf20d6ff.png",
+      "date": "Apr 27, 2021",
+      "snippet": "Code: Select all tw@baker:~$ sudo apt install systemctl [sudo] password for tw: Reading package lists... Done Building dependency tree ...",
+      "snippet_highlighted_words": [
+        "sudo apt install systemctl"
+      ],
+      "source": "Linux Mint"
+    },
+    {
+      "position": 4,
+      "title": "Manage Systemd Services with systemctl on Linux",
+      "link": "https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCPQBEAE",
+      "displayed_link": "https://www.digitalocean.com › community › tutorials",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f529bd520bd3d13988a407f6a3bde94f4f.png",
+      "date": "Apr 18, 2025",
+      "snippet": "In this guide, we will be discussing the systemctl command, which is the central management tool for controlling the init system.",
+      "snippet_highlighted_words": [
+        "systemctl command"
+      ],
+      "source": "DigitalOcean"
+    },
+    {
+      "position": 5,
+      "title": "How to Fix Systemctl Command Not Found Error on Linux",
+      "link": "https://ultahost.com/knowledge-base/fix-systemctl-command-not-found/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ultahost.com/knowledge-base/fix-systemctl-command-not-found/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECDEQAQ",
+      "displayed_link": "https://ultahost.com › knowledge-base › fix-systemctl-c...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5c876d4ae1d9f2fda6200cc9be7d0d222.png",
+      "snippet": "For Debian-based systems. sudo apt-get install systemd · For CentOS/Fedora-based systems. sudo yum install systemd sudo dnf install systemd · For the Arch Linux ...",
+      "snippet_highlighted_words": [
+        "sudo apt-get install systemd"
+      ],
+      "source": "UltaHost"
+    },
+    {
+      "position": 6,
+      "title": "systemctl install on Debian 11",
+      "link": "https://www.reddit.com/r/debian/comments/18n5200/systemctl_install_on_debian_11/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/debian/comments/18n5200/systemctl_install_on_debian_11/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCJ0BEAE",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5e9f12615a956170fd266415092d32503.png",
+      "snippet": "I am trying to install crowdsec on it but it fails because systemctl is not found. Is it possible to install systemd on this server or is that considered high ...",
+      "snippet_highlighted_words": [
+        "install",
+        "systemctl",
+        "install"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "systemctl: not found : r/linux4noobs",
+            "link": "https://www.reddit.com/r/linux4noobs/comments/kroems/systemctl_not_found/",
+            "answer_count": 17,
+            "date": "Jan 6, 2021"
+          },
+          {
+            "title": "Command systemctl not found : r/artixlinux",
+            "link": "https://www.reddit.com/r/artixlinux/comments/141x298/command_systemctl_not_found/",
+            "answer_count": 27,
+            "date": "Jun 5, 2023"
+          }
+        ]
+      },
+      "source": "Reddit · r/debian"
+    },
+    {
+      "position": 7,
+      "title": "systemctl: command not found on ubuntu",
+      "link": "https://www.geeksforgeeks.org/linux-unix/systemctl-command-not-found-on-ubuntu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/linux-unix/systemctl-command-not-found-on-ubuntu/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCPUBEAE",
+      "displayed_link": "https://www.geeksforgeeks.org › linux-unix › systemctl...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f55b85bcaf78136a22fa20b21afa13820a.png",
+      "date": "Sep 12, 2024",
+      "snippet": "How to Fix \"systemctl: command not found\"? · Solution 1: Replacing systemctl with service command · Solution 2: Installing the systemd package.",
+      "snippet_highlighted_words": [
+        "Replacing systemctl with service command"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 8,
+      "title": "How to install 'systemctl' on Ubuntu (docker)?",
+      "link": "https://stackoverflow.com/questions/49502520/how-to-install-systemctl-on-ubuntu-docker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/49502520/how-to-install-systemctl-on-ubuntu-docker&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCKECEAE",
+      "displayed_link": "2 answers · 7 years ago",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5c3a5a74090dcdfebaa74bd54f49dc7bc.png",
+      "snippet": "Systemd is not installed on the ubuntu docker image. You can use the \"service\" command service mysql start service mysql status.",
+      "snippet_highlighted_words": [
+        "Systemd is not installed on the ubuntu docker image"
+      ],
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 9,
+      "title": "Getting started with systemctl",
+      "link": "https://www.redhat.com/en/blog/getting-started-systemctl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.redhat.com/en/blog/getting-started-systemctl&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECDYQAQ",
+      "displayed_link": "https://www.redhat.com › blog › getting-started-systemctl",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5f6617c736705eff68fdffe95ab112bec.png",
+      "date": "Oct 27, 2020",
+      "snippet": "As you can see, managing services via the systemctl command really isn't that difficult. I find it simpler and more logical than the older ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "Red Hat"
+    },
+    {
+      "position": 10,
+      "title": "How to Fix systemctl: Command Not Found Error On Ubuntu",
+      "link": "https://cloudzy.com/blog/systemctl-command-not-found/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cloudzy.com/blog/systemctl-command-not-found/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECHoQAQ",
+      "displayed_link": "https://cloudzy.com › Linux Tutorials",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f589f015c147ba9261d421544857646e54.png",
+      "date": "Sep 22, 2024",
+      "snippet": "1. Install systemctl by installing systemd using the following command: sudo apt install systemd-sysv · 2. Reboot your system by running this ...",
+      "snippet_highlighted_words": [
+        "sudo apt install systemd-sysv"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What Does systemctl...",
+            "link": "https://cloudzy.com/blog/systemctl-command-not-found/#what_does_systemctl_command_not_found_mean_"
+          },
+          {
+            "title": "Fixing the systemctl...",
+            "link": "https://cloudzy.com/blog/systemctl-command-not-found/#fixing_the_systemctl_command_not_found_error"
+          },
+          {
+            "title": "Checking systemctl's PATH",
+            "link": "https://cloudzy.com/blog/systemctl-command-not-found/#3_checking_systemctl_s_path"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 75
+          },
+          "extensions": [
+            "4.9(75)"
+          ]
+        }
+      },
+      "source": "Cloudzy"
+    },
+    {
+      "position": 11,
+      "title": "What is Systemctl in Linux? How install systemd in Linux?",
+      "link": "https://www.quora.com/What-is-Systemctl-in-Linux-How-install-systemd-in-Linux",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-is-Systemctl-in-Linux-How-install-systemd-in-Linux&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCKsBEAE",
+      "displayed_link": "2 answers · 3 years ago",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f59b1ad8f8966cd914d2290ccb219233a8.png",
+      "snippet": "To enable a service at boot , you will run systemctl enable my_service.service . Enable one or more units or unit instances. This will create a ...",
+      "snippet_highlighted_words": [
+        "systemctl enable my_service.service"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 12,
+      "title": "systemctl: command not found” when run on CentOS 6.6",
+      "link": "https://superuser.com/questions/1335413/sudo-systemctl-command-not-found-when-run-on-centos-6-6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://superuser.com/questions/1335413/sudo-systemctl-command-not-found-when-run-on-centos-6-6&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCNEBEAE",
+      "displayed_link": "https://superuser.com › questions › sudo-systemctl-com...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5317e580bbde9c76f724aace3a31e2957.png",
+      "date": "Jun 29, 2018",
+      "snippet": "I am using CentOS 6.6. When I try running the command sudo systemctl start elasticsearch I get an error like this: sudo: systemctl: command not found.",
+      "snippet_highlighted_words": [
+        "sudo: systemctl: command not found"
+      ],
+      "source": "Super User"
+    },
+    {
+      "position": 13,
+      "title": "'systemd' Command Installation and Usage | Linux Guide",
+      "link": "https://ioflood.com/blog/install-systemd-command-linux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ioflood.com/blog/install-systemd-command-linux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCPYBEAE",
+      "displayed_link": "https://ioflood.com › blog › install-systemd-command-li...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f532354b0766399eee165ee7bb1405367e.png",
+      "date": "Jan 8, 2024",
+      "snippet": "If it isn't installed you can add it with the command, sudo apt-get install systemd or sudo yum install systemd . For example: systemctl ...",
+      "snippet_highlighted_words": [
+        "sudo apt-get install systemd"
+      ],
+      "source": "IOFLOOD.com"
+    },
+    {
+      "position": 14,
+      "title": "Package Manager and systemctl",
+      "link": "https://medium.com/@vkshsingh30/package-manager-and-systemctl-5e4943479dd5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40vkshsingh30/package-manager-and-systemctl-5e4943479dd5&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCJICEAE",
+      "displayed_link": "1 year ago",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f526bfdb0c722e71fd220d0c456609d871.png",
+      "snippet": "systemctl is a command-line utility used to manage system services and control the systemd init system, which is commonly used in modern Linux ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "Medium · Vikash Anand Singh"
+    },
+    {
+      "position": 15,
+      "title": "Installing the server as services using systemd",
+      "link": "https://www.ibm.com/docs/en/devops-deploy/8.1.0?topic=systemd-installing-server-as-services-using",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ibm.com/docs/en/devops-deploy/8.1.0%3Ftopic%3Dsystemd-installing-server-as-services-using&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCKoCEAE",
+      "displayed_link": "https://www.ibm.com › docs › devops-deploy › topic=s...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5d089a4c41e4d797d9175a41477e58ea4.png",
+      "snippet": "Log in to the server host machine as a root user. · Locate the product system directory by using the following command: · Edit the unit file and specify the User ...",
+      "snippet_highlighted_words": [
+        "Log in to the server host machine as a root user"
+      ],
+      "source": "IBM - United States"
+    },
+    {
+      "position": 16,
+      "title": "Systemd: setup a simple systemd service on Linux",
+      "link": "https://www.youtube.com/watch?v=43R8wyCFOPA",
+      "displayed_link": "6.5K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33MylPhkIiUglGAH6jOnVpn4F00qeufQEbb_6PrhdvzBW&s",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f518a0955647653e8d5437e138ef5aaa51.png",
+      "snippet": "In this demo we're going to cover creating a simple bash script to output the date to a log file.",
+      "duration": "5:08",
+      "key_moments": [
+        {
+          "time": "00:05",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=43R8wyCFOPA&t=5",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShW3z6axxboSYjPuo_jH5aP0U58hJD7CD-0cg43tvCAA&s"
+        },
+        {
+          "time": "00:19",
+          "title": "What we'll cover in this demo",
+          "link": "https://www.youtube.com/watch?v=43R8wyCFOPA&t=19",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGx9-DjK6syjPxmVsfHaJqnw0D1Q2F9jjYR9tWrkvLA&s"
+        },
+        {
+          "time": "00:43",
+          "title": "Create a simple service script",
+          "link": "https://www.youtube.com/watch?v=43R8wyCFOPA&t=43",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe6CGAEY4a5-ZerWDtSlNFysQIDjL9ci4PRMwLM4lFag&s"
+        },
+        {
+          "time": "01:30",
+          "title": "Test the service",
+          "link": "https://www.youtube.com/watch?v=43R8wyCFOPA&t=90",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQFleZ6HMhB5XlkTYurRabeqVYggW0-2zFOn4Jr7ORqA&s"
+        },
+        {
+          "time": "01:54",
+          "title": "Create the service file",
+          "link": "https://www.youtube.com/watch?v=43R8wyCFOPA&t=114",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzv-eNsG7grGX6y_h-blMC0hOkA-FEgktMLR5JhrJhGA&s"
+        },
+        {
+          "time": "02:49",
+          "title": "Reload the daemon",
+          "link": "https://www.youtube.com/watch?v=43R8wyCFOPA&t=169",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzUgj3yW31H7E4OdaMSOutfPtZQLs_E6H4Ie9O_PJ35Q&s"
+        },
+        {
+          "time": "02:59",
+          "title": "Start the service",
+          "link": "https://www.youtube.com/watch?v=43R8wyCFOPA&t=179",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPgsn4rOQKfxirXlGOiAG08evl-TFZYdot7XtJ4HTfw&s"
+        },
+        {
+          "time": "03:10",
+          "title": "Starting the systemd service",
+          "link": "https://www.youtube.com/watch?v=43R8wyCFOPA&t=190",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-nra0TX04doGHW8Nky966rqB3JvjavvCrlnm9qYFLw&s"
+        },
+        {
+          "time": "03:39",
+          "title": "Enable the service",
+          "link": "https://www.youtube.com/watch?v=43R8wyCFOPA&t=219",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjdc-jlHjCj991cr-j0tSONOBS4gxmqUisfVcIjRGYA&s"
+        },
+        {
+          "time": "04:40",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=43R8wyCFOPA&t=280",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUH7bRJQnk5CQb23OJZ0u57U5yC7nqdMN3HQ3Sj-oPUg&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRH6pWU6qysWn07CuNgLCDOshobsL2ihbcT1Q",
+      "source": "YouTube · LondonIAC / Dennis McCarthy / Automation Engineer"
+    },
+    {
+      "position": 17,
+      "title": "How to use systemctl to manage Linux services",
+      "link": "https://www.redhat.com/en/blog/linux-systemctl-manage-services",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.redhat.com/en/blog/linux-systemctl-manage-services&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECDUQAQ",
+      "displayed_link": "https://www.redhat.com › blog › linux-systemctl-manage...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5cfc83cbcc8c7abdf90f9e5699a864130.png",
+      "date": "May 17, 2022",
+      "snippet": "You can use the systemctl command to manage services and control when they start. Restart a service. After editing the /etc/ssh/sshd_config file ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "Red Hat"
+    },
+    {
+      "position": 18,
+      "title": "Use systemd to manage Linux services with WSL",
+      "link": "https://learn.microsoft.com/en-us/windows/wsl/systemd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.microsoft.com/en-us/windows/wsl/systemd&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECFEQAQ",
+      "displayed_link": "https://learn.microsoft.com › Learn › Windows › WSL",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f50c8b8ec7c7a5c2e0461955686038f358.png",
+      "date": "Mar 17, 2025",
+      "snippet": "How to enable systemd? · Ensure that your WSL version is 0.67. · Open a command line for your Linux distribution and enter cd / to access the root ...",
+      "snippet_highlighted_words": [
+        "Ensure that your WSL version is 0.67"
+      ],
+      "source": "Learn Microsoft"
+    },
+    {
+      "position": 19,
+      "title": "Use systemd on Oracle Linux",
+      "link": "https://docs.oracle.com/en/learn/use_systemd/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.oracle.com/en/learn/use_systemd/index.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECGgQAQ",
+      "displayed_link": "https://docs.oracle.com › learn › use_systemd",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5e528e11fe50a853e9615eeb79dc93fa7.png",
+      "snippet": "In this tutorial, you learn how to use the systemctl command line utility to manage and view systemd units that are controlled by systemd.",
+      "snippet_highlighted_words": [
+        "how to use the systemctl command line utility"
+      ],
+      "source": "Oracle Help Center"
+    },
+    {
+      "position": 20,
+      "title": "Understanding and administering systemd - Fedora Docs",
+      "link": "https://docs.fedoraproject.org/en-US/quick-docs/systemd-understanding-and-administering/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.fedoraproject.org/en-US/quick-docs/systemd-understanding-and-administering/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCIUBEAE",
+      "displayed_link": "https://docs.fedoraproject.org › en-US › quick-docs › sys...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5640205f91413e40171b0bbfd006db0a4.png",
+      "snippet": "The systemctl command is the primary tool to manage systemd. It combines the functionality of SysVinit's service and chkconfig commands into a single tool.",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "Fedora Docs"
+    },
+    {
+      "position": 21,
+      "title": "systemd - system and service manager",
+      "link": "https://wiki.debian.org/systemd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wiki.debian.org/systemd&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCJ4BEAE",
+      "displayed_link": "https://wiki.debian.org › systemd",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f54892b2470992cc3619539f721952378a.png",
+      "date": "Jan 19, 2025",
+      "snippet": "Start by determining the canonical systemd service name (e.g. ssh. · Use the command # systemctl edit name. · If needed, create more files inside ...",
+      "snippet_highlighted_words": [
+        "Use the command # systemctl edit name"
+      ],
+      "source": "Debian Wiki"
+    },
+    {
+      "position": 22,
+      "title": "How to Fix systemctl: Command Not Found Error On Ubuntu",
+      "link": "https://www.wilivm.com/blog/how-to-fix-systemctl/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wilivm.com/blog/how-to-fix-systemctl/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCLkBEAE",
+      "displayed_link": "https://www.wilivm.com › blog › how-to-fix-systemctl",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f50f0b03be9254f742721f1e8daf76dbac.png",
+      "date": "Nov 7, 2024",
+      "snippet": "Solution 1: Use the `service` Command Instead of `systemctl` · Solution 2: Install the `systemd` Package.",
+      "snippet_highlighted_words": [
+        "Use the `service` Command Instead of `systemctl"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 1
+          },
+          "extensions": [
+            "5.0(1)"
+          ]
+        }
+      },
+      "source": "Wilivm"
+    },
+    {
+      "position": 23,
+      "title": "Creating a Linux service with systemd | by Benjamin Morel",
+      "link": "https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCMcBEAE",
+      "displayed_link": "9.2K+ likes · 7 years ago",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f57b981da4f83021b37570679c06b13ba6.png",
+      "snippet": "It's fairly easy to create a Linux service: use your favourite programming language to write a long-running program, and turn it into a service using systemd.",
+      "snippet_highlighted_words": [
+        "Linux"
+      ],
+      "source": "Medium · Benjamin Morel"
+    },
+    {
+      "position": 24,
+      "title": "systemctl command not working in RHEL 6",
+      "link": "https://unix.stackexchange.com/questions/407647/systemctl-command-not-working-in-rhel-6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://unix.stackexchange.com/questions/407647/systemctl-command-not-working-in-rhel-6&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCOUBEAE",
+      "displayed_link": "https://unix.stackexchange.com › questions › systemctl-...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f588647c8ce429a41b790ff841a2429700.png",
+      "date": "Nov 29, 2017",
+      "snippet": "On RHEL 7 or CentOS 7, the systemctl or systemd command works fine. I know it won't work in RHEL 6 or CentOS 6. Can you tell me the alternative ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "Unix & Linux Stack Exchange"
+    },
+    {
+      "position": 25,
+      "title": "How to use systemctl in Ubuntu 14.04",
+      "link": "https://stackoverflow.com/questions/37438630/how-to-use-systemctl-in-ubuntu-14-04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/37438630/how-to-use-systemctl-in-ubuntu-14-04&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCPgBEAE",
+      "displayed_link": "4 answers · 9 years ago",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f55777bd33e98abba7ba641b54560937c8.png",
+      "snippet": "I just encountered this problem myself and found that Ubuntu 14.04 uses Upstart instead of Systemd, so systemctl commands will not work.",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 26,
+      "title": "How to create a Systemd service in Linux - Dr. Shubham Dipt",
+      "link": "https://www.shubhamdipt.com/blog/how-to-create-a-systemd-service-in-linux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shubhamdipt.com/blog/how-to-create-a-systemd-service-in-linux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCIMCEAE",
+      "displayed_link": "https://www.shubhamdipt.com › blog › how-to-create-a...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f59cced0e053467609680608b031ac4623.png",
+      "date": "Aug 19, 2023",
+      "snippet": "Systemd in Linux helps to configure services which can be managed. To do so follow the following steps. Create a file named your-service.service and include ...",
+      "snippet_highlighted_words": [
+        "Systemd in Linux helps to configure services"
+      ],
+      "source": "shubhamdipt.com"
+    },
+    {
+      "position": 27,
+      "title": "How to install Systemd in Linux",
+      "link": "https://www.quora.com/How-do-I-install-Systemd-in-Linux",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/How-do-I-install-Systemd-in-Linux&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCJkCEAE",
+      "displayed_link": "2 answers · 4 years ago",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f588cd0a9e6a986ac93b6d5e5e6250f91b.png",
+      "snippet": "Install it as any other program using distro-specific package manager (like “apt install systemd”).",
+      "snippet_highlighted_words": [
+        "Install",
+        "install"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 28,
+      "title": "systemctl: The Complete Guide to Managing Linux Services",
+      "link": "https://last9.io/blog/systemctl-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://last9.io/blog/systemctl-guide/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCJMCEAE",
+      "displayed_link": "https://last9.io › blog › systemctl-guide",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f574170a2a84ff56b42c5c6ddd4292065a.png",
+      "date": "Mar 17, 2025",
+      "snippet": "Learn how to use systemctl to start, stop, and manage services on Linux. From basics to advanced tips, this guide covers it all.",
+      "snippet_highlighted_words": [
+        "Learn how to use systemctl"
+      ],
+      "source": "Last9"
+    },
+    {
+      "position": 29,
+      "title": "systemctl: command not found / Installation ...",
+      "link": "https://bbs.archlinux.org/viewtopic.php?id=159914",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bbs.archlinux.org/viewtopic.php%3Fid%3D159914&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCK0CEAE",
+      "displayed_link": "https://bbs.archlinux.org › Installation",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5714d6a16c5117be970c595a8dc45cbb9.png",
+      "date": "Mar 19, 2013",
+      "snippet": "Just installed arch on a VPS server, and noticed that I get: systemctl bash: systemctl: command not found. Where do I find this command?",
+      "snippet_highlighted_words": [
+        "Just installed arch on a VPS server"
+      ],
+      "source": "Arch Linux Forums"
+    },
+    {
+      "position": 30,
+      "title": "sudo: systemctl: command not found [closed]",
+      "link": "https://raspberrypi.stackexchange.com/questions/66235/sudo-systemctl-command-not-found",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://raspberrypi.stackexchange.com/questions/66235/sudo-systemctl-command-not-found&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCLMCEAE",
+      "displayed_link": "https://raspberrypi.stackexchange.com › questions › sud...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f58e186952a8a5d73c6e1825c2c6bc7ed7.png",
+      "date": "Apr 24, 2017",
+      "snippet": "sudo: systemctl: command not found. I've installed all updates for the OS, Raspbian, and attempted apt-get install systemd. Which results in",
+      "snippet_highlighted_words": [
+        "sudo: systemctl: command not found"
+      ],
+      "source": "Raspberry Pi Stack Exchange"
+    },
+    {
+      "position": 31,
+      "title": "How to Start, Stop and Restart Services in Linux Using ...",
+      "link": "https://www.geeksforgeeks.org/start-stop-restart-services-using-systemctl-in-linux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/start-stop-restart-services-using-systemctl-in-linux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCLICEAE",
+      "displayed_link": "https://www.geeksforgeeks.org › start-stop-restart-servic...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5f010ff6466d30d81339a5439f5b9f775.png",
+      "date": "Jun 5, 2024",
+      "snippet": "In this article, we will explore the basics of using systemctl to start, stop, restart, enable, disable and display status of services in a Linux environment.",
+      "snippet_highlighted_words": [
+        "using systemctl"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 32,
+      "title": "[solved] systemctl package as an alternative to systemd?",
+      "link": "https://www.antixforum.com/forums/topic/systemctl-package-as-an-alternative-to-systemd/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.antixforum.com/forums/topic/systemctl-package-as-an-alternative-to-systemd/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCMkCEAE",
+      "displayed_link": "https://www.antixforum.com › forums › topic › system...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5eab197761c3ed25f9affcf2349453628.png",
+      "date": "Jul 30, 2022",
+      "snippet": "systemctl is a replacement command to control system daemons without systemd. systemctl is useful in application containers where systemd is not available to ...",
+      "snippet_highlighted_words": [
+        "systemctl",
+        "systemctl"
+      ],
+      "source": "antiX-forum"
+    },
+    {
+      "position": 33,
+      "title": "systemctl command not found: How to Fix Error on Ubuntu?",
+      "link": "https://operavps.com/docs/systemctl-command-not-found-ubuntu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://operavps.com/docs/systemctl-command-not-found-ubuntu/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECDMQAQ",
+      "displayed_link": "https://operavps.com › Docs",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5e79d3280faad95d8987afec710078040.png",
+      "date": "Dec 26, 2024",
+      "snippet": "Verify if your system uses systemd, install or reinstall it using sudo apt install systemd , and reboot to apply the changes. For non-systemd ...",
+      "snippet_highlighted_words": [
+        "sudo apt install systemd"
+      ],
+      "source": "OperaVPS"
+    },
+    {
+      "position": 34,
+      "title": "systemctl(1) - Linux manual page",
+      "link": "https://www.man7.org/linux/man-pages/man1/systemctl.1.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.man7.org/linux/man-pages/man1/systemctl.1.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECE4QAQ",
+      "displayed_link": "https://www.man7.org › linux › man-pages › man1 › sys...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5ff48107f2cb3724aab2dbcf6cd786285.jpeg",
+      "snippet": "systemctl may be used to introspect and control the state of the \"systemd\" system and service manager. Please refer to systemd(1) for an introduction into the ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "man7.org"
+    },
+    {
+      "position": 35,
+      "title": "Systemctl unit files - Rocky Linux Help & Support",
+      "link": "https://forums.rockylinux.org/t/systemctl-unit-files/9854",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.rockylinux.org/t/systemctl-unit-files/9854&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECFAQAQ",
+      "displayed_link": "https://forums.rockylinux.org › systemctl-unit-files",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5750b1ba51e7756e6da166a7e9bf8d282.png",
+      "date": "May 11, 2023",
+      "snippet": "So I cribbed the unit file from the old server which shows httpd running as a background process with a fairly large number of children all with ...",
+      "source": "Rocky Linux Forum"
+    },
+    {
+      "position": 36,
+      "title": "Installing as Linux Service",
+      "link": "https://docs.teamscale.com/howto/installing-teamscale/installing-as-linux-service/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.teamscale.com/howto/installing-teamscale/installing-as-linux-service/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECGYQAQ",
+      "displayed_link": "https://docs.teamscale.com › howto › installing-teamscale",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5fec81605915185bbc693ab1a867111fc.png",
+      "snippet": "Copy the file to /etc/systemd/system . Reload the systemd daemon to register the new service by running: bash sudo systemctl ...",
+      "snippet_highlighted_words": [
+        "Copy the file to"
+      ],
+      "source": "Teamscale Docs"
+    },
+    {
+      "position": 37,
+      "title": "Setting Up a systemd Service",
+      "link": "https://documentation.suse.com/smart/systems-management/html/systemd-setting-up-service/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://documentation.suse.com/smart/systems-management/html/systemd-setting-up-service/index.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECGkQAQ",
+      "displayed_link": "https://documentation.suse.com › smart › html › system...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5b20f5bf1744f2f87f64b54075d3fddc3.png",
+      "date": "Feb 19, 2025",
+      "snippet": "systemd is a system and service manager for Linux operating systems. It is the default initialization system for major Linux distributions.",
+      "snippet_highlighted_words": [
+        "Linux",
+        "Linux"
+      ],
+      "source": "SUSE Documentation"
+    },
+    {
+      "position": 38,
+      "title": "systemctl linux command man page",
+      "link": "https://www.commandlinux.com/man-page/man1/systemctl.1.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.commandlinux.com/man-page/man1/systemctl.1.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECGoQAQ",
+      "displayed_link": "https://www.commandlinux.com › systemctl.1.html",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f58538b8b47f4f12a9e11a5763db82753d.png",
+      "snippet": "systemctl may be used to introspect and control the state of the systemd(1) system and service manager.",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "www.commandlinux.com"
+    },
+    {
+      "position": 39,
+      "title": "How to Control and Manage Systemd Services with Systemctl",
+      "link": "https://betterstack.com/community/guides/logging/how-to-control-systemd-with-systemctl/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://betterstack.com/community/guides/logging/how-to-control-systemd-with-systemctl/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCIoBEAE",
+      "displayed_link": "https://betterstack.com › community › guides › logging",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f57b1afa47385346d5289d447dfc46f770.png",
+      "date": "Nov 20, 2024",
+      "snippet": "Prerequisites · Step 1 — Viewing Systemd unit files · Step 2 — Checking the service status with systemctl · Step 3 — Starting and stopping services ...",
+      "snippet_highlighted_words": [
+        "Prerequisites"
+      ],
+      "source": "Better Stack"
+    },
+    {
+      "position": 40,
+      "title": "How to Create and Run New Service Units in Systemd",
+      "link": "https://www.tecmint.com/create-new-service-units-in-systemd/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tecmint.com/create-new-service-units-in-systemd/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCIgBEAE",
+      "displayed_link": "https://www.tecmint.com › Linux Commands",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5423598e4f789493450f660234d6e9359.png",
+      "date": "Apr 25, 2025",
+      "snippet": "To set up a service that runs a script at boot, we'll create a new service unit under the /etc/systemd/system directory, here you'll see ...",
+      "snippet_highlighted_words": [
+        "create a new service unit under the /etc/systemd/system directory"
+      ],
+      "source": "Tecmint"
+    },
+    {
+      "position": 41,
+      "title": "Use systemctl on CentOS 7 or RHEL 7",
+      "link": "https://www.tutorialspoint.com/how-to-use-systemctl-on-centos-7-x-or-rhel-linux-7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tutorialspoint.com/how-to-use-systemctl-on-centos-7-x-or-rhel-linux-7&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCKEBEAE",
+      "displayed_link": "https://www.tutorialspoint.com › how-to-use-systemctl-...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5d1b17fc1941b685d61ca75e357844773.png",
+      "date": "Jan 20, 2020",
+      "snippet": "In this article we will learn how to use 'systemctl' command, 'systemctl' is a new command which is available in the new version of Linux ...",
+      "snippet_highlighted_words": [
+        "systemctl",
+        "systemctl",
+        "Linux"
+      ],
+      "source": "Tutorialspoint"
+    },
+    {
+      "position": 42,
+      "title": "How to Use the systemctl Command in Linux",
+      "link": "https://gcore.com/learning/how-to-use-systemctl-command-in-linux",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gcore.com/learning/how-to-use-systemctl-command-in-linux&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCKQBEAE",
+      "displayed_link": "https://gcore.com › learning › how-to-use-systemctl-co...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5e1eb22375568632927d77ce1cab048e4.png",
+      "date": "Oct 10, 2023",
+      "snippet": "The systemctl command in Linux is a utility that manages and interacts with the systemd system and service manager.",
+      "snippet_highlighted_words": [
+        "systemctl",
+        "Linux",
+        "a utility that manages and interacts with the systemd system and service manager"
+      ],
+      "source": "Gcore"
+    },
+    {
+      "position": 43,
+      "title": "The Difference Between Systemctl and Service Command ...",
+      "link": "https://www.baeldung.com/linux/differences-systemctl-service",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.baeldung.com/linux/differences-systemctl-service&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCLoBEAE",
+      "displayed_link": "https://www.baeldung.com › linux › differences-system...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f58e19d6c9342610d12aa925a9645b5a6b.png",
+      "date": "Mar 18, 2024",
+      "snippet": "SysVInit is the classic initialization process in Linux. The initialization process relies on the individual service to install relevant scripts ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "install"
+      ],
+      "source": "Baeldung"
+    },
+    {
+      "position": 44,
+      "title": "[Solved]With systemd on install media, systemctl works ...",
+      "link": "https://bbs.archlinux.org/viewtopic.php?id=150242",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bbs.archlinux.org/viewtopic.php%3Fid%3D150242&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCL8BEAE",
+      "displayed_link": "https://bbs.archlinux.org › Installation",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f50cbeb78df94fc6bae892ba2c8b1b05df.png",
+      "date": "Oct 7, 2012",
+      "snippet": "With the new install media for October using systemd, is it possible to enable these services using systemctl during the install (ie, so I could ...",
+      "snippet_highlighted_words": [
+        "install",
+        "systemctl",
+        "install"
+      ],
+      "source": "Arch Linux Forums"
+    },
+    {
+      "position": 45,
+      "title": "How to \"load\" a systemd Unit file? - Applications",
+      "link": "https://forums.opensuse.org/t/how-to-load-a-systemd-unit-file/102484",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.opensuse.org/t/how-to-load-a-systemd-unit-file/102484&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCNYBEAE",
+      "displayed_link": "https://forums.opensuse.org › English › Applications",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5978a777f33999fe1526f4e866c19eea1.png",
+      "date": "Aug 21, 2014",
+      "snippet": "Came across something curious I hadn't noticed before… First, I found that “systemctl -a” doesn't actually display “all” Units on the system ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "openSUSE Forums"
+    },
+    {
+      "position": 46,
+      "title": "Using systemctl with SystemD (Linux+ Objective 1.4.1)",
+      "link": "https://www.youtube.com/watch?v=xPOzswIUBPM&pp=ygUPI3Npc3RlbWRlbsOnxLFr",
+      "displayed_link": "5K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRisvLn8QbVNZTyXtp060dz9B-LZMQYb5SIEQxQeP9E5el6&s",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5fb5b075ebbb35680a2ce150354d526b5.png",
+      "snippet": "The systemctl command is used to manage the SystemD services on your Linux machine. Once you understand the various options available, ...",
+      "duration": "9:18",
+      "key_moments": [
+        {
+          "time": "02:30",
+          "title": "Status",
+          "link": "https://www.youtube.com/watch?v=xPOzswIUBPM&pp=ygUPI3Npc3RlbWRlbsOnxLFr&t=150",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2ytgdV8K8e24qrXzaQ7k2liD6zdbSdvztCBjoPqTwg&s"
+        },
+        {
+          "time": "04:10",
+          "title": "Systemctl Start",
+          "link": "https://www.youtube.com/watch?v=xPOzswIUBPM&pp=ygUPI3Npc3RlbWRlbsOnxLFr&t=250",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ65cDTi0RXmFhnRDcX0KAT7C3I9hS4JbDPk-l_zNZpyw&s"
+        },
+        {
+          "time": "04:40",
+          "title": "Stop Apache",
+          "link": "https://www.youtube.com/watch?v=xPOzswIUBPM&pp=ygUPI3Npc3RlbWRlbsOnxLFr&t=280",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO0Tyzs6KToGwuhGKFC0-DnwM2caJzg_URsJtIRxpR3g&s"
+        },
+        {
+          "time": "05:38",
+          "title": "Systemctl Status",
+          "link": "https://www.youtube.com/watch?v=xPOzswIUBPM&pp=ygUPI3Npc3RlbWRlbsOnxLFr&t=338",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGCPd5etNKlNjUu7xZGHQcO5n6IDDmxCaSGJLJchQ3w&s"
+        },
+        {
+          "time": "07:30",
+          "title": "Systemctl Unmask Apache 2",
+          "link": "https://www.youtube.com/watch?v=xPOzswIUBPM&pp=ygUPI3Npc3RlbWRlbsOnxLFr&t=450",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJD1At4i29hvi5QIVUwy3cv_Kipd-rYqDWuW0UDpyMSQ&s"
+        },
+        {
+          "time": "07:48",
+          "title": "Enable Apache2",
+          "link": "https://www.youtube.com/watch?v=xPOzswIUBPM&pp=ygUPI3Npc3RlbWRlbsOnxLFr&t=468",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__cA_ljyxrjL54G6P-Pyq9N9wd71WCmxXY5SFnE3VHw&s"
+        }
+      ],
+      "missing": [
+        "install"
+      ],
+      "must_include": {
+        "word": "install",
+        "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=how+to+%22install%22+systemctl+in+linux&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q5t4CegUIxwIQLg"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRe1G-BQDV-5gmbTY23LXR_W4EjVcjbwg3f-Q",
+      "source": "YouTube · Shawn Powers"
+    },
+    {
+      "position": 47,
+      "title": "How to List Linux Services With systemctl",
+      "link": "https://www.howtogeek.com/839285/how-to-list-linux-services-with-systemctl/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.howtogeek.com/839285/how-to-list-linux-services-with-systemctl/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCNoBEAE",
+      "displayed_link": "https://www.howtogeek.com › Linux",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5599e4c560451b7910ad8bd743e279984.png",
+      "snippet": "We can expand the scope of the systemctl command by including the list-unit-files option. This doesn't just report on services and daemons that have been ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "How-To Geek"
+    },
+    {
+      "position": 48,
+      "title": "Install Redis on Linux | Docs",
+      "link": "https://redis.io/docs/latest/operate/oss_and_stack/install/archive/install-redis/install-redis-on-linux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://redis.io/docs/latest/operate/oss_and_stack/install/archive/install-redis/install-redis-on-linux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCOoBEAE",
+      "displayed_link": "https://redis.io › latest › oss_and_stack › install › archive",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f559aa87f0c5082ad682b6711a8ce44527.png",
+      "snippet": "You can start the Redis server as a background process using the systemctl command. This only applies to Ubuntu/Debian when installed using apt , and Red Hat/ ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "Redis"
+    },
+    {
+      "position": 49,
+      "title": "Linux",
+      "link": "https://www.jenkins.io/doc/book/installing/linux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jenkins.io/doc/book/installing/linux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCPwBEAE",
+      "displayed_link": "https://www.jenkins.io › doc › book › installing › linux",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5b1a8b9d2bd2642c3e40c0687c37e937b.png",
+      "snippet": "The package installation will: Setup Jenkins as a daemon launched on start. Run systemctl cat jenkins for more details. Create a ' ...",
+      "snippet_highlighted_words": [
+        "installation",
+        "Setup",
+        "systemctl"
+      ],
+      "source": "Jenkins"
+    },
+    {
+      "position": 50,
+      "title": "What is Systemctl? An In-Depth Overview",
+      "link": "https://www.liquidweb.com/blog/what-is-systemctl-an-in-depth-overview/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.liquidweb.com/blog/what-is-systemctl-an-in-depth-overview/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCP4BEAE",
+      "displayed_link": "https://www.liquidweb.com › blog › what-is-systemctl-an...",
+      "snippet": "Systemctl is a command-line tool that allows for the management and monitoring of the systemd system and service manager.",
+      "snippet_highlighted_words": [
+        "Systemctl",
+        "a command-line tool that allows for the management and monitoring of the systemd system and service manager"
+      ],
+      "source": "Liquid Web"
+    },
+    {
+      "position": 51,
+      "title": "How to see all enabled services with systemctl - Linux Audit",
+      "link": "https://linux-audit.com/systemd/faq/how-to-see-all-enabled-services-with-systemctl/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://linux-audit.com/systemd/faq/how-to-see-all-enabled-services-with-systemctl/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCIYCEAE",
+      "displayed_link": "https://linux-audit.com › systemd › FAQ",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5d39b11f40b0af8044963bd63570ecb51.jpeg",
+      "date": "Mar 12, 2025",
+      "snippet": "Linux systems using systemd have the systemctl command available that can be used to show all service units, including a filter for only ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "systemctl"
+      ],
+      "source": "linux-audit.com"
+    },
+    {
+      "position": 52,
+      "title": "Linux systemctl Command with Practical Examples",
+      "link": "https://labex.io/tutorials/linux-linux-systemctl-command-with-practical-examples-422947",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://labex.io/tutorials/linux-linux-systemctl-command-with-practical-examples-422947&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCI4CEAE",
+      "displayed_link": "https://labex.io › tutorials › linux-linux-systemctl-comma...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f54380282849446796c13f587a26e20df2.png",
+      "snippet": "In this step, you will learn how to use various systemctl commands to manage system services. ... This command creates a symbolic link to the service unit file, ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "LabEx"
+    },
+    {
+      "position": 53,
+      "title": "How to Use Systemctl Command in Systemd Linux System",
+      "link": "https://linuxtldr.com/systemctl-command/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://linuxtldr.com/systemctl-command/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCJACEAE",
+      "displayed_link": "https://linuxtldr.com › systemctl-command",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5e8fdadb82768ec65535432d12e5f8b5f.png",
+      "date": "May 31, 2024",
+      "snippet": "How to Use Systemctl Command on Systemd Linux System · List Unit Files · List All Unit Files That Are Enabled · List All Unit Files That Failed To ...",
+      "snippet_highlighted_words": [
+        "Systemctl",
+        "Linux"
+      ],
+      "source": "linuxtldr.com"
+    },
+    {
+      "position": 54,
+      "title": "Linux post-installation steps for Docker Engine",
+      "link": "https://docs.docker.com/engine/install/linux-postinstall/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.docker.com/engine/install/linux-postinstall/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCJQCEAE",
+      "displayed_link": "https://docs.docker.com › install › linux-postinstall",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5e7c7cb087ba5d8c65dcc8ac0d4b00792.png",
+      "snippet": "... Linux distributions using systemd, run the following commands: $ sudo systemctl enable docker.service $ sudo systemctl enable containerd.service. To stop ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "systemctl",
+        "systemctl"
+      ],
+      "source": "Docker Docs"
+    },
+    {
+      "position": 55,
+      "title": "A Beginners Guide to Systemctl - Stop, Start, and Restart ...",
+      "link": "https://bitlaunch.io/blog/a-beginners-guide-to-systemctl/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitlaunch.io/blog/a-beginners-guide-to-systemctl/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCJUCEAE",
+      "displayed_link": "https://bitlaunch.io › blog › a-beginners-guide-to-syste...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5931bb8ab58fe1a278f1b933c5cef9568.png",
+      "date": "Sep 4, 2020",
+      "snippet": "systemd initializes user space components when the Linux kernel has finished its boot process. · Units can control the configuration of hardware, ...",
+      "snippet_highlighted_words": [
+        "Linux"
+      ],
+      "source": "BitLaunch"
+    },
+    {
+      "position": 56,
+      "title": "How to use systemctl to list services on systemd Linux",
+      "link": "https://linuxconfig.org/how-to-use-systemctl-to-list-services-on-systemd-linux",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://linuxconfig.org/how-to-use-systemctl-to-list-services-on-systemd-linux&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCJoCEAE",
+      "displayed_link": "https://linuxconfig.org › how-to-use-systemctl-to-list-se...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f50d2a2de3c7d3d38b0cc3997858b809ea.png",
+      "date": "Aug 18, 2020",
+      "snippet": "Using systemd, you can start or stop any service installed on Linux. It's also an easy tool to list information about the services, such as if ...",
+      "snippet_highlighted_words": [
+        "Linux"
+      ],
+      "source": "LinuxConfig.org"
+    },
+    {
+      "position": 57,
+      "title": "How to view status of a service on Linux using systemctl",
+      "link": "https://www.cyberciti.biz/faq/systemd-systemctl-view-status-of-a-service-on-linux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cyberciti.biz/faq/systemd-systemctl-view-status-of-a-service-on-linux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCK4CEAE",
+      "displayed_link": "https://www.cyberciti.biz › faq › systemd-systemctl-vie...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f52bc13c6dce2f0119ac699e7320c6d955.png",
+      "date": "Feb 3, 2025",
+      "snippet": "We use systemctl status command under systemd to view the status of the given service on Linux operating systems.",
+      "snippet_highlighted_words": [
+        "systemctl",
+        "Linux"
+      ],
+      "source": "nixCraft"
+    },
+    {
+      "position": 58,
+      "title": "How to Enable, Start, and Disable Services in Kali | Use ...",
+      "link": "https://www.youtube.com/watch?v=HeOqe0rEFA8",
+      "displayed_link": "2K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjJ3-Z47F2GFLxXw9oLrZDdiQibEcEuxnszEYpjeZIt6qv&s",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5115e08e96b98c38342fed0e47464e5c9.png",
+      "snippet": "How to Enable, Start, and Disable Services in Kali | Use Systemctl in Kali Linux. 2K views · 2 years ago ...more ...",
+      "duration": "5:44",
+      "source": "YouTube · Inno TechTips"
+    },
+    {
+      "position": 59,
+      "title": "Run Jira Server or Data Center as a systemd service on linux",
+      "link": "https://support.atlassian.com/jira/kb/run-jira-server-or-data-center-as-a-systemd-service-on-linux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.atlassian.com/jira/kb/run-jira-server-or-data-center-as-a-systemd-service-on-linux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCK8CEAE",
+      "displayed_link": "https://support.atlassian.com › jira › run-jira-server-or-da...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f51a5c1abf11454264a8c9d7a0d77db83c.png",
+      "snippet": "This article explains how to install Jira as a systemd service in Linux. Pre ... systemctl daemon-reload systemctl enable jira.service systemctl start jira.",
+      "snippet_highlighted_words": [
+        "how to install",
+        "Linux",
+        "systemctl",
+        "systemctl",
+        "systemctl"
+      ],
+      "source": "Atlassian Support"
+    },
+    {
+      "position": 60,
+      "title": "systemctl",
+      "link": "https://www.freedesktop.org/software/systemd/man/systemctl.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.freedesktop.org/software/systemd/man/systemctl.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCLACEAE",
+      "displayed_link": "https://www.freedesktop.org › software › systemd › man",
+      "snippet": "Note that this operation creates only the symlinks suggested in the [Install] section of the unit files. While this command is the recommended way to manipulate ...",
+      "snippet_highlighted_words": [
+        "Install"
+      ],
+      "source": "Freedesktop.org"
+    },
+    {
+      "position": 61,
+      "title": "systemctl Commands: Restart, Reload, and Stop Service",
+      "link": "https://www.linode.com/docs/guides/introduction-to-systemctl/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linode.com/docs/guides/introduction-to-systemctl/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCLUCEAE",
+      "displayed_link": "https://www.linode.com › introduction-to-systemctl",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5cfe057327d6094eecfb1a7f15f77898e.png",
+      "date": "Aug 31, 2018",
+      "snippet": "systemd initializes user space components that run after the Linux ... Unit files with a static state do not contain an Install section and ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "Install"
+      ],
+      "source": "linode.com"
+    },
+    {
+      "position": 62,
+      "title": "About systemd - Documentation",
+      "link": "https://docs.rockylinux.org/books/admin_guide/16-about-sytemd/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.rockylinux.org/books/admin_guide/16-about-sytemd/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCMYCEAE",
+      "displayed_link": "https://docs.rockylinux.org › books › 16-about-sytemd",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f502cf867b299b7866e43a66a8b7da589b.png",
+      "snippet": "/etc/systemd/system/ - Systemd unit files created by systemctl enable as well as unit files added for extending a service. systemd configuration files¶. man 5 ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "Rocky Linux Documentation"
+    },
+    {
+      "position": 63,
+      "title": "systemctl: Definition, Valuable Commands & Troubleshooting",
+      "link": "https://contabo.com/blog/systemctl-definition-valuable-commands-and-troubleshooting/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://contabo.com/blog/systemctl-definition-valuable-commands-and-troubleshooting/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCMoCEAE",
+      "displayed_link": "https://contabo.com › blog › systemctl-definition-valua...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f512f0859ac98f951ce047ce02036d90fa.png",
+      "date": "Feb 20, 2024",
+      "snippet": "Systemctl is the command-line tool that manages the systemd system and service manager in Linux. It lets users control and manage system services and units.",
+      "snippet_highlighted_words": [
+        "Systemctl",
+        "Linux"
+      ],
+      "source": "Contabo"
+    },
+    {
+      "position": 64,
+      "title": "How to Fix \"Systemctl Command Not Found\" Error in Linux",
+      "link": "https://allthings.how/how-to-fix-systemctl-command-not-found-error-in-linux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://allthings.how/how-to-fix-systemctl-command-not-found-error-in-linux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCMwCEAE",
+      "displayed_link": "https://allthings.how › how-to-fix-systemctl-command-n...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5a924e34aaa4f80dc333d85bf0a646cfd.png",
+      "date": "Mar 11, 2024",
+      "snippet": "systemd utility is absent in the previous Linux versions as it is a recent addition to the basket of utilities provided by Linux. systemctl is ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "Linux",
+        "systemctl"
+      ],
+      "source": "All Things How"
+    },
+    {
+      "position": 65,
+      "title": "Install systemd & Linux Graphics on Windows 10",
+      "link": "https://www.youtube.com/watch?v=SgN6nWn6JHk",
+      "displayed_link": "420+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUP1xew1PpdFBmNdlUaBibu_NztXRdBI-9APQedK1mgs4&s",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5d173985755df8e41b296c65eb73bcc74.png",
+      "snippet": "Windows 10 is still 75% of the Windows market so systemd and Linux Graphics support only on Windows 11 was a huge insult.",
+      "duration": "25:31",
+      "key_moments": [
+        {
+          "time": "00:22",
+          "title": "Update Windows",
+          "link": "https://www.youtube.com/watch?v=SgN6nWn6JHk&t=22",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA4lU8kBJOyz_hoI4H8gNTVXm0sxgp7g77leS3z9BOgA&s"
+        },
+        {
+          "time": "05:17",
+          "title": "How to install Jupyter Lab",
+          "link": "https://www.youtube.com/watch?v=SgN6nWn6JHk&t=317",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdGjftjLvkivbicjn7jW1fdvnKfOYM1mVPEhs6Gj0PQQ&s"
+        },
+        {
+          "time": "06:45",
+          "title": "Starting Jupyter Lab",
+          "link": "https://www.youtube.com/watch?v=SgN6nWn6JHk&t=405",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2FjOocU6eXBggypIB8thlrXfLd69brAP9HAn6FNbDmg&s"
+        },
+        {
+          "time": "10:28",
+          "title": "Update Linux",
+          "link": "https://www.youtube.com/watch?v=SgN6nWn6JHk&t=628",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMgeBboaVmmbNdqoS3OOGftJGJ5A1q-OhKwRed12WAA&s"
+        },
+        {
+          "time": "11:29",
+          "title": "System Restart Required messages",
+          "link": "https://www.youtube.com/watch?v=SgN6nWn6JHk&t=689",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSStkbkmUSdZ0Xg_mIY5ddld823z-dSeEb9KAZOcNQNYQ&s"
+        },
+        {
+          "time": "12:25",
+          "title": "Install Python 3.11",
+          "link": "https://www.youtube.com/watch?v=SgN6nWn6JHk&t=745",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxujpEI9oZoALp_paMKX2hcydweqOCMvteygGZANpCQ&s"
+        },
+        {
+          "time": "13:58",
+          "title": "Pip Install Jupyter Lab",
+          "link": "https://www.youtube.com/watch?v=SgN6nWn6JHk&t=838",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvUBaB6GTlq43UucvkvX5mK6RSjoGG9hHE9qK6e0DOg&s"
+        },
+        {
+          "time": "17:35",
+          "title": "Running Jupyter Lab",
+          "link": "https://www.youtube.com/watch?v=SgN6nWn6JHk&t=1055",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKJhnirNw6ooSdBCs4_MeZT3_SFVLbwbNmVceIccS1Q&s"
+        },
+        {
+          "time": "19:53",
+          "title": "Saving a Jupyter notebook",
+          "link": "https://www.youtube.com/watch?v=SgN6nWn6JHk&t=1193",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfffEqVAoCmtCYUrq3qA5Jxy6Lvh9m8Wj9lUXF7d0_DQ&s"
+        },
+        {
+          "time": "23:59",
+          "title": "Launching Linux Chrome from Jupiter Lab",
+          "link": "https://www.youtube.com/watch?v=SgN6nWn6JHk&t=1439",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37kd2PS4_6shiMnKILq1kh4tfBoBWE6zUeHX_G-o5iw&s"
+        }
+      ],
+      "missing": [
+        "systemctl"
+      ],
+      "must_include": {
+        "word": "systemctl",
+        "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=how+to+install+%22systemctl%22+in+linux&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q5t4CegUIxAIQOg"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSnLzdow2ZEQmEeTJbkVs4Tv0FYo8pAaokrKg",
+      "source": "YouTube · Mike Levin, SEO in NYC"
+    },
+    {
+      "position": 66,
+      "title": "bash - Linux script to run systemctl --user commands with a ...",
+      "link": "https://superuser.com/questions/1730397/linux-script-to-run-systemctl-user-commands-with-a-specific-user",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://superuser.com/questions/1730397/linux-script-to-run-systemctl-user-commands-with-a-specific-user&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECE0QAQ",
+      "displayed_link": "https://superuser.com › questions › linux-script-to-run-s...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5cf38148d3ec3ec0c355b7369c08befc2.png",
+      "date": "Jul 7, 2022",
+      "snippet": "You should probably install the service unit to /etc/systemd/user so that it'd be automatically available to all users without the need for your ...",
+      "snippet_highlighted_words": [
+        "install"
+      ],
+      "source": "Super User"
+    },
+    {
+      "position": 67,
+      "title": "Managing systemd Services",
+      "link": "https://documentation.suse.com/smart/systems-management/html/systemd-management/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://documentation.suse.com/smart/systems-management/html/systemd-management/index.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECEsQAQ",
+      "displayed_link": "https://documentation.suse.com › systemd-management",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f54f104685a11b8395a6f99ab69711b017.png",
+      "date": "Feb 19, 2025",
+      "snippet": "Use systemd to start,stop, enable and disable services, send termination signals, use the systemctl command and manag…",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "SUSE Documentation"
+    },
+    {
+      "position": 68,
+      "title": "An Ultimate Guide of How to Manage Linux Systemd ...",
+      "link": "https://www.cherryservers.com/blog/an-ultimate-guide-of-how-to-manage-linux-systemd-services-with-systemctl-command",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cherryservers.com/blog/an-ultimate-guide-of-how-to-manage-linux-systemd-services-with-systemctl-command&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECE8QAQ",
+      "displayed_link": "https://www.cherryservers.com › Blog › Linux",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5c0f8e6def176c905dca880841a573363.png",
+      "date": "Sep 8, 2022",
+      "snippet": "The Linux sytemctl command allows you to view and control the systemd init system and services. In many ways, the Linux systemctl command acts ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "Linux systemctl"
+      ],
+      "source": "Cherry Servers"
+    },
+    {
+      "position": 69,
+      "title": "Creating User's Services With systemd | Baeldung on Linux",
+      "link": "https://www.baeldung.com/linux/systemd-create-user-services",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.baeldung.com/linux/systemd-create-user-services&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECFMQAQ",
+      "displayed_link": "https://www.baeldung.com › systemd-create-user-services",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f511e5346b5fca52089e2cb7acec7a9150.png",
+      "date": "Mar 18, 2024",
+      "snippet": "We can manage services as regular users with the help of the user option of systemctl. Thus, services can be enabled/disabled, started/stopped, ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "Baeldung"
+    },
+    {
+      "position": 70,
+      "title": "Install systemd-manager on Red Hat Enterprise Linux",
+      "link": "https://snapcraft.io/install/systemd-manager/rhel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://snapcraft.io/install/systemd-manager/rhel&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECFIQAQ",
+      "displayed_link": "https://snapcraft.io › install › systemd-manager › rhel",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5ad546b9ce4ac02342f718772b343575a.png",
+      "date": "Mar 12, 2018",
+      "snippet": "sudo systemctl enable --now snapd.socket. To enable classic snap support, enter the following to create a symbolic link between /var/lib ...",
+      "snippet_highlighted_words": [
+        "systemctl"
+      ],
+      "source": "Snapcraft"
+    },
+    {
+      "position": 71,
+      "title": "How to create a systemd service in Linux",
+      "link": "https://linuxhandbook.com/create-systemd-services/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://linuxhandbook.com/create-systemd-services/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECGcQAQ",
+      "displayed_link": "https://linuxhandbook.com › create-systemd-services",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f563725d48641307bcb8bf8a1532220f11.png",
+      "date": "Jan 6, 2023",
+      "snippet": "Learn the steps for creating systemd services in Linux with the practical example demonstrated in this tutorial.",
+      "snippet_highlighted_words": [
+        "Linux"
+      ],
+      "source": "Linux Handbook"
+    },
+    {
+      "position": 72,
+      "title": "How do I make a systemd service and enable it?",
+      "link": "https://forum.manjaro.org/t/how-do-i-make-a-systemd-service-and-enable-it/21699",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.manjaro.org/t/how-do-i-make-a-systemd-service-and-enable-it/21699&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECG4QAQ",
+      "displayed_link": "https://forum.manjaro.org › how-do-i-make-a-systemd-s...",
+      "date": "Sep 5, 2020",
+      "snippet": "... [Install] WantedBy=systemd-backlight@backlight:amdgpu_bl0.service ... Don't forget to reload the systemctl daemon, the files is not being read, ...",
+      "snippet_highlighted_words": [
+        "Install",
+        "systemctl"
+      ],
+      "source": "Manjaro Linux Forum"
+    },
+    {
+      "position": 73,
+      "title": "How to List All Running Services Under Systemd in Linux",
+      "link": "https://www.tecmint.com/list-all-running-services-under-systemd-in-linux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tecmint.com/list-all-running-services-under-systemd-in-linux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECGwQAQ",
+      "displayed_link": "https://www.tecmint.com › Linux Commands",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5d9e86e53e743e308d4fb4435170f570c.png",
+      "date": "Mar 13, 2025",
+      "snippet": "Systemd is a service manager for Linux; a drop-in replacement for the init process, and the systemctl command is the primary tool to manage ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "systemctl"
+      ],
+      "source": "Tecmint"
+    },
+    {
+      "position": 74,
+      "title": "Sunshine: Getting Started - LizardByte documentation",
+      "link": "https://docs.lizardbyte.dev/projects/sunshine/latest/md_docs_2getting__started.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.lizardbyte.dev/projects/sunshine/latest/md_docs_2getting__started.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECGsQAQ",
+      "displayed_link": "https://docs.lizardbyte.dev › projects › sunshine › latest",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5a4055304ce35e7d37dab75f9aae7b2d5.png",
+      "snippet": "Install. Docker. Warning: The Docker images are not recommended for most ... systemctl --user start sunshine. Start on boot. systemctl --user enable sunshine ...",
+      "snippet_highlighted_words": [
+        "Install",
+        "systemctl",
+        "systemctl"
+      ],
+      "source": "lizardbyte.dev"
+    },
+    {
+      "position": 75,
+      "title": "Linux Crash Course - systemd: Using the systemctl command",
+      "link": "https://www.youtube.com/watch?v=5JVBpXiYMKo",
+      "displayed_link": "111.1K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc9s6L5EN2Pn4mRjpOl320lV9-io07etiLXNUFIgoBmw3n&s",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5259e0b0ff2ef2d8656e6c473d04a8c4e.png",
+      "snippet": "... linux.video/lol #LearnLinuxTV #Linux #systemctl. ... ➜ https://linux.video/snap • How do I install Arch Linux? ➜ https ...",
+      "duration": "26:32",
+      "key_moments": [
+        {
+          "time": "00:17",
+          "title": "What is systemd?",
+          "link": "https://www.youtube.com/watch?v=5JVBpXiYMKo&t=17"
+        },
+        {
+          "time": "03:35",
+          "title": "Installing httpd on Fedora/CentOS",
+          "link": "https://www.youtube.com/watch?v=5JVBpXiYMKo&t=215"
+        },
+        {
+          "time": "07:55",
+          "title": "Understanding the output of the systemctl status command",
+          "link": "https://www.youtube.com/watch?v=5JVBpXiYMKo&t=475"
+        },
+        {
+          "time": "09:57",
+          "title": "Starting a unit without restarting the system",
+          "link": "https://www.youtube.com/watch?v=5JVBpXiYMKo&t=597"
+        },
+        {
+          "time": "11:58",
+          "title": "Stopping a unit with systemctl",
+          "link": "https://www.youtube.com/watch?v=5JVBpXiYMKo&t=718"
+        },
+        {
+          "time": "14:43",
+          "title": "Installing Syncthing",
+          "link": "https://www.youtube.com/watch?v=5JVBpXiYMKo&t=883"
+        },
+        {
+          "time": "18:39",
+          "title": "Editing a systemd unit file",
+          "link": "https://www.youtube.com/watch?v=5JVBpXiYMKo&t=1119"
+        },
+        {
+          "time": "20:35",
+          "title": "Explanation of the exec_start line",
+          "link": "https://www.youtube.com/watch?v=5JVBpXiYMKo&t=1235"
+        },
+        {
+          "time": "22:50",
+          "title": "What is a vendor preset?",
+          "link": "https://www.youtube.com/watch?v=5JVBpXiYMKo&t=1370"
+        },
+        {
+          "time": "25:36",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=5JVBpXiYMKo&t=1536"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRBCYhkxbDFhB1TwJXY0qpJOAbO0TQxe3sR6g",
+      "source": "YouTube · Learn Linux TV"
+    },
+    {
+      "position": 76,
+      "title": "Install Instructions",
+      "link": "https://docs.waydro.id/usage/install-on-desktops",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.waydro.id/usage/install-on-desktops&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCIQBEAE",
+      "displayed_link": "https://docs.waydro.id › usage › install-on-desktops",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f581ae063056fa0c208b73198457ea94a8.png",
+      "date": "Jun 3, 2025",
+      "snippet": "Install Instructions · Arch Linux · Postmarket OS · Zorin OS · Sailfish OS · Fedora · openSUSE Tumbleweed/Slowroll · KISS Linux · Void Linux.",
+      "snippet_highlighted_words": [
+        "Install",
+        "Linux",
+        "Linux",
+        "Linux"
+      ],
+      "source": "Waydroid"
+    },
+    {
+      "position": 77,
+      "title": "Install MongoDB Community Edition on Ubuntu",
+      "link": "https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCIYBEAE",
+      "displayed_link": "https://www.mongodb.com › ... › Install on Linux",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f53f70a1d9677da253c02e7bc127b5e144.png",
+      "snippet": "Recent versions of Linux tend to use systemd (which uses the systemctl command), while older versions of Linux tend to use System V init (which uses the service ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "systemctl",
+        "Linux"
+      ],
+      "source": "MongoDB"
+    },
+    {
+      "position": 78,
+      "title": "Installing the NVIDIA Container Toolkit",
+      "link": "https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCIcBEAE",
+      "displayed_link": "https://docs.nvidia.com › container-toolkit › install-guide",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f553dfb41165bebce20043288e1d238d26.png",
+      "snippet": "Install the NVIDIA GPU driver for your Linux distribution. NVIDIA recommends ... $ sudo systemctl restart docker. Rootless mode#. To configure the ...",
+      "snippet_highlighted_words": [
+        "Install",
+        "Linux",
+        "systemctl"
+      ],
+      "source": "NVIDIA Docs"
+    },
+    {
+      "position": 79,
+      "title": "Deploying Wazuh agents on Linux endpoints",
+      "link": "https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-linux.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-linux.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCIkBEAE",
+      "displayed_link": "https://documentation.wazuh.com › current › wazuh-agent",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f553b5324ffd0f25ecda3305f845604514.png",
+      "snippet": "Installation guide · Wazuh agent; Deploying Wazuh agents on Linux endpoints ... # systemctl daemon-reload # systemctl enable wazuh-agent # systemctl start wazuh- ...",
+      "snippet_highlighted_words": [
+        "Installation",
+        "Linux",
+        "systemctl",
+        "systemctl",
+        "systemctl"
+      ],
+      "source": "Wazuh"
+    },
+    {
+      "position": 80,
+      "title": "Download and install GitLab",
+      "link": "https://about.gitlab.com/install/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://about.gitlab.com/install/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCIwBEAE",
+      "displayed_link": "https://about.gitlab.com › install",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f544e26cc50c9e17c1477767812d3afadf.png",
+      "snippet": "Linux installation is quicker to install, easier to upgrade and contains ... install postfix sudo systemctl enable postfix sudo systemctl start postfix.",
+      "snippet_highlighted_words": [
+        "Linux installation",
+        "install",
+        "install",
+        "systemctl",
+        "systemctl"
+      ],
+      "source": "gitlab.com"
+    },
+    {
+      "position": 81,
+      "title": "Installing Wings",
+      "link": "https://pterodactyl.io/wings/1.0/installing.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pterodactyl.io/wings/1.0/installing.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCKMBEAE",
+      "displayed_link": "https://pterodactyl.io › wings › installing",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5915aaff2d026e1a54348a312a40e6cb0.jpeg",
+      "snippet": "RHEL / Rocky Linux / AlmaLinux ... If you would rather do a manual installation, please reference the official Docker documentation (opens new window) for how to ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "AlmaLinux",
+        "installation",
+        "how to"
+      ],
+      "source": "Pterodactyl"
+    },
+    {
+      "position": 82,
+      "title": "MinIO Object Storage for Linux",
+      "link": "https://min.io/docs/minio/linux/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://min.io/docs/minio/linux/index.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCKABEAE",
+      "displayed_link": "https://min.io › docs › minio › linux",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f53acf7aa24a71e562d106cac0748ccf05.png",
+      "snippet": "... install MinIO to the necessary system paths and create a minio service for systemctl . MinIO strongly recommends using the RPM or DEB installation routes.",
+      "snippet_highlighted_words": [
+        "install",
+        "systemctl",
+        "installation"
+      ],
+      "source": "MinIO"
+    },
+    {
+      "position": 83,
+      "title": "Install systemctl-redirector on Manjaro Linux",
+      "link": "https://snapcraft.io/install/systemctl-redirector/manjaro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://snapcraft.io/install/systemctl-redirector/manjaro&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCKUBEAE",
+      "displayed_link": "https://snapcraft.io › install › manjaro",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f54737c76d3202359012a0fbad17b3b46d.png",
+      "snippet": "Enable snaps on Manjaro Linux and install systemctl-redirector. Snaps are applications packaged with all their dependencies to run on all popular Linux ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "install systemctl",
+        "Linux"
+      ],
+      "source": "Snapcraft"
+    },
+    {
+      "position": 84,
+      "title": "Package Manager - sing-box",
+      "link": "https://sing-box.sagernet.org/installation/package-manager/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sing-box.sagernet.org/installation/package-manager/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCKgBEAE",
+      "displayed_link": "https://sing-box.sagernet.org › installation › package-ma...",
+      "snippet": "The script download and install the latest package from GitHub releases for deb or rpm based Linux distributions, ArchLinux and OpenWrt.",
+      "snippet_highlighted_words": [
+        "install",
+        "Linux",
+        "ArchLinux"
+      ],
+      "source": "sagernet.org"
+    },
+    {
+      "position": 85,
+      "title": "systemctl - command line utility to manage services without ...",
+      "link": "https://manpages.ubuntu.com/manpages/jammy/man1/systemctl.1.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://manpages.ubuntu.com/manpages/jammy/man1/systemctl.1.html&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCLsBEAE",
+      "displayed_link": "https://manpages.ubuntu.com › man1 › systemctl.1.html",
+      "snippet": "NAME. systemctl - command line utility to manage services without SystemD. SYNOPSIS. systemctl [options] command [name...] OPTIONS. -h, --help show this help ...",
+      "snippet_highlighted_words": [
+        "systemctl",
+        "systemctl"
+      ],
+      "source": "Ubuntu Manpage"
+    },
+    {
+      "position": 86,
+      "title": "How To Install systemctl on Debian 11",
+      "link": "https://installati.one/install-systemctl-debian-11/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://installati.one/install-systemctl-debian-11/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCLwBEAE",
+      "displayed_link": "https://installati.one › install-systemctl-debian-11",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5e5016699574e663e87de605dfae5614d.png",
+      "snippet": "apt-get update · apt-get -y install systemctl · apt update · apt -y install systemctl · aptitude update · aptitude -y install systemctl · apt-get remove systemctl.",
+      "snippet_highlighted_words": [
+        "install systemctl",
+        "install systemctl",
+        "install systemctl",
+        "systemctl"
+      ],
+      "source": "Installati.one"
+    },
+    {
+      "position": 87,
+      "title": "Install Docker Engine on RHEL",
+      "link": "https://docs.docker.com/engine/install/rhel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.docker.com/engine/install/rhel/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCL4BEAE",
+      "displayed_link": "https://docs.docker.com › engine › install › rhel",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5c24ffc5245fc4444b0f36a04b16ded47.png",
+      "snippet": "Install using the convenience script · The script requires root or sudo privileges to run. · The script attempts to detect your Linux distribution and version and ...",
+      "snippet_highlighted_words": [
+        "Install",
+        "Linux"
+      ],
+      "source": "Docker Docs"
+    },
+    {
+      "position": 88,
+      "title": "Install Grafana on Debian or Ubuntu",
+      "link": "https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCMABEAE",
+      "displayed_link": "https://grafana.com › grafana › latest › setup-grafana › d...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5e6c11a64f27faf3120d525c0af4c91e4.png",
+      "snippet": "linux server logo. Linux. windows logo. Windows. docker logo. Docker. postgresql logo. Postgres. mysql logo. MySQL. aws logo. AWS. kafka logo. Kafka. jenkins ...",
+      "snippet_highlighted_words": [
+        "linux",
+        "Linux"
+      ],
+      "source": "Grafana"
+    },
+    {
+      "position": 89,
+      "title": "Installing LibreNMS",
+      "link": "https://docs.librenms.org/Installation/Install-LibreNMS/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.librenms.org/Installation/Install-LibreNMS/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCNcBEAE",
+      "displayed_link": "https://docs.librenms.org › Installation › Install-LibreNMS",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f52642173ab3defb8c2ec7211329309848.png",
+      "snippet": "Install LibreNMS. Prepare Linux Server. You should have an installed Linux server running one of the supported OS. Make sure you select your server's OS in the ...",
+      "snippet_highlighted_words": [
+        "Install",
+        "Linux",
+        "Linux"
+      ],
+      "source": "LibreNMS Docs"
+    },
+    {
+      "position": 90,
+      "title": "Linux downloads (Red Hat family)",
+      "link": "https://www.postgresql.org/download/linux/redhat/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.postgresql.org/download/linux/redhat/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCNgBEAE",
+      "displayed_link": "https://www.postgresql.org › download › linux › redhat",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5eb55ac35b055bf5132b385b70b07aa83.png",
+      "snippet": "For RHEL / Rocky Linux / AlmaLinux 10, 9, 8 or Fedora 41 and later derived distributions: postgresql-setup --initdb systemctl enable postgresql.service ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "AlmaLinux",
+        "setup",
+        "systemctl"
+      ],
+      "source": "PostgreSQL"
+    },
+    {
+      "position": 91,
+      "title": "systemd on Linux 2: systemctl commands",
+      "link": "https://www.youtube.com/watch?v=fzOceeJB5vw",
+      "displayed_link": "41.4K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8xfKTA1Baz1Ic8BCWqdx-txT2O8cypEUUB8X5XOzkNo5y&s",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5dffbe1f08b23402b09dd1890ab727d10.png",
+      "snippet": "The second video in the systemd series, which covers the most common systemctl commands that developers, sysadmins, and devops engineers use ...",
+      "duration": "9:08",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3icqAtfhvv_Dt3fSn2uEYQVwaY5msw_PJxBixMRqkQ&s"
+        },
+        {
+          "time": "00:13",
+          "title": "systemctl subcommands",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=13",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQeQeIAJptBKHI7EFYGVqVtcgyXJUg0T6mFMSiRsWMQ&s"
+        },
+        {
+          "time": "00:30",
+          "title": "systemctl list-units",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=30",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfhuhjKwHGO-DERSSmIjyJs-lFc0ENPoglKRg75RymTA&s"
+        },
+        {
+          "time": "00:54",
+          "title": "systemctl list-unit-files",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=54",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPCp9rPYBy2Js1bO1GK1hDJwwLsbeAN3ULVpzmcjuOSw&s"
+        },
+        {
+          "time": "01:23",
+          "title": "unit state management",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=83",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxaNL1KhXmT1INtcnNBg4j3hEH_h8ETHVy72o69r9f6A&s"
+        },
+        {
+          "time": "01:40",
+          "title": "systemctl status",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=100",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORBvSITG9Psdj908jZnBL9xjKSisC0tAflIUvp3uLeQ&s"
+        },
+        {
+          "time": "02:08",
+          "title": "enable/disable vs. start/stop",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=128",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7uZW0vqUWi2ay5oLulVSUhIkv4F9BM4KGwZvjVeI7sw&s"
+        },
+        {
+          "time": "04:20",
+          "title": "type forking, PIDFile",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=260",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuJBYDzNomBKU4-txztXFcmWzlTPN1s5naLBmYxKlWiQ&s"
+        },
+        {
+          "time": "05:16",
+          "title": "systemctl stop",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=316",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2kj1HPMUy6g0IrCbjsUy-JVZVO8nyjTKzz5ws4tHIA&s"
+        },
+        {
+          "time": "05:40",
+          "title": "ExecReload and systemctl reload",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=340",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpy1W6Nm0h6fkaMbVeDYfMlbQYhKygOdLurW3US6UVVA&s"
+        },
+        {
+          "time": "06:30",
+          "title": "Review / Summary",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=390",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWX5KXD1IqPrEbX9fCWFRHFmUJcpPEfe3WO-A9A6_F3g&s"
+        },
+        {
+          "time": "06:56",
+          "title": "systemctl kill",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=416",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXk4P_ArkhtLdF8SRwtuXOBhZdSME32taBQ3Y7WChsAg&s"
+        },
+        {
+          "time": "07:12",
+          "title": "Unit Statuses",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=432",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JZixuilhV7p-0M2oeuv9Yhua90idy9bsDPiVFCkdKQ&s"
+        },
+        {
+          "time": "08:25",
+          "title": "Indirect, Linked, Masked, etc.",
+          "link": "https://www.youtube.com/watch?v=fzOceeJB5vw&t=505",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF7MXnIyiawwYt8wLlx6o0hc2hbGthMUsClvMf2AHs1g&s"
+        }
+      ],
+      "missing": [
+        "install"
+      ],
+      "must_include": {
+        "word": "install",
+        "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=how+to+%22install%22+systemctl+in+linux&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q5t4CegUIyAIQRg"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ42wS2-wD5DXPN2SKYWQCNw_7UKq1S8R6DjQ",
+      "source": "YouTube · tutoriaLinux"
+    },
+    {
+      "position": 92,
+      "title": "running\" but \"systemctl is-active systemd\" returns \"inactive ...",
+      "link": "https://github.com/microsoft/WSL/issues/13192",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/microsoft/WSL/issues/13192&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCNkBEAE",
+      "displayed_link": "https://github.com › microsoft › WSL › issues",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f580c44f727b73e84d7a10b30ac4e00c93.png",
+      "date": "6 hours ago",
+      "snippet": "Repro Steps. Perform a clean install or reset of an Ubuntu distribution (e.g., Ubuntu 22.04.4 LTS) on a fully updated Windows 11 machine with ...",
+      "snippet_highlighted_words": [
+        "install"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 93,
+      "title": "How to start systemd services provided by packages ...",
+      "link": "https://discourse.nixos.org/t/how-to-start-systemd-services-provided-by-packages-installed-through-nix-on-an-alien-distro/23056",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discourse.nixos.org/t/how-to-start-systemd-services-provided-by-packages-installed-through-nix-on-an-alien-distro/23056&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCOcBEAE",
+      "displayed_link": "https://discourse.nixos.org › how-to-start-systemd-servi...",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5e47989de2a876b75319466ea3fbdf24b.png",
+      "date": "Nov 7, 2022",
+      "snippet": "... systemctl start service or systemctl --user start service does ... linux (fixing local issues, settings XDG_DATA_DIRS, etc.): targets ...",
+      "snippet_highlighted_words": [
+        "systemctl",
+        "systemctl",
+        "linux"
+      ],
+      "source": "NixOS Discourse"
+    },
+    {
+      "position": 94,
+      "title": "Tailscale Packages - stable track",
+      "link": "https://pkgs.tailscale.com/stable/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pkgs.tailscale.com/stable/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCOEBEAE",
+      "displayed_link": "https://pkgs.tailscale.com › stable",
+      "snippet": "Amazon Linux 2; Amazon Linux 2022; Amazon Linux 2023; openSUSE Leap 42.1 ... # Install yum-config-manager if missing sudo yum install yum-utils # Add the ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "Linux",
+        "Linux",
+        "Install",
+        "install"
+      ],
+      "source": "Tailscale™ Packages"
+    },
+    {
+      "position": 95,
+      "title": "How to Install Docker on Ubuntu – Step-by-Step Guide",
+      "link": "https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoFCPMBEAE",
+      "displayed_link": "https://www.digitalocean.com › community › tutorials",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f50a70a33b91392c74b9d38dd5e995c744.png",
+      "date": "Apr 7, 2025",
+      "snippet": "... linux/ubuntu jammy/stable amd64 Packages 5:20.10.13~3-0~ubuntu-jammy ... sudo systemctl status docker. Copy. The output should be similar ...",
+      "snippet_highlighted_words": [
+        "linux",
+        "systemctl"
+      ],
+      "source": "DigitalOcean"
+    },
+    {
+      "position": 96,
+      "title": "Self-Hosted Sentry",
+      "link": "https://develop.sentry.dev/self-hosted/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://develop.sentry.dev/self-hosted/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECEwQAQ",
+      "displayed_link": "https://develop.sentry.dev › self-hosted",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f51c0316245c53158053c764d8bea656e1.png",
+      "snippet": "It is also not possible to install on an Alpine Linux distro. Most people ... Run systemctl daemon-reload and restart Docker with systemctl restart docker.service ...",
+      "snippet_highlighted_words": [
+        "install",
+        "Linux",
+        "systemctl",
+        "systemctl"
+      ],
+      "source": "sentry.dev"
+    },
+    {
+      "position": 97,
+      "title": "How To Install systemctl on Kali Linux",
+      "link": "https://installati.one/install-systemctl-kalilinux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://installati.one/install-systemctl-kalilinux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECDIQAQ",
+      "displayed_link": "https://installati.one › install-systemctl-kalilinux",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5285923926c40be8f7ecba7bf9c76fa30.png",
+      "snippet": "How To Install systemctl on Kali Linux · apt-get update · apt-get -y install systemctl · apt update · apt -y install systemctl · aptitude update · aptitude -y ...",
+      "snippet_highlighted_words": [
+        "How To Install systemctl",
+        "Linux",
+        "install systemctl",
+        "install systemctl"
+      ],
+      "source": "Installati.one"
+    },
+    {
+      "position": 98,
+      "title": "Prowlarr",
+      "link": "https://prowlarr.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://prowlarr.com/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECDAQAQ",
+      "displayed_link": "https://prowlarr.com",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5def1ba87ce88136e79e455e660e7203f.png",
+      "snippet": "Download. Windows; Linux; macOS; NAS; Docker; BSD; Others. Installation. Please see our Servarr ...",
+      "snippet_highlighted_words": [
+        "Linux",
+        "Installation"
+      ],
+      "source": "Prowlarr"
+    },
+    {
+      "position": 99,
+      "title": "Linux - WARP Client",
+      "link": "https://developers.cloudflare.com/warp-client/get-started/linux/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developers.cloudflare.com/warp-client/get-started/linux/&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECDQQAQ",
+      "displayed_link": "https://developers.cloudflare.com › ... › Get started",
+      "favicon": "https://serpapi.com/searches/685df0a4f965611949dde455/images/ae5938c5877c2888f1c674202eaa28f5245bee55c876ea29746c4912c8c62067.png",
+      "date": "Jun 5, 2025",
+      "snippet": "If you get an error message when trying to install via the terminal, download the package that suits your distro from the package repository ↗.",
+      "snippet_highlighted_words": [
+        "install"
+      ],
+      "source": "Cloudflare Docs"
+    },
+    {
+      "position": 100,
+      "title": "ubuntu systemctl 없을 때 설치 / 사용법 : 네이버 블로그",
+      "link": "https://blog.naver.com/pareko/221816563179",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.naver.com/pareko/221816563179&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8QFnoECDgQAQ",
+      "displayed_link": "https://blog.naver.com › pareko",
+      "date": "Feb 20, 2020",
+      "snippet": "ubuntu systemctl 없을 때. 설치. # apt-get install systemd. 서비스 시작. # service 서비스명 start. # systemctl start 서비스명.",
+      "snippet_highlighted_words": [
+        "systemctl",
+        "install",
+        "systemctl"
+      ],
+      "source": "NAVER"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "systemd",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0YiIVJfuKawT6XhnySN1O-riv0LPeqUcJ2RNbr_CnhowqdJ8ADbc&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=systemd&stick=H4sIAAAAAAAAAOMwVOLSz9U3SK6yyCqr_MXIsIGF4RULDxeSIJxbnp2clZ71ioWbixPENbTMM8mG89IKqqoK4DzjCtPCXLhGo8K0EkvDVyxcXBwgblKucRJCZWVRWRZcysjS0mwRK3txZXFJam7KLTZJht2LOn6yuO433GhpvHGT2OPt7L_c_9amzVi5iEMsIDW_ICdVITGnOF-hODWxKDlDIS2_aAUHIwDxg_aO1QAAAA&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Qs9oBKAB6BQjZAhAK",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=systemd&stick=H4sIAAAAAAAAAOMwVOLSz9U3SK6yyCqr_MXIsIGF4RULDxeSIJxbnp2clZ71ioWbixPENbTMM8mG89IKqqoK4DzjCtPCXLhGo8K0EkvDVyxcXBwgblKucRJCZWVRWRZcysjS0mwRK3txZXFJam7KLTZJht2LOn6yuO433GhpvHGT2OPt7L_c_9amzVi5iEMsIDW_ICdVITGnOF-hODWxKDlDIS2_aAUHIwDxg_aO1QAAAA"
+        },
+        {
+          "name": "Docker",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfinmUYO3IDuZbuWGVgLfqH46Rfx8kYIRH4ZSyWxPuZCbJY-oI5sNq&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Docker&stick=H4sIAAAAAAAAAOMwVOLSz9U3KM9OzkrP-sXIsIGF4RULDxdYMLnKIqusEs6FqHnFws3FCeIaWuaZZMN5aQVVVQVwnnGFaWEuXKNRYVqJpeErFi4uDhA3Kdc4CaGysqgsCy5lZGlptoiVzSU_OTu16BabJMPuRR0_WVz3G260NN64SezxdvZf7n9r02asXMQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEATE8EO9QAAAA&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Qs9oBKAB6BQjZAhAP",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Docker&stick=H4sIAAAAAAAAAOMwVOLSz9U3KM9OzkrP-sXIsIGF4RULDxdYMLnKIqusEs6FqHnFws3FCeIaWuaZZMN5aQVVVQVwnnGFaWEuXKNRYVqJpeErFi4uDhA3Kdc4CaGysqgsCy5lZGlptoiVzSU_OTu16BabJMPuRR0_WVz3G260NN64SezxdvZf7n9r02asXMQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEATE8EO9QAAAA"
+        },
+        {
+          "name": "sources.list",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1ocUp9xt6ChRfwEjjlkntGv2CxJxuJopOHNTnIaURZQ6BvptscYG&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=sources.list&stick=H4sIAAAAAAAAAOMwVOLUz9U3MLTMM8n-xciwgYXhFQsPFxdILLnKIqusEs4tz07OSs96xcLNhdAB56UVVFUVwHnGFaaFuXCNRoVpJZaGr1i4uDhA3KRc4ySEysqisiy4lJGlpdkiVp7i_NKi5NRivZzM4pJbbJIMuxd1_GRx3W-40dJ44yaxx9vZf7n_rU2bsXIRh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GAFU2amLZAAAA&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Qs9oBKAB6BQjZAhAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=sources.list&stick=H4sIAAAAAAAAAOMwVOLUz9U3MLTMM8n-xciwgYXhFQsPFxdILLnKIqusEs4tz07OSs96xcLNhdAB56UVVFUVwHnGFaaFuXCNRoVpJZaGr1i4uDhA3KRc4ySEysqisiy4lJGlpdkiVp7i_NKi5NRivZzM4pJbbJIMuxd1_GRx3W-40dJ44yaxx9vZf7n_rU2bsXIRh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GAFU2amLZAAAA"
+        },
+        {
+          "name": "Linux",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPfaS5p6jfN1J_BBIWGUYI8l6awcWoc2qCGCn9hjDuIFadBNj-pe2&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Linux&stick=H4sIAAAAAAAAAOMwVOLUz9U3SCuoqir4xciwgYXhFQsPFxdILLnKIqusEs4tz07OSs96xcLNBdZhaJlnkg3ngfXDecYVpoW5cI1GhWklloavWLi4OEDcpFzjJITKyqKyLLiUkaWl2SJWVp_MvNKKW2ySDLsXdfxkcd1vuNHSeOMmscfb2X-5_61Nm7FyEYdYQGp-QU6qQmJOcb5CcWpiUXKGQlp-0QoORgBc_oPs0gAAAA&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Qs9oBKAB6BQjZAhAZ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Linux&stick=H4sIAAAAAAAAAOMwVOLUz9U3SCuoqir4xciwgYXhFQsPFxdILLnKIqusEs4tz07OSs96xcLNBdZhaJlnkg3ngfXDecYVpoW5cI1GhWklloavWLi4OEDcpFzjJITKyqKyLLiUkaWl2SJWVp_MvNKKW2ySDLsXdfxkcd1vuNHSeOMmscfb2X-5_61Nm7FyEYdYQGp-QU6qQmJOcb5CcWpiUXKGQlp-0QoORgBc_oPs0gAAAA"
+        },
+        {
+          "name": "Ubuntu",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlx8XUyomAnsA-88Kx0qst7aRunUJ6zrCzJJRTv2PkurlFGn0vnfg&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Ubuntu&stick=H4sIAAAAAAAAAOMwVOLUz9U3MK4wLcz9xciwgYXhFQsPFxdILLnKIqusEs4tz07OSs96xcLNBdZhaJlnkg3npRVUVRXAeWDT4BqNCtNKLA1fsXBxcYC4SbnGSQiVlUVlWXApI0tLs0WsbKFJpXklpbfYJBl2L-r4yeK633CjpfHGTWKPt7P_cv9bmzZj5SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwAMDfAS9MAAAA&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Qs9oBKAB6BQjZAhAe",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Ubuntu&stick=H4sIAAAAAAAAAOMwVOLUz9U3MK4wLcz9xciwgYXhFQsPFxdILLnKIqusEs4tz07OSs96xcLNBdZhaJlnkg3npRVUVRXAeWDT4BqNCtNKLA1fsXBxcYC4SbnGSQiVlUVlWXApI0tLs0WsbKFJpXklpbfYJBl2L-r4yeK633CjpfHGTWKPt7P_cv9bmzZj5SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwAMDfAS9MAAAA"
+        },
+        {
+          "name": "Nginx",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRghEzjIM7BA7gfi9LQKvFBOAIDgkZVAYNE3LTd&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Nginx&stick=H4sIAAAAAAAAAOMwVOLSz9U3MCpMK7E0_MXIsIGF4RULDxdYMLnKIqusEs4tz07OSs96xcLNxQniGlrmmWTDeWkFVVUFcJ5xhWlhLlwjxPBXLFxcHCBuUq5xEkJlZVFZFlzKyNLSbBErq196Zl7FLTZJht2LOn6yuO433GhpvHGT2OPt7L_c_9amzVi5iEMsIDW_ICdVITGnOF-hODWxKDlDIS2_aAUHIwBEy27c0wAAAA&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Qs9oBKAB6BQjZAhAj",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Nginx&stick=H4sIAAAAAAAAAOMwVOLSz9U3MCpMK7E0_MXIsIGF4RULDxdYMLnKIqusEs4tz07OSs96xcLNxQniGlrmmWTDeWkFVVUFcJ5xhWlhLlwjxPBXLFxcHCBuUq5xEkJlZVFZFlzKyNLSbBErq196Zl7FLTZJht2LOn6yuO433GhpvHGT2OPt7L_c_9amzVi5iEMsIDW_ICdVITGnOF-hODWxKDlDIS2_aAUHIwBEy27c0wAAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "How to install systemctl in linux command line",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+to+install+systemctl+in+linux+command+line&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q1QJ6BQjhAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+install+systemctl+in+linux+command+line"
+    },
+    {
+      "block_position": 1,
+      "query": "How to install systemctl in linux ubuntu",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+to+install+systemctl+in+linux+ubuntu&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q1QJ6BQjgAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+install+systemctl+in+linux+ubuntu"
+    },
+    {
+      "block_position": 1,
+      "query": "Install systemctl in docker container",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Install+systemctl+in+docker+container&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q1QJ6BQjfAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Install+systemctl+in+docker+container"
+    },
+    {
+      "block_position": 1,
+      "query": "system has not been booted with systemd as init system (pid 1). can't operate.",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=system+has+not+been+booted+with+systemd+as+init+system+(pid+1).+can%27t+operate.&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q1QJ6BQjeAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=system+has+not+been+booted+with+systemd+as+init+system+%28pid+1%29.+can%27t+operate."
+    },
+    {
+      "block_position": 1,
+      "query": "Install systemctl Ubuntu",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Install+systemctl+Ubuntu&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q1QJ6BQjdAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Install+systemctl+Ubuntu"
+    },
+    {
+      "block_position": 1,
+      "query": "Install systemctl Mac",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=Install+systemctl+Mac&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q1QJ6BQjbAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Install+systemctl+Mac"
+    },
+    {
+      "block_position": 1,
+      "query": "How to install systemctl in linux centos",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+to+install+systemctl+in+linux+centos&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q1QJ6BQjcAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+install+systemctl+in+linux+centos"
+    },
+    {
+      "block_position": 1,
+      "query": "How to install systemctl in linux centos 7",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&gl=us&hl=en&q=How+to+install+systemctl+in+linux+centos+7&sa=X&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q1QJ6BQjiAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+install+systemctl+in+linux+centos+7"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+to+install+systemctl+in+linux&num=100&sca_esv=243755e6b8237819&gl=us&hl=en&ei=pvBdaIjhMeGfwPAPjrTy-AU&start=100&sa=N&sstk=Ac65TH7EiBuQiHGKfvEqHJDtMM_rh72tUJelDHknWTt0DFOM-KJUWkc0Qu4gkpagHsUUzsAfHlOv9XIhGBmpqW_DK2bRvO50laSWZw&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q8NMDegQIDBAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+to+install+systemctl+in+linux&num=100&sca_esv=243755e6b8237819&gl=us&hl=en&ei=pvBdaIjhMeGfwPAPjrTy-AU&start=100&sa=N&sstk=Ac65TH7EiBuQiHGKfvEqHJDtMM_rh72tUJelDHknWTt0DFOM-KJUWkc0Qu4gkpagHsUUzsAfHlOv9XIhGBmpqW_DK2bRvO50laSWZw&ved=2ahUKEwiIzLXKtpCOAxXhDxAIHQ6aHF8Q8tMDegQIDBAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+install+systemctl+in+linux&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+install+systemctl+in+linux&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+install+systemctl+in+linux&start=100"
+    }
+  }
+}

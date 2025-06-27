@@ -1,0 +1,1575 @@
+{
+  "search_metadata": {
+    "id": "685df5301dcfe288ba5c443e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dacd42651812d08f/685df5301dcfe288ba5c443e.json",
+    "created_at": "2025-06-27 01:34:40 UTC",
+    "processed_at": "2025-06-27 01:34:40 UTC",
+    "google_url": "https://www.google.com/search?q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&oq=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&hl=en&gl=us&num=200&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/dacd42651812d08f/685df5301dcfe288ba5c443e.html",
+    "total_time_taken": 7.02
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "which attribute is not valid for <body> tag?",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "200",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "which attribute is not valid for <body> tag?",
+    "total_results": 84,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "questions_and_answers": [
+    {
+      "link": "https://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags",
+      "source": "Stack Overflow",
+      "question": "Is it necessary to write HEAD, BODY and HTML tags?",
+      "answer": "Omitting the html, head, and body tags is certainly allowed by the HTML specifications. The underlying reason is that browsers have always sought to be consistent with existing web pages, and the very early versions of HTML didn't define those elements. When HTML first did, it was done in a way that the tags would be inferred when missing. I often find it convenient to omit the tags when prototyping and especially when writing test cases as it helps keep the markup focused on the test in question. The inference process should create the elements in exactly the manner that you see in Firebug, and browsers are pretty consistent in doing that. But... Internet Explorer has at least one known bug in this area. Even Internet Explorer 9 exhibits this. Suppose the markup is this: <!DOCTYPE html> <title>Test case</title> <form action='#'> <input name=\"var1\"> </form> You should (and do in other browsers) get a DOM that looks like this: HTML HEAD TITLE BODY FORM action=\"#\" INPUT name=\"var1\"…",
+      "votes": 181
+    },
+    {
+      "link": "https://stackoverflow.com/questions/25006883/css-my-body-tag-is-not-working",
+      "source": "Stack Overflow",
+      "question": "For some crazy reason my body tag is not working at all. It is the only CSS that isn't working. I am trying to have a background behind the content of my website and have the content be about 80% of the body. So that I can have two bars on either side of my website which kind of acts as a border. Kind of how there seems to be two white bars on either side of stack overflow. <style type=\"text/css\"> body{ font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif; background-color: #000; margin: 0; padding: 0; color: #000; } #content { font: 14px/1.4 'Times New Roman', sans-serif; width: 80%; max-width:1260px; min-width: 780px; background-color: #89837A; margin-left: auto; margin-right: auto; } Here is the HTML: <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\"> <html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"> <head> <meta http-equiv=\"Content-type\" content=\"text/html;charset=UTF-8\" /> <!--Replace link with good web font you want.<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css' /> - See more at: http://www.newthinktank.com/2011/09/how-to-layout-a-website/#sthash.lWAaNgcS.dpuf --> <link rel=\"stylesheet\" type=\"text/css\" href=\"CPLS_Stylesheet.css\"> <!--<div class='error' style='display:none'>Event Created</div>--> <title>MyWebsite</title> </head> <body> <div id=\"content\"> HEADER <div id=\"contentBackground\"> CONTENT </div><!--End of contentBackground--> </div> <!--End of content--> </body> </html> No matter what color I change the body tag to the background always stays white. The content is the correct color.",
+      "answer": "Don't put style link at the top of the some other link. that's why body design is not working. Put style link under the all the link",
+      "votes": 5
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Which of the following is not a valid attribute of the body tag?",
+      "snippet": "Answer. Reason — color is not an attribute of <BODY> tag. background, vlink and bgcolor are the attributes of <BODY> tag which specify the background image of the document, the colour of visited link and the background colour of the document, respectively.",
+      "title": "Which attribute is NOT valid for the <body> tag ? 1.",
+      "date": "Jul 2, 2023",
+      "link": "https://www.knowledgeboat.com/question/which-attribute-is-not-valid-for-the-body-tag-1-background-2--664501530599918000#:~:text=Answer&text=Reason%20%E2%80%94%20color%20is%20not%20an,colour%20of%20the%20document%2C%20respectively.",
+      "displayed_link": "https://www.knowledgeboat.com › question › which-att...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9FUkxZVE5OWW10d1pHWlRVWEk0ZEhBdFZIRlBUa1ZZYzJwcGFEaE1ZV2RHTURKVFZHeGhSWE0xVlRGdUxXWk5iblJKUlV0c01VTlpOakJQUzNwcWNVMDFSbU5VYjBSdWJIbHdTekIyYldjNGRuZG5aVWh4VFc1VlVSSVhUblpXWkdGTlltbE1OWEphYVMxblVERnlVM0E0UVc4YUlrRkdUVUZIUjNFdFJYZGhPR1IzUVhaMFVTMVVOV3RQYkdkWFJEUkZXbEEwUlhjIiwiZmN2IjoiMyIsImVpIjoiTnZWZGFNYmlMNXJaaS1nUDFyU3A4QW8iLCJxYyI6IkNpbDNhR2xqYUNCaGRIUnlhV0oxZEdVZ2FYTWdibTkwSUhaaGJHbGtJR1p2Y2lCaWIyUjVJSFJoWnhBQWZleWgwajQiLCJxdWVzdGlvbiI6IldoaWNoIG9mIHRoZSBmb2xsb3dpbmcgaXMgbm90IGEgdmFsaWQgYXR0cmlidXRlIG9mIHRoZSBib2R5IHRhZz8iLCJsayI6ImN6WEt5UTJBTUF3RXdENTRiU2ZVNHBERGxxeXNCQXNSM2ZOaTNyUHR5LU53c0VQZTBKbkpGWE1nTGt3S2hzY3lLa3c2bzl4cV95eXNMMlRqQXciLCJicyI6ImMtUHFZT1J5Q01fSVRNNVF5RTlUS01sSVZVakx6OG5KTDhfTVMxZklMRmJJeXk5UlNGUW9TOHpKVEZGSUxDa3B5a3dxTFVtRnFVektUNmxVS0VsTXQ1ZTRGR1BrS0dWZlRwa3hYSEZjMmhDWElKUkE5VUowcHVVWHdSVVgyMHRzMHpIU2tkSXFKMW9IMEh3ZGRQT1RFX01Va2xJVlNvdFRVeFRLTTB1QVVraS0tbXhvcEMybGlXNEJoaGE0LXd1NFRBaUVaQjZxN3hNaDlyeUxOREtWTWlZUWV0aTBDakFDQUEiLCJpZCI6ImZjX052VmRhTWJpTDVyWmktZ1AxclNwOEFvXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9FUkxZVE5OWW10d1pHWlRVWEk0ZEhBdFZIRlBUa1ZZYzJwcGFEaE1ZV2RHTURKVFZHeGhSWE0xVlRGdUxXWk5iblJKUlV0c01VTlpOakJQUzNwcWNVMDFSbU5VYjBSdWJIbHdTekIyYldjNGRuZG5aVWh4VFc1VlVSSVhUblpXWkdGTlltbE1OWEphYVMxblVERnlVM0E0UVc4YUlrRkdUVUZIUjNFdFJYZGhPR1IzUVhaMFVTMVVOV3RQYkdkWFJEUkZXbEEwUlhjIiwiZmN2IjoiMyIsImVpIjoiTnZWZGFNYmlMNXJaaS1nUDFyU3A4QW8iLCJxYyI6IkNpbDNhR2xqYUNCaGRIUnlhV0oxZEdVZ2FYTWdibTkwSUhaaGJHbGtJR1p2Y2lCaWIyUjVJSFJoWnhBQWZleWgwajQiLCJxdWVzdGlvbiI6IldoaWNoIG9mIHRoZSBmb2xsb3dpbmcgaXMgbm90IGEgdmFsaWQgYXR0cmlidXRlIG9mIHRoZSBib2R5IHRhZz8iLCJsayI6ImN6WEt5UTJBTUF3RXdENTRiU2ZVNHBERGxxeXNCQXNSM2ZOaTNyUHR5LU53c0VQZTBKbkpGWE1nTGt3S2hzY3lLa3c2bzl4cV95eXNMMlRqQXciLCJicyI6ImMtUHFZT1J5Q01fSVRNNVF5RTlUS01sSVZVakx6OG5KTDhfTVMxZklMRmJJeXk5UlNGUW9TOHpKVEZGSUxDa3B5a3dxTFVtRnFVektUNmxVS0VsTXQ1ZTRGR1BrS0dWZlRwa3hYSEZjMmhDWElKUkE5VUowcHVVWHdSVVgyMHRzMHpIU2tkSXFKMW9IMEh3ZGRQT1RFX01Va2xJVlNvdFRVeFRLTTB1QVVraS0tbXhvcEMybGlXNEJoaGE0LXd1NFRBaUVaQjZxN3hNaDlyeUxOREtWTWlZUWV0aTBDakFDQUEiLCJpZCI6ImZjX052VmRhTWJpTDVyWmktZ1AxclNwOEFvXzEifQ%3D%3D"
+    },
+    {
+      "question": "Which attribute is not valid for body tags?",
+      "snippet": "Answer: alink. The default color that all a elements contained by this element will take when the mouse is over them. This attribute has become obsolete in HTML 5 because of its presentational nature and, therefore, its use is no longer valid.",
+      "title": "7. Which attribute is not valid for <BODY> tag ?​ - Brainly.in",
+      "date": "Dec 5, 2020",
+      "link": "https://brainly.in/question/30316900#:~:text=K%20people%20helped-,Answer%3A,use%20is%20no%20longer%20valid.",
+      "displayed_link": "https://brainly.in › Computer Science › Primary School",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9FUkxZVE5OWW10d1pHWlRVWEk0ZEhBdFZIRlBUa1ZZYzJwcGFEaE1ZV2RHTURKVFZHeGhSWE0xVlRGdUxXWk5iblJKUlV0c01VTlpOakJQUzNwcWNVMDFSbU5VYjBSdWJIbHdTekIyYldjNGRuZG5aVWh4VFc1VlVSSVhUblpXWkdGTlltbE1OWEphYVMxblVERnlVM0E0UVc4YUlrRkdUVUZIUjNFdFJYZGhPR1IzUVhaMFVTMVVOV3RQYkdkWFJEUkZXbEEwUlhjIiwiZmN2IjoiMyIsImVpIjoiTnZWZGFNYmlMNXJaaS1nUDFyU3A4QW8iLCJxYyI6IkNpbDNhR2xqYUNCaGRIUnlhV0oxZEdVZ2FYTWdibTkwSUhaaGJHbGtJR1p2Y2lCaWIyUjVJSFJoWnhBQWZleWgwajQiLCJxdWVzdGlvbiI6IldoaWNoIGF0dHJpYnV0ZSBpcyBub3QgdmFsaWQgZm9yIGJvZHkgdGFncz8iLCJsayI6IkdpcDNhR2xqYUNCaGRIUnlhV0oxZEdVZ2FYTWdibTkwSUhaaGJHbGtJR1p2Y2lCaWIyUjVJSFJoWjNNIiwiYnMiOiJjLVBxWU9SeUNNX0lUTTVReUU5VEtNbElWVWpMejhuSkw4X01TMWZJTEZiSXl5OVJTRlFvUzh6SlRGRklMQ2tweWt3cUxVbUZxVXpLVDZsVUtFbE10NWU0RkdQa0tHVmZUcGt4WEhGYzJoQ1hJSlJBOVVKMHB1VVh3UlVYMjB0czB6SFNrZElxSjFvSDBId2RkUE9URV9NVWtsSVZTb3RUVXhUS00wdUFVa2ktLW14b3BDMmxpVzRCaGhhNC13dTRUQWlFWkI2cTd4TWg5cnlMTkRLVk1pWVFldGkwQ2pBQ0FBIiwiaWQiOiJmY19OdlZkYU1iaUw1clppLWdQMXJTcDhBb18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9FUkxZVE5OWW10d1pHWlRVWEk0ZEhBdFZIRlBUa1ZZYzJwcGFEaE1ZV2RHTURKVFZHeGhSWE0xVlRGdUxXWk5iblJKUlV0c01VTlpOakJQUzNwcWNVMDFSbU5VYjBSdWJIbHdTekIyYldjNGRuZG5aVWh4VFc1VlVSSVhUblpXWkdGTlltbE1OWEphYVMxblVERnlVM0E0UVc4YUlrRkdUVUZIUjNFdFJYZGhPR1IzUVhaMFVTMVVOV3RQYkdkWFJEUkZXbEEwUlhjIiwiZmN2IjoiMyIsImVpIjoiTnZWZGFNYmlMNXJaaS1nUDFyU3A4QW8iLCJxYyI6IkNpbDNhR2xqYUNCaGRIUnlhV0oxZEdVZ2FYTWdibTkwSUhaaGJHbGtJR1p2Y2lCaWIyUjVJSFJoWnhBQWZleWgwajQiLCJxdWVzdGlvbiI6IldoaWNoIGF0dHJpYnV0ZSBpcyBub3QgdmFsaWQgZm9yIGJvZHkgdGFncz8iLCJsayI6IkdpcDNhR2xqYUNCaGRIUnlhV0oxZEdVZ2FYTWdibTkwSUhaaGJHbGtJR1p2Y2lCaWIyUjVJSFJoWjNNIiwiYnMiOiJjLVBxWU9SeUNNX0lUTTVReUU5VEtNbElWVWpMejhuSkw4X01TMWZJTEZiSXl5OVJTRlFvUzh6SlRGRklMQ2tweWt3cUxVbUZxVXpLVDZsVUtFbE10NWU0RkdQa0tHVmZUcGt4WEhGYzJoQ1hJSlJBOVVKMHB1VVh3UlVYMjB0czB6SFNrZElxSjFvSDBId2RkUE9URV9NVWtsSVZTb3RUVXhUS00wdUFVa2ktLW14b3BDMmxpVzRCaGhhNC13dTRUQWlFWkI2cTd4TWg5cnlMTkRLVk1pWVFldGkwQ2pBQ0FBIiwiaWQiOiJmY19OdlZkYU1iaUw1clppLWdQMXJTcDhBb18xIn0%3D"
+    },
+    {
+      "question": "Which attribute can be used with a body tag?",
+      "snippet": "The body tag can also include attributes, such as the background color, text color, and link color. The body tag can also include other HTML elements, such as headings, paragraphs, lists, images, and tables. These elements are used to structure and format the content of the web page.",
+      "title": "Body Tag in HTML - AlmaBetter",
+      "date": "Nov 30, 2024",
+      "link": "https://www.almabetter.com/bytes/tutorials/html/body-tag-in-html#:~:text=The%20body%20tag%20can%20also,content%20of%20the%20web%20page.",
+      "displayed_link": "https://www.almabetter.com › bytes › tutorials › body-ta...",
+      "source_logo": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/03f7cb6aba92dad28448d2f122adf16d5b9468b8c903f0d651ac59829402490e.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9FUkxZVE5OWW10d1pHWlRVWEk0ZEhBdFZIRlBUa1ZZYzJwcGFEaE1ZV2RHTURKVFZHeGhSWE0xVlRGdUxXWk5iblJKUlV0c01VTlpOakJQUzNwcWNVMDFSbU5VYjBSdWJIbHdTekIyYldjNGRuZG5aVWh4VFc1VlVSSVhUblpXWkdGTlltbE1OWEphYVMxblVERnlVM0E0UVc4YUlrRkdUVUZIUjNFdFJYZGhPR1IzUVhaMFVTMVVOV3RQYkdkWFJEUkZXbEEwUlhjIiwiZmN2IjoiMyIsImVpIjoiTnZWZGFNYmlMNXJaaS1nUDFyU3A4QW8iLCJxYyI6IkNpbDNhR2xqYUNCaGRIUnlhV0oxZEdVZ2FYTWdibTkwSUhaaGJHbGtJR1p2Y2lCaWIyUjVJSFJoWnhBQWZleWgwajQiLCJxdWVzdGlvbiI6IldoaWNoIGF0dHJpYnV0ZSBjYW4gYmUgdXNlZCB3aXRoIGEgYm9keSB0YWc/IiwibGsiOiJHaWwzYUdsamFDQmhkSFJ5YVdKMWRHVWdZMkZ1SUdKbElIVnpaV1FnZDJsMGFDQmliMlI1SUhSaFp3IiwiYnMiOiJjLVBxWU9SeUNNX0lUTTVReUU5VEtNbElWVWpMejhuSkw4X01TMWZJTEZiSXl5OVJTRlFvUzh6SlRGRklMQ2tweWt3cUxVbUZxVXpLVDZsVUtFbE10NWU0RkdQa0tHVmZUcGt4WEhGYzJoQ1hJSlJBOVVKMHB1VVh3UlVYMjB0czB6SFNrZElxSjFvSDBId2RkUE9URV9NVWtsSVZTb3RUVXhUS00wdUFVa2ktLW14b3BDMmxpVzRCaGhhNC13dTRUQWlFWkI2cTd4TWg5cnlMTkRLVk1pWVFldGkwQ2pBQ0FBIiwiaWQiOiJmY19OdlZkYU1iaUw1clppLWdQMXJTcDhBb18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9FUkxZVE5OWW10d1pHWlRVWEk0ZEhBdFZIRlBUa1ZZYzJwcGFEaE1ZV2RHTURKVFZHeGhSWE0xVlRGdUxXWk5iblJKUlV0c01VTlpOakJQUzNwcWNVMDFSbU5VYjBSdWJIbHdTekIyYldjNGRuZG5aVWh4VFc1VlVSSVhUblpXWkdGTlltbE1OWEphYVMxblVERnlVM0E0UVc4YUlrRkdUVUZIUjNFdFJYZGhPR1IzUVhaMFVTMVVOV3RQYkdkWFJEUkZXbEEwUlhjIiwiZmN2IjoiMyIsImVpIjoiTnZWZGFNYmlMNXJaaS1nUDFyU3A4QW8iLCJxYyI6IkNpbDNhR2xqYUNCaGRIUnlhV0oxZEdVZ2FYTWdibTkwSUhaaGJHbGtJR1p2Y2lCaWIyUjVJSFJoWnhBQWZleWgwajQiLCJxdWVzdGlvbiI6IldoaWNoIGF0dHJpYnV0ZSBjYW4gYmUgdXNlZCB3aXRoIGEgYm9keSB0YWc%2FIiwibGsiOiJHaWwzYUdsamFDQmhkSFJ5YVdKMWRHVWdZMkZ1SUdKbElIVnpaV1FnZDJsMGFDQmliMlI1SUhSaFp3IiwiYnMiOiJjLVBxWU9SeUNNX0lUTTVReUU5VEtNbElWVWpMejhuSkw4X01TMWZJTEZiSXl5OVJTRlFvUzh6SlRGRklMQ2tweWt3cUxVbUZxVXpLVDZsVUtFbE10NWU0RkdQa0tHVmZUcGt4WEhGYzJoQ1hJSlJBOVVKMHB1VVh3UlVYMjB0czB6SFNrZElxSjFvSDBId2RkUE9URV9NVWtsSVZTb3RUVXhUS00wdUFVa2ktLW14b3BDMmxpVzRCaGhhNC13dTRUQWlFWkI2cTd4TWg5cnlMTkRLVk1pWVFldGkwQ2pBQ0FBIiwiaWQiOiJmY19OdlZkYU1iaUw1clppLWdQMXJTcDhBb18xIn0%3D"
+    },
+    {
+      "question": "Which of the following is not an attribute of a tag?",
+      "snippet": "d src is not an attribute of tag.",
+      "title": "Which of the following is not an attribute of tag?a borderb ...",
+      "link": "https://www.doubtnut.com/pcmb-questions/64125#:~:text=d%20src%20is%20not%20an%20attribute%20of%20tag.",
+      "displayed_link": "https://www.doubtnut.com › pcmb-questions",
+      "source_logo": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/03f7cb6aba92dad28448d2f122adf16d2b5962dd5d8bb6164553d97618b53588.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9FUkxZVE5OWW10d1pHWlRVWEk0ZEhBdFZIRlBUa1ZZYzJwcGFEaE1ZV2RHTURKVFZHeGhSWE0xVlRGdUxXWk5iblJKUlV0c01VTlpOakJQUzNwcWNVMDFSbU5VYjBSdWJIbHdTekIyYldjNGRuZG5aVWh4VFc1VlVSSVhUblpXWkdGTlltbE1OWEphYVMxblVERnlVM0E0UVc4YUlrRkdUVUZIUjNFdFJYZGhPR1IzUVhaMFVTMVVOV3RQYkdkWFJEUkZXbEEwUlhjIiwiZmN2IjoiMyIsImVpIjoiTnZWZGFNYmlMNXJaaS1nUDFyU3A4QW8iLCJxYyI6IkNpbDNhR2xqYUNCaGRIUnlhV0oxZEdVZ2FYTWdibTkwSUhaaGJHbGtJR1p2Y2lCaWIyUjVJSFJoWnhBQWZleWgwajQiLCJxdWVzdGlvbiI6IldoaWNoIG9mIHRoZSBmb2xsb3dpbmcgaXMgbm90IGFuIGF0dHJpYnV0ZSBvZiBhIHRhZz8iLCJsayI6ImN4WEt3UWtBSUF3RXNEMTgzUTVPVkVWdFFWclFFOWNYODA3S1Y2MHFvb1BhMEdQT3VPWUR0dUZCaUVQSVplV3dfU1NnakFjIiwiYnMiOiJjLVBxWU9SeUNNX0lUTTVReUU5VEtNbElWVWpMejhuSkw4X01TMWZJTEZiSXl5OVJTRlFvUzh6SlRGRklMQ2tweWt3cUxVbUZxVXpLVDZsVUtFbE10NWU0RkdQa0tHVmZUcGt4WEhGYzJoQ1hJSlJBOVVKMHB1VVh3UlVYMjB0czB6SFNrZElxSjFvSDBId2RkUE9URV9NVWtsSVZTb3RUVXhUS00wdUFVa2ktLW14b3BDMmxpVzRCaGhhNC13dTRUQWlFWkI2cTd4TWg5cnlMTkRLVk1pWVFldGkwQ2pBQ0FBIiwiaWQiOiJmY19OdlZkYU1iaUw1clppLWdQMXJTcDhBb18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9FUkxZVE5OWW10d1pHWlRVWEk0ZEhBdFZIRlBUa1ZZYzJwcGFEaE1ZV2RHTURKVFZHeGhSWE0xVlRGdUxXWk5iblJKUlV0c01VTlpOakJQUzNwcWNVMDFSbU5VYjBSdWJIbHdTekIyYldjNGRuZG5aVWh4VFc1VlVSSVhUblpXWkdGTlltbE1OWEphYVMxblVERnlVM0E0UVc4YUlrRkdUVUZIUjNFdFJYZGhPR1IzUVhaMFVTMVVOV3RQYkdkWFJEUkZXbEEwUlhjIiwiZmN2IjoiMyIsImVpIjoiTnZWZGFNYmlMNXJaaS1nUDFyU3A4QW8iLCJxYyI6IkNpbDNhR2xqYUNCaGRIUnlhV0oxZEdVZ2FYTWdibTkwSUhaaGJHbGtJR1p2Y2lCaWIyUjVJSFJoWnhBQWZleWgwajQiLCJxdWVzdGlvbiI6IldoaWNoIG9mIHRoZSBmb2xsb3dpbmcgaXMgbm90IGFuIGF0dHJpYnV0ZSBvZiBhIHRhZz8iLCJsayI6ImN4WEt3UWtBSUF3RXNEMTgzUTVPVkVWdFFWclFFOWNYODA3S1Y2MHFvb1BhMEdQT3VPWUR0dUZCaUVQSVplV3dfU1NnakFjIiwiYnMiOiJjLVBxWU9SeUNNX0lUTTVReUU5VEtNbElWVWpMejhuSkw4X01TMWZJTEZiSXl5OVJTRlFvUzh6SlRGRklMQ2tweWt3cUxVbUZxVXpLVDZsVUtFbE10NWU0RkdQa0tHVmZUcGt4WEhGYzJoQ1hJSlJBOVVKMHB1VVh3UlVYMjB0czB6SFNrZElxSjFvSDBId2RkUE9URV9NVWtsSVZTb3RUVXhUS00wdUFVa2ktLW14b3BDMmxpVzRCaGhhNC13dTRUQWlFWkI2cTd4TWg5cnlMTkRLVk1pWVFldGkwQ2pBQ0FBIiwiaWQiOiJmY19OdlZkYU1iaUw1clppLWdQMXJTcDhBb18xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "HmhggXicvZTdcqpIEIBv90XijSciigdJFXWqgVERTSRGE88NBagDCI4BFMndvsA-xT7VPs0ZfjTEeE7t1m7taDF_3T3dPd_073_67nbz129_OHG8i-4YJkmSBiYE-6uGTQLGjNKtzayJH4W2883xxdW2hn1xH9XSg9iu2ZHYrK1c8f4wX5pjyx11wu_uLZ6w4XTXBVLL1UXDMqOVR60fvYgxGPrZ3LQVOmlEjdW20Wt1Np46fhz1odFqst3GA2MGVAD-TZM_ragAEoDeu5DSr2kjOZMFGF6sS6eBkplTVZDQjM5IVWYMONvMrUtIVwwhtSux4LMtvRTLGkfHao_qQq8F-kef3qVO55-C-3Auhg8t10JV6U9NzuI4jXGWCePdn1w7NzJAaFzRGeCxrTxo04vzym0kSWNYT0cJvppYGoKKnqZHNtPWmSWm99xkrJB2LBNG2a3LT0KTDG6RzHPaDtuBHSw07ZWdbozJUk44Ab7kPNnRGaioCtRBnbVSYTuE7qwxakjsmaY8d1NUeLEoUqTDvEzS9YbKTRmqYmVCpawfp06RCOzaKmjTYkuFyWIohzTEyuWVNElQXs4iN5ox-QyqnK05OY2ZPRcKXZ1mXs71EKa_zAkFy_SyYHM2psAES5kqxirOFpr5AQVNDpQuzQCffZnBSZn-Y1lWIaWnEpgmwqAMOJNFJW7UKblHjx4XLwhUBEoiSZSdhAr16QIugpPL4ClNKOt7SZG1haxn7wJgdEFTntXq9HrTfrWpX8Gn77Y7gt9RJizpDfn7269sOH-5558fXQuX-JDA-gcFyf7fAVNzwPReFTDtJ4B9LFfvgEknwF5ywFRwzuWqAhguAXORg_SBIbx1lXfAHDgBpuvqGbBKuWrDtHjpJ8BU-FuAZU5UANPOgMk_A-xcrgrA6KpxAowrAFM_AfYfl6ucs1XRfaxdew9fQojenieDecDvzfEjhzly7H33mw87fal29C_GOojvdiGhOLrLO6k1jNNl7VVMHNd26mYch661j1d1N6pvSVw_mL67rK9JWL9pyxZZpjdtVI9N_K0W-CERmybPvYUDy5s4tzI5eK94Z_hac7Vnu6FAeG0kTWDkr_1WrKQPUcsiL95u_dTqRoJuzZ0NlhXu2UjWr6ZAbJ69nalvm-X-meOmb8fI7S9Sb2G8BM5aF_gJ9IN5x9wsvOOm25kfBG3x0JuF68d2n_VClHYnZLS2vST3KxKXT0Pemo-0CM1qQWiL9Aq5DYxrkW0aq-ggtrg23-msvlrdVpvvskItwHG6E_kfopZ7fQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HmhggXicvZTdcqpIEIBv90XijSciigdJFXWqgVERTSRGE88NBagDCI4BFMndvsA-xT7VPs0ZfjTEeE7t1m7taDF_3T3dPd_073_67nbz129_OHG8i-4YJkmSBiYE-6uGTQLGjNKtzayJH4W2883xxdW2hn1xH9XSg9iu2ZHYrK1c8f4wX5pjyx11wu_uLZ6w4XTXBVLL1UXDMqOVR60fvYgxGPrZ3LQVOmlEjdW20Wt1Np46fhz1odFqst3GA2MGVAD-TZM_ragAEoDeu5DSr2kjOZMFGF6sS6eBkplTVZDQjM5IVWYMONvMrUtIVwwhtSux4LMtvRTLGkfHao_qQq8F-kef3qVO55-C-3Auhg8t10JV6U9NzuI4jXGWCePdn1w7NzJAaFzRGeCxrTxo04vzym0kSWNYT0cJvppYGoKKnqZHNtPWmSWm99xkrJB2LBNG2a3LT0KTDG6RzHPaDtuBHSw07ZWdbozJUk44Ab7kPNnRGaioCtRBnbVSYTuE7qwxakjsmaY8d1NUeLEoUqTDvEzS9YbKTRmqYmVCpawfp06RCOzaKmjTYkuFyWIohzTEyuWVNElQXs4iN5ox-QyqnK05OY2ZPRcKXZ1mXs71EKa_zAkFy_SyYHM2psAES5kqxirOFpr5AQVNDpQuzQCffZnBSZn-Y1lWIaWnEpgmwqAMOJNFJW7UKblHjx4XLwhUBEoiSZSdhAr16QIugpPL4ClNKOt7SZG1haxn7wJgdEFTntXq9HrTfrWpX8Gn77Y7gt9RJizpDfn7269sOH-5558fXQuX-JDA-gcFyf7fAVNzwPReFTDtJ4B9LFfvgEknwF5ywFRwzuWqAhguAXORg_SBIbx1lXfAHDgBpuvqGbBKuWrDtHjpJ8BU-FuAZU5UANPOgMk_A-xcrgrA6KpxAowrAFM_AfYfl6ucs1XRfaxdew9fQojenieDecDvzfEjhzly7H33mw87fal29C_GOojvdiGhOLrLO6k1jNNl7VVMHNd26mYch661j1d1N6pvSVw_mL67rK9JWL9pyxZZpjdtVI9N_K0W-CERmybPvYUDy5s4tzI5eK94Z_hac7Vnu6FAeG0kTWDkr_1WrKQPUcsiL95u_dTqRoJuzZ0NlhXu2UjWr6ZAbJ69nalvm-X-meOmb8fI7S9Sb2G8BM5aF_gJ9IN5x9wsvOOm25kfBG3x0JuF68d2n_VClHYnZLS2vST3KxKXT0Pemo-0CM1qQWiL9Aq5DYxrkW0aq-ggtrg23-msvlrdVpvvskItwHG6E_kfopZ7fQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Which attribute is not valid for <BODY> tag ? 1. background",
+      "link": "https://www.knowledgeboat.com/question/which-attribute-is-not-valid-for-body-tag-1-background-2--664501530736129400",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.knowledgeboat.com/question/which-attribute-is-not-valid-for-body-tag-1-background-2--664501530736129400&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECBkQAQ",
+      "displayed_link": "https://www.knowledgeboat.com › question › which-att...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae655ff2743506c9323456e93ad787a4bf6.png",
+      "date": "Jul 2, 2023",
+      "snippet": "Answer. Reason — color is not an attribute of <BODY> tag. background, vlink and leftmargin are the attributes of <BODY> tag which specify the ...",
+      "snippet_highlighted_words": [
+        "color is not an attribute of <BODY> tag"
+      ],
+      "source": "KnowledgeBoat"
+    },
+    {
+      "position": 2,
+      "title": "Which attribute is NOT valid for the <body> tag ? 1.",
+      "link": "https://www.knowledgeboat.com/question/which-attribute-is-not-valid-for-the-body-tag-1-background-2--664501530599918000",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.knowledgeboat.com/question/which-attribute-is-not-valid-for-the-body-tag-1-background-2--664501530599918000&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCMEBEAE",
+      "displayed_link": "https://www.knowledgeboat.com › question › which-att...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae669c5152b14335e4e436c32f5b09bffc1.png",
+      "date": "Jul 2, 2023",
+      "snippet": "Answer. Reason — color is not an attribute of <BODY> tag. background, vlink and bgcolor are the attributes of <BODY> tag which specify the ...",
+      "snippet_highlighted_words": [
+        "color is not an attribute of <BODY> tag"
+      ],
+      "source": "KnowledgeBoat"
+    },
+    {
+      "position": 3,
+      "title": "What HTML tags are invalid in the body of an HTML page?",
+      "link": "https://stackoverflow.com/questions/73641096/what-html-tags-are-invalid-in-the-body-of-an-html-page",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/73641096/what-html-tags-are-invalid-in-the-body-of-an-html-page&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCOcBEAE",
+      "displayed_link": "1 answer · 2 years ago",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae647c4d8e25800b29d3ab7d3f0642dd42d.png",
+      "snippet": "Based on this article it looks like you can use the <meta> and <link> tags in the <body> section if the itemprop attribute is present.",
+      "snippet_highlighted_words": [
+        "tags",
+        "body",
+        "attribute"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "The attributes in my body tag is not working if I put the ...",
+            "link": "https://stackoverflow.com/questions/51102675/the-attributes-in-my-body-tag-is-not-working-if-i-put-the-css-in-a-separate-file",
+            "answer_count": 5,
+            "date": "Jun 29, 2018"
+          },
+          {
+            "title": "html - Body tag is used twice in my code. How to fix ...",
+            "link": "https://stackoverflow.com/questions/57104431/body-tag-is-used-twice-in-my-code-how-to-fix-this-error-so-my-code-can-pass-val",
+            "answer_count": 1,
+            "date": "Jul 19, 2019"
+          }
+        ]
+      },
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 4,
+      "title": "which attribute is NOT valid for body tag",
+      "link": "https://brainly.in/question/47400632",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.in/question/47400632&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECDMQAQ",
+      "displayed_link": "https://brainly.in › Computer Science › Secondary School",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6caa2e2b68ea03b4cb657d51e49c5341c.png",
+      "date": "Sep 24, 2021",
+      "snippet": "Answer: alink. The default color that all a elements contained by this element will take when the mouse is over them. This attribute has become ...",
+      "snippet_highlighted_words": [
+        "alink"
+      ],
+      "source": "Brainly.in"
+    },
+    {
+      "position": 5,
+      "title": "7. Which attribute is not valid for <BODY> tag",
+      "link": "https://brainly.in/question/30316900",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.in/question/30316900&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCM4BEAE",
+      "displayed_link": "https://brainly.in › Computer Science › Primary School",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6ba4ad70947a2c7beaf711ef86c218427.png",
+      "date": "Dec 5, 2020",
+      "snippet": "Answer ... color attribute is not valid for <BODY> tag ... Explanation ... The attributes of the body tag are here as follows ... 1. Bgcolor ... 2. Text.",
+      "snippet_highlighted_words": [
+        "color attribute is not valid for <BODY> tag"
+      ],
+      "source": "Brainly.in"
+    },
+    {
+      "position": 6,
+      "title": "Body Tag in HTML",
+      "link": "https://www.almabetter.com/bytes/tutorials/html/body-tag-in-html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.almabetter.com/bytes/tutorials/html/body-tag-in-html&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCOQBEAE",
+      "displayed_link": "https://www.almabetter.com › bytes › tutorials › body-ta...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae62d9d7269aeacf35fd2126e0f0df6bae9.png",
+      "date": "Nov 30, 2024",
+      "snippet": "Which of the following is NOT a valid attribute of the <body> tag? a) background b) text c) href d) onload. Answer: c) href; How do you set a ...",
+      "snippet_highlighted_words": [
+        "href"
+      ],
+      "source": "AlmaBetter"
+    },
+    {
+      "position": 7,
+      "title": "HTML body tag",
+      "link": "https://www.w3schools.com/tags/tag_body.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3schools.com/tags/tag_body.asp&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCIcCEAE",
+      "displayed_link": "https://www.w3schools.com › tags › tag_body",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae603e937513199a8c34201dee9843edf0e.png",
+      "snippet": "The <body> tag defines the document's body. The <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, ...",
+      "snippet_highlighted_words": [
+        "body",
+        "tag",
+        "body",
+        "body",
+        "element"
+      ],
+      "source": "W3Schools"
+    },
+    {
+      "position": 8,
+      "title": "Best practice: classess and IDs on the HTML tag?",
+      "link": "https://www.sitepoint.com/community/t/best-practice-classess-and-ids-on-the-html-tag/46173",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sitepoint.com/community/t/best-practice-classess-and-ids-on-the-html-tag/46173&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECDYQAQ",
+      "displayed_link": "https://www.sitepoint.com › community › best-practice-...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6acd64e1b6361a0ee449b833badd92817.png",
+      "date": "Jan 1, 2010",
+      "snippet": "No you shouldn't add a class or ID to the HTML element because it's not (technically) part of the canvas, the body holds everything that appears on-screen.",
+      "snippet_highlighted_words": [
+        "No",
+        "element",
+        "not",
+        "body"
+      ],
+      "source": "SitePoint"
+    },
+    {
+      "position": 9,
+      "title": "Which attribute is not valid for ∠BODY>tag",
+      "link": "https://askfilo.com/user-question-answers-mental-ability/which-attribute-is-not-valid-for-31353035383031",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://askfilo.com/user-question-answers-mental-ability/which-attribute-is-not-valid-for-31353035383031&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECHkQAQ",
+      "displayed_link": "https://askfilo.com › CBSE › Mental ability",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae60edab8d56aa4b36fae1c14b33e6f2c7c.png",
+      "date": "Sep 15, 2022",
+      "snippet": "The question asks which attribute is not valid for the `∠BODY>` tag, with options: color, background, leftmargin, vlink.",
+      "snippet_highlighted_words": [
+        "color, background, leftmargin, vlink"
+      ],
+      "source": "Filo"
+    },
+    {
+      "position": 10,
+      "title": "Why i am getting this error \"atribute data-options is not valid ...",
+      "link": "https://supportcenter.devexpress.com/ticket/details/t123243/why-i-am-getting-this-error-atribute-data-options-is-not-valid-attribute-of-element-div",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://supportcenter.devexpress.com/ticket/details/t123243/why-i-am-getting-this-error-atribute-data-options-is-not-valid-attribute-of-element-div&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCKUBEAE",
+      "displayed_link": "https://supportcenter.devexpress.com › ticket › details",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae63705c1d5a78ff33bce20964ad53e6a77.png",
+      "date": "Jun 26, 2014",
+      "snippet": "This is just a warning message that the attribute didn't pass validation. To get rid of this warning, change the validation schema to HTML5 ...",
+      "source": "DevExpress"
+    },
+    {
+      "position": 11,
+      "title": "Strange \"SA ... checker\" attributes being added to body tag",
+      "link": "https://superuser.com/questions/936955/strange-sa-checker-attributes-being-added-to-body-tag",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://superuser.com/questions/936955/strange-sa-checker-attributes-being-added-to-body-tag&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCMABEAE",
+      "displayed_link": "https://superuser.com › questions › strange-sa-checker-a...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6635b3d0a0721a8e685d6fa778106513b.png",
+      "date": "Jul 6, 2015",
+      "snippet": "Notice there is an attribute on the body tag whose value is \"SA password protect entry checker\". This just recently started showing up on every ...",
+      "snippet_highlighted_words": [
+        "attribute",
+        "body tag"
+      ],
+      "source": "Super User"
+    },
+    {
+      "position": 12,
+      "title": "Issues - Validation : Missing <body> Tag",
+      "link": "https://www.screamingfrog.co.uk/seo-spider/issues/validation/missing-body-tag/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.screamingfrog.co.uk/seo-spider/issues/validation/missing-body-tag/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCNEBEAE",
+      "displayed_link": "https://www.screamingfrog.co.uk › seo-spider › missing...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae691a3c4d9c33bb94083a640628bb01ce3.png",
+      "snippet": "A missing <body> tag means pages are missing a <body> element within the HTML, which should contain all page content. Ensure a single valid <body> element.",
+      "snippet_highlighted_words": [
+        "body",
+        "tag",
+        "body",
+        "element",
+        "valid",
+        "body",
+        "element"
+      ],
+      "source": "Screaming Frog"
+    },
+    {
+      "position": 13,
+      "title": "The Document Body element - HTML - MDN Web Docs - Mozilla",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/body",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/body&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCO4BEAE",
+      "displayed_link": "https://developer.mozilla.org › ... › Reference › Elements",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae68dc9e54977fe15308ec0cd846e82dfa2.png",
+      "date": "Apr 10, 2025",
+      "snippet": "The end tag may be omitted if the <body> element has contents or has a start tag, and is not immediately followed by a comment.",
+      "missing": [
+        "valid"
+      ],
+      "must_include": {
+        "word": "valid",
+        "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=which+attribute+is+not+%22valid%22+for+%3Cbody%3E+tag?&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q5t4CegUI9gEQAQ"
+      },
+      "source": "MDN Web Docs"
+    },
+    {
+      "position": 14,
+      "title": "What is the use of the background attribute in HTML?",
+      "link": "https://www.quora.com/What-is-the-use-of-the-background-attribute-in-HTML",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-is-the-use-of-the-background-attribute-in-HTML&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCJQCEAE",
+      "displayed_link": "5 answers · 6 years ago",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6a984eec67dbc6aea089137ddba7bd391.png",
+      "snippet": "Note : - The background attribute is nowadays not preferred to use within the body tag, rather it is preferred to be used as a CSS property.",
+      "snippet_highlighted_words": [
+        "background attribute"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 15,
+      "title": "HTML Attributes",
+      "link": "https://www.w3schools.com/html/html_attributes.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3schools.com/html/html_attributes.asp&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCKQCEAE",
+      "displayed_link": "https://www.w3schools.com › html › html_attributes",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6770afb255574ebfe73c86631a1ef8f9e.png",
+      "snippet": "We Suggest: Always Use Lowercase Attributes. The HTML standard does not require lowercase attribute names. The title attribute (and all other attributes) can ...",
+      "snippet_highlighted_words": [
+        "Attributes",
+        "not",
+        "attribute",
+        "attribute",
+        "attributes"
+      ],
+      "source": "W3Schools"
+    },
+    {
+      "position": 16,
+      "title": "HTML Issues | Reference",
+      "link": "https://www.totalvalidator.com/support/reference/xhtml.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.totalvalidator.com/support/reference/xhtml.html&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCKQBEAE",
+      "displayed_link": "https://www.totalvalidator.com › reference › xhtml",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6122acba5278d5ede1bd3acb756c04fca.png",
+      "snippet": "In older versions of HTML you are not allowed to end a tag with the '/' character. This is only valid with HTML5 and XHTML documents. E630. The name and id ...",
+      "snippet_highlighted_words": [
+        "not",
+        "tag",
+        "valid"
+      ],
+      "source": "Total Validator"
+    },
+    {
+      "position": 17,
+      "title": "What body tag contains…??. We all know that HTML ...",
+      "link": "https://medium.com/@chirag-p/what-body-tag-contains-5c84910361c4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40chirag-p/what-body-tag-contains-5c84910361c4&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECFQQAQ",
+      "displayed_link": "50+ likes · 2 years ago",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6dba2056423a41799983bfe7870990e8c.png",
+      "snippet": "Here are some of the most common attributes that can be used with the <body> tag: ... nofollow : Specifies the link is not endorsed or is not ...",
+      "snippet_highlighted_words": [
+        "attributes",
+        "body",
+        "tag",
+        "not",
+        "not"
+      ],
+      "missing": [
+        "valid"
+      ],
+      "must_include": {
+        "word": "valid",
+        "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=which+attribute+is+not+%22valid%22+for+%3Cbody%3E+tag?&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q5t4CegQIXxAB"
+      },
+      "source": "Medium · Chirag Prajapati"
+    },
+    {
+      "position": 18,
+      "title": "HTML body Tag",
+      "link": "https://www.geeksforgeeks.org/html/html-body-tag/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/html/html-body-tag/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECG0QAQ",
+      "displayed_link": "https://www.geeksforgeeks.org › html › html-body-tag",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6944e8586cf024176225948d0cfe4d365.png",
+      "date": "Nov 21, 2024",
+      "snippet": "The most important attribute of the <a> element is the href attribute, which indicates the link's destination. This attribute determines ...",
+      "snippet_highlighted_words": [
+        "attribute",
+        "element",
+        "attribute",
+        "attribute"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 19,
+      "title": "HTML <body> Tag",
+      "link": "https://www.html.am/tags/html-body-tag.cfm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.html.am/tags/html-body-tag.cfm&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCIoBEAE",
+      "displayed_link": "https://www.html.am › tags › html-body-tag",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6716a75e625e1e91e2572d18666b59a88.png",
+      "snippet": "This is a boolean attribute. If the attribute is present, its value must either be the empty string or a value that is an ASCII case-insensitive match for the ...",
+      "snippet_highlighted_words": [
+        "attribute",
+        "attribute"
+      ],
+      "source": "HTML.am"
+    },
+    {
+      "position": 20,
+      "title": "HTML body Tag Reference and Examples",
+      "link": "https://factorpad.com/tech/html5/reference/html-body-tag.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://factorpad.com/tech/html5/reference/html-body-tag.html&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCKYBEAE",
+      "displayed_link": "https://factorpad.com › tech › html5 › html-body-tag",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae66abfed832af31df5c57c585fae404ae9.jpeg",
+      "date": "Dec 18, 2018",
+      "snippet": "While technically there are scnearios in which the beginning <body> tag and ending </body> tag are not required, it is advised to use both.",
+      "snippet_highlighted_words": [
+        "body",
+        "tag",
+        "body",
+        "tag",
+        "not"
+      ],
+      "source": "FactorPad"
+    },
+    {
+      "position": 21,
+      "title": "What should be present in the Body tag",
+      "link": "https://serpstat.com/blog/what-is-the-body-tag-and-what-should-be-present-in-it/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://serpstat.com/blog/what-is-the-body-tag-and-what-should-be-present-in-it/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCLQBEAE",
+      "displayed_link": "https://serpstat.com › Blog › How-to",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae61ca1ecdcd867ed732fbe74ffb1148f8b.png",
+      "date": "Sep 26, 2019",
+      "snippet": "You need to use the <body> tag attributes with caution since many of them contradict the HTML specification and their application leads to an ...",
+      "snippet_highlighted_words": [
+        "body",
+        "tag attributes"
+      ],
+      "source": "Serpstat"
+    },
+    {
+      "position": 22,
+      "title": "HTML Data Attributes Guide",
+      "link": "https://css-tricks.com/a-complete-guide-to-data-attributes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://css-tricks.com/a-complete-guide-to-data-attributes/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCL4BEAE",
+      "displayed_link": "https://css-tricks.com › a-complete-guide-to-data-attribu...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae69953b8943a97c1ba120b99e7ffd0788b.png",
+      "date": "Aug 12, 2024",
+      "snippet": "You can make up your own attributes. You just need to prefix them with data-* and then you're free to do what you please!",
+      "snippet_highlighted_words": [
+        "attributes"
+      ],
+      "source": "CSS-Tricks"
+    },
+    {
+      "position": 23,
+      "title": "Attribute “<” not allowed on element “X” at this point.",
+      "link": "https://rocketvalidator.com/html-validation/attribute-not-allowed-on-element-x-at-this-point",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rocketvalidator.com/html-validation/attribute-not-allowed-on-element-x-at-this-point&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCM8BEAE",
+      "displayed_link": "https://rocketvalidator.com › html-validation › attribute...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6ea07a95438396867c80f04b229263881.png",
+      "snippet": "Attribute “xmlns:v” not allowed here. xmlns · not allowed. The xmlns:v attribute is not valid on the html element in HTML5. HTML5 does not support custom XML ...",
+      "snippet_highlighted_words": [
+        "Attribute",
+        "attribute is not valid",
+        "element"
+      ],
+      "source": "Rocket Validator"
+    },
+    {
+      "position": 24,
+      "title": "Element with lang attribute has valid language tag | ACT Rule",
+      "link": "https://www.w3.org/WAI/standards-guidelines/act/rules/de46e4/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3.org/WAI/standards-guidelines/act/rules/de46e4/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCNwBEAE",
+      "displayed_link": "https://www.w3.org › standards-guidelines › act › rules",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6530b91a6b5d4ab831cb06047cbbd0c42.png",
+      "snippet": "This rule checks that a non-empty lang attribute of an element in the page has a language tag with a known primary language subtag.",
+      "snippet_highlighted_words": [
+        "attribute",
+        "element",
+        "tag"
+      ],
+      "source": "W3C"
+    },
+    {
+      "position": 25,
+      "title": "HTML <body> bgcolor Attribute",
+      "link": "https://www.geeksforgeeks.org/html/html-body-bgcolor-attribute/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/html/html-body-bgcolor-attribute/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCOgBEAE",
+      "displayed_link": "https://www.geeksforgeeks.org › html › html-body-bgc...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae68a30a93d212c2020bd6a37b1f7f34772.png",
+      "date": "Sep 5, 2024",
+      "snippet": "The HTML bgcolor attribute sets background colors for elements like <body>, <table>, <td>, and <tr>. While it accepts color names, hex, ...",
+      "snippet_highlighted_words": [
+        "attribute",
+        "body"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 26,
+      "title": "Bad value X for attribute “id” on element “pattern”: Not a ...",
+      "link": "https://rocketvalidator.com/html-validation/bad-value-x-for-attribute-id-on-element-pattern-not-a-valid-xml-1-0-name",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rocketvalidator.com/html-validation/bad-value-x-for-attribute-id-on-element-pattern-not-a-valid-xml-1-0-name&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCPUBEAE",
+      "displayed_link": "https://rocketvalidator.com › html-validation › bad-valu...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6af5491484064aed87e06da54668fda5c.png",
+      "snippet": "A <pattern> element has been found with an invalid ID. Check the format of the ID and ensure it does not start with a digit, full stop (.) or hyphen (-).",
+      "snippet_highlighted_words": [
+        "element",
+        "invalid"
+      ],
+      "source": "Rocket Validator"
+    },
+    {
+      "position": 27,
+      "title": "HTML Standard",
+      "link": "https://html.spec.whatwg.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://html.spec.whatwg.org/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCIECEAE",
+      "displayed_link": "https://html.spec.whatwg.org",
+      "snippet": "Each element is denoted in the source by a start tag, such as \" <body> \", and an end tag, such as \" </body> \". (Certain start tags and end tags can in certain ...",
+      "snippet_highlighted_words": [
+        "element",
+        "tag",
+        "body",
+        "tag",
+        "body",
+        "tags",
+        "tags"
+      ],
+      "source": "Web Hypertext Application Technology Working Group (WHATWG)"
+    },
+    {
+      "position": 28,
+      "title": "<body> Attributes | changing the link and background ...",
+      "link": "https://www.yourhtmlsource.com/myfirstsite/body.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yourhtmlsource.com/myfirstsite/body.html&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCIgCEAE",
+      "displayed_link": "https://www.yourhtmlsource.com › myfirstsite › body",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6ecd4952149b45a2e9c858ed9a2176811.png",
+      "snippet": "There are 7 attributes to be added here, and they all change how your page looks. bgcolor This is the colour of the BG, or BackGround, of your page.",
+      "snippet_highlighted_words": [
+        "attributes"
+      ],
+      "source": "Your HTML Source"
+    },
+    {
+      "position": 29,
+      "title": "HTML elements reference - MDN Web Docs - Mozilla",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCJYCEAE",
+      "displayed_link": "https://developer.mozilla.org › ... › HTML › Reference",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6cbb31a9928b097fc593eb6f01e989a6e.png",
+      "date": "Apr 11, 2025",
+      "snippet": "This page lists all the HTML elements, which are created using tags. They are grouped by function to help you find what you have in mind easily.",
+      "snippet_highlighted_words": [
+        "tags"
+      ],
+      "source": "MDN Web Docs"
+    },
+    {
+      "position": 30,
+      "title": "Documentation",
+      "link": "https://htmx.org/docs/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://htmx.org/docs/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCKoCEAE",
+      "displayed_link": "https://htmx.org › docs",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6c03ac1dd7af0add49ff2834da7ebc82e.png",
+      "snippet": "This attribute will convert all anchor tags and forms into AJAX requests that, by default, target the body of the page. Here is an example: <div hx-boost=\"true\"> ...",
+      "snippet_highlighted_words": [
+        "attribute",
+        "tags",
+        "body"
+      ],
+      "source": "HTMX"
+    },
+    {
+      "position": 31,
+      "title": "Which attribute is NOT valid for the <body>tag?",
+      "link": "https://www.sarthaks.com/1213996/which-attribute-is-not-valid-for-the-body-tag",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sarthaks.com/1213996/which-attribute-is-not-valid-for-the-body-tag&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCK8CEAE",
+      "displayed_link": "https://www.sarthaks.com › which-attribute-is-not-valid...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae62b17e55376b1297a66295502564aed22.png",
+      "date": "Sep 6, 2021",
+      "snippet": "Which attribute is NOT valid for the tag? a. background b. color c. v link d. b g color.",
+      "snippet_highlighted_words": [
+        "color"
+      ],
+      "source": "Sarthaks eConnect"
+    },
+    {
+      "position": 32,
+      "title": "Ajanta Public School Class-7 HTMl Practice questions 1. ...",
+      "link": "https://c9.shauryasoft.com/media/bny-ahw-2410071240-1257679609-1.pdf?638639721455526323",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://c9.shauryasoft.com/media/bny-ahw-2410071240-1257679609-1.pdf%3F638639721455526323&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECFEQAQ",
+      "displayed_link": "https://c9.shauryasoft.com › media › bny-ahw-24...",
+      "snippet": "Which of the following is a valid attribute of the <body> tag? o a) bgcolor o b) color o c) text. 3. What does the bgcolor attribute do in the <body> tag? o ...",
+      "snippet_highlighted_words": [
+        "valid attribute",
+        "body",
+        "tag",
+        "attribute",
+        "body",
+        "tag"
+      ],
+      "source": "Shaurya Software"
+    },
+    {
+      "position": 33,
+      "title": "HTML Body Tag: What is it and How to Use",
+      "link": "https://codeinstitute.net/global/blog/html-body-tag/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://codeinstitute.net/global/blog/html-body-tag/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECFIQAQ",
+      "displayed_link": "https://codeinstitute.net › Blog › Coding",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae68bc0ea8d91ca628590e668143808b5e8.png",
+      "date": "Aug 16, 2022",
+      "snippet": "The HTML body element is the container for the content of an HTML document. It must be the second element of the <html> element and follows the head element.",
+      "snippet_highlighted_words": [
+        "body element",
+        "element",
+        "element",
+        "element"
+      ],
+      "source": "Code Institute"
+    },
+    {
+      "position": 34,
+      "title": "Odesk Test Answer: HTML5",
+      "link": "http://odeskalltestanswer.blogspot.com/p/html5_3052.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://odeskalltestanswer.blogspot.com/p/html5_3052.html&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECGoQAQ",
+      "displayed_link": "http://odeskalltestanswer.blogspot.com › html5_3052",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae65f2e04d64ad4cbb14560e003d2c4b0b4.png",
+      "snippet": "Question : 44-Which of the following is NOT a valid attribute for the element in HTML 5.0? a.hreflang b.rel c.http-equiv d.media. Question: 45-Which of the ...",
+      "snippet_highlighted_words": [
+        "NOT",
+        "valid attribute",
+        "element"
+      ],
+      "source": "Blogger.com"
+    },
+    {
+      "position": 35,
+      "title": "Beautiful Soup 4.13.0 documentation - Crummy",
+      "link": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crummy.com/software/BeautifulSoup/bs4/doc/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECG8QAQ",
+      "displayed_link": "https://www.crummy.com › BeautifulSoup › doc",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae694d36867339499f9f0fb959b7b2d6051.png",
+      "snippet": "In particular, since a string can't contain anything (the way a tag may contain a string or another tag), strings don't support the .contents or .string ...",
+      "snippet_highlighted_words": [
+        "tag",
+        "tag"
+      ],
+      "source": "crummy.com"
+    },
+    {
+      "position": 36,
+      "title": "Why is it not valid to place elements outside when <body ...",
+      "link": "https://teamtreehouse.com/community/why-is-it-not-valid-to-place-elements-outside-when-body-element-it-is-used-as-the-wrapper",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://teamtreehouse.com/community/why-is-it-not-valid-to-place-elements-outside-when-body-element-it-is-used-as-the-wrapper&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECH8QAQ",
+      "displayed_link": "https://teamtreehouse.com › community › why-is-it-not...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6235b6b6246dab124d335334c0a79e98c.png",
+      "date": "May 13, 2019",
+      "snippet": "You cannot place any elements outside of the body tag which you want to show up on the screen. The body tag is like a wrapper.",
+      "snippet_highlighted_words": [
+        "You cannot place any elements outside of the body tag"
+      ],
+      "missing": [
+        "attribute"
+      ],
+      "must_include": {
+        "word": "attribute",
+        "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=which+%22attribute%22+is+not+valid+for+%3Cbody%3E+tag?&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q5t4CegUIhAEQAQ"
+      },
+      "source": "Treehouse"
+    },
+    {
+      "position": 37,
+      "title": "Which of the following options is an INVALID attribute ...",
+      "link": "https://www.shaalaa.com/question-bank-solutions/which-of-the-following-options-is-an-invalid-attribute-of-font-tag-in-html_356555",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shaalaa.com/question-bank-solutions/which-of-the-following-options-is-an-invalid-attribute-of-font-tag-in-html_356555&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCIsBEAE",
+      "displayed_link": "https://www.shaalaa.com › question-bank-solutions › w...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae653fcdc1d8c4eca5f96c9d9fb3ea9734d.png",
+      "date": "Jun 22, 2023",
+      "snippet": "Width. Explanation: Size, colour, and face are the three characteristics of the font tag that allow you to customize your fonts.",
+      "snippet_highlighted_words": [
+        "Width"
+      ],
+      "source": "Shaalaa.com"
+    },
+    {
+      "position": 38,
+      "title": "Template Designer Documentation",
+      "link": "https://jinja.palletsprojects.com/en/stable/templates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jinja.palletsprojects.com/en/stable/templates/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCJQBEAE",
+      "displayed_link": "https://jinja.palletsprojects.com › stable › templates",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae62dddc12efbcf72da34a15ebd39823b41.png",
+      "snippet": "You must not add whitespace between the tag and the minus sign. valid: {%- if foo -%}...{% endif %}. invalid: {% - if foo - %}...{% endif %}. Escaping¶. It is ...",
+      "snippet_highlighted_words": [
+        "tag",
+        "invalid"
+      ],
+      "source": "Jinja Documentation"
+    },
+    {
+      "position": 39,
+      "title": "What happens if you don't write <body> and <HTML> in ...",
+      "link": "https://www.quora.com/What-happens-if-you-dont-write-body-and-HTML-in-HTML",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-happens-if-you-dont-write-body-and-HTML-in-HTML&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCK4BEAE",
+      "displayed_link": "4 answers · 7 years ago",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6cf6c8be4f0157533a3f86c0e42436082.png",
+      "snippet": "An html element start tag may be omitted if the first thing inside the html element is not a comment. A body element start tag may be omitted if ...",
+      "snippet_highlighted_words": [
+        "element",
+        "tag",
+        "element",
+        "not",
+        "body element",
+        "tag"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 40,
+      "title": "Verifying the user's response | reCAPTCHA",
+      "link": "https://developers.google.com/recaptcha/docs/verify",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developers.google.com/recaptcha/docs/verify&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCK8BEAE",
+      "displayed_link": "https://developers.google.com › recaptcha › docs › verify",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae631e92ab51c390f384da7dbc21308068b.png",
+      "date": "Oct 14, 2024",
+      "snippet": "This page explains how to verify a user's response to a reCAPTCHA challenge from your application's backend.",
+      "source": "Google for Developers"
+    },
+    {
+      "position": 41,
+      "title": "WebDriver",
+      "link": "https://w3c.github.io/webdriver/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://w3c.github.io/webdriver/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCLUBEAE",
+      "displayed_link": "https://w3c.github.io › webdriver",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6690d6f92e5f8b0a6ac9d811237631122.png",
+      "date": "7 days ago",
+      "snippet": "Remove each entry from endpoints for which the concatenation of the URL prefix and the entry's URI template does not have a valid expansion ...",
+      "snippet_highlighted_words": [
+        "not",
+        "valid"
+      ],
+      "source": "W3C"
+    },
+    {
+      "position": 42,
+      "title": "Body HTML: Essential Tags And Attributes Explained",
+      "link": "https://pwskills.com/blog/body-html-what-is-html-tag/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pwskills.com/blog/body-html-what-is-html-tag/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCLgBEAE",
+      "displayed_link": "https://pwskills.com › blog › body-html-what-is-html-tag",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae632cc7421ee966d89476d72870617a39e.png",
+      "snippet": "... not case-sensitive. The <body> html tag is a container for all visible ... suitable for designers and users. Read the complete blog to know more about ...",
+      "snippet_highlighted_words": [
+        "not",
+        "body",
+        "tag",
+        "suitable"
+      ],
+      "source": "PW Skills"
+    },
+    {
+      "position": 43,
+      "title": "Developer Guide | hCaptcha",
+      "link": "https://docs.hcaptcha.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.hcaptcha.com/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECC8QAQ",
+      "displayed_link": "https://docs.hcaptcha.com",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6aefe9d81040844d4cb19e73e9b42bd1c.png",
+      "snippet": "Your server then checks that passcode with the hCaptcha server API ( /siteverify ). hCaptcha says it is valid. Your server now knows the user is not a bot and ...",
+      "snippet_highlighted_words": [
+        "valid",
+        "not"
+      ],
+      "source": "hCaptcha"
+    },
+    {
+      "position": 44,
+      "title": "Response Model - Return Type",
+      "link": "https://fastapi.tiangolo.com/tutorial/response-model/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fastapi.tiangolo.com/tutorial/response-model/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCMcBEAE",
+      "displayed_link": "https://fastapi.tiangolo.com › tutorial › response-model",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae653d9ccfaf96c5bac7f8893460b53bf4b.png",
+      "snippet": "Not of your path operation function, like all the parameters and body. ... valid Pydantic fields, you will see an example of that in one of the sections ...",
+      "snippet_highlighted_words": [
+        "Not",
+        "body",
+        "valid"
+      ],
+      "source": "FastAPI"
+    },
+    {
+      "position": 45,
+      "title": "[Solved] Which among the following is not an HTML tag?",
+      "link": "https://testbook.com/question-answer/which-among-the-following-is-not-an-html-tag--60755eb7d072a0a808ee0e50",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://testbook.com/question-answer/which-among-the-following-is-not-an-html-tag--60755eb7d072a0a808ee0e50&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCMoBEAE",
+      "displayed_link": "https://testbook.com › Web Technologies › HTML",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae645c75c8dfe107c667005e633a0547c9d.png",
+      "date": "Feb 29, 2024",
+      "snippet": "The correct answer is . Key Points is not an HTML tag. However, tag is used for unordered list and is u.",
+      "snippet_highlighted_words": [
+        "correct",
+        "not",
+        "tag",
+        "tag"
+      ],
+      "source": "Testbook"
+    },
+    {
+      "position": 46,
+      "title": "Built-in template tags and filters",
+      "link": "https://docs.djangoproject.com/en/5.2/ref/templates/builtins/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.djangoproject.com/en/5.2/ref/templates/builtins/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCM0BEAE",
+      "displayed_link": "https://docs.djangoproject.com › ref › templates › builtins",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae690f0654cbe9479d97599cd549dbfbd48.png",
+      "snippet": "Subsequently, this safe result will be fed to escape filter, which does not apply a second round of escaping. In order to properly escape every element in a ...",
+      "snippet_highlighted_words": [
+        "not",
+        "element"
+      ],
+      "source": "Django documentation"
+    },
+    {
+      "position": 47,
+      "title": "User's Manual: Component Reference - Apache JMeter",
+      "link": "https://jmeter.apache.org/usermanual/component_reference.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jmeter.apache.org/usermanual/component_reference.html&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCNkBEAE",
+      "displayed_link": "https://jmeter.apache.org › usermanual › component_re...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae63ec3ce41fa615e936660851b53e45849.png",
+      "snippet": "If you are going to send multiple requests to the same FTP server, consider using a FTP Request Defaults Configuration Element so you do not have to enter the ...",
+      "snippet_highlighted_words": [
+        "Element",
+        "not"
+      ],
+      "source": "Apache JMeter"
+    },
+    {
+      "position": 48,
+      "title": "Popovers",
+      "link": "https://getbootstrap.com/docs/4.0/components/popovers/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://getbootstrap.com/docs/4.0/components/popovers/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCN8BEAE",
+      "displayed_link": "https://getbootstrap.com › docs › components › popovers",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6bfaab812469dd1b8f6848bdfef46b395.png",
+      "snippet": "... tag, and you also must include a tabindex attribute. Dismissible popover ... not expect to click on a disabled element. Disabled button. Copy. <span ...",
+      "snippet_highlighted_words": [
+        "tag",
+        "attribute",
+        "not",
+        "element"
+      ],
+      "source": "Bootstrap"
+    },
+    {
+      "position": 49,
+      "title": "HTML - BODY tag attributes",
+      "link": "https://scholar.lib.vt.edu/reports/soasis-slides/slide8.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://scholar.lib.vt.edu/reports/soasis-slides/slide8.html&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCOYBEAE",
+      "displayed_link": "https://scholar.lib.vt.edu › reports › soasis-slides › slide8",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae60754c595b346bf3d6919d8c8c594b23e.png",
+      "snippet": "Document Body tags. BODY tag attributes. The BODY tag encapsulates your document content. Prior to HTML 3.2, there were no attributes for the BODY element.",
+      "snippet_highlighted_words": [
+        "Body tags",
+        "BODY tag attributes",
+        "BODY tag",
+        "no attributes",
+        "BODY element"
+      ],
+      "source": "Virginia Tech"
+    },
+    {
+      "position": 50,
+      "title": "DOMPurify - a DOM-only, super-fast, uber-tolerant XSS ...",
+      "link": "https://github.com/cure53/DOMPurify",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/cure53/DOMPurify&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCOkBEAE",
+      "displayed_link": "https://github.com › cure53 › DOMPurify",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6715c7c7ee44ea00d32b22e877af36c89.png",
+      "snippet": "... tag> to allow-list const clean = DOMPurify.sanitize(dirty, {ADD_TAGS ... attribute allow-list is used allowCustomizedBuiltInElements: false, // no ...",
+      "snippet_highlighted_words": [
+        "tag",
+        "attribute",
+        "false"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 51,
+      "title": "API",
+      "link": "https://react-select.com/props",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://react-select.com/props&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCPcBEAE",
+      "displayed_link": "https://react-select.com › props",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6a54507078db1907e12c4ca5278e5cbfb.png",
+      "snippet": "... body. If a function, takes a standard javascript ScrollEvent you return a boolean: true => The menu closes. false => The menu stays open. This is useful when ...",
+      "snippet_highlighted_words": [
+        "body",
+        "false"
+      ],
+      "source": "React Select"
+    },
+    {
+      "position": 52,
+      "title": "Tips for installing and using the Ionicons free icon library",
+      "link": "https://ionic.io/ionicons/usage",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ionic.io/ionicons/usage&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCPwBEAE",
+      "displayed_link": "https://ionic.io › ionicons › usage",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae614a6be009f94b766e2f658061d63abdd.png",
+      "snippet": "... body> tag, to enable them. <script ... Additionally, the external file can only be a valid svg and does not allow scripts or events within the svg element.",
+      "snippet_highlighted_words": [
+        "body",
+        "tag",
+        "valid",
+        "not",
+        "element"
+      ],
+      "source": "ionic.io"
+    },
+    {
+      "position": 53,
+      "title": "jQuery.ajax()",
+      "link": "https://api.jquery.com/jQuery.ajax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://api.jquery.com/jQuery.ajax/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCIICEAE",
+      "displayed_link": "https://api.jquery.com › jQuery",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae622fc5192529ebd595088db356d33abdb.png",
+      "snippet": "As of jQuery 1.6 you can pass false to tell jQuery to not set any content type header. ... Sets the charset attribute on the script tag used in the request. Used ...",
+      "snippet_highlighted_words": [
+        "false",
+        "attribute",
+        "tag"
+      ],
+      "source": "jQuery API Documentation"
+    },
+    {
+      "position": 54,
+      "title": "Learning body Tag in HTML",
+      "link": "https://www.shiksha.com/online-courses/articles/body-tag-in-html-blogId-146709",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shiksha.com/online-courses/articles/body-tag-in-html-blogId-146709&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCIkCEAE",
+      "displayed_link": "https://www.shiksha.com › online-courses › articles › b...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae64db89ec41d83236862ebd0ebbaf7ef9a.png",
+      "date": "Apr 8, 2024",
+      "snippet": "According to HTML standards, the document should contain one head and one body element. Having multiple body tags is not valid HTML and can ...",
+      "snippet_highlighted_words": [
+        "body element",
+        "body tags",
+        "not valid"
+      ],
+      "source": "Shiksha"
+    },
+    {
+      "position": 55,
+      "title": "SEO and Meta · Get Started with Nuxt v3",
+      "link": "https://nuxt.com/docs/getting-started/seo-meta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nuxt.com/docs/getting-started/seo-meta&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCIoCEAE",
+      "displayed_link": "https://nuxt.com › docs › getting-started › seo-meta",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6e9211f9f3c82bf86f35c1613b9a9c937.png",
+      "snippet": "Note the capitalization of these components ensuring we don't use invalid native HTML tags. <Head> and <Body> can accept nested meta tags (for aesthetic reasons) ...",
+      "snippet_highlighted_words": [
+        "invalid",
+        "tags",
+        "Body",
+        "tags"
+      ],
+      "source": "Nuxt"
+    },
+    {
+      "position": 56,
+      "title": "I am trying to change the attribute false to true when i ...",
+      "link": "https://teamtreehouse.com/community/i-am-trying-to-change-the-attribute-false-to-true-when-i-clicked-on-it-but-it-isnt-working",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://teamtreehouse.com/community/i-am-trying-to-change-the-attribute-false-to-true-when-i-clicked-on-it-but-it-isnt-working&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCJcCEAE",
+      "displayed_link": "https://teamtreehouse.com › community › i-am-trying-t...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6b457789090c4d38f20aac797187a4328.png",
+      "date": "Sep 20, 2020",
+      "snippet": "body> <div aria-checked=\"false ... isChecked); // \"this\" being the clicked element and since we're changing its attribute isChecked = !",
+      "snippet_highlighted_words": [
+        "body",
+        "false",
+        "element",
+        "attribute"
+      ],
+      "source": "Treehouse"
+    },
+    {
+      "position": 57,
+      "title": "JSON:API — Latest Specification (v1.1)",
+      "link": "https://jsonapi.org/format/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jsonapi.org/format/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCJwCEAE",
+      "displayed_link": "https://jsonapi.org › format",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6ffcdb1a5772f7f5a3e90ace62344b80a.png",
+      "date": "Jul 21, 2020",
+      "snippet": "... attribute specifying the JSON:API media type with all applicable parameters. ... In other words, a resource can not have an attribute and ...",
+      "snippet_highlighted_words": [
+        "attribute",
+        "applicable",
+        "not",
+        "attribute"
+      ],
+      "source": "JSON:API specification"
+    },
+    {
+      "position": 58,
+      "title": "Angular ng-select",
+      "link": "https://www.npmjs.com/package/@ng-select/ng-select",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.npmjs.com/package/%40ng-select/ng-select&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCJsCEAE",
+      "displayed_link": "https://www.npmjs.com › package › ng-select",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae64493a9b718aaab6362b14b01b2be7e93.png",
+      "date": "Jun 12, 2025",
+      "snippet": "no, Append dropdown to body or any other element using css selector. For correct positioning body should have position:relative. bufferAmount ...",
+      "snippet_highlighted_words": [
+        "no",
+        "body",
+        "element",
+        "correct",
+        "body"
+      ],
+      "source": "NPM"
+    },
+    {
+      "position": 59,
+      "title": "Test 1 MC CSC 365 Flashcards",
+      "link": "https://quizlet.com/463232235/test-1-mc-csc-365-flash-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/463232235/test-1-mc-csc-365-flash-cards/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCKwCEAE",
+      "displayed_link": "https://quizlet.com › test-1-mc-csc-365-flash-cards",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6754dd0af5984fc58c8de25111d60e1fd.png",
+      "snippet": "Study with Quizlet and memorize flashcards containing terms like A valid HTML document requires a) a head element and an html element within a body element ...",
+      "snippet_highlighted_words": [
+        "valid",
+        "element",
+        "element",
+        "body element"
+      ],
+      "source": "Quizlet"
+    },
+    {
+      "position": 60,
+      "title": "Utilizing the <body> HTML Tag (syntax, attributes, compatibility)",
+      "link": "https://htmlsmart.com/tag-body/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://htmlsmart.com/tag-body/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCK0CEAE",
+      "displayed_link": "https://htmlsmart.com › tag-body",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae62f1d54df7ad38652ae4cf472a1534b67.png",
+      "date": "Jun 12, 2025",
+      "snippet": "The <body> tag does not have any specific attributes defined in the HTML specification. However, it can accept global attributes that are ...",
+      "snippet_highlighted_words": [
+        "body",
+        "tag",
+        "not",
+        "attributes",
+        "attributes"
+      ],
+      "source": "htmlsmart.com"
+    },
+    {
+      "position": 61,
+      "title": "HTTP - Developers - Dropbox",
+      "link": "https://www.dropbox.com/developers/documentation/http/documentation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dropbox.com/developers/documentation/http/documentation&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCK4CEAE",
+      "displayed_link": "https://www.dropbox.com › http › documentation",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae693971beef5229825b5ae0cd2fd524507.png",
+      "date": "May 15, 2015",
+      "snippet": "The .tag field in an object identifies the subtype of a struct or selected member of a union. When specifying a Void member of a union, you may ...",
+      "snippet_highlighted_words": [
+        "tag",
+        "Void"
+      ],
+      "source": "Dropbox.com"
+    },
+    {
+      "position": 62,
+      "title": "Living Standard - HTML - WhatWG",
+      "link": "https://html.spec.whatwg.org/multipage/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://html.spec.whatwg.org/multipage/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCLECEAE",
+      "displayed_link": "https://html.spec.whatwg.org › multipage",
+      "snippet": "The body element · 4.3.2 The article element · 4.3.3 The section element · 4.3.4 ... 4.11.3.6 Using the accesskey attribute on a legend element to define a ...",
+      "snippet_highlighted_words": [
+        "body element",
+        "element",
+        "element",
+        "attribute",
+        "element"
+      ],
+      "source": "Web Hypertext Application Technology Working Group (WHATWG)"
+    },
+    {
+      "position": 63,
+      "title": "The Go Programming Language Specification",
+      "link": "https://go.dev/ref/spec",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://go.dev/ref/spec&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECFAQAQ",
+      "displayed_link": "https://go.dev › ref › spec",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6579e9bcfd83b715ea01de31260e17388.png",
+      "date": "Dec 30, 2024",
+      "snippet": "It is illegal to take the address of such an element; if s[i] is the i 'th byte of a string, &s[i] is invalid. Array types¶. An array is a ...",
+      "snippet_highlighted_words": [
+        "element",
+        "invalid"
+      ],
+      "source": "The Go Programming Language"
+    },
+    {
+      "position": 64,
+      "title": "Tooltips · Bootstrap v5.0",
+      "link": "https://getbootstrap.com/docs/5.0/components/tooltips/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://getbootstrap.com/docs/5.0/components/tooltips/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECE4QAQ",
+      "displayed_link": "https://getbootstrap.com › docs › components › tooltips",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6404259e7f98020418475547bff5ca0a7.png",
+      "snippet": "... attributes. Name, Type, Default, Description. animation, boolean, true, Apply a CSS fade transition to the tooltip. container, string | element | false, false.",
+      "snippet_highlighted_words": [
+        "attributes",
+        "element",
+        "false",
+        "false"
+      ],
+      "source": "Bootstrap"
+    },
+    {
+      "position": 65,
+      "title": "YouTube Player API Reference for iframe Embeds",
+      "link": "https://developers.google.com/youtube/iframe_api_reference",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developers.google.com/youtube/iframe_api_reference&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECGEQAQ",
+      "displayed_link": "https://developers.google.com › youtube › iframe_api_...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae683e9ac9880227e32b5e44c85e496a8e1.png",
+      "snippet": "(The <script> tag's async attribute, which also enables asynchronous downloads, is not yet supported in all modern browsers as discussed in this Stack Overflow ...",
+      "snippet_highlighted_words": [
+        "tag's",
+        "attribute",
+        "not"
+      ],
+      "source": "Google for Developers"
+    },
+    {
+      "position": 66,
+      "title": "SortableJS/Sortable: Reorderable drag-and-drop lists for ...",
+      "link": "https://github.com/SortableJS/Sortable",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/SortableJS/Sortable&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECE8QAQ",
+      "displayed_link": "https://github.com › SortableJS › Sortable",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6f85ff1cbfebadb4b278f7a787888254b.png",
+      "snippet": "pull: true|false|[\"foo\", \"bar\"]|'clone'|function — ability to move from the list. clone — copy the item, rather than move. Or an array of group names which the ...",
+      "snippet_highlighted_words": [
+        "false"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 67,
+      "title": "Configuration | Swagger Docs",
+      "link": "https://swagger.io/docs/open-source-tools/swagger-ui/usage/configuration/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://swagger.io/docs/open-source-tools/swagger-ui/usage/configuration/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECFMQAQ",
+      "displayed_link": "https://swagger.io › docs › swagger-ui › usage › configu...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6c35456c553a121dbe9ba7e8d77bb1cc6.png",
+      "snippet": "Element , REQUIRED if dom_id is not provided. The HTML DOM element inside which SwaggerUI will put its user interface. Overrides dom_id . spec, SPEC, Object ...",
+      "snippet_highlighted_words": [
+        "Element",
+        "not",
+        "element"
+      ],
+      "source": "Swagger"
+    },
+    {
+      "position": 68,
+      "title": "Introducing JSX",
+      "link": "https://legacy.reactjs.org/docs/introducing-jsx.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://legacy.reactjs.org/docs/introducing-jsx.html&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECGQQAQ",
+      "displayed_link": "https://legacy.reactjs.org › docs › introducing-jsx",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae60730439e21d215b9f33527727a7db487.png",
+      "snippet": "... valid JavaScript expressions. ... You should either use quotes (for string values) or curly braces (for expressions), but not both in the same attribute.",
+      "snippet_highlighted_words": [
+        "valid",
+        "not",
+        "attribute"
+      ],
+      "source": "React – A JavaScript library for building user interfaces"
+    },
+    {
+      "position": 69,
+      "title": "Angular Select Component",
+      "link": "https://primeng.org/select",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://primeng.org/select&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECGsQAQ",
+      "displayed_link": "https://primeng.org › select",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6c0c2242907848b42d9a8c46b8bf4be63.png",
+      "snippet": "Target element to attach the overlay, valid values are \"body\" or a local ng-template variable of another element (note: use binding with brackets for ...",
+      "snippet_highlighted_words": [
+        "element",
+        "valid",
+        "body",
+        "element"
+      ],
+      "source": "PrimeNG"
+    },
+    {
+      "position": 70,
+      "title": "Components Basics",
+      "link": "https://vuejs.org/guide/essentials/component-basics",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vuejs.org/guide/essentials/component-basics&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECGwQAQ",
+      "displayed_link": "https://vuejs.org › guide › essentials › component-basics",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae632ba2a4147869801f89462d2c71de4ef.png",
+      "snippet": "When not using a build step, a Vue component can be defined as a plain ... Case Insensitivity ​. HTML tags and attribute names are case-insensitive, so ...",
+      "snippet_highlighted_words": [
+        "not",
+        "tags",
+        "attribute"
+      ],
+      "source": "Vue.js"
+    },
+    {
+      "position": 71,
+      "title": "C++ Core Guidelines",
+      "link": "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECHIQAQ",
+      "displayed_link": "https://isocpp.github.io › CppCoreGuidelines › CppCore...",
+      "date": "May 8, 2025",
+      "snippet": "for : range-for and for – for and while – for-initializer – empty body – loop variable – loop variable type ??? ... Using valid ISO C++ does not ...",
+      "snippet_highlighted_words": [
+        "body",
+        "valid",
+        "not"
+      ],
+      "source": "GitHub Pages"
+    },
+    {
+      "position": 72,
+      "title": "My body tag is not working!",
+      "link": "https://twinery.org/forum/discussion/6585/my-body-tag-is-not-working",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twinery.org/forum/discussion/6585/my-body-tag-is-not-working&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECH0QAQ",
+      "displayed_link": "https://twinery.org › forum › discussion › my-body-tag...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6d15f985e2cf5f65b20f40bfd27d50fba.png",
+      "date": "Sep 8, 2016",
+      "snippet": "There are three errors in your CSS: 1. The <style> and </style> related tags are invalid, remove them both and make sure the import at-rule is ...",
+      "snippet_highlighted_words": [
+        "tags",
+        "invalid"
+      ],
+      "missing": [
+        "attribute"
+      ],
+      "must_include": {
+        "word": "attribute",
+        "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=which+%22attribute%22+is+not+valid+for+%3Cbody%3E+tag?&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q5t4CegUIggEQAQ"
+      },
+      "source": "Twine"
+    },
+    {
+      "position": 73,
+      "title": "Text content does not match server-rendered HTML",
+      "link": "https://nextjs.org/docs/messages/react-hydration-error",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nextjs.org/docs/messages/react-hydration-error&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCIkBEAE",
+      "displayed_link": "https://nextjs.org › docs › messages › react-hydration-error",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6788f43d751179e9096c160d09f0c6959.png",
+      "snippet": "Incorrect nesting of HTML tags · Using checks like typeof window !== 'undefined' in your rendering logic · Using browser-only APIs like window or localStorage in ...",
+      "snippet_highlighted_words": [
+        "Incorrect",
+        "tags"
+      ],
+      "source": "Next.js"
+    },
+    {
+      "position": 74,
+      "title": "Strings - Manual",
+      "link": "https://www.php.net/manual/en/language.types.string.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.php.net/manual/en/language.types.string.php&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCIgBEAE",
+      "displayed_link": "https://www.php.net › manual › language.types.string.php",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6b1ca6c6a7e21ff42098ea583919e64a4.png",
+      "snippet": "... not be indented further than any lines of the body. <?php echo <<<END a b c. END;. Run code. Output of the above example in PHP 7.3: Parse error: Invalid body ...",
+      "snippet_highlighted_words": [
+        "body",
+        "Invalid body"
+      ],
+      "source": "PHP"
+    },
+    {
+      "position": 75,
+      "title": "Which of the following attributes is not a valid ...",
+      "link": "https://askfilo.com/user-question-answers-smart-solutions/which-of-the-following-attributes-is-not-a-valid-attribute-3239393531383136",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://askfilo.com/user-question-answers-smart-solutions/which-of-the-following-attributes-is-not-a-valid-attribute-3239393531383136&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCJkBEAE",
+      "displayed_link": "https://askfilo.com › CBSE › Smart Solutions",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6ef45700e2bb647cdbd5651a0efd0fdb8.png",
+      "date": "Mar 19, 2025",
+      "snippet": "In HTML, the tag has several valid attributes, but not all of the options listed are valid. The attributes 'background' and 'width' are valid ...",
+      "snippet_highlighted_words": [
+        "tag",
+        "valid attributes",
+        "not",
+        "valid",
+        "attributes",
+        "valid"
+      ],
+      "source": "Filo"
+    },
+    {
+      "position": 76,
+      "title": "Angular AutoComplete Component",
+      "link": "https://primeng.org/autocomplete",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://primeng.org/autocomplete&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCI8BEAE",
+      "displayed_link": "https://primeng.org › autocomplete",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae69510d1b54ab53d2111c3fd6833b514b9.png",
+      "snippet": "Target element to attach the overlay, valid values are \"body\" or a local ng-template variable of another element (note: use binding with brackets for ...",
+      "snippet_highlighted_words": [
+        "element",
+        "valid",
+        "body",
+        "element"
+      ],
+      "source": "PrimeNG"
+    },
+    {
+      "position": 77,
+      "title": "Fix: “Error Start Tag Body Seen But An Element”",
+      "link": "https://www.dhiwise.com/post/fixing-start-tag-body-seen-but-an-element-of-the-same-type",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dhiwise.com/post/fixing-start-tag-body-seen-but-an-element-of-the-same-type&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCJoBEAE",
+      "displayed_link": "https://www.dhiwise.com › post › fixing-start-tag-body-s...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6e79c377c6e7a65aa22248a6088fbac02.png",
+      "date": "Oct 14, 2024",
+      "snippet": "The error typically arises due to incorrect placement or nesting of HTML tags. For example, placing a <header> tag outside the <body> tag or ...",
+      "snippet_highlighted_words": [
+        "incorrect",
+        "tags",
+        "tag",
+        "body",
+        "tag"
+      ],
+      "source": "DhiWise"
+    },
+    {
+      "position": 78,
+      "title": "Body Tag in HTML",
+      "link": "https://www.scaler.com/topics/html/body-tag-in-html/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scaler.com/topics/html/body-tag-in-html/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCJ0BEAE",
+      "displayed_link": "https://www.scaler.com › topics › html › body-tag-in-html",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae684f15abf84b2adadb52590c07565a3f4.png",
+      "date": "Mar 15, 2022",
+      "snippet": "All the content inside the <body> tag is only visible on the webpage. HTML <body> Tag has attributes like bgcolor, text etc that change the way ...",
+      "snippet_highlighted_words": [
+        "body",
+        "tag",
+        "body",
+        "Tag",
+        "attributes"
+      ],
+      "source": "Scaler"
+    },
+    {
+      "position": 79,
+      "title": "HTML",
+      "link": "https://en.wikipedia.org/wiki/HTML",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/HTML&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoFCKsBEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › HTML",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6eaead9258beed33a55f5a06ce3c3db93.png",
+      "snippet": "... body> <div> <p>Hello world!</p> </div> </body> </html>. The text ... Like br , img is an empty element with attributes but no content or closing tag.",
+      "snippet_highlighted_words": [
+        "body",
+        "body",
+        "element",
+        "attributes",
+        "no",
+        "tag"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 80,
+      "title": "HTML fill in the blank and multiple choice Ch. 2 Flashcards",
+      "link": "https://quizlet.com/45193146/html-fill-in-the-blank-and-multiple-choice-ch-2-flash-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/45193146/html-fill-in-the-blank-and-multiple-choice-ch-2-flash-cards/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECEsQAQ",
+      "displayed_link": "https://quizlet.com › html-fill-in-the-blank-and-multiple...",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae66dec9fc1ae49603fa9935f025338da06.png",
+      "snippet": "A valid HTML document requires. b. a head element and a body element. About us. About Quizlet · How Quizlet works · Careers · Advertise with us. For students.",
+      "snippet_highlighted_words": [
+        "valid",
+        "element",
+        "body element"
+      ],
+      "source": "Quizlet"
+    },
+    {
+      "position": 81,
+      "title": "HTML Body Tag: Master The Most Important ...",
+      "link": "https://html.com/tags/body/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://html.com/tags/body/&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECDEQAQ",
+      "displayed_link": "https://html.com › tags › body",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae6081cc1a2244133bb9f3aafa7615573ca.png",
+      "snippet": "Attributes of body ; bgproperties, Was used to style the background of a document. Deprecated. Use CSS instead. ; stylesrc, Was a proprietary attribute for the ...",
+      "snippet_highlighted_words": [
+        "Attributes",
+        "body",
+        "attribute"
+      ],
+      "source": "HTML.com"
+    },
+    {
+      "position": 82,
+      "title": "XHTML",
+      "link": "https://en.wikipedia.org/wiki/XHTML",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/XHTML&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECDIQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › XHTML",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae618ca4c82de1a999a24c5797675d9686f.png",
+      "snippet": "... element and attribute names, while HTML is not. Some shorthand features in HTML are omitted in XML, such as (1) attribute minimization, where attribute ...",
+      "snippet_highlighted_words": [
+        "element",
+        "attribute",
+        "not",
+        "attribute",
+        "attribute"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 83,
+      "title": "Which of the following attributes is not a",
+      "link": "https://studyx.ai/questions/4lp9cua/which-of-the-following-attributes-is-not-a-valid-attribute-of-the-tag-in-html-a-text-b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyx.ai/questions/4lp9cua/which-of-the-following-attributes-is-not-a-valid-attribute-of-the-tag-in-html-a-text-b&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECDQQAQ",
+      "displayed_link": "https://studyx.ai › Science › Computer Science",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae67880bf853784045773c607a9a718364e.png",
+      "date": "Mar 18, 2025",
+      "snippet": "Which of the following attributes is not a valid attribute of the <body> tag in HTML? (A) text (B) background (C) bgcolor (D) width. Show full ...",
+      "snippet_highlighted_words": [
+        "attributes is not",
+        "valid attribute",
+        "body",
+        "tag"
+      ],
+      "source": "StudyX"
+    },
+    {
+      "position": 84,
+      "title": "5. Which of the following attributes is not",
+      "link": "https://studyx.ai/questions/4lp9kj8/5-which-of-the-following-attributes-is-not-a-valid-attribute-of-the-tag-in-html-a-text-b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyx.ai/questions/4lp9kj8/5-which-of-the-following-attributes-is-not-a-valid-attribute-of-the-tag-in-html-a-text-b&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4QFnoECDUQAQ",
+      "displayed_link": "https://studyx.ai › Science › Computer Science",
+      "favicon": "https://serpapi.com/searches/685df5301dcfe288ba5c443e/images/a31bd4e5c5f24da19425bda4d0787ae60a321c4de2a86bc1880586b10f9b507a.png",
+      "date": "Mar 18, 2025",
+      "snippet": "The tag in HTML is used to define the document's body. While attributes like `background`, `bgcolor`, and `width` were used in older versions of ...",
+      "snippet_highlighted_words": [
+        "tag",
+        "body",
+        "attributes"
+      ],
+      "source": "StudyX"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&num=100&sca_esv=243755e6b8237819&hl=en&gl=us&udm=18&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q8poLegQIERAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "In which html element do you apply attributes that modify the background image",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=In+which+html+element+do+you+apply+attributes+that+modify+the+background+image&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=In+which+html+element+do+you+apply+attributes+that+modify+the+background+image"
+    },
+    {
+      "block_position": 1,
+      "query": "Which of these is not an attribute of the font tag",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=Which+of+these+is+not+an+attribute+of+the+font+tag&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Which+of+these+is+not+an+attribute+of+the+font+tag"
+    },
+    {
+      "block_position": 1,
+      "query": "Which attribute is not valid for body tag in html",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=Which+attribute+is+not+valid+for+body+tag+in+html&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Which+attribute+is+not+valid+for+body+tag+in+html"
+    },
+    {
+      "block_position": 1,
+      "query": "Is an attribute of horizontal rule hr tag",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=Is+an+attribute+of+horizontal+rule+hr+tag&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Is+an+attribute+of+horizontal+rule+hr+tag"
+    },
+    {
+      "block_position": 1,
+      "query": "Which of the following is an empty tag",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=Which+of+the+following+is+an+empty+tag&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Which+of+the+following+is+an+empty+tag"
+    },
+    {
+      "block_position": 1,
+      "query": "Which attribute is not valid for body tag javascript",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=Which+attribute+is+not+valid+for+body+tag+javascript&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Which+attribute+is+not+valid+for+body+tag+javascript"
+    },
+    {
+      "block_position": 1,
+      "query": "Which attribute is not valid for body tag brainly",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=Which+attribute+is+not+valid+for+body+tag+brainly&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Which+attribute+is+not+valid+for+body+tag+brainly"
+    },
+    {
+      "block_position": 1,
+      "query": "Which tag is used to specify the base language",
+      "link": "https://www.google.com/search?num=100&sca_esv=243755e6b8237819&hl=en&gl=us&q=Which+tag+is+used+to+specify+the+base+language&sa=X&ved=2ahUKEwjG1az3upCOAxWa7AIHHVZaCq4Q1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Which+tag+is+used+to+specify+the+base+language"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Which attribute is not valid for  tag ? 1. background",
+      "link": "https://www.knowledgeboat.com/question/which-attribute-is-not-valid-for-body-tag-1-background-2--669054431949009200",
+      "date": "1 year ago",
+      "source": "KnowledgeBoat",
+      "answers": [
+        {
+          "snippet": "Which attribute is not valid for <body> tag ? background; color; vlink; leftmargin · background · color · vlink · leftmargin. HTML Adv...",
+          "link": "https://www.knowledgeboat.com/question/which-attribute-is-not-valid-for-body-tag-1-background-2--669054431949009200"
+        }
+      ]
+    },
+    {
+      "title": "Which of the following is not an attribute of  tag",
+      "link": "https://www.knowledgeboat.com/question/which-of-the-following-is-not-an-attribute-of-table-tag-1--669054432961256000",
+      "date": "1 year ago",
+      "source": "KnowledgeBoat",
+      "answers": [
+        {
+          "snippet": "Reason — Src is an attribute of <IMG> tag which accepts the path or URL of the image. The BORDER, BACKGROUND and BGCOLOR attribute of <TAB...",
+          "link": "https://www.knowledgeboat.com/question/which-of-the-following-is-not-an-attribute-of-table-tag-1--669054432961256000"
+        }
+      ]
+    },
+    {
+      "title": "The attributes in my body tag is not working if I put the css in a separate file",
+      "link": "https://stackoverflow.com/questions/51102675/the-attributes-in-my-body-tag-is-not-working-if-i-put-the-css-in-a-separate-file",
+      "date": "6 years ago",
+      "extensions": [
+        "5 answers"
+      ],
+      "source": "Stack Overflow",
+      "answers": [
+        {
+          "snippet": "The linked CSS file should not have the tags around it. It should just be the css alone. Also ...",
+          "link": "https://stackoverflow.com/a/51102734",
+          "extensions": [
+            "Top answer",
+            "3 votes",
+            "6 years ago"
+          ]
+        },
+        {
+          "snippet": "In addition to the other answers here, consider using ./styles.css for your href",
+          "link": "https://stackoverflow.com/a/51102772",
+          "extensions": [
+            "2 votes",
+            "6 years ago"
+          ]
+        },
+        {
+          "snippet": "Try removing the",
+          "link": "https://stackoverflow.com/a/51102728",
+          "extensions": [
+            "6 years ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 84 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&num=100&sca_esv=243755e6b8237819&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&oq=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&hl=en&gl=us&num=200&start=200&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&oq=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&hl=en&gl=us&num=200&start=200&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&oq=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&hl=en&gl=us&num=200&start=400&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&oq=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&hl=en&gl=us&num=200&start=600&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&oq=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&hl=en&gl=us&num=200&start=800&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=200&q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&start=200",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=200&q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&start=200",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=200&q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&start=200",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=200&q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&start=400",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=200&q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&start=600",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=200&q=which+attribute+is+not+valid+for+%3Cbody%3E+tag%3F&start=800"
+    }
+  }
+}
