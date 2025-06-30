@@ -6,45 +6,41 @@ from urllib.parse import urlparse, parse_qsl, urlencode
 
 # === Configuration ===
 FOLDER_PATH = "samples/v3_1000/res_20250627_n100"
-OUTPUT_CSV = "_url_counts.csv"
+UNIQUE_URLS_CSV = "_unique_urls.csv"
+RESPONSES_CSV = "_responses.csv"
 
 def normalize_url(url):
     parsed = urlparse(url)
-
-    # Domains that require query params for content identity
     query_sensitive_domains = {
         "www.youtube.com", "youtube.com", "m.youtube.com", "youtu.be",
         "www.google.com", "www.bing.com"
     }
-
     keep_query = parsed.netloc in query_sensitive_domains
     query = f"?{urlencode(sorted(parse_qsl(parsed.query)))}" if keep_query and parsed.query else ""
-
     norm = f"{parsed.scheme}://{parsed.netloc}{parsed.path}{query}".rstrip('/')
     return norm.lower()
 
 def extract_normalized_links(res):
-    cited_links = set()
-    organic_links = set()
+    cited_links = []
+    organic_links = []
 
     cited_refs = res.get("ai_overview", {}).get("references", [])
     for ref in cited_refs:
         link = ref.get("link")
         if link:
-            cited_links.add(normalize_url(link))
+            cited_links.append(normalize_url(link))
 
     organic_res = res.get("organic_results", [])
     for org in organic_res:
         link = org.get("link")
         if link:
-            organic_links.add(normalize_url(link))
+            organic_links.append(normalize_url(link))
 
     return cited_links, organic_links
 
 def main():
-    global_cited = defaultdict(int)
-    organic_cited = defaultdict(int)
-    organic_present = defaultdict(int)
+    all_urls = set()
+    response_rows = []
 
     json_files = [f for f in os.listdir(FOLDER_PATH) if f.endswith('.json')]
 
@@ -59,42 +55,32 @@ def main():
 
         cited_links, organic_links = extract_normalized_links(res)
 
-        # Skip if no cited references
-        if not cited_links:
+        if not cited_links and not organic_links:
             continue
 
-        # Count cited links globally
-        for url in cited_links:
-            global_cited[url] += 1
+        all_urls.update(cited_links)
+        all_urls.update(organic_links)
 
-        # Count cited links that also appeared in the same organic results
-        for url in cited_links.intersection(organic_links):
-            organic_cited[url] += 1
+        response_rows.append({
+            "query_id": filename[:-5],  # Remove ".json"
+            "references": json.dumps(cited_links),
+            "organic_results": json.dumps(organic_links)
+        })
 
-        # Count links that appeared in organic results (for any AI overview query)
-        for url in organic_links:
-            organic_present[url] += 1
-
-    all_urls = set(global_cited) | set(organic_cited) | set(organic_present)
-
-    output_path = os.path.join(FOLDER_PATH, OUTPUT_CSV)
-    with open(output_path, 'w', newline='', encoding='utf-8') as f:
+    # Write unique URLs CSV
+    with open(os.path.join(FOLDER_PATH, UNIQUE_URLS_CSV), 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        writer.writerow([
-            "url",
-            "global_cited_count",
-            "organic_cited_count",
-            "in_organic_results_count"
-        ])
+        writer.writerow(["url"])
         for url in sorted(all_urls):
-            writer.writerow([
-                url,
-                global_cited.get(url, 0),
-                organic_cited.get(url, 0),
-                organic_present.get(url, 0)
-            ])
+            writer.writerow([url])
 
-    print(f"Saved to {output_path}")
+    # Write responses CSV
+    with open(os.path.join(FOLDER_PATH, RESPONSES_CSV), 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=["query_id", "references", "organic_results"])
+        writer.writeheader()
+        writer.writerows(response_rows)
+
+    print(f"Saved: {UNIQUE_URLS_CSV} and {RESPONSES_CSV}")
 
 if __name__ == "__main__":
     main()
