@@ -6,7 +6,7 @@ from urllib.parse import urlparse, parse_qsl, urlencode
 
 # === Configuration ===
 FOLDER_PATH = "samples/v3_1000/res_20250627_n100"
-UNIQUE_URLS_CSV = "_unique_urls.csv"
+URLS_POOL_CSV = "_urls_pool.csv"
 RESPONSES_CSV = "_responses.csv"
 
 def normalize_url(url):
@@ -39,7 +39,7 @@ def extract_normalized_links(res):
     return cited_links, organic_links
 
 def main():
-    all_urls = set()
+    urls_pool = set()
     response_rows = []
 
     json_files = [f for f in os.listdir(FOLDER_PATH) if f.endswith('.json')]
@@ -58,20 +58,21 @@ def main():
         if not cited_links and not organic_links:
             continue
 
-        all_urls.update(cited_links)
-        all_urls.update(organic_links)
+        if cited_links:
+            urls_pool.update(cited_links)
+            urls_pool.update(organic_links)
 
         response_rows.append({
-            "query_id": filename[:-5],  # Remove ".json"
+            "query_id": filename[:-5],
             "references": json.dumps(cited_links),
             "organic_results": json.dumps(organic_links)
         })
 
-    # Write unique URLs CSV
-    with open(os.path.join(FOLDER_PATH, UNIQUE_URLS_CSV), 'w', newline='', encoding='utf-8') as f:
+    # Write cited URLs pool
+    with open(os.path.join(FOLDER_PATH, URLS_POOL_CSV), 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(["url"])
-        for url in sorted(all_urls):
+        for url in sorted(urls_pool):
             writer.writerow([url])
 
     # Write responses CSV
@@ -80,7 +81,7 @@ def main():
         writer.writeheader()
         writer.writerows(response_rows)
 
-    print(f"Saved: {UNIQUE_URLS_CSV} and {RESPONSES_CSV}")
+    print(f"Saved: {URLS_POOL_CSV} and {RESPONSES_CSV}")
 
 if __name__ == "__main__":
     main()
