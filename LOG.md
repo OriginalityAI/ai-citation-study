@@ -5,7 +5,7 @@
 - Create new WTAO filters
 - Collect 1000 responses
 - Use Originality Batch API to classify all documents
-- TODO: (Plot) Citation density per index in organic results (scatter plot, buckets)
+- Citation density per index in organic results
 - TODO: (Plot) Calc 2 probabilities, plot 2 bars
 - TODO: (Plot) Piechart with ratio of ai/human for all citations
 
