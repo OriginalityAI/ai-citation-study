@@ -13,7 +13,7 @@ SAMPLE_DIR = Path('samples') / SAMPLE_NAME
 QUERIES_FILE = SAMPLE_DIR / f'queries_{SAMPLE_NAME}.csv'
 DATE_STR = datetime.now(timezone.utc).strftime('%Y%m%d')
 RESPONSE_DIR = SAMPLE_DIR / f'res_{DATE_STR}_n{N}'
-LABELED_QUERIES_FILE = RESPONSE_DIR / f'_queries_{SAMPLE_NAME}_labeled.csv'
+LABELED_QUERIES_FILE = RESPONSE_DIR / f'_queries_labeled.csv'
 
 # Ensure output directory exists
 RESPONSE_DIR.mkdir(parents=True, exist_ok=True)
