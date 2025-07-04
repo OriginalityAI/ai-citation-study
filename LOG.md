@@ -1,5 +1,11 @@
 # Ouroboros – Weekly Progress Log
 
+## Week of July 1-8
+
+- Extract all unclassified URLs
+- TODO: Scrape and classify with Originality API
+- TODO: Update analysis results
+
 ## Week of June 24–July 1
 
 - Create new WTAO filters
