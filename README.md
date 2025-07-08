@@ -13,8 +13,8 @@
 
 - [x] **Week 1 (June 9+):** Plan the study and outline the data collection pipeline
 - [x] **Week 2 (June 16+):** Refined core methodology to measure P(cited | AI) vs P(cited | human). Ran citation coverage analysis across N = 10 to 80 and selected N = 40 as optimal.
-- [ ] **Week 3 (June 23+):** Scale up sample size (v2) and classify documents using Originality.ai. Compute preliminary citation probabilities for AI vs human content.
-- [ ] **Week 4 (June 30+):** Finalize main results (P(cited | AI) vs P(cited | human)), generate supporting tables and plots, and begin drafting key insights.
+- [x] **Week 3 (June 23+):** Scale up sample size (v2) and classify documents using Originality.ai. Compute preliminary citation probabilities for AI vs human content.
+- [x] **Week 4 (June 30+):** Finalize main results (P(cited | AI) vs P(cited | human)), generate supporting tables and plots, and begin drafting key insights.
 - [ ] **Weeks 5–7 (July 7+):** Explore secondary questions (e.g., domain-level trends, content depth), refine plots and findings, and begin outlining blog post.
 - [ ] **Week 8 (July 28+):** Draft the blog post and prepare final graphics and visualizations for publication.
 - [ ] **Week 9 (August 4+):** Optional: package technical findings into a short paper or internal report.
