@@ -90,17 +90,7 @@ What we found:
 
 It looks like there’s a two-part trend here:
 
-1. **Within the organic list**, AI content is _slightly favored_ for citation, especially at the top.
+1. **Within the organic list**, AI content is _slightly favored_ for citation at the top.
 2. **Outside the list**, AI content is _massively favored_. The model seems to “know” where to find other AI-written documents, even if Google search doesn’t.
 
 That’s weird. It hints at a possible semantic or stylistic bias. Maybe the AI is drawn to other AI content. Maybe it’s an emergent feedback loop. Maybe something deeper.
-
-We don’t know yet.
-
-But we’ve got:
-
-- A replicable setup
-- A growing dataset
-- And a curious little finding that might matter
-
-![Summary Graphic](path/to/summary_slide.png)
