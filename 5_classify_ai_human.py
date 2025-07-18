@@ -11,14 +11,10 @@ load_dotenv()
 API_KEY = os.getenv("ORIGINALITY_API_KEY")
 
 # Paths
-INPUT_CSV = Path("samples/v3_1000/res_20250627_n100/_rescued_error_scrapes.csv")
-OUTPUT_CSV = INPUT_CSV.with_name("_originality_results_2.csv")
+INPUT_CSV = Path("samples/ymyl_1000/res_20250718_n100/_scraped.csv")
+OUTPUT_CSV = INPUT_CSV.with_name("__classified_urls.csv")
 
-# Load data, filter to only type == "OK"
 df = pd.read_csv(INPUT_CSV)
-df = df[df["type"] == "OK"]
-
-print(len(df))
 
 # Write CSV incrementally with flush and print
 with open(OUTPUT_CSV, mode="w", newline="", encoding="utf-8") as f:
