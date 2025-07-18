@@ -9,7 +9,7 @@ from collections import Counter
 from playwright.sync_api import sync_playwright
 
 # Set paths
-SAMPLE_DIR = Path("samples/v3_1000/res_20250627_n100")
+SAMPLE_DIR = Path("samples/ymyl_1000/res_20250718_n100")
 input_path = SAMPLE_DIR / "_urls_pool.csv"
 ok_path = SAMPLE_DIR / "_scraped.csv"
 unclassified_path = SAMPLE_DIR / "__unclassified_urls.csv"
