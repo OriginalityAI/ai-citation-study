@@ -1,13 +1,17 @@
+import os
 import json
 import pandas as pd
 from datetime import datetime, timezone
 from pathlib import Path
 from serpapi import GoogleSearch
+from dotenv import load_dotenv
 
 SAMPLE_NAME = 'ymyl_1000'
 N = 100 # number of organic results
 
-API_KEY = 'c4edfdc899b4ebb4b7a1d0233cdb70d9dda264bd741978a5e1d2520d3d67c266'
+# Load API key
+load_dotenv()
+API_KEY = os.getenv("SERP_API_KEY")
 
 SAMPLE_DIR = Path('samples') / SAMPLE_NAME
 QUERIES_FILE = SAMPLE_DIR / f'queries_{SAMPLE_NAME}.csv'
