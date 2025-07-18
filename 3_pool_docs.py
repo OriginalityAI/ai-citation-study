@@ -5,7 +5,7 @@ from collections import defaultdict
 from urllib.parse import urlparse, parse_qsl, urlencode
 
 # === Configuration ===
-FOLDER_PATH = "samples/v3_1000/res_20250627_n100"
+FOLDER_PATH = "samples/ymyl_1000/res_20250718_n100"
 URLS_POOL_CSV = "_urls_pool.csv"
 RESPONSES_CSV = "_responses.csv"
 
@@ -55,7 +55,7 @@ def main():
 
         cited_links, organic_links = extract_normalized_links(res)
 
-        if not cited_links and not organic_links:
+        if not cited_links:
             continue
 
         if cited_links:
