@@ -69,7 +69,7 @@ with open(OUTPUT_CSV, mode="w", newline="", encoding="utf-8") as f:
 
             is_ai = classification.get("AI", 0) > classification.get("Original", 0)
             label = "AI" if is_ai else "Human"
-            confidence = confidence_data.get("AI" if is_ai else "Original", None)
+            confidence = confidence_data.get("AI" if is_ai else "Original", None) * 100
 
             if confidence is None:
                 print(f"⚠️ Missing confidence score for {url}")
@@ -83,8 +83,7 @@ with open(OUTPUT_CSV, mode="w", newline="", encoding="utf-8") as f:
             f.flush()
 
             # 👇 Print result to console
-            percent = round(confidence * 100, 1)
-            print(f"✅ {label} ({percent}%) — {url}")
+            print(f"✅ {label} ({confidence}%) — {url}")
 
             time.sleep(2)
 
