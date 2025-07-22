@@ -96,6 +96,15 @@ def parse_response(text):
 df = pd.read_csv(INPUT_CSV, dtype={'query_id': str})
 df["query_id"] = df["query_id"].str.strip()
 
+# === Write output file with header if needed ===
+if not os.path.exists(OUTPUT_CSV):
+    with open(OUTPUT_CSV, mode='w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow([
+            "query_id", "query_text", "risk_category",
+            "intent_category", "funnel_stage", "length_category", "ymyl_category"
+        ])
+
 # === Load already labeled queries (alpha + current) ===
 completed_alpha_df = pd.read_csv(ALPHA_CSV, dtype={'query_id': str})
 completed_df = pd.read_csv(OUTPUT_CSV, dtype={'query_id': str})
@@ -109,15 +118,6 @@ completed_query_ids = set(completed_alpha_df['query_id']) | set(completed_df['qu
 # === Filter and shuffle remaining queries ===
 remaining_df = df[~df['query_id'].isin(completed_query_ids)].copy()
 remaining_df = remaining_df.sample(frac=1, random_state=42).reset_index(drop=True)
-
-# === Write output file with header if needed ===
-if not os.path.exists(OUTPUT_CSV):
-    with open(OUTPUT_CSV, mode='w', newline='', encoding='utf-8') as f:
-        writer = csv.writer(f)
-        writer.writerow([
-            "query_id", "query_text", "risk_category",
-            "intent_category", "funnel_stage", "length_category", "ymyl_category"
-        ])
 
 # === Progress bar ===
 progress = tqdm(total=len(remaining_df), desc="Processing queries")
