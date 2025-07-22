@@ -123,6 +123,8 @@ with open(OUTPUT_CSV, mode='a', newline='', encoding='utf-8') as f:
                 batch.append((query_id, row['query']))
                 progress.update(1)
             p += 1
+        
+        progress.refresh()
 
         try:
             user_prompt = make_user_prompt(batch)
