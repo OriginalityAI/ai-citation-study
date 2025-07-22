@@ -14,7 +14,7 @@ client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 # === Config ===
 INPUT_CSV = "marco_ymyl_queries.csv"
 OUTPUT_CSV = "marco_ymyl_queries_labeled.csv"
-MODEL = "gpt-4-1106-preview"
+MODEL = "gpt-4.1-nano-2025-04-14"
 TEMPERATURE = 0
 BATCH_SIZE = 20
 RATE_LIMIT_DELAY = 1.5
