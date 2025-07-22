@@ -13,6 +13,7 @@ client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # === Config ===
 INPUT_CSV = "marco_ymyl_queries.csv"
+ALPHA_CSV = "marco_ymyl_queries_labeled_alpha.csv"
 OUTPUT_CSV = "marco_ymyl_queries_labeled.csv"
 MODEL = "gpt-4.1-nano-2025-04-14"
 TEMPERATURE = 0
@@ -91,10 +92,25 @@ def parse_response(text):
         print(f"⚠️ JSON error:\n{text}\nError: {e}")
         return None
 
-# === Load input ===
-df = pd.read_csv(INPUT_CSV)
+# === Load full dataset ===
+df = pd.read_csv(INPUT_CSV, dtype={'query_id': str})
+df["query_id"] = df["query_id"].str.strip()
 
-# === Write header if needed ===
+# === Load already labeled queries (alpha + current) ===
+completed_alpha_df = pd.read_csv(ALPHA_CSV, dtype={'query_id': str})
+completed_df = pd.read_csv(OUTPUT_CSV, dtype={'query_id': str})
+
+completed_alpha_df["query_id"] = completed_alpha_df["query_id"].str.strip()
+completed_df["query_id"] = completed_df["query_id"].str.strip()
+
+# === Combine completed query IDs ===
+completed_query_ids = set(completed_alpha_df['query_id']) | set(completed_df['query_id'])
+
+# === Filter and shuffle remaining queries ===
+remaining_df = df[~df['query_id'].isin(completed_query_ids)].copy()
+remaining_df = remaining_df.sample(frac=1, random_state=42).reset_index(drop=True)
+
+# === Write output file with header if needed ===
 if not os.path.exists(OUTPUT_CSV):
     with open(OUTPUT_CSV, mode='w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
@@ -103,9 +119,8 @@ if not os.path.exists(OUTPUT_CSV):
             "intent_category", "funnel_stage", "length_category", "ymyl_category"
         ])
 
-completed_df = pd.read_csv(OUTPUT_CSV, dtype={'query_id': str})
-completed_query_ids = set(completed_df['query_id'].str.strip())
-progress = tqdm(total=len(df) - len(completed_query_ids), desc="Processing queries")
+# === Progress bar ===
+progress = tqdm(total=len(remaining_df), desc="Processing queries")
 
 # === Stream write loop ===
 with open(OUTPUT_CSV, mode='a', newline='', encoding='utf-8') as f:
@@ -113,11 +128,11 @@ with open(OUTPUT_CSV, mode='a', newline='', encoding='utf-8') as f:
 
     p = 0
 
-    while p < len(df):
+    while p < len(remaining_df):
         batch = []
 
-        while len(batch) < BATCH_SIZE and p < len(df):
-            row = df.iloc[p]
+        while len(batch) < BATCH_SIZE and p < len(remaining_df):
+            row = remaining_df.iloc[p]
             query_id = str(row['query_id']).strip()
             if query_id not in completed_query_ids:
                 batch.append((query_id, row['query']))
