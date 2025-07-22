@@ -103,13 +103,26 @@ if not os.path.exists(OUTPUT_CSV):
             "intent_category", "funnel_stage", "length_category", "ymyl_category"
         ])
 
+completed_df = pd.read_csv(OUTPUT_CSV, dtype={'query_id': str})
+completed_query_ids = set(completed_df['query_id'].str.strip())
+progress = tqdm(total=len(df) - len(completed_query_ids), desc="Processing queries")
+
 # === Stream write loop ===
 with open(OUTPUT_CSV, mode='a', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
 
-    for i in tqdm(range(0, len(df), BATCH_SIZE)):
-        batch_df = df.iloc[i:i + BATCH_SIZE]
-        batch = list(zip(batch_df['query_id'], batch_df['query']))
+    p = 0
+
+    while p < len(df):
+        batch = []
+
+        while len(batch) < BATCH_SIZE and p < len(df):
+            row = df.iloc[p]
+            query_id = str(row['query_id']).strip()
+            if query_id not in completed_query_ids:
+                batch.append((query_id, row['query']))
+                progress.update(1)
+            p += 1
 
         try:
             user_prompt = make_user_prompt(batch)
@@ -158,13 +171,10 @@ with open(OUTPUT_CSV, mode='a', newline='', encoding='utf-8') as f:
                 ])
                 f.flush()
 
-            if (i // BATCH_SIZE + 1) % 5 == 0:
-                print_summary()
-
             time.sleep(RATE_LIMIT_DELAY)
 
         except Exception as e:
-            print(f"⚠️ API error on batch {i}-{i+BATCH_SIZE}: {e}")
+            print(f"⚠️ API error: {e}")
             continue
 
 print("\n✅ Done. Final category stats:")
