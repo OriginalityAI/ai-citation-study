@@ -1,0 +1,733 @@
+{
+  "search_metadata": {
+    "id": "68818c6319c5f681ab710862",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e64920017062ba74/68818c6319c5f681ab710862.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/e64920017062ba74/68818c6319c5f681ab710862.json_with_pixel_position",
+    "created_at": "2025-07-24 01:29:07 UTC",
+    "processed_at": "2025-07-24 01:29:07 UTC",
+    "google_url": "https://www.google.com/search?q=https%3A%2F%2Fwww.netflix.com+verifyage&oq=https%3A%2F%2Fwww.netflix.com+verifyage&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/e64920017062ba74/68818c6319c5f681ab710862.html",
+    "total_time_taken": 4.25
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "https://www.netflix.com verifyage",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "https://www.netflix.com verifyage",
+    "total_results": 43,
+    "time_taken_displayed": 0.19,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How do you verify your Netflix account?",
+      "type": "featured_snippet",
+      "snippet": "When signing up for Netflix, we may send you an email asking you to verify your email address. Verifying your email address helps keep your account more secure and up-to-date. Tap or click the Verify Email button in that email to complete the process.",
+      "title": "Email verification - Netflix Help Center",
+      "link": "https://help.netflix.com/en/node/132104#:~:text=When%20signing%20up%20for%20Netflix,email%20to%20complete%20the%20process.",
+      "displayed_link": "https://help.netflix.com › node",
+      "source_logo": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/34d2735effa073a3d7f9d862f88e57fc8462bf831f92f1a41a7dcdf5210e5b48.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE5HcEViRlpsY0VKQlJHdEdTWEJsWDFsVmNFSkRPRUZvWjFrMmRuTk1ZbkZHWW1KQ01WcEhWVEZsY1ZwNFVGaHNjRFpSVEc5T2FHTlpkMEZDUWtwNVRuaGZTemx3VVRRMlRYZG9VMTlOYmxWa1psZEdUbXROVGxoeVp4SVhXbTk1UW1GTllsUk1jbDlqY0RnMFVIUjJiV0pyVVZrYUlrRkdUVUZIUjI5aFJraDNVRmRQYkRkdmEzWlNUbGQyY2xaNVgxRm5NbEp4UTFFIiwiZmN2IjoiMyIsImVpIjoiWm95QmFNYlRMcl9jcDg0UHR2bWJrUVkiLCJxYyI6IkNoOW9kSFJ3Y3lCM2QzY2dibVYwWm14cGVDQmpiMjBnZG1WeWFXWjVZV2RsRUFCOWpyUk5QdyIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSB2ZXJpZnkgeW91ciBOZXRmbGl4IGFjY291bnQ/IiwibGsiOiJHaHQyWlhKcFpua2dlVzkxY2lCdVpYUm1iR2w0SUdGalkyOTFiblEiLCJicyI6ImMtUHk1bEwzeUM5WFNNbFhxTXd2VlNoTExjcE1xd1F4aXhUOFVrdlNjaklyRkJLVGtfTkw4MHJzSlNhR0dNbEtTU01yeVVOVndoWEpwUWt5ckNSZklUa2pOVGxiSVRFOVZhRW90YmlrS0RPNUpETV9yMWdoUHc5bXJMM0VBaEVqVFNuMUREenFRY3FoVm5DRlFOd0pWSnFibUFkU2w0anVRS0Rxbk15OFZIdUpMV3hHYWxJcUdTaXE4N0NxNVhMZ2tvWDYzaFBxaE54S3VMbWVMdllTM2J4R01sSlNLSTRFcW9DWmxwa2l3QWdBIiwiaWQiOiJmY19ab3lCYU1iVExyX2NwODRQdHZtYmtRWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE5HcEViRlpsY0VKQlJHdEdTWEJsWDFsVmNFSkRPRUZvWjFrMmRuTk1ZbkZHWW1KQ01WcEhWVEZsY1ZwNFVGaHNjRFpSVEc5T2FHTlpkMEZDUWtwNVRuaGZTemx3VVRRMlRYZG9VMTlOYmxWa1psZEdUbXROVGxoeVp4SVhXbTk1UW1GTllsUk1jbDlqY0RnMFVIUjJiV0pyVVZrYUlrRkdUVUZIUjI5aFJraDNVRmRQYkRkdmEzWlNUbGQyY2xaNVgxRm5NbEp4UTFFIiwiZmN2IjoiMyIsImVpIjoiWm95QmFNYlRMcl9jcDg0UHR2bWJrUVkiLCJxYyI6IkNoOW9kSFJ3Y3lCM2QzY2dibVYwWm14cGVDQmpiMjBnZG1WeWFXWjVZV2RsRUFCOWpyUk5QdyIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSB2ZXJpZnkgeW91ciBOZXRmbGl4IGFjY291bnQ%2FIiwibGsiOiJHaHQyWlhKcFpua2dlVzkxY2lCdVpYUm1iR2w0SUdGalkyOTFiblEiLCJicyI6ImMtUHk1bEwzeUM5WFNNbFhxTXd2VlNoTExjcE1xd1F4aXhUOFVrdlNjaklyRkJLVGtfTkw4MHJzSlNhR0dNbEtTU01yeVVOVndoWEpwUWt5ckNSZklUa2pOVGxiSVRFOVZhRW90YmlrS0RPNUpETV9yMWdoUHc5bXJMM0VBaEVqVFNuMUREenFRY3FoVm5DRlFOd0pWSnFibUFkU2w0anVRS0Rxbk15OFZIdUpMV3hHYWxJcUdTaXE4N0NxNVhMZ2tvWDYzaFBxaE54S3VMbWVMdllTM2J4R01sSlNLSTRFcW9DWmxwa2l3QWdBIiwiaWQiOiJmY19ab3lCYU1iVExyX2NwODRQdHZtYmtRWV8xIn0%3D"
+    },
+    {
+      "question": "How to check age restrictions on Netflix?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "title": "Android phone or tablet, iPhone, or iPad",
+      "link": "https://help.netflix.com/en/node/114276",
+      "list": [
+        "Open the Netflix app.",
+        "In the lower right, tap My Netflix .",
+        "In the upper right, tap the Menu .",
+        "Tap Manage Profiles .",
+        "Choose the profile you want to edit.",
+        "Tap Viewing Restrictions .",
+        "Tap Maturity Rating .",
+        "Enter your Netflix account password."
+      ],
+      "displayed_link": "https://help.netflix.com › node",
+      "source_logo": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/34d2735effa073a3d7f9d862f88e57fc5f8e5b4851e148ef258f09e880e0fbe5.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE5HcEViRlpsY0VKQlJHdEdTWEJsWDFsVmNFSkRPRUZvWjFrMmRuTk1ZbkZHWW1KQ01WcEhWVEZsY1ZwNFVGaHNjRFpSVEc5T2FHTlpkMEZDUWtwNVRuaGZTemx3VVRRMlRYZG9VMTlOYmxWa1psZEdUbXROVGxoeVp4SVhXbTk1UW1GTllsUk1jbDlqY0RnMFVIUjJiV0pyVVZrYUlrRkdUVUZIUjI5aFJraDNVRmRQYkRkdmEzWlNUbGQyY2xaNVgxRm5NbEp4UTFFIiwiZmN2IjoiMyIsImVpIjoiWm95QmFNYlRMcl9jcDg0UHR2bWJrUVkiLCJxYyI6IkNoOW9kSFJ3Y3lCM2QzY2dibVYwWm14cGVDQmpiMjBnZG1WeWFXWjVZV2RsRUFCOWpyUk5QdyIsInF1ZXN0aW9uIjoiSG93IHRvIGNoZWNrIGFnZSByZXN0cmljdGlvbnMgb24gTmV0ZmxpeD8iLCJsayI6IkdpZG9iM2NnZEc4Z1kyaGxZMnNnWVdkbElISmxjM1J5YVdOMGFXOXVJRzl1SUc1bGRHWnNhWGciLCJicyI6ImMtUHk1bEwzeUM5WFNNbFhxTXd2VlNoTExjcE1xd1F4aXhUOFVrdlNjaklyRkJLVGtfTkw4MHJzSlNhR0dNbEtTU01yeVVOVndoWEpwUWt5ckNSZklUa2pOVGxiSVRFOVZhRW90YmlrS0RPNUpETV9yMWdoUHc5bXJMM0VBaEVqVFNuMUREenFRY3FoVm5DRlFOd0pWSnFibUFkU2w0anVRS0Rxbk15OFZIdUpMV3hHYWxJcUdTaXE4N0NxNVhMZ2tvWDYzaFBxaE54S3VMbWVMdllTM2J4R01sSlNLSTRFcW9DWmxwa2l3QWdBIiwiaWQiOiJmY19ab3lCYU1iVExyX2NwODRQdHZtYmtRWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE5HcEViRlpsY0VKQlJHdEdTWEJsWDFsVmNFSkRPRUZvWjFrMmRuTk1ZbkZHWW1KQ01WcEhWVEZsY1ZwNFVGaHNjRFpSVEc5T2FHTlpkMEZDUWtwNVRuaGZTemx3VVRRMlRYZG9VMTlOYmxWa1psZEdUbXROVGxoeVp4SVhXbTk1UW1GTllsUk1jbDlqY0RnMFVIUjJiV0pyVVZrYUlrRkdUVUZIUjI5aFJraDNVRmRQYkRkdmEzWlNUbGQyY2xaNVgxRm5NbEp4UTFFIiwiZmN2IjoiMyIsImVpIjoiWm95QmFNYlRMcl9jcDg0UHR2bWJrUVkiLCJxYyI6IkNoOW9kSFJ3Y3lCM2QzY2dibVYwWm14cGVDQmpiMjBnZG1WeWFXWjVZV2RsRUFCOWpyUk5QdyIsInF1ZXN0aW9uIjoiSG93IHRvIGNoZWNrIGFnZSByZXN0cmljdGlvbnMgb24gTmV0ZmxpeD8iLCJsayI6IkdpZG9iM2NnZEc4Z1kyaGxZMnNnWVdkbElISmxjM1J5YVdOMGFXOXVJRzl1SUc1bGRHWnNhWGciLCJicyI6ImMtUHk1bEwzeUM5WFNNbFhxTXd2VlNoTExjcE1xd1F4aXhUOFVrdlNjaklyRkJLVGtfTkw4MHJzSlNhR0dNbEtTU01yeVVOVndoWEpwUWt5ckNSZklUa2pOVGxiSVRFOVZhRW90YmlrS0RPNUpETV9yMWdoUHc5bXJMM0VBaEVqVFNuMUREenFRY3FoVm5DRlFOd0pWSnFibUFkU2w0anVRS0Rxbk15OFZIdUpMV3hHYWxJcUdTaXE4N0NxNVhMZ2tvWDYzaFBxaE54S3VMbWVMdllTM2J4R01sSlNLSTRFcW9DWmxwa2l3QWdBIiwiaWQiOiJmY19ab3lCYU1iVExyX2NwODRQdHZtYmtRWV8xIn0%3D"
+    },
+    {
+      "question": "How to manage a Netflix account online?",
+      "type": "featured_snippet",
+      "snippet": "Managing your account You can update your account information at any time, and change your email, phone number, or membership plan by selecting the Account option within the Netflix menu. With Profile & Parental Controls, you can also adjust content controls, such as playback preferences, language, and subtitles.",
+      "title": "Getting started with Netflix - Netflix Help Center",
+      "link": "https://help.netflix.com/en/node/102377#:~:text=Managing%20your%20account,preferences%2C%20language%2C%20and%20subtitles.",
+      "displayed_link": "https://help.netflix.com › node",
+      "source_logo": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/34d2735effa073a3d7f9d862f88e57fc7ea0a225f26c9141e9fe26744f482ae9.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE5HcEViRlpsY0VKQlJHdEdTWEJsWDFsVmNFSkRPRUZvWjFrMmRuTk1ZbkZHWW1KQ01WcEhWVEZsY1ZwNFVGaHNjRFpSVEc5T2FHTlpkMEZDUWtwNVRuaGZTemx3VVRRMlRYZG9VMTlOYmxWa1psZEdUbXROVGxoeVp4SVhXbTk1UW1GTllsUk1jbDlqY0RnMFVIUjJiV0pyVVZrYUlrRkdUVUZIUjI5aFJraDNVRmRQYkRkdmEzWlNUbGQyY2xaNVgxRm5NbEp4UTFFIiwiZmN2IjoiMyIsImVpIjoiWm95QmFNYlRMcl9jcDg0UHR2bWJrUVkiLCJxYyI6IkNoOW9kSFJ3Y3lCM2QzY2dibVYwWm14cGVDQmpiMjBnZG1WeWFXWjVZV2RsRUFCOWpyUk5QdyIsInF1ZXN0aW9uIjoiSG93IHRvIG1hbmFnZSBhIE5ldGZsaXggYWNjb3VudCBvbmxpbmU/IiwibGsiOiJHaVJvYjNjZ2RHOGdiV0Z1WVdkbElHNWxkR1pzYVhnZ1lXTmpiM1Z1ZENCdmJteHBibVUiLCJicyI6ImMtUHk1bEwzeUM5WFNNbFhxTXd2VlNoTExjcE1xd1F4aXhUOFVrdlNjaklyRkJLVGtfTkw4MHJzSlNhR0dNbEtTU01yeVVOVndoWEpwUWt5ckNSZklUa2pOVGxiSVRFOVZhRW90YmlrS0RPNUpETV9yMWdoUHc5bXJMM0VBaEVqVFNuMUREenFRY3FoVm5DRlFOd0pWSnFibUFkU2w0anVRS0Rxbk15OFZIdUpMV3hHYWxJcUdTaXE4N0NxNVhMZ2tvWDYzaFBxaE54S3VMbWVMdllTM2J4R01sSlNLSTRFcW9DWmxwa2l3QWdBIiwiaWQiOiJmY19ab3lCYU1iVExyX2NwODRQdHZtYmtRWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE5HcEViRlpsY0VKQlJHdEdTWEJsWDFsVmNFSkRPRUZvWjFrMmRuTk1ZbkZHWW1KQ01WcEhWVEZsY1ZwNFVGaHNjRFpSVEc5T2FHTlpkMEZDUWtwNVRuaGZTemx3VVRRMlRYZG9VMTlOYmxWa1psZEdUbXROVGxoeVp4SVhXbTk1UW1GTllsUk1jbDlqY0RnMFVIUjJiV0pyVVZrYUlrRkdUVUZIUjI5aFJraDNVRmRQYkRkdmEzWlNUbGQyY2xaNVgxRm5NbEp4UTFFIiwiZmN2IjoiMyIsImVpIjoiWm95QmFNYlRMcl9jcDg0UHR2bWJrUVkiLCJxYyI6IkNoOW9kSFJ3Y3lCM2QzY2dibVYwWm14cGVDQmpiMjBnZG1WeWFXWjVZV2RsRUFCOWpyUk5QdyIsInF1ZXN0aW9uIjoiSG93IHRvIG1hbmFnZSBhIE5ldGZsaXggYWNjb3VudCBvbmxpbmU%2FIiwibGsiOiJHaVJvYjNjZ2RHOGdiV0Z1WVdkbElHNWxkR1pzYVhnZ1lXTmpiM1Z1ZENCdmJteHBibVUiLCJicyI6ImMtUHk1bEwzeUM5WFNNbFhxTXd2VlNoTExjcE1xd1F4aXhUOFVrdlNjaklyRkJLVGtfTkw4MHJzSlNhR0dNbEtTU01yeVVOVndoWEpwUWt5ckNSZklUa2pOVGxiSVRFOVZhRW90YmlrS0RPNUpETV9yMWdoUHc5bXJMM0VBaEVqVFNuMUREenFRY3FoVm5DRlFOd0pWSnFibUFkU2w0anVRS0Rxbk15OFZIdUpMV3hHYWxJcUdTaXE4N0NxNVhMZ2tvWDYzaFBxaE54S3VMbWVMdllTM2J4R01sSlNLSTRFcW9DWmxwa2l3QWdBIiwiaWQiOiJmY19ab3lCYU1iVExyX2NwODRQdHZtYmtRWV8xIn0%3D"
+    },
+    {
+      "question": "How do I check my Netflix ID?",
+      "type": "featured_snippet",
+      "snippet": "Go to netflix.com/LoginHelp. Select I don't remember my email or phone. Enter your first name, last name, and the credit or debit card you use to pay for Netflix. Select Find account.",
+      "title": "Forgot email or phone number for Netflix",
+      "link": "https://help.netflix.com/en/node/126425#:~:text=Go%20to%20netflix.com%2FLoginHelp,Select%20Find%20account.",
+      "displayed_link": "https://help.netflix.com › node",
+      "source_logo": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/34d2735effa073a3d7f9d862f88e57fcc49e56c5aa4565714263c3683477e10a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE5HcEViRlpsY0VKQlJHdEdTWEJsWDFsVmNFSkRPRUZvWjFrMmRuTk1ZbkZHWW1KQ01WcEhWVEZsY1ZwNFVGaHNjRFpSVEc5T2FHTlpkMEZDUWtwNVRuaGZTemx3VVRRMlRYZG9VMTlOYmxWa1psZEdUbXROVGxoeVp4SVhXbTk1UW1GTllsUk1jbDlqY0RnMFVIUjJiV0pyVVZrYUlrRkdUVUZIUjI5aFJraDNVRmRQYkRkdmEzWlNUbGQyY2xaNVgxRm5NbEp4UTFFIiwiZmN2IjoiMyIsImVpIjoiWm95QmFNYlRMcl9jcDg0UHR2bWJrUVkiLCJxYyI6IkNoOW9kSFJ3Y3lCM2QzY2dibVYwWm14cGVDQmpiMjBnZG1WeWFXWjVZV2RsRUFCOWpyUk5QdyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgY2hlY2sgbXkgTmV0ZmxpeCBJRD8iLCJsayI6IkdocG9iM2NnZEc4Z1kyaGxZMnNnYlhrZ2JtVjBabXhwZUNCcFpBIiwiYnMiOiJjLVB5NWxMM3lDOVhTTWxYcU13dlZTaExMY3BNcXdReGl4VDhVa3ZTY2pJckZCS1RrX05MODByc0pTYUdHTWxLU1NNcnlVTlZ3aFhKcFFreXJDUmZJVGtqTlRsYklURTlWYUVvdGJpa0tETzVKRE1fcjFnaFB3OW1yTDNFQWhFalRTbjFERHpxUWNxaFZuQ0ZRTndKVkpxYm1BZFNsNGp1UUtEcW5NeThWSHVKTFd4R2FsSXFHU2lxODdDcTVYTGdrb1g2M2hQcWhOeEt1TG1lTHZZUzNieEdNbEpTS0k0RXFvQ1pscGtpd0FnQSIsImlkIjoiZmNfWm95QmFNYlRMcl9jcDg0UHR2bWJrUVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE5HcEViRlpsY0VKQlJHdEdTWEJsWDFsVmNFSkRPRUZvWjFrMmRuTk1ZbkZHWW1KQ01WcEhWVEZsY1ZwNFVGaHNjRFpSVEc5T2FHTlpkMEZDUWtwNVRuaGZTemx3VVRRMlRYZG9VMTlOYmxWa1psZEdUbXROVGxoeVp4SVhXbTk1UW1GTllsUk1jbDlqY0RnMFVIUjJiV0pyVVZrYUlrRkdUVUZIUjI5aFJraDNVRmRQYkRkdmEzWlNUbGQyY2xaNVgxRm5NbEp4UTFFIiwiZmN2IjoiMyIsImVpIjoiWm95QmFNYlRMcl9jcDg0UHR2bWJrUVkiLCJxYyI6IkNoOW9kSFJ3Y3lCM2QzY2dibVYwWm14cGVDQmpiMjBnZG1WeWFXWjVZV2RsRUFCOWpyUk5QdyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgY2hlY2sgbXkgTmV0ZmxpeCBJRD8iLCJsayI6IkdocG9iM2NnZEc4Z1kyaGxZMnNnYlhrZ2JtVjBabXhwZUNCcFpBIiwiYnMiOiJjLVB5NWxMM3lDOVhTTWxYcU13dlZTaExMY3BNcXdReGl4VDhVa3ZTY2pJckZCS1RrX05MODByc0pTYUdHTWxLU1NNcnlVTlZ3aFhKcFFreXJDUmZJVGtqTlRsYklURTlWYUVvdGJpa0tETzVKRE1fcjFnaFB3OW1yTDNFQWhFalRTbjFERHpxUWNxaFZuQ0ZRTndKVkpxYm1BZFNsNGp1UUtEcW5NeThWSHVKTFd4R2FsSXFHU2lxODdDcTVYTGdrb1g2M2hQcWhOeEt1TG1lTHZZUzNieEdNbEpTS0k0RXFvQ1pscGtpd0FnQSIsImlkIjoiZmNfWm95QmFNYlRMcl9jcDg0UHR2bWJrUVlfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "NETFLIX verifyage",
+      "link": "https://www.netflix.com/verifyage",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.netflix.com/verifyage&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECAoQAQ",
+      "displayed_link": "https://www.netflix.com › verifyage",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd221836b79b2ac6c940dd85dfc78890ab446a.png",
+      "snippet": "No information is available for this page.",
+      "source": "Netflix"
+    },
+    {
+      "position": 2,
+      "title": "How to verify your age",
+      "link": "https://help.netflix.com/en/node/41299",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.netflix.com/en/node/41299&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECBkQAQ",
+      "displayed_link": "https://help.netflix.com › node",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218a157a0836f5423d8c69604b0a1f422aa.png",
+      "snippet": "We're sorry, this information is not available for United States. Was this article helpful? Yes No. Related Articles. How to update Netflix account information ...",
+      "snippet_highlighted_words": [
+        "Netflix"
+      ],
+      "source": "Netflix"
+    },
+    {
+      "position": 3,
+      "title": "Netflix Error tvq-pm-103",
+      "link": "https://help.netflix.com/en/node/51957",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.netflix.com/en/node/51957&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECBsQAQ",
+      "displayed_link": "https://help.netflix.com › node",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22182ab8d655eb17a8bd6665095b0c11af05.png",
+      "snippet": "You must verify your age at www.netflix.com/verifyage to access mature content. It typically indicates that you have not yet completed age verification on ...",
+      "snippet_highlighted_words": [
+        "You must verify your age at www.netflix.com/verifyage"
+      ],
+      "source": "Netflix"
+    },
+    {
+      "position": 4,
+      "title": "Redeem your gift",
+      "link": "https://www.netflix.com/redeem",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.netflix.com/redeem&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECBoQAQ",
+      "displayed_link": "https://www.netflix.com › redeem",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218648049a0741497e08f7eb19e22191736.png",
+      "snippet": "Netflix Home Sign In Redeem your gift Enter your code below to get started. Code or Pin Redeem Buy Gift Cards Need help with gift cards?",
+      "snippet_highlighted_words": [
+        "Enter your code below to get started"
+      ],
+      "source": "Netflix"
+    },
+    {
+      "position": 5,
+      "title": "넷플릭스 웹 로그인",
+      "link": "https://www.netflix.com/kr/login",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.netflix.com/kr/login&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECBgQAQ",
+      "displayed_link": "https://www.netflix.com › login",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22180d7b9dba5a6c6ade3a078f9619094107.png",
+      "snippet": "스마트 TV, 태블릿, 스마트폰, PC, 게임 콘솔 등 다양한 디바이스에서 영화와 시리즈를 마음껏 즐기세요.",
+      "source": "Netflix"
+    },
+    {
+      "position": 6,
+      "title": "How To Verify Age On Netflix Tutorial",
+      "link": "https://www.youtube.com/watch?v=souMlqslyQA",
+      "displayed_link": "4.6K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22182c5cba24cb19973fed24422f19fee54c.jpeg",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218ee57bbec53f84e1b35f33fdf0739571c.png",
+      "snippet": "In this video I'll be showing you guys how you can verify your age so that you can watch any content that you want on Netflix.",
+      "duration": "1:44",
+      "source": "YouTube · Easy Earl"
+    },
+    {
+      "position": 7,
+      "title": "Netflix service codes",
+      "link": "https://help.netflix.com/en/node/42109",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.netflix.com/en/node/42109&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECEkQAQ",
+      "displayed_link": "https://help.netflix.com › node",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22180ce44de13008990a9305222ea96583ef.png",
+      "snippet": "Netflix service codes help us find and verify your account quickly when you contact Customer Service. Service codes are available on the following devices, ...",
+      "snippet_highlighted_words": [
+        "Netflix service codes"
+      ],
+      "source": "Netflix"
+    },
+    {
+      "position": 8,
+      "title": "넷플릭스 성인인증 (www.netflix.com/verifyage) 진행 방법",
+      "link": "https://04uk.tistory.com/117",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://04uk.tistory.com/117&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECH0QAQ",
+      "displayed_link": "https://04uk.tistory.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22182cfbfdfe9b882081b42de799101b6f7a.png",
+      "date": "Mar 13, 2025",
+      "snippet": "성인인증 진행 단계 · www.netflix.com/verifyage 페이지에 접속합니다. · 화면에 표시되는 입력란에 다음 정보를 차례대로 입력합니다: 이름; 생일; 성별 ...",
+      "snippet_highlighted_words": [
+        "www.netflix.com/verifyage 페이지에 접속"
+      ],
+      "source": "티스토리"
+    },
+    {
+      "position": 9,
+      "title": "넷플릭스 연령인증방법 : verifyage 오류 해결하기 - 네이버 블로그",
+      "link": "https://m.blog.naver.com/ryurime88/223602203135",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.blog.naver.com/ryurime88/223602203135&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECDgQAQ",
+      "displayed_link": "https://m.blog.naver.com › ryurim...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd221874003253ff8253dd08fcacdd3767b0c2.png",
+      "date": "Sep 30, 2024",
+      "snippet": "여기에서는 연령인증절차를 위해 netflix.com/verifyage로 접속할 수 있는 링크를 제공하는데, 이를 눌러 연령 인증에 필요한 정보 등을 입력하고 ...",
+      "snippet_highlighted_words": [
+        "netflix.com/verifyage"
+      ],
+      "source": "네이버 블로그"
+    },
+    {
+      "position": 10,
+      "title": "Netflix How To Verify Age Instructions, Guide, Tutorial - Netflix ...",
+      "link": "https://www.youtube.com/watch?v=hyi_nihMpR4",
+      "displayed_link": "26K+ views · 5 years ago",
+      "thumbnail": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd221828eb674d2804987e984379328e16fc4e.png",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd221883bb5f39023b490bd689f94c3a96fd2c.png",
+      "snippet": "This is gonna be a relatively quick video just showing you how you can go through the process of verifying your age on your Netflix account.",
+      "duration": "1:04",
+      "source": "YouTube · How To Tech"
+    },
+    {
+      "position": 11,
+      "title": "넷플릭스 제한된 콘텐츠 연령 인증 verifyage페이지 / 성인 ...",
+      "link": "https://blog.naver.com/bubei/223210690202?viewType=pc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.naver.com/bubei/223210690202%3FviewType%3Dpc&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECHEQAQ",
+      "displayed_link": "https://blog.naver.com › bubei",
+      "date": "Sep 13, 2023",
+      "snippet": "제한된 콘텐츠를 보시려면 ww w. n e t f l ix. com/. verifyage 페이지에서 연령을 인증하셔야 합니다. ​. · 성인 콘텐츠를 보려면 연령 인증을 ...",
+      "snippet_highlighted_words": [
+        "ww w. n e t f l ix. com/. verifyage 페이지에서 연령을 인증하셔야 합니다"
+      ],
+      "source": "NAVER"
+    },
+    {
+      "position": 12,
+      "title": "넷플릭스 성인인증 verifyage (https://www.netflix ... - 시끄러운세상",
+      "link": "https://noisystyle.tistory.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%84%B1%EC%9D%B8%EC%9D%B8%EC%A6%9D-verifyage-httpswwwnetflixcomverifyage",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://noisystyle.tistory.com/entry/%25EB%2584%25B7%25ED%2594%258C%25EB%25A6%25AD%25EC%258A%25A4-%25EC%2584%25B1%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D-verifyage-httpswwwnetflixcomverifyage&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoFCIkBEAE",
+      "displayed_link": "https://noisystyle.tistory.com › entry",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd221848bfc449e94d8f56801ee4f31ef13806.png",
+      "date": "Sep 16, 2022",
+      "snippet": "넷플릭스는 19세 이상 관람가로 설정된 영상의 경우 성인인증을 하지 않거나, 계정 주인이 프로필별로 설정을 달리 하면 시청이 제한됩니다.",
+      "source": "티스토리"
+    },
+    {
+      "position": 13,
+      "title": "넷플릭스 성인인증 (www.netflix.com/verifage) - 라티오에서",
+      "link": "http://inratio.tistory.com/1788?category=853358",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://inratio.tistory.com/1788%3Fcategory%3D853358&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECEgQAQ",
+      "displayed_link": "http://inratio.tistory.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218154534496d1eb03eeeaac6108e986cf2.png",
+      "date": "Apr 19, 2025",
+      "snippet": "넷플릭스 성인 인증은 [http://www.netflix.com/verifyage](https://www.netflix.com/verifyage) 페이지에서 진행됩니다. 로그인한 상태에서 이 ...",
+      "snippet_highlighted_words": [
+        "netflix.com",
+        "verifyage",
+        "https",
+        "netflix.com",
+        "verifyage"
+      ],
+      "source": "티스토리"
+    },
+    {
+      "position": 14,
+      "title": "Netflix Venezuela: Ve series online, ve películas online",
+      "link": "https://www.netflix.com/ve/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.netflix.com/ve/&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECEsQAQ",
+      "displayed_link": "https://www.netflix.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22183b4ea639e0671ef7235b3885d28fd3e7.png",
+      "snippet": "¿Quieres ver Netflix ya? Ingresa tu email para crear una cuenta o reiniciar tu membresía de Netflix. · Todo lo que te encanta de Netflix por tan solo USD 7,99.",
+      "snippet_highlighted_words": [
+        "Ingresa tu email para crear una cuenta o reiniciar tu membresía de Netflix"
+      ],
+      "source": "Netflix"
+    },
+    {
+      "position": 15,
+      "title": "넷플릭스 성인인증 (www.netflix.com/verifyage) - 클래시오브킹즈",
+      "link": "https://clashofking.tistory.com/64",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://clashofking.tistory.com/64&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECGEQAQ",
+      "displayed_link": "https://clashofking.tistory.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218f33e5a55ddbcd8f25a6c50d0edd9973b.png",
+      "date": "May 18, 2023",
+      "snippet": "대한민국에서 관람등급이 만 18세 이상인 콘텐츠를 시청하려면 netflix.com/verifyage에서 만 19세 이상임을 인증하세요. 성인용 콘텐츠는 성인 인증 ...",
+      "snippet_highlighted_words": [
+        "netflix.com/verifyage에서 만 19세 이상임을 인증"
+      ],
+      "source": "티스토리"
+    },
+    {
+      "position": 16,
+      "title": "넷플릭스 성인 연령인증 하는법 (https://www.netflix.com ...",
+      "link": "https://workinghollydavid.tistory.com/163",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://workinghollydavid.tistory.com/163&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECGIQAQ",
+      "displayed_link": "https://workinghollydavid.tistory.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22187caf5b4311c5afdfdaa2337db31635a2.png",
+      "date": "Sep 23, 2024",
+      "snippet": "verifyage 페이지 이동: 로그인 후, 연령 제한 콘텐츠를 시청하려면 verifyage 페이지로 이동하여 인증을 진행합니다. 인증 완료: 주민등록번호나 ...",
+      "snippet_highlighted_words": [
+        "verifyage 페이지 이동"
+      ],
+      "source": "티스토리"
+    },
+    {
+      "position": 17,
+      "title": "넷플릭스 연령 인증 (www.netflix.com/veriyage) - 열무김치밥",
+      "link": "http://kimchibab.tistory.com/505238",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://kimchibab.tistory.com/505238&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECG8QAQ",
+      "displayed_link": "http://kimchibab.tistory.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218080a638d854398711a79a5df0d5148ff.png",
+      "date": "Jan 11, 2025",
+      "snippet": "개인 정보 입력: 이름, 생년월일, 휴대폰 번호 등 요청된 정보를 정확하게 입력합니다. 인증 코드 받기: 입력한 휴대폰 번호로 전송된 6자리 인증 코드를 ...",
+      "source": "티스토리"
+    },
+    {
+      "position": 18,
+      "title": "www.netflix.com/verifyage (넷플릭스 연령인증 verifyage)",
+      "link": "https://kangwondopower.tistory.com/entry/wwwnetflixcomverifyage-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%97%B0%EB%A0%B9%EC%9D%B8%EC%A6%9D-verifyage",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kangwondopower.tistory.com/entry/wwwnetflixcomverifyage-%25EB%2584%25B7%25ED%2594%258C%25EB%25A6%25AD%25EC%258A%25A4-%25EC%2597%25B0%25EB%25A0%25B9%25EC%259D%25B8%25EC%25A6%259D-verifyage&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECH4QAQ",
+      "displayed_link": "https://kangwondopower.tistory.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22185e6e8fc3342db5f2ed7d0f352eb74e6e.png",
+      "date": "May 3, 2023",
+      "snippet": "넷플리스 연령인증 페이지 입니다. 대표계정에 연령인증을 하시면 프로필별로 별도 인증을 하지 않아도 됩니다. 단, 자녀 계정은 대표계정으로 시청제한을 ...",
+      "snippet_highlighted_words": [
+        "넷플리스 연령인증 페이지"
+      ],
+      "source": "티스토리"
+    },
+    {
+      "position": 19,
+      "title": "Email verification",
+      "link": "https://help.netflix.com/en/node/132104",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.netflix.com/en/node/132104&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoFCI0BEAE",
+      "displayed_link": "https://help.netflix.com › node",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218d6918621b78fff8415d2dc966329e00c.png",
+      "snippet": "Verifying your email address helps keep your account more secure and up-to-date. Tap or click the Verify Email button in that email to complete the process.",
+      "snippet_highlighted_words": [
+        "Verifying your email address helps keep your account more secure and up-to-date"
+      ],
+      "source": "Netflix"
+    },
+    {
+      "position": 20,
+      "title": "넷플릭스 대한민국 - 인터넷으로 시리즈와 영화를 시청하세요",
+      "link": "https://www.netflix.com/kr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.netflix.com/kr/&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoFCIwBEAE",
+      "displayed_link": "https://www.netflix.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218381dabc45febbd5d8ae7b0ca5c234a6a.png",
+      "snippet": "영화, 시리즈 등을 무제한으로 · 시청할 준비가 되셨나요? 멤버십을 등록하거나 재시작하려면 이메일 주소를 입력하세요. · $7.99이면 만날 수 있는 넷플릭스.",
+      "source": "Netflix"
+    },
+    {
+      "position": 21,
+      "title": "www.netflix.com/verifyage (넷플릭스 ... - 오사카사거리에서",
+      "link": "https://osakabigchoi.tistory.com/207",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://osakabigchoi.tistory.com/207&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECDcQAQ",
+      "displayed_link": "https://osakabigchoi.tistory.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22184c86f4846c07d32419a990f0ba27bcfc.png",
+      "date": "Jan 16, 2023",
+      "snippet": "넷플릭스는 연령인증을 해주어야 청소년 관람불가 등급 이상의 영상을 제한없이 시청할 수 있습니다. 계정별로 1회 인증을 받으면 다른 프로필도 자동으로 ...",
+      "source": "티스토리"
+    },
+    {
+      "position": 22,
+      "title": "Roblox unveils new age verification technology",
+      "link": "https://www.youtube.com/watch?v=U3S2okoUe2k",
+      "displayed_link": "70+ views · 6 days ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6vShso0njQlncXbAHFBrrhIIegnpyIX0MTBaMZ292jV3w&s",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218cb8c513e8c7d9371f2f9ebffa0da9af4.png",
+      "snippet": "The tool prompts users to take a video selfie. The company's AI systems will analyze facial features to try to determine if they're older ...",
+      "duration": "0:57",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS0Y6jB_qwn7nmwKx0heneFpb4Q6Tnzm_OhMw",
+      "source": "YouTube · 13News Now"
+    },
+    {
+      "position": 23,
+      "title": "넷플릭스 연령인증 verifyage 홈페이지 - 바로가기 - 이슈 트래커",
+      "link": "https://isuetracker.tistory.com/2247?srsltid=AfmBOooWOvb94fX7BSFsITzi2KOGHdTOT7xsdx3vlytL0GE16boq6u-U",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://isuetracker.tistory.com/2247%3Fsrsltid%3DAfmBOooWOvb94fX7BSFsITzi2KOGHdTOT7xsdx3vlytL0GE16boq6u-U&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECEQQAQ",
+      "displayed_link": "https://isuetracker.tistory.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218f5b364b14193266bc3f2a76859ab8aa4.png",
+      "snippet": "넷플릭스 연령인증 verifyage 홈페이지 바로가기 정보입니다. https://www.netflix.com/kr/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fverifyage.",
+      "snippet_highlighted_words": [
+        "넷플릭스 연령인증 verifyage 홈페이지 바로가기"
+      ],
+      "source": "티스토리"
+    },
+    {
+      "position": 24,
+      "title": "Roblox introduces new safeguards for teens, including age ...",
+      "link": "https://techcrunch.com/2025/07/17/roblox-introduces-new-safeguards-for-teens-including-age-estimation-tech/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://techcrunch.com/2025/07/17/roblox-introduces-new-safeguards-for-teens-including-age-estimation-tech/&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECEwQAQ",
+      "displayed_link": "https://techcrunch.com › 2025/07/17 › roblox-introduc...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218dc47bfaf28a192d0a60cfd7642fba1b4.jpeg",
+      "date": "7 days ago",
+      "snippet": "Roblox notes that if the system is unable to verify age with high confidence, their age will remain unconfirmed. If the user doesn't pass the ...",
+      "snippet_highlighted_words": [
+        "verify age"
+      ],
+      "source": "TechCrunch"
+    },
+    {
+      "position": 25,
+      "title": "넷플릭스 성인인증 하기(연령인증) www.netflix.com/verifyage",
+      "link": "https://rnrmffj.tamchart.com/1093",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rnrmffj.tamchart.com/1093&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECGAQAQ",
+      "displayed_link": "https://rnrmffj.tamchart.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22180a10c7da22c48fa2d016538c2c6e56b7.png",
+      "date": "Aug 8, 2024",
+      "snippet": "엄격한 연령 인증 프로세스는 부모와 보호자가 자녀의 콘텐츠 관람을 관리할 수 있게 도와줍니다. 자녀가 불필요한 콘텐츠에 노출되는 것을 방지하기 위한 ...",
+      "source": "tamchart.com"
+    },
+    {
+      "position": 26,
+      "title": "How to verify your age | Centro de ayuda de Netflix",
+      "link": "https://help.netflix.com/es-es/node/41299",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.netflix.com/es-es/node/41299&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECF8QAQ",
+      "displayed_link": "https://help.netflix.com › es-es › node",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22183f2ed95871551029abc799416b449c2a.png",
+      "snippet": "How to verify your age ... Lo sentimos, pero esta información no está disponible para Estados Unidos. ¿Te ha resultado útil este artículo? Sí No. Artículos ...",
+      "snippet_highlighted_words": [
+        "How to verify your age"
+      ],
+      "source": "Netflix"
+    },
+    {
+      "position": 27,
+      "title": "넷플릭스 연령 인증 하는법 (www.netflix.com/veriyage)",
+      "link": "https://amason.jisikgourmet.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%97%B0%EB%A0%B9-%EC%9D%B8%EC%A6%9D-%ED%95%98%EB%8A%94%EB%B2%95-wwwnetflixcomveriyage",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://amason.jisikgourmet.com/entry/%25EB%2584%25B7%25ED%2594%258C%25EB%25A6%25AD%25EC%258A%25A4-%25EC%2597%25B0%25EB%25A0%25B9-%25EC%259D%25B8%25EC%25A6%259D-%25ED%2595%2598%25EB%258A%2594%25EB%25B2%2595-wwwnetflixcomveriyage&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECGMQAQ",
+      "displayed_link": "https://amason.jisikgourmet.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218746622dc20155463a5aa35e31abd479a.png",
+      "date": "Jan 12, 2025",
+      "snippet": "넷플릭스 연령 인증 하는법 ... 가입자 명의 핸드폰으로 인증번호를 받아주세요. 그리고 나서 인증번호를 입력하시면 됩니다. ... 모두 성인인증이 완료됩니다 ...",
+      "snippet_highlighted_words": [
+        "가입자 명의 핸드폰으로 인증번호를 받아주세요"
+      ],
+      "source": "jisikgourmet.com"
+    },
+    {
+      "position": 28,
+      "title": "Pornhub to introduce 'government approved' UK age checks",
+      "link": "https://www.bbc.com/news/articles/cr5v2lz5vl6o",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.com/news/articles/cr5v2lz5vl6o&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECHAQAQ",
+      "displayed_link": "https://www.bbc.com › news › articles",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218c885fe63a8b39ab70e38f6be849bd7f1.png",
+      "date": "Jun 26, 2025",
+      "snippet": "Pornhub and a number of other major adult websites have confirmed they will introduce enhanced age checks for users from next month.",
+      "source": "BBC"
+    },
+    {
+      "position": 29,
+      "title": "www.netflix.com/verifyage 인증하기 - 파나메스",
+      "link": "https://city.pinescroll.com/7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://city.pinescroll.com/7&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECG4QAQ",
+      "displayed_link": "https://city.pinescroll.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd221802bc04c057ca3f1f1bd41c6fc0c2afa2.png",
+      "date": "May 26, 2024",
+      "snippet": "넷플릭스 연령인증 ✓. 넷플릭스에서 성인 콘텐츠를 시청하려면 반드시 연령 인증 절차를 거쳐야 합니다. 이를 위해 연령 페이지에 접속하면 됩니다.",
+      "snippet_highlighted_words": [
+        "넷플릭스에서 성인 콘텐츠를 시청하려면 반드시 연령 인증 절차를 거쳐야 합니다"
+      ],
+      "source": "pinescroll.com"
+    },
+    {
+      "position": 30,
+      "title": "넷플릭스 verifyage 연령인증 하는법",
+      "link": "https://melt2091.tistory.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-verifyage-%EC%97%B0%EB%A0%B9%EC%9D%B8%EC%A6%9D-%ED%95%98%EB%8A%94%EB%B2%95",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://melt2091.tistory.com/entry/%25EB%2584%25B7%25ED%2594%258C%25EB%25A6%25AD%25EC%258A%25A4-verifyage-%25EC%2597%25B0%25EB%25A0%25B9%25EC%259D%25B8%25EC%25A6%259D-%25ED%2595%2598%25EB%258A%2594%25EB%25B2%2595&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECHwQAQ",
+      "displayed_link": "https://melt2091.tistory.com › entry",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218679939fba50e25f00e7a5661006f6038.png",
+      "date": "Jan 29, 2021",
+      "snippet": "넷플릭스 verifyage 연령인증 하는법 · https://www.netflix.com/verifyage · 2020/06/17 - [경제공장] - 사회초년생은 주택청약부터 가입하는 것이 좋다.",
+      "snippet_highlighted_words": [
+        "넷플릭스 verifyage 연령인증 하는법"
+      ],
+      "source": "티스토리"
+    },
+    {
+      "position": 31,
+      "title": "T-Mobile 55+ Senior Plan Costs & Reviews in 2025",
+      "link": "https://www.theseniorlist.com/cell-phones/t-mobile/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theseniorlist.com/cell-phones/t-mobile/&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECHsQAQ",
+      "displayed_link": "https://www.theseniorlist.com › Cell Phones",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218a619e3c94cf51eb44a6cc1e7aaed3c23.png",
+      "date": "May 14, 2025",
+      "snippet": "Extras: T-Mobile's senior plans offer subscriptions with popular streamers like Apple TV+, Hulu, and Netflix. ... verify your age within 45 days ...",
+      "snippet_highlighted_words": [
+        "Netflix",
+        "verify"
+      ],
+      "source": "The Senior List"
+    },
+    {
+      "position": 32,
+      "title": "Why can't I verify my age?",
+      "link": "https://help.netflix.com/en/node/109172",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.netflix.com/en/node/109172&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECHoQAQ",
+      "displayed_link": "https://help.netflix.com › node",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218c1ad468f80dbc19a798df820eaee4ebf.png",
+      "snippet": "Currently viewing information for: United States. Why can't I verify my age? We're sorry, this information is not available for United States.",
+      "snippet_highlighted_words": [
+        "Why can't I verify my age"
+      ],
+      "source": "Netflix"
+    },
+    {
+      "position": 33,
+      "title": "www.netflix.com/verifyage 쉽게하기 - 티스토리",
+      "link": "https://maincoco.tistory.com/15",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://maincoco.tistory.com/15&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoFCI4BEAE",
+      "displayed_link": "https://maincoco.tistory.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22186f9a250d25fe1d3300b3f8559eca50fe.png",
+      "date": "Jul 26, 2024",
+      "snippet": "연령 인증은 계정당 1회만 필요하며, 이후에는 자동으로 성인 콘텐츠가 표시됩니다. 여러 사람이 함께 넷플릭스를 이용하는 경우에도 각자의 정보로 연령 ...",
+      "snippet_highlighted_words": [
+        "연령 인증은 계정당 1회만 필요"
+      ],
+      "source": "티스토리"
+    },
+    {
+      "position": 34,
+      "title": "Roblox Rolls Out Selfie-Based Age Estimation Tech",
+      "link": "https://www.youtube.com/watch?v=7nv2gxEAqZk",
+      "displayed_link": "1.5K+ views · 6 days ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4pxzU_OCcPGCo6RZfyoocFsYseN6U9DTdVB3DwgoBiFp&s",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218c4c5082b713e46be947e3eb7da7f87ef.png",
+      "snippet": "Gaming platform Roblox is rolling out new tech to estimate a user's age in an effort to keep younger gamers safe while allowing teens to ...",
+      "duration": "7:19",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTxGEqS3CG60Y_MsIArZNf80XiH2BAPBaBJBA",
+      "source": "YouTube · Bloomberg Technology"
+    },
+    {
+      "position": 35,
+      "title": "The Best VPNs for Pornhub in 2025",
+      "link": "https://www.pcmag.com/picks/the-best-vpns-for-pornhub",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcmag.com/picks/the-best-vpns-for-pornhub&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoFCJcBEAE",
+      "displayed_link": "https://www.pcmag.com › ... › Security › VPN",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218d8828fca101d3b76cc53b85b1025cc89.png",
+      "snippet": "Below we list the best VPNs for Pornhub, followed by how they can protect you and why you should use one no matter where you're going online.",
+      "snippet_highlighted_words": [
+        "best"
+      ],
+      "source": "PCMag"
+    },
+    {
+      "position": 36,
+      "title": "How to verify your age | Pusat Bantuan Netflix",
+      "link": "https://help.netflix.com/id/node/41299",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.netflix.com/id/node/41299&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoFCJsBEAE",
+      "displayed_link": "https://help.netflix.com › node",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218d73b98a6ff5ddd00de8f9909fc0d1349.png",
+      "snippet": "How to verify your age ... Maaf, informasi ini tidak tersedia untuk Amerika Serikat. Apakah artikel ini bermanfaat? Ya Tidak. Artikel Terkait. Cara memperbarui ...",
+      "snippet_highlighted_words": [
+        "How to verify your age"
+      ],
+      "source": "Netflix"
+    },
+    {
+      "position": 37,
+      "title": "Blackburn praises Taylor Swift, says of singer's past criticism",
+      "link": "https://thehill.com/blogs/in-the-know/4440719-blackburn-praises-taylor-swift-says-of-singers-past-criticism-i-just-shake-it-off/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thehill.com/blogs/in-the-know/4440719-blackburn-praises-taylor-swift-says-of-singers-past-criticism-i-just-shake-it-off/&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECDUQAQ",
+      "displayed_link": "https://thehill.com › blogs › in-the-know › 4440719-bl...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22189d4ae66be878db034d6945f3c4856b53.png",
+      "date": "Jan 31, 2024",
+      "snippet": "Taylor Swift once dubbed her “Trump in a wig,” but Sen. Marsha Blackburn (R-Tenn.) isn't joining in on criticism of the music superstar.",
+      "source": "The Hill"
+    },
+    {
+      "position": 38,
+      "title": "넷플릭스 성인인증 방법 ( https://www.netflix.com/verifyage )",
+      "link": "https://netfllix.co.kr/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%84%B1%EC%9D%B8%EC%9D%B8%EC%A6%9D-%EB%B0%A9%EB%B2%95-https-www-netflix-com-verifyage/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://netfllix.co.kr/%25EB%2584%25B7%25ED%2594%258C%25EB%25A6%25AD%25EC%258A%25A4-%25EC%2584%25B1%25EC%259D%25B8%25EC%259D%25B8%25EC%25A6%259D-%25EB%25B0%25A9%25EB%25B2%2595-https-www-netflix-com-verifyage/&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECEUQAQ",
+      "displayed_link": "https://netfllix.co.kr › 넷플릭스-성...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218f3745898f0e5d4b8d0411beba0fdfaf4.png",
+      "snippet": "넷플릭스 성인 인증 방법에 대해 간략히 설명드리면, 넷플릭스에서 운영하는 성인 인증 사이트에 몇가지 개인 정보를 입력하고, 6자리 숫자로 된 인증 코드를 성인 인증 ...",
+      "snippet_highlighted_words": [
+        "넷플릭스에서 운영하는 성인 인증 사이트"
+      ],
+      "source": "netfllix.co.kr"
+    },
+    {
+      "position": 39,
+      "title": "넷플릭스 연령 인증 방법 ( www.netflix.com/verifyage ) - 에누리",
+      "link": "https://ernuri.tistory.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%97%B0%EB%A0%B9-%EC%9D%B8%EC%A6%9D-%EB%B0%A9%EB%B2%95-wwwnetflixcomverifyage",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ernuri.tistory.com/entry/%25EB%2584%25B7%25ED%2594%258C%25EB%25A6%25AD%25EC%258A%25A4-%25EC%2597%25B0%25EB%25A0%25B9-%25EC%259D%25B8%25EC%25A6%259D-%25EB%25B0%25A9%25EB%25B2%2595-wwwnetflixcomverifyage&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECEYQAQ",
+      "displayed_link": "https://ernuri.tistory.com › entry",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218ab8804814b0c35b8be95de97b6f77db4.png",
+      "date": "Jan 22, 2024",
+      "snippet": "넷플릭스 연령 인증 방법 ( netflix.com/verifyage ). 넷플릭스 홈페이지에 접속하시고, 고객센터 사이트에서 '성인 인증'이라고 검색합니다. 연령 인증 ...",
+      "snippet_highlighted_words": [
+        "넷플릭스 홈페이지에 접속하시고, 고객센터 사이트에서 '성인 인증'이라고 검색"
+      ],
+      "source": "티스토리"
+    },
+    {
+      "position": 40,
+      "title": "Pornhub Is Blocked in These 17 States (and France)",
+      "link": "https://www.pcmag.com/news/pornhub-blocked-france-florida-texas-indiana-ala-nc-age-verification-vpn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcmag.com/news/pornhub-blocked-france-florida-texas-indiana-ala-nc-age-verification-vpn&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECEoQAQ",
+      "displayed_link": "https://www.pcmag.com › News › Security › VPN",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218dc9fc7e7e2158f718da55fe3f1c0f095.png",
+      "date": "Jun 7, 2025",
+      "snippet": "To protest age-verification laws, Pornhub is now blocked in France and a growing number of US states. VPNs can help you get around these blockades.",
+      "source": "PCMag"
+    },
+    {
+      "position": 41,
+      "title": "넷플릭스 연령인증(verifyage) 방법 - 노마드1021 - 티스토리",
+      "link": "https://nomade1021.tistory.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%EC%9D%B8%EC%A6%9D",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nomade1021.tistory.com/entry/%25EB%2584%25B7%25ED%2594%258C%25EB%25A6%25AD%25EC%258A%25A4%25EC%259D%25B8%25EC%25A6%259D&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECEcQAQ",
+      "displayed_link": "https://nomade1021.tistory.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd2218b6b73ace1f7b2b2a322c208d5b92c902.png",
+      "date": "May 17, 2023",
+      "snippet": "넷플릭스 시청 전에 자동으로 netflix.com/verifyage 를 방문하라는 메시지를 확인하실 수 있습니다. 아래의 사이트를 방문하시어 로그인 후 바로 인증이 ...",
+      "snippet_highlighted_words": [
+        "청 전에 자동으로 netflix.com/verifyage 를 방문하라는 메시지를 확인"
+      ],
+      "source": "티스토리"
+    },
+    {
+      "position": 42,
+      "title": "Fake IT - Generate Fake Names, Addresses, IBAN & Credit ...",
+      "link": "https://fakeit.receivefreesms.co.uk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fakeit.receivefreesms.co.uk/&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECD4QAQ",
+      "displayed_link": "https://fakeit.receivefreesms.co.uk",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd221822f54e972f70bb445b7ec09fde46b3b2.png",
+      "snippet": "Fake IT ᐅ Fake Name, Address, Credit Card, IBAN Generator. Use our tool to generate fake data to test your app.",
+      "source": "Fake IT"
+    },
+    {
+      "position": 43,
+      "title": "2025 민생회복지원금 하나로마트 사용 방법｜15만원 지급 ...",
+      "link": "https://efootball.tistory.com/174",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://efootball.tistory.com/174&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQFnoECDYQAQ",
+      "displayed_link": "https://efootball.tistory.com › ...",
+      "favicon": "https://serpapi.com/searches/68818c6319c5f681ab710862/images/fb62df0e55da9f2190096d224bbd22186a835bc0c1f02c90d42131999d06b9f9.png",
+      "date": "8 days ago",
+      "snippet": "https://cafe.naver.com/rndcampus광고. 정부지원사업 무료 전자책 실무 ... netflix.com/verifyage｜넷플릭스 청소년 관람불가 2025 모태솔로 ...",
+      "snippet_highlighted_words": [
+        "https",
+        "netflix.com",
+        "verifyage"
+      ],
+      "source": "티스토리"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Netflix verify age korea",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&hl=en&gl=us&q=Netflix+verify+age+korea&sa=X&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQ1QJ6BQiYARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Netflix+verify+age+korea"
+    },
+    {
+      "block_position": 1,
+      "query": "Netflix com verify help scan QR code",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&hl=en&gl=us&q=Netflix+com+verify+help+scan+QR+code&sa=X&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQ1QJ6BQihARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Netflix+com+verify+help+scan+QR+code"
+    },
+    {
+      "block_position": 1,
+      "query": "Netflix verify age not working",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&hl=en&gl=us&q=Netflix+verify+age+not+working&sa=X&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQ1QJ6BQikARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Netflix+verify+age+not+working"
+    },
+    {
+      "block_position": 1,
+      "query": "www.netflix.com login",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&hl=en&gl=us&q=www.netflix.com+login&sa=X&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQ1QJ6BQijARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=www.netflix.com+login"
+    },
+    {
+      "block_position": 1,
+      "query": "Netflix verify code",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&hl=en&gl=us&q=Netflix+verify+code&sa=X&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQ1QJ6BQiiARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Netflix+verify+code"
+    },
+    {
+      "block_position": 1,
+      "query": "Https www Netflix com unsupported",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&hl=en&gl=us&q=Https+www+Netflix+com+unsupported&sa=X&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQ1QJ6BQifARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Https+www+Netflix+com+unsupported"
+    },
+    {
+      "block_position": 1,
+      "query": "Netflix account",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&hl=en&gl=us&q=Netflix+account&sa=X&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQ1QJ6BQidARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Netflix+account"
+    },
+    {
+      "block_position": 1,
+      "query": "Netflix verify device",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&hl=en&gl=us&q=Netflix+verify+device&sa=X&ved=2ahUKEwjGnuyErNSOAxU_7skDHbb8JmIQ1QJ6BQiTARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Netflix+verify+device"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 43 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=https://www.netflix.com+verifyage&num=100&sca_esv=bb49354504a3e791&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      },
+      {
+        "content": "In response to a complaint we received under the US Digital Millennium Copyright Act, we have removed 1 result(s) from this page. If you wish, you may read the DMCA complaint that caused the removal(s) at LumenDatabase.org.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/support/answer/1386831",
+            "text": "US Digital Millennium Copyright Act"
+          },
+          {
+            "link": "https://lumendatabase.org/notices/53587141",
+            "text": "read the DMCA complaint"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=https%3A%2F%2Fwww.netflix.com+verifyage&oq=https%3A%2F%2Fwww.netflix.com+verifyage&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=https%3A%2F%2Fwww.netflix.com+verifyage&oq=https%3A%2F%2Fwww.netflix.com+verifyage&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=https%3A%2F%2Fwww.netflix.com+verifyage&oq=https%3A%2F%2Fwww.netflix.com+verifyage&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=https%3A%2F%2Fwww.netflix.com+verifyage&oq=https%3A%2F%2Fwww.netflix.com+verifyage&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=https%3A%2F%2Fwww.netflix.com+verifyage&oq=https%3A%2F%2Fwww.netflix.com+verifyage&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=https%3A%2F%2Fwww.netflix.com+verifyage&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=https%3A%2F%2Fwww.netflix.com+verifyage&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=https%3A%2F%2Fwww.netflix.com+verifyage&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=https%3A%2F%2Fwww.netflix.com+verifyage&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=https%3A%2F%2Fwww.netflix.com+verifyage&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=https%3A%2F%2Fwww.netflix.com+verifyage&start=400"
+    }
+  }
+}

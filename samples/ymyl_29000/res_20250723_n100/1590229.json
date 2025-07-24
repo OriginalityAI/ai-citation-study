@@ -1,0 +1,1559 @@
+{
+  "search_metadata": {
+    "id": "68814ecbd9961283019cc880",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f8d6315c52fd497f/68814ecbd9961283019cc880.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/f8d6315c52fd497f/68814ecbd9961283019cc880.json_with_pixel_position",
+    "created_at": "2025-07-23 21:06:19 UTC",
+    "processed_at": "2025-07-23 21:06:19 UTC",
+    "google_url": "https://www.google.com/search?q=alcohol+and+long+covid&oq=alcohol+and+long+covid&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/f8d6315c52fd497f/68814ecbd9961283019cc880.html",
+    "total_time_taken": 2.3
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "alcohol and long covid",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "alcohol and long covid",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What to avoid with long COVID?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWRsUmxhRkp2ZEhSNFpXMHdhblU1Tkc5amQyWm1Xak5UYlVkVGRtWkVhRWRZTVVSSVdFbEljVWM1ZFhoSldWZ3RZVUpEZHpabFNrRnlhVVJXV0c5eVVtdE1abVpMUlZOcU1XWXpTbkJvYUVvMVRVbE1aV1phZEhCYWR4SVhla1UyUW1GTFUwSk9UMGRSYm1WelVEQlBVR280VVdzYUlrRkdUVUZIUjNCSlgxTk5iVVZaWjBoUVNIQm1MWFpvWjNCb2MzaEtVVEJRVW5jIiwiZmN2IjoiMyIsImVpIjoiekU2QmFLU0JOT0dRbmVzUDBPUGo4UWsiLCJxYyI6IkNoWmhiR052YUc5c0lHRnVaQ0JzYjI1bklHTnZkbWxrRUFBWUFYMjBraUFfIiwicXVlc3Rpb24iOiJXaGF0IHRvIGF2b2lkIHdpdGggbG9uZyBDT1ZJRD8iLCJsayI6IkdoMTNhR0YwSUhSdklHRjJiMmxrSUhkcGRHZ2diRzl1WnlCamIzWnBaQSIsImJzIjoiYzQyUHNRckNNQkNHY2Mza0dBcnFQWUxXemFXRFhUcTUyVGttUnhPSk9XbGlReDlTSEh3TG44SnFxUWhTY0w3di03aWY1V3hlYWhFZ0VJaUdqSUpvZ2daTHJvTHRibF9rR2I5UDAwVXlpeU9RcE1ZbzFsWHk3bVlsYWJKR2VxZ3c5RDVFcWoxbV9MRjVWZFFQOVBaN2lCM1pxdFF0YU5FZ0ZPQXZTcUd6TFJ4UTBnbkJ1RUFXYS1INlBfcE14cV9yTkUyV2NmRE1meDRiZG11MFpfODFCYXFPaWFMTi1BMF91OGVnNmVRSiIsImlkIjoiZmNfekU2QmFLU0JOT0dRbmVzUDBPUGo4UWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWRsUmxhRkp2ZEhSNFpXMHdhblU1Tkc5amQyWm1Xak5UYlVkVGRtWkVhRWRZTVVSSVdFbEljVWM1ZFhoSldWZ3RZVUpEZHpabFNrRnlhVVJXV0c5eVVtdE1abVpMUlZOcU1XWXpTbkJvYUVvMVRVbE1aV1phZEhCYWR4SVhla1UyUW1GTFUwSk9UMGRSYm1WelVEQlBVR280VVdzYUlrRkdUVUZIUjNCSlgxTk5iVVZaWjBoUVNIQm1MWFpvWjNCb2MzaEtVVEJRVW5jIiwiZmN2IjoiMyIsImVpIjoiekU2QmFLU0JOT0dRbmVzUDBPUGo4UWsiLCJxYyI6IkNoWmhiR052YUc5c0lHRnVaQ0JzYjI1bklHTnZkbWxrRUFBWUFYMjBraUFfIiwicXVlc3Rpb24iOiJXaGF0IHRvIGF2b2lkIHdpdGggbG9uZyBDT1ZJRD8iLCJsayI6IkdoMTNhR0YwSUhSdklHRjJiMmxrSUhkcGRHZ2diRzl1WnlCamIzWnBaQSIsImJzIjoiYzQyUHNRckNNQkNHY2Mza0dBcnFQWUxXemFXRFhUcTUyVGttUnhPSk9XbGlReDlTSEh3TG44SnFxUWhTY0w3di03aWY1V3hlYWhFZ0VJaUdqSUpvZ2daTHJvTHRibF9rR2I5UDAwVXlpeU9RcE1ZbzFsWHk3bVlsYWJKR2VxZ3c5RDVFcWoxbV9MRjVWZFFQOVBaN2lCM1pxdFF0YU5FZ0ZPQXZTcUd6TFJ4UTBnbkJ1RUFXYS1INlBfcE14cV9yTkUyV2NmRE1meDRiZG11MFpfODFCYXFPaWFMTi1BMF91OGVnNmVRSiIsImlkIjoiZmNfekU2QmFLU0JOT0dRbmVzUDBPUGo4UWtfMSJ9"
+    },
+    {
+      "question": "Do alcoholics get COVID worse?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWRsUmxhRkp2ZEhSNFpXMHdhblU1Tkc5amQyWm1Xak5UYlVkVGRtWkVhRWRZTVVSSVdFbEljVWM1ZFhoSldWZ3RZVUpEZHpabFNrRnlhVVJXV0c5eVVtdE1abVpMUlZOcU1XWXpTbkJvYUVvMVRVbE1aV1phZEhCYWR4SVhla1UyUW1GTFUwSk9UMGRSYm1WelVEQlBVR280VVdzYUlrRkdUVUZIUjNCSlgxTk5iVVZaWjBoUVNIQm1MWFpvWjNCb2MzaEtVVEJRVW5jIiwiZmN2IjoiMyIsImVpIjoiekU2QmFLU0JOT0dRbmVzUDBPUGo4UWsiLCJxYyI6IkNoWmhiR052YUc5c0lHRnVaQ0JzYjI1bklHTnZkbWxrRUFBWUFYMjBraUFfIiwicXVlc3Rpb24iOiJEbyBhbGNvaG9saWNzIGdldCBDT1ZJRCB3b3JzZT8iLCJsayI6IkdoMWtieUJoYkdOdmFHOXNhV056SUdkbGRDQmpiM1pwWkNCM2IzSnpaUSIsImJzIjoiYzQyUHNRckNNQkNHY2Mza0dBcnFQWUxXemFXRFhUcTUyVGttUnhPSk9XbGlReDlTSEh3TG44SnFxUWhTY0w3di03aWY1V3hlYWhFZ0VJaUdqSUpvZ2daTHJvTHRibF9rR2I5UDAwVXlpeU9RcE1ZbzFsWHk3bVlsYWJKR2VxZ3c5RDVFcWoxbV9MRjVWZFFQOVBaN2lCM1pxdFF0YU5FZ0ZPQXZTcUd6TFJ4UTBnbkJ1RUFXYS1INlBfcE14cV9yTkUyV2NmRE1meDRiZG11MFpfODFCYXFPaWFMTi1BMF91OGVnNmVRSiIsImlkIjoiZmNfekU2QmFLU0JOT0dRbmVzUDBPUGo4UWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWRsUmxhRkp2ZEhSNFpXMHdhblU1Tkc5amQyWm1Xak5UYlVkVGRtWkVhRWRZTVVSSVdFbEljVWM1ZFhoSldWZ3RZVUpEZHpabFNrRnlhVVJXV0c5eVVtdE1abVpMUlZOcU1XWXpTbkJvYUVvMVRVbE1aV1phZEhCYWR4SVhla1UyUW1GTFUwSk9UMGRSYm1WelVEQlBVR280VVdzYUlrRkdUVUZIUjNCSlgxTk5iVVZaWjBoUVNIQm1MWFpvWjNCb2MzaEtVVEJRVW5jIiwiZmN2IjoiMyIsImVpIjoiekU2QmFLU0JOT0dRbmVzUDBPUGo4UWsiLCJxYyI6IkNoWmhiR052YUc5c0lHRnVaQ0JzYjI1bklHTnZkbWxrRUFBWUFYMjBraUFfIiwicXVlc3Rpb24iOiJEbyBhbGNvaG9saWNzIGdldCBDT1ZJRCB3b3JzZT8iLCJsayI6IkdoMWtieUJoYkdOdmFHOXNhV056SUdkbGRDQmpiM1pwWkNCM2IzSnpaUSIsImJzIjoiYzQyUHNRckNNQkNHY2Mza0dBcnFQWUxXemFXRFhUcTUyVGttUnhPSk9XbGlReDlTSEh3TG44SnFxUWhTY0w3di03aWY1V3hlYWhFZ0VJaUdqSUpvZ2daTHJvTHRibF9rR2I5UDAwVXlpeU9RcE1ZbzFsWHk3bVlsYWJKR2VxZ3c5RDVFcWoxbV9MRjVWZFFQOVBaN2lCM1pxdFF0YU5FZ0ZPQXZTcUd6TFJ4UTBnbkJ1RUFXYS1INlBfcE14cV9yTkUyV2NmRE1meDRiZG11MFpfODFCYXFPaWFMTi1BMF91OGVnNmVRSiIsImlkIjoiZmNfekU2QmFLU0JOT0dRbmVzUDBPUGo4UWtfMSJ9"
+    },
+    {
+      "question": "Why have I suddenly become intolerant to alcohol?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWRsUmxhRkp2ZEhSNFpXMHdhblU1Tkc5amQyWm1Xak5UYlVkVGRtWkVhRWRZTVVSSVdFbEljVWM1ZFhoSldWZ3RZVUpEZHpabFNrRnlhVVJXV0c5eVVtdE1abVpMUlZOcU1XWXpTbkJvYUVvMVRVbE1aV1phZEhCYWR4SVhla1UyUW1GTFUwSk9UMGRSYm1WelVEQlBVR280VVdzYUlrRkdUVUZIUjNCSlgxTk5iVVZaWjBoUVNIQm1MWFpvWjNCb2MzaEtVVEJRVW5jIiwiZmN2IjoiMyIsImVpIjoiekU2QmFLU0JOT0dRbmVzUDBPUGo4UWsiLCJxYyI6IkNoWmhiR052YUc5c0lHRnVaQ0JzYjI1bklHTnZkbWxrRUFBWUFYMjBraUFfIiwicXVlc3Rpb24iOiJXaHkgaGF2ZSBJIHN1ZGRlbmx5IGJlY29tZSBpbnRvbGVyYW50IHRvIGFsY29ob2w/IiwibGsiOiJHakIzYUhrZ2FHRjJaU0JwSUhOMVpHUmxibXg1SUdKbFkyOXRaU0JwYm5SdmJHVnlZVzUwSUhSdklHRnNZMjlvYjJ3IiwiYnMiOiJjNDJQc1FyQ01CQ0djYzNrR0FycVBZTFd6YVdEWFRxNTJUa21SeE9KT1dsaVF4OVNISHdMbjhKcXFRaFNjTDd2LTdpZjVXeGVhaEVnRUlpR2pJSm9nZ1pMcm9MdGJsX2tHYjlQMDBVeWl5T1FwTVlvMWxYeTdtWWxhYkpHZXFndzlENUVxajFtX0xGNVZkUVA5UFo3aUIzWnF0UXRhTkVnRk9BdlNxR3pMUnhRMGduQnVFQVdhLUg2UF9wTXhxX3JORTJXY2ZETWZ4NGJkbXUwWl84MUJhcU9pYUxOLUEwX3U4ZWc2ZVFKIiwiaWQiOiJmY196RTZCYUtTQk5PR1FuZXNQME9QajhRa18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWRsUmxhRkp2ZEhSNFpXMHdhblU1Tkc5amQyWm1Xak5UYlVkVGRtWkVhRWRZTVVSSVdFbEljVWM1ZFhoSldWZ3RZVUpEZHpabFNrRnlhVVJXV0c5eVVtdE1abVpMUlZOcU1XWXpTbkJvYUVvMVRVbE1aV1phZEhCYWR4SVhla1UyUW1GTFUwSk9UMGRSYm1WelVEQlBVR280VVdzYUlrRkdUVUZIUjNCSlgxTk5iVVZaWjBoUVNIQm1MWFpvWjNCb2MzaEtVVEJRVW5jIiwiZmN2IjoiMyIsImVpIjoiekU2QmFLU0JOT0dRbmVzUDBPUGo4UWsiLCJxYyI6IkNoWmhiR052YUc5c0lHRnVaQ0JzYjI1bklHTnZkbWxrRUFBWUFYMjBraUFfIiwicXVlc3Rpb24iOiJXaHkgaGF2ZSBJIHN1ZGRlbmx5IGJlY29tZSBpbnRvbGVyYW50IHRvIGFsY29ob2w%2FIiwibGsiOiJHakIzYUhrZ2FHRjJaU0JwSUhOMVpHUmxibXg1SUdKbFkyOXRaU0JwYm5SdmJHVnlZVzUwSUhSdklHRnNZMjlvYjJ3IiwiYnMiOiJjNDJQc1FyQ01CQ0djYzNrR0FycVBZTFd6YVdEWFRxNTJUa21SeE9KT1dsaVF4OVNISHdMbjhKcXFRaFNjTDd2LTdpZjVXeGVhaEVnRUlpR2pJSm9nZ1pMcm9MdGJsX2tHYjlQMDBVeWl5T1FwTVlvMWxYeTdtWWxhYkpHZXFndzlENUVxajFtX0xGNVZkUVA5UFo3aUIzWnF0UXRhTkVnRk9BdlNxR3pMUnhRMGduQnVFQVdhLUg2UF9wTXhxX3JORTJXY2ZETWZ4NGJkbXUwWl84MUJhcU9pYUxOLUEwX3U4ZWc2ZVFKIiwiaWQiOiJmY196RTZCYUtTQk5PR1FuZXNQME9QajhRa18xIn0%3D"
+    },
+    {
+      "question": "What helps long covid go away?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWRsUmxhRkp2ZEhSNFpXMHdhblU1Tkc5amQyWm1Xak5UYlVkVGRtWkVhRWRZTVVSSVdFbEljVWM1ZFhoSldWZ3RZVUpEZHpabFNrRnlhVVJXV0c5eVVtdE1abVpMUlZOcU1XWXpTbkJvYUVvMVRVbE1aV1phZEhCYWR4SVhla1UyUW1GTFUwSk9UMGRSYm1WelVEQlBVR280VVdzYUlrRkdUVUZIUjNCSlgxTk5iVVZaWjBoUVNIQm1MWFpvWjNCb2MzaEtVVEJRVW5jIiwiZmN2IjoiMyIsImVpIjoiekU2QmFLU0JOT0dRbmVzUDBPUGo4UWsiLCJxYyI6IkNoWmhiR052YUc5c0lHRnVaQ0JzYjI1bklHTnZkbWxrRUFBWUFYMjBraUFfIiwicXVlc3Rpb24iOiJXaGF0IGhlbHBzIGxvbmcgY292aWQgZ28gYXdheT8iLCJsayI6IkdoMTNhR0YwSUdobGJIQnpJR3h2Ym1jZ1kyOTJhV1FnWjI4Z1lYZGhlUSIsImJzIjoiYzQyUHNRckNNQkNHY2Mza0dBcnFQWUxXemFXRFhUcTUyVGttUnhPSk9XbGlReDlTSEh3TG44SnFxUWhTY0w3di03aWY1V3hlYWhFZ0VJaUdqSUpvZ2daTHJvTHRibF9rR2I5UDAwVXlpeU9RcE1ZbzFsWHk3bVlsYWJKR2VxZ3c5RDVFcWoxbV9MRjVWZFFQOVBaN2lCM1pxdFF0YU5FZ0ZPQXZTcUd6TFJ4UTBnbkJ1RUFXYS1INlBfcE14cV9yTkUyV2NmRE1meDRiZG11MFpfODFCYXFPaWFMTi1BMF91OGVnNmVRSiIsImlkIjoiZmNfekU2QmFLU0JOT0dRbmVzUDBPUGo4UWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWRsUmxhRkp2ZEhSNFpXMHdhblU1Tkc5amQyWm1Xak5UYlVkVGRtWkVhRWRZTVVSSVdFbEljVWM1ZFhoSldWZ3RZVUpEZHpabFNrRnlhVVJXV0c5eVVtdE1abVpMUlZOcU1XWXpTbkJvYUVvMVRVbE1aV1phZEhCYWR4SVhla1UyUW1GTFUwSk9UMGRSYm1WelVEQlBVR280VVdzYUlrRkdUVUZIUjNCSlgxTk5iVVZaWjBoUVNIQm1MWFpvWjNCb2MzaEtVVEJRVW5jIiwiZmN2IjoiMyIsImVpIjoiekU2QmFLU0JOT0dRbmVzUDBPUGo4UWsiLCJxYyI6IkNoWmhiR052YUc5c0lHRnVaQ0JzYjI1bklHTnZkbWxrRUFBWUFYMjBraUFfIiwicXVlc3Rpb24iOiJXaGF0IGhlbHBzIGxvbmcgY292aWQgZ28gYXdheT8iLCJsayI6IkdoMTNhR0YwSUdobGJIQnpJR3h2Ym1jZ1kyOTJhV1FnWjI4Z1lYZGhlUSIsImJzIjoiYzQyUHNRckNNQkNHY2Mza0dBcnFQWUxXemFXRFhUcTUyVGttUnhPSk9XbGlReDlTSEh3TG44SnFxUWhTY0w3di03aWY1V3hlYWhFZ0VJaUdqSUpvZ2daTHJvTHRibF9rR2I5UDAwVXlpeU9RcE1ZbzFsWHk3bVlsYWJKR2VxZ3c5RDVFcWoxbV9MRjVWZFFQOVBaN2lCM1pxdFF0YU5FZ0ZPQXZTcUd6TFJ4UTBnbkJ1RUFXYS1INlBfcE14cV9yTkUyV2NmRE1meDRiZG11MFpfODFCYXFPaWFMTi1BMF91OGVnNmVRSiIsImlkIjoiZmNfekU2QmFLU0JOT0dRbmVzUDBPUGo4UWtfMSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "RmQWJHicxZTbcvI2EMdv-yL1TRowEIPJjKezEgaMMY44hMANY4wRBxsF28GYq6_v0qfq01Q-QCAlM-20M5UHWbK0q792f-xvv7vr3faPn36swvA9eC4WoygqUMao6xRs5hWtIN7ZxSVzA99e_Upd5SMQVq7i7IT4oFQEO1BEwVkrJ7WKLH2AemaL7JzgRTRfNjLZCqm5MptbgbPh3o-boDgr8m77c6XBJ4Wg4OwKc2caVeO2JtcmhbJYkgtm0fL4BviXjd75hvhPxwDkdqN6z55oaQ_bm49nRzSx0WAFDADTGwf8EPXsmXgwm300rg7Ml3Aywp9GGHCEgbY0UFX6ReDnjOSm2e3w1yvezNO95uW0b1rz2kYH1IBGlM8yWy1xRLExalxUYAJyYwP942B012eHqEaM6hBgdHcdwXqPOyGZcF3FBeW5Fotzn79KRT9IMo-HdZE1OzMYqtrkNO7g97VkNxuPobtfsbfuEX5JmbKDC1TBNVTTx-nAHkMsDexCt4BKZ6IoSgIxyDKAaKoEA9Kg_214shDkMaJXPVxlMnmQzfK4kQOfb8_LLwwhn2r0OqHbPArcUysd8JHWBTWN1grWic9R4hWle2gCosoZw0hDmkGzs4mR4ZymCMBBjxBxZDWMMoG9LOsZUTyBF83aWQZL1SYd_6-9wYZvWTPoItEGgjL1OHmp6HxRndubGkoPJoC5mQyEyJkfQiF5CLqOkg4TgAjG2azFrwWYf4HxLVGpmvuw3DT27Qon6a8ItX3QS-L89XX7MnXsJa6F-wneHCqnJ4vmCDFv_g8Kk_3_QJZ40DGG_jVk9D5kt2Urh4ycIaNJMpOytU_Kxw1k6ALZSrPTstW-gky9QDbS8CdkN2WLYnLWnIv4e5AlUi-QkSvI8LeQZWXrAtm0Aacoh8zMISNfIftvy1bKmpO9bmvYx4Z-BVGNQiS1e_XRm7XtPQ7L2s6J23rcG26GvJYtvfD53WccyfXiGZU7YbwQ9orl2mzF3Adrt3hw2Y4-2OywXgie6zNFtGrj5sw_1l7Xp1JNKlXVD8nsnFSjariI7Y0qJr6DQqN-UHVyOEjxAXlmuY2OUX-wGsvHkuet2yHTRuZsOR6brNKRQjwGI-hrFesUxnVDWlqBaao8U77tnwxqqrVTvBx4r_LckLpBLRo0R3r1iaD2nqaaAqVptFYTXqhVjQiebys81U9b6PGkCYFtzZzgoDxJoiyXJGtRq8qiPZcFj4bxu1Ku_wnNRXtT",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RmQWJHicxZTbcvI2EMdv-yL1TRowEIPJjKezEgaMMY44hMANY4wRBxsF28GYq6_v0qfq01Q-QCAlM-20M5UHWbK0q792f-xvv7vr3faPn36swvA9eC4WoygqUMao6xRs5hWtIN7ZxSVzA99e_Upd5SMQVq7i7IT4oFQEO1BEwVkrJ7WKLH2AemaL7JzgRTRfNjLZCqm5MptbgbPh3o-boDgr8m77c6XBJ4Wg4OwKc2caVeO2JtcmhbJYkgtm0fL4BviXjd75hvhPxwDkdqN6z55oaQ_bm49nRzSx0WAFDADTGwf8EPXsmXgwm300rg7Ml3Aywp9GGHCEgbY0UFX6ReDnjOSm2e3w1yvezNO95uW0b1rz2kYH1IBGlM8yWy1xRLExalxUYAJyYwP942B012eHqEaM6hBgdHcdwXqPOyGZcF3FBeW5Fotzn79KRT9IMo-HdZE1OzMYqtrkNO7g97VkNxuPobtfsbfuEX5JmbKDC1TBNVTTx-nAHkMsDexCt4BKZ6IoSgIxyDKAaKoEA9Kg_214shDkMaJXPVxlMnmQzfK4kQOfb8_LLwwhn2r0OqHbPArcUysd8JHWBTWN1grWic9R4hWle2gCosoZw0hDmkGzs4mR4ZymCMBBjxBxZDWMMoG9LOsZUTyBF83aWQZL1SYd_6-9wYZvWTPoItEGgjL1OHmp6HxRndubGkoPJoC5mQyEyJkfQiF5CLqOkg4TgAjG2azFrwWYf4HxLVGpmvuw3DT27Qon6a8ItX3QS-L89XX7MnXsJa6F-wneHCqnJ4vmCDFv_g8Kk_3_QJZ40DGG_jVk9D5kt2Urh4ycIaNJMpOytU_Kxw1k6ALZSrPTstW-gky9QDbS8CdkN2WLYnLWnIv4e5AlUi-QkSvI8LeQZWXrAtm0Aacoh8zMISNfIftvy1bKmpO9bmvYx4Z-BVGNQiS1e_XRm7XtPQ7L2s6J23rcG26GvJYtvfD53WccyfXiGZU7YbwQ9orl2mzF3Adrt3hw2Y4-2OywXgie6zNFtGrj5sw_1l7Xp1JNKlXVD8nsnFSjariI7Y0qJr6DQqN-UHVyOEjxAXlmuY2OUX-wGsvHkuet2yHTRuZsOR6brNKRQjwGI-hrFesUxnVDWlqBaao8U77tnwxqqrVTvBx4r_LckLpBLRo0R3r1iaD2nqaaAqVptFYTXqhVjQiebys81U9b6PGkCYFtzZzgoDxJoiyXJGtRq8qiPZcFj4bxu1Ku_wnNRXtT"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "New Alcohol Sensitivity in Patients With Post-acute ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10823305/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC10823305/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECBYQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC10823305",
+      "author": "by EF Eastin",
+      "snippet": "New-onset alcohol reactions and sensitivity can occur after COVID-19 infection in patients with PASC.",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "COVID"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "CDC studies on Long COVID cognitive impairment and ...",
+      "link": "https://www.ama-assn.org/delivering-care/public-health/cdc-studies-long-covid-cognitive-impairment-and-excessive-alcohol-use",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ama-assn.org/delivering-care/public-health/cdc-studies-long-covid-cognitive-impairment-and-excessive-alcohol-use&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECBoQAQ",
+      "displayed_link": "https://www.ama-assn.org › public-health › cdc-studies-...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede757296ecc724775d75a174b26145988d.png",
+      "date": "Mar 4, 2024",
+      "snippet": "CDC studies on Long COVID cognitive impairment and excessive alcohol use, plus ultra-processed foods. Mar 4, 2024 | 12 Min Read. Subscribe.",
+      "snippet_highlighted_words": [
+        "CDC studies on Long COVID cognitive impairment and excessive alcohol use"
+      ],
+      "source": "American Medical Association"
+    },
+    {
+      "position": 3,
+      "title": "Can You Develop Alcohol Intolerance After COVID-19?",
+      "link": "https://www.healthline.com/health/alcohol/alcohol-intolerance-after-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/health/alcohol/alcohol-intolerance-after-covid&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJcBEAE",
+      "displayed_link": "https://www.healthline.com › health › alcohol-intoleran...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edeb73670d90c5de667cfc6b39109b0311b.png",
+      "date": "Dec 15, 2023",
+      "snippet": "Several anecdotal reports suggest that alcohol intolerance may be linked to long COVID, specifically the post-viral fatigue syndrome (PVFS) type.",
+      "snippet_highlighted_words": [
+        "alcohol intolerance may be linked to long COVID"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Is COVID-19 the cause?",
+            "link": "https://www.healthline.com/health/alcohol/alcohol-intolerance-after-covid#is-covid-19-the-cause"
+          },
+          {
+            "title": "Symptoms",
+            "link": "https://www.healthline.com/health/alcohol/alcohol-intolerance-after-covid#symptoms"
+          },
+          {
+            "title": "Cause of alcohol intolerance",
+            "link": "https://www.healthline.com/health/alcohol/alcohol-intolerance-after-covid#cause-of-alcohol-intolerance"
+          }
+        ]
+      },
+      "source": "Healthline"
+    },
+    {
+      "position": 4,
+      "title": "Sleep and Alcohol Use Among Veterans Living With Long ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11025314/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC11025314/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECFMQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC11025314",
+      "author": "by RL Bachrach",
+      "snippet": "Patients reported that, overall, their drinking behavior was not impacted by long COVID symptoms; many were not regular drinkers before COVID ...",
+      "snippet_highlighted_words": [
+        "drinking",
+        "long COVID",
+        "COVID"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "Alcohol Intolerance: ME/CFS and Long Covid Survey Results",
+      "link": "https://meassociation.org.uk/2024/01/alcohol-intolerance-me-cfs-and-long-covid-survey-results/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://meassociation.org.uk/2024/01/alcohol-intolerance-me-cfs-and-long-covid-survey-results/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCLYBEAE",
+      "displayed_link": "https://meassociation.org.uk › News",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede58020980e7854496c1580bac5f0f064f.png",
+      "date": "Jan 11, 2024",
+      "snippet": "We added a survey to the website to ask about your experiences with alcohol and how it might have affected your ME/CFS and/or Long Covid.",
+      "snippet_highlighted_words": [
+        "how it might have affected your ME/CFS and/or Long Covid"
+      ],
+      "source": "The ME Association"
+    },
+    {
+      "position": 6,
+      "title": "Long-term effects of COVID-19 (long COVID)",
+      "link": "https://www.nhs.uk/conditions/covid-19/long-term-effects-of-covid-19-long-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhs.uk/conditions/covid-19/long-term-effects-of-covid-19-long-covid/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCK4CEAE",
+      "displayed_link": "https://www.nhs.uk › Conditions A to Z › COVID-19",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ededf570eca958ec8d24e14351dd6010a88.png",
+      "snippet": "If long COVID is causing tiredness or fatigue, there may be things you can do to help, such as avoiding drinking too much alcohol and sticking to the same sleep ...",
+      "snippet_highlighted_words": [
+        "avoiding drinking too much alcohol"
+      ],
+      "source": "nhs.uk"
+    },
+    {
+      "position": 7,
+      "title": "Alcohol Sensitivity Could Be a Long COVID Symptom ...",
+      "link": "https://www.winespectator.com/articles/alcohol-sensitivity-and-long-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.winespectator.com/articles/alcohol-sensitivity-and-long-covid&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJMCEAE",
+      "displayed_link": "https://www.winespectator.com › articles › alcohol-sensi...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede16395f0eeca291d8386761f2ebd3116f.png",
+      "date": "Mar 27, 2024",
+      "snippet": "A Stanford report links long COVID to alcohol sensitivity, including headaches and worse hangovers, but the reasons remain unclear.",
+      "snippet_highlighted_words": [
+        "links long COVID to alcohol sensitivity"
+      ],
+      "source": "Wine Spectator"
+    },
+    {
+      "position": 8,
+      "title": "Experts say long COVID could lead to alcohol intolerance",
+      "link": "https://www.kare11.com/article/news/local/kare11-sunrise/why-long-covid-may-be-a-buzzkill-new-research-shows-some-cant-enjoy-alcohol/89-efc37d99-0340-493b-92ef-38dbfaae5eb7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kare11.com/article/news/local/kare11-sunrise/why-long-covid-may-be-a-buzzkill-new-research-shows-some-cant-enjoy-alcohol/89-efc37d99-0340-493b-92ef-38dbfaae5eb7&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECDIQAQ",
+      "displayed_link": "https://www.kare11.com › news › local › kare11-sunrise",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede3189bf9daf76ddbcb753eb69b8c095d3.png",
+      "date": "Feb 12, 2024",
+      "snippet": "Long after getting infected with coronavirus, some people are having new reactions to alcohol, according to a recent study.",
+      "snippet_highlighted_words": [
+        "some people are having new reactions to alcohol"
+      ],
+      "source": "kare11.com"
+    },
+    {
+      "position": 9,
+      "title": "Long COVID may increase alcohol sensitivity, Stanford ...",
+      "link": "https://www.usatoday.com/story/news/health/2024/03/06/long-covid-alcohol-intolerance-hangovers-stanford-study/72865146007/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usatoday.com/story/news/health/2024/03/06/long-covid-alcohol-intolerance-hangovers-stanford-study/72865146007/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECG8QAQ",
+      "displayed_link": "https://www.usatoday.com › news › health › 2024/03/06",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede0a1660ccbc39e182346250b05eadad93.png",
+      "date": "Mar 6, 2024",
+      "snippet": "Long COVID may be to blame for the worsening headaches, nausea, fatigue and sweats that accompany hangovers, a study shows.",
+      "snippet_highlighted_words": [
+        "Long COVID"
+      ],
+      "source": "USA Today"
+    },
+    {
+      "position": 10,
+      "title": "Alcohol and COVID-19: what you need to know",
+      "link": "https://www.who.int/docs/librariesprovider2/default-document-library/alcohol-and-covid-19-what-you-need-to-know.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.who.int/docs/librariesprovider2/default-document-library/alcohol-and-covid-19-what-you-need-to-know.pdf&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJgCEAE",
+      "displayed_link": "https://www.who.int › default-document-library",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede6afdc5ecb65d93bbdfcab1efd39643e8.png",
+      "snippet": "Consuming alcohol destroys the virus that causes COVID-19. Consuming alcohol will not destroy the virus, and its consumption is likely to increase the health ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "COVID",
+        "alcohol"
+      ],
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 11,
+      "title": "Alcohol Intolerance: ME/CFS and Long Covid",
+      "link": "https://meassociation.org.uk/2023/12/me-association-website-survey-alcohol-intolerance-me-cfs-and-long-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://meassociation.org.uk/2023/12/me-association-website-survey-alcohol-intolerance-me-cfs-and-long-covid/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCMQBEAE",
+      "displayed_link": "https://meassociation.org.uk › News",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede206bb87d478b4450e8f928d003cfc895.png",
+      "date": "Dec 4, 2023",
+      "snippet": "In ME/CFS and Long Covid we know that alcohol intolerance can be an issue for some people, that it is regarded as an additional diagnostic ...",
+      "snippet_highlighted_words": [
+        "alcohol intolerance can be an issue for some people"
+      ],
+      "source": "The ME Association"
+    },
+    {
+      "position": 12,
+      "title": "Why long COVID may be a buzzkill: New research shows ...",
+      "link": "https://www.youtube.com/watch?v=VeTgF3bWFqM",
+      "displayed_link": "1.6K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeVFcSaJ7DStptxAnjkZ_Pwa7u3GJ90Zg0LyNQ4K59Grt1&s",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484eded063b576aeadfca92cc547b5f5777a1a.png",
+      "snippet": "Why long COVID may be a buzzkill: New research shows some can't enjoy alcohol. 1.5K views 1 year ago",
+      "duration": "2:36",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ5LFpnzmi1vtsweVbb-nPWvQYOW5ZcDy-Caw",
+      "source": "YouTube · KARE 11"
+    },
+    {
+      "position": 13,
+      "title": "Long COVID linked to alcohol sensitivity and debilitating ...",
+      "link": "https://www.earth.com/news/long-covid-linked-to-alcohol-sensitivity-and-debilitating-hangovers/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.earth.com/news/long-covid-linked-to-alcohol-sensitivity-and-debilitating-hangovers/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECHkQAQ",
+      "displayed_link": "https://www.earth.com › News › Lifestyle News",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edeb4efa8dfa5e73442b5a22760c2aedfa4.png",
+      "date": "Mar 5, 2024",
+      "snippet": "Recent research has found that some individuals diagnosed with long COVID might face unusually severe aftereffects from drinking alcohol.",
+      "snippet_highlighted_words": [
+        "unusually severe aftereffects from drinking alcohol"
+      ],
+      "source": "Earth.com"
+    },
+    {
+      "position": 14,
+      "title": "Alcohol use disorder: A pre-existing condition for COVID-19?",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0741832920302913",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S0741832920302913&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJYCEAE",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede4a0243d5a15b2b92cce607a288508a8e.png",
+      "author": "by KL Bailey",
+      "snippet": "Chronic alcohol misuse is attributed to lung dysfunction. Alcohol-induced impairment of innate lung defense could worsen COVID 19 infection and severity.",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "Alcohol",
+        "COVID"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 15,
+      "title": "Long Covid and Alcohol : r/LongCovid",
+      "link": "https://www.reddit.com/r/LongCovid/comments/1cjx5sv/long_covid_and_alcohol/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/LongCovid/comments/1cjx5sv/long_covid_and_alcohol/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCLQCEAE",
+      "displayed_link": "50+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edec2a859bd69369c560c5d96aa7ac9225c.png",
+      "snippet": "Alcohol intolerance with Long COVID is likely due to MCAS. Many people with Long COVID have MCAS. Alcohol triggers the mast cells. If you have ...",
+      "snippet_highlighted_words": [
+        "Alcohol intolerance with Long COVID is likely due to MCAS"
+      ],
+      "source": "Reddit · r/LongCovid"
+    },
+    {
+      "position": 16,
+      "title": "COVID-19-Related Neuropsychiatric Symptoms in Patients ...",
+      "link": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2021.630566/full",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2021.630566/full&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCLABEAE",
+      "displayed_link": "https://www.frontiersin.org › fneur.2021.630566 › full",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edec3ed0803727d8810d1037446c45359f4.png",
+      "author": "by C Varela Rodríguez",
+      "snippet": "The most relevant results of our study indicate that patients with COVID-19 infection and alcohol abuse had more complications as suggested by ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "alcohol"
+      ],
+      "source": "Frontiers"
+    },
+    {
+      "position": 17,
+      "title": "Long COVID & Alcohol: Surprising Links | Reframe",
+      "link": "https://www.joinreframeapp.com/blog-post/how-does-long-covid-affect-alcohol-intolerance-and-hangovers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.joinreframeapp.com/blog-post/how-does-long-covid-affect-alcohol-intolerance-and-hangovers&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCMsBEAE",
+      "displayed_link": "https://www.joinreframeapp.com › Blog › Quit Drinking",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edec644d31f1681da59edf64af64ebcc9e4.png",
+      "date": "Apr 17, 2024",
+      "snippet": "Drinking alcohol with long COVID symptoms is not recommended; it can exacerbate symptoms and prolong recovery. 5. Can I drink alcohol if I had ...",
+      "snippet_highlighted_words": [
+        "Drinking alcohol with long COVID symptoms is not recommended"
+      ],
+      "source": "joinreframeapp.com"
+    },
+    {
+      "position": 18,
+      "title": "Drinking Alcohol with COVID-19: Tips for Use, Safety, Risks",
+      "link": "https://www.healthline.com/health/drinking-alcohol-with-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/health/drinking-alcohol-with-covid&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECFIQAQ",
+      "displayed_link": "https://www.healthline.com › health › drinking-alcohol-...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede28b06e87567be3da5398fa394c64becb.png",
+      "date": "Sep 26, 2023",
+      "snippet": "Drinking alcohol may worsen the symptoms of COVID-19 and long COVID. It's a good idea to avoid alcohol if you're currently ill with COVID.",
+      "snippet_highlighted_words": [
+        "Drinking alcohol may worsen the symptoms of COVID-19 and long COVID"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 19,
+      "title": "Long COVID could worsen hangover symptoms: Study ...",
+      "link": "https://www.youtube.com/watch?v=NfbCe-mHvtY",
+      "displayed_link": "920+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3bJdxsmvx-SXO_0k4wjpPub47tchqJ1cNjZMNodOKko9&s",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede609684e6528f03777b0468660b85d6e3.png",
+      "snippet": "A research out of Stanford University shows there's a possible link between increased alcohol sensitivity and the SARS to covid infection.",
+      "duration": "4:36",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSvT0XZxHSaC-_vaaqe3tDDVS8cATusZNpJNA",
+      "source": "YouTube · NewsNation"
+    },
+    {
+      "position": 20,
+      "title": "Three quarters of long Covid patients consuming ...",
+      "link": "https://www.thejournal.ie/long-covid-alcohol-ptsd-anxiety-depression-5783805-Jun2022/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thejournal.ie/long-covid-alcohol-ptsd-anxiety-depression-5783805-Jun2022/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECHoQAQ",
+      "displayed_link": "https://www.thejournal.ie › long-covid-alcohol-ptsd-an...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede7097a0e755bde6edfb0b7e067f5ec675.png",
+      "date": "Jun 5, 2022",
+      "snippet": "Nearly three quarters of people with long Covid were consuming concerning levels of alcohol one year after they caught the virus, according to new research.",
+      "snippet_highlighted_words": [
+        "Nearly three quarters of people with long Covid were consuming concerning levels of alcohol"
+      ],
+      "source": "The Journal"
+    },
+    {
+      "position": 21,
+      "title": "Can COVID alter the way our bodies can handle alcohol?",
+      "link": "https://www.reddit.com/r/covidlonghaulers/comments/1env7m4/can_covid_alter_the_way_our_bodies_can_handle/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/covidlonghaulers/comments/1env7m4/can_covid_alter_the_way_our_bodies_can_handle/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJMBEAE",
+      "displayed_link": "30+ comments · 11 months ago",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edef514684cfede0f520990e17ac6702d34.png",
+      "snippet": "Alcohol definitely doesn't help long COVID. Maybe helps you forget about it for an hour, then makes it worse the next day.",
+      "snippet_highlighted_words": [
+        "Alcohol definitely doesn't help long COVID"
+      ],
+      "source": "Reddit · r/covidlonghaulers"
+    },
+    {
+      "position": 22,
+      "title": "Long COVID (Post-COVID Conditions, PCC)",
+      "link": "https://www.yalemedicine.org/conditions/long-covid-post-covid-conditions-pcc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yalemedicine.org/conditions/long-covid-post-covid-conditions-pcc&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCMoBEAE",
+      "displayed_link": "https://www.yalemedicine.org › conditions › long-covi...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edec9179b898d0fc515fc5703128b99474b.png",
+      "snippet": "Long COVID refers to new or recurring symptoms that occur four or more weeks after an infection with SARS-CoV-2, the virus that causes COVID-19.",
+      "snippet_highlighted_words": [
+        "Long COVID",
+        "COVID"
+      ],
+      "source": "Yale Medicine"
+    },
+    {
+      "position": 23,
+      "title": "Persistent COVID Symptoms, Weight Gain, Alcohol Use ...",
+      "link": "https://www.natap.org/2021/AASLD/AASLD_36.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.natap.org/2021/AASLD/AASLD_36.htm&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCMkBEAE",
+      "displayed_link": "https://www.natap.org › AASLD › AASLD_36",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede0d8978b1dffad6828adf469a9bf6cdb4.png",
+      "snippet": "Persistent COVID Symptoms, Weight Gain, Alcohol Use With Long COVID and Chronic Liver Disease ... long COVID symptoms in 25% and unhealthy alcohol use and diet.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Alcohol",
+        "Long COVID",
+        "long COVID",
+        "alcohol"
+      ],
+      "source": "NATAP"
+    },
+    {
+      "position": 24,
+      "title": "My body can't tolerate alcohol anymore after COVID. I'm not ...",
+      "link": "https://www.sfchronicle.com/opinion/article/long-covid-drink-alcohol-18889985.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sfchronicle.com/opinion/article/long-covid-drink-alcohol-18889985.php&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCP0BEAE",
+      "displayed_link": "https://www.sfchronicle.com › Opinion",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede0db8d6875072bf5ce5914ca4a0969b70.png",
+      "date": "Mar 14, 2024",
+      "snippet": "One theory in the study is that changes in the gut microbiome after infection could affect the absorption of alcohol. Another theory Bonilla has ...",
+      "snippet_highlighted_words": [
+        "alcohol"
+      ],
+      "source": "San Francisco Chronicle"
+    },
+    {
+      "position": 25,
+      "title": "COVID Alcohol Intolerance: Causes and Management",
+      "link": "https://www.getlabtest.com/news/post/covid-alcohol-intolerance-management",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.getlabtest.com/news/post/covid-alcohol-intolerance-management&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCN0BEAE",
+      "displayed_link": "https://www.getlabtest.com › news › post › covid-alcohol...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede98d52b6a5e64beaa69c6f5c9995fa241.png",
+      "snippet": "Alcohol can potentially worsen existing long COVID symptoms such as fatigue, brain fog, and respiratory issues. The inflammatory nature of alcohol may ...",
+      "snippet_highlighted_words": [
+        "Alcohol can potentially worsen existing long COVID symptoms"
+      ],
+      "source": "GetLabTest.com"
+    },
+    {
+      "position": 26,
+      "title": "CDC studies on Long COVID cognitive impairment and ...",
+      "link": "https://www.youtube.com/watch?v=QLfAKfvxnRw",
+      "displayed_link": "2.7K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpvqXbwWJ4-Im1kjNeFmDmRsHD2iEdumlQIE8yprQ4El0&s",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede1f4df27cbbe5dc0cfa84ddbcb9fbafc9.png",
+      "snippet": "CDC studies on Long COVID cognitive impairment and excessive alcohol use, plus ultra-processed foods · Comments.",
+      "duration": "14:00",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSnZxqNVF-ep01egBkfAazM3P0eWjwXnS1zuw",
+      "source": "YouTube · American Medical Association (AMA)"
+    },
+    {
+      "position": 27,
+      "title": "Could a glass of wine diagnose long COVID?",
+      "link": "https://kevinmd.com/2021/03/could-a-glass-of-wine-diagnose-long-covid.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kevinmd.com/2021/03/could-a-glass-of-wine-diagnose-long-covid.html&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECDsQAQ",
+      "displayed_link": "https://kevinmd.com › 2021/03 › could-a-glass-of-wine...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede210f2702b50fbd0630a8fe397226ef49.png",
+      "date": "Mar 12, 2021",
+      "snippet": "The inability to tolerate a glass of wine or a bottle of beer could be an important clue to their true diagnosis.",
+      "snippet_highlighted_words": [
+        "The inability to tolerate a glass of wine"
+      ],
+      "source": "KevinMD.com"
+    },
+    {
+      "position": 28,
+      "title": "Association of Recent SARS-CoV-2 Infection With New ...",
+      "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801191",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801191&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECEcQAQ",
+      "displayed_link": "https://jamanetwork.com › JAMA Network Open",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede0417c2a4dae04f056e04199193cbd08d.png",
+      "author": "by VR Olaker",
+      "snippet": "The results of this study suggest that the risk of a new diagnosis of AUD after a COVID-19 diagnosis may not be a consequence of the infection itself.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "JAMA"
+    },
+    {
+      "position": 29,
+      "title": "Arlette on X: \"People with Long Covid often report alcohol ...",
+      "link": "https://x.com/ArlettePoolen/status/1873661863143350741",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/ArlettePoolen/status/1873661863143350741&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJoCEAE",
+      "displayed_link": "6 likes · 6 months ago",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede90f564f4806aea003e226004bfd9adbc.png",
+      "snippet": "People with Long Covid often report alcohol intolerance. Especially red wine can cause troubles for people with histamine issues.",
+      "snippet_highlighted_words": [
+        "People with Long Covid often report alcohol intolerance"
+      ],
+      "source": "X · ArlettePoolen"
+    },
+    {
+      "position": 30,
+      "title": "Trends in Alcohol Use After the COVID-19 Pandemic",
+      "link": "https://www.acpjournals.org/doi/10.7326/ANNALS-24-02157",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.acpjournals.org/doi/10.7326/ANNALS-24-02157&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCKwCEAE",
+      "displayed_link": "https://www.acpjournals.org › doi › ANNALS-24-02157",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede5fd14d755c8fffc1d173b2bb03dc425e.png",
+      "author": "by D Ayyala-Somayajula",
+      "snippet": "The COVID-19 pandemic was associated with increases in stress-related drinking and alcohol-related deaths (1–3). Analyses of whether increased alcohol use has ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "drinking",
+        "alcohol",
+        "alcohol"
+      ],
+      "source": "ACP Journals"
+    },
+    {
+      "position": 31,
+      "title": "Long COVID",
+      "link": "https://info.health.nz/conditions-treatments/infectious-diseases/covid-19/long-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://info.health.nz/conditions-treatments/infectious-diseases/covid-19/long-covid&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCLACEAE",
+      "displayed_link": "https://info.health.nz › infectious-diseases › covid-19",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edecc76bbac24123472edb366989298d441.png",
+      "date": "Feb 27, 2025",
+      "snippet": "Long COVID is when the effects of COVID-19 last longer than 12 weeks ... Alcohol · Being physically active · Caffeine · Cancer screening · Eating ...",
+      "snippet_highlighted_words": [
+        "Long COVID",
+        "COVID",
+        "longer",
+        "Alcohol"
+      ],
+      "source": "Health Information and Services"
+    },
+    {
+      "position": 32,
+      "title": "Chronic alcohol consumption and COVID‐19 infection risk ...",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/acer.15041",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://onlinelibrary.wiley.com/doi/10.1111/acer.15041&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECDoQAQ",
+      "displayed_link": "https://onlinelibrary.wiley.com › doi › acer",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede3c3aaa843d2f4bcf8ee1b2f72ef704f7.png",
+      "author": "by MM Friske",
+      "snippet": "Some studies provide evidence that chronic alcohol consumption and AUD increase the risk of COVID-19 infection and severe disease progression.",
+      "snippet_highlighted_words": [
+        "chronic alcohol consumption and AUD increase the risk of COVID-19 infection"
+      ],
+      "source": "Wiley Online Library"
+    },
+    {
+      "position": 33,
+      "title": "Lifestyle influences long COVID risk",
+      "link": "https://news.harvard.edu/gazette/story/2023/02/healthy-lifestyle-may-cut-womens-risk-of-long-covid-by-49-percent/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.harvard.edu/gazette/story/2023/02/healthy-lifestyle-may-cut-womens-risk-of-long-covid-by-49-percent/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECD0QAQ",
+      "displayed_link": "https://news.harvard.edu › gazette › story › 2023/02",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede1223a72661bbda7338ecde244d073bc3.png",
+      "date": "Feb 6, 2023",
+      "snippet": "... alcohol consumption, had about half the risk of long COVID compared with women without any healthy lifestyle factors, according to a study ...",
+      "snippet_highlighted_words": [
+        "alcohol consumption, had about half the risk of long COVID"
+      ],
+      "source": "Harvard Gazette"
+    },
+    {
+      "position": 34,
+      "title": "Long Covid: symptoms, tests and treatment",
+      "link": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/coronavirus-and-your-health/long-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/coronavirus-and-your-health/long-covid&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECFAQAQ",
+      "displayed_link": "https://www.bhf.org.uk › coronavirus-and-your-health",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede719f2ab60afe5be6ba84f430d20633dd.png",
+      "date": "Dec 16, 2024",
+      "snippet": "reducing your alcohol intake; getting enough sleep. Socialising, learning something new or practising mindfulness can also all stimulate the ...",
+      "snippet_highlighted_words": [
+        "reducing your alcohol intake"
+      ],
+      "source": "British Heart Foundation"
+    },
+    {
+      "position": 35,
+      "title": "Scientists Studied Long COVID's Effect on Hangovers",
+      "link": "https://www.insidehook.com/drinks/study-long-covid-hangovers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.insidehook.com/drinks/study-long-covid-hangovers&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECGcQAQ",
+      "displayed_link": "https://www.insidehook.com › Drinks",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edede1fdfedf9ac73e7eb4550ac0d0fee22.png",
+      "date": "Mar 9, 2024",
+      "snippet": "The study, published in the journal Cureus, shows evidence that long COVID can increase sensitivity to alcohol and can make existing symptoms of long COVID ...",
+      "snippet_highlighted_words": [
+        "long COVID can increase sensitivity to alcohol"
+      ],
+      "source": "InsideHook"
+    },
+    {
+      "position": 36,
+      "title": "Changes in alcohol consumption during the COVID-19 ...",
+      "link": "https://www.nature.com/articles/s41598-024-53757-y",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nature.com/articles/s41598-024-53757-y&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECFEQAQ",
+      "displayed_link": "https://www.nature.com › scientific reports › articles",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede79089cee93d4acafbdd4eef98568f300.png",
+      "author": "by PD Houston",
+      "snippet": "Heavy alcohol consumption and binge drinking have been associated with an increased risk of violence, poverty, several cardiovascular diseases, ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "drinking"
+      ],
+      "source": "Nature"
+    },
+    {
+      "position": 37,
+      "title": "Long COVID - New York State Department of Health",
+      "link": "https://www.health.ny.gov/diseases/long_covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.ny.gov/diseases/long_covid/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECGgQAQ",
+      "displayed_link": "https://www.health.ny.gov › diseases › long_covid",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede8d436838e4bdd405a39f8d47132797b7.jpeg",
+      "snippet": "To support New Yorkers with long COVID, this webpage is available in an audio format. Listen to the frequently asked questions and answers here.",
+      "snippet_highlighted_words": [
+        "long COVID"
+      ],
+      "source": "New York State Department of Health (.gov)"
+    },
+    {
+      "position": 38,
+      "title": "Long COVID Might Ruin Booze For You",
+      "link": "https://www.buzzfeednews.com/article/katiecamero/alcohol-intolerance-long-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.buzzfeednews.com/article/katiecamero/alcohol-intolerance-long-covid&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECHYQAQ",
+      "displayed_link": "https://www.buzzfeednews.com › article › katiecamero",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede92ba3d84e5a90e2cb65b3e71ee9d08cb.png",
+      "date": "Jan 19, 2023",
+      "snippet": "Many people with long COVID have given up alcohol entirely “because it seems to universally not make people feel well.”",
+      "snippet_highlighted_words": [
+        "long COVID",
+        "alcohol"
+      ],
+      "source": "BuzzFeed News"
+    },
+    {
+      "position": 39,
+      "title": "Bad hangovers may be linked to long COVID, Stanford ...",
+      "link": "https://www.sfchronicle.com/health/article/bad-hangovers-linked-long-covid-stanford-study-18755369.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sfchronicle.com/health/article/bad-hangovers-linked-long-covid-stanford-study-18755369.php&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCPUBEAE",
+      "displayed_link": "https://www.sfchronicle.com › Health",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede79571e0c94a4c8854cdec60dd01ad4fc.png",
+      "date": "Mar 8, 2024",
+      "snippet": "A recent Stanford study suggests long COVID could make hangovers and other alcohol reactions more severe.",
+      "snippet_highlighted_words": [
+        "long COVID",
+        "alcohol"
+      ],
+      "source": "San Francisco Chronicle"
+    },
+    {
+      "position": 40,
+      "title": "Surprising Symptoms After COVID",
+      "link": "https://www.brgeneral.org/news-blog/2022/october/surprising-symptoms-after-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.brgeneral.org/news-blog/2022/october/surprising-symptoms-after-covid&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECHcQAQ",
+      "displayed_link": "https://www.brgeneral.org › news-blog › october › surp...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484eded6280fb02728981009ed90c638a0e399.png",
+      "date": "Oct 4, 2022",
+      "snippet": "Some people report feeling sick after just a few sips of alcohol, while others say they notice that they feel unreasonably bad the day after ...",
+      "snippet_highlighted_words": [
+        "Some people report feeling sick after just a few sips of alcohol"
+      ],
+      "source": "Baton Rouge General"
+    },
+    {
+      "position": 41,
+      "title": "Long Covid could make hangovers worse, Stanford study finds",
+      "link": "https://www.youtube.com/watch?v=LV9ou04WD4M",
+      "displayed_link": "840+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK3PdDVcUKpBuQFwyL8CfXnMl5eV47Hjfzn3A0NxOp3E2l&s",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edebe926c9b4e872a4b4c07da0f20bd59e3.png",
+      "snippet": "If you've had a really bad hangover lately, worse than ever before, a new Stanford study shows that long Covid could be to blame.",
+      "duration": "3:30",
+      "source": "YouTube · KPIX | CBS NEWS BAY AREA"
+    },
+    {
+      "position": 42,
+      "title": "Covid and Alcohol What You Need to Know",
+      "link": "https://desistal.com/covid-and-alcohol-what-you-need-to-know/?srsltid=AfmBOooADblNDBZGjvAeRX2qS_sHgZ6zjMV9CDbqySiBpYOR1y5Y9Qix",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://desistal.com/covid-and-alcohol-what-you-need-to-know/%3Fsrsltid%3DAfmBOooADblNDBZGjvAeRX2qS_sHgZ6zjMV9CDbqySiBpYOR1y5Y9Qix&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJEBEAE",
+      "displayed_link": "https://desistal.com › covid-and-alcohol-what-you-need...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edef6645642c46668050a4795b9c946a1a6.png",
+      "date": "Oct 26, 2022",
+      "snippet": "Post-Covid Alcohol Intolerance. As the number of people reporting long-term issues due to covid infection continues to rise, alcohol intolerance ...",
+      "snippet_highlighted_words": [
+        "Covid Alcohol",
+        "long",
+        "covid",
+        "alcohol"
+      ],
+      "source": "Desistal"
+    },
+    {
+      "position": 43,
+      "title": "Long COVID may increase alcohol sensitivity, Stanford ...",
+      "link": "https://oz-computer.com/long-covid-may-increase-alcohol-sensitivity-7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://oz-computer.com/long-covid-may-increase-alcohol-sensitivity-7&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJUBEAE",
+      "displayed_link": "https://oz-computer.com › Sober Living",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edee93c82629f24c7d8a6eca51df8e75494.jpeg",
+      "date": "Sep 12, 2024",
+      "snippet": "If you are a long COVID patient experiencing alcohol intolerance, you may benefit from seeking treatment at Oasis Medical Institute. Of these ...",
+      "snippet_highlighted_words": [
+        "long COVID",
+        "alcohol"
+      ],
+      "source": "oz-computer.com"
+    },
+    {
+      "position": 44,
+      "title": "People with Certain Medical Conditions and COVID-19 ...",
+      "link": "https://www.cdc.gov/covid/risk-factors/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdc.gov/covid/risk-factors/index.html&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJ8BEAE",
+      "displayed_link": "https://www.cdc.gov › covid › risk-factors",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede6d5e11bbf31b12cfbb65c5a65922445d.png",
+      "author": "by L COVID",
+      "snippet": "This includes alcohol-related liver disease, non-alcoholic fatty liver ... Long COVID · Interim Clinical Considerations · Vaccine Product ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "alcoholic",
+        "Long COVID"
+      ],
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "position": 45,
+      "title": "Alcohol Intolerance Emerges as Potential Symptom of ...",
+      "link": "https://bottleraiders.com/article/alcohol-intolerance-emerges-symptom-long-covid-recent-study/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bottleraiders.com/article/alcohol-intolerance-emerges-symptom-long-covid-recent-study/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCK8BEAE",
+      "displayed_link": "https://bottleraiders.com › Article",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edef7809762991c18f0fe9dde6d6c26403c.png",
+      "date": "Feb 15, 2024",
+      "snippet": "A recent study by Stanford doctors has identified a possible link between alcohol intolerance and long COVID.",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "long COVID"
+      ],
+      "source": "Bottle Raiders"
+    },
+    {
+      "position": 46,
+      "title": "Does Long COVID Lead To Alcohol Intolerance?",
+      "link": "https://www.addictionresource.net/blog/post-covid-alcohol-intolerance/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.addictionresource.net/blog/post-covid-alcohol-intolerance/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCMIBEAE",
+      "displayed_link": "https://www.addictionresource.net › blog › post-covid-a...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede1c57bbcb95829298b89c08bf7d69482e.png",
+      "date": "Sep 2, 2022",
+      "snippet": "With research still being conducted on the long-term effects of COVID-19, and post-acute COVID-19, it's unclear whether the virus can cause ...",
+      "snippet_highlighted_words": [
+        "long",
+        "COVID",
+        "COVID"
+      ],
+      "source": "addictionresource.net"
+    },
+    {
+      "position": 47,
+      "title": "Long covid en alcohol",
+      "link": "https://www.postcovidnl.nl/gesprek/long-covid-en-alcohol-0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.postcovidnl.nl/gesprek/long-covid-en-alcohol-0&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCMgBEAE",
+      "displayed_link": "https://www.postcovidnl.nl › gesprek",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede40e5a5be609d43f622ebcaeb7ff38951.png",
+      "snippet": "Zijn er meer mensen die het idee hebben dat ze sterker reageren op alcohol? En dan heb ik het niet over groot gebruik, maar over af en toe een glaasje wijn ...",
+      "snippet_highlighted_words": [
+        "alcohol"
+      ],
+      "source": "PostCovid NL"
+    },
+    {
+      "position": 48,
+      "title": "Treating Long Covid as Inflamation Based",
+      "link": "https://connect.mayoclinic.org/comment/1354297/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://connect.mayoclinic.org/comment/1354297/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCNYBEAE",
+      "displayed_link": "https://connect.mayoclinic.org › comment",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede000a78db788264ae4d16ae578fda26d2.png",
+      "date": "May 29, 2025",
+      "snippet": "You might want to re-write that to elucidate things (alcohol, canned foods, processed meat?!) Sorry for a relatively late response to this ...",
+      "snippet_highlighted_words": [
+        "alcohol"
+      ],
+      "source": "Mayo Clinic Connect"
+    },
+    {
+      "position": 49,
+      "title": "Long-COVID impacts taste and olfactory in individuals with ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0165178124002555",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S0165178124002555&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCPgBEAE",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edefaf128c8a2a538250c0beb35f3da6baf.png",
+      "author": "by RY Tsai",
+      "snippet": "... alcohol, on the negative outcomes of olfactory and taste dysfunction associated with COVID-19 infection. Here, we leveraged the TriNetX research network to ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "COVID"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 50,
+      "title": "How COVID-19 has changed alcohol use",
+      "link": "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/how-covid-19-has-changed-alcohol-use",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/how-covid-19-has-changed-alcohol-use&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCN4BEAE",
+      "displayed_link": "https://www.mayoclinichealthsystem.org › how-covid-1...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede899ca5257684dc49689a884ee8c3a9ae.png",
+      "date": "Oct 29, 2020",
+      "snippet": "As many restaurants and bars closed, at-home alcohol sales increased, according to data compiled by The Nielsen Company (US) LLC.",
+      "snippet_highlighted_words": [
+        "alcohol"
+      ],
+      "source": "Mayo Clinic Health System"
+    },
+    {
+      "position": 51,
+      "title": "9 Tips to Recover Faster from COVID-19 or Flu",
+      "link": "https://www.unitypoint.org/news-and-articles/9-tips-to-recover-faster-from-covid-19-or-flu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unitypoint.org/news-and-articles/9-tips-to-recover-faster-from-covid-19-or-flu&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCN8BEAE",
+      "displayed_link": "https://www.unitypoint.org › news-and-articles › 9-tips-t...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede964a5e082030e95433794e710e5081f9.png",
+      "snippet": "Skip the milk, soda, alcohol and coffee while you're recovering from an illness. ... How Long Does It Take to Recover from COVID-19 and The Flu? While you now ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "Long",
+        "COVID"
+      ],
+      "source": "UnityPoint Health"
+    },
+    {
+      "position": 52,
+      "title": "COVID-19 and Alcohol: Am I drinking too much?",
+      "link": "https://cdhf.ca/en/covid-19-and-alcohol-am-i-drinking-too-much/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cdhf.ca/en/covid-19-and-alcohol-am-i-drinking-too-much/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCOMBEAE",
+      "displayed_link": "https://cdhf.ca › Home › News & Articles",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede474ba5d0a4b71b17d463e8bf878d3af0.png",
+      "date": "Nov 29, 2022",
+      "snippet": "COVID-19 and Alcohol: Can Alcohol Affect my Immune System? ... Long Covid and Digestive Health. Immunocompromised. COVID-19 · Back to ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Alcohol",
+        "Alcohol",
+        "Long Covid",
+        "COVID"
+      ],
+      "source": "Canadian Digestive Health Foundation"
+    },
+    {
+      "position": 53,
+      "title": "Alcoholic Beverage Control | Trust - Innovation - Professionalism",
+      "link": "https://www.abc.ca.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.abc.ca.gov/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCPoBEAE",
+      "displayed_link": "https://www.abc.ca.gov",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede3bb564d217fc66a81430d7e92a6f1c04.png",
+      "snippet": "State of California.",
+      "source": "Alcoholic Beverage Control (.gov)"
+    },
+    {
+      "position": 54,
+      "title": "Naltrexone & Alcohol: Can I Drink While on Natrexone?",
+      "link": "https://americanaddictioncenters.org/alcohol/rehab-treatment/mixing-with-naltrexone",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://americanaddictioncenters.org/alcohol/rehab-treatment/mixing-with-naltrexone&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCPsBEAE",
+      "displayed_link": "https://americanaddictioncenters.org › rehab-treatment",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484eded190816158e4b04f1f07f93c376bc3aa.png",
+      "date": "May 22, 2025",
+      "snippet": "The drug comes in a pill form (Depade and the more popular version ReVia) and as an extended-release injectable form (Vivitrol). Naltrexone is ...",
+      "snippet_highlighted_words": [
+        "extended"
+      ],
+      "source": "American Addiction Centers"
+    },
+    {
+      "position": 55,
+      "title": "Alcohol and COVID-19: Facts and FAQs | Online Treatment",
+      "link": "https://riahealth.com/alcohol/health/covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://riahealth.com/alcohol/health/covid-19/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCPkBEAE",
+      "displayed_link": "https://riahealth.com › Alcohol › Alcohol and Your Health",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edebc0c4e81c317f6a51522dfb696283064.png",
+      "date": "Aug 22, 2023",
+      "snippet": "Can you drink alcohol after the COVID vaccine? ... No reliable studies have been done on this issue. Some doctors and governments recommend ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "COVID"
+      ],
+      "source": "Ria Health"
+    },
+    {
+      "position": 56,
+      "title": "Ataxia - Symptoms and causes",
+      "link": "https://www.mayoclinic.org/diseases-conditions/ataxia/symptoms-causes/syc-20355652",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mayoclinic.org/diseases-conditions/ataxia/symptoms-causes/syc-20355652&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECEYQAQ",
+      "displayed_link": "https://www.mayoclinic.org › ataxia › syc-20355652",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede5c0c8dfc99f6aba0dd3384cf4b623d40.png",
+      "date": "Jan 30, 2024",
+      "snippet": "Drinking too much alcohol over a long period. Having hypothyroidism ... Silva Andrade B, et al. Long-COVID and post-COVID health ...",
+      "snippet_highlighted_words": [
+        "Drinking",
+        "alcohol",
+        "long",
+        "Long",
+        "COVID",
+        "COVID"
+      ],
+      "source": "Mayo Clinic"
+    },
+    {
+      "position": 57,
+      "title": "Covid-19 Economic Relief | U.S. Department of the Treasury",
+      "link": "https://home.treasury.gov/policy-issues/coronavirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://home.treasury.gov/policy-issues/coronavirus&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJICEAE",
+      "displayed_link": "https://home.treasury.gov › policy-issues › coronavirus",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede0e7358f9ead06f9887ed9f15680b0074.png",
+      "snippet": "Daily Treasury Long-Term Rates · Daily Treasury Real Long-Term Rates ... Alcohol and Tobacco Tax and Trade (TTB) · Bureau of Engraving and Printing ...",
+      "snippet_highlighted_words": [
+        "Long",
+        "Long",
+        "Alcohol"
+      ],
+      "source": "U.S. Department of the Treasury (.gov)"
+    },
+    {
+      "position": 58,
+      "title": "Alcohol, already a danger, can cripple after Long Covid",
+      "link": "https://nwasianweekly.com/2024/06/alcohol-already-a-danger-can-cripple-after-long-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nwasianweekly.com/2024/06/alcohol-already-a-danger-can-cripple-after-long-covid/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJQCEAE",
+      "displayed_link": "https://nwasianweekly.com › Lifestyle › Health",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484eded0154aee3f54e130c611dde3e4bc108d.png",
+      "date": "Jun 25, 2024",
+      "snippet": "The combination: a disaster. In both cases, alcohol not only hindered their daily lives but intensified their long Covid symptoms, emphasizing ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "long Covid"
+      ],
+      "source": "Northwest Asian Weekly"
+    },
+    {
+      "position": 59,
+      "title": "Dysautonomia: What It Is, Symptoms, Types & Treatment",
+      "link": "https://my.clevelandclinic.org/health/diseases/6004-dysautonomia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my.clevelandclinic.org/health/diseases/6004-dysautonomia&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJkCEAE",
+      "displayed_link": "https://my.clevelandclinic.org › 6004-dysautonomia",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede440eb7b540efb74bdf2dbb49364d517e.png",
+      "snippet": "COVID-19 infection (especially ”long COVID,” when you have symptoms for much longer than expected). ... Drinking alcohol. Dehydration. Stress. Wearing ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "long COVID",
+        "longer",
+        "Drinking alcohol"
+      ],
+      "source": "Cleveland Clinic"
+    },
+    {
+      "position": 60,
+      "title": "Masks and Face Coverings",
+      "link": "https://doh.wa.gov/emergencies/covid-19/masks-and-face-coverings",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://doh.wa.gov/emergencies/covid-19/masks-and-face-coverings&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCK8CEAE",
+      "displayed_link": "https://doh.wa.gov › emergencies › covid-19 › masks-an...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede303885c559e6968e845553c6e0661ca6.png",
+      "snippet": "Drinking Water · Essentials for Childhood Initiative · Food · Health Equity ... Long COVID · Masks and Face Coverings · Resources and Recommendations · Testing ...",
+      "snippet_highlighted_words": [
+        "Drinking",
+        "Long COVID"
+      ],
+      "source": "Washington State Department of Health (.gov)"
+    },
+    {
+      "position": 61,
+      "title": "Testing positive to COVID-19 and managing ...",
+      "link": "https://www.nsw.gov.au/health/covid-19/testing-managing/advice-for-confirmed",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nsw.gov.au/health/covid-19/testing-managing/advice-for-confirmed&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCLECEAE",
+      "displayed_link": "https://www.nsw.gov.au › health › advice-for-confirmed",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edebe316a36b5f936aa6f9b54a874193cb0.png",
+      "date": "Jun 21, 2024",
+      "snippet": "How should I manage my symptoms? · Trouble eating and drinking · Passing less urine than normal · Feeling a little dizzy or lightheaded when ...",
+      "snippet_highlighted_words": [
+        "drinking"
+      ],
+      "source": "NSW Government"
+    },
+    {
+      "position": 62,
+      "title": "Long COVID Basics",
+      "link": "https://www.cdc.gov/covid/long-term-effects/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdc.gov/covid/long-term-effects/index.html&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCLICEAE",
+      "displayed_link": "https://www.cdc.gov › covid › long-term-effects",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede5380235b23621dcd2e3725afa9c159af.png",
+      "date": "Feb 3, 2025",
+      "snippet": "Key points · Long COVID is a serious illness that can result in chronic conditions requiring comprehensive care and may cause disability. · Long ...",
+      "snippet_highlighted_words": [
+        "Long COVID",
+        "Long"
+      ],
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "position": 63,
+      "title": "The risks of drinking too much",
+      "link": "https://www.nhs.uk/live-well/alcohol-advice/the-risks-of-drinking-too-much/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhs.uk/live-well/alcohol-advice/the-risks-of-drinking-too-much/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCK0CEAE",
+      "displayed_link": "https://www.nhs.uk › Live Well › Alcohol advice",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edec4515b3a566a50b6845375cc53f2cbe3.png",
+      "snippet": "Regularly drinking more than 14 units of alcohol a week risks damaging your health. The number of units in a drink is based on the size of the drink and its ...",
+      "snippet_highlighted_words": [
+        "drinking",
+        "alcohol"
+      ],
+      "source": "nhs.uk"
+    },
+    {
+      "position": 64,
+      "title": "What is Naltrexone? Side Effects, Uses, Dose & Risk",
+      "link": "https://www.samhsa.gov/substance-use/treatment/options/naltrexone",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samhsa.gov/substance-use/treatment/options/naltrexone&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCPwBEAE",
+      "displayed_link": "https://www.samhsa.gov › treatment › options › naltrex...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede093d941edb71acb4ebb9a113e8ba27c8.png",
+      "date": "Mar 29, 2024",
+      "snippet": "Coronavirus. Long COVID. Budget. Contracts · Budget Archive. Contact Us. Speaker Request Form. Digital Toolkits. Alcohol Awareness Month · Back ...",
+      "snippet_highlighted_words": [
+        "Coronavirus",
+        "Long COVID",
+        "Alcohol"
+      ],
+      "source": "SAMHSA (.gov)"
+    },
+    {
+      "position": 65,
+      "title": "Following healthy lifestyle may reduce risk of long COVID",
+      "link": "https://hsph.harvard.edu/news/following-healthy-lifestyle-may-reduce-risk-of-long-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hsph.harvard.edu/news/following-healthy-lifestyle-may-reduce-risk-of-long-covid/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECEgQAQ",
+      "displayed_link": "https://hsph.harvard.edu › news › following-healthy-lif...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede1f410f774a8b22dd9d6c27929a800e41.png",
+      "date": "Feb 6, 2023",
+      "snippet": "... alcohol consumption, had about half the risk of long COVID compared with women without any healthy lifestyle factors.",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "long COVID"
+      ],
+      "source": "Harvard T.H. Chan School of Public Health"
+    },
+    {
+      "position": 66,
+      "title": "Coronavirus Disease (COVID-19): Symptoms & Treatment",
+      "link": "https://my.clevelandclinic.org/health/diseases/21214-coronavirus-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my.clevelandclinic.org/health/diseases/21214-coronavirus-covid-19&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJUCEAE",
+      "displayed_link": "https://my.clevelandclinic.org › health › diseases › 212...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede6ddd4b78d8845f1fdad684f54e795683.png",
+      "snippet": "Substance use disorders such as alcohol, opioid or cocaine use disorder ... Long COVID, a condition where pain, extreme fatigue and other symptoms last ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "Long COVID"
+      ],
+      "source": "Cleveland Clinic"
+    },
+    {
+      "position": 67,
+      "title": "Long COVID may make your hangovers much worse, ...",
+      "link": "https://nypost.com/2023/01/20/long-covid-may-make-your-hangovers-much-worse-researchers-say/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nypost.com/2023/01/20/long-covid-may-make-your-hangovers-much-worse-researchers-say/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECDwQAQ",
+      "displayed_link": "https://nypost.com › 2023/01/20 › long-covid-may-ma...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede05b71d4381c58a640510bf85ce13b004.png",
+      "date": "Jan 20, 2023",
+      "snippet": "While it's not an allergy to alcohol, it can lead to a stuffy nose, skin flushing, hives, low blood pressure, nausea, vomiting and diarrhea, ...",
+      "snippet_highlighted_words": [
+        "alcohol"
+      ],
+      "source": "New York Post"
+    },
+    {
+      "position": 68,
+      "title": "ABCs of eligibility for donating blood, platelets and plasma",
+      "link": "https://www.blood.ca/en/blood/am-i-eligible-donate-blood/abcs-eligibility",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blood.ca/en/blood/am-i-eligible-donate-blood/abcs-eligibility&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECE8QAQ",
+      "displayed_link": "https://www.blood.ca › am-i-eligible-donate-blood › ab...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede38266be62e3563404964cc801f2e980b.png",
+      "snippet": "Alcohol. Donors must not be impaired at the time of donation as this prevents ... Individuals who use cocaine may be eligible to donate as long as the drug was ...",
+      "snippet_highlighted_words": [
+        "Alcohol",
+        "long"
+      ],
+      "source": "Canadian Blood Services"
+    },
+    {
+      "position": 69,
+      "title": "Alcohol Intolerance After COVID: Symptoms, Causes, Treatment",
+      "link": "https://soberhome.net/alcohol-intolerance-after-covid-symptoms-causes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://soberhome.net/alcohol-intolerance-after-covid-symptoms-causes/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECF4QAQ",
+      "displayed_link": "https://soberhome.net › Alcohol Abuse",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edee1abab07a60553f0e82e831917e67e9a.png",
+      "snippet": "There's growing evidence that it may be a unique symptom of long COVID, particularly the post-viral fatigue syndrome (PVFS) type. The danger is even greater for ...",
+      "snippet_highlighted_words": [
+        "long COVID"
+      ],
+      "source": "soberhome.net"
+    },
+    {
+      "position": 70,
+      "title": "Long Covid: what you need to know",
+      "link": "https://www.drinkaware.co.uk/news/long-covid-what-you-need-to-know",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.drinkaware.co.uk/news/long-covid-what-you-need-to-know&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECF8QAQ",
+      "displayed_link": "https://www.drinkaware.co.uk › news › long-covid-wha...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede94687aa78f5488822481c2dce3fee8d6.png",
+      "date": "Sep 25, 2020",
+      "snippet": "But alcohol can affect your health and it could even increase your risk of getting Covid-19. Alcohol has a negative effect on your immunity and ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "Covid",
+        "Alcohol"
+      ],
+      "source": "Drinkaware"
+    },
+    {
+      "position": 71,
+      "title": "Chronic alcohol consumption dysregulates innate immune ...",
+      "link": "https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00378-X/fulltext",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00378-X/fulltext&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECGAQAQ",
+      "displayed_link": "https://www.thelancet.com › ebiom › article › fulltext",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede2b1074e3a1a89b62a5309c251411be5d.jpeg",
+      "author": "by SA Lewis",
+      "snippet": "∙ et al. Chronic alcohol self-administration in monkeys shows long ... ∙ et al. COVID-19 patients with documented alcohol use disorder or alcohol ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "long",
+        "COVID",
+        "alcohol",
+        "alcohol"
+      ],
+      "source": "The Lancet"
+    },
+    {
+      "position": 72,
+      "title": "Advice for the public: Coronavirus disease (COVID-19)",
+      "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECGYQAQ",
+      "displayed_link": "https://www.who.int › diseases › novel-coronavirus-2019",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edec5521de07707866ebab922735c8e5c65.png",
+      "date": "Mar 18, 2023",
+      "snippet": "Wear a properly fitted mask when physical distancing is not possible and in poorly ventilated settings. Clean your hands frequently with alcohol ...",
+      "snippet_highlighted_words": [
+        "alcohol"
+      ],
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 73,
+      "title": "Why Alcohol Temporarily Cures ME/CFS",
+      "link": "https://www.youtube.com/watch?v=MIyLVWlg_bU",
+      "displayed_link": "4K+ views · 5 days ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYb2eNCBDfjW8Q5EScjqZCKTea3LTDBd786H47UdeuNjf7&s",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede604dd9968adc245ea649a43399bed057.png",
+      "snippet": "46:20 · Go to channel. Dr. Andrea Furlan: A Recovery Strategy That's Helping ME/CFS and Long Covid Patients. Raelan Agle New 4.7K views · 15:48.",
+      "duration": "9:20",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRWMflC2xnNylIl-bLatO_7BY78x2FJWnD-JQ",
+      "source": "YouTube · Raelan Agle"
+    },
+    {
+      "position": 74,
+      "title": "House Rules & Code of Conduct",
+      "link": "https://www.hollywoodbowl.com/visit/when-youre-here/house-rules",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hollywoodbowl.com/visit/when-youre-here/house-rules&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECHgQAQ",
+      "displayed_link": "https://www.hollywoodbowl.com › when-youre-here",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edea5edea12c528b13c318fa7042523d28a.jpeg",
+      "snippet": "Factory-sealed plastic bottles with non-alcoholic beverages are allowed as long as they're one liter or less. ... COVID-19 viral test prior to entry, but it is ...",
+      "snippet_highlighted_words": [
+        "alcoholic",
+        "long",
+        "COVID"
+      ],
+      "source": "Hollywood Bowl"
+    },
+    {
+      "position": 75,
+      "title": "Publication 502 (2024), Medical and Dental Expenses",
+      "link": "https://www.irs.gov/publications/p502",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.irs.gov/publications/p502&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCIgBEAE",
+      "displayed_link": "https://www.irs.gov › publications",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edeacbcada54232f9ddd7cb42f44add4e4c.png",
+      "date": "Dec 12, 2024",
+      "snippet": "Long-term care services. Retired public safety officers. Health reimbursement arrangement (HRA). Medicare Part A; Medicare Part B; Medicare ...",
+      "snippet_highlighted_words": [
+        "Long"
+      ],
+      "source": "IRS (.gov)"
+    },
+    {
+      "position": 76,
+      "title": "Health Q&A: I still suffer from fatigue after COVID-19. Can ...",
+      "link": "https://www.winespectator.com/articles/health-q-a-i-still-suffer-from-fatigue-after-covid-19-can-i-drink-wine",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.winespectator.com/articles/health-q-a-i-still-suffer-from-fatigue-after-covid-19-can-i-drink-wine&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCKcBEAE",
+      "displayed_link": "https://www.winespectator.com › articles › health-q-a-i-...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484eded261b9b989e9797a763d15b3e809ab47.png",
+      "snippet": "Moderate alcohol consumption following recovery from COVID-19 appears to be safe. But if you are experiencing symptoms such as fatigue and muscle aches, then ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "COVID"
+      ],
+      "source": "Wine Spectator"
+    },
+    {
+      "position": 77,
+      "title": "Vermont Department of Health",
+      "link": "https://www.healthvermont.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthvermont.gov/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCOIBEAE",
+      "displayed_link": "https://www.healthvermont.gov",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede85adf7b00a33562cab9328b4187800b7.png",
+      "snippet": "... COVID-19 Data · Food & Lodging · Health Insurance · Healthy Homes · Hospital ... Learn to Spot Cyanobacteria in the Water to Stay Safe All Summer Long · Stay ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Long"
+      ],
+      "source": "Vermont Department of Health (.gov)"
+    },
+    {
+      "position": 78,
+      "title": "Naltrexone",
+      "link": "https://en.wikipedia.org/wiki/Naltrexone",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Naltrexone&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECHwQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Naltrexone",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede90e4dbb406a737faa37b230939a30615.png",
+      "snippet": "Naltrexone, sold under the brand name Revia among others, is a medication primarily used to manage alcohol use or opioid use disorder by reducing cravings ...",
+      "snippet_highlighted_words": [
+        "alcohol"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 79,
+      "title": "Long COVID could be the cause of your bad hangovers ...",
+      "link": "https://www.foxnews.com/health/long-covid-could-cause-bad-hangovers-study-finds-bad-reaction",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foxnews.com/health/long-covid-could-cause-bad-hangovers-study-finds-bad-reaction&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECH4QAQ",
+      "displayed_link": "https://www.foxnews.com › health › long-covid-could-...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede87a0ba50b1945a045470941eaaf30b8e.png",
+      "date": "Mar 13, 2024",
+      "snippet": "A Stanford University study found that long COVID could have a direct impact on alcohol sensitivity. Drs. Marc Siegel of NYU Langone and ...",
+      "snippet_highlighted_words": [
+        "long COVID",
+        "alcohol"
+      ],
+      "source": "Fox News"
+    },
+    {
+      "position": 80,
+      "title": "Raelan Agle | ME/CFS & Long COVID Recovery | 👉 The one ...",
+      "link": "https://www.instagram.com/reel/DMNbdTLhl4_/",
+      "displayed_link": "50+ likes · 6 days ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSraWtd4Ob7VvJN9r2N7rL7AuV6j7baWFiC9i8kxPy-PkGo&s",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede3aeab153aa5d6701ee8228f7a835ba6e.png",
+      "snippet": "Ever wondered why you might feel better after a couple alcoholic drinks? You're not making it up and you're not alone! There is actually real ...",
+      "duration": "1:02",
+      "source": "Instagram · raelan.agle"
+    },
+    {
+      "position": 81,
+      "title": "Form I-693, Instructions for Report of Immigration Medical ...",
+      "link": "https://www.uscis.gov/sites/default/files/document/forms/i-693instr.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uscis.gov/sites/default/files/document/forms/i-693instr.pdf&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCOEBEAE",
+      "displayed_link": "https://www.uscis.gov › default › files › document",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edeef2b6198462b5c399ba5046ea19ef6b3.png",
+      "snippet": "and vaccinations (including the COVID-19 vaccine series, one or two doses ... diagnosis of an alcohol-use disorder). Mental disorders are diagnosed ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "alcohol"
+      ],
+      "source": "USCIS (.gov)"
+    },
+    {
+      "position": 82,
+      "title": "COVID19 & Alcohol Intolerance",
+      "link": "https://medium.com/@calebwilemon/covid19-survivors-alcohol-intolerance-9d97e91edf47",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40calebwilemon/covid19-survivors-alcohol-intolerance-9d97e91edf47&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCOABEAE",
+      "displayed_link": "60+ likes · 4 years ago",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede0140951004689f66f3c62e9a22ebdd24.png",
+      "snippet": "Several people who have recovered from the coronavirus have reported a new intolerance for alcohol. Some find themselves unable to have a single beer or one ...",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "alcohol"
+      ],
+      "source": "Medium · Caleb Wilemon"
+    },
+    {
+      "position": 83,
+      "title": "2-1-1 Texas | Texas Health And Human Services Commission",
+      "link": "https://www.211texas.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.211texas.org/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECH0QAQ",
+      "displayed_link": "https://www.211texas.org",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edec2ddcf91dd29c4a96fd2a39b0bf3670b.jpeg",
+      "snippet": "Find Help A search term is required to find resources for food, health, housing, and more Select a Service Term (Type of Need).",
+      "source": "2-1-1 Texas"
+    },
+    {
+      "position": 84,
+      "title": "MAGICapp - Making GRADE the Irresistible Choice ...",
+      "link": "https://app.magicapp.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://app.magicapp.org/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJQBEAE",
+      "displayed_link": "https://app.magicapp.org",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede1d10fb471605307900e775f9ca2689c3.png",
+      "snippet": "... long-term care. v9.5 - 4/23/2025 Updated 13 Recommendations 13 Clinical ... Clinical management of COVID-19: living guideline, June 2025. v7.0 - 8/17 ...",
+      "snippet_highlighted_words": [
+        "long",
+        "COVID"
+      ],
+      "source": "Australian Pregnancy Care Guidelines"
+    },
+    {
+      "position": 85,
+      "title": "Lab Leak: The True Origins of Covid-19",
+      "link": "https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECGUQAQ",
+      "displayed_link": "https://www.whitehouse.gov › lab-leak-true-origins-of-...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede3800e34518efb8fd41beb1f794862c6f.png",
+      "snippet": "THE ORIGIN “The Proximal Origin of SARS-CoV-2” publication — which was used repeatedly by public health officials and the media to discredit the lab leak.",
+      "source": "The White House (.gov)"
+    },
+    {
+      "position": 86,
+      "title": "COVID-​19",
+      "link": "https://www.coxhealth.com/condition/coronavirus-disease-2019-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coxhealth.com/condition/coronavirus-disease-2019-covid-19/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJIBEAE",
+      "displayed_link": "https://www.coxhealth.com › condition › coronavirus-d...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede79a0ff4a799757886fc3b0e63975fa33.png",
+      "date": "Mar 12, 2024",
+      "snippet": "It's not yet known how long immunity may last ... If you don't have access to soap and water, use an alcohol-based hand sanitizer often.",
+      "snippet_highlighted_words": [
+        "long",
+        "alcohol"
+      ],
+      "source": "CoxHealth"
+    },
+    {
+      "position": 87,
+      "title": "Food Handler Safety Training Card Program",
+      "link": "https://www.southernnevadahealthdistrict.org/programs/food-handler-safety-program/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.southernnevadahealthdistrict.org/programs/food-handler-safety-program/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCKYBEAE",
+      "displayed_link": "https://www.southernnevadahealthdistrict.org › programs",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede217ad3e9b98dbabcbc7c6e1620f15517.png",
+      "snippet": "... COVID-19; Language. English Español 简体中文 繁體中文 Filipino 한국어 Tiếng ... Can I also get an alcohol card at the Health District? The Southern ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "alcohol"
+      ],
+      "source": "Southern Nevada Health District"
+    },
+    {
+      "position": 88,
+      "title": "New Mexico Department of Health",
+      "link": "https://www.nmhealth.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nmhealth.org/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCK0BEAE",
+      "displayed_link": "https://www.nmhealth.org",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edebd49840d450b8ed3bedac706d6ac2ffc.png",
+      "snippet": "Drinking Water Testing · Impaired Driving Testing · Dairy Testing · Outbreak ... Treatment and Long Term Care Facilities · Crisis Treatment · Emergency Hotlines ...",
+      "snippet_highlighted_words": [
+        "Drinking",
+        "Long"
+      ],
+      "source": "New Mexico Department of Health"
+    },
+    {
+      "position": 89,
+      "title": "6 Habits To Reduce Long COVID Risk - Parade",
+      "link": "https://parade.com/health/habits-to-reduce-long-covid-risk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://parade.com/health/habits-to-reduce-long-covid-risk&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCK4BEAE",
+      "displayed_link": "https://parade.com › Health & Wellness",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede2a0ef9e61e57b2ff66490ffff4fc64bf.png",
+      "date": "Feb 15, 2023",
+      "snippet": "These habits are maintaining a healthy BMI, never smoking, limiting alcohol consumption, diet, exercise and sleep. The findings are in line with ...",
+      "snippet_highlighted_words": [
+        "alcohol"
+      ],
+      "source": "parade.com"
+    },
+    {
+      "position": 90,
+      "title": "Resources to Help Patients | Vermont Department of Health",
+      "link": "https://www.healthvermont.gov/alcohol-drugs/health-professionals/patient-resources",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthvermont.gov/alcohol-drugs/health-professionals/patient-resources&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCLIBEAE",
+      "displayed_link": "https://www.healthvermont.gov › patient-resources",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede3187aaff7984fb7d3de77407b97d6e5a.png",
+      "date": "3 hours ago",
+      "snippet": "Information for health professionals to help their patients with issues related to alcohol and other drugs.",
+      "snippet_highlighted_words": [
+        "alcohol"
+      ],
+      "source": "Vermont Department of Health (.gov)"
+    },
+    {
+      "position": 91,
+      "title": "How a sip of booze could help diagnose a COVID long ...",
+      "link": "https://abc3340.com/news/local/how-a-sip-of-booze-could-help-diagnose-a-covid-long-hauler-syndrome",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://abc3340.com/news/local/how-a-sip-of-booze-could-help-diagnose-a-covid-long-hauler-syndrome&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCLEBEAE",
+      "displayed_link": "https://abc3340.com › news › local › how-a-sip-of-booz...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede3665a04221f1a3b67e73b190fbfe1c27.png",
+      "date": "May 19, 2021",
+      "snippet": "A report indicates a splash of alcohol could help detect long hauler problems.",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "long"
+      ],
+      "source": "WBMA"
+    },
+    {
+      "position": 92,
+      "title": "Coronavirus Daily News Brief – March 6: Long Covid May ...",
+      "link": "https://www.frequentbusinesstraveler.com/2024/03/coronavirus-daily-news-brief-march-6-long-covid-may-cause-hangover-like-symptoms-after-consuming-alcohol-covid-killed-off-one-strain-of-the-flu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.frequentbusinesstraveler.com/2024/03/coronavirus-daily-news-brief-march-6-long-covid-may-cause-hangover-like-symptoms-after-consuming-alcohol-covid-killed-off-one-strain-of-the-flu/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCMMBEAE",
+      "displayed_link": "https://www.frequentbusinesstraveler.com › 2024/03 › c...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede04c9ed03f9e01a0590a6b3587f47ed7b.png",
+      "date": "Mar 6, 2024",
+      "snippet": "... Long Covid may cause hangover-like symptoms after drinking alcohol. LONG COVID. A peer-reviewed study from researchers at Stanford University ...",
+      "snippet_highlighted_words": [
+        "Long Covid",
+        "drinking alcohol",
+        "LONG COVID"
+      ],
+      "source": "Frequent Business Traveler"
+    },
+    {
+      "position": 93,
+      "title": "New Hampshire Department of Health and Human Services ...",
+      "link": "https://www.dhhs.nh.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dhhs.nh.gov/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCMUBEAE",
+      "displayed_link": "https://www.dhhs.nh.gov",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484eded38e2750aac7ac150d6d97d4c4e470b1.png",
+      "snippet": "Resources to help with the misuse of alcohol, tobacco and other substances. ... Medicaid for Long-term Care .pdf .pdf Icon; Mission Zero · Opioid Abatement ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "Long"
+      ],
+      "source": "New Hampshire Department of Health and Human Services (.gov)"
+    },
+    {
+      "position": 94,
+      "title": "Hangovers suddenly worsening? This could be the cause",
+      "link": "https://www.kron4.com/news/hangovers-suddenly-worsening-researchers-think-covid-could-be-the-cause/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kron4.com/news/hangovers-suddenly-worsening-researchers-think-covid-could-be-the-cause/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCJACEAE",
+      "displayed_link": "https://www.kron4.com › news › hangovers-suddenly-...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edec56624d9444133051d8557518b49d361.png",
+      "date": "Mar 3, 2024",
+      "snippet": "Unfortunately, the exact causes of alcohol sensitivity in long-COVID patients are not something that many researchers have studied intensely ...",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "long",
+        "COVID"
+      ],
+      "source": "KRON4"
+    },
+    {
+      "position": 95,
+      "title": "Costa Rica International Travel Information",
+      "link": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/CostaRica.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/CostaRica.html&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECDMQAQ",
+      "displayed_link": "https://travel.state.gov › content › travel › CostaRica",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede0c0384bf2d7da4cf9e981cb8b277bc4c.png",
+      "snippet": "You're writing a long input, which may result in a \"no match\" result. ... Avoid alcohol while swimming. Do not walk alone or go into the water at night ...",
+      "snippet_highlighted_words": [
+        "long",
+        "alcohol"
+      ],
+      "source": "U.S. Department of State (.gov)"
+    },
+    {
+      "position": 96,
+      "title": "FAQ",
+      "link": "https://armorymn.com/information/faq/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://armorymn.com/information/faq/&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCOQBEAE",
+      "displayed_link": "https://armorymn.com › Information",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede01d42ee88f3eb6bf548c4d5fe5909474.png",
+      "snippet": "The Armory follows all state and federal mandates when it comes to COVID safety at the time of each event. ... alcohol. ID is also required for Will Call ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "alcohol"
+      ],
+      "source": "Armory - Minneapolis, MN"
+    },
+    {
+      "position": 97,
+      "title": "Gout Diet Dos and Don'ts",
+      "link": "https://www.arthritis.org/health-wellness/healthy-living/nutrition/healthy-eating/gout-diet-dos-and-donts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.arthritis.org/health-wellness/healthy-living/nutrition/healthy-eating/gout-diet-dos-and-donts&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoECDEQAQ",
+      "displayed_link": "https://www.arthritis.org › nutrition › healthy-eating › go...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484ede2d3f55d6e9368c0e5baae1817ee1747f.png",
+      "snippet": "Long Covid & Arthritis · Physical Activity · Treatments · Biologics & Biosimilars ... When the body breaks down alcohol, uric acid is produced and excretion ...",
+      "snippet_highlighted_words": [
+        "Long Covid",
+        "alcohol"
+      ],
+      "source": "Arthritis Foundation"
+    },
+    {
+      "position": 98,
+      "title": "Peer Support Workers for those in Recovery",
+      "link": "https://www.samhsa.gov/technical-assistance/brss-tacs/peer-support-workers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samhsa.gov/technical-assistance/brss-tacs/peer-support-workers&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCP4BEAE",
+      "displayed_link": "https://www.samhsa.gov › technical-assistance › brss-tacs",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484edea573c633027e8f70d31f8bed1ee2d04c.png",
+      "date": "Nov 5, 2024",
+      "snippet": "Coronavirus. Long COVID. Budget. Contracts · Budget Archive. Contact Us. Speaker Request Form. Digital Toolkits. Alcohol Awareness Month · Back ...",
+      "snippet_highlighted_words": [
+        "Coronavirus",
+        "Long COVID",
+        "Alcohol"
+      ],
+      "source": "SAMHSA (.gov)"
+    },
+    {
+      "position": 99,
+      "title": "Applying for medical leave - Paid Leave Oregon",
+      "link": "https://paidleave.oregon.gov/employees/applying-for-medical-leave.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://paidleave.oregon.gov/employees/applying-for-medical-leave.html&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4QFnoFCP8BEAE",
+      "displayed_link": "https://paidleave.oregon.gov › employees › applying-fo...",
+      "favicon": "https://serpapi.com/searches/68814ecbd9961283019cc880/images/bc6daaa50e430b529519698ea4484eded7bdf6b29d0da6c321b51cdcd132ed62.png",
+      "snippet": "... long, the condition impacts you; The health care provider's: First and last name; Type of medical practice or specialty; Contact information such as business ...",
+      "snippet_highlighted_words": [
+        "long"
+      ],
+      "source": "Oregon.gov"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Alcohol and long covid Reddit",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Alcohol+and+long+covid+Reddit&sa=X&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4Q1QJ6BQjIAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Alcohol+and+long+covid+Reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Can i drink red wine after COVID recovery",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Can+i+drink+red+wine+after+COVID+recovery&sa=X&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4Q1QJ6BQjLAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Can+i+drink+red+wine+after+COVID+recovery"
+    },
+    {
+      "block_position": 1,
+      "query": "COVID alcohol intolerance",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=COVID+alcohol+intolerance&sa=X&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4Q1QJ6BQjKAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=COVID+alcohol+intolerance"
+    },
+    {
+      "block_position": 1,
+      "query": "Long COVID symptoms",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Long+COVID+symptoms&sa=X&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4Q1QJ6BQjHAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Long+COVID+symptoms"
+    },
+    {
+      "block_position": 1,
+      "query": "Sudden onset alcohol intolerance",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Sudden+onset+alcohol+intolerance&sa=X&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4Q1QJ6BQjBAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Sudden+onset+alcohol+intolerance"
+    },
+    {
+      "block_position": 1,
+      "query": "Alcohol intolerance symptoms",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Alcohol+intolerance+symptoms&sa=X&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4Q1QJ6BQi9AhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Alcohol+intolerance+symptoms"
+    },
+    {
+      "block_position": 1,
+      "query": "Can I drink alcohol if I have covid Reddit",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Can+I+drink+alcohol+if+I+have+covid+Reddit&sa=X&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4Q1QJ6BQi1AhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Can+I+drink+alcohol+if+I+have+covid+Reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Sudden alcohol intolerance cancer",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Sudden+alcohol+intolerance+cancer&sa=X&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4Q1QJ6BQizAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Sudden+alcohol+intolerance+cancer"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=alcohol+and+long+covid&num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&ei=zE6BaKSBNOGQnesP0OPj8Qk&start=100&sa=N&sstk=Ac65TH6bYq-CRIZJP9IDNC1p3DxxRNnnbmpJ81PwZBfgbLQV70Py6_Ep2FBe4w-wnt-otA3IcZF5aRPnAwtnhe-W6saDIwnIBQh72Q&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4Q8NMDegQICRAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=alcohol+and+long+covid&num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&ei=zE6BaKSBNOGQnesP0OPj8Qk&start=100&sa=N&sstk=Ac65TH6bYq-CRIZJP9IDNC1p3DxxRNnnbmpJ81PwZBfgbLQV70Py6_Ep2FBe4w-wnt-otA3IcZF5aRPnAwtnhe-W6saDIwnIBQh72Q&ved=2ahUKEwikl5Wl8dOOAxVhSGcHHdDxOJ4Q8tMDegQICRAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=alcohol+and+long+covid&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=alcohol+and+long+covid&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=alcohol+and+long+covid&start=100"
+    }
+  }
+}

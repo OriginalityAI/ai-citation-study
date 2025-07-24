@@ -1,0 +1,1545 @@
+{
+  "search_metadata": {
+    "id": "6881e8b8b24c5de41cf39250",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f513327a44e8d680/6881e8b8b24c5de41cf39250.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/f513327a44e8d680/6881e8b8b24c5de41cf39250.json_with_pixel_position",
+    "created_at": "2025-07-24 08:03:04 UTC",
+    "processed_at": "2025-07-24 08:03:04 UTC",
+    "google_url": "https://www.google.com/search?q=us+covid+case+count&oq=us+covid+case+count&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/f513327a44e8d680/6881e8b8b24c5de41cf39250.html",
+    "total_time_taken": 1.84
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "us covid case count",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "us covid case count",
+    "total_results": 268000000,
+    "time_taken_displayed": 0.58,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is COVID on the rise or decline?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2VIQTBYelF4U2xGdU9FcGFha1JSTm5kWlNIbGZhRVJCV2tKb2IzRmhPRXhyTUMweE5VcFRTR1UyVEdKQ1JrdFNRVzFvTUVsa1dFVnFUWFJaZVZOelowTklXSFo2VG1SeVRXeHdWM2R4TTNSTGNWUXpTMjkzTFVaUVp4SVhkV1ZwUW1GTFdFaEVZblZCTUZCRlVEQktlVEI1UVUwYUlrRkdUVUZIUjNCVlkwaGFWVlk1TlhCNlVtaE1RelpRWDJSeFlXUkJaRWhLWldjIiwiZmN2IjoiMyIsImVpIjoidWVpQmFLWEhEYnVBMFBFUDBKeTB5QU0iLCJxYyI6IkNoTjFjeUJqYjNacFpDQmpZWE5sSUdOdmRXNTBFQUI5M05SRVB3IiwicXVlc3Rpb24iOiJJcyBDT1ZJRCBvbiB0aGUgcmlzZSBvciBkZWNsaW5lPyIsImxrIjoiR2g5cGN5QmpiM1pwWkNCdmJpQjBhR1VnY21selpTQnZjaUJrWldOc2FXNWwiLCJicyI6ImM0M1B2UXJDTUJBSGNGd3pPY1k0ZUg2Z3pwbUZERHEwaXc3RjdpV0o5aUJOU2xNVmZSUkh3UmYwQ1N5MmRsQUV4enQtOTc4N0VoQUlQU3czY2JnQ1o2Rk1OUlRvTmJnQ2xKWUdyUmIwbnZNaEc2QUg2WTZvZmpDeUlLeE44aVVhQXdua2lWVTZReW5vTmVKOTFtc3pQZ0dKeWF5YU5zN3VHNEZXRmpyeFdEWHFKVTBsNktQZ2N6YkZ2elJaazNIZ1RwQWw5Z3piQ0NTV2VOSFdnMEpkZmJLcjd4WDB4dmlFamRLM1BQaHYtVnJVN1R3QiIsImlkIjoiZmNfdWVpQmFLWEhEYnVBMFBFUDBKeTB5QU1fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2VIQTBYelF4U2xGdU9FcGFha1JSTm5kWlNIbGZhRVJCV2tKb2IzRmhPRXhyTUMweE5VcFRTR1UyVEdKQ1JrdFNRVzFvTUVsa1dFVnFUWFJaZVZOelowTklXSFo2VG1SeVRXeHdWM2R4TTNSTGNWUXpTMjkzTFVaUVp4SVhkV1ZwUW1GTFdFaEVZblZCTUZCRlVEQktlVEI1UVUwYUlrRkdUVUZIUjNCVlkwaGFWVlk1TlhCNlVtaE1RelpRWDJSeFlXUkJaRWhLWldjIiwiZmN2IjoiMyIsImVpIjoidWVpQmFLWEhEYnVBMFBFUDBKeTB5QU0iLCJxYyI6IkNoTjFjeUJqYjNacFpDQmpZWE5sSUdOdmRXNTBFQUI5M05SRVB3IiwicXVlc3Rpb24iOiJJcyBDT1ZJRCBvbiB0aGUgcmlzZSBvciBkZWNsaW5lPyIsImxrIjoiR2g5cGN5QmpiM1pwWkNCdmJpQjBhR1VnY21selpTQnZjaUJrWldOc2FXNWwiLCJicyI6ImM0M1B2UXJDTUJBSGNGd3pPY1k0ZUg2Z3pwbUZERHEwaXc3RjdpV0o5aUJOU2xNVmZSUkh3UmYwQ1N5MmRsQUV4enQtOTc4N0VoQUlQU3czY2JnQ1o2Rk1OUlRvTmJnQ2xKWUdyUmIwbnZNaEc2QUg2WTZvZmpDeUlLeE44aVVhQXdua2lWVTZReW5vTmVKOTFtc3pQZ0dKeWF5YU5zN3VHNEZXRmpyeFdEWHFKVTBsNktQZ2N6YkZ2elJaazNIZ1RwQWw5Z3piQ0NTV2VOSFdnMEpkZmJLcjd4WDB4dmlFamRLM1BQaHYtVnJVN1R3QiIsImlkIjoiZmNfdWVpQmFLWEhEYnVBMFBFUDBKeTB5QU1fMSJ9"
+    },
+    {
+      "question": "Is COVID still a pandemic?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2VIQTBYelF4U2xGdU9FcGFha1JSTm5kWlNIbGZhRVJCV2tKb2IzRmhPRXhyTUMweE5VcFRTR1UyVEdKQ1JrdFNRVzFvTUVsa1dFVnFUWFJaZVZOelowTklXSFo2VG1SeVRXeHdWM2R4TTNSTGNWUXpTMjkzTFVaUVp4SVhkV1ZwUW1GTFdFaEVZblZCTUZCRlVEQktlVEI1UVUwYUlrRkdUVUZIUjNCVlkwaGFWVlk1TlhCNlVtaE1RelpRWDJSeFlXUkJaRWhLWldjIiwiZmN2IjoiMyIsImVpIjoidWVpQmFLWEhEYnVBMFBFUDBKeTB5QU0iLCJxYyI6IkNoTjFjeUJqYjNacFpDQmpZWE5sSUdOdmRXNTBFQUI5M05SRVB3IiwicXVlc3Rpb24iOiJJcyBDT1ZJRCBzdGlsbCBhIHBhbmRlbWljPyIsImxrIjoiR2hscGN5QmpiM1pwWkNCemRHbHNiQ0JoSUhCaGJtUmxiV2xqIiwiYnMiOiJjNDNQdlFyQ01CQUhjRnd6T2NZNGVINmd6cG1GRERxMGl3N0Y3aVdKOWlCTlNsTVZmUlJId1JmMENTeTJkbEFFeHp0LTk3ODdFaEFJUFN3M2NiZ0NaNkZNTlJUb05iZ0NsSllHclJiMG52TWhHNkFINlk2b2ZqQ3lJS3hOOGlVYUF3bmtpVlU2UXlub05lSjkxbXN6UGdHSnlheWFOczd1RzRGV0ZqcnhXRFhxSlUwbDZLUGdjemJGdnpSWmszSGdUcEFsOWd6YkNDU1dlTkhXZzBKZGZiS3I3eFgweHZpRWpkSzNQUGh2LVZyVTdUd0IiLCJpZCI6ImZjX3VlaUJhS1hIRGJ1QTBQRVAwSnkweUFNXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2VIQTBYelF4U2xGdU9FcGFha1JSTm5kWlNIbGZhRVJCV2tKb2IzRmhPRXhyTUMweE5VcFRTR1UyVEdKQ1JrdFNRVzFvTUVsa1dFVnFUWFJaZVZOelowTklXSFo2VG1SeVRXeHdWM2R4TTNSTGNWUXpTMjkzTFVaUVp4SVhkV1ZwUW1GTFdFaEVZblZCTUZCRlVEQktlVEI1UVUwYUlrRkdUVUZIUjNCVlkwaGFWVlk1TlhCNlVtaE1RelpRWDJSeFlXUkJaRWhLWldjIiwiZmN2IjoiMyIsImVpIjoidWVpQmFLWEhEYnVBMFBFUDBKeTB5QU0iLCJxYyI6IkNoTjFjeUJqYjNacFpDQmpZWE5sSUdOdmRXNTBFQUI5M05SRVB3IiwicXVlc3Rpb24iOiJJcyBDT1ZJRCBzdGlsbCBhIHBhbmRlbWljPyIsImxrIjoiR2hscGN5QmpiM1pwWkNCemRHbHNiQ0JoSUhCaGJtUmxiV2xqIiwiYnMiOiJjNDNQdlFyQ01CQUhjRnd6T2NZNGVINmd6cG1GRERxMGl3N0Y3aVdKOWlCTlNsTVZmUlJId1JmMENTeTJkbEFFeHp0LTk3ODdFaEFJUFN3M2NiZ0NaNkZNTlJUb05iZ0NsSllHclJiMG52TWhHNkFINlk2b2ZqQ3lJS3hOOGlVYUF3bmtpVlU2UXlub05lSjkxbXN6UGdHSnlheWFOczd1RzRGV0ZqcnhXRFhxSlUwbDZLUGdjemJGdnpSWmszSGdUcEFsOWd6YkNDU1dlTkhXZzBKZGZiS3I3eFgweHZpRWpkSzNQUGh2LVZyVTdUd0IiLCJpZCI6ImZjX3VlaUJhS1hIRGJ1QTBQRVAwSnkweUFNXzEifQ%3D%3D"
+    },
+    {
+      "question": "Is long covid increasing or decreasing?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2VIQTBYelF4U2xGdU9FcGFha1JSTm5kWlNIbGZhRVJCV2tKb2IzRmhPRXhyTUMweE5VcFRTR1UyVEdKQ1JrdFNRVzFvTUVsa1dFVnFUWFJaZVZOelowTklXSFo2VG1SeVRXeHdWM2R4TTNSTGNWUXpTMjkzTFVaUVp4SVhkV1ZwUW1GTFdFaEVZblZCTUZCRlVEQktlVEI1UVUwYUlrRkdUVUZIUjNCVlkwaGFWVlk1TlhCNlVtaE1RelpRWDJSeFlXUkJaRWhLWldjIiwiZmN2IjoiMyIsImVpIjoidWVpQmFLWEhEYnVBMFBFUDBKeTB5QU0iLCJxYyI6IkNoTjFjeUJqYjNacFpDQmpZWE5sSUdOdmRXNTBFQUI5M05SRVB3IiwicXVlc3Rpb24iOiJJcyBsb25nIGNvdmlkIGluY3JlYXNpbmcgb3IgZGVjcmVhc2luZz8iLCJsayI6ImM1TlN5eXhXeU1uUFMxZEl6aV9MVEZISXpFc3VTazBzemdRSzVCY3BwS1RDZUFBIiwiYnMiOiJjNDNQdlFyQ01CQUhjRnd6T2NZNGVINmd6cG1GRERxMGl3N0Y3aVdKOWlCTlNsTVZmUlJId1JmMENTeTJkbEFFeHp0LTk3ODdFaEFJUFN3M2NiZ0NaNkZNTlJUb05iZ0NsSllHclJiMG52TWhHNkFINlk2b2ZqQ3lJS3hOOGlVYUF3bmtpVlU2UXlub05lSjkxbXN6UGdHSnlheWFOczd1RzRGV0ZqcnhXRFhxSlUwbDZLUGdjemJGdnpSWmszSGdUcEFsOWd6YkNDU1dlTkhXZzBKZGZiS3I3eFgweHZpRWpkSzNQUGh2LVZyVTdUd0IiLCJpZCI6ImZjX3VlaUJhS1hIRGJ1QTBQRVAwSnkweUFNXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2VIQTBYelF4U2xGdU9FcGFha1JSTm5kWlNIbGZhRVJCV2tKb2IzRmhPRXhyTUMweE5VcFRTR1UyVEdKQ1JrdFNRVzFvTUVsa1dFVnFUWFJaZVZOelowTklXSFo2VG1SeVRXeHdWM2R4TTNSTGNWUXpTMjkzTFVaUVp4SVhkV1ZwUW1GTFdFaEVZblZCTUZCRlVEQktlVEI1UVUwYUlrRkdUVUZIUjNCVlkwaGFWVlk1TlhCNlVtaE1RelpRWDJSeFlXUkJaRWhLWldjIiwiZmN2IjoiMyIsImVpIjoidWVpQmFLWEhEYnVBMFBFUDBKeTB5QU0iLCJxYyI6IkNoTjFjeUJqYjNacFpDQmpZWE5sSUdOdmRXNTBFQUI5M05SRVB3IiwicXVlc3Rpb24iOiJJcyBsb25nIGNvdmlkIGluY3JlYXNpbmcgb3IgZGVjcmVhc2luZz8iLCJsayI6ImM1TlN5eXhXeU1uUFMxZEl6aV9MVEZISXpFc3VTazBzemdRSzVCY3BwS1RDZUFBIiwiYnMiOiJjNDNQdlFyQ01CQUhjRnd6T2NZNGVINmd6cG1GRERxMGl3N0Y3aVdKOWlCTlNsTVZmUlJId1JmMENTeTJkbEFFeHp0LTk3ODdFaEFJUFN3M2NiZ0NaNkZNTlJUb05iZ0NsSllHclJiMG52TWhHNkFINlk2b2ZqQ3lJS3hOOGlVYUF3bmtpVlU2UXlub05lSjkxbXN6UGdHSnlheWFOczd1RzRGV0ZqcnhXRFhxSlUwbDZLUGdjemJGdnpSWmszSGdUcEFsOWd6YkNDU1dlTkhXZzBKZGZiS3I3eFgweHZpRWpkSzNQUGh2LVZyVTdUd0IiLCJpZCI6ImZjX3VlaUJhS1hIRGJ1QTBQRVAwSnkweUFNXzEifQ%3D%3D"
+    },
+    {
+      "question": "How many US citizens died of COVID?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2VIQTBYelF4U2xGdU9FcGFha1JSTm5kWlNIbGZhRVJCV2tKb2IzRmhPRXhyTUMweE5VcFRTR1UyVEdKQ1JrdFNRVzFvTUVsa1dFVnFUWFJaZVZOelowTklXSFo2VG1SeVRXeHdWM2R4TTNSTGNWUXpTMjkzTFVaUVp4SVhkV1ZwUW1GTFdFaEVZblZCTUZCRlVEQktlVEI1UVUwYUlrRkdUVUZIUjNCVlkwaGFWVlk1TlhCNlVtaE1RelpRWDJSeFlXUkJaRWhLWldjIiwiZmN2IjoiMyIsImVpIjoidWVpQmFLWEhEYnVBMFBFUDBKeTB5QU0iLCJxYyI6IkNoTjFjeUJqYjNacFpDQmpZWE5sSUdOdmRXNTBFQUI5M05SRVB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBVUyBjaXRpemVucyBkaWVkIG9mIENPVklEPyIsImxrIjoiR2lKb2IzY2diV0Z1ZVNCMWN5QmphWFJwZW1WdWN5QmthV1ZrSUc5bUlHTnZkbWxrIiwiYnMiOiJjNDNQdlFyQ01CQUhjRnd6T2NZNGVINmd6cG1GRERxMGl3N0Y3aVdKOWlCTlNsTVZmUlJId1JmMENTeTJkbEFFeHp0LTk3ODdFaEFJUFN3M2NiZ0NaNkZNTlJUb05iZ0NsSllHclJiMG52TWhHNkFINlk2b2ZqQ3lJS3hOOGlVYUF3bmtpVlU2UXlub05lSjkxbXN6UGdHSnlheWFOczd1RzRGV0ZqcnhXRFhxSlUwbDZLUGdjemJGdnpSWmszSGdUcEFsOWd6YkNDU1dlTkhXZzBKZGZiS3I3eFgweHZpRWpkSzNQUGh2LVZyVTdUd0IiLCJpZCI6ImZjX3VlaUJhS1hIRGJ1QTBQRVAwSnkweUFNXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2VIQTBYelF4U2xGdU9FcGFha1JSTm5kWlNIbGZhRVJCV2tKb2IzRmhPRXhyTUMweE5VcFRTR1UyVEdKQ1JrdFNRVzFvTUVsa1dFVnFUWFJaZVZOelowTklXSFo2VG1SeVRXeHdWM2R4TTNSTGNWUXpTMjkzTFVaUVp4SVhkV1ZwUW1GTFdFaEVZblZCTUZCRlVEQktlVEI1UVUwYUlrRkdUVUZIUjNCVlkwaGFWVlk1TlhCNlVtaE1RelpRWDJSeFlXUkJaRWhLWldjIiwiZmN2IjoiMyIsImVpIjoidWVpQmFLWEhEYnVBMFBFUDBKeTB5QU0iLCJxYyI6IkNoTjFjeUJqYjNacFpDQmpZWE5sSUdOdmRXNTBFQUI5M05SRVB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSBVUyBjaXRpemVucyBkaWVkIG9mIENPVklEPyIsImxrIjoiR2lKb2IzY2diV0Z1ZVNCMWN5QmphWFJwZW1WdWN5QmthV1ZrSUc5bUlHTnZkbWxrIiwiYnMiOiJjNDNQdlFyQ01CQUhjRnd6T2NZNGVINmd6cG1GRERxMGl3N0Y3aVdKOWlCTlNsTVZmUlJId1JmMENTeTJkbEFFeHp0LTk3ODdFaEFJUFN3M2NiZ0NaNkZNTlJUb05iZ0NsSllHclJiMG52TWhHNkFINlk2b2ZqQ3lJS3hOOGlVYUF3bmtpVlU2UXlub05lSjkxbXN6UGdHSnlheWFOczd1RzRGV0ZqcnhXRFhxSlUwbDZLUGdjemJGdnpSWmszSGdUcEFsOWd6YkNDU1dlTkhXZzBKZGZiS3I3eFgweHZpRWpkSzNQUGh2LVZyVTdUd0IiLCJpZCI6ImZjX3VlaUJhS1hIRGJ1QTBQRVAwSnkweUFNXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "CDC COVID Data Tracker: Home",
+      "link": "https://covid.cdc.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covid.cdc.gov/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECAoQAQ",
+      "displayed_link": "https://covid.cdc.gov",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934ab34d5595b854ea70d55fe2936e1485f.png",
+      "snippet": "Stay up to date on the most recent and detailed data for hospitalizations, deaths, emergency department visits, and vaccinations.",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "United States COVID - Coronavirus Statistics",
+      "link": "https://www.worldometers.info/coronavirus/country/us/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.worldometers.info/coronavirus/country/us/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECB4QAQ",
+      "displayed_link": "https://www.worldometers.info › country › us",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934fdb8b2960d04b1f23a5dbdea364f8f73.png",
+      "snippet": "Coronavirus Cases: 111,820,082 ; Deaths: 1,219,487 ; Recovered: 109,814,428.",
+      "snippet_highlighted_words": [
+        "Coronavirus Cases: 111,820,082"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "California",
+            "link": "https://www.worldometers.info/coronavirus/usa/california/"
+          },
+          {
+            "title": "New York",
+            "link": "https://www.worldometers.info/coronavirus/usa/new-york/"
+          },
+          {
+            "title": "Texas",
+            "link": "https://www.worldometers.info/coronavirus/usa/texas/"
+          }
+        ]
+      },
+      "source": "Worldometer"
+    },
+    {
+      "position": 3,
+      "title": "US COVID-19 cases and deaths by state",
+      "link": "https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECBwQAQ",
+      "displayed_link": "https://usafacts.org › Health › Cases and Deaths",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93478685d3de056d2cd0e1d60c3bc06b512.png",
+      "snippet": "Follow new cases found each day and the number of cases and deaths in the US. The county-level tracker makes it easy to follow COVID-19 cases on a granular ...",
+      "snippet_highlighted_words": [
+        "number of cases and deaths in the US"
+      ],
+      "source": "USAFacts"
+    },
+    {
+      "position": 4,
+      "title": "WHO COVID-19 dashboard - WHO Data",
+      "link": "https://data.who.int/dashboards/covid19/cases",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://data.who.int/dashboards/covid19/cases&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECBgQAQ",
+      "displayed_link": "https://data.who.int › dashboards › covid19 › cases",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934993c42abe3bd0e052c34847b7edd88bf.png",
+      "snippet": "This global summary of COVID-19 cases includes data on confirmed cases reported to WHO from the comprehensive COVID-19 case monitoring.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "cases",
+        "cases",
+        "COVID",
+        "case"
+      ],
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 5,
+      "title": "United States - COVID-19 Overview - Johns Hopkins",
+      "link": "https://coronavirus.jhu.edu/region/united-states",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coronavirus.jhu.edu/region/united-states&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECB0QAQ",
+      "displayed_link": "https://coronavirus.jhu.edu › region › united-states",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934e91d55ced16b3bee963040e3297fbe56.png",
+      "snippet": "Reduced counts in U.S. cases and deaths are the result of states and territories not reporting the information for some or all of the weekend. Those states and ...",
+      "snippet_highlighted_words": [
+        "counts",
+        "U.S. cases"
+      ],
+      "source": "Johns Hopkins Coronavirus Resource Center"
+    },
+    {
+      "position": 6,
+      "title": "COVID-19 pandemic in the United States",
+      "link": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECDsQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › COVID-19_pandemic...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9349b780d9cf1c9f692974da18a6028e8d9.png",
+      "snippet": "By mid-October, a third surge of cases began; there were over 200,000 new daily cases during parts of December 2020 and January 2021. COVID-19 pandemic in the ...",
+      "snippet_highlighted_words": [
+        "over 200,000 new daily cases"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Statistics of the COVID-19...",
+            "link": "https://en.wikipedia.org/wiki/Statistics_of_the_COVID-19_pandemic_in_the_United_States"
+          },
+          {
+            "title": "US state and local government...",
+            "link": "https://en.wikipedia.org/wiki/U.S._state_and_local_government_responses_to_the_COVID-19_pandemic"
+          },
+          {
+            "title": "Vaccination",
+            "link": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_the_United_States"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 7,
+      "title": "Covid Act Now: US COVID Tracker",
+      "link": "https://covidactnow.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covidactnow.org/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECDMQAQ",
+      "displayed_link": "https://covidactnow.org",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934a1c6e6951a0c2961b7e02d42a2d7ece4.png",
+      "snippet": "Jul 23, 2025 Covid Act Now has real-time tracking of your community's COVID risk level. Explore how your community is doing.",
+      "snippet_highlighted_words": [
+        "real-time tracking of your community's COVID risk level"
+      ],
+      "source": "Covid Act Now"
+    },
+    {
+      "position": 8,
+      "title": "Global COVID-19 Tracker",
+      "link": "https://www.kff.org/coronavirus-covid-19/issue-brief/global-covid-19-tracker/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kff.org/coronavirus-covid-19/issue-brief/global-covid-19-tracker/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCN0BEAE",
+      "displayed_link": "https://www.kff.org › coronavirus-covid-19 › issue-brief",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9341c2ea2d1154de2f9fd032120d33ae05e.png",
+      "snippet": "This tracker provides the cumulative number of confirmed COVID-19 cases and deaths, as well as the rate of daily COVID-19 cases and deaths by country, income, ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "cases",
+        "COVID",
+        "cases"
+      ],
+      "source": "KFF"
+    },
+    {
+      "position": 9,
+      "title": "Provisional Death Counts for COVID-19",
+      "link": "https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECDQQAQ",
+      "displayed_link": "https://www.cdc.gov › nchs › nvss › vsrr › covid_weekly",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9342425b0f0515e644ecb3e6e64a3a8f961.png",
+      "snippet": "United States death counts include the 50 states, plus the District of Columbia and New York City. New York state estimates exclude New York City. [1] Deaths ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "counts"
+      ],
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "position": 10,
+      "title": "COVID-19 Map - Johns Hopkins Coronavirus Resource Center",
+      "link": "https://coronavirus.jhu.edu/map.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coronavirus.jhu.edu/map.html&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCIoBEAE",
+      "displayed_link": "https://coronavirus.jhu.edu › map",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93413c56982055d504f38cfe708942e8a87.png",
+      "snippet": "This website is a resource to help advance the understanding of the virus, inform the public, and brief policymakers in order to guide a response.",
+      "source": "Johns Hopkins University"
+    },
+    {
+      "position": 11,
+      "title": "Coronavirus (COVID-19) Cases",
+      "link": "https://ourworldindata.org/covid-cases",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ourworldindata.org/covid-cases&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCPEBEAE",
+      "displayed_link": "https://ourworldindata.org › covid-cases",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9346057adf77ca71270704acd7cb7cd9fbe.png",
+      "snippet": "This page presents data on confirmed cases, meaning the number of people who have been tested and confirmed to be infected by the SARS-CoV-2 virus.",
+      "snippet_highlighted_words": [
+        "cases"
+      ],
+      "source": "Our World in Data"
+    },
+    {
+      "position": 12,
+      "title": "Covid in the U.S.: Latest Maps, Case and Death Counts",
+      "link": "https://www.nytimes.com/interactive/2021/us/covid-cases.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/interactive/2021/us/covid-cases.html&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCJACEAE",
+      "displayed_link": "https://www.nytimes.com › interactive › us › covid-cases",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9348f649ec794eb46bf7497f9821e50a5f5.png",
+      "snippet": "Track Covid-19 in your area, and get the latest state and county data on cases, deaths, hospitalizations, tests and vaccinations.",
+      "snippet_highlighted_words": [
+        "state and county data on cases"
+      ],
+      "source": "The New York Times"
+    },
+    {
+      "position": 13,
+      "title": "COVID - Coronavirus Statistics",
+      "link": "https://www.worldometers.info/coronavirus/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.worldometers.info/coronavirus/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECDUQAQ",
+      "displayed_link": "https://www.worldometers.info › coronavirus",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934212080256212e3f002d08a7680ac16c6.png",
+      "snippet": "Coronavirus Cases: 704,753,890 ; Deaths: 7,010,681 ; Recovered: 675,619,811.",
+      "snippet_highlighted_words": [
+        "Coronavirus Cases: 704,753,890"
+      ],
+      "source": "Worldometer"
+    },
+    {
+      "position": 14,
+      "title": "Daily new confirmed COVID-19 cases and deaths",
+      "link": "https://ourworldindata.org/grapher/daily-covid-cases-deaths-7-day-ra",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ourworldindata.org/grapher/daily-covid-cases-deaths-7-day-ra&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECG4QAQ",
+      "displayed_link": "https://ourworldindata.org › grapher › daily-covid-case...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9345acdf107a7f7d0e9e3a1a88f046290c0.png",
+      "snippet": "7-day rolling average. Limited testing and challenges in the attribution of cause of death mean the cases and deaths counts may not be accurate.",
+      "snippet_highlighted_words": [
+        "cases",
+        "counts"
+      ],
+      "source": "Our World in Data"
+    },
+    {
+      "position": 15,
+      "title": "COVID-19 reporting",
+      "link": "https://www.mass.gov/info-details/covid-19-reporting",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mass.gov/info-details/covid-19-reporting&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCIwBEAE",
+      "displayed_link": "https://www.mass.gov › info-details › covid-19-reporting",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934246a69ca2e094285b2089aa95f255f94.png",
+      "snippet": "The COVID-19 dashboard includes data on city/town COVID-19 activity, confirmed and probable cases of COVID-19, confirmed and probable deaths related to COVID-19 ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID",
+        "cases",
+        "COVID",
+        "COVID"
+      ],
+      "source": "Mass.gov"
+    },
+    {
+      "position": 16,
+      "title": "COVID-19 deaths | WHO COVID-19 dashboard - WHO Data",
+      "link": "https://data.who.int/dashboards/covid19/deaths",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://data.who.int/dashboards/covid19/deaths&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCL4BEAE",
+      "displayed_link": "https://data.who.int › dashboards › covid19 › deaths",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934b9232821182ba4861fd20a28f4e32770.png",
+      "snippet": "WHO collected the numbers of confirmed COVID-19 cases and deaths through official communications under the International Health Regulations (IHR, 2005).",
+      "snippet_highlighted_words": [
+        "COVID",
+        "cases"
+      ],
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 17,
+      "title": "Tracking Covid-19 cases in the US",
+      "link": "https://www.cnn.com/interactive/2020/health/coronavirus-us-maps-and-cases",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/interactive/2020/health/coronavirus-us-maps-and-cases&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCPUBEAE",
+      "displayed_link": "https://www.cnn.com › coronavirus-us-maps-and-cases",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9342c47e5957b325e0a4fae4640b02985dd.png",
+      "date": "Mar 20, 2023",
+      "snippet": "Covid-19 has killed at least 1,123,836 people and infected about 103.8 million in the United States since January 2020, according to data by ...",
+      "snippet_highlighted_words": [
+        "about 103.8 million in the United States"
+      ],
+      "source": "CNN"
+    },
+    {
+      "position": 18,
+      "title": "COVID-19 Open Data — Google Health",
+      "link": "https://health.google.com/covid-19/open-data/explorer/statistics",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://health.google.com/covid-19/open-data/explorer/statistics&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCP4BEAE",
+      "displayed_link": "https://health.google.com › explorer › statistics",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934b4f39bf1274f001be2554d950341d748.png",
+      "snippet": "Cases ; Aug 17, 2022, 119,235, 93,755.571 ; Aug 18, 2022, 113,589, 92,080.714 ; Aug 19, 2022, 128,421, 90,555.143 ; Aug 20, 2022, 27,009, 90,010.286.",
+      "snippet_highlighted_words": [
+        "Cases"
+      ],
+      "source": "Google Health"
+    },
+    {
+      "position": 19,
+      "title": "Coronavirus (COVID-19) in the U.S. - Statistics & Facts",
+      "link": "https://www.statista.com/topics/6084/coronavirus-covid-19-in-the-us/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.statista.com/topics/6084/coronavirus-covid-19-in-the-us/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCJMCEAE",
+      "displayed_link": "https://www.statista.com › ... › State of Health",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934fb763b7889cc39576b08c75caeb361a8.png",
+      "snippet": "As of April 26, 2023, the total number of COVID-19 cases in the United States had reached over 104.5 million, according to the Centers for Disease Control and ...",
+      "snippet_highlighted_words": [
+        "total number of COVID-19 cases in the United States had reached over 104.5 million"
+      ],
+      "source": "Statista"
+    },
+    {
+      "position": 20,
+      "title": "North Carolina Respiratory Virus Summary Dashboard",
+      "link": "https://covid19.ncdhhs.gov/dashboard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covid19.ncdhhs.gov/dashboard&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCMECEAE",
+      "displayed_link": "https://covid19.ncdhhs.gov › dashboard",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93417bdd9ccdc72f4e7b4196e803e659a9d.png",
+      "snippet": "This dashboard is a resource for tracking and understanding the spread of respiratory illness, including COVID-19, flu (influenza), and RSV, in North Carolina.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "North Carolina Department of Health and Human Services (.gov)"
+    },
+    {
+      "position": 21,
+      "title": "Situation Update for COVID-19",
+      "link": "https://www.health.state.mn.us/diseases/coronavirus/stats/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.state.mn.us/diseases/coronavirus/stats/index.html&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECDYQAQ",
+      "displayed_link": "https://www.health.state.mn.us › coronavirus › stats",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934e7034d345d1105fd8549580562880005.png",
+      "snippet": "COVID-19 Levels​​ Hospital admission level maps, charts, and data provided by CDC are updated every Thursday by 8 p.m. ET.",
+      "source": "MN Dept. of Health"
+    },
+    {
+      "position": 22,
+      "title": "Statistics of the COVID-19 pandemic in the United States",
+      "link": "https://en.wikipedia.org/wiki/Statistics_of_the_COVID-19_pandemic_in_the_United_States",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Statistics_of_the_COVID-19_pandemic_in_the_United_States&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECFMQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Statistics_of_the_COV...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934c6cbc22108f11458cb7cf5532b4941ee.png",
+      "snippet": "The CDC estimates that, between February 2020 and September 2021, only 1 in 1.3 COVID-19 deaths were attributed to COVID-19.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 23,
+      "title": "COVID-19 Data in New York | Department of Health - NY.Gov",
+      "link": "https://coronavirus.health.ny.gov/covid-19-data-new-york",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coronavirus.health.ny.gov/covid-19-data-new-york&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECGwQAQ",
+      "displayed_link": "https://coronavirus.health.ny.gov › covid-19-data-new-...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934ed31de38183ad318eccc7790121a3a64.png",
+      "snippet": "Browse, download, and analyze COVID-19-related data from the New York State Department of Health, including testing and hospitalization information.",
+      "snippet_highlighted_words": [
+        "Browse, download, and analyze COVID-19-related data"
+      ],
+      "source": "ny.gov"
+    },
+    {
+      "position": 24,
+      "title": "Totals for the US",
+      "link": "https://covidtracking.com/data/national",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covidtracking.com/data/national&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCIUBEAE",
+      "displayed_link": "https://covidtracking.com › data › national",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9349ca00df33e475f11ace0e3bf5b9d1297.png",
+      "snippet": "Total number of confirmed plus probable cases of COVID-19 reported by the state or territory, ideally per the August 5, 2020 CSTE case definition. Some states ...",
+      "snippet_highlighted_words": [
+        "Total number of confirmed plus probable cases of COVID-19"
+      ],
+      "source": "The COVID Tracking Project"
+    },
+    {
+      "position": 25,
+      "title": "nytimes/covid-19-data",
+      "link": "https://github.com/nytimes/covid-19-data",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/nytimes/covid-19-data&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCJ8BEAE",
+      "displayed_link": "https://github.com › nytimes › covid-19-data",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9345cc9b67e06842573ed4ba3880f83957a.png",
+      "snippet": "The New York Times is releasing a series of data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over ...",
+      "snippet_highlighted_words": [
+        "cumulative counts of coronavirus cases in the United States"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 26,
+      "title": "COVID Dashboard | Maine Center for Disease Control & ...",
+      "link": "https://www.maine.gov/dhhs/mecdc/data-reports/diseases/infectious-disease/covid-dashboard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.maine.gov/dhhs/mecdc/data-reports/diseases/infectious-disease/covid-dashboard&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKYBEAE",
+      "displayed_link": "https://www.maine.gov › diseases › infectious-disease",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934483d32b725ffcf9d242d92a6f462ef06.jpeg",
+      "snippet": "COVID-19 data updated weekly on Tuesdays. All data are preliminary and may change as Maine CDC investigates cases. ... Selected data available to download below.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "cases"
+      ],
+      "source": "Maine.gov"
+    },
+    {
+      "position": 27,
+      "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+      "link": "https://repository.gheli.harvard.edu/repository/13304/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://repository.gheli.harvard.edu/repository/13304/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCL8BEAE",
+      "displayed_link": "https://repository.gheli.harvard.edu › repository",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934dcf2aa77babe1b49bd200410fde52785.png",
+      "snippet": "This interactive in The New York Times provides the latest map and case count for Coronavirus Disease 2019 (COVID-19) and is updated regularly.",
+      "snippet_highlighted_words": [
+        "provides the latest map and case count"
+      ],
+      "source": "Harvard University"
+    },
+    {
+      "position": 28,
+      "title": "Understanding the COVID-19 pandemic",
+      "link": "https://usafacts.org/issues/coronavirus/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://usafacts.org/issues/coronavirus/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCNsBEAE",
+      "displayed_link": "https://usafacts.org › Health",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9348c9c4b3188242f09a83dc22dd635945e.png",
+      "snippet": "... alone. Total COVID-19 cases. 2020-01-22 2023-07-23 0 500K Cases. The US had 0 new COVID-19 cases on Jul 23, 2023. View the data→. Total COVID-19 deaths ...",
+      "snippet_highlighted_words": [
+        "Total COVID-19"
+      ],
+      "source": "USAFacts"
+    },
+    {
+      "position": 29,
+      "title": "COVID-19: Latest Data - NYC Health",
+      "link": "https://www.nyc.gov/site/doh/covid/covid-19-data.page",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nyc.gov/site/doh/covid/covid-19-data.page&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCPIBEAE",
+      "displayed_link": "https://www.nyc.gov › site › doh › covid › covid-19-data",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9346bc4ef0dbc2c22dc9d26aea1a15792d2.png",
+      "snippet": "Total cases (daily average), 174. Total case rate per 100,000, 14.6. Hospitalizations (daily average), 4. Hospitalization rate per 100,000, 0.3. Total deaths ( ...",
+      "snippet_highlighted_words": [
+        "cases",
+        "case"
+      ],
+      "source": "NYC.gov"
+    },
+    {
+      "position": 30,
+      "title": "Track Covid-19 in the U.S.: Latest Data and Maps",
+      "link": "https://www.nytimes.com/interactive/2023/us/covid-cases.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/interactive/2023/us/covid-cases.html&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCPYBEAE",
+      "displayed_link": "https://www.nytimes.com › interactive › us › covid-cases",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934f4ad1b93558673fa773c427d1b4076cf.png",
+      "date": "Mar 26, 2024",
+      "snippet": "Track the virus in your area, and get the latest state and county data on hospitalizations, cases, deaths, tests and vaccinations.",
+      "snippet_highlighted_words": [
+        "cases"
+      ],
+      "source": "The New York Times"
+    },
+    {
+      "position": 31,
+      "title": "COVID-19 Daily Counts of Cases, Hospitalizations, and Deaths",
+      "link": "https://catalog.data.gov/dataset/covid-19-daily-counts-of-cases-hospitalizations-and-deaths",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://catalog.data.gov/dataset/covid-19-daily-counts-of-cases-hospitalizations-and-deaths&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCIwCEAE",
+      "displayed_link": "https://catalog.data.gov › dataset › covid-19-daily-coun...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934ba7102f65d6fc34901a2d5898993e80e.png",
+      "snippet": "Daily count of NYC residents who tested positive for SARS-CoV-2, who were hospitalized with COVID-19, and deaths among COVID-19 patients.",
+      "snippet_highlighted_words": [
+        "count",
+        "COVID",
+        "COVID"
+      ],
+      "source": "Data.gov"
+    },
+    {
+      "position": 32,
+      "title": "COVID-19 Data | Vermont Department of Health",
+      "link": "https://www.healthvermont.gov/disease-control/covid-19/covid-19-data",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthvermont.gov/disease-control/covid-19/covid-19-data&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCI4CEAE",
+      "displayed_link": "https://www.healthvermont.gov › disease-control › covi...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9346c8f7ddc2bc7a424d7093866619110cd.png",
+      "snippet": "Find up-to-date information on emergency visits, wastewater monitoring, case counts, outbreaks, vaccination rates, and more. Data and reports are updated on ...",
+      "snippet_highlighted_words": [
+        "case counts"
+      ],
+      "source": "Vermont Department of Health (.gov)"
+    },
+    {
+      "position": 33,
+      "title": "Coronavirus",
+      "link": "https://www.michigan.gov/coronavirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.michigan.gov/coronavirus&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKMCEAE",
+      "displayed_link": "https://www.michigan.gov › coronavirus",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93425bf004039ec2e029c711b0a096ecf28.png",
+      "snippet": "The dashboard has provided important information on COVID-19 cases, hospitalizations, and deaths among Michigan residents, as well as cumulative data throughout ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "cases"
+      ],
+      "source": "State of Michigan (.gov)"
+    },
+    {
+      "position": 34,
+      "title": "Data and Dashboards - covid-19",
+      "link": "https://www.nj.gov/health/covid-19/information/data-and-dashboards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nj.gov/health/covid-19/information/data-and-dashboards/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCLQCEAE",
+      "displayed_link": "https://www.nj.gov › health › covid-19 › information",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93480ef3d1ad7cbb52baf528a79d56f692e.png",
+      "snippet": "COVID-19 Outbreaks in New Jersey Long-Term Care Facilities. This document includes facility reported COVID-19 Confirmed cases. Suspect cases are excluded.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID",
+        "cases",
+        "cases"
+      ],
+      "source": "NJ.gov"
+    },
+    {
+      "position": 35,
+      "title": "Coronavirus tracked: see how your country compares",
+      "link": "https://ig.ft.com/coronavirus-chart/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ig.ft.com/coronavirus-chart/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCLUCEAE",
+      "displayed_link": "https://ig.ft.com › coronavirus-chart",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934d3863a4304c5cab6d696568649b65942.png",
+      "snippet": "Find any country or US state in the live-updating and customisable version of the FT's Covid-19 trajectory charts.",
+      "snippet_highlighted_words": [
+        "US",
+        "Covid"
+      ],
+      "source": "Financial Times"
+    },
+    {
+      "position": 36,
+      "title": "COVID-19 Cases in the United States - Injury Facts",
+      "link": "https://injuryfacts.nsc.org/home-and-community/safety-topics/covid-19-cases-in-the-united-states/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://injuryfacts.nsc.org/home-and-community/safety-topics/covid-19-cases-in-the-united-states/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECDIQAQ",
+      "displayed_link": "https://injuryfacts.nsc.org › ... › Safety Topics",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9340f55dd40354268dcf0a600623bdf710c.png",
+      "snippet": "The number of confirmed and probable COVID-19 deaths in the U.S. is estimated to be 377,883 in 2020. This total far exceeds 173,040, the total number of ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "U.S."
+      ],
+      "source": "National Safety Council"
+    },
+    {
+      "position": 37,
+      "title": "State of Hawaii COVID-19 Data Dashboards",
+      "link": "https://health.hawaii.gov/coronavirusdisease2019/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://health.hawaii.gov/coronavirusdisease2019/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECFYQAQ",
+      "displayed_link": "https://health.hawaii.gov › coronavirusdisease2019",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934b742d193a471541a7e836be91bf084bd.png",
+      "snippet": "The Hawaii Department of Health collects COVID-19 case and vaccination data to create the interactive data analytics dashboards below.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "case"
+      ],
+      "source": "Hawaii Department of Health (.gov)"
+    },
+    {
+      "position": 38,
+      "title": "COVID-19 Nursing Home Data",
+      "link": "https://data.cms.gov/covid-19/covid-19-nursing-home-data",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://data.cms.gov/covid-19/covid-19-nursing-home-data&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECFIQAQ",
+      "displayed_link": "https://data.cms.gov › covid-19 › covid-19-nursing-ho...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93467995036e30516a74956cbad80baa1be.png",
+      "snippet": "Weekly Resident COVID-19 Confirmed Cases. Note: The most recent week's data is considered preliminary and will be updated the following week.",
+      "snippet_highlighted_words": [
+        "Weekly Resident COVID-19 Confirmed Cases"
+      ],
+      "source": "Centers for Medicare & Medicaid Services | CMS (.gov)"
+    },
+    {
+      "position": 39,
+      "title": "Color of Coronavirus: COVID-19 deaths analyzed by race ...",
+      "link": "https://www.apmresearchlab.org/covid/deaths-by-race",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apmresearchlab.org/covid/deaths-by-race&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECG0QAQ",
+      "displayed_link": "https://www.apmresearchlab.org › covid › deaths-by-race",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934571e48c0b701d72979344ab5e4f9fb44.png",
+      "snippet": "COVID-19 has claimed over a million lives in the U.S. Our ongoing Color of Coronavirus project monitors how and where COVID-19 mortality is inequitably ...",
+      "snippet_highlighted_words": [
+        "COVID-19 has claimed over a million lives in the U.S"
+      ],
+      "source": "APM Research Lab"
+    },
+    {
+      "position": 40,
+      "title": "Respiratory Illness Data Dashboard | Washington State ...",
+      "link": "https://doh.wa.gov/data-and-statistical-reports/diseases-and-chronic-conditions/communicable-disease-surveillance-data/respiratory-illness-data-dashboard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://doh.wa.gov/data-and-statistical-reports/diseases-and-chronic-conditions/communicable-disease-surveillance-data/respiratory-illness-data-dashboard&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECHAQAQ",
+      "displayed_link": "https://doh.wa.gov › diseases-and-chronic-conditions › r...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934457af5f5206ea7ff2b31620883f4546b.png",
+      "snippet": "... case interviews managed by state, local, and tribal health jurisdictions. To help us further identify AIAN individuals, we cross check COVID-19 cases ...",
+      "snippet_highlighted_words": [
+        "case",
+        "us",
+        "COVID",
+        "cases"
+      ],
+      "source": "Washington State Department of Health (.gov)"
+    },
+    {
+      "position": 41,
+      "title": "COVID-19 data - King County, Washington",
+      "link": "https://kingcounty.gov/en/dept/dph/health-safety/disease-illness/covid-19/data",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kingcounty.gov/en/dept/dph/health-safety/disease-illness/covid-19/data&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECGsQAQ",
+      "displayed_link": "https://kingcounty.gov › health-safety › disease-illness",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934c5f86b3cd740c9c30de7c4935fc759cb.png",
+      "snippet": "COVID-19 data. Local metrics and trends to understand the impact of COVID ... Contact us · Directory · Elected officials · Customer service · Departments · Office ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID",
+        "us"
+      ],
+      "source": "King County (.gov)"
+    },
+    {
+      "position": 42,
+      "title": "Coronavirus COVID-19 (2019-nCoV)",
+      "link": "https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCIQBEAE",
+      "displayed_link": "https://www.arcgis.com › apps › dashboards",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9347bef31c966126d617cedb77187b71873.png",
+      "snippet": "Please sign in to ArcGIS Online. Cancel. OK.",
+      "source": "ArcGIS Online"
+    },
+    {
+      "position": 43,
+      "title": "States with the highest COVID cases 2023",
+      "link": "https://www.statista.com/statistics/1102807/coronavirus-covid19-cases-number-us-americans-by-state/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.statista.com/statistics/1102807/coronavirus-covid19-cases-number-us-americans-by-state/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCIkBEAE",
+      "displayed_link": "https://www.statista.com › ... › State of Health",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934d8565cd6024b401164bdee493c470648.png",
+      "snippet": "As of March 10, 2023, the state with the highest number of COVID-19 cases was California. Almost 104 million cases have been reported across the United States.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "cases",
+        "cases",
+        "United States"
+      ],
+      "source": "Statista"
+    },
+    {
+      "position": 44,
+      "title": "COVID-19: Wisconsin Data",
+      "link": "https://www.dhs.wisconsin.gov/covid-19/data.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dhs.wisconsin.gov/covid-19/data.htm&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKEBEAE",
+      "displayed_link": "https://www.dhs.wisconsin.gov › covid-19 › data",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9341fe0a753ac7ca8c362e6bfc41dcf8622.png",
+      "date": "Apr 15, 2024",
+      "snippet": "CDC COVID-19 Data Tracker. Doctor ... Find U.S. COVID-19 vaccine data by county or state. See U.S. COVID-19 data by geographic region ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "U.S. COVID",
+        "U.S. COVID"
+      ],
+      "source": "Wisconsin Department of Health Services (.gov)"
+    },
+    {
+      "position": 45,
+      "title": "Pages - Maryland COVID-19 Data",
+      "link": "https://health.maryland.gov/covid/Pages/Maryland-COVID-19-Data.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://health.maryland.gov/covid/Pages/Maryland-COVID-19-Data.aspx&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKUBEAE",
+      "displayed_link": "https://health.maryland.gov › covid › Maryland-COVID-...",
+      "snippet": "Data ranges from 0.57 to 235.17. Created with Highcharts 12.3.0 Case Rate ... Us · 988 Suicide & Crisis Lifeline. Our Social Media Channels. We're available on ...",
+      "snippet_highlighted_words": [
+        "Case",
+        "Us"
+      ],
+      "source": "Maryland.gov"
+    },
+    {
+      "position": 46,
+      "title": "National Data: Deaths",
+      "link": "https://covidtracking.com/data/national/deaths",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covidtracking.com/data/national/deaths&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKcBEAE",
+      "displayed_link": "https://covidtracking.com › data › national › deaths",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934f2216d91bd4bf7584a759a09da6f82f3.png",
+      "snippet": "COVID deaths numbers in the US for each day from January 2020 to the present.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "US"
+      ],
+      "source": "The COVID Tracking Project"
+    },
+    {
+      "position": 47,
+      "title": "COVID-19 Report - FL Health CHARTS - Florida ...",
+      "link": "https://www.flhealthcharts.gov/ChartsDashboards/rdPage.aspx?rdReport=Covid19.Dataviewer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.flhealthcharts.gov/ChartsDashboards/rdPage.aspx%3FrdReport%3DCovid19.Dataviewer&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCLsBEAE",
+      "displayed_link": "https://www.flhealthcharts.gov › rdPage › rdReport=Covi...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934ce93d08cbc69103a664890903d5a9d3d.png",
+      "snippet": "Illness ranges from no noticeable symptoms to severe cases with symptoms typically including fever, cough, and shortness of breath. Case counts include ...",
+      "snippet_highlighted_words": [
+        "cases",
+        "Case counts"
+      ],
+      "source": "FLHealthCHARTS.gov"
+    },
+    {
+      "position": 48,
+      "title": "COVID-19 Daily Counts of Cases, Hospitalizations, and Deaths",
+      "link": "https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCMEBEAE",
+      "displayed_link": "https://data.cityofnewyork.us › Health › COVID-19-Dai...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934d17a3e9440268d9efe733ca062a4741b.png",
+      "snippet": "... Us. Menu. Menu. Close. HomeData. AboutOverviewDashboardLaws and Reports. LearnHow ... COVID-19 Daily Counts of Cases, Hospitalizations, and Deaths. Health.",
+      "snippet_highlighted_words": [
+        "Us",
+        "COVID",
+        "Counts",
+        "Cases"
+      ],
+      "source": "NYC Open Data -"
+    },
+    {
+      "position": 49,
+      "title": "Coronavirus - Delaware's Coronavirus Official Website",
+      "link": "https://coronavirus.delaware.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coronavirus.delaware.gov/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCNUBEAE",
+      "displayed_link": "https://coronavirus.delaware.gov",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9341537da517e46f63af588d92a710981f6.png",
+      "snippet": "Find the latest information about Delaware's response to the COVID-19 pandemic, including testing locations near you and lab-confirmed cases by county.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "cases"
+      ],
+      "source": "Delaware.gov"
+    },
+    {
+      "position": 50,
+      "title": "Coronavirus in the U.S. - Latest Map and Case Count",
+      "link": "https://newamericafoundation.github.io/pandemic-response-repository/projects/coronavirus-in-the-u-s-latest-map-and-case-count/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://newamericafoundation.github.io/pandemic-response-repository/projects/coronavirus-in-the-u-s-latest-map-and-case-count/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCNkBEAE",
+      "displayed_link": "https://newamericafoundation.github.io › projects › coro...",
+      "snippet": "An ongoing repository of data on coronavirus cases and deaths in the U.S.. Author The New York Times. Main point of contact covid-data@nytimes.com. License ...",
+      "snippet_highlighted_words": [
+        "coronavirus cases",
+        "U.S.",
+        "covid"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 51,
+      "title": "outbreak.info SARS-CoV-2 data explorer",
+      "link": "https://outbreak.info/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://outbreak.info/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCNwBEAE",
+      "displayed_link": "https://outbreak.info",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934a5accf72e1c5e81a085731b71544e201.png",
+      "snippet": "Outbreak.info explores COVID-19 and SARS-CoV-2 data with variant surveillance reports, data on cases and deaths, and a searchable research library.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "cases"
+      ],
+      "source": "Outbreak.info"
+    },
+    {
+      "position": 52,
+      "title": "Texas COVID-19 Surveillance Archives",
+      "link": "https://www.dshs.texas.gov/covid-19-coronavirus-disease/texas-covid-19-surveillance",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dshs.texas.gov/covid-19-coronavirus-disease/texas-covid-19-surveillance&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCPMBEAE",
+      "displayed_link": "https://www.dshs.texas.gov › covid-19-coronavirus-disease",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934f189d1f57ccf214551696021ff36ae31.png",
+      "snippet": "Note: Cumulative counts will consistently reflect all cases within the National Electronic Disease Surveillance System as of report date. Counts may include ...",
+      "snippet_highlighted_words": [
+        "counts",
+        "cases",
+        "Counts"
+      ],
+      "source": "Texas Department of State Health Services (DSHS) (.gov)"
+    },
+    {
+      "position": 53,
+      "title": "Respiratory Disease Data – Epidemiology",
+      "link": "https://www.vdh.virginia.gov/epidemiology/respiratory-diseases-in-virginia/data/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vdh.virginia.gov/epidemiology/respiratory-diseases-in-virginia/data/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCPQBEAE",
+      "displayed_link": "https://www.vdh.virginia.gov › epidemiology › data",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934e51d21c99da64b2a4423fc92eb9c551c.png",
+      "snippet": "Respiratory illness activity tracks the number of visits to the emergency department for viral illnesses such as COVID-19, flu, and RSV and other respiratory ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Virginia Department of Health (.gov)"
+    },
+    {
+      "position": 54,
+      "title": "(Archive) COVID-19 Cases and Deaths Dashboard",
+      "link": "https://covid19.ncdhhs.gov/dashboard/cases-and-deaths",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covid19.ncdhhs.gov/dashboard/cases-and-deaths&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCIkCEAE",
+      "displayed_link": "https://covid19.ncdhhs.gov › dashboard › cases-and-de...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9343e035f4cf1c4fb7f39862690667ac772.png",
+      "snippet": "However, the way we track COVID-19 has changed. More people are using home tests, which are not reported to health officials, making case counts less reliable.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "case counts"
+      ],
+      "source": "North Carolina Department of Health and Human Services (.gov)"
+    },
+    {
+      "position": 55,
+      "title": "Coronavirus Dashboard",
+      "link": "https://ncov2019.live/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ncov2019.live/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCPABEAE",
+      "displayed_link": "https://ncov2019.live",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9341b23b66a861b384ddfb35b659411d99f.png",
+      "snippet": "Live coronavirus dashboard tracker. See data, maps, social media trends, and learn about prevention measures.",
+      "snippet_highlighted_words": [
+        "coronavirus"
+      ],
+      "source": "nCoV2019"
+    },
+    {
+      "position": 56,
+      "title": "Modeling COVID-19 scenarios for the United States",
+      "link": "https://www.nature.com/articles/s41591-020-1132-9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nature.com/articles/s41591-020-1132-9&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCI8CEAE",
+      "displayed_link": "https://www.nature.com › nature medicine › articles",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93433149488ee5e734a58d83d36159266d2.png",
+      "date": "2021",
+      "snippet": "In locations where the number of cases is rising, this leads to very high numbers of cases by the end of the year. As a more plausible scenario, ...",
+      "snippet_highlighted_words": [
+        "cases",
+        "cases"
+      ],
+      "source": "Nature"
+    },
+    {
+      "position": 57,
+      "title": "COVID-19 Visualizer",
+      "link": "https://covidvisualizer.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covidvisualizer.com/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCI0CEAE",
+      "displayed_link": "https://covidvisualizer.com",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934576d2ea560526e06f9b2d6e0c45e7f24.png",
+      "snippet": "An interactive COVID-19 visualizer (coronavirus) that highlights countries around the world based on the most recent cases.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "coronavirus",
+        "cases"
+      ],
+      "source": "COVID-19 Visualizer"
+    },
+    {
+      "position": 58,
+      "title": "Summer COVID strain 2025, measles news, new RSV ...",
+      "link": "https://www.ama-assn.org/delivering-care/public-health/summer-covid-strain-2025-measles-news-new-rsv-vaccine-infants-and",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ama-assn.org/delivering-care/public-health/summer-covid-strain-2025-measles-news-new-rsv-vaccine-infants-and&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCJICEAE",
+      "displayed_link": "https://www.ama-assn.org › public-health › summer-co...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934d3e08b7af7acf4008e66ae3cb1f92d2b.png",
+      "date": "Jun 18, 2025",
+      "snippet": "... cases here in the U.S.. Unger: Hello and welcome to ... Garcia: Well, it's been a couple of weeks since we took a look at the case counts.",
+      "snippet_highlighted_words": [
+        "cases",
+        "U.S.",
+        "case counts"
+      ],
+      "source": "American Medical Association"
+    },
+    {
+      "position": 59,
+      "title": "An interactive web-based dashboard to track COVID-19 in ...",
+      "link": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCJECEAE",
+      "displayed_link": "https://www.thelancet.com › laninf › article › fulltext",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934a591b5497de516070fe30d3109a2984b.jpeg",
+      "author": "by E Dong",
+      "snippet": "... COVID-19 cases in near real time at the province level in China and at the country level otherwise. Every 15 min, the cumulative case counts are updated ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "cases",
+        "case counts"
+      ],
+      "source": "The Lancet"
+    },
+    {
+      "position": 60,
+      "title": "CDC: Average 350 Covid Deaths Per Week In US | World ...",
+      "link": "https://www.youtube.com/watch?v=rGl1FSNRsNw",
+      "displayed_link": "10.8K+ views · 1 month ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-uCZanV0EOSlk3O9gzEstNRXREHMNvGwMzPKjUeUbNEG&s",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934f4decb5a1d869bb8d27a8025a2b3e54c.png",
+      "snippet": "The Centers for Disease Control and Prevention has stopped recommending routine COVID-19 vaccinations for pregnant women and healthy ...",
+      "duration": "2:05",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTMm92KhzVY3AM_Da2gY4EkZbPOwhyuFY-MoQ",
+      "source": "YouTube · WION"
+    },
+    {
+      "position": 61,
+      "title": "Weekly United States COVID-19 Cases and Deaths by ...",
+      "link": "https://healthdata.gov/CDC/Weekly-United-States-COVID-19-Cases-and-Deaths-by-/fjew-c6u8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://healthdata.gov/CDC/Weekly-United-States-COVID-19-Cases-and-Deaths-by-/fjew-c6u8&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKgCEAE",
+      "displayed_link": "https://healthdata.gov › CDC › Weekly-United-States-CO...",
+      "snippet": "... Case and Death Count data was discontinued on May 11, 2023, with the expiration of the COVID-19 public health emergency declaration. Although these data ...",
+      "snippet_highlighted_words": [
+        "Case",
+        "Count",
+        "COVID"
+      ],
+      "source": "HealthData.gov"
+    },
+    {
+      "position": 62,
+      "title": "Hawaii COVID-19 Data | Disease Outbreak Control Division",
+      "link": "https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://health.hawaii.gov/coronavirusdisease2019/current-situation-in-hawaii/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKkCEAE",
+      "displayed_link": "https://health.hawaii.gov › current-situation-in-hawaii",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934b33e594fff7ac49c96cdff5f5631df39.png",
+      "snippet": "New Case Counts. How many new cases were reported this week on each island? See a breakdown ...",
+      "snippet_highlighted_words": [
+        "Case Counts",
+        "cases"
+      ],
+      "source": "Hawaii Department of Health (.gov)"
+    },
+    {
+      "position": 63,
+      "title": "COVID-19 Home",
+      "link": "https://covid19.ca.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covid19.ca.gov/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKcCEAE",
+      "displayed_link": "https://covid19.ca.gov",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93460e8c66b231213a9f61243e156d27108.png",
+      "date": "Oct 23, 2024",
+      "snippet": "The California Department of Public Health is dedicated to optimizing the health and well-being of Californians.",
+      "source": "CA.gov"
+    },
+    {
+      "position": 64,
+      "title": "COVID-19 deaths",
+      "link": "https://www.sf.gov/data--covid-19-cases-and-deaths",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sf.gov/data--covid-19-cases-and-deaths&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCLECEAE",
+      "displayed_link": "https://www.sf.gov › data--covid-19-cases-and-deaths",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93487fa411d9a7f33019afcb2f0e2ab3abf.png",
+      "snippet": "Total COVID-19 deaths in San Francisco. The total cumulative number of ... Data for the US. Partner agencies. Department of Public Health. Was this page ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "US"
+      ],
+      "source": "SF.gov"
+    },
+    {
+      "position": 65,
+      "title": "Coronavirus Disease 2019 (COVID-19)",
+      "link": "https://www.mass.gov/coronavirus-disease-2019-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mass.gov/coronavirus-disease-2019-covid-19&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCLICEAE",
+      "displayed_link": "https://www.mass.gov › coronavirus-disease-2019-covi...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9343650e77419d20c052ed34dfbed3d8c42.png",
+      "snippet": "Here you will find updates on case counts, testing, vaccination, guidance, and resources regarding our public health response to COVID-19 in the Commonwealth.",
+      "snippet_highlighted_words": [
+        "case counts",
+        "COVID"
+      ],
+      "source": "Mass.gov"
+    },
+    {
+      "position": 66,
+      "title": "Georgia COVID-19 Dashboard",
+      "link": "https://ga-covid19.ondemand.sas.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ga-covid19.ondemand.sas.com/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCLMCEAE",
+      "displayed_link": "https://ga-covid19.ondemand.sas.com",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93443c6f3a772323bd1cb918c1ef51444cd.png",
+      "snippet": "On the map, you can hover or click to find out additional details such as number of deaths, case rate, etc. Selecting a county will also update the cases over ...",
+      "snippet_highlighted_words": [
+        "case",
+        "cases"
+      ],
+      "source": "SAS: Data and AI Solutions"
+    },
+    {
+      "position": 67,
+      "title": "COVID-19 - Regulations | Occupational Safety and Health ...",
+      "link": "http://www.osha.gov/coronavirus/standards",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.osha.gov/coronavirus/standards&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCMgCEAE",
+      "displayed_link": "http://www.osha.gov › coronavirus › standards",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9345a45687e0a3caf8186edaa92783b3b9c.png",
+      "snippet": "United States Department of Labor. U.S. Department of Labor. MENU. OSHA ... The case is a confirmed case of COVID-19 (see CDC information on persons ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "U.S.",
+        "case",
+        "case",
+        "COVID"
+      ],
+      "source": "Occupational Safety and Health Administration (.gov)"
+    },
+    {
+      "position": 68,
+      "title": "COVID-19",
+      "link": "https://ukhsa-dashboard.data.gov.uk/respiratory-viruses/covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ukhsa-dashboard.data.gov.uk/respiratory-viruses/covid-19&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECDcQAQ",
+      "displayed_link": "https://ukhsa-dashboard.data.gov.uk › respiratory-viruses",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93439ab86d620bf29bc0c4100f417981728.png",
+      "snippet": "BetaThis is a new service - your feedback will help us to improve it. ... Number of cases. Tabular data. Cases by specimen date data for number of cases ...",
+      "snippet_highlighted_words": [
+        "us",
+        "cases",
+        "Cases",
+        "cases"
+      ],
+      "source": "Data.gov.uk"
+    },
+    {
+      "position": 69,
+      "title": "COVID-19",
+      "link": "https://www.idsociety.org/ID-topics/infectious-disease/covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.idsociety.org/ID-topics/infectious-disease/covid-19/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECFUQAQ",
+      "displayed_link": "https://www.idsociety.org › ID-topics › infectious-disease",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934602c3dc250fbe00b89b7f9e6cda283a4.png",
+      "snippet": "It can be very contagious and can spread quickly. Since 2020, more than 1.2 million people have died of COVID-19 in the U.S.. More about COVID-19.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "U.S.",
+        "COVID"
+      ],
+      "source": "IDSA"
+    },
+    {
+      "position": 70,
+      "title": "Positive Tests Over Time, by Region and County - COVID-19",
+      "link": "https://coronavirus.health.ny.gov/positive-tests-over-time-region-and-county",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coronavirus.health.ny.gov/positive-tests-over-time-region-and-county&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECE8QAQ",
+      "displayed_link": "https://coronavirus.health.ny.gov › positive-tests-over-ti...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9341effe309802181105b070c498f4a8606.png",
+      "snippet": "Positive cases by day. ... Population Data: From 2020 to 2023, state population estimates used the 2018 US Census Bridged Race Categories file.",
+      "snippet_highlighted_words": [
+        "cases",
+        "US"
+      ],
+      "source": "ny.gov"
+    },
+    {
+      "position": 71,
+      "title": "COVID-19 Case Summary",
+      "link": "https://www.jeffco.us/4007/Case-Summary",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jeffco.us/4007/Case-Summary&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECFAQAQ",
+      "displayed_link": "https://www.jeffco.us › Case-Summary",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9344ab21257c243814ff59420c2a332f1a9.png",
+      "snippet": "About Us · Records & Statistics · Clinic Services · Programs · Environmental Health ... COVID-19 Case Summary. *For best viewing on a mobile device, turn your ...",
+      "snippet_highlighted_words": [
+        "Us",
+        "COVID",
+        "Case"
+      ],
+      "source": "Jefferson County"
+    },
+    {
+      "position": 72,
+      "title": "Michigan Data",
+      "link": "https://www.michigan.gov/coronavirus/stats",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.michigan.gov/coronavirus/stats&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECFEQAQ",
+      "displayed_link": "https://www.michigan.gov › coronavirus › stats",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93400181a54066e1677d65565ab6d199785.png",
+      "snippet": "This dashboard has provided awareness of confirmed and probable COVID-19 cases and deaths among Michigan residents as well as cumulative data throughout the ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "cases"
+      ],
+      "source": "State of Michigan (.gov)"
+    },
+    {
+      "position": 73,
+      "title": "Coronavirus (COVID-19)",
+      "link": "https://www.pewresearch.org/topic/coronavirus-disease-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pewresearch.org/topic/coronavirus-disease-covid-19/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECFQQAQ",
+      "displayed_link": "https://www.pewresearch.org › Research Topics",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9340bbca9315dc69be68543b79d96fb644c.png",
+      "snippet": "Just 20% of the public views the coronavirus as a major threat to the health of the US population and only 10% are very concerned about getting a serious case ...",
+      "snippet_highlighted_words": [
+        "coronavirus"
+      ],
+      "source": "Pew Research Center"
+    },
+    {
+      "position": 74,
+      "title": "COVID-19 Data in Motion - Johns Hopkins Coronavirus ...",
+      "link": "https://coronavirus.jhu.edu/covid-19-daily-video",
+      "displayed_link": "https://coronavirus.jhu.edu · Aug 5, 2020",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmuEaEH1RQFHzCWUUzzab1B7DskLDX2b3ci5jbly6rvad&s",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934d536cf7221f34dbed4914f1a76ae6d28.png",
+      "snippet": "... data on COVID-19 from the last 24 hours. Explore COVID-19 trends around ... New Cases of COVID-19 in US States. Where are cases rising? See if new cases ...",
+      "duration": "0:51",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQR_nVEl-AksLsgpWynIeNPo_NQABmhAYaknw",
+      "source": "Johns Hopkins Coronavirus Resource Center · Johns Hopkins University"
+    },
+    {
+      "position": 75,
+      "title": "COVID-19 Open Data Repository",
+      "link": "https://health.google.com/covid-19/open-data/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://health.google.com/covid-19/open-data/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECGkQAQ",
+      "displayed_link": "https://health.google.com › covid-19 › open-data",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934d8ebb458402eb348efe48fbaeb65d137.png",
+      "snippet": "Case studies. Please let us know if you use this data in a project — a research paper, for example, or efforts involving data visualization or analysis.",
+      "snippet_highlighted_words": [
+        "Case",
+        "us"
+      ],
+      "source": "Google Health"
+    },
+    {
+      "position": 76,
+      "title": "COVID-19: Data Trends and Totals - NYC Health",
+      "link": "https://www.nyc.gov/site/doh/covid/covid-19-data-totals.page",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nyc.gov/site/doh/covid/covid-19-data-totals.page&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECG8QAQ",
+      "displayed_link": "https://www.nyc.gov › site › doh › covid-19-data-totals",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934d4936ff21752eb03cd89013ede446f51.png",
+      "snippet": "These charts shows the daily number of confirmed and probable COVID-19 cases, hospitalizations and deaths by date that each occurred. You can also see monthly ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "cases"
+      ],
+      "source": "NYC.gov"
+    },
+    {
+      "position": 77,
+      "title": "COVID & Flu Near Me",
+      "link": "https://learn.makemytestcount.org/covid-and-flu-in-your-area",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.makemytestcount.org/covid-and-flu-in-your-area&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECGoQAQ",
+      "displayed_link": "https://learn.makemytestcount.org › covid-and-flu-in-y...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934fdad6224935a4e4cde0e70f4d17cc48c.png",
+      "snippet": "Note: When a surge happens, virus levels in wastewater go up first - before case counts or hospitalizations. ... Roughly half of US states have their own ...",
+      "snippet_highlighted_words": [
+        "case counts",
+        "US"
+      ],
+      "source": "MakeMyTestCount"
+    },
+    {
+      "position": 78,
+      "title": "COVID-19 Cases and Deaths by Race/Ethnicity",
+      "link": "https://www.kff.org/racial-equity-and-health-policy/issue-brief/covid-19-cases-and-deaths-by-race-ethnicity-current-data-and-changes-over-time/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kff.org/racial-equity-and-health-policy/issue-brief/covid-19-cases-and-deaths-by-race-ethnicity-current-data-and-changes-over-time/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECHEQAQ",
+      "displayed_link": "https://www.kff.org › issue-brief › covid-19-cases-and-...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934859b6def69975b00ddecdabb18638ebf.png",
+      "date": "Aug 22, 2022",
+      "snippet": "Total cumulative data show Black, Hispanic, American Indian or Alaska Native (AIAN), and Native Hawaiian or Other Pacific Islander (NHOPI) ...",
+      "snippet_highlighted_words": [
+        "American"
+      ],
+      "source": "KFF"
+    },
+    {
+      "position": 79,
+      "title": "Fast Facts on U.S. Hospitals, 2025",
+      "link": "https://www.aha.org/statistics/fast-facts-us-hospitals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aha.org/statistics/fast-facts-us-hospitals&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCIgBEAE",
+      "displayed_link": "https://www.aha.org › statistics › fast-facts-us-hospitals",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934ace6a1a69056959ea02c13feb6a69773.png",
+      "snippet": "The survey includes the number of government hospitals, the number hospitals in each state, and the number of hospital beds.",
+      "source": "American Hospital Association"
+    },
+    {
+      "position": 80,
+      "title": "COVID cases rising across U.S., according to levels detected ...",
+      "link": "https://www.youtube.com/watch?v=6O-eIulIFg8&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "58.6K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy49Yc3cNRQ64awmS9HSpXJCoyzDj-HjsnBVPc_nE5mnV-&s",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9346cdf72157ce5e09370b2c1acd87e48d8.png",
+      "snippet": "The wastewater viral activity level for COVID-19 is high and very high in 26 states right now, according to the CDC, with more than 70% of ...",
+      "duration": "3:37",
+      "source": "YouTube · CBS News"
+    },
+    {
+      "position": 81,
+      "title": "LA County Daily COVID-19 Data",
+      "link": "http://publichealth.lacounty.gov/Coronavirus/data",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://publichealth.lacounty.gov/Coronavirus/data&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCIcBEAE",
+      "displayed_link": "http://publichealth.lacounty.gov › Coronavirus › data",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93455fdf8c2d0a1a358f348d729401157dd.png",
+      "snippet": "With significantly reduced risks to the general public associated with COVID-19 infections, Public Health has retired the COVID-19 Data Dashboard effective ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID"
+      ],
+      "source": "LA County Department of Public Health (.gov)"
+    },
+    {
+      "position": 82,
+      "title": "Vaccine Adverse Event Reporting System (VAERS)",
+      "link": "https://vaers.hhs.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vaers.hhs.gov/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCIYBEAE",
+      "displayed_link": "https://vaers.hhs.gov",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9345b08c289379f598175ecb00929fef95d.png",
+      "snippet": "VAERS is co-sponsored by the Centers for Disease Control and Prevention (CDC), and the Food and Drug Administration (FDA), agencies of the US Department of ...",
+      "source": "Vaccine Adverse Event Reporting System (VAERS) (.gov)"
+    },
+    {
+      "position": 83,
+      "title": "Immigration and Citizenship Data",
+      "link": "https://www.uscis.gov/tools/reports-and-studies/immigration-and-citizenship-data",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uscis.gov/tools/reports-and-studies/immigration-and-citizenship-data&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCIsBEAE",
+      "displayed_link": "https://www.uscis.gov › tools › reports-and-studies › im...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93498afbf39ae08308c6824d0dde6bcc46d.png",
+      "snippet": "Number of Waivers by Form Number and Case Status (Fiscal Year 2025, Quarter ... USA.gov. Looking for U.S. government information and services? Visit USA.gov ...",
+      "snippet_highlighted_words": [
+        "Case",
+        "USA",
+        "U.S.",
+        "USA"
+      ],
+      "source": "USCIS (.gov)"
+    },
+    {
+      "position": 84,
+      "title": "Hospitalization Data: COVID-19 Situation Update",
+      "link": "https://www.health.state.mn.us/diseases/coronavirus/stats/hosp.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.state.mn.us/diseases/coronavirus/stats/hosp.html&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKABEAE",
+      "displayed_link": "https://www.health.state.mn.us › diseases › stats › hosp",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9346fbd0ea2490b73780467c6b2ee3e1d1e.png",
+      "snippet": "Cases in residents of other states hospitalized in Minnesota are not included in the Minnesota case counts. ... In most cases, the original admission was for ...",
+      "snippet_highlighted_words": [
+        "Cases",
+        "case counts",
+        "cases"
+      ],
+      "source": "MN Dept. of Health"
+    },
+    {
+      "position": 85,
+      "title": "Payment Count Adjustments Toward Income-Driven ...",
+      "link": "https://studentaid.gov/announcements-events/idr-account-adjustment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studentaid.gov/announcements-events/idr-account-adjustment&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKIBEAE",
+      "displayed_link": "https://studentaid.gov › idr-account-adjustment",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934947cd0aec773b031879a9f32db12b911.png",
+      "snippet": "Borrowers will continue to see the COVID-19 related forbearances counted toward IDR and PSLF forgiveness. In most cases, if borrowers made qualifying payments ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "counted",
+        "cases"
+      ],
+      "source": "Federal Student Aid (.gov)"
+    },
+    {
+      "position": 86,
+      "title": "Respiratory Viruses",
+      "link": "https://www.chfs.ky.gov/agencies/dph/Pages/RespiratoryDiseases.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chfs.ky.gov/agencies/dph/Pages/RespiratoryDiseases.aspx&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKMBEAE",
+      "displayed_link": "https://www.chfs.ky.gov › Pages › RespiratoryDiseases",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93434a20fa930dbc057f8c6665fa40d704e.png",
+      "snippet": "Currently,​ in Kentucky, there are no known cases of H5N1 in poultry or cattle. ... CDC | U.S. COVID-19 Vaccine Product Information · CDC | COVID-19 Vaccination ...",
+      "snippet_highlighted_words": [
+        "cases",
+        "U.S. COVID",
+        "COVID"
+      ],
+      "source": "Kentucky.gov"
+    },
+    {
+      "position": 87,
+      "title": "Historical Texas COVID-19 Data",
+      "link": "https://www.dshs.texas.gov/covid-19-coronavirus-disease-2019/texas-covid-19-data",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dshs.texas.gov/covid-19-coronavirus-disease-2019/texas-covid-19-data&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCKQBEAE",
+      "displayed_link": "https://www.dshs.texas.gov › texas-covid-19-data",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934c7ee5c44d87f40188ce2d3fa8954fbb3.png",
+      "snippet": "Contact Us. Enter your site search term. Search Click here to search term ... COVID-19 Case, Fatality & Hospital Data over Time - Excel Files. This Excel ...",
+      "snippet_highlighted_words": [
+        "Us",
+        "COVID",
+        "Case"
+      ],
+      "source": "Texas Department of State Health Services (DSHS) (.gov)"
+    },
+    {
+      "position": 88,
+      "title": "Coronavirus Map: How many COVID cases are in Bay Area ...",
+      "link": "https://www.sfchronicle.com/projects/coronavirus-map/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sfchronicle.com/projects/coronavirus-map/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCLoBEAE",
+      "displayed_link": "https://www.sfchronicle.com › projects › coronavirus-m...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934179b5b83a9ef9a3efd6ba1a0836a991b.png",
+      "snippet": "On May 5, the World Health Organization declared the COVID-19 pandemic was no longer a global emergency, just as the United States recorded its lowest number of ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "United States"
+      ],
+      "source": "San Francisco Chronicle"
+    },
+    {
+      "position": 89,
+      "title": "COVID19",
+      "link": "https://cdphe.colorado.gov/covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cdphe.colorado.gov/covid-19&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCL0BEAE",
+      "displayed_link": "https://cdphe.colorado.gov › covid-19",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934c9c34d69f4f61a2b5a2f2810576c9ee2.png",
+      "snippet": "From January 2020 until May 2023, COVID-19 was a federal public health emergency in the United States. ... See Colorado's case rates, vaccine rates, and more.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "United States",
+        "case"
+      ],
+      "source": "Colorado.gov"
+    },
+    {
+      "position": 90,
+      "title": "USA COVID-19 Interactive Dashboard",
+      "link": "https://www.arcgis.com/apps/dashboards/20eb454a9431470eb139e1a630242e96",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.arcgis.com/apps/dashboards/20eb454a9431470eb139e1a630242e96&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCLwBEAE",
+      "displayed_link": "https://www.arcgis.com › apps › dashboards",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd93487c35519a86557ca57b8af8c17912c8d.png",
+      "snippet": "Point Data Acquired from: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/ · COVID-19 Confirmed Cases · Average Deaths per county out of ...",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "covid",
+        "COVID",
+        "Cases"
+      ],
+      "source": "ArcGIS Online"
+    },
+    {
+      "position": 91,
+      "title": "Orlando Couple Agrees To Pay More Than ...",
+      "link": "https://www.justice.gov/usao-mdfl/pr/orlando-couple-agrees-pay-more-88000-related-improperly-received-ppp-loan-funds",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justice.gov/usao-mdfl/pr/orlando-couple-agrees-pay-more-88000-related-improperly-received-ppp-loan-funds&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCMABEAE",
+      "displayed_link": "https://www.justice.gov › usao-mdfl › orlando-couple-a...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934df4f3741cb3e320f6a8d218cf2a4638f.png",
+      "date": "14 hours ago",
+      "snippet": "... United States of COVID-related disaster loan proceeds. The defendants in that criminal case admitted they had devised a scheme to solicit ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "COVID",
+        "case"
+      ],
+      "source": "Department of Justice (.gov)"
+    },
+    {
+      "position": 92,
+      "title": "UKHSA data dashboard",
+      "link": "https://ukhsa-dashboard.data.gov.uk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ukhsa-dashboard.data.gov.uk/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCMIBEAE",
+      "displayed_link": "https://ukhsa-dashboard.data.gov.uk",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934e71c5573df87e66f399fd2523581ba8b.png",
+      "snippet": "BetaThis is a new service - your feedback will help us to improve it. Outbreaks · Mpox clade Ib. Cases by month. There is ...",
+      "snippet_highlighted_words": [
+        "us",
+        "Cases"
+      ],
+      "source": "Data.gov.uk"
+    },
+    {
+      "position": 93,
+      "title": "COVID-19 Data",
+      "link": "https://marylandmatters.org/covid-19-in-maryland-2/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://marylandmatters.org/covid-19-in-maryland-2/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCNcBEAE",
+      "displayed_link": "https://marylandmatters.org › covid-19-in-maryland-2",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934241fc32b2c3bbbb0c2973c4b5e8e451b.png",
+      "snippet": "Cases and deaths by race and ethnicity ; White (NH). 57.8%. 40.2% ; African-American (NH). 31.4%. 34.3% ; Hispanic. 11.1%. 12.0% ; Asian-American (NH). 6.9%. 4.3%.",
+      "snippet_highlighted_words": [
+        "Cases",
+        "American",
+        "American"
+      ],
+      "source": "Maryland Matters"
+    },
+    {
+      "position": 94,
+      "title": "Indiana COVID-19 Home Dashboard - Coronavirus - IN.gov",
+      "link": "https://www.coronavirus.in.gov/indiana-covid-19-dashboard-and-map/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coronavirus.in.gov/indiana-covid-19-dashboard-and-map/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCNYBEAE",
+      "displayed_link": "https://www.coronavirus.in.gov › indiana-covid-19-dash...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934857da912a07d14791eddc40f49b70ee4.png",
+      "snippet": "Historical daily hospital admission counts have been updated as of 12/20/23 due to a change in source of the data. ... Contact Us · Media Contact Us · State ...",
+      "snippet_highlighted_words": [
+        "counts",
+        "Us",
+        "Us"
+      ],
+      "source": "IN.gov"
+    },
+    {
+      "position": 95,
+      "title": "COVID-19 | Florida Department of Health",
+      "link": "https://www.floridahealth.gov/diseases-and-conditions/respiratory-illness/COVID-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.floridahealth.gov/diseases-and-conditions/respiratory-illness/COVID-19/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCNgBEAE",
+      "displayed_link": "https://www.floridahealth.gov › respiratory-illness › CO...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934dc49f3198b17a70dd17291d8195e8036.png",
+      "date": "May 21, 2024",
+      "snippet": "About Us | Contact Us | Newsroom · FILE COMPLAINT Vaccine/Testing ... Florida COVID-19 Data. Now posted weekly on CHARTS, alongside all ...",
+      "snippet_highlighted_words": [
+        "Us",
+        "Us",
+        "COVID"
+      ],
+      "source": "Florida Department of Health (.gov)"
+    },
+    {
+      "position": 96,
+      "title": "COVID-19 - Arkansas Department of Health",
+      "link": "https://healthy.arkansas.gov/programs-services/diseases-conditions/covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://healthy.arkansas.gov/programs-services/diseases-conditions/covid-19/&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoFCNoBEAE",
+      "displayed_link": "https://healthy.arkansas.gov › ... › Diseases & Conditions",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934dbaa372d4e4354bd45e9d606eb37b4f5.png",
+      "snippet": "Privacy Policy · Alerts · Security Policy · Acceptable Use · Transparency. Flag Status. AR full. US full. Flag Status. ©Copyright 2025. All Rights Reserved.",
+      "snippet_highlighted_words": [
+        "US"
+      ],
+      "source": "Arkansas Department of Health (.gov)"
+    },
+    {
+      "position": 97,
+      "title": "COVID-19 Resources | Orange County California",
+      "link": "https://www.ochealthinfo.com/services-programs/disease-prevention/diseases-conditions/covid-19-resources",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ochealthinfo.com/services-programs/disease-prevention/diseases-conditions/covid-19-resources&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECE4QAQ",
+      "displayed_link": "https://www.ochealthinfo.com › diseases-conditions › co...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934b705b056acd139ea3a61f3b387851f69.png",
+      "snippet": "Having data for this phase of COVID-19 provides understanding of what's happening with the virus in Orange County and in the U.S. The information we receive ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "U.S."
+      ],
+      "source": "OC Health"
+    },
+    {
+      "position": 98,
+      "title": "COVID-19's summer surge appears to have begun in the ...",
+      "link": "https://www.wvxu.org/health/2025-07-22/covid-summer-surge-begin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wvxu.org/health/2025-07-22/covid-summer-surge-begin&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECDkQAQ",
+      "displayed_link": "https://www.wvxu.org › health › covid-summer-surge-...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd934a74b94939b04aab05d78ebd897953257.png",
+      "date": "2 days ago",
+      "snippet": "“So we are, in the state of Kentucky, seeing a growing case count of COVID. ... Cincinnati Public Schools joins suit against U.S. Dept. of ...",
+      "snippet_highlighted_words": [
+        "case count",
+        "COVID",
+        "U.S."
+      ],
+      "source": "WVXU"
+    },
+    {
+      "position": 99,
+      "title": "Coronavirus update: View charts of U.S. cases and deaths",
+      "link": "https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQFnoECDgQAQ",
+      "displayed_link": "https://www.npr.org › health-shots › 2020/09/01 › map...",
+      "favicon": "https://serpapi.com/searches/6881e8b8b24c5de41cf39250/images/f656bf2300d02c7037a441957acbd9346c73aebfcc7d3d99713338f4debf44f2.png",
+      "date": "Mar 16, 2020",
+      "snippet": "1, there have been more than 101 million confirmed coronavirus infections in the U.S. and more than 1 million people have died of COVID-19. In ...",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "U.S.",
+        "COVID"
+      ],
+      "source": "NPR"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "u.s. covid cases per day",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=u.s.+covid+cases+per+day&sa=X&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQ1QJ6BQjWAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=u.s.+covid+cases+per+day"
+    },
+    {
+      "block_position": 1,
+      "query": "u.s. covid cases today",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=u.s.+covid+cases+today&sa=X&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQ1QJ6BQjUAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=u.s.+covid+cases+today"
+    },
+    {
+      "block_position": 1,
+      "query": "u.s. covid deaths per day",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=u.s.+covid+deaths+per+day&sa=X&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQ1QJ6BQjTAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=u.s.+covid+deaths+per+day"
+    },
+    {
+      "block_position": 1,
+      "query": "total no. of deaths due to covid 19 in world",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=total+no.+of+deaths+due+to+covid+19+in+world&sa=X&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQ1QJ6BQjSAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=total+no.+of+deaths+due+to+covid+19+in+world"
+    },
+    {
+      "block_position": 1,
+      "query": "u.s. covid deaths per year",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=u.s.+covid+deaths+per+year&sa=X&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQ1QJ6BQjRAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=u.s.+covid+deaths+per+year"
+    },
+    {
+      "block_position": 1,
+      "query": "u.s. covid deaths per day graph",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=u.s.+covid+deaths+per+day+graph&sa=X&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQ1QJ6BQjQAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=u.s.+covid+deaths+per+day+graph"
+    },
+    {
+      "block_position": 1,
+      "query": "How bad is COVID right now",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=How+bad+is+COVID+right+now&sa=X&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQ1QJ6BQjPAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+bad+is+COVID+right+now"
+    },
+    {
+      "block_position": 1,
+      "query": "what states are in the red zone for covid-19 as of today",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=what+states+are+in+the+red+zone+for+covid-19+as+of+today&sa=X&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQ1QJ6BQjOAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+states+are+in+the+red+zone+for+covid-19+as+of+today"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=us+covid+case+count&num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&ei=ueiBaKXHDbuA0PEP0Jy0yAM&start=100&sa=N&sstk=Ac65TH4vGI5fHN76fbw-Xzh4GNn6hNh3dOjrdsE-dhVWX_Vc7Zgr_gk-n_OmLDDzfiFs3gTLg2A0z4m-uo8vNFcw4U8NvZoaIdo1hQ&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQ8NMDegUIxQIQCA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=us+covid+case+count&num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&ei=ueiBaKXHDbuA0PEP0Jy0yAM&start=100&sa=N&sstk=Ac65TH4vGI5fHN76fbw-Xzh4GNn6hNh3dOjrdsE-dhVWX_Vc7Zgr_gk-n_OmLDDzfiFs3gTLg2A0z4m-uo8vNFcw4U8NvZoaIdo1hQ&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQ8tMDegUIxQIQBA",
+      "3": "https://www.google.com/search?q=us+covid+case+count&num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&ei=ueiBaKXHDbuA0PEP0Jy0yAM&start=200&sa=N&sstk=Ac65TH4vGI5fHN76fbw-Xzh4GNn6hNh3dOjrdsE-dhVWX_Vc7Zgr_gk-n_OmLDDzfiFs3gTLg2A0z4m-uo8vNFcw4U8NvZoaIdo1hQ&ved=2ahUKEwjlh9GKhNWOAxU7ADQIHVAODTkQ8tMDegUIxQIQBg"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=us+covid+case+count&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=us+covid+case+count&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=us+covid+case+count&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=us+covid+case+count&start=200"
+    }
+  }
+}

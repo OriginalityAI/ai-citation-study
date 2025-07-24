@@ -1,0 +1,1378 @@
+{
+  "search_metadata": {
+    "id": "688263ca52acc662f669b326",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a0f62cfdb1616953/688263ca52acc662f669b326.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/a0f62cfdb1616953/688263ca52acc662f669b326.json_with_pixel_position",
+    "created_at": "2025-07-24 16:48:10 UTC",
+    "processed_at": "2025-07-24 16:48:10 UTC",
+    "google_url": "https://www.google.com/search?q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&oq=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a0f62cfdb1616953/688263ca52acc662f669b326.html",
+    "total_time_taken": 1.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "you are given an infinite array a[·] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞. you are not given the value of n. describe an algorithm that takes an integer x as input and finds a position in the array containing x, if such a position exists, in o(log n) time. (if you are disturbed by the fact that the array a has infinite length, assume instead that it is of length n, but that you don’t know this length, and that the implementation of the array data type in your programming language returns the error message ∞ whenever elements a[i] with i > n are accessed.)",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "you are given an infinite array a[·] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞. you are not given the value of n. describe an algorithm that takes an integer x as input and finds a position in the array containing x, if such a position exists, in o(log n) time. (if you are disturbed by the fact that the array a has infinite length, assume instead that it is of length n, but that you don’t know this length, and that the implementation of the array data type in your programming language returns the error message ∞ whenever elements a[i] with i > n are accessed.)",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "questions_and_answers": [
+    {
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/given-infinite-array--first-n-cells-contain-integers-sorted-order-rest-cells-filled--given-q11681221",
+      "source": "Chegg",
+      "question": "You are given an infinite array A[.] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞. You are not given the value of n.Describe an algorithm that takes an integer x as input and finds a position in the array containing x, if such a position exists, in O(logn) time. (Assume that the implementation of the",
+      "answer": "The problem is asking for an algorithm that can efficiently find the position of a given integer x i...",
+      "votes": 0
+    },
+    {
+      "link": "https://www.vaia.com/en-us/textbooks/computer-science/algorithms-1st/divide-and-conquer-algorithms/q16e-question-you-are-given-an-infinite-array-in-which-the-f/",
+      "question": "Question: You are given an infinite array A[·]in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞. You are not given the value of n. Describe an algorithm that takes an integer x as input and finds a position in the array containing x, if such a position exists, in O(log n) time. (If you are disturbed by the fact that the array A has infinite length, assume instead that it is of length n, but that you don’t know this length, and that the implementation of the array data type in your programming language returns the error message ∞whenever elements A[i]withi>n are accessed.)",
+      "answer": "An algorithm exist which finds the position of input inter x in array A, in time bound of O(logn).",
+      "votes": 0
+    },
+    {
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/3-20-pts-infinite-array-binary-search-given-infinite-array-cdot-first-n-cells-contain-inte-q119550221",
+      "source": "Chegg",
+      "question": "3. (20 pts.) Infinite Array Binary Search. You are given an infinite array A[⋅] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞. You are not given the value of n. Describe an algorithm that takes an integer x as input and finds a position in the array containing x, if such a position exists, in O(logn)",
+      "answer": "To find the position of an integer x in the given infinite sorted array A[⋅], where the first n cells con...",
+      "votes": 0
+    },
+    {
+      "link": "https://www.coursehero.com/tutors-problems/Networking/41052891-You-are-given-an-array-of-n-elements-and-you-notice-that-some/",
+      "source": "Course Hero",
+      "question": "You are given an array of n elements, and you notice that some of the elements are duplicates; that is, they appear more than once in the array. Show how to remove all duplicates from the array in time O(n log n). 2.15. In our median-finding algorithm (Section 2.4), a basic primitive is the split operation, which takes as input an array S and a value v and then divides S into three sets: the elements less than v, the elements equal to v, and the elements greater than v. Show how to implement this split operation in place, that is, without allocating new memory. 2.16. You are given an infinite array A[·] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞. You are not given the value of n. Describe an algorithm that takes an integer x as input and finds a position in the array containing x, if such a position exists, in O(log n) time. (If you are disturbed by the fact that the array A has infinite length, assume instead that it is of length n, but that you don't know this length, and that the implementation of the array data type in your programming language returns the error message ∞ whenever elements A[i] with i > n are accessed.) 2.17. Given a sorted array of distinct integers A[1, . . . , n], you want to find out whether there is an index i for which A[i] = i. Give a divide-and-conquer algorithm that runs in time O(log n). 2.18. Consider the task of searching a sorted array A[1 . . . n] for a given element x: a task we usually perform by binary search in time O(log n). Show that any algorithm that accesses the array only via comparisons (that is, by asking questions of the form \"is A[i] ≤ z?\"), must take Ω(log n) steps. 2.19. A k-way merge operation. Suppose you have k sorted arrays, each with n elements, and you want to combine them into a single sorted array of kn elements. (a) Here's one strategy: Using the merge procedure from Section 2.3, merge the first two ar- rays, then merge in the third, then merge in the fourth, and so on. What is the time complexity of this algorithm, in terms of k and n? (b) Give a more efficient solution to this problem, using divide-and-conquer. Explain Barycentric Co-ordinates, including how they are calculated. Diagrams are encouraged. [3 marks] (c) Given a ray R(t) = O + Dt and a unit sphere S, initially centred on the origin and subsequently transformed by affine matrix M, where M represents the transformation of the sphere from local to world coordinates: (i) state the centre of the sphere in local co-ordinates and in world co-ordinates; (ii) give an expression in terms of t for the local co-ordinates of the intersections between R and S; (iii) give an expression for the world co-ordinates of the same intersections; and (iv) give an expression for the world co-ordinates of the normal at those intersections. (a) Describe the differences in complexity and usage between parsimony and distance phylogenetic methods. Give an example of the usage of both methods. [6 marks] (b) Describe the differences in complexity and usage between hierarchical clustering and the Markov clustering (MCL) algorithm. [5 marks] (c) Explain how to identify different gene features using Hidden Markov Model methods such as Genescan. [5 marks] (d) Explain how you could identify a regulatory network involving a set of genes. [4 mark (a) State the Fermat-Euler theorem, carefully defining any terms that you use. Deduce that 2p ≡ 2 (mod p) for any prime p. [5 marks] (b) Explain how this result can be used to show that a number is composite without actually finding a factor. Give an example. [3 marks] (c) Let Mm = 2m −1 be the mth Mersenne number. Suppose that m is composite. Prove that Mm is composite. [3 marks] (d) A composite number m that satisfies 2m ≡ 2 (mod m) is known as a pseudo-prime. (i) Suppose that m is prime. Prove that Mm is either prime or a pseudoprime. [3 marks] (ii) Suppose that m is a pseudo-prime. Prove that Mm is a pseudo-prime. [3 marks] (iii) Deduce that there are infinitely many pseudo-primes. (a) Give the two definitions of the complexity class NP, one using the term Turing machine and one using the term verifier. [4 marks] (b) For each of the following statements, state whether it is true, false or unknown. In each case, give justification for your answer. In particular, if the truth statement is unknown, state any implications that might follow from it being true or false. [2 marks each] (i) 3SAT ≤P CLIQUE (ii) TSP ∈ P (iii) NL ⊆ P (iv) PSPACE 6= NPSPACE (c) Let Σ = {0, 1}. Prove that ∅ and {0, 1} ∗ are the only languages in P which are not complete for P with respect to polynomial-time reductions. . QUESTION 2 a) Define Primitive data type. (2 marks) b) List TWO (2) types of Recursive cases. (2 marks) c) State TWO (2) disadvantages of an array list. (2 marks) d) Give ONE (1) difference between Perfect binary tree and Full binary tree. (2 marks) e) State the output from a method public void pop ( ) in Stack. (2 marks) f) List ONE (1) example of non-linear data structure. (2 marks) g) Define Tail recursive. (2 marks). In an MTD tox study, a dog was given 40 mg/kg of drug substance after the 20 mg/kg dose. The 40 mg/kg resulted in emesis. What is the MTD? Three doses used in a 28 day tox study (using the above MTD tox Study) were: MTD dose, MTD dose/2 MTD dose/4 Equation: Aggregate dose = MTD dose + MTD dose/2 + MTD dose/4 What is the Aggregate Dose? Aggregate Dose = How much drug substance is required for a 28-day tox study with an overage of 1.1 using 20 dogs based on the Aggregate dose?",
+      "answer": "QUESTION 2 a) Define Primitive data type.solution (1)primitive data kind is a basic type is a information type provided by means of a programming language . Example int, char and so forth.(2)Recursive cases(1)Base case(2)recursive steps(3)Diadvantages of array listing:Insertion/deletion: For adding or removing new facts shape ArrayList then its information wishes to be shifted to replace the listing.Memory:It desires contiguous blocks of reminiscence.(four)Complete Binary Tree: All tiers are completely crammed besides the ultimate level and the ultimate level has all keys as left as possible.Perfect Binary Tree: All inner nodes have two children and all leaves are at equal stage.(five)Method public void pop() popped out top element from stack.(6)Example of Non-Linear facts struction is Binary Tree.(7)while the recursive name is the remaining issue finished by means of the characteristic, then it is referred to as Tail recursion. In an MTD tox study, a dog was given 40solution",
+      "votes": 0
+    }
+  ],
+  "inline_images": [
+    {
+      "source": "https://www.chegg.com/homework-help/questions-and-answers/problem-4-infinite-array-given-infinite-array-first-n-cells-contain-positive-integers-sort-q103404927",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIJTFII4AEkb0lmkbNzDoSdoMnIbThHoCRSLhBpnzj7YRWtuFbyk5QBU&s",
+      "original": "https://media.cheggcdn.com/media/136/136e510f-a1fa-4db2-b836-654f643138ff/phpjd4zob",
+      "title": "Solved Problem 4, Infinite Array You are given an infinite ...",
+      "source_name": "Chegg"
+    },
+    {
+      "source": "https://www.coursehero.com/file/p6mjehq/You-are-given-an-infinite-array-A-in-which-the-first-n-cells-contain-integers-in/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvhqacVKV8iq4APndspBQCeHn4fpky7EPzTR1urJ4T5aKCrfxlFpdOhEM&s",
+      "original": "https://www.coursehero.com/thumb/95/0f/950ff7e345282fab90f462757de99c1e89c344dc_180.jpg",
+      "title": "You are given an infinite array A in which the first n cells ...",
+      "source_name": "Course Hero"
+    },
+    {
+      "source": "https://www.chegg.com/homework-help/questions-and-answers/3-20-pts-infinite-array-binary-search-given-infinite-array-cdot-first-n-cells-contain-inte-q119550221",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qPuKDb1FwXA0IqMuWz4dlvxz5sejC5UnZrohbu5NgKii64JvWtEMGGE&s",
+      "original": "https://media.cheggcdn.com/media/52f/52feabb5-7533-44a8-9350-8cea5e79fb15/phpOmtVf6",
+      "title": "Solved 3. (20 pts.) Infinite Array Binary Search. You are ...",
+      "source_name": "Chegg"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "IIkK1nicxZXrbuI4FMc_r_Y5QDNyy63QhpHQyg6hpBcgUGZKv0QmMU5KEtPYkNJv8y77VPs0exzuM-1qV7vSUi6JfS7_c84v7vffozCZ__HrL4FSC_mlXM6yrMSF4BEreSIuU7lOvPJMRDL1gt941FrKYhC1WFJcr1oXRU-2KkUWtta1vkn7b37XHcRZrz54nq0wx0Yxd2-5UyrZM0R_fZZltwxf88JFG25KssSSUv3tKvQvosabsku1StUo9cs0BgP8L1_8nTUCn1sTY-fU0HrP37Hzbzw_WdwF4trHxgEWGJv8JIB9yG2OOXZ7xuyomL0s0DI6dnvUa8RpQzDTPFFyfGdvXLcJyUkh-IfCctvuT8snL5CT7fNobcQ9bPZ17jxVNzArzv1hw8FGV-KAOOOfQ4Jc4lne6M7gH-Vd4JB-u5aQvexzmHWlPE3hp1pOpZ68-dCsiE71ZrW44Cqo9Yyn_j0d--SuR1ZGPIids5wpT-6hksdQ3VpPxqQ3rXYbsnRXItUdUZxobaNN70heLCwQGw8_bM-mj3zfK3w0QGtXrv4jntj20VnB_Xy3PRCEpNw-6cSGKKIjXecXcGXf4Y6mE4gKdcyxjqpJ0p6OBT5gfQMjtaxrLd7U-u2DlGwggZ6Jvib5RG18nefUREFAx9mKJzsfssXC1m_SsGyHzAkmEzPi6_t9yVrcNo22jsBtkFfNsTPBbd4eQXi9A2ItRyfatShf1E-GjTvZlmFyjR39-IH4x1OiIMfkr6cAr9uPt4CkdxDil7Q7VV7noeZby6_RYJKZT7Wn4Xj5km0REvH0HxxM3v8DmY5wC4fC8Bgy_j5kp8fWFjJnBxnXkOlj60UP5wSyyQEyczy_dntNt32AjB9BNjqG7PjYGp1AZuK_DZlzDJm9h2z0IWS7Y2sP2Y17gKyvIbPegey_PLZy1tjm5_QMWz7zH0G0evFkjj2zd9WuX8n7l-rFuZG9sc5To4PP3FmsvixSwc_c0P9Cajdq7RdfWmuxRDRliIcrliCaoDCZhUmoGKymdI1ooUEKZq1ArgqNNmyiLAi9AKmAoVmYSoUS5LEoksgTiaKh9leMs1RqWylSxXwkUp-lENvP3VIGXmKWX29cdf5ZGEVgmoUqQAWrVjCMQtMqoZ28RKitRO22otGS6RhJCflMemk4ZVo7jbhIIUIMVlQhRedMbmrKNaFXRLWuxVLlaqBQH_bRQshQhULb5eE3lW8LChOOXs9QOENyCYUfWbPXUCp5pr3Ep0hwlHxGKoxZCX0C651yH4yW6RRqm643baOe2urb56IoyJVtWx-xBP4jnYFauYwZrEvFqL9xCuEtde0bI5ScoelyG1Dn9EWS969SaDYVmicigz3w2MdM_EP2MF5ELGZQaF7RdiobTT5VFKn1QufXkVOk6UlpHOuWRDThS8r1OKG8ROaOLE1FimImpd7ZjxGYYQlbwQDYJpvMsQo1UfnAQ1S4sIAk3S_qeeDP_NLnYhylolWhV-NkPEuMqywUBL96dfEQGSq6nNFVwMlt26fBpbL4JJ2_Dl2xGty4SeA8PfZpNq02_PN20lWXzctzonpiLDv3w2922h7XSf3R9-tz91tz4va78-GV8XJ_MZtPvl6-PDtVer7sOw-ra24IJztvNupJ5_xtNh0uKMdZrku2nGVS7z95bDHlxTj1WvBk1-e452CnKD3qMrlqebUmq0BBVdZoev7UK8YcGtqq1v4EqTxj8g",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IIkK1nicxZXrbuI4FMc_r_Y5QDNyy63QhpHQyg6hpBcgUGZKv0QmMU5KEtPYkNJv8y77VPs0exzuM-1qV7vSUi6JfS7_c84v7vffozCZ__HrL4FSC_mlXM6yrMSF4BEreSIuU7lOvPJMRDL1gt941FrKYhC1WFJcr1oXRU-2KkUWtta1vkn7b37XHcRZrz54nq0wx0Yxd2-5UyrZM0R_fZZltwxf88JFG25KssSSUv3tKvQvosabsku1StUo9cs0BgP8L1_8nTUCn1sTY-fU0HrP37Hzbzw_WdwF4trHxgEWGJv8JIB9yG2OOXZ7xuyomL0s0DI6dnvUa8RpQzDTPFFyfGdvXLcJyUkh-IfCctvuT8snL5CT7fNobcQ9bPZ17jxVNzArzv1hw8FGV-KAOOOfQ4Jc4lne6M7gH-Vd4JB-u5aQvexzmHWlPE3hp1pOpZ68-dCsiE71ZrW44Cqo9Yyn_j0d--SuR1ZGPIids5wpT-6hksdQ3VpPxqQ3rXYbsnRXItUdUZxobaNN70heLCwQGw8_bM-mj3zfK3w0QGtXrv4jntj20VnB_Xy3PRCEpNw-6cSGKKIjXecXcGXf4Y6mE4gKdcyxjqpJ0p6OBT5gfQMjtaxrLd7U-u2DlGwggZ6Jvib5RG18nefUREFAx9mKJzsfssXC1m_SsGyHzAkmEzPi6_t9yVrcNo22jsBtkFfNsTPBbd4eQXi9A2ItRyfatShf1E-GjTvZlmFyjR39-IH4x1OiIMfkr6cAr9uPt4CkdxDil7Q7VV7noeZby6_RYJKZT7Wn4Xj5km0REvH0HxxM3v8DmY5wC4fC8Bgy_j5kp8fWFjJnBxnXkOlj60UP5wSyyQEyczy_dntNt32AjB9BNjqG7PjYGp1AZuK_DZlzDJm9h2z0IWS7Y2sP2Y17gKyvIbPegey_PLZy1tjm5_QMWz7zH0G0evFkjj2zd9WuX8n7l-rFuZG9sc5To4PP3FmsvixSwc_c0P9Cajdq7RdfWmuxRDRliIcrliCaoDCZhUmoGKymdI1ooUEKZq1ArgqNNmyiLAi9AKmAoVmYSoUS5LEoksgTiaKh9leMs1RqWylSxXwkUp-lENvP3VIGXmKWX29cdf5ZGEVgmoUqQAWrVjCMQtMqoZ28RKitRO22otGS6RhJCflMemk4ZVo7jbhIIUIMVlQhRedMbmrKNaFXRLWuxVLlaqBQH_bRQshQhULb5eE3lW8LChOOXs9QOENyCYUfWbPXUCp5pr3Ep0hwlHxGKoxZCX0C651yH4yW6RRqm643baOe2urb56IoyJVtWx-xBP4jnYFauYwZrEvFqL9xCuEtde0bI5ScoelyG1Dn9EWS969SaDYVmicigz3w2MdM_EP2MF5ELGZQaF7RdiobTT5VFKn1QufXkVOk6UlpHOuWRDThS8r1OKG8ROaOLE1FimImpd7ZjxGYYQlbwQDYJpvMsQo1UfnAQ1S4sIAk3S_qeeDP_NLnYhylolWhV-NkPEuMqywUBL96dfEQGSq6nNFVwMlt26fBpbL4JJ2_Dl2xGty4SeA8PfZpNq02_PN20lWXzctzonpiLDv3w2922h7XSf3R9-tz91tz4va78-GV8XJ_MZtPvl6-PDtVer7sOw-ra24IJztvNupJ5_xtNh0uKMdZrku2nGVS7z95bDHlxTj1WvBk1-e452CnKD3qMrlqebUmq0BBVdZoev7UK8YcGtqq1v4EqTxj8g"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "You are given an infinite array A[.] in which the first n cells ...",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/given-infinite-array--first-n-cells-contain-integers-sorted-order-rest-cells-filled--given-q11681221",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chegg.com/homework-help/questions-and-answers/given-infinite-array--first-n-cells-contain-integers-sorted-order-rest-cells-filled--given-q11681221&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECBgQAQ",
+      "displayed_link": "https://www.chegg.com › questions-and-answers › given...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35585712923556a8679ab64ab1911b5b5310.png",
+      "date": "Mar 30, 2016",
+      "snippet": "You are given an infinite array A[.] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞.",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞"
+      ],
+      "source": "Chegg"
+    },
+    {
+      "position": 2,
+      "title": "You are given an infinite array A[.] in which the first n cells ...",
+      "link": "https://brainly.com/question/37719457",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/37719457&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECCMQAQ",
+      "displayed_link": "https://brainly.com › Engineering › College",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558d7b063b1805c8acf065192291a41ec95.png",
+      "date": "Sep 15, 2023",
+      "snippet": "To find an integer x in an infinite sorted array, first, double the range until you find an upper limit where the value is greater than or equal to x.",
+      "snippet_highlighted_words": [
+        "find",
+        "integer x",
+        "infinite sorted array",
+        "first",
+        "you find",
+        "value"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 3,
+      "title": "Question: You are given an infinite array A - Vaia",
+      "link": "https://www.vaia.com/en-us/textbooks/computer-science/algorithms-1st/divide-and-conquer-algorithms/q16e-question-you-are-given-an-infinite-array-in-which-the-f/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vaia.com/en-us/textbooks/computer-science/algorithms-1st/divide-and-conquer-algorithms/q16e-question-you-are-given-an-infinite-array-in-which-the-f/&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCJEBEAE",
+      "displayed_link": "https://www.vaia.com › ... › Algorithms › Chapter 2",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35583daa13c7a4cd5e5fed6be44695f8fa1c.png",
+      "snippet": "Question: You are given an infinite array A [ · ] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞ .",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞"
+      ],
+      "source": "vaia.com"
+    },
+    {
+      "position": 4,
+      "title": "Solved 3. (20 pts.) Infinite Array Binary Search. You are",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/3-20-pts-infinite-array-binary-search-given-infinite-array-cdot-first-n-cells-contain-inte-q119550221",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chegg.com/homework-help/questions-and-answers/3-20-pts-infinite-array-binary-search-given-infinite-array-cdot-first-n-cells-contain-inte-q119550221&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECCQQAQ",
+      "displayed_link": "https://www.chegg.com › questions-and-answers › 3-20-...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558105eaa988716d75fe1c52f98c0d15c25.png",
+      "date": "Sep 26, 2023",
+      "snippet": "You are given an infinite array A[⋅] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞.",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞"
+      ],
+      "source": "Chegg"
+    },
+    {
+      "position": 5,
+      "title": "You are given an infinite array A[⋅] in which the first n cells...",
+      "link": "https://askfilo.com/user-question-answers-smart-solutions/you-are-given-an-infinite-array-in-which-the-first-cells-3330333639363935",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://askfilo.com/user-question-answers-smart-solutions/you-are-given-an-infinite-array-in-which-the-first-cells-3330333639363935&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECG8QAQ",
+      "displayed_link": "https://askfilo.com › ... › Smart Solutions",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558c58d32b08f94f45f7b3795b5ac8233e6.png",
+      "date": "Mar 19, 2025",
+      "snippet": "You are given an infinite array A[⋅] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞.",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞"
+      ],
+      "source": "Filo"
+    },
+    {
+      "position": 6,
+      "title": "You are given an infinite array A[⋅] in which the first n cells ...",
+      "link": "https://brainly.com/question/36400742",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/36400742&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCIoBEAE",
+      "displayed_link": "https://brainly.com › Engineering › High School",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a355853ad899959d8ae8136983033104f6469.png",
+      "date": "Aug 25, 2023",
+      "snippet": "You are given an infinite array A[⋅] in which the first n cells contain integers in ascending order, and the rest of the cells are filled ...",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "order",
+        "rest",
+        "cells",
+        "filled"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 7,
+      "title": "You are given an infinite array $A[\\cdot]$ in which the firs",
+      "link": "https://quizlet.com/explanations/questions/you-are-given-an-infinite-array-acdot-in-which-the-first-n-cells-contain-integers-in-sorted-order-and-the-rest-of-the-cells-are-filled-with--e587fcf3-abed6c78-2082-42a6-9d70-4e1193246e8a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/explanations/questions/you-are-given-an-infinite-array-acdot-in-which-the-first-n-cells-contain-integers-in-sorted-order-and-the-rest-of-the-cells-are-filled-with--e587fcf3-abed6c78-2082-42a6-9d70-4e1193246e8a&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCMIBEAE",
+      "displayed_link": "https://quizlet.com › explanations › questions › you-are...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a355876666757412e8b8426da3b3a1c694846.png",
+      "snippet": "You are given an infinite array A [ ⋅ ] A[\\cdot] A[⋅] in which the first n cells contain integers in sorted order and the rest of the cells are filled with. \\ ...",
+      "source": "Quizlet"
+    },
+    {
+      "position": 8,
+      "title": "You are given an infinite array A. in which the first n cells ...",
+      "link": "https://homework.study.com/explanation/you-are-given-an-infinite-array-a-in-which-the-first-n-cells-contain-integers-in-sorted-order-and-the-rest-of-the-cells-are-filled-with-you-are-not-given-the-value-of-n-describe-an-algorithm-that.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homework.study.com/explanation/you-are-given-an-infinite-array-a-in-which-the-first-n-cells-contain-integers-in-sorted-order-and-the-rest-of-the-cells-are-filled-with-you-are-not-given-the-value-of-n-describe-an-algorithm-that.html&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECBwQAQ",
+      "displayed_link": "https://homework.study.com › ... › Algorithm",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558d5fe0894b3c0983a06fbab921628131d.png",
+      "snippet": "You are given an infinite array A[.] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞. You are not ...",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞",
+        "You",
+        "not"
+      ],
+      "source": "Homework.Study.com"
+    },
+    {
+      "position": 9,
+      "title": "TUTORIAL SHEET 4",
+      "link": "https://www.cse.iitd.ac.in/~amitk/SemI-2015/tut4.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cse.iitd.ac.in/~amitk/SemI-2015/tut4.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECFcQAQ",
+      "displayed_link": "https://www.cse.iitd.ac.in › SemI-2015 › tut4",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558c96258f56b5538c982790c649893c420.png",
+      "snippet": "... first n cells contain integers in sorted order and the rest of the cells are filled with ∞. You are not given the value of n. Describe an algorithm that takes.",
+      "snippet_highlighted_words": [
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞",
+        "You",
+        "not given",
+        "value",
+        "n",
+        "Describe",
+        "algorithm",
+        "takes"
+      ],
+      "source": "IIT Delhi"
+    },
+    {
+      "position": 10,
+      "title": "Find position of an element in a sorted array of infinite ...",
+      "link": "https://www.geeksforgeeks.org/dsa/find-position-element-sorted-array-infinite-numbers/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/dsa/find-position-element-sorted-array-infinite-numbers/&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECFgQAQ",
+      "displayed_link": "https://www.geeksforgeeks.org › dsa › find-position-ele...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558237cfb605bdb75aaf857ed2c240b9c6c.png",
+      "date": "May 20, 2025",
+      "snippet": "If the array is infinite, we don't have proper bounds to apply binary search. So in order to find the position of the key, first we find bounds ...",
+      "snippet_highlighted_words": [
+        "If",
+        "array",
+        "infinite",
+        "we",
+        "order",
+        "find",
+        "position",
+        "first we find"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 11,
+      "title": "hw03.pdf - Algorithms Spring 2019 Section 08 HW04 ...",
+      "link": "https://www.coursehero.com/file/39120298/hw03pdf/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coursehero.com/file/39120298/hw03pdf/&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECHQQAQ",
+      "displayed_link": "https://www.coursehero.com › ... › CSCI › CSCI 2300",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a355871fe44af8d1c2f362ca0010b06124999.png",
+      "date": "Mar 18, 2019",
+      "snippet": "DPV Problem 2.16 You are given an infinite arrayA[] in which the first n cells contain integers in sorted order and the rest of the cells are ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.3,
+            "reviews": 6
+          },
+          "extensions": [
+            "4.3(6)"
+          ]
+        }
+      },
+      "source": "Course Hero"
+    },
+    {
+      "position": 12,
+      "title": "Problem Set 1",
+      "link": "http://theory.stanford.edu/~trevisan/w4231/fall99/handouts/pset1.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://theory.stanford.edu/~trevisan/w4231/fall99/handouts/pset1.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCI8BEAE",
+      "displayed_link": "http://theory.stanford.edu › fall99 › handouts › ps...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558df98c42d79694d172bae59e71504ccb5.png",
+      "author": "by L Trevisan",
+      "snippet": "(a) In an infinite array the first n cells contain integers in sorted order and the rest of the cells are filled with ∞. Describe an ...",
+      "snippet_highlighted_words": [
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞",
+        "Describe"
+      ],
+      "source": "Stanford CS Theory"
+    },
+    {
+      "position": 13,
+      "title": "TUTORIAL SHEET 4",
+      "link": "https://www.cse.iitd.ac.in/~amitk/SemI-2023/tut4.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cse.iitd.ac.in/~amitk/SemI-2023/tut4.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCLcBEAE",
+      "displayed_link": "https://www.cse.iitd.ac.in › SemI-2023 › tut4",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558b831bee78b58d8c9f4c4622810a58e0f.png",
+      "date": "Aug 25, 2023",
+      "snippet": "A[] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞. You are not given the value of n.",
+      "snippet_highlighted_words": [
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞",
+        "You",
+        "not given",
+        "value",
+        "n"
+      ],
+      "source": "IIT Delhi"
+    },
+    {
+      "position": 14,
+      "title": "You are given an infinite array A[·] in which the first n cells ...",
+      "link": "https://www.numerade.com/ask/question/you-are-given-an-infinite-array-acdot-in-which-the-first-n-cells-contain-integers-in-sorted-order-an-50321/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.numerade.com/ask/question/you-are-given-an-infinite-array-acdot-in-which-the-first-n-cells-contain-integers-in-sorted-order-an-50321/&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCMQBEAE",
+      "displayed_link": "https://www.numerade.com › ... › Placeholder",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35581b7f510e28d6ed4c8d75957be5ccbae9.png",
+      "date": "Oct 12, 2021",
+      "snippet": "You are given an infinite array A[·] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞ ...",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled"
+      ],
+      "source": "Numerade"
+    },
+    {
+      "position": 15,
+      "title": "Test 2 Algorithms",
+      "link": "https://cse.nsysu.edu.tw/var/file/205/1205/img/2217/63577394.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cse.nsysu.edu.tw/var/file/205/1205/img/2217/63577394.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCN4BEAE",
+      "displayed_link": "https://cse.nsysu.edu.tw › var › file › img",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558a7249402283ee566a9c12131edba2346.png",
+      "date": "Dec 11, 2014",
+      "snippet": "(20) You are given an infinite array A[·] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ...",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled"
+      ],
+      "source": "國立中山大學資訊工程學系"
+    },
+    {
+      "position": 16,
+      "title": "You are given an infinite array A in which the first n cells ...",
+      "link": "https://www.coursehero.com/file/p6mjehq/You-are-given-an-infinite-array-A-in-which-the-first-n-cells-contain-integers-in/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coursehero.com/file/p6mjehq/You-are-given-an-infinite-array-A-in-which-the-first-n-cells-contain-integers-in/&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECB4QAQ",
+      "displayed_link": "https://www.coursehero.com › ... › CS › CS 3510",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558650be8858329460bec5ccce7cb3c7234.png",
+      "date": "Nov 17, 2015",
+      "snippet": "5.You are given an infinite arrayA[] in which the firstncells contain integers in sorted order and the rest of the cells are filled with∞. You ...",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "firstncells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞",
+        "You"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 40
+          },
+          "extensions": [
+            "5.0(40)"
+          ]
+        }
+      },
+      "source": "Course Hero"
+    },
+    {
+      "position": 17,
+      "title": "Search an element in an Infinite Sorted array | Binary Search ...",
+      "link": "https://www.youtube.com/watch?v=awMDD7sGWVU",
+      "displayed_link": "59K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyas637QnQ68GS0ipaTN__N1sK587tYliLBH6_QP4zY2mc&s",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558cb5431af01d286deb95d63642a71068b.png",
+      "snippet": "Hey guys, In this video we're going to solve an important problem on Binary search. It's called Search an element in an Infinite Sorted ...",
+      "duration": "12:58",
+      "missing": [
+        "first",
+        "cells",
+        "contain",
+        "filled",
+        "∞.",
+        "not",
+        "value",
+        "describe",
+        "integer",
+        "input",
+        "if"
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTX2SENT43RJBESk9op2UNIFUq2mrW6UEfE8w",
+      "source": "YouTube · Anuj Kumar Sharma"
+    },
+    {
+      "position": 18,
+      "title": "Given a sorted array of distinct integers A[1,..., n], you w",
+      "link": "https://quizlet.com/explanations/questions/given-a-sorted-array-of-distinct-integers-a1-n-you-want-to-find-out-whether-there-is-an-index-i-for-which-ai-i-give-a-divide-and-conquer-alg-a1ce2e48-f343d9cc-27ba-4c22-93ba-d8e2f4d18f7e",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/explanations/questions/given-a-sorted-array-of-distinct-integers-a1-n-you-want-to-find-out-whether-there-is-an-index-i-for-which-ai-i-give-a-divide-and-conquer-alg-a1ce2e48-f343d9cc-27ba-4c22-93ba-d8e2f4d18f7e&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECEAQAQ",
+      "displayed_link": "https://quizlet.com › explanations › questions › given-a...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35582c9e24ca19062f8e790eb4f64af3b0b7.png",
+      "snippet": "You are given an infinite array A [ ⋅ ] A[\\cdot] A[⋅] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞ .",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞"
+      ],
+      "source": "Quizlet"
+    },
+    {
+      "position": 19,
+      "title": "You are given a sorted array A of n integers. The length ...",
+      "link": "https://homework.study.com/explanation/you-are-given-a-sorted-array-a-of-n-integers-the-length-of-the-array-is-n-but-you-are-not-given-the-value-of-n-an-attempt-to-access-element-a-i-with-i-n-returns-the-error-message-infinity-des.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homework.study.com/explanation/you-are-given-a-sorted-array-a-of-n-integers-the-length-of-the-array-is-n-but-you-are-not-given-the-value-of-n-an-attempt-to-access-element-a-i-with-i-n-returns-the-error-message-infinity-des.html&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECFUQAQ",
+      "displayed_link": "https://homework.study.com › ... › Algorithm",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558bf41fcf21c8592d43c736952c1980214.png",
+      "snippet": "The length of the array is n, but you are not given the value of n. An attempt to access element Ai with i > n returns the error message \"Infinity\". Describe an ...",
+      "snippet_highlighted_words": [
+        "array",
+        "n",
+        "you",
+        "not given",
+        "value",
+        "n",
+        "n",
+        "Describe"
+      ],
+      "source": "Homework.Study.com"
+    },
+    {
+      "position": 20,
+      "title": "Given an array of integers nums and an integer target , ...",
+      "link": "https://bishalsarang.github.io/Leetcode-Questions/out.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bishalsarang.github.io/Leetcode-Questions/out.html&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECGoQAQ",
+      "displayed_link": "https://bishalsarang.github.io › Leetcode-Questions › out",
+      "snippet": "You are given two integer arrays nums1 and nums2 , sorted in non-decreasing order, and two integers m and n , representing the number of elements in nums1 and ...",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "integer arrays",
+        "sorted",
+        "non",
+        "order",
+        "integers",
+        "n"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 21,
+      "title": "growth-leetcode-api/leetcode.md at master",
+      "link": "https://github.com/phodal/growth-leetcode-api/blob/master/leetcode.md",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/phodal/growth-leetcode-api/blob/master/leetcode.md&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECGwQAQ",
+      "displayed_link": "https://github.com › phodal › growth-leetcode-api › blob",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35580c50cbe65f561f9b431d43d6fdbf3605.png",
+      "snippet": "Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once. Find all the elements that appear twice in this ...",
+      "snippet_highlighted_words": [
+        "Given",
+        "array",
+        "integers",
+        "n",
+        "n",
+        "array",
+        "Find"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 22,
+      "title": "Q2E Show that for any positive integ... [FREE SOLUTION] - Vaia",
+      "link": "https://www.vaia.com/en-us/textbooks/computer-science/algorithms-1st/divide-and-conquer-algorithms/q2e-show-that-for-any-positive-integers-n-and-any-base-b-the/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vaia.com/en-us/textbooks/computer-science/algorithms-1st/divide-and-conquer-algorithms/q2e-show-that-for-any-positive-integers-n-and-any-base-b-the/&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECHAQAQ",
+      "displayed_link": "https://www.vaia.com › ... › Algorithms › Chapter 2",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558fb4463de16647633a51b208f2a9074fe.png",
+      "snippet": "Question: You are given an infinite array A [ · ] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞ . You ...",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞",
+        "You"
+      ],
+      "source": "vaia.com"
+    },
+    {
+      "position": 23,
+      "title": "Algo Hw 4 - Problem 1: DPV Problem 2) You are given an ...",
+      "link": "https://www.studocu.com/en-us/document/rensselaer-polytechnic-institute/introduction-to-algorithms/algo-hw-04-algo-hw-4/9852778",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.studocu.com/en-us/document/rensselaer-polytechnic-institute/introduction-to-algorithms/algo-hw-04-algo-hw-4/9852778&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCIkBEAE",
+      "displayed_link": "https://www.studocu.com › algo-hw-04-algo-hw-4",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a355864e61121b625597a7de39a0cae283aeb.png",
+      "snippet": "You are given an infinite array A[ ] in which the first n cells contain integers in sorted order and the rest of the cells are filled with∞. You are not given ...",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞",
+        "You",
+        "not given"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.4,
+            "reviews": 5
+          },
+          "extensions": [
+            "3.4(5)"
+          ]
+        }
+      },
+      "source": "Studocu"
+    },
+    {
+      "position": 24,
+      "title": "Given Array of size n and a number k, find all elements that ...",
+      "link": "https://www.geeksforgeeks.org/dsa/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/dsa/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCJABEAE",
+      "displayed_link": "https://www.geeksforgeeks.org › dsa › given-an-array-...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a355868eee7c350606c38ae377e86db12043d.png",
+      "date": "Apr 5, 2025",
+      "snippet": "[Expected Solution] - Use Hashing - O(n) Time and O(n) Space · First, make a frequency map of all the elements in the array · Then traverse the ...",
+      "snippet_highlighted_words": [
+        "n",
+        "n",
+        "First",
+        "array"
+      ],
+      "missing": [
+        "cells",
+        "∞."
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 25,
+      "title": "Fall 2022 CMSC 420: Short Reference Guide",
+      "link": "https://www.cs.umd.edu/class/fall2022/cmsc420-0201/Handouts/cmsc420-2022-08-handouts.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.umd.edu/class/fall2022/cmsc420-0201/Handouts/cmsc420-2022-08-handouts.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCKgBEAE",
+      "displayed_link": "https://www.cs.umd.edu › fall2022 › Handouts › c...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558cb3f1ca14bc0addb37b6d884ab65bc07.png",
+      "snippet": "A sorting algorithm is stable if it preserves the relative order of equal elements. A sorting algorithm is in-place if it uses no additional array storage ...",
+      "snippet_highlighted_words": [
+        "algorithm",
+        "if",
+        "order",
+        "algorithm",
+        "if",
+        "no",
+        "array"
+      ],
+      "source": "UMD Department of Computer Science"
+    },
+    {
+      "position": 26,
+      "title": "1 Recursion",
+      "link": "https://courses.grainger.illinois.edu/cs473/sp2010/notes/01-recursion.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://courses.grainger.illinois.edu/cs473/sp2010/notes/01-recursion.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCLYBEAE",
+      "displayed_link": "https://courses.grainger.illinois.edu › notes › 01-re...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558954c37aa65354ed5486a6f080608bbfa.png",
+      "author": "by HD Thoreau",
+      "snippet": "Divide the array A[1 ..n] into two subarrays A[1 ..m] and A[m + 1 ..n], where m = bn/2c. 2. Recursively mergesort the subarrays A[ ...",
+      "snippet_highlighted_words": [
+        "array",
+        "n",
+        "n"
+      ],
+      "source": "University of Illinois Urbana-Champaign"
+    },
+    {
+      "position": 27,
+      "title": "Test 1 Review and Practice Questions | PDF",
+      "link": "https://www.scribd.com/document/474307123/t1practice",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/474307123/t1practice&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCL8BEAE",
+      "displayed_link": "https://www.scribd.com › document",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558daf8554d69862be06ba46efda9dd8c2c.png",
+      "snippet": "Hence, the running time is O(log n). 6. You are given an infinite array A in which the first n cells contain integers in sorted order and the rest of the cells ...",
+      "snippet_highlighted_words": [
+        "n",
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells"
+      ],
+      "source": "Scribd"
+    },
+    {
+      "position": 28,
+      "title": "Find an element in an infinite length sorted array",
+      "link": "https://stackoverflow.com/questions/12300904/find-an-element-in-an-infinite-length-sorted-array",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/12300904/find-an-element-in-an-infinite-length-sorted-array&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCM0BEAE",
+      "displayed_link": "8 answers · 12 years ago",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558cbe8fffd62d20fd0cd7e343f012d26f6.png",
+      "snippet": "All the elements in the array are unique and the array in infinite in right direction. There are two approaches: Approach 1: Set the index at ...",
+      "snippet_highlighted_words": [
+        "array",
+        "array",
+        "infinite",
+        "index"
+      ],
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 29,
+      "title": "Test 1 Review - Practice Tests - CS3510 Design &amp",
+      "link": "https://www.studocu.com/en-us/document/georgia-institute-of-technology/dsgnanalysis-algorithms/test-1-review-practice-tests/45275165",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.studocu.com/en-us/document/georgia-institute-of-technology/dsgnanalysis-algorithms/test-1-review-practice-tests/45275165&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCNQBEAE",
+      "displayed_link": "https://www.studocu.com › dsgnanalysis-algorithms › te...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558a5c1813feaf2cce707ccb382431d523f.png",
+      "snippet": "You are given an infinite array A in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞. You are not ...",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞",
+        "You",
+        "not"
+      ],
+      "source": "Studocu"
+    },
+    {
+      "position": 30,
+      "title": "Mathematical Modeling and Simulation with MATLAB",
+      "link": "https://scholarworks.alaska.edu/bitstream/handle/11122/12246/MathModelingWithMatlab.pdf?sequence=3&isAllowed=y",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://scholarworks.alaska.edu/bitstream/handle/11122/12246/MathModelingWithMatlab.pdf%3Fsequence%3D3%26isAllowed%3Dy&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCOkBEAE",
+      "displayed_link": "https://scholarworks.alaska.edu › handle › Math...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558cea05689a6551168a9174be9250135d0.png",
+      "author": "by M Buzby",
+      "snippet": "We simply apply the division algorithm in order to find these integers. To find q and r, we repeatedly subtract d from a until the result is less than d yet ...",
+      "snippet_highlighted_words": [
+        "We",
+        "algorithm",
+        "order",
+        "find",
+        "integers",
+        "find",
+        "we"
+      ],
+      "source": "ScholarWorks@UA"
+    },
+    {
+      "position": 31,
+      "title": "Selected Homework Solutions – Unit 1",
+      "link": "https://rajind.dev/wp-content/uploads/2015/10/clrs-solution-collection.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rajind.dev/wp-content/uploads/2015/10/clrs-solution-collection.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCOcBEAE",
+      "displayed_link": "https://rajind.dev › clrs-solution-collection",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558c72101628f1a964440b26140ea8e4a25.png",
+      "snippet": "The algorithm consists of merging pairs of 1-item sequence to form sorted sequences of length 2, merging pairs of sequences of length 2 to form sorted sequences ...",
+      "snippet_highlighted_words": [
+        "algorithm",
+        "sorted",
+        "sorted"
+      ],
+      "source": "rajind.dev"
+    },
+    {
+      "position": 32,
+      "title": "Stephen Wolfram Writings",
+      "link": "https://writings.stephenwolfram.com/feed/atom/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://writings.stephenwolfram.com/feed/atom/&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECFAQAQ",
+      "displayed_link": "https://writings.stephenwolfram.com › feed › atom",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558d0b6e2c7a26f4a03aabb64efaa05d143.png",
+      "snippet": "What If We Had Bigger Brains? Imagining Minds beyond Ours Cats Don't Talk We humans have perhaps 100 billion neurons in our brains. But what if we had many more ...",
+      "snippet_highlighted_words": [
+        "If We",
+        "We",
+        "if we"
+      ],
+      "source": "Stephen Wolfram Writings"
+    },
+    {
+      "position": 33,
+      "title": "CS8451-DESIGN AND ANALYSIS OF ALGORITHMS- ...",
+      "link": "https://stannescet.ac.in/cms/staff/qbank/CSE/Question_Bank/CS8451-DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS-1303313519-DAA.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stannescet.ac.in/cms/staff/qbank/CSE/Question_Bank/CS8451-DESIGN%2520AND%2520ANALYSIS%2520OF%2520ALGORITHMS-1303313519-DAA.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECD4QAQ",
+      "displayed_link": "https://stannescet.ac.in › CSE › Question_Bank",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35581514ef123e40ab0fe323144e9d6e4261.jpeg",
+      "snippet": "A binary search or half-interval search algorithm finds the position of a specified value (the input \"key\") within a sorted array. In each step, the ...",
+      "snippet_highlighted_words": [
+        "algorithm finds",
+        "position",
+        "specified value",
+        "input",
+        "sorted array"
+      ],
+      "source": "St. Anne's College of Engineering and Technology"
+    },
+    {
+      "position": 34,
+      "title": "Finding an element in infinite sorted array",
+      "link": "https://forums.codeguru.com/showthread.php?430315-Finding-an-element-in-infinite-sorted-array",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.codeguru.com/showthread.php%3F430315-Finding-an-element-in-infinite-sorted-array&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECDwQAQ",
+      "displayed_link": "https://forums.codeguru.com › showthread › 430315-Fin...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558ee2c7d233135825e7c5ed747e2c547d4.png",
+      "date": "Jul 30, 2007",
+      "snippet": "Given an array 'a' of infinite elements in which first 'n' cells contain integers in sorted order and the rest are all '+infinity'. I do not ...",
+      "snippet_highlighted_words": [
+        "Given",
+        "array",
+        "infinite",
+        "first",
+        "n",
+        "cells contain integers",
+        "sorted order",
+        "rest",
+        "not"
+      ],
+      "missing": [
+        "filled",
+        "∞.",
+        "value",
+        "describe",
+        "integer",
+        "input",
+        "containing"
+      ],
+      "source": "CodeGuru Forums"
+    },
+    {
+      "position": 35,
+      "title": "Algorithms in a Nutshell",
+      "link": "https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithms_Nutshell%20.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theswissbay.ch/pdf/Gentoomen%2520Library/Algorithms/Algorithms_Nutshell%2520.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECDsQAQ",
+      "displayed_link": "https://theswissbay.ch › pdf › Algorithms_Nutshell",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558c3cd267613a9d85ca29f1915e1ecba37.png",
+      "snippet": "SEARCH, the input is an array of sorted integers in the range [0,n). To ... if you set this value to n/b, then the hash table will never call rehash ...",
+      "snippet_highlighted_words": [
+        "input",
+        "array",
+        "sorted integers",
+        "n",
+        "if you",
+        "value",
+        "n"
+      ],
+      "source": "The Swiss Bay"
+    },
+    {
+      "position": 36,
+      "title": "Algorithms",
+      "link": "https://www.cl.cam.ac.uk/teaching/1617/Algorithms/2017-stajano-algs-students-handout.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cl.cam.ac.uk/teaching/1617/Algorithms/2017-stajano-algs-students-handout.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECDkQAQ",
+      "displayed_link": "https://www.cl.cam.ac.uk › teaching › Algorithms",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35588186b7f7e410f718808e8eb720bb9aa2.png",
+      "date": "Jan 14, 2017",
+      "snippet": "This course is about some of the coolest stuff a programmer can do. Most real-world programming is conceptually pretty simple.",
+      "source": "University of Cambridge"
+    },
+    {
+      "position": 37,
+      "title": "15-451 Algorithms Lectures 11-20",
+      "link": "https://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/lectures/lects11-20.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/lectures/lects11-20.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECD0QAQ",
+      "displayed_link": "https://www.cs.cmu.edu › afs › lectures › lects11-20",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558f8eb4edf5f2f3e3219927c7479dde995.png",
+      "date": "Sep 29, 2009",
+      "snippet": "So, when we do a Find(x), if x was a root then pay $1 (just a constant, so that's ok). If x was a child of a root we pay $2 (also just a ...",
+      "snippet_highlighted_words": [
+        "when we",
+        "Find",
+        "x",
+        "if x",
+        "If x",
+        "we"
+      ],
+      "source": "CMU School of Computer Science"
+    },
+    {
+      "position": 38,
+      "title": "Algorithms and Data Structures",
+      "link": "http://solr.bccampus.ca:8001/bcc/file/d59a980d-dbaa-4d2f-b66c-9343b93a3086/1/algorithms%20and%20data%20structures.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://solr.bccampus.ca:8001/bcc/file/d59a980d-dbaa-4d2f-b66c-9343b93a3086/1/algorithms%2520and%2520data%2520structures.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECFsQAQ",
+      "displayed_link": "http://solr.bccampus.ca › bcc › file › algorithms ...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35580446d14b9b538fe14f616585a0894b89.png",
+      "snippet": "(a) Design an algorithm that determines whether a given integer x is stored in the array A. ... contains m and array B contains n different integers which are not ...",
+      "snippet_highlighted_words": [
+        "algorithm",
+        "whether",
+        "given integer x",
+        "array",
+        "contains",
+        "array",
+        "contains n",
+        "integers",
+        "not"
+      ],
+      "source": "BCcampus"
+    },
+    {
+      "position": 39,
+      "title": "vegan: Community Ecology Package",
+      "link": "https://cran.r-project.org/web/packages/vegan/vegan.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cran.r-project.org/web/packages/vegan/vegan.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECFoQAQ",
+      "displayed_link": "https://cran.r-project.org › web › packages › vegan",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35581d45d757c98e1d137151b311eb1c9c7f.png",
+      "author": "by J Oksanen",
+      "snippet": "First, the algorithm finds the largest value in the subma- trix that can be swapped (d) and whether in diagonal or antidiagonal way.",
+      "snippet_highlighted_words": [
+        "First",
+        "algorithm finds",
+        "value",
+        "whether"
+      ],
+      "source": "The Comprehensive R Archive Network"
+    },
+    {
+      "position": 40,
+      "title": "jondurbin/rosettacode-10 · Datasets at Hugging Face",
+      "link": "https://huggingface.co/datasets/jondurbin/rosettacode-10",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://huggingface.co/datasets/jondurbin/rosettacode-10&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECFYQAQ",
+      "displayed_link": "https://huggingface.co › datasets › rosettacode-10",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35586b2a3d0849910e85e962f6b259a11c39.png",
+      "snippet": "Create a C++ solution for the following task: ABC problem You are given a collection of 20 ABC blocks with two letters on each block.",
+      "snippet_highlighted_words": [
+        "You",
+        "given"
+      ],
+      "source": "Hugging Face"
+    },
+    {
+      "position": 41,
+      "title": "Solutions to the USC Spring 2018 Code-a-Thon - jaday.io",
+      "link": "https://jaday.io/posts/blog/spring-2018-code-a-thon-solutions.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jaday.io/posts/blog/spring-2018-code-a-thon-solutions.html&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECGsQAQ",
+      "displayed_link": "https://jaday.io › posts › blog › spring-2018-code-a-thon...",
+      "snippet": "Here are the solutions to the upper division problem set. These are organized in the order in which the problems appeared to contestents, and are approximately ...",
+      "snippet_highlighted_words": [
+        "order"
+      ],
+      "source": "jaday.io"
+    },
+    {
+      "position": 42,
+      "title": "CS 4120 Spring 2023 Lecture Notes",
+      "link": "https://www.cs.cornell.edu/courses/cs4120/2023sp/notes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.cornell.edu/courses/cs4120/2023sp/notes/&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECG0QAQ",
+      "displayed_link": "https://www.cs.cornell.edu › courses › notes",
+      "snippet": "If a cell (X, a) contains no production, the parser detects a syntax error ... The algorithm considers each input position j from 0 up to n. At each ...",
+      "snippet_highlighted_words": [
+        "If a cell",
+        "X",
+        "contains no",
+        "algorithm",
+        "input position",
+        "n"
+      ],
+      "source": "Cornell Computer Science Department"
+    },
+    {
+      "position": 43,
+      "title": "CSE291-14: The Number Field Sieve",
+      "link": "https://cseweb.ucsd.edu/classes/wi22/cse291-14/slides/cse-291-14.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cseweb.ucsd.edu/classes/wi22/cse291-14/slides/cse-291-14.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECHYQAQ",
+      "displayed_link": "https://cseweb.ucsd.edu › cse291-14 › slides › cse-...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35582573c4ede97f45205af9ff312554766c.png",
+      "date": "Mar 1, 2022",
+      "snippet": "Tell whether x ∈ N is prime or not. Proved to be solvable in ... Initialize the array cell indexed by n with the integer n itself.",
+      "snippet_highlighted_words": [
+        "whether x",
+        "N",
+        "not",
+        "array cell",
+        "n",
+        "integer n"
+      ],
+      "source": "University of California San Diego"
+    },
+    {
+      "position": 44,
+      "title": "CD3291-DATA STRUCTURES AND ALGORITHMS",
+      "link": "http://dmice.ac.in/wp-content/uploads/2023/10/CD3281-DSA-QUESTION-BANK.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://dmice.ac.in/wp-content/uploads/2023/10/CD3281-DSA-QUESTION-BANK.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECHUQAQ",
+      "displayed_link": "http://dmice.ac.in › uploads › 2023/10 › CD328...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558d81225141cff659c7442770a2181faff.jpeg",
+      "snippet": "18.What are asymptotic notations. Asymptotic notations are the mathematical notations used to describe the running time of an algorithm when the input tends ...",
+      "snippet_highlighted_words": [
+        "describe",
+        "algorithm when",
+        "input"
+      ],
+      "source": "DMI COLLEGE OF ENGINEERING"
+    },
+    {
+      "position": 45,
+      "title": "version 5.1 of TNThesis - Andrew J. Hetzel",
+      "link": "https://www.tntech.edu/cas/pdf/math/TechThesisManual.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tntech.edu/cas/pdf/math/TechThesisManual.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCIgBEAE",
+      "displayed_link": "https://www.tntech.edu › math › TechThesisManual",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558a6887839b468de4c3748de53e0c493c6.png",
+      "date": "Aug 11, 2022",
+      "snippet": "tex. These name changes not only reflect recommended practice for LATEX package and class filenames but also reflect the usage of the class file ...",
+      "snippet_highlighted_words": [
+        "not"
+      ],
+      "source": "Tennessee Tech University"
+    },
+    {
+      "position": 46,
+      "title": "Algorithms Notes for Professionals",
+      "link": "https://enos.itcollege.ee/~jpoial/allalaadimised/reading/graphstec.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enos.itcollege.ee/~jpoial/allalaadimised/reading/graphstec.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCIsBEAE",
+      "displayed_link": "https://enos.itcollege.ee › reading › graphstec",
+      "snippet": "... n has a value of 7). If L is known to contain the integer 0, how can you find the index of 0 ? Naïve approach. The first thing that comes to mind is to just ...",
+      "snippet_highlighted_words": [
+        "n",
+        "value",
+        "If",
+        "contain",
+        "integer",
+        "you find",
+        "index",
+        "first"
+      ],
+      "source": "itcollege.ee"
+    },
+    {
+      "position": 47,
+      "title": "Essentials of Metaheuristics - GMU CS Department",
+      "link": "https://cs.gmu.edu/~sean/book/metaheuristics/Essentials.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cs.gmu.edu/~sean/book/metaheuristics/Essentials.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCIcBEAE",
+      "displayed_link": "https://cs.gmu.edu › ~sean › book › Essentials",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558f19dac8ba49b5b69688d32990c82d300.png",
+      "author": "by S Luke",
+      "snippet": "Note to Roger: it's not Genetic Programming. The data in Table 4 is from the NIST/SEMATECH e-Handbook of Statistical Methods, http://itl.nist.gov/div898/ ...",
+      "snippet_highlighted_words": [
+        "not"
+      ],
+      "source": "George Mason University"
+    },
+    {
+      "position": 48,
+      "title": "Given a sorted integer array of size n, find all elements that ...",
+      "link": "https://www.reddit.com/r/algorithms/comments/7e4es7/given_a_sorted_integer_array_of_size_n_find_all/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/algorithms/comments/7e4es7/given_a_sorted_integer_array_of_size_n_find_all/&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCJgBEAE",
+      "displayed_link": "30+ comments · 7 years ago",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558aa984da72c3348aee57c7bd30bbbbb4c.png",
+      "snippet": "My approach was store each value and its frequency into a hashmap, then iterate each key value pair and get the key with value > n/4.",
+      "snippet_highlighted_words": [
+        "value",
+        "value",
+        "value",
+        "n"
+      ],
+      "missing": [
+        "infinite",
+        "contain",
+        "filled",
+        "∞.",
+        "describe"
+      ],
+      "source": "Reddit · r/algorithms"
+    },
+    {
+      "position": 49,
+      "title": "CS6515 - Coding Project 2 Solved",
+      "link": "https://www.ankitcodinghub.com/product/cs6515-coding-project-2-solved/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ankitcodinghub.com/product/cs6515-coding-project-2-solved/&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCKYBEAE",
+      "displayed_link": "https://www.ankitcodinghub.com › SHOP",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558f73e5ab21ca42bb477b7696a18ca81cc.png",
+      "snippet": "You are given an infinite array A[·] in which the first n cells contain integers in sorted order and the rest of the cells are filled with ∞. You are not given ...",
+      "snippet_highlighted_words": [
+        "You",
+        "given",
+        "infinite array",
+        "first n cells contain integers",
+        "sorted order",
+        "rest",
+        "cells",
+        "filled",
+        "∞",
+        "You",
+        "not given"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 34.99,
+            "currency": "$"
+          },
+          "extensions": [
+            "$34.99"
+          ]
+        }
+      },
+      "source": "Ankitcodinghub"
+    },
+    {
+      "position": 50,
+      "title": "You have a container with N consecutive integers 1, 2, ...",
+      "link": "https://www.quora.com/You-have-a-container-with-N-consecutive-integers-1-2-N-If-k-N-random-numbers-have-been-taken-from-that-sequence-what-is-a-fast-algorithm-to-determine-which-ones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/You-have-a-container-with-N-consecutive-integers-1-2-N-If-k-N-random-numbers-have-been-taken-from-that-sequence-what-is-a-fast-algorithm-to-determine-which-ones&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCKoBEAE",
+      "displayed_link": "3 answers · 7 years ago",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558fa8c4eec30c254c8e2e7a924f87029af.png",
+      "snippet": "... algorithm to find which range does a number fall in? If the discrete ranges all contain integer values, you might. * create an array of those ...",
+      "snippet_highlighted_words": [
+        "algorithm",
+        "find",
+        "If",
+        "contain integer values",
+        "you",
+        "array"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 51,
+      "title": "Using MATLAB",
+      "link": "https://math.jhu.edu/~shiffman/370/using_ml.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://math.jhu.edu/~shiffman/370/using_ml.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCKcBEAE",
+      "displayed_link": "https://math.jhu.edu › ~shiffman › using_ml",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35587fae1f843e32521b0878cac0fb4b9183.png",
+      "date": "Oct 2, 1996",
+      "snippet": "No part of this manual may be photocopied or repro- duced in any form without prior written consent from The MathWorks, Inc. U.S. GOVERNMENT: If ...",
+      "snippet_highlighted_words": [
+        "No",
+        "If"
+      ],
+      "source": "Johns Hopkins University"
+    },
+    {
+      "position": 52,
+      "title": "Numerical Algorithms",
+      "link": "https://people.csail.mit.edu/jsolomon/share/book/numerical_book_sub2.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://people.csail.mit.edu/jsolomon/share/book/numerical_book_sub2.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCLUBEAE",
+      "displayed_link": "https://people.csail.mit.edu › numerical_book_sub2",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558e30ecf85558f6794756932dd313fa8fd.png",
+      "snippet": "Nearly any modern algorithm for machine learning involves optimization of some ob- jective, so we will find no shortage of examples from recent research and ...",
+      "snippet_highlighted_words": [
+        "algorithm",
+        "we",
+        "find no"
+      ],
+      "source": "Massachusetts Institute of Technology"
+    },
+    {
+      "position": 53,
+      "title": "CRYSTAL23",
+      "link": "https://www.crystal.unito.it/include/manuals/crystal23.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crystal.unito.it/include/manuals/crystal23.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCKkBEAE",
+      "displayed_link": "https://www.crystal.unito.it › include › manuals",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558c97e5e44fd323e220f9bb0ace5dbcbeb.png",
+      "author": "by A Erba",
+      "snippet": "Example (page 42): LB(L),L=1,NL. NL integer data are read in and stored in the first NL position of the array LB. ... given in geometry input and in basis set.",
+      "snippet_highlighted_words": [
+        "integer",
+        "first",
+        "position",
+        "array",
+        "given",
+        "input"
+      ],
+      "source": "Crystal17"
+    },
+    {
+      "position": 54,
+      "title": "Data Structures and Algorithm Analysis - People - Virginia Tech",
+      "link": "https://people.cs.vt.edu/shaffer/Book/C++3e20120518.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://people.cs.vt.edu/shaffer/Book/C%2B%2B3e20120518.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCMABEAE",
+      "displayed_link": "https://people.cs.vt.edu › shaffer › Book",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35587386802263cb34add814854ccf321ddd.png",
+      "author": "by CA Shaffer",
+      "snippet": "Programmers must learn to assess application needs first, then find a data structure with matching capabilities. To do this requires ...",
+      "snippet_highlighted_words": [
+        "first",
+        "find"
+      ],
+      "source": "Virginia Tech"
+    },
+    {
+      "position": 55,
+      "title": "Structural Analysis Algorithms for Nanomaterials",
+      "link": "https://orbit.dtu.dk/files/139751506/pmla_thesis_.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://orbit.dtu.dk/files/139751506/pmla_thesis_.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCMEBEAE",
+      "displayed_link": "https://orbit.dtu.dk › files › pmla_thesis_",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a355860962be8ce17c833bdca196a5f78c741.png",
+      "date": "Sep 1, 2017",
+      "snippet": "Cluster expansion models are used to find ground-state structures in gold-silver nanoparticles, which are used in a variety of catalysis ...",
+      "snippet_highlighted_words": [
+        "find"
+      ],
+      "source": "DTU Research Database"
+    },
+    {
+      "position": 56,
+      "title": "Data Structures and Algorithms in C++ 2e",
+      "link": "https://nibmehub.com/opac-service/pdf/read/Data%20Structures%20and%20Algorithms%20in%20C++%202e-compressed.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nibmehub.com/opac-service/pdf/read/Data%2520Structures%2520and%2520Algorithms%2520in%2520C%2B%2B%25202e-compressed.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCNMBEAE",
+      "displayed_link": "https://nibmehub.com › opac-service › pdf › read",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a355809d0c9dca4f3cebbc7e7e6058cffad83.png",
+      "snippet": "Jennifer Steele/Art Resource, NY. This book is printed on acid free paper. ∞. Trademark Acknowledgments: Java is a trademark of Sun Microsystems, Inc. UNIX R.",
+      "snippet_highlighted_words": [
+        "∞"
+      ],
+      "source": "NIBM E-Library Portal"
+    },
+    {
+      "position": 57,
+      "title": "Discrete Mathematics Applications",
+      "link": "https://daiwz.net/course/disc_math/2023/discrete_maths_appl_eds_7.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://daiwz.net/course/disc_math/2023/discrete_maths_appl_eds_7.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCNUBEAE",
+      "displayed_link": "https://daiwz.net › discrete_maths_appl_eds_7",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558e24f2f0b30f4beda3190307a1d6efc34.png",
+      "snippet": "Some ancillaries, including electronic and print components, may not be available to customers outside the. United States. This book is printed on acid-free ...",
+      "snippet_highlighted_words": [
+        "not"
+      ],
+      "source": "daiwz.net"
+    },
+    {
+      "position": 58,
+      "title": "OLD CS 473: Fundamental Algorithms",
+      "link": "https://courses.grainger.illinois.edu/cs473/sp2015/w/lec/book.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://courses.grainger.illinois.edu/cs473/sp2015/w/lec/book.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCNcBEAE",
+      "displayed_link": "https://courses.grainger.illinois.edu › lec › book",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558a155e7116d14df3daa9b16b7de2bb5a3.png",
+      "date": "May 5, 2015",
+      "snippet": "Problem Given an integer N > 0, is N a prime? SimpleAlgorithm: for i ... Simple Algorithm takes. √. N = 2(log N)/2 time. Exponential in ...",
+      "snippet_highlighted_words": [
+        "Given",
+        "integer N",
+        "N",
+        "Algorithm takes",
+        "N",
+        "N"
+      ],
+      "source": "University of Illinois Urbana-Champaign"
+    },
+    {
+      "position": 59,
+      "title": "Cryptography: An Introduction (3rd Edition) Nigel Smart",
+      "link": "https://www.ocf.berkeley.edu/~aponte/cryptBook.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ocf.berkeley.edu/~aponte/cryptBook.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCNYBEAE",
+      "displayed_link": "https://www.ocf.berkeley.edu › cryptBook",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558fec380a16e649f9e10310e72f50fc17c.png",
+      "snippet": "In addition, the approach to engineering public key algorithms has changed remarkably over the last few years, with the advent of 'provable security'. No longer ...",
+      "snippet_highlighted_words": [
+        "algorithms",
+        "No"
+      ],
+      "source": "Open Computing Facility at UC Berkeley"
+    },
+    {
+      "position": 60,
+      "title": "3-540-44503-X.pdf",
+      "link": "https://link.springer.com/content/pdf/10.1007/3-540-44503-X.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/content/pdf/10.1007/3-540-44503-X.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoFCOgBEAE",
+      "displayed_link": "https://link.springer.com › content › 3-540-44503-X",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35583a390d80eba10fcbefd61808bfd99a37.png",
+      "snippet": "In addition, this volume contains two invited papers by Leonid Libkin and Philip. Wadler. A third invited talk was given by Andrei Broder. We wish to thank all ...",
+      "snippet_highlighted_words": [
+        "contains",
+        "given",
+        "We"
+      ],
+      "source": "Springer"
+    },
+    {
+      "position": 61,
+      "title": "Preference Restrictions in Computational Social Choice",
+      "link": "https://arxiv.org/pdf/2205.09092",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arxiv.org/pdf/2205.09092&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECDoQAQ",
+      "displayed_link": "https://arxiv.org › pdf",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558d4c6b4b0b87f5377cc7628363543e8af.png",
+      "author": "by E Elkind",
+      "snippet": "Particular focus areas of our survey include algorithms for recognizing whether preferences belong to a particular preference domain, and ...",
+      "snippet_highlighted_words": [
+        "algorithms",
+        "whether"
+      ],
+      "source": "arXiv"
+    },
+    {
+      "position": 62,
+      "title": "DISCRETE DIFFERENTIAL GEOMETRY: AN APPLIED ...",
+      "link": "https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECCAQAQ",
+      "displayed_link": "https://www.cs.cmu.edu › Projects › DDG › paper",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35587902e00907fe164cb31ae2b7dc30260d.png",
+      "author": "by K Crane",
+      "snippet": "These notes focus on three-dimensional geometry processing, while simultaneously providing a first course in traditional differential ...",
+      "snippet_highlighted_words": [
+        "first"
+      ],
+      "source": "CMU School of Computer Science"
+    },
+    {
+      "position": 63,
+      "title": "Algorithm Exercises & Solutions: Levitin's Chapter 1",
+      "link": "https://studylib.net/doc/25855354/introduction-to-the-design-and-analysis-of-algorithms--3r...",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studylib.net/doc/25855354/introduction-to-the-design-and-analysis-of-algorithms--3r...&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECB8QAQ",
+      "displayed_link": "https://studylib.net › doc › introduction-to-the-design-a...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558899b71b9bb440f3c204f356015544762.png",
+      "snippet": "This file contains the exercises, hints, and solutions for Chapter 1 of the book ”Introduction to the Design and Analysis of Algorithms,” 3rd edition, by A. ...",
+      "snippet_highlighted_words": [
+        "contains",
+        "Algorithms"
+      ],
+      "source": "studylib.net"
+    },
+    {
+      "position": 64,
+      "title": "QuTiP: Quantum Toolbox in Python",
+      "link": "https://www.physics.umd.edu/courses/Phys402/AnlageFall22/qutip-Users_Guide_doc-4.7.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.physics.umd.edu/courses/Phys402/AnlageFall22/qutip-Users_Guide_doc-4.7.pdf&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECFkQAQ",
+      "displayed_link": "https://www.physics.umd.edu › AnlageFall22 › qu...",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a3558888fa6c46954f69abe2a2345c94da9fe.png",
+      "date": "Apr 13, 2022",
+      "snippet": "If you find this project useful, then please cite: J. R. Johansson, P.D. Nation, and F. Nori, “QuTiP 2: A Python framework for the dynamics ...",
+      "snippet_highlighted_words": [
+        "If you find"
+      ],
+      "source": "UMD Physics Department"
+    },
+    {
+      "position": 65,
+      "title": "You are given an infinite array A[i] in which the first n eleme...",
+      "link": "https://askfilo.com/user-question-answers-computer-science/2-you-are-given-an-infinite-array-a-i-in-which-the-first-n-3235393732383633",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://askfilo.com/user-question-answers-computer-science/2-you-are-given-an-infinite-array-a-i-in-which-the-first-n-3235393732383633&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECCUQAQ",
+      "displayed_link": "https://askfilo.com › ICSE › Computer Science",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a355893feb782c44d95270e27d582f38b7e41.png",
+      "date": "Feb 23, 2025",
+      "snippet": "... sorted order and the rest are filled with o, You are not given n ... Describe an algorithm that takes as input an integer x and finds a position ...",
+      "snippet_highlighted_words": [
+        "sorted order",
+        "rest",
+        "filled",
+        "You",
+        "not given n",
+        "Describe",
+        "algorithm",
+        "takes",
+        "input",
+        "integer x",
+        "finds",
+        "position"
+      ],
+      "source": "Filo"
+    },
+    {
+      "position": 66,
+      "title": "Search in Infinite Sorted 0-1 Array Problem Statement You ar",
+      "link": "https://www.ambitionbox.com/interviews/procol-question/search-in-infinite-sorted-0-1-array-you-are-given-an-infinite-array-consisting-of-only-ones-and-zeroes-in-sorted-order-you-have-to-find-the-index-of-the-first-occurrence-of-1-jthZQCqL",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ambitionbox.com/interviews/procol-question/search-in-infinite-sorted-0-1-array-you-are-given-an-infinite-array-consisting-of-only-ones-and-zeroes-in-sorted-order-you-have-to-find-the-index-of-the-first-occurrence-of-1-jthZQCqL&ved=2ahUKEwis74C6-dWOAxVzM9AFHY09EPAQFnoECB0QAQ",
+      "displayed_link": "https://www.ambitionbox.com › ... › Interview Questions",
+      "favicon": "https://serpapi.com/searches/688263ca52acc662f669b326/images/29d6cf77c9b70ea89f1038f0da0a35581ec9b38a56c82a869ef055a96a7f813a.png",
+      "snippet": "You are provided with an infinite sorted array that consists exclusively of 0s followed by 1s. Your task is to determine the index of the first occurrence of ...",
+      "snippet_highlighted_words": [
+        "You",
+        "provided",
+        "infinite sorted array",
+        "Your",
+        "index",
+        "first"
+      ],
+      "source": "AmbitionBox"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 66 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x,+if+such+a+position+exists,+in+o(log+n)+time.+(if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length,+assume+instead+that+it+is+of+length+n,+but+that+you+don%E2%80%99t+know+this+length,+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.)&num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&oq=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&oq=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&oq=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&oq=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&oq=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=you+are+given+an+infinite+array+a%5B%C2%B7%5D+in+which+the+first+n+cells+contain+integers+in+sorted+order+and+the+rest+of+the+cells+are+filled+with+%E2%88%9E.+you+are+not+given+the+value+of+n.+describe+an+algorithm+that+takes+an+integer+x+as+input+and+finds+a+position+in+the+array+containing+x%2C+if+such+a+position+exists%2C+in+o%28log+n%29+time.+%28if+you+are+disturbed+by+the+fact+that+the+array+a+has+infinite+length%2C+assume+instead+that+it+is+of+length+n%2C+but+that+you+don%E2%80%99t+know+this+length%2C+and+that+the+implementation+of+the+array+data+type+in+your+programming+language+returns+the+error+message+%E2%88%9E+whenever+elements+a%5Bi%5D+with+i+%3E+n+are+accessed.%29&start=400"
+    }
+  }
+}

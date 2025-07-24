@@ -1,0 +1,982 @@
+{
+  "search_metadata": {
+    "id": "6881c8dfb4ab723722d1ff3a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/59cf3080521b53b5/6881c8dfb4ab723722d1ff3a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/59cf3080521b53b5/6881c8dfb4ab723722d1ff3a.json_with_pixel_position",
+    "created_at": "2025-07-24 05:47:11 UTC",
+    "processed_at": "2025-07-24 05:47:11 UTC",
+    "google_url": "https://www.google.com/search?q=durkhams+disease&oq=durkhams+disease&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/59cf3080521b53b5/6881c8dfb4ab723722d1ff3a.html",
+    "total_time_taken": 0.9
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "durkhams disease",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "durkhams disease",
+    "total_results": 23,
+    "time_taken_displayed": 0.2,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://ojrd.biomedcentral.com/articles/10.1186/1750-1172-7-23",
+      "thumbnail": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/665547e2e876e0e85924b4fb824177a27a195406ff8cafc5ba620d58d540b701.jpeg",
+      "original": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1750-1172-7-23/MediaObjects/13023_2011_Article_384_Fig2_HTML.jpg",
+      "title": "Review of Dercum's disease and proposal of diagnostic ...",
+      "source_name": "Orphanet Journal of Rare Diseases - BioMed Central"
+    },
+    {
+      "source": "https://www.osmosis.org/answers/dercum-disease",
+      "thumbnail": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/665547e2e876e0e861a34e5b04664f534fbbfbc5c7b6baac89be6eefcd6dd72a.jpeg",
+      "original": "https://d16qt3wv6xm098.cloudfront.net/DsA1Vm1yRBeUPB1Wc4SyKVjnQIak43Pr/_.png",
+      "title": "Dercum Disease: What Is It, Causes, Symptoms, and More | Osmosis",
+      "source_name": "Osmosis"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=AbBka72TREY",
+      "thumbnail": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/665547e2e876e0e8851e1458ea899a9c81b35a69449b70cf1121d3e7422b8477.jpeg",
+      "original": "https://i.ytimg.com/vi/AbBka72TREY/maxresdefault.jpg",
+      "title": "FDRS 2024 - Dercum's disease 101 - Karen Herbst, MD",
+      "source_name": "YouTube"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the symptoms of Dercums disease?",
+      "type": "featured_snippet",
+      "snippet": "Regarding symptoms associated with Dercum's disease, 1 questionnaire, including 110 patients with the disease, revealed pain, fatty deposits unaffected by weight loss, easy bruising, sleep disturbances, impaired memory, depression, difficulty concentrating, anxiety, rapid heartbeat, shortness of breath, diabetes, ...",
+      "title": "Dercum's Disease: The Clinical Presentation, Diagnosis ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11229597/#:~:text=Regarding%20symptoms%20associated%20with%20Dercum's,%2C%20shortness%20of%20breath%2C%20diabetes%2C",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC11229597",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmRsZGZXSGRuU0RscGNrOTJNMmhrY1dGSldXbHJjMWxqUjFCT01FNUZNQzFWTjBkek9GSm1SVmgzVmtWcmFWbGlZVkYzV1dRd2NVNWFWbVpLVVVGUmREQnZSMlpDYm5SYU1rTk1abmM0TFdvNVUySTViRzlFYkdsUlp4SVhORTFwUW1GT1gxZEZPSGxmTlU5VlVEWmhVekV5UVRRYUlrRkdUVUZIUjNBM2IybEhabXh2VkVSQ00wcERiVlJzV1UxNVVtaFdXVjlOTjJjIiwiZmN2IjoiMyIsImVpIjoiNE1pQmFOX1dFOHlfNU9VUDZhUzEyQTQiLCJxYyI6IkNoQmtkWEpyYUdGdGN5QmthWE5sWVhObEVBQVlBWDJiTUN3XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHN5bXB0b21zIG9mIERlcmN1bXMgZGlzZWFzZT8iLCJsayI6IkdpaDNhR0YwSUdGeVpTQjBhR1VnYzNsdGNIUnZiWE1nYjJZZ1pHVnlZM1Z0Y3lCa2FYTmxZWE5sIiwiYnMiOiJjLU9LNHRJTXowZ3NVVWdzU2xVb3lVaFZLSzdNTFNqSnp5MVd5RTlUY0VrdFNpNEZNbE15aTFNVGkxUHRKUTZhR21sSmFaVGpVcC1DcXA2cmpzc2FiSFptTVZocFRtWmFxa0pxUlVGcWNrbGlYbklsU0VkeGZtNXFmbDZxUW5sbVNRYlVPb1J0ODkyTWJLU3N5a2t3SVFYRkJDNFBMZ1d3X1NWRm1lbnBxVVhGQ2s2cEdZZVhwNWFvSTNtcHVjUklVVXEtSEVWWkVyb3lvRW1heUQ0cEtNcFB6OHN2QnZMUzhvdUE3azdQUnpieUFxT1JoSlJZQ2xBVUpvYlFJTUFJQUEiLCJpZCI6ImZjXzRNaUJhTl9XRTh5XzVPVVA2YVMxMkE0XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmRsZGZXSGRuU0RscGNrOTJNMmhrY1dGSldXbHJjMWxqUjFCT01FNUZNQzFWTjBkek9GSm1SVmgzVmtWcmFWbGlZVkYzV1dRd2NVNWFWbVpLVVVGUmREQnZSMlpDYm5SYU1rTk1abmM0TFdvNVUySTViRzlFYkdsUlp4SVhORTFwUW1GT1gxZEZPSGxmTlU5VlVEWmhVekV5UVRRYUlrRkdUVUZIUjNBM2IybEhabXh2VkVSQ00wcERiVlJzV1UxNVVtaFdXVjlOTjJjIiwiZmN2IjoiMyIsImVpIjoiNE1pQmFOX1dFOHlfNU9VUDZhUzEyQTQiLCJxYyI6IkNoQmtkWEpyYUdGdGN5QmthWE5sWVhObEVBQVlBWDJiTUN3XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHN5bXB0b21zIG9mIERlcmN1bXMgZGlzZWFzZT8iLCJsayI6IkdpaDNhR0YwSUdGeVpTQjBhR1VnYzNsdGNIUnZiWE1nYjJZZ1pHVnlZM1Z0Y3lCa2FYTmxZWE5sIiwiYnMiOiJjLU9LNHRJTXowZ3NVVWdzU2xVb3lVaFZLSzdNTFNqSnp5MVd5RTlUY0VrdFNpNEZNbE15aTFNVGkxUHRKUTZhR21sSmFaVGpVcC1DcXA2cmpzc2FiSFptTVZocFRtWmFxa0pxUlVGcWNrbGlYbklsU0VkeGZtNXFmbDZxUW5sbVNRYlVPb1J0ODkyTWJLU3N5a2t3SVFYRkJDNFBMZ1d3X1NWRm1lbnBxVVhGQ2s2cEdZZVhwNWFvSTNtcHVjUklVVXEtSEVWWkVyb3lvRW1heUQ0cEtNcFB6OHN2QnZMUzhvdUE3azdQUnpieUFxT1JoSlJZQ2xBVUpvYlFJTUFJQUEiLCJpZCI6ImZjXzRNaUJhTl9XRTh5XzVPVVA2YVMxMkE0XzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the life expectancy of someone with Dercum disease?",
+      "type": "featured_snippet",
+      "snippet": "According to a review in the Orphanet Journal of Rare Diseases , Dercum's disease is anywhere from 5 to 30 times more common in women. This wide range is an indication that Dercum's disease isn't well understood. Despite this lack of knowledge, there's no evidence that Dercum's disease affects life expectancy.",
+      "title": "Dercum's Disease: Symptoms, Causes, and Treatment",
+      "link": "https://www.healthline.com/health/dercums-disease#:~:text=According%20to%20a%20review%20in,Dercum's%20disease%20affects%20life%20expectancy.",
+      "displayed_link": "https://www.healthline.com › health › dercums-disease",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmRsZGZXSGRuU0RscGNrOTJNMmhrY1dGSldXbHJjMWxqUjFCT01FNUZNQzFWTjBkek9GSm1SVmgzVmtWcmFWbGlZVkYzV1dRd2NVNWFWbVpLVVVGUmREQnZSMlpDYm5SYU1rTk1abmM0TFdvNVUySTViRzlFYkdsUlp4SVhORTFwUW1GT1gxZEZPSGxmTlU5VlVEWmhVekV5UVRRYUlrRkdUVUZIUjNBM2IybEhabXh2VkVSQ00wcERiVlJzV1UxNVVtaFdXVjlOTjJjIiwiZmN2IjoiMyIsImVpIjoiNE1pQmFOX1dFOHlfNU9VUDZhUzEyQTQiLCJxYyI6IkNoQmtkWEpyYUdGdGN5QmthWE5sWVhObEVBQVlBWDJiTUN3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGlmZSBleHBlY3RhbmN5IG9mIHNvbWVvbmUgd2l0aCBEZXJjdW0gZGlzZWFzZT8iLCJsayI6ImN3WEIwUTJBTUFnRndEMzhlbk80RGFHdmdjUVdVekRWN2IwN3ptMVM4RVFaY1hrbi1ON1VrcWtmb2lOak1DYXh2UXlOUzUtQjVrbEpfZyIsImJzIjoiYy1PSzR0SU16MGdzVVVnc1NsVW95VWhWS0s3TUxTakp6eTFXeUU5VGNFa3RTaTRGTWxNeWkxTVRpMVB0SlE2YUdtbEphWlRqVXAtQ3FwNnJqc3NhYkhabU1WaHBUbVphcWtKcVJVRnFja2xpWG5JbFNFZHhmbTVxZmw2cVFubG1TUWJVT29SdDg5Mk1iS1NzeWtrd0lRWEZCQzRQTGdXd19TVkZtZW5wcVVYRkNrNnBHWWVYcDVhb0kzbXB1Y1JJVVVxLUhFVlpFcm95b0VtYXlENHBLTXBQejhzdkJ2TFM4b3VBN2s3UFJ6YnlBcU9SaEpSWUNsQVVKb2JRSU1BSUFBIiwiaWQiOiJmY180TWlCYU5fV0U4eV81T1VQNmFTMTJBNF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmRsZGZXSGRuU0RscGNrOTJNMmhrY1dGSldXbHJjMWxqUjFCT01FNUZNQzFWTjBkek9GSm1SVmgzVmtWcmFWbGlZVkYzV1dRd2NVNWFWbVpLVVVGUmREQnZSMlpDYm5SYU1rTk1abmM0TFdvNVUySTViRzlFYkdsUlp4SVhORTFwUW1GT1gxZEZPSGxmTlU5VlVEWmhVekV5UVRRYUlrRkdUVUZIUjNBM2IybEhabXh2VkVSQ00wcERiVlJzV1UxNVVtaFdXVjlOTjJjIiwiZmN2IjoiMyIsImVpIjoiNE1pQmFOX1dFOHlfNU9VUDZhUzEyQTQiLCJxYyI6IkNoQmtkWEpyYUdGdGN5QmthWE5sWVhObEVBQVlBWDJiTUN3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGlmZSBleHBlY3RhbmN5IG9mIHNvbWVvbmUgd2l0aCBEZXJjdW0gZGlzZWFzZT8iLCJsayI6ImN3WEIwUTJBTUFnRndEMzhlbk80RGFHdmdjUVdVekRWN2IwN3ptMVM4RVFaY1hrbi1ON1VrcWtmb2lOak1DYXh2UXlOUzUtQjVrbEpfZyIsImJzIjoiYy1PSzR0SU16MGdzVVVnc1NsVW95VWhWS0s3TUxTakp6eTFXeUU5VGNFa3RTaTRGTWxNeWkxTVRpMVB0SlE2YUdtbEphWlRqVXAtQ3FwNnJqc3NhYkhabU1WaHBUbVphcWtKcVJVRnFja2xpWG5JbFNFZHhmbTVxZmw2cVFubG1TUWJVT29SdDg5Mk1iS1NzeWtrd0lRWEZCQzRQTGdXd19TVkZtZW5wcVVYRkNrNnBHWWVYcDVhb0kzbXB1Y1JJVVVxLUhFVlpFcm95b0VtYXlENHBLTXBQejhzdkJ2TFM4b3VBN2s3UFJ6YnlBcU9SaEpSWUNsQVVKb2JRSU1BSUFBIiwiaWQiOiJmY180TWlCYU5fV0U4eV81T1VQNmFTMTJBNF8xIn0%3D"
+    },
+    {
+      "question": "What triggers Behçet's disease?",
+      "type": "featured_snippet",
+      "snippet": "It's likely that gene changes and factors in the environment play a role. Experts believe that swelling of the blood vessels, called vasculitis, causes the symptoms of Behcet disease. The condition can involve arteries and veins of all sizes.",
+      "title": "Behcet disease - Symptoms and causes - Mayo Clinic",
+      "date": "Apr 25, 2025",
+      "link": "https://www.mayoclinic.org/diseases-conditions/behcet-disease/symptoms-causes/syc-20351326#:~:text=It's%20likely%20that%20gene%20changes,and%20veins%20of%20all%20sizes.",
+      "displayed_link": "https://www.mayoclinic.org › syc-20351326",
+      "source_logo": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/4a33590070c30271a90431ee4d532ad7db96f6adfb603474934e48d2a24c8a73.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmRsZGZXSGRuU0RscGNrOTJNMmhrY1dGSldXbHJjMWxqUjFCT01FNUZNQzFWTjBkek9GSm1SVmgzVmtWcmFWbGlZVkYzV1dRd2NVNWFWbVpLVVVGUmREQnZSMlpDYm5SYU1rTk1abmM0TFdvNVUySTViRzlFYkdsUlp4SVhORTFwUW1GT1gxZEZPSGxmTlU5VlVEWmhVekV5UVRRYUlrRkdUVUZIUjNBM2IybEhabXh2VkVSQ00wcERiVlJzV1UxNVVtaFdXVjlOTjJjIiwiZmN2IjoiMyIsImVpIjoiNE1pQmFOX1dFOHlfNU9VUDZhUzEyQTQiLCJxYyI6IkNoQmtkWEpyYUdGdGN5QmthWE5sWVhObEVBQVlBWDJiTUN3XyIsInF1ZXN0aW9uIjoiV2hhdCB0cmlnZ2VycyBCZWjDp2V0J3MgZGlzZWFzZT8iLCJsayI6IkdoOTNhR0YwSUhSeWFXZG5aWEp6SUdKbGFNT25aWFFuY3lCa2FYTmxZWE5sIiwiYnMiOiJjLU9LNHRJTXowZ3NVVWdzU2xVb3lVaFZLSzdNTFNqSnp5MVd5RTlUY0VrdFNpNEZNbE15aTFNVGkxUHRKUTZhR21sSmFaVGpVcC1DcXA2cmpzc2FiSFptTVZocFRtWmFxa0pxUlVGcWNrbGlYbklsU0VkeGZtNXFmbDZxUW5sbVNRYlVPb1J0ODkyTWJLU3N5a2t3SVFYRkJDNFBMZ1d3X1NWRm1lbnBxVVhGQ2s2cEdZZVhwNWFvSTNtcHVjUklVVXEtSEVWWkVyb3lvRW1heUQ0cEtNcFB6OHN2QnZMUzhvdUE3azdQUnpieUFxT1JoSlJZQ2xBVUpvYlFJTUFJQUEiLCJpZCI6ImZjXzRNaUJhTl9XRTh5XzVPVVA2YVMxMkE0XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmRsZGZXSGRuU0RscGNrOTJNMmhrY1dGSldXbHJjMWxqUjFCT01FNUZNQzFWTjBkek9GSm1SVmgzVmtWcmFWbGlZVkYzV1dRd2NVNWFWbVpLVVVGUmREQnZSMlpDYm5SYU1rTk1abmM0TFdvNVUySTViRzlFYkdsUlp4SVhORTFwUW1GT1gxZEZPSGxmTlU5VlVEWmhVekV5UVRRYUlrRkdUVUZIUjNBM2IybEhabXh2VkVSQ00wcERiVlJzV1UxNVVtaFdXVjlOTjJjIiwiZmN2IjoiMyIsImVpIjoiNE1pQmFOX1dFOHlfNU9VUDZhUzEyQTQiLCJxYyI6IkNoQmtkWEpyYUdGdGN5QmthWE5sWVhObEVBQVlBWDJiTUN3XyIsInF1ZXN0aW9uIjoiV2hhdCB0cmlnZ2VycyBCZWjDp2V0J3MgZGlzZWFzZT8iLCJsayI6IkdoOTNhR0YwSUhSeWFXZG5aWEp6SUdKbGFNT25aWFFuY3lCa2FYTmxZWE5sIiwiYnMiOiJjLU9LNHRJTXowZ3NVVWdzU2xVb3lVaFZLSzdNTFNqSnp5MVd5RTlUY0VrdFNpNEZNbE15aTFNVGkxUHRKUTZhR21sSmFaVGpVcC1DcXA2cmpzc2FiSFptTVZocFRtWmFxa0pxUlVGcWNrbGlYbklsU0VkeGZtNXFmbDZxUW5sbVNRYlVPb1J0ODkyTWJLU3N5a2t3SVFYRkJDNFBMZ1d3X1NWRm1lbnBxVVhGQ2s2cEdZZVhwNWFvSTNtcHVjUklVVXEtSEVWWkVyb3lvRW1heUQ0cEtNcFB6OHN2QnZMUzhvdUE3azdQUnpieUFxT1JoSlJZQ2xBVUpvYlFJTUFJQUEiLCJpZCI6ImZjXzRNaUJhTl9XRTh5XzVPVVA2YVMxMkE0XzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the prognosis for Dego's disease?",
+      "type": "featured_snippet",
+      "snippet": "About 15% of patients with Degos disease have long-term survival, with disease often limited to the skin and with no manifestations of fatal bowel or CNS involvement. Systemic Degos disease is frequently fatal within 2-3 years from the onset of systemic involvement. The cause of death is usually intestinal perforation.",
+      "title": "Degos Disease: Background, Pathophysiology, Etiology",
+      "date": "Dec 10, 2019",
+      "link": "https://emedicine.medscape.com/article/1087180-overview#:~:text=About%2015%25%20of%20patients%20with,death%20is%20usually%20intestinal%20perforation.",
+      "displayed_link": "https://emedicine.medscape.com › 1087180-overview",
+      "source_logo": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/4a33590070c30271a90431ee4d532ad757adce003acc9ed6f2a98b464af6cdcf.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmRsZGZXSGRuU0RscGNrOTJNMmhrY1dGSldXbHJjMWxqUjFCT01FNUZNQzFWTjBkek9GSm1SVmgzVmtWcmFWbGlZVkYzV1dRd2NVNWFWbVpLVVVGUmREQnZSMlpDYm5SYU1rTk1abmM0TFdvNVUySTViRzlFYkdsUlp4SVhORTFwUW1GT1gxZEZPSGxmTlU5VlVEWmhVekV5UVRRYUlrRkdUVUZIUjNBM2IybEhabXh2VkVSQ00wcERiVlJzV1UxNVVtaFdXVjlOTjJjIiwiZmN2IjoiMyIsImVpIjoiNE1pQmFOX1dFOHlfNU9VUDZhUzEyQTQiLCJxYyI6IkNoQmtkWEpyYUdGdGN5QmthWE5sWVhObEVBQVlBWDJiTUN3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcHJvZ25vc2lzIGZvciBEZWdvJ3MgZGlzZWFzZT8iLCJsayI6IkdoWmtaV2R2SUdScGMyVmhjMlVnY0hKdloyNXZjMmx6IiwiYnMiOiJjLU9LNHRJTXowZ3NVVWdzU2xVb3lVaFZLSzdNTFNqSnp5MVd5RTlUY0VrdFNpNEZNbE15aTFNVGkxUHRKUTZhR21sSmFaVGpVcC1DcXA2cmpzc2FiSFptTVZocFRtWmFxa0pxUlVGcWNrbGlYbklsU0VkeGZtNXFmbDZxUW5sbVNRYlVPb1J0ODkyTWJLU3N5a2t3SVFYRkJDNFBMZ1d3X1NWRm1lbnBxVVhGQ2s2cEdZZVhwNWFvSTNtcHVjUklVVXEtSEVWWkVyb3lvRW1heUQ0cEtNcFB6OHN2QnZMUzhvdUE3azdQUnpieUFxT1JoSlJZQ2xBVUpvYlFJTUFJQUEiLCJpZCI6ImZjXzRNaUJhTl9XRTh5XzVPVVA2YVMxMkE0XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmRsZGZXSGRuU0RscGNrOTJNMmhrY1dGSldXbHJjMWxqUjFCT01FNUZNQzFWTjBkek9GSm1SVmgzVmtWcmFWbGlZVkYzV1dRd2NVNWFWbVpLVVVGUmREQnZSMlpDYm5SYU1rTk1abmM0TFdvNVUySTViRzlFYkdsUlp4SVhORTFwUW1GT1gxZEZPSGxmTlU5VlVEWmhVekV5UVRRYUlrRkdUVUZIUjNBM2IybEhabXh2VkVSQ00wcERiVlJzV1UxNVVtaFdXVjlOTjJjIiwiZmN2IjoiMyIsImVpIjoiNE1pQmFOX1dFOHlfNU9VUDZhUzEyQTQiLCJxYyI6IkNoQmtkWEpyYUdGdGN5QmthWE5sWVhObEVBQVlBWDJiTUN3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcHJvZ25vc2lzIGZvciBEZWdvJ3MgZGlzZWFzZT8iLCJsayI6IkdoWmtaV2R2SUdScGMyVmhjMlVnY0hKdloyNXZjMmx6IiwiYnMiOiJjLU9LNHRJTXowZ3NVVWdzU2xVb3lVaFZLSzdNTFNqSnp5MVd5RTlUY0VrdFNpNEZNbE15aTFNVGkxUHRKUTZhR21sSmFaVGpVcC1DcXA2cmpzc2FiSFptTVZocFRtWmFxa0pxUlVGcWNrbGlYbklsU0VkeGZtNXFmbDZxUW5sbVNRYlVPb1J0ODkyTWJLU3N5a2t3SVFYRkJDNFBMZ1d3X1NWRm1lbnBxVVhGQ2s2cEdZZVhwNWFvSTNtcHVjUklVVXEtSEVWWkVyb3lvRW1heUQ0cEtNcFB6OHN2QnZMUzhvdUE3azdQUnpieUFxT1JoSlJZQ2xBVUpvYlFJTUFJQUEiLCJpZCI6ImZjXzRNaUJhTl9XRTh5XzVPVVA2YVMxMkE0XzEifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Dercum's disease, also known as adiposis dolorosa, is a rare disorder characterized by painful, localized deposits of fat (lipomas) in the subcutaneous tissue, often accompanied by fatigue and other symptoms. The exact cause is unknown, but it's thought to involve both neurological and endocrine system dysregulation. Pain management is the primary focus of treatment, with various approaches including pain relievers, corticosteroids, and other medications, according to DermNet.",
+        "snippet_highlighted_words": [
+          "a rare disorder characterized by painful, localized deposits of fat (lipomas) in the subcutaneous tissue, often accompanied by fatigue and other symptoms"
+        ],
+        "reference_indexes": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "More Details:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Symptoms:",
+            "snippet": "Dercum's disease primarily involves painful, localized lipomas, typically in the abdomen and extremities, according to the National Institutes of Health (NIH). Other potential symptoms include fatigue, easy bruising, headaches, stiffness, and psychiatric disturbances like depression or anxiety.",
+            "reference_indexes": [
+              1,
+              2,
+              3,
+              5
+            ]
+          },
+          {
+            "title": "Causes:",
+            "snippet": "While the exact cause is unknown, it's believed to be a combination of neurological and endocrine system issues, according to the National Institutes of Health (NIH). It can be associated with metabolic derangements like diabetes and dyslipidemia. Some cases may be inherited, with a dominant genetic pattern where only one copy of the altered gene is needed for the disease to appear.",
+            "reference_indexes": [
+              0,
+              2,
+              3
+            ]
+          },
+          {
+            "title": "Treatment:",
+            "snippet": "There is no cure for Dercum's disease, but treatment focuses on pain management. This can involve pain relievers (including opioids and NSAIDs), corticosteroid injections, calcium channel modulators, methotrexate, infliximab, interferon alpha, and other medications. Surgical removal of lipomas or liposuction may be considered in some cases. Non-pharmacological therapies, such as acupuncture and electrotherapy, can also be used.",
+            "reference_indexes": [
+              4,
+              6
+            ]
+          },
+          {
+            "title": "Distinguishing from other conditions:",
+            "snippet": "Dercum's disease can be challenging to differentiate from other conditions, especially fibromyalgia, due to overlapping symptoms like chronic pain and fatigue, according to the National Institutes of Health (NIH). It's also important to distinguish painful lipomas in Dercum's disease from other breast lumps.",
+            "reference_indexes": [
+              3,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "Dercum's Disease - Lipoma Symptoms, Causes, Treatment",
+        "link": "https://rarediseases.org/rare-diseases/dercums-disease/#:~:text=Dominant%20genetic%20disorders%20occur%20when,same%20for%20males%20and%20females.",
+        "snippet": "Mar 26, 2020 — Dominant genetic disorders occur when only a single copy of an altered gene is necessary for the appearance of the dis...",
+        "source": "National Organization for Rare Disorders",
+        "index": 0
+      },
+      {
+        "title": "Dercum's Disease: Symptoms, Causes, Diagnosis, Treatment",
+        "link": "https://www.webmd.com/a-to-z-guides/what-is-dercum-disease#:~:text=Pain%20in%20fatty%20parts%20of,get%20up%20in%20the%20morning).",
+        "snippet": "May 29, 2023 — Pain in fatty parts of your body that lasts longer than 3 months. You may also feel tired and rundown, bruise easily,",
+        "source": "WebMD",
+        "index": 1
+      },
+      {
+        "title": "Dercum's Disease: A Case Report of a Patient Having Both Type 1 ...",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7671811/#:~:text=Abstract,Go%20to:",
+        "snippet": "Nov 10, 2020 — Abstract. Dercum's disease, or adiposis dolorosa, is a rare disorder which consists of multiple, painful lipomas withi...",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "index": 2
+      },
+      {
+        "title": "Differential Diagnosis of a Case of Dercum’s Disease with Possible ...",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8686776/#:~:text=DD%20is%20frequently%20associated%20with,to%20be%20significantly%20under%2Destimated.",
+        "snippet": "Dec 29, 2021 — DD is frequently associated with metabolic derangements, such as diabetes [6], dyslipidemias leading to early atherosc...",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "index": 3
+      },
+      {
+        "title": "Dercum Disease (adiposis dolorosa) - DermNet",
+        "link": "https://dermnetnz.org/topics/dercum-disease",
+        "snippet": "Specific measures * Simple analgesics such as paracetamol and NSAIDs, or stronger pain relief such as opioids. * Intravenous lido...",
+        "source": "DermNet",
+        "index": 4
+      },
+      {
+        "title": "Dercum Disease: What Is It, Causes, Symptoms, and More - Osmosis",
+        "link": "https://www.osmosis.org/answers/dercum-disease#:~:text=The%20pain%20is%20often%20described,lumps%20are%20typically%20non%2Dpainful.",
+        "snippet": "The pain is often described as a burning sensation with a slow onset that can gradually worsen. It can last more than three months...",
+        "source": "Osmosis",
+        "index": 5
+      },
+      {
+        "title": "Dercum's Disease: Symptoms, Causes, and Treatment - Healthline",
+        "link": "https://www.healthline.com/health/dercums-disease#:~:text=How%20is%20it%20treated?,such%20as%20swimming%20and%20stretching",
+        "snippet": "How is it treated? There's no cure for Dercum's disease. Instead, treatment usually focuses on pain management using: prescription...",
+        "source": "Healthline",
+        "index": 6
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Dercum's Disease - Lipoma Symptoms, Causes, Treatment",
+      "link": "https://rarediseases.org/rare-diseases/dercums-disease/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rarediseases.org/rare-diseases/dercums-disease/&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECBYQAQ",
+      "displayed_link": "https://rarediseases.org › Rare Diseases",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c5ac431ad68fa198ff59a60bab85e30f8.png",
+      "date": "Mar 26, 2020",
+      "snippet": "Dercum's disease is a rare disorder characterized by multiple, painful growths of fatty tissue (lipomas).",
+      "snippet_highlighted_words": [
+        "disease",
+        "a rare disorder characterized by multiple, painful growths of fatty tissue (lipomas)"
+      ],
+      "source": "National Organization for Rare Disorders"
+    },
+    {
+      "position": 2,
+      "title": "Dercum's Disease: Symptoms, Causes, and Treatment ...",
+      "link": "https://www.webmd.com/a-to-z-guides/what-is-dercum-disease",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/a-to-z-guides/what-is-dercum-disease&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECBcQAQ",
+      "displayed_link": "https://www.webmd.com › A to Z Guides › Reference",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86ccfdf82a177ae43acf0d35ee747e0544b.png",
+      "date": "6 days ago",
+      "snippet": "Dercum's disease is an extremely rare disorder. People with it have many painful, fatty lumps that grow just below their skin.",
+      "snippet_highlighted_words": [
+        "an extremely rare disorder"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 3,
+      "title": "Dercum's disease (adiposis dolorosa): a review of clinical ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6911249/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC6911249/&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECEQQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC6911249",
+      "author": "by EJ Kucharz",
+      "snippet": "Dercum's disease, also known as adiposis dolorosa, is a rare disease typically characterized by development of painful subcutaneous adipose tissue deposits.",
+      "snippet_highlighted_words": [
+        "disease",
+        "adiposis dolorosa",
+        "disease"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Dercum's disease",
+      "link": "https://en.wikipedia.org/wiki/Dercum%27s_disease",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Dercum%2527s_disease&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECGUQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Dercum's_disease",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c2b40114751fee643fa06f5d759bcc06f.png",
+      "snippet": "Dercum's disease (DD) is a rare condition characterized by multiple painful fatty tumors, called lipomas, that can grow anywhere in subcutaneous fat across ...",
+      "snippet_highlighted_words": [
+        "a rare condition characterized by multiple painful fatty tumors"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 5,
+      "title": "About Dercum Disease",
+      "link": "https://www.genome.gov/Genetic-Disorders/Dercum-Disease",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.genome.gov/Genetic-Disorders/Dercum-Disease&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECEkQAQ",
+      "displayed_link": "https://www.genome.gov › Genetic-Disorders › Dercum...",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86cda83a617da58fe1b48a95917adbaffc1.png",
+      "date": "Jun 27, 2012",
+      "snippet": "Dercum disease is a rare condition that is characterized by multiple, painful fatty tumors that occur chiefly in post-menopausal, obese women of middle age.",
+      "snippet_highlighted_words": [
+        "is a rare condition that is characterized by multiple, painful fatty tumors"
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegQIUxAB"
+      },
+      "source": "National Human Genome Research Institute (NHGRI) (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "FDRS 2024 - Dercum's disease 101 - Karen Herbst, MD",
+      "link": "https://www.youtube.com/watch?v=AbBka72TREY",
+      "displayed_link": "1.5K+ views · 8 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4J1d479Qll7gmy5SCYlBnrdGrQqIhnW-Qp9r__3PzKoX&s",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c3a05520deae881153250e5d00361c687.png",
+      "snippet": "The hallmark of Durham's disease is fatty swelling and pain.",
+      "duration": "8:08",
+      "key_moments": [
+        {
+          "time": "00:39",
+          "title": "Hallmark of Durkham's Disease",
+          "link": "https://www.youtube.com/watch?v=AbBka72TREY&t=39"
+        },
+        {
+          "time": "01:40",
+          "title": "When Does Durkham's Disease Appear",
+          "link": "https://www.youtube.com/watch?v=AbBka72TREY&t=100"
+        },
+        {
+          "time": "02:03",
+          "title": "Signs and Symptoms of Durkham's Disease",
+          "link": "https://www.youtube.com/watch?v=AbBka72TREY&t=123"
+        },
+        {
+          "time": "05:38",
+          "title": "Medications",
+          "link": "https://www.youtube.com/watch?v=AbBka72TREY&t=338"
+        }
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegUIgAEQHQ"
+      },
+      "source": "YouTube · Fat Disorders Resource Society"
+    },
+    {
+      "position": 7,
+      "title": "Lipedema and Dercum's Disease (2017)",
+      "link": "https://www.youtube.com/watch?v=8rNqiIqOPQY",
+      "displayed_link": "8.4K+ views · 7 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCQ6EE_8SXcMJK2gInZeBmTQBRcrbdozsfem4hiPoNccO&s",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86ccca41878c0a5097e4a2e4dd0b559c176.png",
+      "snippet": "Defining Dercum Disease Karen Herbst, MD, PhD. Fat ... What Dercums Disease Does To The Body / April 4th Dercums Disease Awareness Day.",
+      "duration": "7:54",
+      "key_moments": [
+        {
+          "time": "00:20",
+          "title": "What is Lipedema?",
+          "link": "https://www.youtube.com/watch?v=8rNqiIqOPQY&t=20",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkU5QFWJJNJUz3I0C3oX_-3EOIWiGLuXj3PgRgSM3eQ&s"
+        },
+        {
+          "time": "00:51",
+          "title": "Lipedema Symptoms",
+          "link": "https://www.youtube.com/watch?v=8rNqiIqOPQY&t=51",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXDDvu04RjARWOuVCW4xGRdDBvQCscfiZcJW4-SIBrg&s"
+        },
+        {
+          "time": "01:49",
+          "title": "Misdiagnosis",
+          "link": "https://www.youtube.com/watch?v=8rNqiIqOPQY&t=109",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Mc5-u9sDEBdf6-ytkM3tR4zLvRSvb5QODRr4AzVklA&s"
+        },
+        {
+          "time": "02:36",
+          "title": "What is Dercum's Disease?",
+          "link": "https://www.youtube.com/watch?v=8rNqiIqOPQY&t=156",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDrvAtyLNwLsUnTcajKvLc7-Yi38AbwpyUzzr-dHfRrQ&s"
+        },
+        {
+          "time": "03:21",
+          "title": "Difference between Lipedema and Dercum's Disease",
+          "link": "https://www.youtube.com/watch?v=8rNqiIqOPQY&t=201",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEu_upWmLz7c2iHQuWXTS3-ewipqpKU9Zn5pgSufRPIg&s"
+        },
+        {
+          "time": "03:54",
+          "title": "Manual Lymphatic Drainage",
+          "link": "https://www.youtube.com/watch?v=8rNqiIqOPQY&t=234",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9JS5Y8r0WP-qkCbd9D6d1PAYYQlz3BM6CbnJKfx96yA&s"
+        },
+        {
+          "time": "04:10",
+          "title": "Liposuction",
+          "link": "https://www.youtube.com/watch?v=8rNqiIqOPQY&t=250",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMpYr9725Tu3MrpZpCqr2l-IZNQZ9Th3qdy7W8nELZxg&s"
+        },
+        {
+          "time": "07:23",
+          "title": "Concluding questions",
+          "link": "https://www.youtube.com/watch?v=8rNqiIqOPQY&t=443",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwrKtixGjRtOvpRwVp_mWUwafeZ4vwcrgiDEjiGfadLw&s"
+        }
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegUIhAEQNA"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTmOBhxPNJI8ogI-M_Cfc3jj5Z8yB6lef2cpw",
+      "source": "YouTube · Medical Ignorance"
+    },
+    {
+      "position": 8,
+      "title": "Dercum's Disease after COVID",
+      "link": "https://www.youtube.com/watch?v=5ixTeTv-iaE",
+      "displayed_link": "1.8K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxlH65kN03bc2SKULLaSDKchylouS1xfQobLZTa5Hs54nE&s",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c90dc221ba633e045d5c7013afd7cd16e.png",
+      "snippet": "Dercum's disease, a connective tissue disease that involves subcutaneous adipose tissue, is known to develop following certain infections.",
+      "duration": "17:24",
+      "key_moments": [
+        {
+          "time": "02:45",
+          "title": "Mast Cells",
+          "link": "https://www.youtube.com/watch?v=5ixTeTv-iaE&t=165"
+        },
+        {
+          "time": "05:22",
+          "title": "Covid-19 History",
+          "link": "https://www.youtube.com/watch?v=5ixTeTv-iaE&t=322"
+        },
+        {
+          "time": "06:03",
+          "title": "Durkum's History",
+          "link": "https://www.youtube.com/watch?v=5ixTeTv-iaE&t=363"
+        },
+        {
+          "time": "06:47",
+          "title": "Pain Management",
+          "link": "https://www.youtube.com/watch?v=5ixTeTv-iaE&t=407"
+        },
+        {
+          "time": "07:06",
+          "title": "Key Events",
+          "link": "https://www.youtube.com/watch?v=5ixTeTv-iaE&t=426"
+        },
+        {
+          "time": "07:25",
+          "title": "Medical History",
+          "link": "https://www.youtube.com/watch?v=5ixTeTv-iaE&t=445"
+        },
+        {
+          "time": "08:30",
+          "title": "53 Year Old Female",
+          "link": "https://www.youtube.com/watch?v=5ixTeTv-iaE&t=510"
+        },
+        {
+          "time": "10:07",
+          "title": "Other Symptoms",
+          "link": "https://www.youtube.com/watch?v=5ixTeTv-iaE&t=607"
+        },
+        {
+          "time": "11:28",
+          "title": "Prevention",
+          "link": "https://www.youtube.com/watch?v=5ixTeTv-iaE&t=688"
+        },
+        {
+          "time": "15:35",
+          "title": "Contact Us",
+          "link": "https://www.youtube.com/watch?v=5ixTeTv-iaE&t=935"
+        }
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegUIgQEQIw"
+      },
+      "source": "YouTube · Fat Disorders Resource Society"
+    },
+    {
+      "position": 9,
+      "title": "Dercum's Disease: The Clinical Presentation, Diagnosis ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11229597/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC11229597/&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECEgQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC11229597",
+      "author": "by O Al-Housni",
+      "snippet": "Dercum's disease is a rare disorder described by chronic pain due to the development of multiple painful lipomas within subcutaneous adipose tissue.",
+      "snippet_highlighted_words": [
+        "a rare disorder described by chronic pain"
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegQIUhAB"
+      },
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 10,
+      "title": "Updates in Dercum's Disease Pain Management Strategies ...",
+      "link": "https://www.youtube.com/watch?v=oBp6mxdM1mc",
+      "displayed_link": "700+ views · 1 month ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkBHKSpupl1ualwUOiCHKF-FUvEmSino0deJRTZHPJcOlW&s",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c8b6f5d5845873ae47c7adcba1a30897f.png",
+      "snippet": "Dercum's disease is primarily characterized by the rapid and continuous development of painful lipomas and/or angiolipomas in affected ...",
+      "duration": "26:12",
+      "key_moments": [
+        {
+          "time": "01:37",
+          "title": "The Durham's Disease Patient",
+          "link": "https://www.youtube.com/watch?v=oBp6mxdM1mc&t=97"
+        },
+        {
+          "time": "02:29",
+          "title": "Chronic Back Pain",
+          "link": "https://www.youtube.com/watch?v=oBp6mxdM1mc&t=149"
+        },
+        {
+          "time": "03:39",
+          "title": "Treatment",
+          "link": "https://www.youtube.com/watch?v=oBp6mxdM1mc&t=219"
+        },
+        {
+          "time": "08:25",
+          "title": "Addressing Regional Chronic Inflammation",
+          "link": "https://www.youtube.com/watch?v=oBp6mxdM1mc&t=505"
+        },
+        {
+          "time": "08:32",
+          "title": "Regional Chronic Inflammation",
+          "link": "https://www.youtube.com/watch?v=oBp6mxdM1mc&t=512"
+        },
+        {
+          "time": "09:56",
+          "title": "Trigger Point Release",
+          "link": "https://www.youtube.com/watch?v=oBp6mxdM1mc&t=596"
+        },
+        {
+          "time": "10:29",
+          "title": "Trying To Work on the Chronic Pain",
+          "link": "https://www.youtube.com/watch?v=oBp6mxdM1mc&t=629"
+        },
+        {
+          "time": "18:14",
+          "title": "Anti-Inflammatory Supplements",
+          "link": "https://www.youtube.com/watch?v=oBp6mxdM1mc&t=1094"
+        },
+        {
+          "time": "19:55",
+          "title": "What's Next",
+          "link": "https://www.youtube.com/watch?v=oBp6mxdM1mc&t=1195"
+        },
+        {
+          "time": "21:02",
+          "title": "Patient Samples",
+          "link": "https://www.youtube.com/watch?v=oBp6mxdM1mc&t=1262"
+        }
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegUIgwEQJA"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQQHJ3ZKHnTH6OIwgNbaBO_LZajpXh30ZZbrg",
+      "source": "YouTube · Fat Disorders Resource Society"
+    },
+    {
+      "position": 11,
+      "title": "Lipedema vs Dercum's Disease | Dr. Karen Herbst",
+      "link": "https://www.youtube.com/watch?v=xHbOF7Fv430",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DxHbOF7Fv430&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECGkQAQ",
+      "displayed_link": "12.5K+ views · 3 years ago",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c01c21b5b39c3f5230e8cebe7cad7c8b7.png",
+      "snippet": "Lipedema is a more common disease found primarily in women and Dercum's is a very rare disease that affects both men and women (although more ...",
+      "snippet_highlighted_words": [
+        "Dercum's is a very rare disease that affects both men and women"
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegQIchAB"
+      },
+      "source": "YouTube · Total Lipedema Care"
+    },
+    {
+      "position": 12,
+      "title": "Dercum's Disease Tissue is the Issue - Karen Herbst, MD, PhD",
+      "link": "https://www.youtube.com/watch?v=AC-cn4xuqE4",
+      "displayed_link": "8.2K+ views · 6 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSAR4w1m0s0aBzsSEA1ar1onx-aZO73NKnutRCsMoa3Pw&s",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86cd169cd71675621d0ba94eec96ca4e54a.png",
+      "snippet": "Dercum's Disease Tissue is the Issue - Karen Herbst, MD, PhD. ... What Dercums Disease Does To The Body / April 4th Dercums Disease Awareness Day.",
+      "duration": "22:09",
+      "key_moments": [
+        {
+          "time": "00:51",
+          "title": "Signs & Symptoms",
+          "link": "https://www.youtube.com/watch?v=AC-cn4xuqE4&t=51",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfNgH-VN5OxKSJTSXu6WniWlvGw4ia1N4RglGufvD_nA&s"
+        },
+        {
+          "time": "02:31",
+          "title": "Histology of Lipoma in Dercums Disease",
+          "link": "https://www.youtube.com/watch?v=AC-cn4xuqE4&t=151",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZmMG8fpc3g7lPFBeN5gGS6PwIMncOymCpHV5vLAU6WQ&s"
+        },
+        {
+          "time": "05:50",
+          "title": "Vivo 2100 Ultrasound",
+          "link": "https://www.youtube.com/watch?v=AC-cn4xuqE4&t=350",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Voq24iVrk1u2uS51a3CqfEEfUG6fRsIOSe_XxAJ5DQ&s"
+        },
+        {
+          "time": "09:05",
+          "title": "Ultrasound findings in Dercums Disease",
+          "link": "https://www.youtube.com/watch?v=AC-cn4xuqE4&t=545",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncjBFNxf7JVLO4X0wEd9UrQafFP14PUF7yd4rvXtoSQ&s"
+        },
+        {
+          "time": "10:55",
+          "title": "Ectopic Fat Deposits",
+          "link": "https://www.youtube.com/watch?v=AC-cn4xuqE4&t=655",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtqDq_gJE_wUBngLMa_qSuJzxgKOFpb949fs1rJkZh9w&s"
+        },
+        {
+          "time": "14:06",
+          "title": "Macrophages in Obese Patients",
+          "link": "https://www.youtube.com/watch?v=AC-cn4xuqE4&t=846",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwc2tKWfUk8W9VaKzg3seXaPZcPregdQq_uODfL6t3BA&s"
+        },
+        {
+          "time": "15:18",
+          "title": "Dercums Disease Pathophysiology",
+          "link": "https://www.youtube.com/watch?v=AC-cn4xuqE4&t=918",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6XI9tyHR6TAUlJNmjgarqCx5taSiwdjOoxNrKzJQW8w&s"
+        },
+        {
+          "time": "16:46",
+          "title": "Microvascular Clots and Dead Fat Tissue",
+          "link": "https://www.youtube.com/watch?v=AC-cn4xuqE4&t=1006",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLC7Z1gHaeGBfOab_0aGXRilJRgEOQHYAb7G6-Q93Zsw&s"
+        },
+        {
+          "time": "19:06",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=AC-cn4xuqE4&t=1146",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTInceimYZAMlHEbsw10RcsRVuDXovhx4_NCLSeTE0aRw&s"
+        },
+        {
+          "time": "21:29",
+          "title": "Should we be using blood thinners?",
+          "link": "https://www.youtube.com/watch?v=AC-cn4xuqE4&t=1289",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlEsyEp-R5kbXbbCv1nt2OtubpA49oJXUGLBapZor1CQ&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRXaBXN7gvPpiCjCL5zxZPRabdtp38syKW7jA",
+      "source": "YouTube · Fat Disorders Resource Society"
+    },
+    {
+      "position": 13,
+      "title": "Join Dr. Schwartz as he consults with a patient enduring ...",
+      "link": "https://www.instagram.com/reel/DDNV9eFvWPl/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DDNV9eFvWPl/&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECGYQAQ",
+      "displayed_link": "110+ likes · 7 months ago",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c0e75962efd221c4290c40e31c9741007.png",
+      "snippet": "Join Dr. Schwartz as he consults with a patient enduring one of the most severe cases of Dercum's Disease he's encountered.",
+      "snippet_highlighted_words": [
+        "one of the most severe cases of Dercum's Disease"
+      ],
+      "source": "Instagram · totallipedemacare"
+    },
+    {
+      "position": 14,
+      "title": "Dercum's Disease: Symptoms, Causes, and Treatment",
+      "link": "https://www.healthline.com/health/dercums-disease",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/health/dercums-disease&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECGgQAQ",
+      "displayed_link": "https://www.healthline.com › health › dercums-disease",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c99478a63f57dbc84cf57e099c2e1179d.png",
+      "snippet": "Dercum's disease is a rare disorder that causes painful growths of fatty tissue called lipomas. It's also referred to as adiposis dolorosa.",
+      "snippet_highlighted_words": [
+        "a rare disorder that causes painful growths of fatty tissue called lipomas"
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegQIcRAB"
+      },
+      "source": "Healthline"
+    },
+    {
+      "position": 15,
+      "title": "Understanding Severe Cases of Dercum's Disease",
+      "link": "https://www.tiktok.com/@totallipedemacare/video/7444980942520814879",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40totallipedemacare/video/7444980942520814879&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECGoQAQ",
+      "displayed_link": "561.4K+ views · 7 months ago",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86cbafd9f9b45c3962a78a310fe7f425da0.png",
+      "snippet": "Explore a severe case of Dercum's Disease with Dr. Schwartz, aiming to improve patient comfort and quality of life.",
+      "snippet_highlighted_words": [
+        "Explore a severe case of Dercum's Disease"
+      ],
+      "source": "TikTok · Total Lipedema Care"
+    },
+    {
+      "position": 16,
+      "title": "FDRS 2024 - Dercum's Disease: COVID-19 as an Inciting Factor",
+      "link": "https://www.youtube.com/watch?v=qY9LApOse90",
+      "displayed_link": "230+ views · 8 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSlcxJtl6hNTZpMwxtUBOEruGJ_q9Pj3EClrjJsrzMES_A&s",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c4104fd9849635b34b82d5700b84e0393.png",
+      "snippet": "Studies have shown a strong connection between dircom disease and autoimmune disorders.",
+      "duration": "10:28",
+      "key_moments": [
+        {
+          "time": "00:34",
+          "title": "Durkcom's Disease and Autoimmune Disorders",
+          "link": "https://www.youtube.com/watch?v=qY9LApOse90&t=34"
+        },
+        {
+          "time": "02:11",
+          "title": "Case Review",
+          "link": "https://www.youtube.com/watch?v=qY9LApOse90&t=131"
+        },
+        {
+          "time": "04:23",
+          "title": "Treatments",
+          "link": "https://www.youtube.com/watch?v=qY9LApOse90&t=263"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSri0kSl16HDJI5mqGkrklEJ7IUJ9KnciRXOw",
+      "source": "YouTube · Fat Disorders Resource Society"
+    },
+    {
+      "position": 17,
+      "title": "FDRS 2024 - The Fascial Network, Pain, and Lipedema and ...",
+      "link": "https://www.youtube.com/watch?v=3w2i40YZB9c",
+      "displayed_link": "1K+ views · 8 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKcmLdMm6p-oaC3UGDESsd1g0xmBfqP86_7h-FQWRhUR54&s",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c7c38bf6851f890665808ef8182df00e9.png",
+      "snippet": "Research suggests that the fasal network is critic in tackling chronic pain and immune dysfunction.",
+      "duration": "16:13",
+      "key_moments": [
+        {
+          "time": "00:10",
+          "title": "The Fascial Network and Pain",
+          "link": "https://www.youtube.com/watch?v=3w2i40YZB9c&t=10"
+        },
+        {
+          "time": "03:21",
+          "title": "Fascial Network",
+          "link": "https://www.youtube.com/watch?v=3w2i40YZB9c&t=201"
+        },
+        {
+          "time": "05:48",
+          "title": "Layers of the Fascia",
+          "link": "https://www.youtube.com/watch?v=3w2i40YZB9c&t=348"
+        },
+        {
+          "time": "08:25",
+          "title": "The Superficial Fascia",
+          "link": "https://www.youtube.com/watch?v=3w2i40YZB9c&t=505"
+        },
+        {
+          "time": "08:46",
+          "title": "Deep Fascia",
+          "link": "https://www.youtube.com/watch?v=3w2i40YZB9c&t=526"
+        },
+        {
+          "time": "08:50",
+          "title": "The Deep Fascia",
+          "link": "https://www.youtube.com/watch?v=3w2i40YZB9c&t=530"
+        },
+        {
+          "time": "09:32",
+          "title": "Fascial Fibrosis",
+          "link": "https://www.youtube.com/watch?v=3w2i40YZB9c&t=572"
+        },
+        {
+          "time": "11:02",
+          "title": "Myofascial Pain Syndrome",
+          "link": "https://www.youtube.com/watch?v=3w2i40YZB9c&t=662"
+        },
+        {
+          "time": "15:11",
+          "title": "Summary",
+          "link": "https://www.youtube.com/watch?v=3w2i40YZB9c&t=911"
+        }
+      ],
+      "source": "YouTube · Fat Disorders Resource Society"
+    },
+    {
+      "position": 18,
+      "title": "Was it Arthritis or Lipoedema and Dercum's disease (DD)? ...",
+      "link": "https://www.instagram.com/reel/DIqgwYev1Kv/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DIqgwYev1Kv/&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECEUQAQ",
+      "displayed_link": "20+ likes · 3 months ago",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c6cafa1de9717d88edd8f9efd88e05d58.png",
+      "snippet": "Was it Arthritis or Lipoedema and Dercum's disease (DD)? DD are often confused with arthritis due to joint pain and stiffness.",
+      "snippet_highlighted_words": [
+        "DD are often confused with arthritis due to joint pain and stiffness"
+      ],
+      "source": "Instagram · andwonshouldknow"
+    },
+    {
+      "position": 19,
+      "title": "Dercum Disease (Adiposis Dolorosa)",
+      "link": "https://emedicine.medscape.com/article/1082083-overview",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://emedicine.medscape.com/article/1082083-overview&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECEoQAQ",
+      "displayed_link": "https://emedicine.medscape.com › Dermatology",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c8d51d4df199a5b307b81b49133d95736.png",
+      "date": "Apr 25, 2025",
+      "snippet": "an unusual progressive syndrome of unknown etiology characterized by multiple painful lipomas (see the image below) that usually arise in adult life.",
+      "snippet_highlighted_words": [
+        "an unusual progressive syndrome of unknown etiology"
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegQIVRAB"
+      },
+      "source": "Medscape"
+    },
+    {
+      "position": 20,
+      "title": "The Man With 100 Lumps (Dercum's Disease aka: Adiposis ...",
+      "link": "https://www.youtube.com/watch?v=_tfzk2-Gwyg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D_tfzk2-Gwyg&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECEYQAQ",
+      "displayed_link": "195.6K+ views · 13 years ago",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c102bd9679acd33f5072ffde00855cfbf.png",
+      "snippet": "THE DISEASE Dercum's Disease (Adiposis Dolorosa) is a dysfunction of the lymphatic system that is more common than most medical health ...",
+      "snippet_highlighted_words": [
+        "Dercum's Disease (Adiposis Dolorosa"
+      ],
+      "source": "YouTube · pSyChojOeDesigns"
+    },
+    {
+      "position": 21,
+      "title": "Dercum Disease: What Is It, Causes, Symptoms, and More",
+      "link": "https://www.osmosis.org/answers/dercum-disease",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.osmosis.org/answers/dercum-disease&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECEsQAQ",
+      "displayed_link": "https://www.osmosis.org › answers › dercum-disease",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c5ca6abf27536418bd1306d79b837d050.png",
+      "author": "by NN Armata",
+      "snippet": "Dercum disease, also known as adiposis dolorosa, refers to a rare condition of unknown etiology characterized by multiple painful fatty deposits under the skin.",
+      "snippet_highlighted_words": [
+        "disease"
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegQIVBAB"
+      },
+      "source": "Osmosis"
+    },
+    {
+      "position": 22,
+      "title": "Dercum's disease: Causes, diagnosis, and more",
+      "link": "https://www.medicalnewstoday.com/articles/dercums-disease",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicalnewstoday.com/articles/dercums-disease&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECGQQAQ",
+      "displayed_link": "https://www.medicalnewstoday.com › dercums-disease",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86c6f1127f641a2c3dd3e28b29409218607.png",
+      "date": "Oct 28, 2022",
+      "snippet": "Dercum's disease is a rare, underdiagnosed disorder of the fat tissue. It causes fatty growths to develop underneath the skin or, in some cases, deeper inside ...",
+      "snippet_highlighted_words": [
+        "a rare, underdiagnosed disorder of the fat tissue"
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegQIaxAB"
+      },
+      "source": "Medical News Today"
+    },
+    {
+      "position": 23,
+      "title": "Dercum Disease (adiposis dolorosa)",
+      "link": "https://dermnetnz.org/topics/dercum-disease",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dermnetnz.org/topics/dercum-disease&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQFnoECGcQAQ",
+      "displayed_link": "https://dermnetnz.org › topics › dercum-disease",
+      "favicon": "https://serpapi.com/searches/6881c8dfb4ab723722d1ff3a/images/ae025e34b3178bb7e8dfde9a4b59d86ca6b6252f395e6da7bdf2550f6e0aef5f.png",
+      "snippet": "Dercum disease is a rare condition characterised by the gradual and progressive development of benign painful subcutaneous lipomas and angiolipomas.",
+      "snippet_highlighted_words": [
+        "disease"
+      ],
+      "missing": [
+        "durkhams"
+      ],
+      "must_include": {
+        "word": "durkhams",
+        "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=%22durkhams%22+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ5t4CegQIbxAB"
+      },
+      "source": "DermNet"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Pictures of Dercum's disease",
+      "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=Pictures+of+Dercum%27s+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Pictures+of+Dercum%27s+disease"
+    },
+    {
+      "block_position": 1,
+      "query": "Dercum disease life expectancy",
+      "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=Dercum+disease+life+expectancy&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Dercum+disease+life+expectancy"
+    },
+    {
+      "block_position": 1,
+      "query": "Stages of Dercum's disease",
+      "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=Stages+of+Dercum%27s+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Stages+of+Dercum%27s+disease"
+    },
+    {
+      "block_position": 1,
+      "query": "Dercum's disease symptoms",
+      "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=Dercum%27s+disease+symptoms&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Dercum%27s+disease+symptoms"
+    },
+    {
+      "block_position": 1,
+      "query": "Living with Dercum's disease",
+      "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=Living+with+Dercum%27s+disease&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Living+with+Dercum%27s+disease"
+    },
+    {
+      "block_position": 1,
+      "query": "Is Dercum's disease fatal",
+      "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=Is+Dercum%27s+disease+fatal&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Is+Dercum%27s+disease+fatal"
+    },
+    {
+      "block_position": 1,
+      "query": "Is Dercum's disease: a disability",
+      "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=Is+Dercum%27s+disease:+a+disability&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Is+Dercum%27s+disease%3A+a+disability"
+    },
+    {
+      "block_position": 1,
+      "query": "Dercum's disease specialist",
+      "link": "https://www.google.com/search?num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&q=Dercum%27s+disease+specialist&sa=X&ved=2ahUKEwjfxoPb5dSOAxXMH7kGHWlSDesQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Dercum%27s+disease+specialist"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 23 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=durkhams+disease&num=100&sca_esv=5dbeab7b81d1ee5e&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=durkhams+disease&oq=durkhams+disease&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=durkhams+disease&oq=durkhams+disease&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=durkhams+disease&oq=durkhams+disease&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=durkhams+disease&oq=durkhams+disease&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=durkhams+disease&oq=durkhams+disease&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=durkhams+disease&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=durkhams+disease&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=durkhams+disease&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=durkhams+disease&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=durkhams+disease&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=durkhams+disease&start=400"
+    }
+  }
+}

@@ -6,7 +6,7 @@ from pathlib import Path
 from serpapi import GoogleSearch
 from dotenv import load_dotenv
 
-SAMPLE_NAME = 'ymyl_1000'
+SAMPLE_NAME = 'ymyl_29000'
 N = 100 # number of organic results
 
 # Load API key

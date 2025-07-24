@@ -1,0 +1,1331 @@
+{
+  "search_metadata": {
+    "id": "688169ce9d26cf56d424c8aa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b8e0e4a9f8946644/688169ce9d26cf56d424c8aa.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/b8e0e4a9f8946644/688169ce9d26cf56d424c8aa.json_with_pixel_position",
+    "created_at": "2025-07-23 23:01:34 UTC",
+    "processed_at": "2025-07-23 23:01:34 UTC",
+    "google_url": "https://www.google.com/search?q=covid+19+brainly&oq=covid+19+brainly&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/b8e0e4a9f8946644/688169ce9d26cf56d424c8aa.html",
+    "total_time_taken": 1.18
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "covid 19 brainly",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "covid 19 brainly",
+    "total_results": 84,
+    "time_taken_displayed": 0.55,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How would you explain COVID-19?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmMybzRiV05LVW5VM1ZVeExkblZyTjE5Rk1sbDVOVVJ0T0ZObVFWTkJPR2RGY0UxWFZIVmtXbUpCV2kxRmJsUm9YM0UyUlRCbk5EaGtURjk1WW1oQlgzbE1VMjFHTURCc1ptdHRlR1JMWW1KYWJXbERiSEkxVG5WVlp4SVhlbTF0UW1GTVVIaEljMDlPTW5KdlVHMTJUM0k0UVhNYUlrRkdUVUZIUjNJeE5GcGhhRGMwUmtZeVpDMUJhekEzU0hOMVZVTnVOVEphYUZFIiwiZmN2IjoiMyIsImVpIjoiem1tQmFMUHhIc09OMnJvUG12T3I4QXMiLCJxYyI6IkNoQmpiM1pwWkNBeE9TQmljbUZwYm14NUVBQjlhR2ZjUGciLCJxdWVzdGlvbiI6IkhvdyB3b3VsZCB5b3UgZXhwbGFpbiBDT1ZJRC0xOT8iLCJsayI6IkdoNW9iM2NnZDI5MWJHUWdlVzkxSUdWNGNHeGhhVzRnWTI5MmFXUWdNVGsiLCJicyI6ImMtTnk0NUwzeUM5WEtNOHZ6VWxScU13dlZVaXRLTWhKek14VGNQWVA4M1RSTmJTMGwzaHVicVFnSlplQlZWVnlmbGxtaW9LaEpaY0RsMHg0Um1LSlFncVFDOWFxa0pLdlVKS3ZVSkNhWDVDVGFpOXh1TWhJVmtxNkhLWUVvZzlaQ1pjbmw1SnpZaDdZOUtSVW9ES1lBeFR5d1lKRkN2bmxlZllTMHd4QmprbEdWZ2d4QzBrVmx4bVhPTWhUS2ZtcHhVRHhWSVgwVktoeDloTF8zWTBrcE1ReTBHWEJaZ2d3QWdBIiwiaWQiOiJmY196bW1CYUxQeEhzT04ycm9QbXZPcjhBc18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmMybzRiV05LVW5VM1ZVeExkblZyTjE5Rk1sbDVOVVJ0T0ZObVFWTkJPR2RGY0UxWFZIVmtXbUpCV2kxRmJsUm9YM0UyUlRCbk5EaGtURjk1WW1oQlgzbE1VMjFHTURCc1ptdHRlR1JMWW1KYWJXbERiSEkxVG5WVlp4SVhlbTF0UW1GTVVIaEljMDlPTW5KdlVHMTJUM0k0UVhNYUlrRkdUVUZIUjNJeE5GcGhhRGMwUmtZeVpDMUJhekEzU0hOMVZVTnVOVEphYUZFIiwiZmN2IjoiMyIsImVpIjoiem1tQmFMUHhIc09OMnJvUG12T3I4QXMiLCJxYyI6IkNoQmpiM1pwWkNBeE9TQmljbUZwYm14NUVBQjlhR2ZjUGciLCJxdWVzdGlvbiI6IkhvdyB3b3VsZCB5b3UgZXhwbGFpbiBDT1ZJRC0xOT8iLCJsayI6IkdoNW9iM2NnZDI5MWJHUWdlVzkxSUdWNGNHeGhhVzRnWTI5MmFXUWdNVGsiLCJicyI6ImMtTnk0NUwzeUM5WEtNOHZ6VWxScU13dlZVaXRLTWhKek14VGNQWVA4M1RSTmJTMGwzaHVicVFnSlplQlZWVnlmbGxtaW9LaEpaY0RsMHg0Um1LSlFncVFDOWFxa0pLdlVKS3ZVSkNhWDVDVGFpOXh1TWhJVmtxNkhLWUVvZzlaQ1pjbmw1SnpZaDdZOUtSVW9ES1lBeFR5d1lKRkN2bmxlZllTMHd4QmprbEdWZ2d4QzBrVmx4bVhPTWhUS2ZtcHhVRHhWSVgwVktoeDloTF8zWTBrcE1ReTBHWEJaZ2d3QWdBIiwiaWQiOiJmY196bW1CYUxQeEhzT04ycm9QbXZPcjhBc18xIn0%3D"
+    },
+    {
+      "question": "What did COVID do to people?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmMybzRiV05LVW5VM1ZVeExkblZyTjE5Rk1sbDVOVVJ0T0ZObVFWTkJPR2RGY0UxWFZIVmtXbUpCV2kxRmJsUm9YM0UyUlRCbk5EaGtURjk1WW1oQlgzbE1VMjFHTURCc1ptdHRlR1JMWW1KYWJXbERiSEkxVG5WVlp4SVhlbTF0UW1GTVVIaEljMDlPTW5KdlVHMTJUM0k0UVhNYUlrRkdUVUZIUjNJeE5GcGhhRGMwUmtZeVpDMUJhekEzU0hOMVZVTnVOVEphYUZFIiwiZmN2IjoiMyIsImVpIjoiem1tQmFMUHhIc09OMnJvUG12T3I4QXMiLCJxYyI6IkNoQmpiM1pwWkNBeE9TQmljbUZwYm14NUVBQjlhR2ZjUGciLCJxdWVzdGlvbiI6IldoYXQgZGlkIENPVklEIGRvIHRvIHBlb3BsZT8iLCJsayI6IkdodDNhR0YwSUdScFpDQmpiM1pwWkNCa2J5QjBieUJ3Wlc5d2JHVSIsImJzIjoiYy1OeTQ1TDN5QzlYS004dnpVbFJxTXd2VlVpdEtNaEp6TXhUY1BZUDgzVFJOYlMwbDNodWJxUWdKWmVCVlZWeWZsbG1pb0toSlpjRGwweDRSbUtKUWdxUUM5YXFrSkt2VUpLdlVKQ2FYNUNUYWk5eHVNaElWa3E2SEtZRW9nOVpDWmNubDVKelloN1k5S1JVb0RLWUF4VHl3WUpGQ3ZubGVmWVMwd3hCamtsR1ZnZ3hDMGtWbHhtWE9NaFRLZm1weFVEeFZJWDBWS2h4OWhMXzNZMGtwTVF5MEdYQlpnZ3dBZ0EiLCJpZCI6ImZjX3ptbUJhTFB4SHNPTjJyb1Btdk9yOEFzXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmMybzRiV05LVW5VM1ZVeExkblZyTjE5Rk1sbDVOVVJ0T0ZObVFWTkJPR2RGY0UxWFZIVmtXbUpCV2kxRmJsUm9YM0UyUlRCbk5EaGtURjk1WW1oQlgzbE1VMjFHTURCc1ptdHRlR1JMWW1KYWJXbERiSEkxVG5WVlp4SVhlbTF0UW1GTVVIaEljMDlPTW5KdlVHMTJUM0k0UVhNYUlrRkdUVUZIUjNJeE5GcGhhRGMwUmtZeVpDMUJhekEzU0hOMVZVTnVOVEphYUZFIiwiZmN2IjoiMyIsImVpIjoiem1tQmFMUHhIc09OMnJvUG12T3I4QXMiLCJxYyI6IkNoQmpiM1pwWkNBeE9TQmljbUZwYm14NUVBQjlhR2ZjUGciLCJxdWVzdGlvbiI6IldoYXQgZGlkIENPVklEIGRvIHRvIHBlb3BsZT8iLCJsayI6IkdodDNhR0YwSUdScFpDQmpiM1pwWkNCa2J5QjBieUJ3Wlc5d2JHVSIsImJzIjoiYy1OeTQ1TDN5QzlYS004dnpVbFJxTXd2VlVpdEtNaEp6TXhUY1BZUDgzVFJOYlMwbDNodWJxUWdKWmVCVlZWeWZsbG1pb0toSlpjRGwweDRSbUtKUWdxUUM5YXFrSkt2VUpLdlVKQ2FYNUNUYWk5eHVNaElWa3E2SEtZRW9nOVpDWmNubDVKelloN1k5S1JVb0RLWUF4VHl3WUpGQ3ZubGVmWVMwd3hCamtsR1ZnZ3hDMGtWbHhtWE9NaFRLZm1weFVEeFZJWDBWS2h4OWhMXzNZMGtwTVF5MEdYQlpnZ3dBZ0EiLCJpZCI6ImZjX3ptbUJhTFB4SHNPTjJyb1Btdk9yOEFzXzEifQ%3D%3D"
+    },
+    {
+      "question": "Can you beat COVID-19 on your own?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmMybzRiV05LVW5VM1ZVeExkblZyTjE5Rk1sbDVOVVJ0T0ZObVFWTkJPR2RGY0UxWFZIVmtXbUpCV2kxRmJsUm9YM0UyUlRCbk5EaGtURjk1WW1oQlgzbE1VMjFHTURCc1ptdHRlR1JMWW1KYWJXbERiSEkxVG5WVlp4SVhlbTF0UW1GTVVIaEljMDlPTW5KdlVHMTJUM0k0UVhNYUlrRkdUVUZIUjNJeE5GcGhhRGMwUmtZeVpDMUJhekEzU0hOMVZVTnVOVEphYUZFIiwiZmN2IjoiMyIsImVpIjoiem1tQmFMUHhIc09OMnJvUG12T3I4QXMiLCJxYyI6IkNoQmpiM1pwWkNBeE9TQmljbUZwYm14NUVBQjlhR2ZjUGciLCJxdWVzdGlvbiI6IkNhbiB5b3UgYmVhdCBDT1ZJRC0xOSBvbiB5b3VyIG93bj8iLCJsayI6ImM1T1NTMDdNVTZqTUwxVklTazBzVVVqT0w4dE1VY2dIaXhRcDVKZm5BUUEiLCJicyI6ImMtTnk0NUwzeUM5WEtNOHZ6VWxScU13dlZVaXRLTWhKek14VGNQWVA4M1RSTmJTMGwzaHVicVFnSlplQlZWVnlmbGxtaW9LaEpaY0RsMHg0Um1LSlFncVFDOWFxa0pLdlVKS3ZVSkNhWDVDVGFpOXh1TWhJVmtxNkhLWUVvZzlaQ1pjbmw1SnpZaDdZOUtSVW9ES1lBeFR5d1lKRkN2bmxlZllTMHd4QmprbEdWZ2d4QzBrVmx4bVhPTWhUS2ZtcHhVRHhWSVgwVktoeDloTF8zWTBrcE1ReTBHWEJaZ2d3QWdBIiwiaWQiOiJmY196bW1CYUxQeEhzT04ycm9QbXZPcjhBc18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmMybzRiV05LVW5VM1ZVeExkblZyTjE5Rk1sbDVOVVJ0T0ZObVFWTkJPR2RGY0UxWFZIVmtXbUpCV2kxRmJsUm9YM0UyUlRCbk5EaGtURjk1WW1oQlgzbE1VMjFHTURCc1ptdHRlR1JMWW1KYWJXbERiSEkxVG5WVlp4SVhlbTF0UW1GTVVIaEljMDlPTW5KdlVHMTJUM0k0UVhNYUlrRkdUVUZIUjNJeE5GcGhhRGMwUmtZeVpDMUJhekEzU0hOMVZVTnVOVEphYUZFIiwiZmN2IjoiMyIsImVpIjoiem1tQmFMUHhIc09OMnJvUG12T3I4QXMiLCJxYyI6IkNoQmpiM1pwWkNBeE9TQmljbUZwYm14NUVBQjlhR2ZjUGciLCJxdWVzdGlvbiI6IkNhbiB5b3UgYmVhdCBDT1ZJRC0xOSBvbiB5b3VyIG93bj8iLCJsayI6ImM1T1NTMDdNVTZqTUwxVklTazBzVVVqT0w4dE1VY2dIaXhRcDVKZm5BUUEiLCJicyI6ImMtTnk0NUwzeUM5WEtNOHZ6VWxScU13dlZVaXRLTWhKek14VGNQWVA4M1RSTmJTMGwzaHVicVFnSlplQlZWVnlmbGxtaW9LaEpaY0RsMHg0Um1LSlFncVFDOWFxa0pLdlVKS3ZVSkNhWDVDVGFpOXh1TWhJVmtxNkhLWUVvZzlaQ1pjbmw1SnpZaDdZOUtSVW9ES1lBeFR5d1lKRkN2bmxlZllTMHd4QmprbEdWZ2d4QzBrVmx4bVhPTWhUS2ZtcHhVRHhWSVgwVktoeDloTF8zWTBrcE1ReTBHWEJaZ2d3QWdBIiwiaWQiOiJmY196bW1CYUxQeEhzT04ycm9QbXZPcjhBc18xIn0%3D"
+    },
+    {
+      "question": "How does one get COVID?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmMybzRiV05LVW5VM1ZVeExkblZyTjE5Rk1sbDVOVVJ0T0ZObVFWTkJPR2RGY0UxWFZIVmtXbUpCV2kxRmJsUm9YM0UyUlRCbk5EaGtURjk1WW1oQlgzbE1VMjFHTURCc1ptdHRlR1JMWW1KYWJXbERiSEkxVG5WVlp4SVhlbTF0UW1GTVVIaEljMDlPTW5KdlVHMTJUM0k0UVhNYUlrRkdUVUZIUjNJeE5GcGhhRGMwUmtZeVpDMUJhekEzU0hOMVZVTnVOVEphYUZFIiwiZmN2IjoiMyIsImVpIjoiem1tQmFMUHhIc09OMnJvUG12T3I4QXMiLCJxYyI6IkNoQmpiM1pwWkNBeE9TQmljbUZwYm14NUVBQjlhR2ZjUGciLCJxdWVzdGlvbiI6IkhvdyBkb2VzIG9uZSBnZXQgQ09WSUQ/IiwibGsiOiJHaFpvYjNjZ1pHOWxjeUJ2Ym1VZ1oyVjBJR052ZG1sayIsImJzIjoiYy1OeTQ1TDN5QzlYS004dnpVbFJxTXd2VlVpdEtNaEp6TXhUY1BZUDgzVFJOYlMwbDNodWJxUWdKWmVCVlZWeWZsbG1pb0toSlpjRGwweDRSbUtKUWdxUUM5YXFrSkt2VUpLdlVKQ2FYNUNUYWk5eHVNaElWa3E2SEtZRW9nOVpDWmNubDVKelloN1k5S1JVb0RLWUF4VHl3WUpGQ3ZubGVmWVMwd3hCamtsR1ZnZ3hDMGtWbHhtWE9NaFRLZm1weFVEeFZJWDBWS2h4OWhMXzNZMGtwTVF5MEdYQlpnZ3dBZ0EiLCJpZCI6ImZjX3ptbUJhTFB4SHNPTjJyb1Btdk9yOEFzXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmMybzRiV05LVW5VM1ZVeExkblZyTjE5Rk1sbDVOVVJ0T0ZObVFWTkJPR2RGY0UxWFZIVmtXbUpCV2kxRmJsUm9YM0UyUlRCbk5EaGtURjk1WW1oQlgzbE1VMjFHTURCc1ptdHRlR1JMWW1KYWJXbERiSEkxVG5WVlp4SVhlbTF0UW1GTVVIaEljMDlPTW5KdlVHMTJUM0k0UVhNYUlrRkdUVUZIUjNJeE5GcGhhRGMwUmtZeVpDMUJhekEzU0hOMVZVTnVOVEphYUZFIiwiZmN2IjoiMyIsImVpIjoiem1tQmFMUHhIc09OMnJvUG12T3I4QXMiLCJxYyI6IkNoQmpiM1pwWkNBeE9TQmljbUZwYm14NUVBQjlhR2ZjUGciLCJxdWVzdGlvbiI6IkhvdyBkb2VzIG9uZSBnZXQgQ09WSUQ%2FIiwibGsiOiJHaFpvYjNjZ1pHOWxjeUJ2Ym1VZ1oyVjBJR052ZG1sayIsImJzIjoiYy1OeTQ1TDN5QzlYS004dnpVbFJxTXd2VlVpdEtNaEp6TXhUY1BZUDgzVFJOYlMwbDNodWJxUWdKWmVCVlZWeWZsbG1pb0toSlpjRGwweDRSbUtKUWdxUUM5YXFrSkt2VUpLdlVKQ2FYNUNUYWk5eHVNaElWa3E2SEtZRW9nOVpDWmNubDVKelloN1k5S1JVb0RLWUF4VHl3WUpGQ3ZubGVmWVMwd3hCamtsR1ZnZ3hDMGtWbHhtWE9NaFRLZm1weFVEeFZJWDBWS2h4OWhMXzNZMGtwTVF5MEdYQlpnZ3dBZ0EiLCJpZCI6ImZjX3ptbUJhTFB4SHNPTjJyb1Btdk9yOEFzXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Examine how COVID-19 originated and spread. Do you ...",
+      "link": "https://brainly.com/question/50896019",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/50896019&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECAoQAQ",
+      "displayed_link": "https://brainly.com › Health › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffd9f9e6b6b731d906b03fc161a2d0d1d4.png",
+      "date": "May 6, 2024",
+      "snippet": "COVID-19 originated in Wuhan, China, in late 2019 and rapidly spread worldwide due to globalization and human behavior. Given ongoing ...",
+      "snippet_highlighted_words": [
+        "COVID-19 originated in Wuhan, China"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 2,
+      "title": "Supporting details of COVID-19.",
+      "link": "https://brainly.ph/question/31035803",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.ph/question/31035803&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECBMQAQ",
+      "displayed_link": "https://brainly.ph › English › Junior High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffee6555711d39d75728bc622ab1714630.png",
+      "date": "Jun 6, 2023",
+      "snippet": "3. The symptoms of COVID-19 can range from mild to severe, and can include fever, cough, shortness of breath, fatigue, body aches, and loss of ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly.ph"
+    },
+    {
+      "position": 3,
+      "title": "what is covid 19",
+      "link": "https://brainly.ph/question/31982749",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.ph/question/31982749&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECBcQAQ",
+      "displayed_link": "https://brainly.ph › Health › Junior High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff97d294488d9c30ff618943ab7d771634.png",
+      "date": "Apr 27, 2024",
+      "snippet": "COVID-19, short for \"coronavirus disease 2019,\" is an infectious disease caused by the coronavirus SARS-CoV-2. It primarily affects the ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly.ph"
+    },
+    {
+      "position": 4,
+      "title": "Write a short essay of 250 words on how COVID-19 has ...",
+      "link": "https://brainly.com/question/33036997",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/33036997&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECBEQAQ",
+      "displayed_link": "https://brainly.com › Social Studies › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff349ed7c40f2671693f8740218f30bc9b.png",
+      "date": "Jun 2, 2023",
+      "snippet": "The pandemic has had a number of negative effects on the public's mental health and wellbeing, including isolation and loneliness, job loss and ...",
+      "source": "brainly.co..."
+    },
+    {
+      "position": 5,
+      "title": "[FREE] The topic is COVID-19. Provide answers in ...",
+      "link": "https://brainly.com/question/29475764",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/29475764&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECDUQAQ",
+      "displayed_link": "https://brainly.com › Medicine › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff979db627168bb80337378869640e8877.png",
+      "date": "Nov 17, 2022",
+      "snippet": "Provide answers in paragraph form for the following: Definition of the disease/condition; Populations affected; Signs/symptoms; Possible causes ...",
+      "snippet_highlighted_words": [
+        "Provide answers in paragraph form"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 6,
+      "title": "How has COVID-19 changed our lives? Write an essay.",
+      "link": "https://brainly.com/question/37372347",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/37372347&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECDQQAQ",
+      "displayed_link": "https://brainly.com › History › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff7b8fb4010aea6e401735473d1df2b67e.png",
+      "date": "Sep 11, 2023",
+      "snippet": "COVID-19 has significantly altered our lives by impacting our health, daily routines, work, education, and social interactions. The pandemic ...",
+      "snippet_highlighted_words": [
+        "COVID-19 has significantly altered our lives"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 7,
+      "title": "Is the COVID-19 virus alive or not? Justify your answer ...",
+      "link": "https://brainly.com/question/35384707",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/35384707&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCMABEAE",
+      "displayed_link": "https://brainly.com › Health › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff83e577986012a74810289e694d358e91.png",
+      "date": "Aug 7, 2023",
+      "snippet": "The COVID-19 virus is not considered alive because it cannot carry out metabolic processes or replicate independently. It relies on host cells ...",
+      "snippet_highlighted_words": [
+        "The COVID-19 virus is not considered alive"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 8,
+      "title": "A. A community disease affecting a certain part of the globe ...",
+      "link": "https://brainly.com/question/55069366",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/55069366&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECDcQAQ",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff6627cb5cd962bd83b5e2aaf801e3db0e.png",
+      "date": "Nov 22, 2024",
+      "snippet": "COVID-19, or coronavirus disease 2019, is classified as a pandemic. The World Health Organization (WHO) declared it a pandemic on March 11, 2020 ...",
+      "snippet_highlighted_words": [
+        "is classified as a pandemic"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 9,
+      "title": "[FREE] COVID-19 brought about the opportunity for many ...",
+      "link": "https://brainly.com/question/50346853",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/50346853&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCI4BEAE",
+      "displayed_link": "https://brainly.com › Business › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff8fa4fb9f7277535e88dea9ff8eeaed74.png",
+      "date": "Apr 17, 2024",
+      "snippet": "COVID-19 brought about the opportunity for many businesses to explore work-from-home options for their employees.",
+      "snippet_highlighted_words": [
+        "COVID-19 brought about the opportunity for many businesses"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 10,
+      "title": "covid-19 pandemic essay brainly filetype:rss",
+      "link": "https://www.wolframalpha.com/input/?i=covid-19+pandemic+essay+brainly+filetype%3Arss",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wolframalpha.com/input/%3Fi%3Dcovid-19%2Bpandemic%2Bessay%2Bbrainly%2Bfiletype%253Arss&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCMgBEAE",
+      "displayed_link": "https://www.wolframalpha.com › input › i=covid-19+p...",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff856e275e1d91fec5c7785da34a6eaf2f.png",
+      "snippet": "Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, ...",
+      "snippet_highlighted_words": [
+        "Compute answers using Wolfram's breakthrough technology & knowledgebase"
+      ],
+      "source": "Wolfram|Alpha"
+    },
+    {
+      "position": 11,
+      "title": "Brainly's Father's Day survey reveals how COVID-19 has ...",
+      "link": "https://www.facebook.com/JohnCarlosEstradaCBSAustin/videos/-happy-fathers-day-brainlys-fathers-day-survey-reveals-how-covid-19-has-changed-/254208729209148/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/JohnCarlosEstradaCBSAustin/videos/-happy-fathers-day-brainlys-fathers-day-survey-reveals-how-covid-19-has-changed-/254208729209148/&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCPMBEAE",
+      "displayed_link": "2 reactions · 5 years ago",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffec60bbac87d876edc3b525e5f74b37b5.png",
+      "snippet": "79% of dads said being at home more has helped them realize & appreciate everything their spouse handles at home.",
+      "source": "Facebook · John-Carlos Estrada CBS Austin"
+    },
+    {
+      "position": 12,
+      "title": "Brainly raises $80M as its platform for crowdsourced ...",
+      "link": "https://techcrunch.com/2020/12/17/brainly-raises-80m-as-its-platform-for-crowdsourced-homework-help-balloons-to-350m-users/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://techcrunch.com/2020/12/17/brainly-raises-80m-as-its-platform-for-crowdsourced-homework-help-balloons-to-350m-users/&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECDEQAQ",
+      "displayed_link": "https://techcrunch.com › 2020/12/17 › brainly-raises-8...",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff84c4f0456ed266cbf7b28fdba09561d9.jpeg",
+      "date": "Dec 17, 2020",
+      "snippet": "Even before the COVID-19 pandemic, Brainly was finding an audience with students — primarily those aged 13-19, said Borkowski — who were turning ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "Brainly"
+      ],
+      "source": "TechCrunch"
+    },
+    {
+      "position": 13,
+      "title": "What are the most common symptoms of COVID-19?",
+      "link": "https://brainly.com/question/50363978",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/50363978&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECHMQAQ",
+      "displayed_link": "https://brainly.com › Medicine › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff873fd6dcf38aca98d9f54ccde278d614.png",
+      "date": "Apr 17, 2024",
+      "snippet": "The most common COVID-19 symptoms are fever, cough, and fatigue. Other symptoms can include loss of smell/taste and headaches, with symptoms ...",
+      "snippet_highlighted_words": [
+        "fever, cough, and fatigue"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 14,
+      "title": "Brainly",
+      "link": "https://en.wikipedia.org/wiki/Brainly",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Brainly&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCJgBEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Brainly",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff15f5fece7038840d8117f066652203b9.png",
+      "snippet": "In 2020, the company experienced a significant increase in the number of users, caused by the global COVID-19 pandemic, from 150 million in 2019 to around 350 ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 15,
+      "title": "Brainly, a Polish edtech start-up, has raised 80 million US ...",
+      "link": "https://emerging-europe.com/business/polish-edtech-start-up-raises-80-million-us-dollars/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://emerging-europe.com/business/polish-edtech-start-up-raises-80-million-us-dollars/&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCK4BEAE",
+      "displayed_link": "https://emerging-europe.com › business › polish-edtech...",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff9ba391bd237c0a539461b2c13824a217.png",
+      "date": "Dec 17, 2020",
+      "snippet": "The shift to online learning caused by Covid-19 has been a boon for edtech start-ups such as Poland's Brainly, which has just closed a major ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "19",
+        "Brainly"
+      ],
+      "source": "Emerging Europe"
+    },
+    {
+      "position": 16,
+      "title": "resumen del covid 19",
+      "link": "https://brainly.lat/tarea/15766442",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.lat/tarea/15766442&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCMQBEAE",
+      "displayed_link": "https://brainly.lat › ... › Universidad",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffb85a4a7c452f5d2d62df8bc61ea11130.png",
+      "date": "May 3, 2020",
+      "snippet": "El covid-19 fue originado en China, posteriormente se propagó por todo el mundo a través de las personas este virus es considerado uno de los ...",
+      "snippet_highlighted_words": [
+        "fue originado en China"
+      ],
+      "source": "Brainly.lat"
+    },
+    {
+      "position": 17,
+      "title": "Coronavirus disease (COVID-19) is a respiratory illness ...",
+      "link": "https://brainly.com/question/52053457",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/52053457&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCN0BEAE",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff6557773784471f6868637863e7278983.png",
+      "date": "Sep 5, 2024",
+      "snippet": "Coronavirus disease 2019, known as COVID-19, is a respiratory illness caused by the virus SARS-CoV-2. It primarily spreads from person to person ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 18,
+      "title": "¿QUÉ ES EL COVID 19?",
+      "link": "https://brainly.lat/tarea/26511114",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.lat/tarea/26511114&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCPQBEAE",
+      "displayed_link": "https://brainly.lat › ... › Universidad",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff9ffe0698f1c054109fbd63c909001ac2.png",
+      "date": "Oct 19, 2020",
+      "snippet": "El covid-19 es un virus el cual se propago en China en el año 2019 y se logro extender por todo el mundo, afectando a todas las localidades y ...",
+      "snippet_highlighted_words": [
+        "El covid-19 es un virus el cual se propago en China en el año 2019"
+      ],
+      "source": "Brainly.lat"
+    },
+    {
+      "position": 19,
+      "title": "How is COVID-19 creating current issues for live shows ...",
+      "link": "https://brainly.com/question/52308065",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/52308065&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCIwCEAE",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffe86210a655cb0ae75c4ba2b5c193d32f.png",
+      "date": "Sep 18, 2024",
+      "snippet": "COVID-19 has severely impacted live shows by complicating social distancing, creating uncertainty in audience attendance, and leading to ...",
+      "snippet_highlighted_words": [
+        "COVID-19 has severely impacted live shows"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 20,
+      "title": "Brainly Explores What Gen Z Is Up To During COVID-19 ...",
+      "link": "https://www.forbes.com/sites/johnscottlewinski/2020/05/08/brainly-explores-what-gen-z-is-up-to-during-covid-19-lockdown/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.forbes.com/sites/johnscottlewinski/2020/05/08/brainly-explores-what-gen-z-is-up-to-during-covid-19-lockdown/&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECDIQAQ",
+      "displayed_link": "https://www.forbes.com › Innovation › Social Media",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffad7ff76ddd1559f51b73068cc0c02b8a.png",
+      "date": "May 8, 2020",
+      "snippet": "The study shows Gen Z'rs are spending the most social media time on Instagram (59%), followed by hours spent with Snapchat (50.3%), YouTube (42 ...",
+      "source": "Forbes"
+    },
+    {
+      "position": 21,
+      "title": "[FREE] What is believed to be the source of SARS-CoV-2, ...",
+      "link": "https://brainly.com/question/36555353",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/36555353&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECF4QAQ",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffe8f7dfcab59cde865e03b6585e3df89a.png",
+      "date": "Aug 31, 2023",
+      "snippet": "SARS-CoV-2, the virus that causes COVID-19, is believed to have originated from animal to human transmission. This process is known as zoonosis, ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 22,
+      "title": "Report: The State of COVID for Students in 2024",
+      "link": "https://brainly.com/insights/report-the-state-of-covid-for-students-in-2024",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/insights/report-the-state-of-covid-for-students-in-2024&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECHQQAQ",
+      "displayed_link": "https://brainly.com › insights › report-the-state-of-covid...",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffcbc79c855e7cd7f7b1159cb5b4512fd6.png",
+      "date": "Feb 29, 2024",
+      "snippet": "The Shift to At-Home Learning. One of the most significant changes in education brought about by COVID-19 is the transition to at-home learning.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 23,
+      "title": "How is COVID transmitted from one person to another?",
+      "link": "https://brainly.com/question/30586423",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/30586423&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCIoBEAE",
+      "displayed_link": "https://brainly.com › Health › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffce0780f42a42ff367e6f81918d145bfc.png",
+      "date": "Feb 6, 2023",
+      "snippet": "Explanation. COVID-19, caused by the coronavirus SARS-CoV-2, is primarily transmitted from one person to another through respiratory droplets.",
+      "snippet_highlighted_words": [
+        "is primarily transmitted from one person to another through respiratory droplets"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 24,
+      "title": "Redmond-based Microsoft cuts jobs amid AI advancements",
+      "link": "https://www.theolympian.com/news/state/washington/article310407150.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theolympian.com/news/state/washington/article310407150.html&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCJwBEAE",
+      "displayed_link": "https://www.theolympian.com › state › article310407150",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff46e1624802c39530e0c2c343bda22162.png",
+      "date": "Jul 13, 2025",
+      "snippet": "Many companies moved toward teleworking during the height of COVID-19, and people flocked to video games and virtual entertainment, she noted.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "The Olympian"
+    },
+    {
+      "position": 25,
+      "title": "How AI Is Impacting the Job Market for College Grads",
+      "link": "https://www.bigdatawire.com/2025/07/23/how-ai-is-impacting-the-job-market-for-college-grads/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bigdatawire.com/2025/07/23/how-ai-is-impacting-the-job-market-for-college-grads/&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCKYBEAE",
+      "displayed_link": "https://www.bigdatawire.com › 2025/07/23 › how-ai-is-...",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffa081e14e4122b1c8210fa1c580a0f392.png",
+      "date": "1 hour ago",
+      "snippet": "“The labor market for recent college graduates deteriorated noticeably in the first quarter of 2025,” the NY Fed warned. US Bureau of Labor ...",
+      "source": "BigDATAwire"
+    },
+    {
+      "position": 26,
+      "title": "Write a short essay on your experience of COVID-19. ...",
+      "link": "https://brainly.com/question/30999638",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/30999638&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCLQBEAE",
+      "displayed_link": "https://brainly.com › Business › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff6d7de4be714ce9189e8eff2d09cee75e.png",
+      "date": "Mar 5, 2023",
+      "snippet": "Write a short essay on your experience of COVID-19. In your essay, discuss how COVID-19 has possibly both positively and/or negatively ...",
+      "snippet_highlighted_words": [
+        "or"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 27,
+      "title": "Zebra Puzzles",
+      "link": "https://www.brainzilla.com/logic/zebra/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.brainzilla.com/logic/zebra/&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCLcBEAE",
+      "displayed_link": "https://www.brainzilla.com › logic › zebra",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffb05127eee7f984711fdbc6efa3ca1feb.png",
+      "snippet": "Five families are at home during the COVID-19 pandemic. Follow the clues to figure out which activity each family is doing. Talented Kids. Five kids will show ...",
+      "snippet_highlighted_words": [
+        "Five families are at home during the COVID-19 pandemic"
+      ],
+      "source": "Brainzilla"
+    },
+    {
+      "position": 28,
+      "title": "Bradley Cooper",
+      "link": "https://en.wikipedia.org/wiki/Bradley_Cooper",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Bradley_Cooper&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCM8BEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Bradley_Cooper",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffdd5b97789aa0f4dbfe22f61e78de0a4b.png",
+      "snippet": "Owing to the COVID-19 pandemic, the film took a long time to finish. Reviewing his films in 2021, critic Charles Bramesco opined Cooper gave \"his most ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 29,
+      "title": "[FREE] 1. How did COVID-19 affect our economy in 2020? ...",
+      "link": "https://brainly.com/question/34983777",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/34983777&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCNIBEAE",
+      "displayed_link": "https://brainly.com › Business › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffbf06b7f2838757fe63ee5cb36b6bfe99.png",
+      "date": "Jul 18, 2023",
+      "snippet": "The Corona (CoVid 19) pandemic had a profound impact on the global economy in 2020, leading to reduced consumer spending, supply chain ...",
+      "snippet_highlighted_words": [
+        "CoVid 19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 30,
+      "title": "Write down five stressors or outcomes of the COVID-19 ...",
+      "link": "https://brainly.com/question/41505736",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/41505736&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCOABEAE",
+      "displayed_link": "https://brainly.com › English › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff8483f76daff4064bd10fc7f18c4908d4.png",
+      "date": "Nov 2, 2023",
+      "snippet": "It has resulted in mental health concerns due to fear and isolation, disruptions in education due to sudden shifts to online learning.",
+      "snippet_highlighted_words": [
+        "mental health concerns due to fear and isolation"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 31,
+      "title": "Cinco Poemas sobre Covid 19 Brainly",
+      "link": "https://poemasonline.com/cinco-poemas-sobre-covid-19-brainly",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://poemasonline.com/cinco-poemas-sobre-covid-19-brainly&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCOsBEAE",
+      "displayed_link": "https://poemasonline.com › cinco-p...",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff1a69ab8af904a306fa9ba2d16aa4ccdc.png",
+      "snippet": "En tiempos de incertidumbre y temor,. llegó el COVID-19 con su furor. Tuvo el mundo en pausa, sin respiro,. nuestro enemigo invisible, suspiro. La pandemia nos ...",
+      "snippet_highlighted_words": [
+        "llegó el COVID-19 con su furor"
+      ],
+      "source": "PoemasOnline.com"
+    },
+    {
+      "position": 32,
+      "title": "No lo ocultan: Casi todos los jóvenes ya usan inteligencia ...",
+      "link": "https://www.surenio.com.ar/no-lo-ocultan-casi-todos-los-jovenes-ya-usan-inteligencia-artificial-para-estudiar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.surenio.com.ar/no-lo-ocultan-casi-todos-los-jovenes-ya-usan-inteligencia-artificial-para-estudiar/&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCPUBEAE",
+      "displayed_link": "https://www.surenio.com.ar › no-l...",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff27b84f9223372493f6502755ba203042.png",
+      "date": "Jul 15, 2025",
+      "snippet": "De los más de 12.000 jóvenes consultados, dos tercios afirmaron usar IA para estudiar, más de la mitad para preparar exámenes, y un tercio ...",
+      "source": "El Sureño"
+    },
+    {
+      "position": 33,
+      "title": "Fill in the blank. The COVID-19 pandemic is an example of a",
+      "link": "https://brainly.com/question/29643338",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/29643338&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCIYCEAE",
+      "displayed_link": "https://brainly.com › Social Studies › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff0fa6bf788b29ae164480e58945e47c08.png",
+      "date": "Nov 29, 2022",
+      "snippet": "The COVID-19 pandemic is an example of a public health and economic effect that can affect an individual's position in the class system.",
+      "snippet_highlighted_words": [
+        "public health and economic effect"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 34,
+      "title": "What is the most plausible origin of the COVID-19 virus? A. ...",
+      "link": "https://brainly.com/question/43454056",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/43454056&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCI4CEAE",
+      "displayed_link": "https://brainly.com › Biology › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff378b57fd5c328612bb5f2601d383c86e.png",
+      "date": "Nov 26, 2023",
+      "snippet": "The most plausible origin of the COVID-19 virus is thought to be bats. Studies suggest that bats serve as natural reservoirs for coronaviruses, ...",
+      "snippet_highlighted_words": [
+        "bats"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 35,
+      "title": "[FREE] What was the impact of the COVID-19 pandemic ...",
+      "link": "https://brainly.com/question/50126460",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/50126460&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCJICEAE",
+      "displayed_link": "https://brainly.com › Business › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff2b22279574b4f134a6aebe15e0e1fecf.png",
+      "date": "Apr 9, 2024",
+      "snippet": "The COVID-19 pandemic had a severe impact on businesses, leading to closures, supply chain disruptions, and job losses. The shift in market ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 36,
+      "title": "[FREE] Activity 4 Direction: In a paragraph, summarize your ...",
+      "link": "https://brainly.com/question/56293368",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/56293368&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECDYQAQ",
+      "displayed_link": "https://brainly.com › English › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffda0a8309d7dce28a6f3051142071150a.png",
+      "date": "Jan 4, 2025",
+      "snippet": "The COVID-19 pandemic brought significant changes to daily life, particularly through the shift to remote learning and increased technology use.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 37,
+      "title": "[FREE] Write an essay on COVID-19.",
+      "link": "https://brainly.com/question/31718936",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/31718936&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECFIQAQ",
+      "displayed_link": "https://brainly.com › English › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff0f4c8919b8f781fff0d572692867d11e.png",
+      "date": "Apr 21, 2023",
+      "snippet": "The COVID-19 pandemic has had a profound impact on the world, causing widespread illness, death, and economic turmoil.",
+      "snippet_highlighted_words": [
+        "widespread illness, death, and economic turmoil"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 38,
+      "title": "During the COVID-19 pandemic, what are the questions in ...",
+      "link": "https://brainly.com/question/37573410",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/37573410&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECF0QAQ",
+      "displayed_link": "https://brainly.com › Health › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff9f06c13e282c859571e742e887873129.png",
+      "date": "Sep 13, 2023",
+      "snippet": "During the COVID-19 pandemic, many people questioned the human cost of the crisis, its long-term impacts on society, and how to better prepare ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 39,
+      "title": "Name three approaches for prevention (primary, secondary ...",
+      "link": "https://brainly.com/question/31694790",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/31694790&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECGYQAQ",
+      "displayed_link": "https://brainly.com › Mathematics › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffb6ef4e2d4d7936a3722a499fe9bf4c2e.png",
+      "date": "Apr 20, 2023",
+      "snippet": "Name three approaches for prevention (primary, secondary, and tertiary) for the following health problem/condition: COVID-19 infection.",
+      "snippet_highlighted_words": [
+        "COVID-19 infection"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 40,
+      "title": "[FREE] How does COVID-19 relate to government?",
+      "link": "https://brainly.com/question/28828558",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/28828558&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECH0QAQ",
+      "displayed_link": "https://brainly.com › Law › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffea7d25f3a03c1471750a7b7bd993ca71.png",
+      "date": "Oct 10, 2022",
+      "snippet": "There are several ways that Covid-19 relates to the government and they include: Health campaigns to prevent the spread of the disease ...",
+      "snippet_highlighted_words": [
+        "Health campaigns to prevent the spread of the disease"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 41,
+      "title": "[FREE] What is the name of the virus that causes COVID-19?",
+      "link": "https://brainly.com/question/30757007",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/30757007&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECHcQAQ",
+      "displayed_link": "https://brainly.com › Health › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff8be7f6f951c1038486a747889d52964c.png",
+      "date": "Feb 15, 2023",
+      "snippet": "This answer is FREE! See the answer to your question: What is the name of the virus that causes COVID-19? - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 42,
+      "title": "[FREE] Informative Speech about COVID-19",
+      "link": "https://brainly.com/question/30254863",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/30254863&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCJMBEAE",
+      "displayed_link": "https://brainly.com › English › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff057390ff9cf2cbcdfec7e9b137fb1bbc.png",
+      "date": "Jan 15, 2023",
+      "snippet": "This answer is FREE! See the answer to your question: Informative Speech about COVID-19 - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 43,
+      "title": "[FREE] What was an outcome of the COVID-19 pandemic ...",
+      "link": "https://brainly.com/question/48147681",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/48147681&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCJEBEAE",
+      "displayed_link": "https://brainly.com › Business › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffe08ec7fca4fd4bf31279c306d3cdbff2.png",
+      "date": "Feb 21, 2024",
+      "snippet": "a) Increased demand for products and services b) Decreased reliance on digital communication tools c) Shift towards virtual sales presentations and meetings.",
+      "source": "Brainly"
+    },
+    {
+      "position": 44,
+      "title": "How did COVID-19 affect the school setting?",
+      "link": "https://brainly.com/question/49211232",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/49211232&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCJ0BEAE",
+      "displayed_link": "https://brainly.com › Social Studies › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffecd787f8ed5c105bbaf02152d109f594.png",
+      "date": "Mar 12, 2024",
+      "snippet": "This answer is FREE! See the answer to your question: How did COVID-19 affect the school setting? - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 45,
+      "title": "Identify each type of statement related to COVID-19",
+      "link": "https://brainly.com/question/35882782",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/35882782&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCKUBEAE",
+      "displayed_link": "https://brainly.com › Medicine › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593fff3053fd51ff509946b277efdc34f5007.png",
+      "date": "Aug 16, 2023",
+      "snippet": "This answer is FREE! See the answer to your question: Identify each type of statement related to COVID-19: 1. Statement of Convention 2.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 46,
+      "title": "[FREE] When did COVID-19 start?",
+      "link": "https://brainly.com/question/37541843",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/37541843&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCKcBEAE",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff515f2926097b4b8b591612bda8d00011.png",
+      "date": "Sep 13, 2023",
+      "snippet": "This answer is FREE! See the answer to your question: When did COVID-19 start? - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 47,
+      "title": "What are some steps Liza can use to engage with Jerry, ...",
+      "link": "https://brainly.com/question/48120507",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/48120507&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCK0BEAE",
+      "displayed_link": "https://brainly.com › Health › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffd04f03e03aac745c6bdfd450f9304b1b.png",
+      "date": "Feb 20, 2024",
+      "snippet": "What are some steps Liza can use to engage with Jerry, who is a recent contact of a person with a COVID-19 diagnosis, to initiate the ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 48,
+      "title": "What can we infer from this information about a highly ...",
+      "link": "https://brainly.com/question/31197450",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/31197450&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCLUBEAE",
+      "displayed_link": "https://brainly.com › Biology › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff573e0024f3f2fbfa0261fc17ebf08bbf.png",
+      "date": "Mar 17, 2023",
+      "snippet": "What can we infer from this information about a highly infectious virus, such as COVID-19? 1 See answer arrow right See Expert answer",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 49,
+      "title": "[FREE] Pick a company that adapted well to the COVID-19 ...",
+      "link": "https://brainly.com/question/34404310",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/34404310&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCLYBEAE",
+      "displayed_link": "https://brainly.com › Business › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff7cb9b545ab8f98cfb7b9f152646cb0b7.png",
+      "date": "Jul 5, 2023",
+      "snippet": "See the answer to your question: Pick a company that adapted well to the COVID-19 pandemic. Discuss the specific ways in w… - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 50,
+      "title": "What is the difference between COVID-19 and SARS-CoV?",
+      "link": "https://brainly.com/question/50089431",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/50089431&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCMEBEAE",
+      "displayed_link": "https://brainly.com › Biology › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffefeb16f1276385695f264b5d243c3fd0.png",
+      "date": "Apr 8, 2024",
+      "snippet": "This answer is FREE! See the answer to your question: What is the difference between COVID-19 and SARS-CoV? - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 51,
+      "title": "Explain your opinions, views, and perspective on why the ...",
+      "link": "https://brainly.com/question/40599463",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/40599463&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCMIBEAE",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffbc82614e6246ed1dcca2bc72290edfd8.png",
+      "date": "Oct 23, 2023",
+      "snippet": "The coronavirus 2019, also known as COVID-19, should be considered a disaster due to its significant impact on public health and the global ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 52,
+      "title": "A person infected with COVID-19 can be asymptomatic and ...",
+      "link": "https://brainly.com/question/56165331",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/56165331&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCNABEAE",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff85d0858078dd2e25c6d3f929ce852527.png",
+      "date": "Dec 21, 2024",
+      "snippet": "See the answer to your question: A person infected with COVID-19 can be asymptomatic and spread the virus to others. True … - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 53,
+      "title": "[FREE] How did COVID-19 start?",
+      "link": "https://brainly.com/question/44611121",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/44611121&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCNEBEAE",
+      "displayed_link": "https://brainly.com › History › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff2943cb858d956acc5274d987bfceefa3.png",
+      "date": "Dec 15, 2023",
+      "snippet": "This answer is FREE! See the answer to your question: How did COVID-19 start? - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 54,
+      "title": "In one sentence, explain a negative consequence of ...",
+      "link": "https://brainly.com/question/61474724",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/61474724&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCNwBEAE",
+      "displayed_link": "https://brainly.com › Social Studies › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffe522adfef1e535691ec2c9944946513c.png",
+      "date": "May 10, 2025",
+      "snippet": "In one sentence, explain a negative consequence of globalization that was highlighted by the COVID-19 pandemic.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 55,
+      "title": "[FREE] Whose function is to provide data, medical access ...",
+      "link": "https://brainly.com/question/61885978?source=new+health+questions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/61885978%3Fsource%3Dnew%2Bhealth%2Bquestions&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCN4BEAE",
+      "displayed_link": "https://brainly.com › question",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffd80430a21a39ef970a0fe9e3c3af7e5c.png",
+      "date": "May 19, 2025",
+      "snippet": "... such as the global coronavirus and COVID-19 disease? A. USAID. B. WHO. C. NGUS. D. UN. 1. See answer. AI Chat. Asked by jobemail4 • 05/19/2025.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 56,
+      "title": "The COVID-19 pandemic had a significant impact on ...",
+      "link": "https://brainly.com/question/34664210",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/34664210&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCOIBEAE",
+      "displayed_link": "https://brainly.com › Business › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff8c874a4129679eef6667978c5ed395c7.png",
+      "date": "Jul 10, 2023",
+      "snippet": "This answer is FREE! See the answer to your question: The COVID-19 pandemic had a significant impact on the world and businesses worldwide.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 57,
+      "title": "In which of the following countries did the COVID-19 ...",
+      "link": "https://brainly.com/question/54690479",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/54690479&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCOwBEAE",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593fff7435fff37f2827e861c8f24f77539ce.png",
+      "date": "Nov 14, 2024",
+      "snippet": "The COVID-19 pandemic originated in China, particularly in Wuhan, Hubei Province, in late 2019. The virus is caused by SARS-CoV-2, and the ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 58,
+      "title": "Back during the early months of 2020, the COVID-19 ...",
+      "link": "https://brainly.com/question/35204755",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/35204755&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCPIBEAE",
+      "displayed_link": "https://brainly.com › Social Studies › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff2dc68f4886573c41013230c9c0c007bb.png",
+      "date": "Aug 2, 2023",
+      "snippet": "The COVID-19 pandemic had a significant negative impact on the economy, leading to widespread business closures, a decline in consumer spending, ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 59,
+      "title": "The flu and COVID-19 have similar reproductive numbers ...",
+      "link": "https://brainly.com/question/53588012",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/53588012&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCPEBEAE",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff44ba243f31bd0be640602211f408300f.png",
+      "date": "Oct 22, 2024",
+      "snippet": "This answer is FREE! See the answer to your question: The flu and COVID-19 have similar reproductive numbers (R0). A. True B. False - brainly.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 60,
+      "title": "What about the way 99Degrees was founded prepared it ...",
+      "link": "https://brainly.com/question/50960785",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/50960785&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCIACEAE",
+      "displayed_link": "https://brainly.com › Health › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffaa63c387ffc4b38d0f8cee7b532df0eb.png",
+      "date": "May 9, 2024",
+      "snippet": "This answer is FREE! See the answer to your question: What about the way 99Degrees was founded prepared it for a shock like COVID-19? - brainly.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 61,
+      "title": "[FREE] Choose one aspect of the COVID-19 pandemic that ...",
+      "link": "https://brainly.com/question/34117483",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/34117483&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCP8BEAE",
+      "displayed_link": "https://brainly.com › Social Studies › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffbbec45ecf11229ac9ac6b3fbfbd22f5b.png",
+      "date": "Jun 28, 2023",
+      "snippet": "See the answer to your question: Choose one aspect of the COVID-19 pandemic that illustrates inequality in the United Stat… - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 62,
+      "title": "Complete the table below by providing any TWO myths and ...",
+      "link": "https://brainly.com/question/62531268",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/62531268&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCIcCEAE",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff13e2dadff90e00ae4759755fa4e9c3e0.png",
+      "date": "Jun 10, 2025",
+      "snippet": "... COVID-19 vaccines… - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 63,
+      "title": "To determine how the pathogen COVID-19 was spreading ...",
+      "link": "https://brainly.com/question/58481198?source=next+question",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/58481198%3Fsource%3Dnext%2Bquestion&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCI0CEAE",
+      "displayed_link": "https://brainly.com › question",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff51f452ee7690406fd30086f95a20dc80.png",
+      "date": "Feb 27, 2025",
+      "snippet": "See the answer to your question: To determine how the pathogen COVID-19 was spreading, many communities implemented the te… - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 64,
+      "title": "[FREE] When did Columbia shut down for COVID-19?",
+      "link": "https://brainly.com/question/62912540",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/62912540&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCJACEAE",
+      "displayed_link": "https://brainly.com › Social Studies › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff4c62a444e3becda7fde00abf6c47de84.png",
+      "date": "Jul 1, 2025",
+      "snippet": "This answer is FREE! See the answer to your question: When did Columbia shut down for COVID-19? - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 65,
+      "title": "Cause and Effect Essay (1000-1200 words) Topic",
+      "link": "https://brainly.com/question/33239891",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/33239891&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCI8CEAE",
+      "displayed_link": "https://brainly.com › Social Studies › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff201e0d5cdb8bbce4e06f570171915aee.png",
+      "date": "Jun 7, 2023",
+      "snippet": "Topic: What are the causes and effects of the outbreak of the COVID-19 virus? 1. See answer. arrow right. See Expert answer. Asked by ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 66,
+      "title": "Impact of COVID-19 on You and Your Family.",
+      "link": "https://brainly.com/question/36947331",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/36947331&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCJECEAE",
+      "displayed_link": "https://brainly.com › Social Studies › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff3aab3a7d437631c2bcd2964749fde1fd.png",
+      "date": "Sep 6, 2023",
+      "snippet": "The COVID-19 pandemic has significantly affected my family and me through changes to our daily routines, financial strain, and psychological ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 67,
+      "title": "What effect did COVID-19 have on mental health? A. It ...",
+      "link": "https://brainly.com/question/49030391",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/49030391&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCKQCEAE",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff0951cea0605fc35bcf81c964697c662b.png",
+      "date": "Mar 8, 2024",
+      "snippet": "Reports indicate increased rates of anxiety, depression, loneliness, and social media use, exacerbating mental health concerns. Quarantine ...",
+      "source": "Brainly"
+    },
+    {
+      "position": 68,
+      "title": "In order to minimize or prevent the spread of COVID-19 ...",
+      "link": "https://brainly.com/question/50065667",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/50065667&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECFMQAQ",
+      "displayed_link": "https://brainly.com › Biology › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff6d98a3830094f43c3327d323d706815f.png",
+      "date": "Apr 7, 2024",
+      "snippet": "... : In order to minimize or prevent the spread of COVID-19 infection, best practice requires … - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 69,
+      "title": "'pandemic'. (5) 1.2 What does the acronym 'WHO' stand for ...",
+      "link": "https://brainly.com/question/30994245",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/30994245&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECE8QAQ",
+      "displayed_link": "https://brainly.com › Advanced Placement (AP) › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffd16a2abdc6cfe9250b071c0e379ae0b1.png",
+      "date": "Mar 5, 2023",
+      "snippet": "1.3 How were people tested to determine if they are COVID-19 positive or negative? (2×1)(2). 1.4 Illustrate four ways in which COVID-19 affected ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "COVID",
+        "19"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 70,
+      "title": "Which of these is not a common COVID-19 symptom?",
+      "link": "https://brainly.com/question/41652629",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/41652629&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECFgQAQ",
+      "displayed_link": "https://brainly.com › Biology › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff384fe2f810b626ef4b3d7a76b2e8574a.png",
+      "date": "Nov 3, 2023",
+      "snippet": "Common symptoms of COVID-19 include fever, cough, and sore throat, while worry about missing class and disappointment about missing social ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 71,
+      "title": "[FREE] Classify COVID-19 as: 1) Bacteria 2) Virus",
+      "link": "https://brainly.com/question/43173252",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/43173252&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECFkQAQ",
+      "displayed_link": "https://brainly.com › Medicine › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff07dda02f068e560560ff09acf035bc1c.png",
+      "date": "Nov 21, 2023",
+      "snippet": "This answer is FREE! See the answer to your question: Classify COVID-19 as: 1) Bacteria 2) Virus - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 72,
+      "title": "[FREE] Discuss the effect of COVID-19 on education.",
+      "link": "https://brainly.com/question/31611737",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/31611737&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECFwQAQ",
+      "displayed_link": "https://brainly.com › English › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff22dfe381f37ecacaeaa876ff36b5cb27.png",
+      "date": "Apr 14, 2023",
+      "snippet": "This answer is FREE! See the answer to your question: Discuss the effect of COVID-19 on education. - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 73,
+      "title": "[FREE] How COVID-19 Impacts the Transportation Industry ...",
+      "link": "https://brainly.com/question/33202085",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/33202085&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECGUQAQ",
+      "displayed_link": "https://brainly.com › Business › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff93d659db6ba71e9ee86af0f289d882a1.png",
+      "date": "Jun 6, 2023",
+      "snippet": "See the answer to your question: How COVID-19 Impacts the Transportation Industry and the Supply Chain 1. The disruptions … - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 74,
+      "title": "during the COVID-19 pandemic. A. 3 percent B. 6 ...",
+      "link": "https://brainly.com/question/47421886",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/47421886&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECHAQAQ",
+      "displayed_link": "https://brainly.com › Mathematics › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff02291ed2e4b51eea42f123c2a303db43.png",
+      "date": "Feb 7, 2024",
+      "snippet": "See the answer to your question: Unemployment reached more than ______ during the COVID-19 pandemic. A. 3 percent B. 6 p… - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 75,
+      "title": "What is California's plan to reduce COVID-19 numbers in ...",
+      "link": "https://brainly.com/question/36585338",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/36585338&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECG8QAQ",
+      "displayed_link": "https://brainly.com › Business › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff6e2975eaced8f928b46e33d2ece4daca.png",
+      "date": "Sep 1, 2023",
+      "snippet": "This answer is FREE! See the answer to your question: What is California's plan to reduce COVID-19 numbers in the state?",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 76,
+      "title": "How did the COVID-19 global pandemic of 2020 affect ...",
+      "link": "https://brainly.com/question/33502468",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/33502468&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCIEBEAE",
+      "displayed_link": "https://brainly.com › Social Studies › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff2f14e3b49a0467e631a7ffc1203cd47d.png",
+      "date": "Jun 13, 2023",
+      "snippet": "See the answer to your question: How did the COVID-19 global pandemic of 2020 affect sports facility and event operations?… - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 77,
+      "title": "True/False: Early in the Covid-19 pandemic, it was noted ...",
+      "link": "https://brainly.com/question/36540783",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/36540783&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCIABEAE",
+      "displayed_link": "https://brainly.com › Medicine › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffe511453cc4547b909a1ff32f20f91816.png",
+      "date": "Aug 31, 2023",
+      "snippet": "This answer is FREE! See the answer to your question: True/False: Early in the Covid-19 pandemic, it was noted that seriously ill COVID-19 ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "19",
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 78,
+      "title": "Discuss the occurrence of disease and exposure in COVID ...",
+      "link": "https://brainly.com/question/33751317",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/33751317&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECHgQAQ",
+      "displayed_link": "https://brainly.com › Medicine › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff41924e1109d17d05ca61b636c25dbd8c.png",
+      "date": "Jun 19, 2023",
+      "snippet": "... question: Discuss the occurrence of disease and exposure in COVID-19. Include both the straightforw… - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 79,
+      "title": "[FREE] COVID-19 Vaccine Acceptance: A Comparative ...",
+      "link": "https://brainly.com/question/33890887",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/33890887&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCIsBEAE",
+      "displayed_link": "https://brainly.com › Biology › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffb2565eeed7abb68dee0bafcd3722c03f.png",
+      "date": "Jun 24, 2023",
+      "snippet": "See the answer to your question: COVID-19 Vaccine Acceptance: A Comparative Longitudinal Analysis of the Association Betwe… - brainly.com.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19",
+        "brainly"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 80,
+      "title": "Explore the topic of poverty as it relates to the issues we ...",
+      "link": "https://brainly.com/question/34123912",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/34123912&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoFCJIBEAE",
+      "displayed_link": "https://brainly.com › Social Studies › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffe89ef48c0f3f7c576aa3eee7ca023ba7.png",
+      "date": "Jun 28, 2023",
+      "snippet": "Use your sociological imagination to think outside the box. What are some of the more obvious and not-so-obvious ways that COVID-19 specifically ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 81,
+      "title": "Describe the impact of nonverbal communication during ...",
+      "link": "https://brainly.com/question/31424985",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/31424985&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECE4QAQ",
+      "displayed_link": "https://brainly.com › English › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff6f3545e491dfc10abb3ede261bd200e2.png",
+      "date": "Apr 5, 2023",
+      "snippet": "This answer is FREE! See the answer to your question: Describe the impact of nonverbal communication during the COVID-19 pandemic.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "19"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 82,
+      "title": "[FREE] Write a 3-stanza poem about the coronavirus.",
+      "link": "https://brainly.com/question/15796269",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/15796269&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECDMQAQ",
+      "displayed_link": "https://brainly.com › English › High School",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ffcdb9d46d0acdbdd27fc5df1b89d6ae29.png",
+      "date": "Apr 17, 2020",
+      "snippet": "This answer is FREE! See the answer to your question: Write a 3-stanza poem about the coronavirus. - brainly.com.",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "brainly"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 83,
+      "title": "The destruction of pathogens by physical or chemical ...",
+      "link": "https://brainly.com/question/63158604",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/63158604&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECEIQAQ",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff55f0f940ca175230b4819fdda4aedec4.png",
+      "date": "2 days ago",
+      "snippet": "... Covid-19 pandemic, on the current trends in the job market. Previous question · Next question. chevron right. spark. What's your question? add ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "19"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 84,
+      "title": "[FREE] Which of the following statements BEST describes ...",
+      "link": "https://brainly.com/question/63156126",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/63156126&ved=2ahUKEwizkO2Fi9SOAxXDhlYBHZr5Cr4QFnoECDAQAQ",
+      "displayed_link": "https://brainly.com › Health › College",
+      "favicon": "https://serpapi.com/searches/688169ce9d26cf56d424c8aa/images/e8fb3ff7d60633802e5e4144d36593ff872d76b628074efa52995d9d2f9b670a.png",
+      "date": "2 days ago",
+      "snippet": "... Covid-19 pandemic, on the current trends in the job market. Previous question · Next question. chevron right. loading. spark. What's your ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "19"
+      ],
+      "source": "brainly.co..."
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 84 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=covid+19+brainly&num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=covid+19+brainly&oq=covid+19+brainly&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=covid+19+brainly&oq=covid+19+brainly&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=covid+19+brainly&oq=covid+19+brainly&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=covid+19+brainly&oq=covid+19+brainly&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=covid+19+brainly&oq=covid+19+brainly&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+19+brainly&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+19+brainly&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+19+brainly&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+19+brainly&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+19+brainly&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+19+brainly&start=400"
+    }
+  }
+}

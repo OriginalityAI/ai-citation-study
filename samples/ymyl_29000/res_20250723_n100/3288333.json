@@ -1,0 +1,456 @@
+{
+  "search_metadata": {
+    "id": "6881604157c44bf864c44c08",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/97fa4dd05601b591/6881604157c44bf864c44c08.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/97fa4dd05601b591/6881604157c44bf864c44c08.json_with_pixel_position",
+    "created_at": "2025-07-23 22:20:49 UTC",
+    "processed_at": "2025-07-23 22:20:49 UTC",
+    "google_url": "https://www.google.com/search?q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&oq=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/97fa4dd05601b591/6881604157c44bf864c44c08.html",
+    "total_time_taken": 1.33
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "com.fasterxml.jackson.databind.deser.std.stringdeserializer is not an instance of org.apache.kafka.common.serialization.deserializer",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "com.fasterxml.jackson.databind.deser.std.stringdeserializer is not an instance of org.apache.kafka.common.serialization.deserializer",
+    "total_results": 21,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is serializer and deserializer in Kafka?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU5rbDFXR2hLVTJoWU1YTnRia3gyV1dSc2VtbERlSEJtVmpoTVdGVjBWbFJFVjI0M2EyWlJaMlZoUkRKbk1tdFJRMWhHZURsR1IycHhSVFl6V2xGSVdVNVNTazltUTFWZk5EWXhTRmx3WVVKck9XaHJRV3hhUmxWTWR4SVhVVzFEUW1GUE5uWkVOMWR3TW5KdlVEbFBSR3R6UVhjYUlrRkdUVUZIUjNKb1RUbHdUVkpZWTNJNWNVTnlhVjk0VUhKQ1ZsQllTMnhsZFhjIiwiZmN2IjoiMyIsImVpIjoiUW1DQmFPNnZEN1dwMnJvUDlPRGtzQXciLCJxYyI6ImMwMk5PdzRDTVJCRFFYVGJ3QkY4RTdxOWg4bG5HYktab013VUNJbU9nMjlBUXFKd1lVdC1iM3J2UTZ2SU5FXzlVVmZjR0lvMVJhVHpJaG9SazZVTzh6alNSWmR2RjY3eUhMTVl0RG1vRURXbmhvU1cwZm9DM2htdUNZVzVFRU5SQl9OM3BNdkg4QWM2N1Y3ejRYamVBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyBzZXJpYWxpemVyIGFuZCBkZXNlcmlhbGl6ZXIgaW4gS2Fma2E/IiwibGsiOiJjNVBTS2M5SUxGSElMRllvVGkzS1RNekpyRW90VWtqTVMxRklTVVVTeU14VHlFNU15MDRFQUEiLCJicyI6ImMtTks0dElOejBnc1VjZ3NWaWhPTGNwTXpNbXNTaTFTU014TFVVaEpSUkxJekZQd1RrekxUclNYV0o1Z3BDZWxVMDZjbm15UUhpNVBMalYwT3hKTE12UHpGUExUSUtZcVpLUW1wcVFXMlVzOFZqT1NrWkxLUmhKRDFTSEFDQUEiLCJpZCI6ImZjX1FtQ0JhTzZ2RDdXcDJyb1A5T0Rrc0F3XzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU5rbDFXR2hLVTJoWU1YTnRia3gyV1dSc2VtbERlSEJtVmpoTVdGVjBWbFJFVjI0M2EyWlJaMlZoUkRKbk1tdFJRMWhHZURsR1IycHhSVFl6V2xGSVdVNVNTazltUTFWZk5EWXhTRmx3WVVKck9XaHJRV3hhUmxWTWR4SVhVVzFEUW1GUE5uWkVOMWR3TW5KdlVEbFBSR3R6UVhjYUlrRkdUVUZIUjNKb1RUbHdUVkpZWTNJNWNVTnlhVjk0VUhKQ1ZsQllTMnhsZFhjIiwiZmN2IjoiMyIsImVpIjoiUW1DQmFPNnZEN1dwMnJvUDlPRGtzQXciLCJxYyI6ImMwMk5PdzRDTVJCRFFYVGJ3QkY4RTdxOWg4bG5HYktab013VUNJbU9nMjlBUXFKd1lVdC1iM3J2UTZ2SU5FXzlVVmZjR0lvMVJhVHpJaG9SazZVTzh6alNSWmR2RjY3eUhMTVl0RG1vRURXbmhvU1cwZm9DM2htdUNZVzVFRU5SQl9OM3BNdkg4QWM2N1Y3ejRYamVBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyBzZXJpYWxpemVyIGFuZCBkZXNlcmlhbGl6ZXIgaW4gS2Fma2E%2FIiwibGsiOiJjNVBTS2M5SUxGSElMRllvVGkzS1RNekpyRW90VWtqTVMxRklTVVVTeU14VHlFNU15MDRFQUEiLCJicyI6ImMtTks0dElOejBnc1VjZ3NWaWhPTGNwTXpNbXNTaTFTU014TFVVaEpSUkxJekZQd1RrekxUclNYV0o1Z3BDZWxVMDZjbm15UUhpNVBMalYwT3hKTE12UHpGUExUSUtZcVpLUW1wcVFXMlVzOFZqT1NrWkxLUmhKRDFTSEFDQUEiLCJpZCI6ImZjX1FtQ0JhTzZ2RDdXcDJyb1A5T0Rrc0F3XzIifQ%3D%3D"
+    },
+    {
+      "question": "What is serialization of Kafka header?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU5rbDFXR2hLVTJoWU1YTnRia3gyV1dSc2VtbERlSEJtVmpoTVdGVjBWbFJFVjI0M2EyWlJaMlZoUkRKbk1tdFJRMWhHZURsR1IycHhSVFl6V2xGSVdVNVNTazltUTFWZk5EWXhTRmx3WVVKck9XaHJRV3hhUmxWTWR4SVhVVzFEUW1GUE5uWkVOMWR3TW5KdlVEbFBSR3R6UVhjYUlrRkdUVUZIUjNKb1RUbHdUVkpZWTNJNWNVTnlhVjk0VUhKQ1ZsQllTMnhsZFhjIiwiZmN2IjoiMyIsImVpIjoiUW1DQmFPNnZEN1dwMnJvUDlPRGtzQXciLCJxYyI6ImMwMk5PdzRDTVJCRFFYVGJ3QkY4RTdxOWg4bG5HYktab013VUNJbU9nMjlBUXFKd1lVdC1iM3J2UTZ2SU5FXzlVVmZjR0lvMVJhVHpJaG9SazZVTzh6alNSWmR2RjY3eUhMTVl0RG1vRURXbmhvU1cwZm9DM2htdUNZVzVFRU5SQl9OM3BNdkg4QWM2N1Y3ejRYamVBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyBzZXJpYWxpemF0aW9uIG9mIEthZmthIGhlYWRlcj8iLCJsayI6IkdocHJZV1pyWVNCb1pXRmtaWElnYzJWeWFXRnNhWHBoZEdsdmJnIiwiYnMiOiJjLU5LNHRJTnowZ3NVY2dzVmloT0xjcE16TW1zU2kxU1NNeExVVWhKUlJMSXpGUHdUa3pMVHJTWFdKNWdwQ2VsVTA2Y25teVFIaTVQTGpWME94SkxNdlB6RlBMVElLWXFaS1FtcHFRVzJVczhWak9Ta1pMS1JoSkQxU0hBQ0FBIiwiaWQiOiJmY19RbUNCYU82dkQ3V3Aycm9QOU9Ea3NBd18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU5rbDFXR2hLVTJoWU1YTnRia3gyV1dSc2VtbERlSEJtVmpoTVdGVjBWbFJFVjI0M2EyWlJaMlZoUkRKbk1tdFJRMWhHZURsR1IycHhSVFl6V2xGSVdVNVNTazltUTFWZk5EWXhTRmx3WVVKck9XaHJRV3hhUmxWTWR4SVhVVzFEUW1GUE5uWkVOMWR3TW5KdlVEbFBSR3R6UVhjYUlrRkdUVUZIUjNKb1RUbHdUVkpZWTNJNWNVTnlhVjk0VUhKQ1ZsQllTMnhsZFhjIiwiZmN2IjoiMyIsImVpIjoiUW1DQmFPNnZEN1dwMnJvUDlPRGtzQXciLCJxYyI6ImMwMk5PdzRDTVJCRFFYVGJ3QkY4RTdxOWg4bG5HYktab013VUNJbU9nMjlBUXFKd1lVdC1iM3J2UTZ2SU5FXzlVVmZjR0lvMVJhVHpJaG9SazZVTzh6alNSWmR2RjY3eUhMTVl0RG1vRURXbmhvU1cwZm9DM2htdUNZVzVFRU5SQl9OM3BNdkg4QWM2N1Y3ejRYamVBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyBzZXJpYWxpemF0aW9uIG9mIEthZmthIGhlYWRlcj8iLCJsayI6IkdocHJZV1pyWVNCb1pXRmtaWElnYzJWeWFXRnNhWHBoZEdsdmJnIiwiYnMiOiJjLU5LNHRJTnowZ3NVY2dzVmloT0xjcE16TW1zU2kxU1NNeExVVWhKUlJMSXpGUHdUa3pMVHJTWFdKNWdwQ2VsVTA2Y25teVFIaTVQTGpWME94SkxNdlB6RlBMVElLWXFaS1FtcHFRVzJVczhWak9Ta1pMS1JoSkQxU0hBQ0FBIiwiaWQiOiJmY19RbUNCYU82dkQ3V3Aycm9QOU9Ea3NBd18yIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "com.fasterxml.jackson.databind.ser.std.StringSerializer is ...",
+      "link": "https://stackoverflow.com/questions/53801565/common-kafkaexception-com-fasterxml-jackson-databind-ser-std-stringserializer-i",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/53801565/common-kafkaexception-com-fasterxml-jackson-databind-ser-std-stringserializer-i&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECAoQAQ",
+      "displayed_link": "2 answers · 6 years ago",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac2165fa1f42fd672c45445e50b8c0721787.png",
+      "snippet": "I am developing Spring Boot + Apache Kafka example. While sending TOPIC to Kafka getting error. Error: java.lang.IllegalStateException: Failed to execute ...",
+      "snippet_highlighted_words": [
+        "Apache Kafka",
+        "Kafka"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "KafkaException: class is not an instance of org.apache ...",
+            "link": "https://stackoverflow.com/questions/64739769/kafkaexception-class-is-not-an-instance-of-org-apache-kafka-common-serializatio",
+            "answer_count": 3,
+            "date": "Nov 8, 2020"
+          },
+          {
+            "title": "Apache Kafka: ...StringDeserializer is not an instance of ...",
+            "link": "https://stackoverflow.com/questions/48864032/apache-kafka-stringdeserializer-is-not-an-instance-of-deserializer",
+            "answer_count": 3,
+            "date": "Feb 19, 2018"
+          }
+        ]
+      },
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 2,
+      "title": "common.KafkaException com.fasterxml.jackson.databind. ...",
+      "link": "https://codemia.io/knowledge-hub/path/commonkafkaexception_comfasterxmljacksondatabindserstdstringserializer_is_not_an_instance_of_orgapachekafkacommonserializationserializer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://codemia.io/knowledge-hub/path/commonkafkaexception_comfasterxmljacksondatabindserstdstringserializer_is_not_an_instance_of_orgapachekafkacommonserializationserializer&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECCMQAQ",
+      "displayed_link": "https://codemia.io › knowledge-hub › path › commonk...",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac2168baccff31ed31ac7685c44a82fbc7b2.png",
+      "snippet": "This error typically arises from a misconfiguration in the Kafka producer or consumer settings, specifically concerning how data serialization is handled.",
+      "snippet_highlighted_words": [
+        "Kafka",
+        "serialization"
+      ],
+      "source": "Codemia.io"
+    },
+    {
+      "position": 3,
+      "title": "org.apache.kafka.common.serialization.StringDeserializer ...",
+      "link": "https://github.com/confluentinc/common/issues/162",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/confluentinc/common/issues/162&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECBkQAQ",
+      "displayed_link": "https://github.com › confluentinc › common › issues",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac2111ec8c16cf38384d46362f35fc622294.png",
+      "date": "Aug 22, 2018",
+      "snippet": "StringDeserializer does implement the Deserializer interface, so this is likely an issue with classloading in Spark.",
+      "snippet_highlighted_words": [
+        "StringDeserializer",
+        "Deserializer"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 4,
+      "title": "org.apache.kafka.common.KafkaException: Failed to ...",
+      "link": "https://lists.apache.org/thread/82qk0yvv211jq2bdqd4q90h2947jzsjm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lists.apache.org/thread/82qk0yvv211jq2bdqd4q90h2947jzsjm&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECBoQAQ",
+      "displayed_link": "https://lists.apache.org › thread",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac21684f26c3f3eff410effa0966791e8da7.png",
+      "snippet": "You need to use org.apache.kafka.common.serialization.StringSerializer as your ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG.",
+      "snippet_highlighted_words": [
+        "org",
+        "apache",
+        "kafka",
+        "common",
+        "serialization"
+      ],
+      "source": "Apache Mail Archives"
+    },
+    {
+      "position": 5,
+      "title": "Failed to construct a kafka producer when it ...",
+      "link": "https://github.com/spring-projects/spring-kafka/issues/1885",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/spring-projects/spring-kafka/issues/1885&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECB4QAQ",
+      "displayed_link": "https://github.com › spring-projects › spring-kafka › issues",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac21583ddc41c82cddf408eb6e6e56b44085.png",
+      "date": "Jul 24, 2021",
+      "snippet": "Affects Version(s): 2.5.3. When a producer tries to serialize a value(data class) the application raises a org.apache.kafka.common.",
+      "snippet_highlighted_words": [
+        "org",
+        "apache",
+        "kafka",
+        "common"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 6,
+      "title": "[Bug] no String-argument constructor/factory method to ...",
+      "link": "https://lightrun.com/answers/thingsboard-thingsboard-bug-no-string-argument-constructorfactory-method-to-deserialize-from-string-value-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lightrun.com/answers/thingsboard-thingsboard-bug-no-string-argument-constructorfactory-method-to-deserialize-from-string-value-&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECBwQAQ",
+      "displayed_link": "https://lightrun.com › answers › thingsboard-thingsboar...",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac212b4ccbb36a3a4c2821d169c6b4a2bdd6.png",
+      "snippet": "Describe the bug Based on this tutorial, I want to use an Integration to read Kafka topic data. But I got the bellow bug after upgrading Thingsboard 3.1.1 .",
+      "snippet_highlighted_words": [
+        "Kafka"
+      ],
+      "source": "Lightrun"
+    },
+    {
+      "position": 7,
+      "title": "Serialization, Deserialization, and Message Conversion",
+      "link": "https://docs.spring.io/spring-kafka/reference/kafka/serdes.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.spring.io/spring-kafka/reference/kafka/serdes.html&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECCQQAQ",
+      "displayed_link": "https://docs.spring.io › reference › kafka › serdes",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac2135199d07bfdb82e9c1ecacb4ba3fd21f.png",
+      "snippet": "Since version 2.5, Spring for Apache Kafka provides ToStringSerializer and ParseStringDeserializer classes that use String representation of entities.",
+      "snippet_highlighted_words": [
+        "Apache Kafka",
+        "ParseStringDeserializer"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Overview",
+            "link": "https://docs.spring.io/spring-kafka/reference/kafka/serdes.html#overview"
+          },
+          {
+            "title": "String serialization",
+            "link": "https://docs.spring.io/spring-kafka/reference/kafka/serdes.html#string-serde"
+          },
+          {
+            "title": "JSON",
+            "link": "https://docs.spring.io/spring-kafka/reference/kafka/serdes.html#json-serde"
+          },
+          {
+            "title": "Spring Messaging Message...",
+            "link": "https://docs.spring.io/spring-kafka/reference/kafka/serdes.html#messaging-message-conversion"
+          }
+        ]
+      },
+      "missing": [
+        "std."
+      ],
+      "must_include": {
+        "word": "std.",
+        "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=com.fasterxml.jackson.databind.deser.+%22std.%22+stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&sa=X&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQ5t4CegQIJRAB"
+      },
+      "source": "Spring"
+    },
+    {
+      "position": 8,
+      "title": "Jackson Exceptions - Problems and Solutions",
+      "link": "https://www.baeldung.com/jackson-exception",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.baeldung.com/jackson-exception&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECC0QAQ",
+      "displayed_link": "https://www.baeldung.com › JSON › Jackson",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac2136a7e66da5d08020b645b54993c7059a.png",
+      "date": "Apr 8, 2024",
+      "snippet": "This exception is thrown if Jackson can't create an instance of the class, which happens if the class is abstract or it is just an interface.",
+      "snippet_highlighted_words": [
+        "Jackson",
+        "instance"
+      ],
+      "source": "Baeldung"
+    },
+    {
+      "position": 9,
+      "title": "Kafka Streams with JSON",
+      "link": "https://groups.google.com/g/confluent-platform/c/E7u86_BBrsg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://groups.google.com/g/confluent-platform/c/E7u86_BBrsg&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECEwQAQ",
+      "displayed_link": "https://groups.google.com › confluent-platform",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac213dcc6859fd39adaa5c5530ab72d1f6ad.png",
+      "snippet": "When I give 3 JSON messages in JSON array I get the below errors, I raised this issue with Jackson as well, not sure what is causing this.. Do you know any ...",
+      "snippet_highlighted_words": [
+        "Jackson",
+        "not"
+      ],
+      "source": "Google Groups"
+    },
+    {
+      "position": 10,
+      "title": "Class StringSerializer.class could not be found",
+      "link": "https://forum.confluent.io/t/class-stringserializer-class-could-not-be-found/8687",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.confluent.io/t/class-stringserializer-class-could-not-be-found/8687&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECDQQAQ",
+      "displayed_link": "https://forum.confluent.io › class-stringserializer-class-c...",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac21057e529092dcedc792435e00037731fa.png",
+      "date": "Sep 13, 2023",
+      "snippet": "I would like to ask the question from the Running Command issue gradlew for producer & consumer issue, as there's no solution mentioned and the issue is closed.",
+      "missing": [
+        "fasterxml.",
+        "jackson.",
+        "databind.",
+        "deser.",
+        "std.",
+        "instance"
+      ],
+      "source": "Confluent"
+    },
+    {
+      "position": 11,
+      "title": "com.fasterxml.jackson.databind.ser.std.StringSerializer不是 ...",
+      "link": "https://cloud.tencent.com/developer/ask/sof/115601289",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cloud.tencent.com/developer/ask/sof/115601289&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECDIQAQ",
+      "displayed_link": "https://cloud.tencent.com › ask › sof",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac21a0d5b1ad3eced0d10efbf9ec76ea9fe5.png",
+      "date": "Dec 15, 2018",
+      "snippet": "如何解决com.fasterxml.jackson.databind.ser.std.StringSerializer不是org.apache.kafka.common.serialization.Serializer实例的问题？ 我正在开发 Spring ...",
+      "snippet_highlighted_words": [
+        "com.fasterxml",
+        "jackson",
+        "databind",
+        "std",
+        "org",
+        "apache",
+        "kafka",
+        "common",
+        "serialization"
+      ],
+      "source": "腾讯云"
+    },
+    {
+      "position": 12,
+      "title": "[Kafka] Deserializer 관련 이슈 - Failed to start bean 'org. ...",
+      "link": "https://velog.io/@rockstar/Kafka-Failed-to-start-bean-org.springframework.kafka.config.internalKafkaListenerEndpointRegistry-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://velog.io/%40rockstar/Kafka-Failed-to-start-bean-org.springframework.kafka.config.internalKafkaListenerEndpointRegistry-%25EC%259D%25B4%25EC%258A%2588-%25ED%2595%25B4%25EA%25B2%25B0&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECEsQAQ",
+      "displayed_link": "https://velog.io › Kafka-Failed-to-st...",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac21d1870fa311c87acd704f0558a977c653.png",
+      "date": "Jun 12, 2023",
+      "snippet": "분명 컨테이너에 프로젝트를 빌드해서 올리기 전에 실행했을 때는 발생하지 않던 문제였는데, 왜 그런지 Docker에서는 해당 에러가 나기 시작했다.",
+      "source": "velog"
+    },
+    {
+      "position": 13,
+      "title": "Kafka - AMI Documentation",
+      "link": "https://doc.3forge.com/feed_handlers/kafka/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://doc.3forge.com/feed_handlers/kafka/&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECGAQAQ",
+      "displayed_link": "https://doc.3forge.com › feed_handlers › kafka",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac21bb8a82ec63b1f31e2d6d0c5198dc444e.png",
+      "snippet": "AMI currently supports JSON, Avro, and Protobuf message serialization. Overview¶. Configure AMI properties to the Kafka server. Restart AMI and start streaming ...",
+      "snippet_highlighted_words": [
+        "serialization",
+        "Kafka"
+      ],
+      "source": "3forge"
+    },
+    {
+      "position": 14,
+      "title": "com.fasterxml.jackson.databind.deser.std. ...",
+      "link": "https://blog.csdn.net/weixin_42648692/article/details/107466673",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.csdn.net/weixin_42648692/article/details/107466673&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECDAQAQ",
+      "displayed_link": "https://blog.csdn.net › details",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac210c27b9c200172a5b0e0ad78bb3e1efa2.png",
+      "date": "Jul 20, 2020",
+      "snippet": "今天springboot 项目配置kafka消费者，出现了一个错误 com.fasterxml.jackson.databind.deser.std.StringDeserializer is not an instance of ...",
+      "snippet_highlighted_words": [
+        "kafka",
+        "com.fasterxml",
+        "jackson",
+        "databind",
+        "deser",
+        "std",
+        "StringDeserializer is not an instance of"
+      ],
+      "source": "CSDN博客"
+    },
+    {
+      "position": 15,
+      "title": "Synchronously Load 100000 Records into DB within ...",
+      "link": "https://medium.com/codex/synchronously-load-100000-records-into-db-within-seconds-and-publish-all-the-data-to-kafka-topic-470bfe8fcbc0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/codex/synchronously-load-100000-records-into-db-within-seconds-and-publish-all-the-data-to-kafka-topic-470bfe8fcbc0&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECDEQAQ",
+      "displayed_link": "290+ likes · 1 year ago",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac21490121a7605137c6508b193cf1c6484e.png",
+      "snippet": "I want to save 100000 student records into H2 database and publish all the saved data to Kafka Topic and receive the published data in Kafka Consumer spring ...",
+      "snippet_highlighted_words": [
+        "Kafka",
+        "Kafka"
+      ],
+      "source": "Medium · Mohit Sehgal"
+    },
+    {
+      "position": 16,
+      "title": "Custom Serializers in Apache Kafka",
+      "link": "https://www.baeldung.com/kafka-custom-serializer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.baeldung.com/kafka-custom-serializer&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECC8QAQ",
+      "displayed_link": "https://www.baeldung.com › Spring",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac21109f1699cf28d00b756fa4721bf0da94.png",
+      "date": "Mar 26, 2025",
+      "snippet": "In this tutorial, we'll see how to implement Kafka default format converters and custom serializers for specific use cases.",
+      "snippet_highlighted_words": [
+        "Kafka"
+      ],
+      "missing": [
+        "deser."
+      ],
+      "must_include": {
+        "word": "deser.",
+        "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=com.fasterxml.jackson.databind.+%22deser.%22+std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&sa=X&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQ5t4CegQIOBAB"
+      },
+      "source": "Baeldung"
+    },
+    {
+      "position": 17,
+      "title": "flink报错ByteArraySerializer is not an instance of org. ...",
+      "link": "https://blog.csdn.net/qq_26502245/article/details/114594526",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.csdn.net/qq_26502245/article/details/114594526&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECEoQAQ",
+      "displayed_link": "https://blog.csdn.net › details",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac21aae7e918f31c0e32a84ceafd271f5db5.png",
+      "date": "Mar 9, 2021",
+      "snippet": "问题描述. 代码如下： public class Sink_KafkaSink_1{ public static void main(String[] args) throws Exception { final ParameterTool params ...",
+      "source": "CSDN博客"
+    },
+    {
+      "position": 18,
+      "title": "[스프링부트]Kafka 오류",
+      "link": "https://blog.naver.com/neem693/221626318456",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.naver.com/neem693/221626318456&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECFAQAQ",
+      "displayed_link": "https://blog.naver.com › neem693",
+      "date": "Aug 23, 2019",
+      "snippet": "기본적으로 주키퍼와 카프카가 실행이 되어야만 작동한다. apache zookeeper <https://github.com/apache/zookeeper/releases> org.apache.zookeeper.",
+      "snippet_highlighted_words": [
+        "apache",
+        "apache",
+        "org",
+        "apache"
+      ],
+      "source": "NAVER"
+    },
+    {
+      "position": 19,
+      "title": "Flink Kafka EXACTLY_ONCE causing KafkaException ...",
+      "link": "https://lists.apache.org/thread/f1gpgr1y9vf2khz448xlvm2o95lksrt0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lists.apache.org/thread/f1gpgr1y9vf2khz448xlvm2o95lksrt0&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECE0QAQ",
+      "displayed_link": "https://lists.apache.org › thread",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac21dea8a38ae51eb779956e2b7fd427e5cf.png",
+      "snippet": "I'm using Flink 1.10 and Kafka (AWS MSK) 2.2 and trying to do a simple app that consumes from one kafka topic and produces events into another topic.",
+      "snippet_highlighted_words": [
+        "Kafka",
+        "kafka"
+      ],
+      "missing": [
+        "fasterxml.",
+        "jackson.",
+        "databind.",
+        "deser.",
+        "std."
+      ],
+      "source": "Apache Mail Archives"
+    },
+    {
+      "position": 20,
+      "title": "Spring Boot Kafka JsonSerializer Example",
+      "link": "https://howtodoinjava.com/kafka/spring-boot-jsonserializer-example/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://howtodoinjava.com/kafka/spring-boot-jsonserializer-example/&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECDMQAQ",
+      "displayed_link": "https://howtodoinjava.com › Kafka",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac21fee18f74a284dc176677daf12c6663a2.png",
+      "date": "Nov 15, 2022",
+      "snippet": "Learn to use JsonSerializer and JsonDeserializer classes for storing and retrieving JSON from Apache Kafka topics and returning Java model objects.",
+      "snippet_highlighted_words": [
+        "JsonDeserializer",
+        "Apache Kafka"
+      ],
+      "source": "HowToDoInJava"
+    },
+    {
+      "position": 21,
+      "title": "Serialization, Deserialization, and Message Conversion",
+      "link": "https://docs.spring.vmware.com/spring-kafka/reference/kafka/serdes.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.spring.vmware.com/spring-kafka/reference/kafka/serdes.html&ved=2ahUKEwju2Kv4gdSOAxW1lFYBHXQwGcYQFnoECC4QAQ",
+      "displayed_link": "https://docs.spring.vmware.com › kafka › serdes",
+      "favicon": "https://serpapi.com/searches/6881604157c44bf864c44c08/images/55bb29d8eb1db382569d594b09b2ac213217e21a05cf89bb1a400f01effc0d70.png",
+      "snippet": "Apache Kafka provides a high-level API for serializing and deserializing record values as well as their keys.",
+      "snippet_highlighted_words": [
+        "Apache Kafka"
+      ],
+      "source": "VMware"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 21 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&oq=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&oq=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&oq=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&oq=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&oq=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=com.fasterxml.jackson.databind.deser.std.stringdeserializer+is+not+an+instance+of+org.apache.kafka.common.serialization.deserializer&start=400"
+    }
+  }
+}

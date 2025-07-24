@@ -1,0 +1,388 @@
+{
+  "search_metadata": {
+    "id": "6881f507b6a867f85c9bbd44",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f458eeb6214ab0c2/6881f507b6a867f85c9bbd44.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/f458eeb6214ab0c2/6881f507b6a867f85c9bbd44.json_with_pixel_position",
+    "created_at": "2025-07-24 08:55:35 UTC",
+    "processed_at": "2025-07-24 08:55:35 UTC",
+    "google_url": "https://www.google.com/search?q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&oq=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/f458eeb6214ab0c2/6881f507b6a867f85c9bbd44.html",
+    "total_time_taken": 1.0
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "安卓手机测试中anr和crash的最正确的解释",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "安卓手机测试中anr和crash的最正确的解释",
+    "total_results": 20,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "移动端测试（三）-ANR和Crash等常见场景原因说明及处理",
+      "link": "https://blog.csdn.net/qq_40252819/article/details/124063757",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.csdn.net/qq_40252819/article/details/124063757&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECBgQAQ",
+      "displayed_link": "https://blog.csdn.net › details",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e440f0b2ecb6641e85053b80d7bf84dd43.png",
+      "date": "May 10, 2022",
+      "snippet": "ANR:Application Not Response，应用无响应。通常情况下，会弹出窗口询问用户选择“强制关闭”或者“继续等待/等一下”。其中，.",
+      "snippet_highlighted_words": [
+        "ANR"
+      ],
+      "source": "CSDN博客"
+    },
+    {
+      "position": 2,
+      "title": "crash 和anr的区别原创",
+      "link": "https://blog.csdn.net/sinat_26192119/article/details/115483842",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.csdn.net/sinat_26192119/article/details/115483842&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECB4QAQ",
+      "displayed_link": "https://blog.csdn.net › details",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e40c0668fe72e6a69ce67173c9185dbce2.png",
+      "date": "Apr 7, 2021",
+      "snippet": "crash 和anr的区别. crash. 表现：程序奔溃或闪退。 影响：1、程序无法继续运行，数据丢失。2、糟糕的用户体验产生原因： 从Android框架可区分 ...",
+      "snippet_highlighted_words": [
+        "crash",
+        "anr",
+        "crash",
+        "Android"
+      ],
+      "source": "CSDN博客"
+    },
+    {
+      "position": 3,
+      "title": "Android稳定性优化深入解析",
+      "link": "https://zhuanlan.zhihu.com/p/619366696",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zhuanlan.zhihu.com/p/619366696&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECBYQAQ",
+      "displayed_link": "https://zhuanlan.zhihu.com › ...",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e450ef1ed69711872982ed8bce97259a74.png",
+      "date": "Apr 4, 2023",
+      "snippet": "从 Logcat 中我们可以看到当时系统的一些行为跟手机的状态，例如出现 ANR 时，会有“am_anr”； App 被杀时，会有“am_kill”。不同的系统、厂商输出的日志有所 ...",
+      "snippet_highlighted_words": [
+        "手机",
+        "ANR"
+      ],
+      "source": "知乎专栏"
+    },
+    {
+      "position": 4,
+      "title": "深入探索Android稳定性优化",
+      "link": "https://jsonchao.github.io/2019/11/24/%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%B4%A2Android%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%BC%98%E5%8C%96/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jsonchao.github.io/2019/11/24/%25E6%25B7%25B1%25E5%2585%25A5%25E6%258E%25A2%25E7%25B4%25A2Android%25E7%25A8%25B3%25E5%25AE%259A%25E6%2580%25A7%25E4%25BC%2598%25E5%258C%2596/&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECBUQAQ",
+      "displayed_link": "https://jsonchao.github.io › 深入...",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e4df71a23e115e21df8b7ed38f3887d94a.png",
+      "date": "Nov 24, 2019",
+      "snippet": "无法准确判断是否真正出现ANR，只能说明APP发生了UI阻塞，需要进行二次校验。校验的方式就是等待手机系统出现发生了Error的进程，并且Error类型是 ...",
+      "snippet_highlighted_words": [
+        "ANR",
+        "手机"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 5,
+      "title": "诊断和修复ANR | App quality",
+      "link": "https://developer.android.com/topic/performance/anrs/diagnose-and-fix-anrs?hl=zh-cn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.android.com/topic/performance/anrs/diagnose-and-fix-anrs%3Fhl%3Dzh-cn&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECBwQAQ",
+      "displayed_link": "https://developer.android.com › anrs",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e42bf95c92a0f9f9686ba17ac6151d6023.png",
+      "snippet": "如果Android 应用的界面线程处于阻塞状态的时间过长，系统会发送“应用无响应”(ANR) 错误。本页介绍了不同类型的ANR、如何进行诊断并给出建议的解决方法。",
+      "snippet_highlighted_words": [
+        "Android",
+        "ANR",
+        "ANR"
+      ],
+      "source": "Android Developers"
+    },
+    {
+      "position": 6,
+      "title": "使用bugreport观察和分析系统日志，解决crash，anr等问题",
+      "link": "https://juejin.cn/post/7440789453343899674",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://juejin.cn/post/7440789453343899674&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECB0QAQ",
+      "displayed_link": "https://juejin.cn › Android",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e4202ac5191f66a1a6115d92154a3cae71.png",
+      "date": "Nov 24, 2024",
+      "snippet": "综合起来，这条命令的作用是在Android设备上对 com.android.Launcher3 这个应用执行100000次随机的用户操作，同时输出基本的详细信息。这通常用于测试应用的 ...",
+      "snippet_highlighted_words": [
+        "Android",
+        "android",
+        "测试"
+      ],
+      "source": "掘金"
+    },
+    {
+      "position": 7,
+      "title": "ANR分析思路简析- aspirs",
+      "link": "https://www.cnblogs.com/aspirs/p/12936171.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnblogs.com/aspirs/p/12936171.html&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECBcQAQ",
+      "displayed_link": "https://www.cnblogs.com › aspirs",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e4d99b7ab004df1ca1f32d68e42c75c0b0.png",
+      "date": "May 22, 2020",
+      "snippet": "ANR全名Application Not Responding, 也就是\"应用无响应\". 当操作在一段时间内系统无法处理时, 系统层面会弹出上图那样的ANR对话框. 1.2 为什么会产生ANR",
+      "snippet_highlighted_words": [
+        "ANR",
+        "ANR",
+        "ANR"
+      ],
+      "source": "博客园"
+    },
+    {
+      "position": 8,
+      "title": "android系统稳定性差android稳定性分析",
+      "link": "https://blog.51cto.com/u_16099281/8432791",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.51cto.com/u_16099281/8432791&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECC0QAQ",
+      "displayed_link": "https://blog.51cto.com › ...",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e45803355f4a57249cebdb5df680c717db.png",
+      "date": "Nov 16, 2023",
+      "snippet": "要保证稳定性，需要保证减少crash和anr,对于减少crash,需要进行代码审核，但是人工审核难免也会漏掉，可以使用FindBugs(当前已经被SpotBugs ...",
+      "snippet_highlighted_words": [
+        "crash",
+        "anr",
+        "crash"
+      ],
+      "source": "51CTO博客"
+    },
+    {
+      "position": 9,
+      "title": "What is the difference between ANR and crash in Android?",
+      "link": "https://stackoverflow.com/questions/20213482/what-is-the-difference-between-anr-and-crash-in-android",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/20213482/what-is-the-difference-between-anr-and-crash-in-android&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECFMQAQ",
+      "displayed_link": "10+ answers · 11 years ago",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e4e2a18cea0b64cddfda2b9b729608e796.png",
+      "snippet": "ANR stands for Application Not Responding. An ANR will occur if you are running a process on the UI thread which takes a long time, usually around 5 seconds.",
+      "snippet_highlighted_words": [
+        "ANR",
+        "ANR"
+      ],
+      "missing": [
+        "手机",
+        "测试"
+      ],
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 10,
+      "title": "崩溃| App quality",
+      "link": "https://developer.android.com/topic/performance/vitals/crash?hl=zh-cn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.android.com/topic/performance/vitals/crash%3Fhl%3Dzh-cn&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECCoQAQ",
+      "displayed_link": "https://developer.android.com › cr...",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e48c6aa6817ace8664548f67bb4390f6bd.png",
+      "snippet": "每当未处理的异常或信号导致意外退出时，Android 应用就会崩溃。使用Java 或Kotlin 编写的应用会在抛出未处理的异常（由 Throwable 类表示）时崩溃。使用机器码或C++ 语言 ...",
+      "snippet_highlighted_words": [
+        "Android"
+      ],
+      "source": "Android Developers"
+    },
+    {
+      "position": 11,
+      "title": "Android SDK接入指引",
+      "link": "https://bugly.tds.qq.com/docs/sdk/android/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bugly.tds.qq.com/docs/sdk/android/&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECCsQAQ",
+      "displayed_link": "https://bugly.tds.qq.com › docs",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e49b3d0d67531cce15db4ce5d98d2b01ac.png",
+      "snippet": "崩溃、ANR、OOM是100%上报，不支持采样，默认开启。 · 需要在控制管理台的设置/SDK配置中，创建配置任务。 · 在接入期间，建议参考SDK配置-测试号码设置测试号码白名单，即将所有 ...",
+      "snippet_highlighted_words": [
+        "ANR",
+        "测试",
+        "测试"
+      ],
+      "source": "Bugly专业版"
+    },
+    {
+      "position": 12,
+      "title": "Android Vitals | Google Play 管理中心",
+      "link": "https://play.google.com/intl/zh-CN_ALL/console/about/vitals/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/intl/zh-CN_ALL/console/about/vitals/&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECEkQAQ",
+      "displayed_link": "https://play.google.com › intl › about",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e4c11f82b1e699c160ec33c7e9f60cbbb3.png",
+      "snippet": "查看用户感知的崩溃和ANR 数据，全面了解应用在Android 系统中的稳定性. 快速调试技术问题. Android Vitals 包含堆栈轨迹、事件代码和设备信息等背景信息，有助于您了解 ...",
+      "snippet_highlighted_words": [
+        "ANR",
+        "Android",
+        "Android"
+      ],
+      "source": "Google Play"
+    },
+    {
+      "position": 13,
+      "title": "Google Play如何提升应用质量？这些工具或许会帮到你",
+      "link": "https://enjoyglobal.net/activity/News78946",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enjoyglobal.net/activity/News78946&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECEsQAQ",
+      "displayed_link": "https://enjoyglobal.net › News78946",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e4a1407b65fcbeae3173b8a14d874ed236.png",
+      "snippet": "第一件事是解决稳定性问题，实际上有两种类型的不稳定性会影响Android的应用崩溃和ANR。崩溃是应用程序由于错误而意外终止，而ANR率是应用程序挂起，并且没有想象的分布，这是 ...",
+      "snippet_highlighted_words": [
+        "Android",
+        "ANR",
+        "ANR"
+      ],
+      "source": "Enjoy出海"
+    },
+    {
+      "position": 14,
+      "title": "使用Crashlytics 高级功能了解Unity 游戏发生崩溃的情况",
+      "link": "https://firebase.google.com/codelabs/understand-unity-games-crashes-using-advanced-crashlytics?hl=zh-cn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://firebase.google.com/codelabs/understand-unity-games-crashes-using-advanced-crashlytics%3Fhl%3Dzh-cn&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECC4QAQ",
+      "displayed_link": "https://firebase.google.com › unde...",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e4580aa8aa09970b3e929667829de64c05.png",
+      "date": "Nov 10, 2024",
+      "snippet": "移动实体设备（Android 和iOS）：. 特定于Android：仅在Android 11 及更高版本中报告ANR。ANR 和非严重事件会在下次运行时报告。 Unity 编辑器：. 在 ...",
+      "snippet_highlighted_words": [
+        "Android",
+        "Android",
+        "Android",
+        "ANR",
+        "ANR"
+      ],
+      "source": "Firebase"
+    },
+    {
+      "position": 15,
+      "title": "Android 稳定性优化总结",
+      "link": "https://blog.51cto.com/u_15907753/13303969",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.51cto.com/u_15907753/13303969&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECEoQAQ",
+      "displayed_link": "https://blog.51cto.com › ...",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e414422ed5fff8764d9501428b7c324792.png",
+      "date": "Feb 14, 2025",
+      "snippet": "长效治理Crash：在更长的周期内如何防止稳定性劣化。面试常见问题：面试中关于稳定性的常见问题。 稳定性常见指标分类. 异常分类：Exception与ANR. Android ...",
+      "snippet_highlighted_words": [
+        "Crash",
+        "ANR",
+        "Android"
+      ],
+      "source": "51CTO博客"
+    },
+    {
+      "position": 16,
+      "title": "小心！Android P 会在ANR (app not responding) 时直接 ...",
+      "link": "https://www.reddit.com/r/androiddev/comments/8ix4p7/beware_android_p_will_crash_your_app_on_anr_app/?tl=zh-hans",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/androiddev/comments/8ix4p7/beware_android_p_will_crash_your_app_on_anr_app/%3Ftl%3Dzh-hans&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECDIQAQ",
+      "displayed_link": "40+ comments · 7 years ago",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e42164298aed3234152a9c4f129d4a6b8b.png",
+      "snippet": "ANR（应用程序无响应）源于UI工具包，也就是TextLine.measure，一路到ART和一些原生库。当然，你可以争辩说应用程序需要验证输入，但我宁愿等几秒钟，用一个还能 ...",
+      "snippet_highlighted_words": [
+        "ANR"
+      ],
+      "source": "Reddit · r/androiddev"
+    },
+    {
+      "position": 17,
+      "title": "monkey命令- 习久性成",
+      "link": "https://www.cnblogs.com/hls-code/p/15658954.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnblogs.com/hls-code/p/15658954.html&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECCwQAQ",
+      "displayed_link": "https://www.cnblogs.com › hls-code",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e476bd55eea939d998d8a0f54515e7573c.png",
+      "date": "Dec 7, 2021",
+      "snippet": "ANR：指当Android系统监测到应用程序在5秒内没有响应输入的事件或广播在10秒内没有执行完毕时抛出无响应弹窗提示 · CRASH：应用程序出现错误时导致程序崩溃、 ...",
+      "snippet_highlighted_words": [
+        "ANR",
+        "Android",
+        "CRASH"
+      ],
+      "source": "博客园"
+    },
+    {
+      "position": 18,
+      "title": "Android 15 应用适配指南| 小米澎湃OS开发者平台",
+      "link": "https://dev.mi.com/xiaomihyperos/documentation/detail?pId=1826",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dev.mi.com/xiaomihyperos/documentation/detail%3FpId%3D1826&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECC8QAQ",
+      "displayed_link": "https://dev.mi.com › detail",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e4b6deaf9e5a5324766bf103559f1559ca.png",
+      "date": "Apr 16, 2025",
+      "snippet": "Android 15在Android 14所做的更改的基础上进一步加强了安全性。在Android 15中，目标SDK版本低于24的应用程序无法安装。要求应用程序满足现代API级别有助 ...",
+      "snippet_highlighted_words": [
+        "Android",
+        "Android",
+        "Android"
+      ],
+      "source": "小米澎湃OS开发者平台"
+    },
+    {
+      "position": 19,
+      "title": "查看崩溃和应用无响应错误- Play 管理中心帮助",
+      "link": "https://support.google.com/googleplay/android-developer/answer/9859174?hl=zh-Hans",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.google.com/googleplay/android-developer/answer/9859174%3Fhl%3Dzh-Hans&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECDAQAQ",
+      "displayed_link": "https://support.google.com › answer",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e4e700afaa522828b5d78f949582068102.png",
+      "snippet": "打开Play 管理中心。 · 选择相应的应用。 · 在左侧菜单中，依次选择“监控和改进”> Android Vitals > 崩溃和ANR。 · 使用界面中心附近的过滤条件有助于查找和诊断问题。如需了解 ...",
+      "snippet_highlighted_words": [
+        "Android",
+        "ANR"
+      ],
+      "missing": [
+        "手机"
+      ],
+      "must_include": {
+        "word": "手机",
+        "link": "https://www.google.com/search?num=100&sca_esv=a500fe4c35fb992d&hl=en&gl=us&q=%E5%AE%89%E5%8D%93+%22%E6%89%8B%E6%9C%BA%22+%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&sa=X&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14Q5t4CegQIOBAB"
+      },
+      "source": "Google Help"
+    },
+    {
+      "position": 20,
+      "title": "在Crashlytics 信息中心内根据ANR 标记调试您的Android 应用",
+      "link": "https://firebase.google.com/docs/crashlytics/debug-anr-errors?hl=zh-cn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://firebase.google.com/docs/crashlytics/debug-anr-errors%3Fhl%3Dzh-cn&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14QFnoECDEQAQ",
+      "displayed_link": "https://firebase.google.com › docs",
+      "favicon": "https://serpapi.com/searches/6881f507b6a867f85c9bbd44/images/2bc1076429d03c9b7b61d110f875a9e46a6e253d4d2a5568547410193dccaefd.png",
+      "snippet": "当应用的界面线程在5 秒内没有响应时，便会触发应用无响应(ANR) 错误。您可以查看Android 文档详细了解ANR 以及如何诊断ANR。 此外，Crashlytics 还有助于查明有问题的具体 ...",
+      "snippet_highlighted_words": [
+        "ANR",
+        "Android",
+        "ANR",
+        "ANR"
+      ],
+      "missing": [
+        "手机"
+      ],
+      "must_include": {
+        "word": "手机",
+        "link": "https://www.google.com/search?num=100&sca_esv=a500fe4c35fb992d&hl=en&gl=us&q=%E5%AE%89%E5%8D%93+%22%E6%89%8B%E6%9C%BA%22+%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&sa=X&ved=2ahUKEwiO6vXoj9WOAxXdTDABHUMLB14Q5t4CegQIOhAB"
+      },
+      "source": "Firebase"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 20 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&num=100&sca_esv=a500fe4c35fb992d&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&oq=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&oq=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&oq=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&oq=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&oq=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%ADanr%E5%92%8Ccrash%E7%9A%84%E6%9C%80%E6%AD%A3%E7%A1%AE%E7%9A%84%E8%A7%A3%E9%87%8A&start=400"
+    }
+  }
+}

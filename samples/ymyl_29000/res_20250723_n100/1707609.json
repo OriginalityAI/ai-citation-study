@@ -1,0 +1,2380 @@
+{
+  "search_metadata": {
+    "id": "68818446ff596eb656e3ae67",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6fa09b159dc40909/68818446ff596eb656e3ae67.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6fa09b159dc40909/68818446ff596eb656e3ae67.json_with_pixel_position",
+    "created_at": "2025-07-24 00:54:30 UTC",
+    "processed_at": "2025-07-24 00:54:30 UTC",
+    "google_url": "https://www.google.com/search?q=cancer+related+anemia&oq=cancer+related+anemia&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6fa09b159dc40909/68818446ff596eb656e3ae67.html",
+    "total_time_taken": 0.94
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "cancer related anemia",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "cancer related anemia",
+    "total_results": 58700000,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/f6e89beb0df16101a95f8032f87f8fe887ed3a8aff2b0599308015e43bd650a239ef5751878eec41.jpeg",
+        "source": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.01294/full"
+      },
+      {
+        "image": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/f6e89beb0df16101a95f8032f87f8fe887ed3a8aff2b0599e5da5b68ff720e37bd15cc34ff027cf6.jpeg",
+        "source": "https://www.researchgate.net/figure/Pathogenetic-mechanisms-of-cancer-related-anemia-and-main-related-targeted-approaches_fig1_352701914"
+      },
+      {
+        "image": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/f6e89beb0df16101a95f8032f87f8fe887ed3a8aff2b05992b80fdd92bcebe7c4a222e7b894e9fb8.jpeg",
+        "source": "https://www.cambridge.org/core/books/anemia/anemia-in-the-patient-with-cancer/1ABE57EBC2BE0E0D1E9058225A9569B5"
+      },
+      {
+        "image": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/f6e89beb0df16101a95f8032f87f8fe887ed3a8aff2b059956cd8b583eed6f5fdb350a93683e2466.jpeg",
+        "source": "https://www.sciencedirect.com/science/article/pii/S0006497120617955"
+      },
+      {
+        "image": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/f6e89beb0df16101a95f8032f87f8fe887ed3a8aff2b059924e19147948cf5b4f3cd85d0327cad76.jpeg",
+        "source": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.01294/full"
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What cancers are associated with anemia?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "Several cancers, particularly those affecting the bone marrow and those that cause bleeding, are associated with anemia. Blood cancers like leukemia, lymphoma, and myeloma directly interfere with red blood cell production in the bone marrow. Additionally, cancers that cause bleeding, such as gastrointestinal cancers (colon, stomach), can lead to anemia due to blood loss.",
+          "snippet_highlighted_words": [
+            "leukemia, lymphoma, and myeloma"
+          ],
+          "reference_indexes": [
+            0,
+            2,
+            3,
+            4,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Here's a more detailed breakdown:"
+        },
+        {
+          "type": "heading",
+          "snippet": "Cancers Directly Affecting Bone Marrow:",
+          "reference_indexes": [
+            3,
+            7
+          ]
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Leukemia:",
+              "snippet": "Leukemia cells multiply rapidly in the bone marrow, crowding out healthy red blood cell production.",
+              "reference_indexes": [
+                2,
+                6
+              ]
+            },
+            {
+              "title": "Lymphoma:",
+              "snippet": "Lymphoma cells can infiltrate the bone marrow, hindering red blood cell formation or even causing autoimmune destruction of red blood cells.",
+              "reference_indexes": [
+                2
+              ]
+            },
+            {
+              "title": "Multiple Myeloma:",
+              "snippet": "This cancer of plasma cells in the bone marrow also disrupts normal blood cell production.",
+              "reference_indexes": [
+                6,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Cancers Associated with Bleeding:",
+          "reference_indexes": [
+            3,
+            11
+          ]
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Gastrointestinal Cancers (Colon, Stomach, Rectal):",
+              "snippet": "Tumors in these areas can cause chronic blood loss, leading to iron deficiency anemia.",
+              "reference_indexes": [
+                3,
+                5,
+                7
+              ]
+            },
+            {
+              "title": "Gynecological Cancers (Uterine, Cervical):",
+              "snippet": "Similar to gastrointestinal cancers, these can also lead to anemia due to blood loss.",
+              "reference_indexes": [
+                7
+              ]
+            },
+            {
+              "title": "Prostate Cancer:",
+              "snippet": "Advanced prostate cancer can lead to anemia due to bone marrow involvement or blood loss.",
+              "reference_indexes": [
+                5,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Other Cancer-Related Factors:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Kidney Cancer:",
+              "snippet": "The kidneys produce a hormone that stimulates red blood cell production. Kidney damage from cancer can disrupt this process.",
+              "reference_indexes": [
+                1,
+                3
+              ]
+            },
+            {
+              "title": "Cancer Treatments (Chemotherapy and Radiation):",
+              "snippet": "These treatments can damage bone marrow and reduce red blood cell production.",
+              "reference_indexes": [
+                0,
+                3,
+                4,
+                7
+              ]
+            },
+            {
+              "title": "Nutritional Deficiencies:",
+              "snippet": "Some cancers and their treatments can affect appetite and nutrient absorption, leading to deficiencies that contribute to anemia.",
+              "reference_indexes": [
+                7,
+                8,
+                9,
+                12
+              ]
+            },
+            {
+              "title": "Inflammation:",
+              "snippet": "Cancer-related inflammation can also suppress bone marrow function and red blood cell production.",
+              "reference_indexes": [
+                7,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxcPbQ00Me3FIAujBTKAwNqsK5zPKj41mpo5ib4MApCCKc6RMdZYMbaNhB&s",
+      "references": [
+        {
+          "title": "What Type of Cancer Causes Low Hemoglobin (Anemia)?",
+          "link": "https://www.verywellhealth.com/anemia-and-cancer-797397#:~:text=Cancer%20can%20be%20a%20cause,1",
+          "snippet": "Apr 2, 2025 — Cancer can be a cause of low hemoglobin (anemia), and is often seen with cancer types that include leukemia, breast can...",
+          "source": "Verywell Health",
+          "index": 0
+        },
+        {
+          "title": "What Type of Cancer Causes Low Hemoglobin (Anemia)?",
+          "link": "https://www.verywellhealth.com/anemia-and-cancer-797397#:~:text=12%20The%20kidneys%20secrete%20a%20hormone%20called,can%20disrupt%20this%20process%20and%20cause%20anemia.",
+          "snippet": "Apr 2, 2025 — 12 The kidneys secrete a hormone called erythropoietin , which stimulates the production of red blood cells. Kidney can...",
+          "source": "Verywell Health",
+          "index": 1
+        },
+        {
+          "title": "What Types of Cancer Cause Low Hemoglobin? - Patient Power",
+          "link": "https://www.patientpower.info/navigating-cancer/what-cancer-types-cause-low-hemoglobin#:~:text=Leukemia%20and%20Low%20Hemoglobin,low%20hemoglobin%20before%20commencing%20chemotherapy.",
+          "snippet": "Nov 5, 2024 — Leukemia and Low Hemoglobin. Leukemia is a white blood cell cancer that begins in the bone marrow. In leukemia, white b...",
+          "source": "Patient Power",
+          "index": 2
+        },
+        {
+          "title": "What to Know About Cancer and Anemia - WebMD",
+          "link": "https://www.webmd.com/cancer/cancer-and-anemia#:~:text=lead%20to%20anemia.-,Cancers%20Linked%20to%20Anemia,So%20they%20destroy%20both.",
+          "snippet": "Jun 15, 2024 — Cancers Linked to Anemia. Leukemia and lymphoma are cancers that affect your bone marrow. That's where all your blood ...",
+          "source": "WebMD",
+          "index": 3
+        },
+        {
+          "title": "Managing Anemia When You Have Cancer",
+          "link": "https://www.cancer.org/cancer/managing-cancer/side-effects/low-blood-counts/anemia.html#:~:text=team%20if%20you-,What%20causes%20anemia?,)%2C%20aspirin%2C%20steroids%2C%20antibiotics",
+          "snippet": "Mar 7, 2025 — What causes anemia? Low red blood cell counts (anemia) can be caused by cancer, cancer treatments, or something other t...",
+          "source": "American Cancer Society",
+          "index": 4
+        },
+        {
+          "title": "Anemia and Cancer: What Do You Need to Know? - Healthline",
+          "link": "https://www.healthline.com/health/cancer/anemia-cancer#:~:text=Iron%20deficiency%20anemia%20may%20be,production%20of%20red%20blood%20cells.",
+          "snippet": "Jun 22, 2022 — Iron deficiency anemia may be the first sign of colon cancer in some patients. Anemia and prostate cancer. Prostate ca...",
+          "source": "Healthline",
+          "index": 5
+        },
+        {
+          "title": "Cancers That Cause Low Hemoglobin - Anemia - Everyday Health",
+          "link": "https://www.everydayhealth.com/blood-disorders/what-kind-of-cancer-causes-low-hemoglobin/#:~:text=Blood%20cancers%20like%20leukemia%2C%20lymphoma,with%20red%20blood%20cell%20production.",
+          "snippet": "Blood cancers like leukemia, lymphoma, and myeloma are more likely to cause anemia by disrupting bone marrow and interfering with ...",
+          "source": "Everyday Health",
+          "index": 6
+        },
+        {
+          "title": "Anemia and cancer: Symptoms, causes, and complications",
+          "link": "https://www.medicalnewstoday.com/articles/anemia-and-cancer#:~:text=Causes%20of%20anemia%20from%20cancer,Kidney%20problems",
+          "snippet": "Sep 29, 2023 — Causes of anemia from cancer. People with cancer may experience anemia for several reasons, including those listed bel...",
+          "source": "Medical News Today",
+          "index": 7
+        },
+        {
+          "title": "What is the Relationship Between Anemia and Cancer?",
+          "link": "https://blog.dana-farber.org/insight/2018/09/relationship-anemia-cancer/#:~:text=Cancers%20that%20are%20prone%20to,the%20body's%20tissues%20and%20organs.",
+          "snippet": "Sep 17, 2018 — Cancers that are prone to cause bleeding, like colon and stomach cancer, are also potential causes of anemia due to bl...",
+          "source": "Dana-Farber Cancer Institute",
+          "index": 8
+        },
+        {
+          "title": "The Impact of Anemia on the Survival of Patients Diagnosed With Low-Grade Malignant B-cell Lymphomas",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11279071/#:~:text=Introduction%20Anemia%20is%20the%20most%20common%20characteristic,result%20of%20a%20combination%20of%20factors%20%5B",
+          "snippet": "Jul 26, 2024 — Introduction Anemia is the most common characteristic of B-lymphocyte lymphomas with a low grade of malignancy, encoun...",
+          "source": "National Institutes of Health (NIH) | (.gov)",
+          "index": 9
+        },
+        {
+          "title": "Adverse Effects of Androgen Deprivation Therapy for Prostate Cancer: Prevention and Management",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3747499/#:~:text=Men%20with%20advanced%20or%20metastatic%20prostate%20cancer,of%20the%20bone%20marrow%20from%20metastatic%20disease.",
+          "snippet": "Men with advanced or metastatic prostate cancer are prone to develop anemia due several causes. Anemia can be caused by either blo...",
+          "source": "National Institutes of Health (NIH) | (.gov)",
+          "index": 10
+        },
+        {
+          "title": "Colon Cancer Stages",
+          "link": "https://www.bswhealth.com/conditions/colon-cancer/stages",
+          "snippet": "What stage of colon cancer causes anemia? Anemia can be a sign of colon cancer in its earliest stages. It's common for tumors to c...",
+          "source": "Baylor Scott & White Health",
+          "index": 11
+        },
+        {
+          "title": "Dietary nutrient intake and cancer presence: evidence from a cross-sectional study",
+          "link": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1551822/full#:~:text=Additionally%2C%20malignancies%20like%20pancreatic%20or%20gastrointestinal%20cancers,observed%20in%20cancer%20patients%20(%20Table%202).",
+          "snippet": "Mar 31, 2025 — Additionally, malignancies like pancreatic or gastrointestinal cancers directly impair nutrient absorption through mec...",
+          "source": "Frontiers",
+          "index": 12
+        },
+        {
+          "title": "What are Multiple Myeloma Symptoms?",
+          "link": "https://healthtree.org/myeloma/community/articles/multiple-myeloma-symptoms#:~:text=A%20%2D%20Anemia:%20Anemia%20is%20a%20common,a%20reduced%20number%20of%20red%20blood%20cells.",
+          "snippet": "Nov 1, 2023 — A - Anemia: Anemia is a common finding in multiple myeloma. It results from the cancer's impact on the bone marrow, whe...",
+          "source": "HealthTree",
+          "index": 13
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJrdEpNWEpxVUhOYWMwcHBPVEpEWlVsNFJVdHVRMHByVFdoSVdXVTFVR2QzUmxaQlJYUkNaM2hmYkVNd09VYzNaR2RwWWtkZk9GUlFURzlwTUhVM2JFNTFNbmRwUlc5eWFUaDBla05VY0VVd1V6SnhNMWRHYzBwdlp4SVhVbTlUUW1GTWJTMVBObVp1ZDA0MFVHNWtUMFo1VVRnYUlrRkdUVUZIUjNCak9WQXpWVGxQTUZabWREa3paVWxLVmpGMGJFSkRkbVpvV1djIiwiZmN2IjoiMyIsImVpIjoiUm9TQmFMbS1PNmZud040UG5kT0Z5UTgiLCJxYyI6IkNoVmpZVzVqWlhJZ2NtVnNZWFJsWkNCaGJtVnRhV0VRQUJnQmZYSThOVDgiLCJxdWVzdGlvbiI6IldoYXQgY2FuY2VycyBhcmUgYXNzb2NpYXRlZCB3aXRoIGFuZW1pYT8iLCJsayI6IkdpZDNhR0YwSUdOaGJtTmxjbk1nWVhKbElHRnpjMjlqYVdGMFpXUWdkMmwwYUNCaGJtVnRhV0UiLCJicyI6ImMtT0s0TklJejBnc1VVaE96RXRPTFNwV1NDeEtWVWdzTHM1UHprd3NTVTFSS004c3lWQkl6RXZOelV5MGw1akpacVFwcFY1T25IS3VJaTVUNThROGhjcjhVb1djekRLZ01vV2NfTHgwSURzdEZhSXVzeWdfVHlFbE5TMHpPVE0xTDdrU2JzMFJaaU16S1pOa012Unl1WEhKZzMwRGNsWkpScXFDdVVKSlpVRnFzVUotR3R6MDcyRkdDbEp5NVhoVkNUQUNBQSIsImlkIjoiZmNfUm9TQmFMbS1PNmZud040UG5kT0Z5UThfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJrdEpNWEpxVUhOYWMwcHBPVEpEWlVsNFJVdHVRMHByVFdoSVdXVTFVR2QzUmxaQlJYUkNaM2hmYkVNd09VYzNaR2RwWWtkZk9GUlFURzlwTUhVM2JFNTFNbmRwUlc5eWFUaDBla05VY0VVd1V6SnhNMWRHYzBwdlp4SVhVbTlUUW1GTWJTMVBObVp1ZDA0MFVHNWtUMFo1VVRnYUlrRkdUVUZIUjNCak9WQXpWVGxQTUZabWREa3paVWxLVmpGMGJFSkRkbVpvV1djIiwiZmN2IjoiMyIsImVpIjoiUm9TQmFMbS1PNmZud040UG5kT0Z5UTgiLCJxYyI6IkNoVmpZVzVqWlhJZ2NtVnNZWFJsWkNCaGJtVnRhV0VRQUJnQmZYSThOVDgiLCJxdWVzdGlvbiI6IldoYXQgY2FuY2VycyBhcmUgYXNzb2NpYXRlZCB3aXRoIGFuZW1pYT8iLCJsayI6IkdpZDNhR0YwSUdOaGJtTmxjbk1nWVhKbElHRnpjMjlqYVdGMFpXUWdkMmwwYUNCaGJtVnRhV0UiLCJicyI6ImMtT0s0TklJejBnc1VVaE96RXRPTFNwV1NDeEtWVWdzTHM1UHprd3NTVTFSS004c3lWQkl6RXZOelV5MGw1akpacVFwcFY1T25IS3VJaTVUNThROGhjcjhVb1djekRLZ01vV2NfTHgwSURzdEZhSXVzeWdfVHlFbE5TMHpPVE0xTDdrU2JzMFJaaU16S1pOa012Unl1WEhKZzMwRGNsWkpScXFDdVVKSlpVRnFzVUotR3R6MDcyRkdDbEp5NVhoVkNUQUNBQSIsImlkIjoiZmNfUm9TQmFMbS1PNmZud040UG5kT0Z5UThfMSJ9"
+    },
+    {
+      "question": "Can you live a long life with iron deficiency anemia?",
+      "type": "featured_snippet",
+      "snippet": "A 2022 overview of research notes that the outlook for those with iron-deficiency anemia is excellent, provided a person receives treatment. The outlook is less favorable without treatment because long-term iron deficiency can lead to serious complications, such as lung or heart problems.",
+      "title": "Anemia: Is it dangerous and how to treat it - Medical News Today",
+      "link": "https://www.medicalnewstoday.com/articles/is-anemia-dangerous#:~:text=A%202022%20overview%20of%20research,as%20lung%20or%20heart%20problems.",
+      "displayed_link": "https://www.medicalnewstoday.com › articles › is-anemia...",
+      "source_logo": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/b72cb94e0a064115f1ceee7829cfcc59de6d8bff07ef79a689c9bdc78997c2b9.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJrdEpNWEpxVUhOYWMwcHBPVEpEWlVsNFJVdHVRMHByVFdoSVdXVTFVR2QzUmxaQlJYUkNaM2hmYkVNd09VYzNaR2RwWWtkZk9GUlFURzlwTUhVM2JFNTFNbmRwUlc5eWFUaDBla05VY0VVd1V6SnhNMWRHYzBwdlp4SVhVbTlUUW1GTWJTMVBObVp1ZDA0MFVHNWtUMFo1VVRnYUlrRkdUVUZIUjNCak9WQXpWVGxQTUZabWREa3paVWxLVmpGMGJFSkRkbVpvV1djIiwiZmN2IjoiMyIsImVpIjoiUm9TQmFMbS1PNmZud040UG5kT0Z5UTgiLCJxYyI6IkNoVmpZVzVqWlhJZ2NtVnNZWFJsWkNCaGJtVnRhV0VRQUJnQmZYSThOVDgiLCJxdWVzdGlvbiI6IkNhbiB5b3UgbGl2ZSBhIGxvbmcgbGlmZSB3aXRoIGlyb24gZGVmaWNpZW5jeSBhbmVtaWE/IiwibGsiOiJHalJqWVc0Z2VXOTFJR3hwZG1VZ1lTQnNiMjVuSUd4cFptVWdkMmwwYUNCcGNtOXVJR1JsWm1samFXVnVZM2tnWVc1bGJXbGgiLCJicyI6ImMtT0s0TklJejBnc1VVaE96RXRPTFNwV1NDeEtWVWdzTHM1UHprd3NTVTFSS004c3lWQkl6RXZOelV5MGw1akpacVFwcFY1T25IS3VJaTVUNThROGhjcjhVb1djekRLZ01vV2NfTHgwSURzdEZhSXVzeWdfVHlFbE5TMHpPVE0xTDdrU2JzMFJaaU16S1pOa012Unl1WEhKZzMwRGNsWkpScXFDdVVKSlpVRnFzVUotR3R6MDcyRkdDbEp5NVhoVkNUQUNBQSIsImlkIjoiZmNfUm9TQmFMbS1PNmZud040UG5kT0Z5UThfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJrdEpNWEpxVUhOYWMwcHBPVEpEWlVsNFJVdHVRMHByVFdoSVdXVTFVR2QzUmxaQlJYUkNaM2hmYkVNd09VYzNaR2RwWWtkZk9GUlFURzlwTUhVM2JFNTFNbmRwUlc5eWFUaDBla05VY0VVd1V6SnhNMWRHYzBwdlp4SVhVbTlUUW1GTWJTMVBObVp1ZDA0MFVHNWtUMFo1VVRnYUlrRkdUVUZIUjNCak9WQXpWVGxQTUZabWREa3paVWxLVmpGMGJFSkRkbVpvV1djIiwiZmN2IjoiMyIsImVpIjoiUm9TQmFMbS1PNmZud040UG5kT0Z5UTgiLCJxYyI6IkNoVmpZVzVqWlhJZ2NtVnNZWFJsWkNCaGJtVnRhV0VRQUJnQmZYSThOVDgiLCJxdWVzdGlvbiI6IkNhbiB5b3UgbGl2ZSBhIGxvbmcgbGlmZSB3aXRoIGlyb24gZGVmaWNpZW5jeSBhbmVtaWE%2FIiwibGsiOiJHalJqWVc0Z2VXOTFJR3hwZG1VZ1lTQnNiMjVuSUd4cFptVWdkMmwwYUNCcGNtOXVJR1JsWm1samFXVnVZM2tnWVc1bGJXbGgiLCJicyI6ImMtT0s0TklJejBnc1VVaE96RXRPTFNwV1NDeEtWVWdzTHM1UHprd3NTVTFSS004c3lWQkl6RXZOelV5MGw1akpacVFwcFY1T25IS3VJaTVUNThROGhjcjhVb1djekRLZ01vV2NfTHgwSURzdEZhSXVzeWdfVHlFbE5TMHpPVE0xTDdrU2JzMFJaaU16S1pOa012Unl1WEhKZzMwRGNsWkpScXFDdVVKSlpVRnFzVUotR3R6MDcyRkdDbEp5NVhoVkNUQUNBQSIsImlkIjoiZmNfUm9TQmFMbS1PNmZud040UG5kT0Z5UThfMSJ9"
+    },
+    {
+      "question": "What are the 7 types of anemia?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "While anemia is a condition with numerous causes and variations, it's often categorized into broad types. Here are seven common types: iron deficiency anemia, vitamin deficiency anemia (including B12 and folate deficiency), anemia of chronic disease, aplastic anemia, hemolytic anemia, sickle cell anemia, and thalassemia.",
+          "snippet_highlighted_words": [
+            "iron deficiency anemia, vitamin deficiency anemia (including B12 and folate deficiency), anemia of chronic disease, aplastic anemia, hemolytic anemia, sickle cell anemia, and thalassemia"
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Here's a bit more detail on each:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "1. Iron deficiency anemia:",
+              "snippet": "This is the most common type and results from insufficient iron, needed for hemoglobin production, often due to blood loss or poor diet."
+            },
+            {
+              "title": "2. Vitamin deficiency anemia:",
+              "snippet": "This includes deficiencies in vitamin B12 or folate (also known as folic acid), which are essential for healthy red blood cell production."
+            },
+            {
+              "title": "3. Anemia of chronic disease:",
+              "snippet": "This type of anemia is associated with chronic illnesses like kidney disease, cancer, or autoimmune disorders."
+            },
+            {
+              "title": "4. Aplastic anemia:",
+              "snippet": "In aplastic anemia, the bone marrow doesn't produce enough blood cells (including red blood cells) due to damage to stem cells."
+            },
+            {
+              "title": "5. Hemolytic anemia:",
+              "snippet": "This type occurs when red blood cells are destroyed faster than they can be replaced, either due to inherited conditions or acquired factors."
+            },
+            {
+              "title": "6. Sickle cell anemia:",
+              "snippet": "This is a genetic disorder where red blood cells are abnormally shaped (sickle-shaped) and can block blood flow, leading to various complications."
+            },
+            {
+              "title": "7. Thalassemia:",
+              "snippet": "This is another group of inherited blood disorders where the body produces abnormal forms of hemoglobin, affecting red blood cell production and function."
+            }
+          ]
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_hGUDThLlkRVEpk6snsxzxYL2dVoByaiNuhF_bEoByUKWhXp_31SOm_6aQ&s",
+      "references": [
+        {
+          "title": "Anemia - Symptoms and causes - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/diseases-conditions/anemia/symptoms-causes/syc-20351360",
+          "snippet": "May 11, 2023 — They include: * Iron deficiency anemia. Too little iron in the body causes this most common type of anemia. ... * Vit...",
+          "source": "Mayo Clinic",
+          "index": 0
+        },
+        {
+          "title": "Anemia: MedlinePlus Medical Encyclopedia",
+          "link": "https://medlineplus.gov/ency/article/000560.htm",
+          "snippet": "Mar 31, 2024",
+          "source": "MedlinePlus",
+          "index": 1
+        },
+        {
+          "title": "Anemia – Types, Symptoms, and Causes | Penn Medicine",
+          "link": "https://www.pennmedicine.org/conditions/anemia#:~:text=Iron%20deficiency%20anemia:%20This%20results,the%20development%20of%20megaloblastic%20anemia.",
+          "snippet": "Iron deficiency anemia: This results from insufficient iron for hemoglobin production, often due to poor diet or blood loss. Vitam...",
+          "source": "Penn Medicine",
+          "index": 2
+        },
+        {
+          "title": "Anemia: Symptoms, Causes & Treatment - Cleveland Clinic",
+          "link": "https://my.clevelandclinic.org/health/diseases/3929-anemia#:~:text=Other%20anemia%20types,during%20red%20blood%20cell%20development.",
+          "snippet": "Other anemia types Some types of anemia may be inherited but can also be acquired: Aplastic anemia: This anemia happens when stem ...",
+          "source": "Cleveland Clinic",
+          "index": 3
+        },
+        {
+          "title": "Anemia - Hematology.org",
+          "link": "https://www.hematology.org/education/patients/anemia#:~:text=There%20are%20different%20types%20of,body%20destroys%20red%20blood%20cells).",
+          "snippet": "There are different types of anemia, including iron-deficiency anemia (when you do not have enough iron), vitamin-deficiency anemi...",
+          "source": "American Society of Hematology",
+          "index": 4
+        },
+        {
+          "title": "The 7 types of anemia - Bioiatriki",
+          "link": "https://bioiatriki.com.cy/en/7-typoi-anaimias/#:~:text=Thalassemias%20are%20inherited%20blood%20disorders,)%2C%20Asian%20and%20African%20descent.",
+          "snippet": "Thalassemias are inherited blood disorders characterized by decreased production of healthy red blood cells and hemoglobin (iron-c...",
+          "source": "Bioiatriki",
+          "index": 5
+        },
+        {
+          "title": "Anemia Information | Mount Sinai - New York",
+          "link": "https://www.mountsinai.org/health-library/diseases-conditions/anemia#:~:text=Anemia%20is%20a%20condition%20in,Thalassemia",
+          "snippet": "Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissu...",
+          "source": "Mount Sinai",
+          "index": 6
+        },
+        {
+          "title": "Anemia of Chronic Disease: Symptoms, Treatment & Causes",
+          "link": "https://my.clevelandclinic.org/health/diseases/14477-anemia-of-chronic-disease#:~:text=What%20autoimmune%20diseases%20cause%20anemia%20of%20chronic,diseases%20may%20cause%20anemia%20of%20chronic%20disease:",
+          "snippet": "What autoimmune diseases cause anemia of chronic disease? The following autoimmune diseases may cause anemia of chronic disease:",
+          "source": "Cleveland Clinic",
+          "index": 7
+        },
+        {
+          "title": "Anemia: Signs, Symptoms, & Treatment",
+          "link": "https://khealth.com/learn/anemia/what-is/#:~:text=It%20(%20Sickle%20Cell%20Anemia%20)%20occurs,of%20red%20blood%20cells%20and%20therefore%2C%20anemia.",
+          "snippet": "Sep 5, 2019 — It ( Sickle Cell Anemia ) occurs when defective hemoglobin causes red blood cells to form in an abnormal shape. These m...",
+          "source": "K Health",
+          "index": 8
+        },
+        {
+          "title": "Anemia: Signs, Causes and Treatment Options",
+          "link": "https://www.bannerhealth.com/services/hematology/anemia#:~:text=Sickle%20cell%20anemia%20is%20a%20hereditary%20condition,to%20pain%20and%20other%20more%20serious%20complications.",
+          "snippet": "Sickle cell anemia is a hereditary condition associated with sickle cell disease, a disease that causes red blood cells to become ...",
+          "source": "Banner Health",
+          "index": 9
+        },
+        {
+          "title": "Principal Diagnosis when Patients Present with Anemia",
+          "link": "https://hiacode.com/blog/education/principal-diagnosis-when-patients-present-with-anemia#:~:text=%E2%80%94This%20type%20of%20anemia%20is%20associated%20with,kidney%20disease%20being%20the%20most%20common%20culprits.",
+          "snippet": "—This type of anemia is associated with many underlying chronic disorders including cancer, infections, autoimmune disease, inflam...",
+          "source": "Health Information Associates",
+          "index": 10
+        },
+        {
+          "title": "Anemia, Cancer, and Aging",
+          "link": "https://journals.sagepub.com/doi/pdf/10.1177/107327480301000606#:~:text=Methods:%20The%20clinical%20consequences%20and%20the%20management,iron%20deficiency%20and%20anemia%20of%20chronic%20disease.",
+          "snippet": "Methods: The clinical consequences and the management of anemia, a common comorbid condition in older patients with cancer, are ex...",
+          "source": "Sage Journals",
+          "index": 11
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJrdEpNWEpxVUhOYWMwcHBPVEpEWlVsNFJVdHVRMHByVFdoSVdXVTFVR2QzUmxaQlJYUkNaM2hmYkVNd09VYzNaR2RwWWtkZk9GUlFURzlwTUhVM2JFNTFNbmRwUlc5eWFUaDBla05VY0VVd1V6SnhNMWRHYzBwdlp4SVhVbTlUUW1GTWJTMVBObVp1ZDA0MFVHNWtUMFo1VVRnYUlrRkdUVUZIUjNCak9WQXpWVGxQTUZabWREa3paVWxLVmpGMGJFSkRkbVpvV1djIiwiZmN2IjoiMyIsImVpIjoiUm9TQmFMbS1PNmZud040UG5kT0Z5UTgiLCJxYyI6IkNoVmpZVzVqWlhJZ2NtVnNZWFJsWkNCaGJtVnRhV0VRQUJnQmZYSThOVDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA3IHR5cGVzIG9mIGFuZW1pYT8iLCJsayI6IkdoNTNhR0YwSUdGeVpTQjBhR1VnTnlCMGVYQmxjeUJ2WmlCaGJtVnRhV0UiLCJicyI6ImMtT0s0TklJejBnc1VVaE96RXRPTFNwV1NDeEtWVWdzTHM1UHprd3NTVTFSS004c3lWQkl6RXZOelV5MGw1akpacVFwcFY1T25IS3VJaTVUNThROGhjcjhVb1djekRLZ01vV2NfTHgwSURzdEZhSXVzeWdfVHlFbE5TMHpPVE0xTDdrU2JzMFJaaU16S1pOa012Unl1WEhKZzMwRGNsWkpScXFDdVVKSlpVRnFzVUotR3R6MDcyRkdDbEp5NVhoVkNUQUNBQSIsImlkIjoiZmNfUm9TQmFMbS1PNmZud040UG5kT0Z5UThfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJrdEpNWEpxVUhOYWMwcHBPVEpEWlVsNFJVdHVRMHByVFdoSVdXVTFVR2QzUmxaQlJYUkNaM2hmYkVNd09VYzNaR2RwWWtkZk9GUlFURzlwTUhVM2JFNTFNbmRwUlc5eWFUaDBla05VY0VVd1V6SnhNMWRHYzBwdlp4SVhVbTlUUW1GTWJTMVBObVp1ZDA0MFVHNWtUMFo1VVRnYUlrRkdUVUZIUjNCak9WQXpWVGxQTUZabWREa3paVWxLVmpGMGJFSkRkbVpvV1djIiwiZmN2IjoiMyIsImVpIjoiUm9TQmFMbS1PNmZud040UG5kT0Z5UTgiLCJxYyI6IkNoVmpZVzVqWlhJZ2NtVnNZWFJsWkNCaGJtVnRhV0VRQUJnQmZYSThOVDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA3IHR5cGVzIG9mIGFuZW1pYT8iLCJsayI6IkdoNTNhR0YwSUdGeVpTQjBhR1VnTnlCMGVYQmxjeUJ2WmlCaGJtVnRhV0UiLCJicyI6ImMtT0s0TklJejBnc1VVaE96RXRPTFNwV1NDeEtWVWdzTHM1UHprd3NTVTFSS004c3lWQkl6RXZOelV5MGw1akpacVFwcFY1T25IS3VJaTVUNThROGhjcjhVb1djekRLZ01vV2NfTHgwSURzdEZhSXVzeWdfVHlFbE5TMHpPVE0xTDdrU2JzMFJaaU16S1pOa012Unl1WEhKZzMwRGNsWkpScXFDdVVKSlpVRnFzVUotR3R6MDcyRkdDbEp5NVhoVkNUQUNBQSIsImlkIjoiZmNfUm9TQmFMbS1PNmZud040UG5kT0Z5UThfMSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Cancer-related anemia (CRA) is a common condition where cancer patients experience a low red blood cell count, often due to inflammation, cancer treatments, or the cancer itself. It can lead to fatigue, shortness of breath, and other symptoms, impacting a patient's quality of life and potentially affecting treatment outcomes.",
+        "snippet_highlighted_words": [
+          "a common condition where cancer patients experience a low red blood cell count, often due to inflammation, cancer treatments, or the cancer itself"
+        ],
+        "reference_indexes": [
+          0,
+          1,
+          4,
+          6,
+          9,
+          10,
+          13,
+          16
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Causes of Cancer-Related Anemia:",
+        "reference_indexes": [
+          4
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Cancer itself:",
+            "snippet": "Cancer cells can directly interfere with red blood cell production in the bone marrow.",
+            "reference_indexes": [
+              8
+            ]
+          },
+          {
+            "title": "Inflammation:",
+            "snippet": "Cancer can trigger an inflammatory response, which can suppress red blood cell production and shorten their lifespan.",
+            "reference_indexes": [
+              0,
+              2,
+              5
+            ]
+          },
+          {
+            "title": "Cancer treatments:",
+            "snippet": "Chemotherapy and radiation can damage bone marrow, leading to decreased red blood cell production.",
+            "reference_indexes": [
+              6,
+              8
+            ]
+          },
+          {
+            "title": "Blood loss:",
+            "snippet": "Some cancers can cause bleeding, leading to a loss of red blood cells.",
+            "reference_indexes": [
+              6,
+              8
+            ]
+          },
+          {
+            "title": "Nutritional deficiencies:",
+            "snippet": "In some cases, cancers can interfere with the body's ability to absorb or utilize iron, vitamin B12, or folate, which are essential for red blood cell production.",
+            "reference_indexes": [
+              6,
+              8
+            ]
+          },
+          {
+            "title": "Other factors:",
+            "snippet": "Kidney disease, a common comorbidity in cancer patients, can also contribute to anemia because the kidneys produce erythropoietin, a hormone that stimulates red blood cell production.",
+            "reference_indexes": [
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Symptoms of Cancer-Related Anemia:",
+        "reference_indexes": [
+          9,
+          10
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Fatigue"
+          },
+          {
+            "snippet": "Weakness"
+          },
+          {
+            "snippet": "Shortness of breath"
+          },
+          {
+            "snippet": "Dizziness"
+          },
+          {
+            "snippet": "Pale skin"
+          },
+          {
+            "snippet": "Headache"
+          },
+          {
+            "snippet": "Cold hands and feet"
+          },
+          {
+            "snippet": "Fast or irregular heartbeat"
+          },
+          {
+            "snippet": "Chest pain",
+            "reference_indexes": [
+              4,
+              7,
+              8,
+              9,
+              10,
+              11,
+              14,
+              19,
+              20,
+              21
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Treatment Options:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Iron supplementation:",
+            "snippet": "Oral or intravenous iron supplements can help replenish iron stores if a deficiency is present.",
+            "reference_indexes": [
+              1,
+              3
+            ]
+          },
+          {
+            "title": "Erythropoiesis-stimulating agents (ESAs):",
+            "snippet": "These medications stimulate the bone marrow to produce more red blood cells.",
+            "reference_indexes": [
+              1,
+              3,
+              15
+            ]
+          },
+          {
+            "title": "Blood transfusions:",
+            "snippet": "Red blood cell transfusions can provide a temporary boost in red blood cell count.",
+            "reference_indexes": [
+              1,
+              3,
+              17
+            ]
+          },
+          {
+            "title": "Addressing underlying causes:",
+            "snippet": "Treating the cancer and managing other conditions like kidney disease can also help alleviate anemia.",
+            "reference_indexes": [
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Impact of Anemia on Cancer Patients:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Reduced quality of life:",
+            "snippet": "Anemia can cause fatigue, weakness, and shortness of breath, impacting daily activities and overall well-being.",
+            "reference_indexes": [
+              4,
+              9
+            ]
+          },
+          {
+            "title": "Increased fatigue:",
+            "snippet": "Anemia is a major contributor to cancer-related fatigue, a common and debilitating symptom.",
+            "reference_indexes": [
+              9
+            ]
+          },
+          {
+            "title": "Potential impact on treatment:",
+            "snippet": "Anemia can affect a patient's ability to tolerate cancer treatments and may even influence treatment decisions.",
+            "reference_indexes": [
+              4,
+              9,
+              10
+            ]
+          },
+          {
+            "title": "Increased risk of complications:",
+            "snippet": "Anemia can increase the risk of infection, heart problems, and other complications.",
+            "reference_indexes": [
+              4,
+              10,
+              12,
+              18
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "Cancer Related Anemia: An Integrated Multitarget Approach and ...",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7912724/#:~:text=Cancer%2Drelated%20anemia%20(CRA)%20is%20a%20common%20comorbidity%20in,effects%20of%20cytokines%20in%20erythropoiesis.",
+        "snippet": "Cancer-related anemia (CRA) is a common comorbidity in cancer patients at diagnosis [1,2]. It does not appear to be a consequence ...",
+        "source": "PubMed Central",
+        "index": 0
+      },
+      {
+        "title": "How I treat cancer-associated anemia | Blood | American Society of Hematology",
+        "link": "https://ashpublications.org/blood/article/136/7/801/461032/How-I-treat-cancer-associated-anemia",
+        "snippet": "Aug 13, 2020",
+        "source": "American Society of Hematology",
+        "index": 1
+      },
+      {
+        "title": "Cancer-related anemia: pathogenesis, prevalence and ...",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/15855811/#:~:text=Abstract,status%2C%20and%20cancer%20treatment%20status.",
+        "snippet": "Abstract. Cancer-related anemia is a cytokine-mediated disorder resulting from complex interactions between tumor cells and the im...",
+        "source": "PubMed",
+        "index": 2
+      },
+      {
+        "title": "Diagnosis and treatment of cancer-related anemia - PubMed",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/24532336/#:~:text=Abstract,clinical%20guidelines%20do%20not%20apply.",
+        "snippet": "Abstract. Cancer-related anemia (CRA) is due to multiple etiologies, including chemotherapy-induced myelosuppression, blood loss,",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "index": 3
+      },
+      {
+        "title": "Causes of anemia in patients with cancer - UpToDate",
+        "link": "https://www.uptodate.com/contents/causes-of-anemia-in-patients-with-cancer#:~:text=AIHA)%20in%20adults-,Causes%20of%20anemia%20in%20patients%20with%20cancer,in%20patients%20with%20neoplastic%20disease.",
+        "snippet": "May 2, 2025 — Causes of anemia in patients with cancer. Anemia frequently complicates the course of cancer. While anemia may be a pre...",
+        "source": "Wolters Kluwer",
+        "index": 4
+      },
+      {
+        "title": "Pathogenesis and Treatment Options of Cancer Related Anemia - Frontiers",
+        "link": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.01294/full#:~:text=Cancer%2Drelated%20anemia%20(CRA),associated%20to%20chronic%20inflammatory%20disease.",
+        "snippet": "Sep 19, 2018 — Cancer-related anemia (CRA) is a common sign occurring in more than 30% of cancer patients at diagnosis before the ini...",
+        "source": "Frontiers",
+        "index": 5
+      },
+      {
+        "title": "Managing Anemia When You Have Cancer",
+        "link": "https://www.cancer.org/cancer/managing-cancer/side-effects/low-blood-counts/anemia.html#:~:text=team%20if%20you-,What%20causes%20anemia?,)%2C%20aspirin%2C%20steroids%2C%20antibiotics",
+        "snippet": "Mar 7, 2025 — What causes anemia? Low red blood cell counts (anemia) can be caused by cancer, cancer treatments, or something other t...",
+        "source": "American Cancer Society",
+        "index": 6
+      },
+      {
+        "title": "Managing Anemia When You Have Cancer",
+        "link": "https://www.cancer.org/cancer/managing-cancer/side-effects/low-blood-counts/anemia.html#:~:text=Anemia%20symptoms%20that%20could%20occur%20during%20cancer,Pale%20skin%2C%20nail%20beds%2C%20mouth%2C%20or%20gums",
+        "snippet": "Mar 7, 2025 — Anemia symptoms that could occur during cancer Extreme tiredness ( fatigue) Fast heartbeat Chest pain Shortness of brea...",
+        "source": "American Cancer Society",
+        "index": 7
+      },
+      {
+        "title": "Anemia and Cancer - MD Anderson Cancer Center",
+        "link": "https://www.mdanderson.org/patients-family/diagnosis-treatment/emotional-physical-effects/anemia-cancer.html#:~:text=What%20causes%20anemia%20in%20cancer,blood%20cells%20due%20to%20bleeding.",
+        "snippet": "What causes anemia in cancer patients? Anemia is a common condition of cancer patients. This is because cancers cause inflammation...",
+        "source": "MD Anderson Cancer Center",
+        "index": 8
+      },
+      {
+        "title": "Cancer-related anemia - PubMed",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/14758372/#:~:text=Abstract,objectively%20using%20standard%20assessments%20scales.",
+        "snippet": "Abstract. Anemia is the most common hematological abnormality in cancer patients, unfortunately, it is often under-recognized and ...",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "index": 9
+      },
+      {
+        "title": "Anemia in cancer - Annals of Oncology",
+        "link": "https://www.annalsofoncology.org/article/S0923-7534(19)39691-7/pdf#:~:text=Anemia%20is%20a%20frequent%20finding,patient)%20anemia%20%5B5%5D.",
+        "snippet": "Anemia is a frequent finding in cancer patients, occurring in >40% of cases [1]. In patients treated with chemotherapy, the incide...",
+        "source": "Annals of Oncology",
+        "index": 10
+      },
+      {
+        "title": "Cancer-Related Fatigue | OncoLink",
+        "link": "https://www.oncolink.org/support/side-effects/other-side-effects/fatigue-and-cancer/cancer-related-fatigue",
+        "snippet": "Jul 1, 2024 — Some symptoms are shortness of breath or trouble breathing with exertion (physical effort) and fatigue. Most cancer tre...",
+        "source": "Oncolink",
+        "index": 11
+      },
+      {
+        "title": "Characterization of pre-operative anemia in patients undergoing surgery by a gynecologic oncologist and association with post-operative complications",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1048891X24017766#:~:text=In%20a%20logistic%20regression%20model%20controlling%20for,higher%20odds%20of%20infectious%20and%20thromboembolic%20complications.",
+        "snippet": "In a logistic regression model controlling for relevant demographic, cancer-related, and surgical characteristics, anemia was asso...",
+        "source": "ScienceDirect.com",
+        "index": 12
+      },
+      {
+        "title": "Blood Counts and Blood Clots | Side Effects of Cancer",
+        "link": "https://www.cancer.org/cancer/managing-cancer/side-effects/low-blood-counts.html#:~:text=Anemia%20in%20People%20with%20Cancer%20Having%20too,look%20for%20and%20how%20to%20manage%20it.",
+        "snippet": "Anemia in People with Cancer Having too few red blood cells is called anemia. It can cause you too feel very tired or short of bre...",
+        "source": "American Cancer Society",
+        "index": 13
+      },
+      {
+        "title": "The Most Surprising Symptoms of Lung Cancer",
+        "link": "https://www.adventhealth.com/hospital/adventhealth-orlando/blog/most-surprising-symptoms-lung-cancer",
+        "snippet": "Nov 24, 2020 — Racing Heart Cancer-related anemia can also cause your heart to beat differently. You may have a very fast or irregula...",
+        "source": "AdventHealth",
+        "index": 14
+      },
+      {
+        "title": "What Type Of Cancer Causes Low Hemoglobin?",
+        "link": "https://healthmatch.io/anemia/what-type-of-cancer-causes-low-hemoglobin#:~:text=Erythropoiesis%2Dstimulating%20agents%20(ESAs).%20These%20are%20a%20class,for%20the%20bone%20marrow%2Ddamaging%20impact%20of%20chemotherapy.",
+        "snippet": "Feb 8, 2023 — Erythropoiesis-stimulating agents (ESAs). These are a class of medications that tell your bone marrow to increase its p...",
+        "source": "HealthMatch",
+        "index": 15
+      },
+      {
+        "title": "The ICaRAS randomised controlled trial: Intravenous iron to treat anaemia in people with advanced cancer – feasibility of recruitment, intervention and delivery",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10021128/#:~:text=Anaemia%20affects%20over%2070%25%20of%20people%20with,should%20focus%20on%20alleviating%20these%20debilitating%20symptoms.",
+        "snippet": "Anaemia affects over 70% of people with advanced cancer. Symptoms include fatigue, breathlessness and reduced physical activity, w...",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "index": 16
+      },
+      {
+        "title": "Anemia: breast cancer side effects | LBBC",
+        "link": "https://www.lbbc.org/about-breast-cancer/side-effects/anemia#:~:text=A%20blood%20transfusion%20will%20put%20red%20blood,more%20blood%20cells%20or%20get%20more%20transfusions.",
+        "snippet": "Jan 20, 2017 — A blood transfusion will put red blood cells into your system quickly where medicines may take weeks before having an ...",
+        "source": "LBBC",
+        "index": 17
+      },
+      {
+        "title": "Impact of the degree of anemia on the outcome of patients with myelodysplastic syndrome and its integration into the WHO classification-based Prognostic Scoring System (WPSS)",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3186303/#:~:text=In%20fact%2C%20patients%20developing%20severe%20anemia%20have,might%20compromise%20their%20eligibility%20for%20allogeneic%20transplantation.",
+        "snippet": "In fact, patients developing severe anemia have a significantly higher risk of also developing cardiac disease, the occurrence of ...",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "index": 18
+      },
+      {
+        "title": "Anemia: Types, Causes, Symptoms, Treatment",
+        "link": "https://www.healthline.com/health/anemia#:~:text=What%20are%20the%20types%20of%20anemia%2C%20and,a%20heartbeat%20that's%20very%20quick%20or%20irregular",
+        "snippet": "What are the types of anemia, and what symptoms do they cause? fatigue weakness lightheadedness or dizziness, especially when acti...",
+        "source": "Healthline",
+        "index": 19
+      },
+      {
+        "title": "Blood Cancer : Stages and Types of Blood Cancer",
+        "link": "https://www.hcgoncology.com/types-of-cancers/blood-cancer/",
+        "snippet": "9. Shortness of Breath The most frequent symptom of blood cancer, such as leukemia and lymphoma, is shortness of breath. It result...",
+        "source": "HCG Oncology",
+        "index": 20
+      },
+      {
+        "title": "A Visionary Approach to Anemia Detection: Integrating Eye Condition Data and Machine Learning",
+        "link": "https://www.atlantis-press.com/article/126002077.pdf#:~:text=Fatigue%2C%20weakness%2C%20pale%20complexion%2C%20shortness%20of%20breath%2C,and%20immune%20system%20dysfunction%2C%20among%20other%20concerns.",
+        "snippet": "Fatigue, weakness, pale complexion, shortness of breath, cold hands, dizziness, headaches, and cold feet are typical indications a...",
+        "source": "Atlantis Press",
+        "index": 21
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Anemia and Cancer",
+      "link": "https://www.mdanderson.org/patients-family/diagnosis-treatment/emotional-physical-effects/anemia-cancer.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mdanderson.org/patients-family/diagnosis-treatment/emotional-physical-effects/anemia-cancer.html&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECBwQAQ",
+      "displayed_link": "https://www.mdanderson.org › emotional-physical-effects",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc41114ade2948fe27f2791f728e8f51fd4.png",
+      "snippet": "Anemia is a common condition of cancer patients. This is because cancers cause inflammation that decrease red blood cell production.",
+      "snippet_highlighted_words": [
+        "Anemia is a common condition of cancer patients"
+      ],
+      "source": "MD Anderson Cancer Center"
+    },
+    {
+      "position": 2,
+      "title": "Cancer Related Anemia: An Integrated Multitarget ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7912724/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC7912724/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECB4QAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC7912724",
+      "author": "by V Natalucci",
+      "snippet": "Cancer-related anemia (CRA) is characterized by a decreased circulating serum iron concentration and transferrin saturation despite ample iron stores, pointing ...",
+      "snippet_highlighted_words": [
+        "is characterized by a decreased circulating serum iron concentration and transferrin saturation"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "Is Anemia a Sign of Cancer?",
+      "link": "https://www.cancer.org/cancer/diagnosis-staging/signs-and-symptoms-of-cancer/anemia.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cancer.org/cancer/diagnosis-staging/signs-and-symptoms-of-cancer/anemia.html&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCNQCEAE",
+      "displayed_link": "https://www.cancer.org › signs-and-symptoms-of-cancer",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4610ed87ba1b57b9aee282a73baa0870e.png",
+      "date": "Feb 26, 2025",
+      "snippet": "Anemia can be a symptom of cancer. Certain cancers affect the bone marrow, where blood cells are made. This can affect cause low blood counts ...",
+      "snippet_highlighted_words": [
+        "Anemia can be a symptom of cancer"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What is anemia?",
+            "link": "https://www.cancer.org/cancer/diagnosis-staging/signs-and-symptoms-of-cancer/anemia.html#what-is-anemia?"
+          },
+          {
+            "title": "Is anemia a symptom of cancer?",
+            "link": "https://www.cancer.org/cancer/diagnosis-staging/signs-and-symptoms-of-cancer/anemia.html#is-anemia-a-symptom-of-cancer?"
+          }
+        ]
+      },
+      "source": "American Cancer Society"
+    },
+    {
+      "position": 4,
+      "title": "How I treat cancer-associated anemia | Blood",
+      "link": "https://ashpublications.org/blood/article/136/7/801/461032/How-I-treat-cancer-associated-anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ashpublications.org/blood/article/136/7/801/461032/How-I-treat-cancer-associated-anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLkCEAE",
+      "displayed_link": "https://ashpublications.org › blood › article › How-I-tre...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4dbf02fc045511727179bfbff441aeabd.png",
+      "author": "by JA Gilreath",
+      "snippet": "Cancer-associated anemia is caused by 1 or more of 3 primary mechanisms: (1) ineffective erythropoiesis,4,27 (2) hemolysis, or (3) blood loss.28 ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "anemia"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How do we define cancer...",
+            "link": "https://ashpublications.org/blood/article/136/7/801/461032/How-I-treat-cancer-associated-anemia#9788984"
+          },
+          {
+            "title": "Diagnosis of cancer...",
+            "link": "https://ashpublications.org/blood/article/136/7/801/461032/How-I-treat-cancer-associated-anemia#9788990"
+          },
+          {
+            "title": "Goals of therapy for cancer...",
+            "link": "https://ashpublications.org/blood/article/136/7/801/461032/How-I-treat-cancer-associated-anemia#9788993"
+          }
+        ]
+      },
+      "source": "ashpublications.org"
+    },
+    {
+      "position": 5,
+      "title": "Causes of anemia in patients with cancer - UpToDate",
+      "link": "https://www.uptodate.com/contents/causes-of-anemia-in-patients-with-cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uptodate.com/contents/causes-of-anemia-in-patients-with-cancer&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECFwQAQ",
+      "displayed_link": "https://www.uptodate.com › contents › causes-of-anemia...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4370c91dfe6b811f9ad1121086dc10f51.png",
+      "author": "by RE Drews",
+      "snippet": "Bone marrow suppression from chemotherapy or radiation therapy · Nutritional deficiencies after surgery for a GI tract malignancy · - Iron ...",
+      "snippet_highlighted_words": [
+        "Bone marrow suppression from chemotherapy or radiation therapy"
+      ],
+      "source": "Wolters Kluwer"
+    },
+    {
+      "position": 6,
+      "title": "Cancer-related anemia: pathogenesis, prevalence and ...",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/15855811/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pubmed.ncbi.nlm.nih.gov/15855811/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCMYBEAE",
+      "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc41abed80b9aa37623d4957c12a1170029.png",
+      "author": "by G Birgegård",
+      "snippet": "Cancer-related anemia is a cytokine-mediated disorder resulting from complex interactions between tumor cells and the immune system.",
+      "snippet_highlighted_words": [
+        "a cytokine-mediated disorder"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "What to Know About Cancer and Anemia",
+      "link": "https://www.webmd.com/cancer/cancer-and-anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/cancer/cancer-and-anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLgCEAE",
+      "displayed_link": "https://www.webmd.com › cancer › cancer-and-anemia",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4ba27fa99a3d4ccb43b1af968ceffa2fd.png",
+      "date": "Jun 15, 2024",
+      "snippet": "Anemia is a common side effect of cancers like leukemia and colon cancer. Learn more about cancer-related anemia, including its causes, symptoms ...",
+      "snippet_highlighted_words": [
+        "Learn more about cancer-related anemia"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 8,
+      "title": "What Type of Cancer Causes Low Hemoglobin (Anemia)?",
+      "link": "https://www.verywellhealth.com/anemia-and-cancer-797397",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.verywellhealth.com/anemia-and-cancer-797397&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCNICEAE",
+      "displayed_link": "https://www.verywellhealth.com › ... › Symptoms",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4645e56f236c09ed597d5195c018d08fe.png",
+      "date": "Apr 2, 2025",
+      "snippet": "Cancer can be a cause of low hemoglobin (anemia), and is often seen with cancer types that include leukemia, breast cancer, colon cancer, and prostate cancer.",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "anemia",
+        "cancer",
+        "cancer",
+        "cancer",
+        "cancer"
+      ],
+      "source": "Verywell Health"
+    },
+    {
+      "position": 9,
+      "title": "Anemia in cancer",
+      "link": "https://www.annalsofoncology.org/article/S0923-7534(19)39691-7/pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.annalsofoncology.org/article/S0923-7534(19)39691-7/pdf&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECFsQAQ",
+      "displayed_link": "https://www.annalsofoncology.org › article › pdf",
+      "author": "by M Dicato",
+      "snippet": "The European. Cancer Anaemia Survey showed that anemia increased from. 19.5% in the first cycle of chemotherapy to 46.7% after the fifth cycle [14]. Other risk ...",
+      "snippet_highlighted_words": [
+        "Cancer Anaemia",
+        "anemia"
+      ],
+      "source": "Annals of Oncology"
+    },
+    {
+      "position": 10,
+      "title": "Pathogenesis and Treatment Options of Cancer Related ...",
+      "link": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.01294/full",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.01294/full&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCJ4BEAE",
+      "displayed_link": "https://www.frontiersin.org › fphys.2018.01294 › full",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4e0588fe38b2f9329d4f3488de143faa9.png",
+      "author": "by C Madeddu",
+      "snippet": "Cancer-related anemia (CRA) is a common sign occurring in more than 30% of cancer patients at diagnosis before the initiation of ...",
+      "snippet_highlighted_words": [
+        "is a common sign occurring in more than 30% of cancer patients"
+      ],
+      "source": "Frontiers"
+    },
+    {
+      "position": 11,
+      "title": "What Types of Cancer Cause Low Hemoglobin?",
+      "link": "https://www.patientpower.info/navigating-cancer/what-cancer-types-cause-low-hemoglobin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.patientpower.info/navigating-cancer/what-cancer-types-cause-low-hemoglobin&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCMUBEAE",
+      "displayed_link": "https://www.patientpower.info › navigating-cancer › w...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc448ad3d70576e99a1ccf4ceb8116ee33f.png",
+      "date": "Nov 5, 2024",
+      "snippet": "Any cancer can cause low hemoglobin levels, but some notable associations include blood cancers like leukemia, lymphoma, and myeloma.",
+      "snippet_highlighted_words": [
+        "and"
+      ],
+      "source": "Patient Power"
+    },
+    {
+      "position": 12,
+      "title": "Managing Anemia When You Have Cancer",
+      "link": "https://www.cancer.org/cancer/managing-cancer/side-effects/low-blood-counts/anemia.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cancer.org/cancer/managing-cancer/side-effects/low-blood-counts/anemia.html&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCPUBEAE",
+      "displayed_link": "https://www.cancer.org › side-effects › low-blood-counts",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4978bb2e11341abb5228cb333f05b4bb4.png",
+      "date": "Mar 7, 2025",
+      "snippet": "Low red blood cell counts (anemia) can be caused by cancer, cancer treatments, or something other than cancer.",
+      "snippet_highlighted_words": [
+        "Low red blood cell counts (anemia"
+      ],
+      "source": "American Cancer Society"
+    },
+    {
+      "position": 13,
+      "title": "Anemia in cancer patients",
+      "link": "https://journals.viamedica.pl/acta_haematologica_polonica/article/download/AHP.2021.0074/63956",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://journals.viamedica.pl/acta_haematologica_polonica/article/download/AHP.2021.0074/63956&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCJ4CEAE",
+      "displayed_link": "https://journals.viamedica.pl › AHP.2021.0074",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc49836fb04486e6322fd1bc6d0d779b4dc.png",
+      "author": "by L Bolkun",
+      "snippet": "Anemia is a common feature in c.40% of patients at the time of cancer diagnosis and in more than half of patients un- dergoing anticancer ...",
+      "snippet_highlighted_words": [
+        "Anemia is a common feature in c.40% of patients at the time of cancer diagnosis"
+      ],
+      "source": "Via Medica Journals"
+    },
+    {
+      "position": 14,
+      "title": "Anemia and Cancer: How They're Related",
+      "link": "https://health.clevelandclinic.org/anemia-and-cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://health.clevelandclinic.org/anemia-and-cancer&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLYCEAE",
+      "displayed_link": "https://health.clevelandclinic.org › anemia-and-cancer",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc439b1d7dbe7caa285ab89589ce5a1ec59.png",
+      "date": "Mar 6, 2025",
+      "snippet": "Anemia and cancer are closely related. Cancer-related treatment, inflammation and chronic bleeding can all increase your risk for anemia.",
+      "snippet_highlighted_words": [
+        "Anemia and cancer are closely related"
+      ],
+      "source": "Cleveland Clinic Health Essentials"
+    },
+    {
+      "position": 15,
+      "title": "The role of inflammation, iron, and nutritional status in ...",
+      "link": "https://haematologica.org/article/view/7241",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://haematologica.org/article/view/7241&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCNACEAE",
+      "displayed_link": "https://haematologica.org › article › view",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc412f4eea51ae9ad6196fdc97f8ef65244.png",
+      "author": "by A Macciò",
+      "snippet": "Cancer-related anemia is a multifactorial problem with immune, nutritional and metabolic components that affect its severity.",
+      "snippet_highlighted_words": [
+        "Cancer-related anemia"
+      ],
+      "source": "Haematologica"
+    },
+    {
+      "position": 16,
+      "title": "Anemia: Be Aware of This Cancer-Related Risk",
+      "link": "https://www.foxchase.org/blog/anemia-be-aware-cancer-related-risk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foxchase.org/blog/anemia-be-aware-cancer-related-risk&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCOkCEAE",
+      "displayed_link": "https://www.foxchase.org › blog › anemia-be-aware-can...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc479e9001d5b47f3c5745c770ebc6f6dfe.png",
+      "date": "Feb 21, 2019",
+      "snippet": "Cancer itself can cause bleeding that leads to anemia. Cancer treatments can also bring on anemia. “Most chemotherapy can contribute to it,” ...",
+      "snippet_highlighted_words": [
+        "Cancer itself can cause bleeding that leads to anemia"
+      ],
+      "source": "Fox Chase Cancer Center"
+    },
+    {
+      "position": 17,
+      "title": "Anemia and Cancer Treatment - Side Effects",
+      "link": "https://www.cancer.gov/about-cancer/treatment/side-effects/anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cancer.gov/about-cancer/treatment/side-effects/anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECF0QAQ",
+      "displayed_link": "https://www.cancer.gov › about-cancer › anemia",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4008f0682178c71d60de48ef6ca9de572.png",
+      "date": "Sep 23, 2021",
+      "snippet": "Anemia is a side effect of cancer treatments, including chemotherapy and radiation therapy. It can make women and men feel fatigued, dizzy, ...",
+      "snippet_highlighted_words": [
+        "Anemia is a side effect of cancer treatments"
+      ],
+      "source": "National Cancer Institute (.gov)"
+    },
+    {
+      "position": 18,
+      "title": "Recent update in the pathogenesis and treatment of ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1040842819302239",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S1040842819302239&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECHUQAQ",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4a6c9820c371d5c8dcd66f3c452707094.png",
+      "author": "by H Abdel-Razeq",
+      "snippet": "Anemia, caused by the tumor or its therapy, can lead to reduced oxygen carrying capacity of the blood, further contributing to tumor hypoxia (Vaupel et al., ...",
+      "snippet_highlighted_words": [
+        "can lead to reduced oxygen carrying capacity of the blood"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 19,
+      "title": "Cancer Related Anemia in the Developing World: Risk Factors ...",
+      "link": "https://ashpublications.org/blood/article/118/21/4747/130447/Cancer-Related-Anemia-in-the-Developing-World-Risk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ashpublications.org/blood/article/118/21/4747/130447/Cancer-Related-Anemia-in-the-Developing-World-Risk&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCJ0BEAE",
+      "displayed_link": "https://ashpublications.org › blood › article › Cancer-Re...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc407240e72655064046b8618384df60473.png",
+      "author": "by GK John",
+      "snippet": "Cancer related anemia (CRA) is an important problem in limited resource settings due to highly prevalent rates of anemia and malnutrition in ...",
+      "snippet_highlighted_words": [
+        "Cancer related anemia"
+      ],
+      "source": "ashpublications.org"
+    },
+    {
+      "position": 20,
+      "title": "Prevalence and management of cancer-related anaemia ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0923753419381232",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S0923753419381232&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCKABEAE",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc46b2d8c749c8a213492fd6df94c102456.png",
+      "author": "by M Aapro",
+      "snippet": "Reported prevalence of ID in cancer patients ranges from 32 to 60% and most iron-deficient patients are also anaemic.",
+      "snippet_highlighted_words": [
+        "cancer"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 21,
+      "title": "Diagnosis and treatment of cancer‐related anemia",
+      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/ajh.23628",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://onlinelibrary.wiley.com/doi/full/10.1002/ajh.23628&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCNIBEAE",
+      "displayed_link": "https://onlinelibrary.wiley.com › doi › full › ajh",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc494df3dca2cd9487cb104aaf18a8e0828.png",
+      "author": "by JA Gilreath",
+      "snippet": "Cancer-related anemia (CRA) is due to multiple etiologies, including chemotherapy-induced myelosuppression, blood loss, functional iron ...",
+      "snippet_highlighted_words": [
+        "due to multiple etiologies"
+      ],
+      "source": "Wiley Online Library"
+    },
+    {
+      "position": 22,
+      "title": "Anemia in Cancer Patients",
+      "link": "https://www.uspharmacist.com/article/anemia-in-cancer-patients",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uspharmacist.com/article/anemia-in-cancer-patients&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCOEBEAE",
+      "displayed_link": "https://www.uspharmacist.com › article › anemia-in-canc...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4d6ace71694d1bb9a6778e7dfe3f5a9f1.png",
+      "date": "Nov 15, 2013",
+      "snippet": "Anemia is a common complication in patients with cancer. It can be caused by either the tumor itself or the chemotherapeutic regimen used.",
+      "snippet_highlighted_words": [
+        "Anemia is a common complication in patients with cancer"
+      ],
+      "source": "U.S. Pharmacist"
+    },
+    {
+      "position": 23,
+      "title": "Anemia and Cancer: What Do You Need to Know?",
+      "link": "https://www.healthline.com/health/cancer/anemia-cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/health/cancer/anemia-cancer&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCPYBEAE",
+      "displayed_link": "https://www.healthline.com › health › anemia-cancer",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4db71e63917874bad5450066df94806d6.png",
+      "date": "Jun 22, 2022",
+      "snippet": "Anemia and cancer often occur together. Anemia can be a cancer symptom or side effect of treatment. Here's what to know about the link.",
+      "snippet_highlighted_words": [
+        "Anemia and cancer often occur together"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 24,
+      "title": "Workup of Anemia in Cancer - Hematology & Oncology",
+      "link": "https://www.hematologyandoncology.net/archives/october-2020/workup-of-anemia-in-cancer/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hematologyandoncology.net/archives/october-2020/workup-of-anemia-in-cancer/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCJECEAE",
+      "displayed_link": "https://www.hematologyandoncology.net › october-2020",
+      "author": "by S Anand",
+      "snippet": "Anemia is usually multifactorial in patients with cancer; possible contributing factors include bleeding, nutritional deficiencies, hemolysis, reduced ...",
+      "snippet_highlighted_words": [
+        "Anemia is usually multifactorial in patients with cancer"
+      ],
+      "source": "hematologyandoncology.net"
+    },
+    {
+      "position": 25,
+      "title": "Cancer-Related Anemia: Care Instructions - MyHealth Alberta",
+      "link": "https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=ut2161",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx%3Fhwid%3Dut2161&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLICEAE",
+      "displayed_link": "https://myhealth.alberta.ca › Health › pages › conditions",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4749f7d43d1f1a139adca712d0bd42528.png",
+      "snippet": "Anemia is a low level of red blood cells. Red blood cells carry oxygen from your lungs to the rest of your body. Cancer or cancer treatment can cause anemia.",
+      "snippet_highlighted_words": [
+        "Cancer or cancer treatment can cause anemia"
+      ],
+      "source": "MyHealth Alberta"
+    },
+    {
+      "position": 26,
+      "title": "Cancers That Cause Low Hemoglobin - Anemia",
+      "link": "https://www.everydayhealth.com/blood-disorders/what-kind-of-cancer-causes-low-hemoglobin/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.everydayhealth.com/blood-disorders/what-kind-of-cancer-causes-low-hemoglobin/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCKUCEAE",
+      "displayed_link": "https://www.everydayhealth.com › ... › Anemia",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc42ca3af9c04c88c69b99b46b34e5ceb24.png",
+      "snippet": "Anemia is a common symptom for many people with cancer, and it's sometimes the first sign of cancer or progressive disease in a patient's cancer journey, says ...",
+      "snippet_highlighted_words": [
+        "Anemia is a common symptom for many people with cancer"
+      ],
+      "source": "Everyday Health"
+    },
+    {
+      "position": 27,
+      "title": "Anaemia and Iron Deficiency in Patients with Cancer | ESMO",
+      "link": "https://www.esmo.org/guidelines/esmo-clinical-practice-guideline-anaemia-and-iron-deficiency-in-patients-with-cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.esmo.org/guidelines/esmo-clinical-practice-guideline-anaemia-and-iron-deficiency-in-patients-with-cancer&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLQCEAE",
+      "displayed_link": "https://www.esmo.org › guidelines › esmo-clinical-practi...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc42614d67af09cc951a105f278f09de71c.png",
+      "snippet": "Anaemia and iron deficiency are frequent complications in patients with solid tumours or haematological malignancies, particularly in patients treated with ...",
+      "snippet_highlighted_words": [
+        "frequent complications in patients with solid tumours or haematological malignancies"
+      ],
+      "source": "European Society For Medical Oncology | ESMO"
+    },
+    {
+      "position": 28,
+      "title": "Anemia and cancer: Symptoms, causes, and complications",
+      "link": "https://www.medicalnewstoday.com/articles/anemia-and-cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicalnewstoday.com/articles/anemia-and-cancer&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLUCEAE",
+      "displayed_link": "https://www.medicalnewstoday.com › articles › anemia-...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4a7d527abdc01a1f36e4990c377db296f.png",
+      "date": "Sep 29, 2023",
+      "snippet": "People with cancer may develop anemia due to cancer treatment, blood loss, or decreased red blood cell production.",
+      "snippet_highlighted_words": [
+        "cancer",
+        "anemia",
+        "cancer"
+      ],
+      "source": "Medical News Today"
+    },
+    {
+      "position": 29,
+      "title": "Anemia in Patients Who Have Cancer",
+      "link": "https://hillman.upmc.com/patients/community-support/education/miscellaneous/anemia-in-patients",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hillman.upmc.com/patients/community-support/education/miscellaneous/anemia-in-patients&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCMwCEAE",
+      "displayed_link": "https://hillman.upmc.com › education › miscellaneous",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc440211ba45386d4f57e22da890fe9f6ed.png",
+      "snippet": "Anemia is a result of chemotherapy or radiation therapy. These treatments for cancer can slow down the body's natural ability to make red blood cells.",
+      "snippet_highlighted_words": [
+        "Anemia is a result of chemotherapy or radiation therapy"
+      ],
+      "source": "UPMC Hillman Cancer Center"
+    },
+    {
+      "position": 30,
+      "title": "Cancer-Related Anemia: Clinical Review and ...",
+      "link": "https://www.ons.org/publications-research/cjon/11/3/cancer-related-anemia-clinical-review-and-management-update",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ons.org/publications-research/cjon/11/3/cancer-related-anemia-clinical-review-and-management-update&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCNwCEAE",
+      "displayed_link": "https://www.ons.org › publications-research › cjon › ca...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc45cb0f04220895c2d59ee0e6d17138c4d.png",
+      "snippet": "Anemia may be present in more than half of all patients with cancer but often is assessed, documented, prevented, and treated inadequately.",
+      "snippet_highlighted_words": [
+        "Anemia may be present in more than half of all patients with cancer"
+      ],
+      "source": "Oncology Nursing Society"
+    },
+    {
+      "position": 31,
+      "title": "The Link Between Anemia and Cancer",
+      "link": "https://massivebio.com/the-link-between-anemia-and-cancer/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://massivebio.com/the-link-between-anemia-and-cancer/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCOsCEAE",
+      "displayed_link": "https://massivebio.com › the-link-between-anemia-and-c...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4ecb8b5dd5658429fc434eb0b7ae8df01.png",
+      "snippet": "Anemia can be a symptom of many types of cancer, including cancers of the blood, as well as those affecting the digestive system, such as colon and stomach ...",
+      "snippet_highlighted_words": [
+        "Anemia can be a symptom of many types of cancer"
+      ],
+      "source": "Massive Bio"
+    },
+    {
+      "position": 32,
+      "title": "Determinants of anemia among patients receiving cancer ...",
+      "link": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1415877/full",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1415877/full&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCO0CEAE",
+      "displayed_link": "https://www.frontiersin.org › fmed.2024.1415877 › full",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc41a69b4abc180ca27167f8115c74fad95.png",
+      "author": "by SA Wondm",
+      "snippet": "Chemotherapy-induced anemia was significantly associated with older age, hematologic malignancy, obesity, a greater number of chemotherapy cycles, and cancer ...",
+      "snippet_highlighted_words": [
+        "Chemotherapy-induced anemia"
+      ],
+      "source": "Frontiers"
+    },
+    {
+      "position": 33,
+      "title": "Cancer Side Effect Management: Anemia",
+      "link": "https://aocancer.com/cancer-treatment-tips/cancer-related-anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aocancer.com/cancer-treatment-tips/cancer-related-anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECHMQAQ",
+      "displayed_link": "https://aocancer.com › Cancer Treatment Tips",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc41131d344be494352e9d8226bf68f5eed.png",
+      "snippet": "Cancer-related anemia is common for patients receiving chemotherapy. Here are signs of anemia to look for and ways to boost your red blood cell count.",
+      "snippet_highlighted_words": [
+        "Cancer-related anemia is common for patients receiving chemotherapy"
+      ],
+      "source": "Affiliated Oncologists"
+    },
+    {
+      "position": 34,
+      "title": "Link Between Anemia and Cancer",
+      "link": "https://www.sierrahemonc.com/blog/understanding-the-relationship-between-anemia-and-cancer/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sierrahemonc.com/blog/understanding-the-relationship-between-anemia-and-cancer/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECH8QAQ",
+      "displayed_link": "https://www.sierrahemonc.com › blog › understanding-...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4f62712d8ac22885d2270951020a85742.png",
+      "snippet": "Anemia can significantly impact cancer patients, exacerbating fatigue and increasing the risk of treatment-related complications. Reduced oxygen levels due ...",
+      "snippet_highlighted_words": [
+        "Anemia can significantly impact cancer patients"
+      ],
+      "source": "Sierra Hematology & Oncology"
+    },
+    {
+      "position": 35,
+      "title": "Hemoglobin and Cancer: What's the Connection?",
+      "link": "https://blog.dana-farber.org/insight/2022/05/hemoglobin-and-cancer-how-are-they-linked/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.dana-farber.org/insight/2022/05/hemoglobin-and-cancer-how-are-they-linked/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCIkBEAE",
+      "displayed_link": "https://blog.dana-farber.org › Home › Recent Articles",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc494c26eac1a477804be5a8d8e21c7d67f.png",
+      "date": "May 23, 2022",
+      "snippet": "While low hemoglobin levels are more often linked with cancer, some cancers can actually raise hemoglobin counts.",
+      "snippet_highlighted_words": [
+        "low hemoglobin levels are more often linked with cancer"
+      ],
+      "source": "Dana-Farber Cancer Institute"
+    },
+    {
+      "position": 36,
+      "title": "Cancer-Related Anemia",
+      "link": "https://www.commonspirit.org/conditions-treatments/cancer-related-anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.commonspirit.org/conditions-treatments/cancer-related-anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCIoBEAE",
+      "displayed_link": "https://www.commonspirit.org › conditions-treatments",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc46a1cc982171775bd8a06c187e63f2928.png",
+      "snippet": "Anemia is a low level of red blood cells. Red blood cells carry oxygen from your lungs to the rest of your body. Cancer or cancer treatment can cause anemia ...",
+      "snippet_highlighted_words": [
+        "Cancer or cancer treatment can cause anemia"
+      ],
+      "source": "CommonSpirit Health"
+    },
+    {
+      "position": 37,
+      "title": "Anemia: Low Red Blood Cells from Cancer",
+      "link": "https://www.cancercenter.com/integrative-care/anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cancercenter.com/integrative-care/anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCJYBEAE",
+      "displayed_link": "https://www.cancercenter.com › integrative-care › anemia",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4b5084fb3496dd55b7d6122e275871a5a.png",
+      "date": "Mar 2, 2022",
+      "snippet": "Anemia is the name for a low level of red blood cells, and it's a common side effect of cancer and cancer treatments.",
+      "snippet_highlighted_words": [
+        "it's a common side effect of cancer"
+      ],
+      "source": "cancercenter.com"
+    },
+    {
+      "position": 38,
+      "title": "Anemia in cancer patients: addressing a neglected issue",
+      "link": "https://journals.viamedica.pl/nowotwory_journal_of_oncology/article/view/96928/74536",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://journals.viamedica.pl/nowotwory_journal_of_oncology/article/view/96928/74536&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCKEBEAE",
+      "displayed_link": "https://journals.viamedica.pl › article › view",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4a4285dbb0f8d4f39449a7a16fabfeb65.png",
+      "author": "by K Tałasiewicz",
+      "snippet": "Cancer-related anemia (CRA) continues to be a critical concern despite advancements in oncology treatments. The prevalence of anemia varies from 30% to 90%.",
+      "snippet_highlighted_words": [
+        "Cancer-related anemia (CRA"
+      ],
+      "source": "Via Medica Journals"
+    },
+    {
+      "position": 39,
+      "title": "Effects of Cancer-Related Anemia on Clinical and Quality- ...",
+      "link": "https://www.ons.org/publications-research/cjon/6/4/effects-cancer-related-anemia-clinical-and-quality-life-outcomes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ons.org/publications-research/cjon/6/4/effects-cancer-related-anemia-clinical-and-quality-life-outcomes&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCKUBEAE",
+      "displayed_link": "https://www.ons.org › publications-research › cjon › eff...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4e7ccabafd30a1a55d254ba4025e1c125.png",
+      "snippet": "Cancer-related anemia, which may affect more than half of all patients with cancer, often is assessed and treated inadequately.",
+      "snippet_highlighted_words": [
+        "may affect more than half of all patients with cancer"
+      ],
+      "source": "Oncology Nursing Society"
+    },
+    {
+      "position": 40,
+      "title": "Experimental drugs for chemotherapy-related anemia in ...",
+      "link": "https://www.dovepress.com/experimental-drugs-for-chemotherapy--and-cancer-related-anemia-peer-reviewed-fulltext-article-JEP",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dovepress.com/experimental-drugs-for-chemotherapy--and-cancer-related-anemia-peer-reviewed-fulltext-article-JEP&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLoBEAE",
+      "displayed_link": "https://www.dovepress.com › experimental-drugs-for-ch...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4e3755dfbf9d4e7a9e7a6febd40740dfc.png",
+      "author": "by C Madeddu",
+      "snippet": "In this review article, we show standard, innovative, and experimental treatment used as remedy for anemia in cancer patients.",
+      "snippet_highlighted_words": [
+        "anemia",
+        "cancer"
+      ],
+      "source": "Dove Medical Press"
+    },
+    {
+      "position": 41,
+      "title": "Chemotherapy-induced Anemia: Symptoms, Treatment & ...",
+      "link": "https://www.healthline.com/health/cancer/chemotherapy-induced-anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/health/cancer/chemotherapy-induced-anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCNEBEAE",
+      "displayed_link": "https://www.healthline.com › health › cancer › chemoth...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4392855a13fbb4165059c80fcbf495f43.png",
+      "date": "Mar 17, 2022",
+      "snippet": "Along with cancer cells, these drugs can damage healthy cells. A low red blood cell count caused by these medications is called chemotherapy- ...",
+      "snippet_highlighted_words": [
+        "cancer"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 42,
+      "title": "Cancer Side Effects: Tips for Managing Anemia | PearlPoint",
+      "link": "https://llsnutrition.org/anemia-during-cancer-treatment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://llsnutrition.org/anemia-during-cancer-treatment/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCNABEAE",
+      "displayed_link": "https://llsnutrition.org › anemia-during-cancer-treatment",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4e63e32a3226571a5c4b3af0e5dfc969e.png",
+      "snippet": "Anemia During Cancer Treatment · Choose iron rich foods to incorporate into meals and snacks. · Eat iron-containing foods with foods containing vitamin C. · Avoid ...",
+      "snippet_highlighted_words": [
+        "Anemia",
+        "Cancer"
+      ],
+      "source": "llsnutrition.org"
+    },
+    {
+      "position": 43,
+      "title": "The Risks of Cancer-Related Anemia",
+      "link": "https://www.webmd.com/women/features/risks-of-cancer-related-anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/women/features/risks-of-cancer-related-anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCOUBEAE",
+      "displayed_link": "https://www.webmd.com › women › features › risks-of-...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4bd06c4314277ead25eef44d0dffc7152.png",
+      "snippet": "Anemia can result from the cancer itself and from treatment. It's a one-two punch. Cancer in general can cause malfunctioning of your bone marrow.",
+      "snippet_highlighted_words": [
+        "Anemia",
+        "cancer",
+        "Cancer"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 44,
+      "title": "Anemia During Cancer | OSF HealthCare - Health Library",
+      "link": "https://healthlibrary.osfhealthcare.org/RelatedItems/3,41377",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://healthlibrary.osfhealthcare.org/RelatedItems/3,41377&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCOYBEAE",
+      "displayed_link": "https://healthlibrary.osfhealthcare.org › RelatedItems",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4f8001bafb7f77dc4b00e47c7b81023a1.png",
+      "snippet": "Cancer and cancer treatments often cause anemia. Read on to learn more ... Related Services. Specialties. Hematology/Oncology · Oncology. Services. Cancer ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "cancer",
+        "anemia",
+        "Related",
+        "Cancer"
+      ],
+      "source": "OSF HealthCare"
+    },
+    {
+      "position": 45,
+      "title": "Chemotherapy-Induced Anemia in Adults: Incidence and ...",
+      "link": "https://academic.oup.com/jnci/article/91/19/1616/2543851",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://academic.oup.com/jnci/article/91/19/1616/2543851&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCPgBEAE",
+      "displayed_link": "https://academic.oup.com › jnci › article",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc424ff476b59bf3a10bc939a68819e3aca.png",
+      "author": "by JE Groopman",
+      "snippet": "Recent advances in assessing the relationships of anemia, fatigue, and QOL in cancer patients are providing new insights into these closely related factors.",
+      "snippet_highlighted_words": [
+        "anemia",
+        "cancer",
+        "related"
+      ],
+      "source": "Oxford Academic"
+    },
+    {
+      "position": 46,
+      "title": "Most Cancer Patients Don't Receive Recommended ...",
+      "link": "https://www.medscape.com/viewarticle/most-cancer-patients-dont-receive-recommended-anemia-care-2024a1000bxh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medscape.com/viewarticle/most-cancer-patients-dont-receive-recommended-anemia-care-2024a1000bxh&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCIUCEAE",
+      "displayed_link": "https://www.medscape.com › ... › Features",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc44e5e2d211416774b5845600d65039b58.png",
+      "date": "Jun 26, 2024",
+      "snippet": "Anemia occurs frequently in patients with cancer, with estimates reaching as high as 90% in those with solid tumors.",
+      "snippet_highlighted_words": [
+        "Anemia",
+        "cancer"
+      ],
+      "source": "Medscape"
+    },
+    {
+      "position": 47,
+      "title": "Pathogenetic mechanisms of cancer-related anemia and ...",
+      "link": "https://www.researchgate.net/figure/Pathogenetic-mechanisms-of-cancer-related-anemia-and-main-related-targeted-approaches_fig1_352701914",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.researchgate.net/figure/Pathogenetic-mechanisms-of-cancer-related-anemia-and-main-related-targeted-approaches_fig1_352701914&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCI8CEAE",
+      "displayed_link": "https://www.researchgate.net › figure › Pathogenetic-m...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc430529ef809e50e3d3e1865c479f958f1.png",
+      "snippet": "Pathogenetic mechanisms of cancer-related anemia and main related targeted approaches. The pathogenesis of. Pathogenetic mechanisms of ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "related anemia"
+      ],
+      "source": "ResearchGate"
+    },
+    {
+      "position": 48,
+      "title": "Anemia and Iron Deficiency in Cancer Patients",
+      "link": "https://www.mdpi.com/1424-8247/11/4/94",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mdpi.com/1424-8247/11/4/94&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCJkCEAE",
+      "displayed_link": "https://www.mdpi.com › ...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc49e7b5c62dead95a305c2d9bd7c343f7c.png",
+      "author": "by F Busti",
+      "snippet": "Anemia in cancer patients is quite common, with remarkable negative impacts on quality of life and overall prognosis. The pathogenesis is ...",
+      "snippet_highlighted_words": [
+        "Anemia",
+        "cancer"
+      ],
+      "source": "MDPI"
+    },
+    {
+      "position": 49,
+      "title": "Understanding Cancer-Related Anemia",
+      "link": "https://www.numberanalytics.com/blog/understanding-cancer-related-anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.numberanalytics.com/blog/understanding-cancer-related-anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCKYCEAE",
+      "displayed_link": "https://www.numberanalytics.com › blog › understandi...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4ebf11d20d6d7f2be8c4af04737d135b3.png",
+      "date": "Jun 24, 2025",
+      "snippet": "Cancer-related anemia is a common complication in cancer patients, affecting their quality of life and potentially impacting the outcome of their cancer ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "related anemia",
+        "cancer",
+        "cancer"
+      ],
+      "source": "Number Analytics"
+    },
+    {
+      "position": 50,
+      "title": "Clinical practice guidelines on cancer-related anemia (2012 ...",
+      "link": "https://cco.amegroups.org/article/view/1346/html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cco.amegroups.org/article/view/1346/html&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCKQCEAE",
+      "displayed_link": "https://cco.amegroups.org › article › view › html",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc47bde81b14f353f1f63bd3156db52aab4.png",
+      "snippet": "Iron deficiency and cachexia of end-stage cancer patients are the two common causes of tumor-associated microcytic anemia. Microcytic anemia is characterized by ...",
+      "snippet_highlighted_words": [
+        "Iron deficiency",
+        "cancer",
+        "anemia",
+        "anemia"
+      ],
+      "source": "Chinese Clinical Oncology"
+    },
+    {
+      "position": 51,
+      "title": "Chemotherapy-induced anemia: Causes, symptoms ...",
+      "link": "https://www.medicalnewstoday.com/articles/chemotherapy-induced-anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicalnewstoday.com/articles/chemotherapy-induced-anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLACEAE",
+      "displayed_link": "https://www.medicalnewstoday.com › articles › chemot...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc473a5e5bce971eed80471ae9db77df6e3.png",
+      "date": "Aug 30, 2023",
+      "snippet": "Symptoms can include fatigue, dizziness, and increased heart rate. Chemotherapy is a type of drug treatment for many types of cancer. The aim of ...",
+      "snippet_highlighted_words": [
+        "cancer"
+      ],
+      "source": "Medical News Today"
+    },
+    {
+      "position": 52,
+      "title": "Anaemia | Cancer Institute NSW",
+      "link": "https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/treatment/side-effects/anaemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/treatment/side-effects/anaemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECFoQAQ",
+      "displayed_link": "https://www.cancer.nsw.gov.au › treatment › side-effects",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4ef20fdc77ee965e68ff406ede692573c.png",
+      "snippet": "Low levels of red blood cells (anaemia) can be caused by cancers or cancer treatments.",
+      "snippet_highlighted_words": [
+        "anaemia",
+        "cancers",
+        "cancer"
+      ],
+      "source": "NSW Cancer Institute"
+    },
+    {
+      "position": 53,
+      "title": "Full article: Experimental Drugs for Chemotherapy",
+      "link": "https://www.tandfonline.com/doi/full/10.2147/JEP.S262349",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tandfonline.com/doi/full/10.2147/JEP.S262349&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLMCEAE",
+      "displayed_link": "https://www.tandfonline.com › ... › Volume 13, Issue",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc493e40cc91e1d50d8b38a5f0a87d85019.png",
+      "author": "by C Madeddu",
+      "snippet": "The incidence of anemia in patients with cancer depends on the tumor type and stage. Obviously, the incidence is particularly high in ...",
+      "snippet_highlighted_words": [
+        "anemia",
+        "cancer"
+      ],
+      "source": "Taylor & Francis Online: Peer-reviewed Journals"
+    },
+    {
+      "position": 54,
+      "title": "Cancer-Related Anemia: Pathogenesis, Prevalence and ...",
+      "link": "https://karger.com/ocl/article-pdf/68/Suppl.%201/3/3282051/000083128.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://karger.com/ocl/article-pdf/68/Suppl.%25201/3/3282051/000083128.pdf&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCNECEAE",
+      "displayed_link": "https://karger.com › ocl › article-pdf",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc42cb15610499b4c79ba0158c5d8b2928f.png",
+      "author": "by G Birgegårda",
+      "snippet": "Abstract. Cancer-related anemia is a cytokine-mediated disorder resulting from complex interactions between tumor cells and the immune system.",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "related anemia"
+      ],
+      "source": "Karger Publishers"
+    },
+    {
+      "position": 55,
+      "title": "and Chemotherapy-Induced Anemia - Guidelines Detail",
+      "link": "https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1422",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nccn.org/guidelines/guidelines-detail%3Fcategory%3D1%26id%3D1422&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCM8CEAE",
+      "displayed_link": "https://www.nccn.org › guidelines › guidelines-detail",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4739bbef9084efc81cc8021148c70db41.png",
+      "snippet": "Cancer- and Chemotherapy-Induced Anemia · Guidelines · NCCN Guidelines in Practice™ · Disclosures.",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "Anemia"
+      ],
+      "source": "NCCN"
+    },
+    {
+      "position": 56,
+      "title": "Anemia During Cancer",
+      "link": "https://www.saintlukeskc.org/health-library/anemia-during-cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.saintlukeskc.org/health-library/anemia-during-cancer&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCM0CEAE",
+      "displayed_link": "https://www.saintlukeskc.org › health-library › anemia-d...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc46019f8d340f99202eaee670b26fa9aea.png",
+      "snippet": "Cancer reduces iron use in the body. This is due to the inflammation that cancer causes. Some types of cancer that cause blood loss. This includes lung ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "cancer",
+        "cancer"
+      ],
+      "source": "Saint Luke's Health System Kansas City"
+    },
+    {
+      "position": 57,
+      "title": "Prevalence and contributing factors of anemia in patients ...",
+      "link": "https://www.nature.com/articles/s41598-024-61015-4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nature.com/articles/s41598-024-61015-4&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCM4CEAE",
+      "displayed_link": "https://www.nature.com › scientific reports › articles",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc48f184761277cd5827dd5ad2fec85e7bb.png",
+      "author": "by K Ning",
+      "snippet": "Furthermore, anemia has been associated with poorer prognosis and decreased survival rates in various cancer types. In gynecological cancers, ...",
+      "snippet_highlighted_words": [
+        "anemia",
+        "cancer",
+        "cancers"
+      ],
+      "source": "Nature"
+    },
+    {
+      "position": 58,
+      "title": "Erithropoiesis stimulating agents in the treatment of ...",
+      "link": "https://amj.amegroups.org/article/view/8547/html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://amj.amegroups.org/article/view/8547/html&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCOgCEAE",
+      "displayed_link": "https://amj.amegroups.org › article › view › html",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc44b8135a4ffcd6a80bdda3614cf0c9a3b.png",
+      "author": "by A Tartarone",
+      "snippet": "The cause of anemia in cancer patients is multifactorial, with factors such as the malignancy itself, blood loss, cancer treatment, nutritional deficiencies, ...",
+      "snippet_highlighted_words": [
+        "anemia",
+        "cancer",
+        "cancer"
+      ],
+      "source": "AME Medical Journal"
+    },
+    {
+      "position": 59,
+      "title": "Anemia During Cancer - Health Library",
+      "link": "https://healthlibrary.wjmc.org/library/diseasesconditions/adult/Surgical/3,41377",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://healthlibrary.wjmc.org/library/diseasesconditions/adult/Surgical/3,41377&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCO8CEAE",
+      "displayed_link": "https://healthlibrary.wjmc.org › library › adult › Surgical",
+      "snippet": "... anemia. Anemia can occur during cancer and its treatment for many reasons ... Related Items. Patient Education. Anemia · Anemia and Kidney Disease · View All 33 ...",
+      "snippet_highlighted_words": [
+        "anemia",
+        "Anemia",
+        "cancer",
+        "Related",
+        "Anemia",
+        "Anemia"
+      ],
+      "source": "LCMC Health"
+    },
+    {
+      "position": 60,
+      "title": "Cancer Related Anaemia: Current Knowledge and ...",
+      "link": "https://www.youtube.com/watch?v=N7-ZsDON9qc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DN7-ZsDON9qc&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCO4CEAE",
+      "displayed_link": "80+ views · 2 years ago",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4a5b27fe20b45e86fb696f2ba728a11a7.png",
+      "snippet": "You are watching the Webinar on Cancer Related Anaemia: Current Knowledge and Approaches to Improve Patient Related Outcomes, organized by ...",
+      "snippet_highlighted_words": [
+        "Cancer Related Anaemia"
+      ],
+      "source": "YouTube · IFERP Life Sciences"
+    },
+    {
+      "position": 61,
+      "title": "Understanding Anemia in Cancer Treatment",
+      "link": "https://www.numberanalytics.com/blog/understanding-anemia-in-cancer-treatment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.numberanalytics.com/blog/understanding-anemia-in-cancer-treatment&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCOoCEAE",
+      "displayed_link": "https://www.numberanalytics.com › blog › understandi...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc49fd9f65f2c1d712a79c0c798d2805fa9.png",
+      "date": "Jun 14, 2025",
+      "snippet": "Cancer is a chronic disease that can lead to chronic inflammation, which can suppress erythropoiesis (the production of red blood cells). This ...",
+      "snippet_highlighted_words": [
+        "Cancer"
+      ],
+      "source": "Number Analytics"
+    },
+    {
+      "position": 62,
+      "title": "Iron replacement therapy in cancer-related anemia",
+      "link": "https://academic.oup.com/ajhp/article/68/10_Supplement_1/S4/5129723",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://academic.oup.com/ajhp/article/68/10_Supplement_1/S4/5129723&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCOwCEAE",
+      "displayed_link": "https://academic.oup.com › article › 10_Supplement_1",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc43129ec28ad3052f8686baeaa8ef4d2f6.png",
+      "author": "by D Baribeault",
+      "snippet": "Author Notes. American Journal of Health-System Pharmacy, Volume 68, Issue 10_Supplement_1, 15 May 2011, Pages S4–S14, https://doi.org/10.2146/ajhp110039.",
+      "source": "Oxford Academic"
+    },
+    {
+      "position": 63,
+      "title": "RELATED FATIGUE AND ANEMIA",
+      "link": "http://www.bccancer.bc.ca/nursing-site/Documents/Symptom%20Management%20Guidelines/5FatigueandAnemia.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.bccancer.bc.ca/nursing-site/Documents/Symptom%2520Management%2520Guidelines/5FatigueandAnemia.pdf&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCPACEAE",
+      "displayed_link": "http://www.bccancer.bc.ca › Documents › 5Fatigu...",
+      "snippet": "Appendix A: Cancer and Treatment-related Anemia below. Patient Education. • Reinforce that Cancer Related Fatigue is: - Normal, often treatable, and needs to ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "related Anemia",
+        "Cancer Related"
+      ],
+      "source": "BC Cancer"
+    },
+    {
+      "position": 64,
+      "title": "Infusing Renewed Hope into Cancer-related Anemia with ...",
+      "link": "https://www.youtube.com/watch?v=jUKF-WWY5XA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DjUKF-WWY5XA&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECHYQAQ",
+      "displayed_link": "20+ views · 11 months ago",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc405864d184e8aaec4d1b3883d7b5daff0.png",
+      "snippet": "This Medical Moments webinar will review all clinically relevant aspects of cancer-related anemia (CRA) management, including chemotherapy ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "related anemia"
+      ],
+      "source": "YouTube · CE Concepts"
+    },
+    {
+      "position": 65,
+      "title": "Aplastic anemia - Symptoms & causes",
+      "link": "https://www.mayoclinic.org/diseases-conditions/aplastic-anemia/symptoms-causes/syc-20355015",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mayoclinic.org/diseases-conditions/aplastic-anemia/symptoms-causes/syc-20355015&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECHQQAQ",
+      "displayed_link": "https://www.mayoclinic.org › syc-20355015",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc48d9a74cf70c310ef8519b43ff6eb57eb.png",
+      "snippet": "Causes · Radiation and chemotherapy treatments. While these cancer-fighting therapies kill cancer cells, they can also damage healthy cells, including stem cells ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "cancer"
+      ],
+      "source": "Mayo Clinic"
+    },
+    {
+      "position": 66,
+      "title": "Blood cancer symptoms and signs",
+      "link": "https://bloodcancer.org.uk/understanding-blood-cancer/about-blood-cancer/blood-cancer-signs-symptoms/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bloodcancer.org.uk/understanding-blood-cancer/about-blood-cancer/blood-cancer-signs-symptoms/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCIABEAE",
+      "displayed_link": "https://bloodcancer.org.uk › understanding-blood-cancer",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc491677625add0d9ff3fa05b6d63895d84.png",
+      "snippet": "If you don't have enough red blood cells, you can become anaemic. Anaemia can cause tiredness that doesn't go away with rest or sleep, breathlessness even when ...",
+      "snippet_highlighted_words": [
+        "Anaemia"
+      ],
+      "source": "Blood Cancer UK"
+    },
+    {
+      "position": 67,
+      "title": "Overcoming Cancer-Related Anemia with Intravenous Iron",
+      "link": "https://www.youtube.com/watch?v=RPpSl76fJ78",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DRPpSl76fJ78&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCIEBEAE",
+      "displayed_link": "210+ views · 3 years ago",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4e96686826963a0b7427823b7be8818a0.png",
+      "snippet": "Hear from Dr. George M. Rodgers, Dr. Michael Auerbach, Dr. Thomas G. DeLoughery, Dr. Patricia A. Ford & Dr. John A. Glaspy.",
+      "source": "YouTube · CE Concepts"
+    },
+    {
+      "position": 68,
+      "title": "Polycythemia vera - Symptoms & causes",
+      "link": "https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/symptoms-causes/syc-20355850",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/symptoms-causes/syc-20355850&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCIgBEAE",
+      "displayed_link": "https://www.mayoclinic.org › syc-20355850",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4546562d16777d723f179d17d516d045c.png",
+      "snippet": "Polycythemia vera (pol-e-sy-THEE-me-uh VEER-uh) is a type of blood cancer. It causes the bone marrow to make too many red blood cells.",
+      "snippet_highlighted_words": [
+        "cancer"
+      ],
+      "source": "Mayo Clinic"
+    },
+    {
+      "position": 69,
+      "title": "Is Anemia of Cancer Different From Chemotherapy ...",
+      "link": "https://ascopubs.org/doi/10.1200/JCO.2007.15.3874",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ascopubs.org/doi/10.1200/JCO.2007.15.3874&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCIwBEAE",
+      "displayed_link": "https://ascopubs.org › doi › JCO.2007.15.3874",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4b39d64abcf9f4c461b054c179f34b264.png",
+      "author": "by DP Steensma",
+      "snippet": "Anemia has myriad causes. In patients with cancer, the chief culprits are direct myelotoxicity from antineoplastic drugs and cytokine-mediated inhibition of ...",
+      "snippet_highlighted_words": [
+        "Anemia",
+        "cancer"
+      ],
+      "source": "ASCO Publications"
+    },
+    {
+      "position": 70,
+      "title": "Bristol Myers' drug fails main goal in cancer-related anemia ...",
+      "link": "https://www.pharmalive.com/bristol-myers-drug-fails-main-goal-in-cancer-related-anemia-trial/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pharmalive.com/bristol-myers-drug-fails-main-goal-in-cancer-related-anemia-trial/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCI0BEAE",
+      "displayed_link": "https://www.pharmalive.com › bristol-myers-drug-fails-...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4f32ae15819986e17adca5fc021e4cf84.png",
+      "date": "5 days ago",
+      "snippet": "BMS said today its blockbuster drug Reblozyl in combination with another therapy failed to meet the main goal of a late-stage trial to treat ...",
+      "source": "PharmaLive"
+    },
+    {
+      "position": 71,
+      "title": "Myelodysplastic syndrome",
+      "link": "https://en.wikipedia.org/wiki/Myelodysplastic_syndrome",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Myelodysplastic_syndrome&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCIsBEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Myelodysplastic_syndr...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4fbfd896701ff56e099eba05a4e71f518.png",
+      "snippet": "A myelodysplastic syndrome (MDS) is one of a group of cancers in which blood cells in the bone marrow do not mature, and as a result, do not develop into ...",
+      "snippet_highlighted_words": [
+        "cancers"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 72,
+      "title": "Bristol Myers drug fails main goal in cancer-linked anemia ...",
+      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/bristol-myers-drug-fails-main-goal-cancer-linked-anemia-trial-2025-07-18/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reuters.com/business/healthcare-pharmaceuticals/bristol-myers-drug-fails-main-goal-cancer-linked-anemia-trial-2025-07-18/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLABEAE",
+      "displayed_link": "https://www.reuters.com › healthcare-pharmaceuticals",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc48aac1c73c29d3840476946e2cc6b1c86.png",
+      "date": "5 days ago",
+      "snippet": "Reblozyl is already approved for certain types of anemia related to other blood disorders, including myelodysplastic syndromes and beta- ...",
+      "snippet_highlighted_words": [
+        "anemia related"
+      ],
+      "source": "Reuters"
+    },
+    {
+      "position": 73,
+      "title": "Iron deficiency anaemia",
+      "link": "https://www.nhsinform.scot/illnesses-and-conditions/nutritional/iron-deficiency-anaemia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhsinform.scot/illnesses-and-conditions/nutritional/iron-deficiency-anaemia/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLEBEAE",
+      "displayed_link": "https://www.nhsinform.scot › ... › Nutritional",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc45b873bc05288cf5c16b311909206ca87.png",
+      "date": "Feb 21, 2025",
+      "snippet": "If iron deficiency anaemia is left untreated, it can make you more susceptible to illness and infection, as a lack of iron affects the body's ...",
+      "snippet_highlighted_words": [
+        "iron deficiency anaemia"
+      ],
+      "source": "NHS inform"
+    },
+    {
+      "position": 74,
+      "title": "Anemia – Types, Symptoms, and Causes",
+      "link": "https://www.pennmedicine.org/conditions/anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pennmedicine.org/conditions/anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCJ8BEAE",
+      "displayed_link": "https://www.pennmedicine.org › ... › Anemia",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc49ae1f7fca8103b21e9122c691bf9775c.png",
+      "snippet": "Chronic diseases like kidney disease or cancer; Excessive alcohol ... Immune system-related destruction of red blood cells; Inadequate intake of ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "related"
+      ],
+      "source": "Penn Medicine"
+    },
+    {
+      "position": 75,
+      "title": "Polycythemia Vera: What It Is, Symptoms & Treatment",
+      "link": "https://my.clevelandclinic.org/health/diseases/17742-polycythemia-vera",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my.clevelandclinic.org/health/diseases/17742-polycythemia-vera&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCKYBEAE",
+      "displayed_link": "https://my.clevelandclinic.org › health › diseases › 177...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4e02763a8281ea20be972181f5f7c0d94.png",
+      "snippet": "Polycythemia vera is a type of chronic leukemia (blood cancer) that causes your bone marrow to produce too many red blood cells.",
+      "snippet_highlighted_words": [
+        "cancer"
+      ],
+      "source": "Cleveland Clinic"
+    },
+    {
+      "position": 76,
+      "title": "Bristol Myers' drug fails main goal in cancer-related anemia ...",
+      "link": "https://wiky.com/2025/07/18/bristol-myers-drug-fails-main-goal-in-cancer-related-anemia-trial/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wiky.com/2025/07/18/bristol-myers-drug-fails-main-goal-in-cancer-related-anemia-trial/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLkBEAE",
+      "displayed_link": "https://wiky.com › 2025/07/18 › bristol-myers-drug-fai...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc49713800954337faab4f8945d4580c027.png",
+      "date": "5 days ago",
+      "snippet": "“It is promising to see that Reblozyl led to clinically relevant improvement of anemia for patients with myelofibrosis,” said Anne Kerber, head ...",
+      "snippet_highlighted_words": [
+        "anemia"
+      ],
+      "source": "104.1 WIKY"
+    },
+    {
+      "position": 77,
+      "title": "Cresp for Chemotherapy Anemia: Study Highlights with Dr ...",
+      "link": "https://www.youtube.com/watch?v=iWV3Osp7_Ps",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DiWV3Osp7_Ps&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLsBEAE",
+      "displayed_link": "2K+ views · 3 months ago",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc408b79ffb1513dc1c6d51f59d0195bb6a.png",
+      "snippet": "cresp #anemia #DrMVChandrakanth Anemia remains a pervasive yet often underappreciated complication among cancer patients undergoing ...",
+      "snippet_highlighted_words": [
+        "anemia",
+        "Anemia",
+        "cancer"
+      ],
+      "source": "YouTube · Medical Dialogues"
+    },
+    {
+      "position": 78,
+      "title": "Iron deficiency anaemia",
+      "link": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhs.uk/conditions/iron-deficiency-anaemia/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLgBEAE",
+      "displayed_link": "https://www.nhs.uk › conditions › iron-deficiency-anae...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4cbb500adaa4bd16bfd8148f299ed8810.png",
+      "snippet": "cancers of the bowel or stomach (but this is less common). Any other conditions or actions that cause blood loss could also lead to iron deficiency anaemia.",
+      "snippet_highlighted_words": [
+        "cancers",
+        "iron deficiency anaemia"
+      ],
+      "source": "nhs.uk"
+    },
+    {
+      "position": 79,
+      "title": "New antibody therapy offers hope for fragile patients with ...",
+      "link": "https://www.news-medical.net/news/20250722/New-antibody-therapy-offers-hope-for-fragile-patients-with-Fanconi-anemia.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.news-medical.net/news/20250722/New-antibody-therapy-offers-hope-for-fragile-patients-with-Fanconi-anemia.aspx&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCMQBEAE",
+      "displayed_link": "https://www.news-medical.net › news › New-antibody-t...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4e1d7f6ec85eba0c73c6996845c06e8c2.png",
+      "date": "2 days ago",
+      "snippet": "Fanconi anemia interferes with DNA repair. One consequence is impaired development of blood cells, including oxygen-carrying red blood cells; ...",
+      "snippet_highlighted_words": [
+        "anemia"
+      ],
+      "source": "News-Medical"
+    },
+    {
+      "position": 80,
+      "title": "Bristol Myers' drug fails main goal in late-stage trial for ...",
+      "link": "https://www.tradingview.com/news/reuters.com,2025:newsml_L4N3TF0WQ:0-bristol-myers-drug-fails-main-goal-in-late-stage-trial-for-cancer-related-anemia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tradingview.com/news/reuters.com,2025:newsml_L4N3TF0WQ:0-bristol-myers-drug-fails-main-goal-in-late-stage-trial-for-cancer-related-anemia/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCM0BEAE",
+      "displayed_link": "https://www.tradingview.com › News › Reuters",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4158f15617e23e6687048b7860ac75c94.png",
+      "snippet": "Bristol Myers' drug fails main goal in late-stage trial for cancer-related anemia. Jul 18, 2025, 04:42 GMT-7 RefinitivLess than 1 min read.",
+      "snippet_highlighted_words": [
+        "cancer",
+        "related anemia"
+      ],
+      "source": "TradingView"
+    },
+    {
+      "position": 81,
+      "title": "Luspatercept Plus Concomitant JAK Inhibitor Therapy ...",
+      "link": "https://www.onclive.com/view/luspatercept-plus-concomitant-jak-inhibitor-therapy-misses-primary-end-point-in-myelofibrosis-associated-anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onclive.com/view/luspatercept-plus-concomitant-jak-inhibitor-therapy-misses-primary-end-point-in-myelofibrosis-associated-anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCM4BEAE",
+      "displayed_link": "https://www.onclive.com › view › luspatercept-plus-conc...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4db060c93c8f674fafc26703d766de389.png",
+      "date": "5 days ago",
+      "snippet": "“Patients with myelofibrosis and anemia are difficult to treat, and these results show that luspatercept can have an important impact on anemia ...",
+      "snippet_highlighted_words": [
+        "anemia",
+        "anemia"
+      ],
+      "source": "OncLive"
+    },
+    {
+      "position": 82,
+      "title": "Maybe It's Not Just Aging. Maybe It's Anemia.",
+      "link": "https://kffhealthnews.org/news/article/new-old-age-aging-symptoms-anemia-iron-intravenous-iv-oral/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kffhealthnews.org/news/article/new-old-age-aging-symptoms-anemia-iron-intravenous-iv-oral/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCM8BEAE",
+      "displayed_link": "https://kffhealthnews.org › news › article › new-old-age...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4738ed987c551343d042a0216fb1b0c7c.png",
+      "date": "7 days ago",
+      "snippet": "Michael Auerbach, a hematologist and an oncologist who is the co-director of the Center for Cancer and Blood Disorders in Baltimore, suggested ...",
+      "snippet_highlighted_words": [
+        "Cancer"
+      ],
+      "source": "KFF Health News"
+    },
+    {
+      "position": 83,
+      "title": "Symptoms of bowel cancer",
+      "link": "https://www.cancerresearchuk.org/about-cancer/bowel-cancer/symptoms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cancerresearchuk.org/about-cancer/bowel-cancer/symptoms&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCN8BEAE",
+      "displayed_link": "https://www.cancerresearchuk.org › about-cancer › sym...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4fae61666428f2bb604c57412fedbf53d.png",
+      "snippet": "tiredness and breathlessness caused by a lower than normal level of red blood cells (anaemia) ... Related links. Seeing your GP for bowel cancer symptoms. See ...",
+      "snippet_highlighted_words": [
+        "anaemia",
+        "Related",
+        "cancer"
+      ],
+      "source": "Cancer Research UK"
+    },
+    {
+      "position": 84,
+      "title": "Symptoms of colorectal cancer",
+      "link": "https://cancer.ca/en/cancer-information/cancer-types/colorectal/signs-and-symptoms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cancer.ca/en/cancer-information/cancer-types/colorectal/signs-and-symptoms&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCOIBEAE",
+      "displayed_link": "https://cancer.ca › ... › Cancer types › Colorectal",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4b768093f54fd36727681b3c9ad5703f8.png",
+      "snippet": "pain or discomfort in the rectum; a lump in the abdomen or rectum; fatigue and weakness. anemia ... That's why we're here to answer your cancer-related questions ...",
+      "snippet_highlighted_words": [
+        "anemia",
+        "cancer",
+        "related"
+      ],
+      "source": "Canadian Cancer Society"
+    },
+    {
+      "position": 85,
+      "title": "CTEP Trial Development and Conduct - NCI",
+      "link": "https://dctd.cancer.gov/research/ctep-trials/trial-development",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dctd.cancer.gov/research/ctep-trials/trial-development&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCOMBEAE",
+      "displayed_link": "https://dctd.cancer.gov › research › trial-development",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc422df10f6e2199aa12de05920e7b5c001.png",
+      "snippet": "National Cancer Institute Division of Cancer Treatment and Diagnosis Home Page. Menu. Search Search. Funding; Research; Data, Tools & Biospecimens; Drug ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "Cancer"
+      ],
+      "source": "National Cancer Institute (.gov)"
+    },
+    {
+      "position": 86,
+      "title": "Red Blood Cell (RBC) Count: MedlinePlus Medical Test",
+      "link": "https://medlineplus.gov/lab-tests/red-blood-cell-rbc-count/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medlineplus.gov/lab-tests/red-blood-cell-rbc-count/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCOcBEAE",
+      "displayed_link": "https://medlineplus.gov › Medical Tests",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc42bdd4f10220981ad8a88d8a4fb2de7dc.png",
+      "date": "Oct 7, 2024",
+      "snippet": "Anemia · Leukemia, a type of blood cancer · Malnutrition, a condition in which your body does not get the calories, vitamins, and/or minerals ...",
+      "snippet_highlighted_words": [
+        "Anemia",
+        "cancer"
+      ],
+      "source": "MedlinePlus (.gov)"
+    },
+    {
+      "position": 87,
+      "title": "Mixed Results for Luspatercept in Patients With ...",
+      "link": "https://www.hematologyadvisor.com/news/mixed-results-for-luspatercept-in-patients-with-myelofibrosis-associated-anemia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hematologyadvisor.com/news/mixed-results-for-luspatercept-in-patients-with-myelofibrosis-associated-anemia/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCPQBEAE",
+      "displayed_link": "https://www.hematologyadvisor.com › News",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4a84b6666c2837b6c88090c64ca32e051.png",
+      "date": "3 days ago",
+      "snippet": "Topline data were announced from a phase 3 trial evaluating luspatercept plus JAKi therapy in adults with myelofibrosis-associated anemia ...",
+      "snippet_highlighted_words": [
+        "anemia"
+      ],
+      "source": "Hematology Advisor"
+    },
+    {
+      "position": 88,
+      "title": "Recently Updated Guidelines",
+      "link": "https://www.nccn.org/guidelines/recently-published-guidelines",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nccn.org/guidelines/recently-published-guidelines&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCPcBEAE",
+      "displayed_link": "https://www.nccn.org › guidelines › recently-published-g...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc455e683b9de5bf33cfce8c98874d77e69.png",
+      "snippet": "Adult Cancer Pain Antiemesis Cancer-Associated Venous Thromboembolic Disease Cancer-Related Fatigue ... Anemia and Neutropenia - Low Blood Cell Counts ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "Cancer",
+        "Cancer",
+        "Related",
+        "Anemia"
+      ],
+      "source": "NCCN"
+    },
+    {
+      "position": 89,
+      "title": "Signs and symptoms of bowel cancer",
+      "link": "https://www.bowelcanceruk.org.uk/about-bowel-cancer/symptoms/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bowelcanceruk.org.uk/about-bowel-cancer/symptoms/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCIQCEAE",
+      "displayed_link": "https://www.bowelcanceruk.org.uk › about-bowel-cancer",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4771c3bb7685025df5c9eaf8c61d1a340.png",
+      "snippet": "If you have anaemia, you are likely to feel very tired and your skin may look pale. Pain or lump in your tummy. +.",
+      "snippet_highlighted_words": [
+        "anaemia"
+      ],
+      "source": "Bowel Cancer UK"
+    },
+    {
+      "position": 90,
+      "title": "What types of cancer can cause itchy skin?",
+      "link": "https://www.mdanderson.org/cancerwise/what-types-of-cancer-can-cause-itchy-skin.h00-159774867.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mdanderson.org/cancerwise/what-types-of-cancer-can-cause-itchy-skin.h00-159774867.html&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCIMCEAE",
+      "displayed_link": "https://www.mdanderson.org › Cancerwise › 2025 › 03",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc43df1ab4e272859482b32ffd97596a8cc.png",
+      "date": "Mar 24, 2025",
+      "snippet": "Anemia (2) · Appendix Cancer (18) · Bile Duct Cancer (26) ... Most causes of itchy skin are not related to cancer. Related Cancerwise Stories.",
+      "snippet_highlighted_words": [
+        "Anemia",
+        "Cancer",
+        "Cancer",
+        "related",
+        "cancer",
+        "Related"
+      ],
+      "source": "MD Anderson Cancer Center"
+    },
+    {
+      "position": 91,
+      "title": "Fanconi anemia",
+      "link": "https://en.wikipedia.org/wiki/Fanconi_anemia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Fanconi_anemia&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCIYCEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Fanconi_anemia",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc440825dc4f32115c762e2718144c9fd64.png",
+      "snippet": "The study of Fanconi anemia has improved scientific understanding of the mechanisms of normal bone marrow function and the development of cancer. Among those ...",
+      "snippet_highlighted_words": [
+        "anemia",
+        "cancer"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 92,
+      "title": "What is Anemia of Malignancy? Causes, Treatment",
+      "link": "https://m.youtube.com/watch?v=i5OKj-PBAzk&pp=ygUNI3Jpc2lrb2FuZW1pYQ%3D%3D",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.youtube.com/watch%3Fv%3Di5OKj-PBAzk%26pp%3DygUNI3Jpc2lrb2FuZW1pYQ%253D%253D&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCJACEAE",
+      "displayed_link": "720+ views · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4556771be7a1581b7979b696e7bfac3df.png",
+      "snippet": "What is Anemia of Malignancy? Q: What is anemia of malignancy? A: Anemia of malignancy, also known as cancer-related anemia, is a type of ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "related anemia"
+      ],
+      "source": "YouTube · Daily Dose of Medicine"
+    },
+    {
+      "position": 93,
+      "title": "Stomach Cancer Is Still a Risk for Many People",
+      "link": "https://www.yalemedicine.org/news/stomach-cancer-gastric-cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yalemedicine.org/news/stomach-cancer-gastric-cancer&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCJgCEAE",
+      "displayed_link": "https://www.yalemedicine.org › news › stomach-cancer...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4ec800397636ff7de4d03d85042b49f85.png",
+      "date": "Nov 22, 2022",
+      "snippet": "... anemia, and accompanying fatigue. “Gastric cancer is still a serious and ... These conditions are related to 13 different kinds of cancer ...",
+      "snippet_highlighted_words": [
+        "anemia",
+        "cancer",
+        "related",
+        "cancer"
+      ],
+      "source": "Yale Medicine"
+    },
+    {
+      "position": 94,
+      "title": "Florida Cancer Specialists & Research Institute - Homepage",
+      "link": "https://flcancer.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://flcancer.com/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCJ0CEAE",
+      "displayed_link": "https://flcancer.com",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc41e3901837688ba720c414b419087ff39.png",
+      "snippet": "Florida's top cancer care provider, leading in cutting-edge technology for advanced treatment and innovative clinical research.",
+      "snippet_highlighted_words": [
+        "cancer"
+      ],
+      "source": "Florida Cancer Specialists & Research Institute"
+    },
+    {
+      "position": 95,
+      "title": "Vitamin B12 or folate deficiency anaemia - Complications",
+      "link": "https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/complications/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/complications/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCJwCEAE",
+      "displayed_link": "https://www.nhs.uk › conditions › complications",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc496e8c19f8d97cc071f0ddc98f56d3d43.png",
+      "snippet": "Stomach cancer. If you have a vitamin B12 deficiency caused by pernicious anaemia, a condition where your immune system attacks healthy cells in your stomach ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "anaemia"
+      ],
+      "source": "nhs.uk"
+    },
+    {
+      "position": 96,
+      "title": "Welireg Plus Cabometyx Shows Tumor Control in Kidney ...",
+      "link": "https://www.curetoday.com/view/welireg-plus-cabometyx-shows-tumor-control-in-kidney-cancer-trial",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.curetoday.com/view/welireg-plus-cabometyx-shows-tumor-control-in-kidney-cancer-trial&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoFCLcCEAE",
+      "displayed_link": "https://www.curetoday.com › view › welireg-plus-cabo...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc49ad076c54c54137e825127ecca06f499.png",
+      "date": "9 hours ago",
+      "snippet": "Gynecologic CancerGynecologic CancerGynecologic Cancer · Head ... In the combination group, side effects related to Welireg were anemia ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "Cancer",
+        "Cancer",
+        "related",
+        "anemia"
+      ],
+      "source": "Curetoday"
+    },
+    {
+      "position": 97,
+      "title": "American Society of Hematology - Hematology.org",
+      "link": "https://www.hematology.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hematology.org/&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECFcQAQ",
+      "displayed_link": "https://www.hematology.org",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4d1a540cad8b3c61c872eca867ef252db.png",
+      "snippet": "The world's largest professional society serving both clinicians and scientists around the world who are working to conquer blood diseases.",
+      "source": "American Society of Hematology"
+    },
+    {
+      "position": 98,
+      "title": "What Are Platelets and Why Are They Important?",
+      "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/what-are-platelets-and-why-are-they-important",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hopkinsmedicine.org/health/conditions-and-diseases/what-are-platelets-and-why-are-they-important&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECFgQAQ",
+      "displayed_link": "https://www.hopkinsmedicine.org › health › what-are-pla...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc450b9edf75d9147832ffac90e73531dca.png",
+      "snippet": "Secondary thrombocytosis – The same condition as primary thrombocytosis, but may be caused by an ongoing condition or disease such as anemia, cancer, ...",
+      "snippet_highlighted_words": [
+        "anemia",
+        "cancer"
+      ],
+      "source": "Johns Hopkins Medicine"
+    },
+    {
+      "position": 99,
+      "title": "Bowel cancer | Causes, Symptoms & Treatments",
+      "link": "https://www.cancer.org.au/cancer-information/types-of-cancer/bowel-cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cancer.org.au/cancer-information/types-of-cancer/bowel-cancer&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECGAQAQ",
+      "displayed_link": "https://www.cancer.org.au › ... › Types of cancer",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4d96ef1e83d9b10926806d9180504b1f6.png",
+      "date": "Feb 12, 2025",
+      "snippet": "Depending on where the cancer begins, bowel cancer may be called colon or rectal cancer. ... anaemia. It is not recommended if you are bleeding ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "cancer",
+        "cancer",
+        "anaemia"
+      ],
+      "source": "Cancer Council"
+    },
+    {
+      "position": 100,
+      "title": "When to Worry About Low Lymphocytes on a Blood Test",
+      "link": "https://www.cancercenter.com/community/blog/2023/05/when-to-worry-about-low-lymphocytes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cancercenter.com/community/blog/2023/05/when-to-worry-about-low-lymphocytes&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQFnoECGEQAQ",
+      "displayed_link": "https://www.cancercenter.com › blog › 2023/05 › when...",
+      "favicon": "https://serpapi.com/searches/68818446ff596eb656e3ae67/images/cb0a41f5e08d4fd01b0cd09b6b335bc4d4cd64ce195c974b5254a62f70afa04f.png",
+      "date": "May 11, 2023",
+      "snippet": "A decrease in neutrophils may be caused by certain types of anemia ... cancer treatments like chemotherapy or immunotherapy. In rare cases ...",
+      "snippet_highlighted_words": [
+        "anemia",
+        "cancer"
+      ],
+      "source": "cancercenter.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How to treat anemia in cancer patients",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&gl=us&hl=en&q=How+to+treat+anemia+in+cancer+patients&sa=X&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+treat+anemia+in+cancer+patients"
+    },
+    {
+      "block_position": 1,
+      "query": "Does anemia mean cancer",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&gl=us&hl=en&q=Does+anemia+mean+cancer&sa=X&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Does+anemia+mean+cancer"
+    },
+    {
+      "block_position": 1,
+      "query": "Low hemoglobin cancer symptoms",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&gl=us&hl=en&q=Low+hemoglobin+cancer+symptoms&sa=X&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Low+hemoglobin+cancer+symptoms"
+    },
+    {
+      "block_position": 1,
+      "query": "What percentage of anemia is cancer",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&gl=us&hl=en&q=What+percentage+of+anemia+is+cancer&sa=X&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+percentage+of+anemia+is+cancer"
+    },
+    {
+      "block_position": 1,
+      "query": "How to increase hemoglobin in cancer patients",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&gl=us&hl=en&q=How+to+increase+hemoglobin+in+cancer+patients&sa=X&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+increase+hemoglobin+in+cancer+patients"
+    },
+    {
+      "block_position": 1,
+      "query": "Can lung cancer cause anemia",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&gl=us&hl=en&q=Can+lung+cancer+cause+anemia&sa=X&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQ1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Can+lung+cancer+cause+anemia"
+    },
+    {
+      "block_position": 1,
+      "query": "Symptoms of dying from anemia",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&gl=us&hl=en&q=Symptoms+of+dying+from+anemia&sa=X&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Symptoms+of+dying+from+anemia"
+    },
+    {
+      "block_position": 1,
+      "query": "Can anemia lead to cancer",
+      "link": "https://www.google.com/search?num=100&sca_esv=bb49354504a3e791&gl=us&hl=en&q=Can+anemia+lead+to+cancer&sa=X&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Can+anemia+lead+to+cancer"
+    }
+  ],
+  "scholarly_articles": {
+    "title": "Scholarly articles for cancer related anemia",
+    "link": "https://scholar.google.com/scholar?q=cancer+related+anemia&hl=en&as_sdt=0&as_vis=1&oi=scholart",
+    "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=en&num=100&q=cancer+related+anemia",
+    "articles": [
+      {
+        "title": "Diagnosis and treatment of cancer‐related anemia",
+        "link": "https://www.thebloodproject.com/wp-content/uploads/2022/07/Cancer_ANEMIA.pdf",
+        "highlighted_words": [
+          "cancer",
+          "related anemia"
+        ],
+        "author": "‎Gilreath"
+      },
+      {
+        "title": "Cancer-related anemia: its causes and characteristics.",
+        "link": "https://europepmc.org/article/med/8202724",
+        "highlighted_words": [
+          "Cancer",
+          "related anemia"
+        ],
+        "author": "‎Spivak"
+      },
+      {
+        "title": "Cancer-related anemia: pathogenesis, prevalence and …",
+        "link": "https://karger.com/ocl/article-pdf/68/Suppl.%201/3/3282051/000083128.pdf",
+        "highlighted_words": [
+          "Cancer",
+          "related anemia"
+        ],
+        "author": "‎Birgegård"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=cancer+related+anemia&num=100&sca_esv=bb49354504a3e791&gl=us&hl=en&ei=RoSBaLm-O6fnwN4PndOFyQ8&start=100&sa=N&sstk=Ac65TH6L33MffMsEsKsL9VZnCn4fwcRrnfCdGyuw5wquEFMHmAshpjS04Kbu2tOszpqlv8JmWEExOu8LZko0VEb0Y_zldWbwNRZU0A&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQ8NMDegQICBAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=cancer+related+anemia&num=100&sca_esv=bb49354504a3e791&gl=us&hl=en&ei=RoSBaLm-O6fnwN4PndOFyQ8&start=100&sa=N&sstk=Ac65TH6L33MffMsEsKsL9VZnCn4fwcRrnfCdGyuw5wquEFMHmAshpjS04Kbu2tOszpqlv8JmWEExOu8LZko0VEb0Y_zldWbwNRZU0A&ved=2ahUKEwi5-Y-lpNSOAxWnM9AFHZ1pIfkQ8tMDegQICBAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=cancer+related+anemia&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=cancer+related+anemia&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=cancer+related+anemia&start=100"
+    }
+  }
+}

@@ -1,0 +1,1625 @@
+{
+  "search_metadata": {
+    "id": "68820c09e6cb30cd62adf950",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6edd7af96f4c1ae9/68820c09e6cb30cd62adf950.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6edd7af96f4c1ae9/68820c09e6cb30cd62adf950.json_with_pixel_position",
+    "created_at": "2025-07-24 10:33:45 UTC",
+    "processed_at": "2025-07-24 10:33:45 UTC",
+    "google_url": "https://www.google.com/search?q=bitcoin+sheba&oq=bitcoin+sheba&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6edd7af96f4c1ae9/68820c09e6cb30cd62adf950.html",
+    "total_time_taken": 2.37
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "bitcoin sheba",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "bitcoin sheba",
+    "total_results": 112000,
+    "time_taken_displayed": 0.53,
+    "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+    "spelling_fix": "bitcoin shiba"
+  },
+  "related_questions": [
+    {
+      "question": "Is shiba coin worth anything?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmQxVmpiMVY2YVVWeGFsSkxXVmxCTUdGQmExTkJabGgyY2xSVGIySmZWR001UlZwQk5FNXJaa2RsZDI1bGNEUXhRMVZtT0hWT2EyVmxiVEpmVWtGRVNXaG1iRm8zUzFkc1YwZGpjR0kyV0dOUGJVaEhNbXhvTWt0bVp4SVhRMmQ1UTJGUVpscExURmRzY1hSelVGOWtja1p2UVUwYUlrRkdUVUZIUjI5aGJVaE9UR1J5ZEZkZldYQlBaWEJyYjJSQmJERXhSSFpvWlhjIiwiZmN2IjoiMyIsImVpIjoiQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU0iLCJxYyI6IkNnMWlhWFJqYjJsdUlITm9aV0poRUFCOTBhY0VQdyIsInF1ZXN0aW9uIjoiSXMgc2hpYmEgY29pbiB3b3J0aCBhbnl0aGluZz8iLCJsayI6IkdoeHBjeUJ6YUdsaVlTQmpiMmx1SUhkdmNuUm9JR0Z1ZVhSb2FXNW4iLCJicyI6ImMtTnk0cEwxTEZZb3pzaE1TbFJJenNfTVV5alBMeXJKVUVqTXF5ekp5TXhMdDVkWXhHc2tKeVdUaVVjTlZ3aVh1a2QtdVVKdWFYS0dBbENoaXFHQmdRRlVUWDZhUXFKQ01GaW5aMTZwdlVSdnVKR2FsRW9HYnRVUVd6THpTcm04dUJURE14SkxGTW96YzNLZ1JpU2xRaFVDM1dCa1lHUnFMekUxMUVoSlNxRWNycTRZcXpvdUd5NnBjSVF4R1prbFFHc2hraVlHOWhLUE00MmtwU1NSOUtNcUVHQUVBQSIsImlkIjoiZmNfQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU1fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmQxVmpiMVY2YVVWeGFsSkxXVmxCTUdGQmExTkJabGgyY2xSVGIySmZWR001UlZwQk5FNXJaa2RsZDI1bGNEUXhRMVZtT0hWT2EyVmxiVEpmVWtGRVNXaG1iRm8zUzFkc1YwZGpjR0kyV0dOUGJVaEhNbXhvTWt0bVp4SVhRMmQ1UTJGUVpscExURmRzY1hSelVGOWtja1p2UVUwYUlrRkdUVUZIUjI5aGJVaE9UR1J5ZEZkZldYQlBaWEJyYjJSQmJERXhSSFpvWlhjIiwiZmN2IjoiMyIsImVpIjoiQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU0iLCJxYyI6IkNnMWlhWFJqYjJsdUlITm9aV0poRUFCOTBhY0VQdyIsInF1ZXN0aW9uIjoiSXMgc2hpYmEgY29pbiB3b3J0aCBhbnl0aGluZz8iLCJsayI6IkdoeHBjeUJ6YUdsaVlTQmpiMmx1SUhkdmNuUm9JR0Z1ZVhSb2FXNW4iLCJicyI6ImMtTnk0cEwxTEZZb3pzaE1TbFJJenNfTVV5alBMeXJKVUVqTXF5ekp5TXhMdDVkWXhHc2tKeVdUaVVjTlZ3aVh1a2QtdVVKdWFYS0dBbENoaXFHQmdRRlVUWDZhUXFKQ01GaW5aMTZwdlVSdnVKR2FsRW9HYnRVUVd6THpTcm04dUJURE14SkxGTW96YzNLZ1JpU2xRaFVDM1dCa1lHUnFMekUxMUVoSlNxRWNycTRZcXpvdUd5NnBjSVF4R1prbFFHc2hraVlHOWhLUE00MmtwU1NSOUtNcUVHQUVBQSIsImlkIjoiZmNfQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU1fMSJ9"
+    },
+    {
+      "question": "How much is $1000 worth of a Shiba Inu?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmQxVmpiMVY2YVVWeGFsSkxXVmxCTUdGQmExTkJabGgyY2xSVGIySmZWR001UlZwQk5FNXJaa2RsZDI1bGNEUXhRMVZtT0hWT2EyVmxiVEpmVWtGRVNXaG1iRm8zUzFkc1YwZGpjR0kyV0dOUGJVaEhNbXhvTWt0bVp4SVhRMmQ1UTJGUVpscExURmRzY1hSelVGOWtja1p2UVUwYUlrRkdUVUZIUjI5aGJVaE9UR1J5ZEZkZldYQlBaWEJyYjJSQmJERXhSSFpvWlhjIiwiZmN2IjoiMyIsImVpIjoiQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU0iLCJxYyI6IkNnMWlhWFJqYjJsdUlITm9aV0poRUFCOTBhY0VQdyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgJDEwMDAgd29ydGggb2YgYSBTaGliYSBJbnU/IiwibGsiOiJHaVJvYjNjZ2JYVmphQ0JwY3lBa01UQXdNQ0IzYjNKMGFDQnZaaUJ6YUdsaVlTQnBiblUiLCJicyI6ImMtTnk0cEwxTEZZb3pzaE1TbFJJenNfTVV5alBMeXJKVUVqTXF5ekp5TXhMdDVkWXhHc2tKeVdUaVVjTlZ3aVh1a2QtdVVKdWFYS0dBbENoaXFHQmdRRlVUWDZhUXFKQ01GaW5aMTZwdlVSdnVKR2FsRW9HYnRVUVd6THpTcm04dUJURE14SkxGTW96YzNLZ1JpU2xRaFVDM1dCa1lHUnFMekUxMUVoSlNxRWNycTRZcXpvdUd5NnBjSVF4R1prbFFHc2hraVlHOWhLUE00MmtwU1NSOUtNcUVHQUVBQSIsImlkIjoiZmNfQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU1fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmQxVmpiMVY2YVVWeGFsSkxXVmxCTUdGQmExTkJabGgyY2xSVGIySmZWR001UlZwQk5FNXJaa2RsZDI1bGNEUXhRMVZtT0hWT2EyVmxiVEpmVWtGRVNXaG1iRm8zUzFkc1YwZGpjR0kyV0dOUGJVaEhNbXhvTWt0bVp4SVhRMmQ1UTJGUVpscExURmRzY1hSelVGOWtja1p2UVUwYUlrRkdUVUZIUjI5aGJVaE9UR1J5ZEZkZldYQlBaWEJyYjJSQmJERXhSSFpvWlhjIiwiZmN2IjoiMyIsImVpIjoiQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU0iLCJxYyI6IkNnMWlhWFJqYjJsdUlITm9aV0poRUFCOTBhY0VQdyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgJDEwMDAgd29ydGggb2YgYSBTaGliYSBJbnU%2FIiwibGsiOiJHaVJvYjNjZ2JYVmphQ0JwY3lBa01UQXdNQ0IzYjNKMGFDQnZaaUJ6YUdsaVlTQnBiblUiLCJicyI6ImMtTnk0cEwxTEZZb3pzaE1TbFJJenNfTVV5alBMeXJKVUVqTXF5ekp5TXhMdDVkWXhHc2tKeVdUaVVjTlZ3aVh1a2QtdVVKdWFYS0dBbENoaXFHQmdRRlVUWDZhUXFKQ01GaW5aMTZwdlVSdnVKR2FsRW9HYnRVUVd6THpTcm04dUJURE14SkxGTW96YzNLZ1JpU2xRaFVDM1dCa1lHUnFMekUxMUVoSlNxRWNycTRZcXpvdUd5NnBjSVF4R1prbFFHc2hraVlHOWhLUE00MmtwU1NSOUtNcUVHQUVBQSIsImlkIjoiZmNfQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU1fMSJ9"
+    },
+    {
+      "question": "What will Shiba be worth in 2025?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmQxVmpiMVY2YVVWeGFsSkxXVmxCTUdGQmExTkJabGgyY2xSVGIySmZWR001UlZwQk5FNXJaa2RsZDI1bGNEUXhRMVZtT0hWT2EyVmxiVEpmVWtGRVNXaG1iRm8zUzFkc1YwZGpjR0kyV0dOUGJVaEhNbXhvTWt0bVp4SVhRMmQ1UTJGUVpscExURmRzY1hSelVGOWtja1p2UVUwYUlrRkdUVUZIUjI5aGJVaE9UR1J5ZEZkZldYQlBaWEJyYjJSQmJERXhSSFpvWlhjIiwiZmN2IjoiMyIsImVpIjoiQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU0iLCJxYyI6IkNnMWlhWFJqYjJsdUlITm9aV0poRUFCOTBhY0VQdyIsInF1ZXN0aW9uIjoiV2hhdCB3aWxsIFNoaWJhIGJlIHdvcnRoIGluIDIwMjU/IiwibGsiOiJHaUIzYUdGMElIZHBiR3dnYzJocFltRWdZbVVnZDI5eWRHZ2dhVzRnTWpBeU5RIiwiYnMiOiJjLU55NHBMMUxGWW96c2hNU2xSSXpzX01VeWpQTHlySlVFak1xeXpKeU14THQ1ZFl4R3NrSnlXVGlVY05Wd2lYdWtkLXVVSnVhWEtHQWxDaGlxR0JnUUZVVFg2YVFxSkNNRmluWjE2cHZVUnZ1SkdhbEVvR2J0VVFXekx6U3JtOHVCVERNeEpMRk1vemMzS2dSaVNsUWhVQzNXQmtZR1JxTHpFMTFFaEpTcUVjcnE0WXF6b3VHeTZwY0lReEdaa2xRR3Noa2lZRzloS1BNNDJrcFNTUjlLTXFFR0FFQUEiLCJpZCI6ImZjX0NneUNhUGZaS0xXbHF0c1BfZHJGb0FNXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmQxVmpiMVY2YVVWeGFsSkxXVmxCTUdGQmExTkJabGgyY2xSVGIySmZWR001UlZwQk5FNXJaa2RsZDI1bGNEUXhRMVZtT0hWT2EyVmxiVEpmVWtGRVNXaG1iRm8zUzFkc1YwZGpjR0kyV0dOUGJVaEhNbXhvTWt0bVp4SVhRMmQ1UTJGUVpscExURmRzY1hSelVGOWtja1p2UVUwYUlrRkdUVUZIUjI5aGJVaE9UR1J5ZEZkZldYQlBaWEJyYjJSQmJERXhSSFpvWlhjIiwiZmN2IjoiMyIsImVpIjoiQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU0iLCJxYyI6IkNnMWlhWFJqYjJsdUlITm9aV0poRUFCOTBhY0VQdyIsInF1ZXN0aW9uIjoiV2hhdCB3aWxsIFNoaWJhIGJlIHdvcnRoIGluIDIwMjU%2FIiwibGsiOiJHaUIzYUdGMElIZHBiR3dnYzJocFltRWdZbVVnZDI5eWRHZ2dhVzRnTWpBeU5RIiwiYnMiOiJjLU55NHBMMUxGWW96c2hNU2xSSXpzX01VeWpQTHlySlVFak1xeXpKeU14THQ1ZFl4R3NrSnlXVGlVY05Wd2lYdWtkLXVVSnVhWEtHQWxDaGlxR0JnUUZVVFg2YVFxSkNNRmluWjE2cHZVUnZ1SkdhbEVvR2J0VVFXekx6U3JtOHVCVERNeEpMRk1vemMzS2dSaVNsUWhVQzNXQmtZR1JxTHpFMTFFaEpTcUVjcnE0WXF6b3VHeTZwY0lReEdaa2xRR3Noa2lZRzloS1BNNDJrcFNTUjlLTXFFR0FFQUEiLCJpZCI6ImZjX0NneUNhUGZaS0xXbHF0c1BfZHJGb0FNXzEifQ%3D%3D"
+    },
+    {
+      "question": "Will Shiba hit $1 in 2040?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmQxVmpiMVY2YVVWeGFsSkxXVmxCTUdGQmExTkJabGgyY2xSVGIySmZWR001UlZwQk5FNXJaa2RsZDI1bGNEUXhRMVZtT0hWT2EyVmxiVEpmVWtGRVNXaG1iRm8zUzFkc1YwZGpjR0kyV0dOUGJVaEhNbXhvTWt0bVp4SVhRMmQ1UTJGUVpscExURmRzY1hSelVGOWtja1p2UVUwYUlrRkdUVUZIUjI5aGJVaE9UR1J5ZEZkZldYQlBaWEJyYjJSQmJERXhSSFpvWlhjIiwiZmN2IjoiMyIsImVpIjoiQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU0iLCJxYyI6IkNnMWlhWFJqYjJsdUlITm9aV0poRUFCOTBhY0VQdyIsInF1ZXN0aW9uIjoiV2lsbCBTaGliYSBoaXQgJDEgaW4gMjA0MD8iLCJsayI6IkdobDNhV3hzSUhOb2FXSmhJR2hwZENBa01TQnBiaUF5TURRdyIsImJzIjoiYy1OeTRwTDFMRllvenNoTVNsUkl6c19NVXlqUEx5ckpVRWpNcXl6SnlNeEx0NWRZeEdza0p5V1RpVWNOVndpWHVrZC11VUp1YVhLR0FsQ2hpcUdCZ1FGVVRYNmFRcUpDTUZpbloxNnB2VVJ2dUpHYWxFb0didFVRV3pMelNybTh1QlRETXhKTEZNb3pjM0tnUmlTbFFoVUMzV0JrWUdScUx6RTExRWhKU3FFY3JxNFlxem91R3k2cGNJUXhHWmtsUUdzaGtpWUc5aEtQTTQya3BTU1I5S01xRUdBRUFBIiwiaWQiOiJmY19DZ3lDYVBmWktMV2xxdHNQX2RyRm9BTV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmQxVmpiMVY2YVVWeGFsSkxXVmxCTUdGQmExTkJabGgyY2xSVGIySmZWR001UlZwQk5FNXJaa2RsZDI1bGNEUXhRMVZtT0hWT2EyVmxiVEpmVWtGRVNXaG1iRm8zUzFkc1YwZGpjR0kyV0dOUGJVaEhNbXhvTWt0bVp4SVhRMmQ1UTJGUVpscExURmRzY1hSelVGOWtja1p2UVUwYUlrRkdUVUZIUjI5aGJVaE9UR1J5ZEZkZldYQlBaWEJyYjJSQmJERXhSSFpvWlhjIiwiZmN2IjoiMyIsImVpIjoiQ2d5Q2FQZlpLTFdscXRzUF9kckZvQU0iLCJxYyI6IkNnMWlhWFJqYjJsdUlITm9aV0poRUFCOTBhY0VQdyIsInF1ZXN0aW9uIjoiV2lsbCBTaGliYSBoaXQgJDEgaW4gMjA0MD8iLCJsayI6IkdobDNhV3hzSUhOb2FXSmhJR2hwZENBa01TQnBiaUF5TURRdyIsImJzIjoiYy1OeTRwTDFMRllvenNoTVNsUkl6c19NVXlqUEx5ckpVRWpNcXl6SnlNeEx0NWRZeEdza0p5V1RpVWNOVndpWHVrZC11VUp1YVhLR0FsQ2hpcUdCZ1FGVVRYNmFRcUpDTUZpbloxNnB2VVJ2dUpHYWxFb0didFVRV3pMelNybTh1QlRETXhKTEZNb3pjM0tnUmlTbFFoVUMzV0JrWUdScUx6RTExRWhKU3FFY3JxNFlxem91R3k2cGNJUXhHWmtsUUdzaGtpWUc5aEtQTTQya3BTU1I5S01xRUdBRUFBIiwiaWQiOiJmY19DZ3lDYVBmWktMV2xxdHNQX2RyRm9BTV8xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "SHIBA INU Price, SHIB Price, Live Charts, and Marketcap",
+      "link": "https://www.coinbase.com/price/shiba-inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coinbase.com/price/shiba-inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECAwQAQ",
+      "displayed_link": "https://www.coinbase.com › price › shiba-inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b75751e8f913dbe98f6b3b5314c09f0b6d.png",
+      "snippet": "Get the latest price, news, live charts, and market trends about SHIBA INU. The current price of SHIBA INU in United States is $0.000015 per (SHIB / USD)",
+      "snippet_highlighted_words": [
+        "The current price of SHIBA INU in United States is $0.000015 per (SHIB / USD"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "£0.000010",
+            "link": "https://www.coinbase.com/en-gb/price/shiba-inu"
+          },
+          {
+            "title": "Coinbase Germany",
+            "link": "https://www.coinbase.com/en-de/price/shiba-inu"
+          },
+          {
+            "title": "SHIB",
+            "link": "https://www.coinbase.com/en-in/price/shiba-inu"
+          },
+          {
+            "title": "Coinbase Portugal",
+            "link": "https://www.coinbase.com/en-pt/price/shiba-inu"
+          }
+        ]
+      },
+      "source": "Coinbase"
+    },
+    {
+      "position": 2,
+      "title": "Shiba Inu price today, SHIB to USD live price, marketcap ...",
+      "link": "https://coinmarketcap.com/currencies/shiba-inu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinmarketcap.com/currencies/shiba-inu/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECCIQAQ",
+      "displayed_link": "https://coinmarketcap.com › Cryptocurrency",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7c0611e9335bf17601a2f9daa53500a30.png",
+      "snippet": "The live Shiba Inu price today is $0.00001357 USD with a 24-hour trading volume of $556349527.16 USD. We update our SHIB to USD price in real-time.",
+      "snippet_highlighted_words": [
+        "The live Shiba Inu price today is $0.00001357 USD"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 0.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$0.00"
+          ]
+        }
+      },
+      "source": "CoinMarketCap"
+    },
+    {
+      "position": 3,
+      "title": "Shiba Inu Price | SHIB Price, News, Charts",
+      "link": "https://crypto.com/price/shiba-inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://crypto.com/price/shiba-inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECBwQAQ",
+      "displayed_link": "https://crypto.com › price › shiba-inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7acd565a3b50253bed3e81bd9be3530d8.png",
+      "snippet": "Shiba Inu's price today is US$0.00001552, with a 24-hour trading volume of $531.96 M. SHIB is +2.82% in the last 24 hours. It is currently -2.25% from its 7-day ...",
+      "snippet_highlighted_words": [
+        "Shiba Inu's price today is US$0.00001552"
+      ],
+      "source": "Crypto.com"
+    },
+    {
+      "position": 4,
+      "title": "Shiba Inu (cryptocurrency)",
+      "link": "https://en.wikipedia.org/wiki/Shiba_Inu_(cryptocurrency)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Shiba_Inu_(cryptocurrency)&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECBsQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Shiba_Inu_(cryptocurr...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b758426c36793f7c135f81fe73165acb17.png",
+      "snippet": "Shiba Inu token (ticker: SHIB) is a decentralized cryptocurrency created in August 2020 by an anonymous person or group using the pseudonym \"Ryoshi\".",
+      "snippet_highlighted_words": [
+        "Shiba Inu token"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 5,
+      "title": "Shiba Inu (SHIB) Price | SHIB to USD Price and Live Chart",
+      "link": "https://www.coindesk.com/price/shiba-inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coindesk.com/price/shiba-inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECDgQAQ",
+      "displayed_link": "https://www.coindesk.com › price › shiba-inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b73330ce98acf6caa135643a027ea7b32c.png",
+      "snippet": "The price of Shiba Inu (SHIB) is $0.0₄13 today as of Jul 23, 2025, 11:38 pm EDT, with a 24-hour trading volume of $321.96M.",
+      "snippet_highlighted_words": [
+        "Shiba"
+      ],
+      "source": "CoinDesk"
+    },
+    {
+      "position": 6,
+      "title": "Buy Shiba Inu - SHIB Price Today, Live Charts and News",
+      "link": "https://robinhood.com/us/en/crypto/SHIB/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://robinhood.com/us/en/crypto/SHIB/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECDIQAQ",
+      "displayed_link": "https://robinhood.com › Crypto › SHIB",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7156f9cb4b1b94afc6141537ae9c133a7.png",
+      "snippet": "The price of Shiba Inu is $0.00001553. Buy Shiba Inu - SHIB with $1. Invest in SHIB cryptocurrency with Robinhood in the easiest and fastest way.",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "Shiba",
+        "cryptocurrency"
+      ],
+      "source": "Robinhood"
+    },
+    {
+      "position": 7,
+      "title": "SHIBA INU Coin Price | SHIB Crypto",
+      "link": "https://www.investing.com/crypto/shiba-inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investing.com/crypto/shiba-inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCOsBEAE",
+      "displayed_link": "https://www.investing.com › crypto › shiba-inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7f5ecc18843a4fb2ed05b35f121e769cf.jpeg",
+      "snippet": "Shiba Inu is the Ethereum variant of the popular Scrypt programmed Dogecoin. Launched officially in August 2020 by an anonymous group of developers called ...",
+      "snippet_highlighted_words": [
+        "Shiba Inu is the Ethereum variant of the popular Scrypt programmed Dogecoin"
+      ],
+      "missing": [
+        "sheba"
+      ],
+      "must_include": {
+        "word": "sheba",
+        "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=bitcoin+%22sheba%22&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ5t4CegUI_QEQAQ"
+      },
+      "source": "Investing.com"
+    },
+    {
+      "position": 8,
+      "title": "Shiba Inu Price Chart (SHIB)",
+      "link": "https://www.coingecko.com/en/coins/shiba-inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coingecko.com/en/coins/shiba-inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECDQQAQ",
+      "displayed_link": "https://www.coingecko.com › coins › shiba-inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7521d1f8d6a30b3f9b8eedd065b40330f.png",
+      "snippet": "Track the latest Shiba Inu price, market cap, trading volume, news and more with CoinGecko's live SHIB price chart and popular ...",
+      "snippet_highlighted_words": [
+        "live SHIB price chart"
+      ],
+      "source": "CoinGecko"
+    },
+    {
+      "position": 9,
+      "title": "LIVE Shiba Inu price today - SHIB price chart & live trends",
+      "link": "https://www.kraken.com/prices/shiba-inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kraken.com/prices/shiba-inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCJ4BEAE",
+      "displayed_link": "https://www.kraken.com › Prices",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7a16d9d7d96f4a510efdf286a97793d0e.png",
+      "snippet": "The Shiba Inu price is $0.000014. Find SHIB trends, real-time charts & price history. Chart the path to financial freedom today.",
+      "snippet_highlighted_words": [
+        "Shiba"
+      ],
+      "source": "Kraken"
+    },
+    {
+      "position": 10,
+      "title": "Swap, Convert Bitcoin (BTC) to SHIBA INU (SHIB)",
+      "link": "https://www.coinbase.com/converter/btc/shib",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coinbase.com/converter/btc/shib&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCOwBEAE",
+      "displayed_link": "https://www.coinbase.com › converter › btc › shib",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b755df75349e7933d4bf4a9973a6c98d57.png",
+      "snippet": "The exchange rate of Bitcoin is increasing. The current value of 1 BTC is 8,483,174,084.71 SHIB. In other words, to buy 5 Bitcoin, it would cost you ...",
+      "snippet_highlighted_words": [
+        "The current value of 1 BTC is 8,483,174,084.71 SHIB"
+      ],
+      "missing": [
+        "sheba"
+      ],
+      "must_include": {
+        "word": "sheba",
+        "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=bitcoin+%22sheba%22&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ5t4CegUI_gEQAQ"
+      },
+      "source": "Coinbase"
+    },
+    {
+      "position": 11,
+      "title": "SHIB to BTC: Shiba Inu Price in Bitcoin",
+      "link": "https://www.coingecko.com/en/coins/shiba-inu/btc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coingecko.com/en/coins/shiba-inu/btc&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCKACEAE",
+      "displayed_link": "https://www.coingecko.com › Shiba Inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7928802c1c216dbdb77f06326c2718cc3.png",
+      "snippet": "Shiba Inu (SHIB) is worth BTC0.0 91175 today, which is a 1.4% decline from an hour ago and a 7.7% decline since yesterday. The value of SHIB today is 0.7% lower ...",
+      "snippet_highlighted_words": [
+        "Shiba Inu (SHIB) is worth BTC0.0 91175 today"
+      ],
+      "source": "CoinGecko"
+    },
+    {
+      "position": 12,
+      "title": "Calculate Shiba Inu to Bitcoin Live Today (SHIB-BTC)",
+      "link": "https://coinmarketcap.com/currencies/shiba-inu/shib/btc/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinmarketcap.com/currencies/shiba-inu/shib/btc/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECDUQAQ",
+      "displayed_link": "https://coinmarketcap.com › ... › CoinMarketCap",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b777c26cbe21af3d01c49372cab8760acb.png",
+      "snippet": "The SHIB to BTC conversion rate today is 0.0#(9)1204 BTC. This is a decrease of NaN% in the last hour and a decrease of 5.75% in the last 24 hours. The recent ...",
+      "snippet_highlighted_words": [
+        "The SHIB to BTC conversion rate today is 0.0#(9)1204 BTC"
+      ],
+      "source": "CoinMarketCap"
+    },
+    {
+      "position": 13,
+      "title": "Shiba Inu Price — SHIB to USD Chart",
+      "link": "https://www.tradingview.com/symbols/SHIBUSD/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tradingview.com/symbols/SHIBUSD/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECHEQAQ",
+      "displayed_link": "https://www.tradingview.com › ... › Cryptocurrencies",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b706f68926dfccc44ffe0f7740ff389513.png",
+      "snippet": "View live SHIBA INU chart to track latest price changes. Trade ideas, forecasts and market news are at your disposal as well.",
+      "snippet_highlighted_words": [
+        "live SHIBA INU chart"
+      ],
+      "source": "TradingView"
+    },
+    {
+      "position": 14,
+      "title": "Shiba Inu USD Price (SHIB-USD)",
+      "link": "https://finance.yahoo.com/quote/SHIB-USD/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://finance.yahoo.com/quote/SHIB-USD/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCJ8BEAE",
+      "displayed_link": "https://finance.yahoo.com › quote › SHIB-USD",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7d54c40a65398ad3eeb5973612829e9da.png",
+      "snippet": "Shiba Inu (SHIB) is a cryptocurrency launched in 2020and operates on the Ethereum platform. Shiba Inu has a current supply of 589,501,629,921,665.77652567 ...",
+      "snippet_highlighted_words": [
+        "Shiba Inu (SHIB"
+      ],
+      "source": "Yahoo Finance"
+    },
+    {
+      "position": 15,
+      "title": "Shiba Inu",
+      "link": "https://shibatoken.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shibatoken.com/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCMgBEAE",
+      "displayed_link": "https://shibatoken.com",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b70f9c59f397692cf87c314c2ea55cefbd.png",
+      "snippet": "Shiba Inu (SHIB) is our key token, embodying a global, decentralized, community-driven currency. Launched in 2020, this Ethereum-based token is a global ...",
+      "snippet_highlighted_words": [
+        "Shiba Inu (SHIB"
+      ],
+      "source": "Shibtoken"
+    },
+    {
+      "position": 16,
+      "title": "Shiba Inu(SHIB) Price Today, SHIB to USD Real- ...",
+      "link": "https://stocktwits.com/symbol/SHIB.X",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stocktwits.com/symbol/SHIB.X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCPgBEAE",
+      "displayed_link": "https://stocktwits.com › Symbol",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7e9c9f253cc601c6d985c425b77a909ba.png",
+      "snippet": "Track Shiba Inu(SHIB) Price, real-time chart movements, latest community messages, chart, news and related information. Share your ideas and get valuable ...",
+      "snippet_highlighted_words": [
+        "real-time chart movements"
+      ],
+      "source": "Stocktwits"
+    },
+    {
+      "position": 17,
+      "title": "How come Shiba has never gone back to it's ATH?",
+      "link": "https://www.reddit.com/r/SHIBArmy/comments/1knslot/how_come_shiba_has_never_gone_back_to_its_ath/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/SHIBArmy/comments/1knslot/how_come_shiba_has_never_gone_back_to_its_ath/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCJICEAE",
+      "displayed_link": "120+ comments · 2 months ago",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7d88f16b227e8fcd0c5654251911dd3a0.png",
+      "snippet": "The institutions are here and they're not going to buy cumelonshiba coins. It's just Bitcoin. There is no second best.",
+      "snippet_highlighted_words": [
+        "Bitcoin"
+      ],
+      "source": "Reddit · r/SHIBArmy"
+    },
+    {
+      "position": 18,
+      "title": "Shiba Inu Price Chart & Market Cap",
+      "link": "https://coincodex.com/crypto/shiba-inu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coincodex.com/crypto/shiba-inu/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCKICEAE",
+      "displayed_link": "https://coincodex.com › crypto › shiba-inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b747e1c03723e6e560f269c5b4119be07f.png",
+      "snippet": "Shiba Inu is a decentralized cryptocurrency launched in August 2020 by an anonymous individual or group known as “Ryoshi”. Initially inspired by Dogecoin ...",
+      "snippet_highlighted_words": [
+        "Shiba Inu is a decentralized cryptocurrency"
+      ],
+      "source": "CoinCodex"
+    },
+    {
+      "position": 19,
+      "title": "Shiba Inu Price: SHIB/GBP",
+      "link": "https://www.revolut.com/crypto/price/shib/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.revolut.com/crypto/price/shib/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCL0CEAE",
+      "displayed_link": "https://www.revolut.com › crypto › price › shib",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7e56d887f45dad0dc267c196bebff7d1a.png",
+      "snippet": "The Shiba Inu price today is £0.00001 with a 24-hour trading volume of £302736541.91. Get SHIB price charts & market cap from Revolut.",
+      "snippet_highlighted_words": [
+        "The Shiba Inu price today is £0.00001"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 225868
+          },
+          "extensions": [
+            "4.5(225,868)"
+          ]
+        }
+      },
+      "source": "Revolut"
+    },
+    {
+      "position": 20,
+      "title": "Shiba Inu BTC Price (SHIB-BTC)",
+      "link": "https://finance.yahoo.com/quote/SHIB-BTC/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://finance.yahoo.com/quote/SHIB-BTC/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECDcQAQ",
+      "displayed_link": "https://finance.yahoo.com › quote › SHIB-BTC",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7caf3bac3814bfc9afa7904e19e11c0e9.png",
+      "snippet": "The last known price of Shiba Inu is 0.00001521 USD and is up 2.21 over the last 24 hours. It is currently trading on 984 active market(s) with $362,414,780.56 ...",
+      "snippet_highlighted_words": [
+        "Shiba"
+      ],
+      "source": "Yahoo Finance"
+    },
+    {
+      "position": 21,
+      "title": "Buy Shiba Inu Coin (SHIB) with Credit Card & Debit Card",
+      "link": "https://www.bitpay.com/buy-shiba-inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bitpay.com/buy-shiba-inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECE4QAQ",
+      "displayed_link": "https://www.bitpay.com › buy-shiba-inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7c052c4e6de64978c986cdf901513a9a6.jpeg",
+      "snippet": "Buy Shibu Inu (SHIB) instantly. · How to buy Shiba Inu (SHIB) online or with the BitPay App · Enter an amount · Send to any wallet · Pay and receive your Shiba Inu.",
+      "snippet_highlighted_words": [
+        "How to buy Shiba Inu (SHIB) online or with the BitPay App"
+      ],
+      "missing": [
+        "sheba"
+      ],
+      "must_include": {
+        "word": "sheba",
+        "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=bitcoin+%22sheba%22&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ5t4CegQIWRAB"
+      },
+      "source": "BitPay"
+    },
+    {
+      "position": 22,
+      "title": "SHIB to BTC | Convert Shiba Inu to BTC",
+      "link": "https://www.kraken.com/convert/shib/btc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kraken.com/convert/shib/btc&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECHIQAQ",
+      "displayed_link": "https://www.kraken.com › Convert › Shib",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b78ee67a24297cf7c8f38613178cc0a95e.png",
+      "snippet": "1 SHIB equals 0.00000000012 BTC. The current value of 1 Shiba Inu is -13.88% against the exchange rate to BTC in the last 24 hours. The current Shiba Inu market ...",
+      "snippet_highlighted_words": [
+        "1 SHIB equals 0.00000000012 BTC"
+      ],
+      "missing": [
+        "sheba"
+      ],
+      "must_include": {
+        "word": "sheba",
+        "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=bitcoin+%22sheba%22&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ5t4CegUIgQEQAQ"
+      },
+      "source": "Kraken"
+    },
+    {
+      "position": 23,
+      "title": "Shiba Inu Price Prediction – Forbes Advisor Australia",
+      "link": "https://www.forbes.com/advisor/au/investing/cryptocurrency/shiba-inu-price-prediction/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.forbes.com/advisor/au/investing/cryptocurrency/shiba-inu-price-prediction/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCIgBEAE",
+      "displayed_link": "https://www.forbes.com › investing › cryptocurrency",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7301ddb9efe62c621421e35940c5e7637.png",
+      "date": "Jul 15, 2025",
+      "snippet": "Shiba Inu (SHIB) is one of the world's top 20 cryptocurrencies by market capitalisation, despite its being conceived as a spin-off from ...",
+      "snippet_highlighted_words": [
+        "Shiba Inu (SHIB"
+      ],
+      "source": "Forbes"
+    },
+    {
+      "position": 24,
+      "title": "Shiba Inu (SHIB) Price Prediction 2025 2026 2027 - 2030",
+      "link": "https://changelly.com/blog/shiba-inu-price-prediction/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://changelly.com/blog/shiba-inu-price-prediction/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCKIBEAE",
+      "displayed_link": "https://changelly.com › ... › Price Prediction",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7db055d7ae7fc8042ad1ea3d6b8f0f58b.png",
+      "snippet": "The Dogecoin killer – Shibu Inu Token has been gaining momentum rapidly. Read Changelly's SHIB coin price prediction right here.",
+      "snippet_highlighted_words": [
+        "Shibu Inu Token has been gaining momentum rapidly"
+      ],
+      "source": "Changelly"
+    },
+    {
+      "position": 25,
+      "title": "The Future of Shiba Inu Coin: 2024 Predictions",
+      "link": "https://www.simplilearn.com/tutorials/blockchain-tutorial/what-is-shiba-inu-coin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.simplilearn.com/tutorials/blockchain-tutorial/what-is-shiba-inu-coin&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCLIBEAE",
+      "displayed_link": "https://www.simplilearn.com › blockchain-tutorial › wh...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b760961c6d4213e8c40cad7c288eb8304f.png",
+      "date": "Jun 9, 2025",
+      "snippet": "Shiba Inu Coin is a decentralized, community-building cryptocurrency that is “an experiment” developed within the Shiba Inu Ecosystem.",
+      "snippet_highlighted_words": [
+        "Shiba Inu Coin"
+      ],
+      "source": "Simplilearn.com"
+    },
+    {
+      "position": 26,
+      "title": "Shiba Inu Price Today, SHIB Price Chart & Market Cap",
+      "link": "https://www.kucoin.com/price/SHIB",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kucoin.com/price/SHIB&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCMcBEAE",
+      "displayed_link": "https://www.kucoin.com › Prices",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b73b34659c551355a2002336953bc498a3.png",
+      "snippet": "Shiba Inu (SHIB) is the world's second-largest meme token by market cap and traces its origins as a Dogecoin killer. Taking on the leading memecoin in the ...",
+      "snippet_highlighted_words": [
+        "Shiba Inu (SHIB"
+      ],
+      "source": "KuCoin"
+    },
+    {
+      "position": 27,
+      "title": "Shiba Inu (SHIB) live coin price, charts, markets & liquidity",
+      "link": "https://www.livecoinwatch.com/price/ShibaInu-SHIB",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.livecoinwatch.com/price/ShibaInu-SHIB&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCOQBEAE",
+      "displayed_link": "https://www.livecoinwatch.com › price › ShibaInu-SHIB",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b70c86f2406f0a7d880732a32fc0cd882e.png",
+      "snippet": "Shiba Inu (SHIB) also known as Shiba Token is a decentralized cryptocurrency and dog meme token on the Ethereum network ERC-20 token standard.",
+      "snippet_highlighted_words": [
+        "Shiba Inu (SHIB"
+      ],
+      "source": "Live Coin Watch"
+    },
+    {
+      "position": 28,
+      "title": "Should I invest in Shiba Inu (SHIB) right now? What are ...",
+      "link": "https://www.quora.com/Should-I-invest-in-Shiba-Inu-SHIB-right-now-What-are-your-predictions-for-its-performance-next-year",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Should-I-invest-in-Shiba-Inu-SHIB-right-now-What-are-your-predictions-for-its-performance-next-year&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCIcCEAE",
+      "displayed_link": "1 answer · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b738ee7a4b9b5d8ed5f02071ec0385b807.png",
+      "snippet": "Should be about $800 right now. Like another said, don't touch it even if it drops. Almost 50% of the total shib in circulation has been burned in just 4 yrs.",
+      "snippet_highlighted_words": [
+        "Should be about $800 right now"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 29,
+      "title": "Shiba Inu Is Outperforming Bitcoin in 2024, and It's Not ...",
+      "link": "https://www.nasdaq.com/articles/shiba-inu-is-outperforming-bitcoin-in-2024-and-its-not-even-close.-but-does-that-make-it-a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nasdaq.com/articles/shiba-inu-is-outperforming-bitcoin-in-2024-and-its-not-even-close.-but-does-that-make-it-a&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCIYCEAE",
+      "displayed_link": "https://www.nasdaq.com › articles › shiba-inu-is-outper...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7948fb5887c949d77ce698cecc2d554a5.png",
+      "date": "May 26, 2024",
+      "snippet": "With 1 quadrillion tokens in total supply, Shiba Inu currently trades at a price of $0.000026. Since the value is less than a penny, Shiba Inu ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "Shiba"
+      ],
+      "source": "Nasdaq"
+    },
+    {
+      "position": 30,
+      "title": "What Is Shiba Inu (SHIB) in Cryptocurrency?",
+      "link": "https://www.fool.com/terms/s/shiba-inu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fool.com/terms/s/shiba-inu/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCIkCEAE",
+      "displayed_link": "https://www.fool.com › terms › shiba-inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7e488a00ad248b55578ba2ce326ca5461.png",
+      "date": "Feb 25, 2025",
+      "snippet": "Key findings are powered by ChatGPT and based solely off the content from this article. Findings are reviewed by our editorial team.",
+      "source": "The Motley Fool"
+    },
+    {
+      "position": 31,
+      "title": "Shiba Inu Price Today | SHIB to USD Live ...",
+      "link": "https://www.binance.com/en/price/shiba-inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.binance.com/en/price/shiba-inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCJ4CEAE",
+      "displayed_link": "https://www.binance.com › Home › Crypto prices",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b78e7d3d9103ce0ffba34c1608e2d70ff8.png",
+      "date": "Sep 8, 2021",
+      "snippet": "1 Shiba Inu currently costs $0.000014, down 10.69% in the last 24h. Convert SHIB to USD with our instant crypto converter and view price ...",
+      "snippet_highlighted_words": [
+        "1 Shiba Inu currently costs $0.000014"
+      ],
+      "source": "Binance"
+    },
+    {
+      "position": 32,
+      "title": "What Is Shiba Inu & How Does It Work? Who Created SHIB?",
+      "link": "https://kriptomat.io/cryptocurrency-prices/shiba-inu-shib-price/what-is/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kriptomat.io/cryptocurrency-prices/shiba-inu-shib-price/what-is/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCKMCEAE",
+      "displayed_link": "https://kriptomat.io › Cryptocurrencies › Shiba Inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b70f4c7a4adbd2127ce9acc1c61119833e.png",
+      "snippet": "The Shiba Inu is a breed of hunting dog from Japan. Originally bred to flush out small game, the Shiba Inu has been transformed into a decentralized crypto ...",
+      "snippet_highlighted_words": [
+        "a breed of hunting dog from Japan"
+      ],
+      "source": "Kriptomat"
+    },
+    {
+      "position": 33,
+      "title": "Shiba Inu coin - what is it, : r/CryptoCurrency",
+      "link": "https://www.reddit.com/r/CryptoCurrency/comments/q3vvdu/shiba_inu_coin_what_is_it/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/CryptoCurrency/comments/q3vvdu/shiba_inu_coin_what_is_it/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCLYCEAE",
+      "displayed_link": "30+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7a2ed077480d16983c6f70bfa83aa348a.png",
+      "snippet": "It's a meme coin. It went up because a whale got themselves a trillion Shibs. Now it's trickling down. Remains to be seen if it'll become more.",
+      "snippet_highlighted_words": [
+        "It's a meme coin"
+      ],
+      "source": "Reddit · r/CryptoCurrency"
+    },
+    {
+      "position": 34,
+      "title": "What are people's honest opinions about Shiba Inu Coins ...",
+      "link": "https://www.quora.com/What-are-peoples-honest-opinions-about-Shiba-Inu-Coins-the-cryptocurrency-and-not-the-dog-All-I-see-are-people-hyping-it-up-to-the-moon-without-any-objective-analysis-The-article-linked-seems-to-provide-good",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-are-peoples-honest-opinions-about-Shiba-Inu-Coins-the-cryptocurrency-and-not-the-dog-All-I-see-are-people-hyping-it-up-to-the-moon-without-any-objective-analysis-The-article-linked-seems-to-provide-good&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCL4CEAE",
+      "displayed_link": "10+ answers · 4 years ago",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7e1cf2359bb8a8efe68eda2ab1574f0a6.png",
+      "snippet": "You can not call Shiba Inu token a scam, but overall they serve no real purpose in cryptocurrency world. They are meme coins (Shitokens). These ...",
+      "snippet_highlighted_words": [
+        "They are meme coins"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 35,
+      "title": "How two brothers went from nearly jobless to multi- ...",
+      "link": "https://www.cnn.com/2021/05/14/investing/crypto-shiba-inu-brothers-millionaires",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/2021/05/14/investing/crypto-shiba-inu-brothers-millionaires&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCMECEAE",
+      "displayed_link": "https://www.cnn.com › 2021/05/14 › investing › crypto...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b773a297d7687e9387d824f914b3488960.png",
+      "date": "May 14, 2021",
+      "snippet": "Shiba coin, which goes by the ticker symbol SHIB, is up more than 11,000% in the past 30 days, according to the site CoinGecko. Cryptocurrency ...",
+      "snippet_highlighted_words": [
+        "Shiba coin, which goes by the ticker symbol SHIB"
+      ],
+      "source": "CNN"
+    },
+    {
+      "position": 36,
+      "title": "Is Shiba Inu Dead? (Investor's Guide 2025)",
+      "link": "https://coinledger.io/learn/is-shiba-inu-dead",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinledger.io/learn/is-shiba-inu-dead&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECDYQAQ",
+      "displayed_link": "https://coinledger.io › learn › is-shiba-inu-dead",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7b923f5cbf25d5553543ada4bada906e5.png",
+      "snippet": "Shiba Inu is far from 'dead' — the project still has an active community and has seen a resurgence in 2024. Many critics see SHIB as a 'memecoin' with ...",
+      "snippet_highlighted_words": [
+        "Shiba Inu is far from 'dead"
+      ],
+      "source": "CoinLedger"
+    },
+    {
+      "position": 37,
+      "title": "Better Buy: Dogecoin, Shiba Inu, or Bitcoin?",
+      "link": "https://www.fool.com/investing/2024/11/28/better-buy-dogecoin-shiba-inu-or-bitcoin/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fool.com/investing/2024/11/28/better-buy-dogecoin-shiba-inu-or-bitcoin/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECFMQAQ",
+      "displayed_link": "https://www.fool.com › investing › 2024/11/28 › better...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7072943dfb06c148a3b16e4202d448837.png",
+      "date": "Nov 28, 2024",
+      "snippet": "Dogecoin (DOGE 0.33%), Shiba Inu (SHIB -0.14%), and Bitcoin (BTC 0.36%) have logged returns of 362%, 146%, and 121% this year so far, respectively.",
+      "snippet_highlighted_words": [
+        "have logged returns of 362%, 146%, and 121"
+      ],
+      "source": "The Motley Fool"
+    },
+    {
+      "position": 38,
+      "title": "Shib.io | Home of the Shiba Inu (SHIB) Ecosystem.",
+      "link": "https://shib.io/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shib.io/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECFAQAQ",
+      "displayed_link": "https://shib.io",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b73301d81f75f243dc4f8f11a91299c102.png",
+      "snippet": "Join the Shiba Inu's ShibArmy. Explore an innovative crypto ecosystem empowering a global community with utility-based tokens and decentralized finance ...",
+      "snippet_highlighted_words": [
+        "Explore an innovative crypto ecosystem"
+      ],
+      "source": "Shib.io"
+    },
+    {
+      "position": 39,
+      "title": "Convert BTC to SHIB - Bitcoin to Shiba Inu Exchange Rate",
+      "link": "https://cex.io/convert/btc-shib",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cex.io/convert/btc-shib&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECGkQAQ",
+      "displayed_link": "https://cex.io › convert › btc-shib",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b718c3c89246a2ea3293cfbcf2f2b01e95.png",
+      "snippet": "Efficiently swap Bitcoin for Shiba Inu with our trusted BTC to SHIB Exchange on Cex.io. Enjoy competitive rates, fast transactions, and top-notch security.",
+      "snippet_highlighted_words": [
+        "Efficiently swap Bitcoin for Shiba Inu"
+      ],
+      "source": "CEX.IO"
+    },
+    {
+      "position": 40,
+      "title": "Shiba Inu (SHIB) Price Chart",
+      "link": "https://bisonapp.com/en/crypto/coins/shiba-inu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bisonapp.com/en/crypto/coins/shiba-inu/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECHUQAQ",
+      "displayed_link": "https://bisonapp.com › BISON › Crypto › Coins",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7c262c1dada39096d8c18a797934deca8.png",
+      "snippet": "Here you can see the current Shiba Inu price and its historical development. Shiba Inu is one of the crypto currencies you can trade at BISON.",
+      "snippet_highlighted_words": [
+        "current Shiba Inu price"
+      ],
+      "source": "BISON App"
+    },
+    {
+      "position": 41,
+      "title": "SHIBUSD | Shiba Inu USD Overview",
+      "link": "https://www.marketwatch.com/investing/cryptocurrency/shibusd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marketwatch.com/investing/cryptocurrency/shibusd&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCIUBEAE",
+      "displayed_link": "https://www.marketwatch.com › ... › Crypto Currency",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b76138b93d615b196cb2f3172a7e338c72.png",
+      "snippet": "SHIBUSD | A complete Shiba Inu USD cryptocurrency overview by MarketWatch. View the latest cryptocurrency news, crypto prices and market data.",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "cryptocurrency",
+        "cryptocurrency",
+        "crypto"
+      ],
+      "source": "MarketWatch"
+    },
+    {
+      "position": 42,
+      "title": "Shiba Inu Price Today - SHIB Coin Price Chart & Crypto ...",
+      "link": "https://www.bitdegree.org/cryptocurrency-prices/shiba-inu-shib-price",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bitdegree.org/cryptocurrency-prices/shiba-inu-shib-price&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCIcBEAE",
+      "displayed_link": "https://www.bitdegree.org › Crypto › Rankings",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b771409fd845b13163337a51009253741a.png",
+      "snippet": "The current real time Shiba Inu price is $0.0000155, and its trading volume is $231,986,981 in the last 24 hours. SHIB price has grew by 4.17% in the last day, ...",
+      "snippet_highlighted_words": [
+        "Shiba"
+      ],
+      "source": "BitDegree"
+    },
+    {
+      "position": 43,
+      "title": "Shiba Inu Price Today | SHIB Price Index, Live Chart, ...",
+      "link": "https://www.bybit.com/en/price/shiba-inu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bybit.com/en/price/shiba-inu/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCJQBEAE",
+      "displayed_link": "https://www.bybit.com › price › shiba-inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b778933eed3baffc1782cc058d6e3304c5.png",
+      "snippet": "As of Jul 23, 2025, the global cryptocurrency market cap is $8.25B with a -8.36% change in the last 24 hours. SHIB's current price is $0.00001403, with a 24- ...",
+      "snippet_highlighted_words": [
+        "cryptocurrency"
+      ],
+      "source": "Bybit"
+    },
+    {
+      "position": 44,
+      "title": "What Is Shiba Inu (SHIB) in Cryptocurrency, and How Does ...",
+      "link": "https://www.investopedia.com/shiba-inu-shib-5207903",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investopedia.com/shiba-inu-shib-5207903&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCKUBEAE",
+      "displayed_link": "https://www.investopedia.com › ... › Altcoins",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7a2f4e19fb967c388b70d96dabe2f244f.png",
+      "date": "Sep 4, 2024",
+      "snippet": "Shiba Inu is an Ethereum-based altcoin (a cryptocurrency other than Bitcoin) that features the Shiba Inu—a Japanese breed of hunting dog—as its ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "cryptocurrency",
+        "Bitcoin",
+        "Shiba"
+      ],
+      "source": "Investopedia"
+    },
+    {
+      "position": 45,
+      "title": "Latest Shiba Inu News",
+      "link": "https://watcher.guru/news/category/altcoins/shiba-inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://watcher.guru/news/category/altcoins/shiba-inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCKwBEAE",
+      "displayed_link": "https://watcher.guru › Home › Altcoins",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b79d2d5f8e0fb16a3b73989f48a7c3c80e.jpeg",
+      "snippet": "Cryptocurrencies To Buy Under 50 Cents: VeChain, Shiba Inu, Tron. The cryptocurrency market is rallying this month, with Bitcoin and XRP reaching all-time highs ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "cryptocurrency",
+        "Bitcoin"
+      ],
+      "source": "Watcher Guru"
+    },
+    {
+      "position": 46,
+      "title": "Shiba Inu (SHIB) - USDT",
+      "link": "https://www.cryptocompare.com/coins/shib/overview",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cryptocompare.com/coins/shib/overview&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCLEBEAE",
+      "displayed_link": "https://www.cryptocompare.com › shib › overview",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b70ccae761363c82eef30e1473ee750347.png",
+      "snippet": "Shiba Inu (SHIB) is a memecoin and Ethereum-based cryptocurrency that was launched as a community project in 2020 by an anonymous individual or group called ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "cryptocurrency"
+      ],
+      "source": "CryptoCompare"
+    },
+    {
+      "position": 47,
+      "title": "Shiba Inu - SHIB Price, Live Chart, and News",
+      "link": "https://www.blockchain.com/prices/SHIB",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blockchain.com/prices/SHIB&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCMkBEAE",
+      "displayed_link": "https://www.blockchain.com › prices › SHIB",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7e024e1ac4694cf5c8074fa2e599e213a.png",
+      "snippet": "Trade Shiba Inu with the world's most popular crypto wallet. Over 83 million wallets created to buy, sell, and earn crypto. ... Launched in August 2020 by a ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "crypto",
+        "crypto"
+      ],
+      "source": "Blockchain.com"
+    },
+    {
+      "position": 48,
+      "title": "Shiba Inu / Tether Price Chart — SHIB USDT",
+      "link": "https://www.tradingview.com/symbols/SHIBUSDT/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tradingview.com/symbols/SHIBUSDT/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCMsBEAE",
+      "displayed_link": "https://www.tradingview.com › ... › Tether USDt",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7d51a9da575968c1b73e4eb407db40b75.png",
+      "snippet": "The safest choice when buying SHIB is to go to a well-known crypto exchange. Some of the popular names are Binance, Coinbase, Kraken. But you'll have to find a ...",
+      "snippet_highlighted_words": [
+        "crypto"
+      ],
+      "source": "TradingView"
+    },
+    {
+      "position": 49,
+      "title": "Shiba Inu Historical Data",
+      "link": "https://www.investing.com/crypto/shiba-inu/historical-data",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investing.com/crypto/shiba-inu/historical-data&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCM8BEAE",
+      "displayed_link": "https://www.investing.com › crypto › historical-data",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7b3f7a802a3e39e82f85d72da1ed906f4.jpeg",
+      "snippet": "Historical data for the Shiba Inu prices - Shiba Inu price history viewable in daily, weekly or monthly time intervals ... Leading Cryptocurrencies · BTC.",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "Shiba",
+        "BTC"
+      ],
+      "source": "Investing.com"
+    },
+    {
+      "position": 50,
+      "title": "Shiba Inu",
+      "link": "https://en.wikipedia.org/wiki/Shiba_Inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Shiba_Inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCOMBEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Shiba_Inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7b5742e9d33b17382ba56b1f3324ac298.png",
+      "snippet": "This article is about the dog breed. For the cryptocurrency, see Shiba Inu (cryptocurrency). The Shiba Inu (Japanese: 柴犬; Japanese pronunciation: ...",
+      "snippet_highlighted_words": [
+        "cryptocurrency",
+        "Shiba",
+        "cryptocurrency",
+        "Shiba"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 51,
+      "title": "Shiba Inu (SHIB) News - NewsNow",
+      "link": "https://www.newsnow.com/us/Business/Cryptocurrencies/Shiba+Inu+%28SHIB%29",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newsnow.com/us/Business/Cryptocurrencies/Shiba%2BInu%2B%2528SHIB%2529&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCOcBEAE",
+      "displayed_link": "https://www.newsnow.com › Business › Cryptocurrencies",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7755367394749177aae685680113255cf.png",
+      "snippet": "Read the latest Shiba Inu (SHIB) headlines - updated 24/7/365. We link to the best crypto sources. Get the latest news today on the Shiba Inu coin (SHIB)...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "crypto",
+        "Shiba"
+      ],
+      "source": "newsnow.com"
+    },
+    {
+      "position": 52,
+      "title": "0.00023886 | Shiba Inu Trading (SHIB / ZAR)",
+      "link": "https://www.altcointrader.co.za/shib",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.altcointrader.co.za/shib&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCIECEAE",
+      "displayed_link": "https://www.altcointrader.co.za › shib",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7964aa823642fd2414a2fbcc5818aa648.png",
+      "snippet": "Buy and Sell Shiba Inu / SHIB on South Africa's largest Crypto Exchange.",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "Crypto"
+      ],
+      "source": "AltCoinTrader (Pty) Ltd."
+    },
+    {
+      "position": 53,
+      "title": "Shiba Inu Wallet",
+      "link": "https://zengo.com/assets/shiba-inu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zengo.com/assets/shiba-inu/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCIMCEAE",
+      "displayed_link": "https://zengo.com › assets",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b77b9ae877869d7779724b60e04b2619bd.png",
+      "snippet": "Shiba Inu (SHIB) is an Ethereum-based ERC-20 token with an outstanding, dynamic, and passionate community. Zengo is the ideal SHIB crypto wallet – did you know ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "crypto"
+      ],
+      "source": "Zengo"
+    },
+    {
+      "position": 54,
+      "title": "Shiba Inu (SHIB) Price Prediction",
+      "link": "https://www.binance.com/en/price-prediction/shiba-inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.binance.com/en/price-prediction/shiba-inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCIUCEAE",
+      "displayed_link": "https://www.binance.com › Home › Price Prediction",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7abd72bea67362ea77dc22260996c8c6a.png",
+      "snippet": "Cryptocurrency prices are subject to high market risk and price volatility. You should only invest in products that you are familiar with and where you ...",
+      "snippet_highlighted_words": [
+        "Cryptocurrency"
+      ],
+      "source": "Binance"
+    },
+    {
+      "position": 55,
+      "title": "Latest Shiba Inu (SHIB) News Today",
+      "link": "https://thecryptobasic.com/tag/shiba-inu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thecryptobasic.com/tag/shiba-inu/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCIQCEAE",
+      "displayed_link": "https://thecryptobasic.com › tag › shiba-inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7becbb5787d77c079ec5b509e4ee36651.png",
+      "snippet": "On this page, you'll find the most recent Shiba Inu coin news, including updates on SHIB prices, Shibarium developments, and other significant events in the ...",
+      "snippet_highlighted_words": [
+        "Shiba"
+      ],
+      "source": "The Crypto Basic"
+    },
+    {
+      "position": 56,
+      "title": "What is Shiba Inu (SHIB)? A complete beginner's guide",
+      "link": "https://cointelegraph.com/learn/articles/shiba-inu-coin-a-beginners-guide-to-the-shib-cryptocurrency",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cointelegraph.com/learn/articles/shiba-inu-coin-a-beginners-guide-to-the-shib-cryptocurrency&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCJgCEAE",
+      "displayed_link": "https://cointelegraph.com › Learn",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7dc2d3c4e266c4947219cb6deb74fd7ce.png",
+      "date": "Oct 14, 2024",
+      "snippet": "Follow this process to buy BONE and LEASH tokens: Step 1: Set up a cryptocurrency wallet. Select an Ethereum-compatible crypto wallet like ...",
+      "snippet_highlighted_words": [
+        "cryptocurrency",
+        "crypto"
+      ],
+      "source": "Cointelegraph"
+    },
+    {
+      "position": 57,
+      "title": "SHIB-USD",
+      "link": "https://www.nasdaq.com/market-activity/cryptocurrency/shib-usd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nasdaq.com/market-activity/cryptocurrency/shib-usd&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCJ8CEAE",
+      "displayed_link": "https://www.nasdaq.com › ... › Cryptocurrencies",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7a0b72582965c0f2cb2756e495f6b194e.png",
+      "snippet": "SHIBA INU US Dollar (SHIB-USD) prices - Nasdaq offers cryptocurrency prices & market activity data for US and global markets.",
+      "snippet_highlighted_words": [
+        "SHIBA",
+        "cryptocurrency"
+      ],
+      "source": "Nasdaq"
+    },
+    {
+      "position": 58,
+      "title": "Bitcoin Soars to New All-Time High Above $69K; What's ...",
+      "link": "https://www.youtube.com/watch?v=1c1C67Qh7Vo",
+      "displayed_link": "1.8K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_4Ufz-oCOFJfQFQiRfB3S_kHoPGXaVgVSlvagx58svjzP&s",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b74a671d5540266857a4b5df29190ccc8a.png",
+      "snippet": "Bitcoin Soars to New All-Time High Above $69K; What's Behind Shiba Inu's Price Drop on Coinbase? · Comments.",
+      "duration": "2:30",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ71-0LSR6xyKLkf4Ck2yE1qUeC8f4xF7C2mQ",
+      "source": "YouTube · CoinDesk"
+    },
+    {
+      "position": 59,
+      "title": "Shiba Inu And The Big Reveal: A Memecoin No More, But ...",
+      "link": "https://bitcoinist.com/shiba-inu-and-the-big-reveal-a-memecoin-no-more-but-a-tech-powerhouse/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitcoinist.com/shiba-inu-and-the-big-reveal-a-memecoin-no-more-but-a-tech-powerhouse/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCKECEAE",
+      "displayed_link": "https://bitcoinist.com › shiba-inu-and-the-big-reveal-a-...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b704ec35ad8185d891c98ac1e74d5e4991.png",
+      "date": "Feb 4, 2025",
+      "snippet": "Shiba Inu: A Tech Powerhouse With Utility? Kusama boldly claimed in a recent tweet to the crypto community that Shiba Inu now boasts an ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "crypto",
+        "Shiba"
+      ],
+      "source": "Bitcoinist.com"
+    },
+    {
+      "position": 60,
+      "title": "Shiba Inu Price History Chart - All SHIB Historical Data",
+      "link": "https://www.bitdegree.org/cryptocurrency-prices/shiba-inu-shib-price/price-history",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bitdegree.org/cryptocurrency-prices/shiba-inu-shib-price/price-history&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCKcCEAE",
+      "displayed_link": "https://www.bitdegree.org › ... › Rankings › Shiba Inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7c9d7c471a1365a14784e796bc991f74d.png",
+      "snippet": "BitDegree aims to uncover, simplify & share Web3 & cryptocurrency education with the masses. Join millions, easily discover and understand cryptocurrencies, ...",
+      "snippet_highlighted_words": [
+        "cryptocurrency"
+      ],
+      "source": "BitDegree"
+    },
+    {
+      "position": 61,
+      "title": "Price of SHIB with the Market Cap of BTC",
+      "link": "https://marketcapof.com/shiba-inu/bitcoin/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://marketcapof.com/shiba-inu/bitcoin/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCKYCEAE",
+      "displayed_link": "https://marketcapof.com › shiba-inu › bitcoin",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7455ade10a3d0880760c8a4d837b45cdb.png",
+      "snippet": "What would the price of Shiba Inu (SHIB) be if it had the market cap of Bitcoin (BTC)? See live prices and stats for stocks and cryptocurrencies.",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "Bitcoin",
+        "BTC"
+      ],
+      "source": "MarketCapOf"
+    },
+    {
+      "position": 62,
+      "title": "We Asked ChatGPT if Shiba Inu (SHIB) Can Become a Top ...",
+      "link": "https://cryptopotato.com/we-asked-chatgpt-if-shiba-inu-shib-can-become-a-top-10-cryptocurrency-this-year/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cryptopotato.com/we-asked-chatgpt-if-shiba-inu-shib-can-become-a-top-10-cryptocurrency-this-year/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCLsCEAE",
+      "displayed_link": "https://cryptopotato.com › Crypto Bits",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7c9535b12ae8602d587d5002ee814cdaf.jpeg",
+      "date": "Jan 18, 2025",
+      "snippet": "Third, the chatbot estimated that SHIB's eventual rally this year would also depend on the overall crypto market conditions. The current bullish ...",
+      "snippet_highlighted_words": [
+        "crypto"
+      ],
+      "source": "CryptoPotato"
+    },
+    {
+      "position": 63,
+      "title": "SHIB to USD Converter — 1 Shiba Inu to US Dollar price ...",
+      "link": "https://3commas.io/converter/shib-usd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://3commas.io/converter/shib-usd&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCLwCEAE",
+      "displayed_link": "https://3commas.io › Price Charts › Overview",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b75932127fa7362d1dd285f2cfc26ebef3.png",
+      "snippet": "【SHIB ➦ USD Converter】➤➤➤ 1 Shiba Inu to US Dollar price calculator ✓ convert cryptocurrency online ✓ today exchange rates on ⏩ 3commas.io.",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "cryptocurrency"
+      ],
+      "source": "3Commas"
+    },
+    {
+      "position": 64,
+      "title": "What Is Shiba Inu (SHIB) in the World of Digital Assets?",
+      "link": "https://komodoplatform.com/en/academy/what-is-shiba-inu-shib/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://komodoplatform.com/en/academy/what-is-shiba-inu-shib/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCMACEAE",
+      "displayed_link": "https://komodoplatform.com › academy › what-is-shiba...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7d86f381dc7cdb259c205514e3e93ebe0.png",
+      "date": "Aug 8, 2024",
+      "snippet": "Explore Shiba Inu (SHIB) in cryptocurrency, its functions, and history. Learn what Shiba Inu is and how it operates in the crypto world.",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "cryptocurrency",
+        "Shiba",
+        "crypto"
+      ],
+      "source": "Komodo Platform"
+    },
+    {
+      "position": 65,
+      "title": "Shiba Inu Price Prediction: What Will be SHIB Price in 2025 ...",
+      "link": "https://coindcx.com/blog/price-predictions/shiba-inu-price-prediction/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coindcx.com/blog/price-predictions/shiba-inu-price-prediction/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCL8CEAE",
+      "displayed_link": "https://coindcx.com › blog › shiba-inu-price-prediction",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7d2e8881ffc80878f09f22109fd27905f.png",
+      "date": "Jul 11, 2025",
+      "snippet": "... Bitcoin and Ethereum. This surge aligns with the broader crypto market optimism, and rise of speculative assets like Shiba Inu. The Fear ...",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "crypto",
+        "Shiba"
+      ],
+      "source": "CoinDCX"
+    },
+    {
+      "position": 66,
+      "title": "Kabosu dies: Shiba inu dog was meme and face of Dogecoin",
+      "link": "https://www.bbc.com/news/articles/czkkr8l7jjxo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.com/news/articles/czkkr8l7jjxo&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCMICEAE",
+      "displayed_link": "https://www.bbc.com › news › articles",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7ab1600f17fcf99c1b8943b857887dda5.png",
+      "date": "May 24, 2024",
+      "snippet": "Kabosu, a Japanese shiba inu, inspired the viral \"doge\" meme and became the face of Dogecoin cryptocurrency.",
+      "snippet_highlighted_words": [
+        "shiba",
+        "cryptocurrency"
+      ],
+      "source": "BBC"
+    },
+    {
+      "position": 67,
+      "title": "How To Buy Shiba Inu (SHIB)",
+      "link": "https://www.bankrate.com/investing/how-to-buy-shiba-inu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bankrate.com/investing/how-to-buy-shiba-inu/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCNMCEAE",
+      "displayed_link": "https://www.bankrate.com › investing › how-to-buy-shib...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7df9ceb83551d3df40f3b6521430bd956.png",
+      "date": "Aug 19, 2024",
+      "snippet": "Interested in owning offbeat cryptocurrencies? Here's how to buy Shiba Inu (SHIB), an Ethereum-based cryptocurrency and popular memecoin.",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "cryptocurrency"
+      ],
+      "source": "Bankrate"
+    },
+    {
+      "position": 68,
+      "title": "SHIB (Shiba Inu) Price Smashes Triangle Pattern Against ...",
+      "link": "https://thetradable.com/crypto/shib-shiba-inu-price-smashes-triangle-pattern-against-bitcoin-as-big-money-flows-in-2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thetradable.com/crypto/shib-shiba-inu-price-smashes-triangle-pattern-against-bitcoin-as-big-money-flows-in-2&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECFEQAQ",
+      "displayed_link": "https://thetradable.com › crypto › shib-shiba-inu-price-s...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b79686b05050826ebcb34aedb9663c2a81.png",
+      "date": "Jul 9, 2025",
+      "snippet": "Shiba Inu (SHIB) just hit a one-month high against Bitcoin, thanks to massive institutional buying. But things don't look so hot when you ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "Bitcoin"
+      ],
+      "source": "The Tradable"
+    },
+    {
+      "position": 69,
+      "title": "Will Shiba Inu Coin Reach $1 - Complete Analysis",
+      "link": "https://www.tokenmetrics.com/blog/will-shiba-inu-coin-reach-1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tokenmetrics.com/blog/will-shiba-inu-coin-reach-1&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECE0QAQ",
+      "displayed_link": "https://www.tokenmetrics.com › blog › will-shiba-inu-c...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7ac437da717a684c889b113108a658bb7.png",
+      "snippet": "In the ever-changing landscape of the cryptocurrency markets, a distinctive category known as \"meme coins\" has emerged, generating both interest and investment.",
+      "snippet_highlighted_words": [
+        "cryptocurrency"
+      ],
+      "source": "Token Metrics"
+    },
+    {
+      "position": 70,
+      "title": "Interview: Sheba Karamat of Coin Rivet",
+      "link": "https://www.newstex.com/blog/interview-with-sheba-karamat-of-coin-rivet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newstex.com/blog/interview-with-sheba-karamat-of-coin-rivet&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECFQQAQ",
+      "displayed_link": "https://www.newstex.com › blog › interview-with-sheba...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b794ad3c20c87927d6bc81fdaba32ad627.png",
+      "date": "Mar 23, 2022",
+      "snippet": "I was drawn to the concept of cryptocurrency. Centralized methods create all manner of frustrations, but a decentralized system – which ...",
+      "snippet_highlighted_words": [
+        "cryptocurrency"
+      ],
+      "source": "Newstex"
+    },
+    {
+      "position": 71,
+      "title": "Shiba Inu Price Today, Market Cap, SHIB Price Chart",
+      "link": "https://coincheckup.com/coins/shiba-inu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coincheckup.com/coins/shiba-inu&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECE8QAQ",
+      "displayed_link": "https://coincheckup.com › coins › shiba-inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7c03852a513cceffd834226576ad581f7.png",
+      "snippet": "Shiba Inu is outperforming Bitcoin in the last 1 month by 18.81% while the SHIB price in USD increased by 42.00%. Shiba Inu News. All News. 12 Best Crypto to ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "Bitcoin",
+        "Shiba",
+        "Crypto"
+      ],
+      "source": "CoinCheckup"
+    },
+    {
+      "position": 72,
+      "title": "Shiba Inu Coin Price Prediction: Can SHIB Reach $1?",
+      "link": "https://cryptomus.com/blog/shiba-inu-coin-price-prediction-can-shib-reach-1?srsltid=AfmBOoo9ggLCiSEsUZ9fDkdDWqO0M7G50psfXCiIeCI_IyPPEfyB8r_B",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cryptomus.com/blog/shiba-inu-coin-price-prediction-can-shib-reach-1%3Fsrsltid%3DAfmBOoo9ggLCiSEsUZ9fDkdDWqO0M7G50psfXCiIeCI_IyPPEfyB8r_B&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECFoQAQ",
+      "displayed_link": "https://cryptomus.com › blog › shiba-inu-coin-price-pr...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b76a48e2fd537680cf6f8b2f8f01f9b84e.png",
+      "snippet": "Shiba Inu is one of the most discussed coins on the crypto market. It started as a meme coin, but later it gathered a large and enthusiastic community, ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "crypto"
+      ],
+      "source": "Cryptomus"
+    },
+    {
+      "position": 73,
+      "title": "How Many Shiba Inu Coins Are There?",
+      "link": "https://paybis.com/blog/how-many-shiba-inu-coins-are-there/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://paybis.com/blog/how-many-shiba-inu-coins-are-there/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECGoQAQ",
+      "displayed_link": "https://paybis.com › Home › Individuals",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b738aed5c597080904e5981f8537269393.png",
+      "date": "Mar 14, 2023",
+      "snippet": "Investors often look to the market capitalization of a cryptocurrency when evaluating its value. As of February 2023, Shiba Inu's market cap was ...",
+      "snippet_highlighted_words": [
+        "cryptocurrency",
+        "Shiba"
+      ],
+      "source": "Paybis"
+    },
+    {
+      "position": 74,
+      "title": "A Goldman Sachs Analyst Is Bullish on Bitcoin. But Is ...",
+      "link": "https://www.bloomberg.com/news/articles/2019-08-12/a-goldman-sachs-analyst-is-bullish-on-bitcoin-but-is-goldman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bloomberg.com/news/articles/2019-08-12/a-goldman-sachs-analyst-is-bullish-on-bitcoin-but-is-goldman&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECGwQAQ",
+      "displayed_link": "https://www.bloomberg.com › news › articles › a-goldm...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7d7460bf56479a52d6f7ac7acf75289f6.png",
+      "date": "Aug 12, 2019",
+      "snippet": "In a packet of slides sent to clients yesterday, Goldman Sachs Group Inc. technical analyst Sheba Jafari said that Bitcoin could go up by ...",
+      "snippet_highlighted_words": [
+        "Sheba",
+        "Bitcoin"
+      ],
+      "source": "Bloomberg"
+    },
+    {
+      "position": 75,
+      "title": "Shiba Inu market cap history 2020-2025",
+      "link": "https://www.statista.com/statistics/1271617/shiba-inu-daily-market-cap/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.statista.com/statistics/1271617/shiba-inu-daily-market-cap/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECGsQAQ",
+      "displayed_link": "https://www.statista.com › statistics › shiba-inu-daily-ma...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b760bccbe4612ab5c686edfdd046207675.png",
+      "snippet": "Shiba Inu's highest market cap was in October 2021, with the all-time high market ... Daily Bitcoin (BTC) market cap history up to July 15, 2025. Market ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "Bitcoin",
+        "BTC"
+      ],
+      "source": "Statista"
+    },
+    {
+      "position": 76,
+      "title": "How to Buy Cryptocurrency: What Investors Should Know",
+      "link": "https://www.nerdwallet.com/article/investing/how-to-buy-cryptocurrency",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nerdwallet.com/article/investing/how-to-buy-cryptocurrency&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECHYQAQ",
+      "displayed_link": "https://www.nerdwallet.com › Investing",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7b722e2399e90bf54c3deeaf82dfe59fc.png",
+      "date": "May 2, 2025",
+      "snippet": "How to Buy Cryptocurrency: What Investors Should Know · 1. Choose which cryptocurrency to buy · 2. Decide where to buy crypto · 3. Choose how ...",
+      "snippet_highlighted_words": [
+        "Cryptocurrency",
+        "cryptocurrency",
+        "crypto"
+      ],
+      "source": "NerdWallet"
+    },
+    {
+      "position": 77,
+      "title": "Can Shiba Inu (SHIB) Ever Hit $1?",
+      "link": "https://investinghaven.com/crypto-forecasts/can-shiba-inu-shib-ever-hit-1-usd/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://investinghaven.com/crypto-forecasts/can-shiba-inu-shib-ever-hit-1-usd/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECHkQAQ",
+      "displayed_link": "https://investinghaven.com › crypto-forecasts › can-shi...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7d2233a4c8d124de4af1c19d2e7d62f6e.png",
+      "date": "Nov 2, 2024",
+      "snippet": "Shiba Inu was created as a decentralized, community-driven cryptocurrency inspired by Dogecoin. Unlike traditional cryptocurrencies like Bitcoin ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "cryptocurrency",
+        "Bitcoin"
+      ],
+      "source": "Investing Haven"
+    },
+    {
+      "position": 78,
+      "title": "Shiba Inu Coin | 106 Billion SHIB Shocking Coinbase! The ...",
+      "link": "https://www.youtube.com/watch?v=4SVPl2aKBBs",
+      "displayed_link": "2.4K+ views · 2 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0nXRo3i7g34ZKm4WN97DPgjZSrZwOAKGh6cmT3L_c-vzb&s",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b75e567b7d96783db94ea560133aa0b020.png",
+      "snippet": "Shiba Inu Coin | 106 Billion SHIB Shocking Coinbase! The Price Could Be Ready To Rise! 2.4K views · 2 months ago #SHIB #Stocks #Crypto",
+      "duration": "8:41",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQsAWXYylQlcCC9HPQq9lqDlm96hQTKMFuh5w",
+      "source": "YouTube · ClayBro"
+    },
+    {
+      "position": 79,
+      "title": "How many shiba inu coins are there and can ...",
+      "link": "https://bitkan.com/learn/how-many-shiba-inu-coins-are-there-and-can-shiba-coin-reach-1-5097",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitkan.com/learn/how-many-shiba-inu-coins-are-there-and-can-shiba-coin-reach-1-5097&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCIYBEAE",
+      "displayed_link": "https://bitkan.com › learn › how-many-shiba-inu-coins-a...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7d59629b3958d8f380247457bab4e3040.png",
+      "date": "Sep 29, 2022",
+      "snippet": "The Shiba Inu token was inspired by Dogecoin, a cryptocurrency created as a joke back in 2013 that took a popular Doge meme as its logo.",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "cryptocurrency"
+      ],
+      "source": "BitKan.com"
+    },
+    {
+      "position": 80,
+      "title": "Shiba Inu: 54 Billion Moved by US Government Amid Price ...",
+      "link": "https://www.financemagnates.com/cryptocurrency/shiba-inu-54-billion-moved-by-us-government-amid-price-correction/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.financemagnates.com/cryptocurrency/shiba-inu-54-billion-moved-by-us-government-amid-price-correction/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCJIBEAE",
+      "displayed_link": "https://www.financemagnates.com › cryptocurrency › shi...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b70d51a607d684499c98732246bae21d2f.jpeg",
+      "date": "Dec 10, 2024",
+      "snippet": "The US government obtained the SHIB tokens through the seizure of assets from Alameda Research, a trading firm tied to the collapsed crypto ...",
+      "snippet_highlighted_words": [
+        "crypto"
+      ],
+      "source": "Finance Magnates"
+    },
+    {
+      "position": 81,
+      "title": "Shiba Inu Saw a 2399900% Price Increase From Sep 2020",
+      "link": "https://thefintechtimes.com/shiba-inu-saw-the-biggest-increase-in-popularity-and-price-from-sep-2020/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thefintechtimes.com/shiba-inu-saw-the-biggest-increase-in-popularity-and-price-from-sep-2020/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCJUBEAE",
+      "displayed_link": "https://thefintechtimes.com › shiba-inu-saw-the-biggest-...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7f179652c2ccbbf528d1db66074e58ad4.png",
+      "date": "Nov 28, 2021",
+      "snippet": "... Bitcoin, which are notoriously volatile. Greatest increase in price. 1. Shiba Inu. Sept 2020 price: $0.0000000003. Sept 2021 price: $0.0000072",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "Shiba"
+      ],
+      "source": "The Fintech Times"
+    },
+    {
+      "position": 82,
+      "title": "Is Shiba Inu Good Investment? Should I Buy SHIB?",
+      "link": "https://primexbt.com/for-traders/is-shiba-inu-a-good-investment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://primexbt.com/for-traders/is-shiba-inu-a-good-investment/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCJMBEAE",
+      "displayed_link": "https://primexbt.com › Educational Articles › Investing",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7b5d8d482c5fb35681393429d93997e1d.png",
+      "date": "Mar 18, 2025",
+      "snippet": "Despite its popularity, SHIB remains a small market cap coin compared to Bitcoin and Ethereum, making it susceptible to price swings. Investors ...",
+      "snippet_highlighted_words": [
+        "Bitcoin"
+      ],
+      "source": "PrimeXBT"
+    },
+    {
+      "position": 83,
+      "title": "Shiba inu coin Stock Photos and Images",
+      "link": "https://www.alamy.com/stock-photo/shiba-inu-coin.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.alamy.com/stock-photo/shiba-inu-coin.html&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCJEBEAE",
+      "displayed_link": "https://www.alamy.com › stock-photo › shiba-inu-coin",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7f48be29b9ce796381ffb476f56175880.png",
+      "snippet": "RF 2GGH24F–Shiba Inu or Shib coin standing centrally placed among bunch of crypto coins on blue background. Close-up, soft focus. Banner with golden Shiba token ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "crypto",
+        "Shiba"
+      ],
+      "source": "Alamy"
+    },
+    {
+      "position": 84,
+      "title": "Shiba Inu burn rate jumps 500%, burns 15M SHIB after ...",
+      "link": "https://www.thestreet.com/crypto/markets/shiba-inu-burn-rate-jumps-500-burns-15m-shib-after-uae-partnership-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thestreet.com/crypto/markets/shiba-inu-burn-rate-jumps-500-burns-15m-shib-after-uae-partnership-&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCK4BEAE",
+      "displayed_link": "https://www.thestreet.com › Crypto › MARKETS",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b72e817389c93a860974a778730c2e0afa.png",
+      "date": "Feb 7, 2025",
+      "snippet": "Blockchain data revealed that a crypto whale transferred 1.24 trillion SHIB from Kraken into an unknown self-custody wallet on Feb. 5. On-chain ...",
+      "snippet_highlighted_words": [
+        "crypto"
+      ],
+      "source": "TheStreet"
+    },
+    {
+      "position": 85,
+      "title": "Shibburn",
+      "link": "https://www.shibburn.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shibburn.com/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCK0BEAE",
+      "displayed_link": "https://www.shibburn.com",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7a5f3fe49330660d5033e9ec520c3888c.png",
+      "snippet": "The first dedicated burn project in the crypto world. $SHIB burn tracker ... Shiba Inu Supply. 410,751,434,568,329. Total burnt from initial supply.",
+      "snippet_highlighted_words": [
+        "crypto",
+        "Shiba"
+      ],
+      "source": "Shibburn"
+    },
+    {
+      "position": 86,
+      "title": "Meme Coins in the Crosshairs: US Government Moves 54 ...",
+      "link": "https://news.bitcoin.com/meme-coins-in-the-crosshairs-us-government-moves-54-billion-shib/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.bitcoin.com/meme-coins-in-the-crosshairs-us-government-moves-54-billion-shib/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCK8BEAE",
+      "displayed_link": "https://news.bitcoin.com › meme-coins-in-the-crosshairs...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b73944eb2e5f0f83c56f3a3b8e24f54092.png",
+      "date": "Dec 3, 2024",
+      "snippet": "... shiba inu (SHIB), the popular meme coin ... GET BITCOIN. Buy crypto. Sell crypto. I want to buy. BTC. Bitcoin(BTC).",
+      "snippet_highlighted_words": [
+        "shiba",
+        "BITCOIN",
+        "crypto",
+        "crypto",
+        "BTC",
+        "Bitcoin",
+        "BTC"
+      ],
+      "source": "Bitcoin.com News"
+    },
+    {
+      "position": 87,
+      "title": "Shiba Inu (SHIB) Historical Prices",
+      "link": "https://www.coinlore.com/coin/shiba-inu/historical-data",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coinlore.com/coin/shiba-inu/historical-data&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCLABEAE",
+      "displayed_link": "https://www.coinlore.com › Shiba Inu",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b785469e68a40ae3258cc2cb53238f391f.png",
+      "snippet": "... Shiba Inu Price Market Cap Price in BTC 0.00001515371654755018. Price chart from 2021 till today, also includes daily market cap history. Shiba Inu Yearly ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "BTC",
+        "Shiba"
+      ],
+      "source": "CoinLore"
+    },
+    {
+      "position": 88,
+      "title": "Key Reasons Why Buying Shiba Inu Could Be Your Best ...",
+      "link": "https://bitcoinist.com/shiba-inu-best-bet-this-cycle/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitcoinist.com/shiba-inu-best-bet-this-cycle/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCLwBEAE",
+      "displayed_link": "https://bitcoinist.com › shiba-inu-best-bet-this-cycle",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b77b826d5227f7a7691e824cb2d49a420d.png",
+      "snippet": "Scott Matherson is a leading crypto writer at Bitcoinist, who possesses a sharp analytical mind and a deep understanding of the digital currency landscape.",
+      "snippet_highlighted_words": [
+        "crypto"
+      ],
+      "source": "Bitcoinist.com"
+    },
+    {
+      "position": 89,
+      "title": "CryptoPotato - Bitcoin & Altcoins, Crypto News and Guides",
+      "link": "https://cryptopotato.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cryptopotato.com/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCLsBEAE",
+      "displayed_link": "https://cryptopotato.com",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7e26c7f6083fe5dec74dffc271157c6db.jpeg",
+      "snippet": "The ultimate gate to the cryptocurrency world: The latest Bitcoin and crypto news, price analysis, trading and how-to guides for beginners and experts.",
+      "snippet_highlighted_words": [
+        "cryptocurrency",
+        "Bitcoin",
+        "crypto"
+      ],
+      "source": "CryptoPotato"
+    },
+    {
+      "position": 90,
+      "title": "Buy Shiba Inu | How to buy SHIB",
+      "link": "https://www.moonpay.com/buy/shib",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.moonpay.com/buy/shib&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCMoBEAE",
+      "displayed_link": "https://www.moonpay.com › buy › shib",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7a90a5aaf83099db40e538ad7343c96de.png",
+      "snippet": "Just sign up for a free account in seconds from our app, then add a few personal details to verify your identity. 2. Choose SHIB as the crypto you want to buy.",
+      "snippet_highlighted_words": [
+        "crypto"
+      ],
+      "source": "MoonPay"
+    },
+    {
+      "position": 91,
+      "title": "Free Shiba Inu (SHIB) Profit Calculator",
+      "link": "https://coinledger.io/crypto-profit-calculator/shiba-inu-shib",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinledger.io/crypto-profit-calculator/shiba-inu-shib&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCNgBEAE",
+      "displayed_link": "https://coinledger.io › crypto-profit-calculator › shiba-i...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7da05be2677730475d47e42d523d99b50.png",
+      "snippet": "Try our free Shiba Inu profit calculator to calculate your gains or losses on your cryptocurrency trades.",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "cryptocurrency"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 1224
+          },
+          "extensions": [
+            "4.8(1,224)",
+            "Free",
+            "Finance"
+          ]
+        }
+      },
+      "source": "CoinLedger"
+    },
+    {
+      "position": 92,
+      "title": "Shibaswap",
+      "link": "https://shibaswap.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shibaswap.com/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCMwBEAE",
+      "displayed_link": "https://shibaswap.com",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7447d2a73b388db950b5c416382858239.png",
+      "snippet": "ShibaSwap is a decentralized exchange (DEX) for seamless token swaps, liquidity, and staking within the Shiba Inu ecosystem.",
+      "snippet_highlighted_words": [
+        "Shiba"
+      ],
+      "source": "Shibaswap"
+    },
+    {
+      "position": 93,
+      "title": "Shiba Inu Profit Calculator",
+      "link": "https://coincodex.com/profit-calculator/shiba-inu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coincodex.com/profit-calculator/shiba-inu/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCM4BEAE",
+      "displayed_link": "https://coincodex.com › Profit Calculator",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7490d3c12def5b2338a5a283f57493457.png",
+      "snippet": "If you want to see how your investment would have fared if you had invested in in the past, check out our crypto DCA calculator . Initial Investment: $.",
+      "snippet_highlighted_words": [
+        "crypto"
+      ],
+      "source": "CoinCodex"
+    },
+    {
+      "position": 94,
+      "title": "How many Shiba Inu coins are there?",
+      "link": "https://crypto.news/how-many-shiba-inu-coins-are-there/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://crypto.news/how-many-shiba-inu-coins-are-there/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCOUBEAE",
+      "displayed_link": "https://crypto.news › Learn about crypto",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7f5a53891e070381936e026bcb92376c2.png",
+      "date": "Oct 3, 2024",
+      "snippet": "The SHIB crypto has not maintained its supply, and it currently stands at 589 trillion SHIB. Ethereum co-founder Vitalik Buterin sent 410 ...",
+      "snippet_highlighted_words": [
+        "crypto"
+      ],
+      "source": "Crypto News"
+    },
+    {
+      "position": 95,
+      "title": "Shiba Inu (SHIB) Physical Crypto Coin | Commemorative ...",
+      "link": "https://www.amazon.com/Cryptochips-Physical-Crypto-Commemorative-Cryptocurrency/dp/B09J8HRJR4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Cryptochips-Physical-Crypto-Commemorative-Cryptocurrency/dp/B09J8HRJR4&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCOYBEAE",
+      "displayed_link": "https://www.amazon.com › Cryptochips-Physical-Crypt...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b77beb76d1cbad6984d16b72319f6e9ece.png",
+      "snippet": "Cryptochips | Shiba Inu (SHIB) Physical Crypto Coin · Gold. $14.99$14.99. Only 13 left in stock - order soon. · Silver. $14.99$14.99. In Stock ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "Crypto"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 14.99,
+            "currency": "$"
+          },
+          "extensions": [
+            "$14.99",
+            "30-day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 96,
+      "title": "Will Shiba Inu Coin Reach $1 in 2025 or in The Future?",
+      "link": "https://cryptonews.com/cryptocurrency/will-shiba-inu-coin-reach-1-dollar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cryptonews.com/cryptocurrency/will-shiba-inu-coin-reach-1-dollar/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoFCOgBEAE",
+      "displayed_link": "https://cryptonews.com › Cryptocurrency",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b771876802120a73491820e1c181105fa3.png",
+      "date": "Mar 26, 2025",
+      "snippet": "For SHIB to hit $1, it would need to be worth 275 times more than Bitcoin – which is impossible. The numbers don't add up for big price jumps. A ...",
+      "snippet_highlighted_words": [
+        "Bitcoin"
+      ],
+      "source": "Cryptonews"
+    },
+    {
+      "position": 97,
+      "title": "Shiba Predator (QOM) Price Today, News & Live Chart",
+      "link": "https://www.forbes.com/digital-assets/assets/shiba-predator-qom/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.forbes.com/digital-assets/assets/shiba-predator-qom/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECFIQAQ",
+      "displayed_link": "https://www.forbes.com › ... › Forbes Crypto Prices",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b78170b7deca1d2ad7d08b8dcab6d266bd.png",
+      "snippet": "Shiba Predator is a global digital currency exchange offering cryptocurrency trading, advanced tools, and staking options for beginners and experts alike.",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "cryptocurrency"
+      ],
+      "source": "Forbes"
+    },
+    {
+      "position": 98,
+      "title": "Shiba Inu Coin Transfers Goes Live on Robinhood Crypto",
+      "link": "https://coingape.com/shiba-inu-coin-transfers-robinhood-crypto-shib-rally-to-1/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coingape.com/shiba-inu-coin-transfers-robinhood-crypto-shib-rally-to-1/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECDMQAQ",
+      "displayed_link": "https://coingape.com › News › Altcoin News",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b7f73b82e1352cf42bb1b78abb1afac272.png",
+      "date": "Nov 9, 2024",
+      "snippet": "Robinhood Europe's crypto arm in an official announcement on November 9 revealed that it has added Shiba Inu coin to cryptocurrencies supported in crypto ...",
+      "snippet_highlighted_words": [
+        "crypto",
+        "Shiba",
+        "crypto"
+      ],
+      "source": "CoinGape"
+    },
+    {
+      "position": 99,
+      "title": "Crypto Analyst Predicts Major Price Crash For Shiba Inu, ...",
+      "link": "https://www.newsbtc.com/news/shiba-inu-coin/major-price-crash-for-shiba-inu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newsbtc.com/news/shiba-inu-coin/major-price-crash-for-shiba-inu/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECDkQAQ",
+      "displayed_link": "https://www.newsbtc.com › news › major-price-crash-f...",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b75e6d9bf06fb09ac1554c473660f3e87d.png",
+      "snippet": "SHIB Could End The Year At $0.0000444. In an X post, crypto analyst Investing Haven predicted that Shiba Inu could rise to $0.0000444 by year-end. The analyst ...",
+      "snippet_highlighted_words": [
+        "crypto",
+        "Shiba"
+      ],
+      "source": "NewsBTC"
+    },
+    {
+      "position": 100,
+      "title": "Shiba Inu (SHIB) Just $1.4 Billion Away From Flipping ...",
+      "link": "https://cryptonews.net/news/analytics/31298896/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cryptonews.net/news/analytics/31298896/&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQFnoECDoQAQ",
+      "displayed_link": "https://cryptonews.net › news › analytics",
+      "favicon": "https://serpapi.com/searches/68820c09e6cb30cd62adf950/images/9d86cfe062ff3c3bfe7e1fd882e4a8b79844cd9b8b7199d0c4f9e5ed295ea259.png",
+      "date": "2 days ago",
+      "snippet": "The popular meme coin Shiba Inu (SHIB) is getting close to Bitcoin Cash, with a difference of just over $1.4 billion in market ...",
+      "snippet_highlighted_words": [
+        "Shiba",
+        "Bitcoin"
+      ],
+      "source": "Crypto News.net"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Shiba coin",
+      "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=Shiba+coin&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ1QJ6BQjjAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Shiba+coin"
+    },
+    {
+      "block_position": 1,
+      "query": "Will Shiba Inu coin reach $1",
+      "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=Will+Shiba+Inu+coin+reach+%241&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ1QJ6BQjkAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Will+Shiba+Inu+coin+reach+%241"
+    },
+    {
+      "block_position": 1,
+      "query": "Shiba Inu price",
+      "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=Shiba+Inu+price&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ1QJ6BQjiAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Shiba+Inu+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Shiba price",
+      "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=Shiba+price&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ1QJ6BQjeAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Shiba+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Shiba Inu coin today",
+      "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=Shiba+Inu+coin+today&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ1QJ6BQjhAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Shiba+Inu+coin+today"
+    },
+    {
+      "block_position": 1,
+      "query": "Bitcoin price",
+      "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=Bitcoin+price&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ1QJ6BQjgAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Bitcoin+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Dogecoin price",
+      "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=Dogecoin+price&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ1QJ6BQjfAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Dogecoin+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Shiba Inu coin price in INR",
+      "link": "https://www.google.com/search?num=100&sca_esv=df549bc08c278101&hl=en&gl=us&q=Shiba+Inu+coin+price+in+INR&sa=X&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ1QJ6BQjdAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Shiba+Inu+coin+price+in+INR"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=bitcoin+sheba&num=100&sca_esv=df549bc08c278101&hl=en&gl=us&ei=CgyCaPfZKLWlqtsP_drFoAM&start=100&sa=N&sstk=Ac65TH51nTjKQnbZQDiuDgEf4EmU1upXuF7lcfwQc8V3gKPgDkGhKwp1VMoVhM6QBC04AmqZYg3JBxaEWyL79I-tBP-4kpb5_J1ENQ&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ8NMDegUI1AIQCA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=bitcoin+sheba&num=100&sca_esv=df549bc08c278101&hl=en&gl=us&ei=CgyCaPfZKLWlqtsP_drFoAM&start=100&sa=N&sstk=Ac65TH51nTjKQnbZQDiuDgEf4EmU1upXuF7lcfwQc8V3gKPgDkGhKwp1VMoVhM6QBC04AmqZYg3JBxaEWyL79I-tBP-4kpb5_J1ENQ&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ8tMDegUI1AIQBA",
+      "3": "https://www.google.com/search?q=bitcoin+sheba&num=100&sca_esv=df549bc08c278101&hl=en&gl=us&ei=CgyCaPfZKLWlqtsP_drFoAM&start=200&sa=N&sstk=Ac65TH51nTjKQnbZQDiuDgEf4EmU1upXuF7lcfwQc8V3gKPgDkGhKwp1VMoVhM6QBC04AmqZYg3JBxaEWyL79I-tBP-4kpb5_J1ENQ&ved=2ahUKEwj3hvfhpdWOAxW1kmoFHX1tETQQ8tMDegUI1AIQBg"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=bitcoin+sheba&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=bitcoin+sheba&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=bitcoin+sheba&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=bitcoin+sheba&start=200"
+    }
+  }
+}

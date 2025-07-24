@@ -1,0 +1,1668 @@
+{
+  "search_metadata": {
+    "id": "68814ee5b7942f90e9cd06fa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0f01175491441e9e/68814ee5b7942f90e9cd06fa.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0f01175491441e9e/68814ee5b7942f90e9cd06fa.json_with_pixel_position",
+    "created_at": "2025-07-23 21:06:45 UTC",
+    "processed_at": "2025-07-23 21:06:45 UTC",
+    "google_url": "https://www.google.com/search?q=stock+market+mba&oq=stock+market+mba&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0f01175491441e9e/68814ee5b7942f90e9cd06fa.html",
+    "total_time_taken": 3.1
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "stock market mba",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "stock market mba",
+    "total_results": 109000000,
+    "time_taken_displayed": 0.53,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Which MBA is best for the stock market?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVQySmlVbTF1UkdOMldHaHdTVmRMZFVNMlpFaDNiRlppZEhCVk5VdHFiWGhXVUMxdE1WZ3lhV3BMT1ZSU2FscDJZM2czV1ZSNE9ETldkV2d3VTFScGVqWnBRV2RGUmpWYWVYWm5TVzlPZW1zeFNUQnVTalY0ZURWUFVSSVhOV3MyUW1GS00xQk1PVWhUY0RnMFVIQktTSGQxUVZVYUlrRkdUVUZIUjNKdU1rVnlZbEpDUXpKdFozUnpNSGhXWm04eVNVbHpUMVozVGxFIiwiZmN2IjoiMyIsImVpIjoiNWs2QmFKM1BMOUhTcDg0UHBKSHd1QVUiLCJxYyI6IkNoQnpkRzlqYXlCdFlYSnJaWFFnYldKaEVBQjlsaGtGUHciLCJxdWVzdGlvbiI6IldoaWNoIE1CQSBpcyBiZXN0IGZvciB0aGUgc3RvY2sgbWFya2V0PyIsImxrIjoiR2lKM2FHbGphQ0J0WW1FZ2FYTWdZbVZ6ZENCbWIzSWdjM1J2WTJzZ2JXRnlhMlYwIiwiYnMiOiJjLU1LNGxJUHo4aE16bER3ZFhKVXlDeFdTRW90TGxGSXl5OVNLTWxJVlNndXlVX09Wc2hOTE1wT0xiR1gtQ051cENLbFZBNVduWnVVaUtJYVdTV1hCWmVFWnpIWXdQVDhfQlNJYVVXSktabDU2ZllTYV9LTUpLWEVnVnBCSnFCTGM5bHhTWWRuSkphQWpFNU9MTWdzU2N5Qm1na3l6VjVpZVk2UmpKUlVPWFlWUUFPNVVyajBJTDVKU1UwdlNrM0Y2VVNFZXliYkctbEw2WmFUb2ttQUVRQSIsImlkIjoiZmNfNWs2QmFKM1BMOUhTcDg0UHBKSHd1QVVfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVQySmlVbTF1UkdOMldHaHdTVmRMZFVNMlpFaDNiRlppZEhCVk5VdHFiWGhXVUMxdE1WZ3lhV3BMT1ZSU2FscDJZM2czV1ZSNE9ETldkV2d3VTFScGVqWnBRV2RGUmpWYWVYWm5TVzlPZW1zeFNUQnVTalY0ZURWUFVSSVhOV3MyUW1GS00xQk1PVWhUY0RnMFVIQktTSGQxUVZVYUlrRkdUVUZIUjNKdU1rVnlZbEpDUXpKdFozUnpNSGhXWm04eVNVbHpUMVozVGxFIiwiZmN2IjoiMyIsImVpIjoiNWs2QmFKM1BMOUhTcDg0UHBKSHd1QVUiLCJxYyI6IkNoQnpkRzlqYXlCdFlYSnJaWFFnYldKaEVBQjlsaGtGUHciLCJxdWVzdGlvbiI6IldoaWNoIE1CQSBpcyBiZXN0IGZvciB0aGUgc3RvY2sgbWFya2V0PyIsImxrIjoiR2lKM2FHbGphQ0J0WW1FZ2FYTWdZbVZ6ZENCbWIzSWdjM1J2WTJzZ2JXRnlhMlYwIiwiYnMiOiJjLU1LNGxJUHo4aE16bER3ZFhKVXlDeFdTRW90TGxGSXl5OVNLTWxJVlNndXlVX09Wc2hOTE1wT0xiR1gtQ051cENLbFZBNVduWnVVaUtJYVdTV1hCWmVFWnpIWXdQVDhfQlNJYVVXSktabDU2ZllTYV9LTUpLWEVnVnBCSnFCTGM5bHhTWWRuSkphQWpFNU9MTWdzU2N5Qm1na3l6VjVpZVk2UmpKUlVPWFlWUUFPNVVyajBJTDVKU1UwdlNrM0Y2VVNFZXliYkctbEw2WmFUb2ttQUVRQSIsImlkIjoiZmNfNWs2QmFKM1BMOUhTcDg0UHBKSHd1QVVfMSJ9"
+    },
+    {
+      "question": "Is MBA good for trading?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVQySmlVbTF1UkdOMldHaHdTVmRMZFVNMlpFaDNiRlppZEhCVk5VdHFiWGhXVUMxdE1WZ3lhV3BMT1ZSU2FscDJZM2czV1ZSNE9ETldkV2d3VTFScGVqWnBRV2RGUmpWYWVYWm5TVzlPZW1zeFNUQnVTalY0ZURWUFVSSVhOV3MyUW1GS00xQk1PVWhUY0RnMFVIQktTSGQxUVZVYUlrRkdUVUZIUjNKdU1rVnlZbEpDUXpKdFozUnpNSGhXWm04eVNVbHpUMVozVGxFIiwiZmN2IjoiMyIsImVpIjoiNWs2QmFKM1BMOUhTcDg0UHBKSHd1QVUiLCJxYyI6IkNoQnpkRzlqYXlCdFlYSnJaWFFnYldKaEVBQjlsaGtGUHciLCJxdWVzdGlvbiI6IklzIE1CQSBnb29kIGZvciB0cmFkaW5nPyIsImxrIjoiR2hkcGN5QnRZbUVnWjI5dlpDQm1iM0lnZEhKaFpHbHVadyIsImJzIjoiYy1NSzRsSVB6OGhNemxEd2RYSlV5Q3hXU0VvdExsRkl5eTlTS01sSVZTZ3V5VV9PVnNoTkxNcE9MYkdYLUNOdXBDS2xWQTVXblp1VWlLSWFXU1dYQlplRVp6SFl3UFQ4X0JTSWFVV0pLWmw1NmZZU2FfS01KS1hFZ1ZwQkpxQkxjOWx4U1lkbkpKYUFqRTVPTE1nc1NjeUJtZ2t5elY1aWVZNlJqSlJVT1hZVlFBTzVVcmowSUw1SlNVMHZTazNGNlVTRWV5YmJHLWxMNlphVG9rbUFFUUEiLCJpZCI6ImZjXzVrNkJhSjNQTDlIU3A4NFBwSkh3dUFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVQySmlVbTF1UkdOMldHaHdTVmRMZFVNMlpFaDNiRlppZEhCVk5VdHFiWGhXVUMxdE1WZ3lhV3BMT1ZSU2FscDJZM2czV1ZSNE9ETldkV2d3VTFScGVqWnBRV2RGUmpWYWVYWm5TVzlPZW1zeFNUQnVTalY0ZURWUFVSSVhOV3MyUW1GS00xQk1PVWhUY0RnMFVIQktTSGQxUVZVYUlrRkdUVUZIUjNKdU1rVnlZbEpDUXpKdFozUnpNSGhXWm04eVNVbHpUMVozVGxFIiwiZmN2IjoiMyIsImVpIjoiNWs2QmFKM1BMOUhTcDg0UHBKSHd1QVUiLCJxYyI6IkNoQnpkRzlqYXlCdFlYSnJaWFFnYldKaEVBQjlsaGtGUHciLCJxdWVzdGlvbiI6IklzIE1CQSBnb29kIGZvciB0cmFkaW5nPyIsImxrIjoiR2hkcGN5QnRZbUVnWjI5dlpDQm1iM0lnZEhKaFpHbHVadyIsImJzIjoiYy1NSzRsSVB6OGhNemxEd2RYSlV5Q3hXU0VvdExsRkl5eTlTS01sSVZTZ3V5VV9PVnNoTkxNcE9MYkdYLUNOdXBDS2xWQTVXblp1VWlLSWFXU1dYQlplRVp6SFl3UFQ4X0JTSWFVV0pLWmw1NmZZU2FfS01KS1hFZ1ZwQkpxQkxjOWx4U1lkbkpKYUFqRTVPTE1nc1NjeUJtZ2t5elY1aWVZNlJqSlJVT1hZVlFBTzVVcmowSUw1SlNVMHZTazNGNlVTRWV5YmJHLWxMNlphVG9rbUFFUUEiLCJpZCI6ImZjXzVrNkJhSjNQTDlIU3A4NFBwSkh3dUFVXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is capital market MBA?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVQySmlVbTF1UkdOMldHaHdTVmRMZFVNMlpFaDNiRlppZEhCVk5VdHFiWGhXVUMxdE1WZ3lhV3BMT1ZSU2FscDJZM2czV1ZSNE9ETldkV2d3VTFScGVqWnBRV2RGUmpWYWVYWm5TVzlPZW1zeFNUQnVTalY0ZURWUFVSSVhOV3MyUW1GS00xQk1PVWhUY0RnMFVIQktTSGQxUVZVYUlrRkdUVUZIUjNKdU1rVnlZbEpDUXpKdFozUnpNSGhXWm04eVNVbHpUMVozVGxFIiwiZmN2IjoiMyIsImVpIjoiNWs2QmFKM1BMOUhTcDg0UHBKSHd1QVUiLCJxYyI6IkNoQnpkRzlqYXlCdFlYSnJaWFFnYldKaEVBQjlsaGtGUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgY2FwaXRhbCBtYXJrZXQgTUJBPyIsImxrIjoiR2hwM2FHRjBJR2x6SUdOaGNHbDBZV3dnYldGeWEyVjBJRzFpWVEiLCJicyI6ImMtTUs0bElQejhoTXpsRHdkWEpVeUN4V1NFb3RMbEZJeXk5U0tNbElWU2d1eVVfT1ZzaE5MTXBPTGJHWC1DTnVwQ0tsVkE1V25adVVpS0lhV1NXWEJaZUVaekhZd1BUOF9CU0lhVVdKS1psNTZmWVNhX0tNSktYRWdWcEJKcUJMYzlseFNZZG5KSmFBakU1T0xNZ3NTY3lCbWdreXpWNWllWTZSakpSVU9YWVZRQU81VXJqMElMNUpTVTB2U2szRjZVU0VleWJiRy1sTDZaYVRva21BRVFBIiwiaWQiOiJmY181azZCYUozUEw5SFNwODRQcEpId3VBVV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVQySmlVbTF1UkdOMldHaHdTVmRMZFVNMlpFaDNiRlppZEhCVk5VdHFiWGhXVUMxdE1WZ3lhV3BMT1ZSU2FscDJZM2czV1ZSNE9ETldkV2d3VTFScGVqWnBRV2RGUmpWYWVYWm5TVzlPZW1zeFNUQnVTalY0ZURWUFVSSVhOV3MyUW1GS00xQk1PVWhUY0RnMFVIQktTSGQxUVZVYUlrRkdUVUZIUjNKdU1rVnlZbEpDUXpKdFozUnpNSGhXWm04eVNVbHpUMVozVGxFIiwiZmN2IjoiMyIsImVpIjoiNWs2QmFKM1BMOUhTcDg0UHBKSHd1QVUiLCJxYyI6IkNoQnpkRzlqYXlCdFlYSnJaWFFnYldKaEVBQjlsaGtGUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgY2FwaXRhbCBtYXJrZXQgTUJBPyIsImxrIjoiR2hwM2FHRjBJR2x6SUdOaGNHbDBZV3dnYldGeWEyVjBJRzFpWVEiLCJicyI6ImMtTUs0bElQejhoTXpsRHdkWEpVeUN4V1NFb3RMbEZJeXk5U0tNbElWU2d1eVVfT1ZzaE5MTXBPTGJHWC1DTnVwQ0tsVkE1V25adVVpS0lhV1NXWEJaZUVaekhZd1BUOF9CU0lhVVdKS1psNTZmWVNhX0tNSktYRWdWcEJKcUJMYzlseFNZZG5KSmFBakU1T0xNZ3NTY3lCbWdreXpWNWllWTZSakpSVU9YWVZRQU81VXJqMElMNUpTVTB2U2szRjZVU0VleWJiRy1sTDZaYVRva21BRVFBIiwiaWQiOiJmY181azZCYUozUEw5SFNwODRQcEpId3VBVV8xIn0%3D"
+    },
+    {
+      "question": "Which degree is best for stock market trading?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVQySmlVbTF1UkdOMldHaHdTVmRMZFVNMlpFaDNiRlppZEhCVk5VdHFiWGhXVUMxdE1WZ3lhV3BMT1ZSU2FscDJZM2czV1ZSNE9ETldkV2d3VTFScGVqWnBRV2RGUmpWYWVYWm5TVzlPZW1zeFNUQnVTalY0ZURWUFVSSVhOV3MyUW1GS00xQk1PVWhUY0RnMFVIQktTSGQxUVZVYUlrRkdUVUZIUjNKdU1rVnlZbEpDUXpKdFozUnpNSGhXWm04eVNVbHpUMVozVGxFIiwiZmN2IjoiMyIsImVpIjoiNWs2QmFKM1BMOUhTcDg0UHBKSHd1QVUiLCJxYyI6IkNoQnpkRzlqYXlCdFlYSnJaWFFnYldKaEVBQjlsaGtGUHciLCJxdWVzdGlvbiI6IldoaWNoIGRlZ3JlZSBpcyBiZXN0IGZvciBzdG9jayBtYXJrZXQgdHJhZGluZz8iLCJsayI6IkdpMTNhR2xqYUNCa1pXZHlaV1VnYVhNZ1ltVnpkQ0JtYjNJZ2MzUnZZMnNnYldGeWEyVjBJSFJ5WVdScGJtYyIsImJzIjoiYy1NSzRsSVB6OGhNemxEd2RYSlV5Q3hXU0VvdExsRkl5eTlTS01sSVZTZ3V5VV9PVnNoTkxNcE9MYkdYLUNOdXBDS2xWQTVXblp1VWlLSWFXU1dYQlplRVp6SFl3UFQ4X0JTSWFVV0pLWmw1NmZZU2FfS01KS1hFZ1ZwQkpxQkxjOWx4U1lkbkpKYUFqRTVPTE1nc1NjeUJtZ2t5elY1aWVZNlJqSlJVT1hZVlFBTzVVcmowSUw1SlNVMHZTazNGNlVTRWV5YmJHLWxMNlphVG9rbUFFUUEiLCJpZCI6ImZjXzVrNkJhSjNQTDlIU3A4NFBwSkh3dUFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVQySmlVbTF1UkdOMldHaHdTVmRMZFVNMlpFaDNiRlppZEhCVk5VdHFiWGhXVUMxdE1WZ3lhV3BMT1ZSU2FscDJZM2czV1ZSNE9ETldkV2d3VTFScGVqWnBRV2RGUmpWYWVYWm5TVzlPZW1zeFNUQnVTalY0ZURWUFVSSVhOV3MyUW1GS00xQk1PVWhUY0RnMFVIQktTSGQxUVZVYUlrRkdUVUZIUjNKdU1rVnlZbEpDUXpKdFozUnpNSGhXWm04eVNVbHpUMVozVGxFIiwiZmN2IjoiMyIsImVpIjoiNWs2QmFKM1BMOUhTcDg0UHBKSHd1QVUiLCJxYyI6IkNoQnpkRzlqYXlCdFlYSnJaWFFnYldKaEVBQjlsaGtGUHciLCJxdWVzdGlvbiI6IldoaWNoIGRlZ3JlZSBpcyBiZXN0IGZvciBzdG9jayBtYXJrZXQgdHJhZGluZz8iLCJsayI6IkdpMTNhR2xqYUNCa1pXZHlaV1VnYVhNZ1ltVnpkQ0JtYjNJZ2MzUnZZMnNnYldGeWEyVjBJSFJ5WVdScGJtYyIsImJzIjoiYy1NSzRsSVB6OGhNemxEd2RYSlV5Q3hXU0VvdExsRkl5eTlTS01sSVZTZ3V5VV9PVnNoTkxNcE9MYkdYLUNOdXBDS2xWQTVXblp1VWlLSWFXU1dYQlplRVp6SFl3UFQ4X0JTSWFVV0pLWmw1NmZZU2FfS01KS1hFZ1ZwQkpxQkxjOWx4U1lkbkpKYUFqRTVPTE1nc1NjeUJtZ2t5elY1aWVZNlJqSlJVT1hZVlFBTzVVcmowSUw1SlNVMHZTazNGNlVTRWV5YmJHLWxMNlphVG9rbUFFUUEiLCJpZCI6ImZjXzVrNkJhSjNQTDlIU3A4NFBwSkh3dUFVXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The Stock Market MBA: Everything You Need to Know ...",
+      "link": "https://www.amazon.com/Stock-Market-MBA-Everything-Need/dp/B09GJS2GBM",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Stock-Market-MBA-Everything-Need/dp/B09GJS2GBM&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECAoQAQ",
+      "displayed_link": "https://www.amazon.com › Stock-Market-MBA-Everyt...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732aa141a419ba47d7ad2042189b77061c2b.png",
+      "snippet": "This textbook style anthology gathers the collected wisdom of the Sick Economist, a successful investor who has shared his winning financial strategies with ...",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 38.18,
+            "currency": "$",
+            "rating": 4.5,
+            "reviews": 37
+          },
+          "extensions": [
+            "$38.18",
+            "In stock",
+            "4.5(37)"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 2,
+      "title": "StockMarketMBA.com",
+      "link": "https://www.f6s.com/company/stockmarketmba.com",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.f6s.com/company/stockmarketmba.com&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECBgQAQ",
+      "displayed_link": "https://www.f6s.com › Companies",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732af4d07db965676bb4f14d4aba6068402e.png",
+      "snippet": "Online training classes and other continuing education tools and programs about the U.S. stock market. The classes are geared towards both beginning and ...",
+      "snippet_highlighted_words": [
+        "Online training classes and other continuing education tools and programs"
+      ],
+      "source": "F6S"
+    },
+    {
+      "position": 3,
+      "title": "If i want to make a career in stock markets is MBA ...",
+      "link": "https://www.reddit.com/r/CATpreparation/comments/1aulvps/if_i_want_to_make_a_career_in_stock_markets_is/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/CATpreparation/comments/1aulvps/if_i_want_to_make_a_career_in_stock_markets_is/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECCAQAQ",
+      "displayed_link": "6 comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ac1b1dba7dd144fd7f6e643c13e9e1910.png",
+      "snippet": "It depends on what type of roles you want to work in. If IB (front office), Equity Research (Institutional/Buy-side), etc. then MBA is your best ...",
+      "snippet_highlighted_words": [
+        "Equity",
+        "MBA"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Would an MBA help support your career in stock market?",
+            "link": "https://www.reddit.com/r/IndiaInvestments/comments/j2kg85/would_an_mba_help_support_your_career_in_stock/",
+            "answer_count": 27,
+            "date": "Sep 30, 2020"
+          },
+          {
+            "title": "Best MBA program for stock trading? - Reddit",
+            "link": "https://www.reddit.com/r/MBA/comments/607mum/best_mba_program_for_stock_trading/",
+            "answer_count": 11,
+            "date": "Mar 19, 2017"
+          }
+        ]
+      },
+      "source": "Reddit · r/CATpreparation"
+    },
+    {
+      "position": 4,
+      "title": "How Helpful is MBA in Stock Market: Career, Jobs, Salary",
+      "link": "https://www.shiksha.com/mba/articles/how-helpful-is-mba-in-stock-market-blogId-18975",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shiksha.com/mba/articles/how-helpful-is-mba-in-stock-market-blogId-18975&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECB4QAQ",
+      "displayed_link": "https://www.shiksha.com › MBA › All MBA articles",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a93beffe428d6d6d0622b9ae45efb0726.png",
+      "date": "Jun 21, 2025",
+      "snippet": "MBA in Capital Markets is essentially a study in financial markets and portfolio management, with an emphasis on equity, bonds, foreign exchange and their ...",
+      "snippet_highlighted_words": [
+        "MBA in Capital Markets"
+      ],
+      "source": "Shiksha"
+    },
+    {
+      "position": 5,
+      "title": "Financial Instruments and Markets",
+      "link": "https://www.stern.nyu.edu/programs-admissions/full-time-mba/academics/specializations/financial-instruments-and-markets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stern.nyu.edu/programs-admissions/full-time-mba/academics/specializations/financial-instruments-and-markets&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECBoQAQ",
+      "displayed_link": "https://www.stern.nyu.edu › academics › specializations",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a6368eac3063f40718d1fe1bd1393f6dd.png",
+      "snippet": "This specialization focuses on understanding the markets in which various financial instruments are traded and the factors that influence the return and risk ...",
+      "snippet_highlighted_words": [
+        "understanding the markets in which various financial instruments are traded"
+      ],
+      "source": "NYU Stern"
+    },
+    {
+      "position": 6,
+      "title": "Full-Time MBA Capital Markets & Investments Concentration",
+      "link": "https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/academics/concentrations-electives/capital-markets-electives/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/academics/concentrations-electives/capital-markets-electives/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECDcQAQ",
+      "displayed_link": "https://www.kenan-flagler.unc.edu › mba › academics",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732aa873ced0257622147221aec454d6f00f.png",
+      "snippet": "The concentration in Capital Markets and Investments (CMI) prepares students for positions on the buy and sell sides of the capital markets.",
+      "snippet_highlighted_words": [
+        "prepares students for positions on the buy and sell sides of the capital markets"
+      ],
+      "source": "UNC Kenan-Flagler Business School"
+    },
+    {
+      "position": 7,
+      "title": "MBA Finance Concentration",
+      "link": "https://www.chicagobooth.edu/mba/academics/curriculum/concentrations/finance",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chicagobooth.edu/mba/academics/curriculum/concentrations/finance&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECDQQAQ",
+      "displayed_link": "https://www.chicagobooth.edu › mba › concentrations",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a7ca915f57e8dc6565f4911a7cdb4b7d4.png",
+      "snippet": "Investment courses prepare you to make decisions in financial markets: What determines stock and bond prices? How do you evaluate a fund manager? What financial ...",
+      "snippet_highlighted_words": [
+        "Investment courses prepare you to make decisions in financial markets"
+      ],
+      "source": "The University of Chicago Booth School of Business"
+    },
+    {
+      "position": 8,
+      "title": "Understanding Financial Markets: The Value of an MBA in ...",
+      "link": "https://birchwoodu.org/understanding-financial-markets-the-value-of-an-mba-in-finance/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://birchwoodu.org/understanding-financial-markets-the-value-of-an-mba-in-finance/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCOoBEAE",
+      "displayed_link": "https://birchwoodu.org › understanding-financial-market...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732af34b9e7076212e5e0e3c7147b3b781ec.png",
+      "date": "Sep 16, 2024",
+      "snippet": "Advanced financial analysis - MBA program offers in-depth training in financial analysis techniques, including valuation models, financial ...",
+      "snippet_highlighted_words": [
+        "Advanced financial analysis - MBA program"
+      ],
+      "source": "Birchwood University"
+    },
+    {
+      "position": 9,
+      "title": "StockMarketMBA.com Home",
+      "link": "https://stockmarketmba.com.atlaq.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stockmarketmba.com.atlaq.com/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECDIQAQ",
+      "displayed_link": "https://stockmarketmba.com.atlaq.com",
+      "snippet": "Home page of StockMarketMBA.com, a website that provides education and training classes on the US stock market.",
+      "snippet_highlighted_words": [
+        "provides education and training classes on the US stock market"
+      ],
+      "source": "ATLAQ"
+    },
+    {
+      "position": 10,
+      "title": "MBA In Finance | How An MBA Helps To Gain Knowledge In ...",
+      "link": "https://www.youtube.com/watch?v=qWd7C8Ppc-s",
+      "displayed_link": "6.8K+ views · 5 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT__HR11jIuAoM0rjx2wvQw9Dwm00i3Ai3JE_FOTBUMwhC08OJEETvs3oQWeM59&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a1fb20c1e5769c33ceae488d1908f1674.png",
+      "snippet": "Anybody can pick up Finance but they have to develop that skill sets and personality required for finance which they will come to know.",
+      "duration": "13:14",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSKoV8YvXSlh1HFuLfDFCL1Lcqlui_yJPee-A",
+      "source": "YouTube · CATKing"
+    },
+    {
+      "position": 11,
+      "title": "Capital Markets MBA Concentration",
+      "link": "https://goizueta.emory.edu/full-time-mba/concentration/capital-markets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://goizueta.emory.edu/full-time-mba/concentration/capital-markets&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCOYBEAE",
+      "displayed_link": "https://goizueta.emory.edu › full-time-mba › capital-ma...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a9846aa5d2437e20fb7557cc83bfd4dc1.png",
+      "snippet": "The Capital Markets and Investments concentration prepares you for positions on the buy and sell sides of capital markets while providing a solid foundation of ...",
+      "snippet_highlighted_words": [
+        "prepares you for positions on the buy and sell sides of capital markets"
+      ],
+      "source": "Emory University Goizueta Business School"
+    },
+    {
+      "position": 12,
+      "title": "Capital Markets Academy | Full-Time MBA | Indiana Kelley",
+      "link": "https://kelley.iu.edu/programs/full-time-mba/academies/capital-markets/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kelley.iu.edu/programs/full-time-mba/academies/capital-markets/index.html&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCJMCEAE",
+      "displayed_link": "https://kelley.iu.edu › full-time-mba › academies › capita...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a2512647939aafc990cdc606192e83441.png",
+      "snippet": "In the Capital Markets Academy, you'll immerse yourself in finance roles and careers involving capital markets, such as investment banking, wealth management, ...",
+      "snippet_highlighted_words": [
+        "finance roles and careers involving capital markets"
+      ],
+      "missing": [
+        "stock"
+      ],
+      "must_include": {
+        "word": "stock",
+        "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&hl=en&gl=us&q=%22stock%22+market+mba&sa=X&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQ5t4CegUIoAIQAQ"
+      },
+      "source": "Kelley School of Business | Indiana University"
+    },
+    {
+      "position": 13,
+      "title": "Secondary and Capital Markets Conference | MBA",
+      "link": "https://www.mba.org/conferences-and-education/secondary-and-capital-markets-conference",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mba.org/conferences-and-education/secondary-and-capital-markets-conference&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECDgQAQ",
+      "displayed_link": "https://www.mba.org › conferences-and-education › sec...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a753dbb1a1b063239264bfaa909154fde.png",
+      "snippet": "Meet us in New York City at the Marriott Marquis New York on May 17-20 for the largest gathering of secondary and capital markets professionals in real estate ...",
+      "snippet_highlighted_words": [
+        "May 17-20"
+      ],
+      "missing": [
+        "stock"
+      ],
+      "must_include": {
+        "word": "stock",
+        "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&hl=en&gl=us&q=%22stock%22+market+mba&sa=X&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQ5t4CegQISxAB"
+      },
+      "source": "mba.org"
+    },
+    {
+      "position": 14,
+      "title": "Best MBA in Capital Markets & Trading | Delhi NCR",
+      "link": "https://mastersunion.org/pgp-in-capital-markets-and-trading",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mastersunion.org/pgp-in-capital-markets-and-trading&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECGwQAQ",
+      "displayed_link": "https://mastersunion.org › pgp-in-capital-markets-and-tr...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732adf4f85f745e977c28605bff0d140c4e7.png",
+      "snippet": "Become a finance leader with Masters' Union's top MBA in capital markets. Placement companies, trading labs, and real-world exposure drive your career ...",
+      "snippet_highlighted_words": [
+        "Masters' Union's top MBA in capital markets"
+      ],
+      "source": "Masters' Union"
+    },
+    {
+      "position": 15,
+      "title": "Which degree is better for stock market traders, an MBA in ...",
+      "link": "https://theintelligentinvestor.quora.com/Which-degree-is-better-for-stock-market-traders-an-MBA-in-finance-or-a-CFA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theintelligentinvestor.quora.com/Which-degree-is-better-for-stock-market-traders-an-MBA-in-finance-or-a-CFA&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCJIBEAE",
+      "displayed_link": "3 answers · 3 years ago",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a51d34d0af6a55aba07a5eda364b5e7c8.png",
+      "snippet": "MBA - It is more about management Prospective, There will be some subject where you will learn about markets and different securities.",
+      "snippet_highlighted_words": [
+        "MBA"
+      ],
+      "source": "Quora · The Intelligent Investor"
+    },
+    {
+      "position": 16,
+      "title": "Capital Markets & Investments | Courses",
+      "link": "https://courses.business.columbia.edu/B8306",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://courses.business.columbia.edu/B8306&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCMsBEAE",
+      "displayed_link": "https://courses.business.columbia.edu › ...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732acb4cdf15b9d07663f995bae414e9dd84.png",
+      "snippet": "This course provides students with a rigorous foundation in capital markets and investments, emphasizing asset valuation from an applied perspective.",
+      "snippet_highlighted_words": [
+        "provides students with a rigorous foundation in capital markets and investments"
+      ],
+      "missing": [
+        "stock"
+      ],
+      "must_include": {
+        "word": "stock",
+        "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&hl=en&gl=us&q=%22stock%22+market+mba&sa=X&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQ5t4CegUI3wEQAQ"
+      },
+      "source": "Columbia University"
+    },
+    {
+      "position": 17,
+      "title": "MBA in Securities Markets | BSE Institute Ltd",
+      "link": "https://www.bsebti.com/post-graduate/mba-in-securities-markets-makaut-nshm.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bsebti.com/post-graduate/mba-in-securities-markets-makaut-nshm.html&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCOcBEAE",
+      "displayed_link": "https://www.bsebti.com › post-graduate › mba-in-securi...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a23026d2f14c51188e108149f5265b9b9.png",
+      "snippet": "BSE Institute Ltd. and MBA in Securities Markets is a two-year degree program in Financial Markets that focuses on the operation and challenges of financial ...",
+      "snippet_highlighted_words": [
+        "two-year degree program in Financial Markets"
+      ],
+      "source": "BSE Institute"
+    },
+    {
+      "position": 18,
+      "title": "MBA in Financial Markets Course: Fees, Eligibility ...",
+      "link": "https://www.lpu.in/programmes/management/mba-in-financial-markets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lpu.in/programmes/management/mba-in-financial-markets&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCIECEAE",
+      "displayed_link": "https://www.lpu.in › programmes › management › mba-i...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a601b280d55a1e76d394bfbbe0d6be238.png",
+      "snippet": "Pursue an MBA in Financial Markets designed to blend leadership skills with deep financial expertise, preparing you for high-impact roles in the global finance ...",
+      "snippet_highlighted_words": [
+        "MBA",
+        "Markets"
+      ],
+      "source": "LPU"
+    },
+    {
+      "position": 19,
+      "title": "Is an MBA degree necessary to become successful in ...",
+      "link": "https://www.quora.com/Is-an-MBA-degree-necessary-to-become-successful-in-investing-in-stocks-or-are-there-alternative-methods-of-doing-so-without-attending-colleges-and-universities",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Is-an-MBA-degree-necessary-to-become-successful-in-investing-in-stocks-or-are-there-alternative-methods-of-doing-so-without-attending-colleges-and-universities&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCJYCEAE",
+      "displayed_link": "1 answer · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a1bf7e17eb845b8dc87b6e3bc22d07da4.png",
+      "snippet": "No degree will make you successful in stocks. I've seen financial advisors with backgrounds in psychology, lots with business degrees, ...",
+      "snippet_highlighted_words": [
+        "No degree will make you successful in stocks"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Is MBA course helpful in stock market? - Quora",
+            "link": "https://www.quora.com/Is-MBA-course-helpful-in-stock-market",
+            "answer_count": 9,
+            "date": "Dec 24, 2016"
+          },
+          {
+            "title": "What MBA courses will help make a career in the ...",
+            "link": "https://www.quora.com/What-MBA-courses-will-help-make-a-career-in-the-stock-market",
+            "answer_count": 2,
+            "date": "Jan 31, 2017"
+          }
+        ]
+      },
+      "source": "Quora"
+    },
+    {
+      "position": 20,
+      "title": "MBA in Capital Market: Course Details, Syllabus, ...",
+      "link": "https://sunstone.in/blog/mba-capital-market-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sunstone.in/blog/mba-capital-market-guide&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCMACEAE",
+      "displayed_link": "https://sunstone.in › blog › mba-capital-market-guide",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a70b7cc7ebabfe693f22d0f56f4842647.png",
+      "date": "Aug 2, 2023",
+      "snippet": "An MBA in Capital Market is a specialised postgraduate degree program that focuses on providing in-depth knowledge and skills related to ...",
+      "snippet_highlighted_words": [
+        "An MBA in Capital Market is a specialised postgraduate degree program"
+      ],
+      "source": "Sunstone"
+    },
+    {
+      "position": 21,
+      "title": "Stock Market Mba | PDF | Securities (Finance)",
+      "link": "https://www.scribd.com/presentation/81139640/Stock-Market-Mba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/presentation/81139640/Stock-Market-Mba&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECDYQAQ",
+      "displayed_link": "https://www.scribd.com › presentation › Stock-Market-...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a9bf0767d6e0b9680b3f2047471fad761.png",
+      "snippet": "Stock Market Mba. Stock exchanges are places where trading of shares occurs through buying and selling. There are 21 recognized stock exchanges in India, with ...",
+      "snippet_highlighted_words": [
+        "Stock exchanges are places where trading of shares occurs through buying and selling"
+      ],
+      "source": "Scribd"
+    },
+    {
+      "position": 22,
+      "title": "Everything You Need to Know to Win in the Stock Market by",
+      "link": "https://www.ebay.com/itm/388115435657",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ebay.com/itm/388115435657&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECFIQAQ",
+      "displayed_link": "https://www.ebay.com › ... › Textbooks",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a87768523320cf5fdee0aee29955b5f23.png",
+      "snippet": "Anybody can be a successful investor with the right emotional, intellectual, and practical guidance. \"The Stock Market MBA\" will equip you with the tools you ...",
+      "snippet_highlighted_words": [
+        "The Stock Market MBA"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 57.08,
+            "currency": "$"
+          },
+          "extensions": [
+            "$57.08",
+            "In stock"
+          ]
+        }
+      },
+      "source": "eBay"
+    },
+    {
+      "position": 23,
+      "title": "The Stock Market MBA : Everything You Need to Know ...",
+      "link": "https://www.amazon.com/Stock-Market-MBA-Everything-Need-ebook/dp/B09GCMSWZN",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Stock-Market-MBA-Everything-Need-ebook/dp/B09GCMSWZN&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECGsQAQ",
+      "displayed_link": "https://www.amazon.com › Stock-Market-MBA-Everyt...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732af731ca4ced58cbeb94cde144354e23e9.png",
+      "snippet": "This textbook style anthology gathers the collected wisdom of the Sick Economist, a successful investor who has shared his winning financial strategies with ...",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 21.99,
+            "currency": "$",
+            "rating": 4.5,
+            "reviews": 37
+          },
+          "extensions": [
+            "$21.99",
+            "4.5(37)"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 24,
+      "title": "Long Term Programs - National Institute of Securities ...",
+      "link": "https://www.nism.ac.in/long-term-programs/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nism.ac.in/long-term-programs/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCIkBEAE",
+      "displayed_link": "https://www.nism.ac.in › long-term-programs",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732aa4dcc22569cfc0e167a7cd1697f630f9.png",
+      "snippet": "PGDM (Securities Markets) is a 2-year AICTE-approved program designed to equip students with in-depth knowledge of the securities markets. The curriculum covers ...",
+      "snippet_highlighted_words": [
+        "PGDM (Securities Markets"
+      ],
+      "source": "National Institute of Securities Markets (NISM)"
+    },
+    {
+      "position": 25,
+      "title": "100 MBA Finance Stock Market Job Vacancies",
+      "link": "https://in.indeed.com/q-mba-finance-stock-market-jobs.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.indeed.com/q-mba-finance-stock-market-jobs.html&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCJABEAE",
+      "displayed_link": "https://in.indeed.com › q-mba-finance-stock-market-jobs",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a4a60b19ff1aaff299a2a6a4a934ebc8a.png",
+      "snippet": "149 MBA Finance Stock Market jobs available on Indeed.com.",
+      "snippet_highlighted_words": [
+        "MBA",
+        "Stock Market"
+      ],
+      "source": "Indeed"
+    },
+    {
+      "position": 26,
+      "title": "Best MBA Capital Markets College in Punjab, India",
+      "link": "https://www.cuchd.in/management/mba-capital-markets.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cuchd.in/management/mba-capital-markets.php&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCKoBEAE",
+      "displayed_link": "https://www.cuchd.in › management › mba-capital-mar...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a014224e3c4fa4cfdfa5e22547455d9b2.png",
+      "snippet": "The Master of Business Administration in Capital Markets program combines robust managerial education with specialised market knowledge, preparing graduates for ...",
+      "snippet_highlighted_words": [
+        "Master of Business Administration in Capital Markets program"
+      ],
+      "source": "Chandigarh University"
+    },
+    {
+      "position": 27,
+      "title": "MBA-FinTech The Future of Finance",
+      "link": "https://www.nseindia.com/learn/pg-program-full-time-mba-fintech-program",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nseindia.com/learn/pg-program-full-time-mba-fintech-program&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCMoBEAE",
+      "displayed_link": "https://www.nseindia.com › learn › pg-program-full-ti...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a8dad90dd037d9a95452c6f56940f7e81.png",
+      "date": "Mar 6, 2025",
+      "snippet": "The two-year full-time Post Graduate Program MBA- Fintech (Financial Technology) in collaboration with NSE Academy, will be a flagship program of Chandigarh ...",
+      "snippet_highlighted_words": [
+        "two-year full-time Post Graduate Program MBA- Fintech"
+      ],
+      "source": "NSE"
+    },
+    {
+      "position": 28,
+      "title": "MBA Financial Markets",
+      "link": "https://isdclearning.online/mba-financial-markets/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://isdclearning.online/mba-financial-markets/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCOABEAE",
+      "displayed_link": "https://isdclearning.online › mba-financial-markets",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732af607f1a4e929b719bb774238d9894aae.png",
+      "snippet": "A comprehensive programme that provides an in-depth understanding of Banking & Finance, and Capital Markets enables you to develop career-specific skills.",
+      "snippet_highlighted_words": [
+        "provides an in-depth understanding of Banking & Finance, and Capital Markets"
+      ],
+      "source": "ISDC Learning Online"
+    },
+    {
+      "position": 29,
+      "title": "The Stock Market MBA by The Sick Economist",
+      "link": "https://www.booksamillion.com/p/Stock-Market-MBA/Sick-Economist/9798477765485?id=9258548278520",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.booksamillion.com/p/Stock-Market-MBA/Sick-Economist/9798477765485%3Fid%3D9258548278520&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCOgBEAE",
+      "displayed_link": "https://www.booksamillion.com › Stock-Market-MBA",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732adf34083e6d38e6274814a4f5344be2ed.png",
+      "snippet": "This anthology collection will demystify the world of Wall Street and explain the stock market in plain language that any investor can understand. In the ...",
+      "snippet_highlighted_words": [
+        "demystify the world of Wall Street"
+      ],
+      "source": "Books-A-Million"
+    },
+    {
+      "position": 30,
+      "title": "Everything You Need to Know to Win in the Stock Market ...",
+      "link": "https://www.betterworldbooks.com/product/detail/the-stock-market-mba-everything-you-need-to-know-to-win-in-the-stock-market-9798477765485?srsltid=AfmBOooSHdtwZrVx6GO5MT49sriRGB5MUh6_ZkrUunHBSgReYoG9d3rs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.betterworldbooks.com/product/detail/the-stock-market-mba-everything-you-need-to-know-to-win-in-the-stock-market-9798477765485%3Fsrsltid%3DAfmBOooSHdtwZrVx6GO5MT49sriRGB5MUh6_ZkrUunHBSgReYoG9d3rs&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCP0BEAE",
+      "displayed_link": "https://www.betterworldbooks.com › product › detail",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a6d0dc30be784ccf3b299c832b2144e71.png",
+      "snippet": "3 BOOKS IN 1 This textbook style anthology gathers the collected wisdom of the Sick Economist, a successful investor who has shared his winning financial ...",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 36.3,
+            "currency": "$"
+          },
+          "extensions": [
+            "$36.30"
+          ]
+        }
+      },
+      "source": "Better World Books"
+    },
+    {
+      "position": 31,
+      "title": "stockmarketmba",
+      "link": "https://pypi.org/project/stockmarketmba/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pypi.org/project/stockmarketmba/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCIICEAE",
+      "displayed_link": "https://pypi.org › project › stockmarketmba",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a7fd484a4aca3b4ddc04094b09f1c16ec.png",
+      "date": "Feb 6, 2022",
+      "snippet": "A simple library for accessing data from stockmarketmba.com. API queries currently return a JSON object, however future development will allow further options.",
+      "snippet_highlighted_words": [
+        "A simple library for accessing data from stockmarketmba.com"
+      ],
+      "source": "PyPI"
+    },
+    {
+      "position": 32,
+      "title": "Top 10 Master's Degree Programs for Stock Market Careers",
+      "link": "https://www.jamboreeindia.com/know-how/career-in-the-stock-market",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jamboreeindia.com/know-how/career-in-the-stock-market&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCJICEAE",
+      "displayed_link": "https://www.jamboreeindia.com › know-how › career-i...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a80ea158f10df0f35c4cf8c47d203ad9b.png",
+      "date": "Aug 3, 2020",
+      "snippet": "In nearly all careers in the stock market, an MBA is the most desirable. It teaches you a range of subjects including accounting, management, ...",
+      "snippet_highlighted_words": [
+        "an MBA is the most desirable"
+      ],
+      "source": "Jamboree"
+    },
+    {
+      "position": 33,
+      "title": "Stock market project for mba finance | DOC",
+      "link": "https://www.slideshare.net/harimanikandan7/stock-market-project-for-mba-finance",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.slideshare.net/harimanikandan7/stock-market-project-for-mba-finance&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCJUCEAE",
+      "displayed_link": "https://www.slideshare.net › Business",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ae65a524f7b82464756a642c9a7e114ef.png",
+      "snippet": "The analysis seeks to evaluate company performance, stock movement, and risk-return to identify companies that ensure maximum return with minimum risk for ...",
+      "snippet_highlighted_words": [
+        "stock"
+      ],
+      "source": "SlideShare"
+    },
+    {
+      "position": 34,
+      "title": "Advanced Certificate in 12 Month Stock Market MBA",
+      "link": "https://www.lsib.co.uk/2022/course-details.aspx?id=2643922&CourseTitle=Advanced+Certificate+in+12+Month+Stock+Market+MBA&Subject=&Award=",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lsib.co.uk/2022/course-details.aspx%3Fid%3D2643922%26CourseTitle%3DAdvanced%2BCertificate%2Bin%2B12%2BMonth%2BStock%2BMarket%2BMBA%26Subject%3D%26Award%3D&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCJcCEAE",
+      "displayed_link": "https://www.lsib.co.uk › course-details › CourseTitle=A...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a772da9325023e55e0cbf7bc013467286.png",
+      "snippet": "Elevate your financial expertise with our Advanced Certificate in 12 Month Stock Market MBA program. Master the art of investing and excel in the stock ...",
+      "snippet_highlighted_words": [
+        "Advanced Certificate in 12 Month Stock Market MBA program"
+      ],
+      "source": "LSIB - UK"
+    },
+    {
+      "position": 35,
+      "title": "The Stock Market MBA Everything You Need To Know To ...",
+      "link": "https://www.scribd.com/document/726275481/The-Stock-Market-MBA-Everything-You-Need-to-Know-to-Win-in-Sick-Economist-the-2021-94ae3435f7562",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/726275481/The-Stock-Market-MBA-Everything-You-Need-to-Know-to-Win-in-Sick-Economist-the-2021-94ae3435f7562&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCLMCEAE",
+      "displayed_link": "https://www.scribd.com › document › The-Stock-Mark...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a62310e4ce9768bdd57de223722d64efb.png",
+      "snippet": "The Stock Market MBA Everything You Need to Know to Win in Sick Economist the 2021 94ae3435f7562 - Free download as PDF File (.pdf), Text File (.txt) or ...",
+      "snippet_highlighted_words": [
+        "The Stock Market MBA"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 2
+          },
+          "extensions": [
+            "5.0(2)"
+          ]
+        }
+      },
+      "source": "Scribd"
+    },
+    {
+      "position": 36,
+      "title": "MBA Trading - Financial Markets - ESLSCA",
+      "link": "https://www.eslsca.fr/en/mba/trading-finance-de-marche",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eslsca.fr/en/mba/trading-finance-de-marche&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCLACEAE",
+      "displayed_link": "https://www.eslsca.fr › Homepage › MBAs",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a2bf71346771716f6455ba7e36674bf1e.png",
+      "snippet": "This MBA from ESLSCA is a course of excellence in which financial market professionals provide candidates with expert knowledge of international stock market ...",
+      "snippet_highlighted_words": [
+        "MBA",
+        "market",
+        "stock market"
+      ],
+      "source": "eslsca.fr"
+    },
+    {
+      "position": 37,
+      "title": "MBA vs Stock Market: Which Investment Makes You MORE ...",
+      "link": "https://www.youtube.com/watch?v=U7xbWRWZuLo",
+      "displayed_link": "1.1K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSorq_5rkcwiz7btCT6GK83rYT2lyDh97dTpQ-Epo-e3QjM-M5WKNF07NeXQLQP&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732afe235854a33a4cc7f561e84de1516faf.png",
+      "snippet": "We all want to make GOOD decisions with our money, and part of that decision making process involves identifying WHERE you can invest your ...",
+      "duration": "10:52",
+      "source": "YouTube · Richard Walls - Career Coach"
+    },
+    {
+      "position": 38,
+      "title": "MBA Capital Market Syllabus, Colleges, Abroad, Jobs, ...",
+      "link": "https://collegedunia.com/courses/master-of-business-administration-mba-capital-market",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://collegedunia.com/courses/master-of-business-administration-mba-capital-market&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECFAQAQ",
+      "displayed_link": "https://collegedunia.com › Courses",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ad9f571a00809ec780fca8d4686a7e543.jpeg",
+      "snippet": "MBA in Capital Market is a 2-year postgraduate management degree course which aims to train students for stock market functioning.",
+      "snippet_highlighted_words": [
+        "a 2-year postgraduate management degree course"
+      ],
+      "source": "Collegedunia"
+    },
+    {
+      "position": 39,
+      "title": "MBA Degrees: Are They Worthwhile for Aspiring Stock Traders?",
+      "link": "https://thebull.com.au/news/mba-degrees-are-they-worthwhile-for-aspiring-stock-traders/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thebull.com.au/news/mba-degrees-are-they-worthwhile-for-aspiring-stock-traders/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECFQQAQ",
+      "displayed_link": "https://thebull.com.au › News",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a2ae383d16d7e32c0b47f004706aa9437.png",
+      "date": "Aug 16, 2023",
+      "snippet": "An MBA degree covers every aspect you need in your career as a stock trader. Here are a few advantages you can get with an MBA as a stock trader.",
+      "snippet_highlighted_words": [
+        "An MBA degree covers every aspect you need in your career as a stock trader"
+      ],
+      "source": "thebull.com.au"
+    },
+    {
+      "position": 40,
+      "title": "MBA Career Paths in Investment Management",
+      "link": "https://www.chicagobooth.edu/mba/academics/curriculum/career-paths/investment-management",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chicagobooth.edu/mba/academics/curriculum/career-paths/investment-management&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECFUQAQ",
+      "displayed_link": "https://www.chicagobooth.edu › academics › curriculum",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a4fad13c0742f05870a3eeeec36297cdd.png",
+      "snippet": "An MBA for investment management at Booth prepares you to take on an equity, credit, or client-facing role in a fast-paced sector.",
+      "snippet_highlighted_words": [
+        "prepares you to take on an equity, credit, or client-facing role"
+      ],
+      "source": "The University of Chicago Booth School of Business"
+    },
+    {
+      "position": 41,
+      "title": "MBA in Stock Market: A Comprehensive Exploration",
+      "link": "https://www.worldwondersgardens.co.uk/blog/MBA_in_Stock_Market_A_Comprehensive_Exploration.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.worldwondersgardens.co.uk/blog/MBA_in_Stock_Market_A_Comprehensive_Exploration.html&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECG8QAQ",
+      "displayed_link": "https://www.worldwondersgardens.co.uk › blog › MBA_...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732afea766e7495d4ef73b22298c1c9cf84a.png",
+      "snippet": "The Master of Business Administration (MBA) in Stock Market is an advanced degree that offers in-depth knowledge and skills required to excel in financial ...",
+      "snippet_highlighted_words": [
+        "MBA",
+        "Stock Market"
+      ],
+      "source": "World Wonders Gardens"
+    },
+    {
+      "position": 42,
+      "title": "Financial Instruments & Markets Specialization",
+      "link": "https://www.stern.nyu.edu/portal-partners/academic-affairs-advising/specializations/financial-instruments-markets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stern.nyu.edu/portal-partners/academic-affairs-advising/specializations/financial-instruments-markets&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECG4QAQ",
+      "displayed_link": "https://www.stern.nyu.edu › specializations › financial-i...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a7137155ae8bd92ee6cf3959adb879ecb.png",
+      "snippet": "The financial instruments and markets specialization includes courses on equity markets and debt instruments, as well as futures and options and other more ...",
+      "snippet_highlighted_words": [
+        "markets",
+        "equity markets"
+      ],
+      "source": "NYU Stern"
+    },
+    {
+      "position": 43,
+      "title": "Home | MBA",
+      "link": "https://www.mba.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mba.org/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCIoBEAE",
+      "displayed_link": "https://www.mba.org",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a1cce0cebc4da2eeb806116530ae754cb.png",
+      "snippet": "Mortgage Servicing and Sub-Servicing Webinar Series: Part I: Overview · Home Equity Lending in Focus: Data-Driven Strategies for Modern Markets · Mortgage ...",
+      "snippet_highlighted_words": [
+        "Equity",
+        "Markets"
+      ],
+      "source": "mba.org"
+    },
+    {
+      "position": 44,
+      "title": "Weekly Market Recap",
+      "link": "https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/insights/market-insights/wmr/weekly_market_recap.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/insights/market-insights/wmr/weekly_market_recap.pdf&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCIwBEAE",
+      "displayed_link": "https://am.jpmorgan.com › market-insights › wmr",
+      "snippet": "Mortgage Bankers Association (MBA); Prime Rate: Federal Reserve. ... (Index represents the 500 Large Cap portion of the stock market, and is ...",
+      "snippet_highlighted_words": [
+        "MBA",
+        "stock market"
+      ],
+      "source": "J.P. Morgan"
+    },
+    {
+      "position": 45,
+      "title": "Everything You Need to Know to Win in the Stock Market - ...",
+      "link": "https://books.google.com/books/about/The_Stock_Market_MBA.html?id=rJClzgEACAAJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://books.google.com/books/about/The_Stock_Market_MBA.html%3Fid%3DrJClzgEACAAJ&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCKcBEAE",
+      "displayed_link": "https://books.google.com › ... › Stocks",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ab0ac726d7b18fa176200b72c324361d6.png",
+      "date": "Sep 15, 2021",
+      "snippet": "Anybody can be a successful investor with the right emotional, intellectual, and practical guidance. \"The Stock Market MBA\" will equip you with ...",
+      "snippet_highlighted_words": [
+        "Stock Market MBA"
+      ],
+      "source": "Google Books"
+    },
+    {
+      "position": 46,
+      "title": "Best Stock Market Courses & Certificates Online [2025]",
+      "link": "https://www.coursera.org/courses?query=stock%20market",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coursera.org/courses%3Fquery%3Dstock%2520market&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCKkBEAE",
+      "displayed_link": "https://www.coursera.org › courses › query=stock market",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a2acd5bfae4153ed5a8d3b1dfe8afcbdb.png",
+      "snippet": "The stock market is a system for buying, selling, and trading shares of public companies—shaping investment strategies and economic growth. Understanding how it ...",
+      "snippet_highlighted_words": [
+        "stock market",
+        "shares"
+      ],
+      "source": "Coursera"
+    },
+    {
+      "position": 47,
+      "title": "MBA Capital Market: Course, Admission 2024, Syllabus ...",
+      "link": "https://www.careers360.com/courses/mba-capital-market",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.careers360.com/courses/mba-capital-market&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCKwBEAE",
+      "displayed_link": "https://www.careers360.com › Courses",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732afd2df6ef20c8712a0fd81bfef34ba55a.png",
+      "date": "Dec 17, 2024",
+      "snippet": "MBA Capital Markets is a postgraduate degree programme of two years duration. The course is offered in the field of capital markets and is spread across four ...",
+      "snippet_highlighted_words": [
+        "MBA Capital Markets",
+        "capital markets"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.2,
+            "reviews": 54945
+          },
+          "extensions": [
+            "4.2(54,945)"
+          ]
+        }
+      },
+      "source": "Careers360"
+    },
+    {
+      "position": 48,
+      "title": "investing 101 | financial market #education #investing #mba",
+      "link": "https://www.youtube.com/watch?v=NA9rzEIsyAU",
+      "displayed_link": "40+ views · 1 month ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQZj1spgFquryhsqjtzkCrGxWYBvzn6el5W6OAmr0Uwvp-_oa1MyBt0XxBCn0&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a07cc10a63e1f4dc91356b3a4fd16afe2.png",
+      "snippet": "the financial market, in which securities are traded (such as stocks and bonds), is divided into two segments: a secondary market, ...",
+      "duration": "1:12",
+      "source": "YouTube · selfLearn-en"
+    },
+    {
+      "position": 49,
+      "title": "Home - National Institute of Securities Markets (NISM)",
+      "link": "https://www.nism.ac.in/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nism.ac.in/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCMQBEAE",
+      "displayed_link": "https://www.nism.ac.in",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a2dce4c66f405be88757cdc2b07b3d096.png",
+      "snippet": "Real Estate vs. Securities: Where to Invest? ... SEBI Directives : Ensuring Market Integrity (Guidelines for Tackling Unauthenticated news & Managing Conflict of ...",
+      "snippet_highlighted_words": [
+        "Securities",
+        "Market"
+      ],
+      "source": "National Institute of Securities Markets (NISM)"
+    },
+    {
+      "position": 50,
+      "title": "NIFM - Stock Market Institute for training courses on share ...",
+      "link": "https://www.nifm.in/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nifm.in/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCMwBEAE",
+      "displayed_link": "https://www.nifm.in",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a9824fc7383466dc703bff0cf64c98c9a.jpeg",
+      "snippet": "NIFM is the best institute for training on stock market trading course offered by Indian stock exchange NSE, SEBI, BSE, NCFM & NISM online certification ...",
+      "snippet_highlighted_words": [
+        "stock market",
+        "stock exchange"
+      ],
+      "source": "NIFM"
+    },
+    {
+      "position": 51,
+      "title": "How to Build a Career in the Stock Market",
+      "link": "https://groww.in/blog/how-to-build-a-career-in-the-stock-market",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://groww.in/blog/how-to-build-a-career-in-the-stock-market&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCOEBEAE",
+      "displayed_link": "https://groww.in › Blog › learn",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a48514028ab69c943745f576fcec64c12.png",
+      "date": "Jul 17, 2024",
+      "snippet": "Most of the Indian stock market trading takes place on the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE). What are Careers ...",
+      "snippet_highlighted_words": [
+        "stock market",
+        "Stock Exchange",
+        "Stock Exchange"
+      ],
+      "source": "Groww"
+    },
+    {
+      "position": 52,
+      "title": "TD Securities: Home",
+      "link": "https://www.tdsecurities.com/ca/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tdsecurities.com/ca/en&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCOkBEAE",
+      "displayed_link": "https://www.tdsecurities.com › ...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a36f83105f62f47ccd3ccd725818df3d6.png",
+      "snippet": "TD Securities is a leading investment bank that provides corporate and investment banking and capital markets products and services to corporate, ...",
+      "snippet_highlighted_words": [
+        "Securities",
+        "capital markets"
+      ],
+      "source": "TD Securities"
+    },
+    {
+      "position": 53,
+      "title": "Fiscal Profligacy & Anti-Globalism: How Sustainable Is The ...",
+      "link": "https://www.oxfordeconomics.com/event/fiscal-profligacy-anti-globalism-how-sustainable-is-the-stock-market-boom/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oxfordeconomics.com/event/fiscal-profligacy-anti-globalism-how-sustainable-is-the-stock-market-boom/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCPMBEAE",
+      "displayed_link": "https://www.oxfordeconomics.com › Events",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a2d71908b9cb58efe588199cce023f78e.png",
+      "snippet": "Can the stock market boom continue in this highly complex and risky environment? ... Nick earned a B.S. in Finance from the University of Colorado and an MBA from ...",
+      "snippet_highlighted_words": [
+        "stock market",
+        "MBA"
+      ],
+      "source": "Oxford Economics"
+    },
+    {
+      "position": 54,
+      "title": "Home | Rotman School of Management | University of Toronto",
+      "link": "https://www.rotman.utoronto.ca/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rotman.utoronto.ca/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCPQBEAE",
+      "displayed_link": "https://www.rotman.utoronto.ca",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a754dd6ff835571496ec240ce4a4afda2.png",
+      "snippet": "Capital Markets Initiative add. JD/MBA Student Fellow Projects · About Us · News and Events · The Sandra Rotman Centre for Health Sector Strategy add. Research ...",
+      "snippet_highlighted_words": [
+        "Capital Markets",
+        "MBA"
+      ],
+      "source": "Rotman School of Management | University of Toronto"
+    },
+    {
+      "position": 55,
+      "title": "The Stock market MBA: everything you need to know to win ...",
+      "link": "https://www.maruey.com/w-book-detail/b00028269",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.maruey.com/w-book-detail/b00028269&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCPcBEAE",
+      "displayed_link": "https://www.maruey.com › w-book-detail",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a697d35ec406612126e214f4f51c6e12f.png",
+      "snippet": "This textbook style anthology gathers the collected wisdom of the Sick Economist, a successful investor who has shared his winning financial strategies with ...",
+      "source": "Maruey"
+    },
+    {
+      "position": 56,
+      "title": "Warren Buffett",
+      "link": "https://en.wikipedia.org/wiki/Warren_Buffett",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Warren_Buffett&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCIACEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Warren_Buffett",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a13b2399bcbdce23b05bd89c659e59071.png",
+      "snippet": "Buffett's interest in the stock market and investing dated back to his ... stock market indices. Buffett said in one of his letters to shareholders ...",
+      "snippet_highlighted_words": [
+        "stock market",
+        "stock market"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 57,
+      "title": "BERNSTEIN RESEARCH",
+      "link": "https://www.bernsteinresearch.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bernsteinresearch.com/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCIQCEAE",
+      "displayed_link": "https://www.bernsteinresearch.com",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a6d418db9ef928a73b18b196fd84c303e.png",
+      "snippet": "... MBA from INSEAD, France, in 1998. Alexia ... Prior to moving to London, Lisa spent three years in Credit Suisse's Equity Capital Markets group in New York.",
+      "snippet_highlighted_words": [
+        "MBA",
+        "Equity Capital Markets"
+      ],
+      "source": "BERNSTEIN RESEARCH"
+    },
+    {
+      "position": 58,
+      "title": "Arun Jaitley National Institute of Financial Management: Home",
+      "link": "https://www.ajnifm.ac.in/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ajnifm.ac.in/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCIwCEAE",
+      "displayed_link": "https://www.ajnifm.ac.in",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732acb554d8d5c6a8cf6db8b343b006396e0.png",
+      "snippet": "Members of Academic Committee MBA(Financial Management) and MBA(Finance) ... Securities and Exchange Board of India · FRDA - Foreign Resource Development ...",
+      "snippet_highlighted_words": [
+        "MBA",
+        "MBA",
+        "Securities",
+        "Exchange"
+      ],
+      "source": "Arun Jaitley National Institute of Financial Management"
+    },
+    {
+      "position": 59,
+      "title": "Analyst Rules Mean More Disclosure, But Less Information",
+      "link": "https://www.library.hbs.edu/working-knowledge/financial-analyst-rules-mean-more-disclosure-of-private-meetings",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.library.hbs.edu/working-knowledge/financial-analyst-rules-mean-more-disclosure-of-private-meetings&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCJECEAE",
+      "displayed_link": "https://www.library.hbs.edu › working-knowledge › fina...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a3209ba530aa22ff67025fb6f3839f46f.png",
+      "date": "2 days ago",
+      "snippet": "The effect is reflected in the lower consensus analyst forecast accuracy and the tendency of stock prices to move in tandem with markets.",
+      "snippet_highlighted_words": [
+        "stock",
+        "markets"
+      ],
+      "source": "Harvard Business School"
+    },
+    {
+      "position": 60,
+      "title": "Return on MBA investment varies by race",
+      "link": "https://www.youtube.com/watch?v=NtKkmCA8MEA",
+      "displayed_link": "2K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyeBVHOj_sdURjncdZvO_MqGJI_z004MHFit0Fo6GRc5ie4nHGbFChO1v70xbp&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a1fc29af47271f86979ef970f9f4a1ad0.png",
+      "snippet": "... stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide. The News with ...",
+      "duration": "1:09",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRAMGNYvackJbnSyvBZk5yMuG5iu4Vmlac3yQ",
+      "source": "YouTube · CNBC Television"
+    },
+    {
+      "position": 61,
+      "title": "Home | Maryland Smith",
+      "link": "https://www.rhsmith.umd.edu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rhsmith.umd.edu/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCJQCEAE",
+      "displayed_link": "https://www.rhsmith.umd.edu",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ae7f208f0e890877c687678802bbaad1e.png",
+      "snippet": "... providing top-ranked full-time MBA, evening MBA, weekend MBA, executive MBA, masters, undergraduate, doctoral, and customized executive education programs.",
+      "snippet_highlighted_words": [
+        "MBA",
+        "MBA",
+        "MBA",
+        "MBA"
+      ],
+      "source": "University of Maryland"
+    },
+    {
+      "position": 62,
+      "title": "Stock market today: S&P 500, Nasdaq hit records, Dow ...",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-hit-records-dow-closes-in-as-trade-hopes-lift-stocks-before-tesla-google-232647998.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-hit-records-dow-closes-in-as-trade-hopes-lift-stocks-before-tesla-google-232647998.html&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCJsCEAE",
+      "displayed_link": "https://finance.yahoo.com › news › live › stock-market-...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a3ec9d72b5f2642719d9568bc0f3518d5.png",
+      "date": "41 minutes ago",
+      "snippet": "Economic data: MBA mortgage applications (July 18); Existing home sales (June). Earnings: Alphabet (GOOGL, GOOG), Tesla (TSLA), Chipotle (CMG) ...",
+      "snippet_highlighted_words": [
+        "MBA"
+      ],
+      "source": "Yahoo Finance"
+    },
+    {
+      "position": 63,
+      "title": "UF Warrington News",
+      "link": "https://news.warrington.ufl.edu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.warrington.ufl.edu/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCKoCEAE",
+      "displayed_link": "https://news.warrington.ufl.edu",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a642b9c36a419a2d77c45c84b43e4af1e.png",
+      "snippet": "Despite initial reports that the company had underperformed, the stock has remained at midrange levels, within market expectations. ... David Costa (MBA '17) ...",
+      "snippet_highlighted_words": [
+        "stock",
+        "market",
+        "MBA"
+      ],
+      "source": "UF Warrington News"
+    },
+    {
+      "position": 64,
+      "title": "The Stock Market MBA by The Sick Economist",
+      "link": "https://www.waterstones.com/book/the-stock-market-mba/the-sick-economist/9798477765485",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.waterstones.com/book/the-stock-market-mba/the-sick-economist/9798477765485&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCMECEAE",
+      "displayed_link": "https://www.waterstones.com › book › the-sick-economist",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a69be1244f7d8a2a38c0ac20db07b2eda.png",
+      "snippet": "Buy The Stock Market MBA by The Sick Economist from Waterstones today! Click and Collect from your local Waterstones or get FREE UK delivery on orders over ...",
+      "snippet_highlighted_words": [
+        "Stock Market MBA"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 28.1,
+            "currency": "£"
+          },
+          "extensions": [
+            "£28.10"
+          ]
+        }
+      },
+      "source": "Waterstones"
+    },
+    {
+      "position": 65,
+      "title": "Understanding Derivatives: A Comprehensive Guide to ...",
+      "link": "https://www.investopedia.com/terms/d/derivative.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investopedia.com/terms/d/derivative.asp&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCK8CEAE",
+      "displayed_link": "https://www.investopedia.com › terms › derivative",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732aa826ef1b779b89b46eb82d514fcb97eb.png",
+      "snippet": "These financial securities are commonly used to access certain markets and may be traded to hedge against risk. Derivatives can be used to either mitigate risk ...",
+      "snippet_highlighted_words": [
+        "securities",
+        "markets"
+      ],
+      "source": "Investopedia"
+    },
+    {
+      "position": 66,
+      "title": "Finance & Accounting Courses",
+      "link": "https://www.udemy.com/courses/finance-and-accounting/?srsltid=AfmBOopo3E3JKCLRj_xvUQ6k8CGDoqIhi15ATgetbLSFavV2sK-7AZ0o",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.udemy.com/courses/finance-and-accounting/%3Fsrsltid%3DAfmBOopo3E3JKCLRj_xvUQ6k8CGDoqIhi15ATgetbLSFavV2sK-7AZ0o&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCLYCEAE",
+      "displayed_link": "https://www.udemy.com › courses › finance-and-accou...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a9e8b2acf52fccc22ef39f60ccb7d1014.png",
+      "snippet": "(17+ Hours). Master Stock Market Investing & Trading in the Stock Market. Top ... Steve Ballinger, MBA. Stock Trading, Investing. Rating: 4.5 out of 54.5 ...",
+      "snippet_highlighted_words": [
+        "Stock Market",
+        "Stock Market",
+        "MBA",
+        "Stock"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price_from": 16,
+            "price_to": 35,
+            "currency": "$"
+          },
+          "extensions": [
+            "$16 to $35"
+          ]
+        }
+      },
+      "source": "Udemy"
+    },
+    {
+      "position": 67,
+      "title": "MBA Program - Wharton Finance - University of Pennsylvania",
+      "link": "https://fnce.wharton.upenn.edu/programs/mba/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fnce.wharton.upenn.edu/programs/mba/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCLQCEAE",
+      "displayed_link": "https://fnce.wharton.upenn.edu › programs › mba",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732aeaa95d13b763463cd752dfc90aa23e2d.png",
+      "snippet": "The field prepares students for highly successful careers in asset management, investment banks, broker-dealers, and management consulting firms, other ...",
+      "source": "Wharton Finance"
+    },
+    {
+      "position": 68,
+      "title": "MBA Market Finance - ESLSCA",
+      "link": "https://www.eslsca.fr/en/mba/mba-market-finance",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eslsca.fr/en/mba/mba-market-finance&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCLECEAE",
+      "displayed_link": "https://www.eslsca.fr › Homepage › MBAs",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a97e30ac4344e971d56dfb56941cead3a.png",
+      "snippet": "Credit analyst · Credit risk assistant · Business manager · Foreign exchange treasurer · Mergers and acquisitions manager · Financial engineering and private equity ...",
+      "snippet_highlighted_words": [
+        "exchange",
+        "equity"
+      ],
+      "source": "eslsca.fr"
+    },
+    {
+      "position": 69,
+      "title": "Master of Business Administration(MBA)",
+      "link": "https://www.ignou.ac.in/schools/programme/MBA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ignou.ac.in/schools/programme/MBA&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECDMQAQ",
+      "displayed_link": "https://www.ignou.ac.in › schools › programme › MBA",
+      "snippet": "Block-3, Financing Decisions, contains four units and discusses about the financial markets, sources of finance and capital structure design and the leverage ...",
+      "snippet_highlighted_words": [
+        "markets",
+        "capital"
+      ],
+      "source": "IGNOU"
+    },
+    {
+      "position": 70,
+      "title": "London Business School: Home",
+      "link": "https://www.london.edu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.london.edu/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECDkQAQ",
+      "displayed_link": "https://www.london.edu",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a7880af6f4b94a424966cbd1bdb7de6d6.png",
+      "snippet": "We deliver postgraduate business education offering one of the world's best MBA programmes, Masters and PhD degrees, plus short courses for executives.",
+      "snippet_highlighted_words": [
+        "MBA"
+      ],
+      "source": "London Business School"
+    },
+    {
+      "position": 71,
+      "title": "The Stock Market MBA: Everything You... book by The Sick ...",
+      "link": "https://www.thriftbooks.com/w/the-stock-market-mba-everything-you-need-to-know-to-win-in-the-stock-market/29997796/?srsltid=AfmBOoomnU2JCNn8uBuIWrCGfb5frJISojFkm7qUvUagA60D1pixZtxE",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thriftbooks.com/w/the-stock-market-mba-everything-you-need-to-know-to-win-in-the-stock-market/29997796/%3Fsrsltid%3DAfmBOoomnU2JCNn8uBuIWrCGfb5frJISojFkm7qUvUagA60D1pixZtxE&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECE8QAQ",
+      "displayed_link": "https://www.thriftbooks.com › the-stock-market-mba-eve...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732aab98f1551e5e9c25d6e5547759414971.png",
+      "snippet": "Buy a cheap copy of The Stock Market MBA: Everything You... book by The Sick Economist. Free Shipping on all orders over $15.",
+      "snippet_highlighted_words": [
+        "Stock Market MBA"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 36.18,
+            "currency": "$"
+          },
+          "extensions": [
+            "$36.18"
+          ]
+        }
+      },
+      "source": "ThriftBooks"
+    },
+    {
+      "position": 72,
+      "title": "MSc programmes, London UK - Business School",
+      "link": "https://www.imperial.ac.uk/business-school/masters/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imperial.ac.uk/business-school/masters/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECFEQAQ",
+      "displayed_link": "https://www.imperial.ac.uk › business-school › masters",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ab011ca2a9c0ea048fc0c6ae85afe93ad.png",
+      "snippet": "MBA · Full-Time MBA · Global Online MBA · Weekend MBA · Executive MBA · Connect ... market. Read more. Seoyoung Park - Blog Header. 22 May 2025 Student ...",
+      "snippet_highlighted_words": [
+        "MBA",
+        "MBA",
+        "MBA",
+        "MBA",
+        "MBA",
+        "market"
+      ],
+      "source": "Imperial College London"
+    },
+    {
+      "position": 73,
+      "title": "What Are the Best MBA Programs for Investment Banking?",
+      "link": "https://www.youtube.com/watch?v=w3RaXzJPFbA",
+      "displayed_link": "130+ views · 1 month ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSquq7VvnVOAc7YwXreMAJaOC8ZVQHc5_CkjHszA0zDnZ1N0cDw1HNyp9iHQPMd&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a80e375d52b5d789574a228b37b94cf7d.png",
+      "snippet": "Many MBA hopefuls are looking to transition into finance roles after business school. Interested in investment banking? An MBA program can ...",
+      "duration": "5:34",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRu53iVS06ZzVTUc_oj5TR87bprhT9woQpI4A",
+      "source": "YouTube · Stratus Admissions Counseling"
+    },
+    {
+      "position": 74,
+      "title": "Financial Markets: A Beginner's Module",
+      "link": "https://www.nseindia.com/learn/self-study-ncfm-modules-foundation-financial-markets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nseindia.com/learn/self-study-ncfm-modules-foundation-financial-markets&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECFYQAQ",
+      "displayed_link": "https://www.nseindia.com › learn › self-study-ncfm-mo...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ad3b3a895e3f9f3d696b81b189b1b5c1a.png",
+      "date": "Jan 15, 2025",
+      "snippet": "NSE India (National Stock Exchange) - LIVE stock/share market updates from one of the leading stock exchange ... MBA-FinTech The Future of Finance.",
+      "snippet_highlighted_words": [
+        "Stock Exchange",
+        "stock",
+        "market",
+        "stock exchange",
+        "MBA"
+      ],
+      "source": "NSE"
+    },
+    {
+      "position": 75,
+      "title": "Team – Vista Equity Partners",
+      "link": "https://www.vistaequitypartners.com/about/team/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vistaequitypartners.com/about/team/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECFMQAQ",
+      "displayed_link": "https://www.vistaequitypartners.com › About",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732aa8af370fbfd1dcb8c3ed07fc3548cf1f.png",
+      "snippet": "... Markets and Global Head of Leveraged Finance & Capital Markets. Before ... M.B.A., Columbia University. Gwen Reinke Reinke Gwen GwenReinke Gwen Reinke.",
+      "snippet_highlighted_words": [
+        "Markets",
+        "Capital Markets",
+        "M.B.A."
+      ],
+      "source": "Vista Equity Partners"
+    },
+    {
+      "position": 76,
+      "title": "MBA Course: Subjects, Fees, Eligibility, Admission 2025",
+      "link": "https://www.lpu.in/programmes/management/mba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lpu.in/programmes/management/mba&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECG0QAQ",
+      "displayed_link": "https://www.lpu.in › programmes › management › mba",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a183e009d6f8faed2e922e7f8eb01ed6d.png",
+      "snippet": "... MBA International Business. MBA [1+1 with International Credit ... Industry desired workshops on Digital Marketing, Business Analytics, Stock Market ...",
+      "snippet_highlighted_words": [
+        "MBA",
+        "MBA",
+        "Stock Market"
+      ],
+      "source": "LPU"
+    },
+    {
+      "position": 77,
+      "title": "United States Redbook Index",
+      "link": "https://tradingeconomics.com/united-states/redbook-index",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tradingeconomics.com/united-states/redbook-index&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECHAQAQ",
+      "displayed_link": "https://tradingeconomics.com › United States",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a82a444f731d0fbc186db211296ea25e7.png",
+      "snippet": "Stock Market. GDP. Full Year GDP Growth · GDP · GDP Annual Growth Rate · GDP ... MBA Mortgage Market Index · MBA Mortgage Refinance Index · MBA Purchase Index",
+      "snippet_highlighted_words": [
+        "Stock Market",
+        "MBA",
+        "Market",
+        "MBA",
+        "MBA"
+      ],
+      "source": "Trading Economics"
+    },
+    {
+      "position": 78,
+      "title": "Valuation: Measuring and Managing the Value of Companies",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/valuation-measuring-and-managing-the-value-of-companies",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/valuation-measuring-and-managing-the-value-of-companies&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECHEQAQ",
+      "displayed_link": "https://www.mckinsey.com › capabilities › our-insights",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ad15bcec12ab51a2711cc7fcd03605a24.jpeg",
+      "snippet": "Stock market valuation. ×. ✓ Watched. Now Playing. 0. How does company valuation ... equity at the MBA and executive MBA levels. David is also a director ...",
+      "snippet_highlighted_words": [
+        "Stock market",
+        "equity",
+        "MBA",
+        "MBA"
+      ],
+      "source": "McKinsey & Company"
+    },
+    {
+      "position": 79,
+      "title": "The Stock Market MBA: A Comprehensive Guide to Indonesia",
+      "link": "https://www.ubuy.co.id/en/product/3VMPC1TC4-the-stock-market-mba-everything-you-need-to-know-to-win-in-the-stock-market?srsltid=AfmBOoq9CuDxTF4Ay1ZFmxgvdSWwVRRtpVEyorXHeaG0jBVJN5vs6QSB",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ubuy.co.id/en/product/3VMPC1TC4-the-stock-market-mba-everything-you-need-to-know-to-win-in-the-stock-market%3Fsrsltid%3DAfmBOoq9CuDxTF4Ay1ZFmxgvdSWwVRRtpVEyorXHeaG0jBVJN5vs6QSB&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECHYQAQ",
+      "displayed_link": "https://www.ubuy.co.id › ... › Investing › Introduction",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ae1b212069e22291b3b549d7c6311329e.png",
+      "snippet": "The Stock Market MBA will equip you with the tools you need to take control of your own financial destiny. What Stands Out. Comprehensive Guide. Offers a ...",
+      "snippet_highlighted_words": [
+        "Stock Market MBA"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 1452276.0,
+            "currency": "IDR",
+            "rating": 4.0,
+            "reviews": 1
+          },
+          "extensions": [
+            "IDR 1,452,276.00",
+            "4.0(1)"
+          ]
+        }
+      },
+      "source": "Ubuy Indonesia"
+    },
+    {
+      "position": 80,
+      "title": "Bill Ackman",
+      "link": "https://en.wikipedia.org/wiki/Bill_Ackman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Bill_Ackman&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECHIQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Bill_Ackman",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a9dd1e3b318fc57792fbd8cfe636469ad.png",
+      "snippet": "Harvard University (BA, MBA). Occupation, Hedge fund manager. Title. CEO of ... Ahead of the 2020 stock market crash, Ackman hedged Pershing Square's ...",
+      "snippet_highlighted_words": [
+        "MBA",
+        "stock market"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 81,
+      "title": "Stock Market Mastery | Guiding Investors to Financial Freedom",
+      "link": "https://stockmarketmastery.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stockmarketmastery.com/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCI0BEAE",
+      "displayed_link": "https://stockmarketmastery.com",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a5f7459ca9578627c5454e807d817a3fe.png",
+      "snippet": "Helping individual investors achieve their financial goals and succeed in the market by teaching proven portfolio management strategies and trading methods.",
+      "snippet_highlighted_words": [
+        "market"
+      ],
+      "source": "Stock Market Mastery"
+    },
+    {
+      "position": 82,
+      "title": "MBA Event - Booth, Wharton, Harvard - ElevatE Career network",
+      "link": "https://www.elevatelab.org/mba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.elevatelab.org/mba&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCI4BEAE",
+      "displayed_link": "https://www.elevatelab.org › mba",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ab517bc6a1f0d1a04185d3b4fcf4b42af.png",
+      "snippet": "... markets focused PE firm. Elevate Apollo. Elevate Pegasus. Elevate Chicago ... Elevate Private Equity & MBA Forum: Private Equity MBA Leaders from Wharton ...",
+      "snippet_highlighted_words": [
+        "markets",
+        "Equity",
+        "MBA",
+        "Equity MBA"
+      ],
+      "source": "elevatelab.org"
+    },
+    {
+      "position": 83,
+      "title": "How can Chinese automakers continue to thrive? - I by IMD",
+      "link": "https://www.imd.org/ibyimd/innovation/how-can-chinese-automakers-continue-to-thrive/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imd.org/ibyimd/innovation/how-can-chinese-automakers-continue-to-thrive/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCI8BEAE",
+      "displayed_link": "https://www.imd.org › Industry › Mobility",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a19a602219663d055b0bcd06d31dc5154.png",
+      "date": "14 hours ago",
+      "snippet": "Aerial view new cars parking for sale stock lot row New cars de ... However, competition in the world's largest car market has become fierce, with ...",
+      "snippet_highlighted_words": [
+        "stock",
+        "market"
+      ],
+      "source": "imd.org"
+    },
+    {
+      "position": 84,
+      "title": "US: Market Reflections",
+      "link": "https://www.cmegroup.com/education/events/econoday/2025/07/feed659746.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cmegroup.com/education/events/econoday/2025/07/feed659746.html&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCIsBEAE",
+      "displayed_link": "https://www.cmegroup.com › 2025/07 › feed659746",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a8cc749ed90b2146e79eaaacf6622aef0.png",
+      "date": "8 days ago",
+      "snippet": "Stocks recovered from a morning drop to end slightly better ... US: MBA Mortgage Applications. 16 Jul 2025 · US: Thomas Barkin Speaks.",
+      "snippet_highlighted_words": [
+        "Stocks",
+        "MBA"
+      ],
+      "source": "CME Group"
+    },
+    {
+      "position": 85,
+      "title": "SEBI | Opportunities",
+      "link": "https://www.sebi.gov.in/department/human-resources-department-37/opportunity.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sebi.gov.in/department/human-resources-department-37/opportunity.html&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCKgBEAE",
+      "displayed_link": "https://www.sebi.gov.in › department › opportunity",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732abbdc43e309e05e61ddcdbc3a6b39e28d.png",
+      "snippet": "Securities and Exchange Board of India is made for protect the interests of ... securities market and for matters connected therewith or incidental thereto.",
+      "snippet_highlighted_words": [
+        "Securities",
+        "Exchange",
+        "securities market"
+      ],
+      "source": "SEBI"
+    },
+    {
+      "position": 86,
+      "title": "US Markets, World Markets, and Stock Quotes",
+      "link": "https://www.cnn.com/markets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/markets&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCKUBEAE",
+      "displayed_link": "https://www.cnn.com › markets",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a2a89e52ced780b75c564941d113baf55.png",
+      "snippet": "Stock market data coverage from CNN. View US markets, world markets, after ... MBA Mortgage Applications. Purchase Index - W/W. Composite Index - W/W.",
+      "snippet_highlighted_words": [
+        "Stock market",
+        "markets",
+        "markets",
+        "MBA"
+      ],
+      "source": "CNN"
+    },
+    {
+      "position": 87,
+      "title": "Financial Ratio Analysis: Definition, Types, Examples, and ...",
+      "link": "https://www.investopedia.com/terms/r/ratioanalysis.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investopedia.com/terms/r/ratioanalysis.asp&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCKsBEAE",
+      "displayed_link": "https://www.investopedia.com › ... › Financial Ratios",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a409bdaadde8a938e90dae7db89f46a2a.png",
+      "snippet": "... stock. The ratios of these different financial metrics from a company can be used to ... Understanding Capital Market Line (CML) and How to Calculate It.",
+      "snippet_highlighted_words": [
+        "stock",
+        "Capital Market"
+      ],
+      "source": "Investopedia"
+    },
+    {
+      "position": 88,
+      "title": "Meme stock rally has investors feeling 'invulnerable' as ...",
+      "link": "https://finance.yahoo.com/news/meme-stock-rally-has-investors-feeling-invulnerable-as-speculative-bets-power-markets-at-record-highs-195514347.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://finance.yahoo.com/news/meme-stock-rally-has-investors-feeling-invulnerable-as-speculative-bets-power-markets-at-record-highs-195514347.html&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCKYBEAE",
+      "displayed_link": "https://finance.yahoo.com › news › meme-stock-rally-h...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ad9f85f0f88fe928ffc5e8f3e6636280c.png",
+      "date": "1 hour ago",
+      "snippet": "Meme stock rally has investors feeling 'invulnerable' as speculative bets power markets at record highs. Retail investors with an appetite for ...",
+      "snippet_highlighted_words": [
+        "stock",
+        "markets"
+      ],
+      "source": "Yahoo Finance"
+    },
+    {
+      "position": 89,
+      "title": "Event Marketing and Advertising in Romania",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-93875-7_12",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/chapter/10.1007/978-3-031-93875-7_12&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCK0BEAE",
+      "displayed_link": "https://link.springer.com › chapter",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a36277b1796f3dfe0911b057460023087.png",
+      "date": "3 hours ago",
+      "snippet": "COVID-19's impact on stock prices across different sectors – An event study based on the Chinese stock market. In Î. Y. Sha & S. Sharma (Eds ...",
+      "snippet_highlighted_words": [
+        "stock",
+        "stock market"
+      ],
+      "source": "Springer"
+    },
+    {
+      "position": 90,
+      "title": "MBA in the Stock Market | CA or CFA or CMA or MBA Finance ...",
+      "link": "https://www.youtube.com/watch?v=SkXOfu9yrk0",
+      "displayed_link": "320+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/SkXOfu9yrk0/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lpuPK2uWOY_xKuhPGxBidcTXqgyw",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a2318b492ab35dbf555edba7c76a911ae.png",
+      "snippet": "MBA in the Stock Market | CA or CFA or CMA or MBA Finance or Common Sense · Comments.",
+      "duration": "18:31",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS67lzr2igr79lMfBWidroxhRTHyyBszGVBlw",
+      "source": "YouTube · Learning with Dr. Tripathi"
+    },
+    {
+      "position": 91,
+      "title": "United States Existing Home Sales",
+      "link": "https://tradingeconomics.com/united-states/existing-home-sales",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tradingeconomics.com/united-states/existing-home-sales&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCMIBEAE",
+      "displayed_link": "https://tradingeconomics.com › United States",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a435b605a4ff79f173da5336ddba96df2.png",
+      "snippet": "Stock Market. GDP. Full Year GDP Growth · GDP · GDP Annual Growth Rate · GDP ... MBA Mortgage Market Index · MBA Mortgage Refinance Index · MBA Purchase Index",
+      "snippet_highlighted_words": [
+        "Stock Market",
+        "MBA",
+        "Market",
+        "MBA",
+        "MBA"
+      ],
+      "source": "Trading Economics"
+    },
+    {
+      "position": 92,
+      "title": "Stock Market: Definition & How It Works",
+      "link": "https://www.nerdwallet.com/article/investing/what-is-the-stock-market",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nerdwallet.com/article/investing/what-is-the-stock-market&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCMMBEAE",
+      "displayed_link": "https://www.nerdwallet.com › Investing",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732aec505c809356e7c7a7d9ac13c0b14ba2.png",
+      "date": "Jun 25, 2025",
+      "snippet": "Companies list these shares and securities for trading on a set of exchanges (e.g., the New York Stock Exchange), but investors can also trade ...",
+      "snippet_highlighted_words": [
+        "shares",
+        "securities",
+        "Stock Exchange"
+      ],
+      "source": "NerdWallet"
+    },
+    {
+      "position": 93,
+      "title": "Libro The Stock Market Mba : Everything You Need To Know",
+      "link": "https://www.mercadolibre.com.mx/libro-the-stock-market-mba--everything-you-need-to-know-/up/MLMU469115659",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mercadolibre.com.mx/libro-the-stock-market-mba--everything-you-need-to-know-/up/MLMU469115659&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCMgBEAE",
+      "displayed_link": "https://www.mercadolibre.com.mx › ...",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a81021cec77a07db85bfb8aceb5413c9d.png",
+      "snippet": "Envíos gratis en el día ✓ Compra online de manera segura con Compra Protegida © Libro The Stock Market Mba : Everything You Need To Know ...",
+      "snippet_highlighted_words": [
+        "Stock Market Mba"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 1231.0,
+            "currency": "MX$"
+          },
+          "extensions": [
+            "MX$1,231.00",
+            "In stock"
+          ]
+        }
+      },
+      "source": "Mercado Libre"
+    },
+    {
+      "position": 94,
+      "title": "The Stock Market MBA: A Comprehensive Guide to Bahrain",
+      "link": "https://www.ubuy.com.bh/en/product/3VMPC1TC4-the-stock-market-mba-everything-you-need-to-know-to-win-in-the-stock-market?srsltid=AfmBOoqcJJKTA9H7ftLvWE0pHZih9djAioJ7Oz8rVPCV5Sv31VCXXfhA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ubuy.com.bh/en/product/3VMPC1TC4-the-stock-market-mba-everything-you-need-to-know-to-win-in-the-stock-market%3Fsrsltid%3DAfmBOoqcJJKTA9H7ftLvWE0pHZih9djAioJ7Oz8rVPCV5Sv31VCXXfhA&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCMUBEAE",
+      "displayed_link": "https://www.ubuy.com.bh › ... › Investing › Introduction",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a2737eb4a41d860ded3ad70c85626cdd8.png",
+      "snippet": "Anybody can be a successful investor with the right emotional, intellectual, and practical guidance. The Stock Market MBA will equip you with the tools you need ...",
+      "snippet_highlighted_words": [
+        "Stock Market MBA"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 21000,
+            "currency": "BHD",
+            "rating": 4.0,
+            "reviews": 1
+          },
+          "extensions": [
+            "BHD 21.000",
+            "4.0(1)"
+          ]
+        }
+      },
+      "source": "Ubuy Bahrain"
+    },
+    {
+      "position": 95,
+      "title": "The Stock Market MBA | 9798477765485 | The Sick Economist",
+      "link": "https://www.bol.com/be/nl/p/the-stock-market-mba/9300000053127905/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bol.com/be/nl/p/the-stock-market-mba/9300000053127905/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoFCMYBEAE",
+      "displayed_link": "https://www.bol.com › ... › Beleggen",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732aa5c03abc72f3479e0a3c684d11486601.png",
+      "snippet": "The Stock Market MBA Everything You Need to Know to Win in the Stock Market · Prijs inclusief verzendkosten, verstuurd door bol · Ophalen bij een bol afhaalpunt ...",
+      "snippet_highlighted_words": [
+        "Stock Market MBA"
+      ],
+      "source": "bol.com"
+    },
+    {
+      "position": 96,
+      "title": "MBA in Capital markets",
+      "link": "https://www.youtube.com/watch?v=BufLB6XqaaM",
+      "displayed_link": "4.6K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVpyn0yYEEvu4M-QhHs6gFKNKd3nywauFChL2cSmxEJbMrey76INwtkz58O0e&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732af4c582a01ef424d304644dab74765e44.png",
+      "snippet": "Comments ; MBA in Mass communication | Mass media | Media management. Informate Education ; Special Video: Stock Market में Full-Time Careers क़ैसे बनाएं ...",
+      "duration": "7:53",
+      "source": "YouTube · Informate Education"
+    },
+    {
+      "position": 97,
+      "title": "Best Financial Courses & Certification Programs at BSE ...",
+      "link": "https://www.bsebti.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bsebti.com/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECE4QAQ",
+      "displayed_link": "https://www.bsebti.com",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a8d803048f2373672fbcf3e6df25a2bf2.png",
+      "snippet": "The Bombay Stock Exchange Limited, which houses BSE Institute Limited who provide the best financial ... Badamba (Nizigarh), Badami, Badami Bagh, Badamtam Tea ...",
+      "snippet_highlighted_words": [
+        "Stock Exchange",
+        "Badamba"
+      ],
+      "source": "BSE Institute"
+    },
+    {
+      "position": 98,
+      "title": "Bain Capital",
+      "link": "https://www.baincapital.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.baincapital.com/&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECDoQAQ",
+      "displayed_link": "https://www.baincapital.com",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732a2856a2e781200c8207cec9fe7cfa5086.png",
+      "date": "Jun 26, 2025",
+      "snippet": "Bain Capital, LP is one of the world's leading multi-asset alternative investment firms. With offices on four continents, our global team ...",
+      "snippet_highlighted_words": [
+        "Capital"
+      ],
+      "source": "Bain Capital"
+    },
+    {
+      "position": 99,
+      "title": "Explore MBA Opportunities",
+      "link": "https://jobs.merck.com/us/en/mba-opportunities",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jobs.merck.com/us/en/mba-opportunities&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQFnoECDUQAQ",
+      "displayed_link": "https://jobs.merck.com › mba-opportunities",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732ac57f5a6dfd031dc836b8dd904fa63714.png",
+      "snippet": "... Stock information; Investor resources. Investor resources overview ... market research & analytics. We're looking for current MBA students who will ...",
+      "snippet_highlighted_words": [
+        "Stock",
+        "market",
+        "MBA"
+      ],
+      "source": "Merck Careers"
+    },
+    {
+      "position": 100,
+      "title": "Horse Barn: HVAC, Windsurf, Vanguard | Money Stuff: The ...",
+      "link": "https://www.youtube.com/watch?v=K_TfG6eGvU8",
+      "displayed_link": "160+ views · 2 days ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd206ezQxce7CMnLRK2d5VQN8saawuW-fQKpG-e5_ZrQhx_A2N1YS2zUo_gQH2&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814ee5b7942f90e9cd06fa/images/72e1277c2553fb7000290274e5b3732aa33859774fb480b7032fc793a515c212.png",
+      "snippet": "Katie and Matt discuss search funds, post-MBA career paths, Katie's ... Capital Management's closed-end fund. See omnystudio.com ...",
+      "duration": "40:38",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQe30LhLK8SkIJRoERqWhK_2Ij_9k24n--lqA",
+      "source": "YouTube · Bloomberg Podcasts"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Stock market mba reddit",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&hl=en&gl=us&q=Stock+market+mba+reddit&sa=X&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQ1QJ6BQjVAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Stock+market+mba+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Stock market mba salary",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&hl=en&gl=us&q=Stock+market+mba+salary&sa=X&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQ1QJ6BQjWAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Stock+market+mba+salary"
+    },
+    {
+      "block_position": 1,
+      "query": "Stock market mba programs",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&hl=en&gl=us&q=Stock+market+mba+programs&sa=X&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQ1QJ6BQjUAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Stock+market+mba+programs"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=stock+market+mba&num=100&sca_esv=4508815ad7680cb8&hl=en&gl=us&ei=5k6BaJ3PL9HSp84PpJHwuAU&start=100&sa=N&sstk=Ac65TH6T34ehr8CRn08YSWriSCA3S0QLE-H9ewxr-sNbwaUdHGjN16X9W8KighN6H5dvqJqI18LMVi4ADZ_H1EPNRnyuA5hgxatkdQ&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQ8NMDegUI2AIQBg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=stock+market+mba&num=100&sca_esv=4508815ad7680cb8&hl=en&gl=us&ei=5k6BaJ3PL9HSp84PpJHwuAU&start=100&sa=N&sstk=Ac65TH6T34ehr8CRn08YSWriSCA3S0QLE-H9ewxr-sNbwaUdHGjN16X9W8KighN6H5dvqJqI18LMVi4ADZ_H1EPNRnyuA5hgxatkdQ&ved=2ahUKEwid2sOx8dOOAxVR6ckDHaQIHFcQ8tMDegUI2AIQBA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=stock+market+mba&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=stock+market+mba&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=stock+market+mba&start=100"
+    }
+  }
+}

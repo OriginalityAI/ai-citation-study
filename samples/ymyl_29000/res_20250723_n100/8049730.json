@@ -1,0 +1,1875 @@
+{
+  "search_metadata": {
+    "id": "68822332cfa23059213695dd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f7944abc3352ce59/68822332cfa23059213695dd.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/f7944abc3352ce59/68822332cfa23059213695dd.json_with_pixel_position",
+    "created_at": "2025-07-24 12:12:34 UTC",
+    "processed_at": "2025-07-24 12:12:34 UTC",
+    "google_url": "https://www.google.com/search?q=flug+frankfurt+belgrad&oq=flug+frankfurt+belgrad&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/f7944abc3352ce59/68822332cfa23059213695dd.html",
+    "total_time_taken": 7.1
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "flug frankfurt belgrad",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "flug frankfurt belgrad",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Flights to Belgrade",
+    "entity_type": "flights",
+    "main_tab_text": "Flights",
+    "knowledge_graph_search_link": "https://www.google.com/search?q=LH+flight+1410+from+FRA+to+BEG,+2025-07-24&shndl=27&shmd=H4sIAAAAAAAA_-Oy5ZL3KU0ryUjMK05U8PFQMDQxNFA4tF3BLchRoSRfwcnVXUsqJKNUR8GrNEfByAQslZOZnlGikJmXlg8AvQnLSj8AAAA&shmds=v1_AdeF8KjKNbNu6ctSVMECsUNWSt_W1E9GkyVazIR8f6gmy8J_MA&source=sh/x/flight_status/m1/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=LH+flight+1410+from+FRA+to+BEG%2C+2025-07-24",
+    "tabs": [
+      {
+        "text": "Airports"
+      },
+      {
+        "text": "Flight Status"
+      }
+    ]
+  },
+  "answer_box": {
+    "type": "flight_status",
+    "flight_number": "LH 1410",
+    "flight_status": "Arrived",
+    "latest_update": "Updated 1h 3m ago",
+    "percentage_of_flight_progress": 100,
+    "flight_duration": "1h 47m flight.",
+    "sources": [
+      {
+        "name": "OAG",
+        "link": "https://www.flightview.com/flight-tracker/LH/1410?date=20250724&depapt=FRA"
+      },
+      {
+        "name": "FlightAware",
+        "link": "https://flightaware.com/live/flight/id/DLH1410-1753168024-airline-4531p"
+      },
+      {
+        "name": "OAG",
+        "link": "https://www.flightview.com/flight-tracker/LH/1412?date=20250724&depapt=FRA"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Flug von Frankfurt nach Belgrad",
+      "link": "https://www.airserbia.com/de/fluge-von-frankfurt-nach-belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.airserbia.com/de/fluge-von-frankfurt-nach-belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECCgQAQ",
+      "displayed_link": "https://www.airserbia.com › fluge-...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853f45a06b508033476a9c3249f485de706.png",
+      "date": "Starting from €92.09",
+      "snippet": "Buchen Sie einen günstigen Flug von Frankfurt nach Belgrad. Finden Sie das günstigste Angebot für Flugtickets und entdecken Sie Belgrad mit Air Serbia.",
+      "snippet_highlighted_words": [
+        "Buchen Sie einen günstigen Flug von Frankfurt nach Belgrad"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 92.09,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €92.09"
+          ]
+        }
+      },
+      "source": "Air Serbia"
+    },
+    {
+      "position": 2,
+      "title": "Günstig Flüge von Frankfurt-Main nach Belgrad buchen",
+      "link": "https://flug.idealo.de/flugroute/Frankfurt-FRA/Belgrad-BEG/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://flug.idealo.de/flugroute/Frankfurt-FRA/Belgrad-BEG/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECCYQAQ",
+      "displayed_link": "https://flug.idealo.de › Belgrad-BEG",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985327993d4824a5dbc071a5c5536fc13d20.jpeg",
+      "date": "Starting from €71.00",
+      "snippet": "Mit einem Preis ab 92 € und einer Flugdauer von nur ca. 1 Stunde und 50 Minuten bietet diese Verbindung das beste Preis-Leistungs-Verhältnis.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 71.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €71.00"
+          ]
+        }
+      },
+      "source": "Idealo"
+    },
+    {
+      "position": 3,
+      "title": "Belgrad Nikola Tesla (BEG) - Frankfurt am Main - Skyscanner",
+      "link": "https://www.skyscanner.de/routen/fran/beg/frankfurt-am-main-nach-belgrad-nikola-tesla.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.skyscanner.de/routen/fran/beg/frankfurt-am-main-nach-belgrad-nikola-tesla.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECCMQAQ",
+      "displayed_link": "https://www.skyscanner.de › ... › Frankfurt am Main",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853ffc718334216eda0924b8b1b705799b8.png",
+      "date": "Starting from €98.00",
+      "snippet": "Die ideale Zeit für einen Flug von Frankfurt am Main nach Belgrad sind die angenehmen Frühlingsmonate von März bis Mai, mit Durchschnittstemperaturen zwischen 7 ...",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 98.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €98.00"
+          ]
+        }
+      },
+      "source": "skyscanner.de"
+    },
+    {
+      "position": 4,
+      "title": "Günstige Flüge von Frankfurt am Main nach Belgrad suchen",
+      "link": "https://www.google.com/travel/flights/flights-from-frankfurt-am-main-to-belgrade.html?gl=DE&hl=de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.google.com/travel/flights/flights-from-frankfurt-am-main-to-belgrade.html%3Fgl%3DDE%26hl%3Dde&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECDMQAQ",
+      "displayed_link": "https://www.google.com › flights",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853f32583e0f5583266bbf82191e011e60b.png",
+      "date": "Starting from €193.00",
+      "snippet": "Der teuerste Monat ist in der Regel April. Die Preise im Januar liegen in der Regel zwischen 180 € und 290 €.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 193.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €193.00"
+          ]
+        }
+      },
+      "source": "Google"
+    },
+    {
+      "position": 5,
+      "title": "Flug von Frankfurt nach Belgrad buchen",
+      "link": "https://www.lufthansa.com/lhg/de/de/o-d/cy-cy/frankfurt-belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lufthansa.com/lhg/de/de/o-d/cy-cy/frankfurt-belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECDUQAQ",
+      "displayed_link": "https://www.lufthansa.com › cy-cy",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598535d84936bbfd8a1b56a1647da3c335f91.png",
+      "snippet": "Wir fliegen ca. 17 Mal pro Woche ab 251 € von Frankfurt nach Belgrad. Ihre Flugdauer beträgt 01:55 Std. ✈ Aktuelle Bestpreise finden Sie auf lufthansa.com.",
+      "snippet_highlighted_words": [
+        "Wir fliegen ca. 17 Mal pro Woche ab 251 € von Frankfurt nach Belgrad"
+      ],
+      "source": "Lufthansa"
+    },
+    {
+      "position": 6,
+      "title": "Günstige Flugangebote von Frankfurt/Main nach Belgrad",
+      "link": "https://www.swoodoo.com/de/flug/Frankfurt-Main-FRA/Belgrad-Nikola-Tesla-BEG",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.swoodoo.com/de/flug/Frankfurt-Main-FRA/Belgrad-Nikola-Tesla-BEG&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCLkCEAE",
+      "displayed_link": "https://www.swoodoo.com › flug",
+      "thumbnail": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598532e966030b0c062941340fd3e129d7991.jpeg",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598531dc9f228858b298f7e64690bae4de545.png",
+      "date": "Starting from €70.69",
+      "snippet": "Aktuell ist der Januar der günstigste Monat, für den du einen Flug von Frankfurt/Main Flughafen nach Belgrad buchen kannst (Durchschnittspreis: 141 €). Ein Flug ...",
+      "snippet_highlighted_words": [
+        "Aktuell ist der Januar der günstigste Monat"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 70.69,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €70.69"
+          ]
+        }
+      },
+      "source": "Swoodoo"
+    },
+    {
+      "position": 7,
+      "title": "Flüge von Frankfurt nach Belgrad buchen",
+      "link": "https://flug.check24.de/fluege/belgrad/frankfurt-belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://flug.check24.de/fluege/belgrad/frankfurt-belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCJ8BEAE",
+      "displayed_link": "https://flug.check24.de › fluege",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853ae3dbb32164c567c5599e364357f1780.png",
+      "snippet": "Unsere beliebtesten Flüge von Frankfurt nach Belgrad ; Beliebtester Flug · Do. 28. Aug. · 09:50 · 1 Std. 55 Min.Direkt ; Günstigster Flug · Mo. 25. Aug. · 09:50 · 1 Std ...",
+      "snippet_highlighted_words": [
+        "Beliebtester Flug · Do. 28. Aug. · 09:50 · 1 Std. 55 Min.Direkt"
+      ],
+      "source": "CHECK24 Flugvergleich"
+    },
+    {
+      "position": 8,
+      "title": "Von Frankfurt nach Belgrad (FRA - BEG)",
+      "link": "https://www.expedia.de/lp/fluge/fra/beg/frankfurt-nach-belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.expedia.de/lp/fluge/fra/beg/frankfurt-nach-belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCPoBEAE",
+      "displayed_link": "https://www.expedia.de › fluge › fr...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIWjPNxSV04yptXgjdFIwa2daph6uHq3AE7QpG4KxuiGDofh_zNNFvtPw&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853040a723d303cf4f7367f927e73efe848.png",
+      "date": "Starting from €81.00",
+      "snippet": "Flug von Frankfurt am Main (FRA) nach Belgrad (BEG) günstig buchen: Hinflug ab 81 € Hin- & Rückflug ab 118 € Top-Angebote bei Expedia.de entdecken.",
+      "snippet_highlighted_words": [
+        "Hinflug ab 81 € Hin- & Rückflug ab 118 €"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 81.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €81.00"
+          ]
+        }
+      },
+      "source": "Expedia"
+    },
+    {
+      "position": 9,
+      "title": "Find Cheap Flights from Frankfurt am Main to Belgrade (FRA",
+      "link": "https://www.google.com/travel/flights/flights-from-frankfurt-am-main-to-belgrade.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.google.com/travel/flights/flights-from-frankfurt-am-main-to-belgrade.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECDIQAQ",
+      "displayed_link": "https://www.google.com › ... › From Frankfurt am Main",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985340379cc224590e9d08a655948a2e3f79.png",
+      "snippet": "Popular airlines from Frankfurt am Main to Belgrade · Lufthansa. Nonstop. from $224. Typical price: $220–350. $220 · Air Serbia. Nonstop. Typical price: $235–640.",
+      "snippet_highlighted_words": [
+        "Frankfurt",
+        "Belgrade"
+      ],
+      "source": "Google"
+    },
+    {
+      "position": 10,
+      "title": "Flüge von Frankfurt nach Belgrad - Bestpreisgarantie",
+      "link": "https://www.opodo.de/fluege/frankfurt-belgrad/FRA/BEG/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opodo.de/fluege/frankfurt-belgrad/FRA/BEG/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECHMQAQ",
+      "displayed_link": "https://www.opodo.de › FRA › BEG",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853ebbd63ce66cb509f80ca6fecb1f44309.png",
+      "date": "Starting from €102.00",
+      "snippet": "Wie lange dauert der Flug von Frankfurt nach Belgrad? Ein Direktflug von Frankfurt am Main nach Belgrad dauert etwa 1 Stunde und 45 Minuten.",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Frankfurt",
+        "Belgrad",
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 102.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €102.00"
+          ]
+        }
+      },
+      "source": "Opodo"
+    },
+    {
+      "position": 11,
+      "title": "Günstige Flüge von Flughafen Frankfurt nach Belgrad (FRA",
+      "link": "https://www.kayak.de/fl%C3%BCge/Frankfurt-Main-FRA/Belgrad-Nikola-Tesla-BEG",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kayak.de/fl%25C3%25BCge/Frankfurt-Main-FRA/Belgrad-Nikola-Tesla-BEG&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCMMBEAE",
+      "displayed_link": "https://www.kayak.de › ... › Serbien",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853f9b6f5ca7e881fb82d76940f69c3403c.jpeg",
+      "date": "Starting from €69.15",
+      "snippet": "Der günstigste Monat für Flüge von Frankfurt/Main Flughafen nach Belgrad ist der Juli. Tickets kosten dann im Durchschnitt 123 € (Hin- und Rückflug).",
+      "snippet_highlighted_words": [
+        "Der günstigste Monat für Flüge von Frankfurt/Main Flughafen nach Belgrad ist der Juli"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 69.15,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €69.15"
+          ]
+        }
+      },
+      "source": "KAYAK"
+    },
+    {
+      "position": 12,
+      "title": "Flüge Frankfurt am Main - Belgrad ab 163 - Lastminute.de",
+      "link": "https://www.lastminute.de/flug/r_frankfurt-am-main--belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lastminute.de/flug/r_frankfurt-am-main--belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCPEBEAE",
+      "displayed_link": "https://www.lastminute.de › flug",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598535a461cbeca2aa18bb6671a6f75ad350b.png",
+      "snippet": "Von Frankfurt am Main nach Belgrad fliegt man 5.10 Stunden. Wie viel kostet der günstigste Flug von Belgrad nach Frankfurt am Main?",
+      "snippet_highlighted_words": [
+        "Von Frankfurt am Main nach Belgrad fliegt man 5.10 Stunden"
+      ],
+      "source": "lastminute.de"
+    },
+    {
+      "position": 13,
+      "title": "Flüge von Frankfurt (FRA) nach Belgrad (BEG) ... - Fluege.de",
+      "link": "https://www.fluege.de/Katalog/Frankfurt-Belgrad/Flug-von-nach-845",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fluege.de/Katalog/Frankfurt-Belgrad/Flug-von-nach-845&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCLgCEAE",
+      "displayed_link": "https://www.fluege.de › Katalog › F...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59npRoyMlwpyvqGatqAifp1oxvzH_Kod56ZaPFPPXnK2rq3Cs13kXtsg&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853bad34dc4dc7b6f0dc0b7c5344a39a4a2.jpeg",
+      "snippet": "Route Frankfurt am Main (FRA) - Belgrad (BEG) ; Datum 13.09.2025 - 15.09.2025 ; Airline LH ; Preis ab 193,00 € ab 193,00 € ...",
+      "snippet_highlighted_words": [
+        "Route Frankfurt am Main (FRA) - Belgrad (BEG"
+      ],
+      "source": "Fluege.de"
+    },
+    {
+      "position": 14,
+      "title": "Billige Flüge Frankfurt am Main (FRA) - Belgrad Nikola ...",
+      "link": "https://www.skyscanner.de/routen/fra/beg/frankfurt-am-main-nach-belgrad-nikola-tesla.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.skyscanner.de/routen/fra/beg/frankfurt-am-main-nach-belgrad-nikola-tesla.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCNgCEAE",
+      "displayed_link": "https://www.skyscanner.de › ... › Frankfurt am Main",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853d56a15c9713c67b7c558604b291a680e.png",
+      "date": "Starting from €102.00",
+      "snippet": "Flugangebote von Frankfurt am Main nach Belgrad Nikola Tesla ; 102 € pro PersonHinflug am So., 3. Aug., Rückflug am Fr., 15. Aug.. · Ab 102 €, auswählen. ; 124 € ...",
+      "snippet_highlighted_words": [
+        "102 € pro Person"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 102.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €102.00"
+          ]
+        }
+      },
+      "source": "skyscanner.de"
+    },
+    {
+      "position": 15,
+      "title": "Direktflug Frankfurt - Belgrad ab 116",
+      "link": "https://www.direktflug.de/ab-frankfurt/nach-belgrad/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.direktflug.de/ab-frankfurt/nach-belgrad/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECDkQAQ",
+      "displayed_link": "https://www.direktflug.de › nach-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz451otaAdcnPYCjCgpbF_JynrlT0k2c55E3amJfAi-nDJPrwpFzgGkmw&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598538573a6de5e2a52c6b7bb33248158f2b9.png",
+      "snippet": "Die durchschnittliche Flugzeit von Frankfurt nach Belgrad beträgt ca. 1:55 Std. Wie viel kostet der günstigste Flug hin und zurück von Frankfurt nach Belgrad?",
+      "snippet_highlighted_words": [
+        "Die durchschnittliche Flugzeit von Frankfurt nach Belgrad beträgt ca. 1:55 Std"
+      ],
+      "source": "Direktflug.de"
+    },
+    {
+      "position": 16,
+      "title": "Flight from Frankfurt to Belgrade",
+      "link": "https://www.lufthansa.com/lhg/rs/en/o-d/cy-cy/frankfurt-belgrade",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lufthansa.com/lhg/rs/en/o-d/cy-cy/frankfurt-belgrade&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECHgQAQ",
+      "displayed_link": "https://www.lufthansa.com › ... › Flight Europe",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598538eee2fa431f243de8af91b2c736c5f5e.png",
+      "snippet": "We offer approx. 17 weekly flights from Frankfurt to Belgrade starting at 251 €. Your flight time is 01:55h. ✈ Find daily best prices on lufthansa.com.",
+      "snippet_highlighted_words": [
+        "17 weekly flights from Frankfurt to Belgrade"
+      ],
+      "missing": [
+        "flug"
+      ],
+      "must_include": {
+        "word": "flug",
+        "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=%22flug%22+frankfurt+belgrad&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQ5t4CegUIjAEQAQ"
+      },
+      "source": "Lufthansa"
+    },
+    {
+      "position": 17,
+      "title": "Günstige Flüge von Frankfurt am Main nach Belgrad ab ...",
+      "link": "https://www.swoodoo.com/de/flug/Frankfurt-am-Main-FK0/Belgrad-Nikola-Tesla-BEG",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.swoodoo.com/de/flug/Frankfurt-am-Main-FK0/Belgrad-Nikola-Tesla-BEG&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCKABEAE",
+      "displayed_link": "https://www.swoodoo.com › flug",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985323ec0204e2677df43712b9b703e1855a.png",
+      "date": "Starting from €70.56",
+      "snippet": "Aktuell ist der Januar der günstigste Monat, für den du einen Flug von Frankfurt am Main nach Belgrad buchen kannst (Durchschnittspreis: 141 €). Ein Flug von ...",
+      "snippet_highlighted_words": [
+        "Aktuell ist der Januar der günstigste Monat"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 70.56,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €70.56"
+          ]
+        }
+      },
+      "source": "Swoodoo"
+    },
+    {
+      "position": 18,
+      "title": "Flug von Frankfurt am Main nach Belgrad mit Lufthansa",
+      "link": "https://www.omio.at/fluege/frankfurt/belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omio.at/fluege/frankfurt/belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCLYBEAE",
+      "displayed_link": "https://www.omio.at › fluege › belg...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598539c9fb571919cc9629bae087cba0b5ab3.png",
+      "date": "Starting from €41.00",
+      "snippet": "Die Dauer der Flugreise von Frankfurt am Main nach Belgrad beträgt 1 Std. 50 Min. und die Entfernung ist 1 062 Kilometer. An Wochenenden, Feiertagen und zu ...",
+      "snippet_highlighted_words": [
+        "1 Std. 50 Min"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 41.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €41.00"
+          ]
+        }
+      },
+      "source": "omio.at"
+    },
+    {
+      "position": 19,
+      "title": "Flug von Frankfurt nach Serbien",
+      "link": "https://www.airserbia.com/de/fluge-ab-frankfurt-nach-serbien",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.airserbia.com/de/fluge-ab-frankfurt-nach-serbien&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCNMBEAE",
+      "displayed_link": "https://www.airserbia.com › fluge-...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598532f65eb1a17d3f7b60af1b7209978ca54.png",
+      "date": "Starting from €107.09",
+      "snippet": "Buchen Sie einen günstigen Flug von Frankfurt nach Serbien. Finden Sie das günstigste Angebot für Flugtickets und entdecken Sie Serbien mit Air Serbia.",
+      "snippet_highlighted_words": [
+        "Buchen Sie einen günstigen Flug von Frankfurt nach Serbien"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 107.09,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €107.09"
+          ]
+        }
+      },
+      "source": "Air Serbia"
+    },
+    {
+      "position": 20,
+      "title": "Flugpläne und Flugzeiten von Frankfurt nach Belgrad",
+      "link": "https://de.trip.com/hot/flugzeit-frankfurt-nach-belgrad/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.trip.com/hot/flugzeit-frankfurt-nach-belgrad/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCPYBEAE",
+      "displayed_link": "https://de.trip.com › hot › flugzeit...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598532d289a6b8d4944083436c2551c9db126.jpeg",
+      "snippet": "Wie lange dauert ein Flug von Frankfurt (FRA) nach Belgrad (BEG)?. Der Flug von Frankfurt (FRA) nach Belgrad (BEG) dauert etwa 1 Stunde 53 Minuten.",
+      "snippet_highlighted_words": [
+        "Der Flug von Frankfurt (FRA) nach Belgrad (BEG) dauert etwa 1 Stunde 53 Minuten"
+      ],
+      "source": "Trip.com"
+    },
+    {
+      "position": 21,
+      "title": "Air Serbia Flüge von Frankfurt nach Belgrad",
+      "link": "https://www.opodo.de/airline/JU/air-serbia/FRA/frankfurt/BEG/belgrad/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opodo.de/airline/JU/air-serbia/FRA/frankfurt/BEG/belgrad/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCJQCEAE",
+      "displayed_link": "https://www.opodo.de › FRA › BEG",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853927ebf42d38d281184bee73edbc510d9.png",
+      "snippet": "Buchen Sie Ihren Air Serbia Flug von Frankfurt nach Belgrad. Bei Opodo Preise vergleichen, günstige Angebote finden und Flüge buchen!",
+      "snippet_highlighted_words": [
+        "Buchen Sie Ihren Air Serbia Flug von Frankfurt nach Belgrad"
+      ],
+      "source": "Opodo"
+    },
+    {
+      "position": 22,
+      "title": "Flüge Frankfurt (FRA) - Belgrad (BEG)",
+      "link": "https://www.billigfluege.de/flugroute/frankfurt-belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.billigfluege.de/flugroute/frankfurt-belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCJwCEAE",
+      "displayed_link": "https://www.billigfluege.de › flugroute › frankfurt-belgrad",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853710de223370d01c9e055118509df19ba.png",
+      "snippet": "Angebote Flüge von Frankfurt nach Belgrad ; Frankfurt am Main (FRA), Belgrad (BEG), 21.05.2026 - 23.05.2026, Lufthansa, ab 148,00 € Prüfen ; Frankfurt am Main ( ...",
+      "snippet_highlighted_words": [
+        "Angebote Flüge von Frankfurt nach Belgrad"
+      ],
+      "source": "billigfluege.de |"
+    },
+    {
+      "position": 23,
+      "title": "Günstige Flüge Frankfurt - Belgrad ab ...",
+      "link": "https://www.jetcost.de/fluge/frankfurt/belgrad-nikola-tesla/FRA-BEG",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jetcost.de/fluge/frankfurt/belgrad-nikola-tesla/FRA-BEG&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCNkCEAE",
+      "displayed_link": "https://www.jetcost.de › ... › Flüge nach Belgrad",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8OWgtHjErm9n5qIVYHqU3Ru_gFbg0eOUZ8PRfSLfhq47haBLgk0dAq9I&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853ef7d930352063c1d3e8467aa0daa0653.png",
+      "snippet": "Der Preis für einen Flug von Frankfurt nach Belgrad kann sich je nach den von Ihnen gewählten Reisedaten, der Saison und den lokalen Feiertagen stark ändern.",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "jetcost"
+    },
+    {
+      "position": 24,
+      "title": "Flüge von Frankfurt-Hahn nach Belgrad günstig buchen",
+      "link": "https://flug.idealo.de/flugroute/Frankfurt-Hahn-HHN/Belgrad-BEG/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://flug.idealo.de/flugroute/Frankfurt-Hahn-HHN/Belgrad-BEG/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECDoQAQ",
+      "displayed_link": "https://flug.idealo.de › Belgrad-BEG",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGkcxf250O_bpQY2UCa6wOKz7ZMW9rkDsLf8RorjbKK2745WmmoQKnKY&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985328a7858bbc38b36fb468b1fa89e0619b.jpeg",
+      "date": "Starting from €47.00",
+      "snippet": "Flug Frankfurt-Hahn - Belgrad schon ab 47 € ✓ Beim Testsieger idealo jetzt die besten Angebote unzähliger Airlines vergleichen und sparen!",
+      "snippet_highlighted_words": [
+        "Flug Frankfurt-Hahn - Belgrad schon ab 47 €"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 47.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €47.00"
+          ]
+        }
+      },
+      "source": "Idealo"
+    },
+    {
+      "position": 25,
+      "title": "Flug von Frankfurt am Main nach Belgrad mit Lufthansa",
+      "link": "https://de.omio.com/fluege/frankfurt/belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.omio.com/fluege/frankfurt/belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECFUQAQ",
+      "displayed_link": "https://de.omio.com › fluege › belg...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853a2590a1b14d7c45da7eac61c7fca08e3.png",
+      "date": "Starting from €41.00",
+      "snippet": "Die Dauer der Flugreise von Frankfurt am Main nach Belgrad beträgt 1 Std. 50 Min. und die Entfernung ist 1 062 Kilometer. An Wochenenden, Feiertagen und zu ...",
+      "snippet_highlighted_words": [
+        "1 Std. 50 Min"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 41.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €41.00"
+          ]
+        }
+      },
+      "source": "Omio"
+    },
+    {
+      "position": 26,
+      "title": "Flüge von Frankfurt (FRA) nach Belgrad (BEG)",
+      "link": "https://www.travel-overland.de/fluege/frankfurt-FRA/belgrad-BEG.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.travel-overland.de/fluege/frankfurt-FRA/belgrad-BEG.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECFMQAQ",
+      "displayed_link": "https://www.travel-overland.de › b...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853346eccd48a8e63ceeb11d19e3a380ea0.png",
+      "snippet": "Der billigste Flug von Frankfurt nach Belgrad in den nächsten 30 Tagen kostet 227 €. Sie starten am Mon 11.08, zurück geht es am Fri 12.09 und fliegen mit Air ...",
+      "snippet_highlighted_words": [
+        "Der billigste Flug von Frankfurt nach Belgrad in den nächsten 30 Tagen kostet 227 €"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price_from": 193.0,
+            "price_to": 278.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "€193.00 to €278.00"
+          ]
+        }
+      },
+      "source": "Travel-Overland"
+    },
+    {
+      "position": 27,
+      "title": "Cheap Flights from Frankfurt to Belgrade (FRA-BEG)",
+      "link": "https://www.expedia.com/lp/flights/fra/beg/frankfurt-to-belgrade",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.expedia.com/lp/flights/fra/beg/frankfurt-to-belgrade&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECHsQAQ",
+      "displayed_link": "https://www.expedia.com › flights › frankfurt-to-belgrade",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853e9e91ee1f27269acd2c5b7725078391f.png",
+      "date": "Starting from $93.00",
+      "snippet": "Cheap Flights from Frankfurt (FRA) to Belgrade (BEG) start at $93 for one-way and $141 for round trip. Earn your airline miles on top of our rewards!",
+      "snippet_highlighted_words": [
+        "Cheap Flights from Frankfurt (FRA) to Belgrade (BEG"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 93.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "Starting from $93.00"
+          ]
+        }
+      },
+      "source": "Expedia"
+    },
+    {
+      "position": 28,
+      "title": "Günstige Flüge von Frankfurt Hahn nach Belgrad (HHN",
+      "link": "https://www.kayak.de/fl%C3%BCge/Frankfurt-Hahn-HHN/Belgrad-Nikola-Tesla-BEG",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kayak.de/fl%25C3%25BCge/Frankfurt-Hahn-HHN/Belgrad-Nikola-Tesla-BEG&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCJQBEAE",
+      "displayed_link": "https://www.kayak.de › ... › Serbien",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598532042caca08955b5278bd0deacf9af82c.jpeg",
+      "date": "Starting from €61.21",
+      "snippet": "Finde Flüge von Frankfurt Hahn nach Belgrad mit Wizz Air ab 61 €. Die günstigsten Angebote für Flüge nach Belgrad auf KAYAK.",
+      "snippet_highlighted_words": [
+        "Finde Flüge von Frankfurt Hahn nach Belgrad mit Wizz Air ab 61 €"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 61.21,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €61.21"
+          ]
+        }
+      },
+      "source": "KAYAK"
+    },
+    {
+      "position": 29,
+      "title": "Günstige Flüge von Frankfurt nach Belgrad",
+      "link": "https://www.tui.com/flug/frankfurt-fra-belgrad-beg/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tui.com/flug/frankfurt-fra-belgrad-beg/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCJcBEAE",
+      "displayed_link": "https://www.tui.com › Flüge",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985313d91cb6d487c87b021063dbcd72c493.png",
+      "snippet": "Fluginformationen für Flüge von Frankfurt nach Belgrad ; Ankunft. Flughafen Belgrad ; Flugzeit. 1 Stunde und 50 Minuten ; Entfernung. 1,050 km ...",
+      "snippet_highlighted_words": [
+        "Ankunft. Flughafen Belgrad"
+      ],
+      "source": "TUI Deutschland"
+    },
+    {
+      "position": 30,
+      "title": "Flüge von Frankfurt (FRA) nach Serbien günstig online ...",
+      "link": "https://www.fluege.de/Katalog/Frankfurt-Serbien/Flug-von-nach-721039",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fluege.de/Katalog/Frankfurt-Serbien/Flug-von-nach-721039&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCLQBEAE",
+      "displayed_link": "https://www.fluege.de › Katalog › F...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853fd893a20bde354e4ba315222ff04cb1c.jpeg",
+      "snippet": "Route Frankfurt am Main (FRA) - Belgrad (BEG) ; Datum 13.09.2025 - 15.09.2025 ; Airline LH ; Preis ab 193,00 € ab 193,00 € ...",
+      "snippet_highlighted_words": [
+        "Route Frankfurt am Main (FRA) - Belgrad (BEG"
+      ],
+      "source": "Fluege.de"
+    },
+    {
+      "position": 31,
+      "title": "Günstige Flüge von Frankfurt am Main nach Belgrad ab ...",
+      "link": "https://www.momondo.de/fluege/frankfurt-am-main/belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.momondo.de/fluege/frankfurt-am-main/belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCLcBEAE",
+      "displayed_link": "https://www.momondo.de › fluege",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985349f12408f3cf6dc4e0ca9b4f78980a51.jpeg",
+      "date": "Starting from €61.21",
+      "snippet": "Der schnellste Flug von Frankfurt am Main nach Belgrad dauert 1:50 Std. Es gibt täglich Direktflüge von Frankfurt am Main nach Belgrad. Es gibt 1 Flughafen ...",
+      "snippet_highlighted_words": [
+        "Der schnellste Flug von Frankfurt am Main nach Belgrad dauert 1:50 Std"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 61.21,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €61.21"
+          ]
+        }
+      },
+      "source": "Momondo"
+    },
+    {
+      "position": 32,
+      "title": "Flug von Frankfurt (FRA) nach Belgrad (BEG) buchen",
+      "link": "https://www.brusselsairlines.com/lhg/de/de/o-d/cy-cy/frankfurt-belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.brusselsairlines.com/lhg/de/de/o-d/cy-cy/frankfurt-belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCM8BEAE",
+      "displayed_link": "https://www.brusselsairlines.com › f...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598532a4e2dd4834adb4aeccaa55f828c0cca.png",
+      "snippet": "Reisen Sie von Frankfurt nach Belgrad schon ab 147 €. Wir bieten wöchentliche Flüge. ✈ Finden Sie noch heute Ihr bestes Angebot auf brusselsairlines.com.",
+      "snippet_highlighted_words": [
+        "Reisen Sie von Frankfurt nach Belgrad schon ab 147 €"
+      ],
+      "source": "Brussels Airlines"
+    },
+    {
+      "position": 33,
+      "title": "FLÜGE VON Frankfurt am Main nach Belgrad ab ...",
+      "link": "https://www.tripadvisor.de/Flights-g294472-o187337-Frankfurt_to_Belgrade.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.de/Flights-g294472-o187337-Frankfurt_to_Belgrade.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCNEBEAE",
+      "displayed_link": "https://www.tripadvisor.de › Flight...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853cc63a7f3a81b551f2b0bbc87505700b0.png",
+      "date": "Starting from €99.00",
+      "snippet": "Die durchschnittliche Flugzeit für einen Direktflug von Frankfurt am Main, Deutschland nach Belgrad beträgt 1 Stunde 50 Minuten · Die meisten Direktflüge starten ...",
+      "snippet_highlighted_words": [
+        "1 Stunde 50 Minuten"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 99.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €99.00"
+          ]
+        }
+      },
+      "source": "Tripadvisor"
+    },
+    {
+      "position": 34,
+      "title": "Billige Flüge von Frankfurt nach Belgrad",
+      "link": "https://www.edreams.de/flug/frankfurt-belgrad/FRA/BEG/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.edreams.de/flug/frankfurt-belgrad/FRA/BEG/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCNwBEAE",
+      "displayed_link": "https://www.edreams.de › BEG",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853ee261afcbd2b9ab9a7acef7b69667c45.png",
+      "date": "Starting from €104.00",
+      "snippet": "Finden Sie Flüge von Frankfurt nach Belgrad. Bei uns finden Sie alles von Last Minute Angeboten bis nützlichen Reisetipps! Hier klicken!",
+      "snippet_highlighted_words": [
+        "Finden Sie Flüge von Frankfurt nach Belgrad"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 104.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €104.00"
+          ]
+        }
+      },
+      "source": "eDreams"
+    },
+    {
+      "position": 35,
+      "title": "Flug Frankfurt (FRA) nach Belgrad (BEG)",
+      "link": "https://www.airline-direct.de/fluege/von/Frankfurt-FRA/nach/Belgrad-BEG",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.airline-direct.de/fluege/von/Frankfurt-FRA/nach/Belgrad-BEG&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCPwBEAE",
+      "displayed_link": "https://www.airline-direct.de › fluege › von › Belgrad-...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853c71c80fb554d9e2faaa8ae016126fefa.png",
+      "snippet": "Flüge von Frankfurt nach Belgrad preiswert buchen! Vergleichen Sie günstige Flugangebote der Route Frankfurt - Belgrad (FRA-BEG) und fliegen Sie entspannt ...",
+      "snippet_highlighted_words": [
+        "Flüge von Frankfurt nach Belgrad preiswert buchen"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price_from": 184,
+            "price_to": 215,
+            "currency": "€"
+          },
+          "extensions": [
+            "€184 to €215"
+          ]
+        }
+      },
+      "source": "Airline Direct"
+    },
+    {
+      "position": 36,
+      "title": "Flug Frankfurt Main - Belgrad buchen | FRA - BEG",
+      "link": "https://www.ab-in-den-urlaub.de/flug/flugrouten/frankfurt-main-belgrad/96945",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ab-in-den-urlaub.de/flug/flugrouten/frankfurt-main-belgrad/96945&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCIQCEAE",
+      "displayed_link": "https://www.ab-in-den-urlaub.de › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985345dae3f7d099aa128c453c0ec0ef4e55.png",
+      "snippet": "Günstige Angebote für die Flugroute von Frankfurt Main nach Belgrad ab 193 € p.P.! Vergleichen Sie Flugpreise für Frankfurt Main - Belgrad auf ...",
+      "snippet_highlighted_words": [
+        "Günstige Angebote für die Flugroute von Frankfurt Main nach Belgrad ab 193 € p.P"
+      ],
+      "source": "ab in den urlaub"
+    },
+    {
+      "position": 37,
+      "title": "Billige Flüge von Frankfurt nach Belgrad",
+      "link": "https://www.billig-flieger-vergleich.de/billigflieger/billigflieger-von-Frankfurt-nach-Belgrad.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.billig-flieger-vergleich.de/billigflieger/billigflieger-von-Frankfurt-nach-Belgrad.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCI4CEAE",
+      "displayed_link": "https://www.billig-flieger-vergleich.de › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985317a4c7724a791a6fd0efb0cca2d6ea8d.jpeg",
+      "snippet": "Billigflieger von Frankfurt nach Belgrad. 20:20 27. August; 22:15 27. August; 1h 55m Direktflug. Frankfurt FRA; Belgrad BEG. Hinflug mit Air Serbia (JU0353).",
+      "snippet_highlighted_words": [
+        "Billigflieger von Frankfurt nach Belgrad"
+      ],
+      "source": "Billigflieger Vergleich"
+    },
+    {
+      "position": 38,
+      "title": "Flug Frankfurt - Belgrad (FRA | BEG) buchen",
+      "link": "https://www.austrian.com/lhg/de/de/o-d/cy-cy/frankfurt-belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.austrian.com/lhg/de/de/o-d/cy-cy/frankfurt-belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCKACEAE",
+      "displayed_link": "https://www.austrian.com › cy-cy",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985320950946b1e633e366fc44dcbe89b789.png",
+      "snippet": "Wir bieten Flüge pro Woche von Frankfurt nach Belgrad schon ab 276 €. ✈ Entdecken Sie täglich Top-Angebote auf austrian.com.",
+      "snippet_highlighted_words": [
+        "Flüge pro Woche von Frankfurt nach Belgrad schon ab 276 €"
+      ],
+      "source": "Austrian Airlines"
+    },
+    {
+      "position": 39,
+      "title": "Flugsuche ✈ Belgrad (LYBE) - Frankfurt am Main (EDDF)",
+      "link": "https://de.flightaware.com/live/findflight/LYBE/EDDF",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.flightaware.com/live/findflight/LYBE/EDDF&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCJ8CEAE",
+      "displayed_link": "https://de.flightaware.com › live",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853679c0fd08bfc076487f3e3d1e6fa4f3c.png",
+      "snippet": "Belgrad (LYBE) - Frankfurt am Main (EDDF) - Flugsuche - Finden und verfolgen Sie jeden Flug (Fluggesellschaft oder privat) - Suche nach Abflugs- und Zielort.",
+      "snippet_highlighted_words": [
+        "Belgrad (LYBE) - Frankfurt am Main (EDDF"
+      ],
+      "source": "FlightAware - Flight Tracker"
+    },
+    {
+      "position": 40,
+      "title": "Flug Frankfurt (FRA) ✈️ Belgrad (BEG)",
+      "link": "https://www.swiss.com/lhg/de/de/o-d/cy-cy/frankfurt-belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.swiss.com/lhg/de/de/o-d/cy-cy/frankfurt-belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCMACEAE",
+      "displayed_link": "https://www.swiss.com › lhg › cy-cy",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598537dbd48b1adf88d28eb06c811dad3edfa.png",
+      "snippet": "Fliegen Sie von Frankfurt nach Belgrad schon ab 147 €. Wir bieten wöchentliche Verbindungen. ✈ Entdecken Sie tägliche Angebote auf swiss.com.",
+      "snippet_highlighted_words": [
+        "Fliegen Sie von Frankfurt nach Belgrad schon ab 147 €"
+      ],
+      "source": "SWISS"
+    },
+    {
+      "position": 41,
+      "title": "Günstige Flüge von Frankfurt nach Belgrad",
+      "link": "https://www.liligo.de/fluge/strecken/frankfurt-am-main/belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.liligo.de/fluge/strecken/frankfurt-am-main/belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCL8CEAE",
+      "displayed_link": "https://www.liligo.de › strecken",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598530b2c997e4bef10f5f204f37c28aed733.png",
+      "snippet": "Günstige Flüge von Frankfurt nach Belgrad: vergleichen Sie alle Fluggesellschaften und buchen Sie Ihren günstigen Flug mit LILIGO.",
+      "snippet_highlighted_words": [
+        "Frankfurt",
+        "Belgrad",
+        "Flug"
+      ],
+      "source": "liligo.de"
+    },
+    {
+      "position": 42,
+      "title": "Günstige Flüge von Frankfurt nach Belgrad",
+      "link": "https://www.tui.at/flug/frankfurt-fra-belgrad-beg/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tui.at/flug/frankfurt-fra-belgrad-beg/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCMMCEAE",
+      "displayed_link": "https://www.tui.at › Flüge",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598536bd4a9116d7141279b8ea1dcc0ac92b1.png",
+      "snippet": "Günstige Flüge von Frankfurt nach Belgrad. Jetzt Flugangebote finden! · Frankfurt. Do., 20. Nov. Flüge anzeigen · München. Do., 20. Nov. Flüge anzeigen.",
+      "snippet_highlighted_words": [
+        "Frankfurt",
+        "Belgrad",
+        "Flugangebote",
+        "Frankfurt"
+      ],
+      "source": "TUI.at"
+    },
+    {
+      "position": 43,
+      "title": "Billigflüge von Frankfurt (FRA) nach Belgrad (BEG) ab ...",
+      "link": "https://de.trip.com/flights/frankfurt-to-belgrade/airfares-fra-beg/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.trip.com/flights/frankfurt-to-belgrade/airfares-fra-beg/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCNYCEAE",
+      "displayed_link": "https://de.trip.com › ... › Belgrad",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853be22f703cf8c8f5441feb32178740bf4.jpeg",
+      "date": "Starting from €145.21",
+      "snippet": "Im Durchschnitt beträgt die Flugzeit von Frankfurt nach Belgrad etwa 2 hours , wobei der schnellste Flug die Strecke vom Flughafen Frankfurt zum Flughafen ...",
+      "snippet_highlighted_words": [
+        "Flugzeit",
+        "Frankfurt",
+        "Belgrad",
+        "Flug",
+        "Frankfurt"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 145.21,
+            "currency": "€"
+          },
+          "extensions": [
+            "Starting from €145.21"
+          ]
+        }
+      },
+      "source": "Trip.com"
+    },
+    {
+      "position": 44,
+      "title": "Lufthansa Flüge von Frankfurt nach Belgrad",
+      "link": "https://www.edreams.de/angebote/fluege/airline/LH/lufthansa/FRA/frankfurt/BEG/belgrad/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.edreams.de/angebote/fluege/airline/LH/lufthansa/FRA/frankfurt/BEG/belgrad/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCOYCEAE",
+      "displayed_link": "https://www.edreams.de › BEG",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985358b77d9f2d03005e001dc2b3472dcbfa.png",
+      "snippet": "... Belgrad, Serbien. Wann? Reisende1 Erwachsener. Direktflüge. Flug + Hotel suchen. Flüge suchen. Flugangebote von Frankfurt nach Belgrad. Sparen Sie Geld und ...",
+      "snippet_highlighted_words": [
+        "Belgrad",
+        "Flug",
+        "Flugangebote",
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "eDreams"
+    },
+    {
+      "position": 45,
+      "title": "Abflüge",
+      "link": "https://www.frankfurt-airport.com/de/fluege-und-airlines/abfluege.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.frankfurt-airport.com/de/fluege-und-airlines/abfluege.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCPICEAE",
+      "displayed_link": "https://www.frankfurt-airport.com › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853d0f90d3088c847e5ff19119482c03932.png",
+      "snippet": "Abflüge der Flugnummer am Frankfurter Flughafen: Alle aktuellen Informationen zu Ihrem Flug ▻ Jetzt mehr erfahren!",
+      "snippet_highlighted_words": [
+        "Flug"
+      ],
+      "source": "Flughafen Frankfurt"
+    },
+    {
+      "position": 46,
+      "title": "Flight Finder ✈ Belgrade Nikola Tesla Int'l (LYBE)",
+      "link": "https://www.flightaware.com/live/findflight/LYBE/EDDF",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.flightaware.com/live/findflight/LYBE/EDDF&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECDcQAQ",
+      "displayed_link": "https://www.flightaware.com › live › LYBE › EDDF",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853e15eb8427feca32b866365a122101375.png",
+      "snippet": "Belgrade Nikola Tesla Int'l (LYBE) - Frankfurt Int'l (EDDF) - Flight Finder - Find and track any flight (airline or private) -- search by origin and ...",
+      "snippet_highlighted_words": [
+        "Belgrade",
+        "Frankfurt",
+        "Flight",
+        "flight"
+      ],
+      "source": "FlightAware - Flight Tracker"
+    },
+    {
+      "position": 47,
+      "title": "Frankfurt Flughafen: Aktuelle Ankünfte & Abflüge",
+      "link": "https://www.ffh.de/verkehr/flugplan.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ffh.de/verkehr/flugplan.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECFEQAQ",
+      "displayed_link": "https://www.ffh.de › flugplan",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853d6e743fd42d9e20b1b7a5b543e16dc6f.jpeg",
+      "snippet": "Wir haben für dich alle Flugdaten ganz aktuell und direkt vom Airport Frankfurt. ... Belgrad Nikola Tesla, 14:00, ontime. CZ 8022. Guangzhou via Shenyang, 14:05 ...",
+      "snippet_highlighted_words": [
+        "Flugdaten",
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "Hit Radio FFH"
+    },
+    {
+      "position": 48,
+      "title": "Günstige Flüge von Frankfurt nach Belgrad ab 99 - Serbien",
+      "link": "https://www.kiwi.com/de/cheap-flights/frankfurt-germany/belgrade-serbia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kiwi.com/de/cheap-flights/frankfurt-germany/belgrade-serbia/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECFgQAQ",
+      "displayed_link": "https://www.kiwi.com › ... › Billige Flüge › Serbien",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598537e742125de73094d6f5e64d59628cd2b.png",
+      "snippet": "Ein einfacher Nonstop-Flug (Direktflug) zwischen Frankfurt am Main und Belgrad dauert etwa 1.9 Stunden. Was ist die Flugentfernung zwischen Frankfurt am Main ...",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Frankfurt",
+        "Belgrad",
+        "Frankfurt"
+      ],
+      "source": "Kiwi.com"
+    },
+    {
+      "position": 49,
+      "title": "Finden Sie Flüge von Frankfurt - Belgrad (FRA - BEG)",
+      "link": "https://flights.staralliance.com/de/fl%C3%BCge-von-frankfurt-nach-belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://flights.staralliance.com/de/fl%25C3%25BCge-von-frankfurt-nach-belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECFkQAQ",
+      "displayed_link": "https://flights.staralliance.com › flüge...",
+      "snippet": "Flugpläne ab Frankfurt nach Belgrad with Star Alliance member carriers mit Airlines der Star Alliance ; 11:00. 1h 55m · LH 1410 ; 14:05. 1h 55m · LH 1412 ; 22:00. 1h ...",
+      "snippet_highlighted_words": [
+        "Flugpläne",
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "Star Alliance"
+    },
+    {
+      "position": 50,
+      "title": "Flüge von Frankfurt am Main nach Belgrad: FRA nach BEG ...",
+      "link": "https://www.flightconnections.com/de/fl%C3%BCge-von-fra-nach-beg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.flightconnections.com/de/fl%25C3%25BCge-von-fra-nach-beg&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECG8QAQ",
+      "displayed_link": "https://www.flightconnections.com › flüge-von-fra-nach-...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853bae26b800dee7a6071412f47f218a942.png",
+      "snippet": "Insgesamt gibt es 2 Fluggesellschaften, die Direktflüge von Frankfurt am Main FRA nach Belgrad BEG durchführen. Dieser Abschnitt gibt einen Überblick über die ...",
+      "snippet_highlighted_words": [
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "Flight Connections"
+    },
+    {
+      "position": 51,
+      "title": "Ankünfte",
+      "link": "https://www.frankfurt-airport.com/de/fluege-und-airlines/ankuenfte.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.frankfurt-airport.com/de/fluege-und-airlines/ankuenfte.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECHQQAQ",
+      "displayed_link": "https://www.frankfurt-airport.com › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853e6079afaf95fca1af7496907bd2757b6.png",
+      "snippet": "Ankünfte der Flugnummer am Frankfurter Flughafen: Alle aktuellen Informationen zu Ihrem Flug ▻ Jetzt mehr erfahren!",
+      "snippet_highlighted_words": [
+        "Flug"
+      ],
+      "source": "Flughafen Frankfurt"
+    },
+    {
+      "position": 52,
+      "title": "Book cheap flights from Frankfurt to Belgrade (FRA – BEG)",
+      "link": "https://www.booking.com/flights/route/city-to-city/de-frankfurt-am-main-to-rs-belgrade.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.booking.com/flights/route/city-to-city/de-frankfurt-am-main-to-rs-belgrade.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCI0BEAE",
+      "displayed_link": "https://www.booking.com › flights › route › city-to-city",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853e1df843c554a9725eb4bfc03f40e3205.png",
+      "date": "Starting from $109.18",
+      "snippet": "On average this flight takes 1 hour 56 minutes one-way and costs $399 round-trip. Most popular route. Frankfurt Airport (FRA) to Belgrade Nikola Tesla Airport ( ...",
+      "snippet_highlighted_words": [
+        "flight",
+        "Frankfurt",
+        "Belgrade"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 109.18,
+            "currency": "$"
+          },
+          "extensions": [
+            "Starting from $109.18"
+          ]
+        }
+      },
+      "source": "Booking.com"
+    },
+    {
+      "position": 53,
+      "title": "Abflug – Flughafen Zuerich",
+      "link": "https://www.flughafen-zuerich.ch/de/passagiere/fliegen/fluginformation/abflug",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.flughafen-zuerich.ch/de/passagiere/fliegen/fluginformation/abflug&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCJIBEAE",
+      "displayed_link": "https://www.flughafen-zuerich.ch › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985320deec241dc3045267c703a54d4aadd1.png",
+      "snippet": "Frankfurt. LH 1187. Einsteigen, Zum Detail. 11:25. Palma De Mallorca. EW 6837 ... Belgrad. LX 1416. Zum Gate, Zum Detail. SQ2906. 12:20. Neapel. LX 1710. Zum ...",
+      "snippet_highlighted_words": [
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "Flughafen Zuerich"
+    },
+    {
+      "position": 54,
+      "title": "Billigflüge nach Belgrad",
+      "link": "https://www.wizzair.com/de-de/billige-fluege-nach-belgrad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wizzair.com/de-de/billige-fluege-nach-belgrad&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCJUBEAE",
+      "displayed_link": "https://www.wizzair.com › de-de",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853b72ad3da5575303128e14a3abab31c60.jpeg",
+      "date": "Starting from SEK 171.60",
+      "snippet": "Sind Sie flexibel, von wo aus Sie fliegen? Entdecken Sie unsere Angebote und sparen Sie mehr bei Ihrer Reise! Ihr günstigster Flug nach Belgrad ist nur ein paar ...",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Belgrad"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 171.6,
+            "currency": "SEK"
+          },
+          "extensions": [
+            "Starting from SEK 171.60"
+          ]
+        }
+      },
+      "source": "Wizz Air"
+    },
+    {
+      "position": 55,
+      "title": "Günstige Flüge von Flughafen Frankfurt Main (FRA) nach ...",
+      "link": "https://www.airpaz.com/de/flight-tickets/airport-city/frankfurt-airport-fra-belgrade-rs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.airpaz.com/de/flight-tickets/airport-city/frankfurt-airport-fra-belgrade-rs&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCJkBEAE",
+      "displayed_link": "https://www.airpaz.com › frankfur...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985369f6e44e6689e01529daa9335b53f3e0.png",
+      "date": "Jul 11, 2025",
+      "snippet": "Finden Sie den günstigen Flug Ab Flughafen Frankfurt Main nach Belgrad ... Genießen Sie exklusive Flugangebote zu Ihrem Wunschziel. Beginnen Sie ...",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Frankfurt",
+        "Belgrad",
+        "Flugangebote"
+      ],
+      "source": "Airpaz.com"
+    },
+    {
+      "position": 56,
+      "title": "Aktuelle Ankünfte",
+      "link": "https://www.viennaairport.com/passagiere/ankunft__abflug/ankuenfte",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.viennaairport.com/passagiere/ankunft__abflug/ankuenfte&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCKkBEAE",
+      "displayed_link": "https://www.viennaairport.com › a...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853cd3731945bb5b92f349f220b4af37169.png",
+      "snippet": "Flug. Fluglinie. Status. Details. 21.07.2025. 11:25. Malta Malta. QR 4814; OS 8712 ... Frankfurt Frankfurt. AC 6202; LH 6428; TP 8700. OS 210. AC 6202; LH 6428 ...",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Fluglinie",
+        "Frankfurt Frankfurt"
+      ],
+      "source": "Flughafen Wien"
+    },
+    {
+      "position": 57,
+      "title": "Ankünfte",
+      "link": "https://www.hamburg-airport.de/de/abfliegen-ankommen/ankunft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hamburg-airport.de/de/abfliegen-ankommen/ankunft&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCK4BEAE",
+      "displayed_link": "https://www.hamburg-airport.de › a...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853864f777a1151e12783d68a7c5ee56ee1.png",
+      "snippet": "... Flugnummer EW 7585. EW 7585. Terminal 1. Details. Flug LH 014, Geplant 13:05. 13:05. Erwartet. Herkunft Frankfurt. Frankfurt (FRA). Flugnummer LH 014. LH 014.",
+      "snippet_highlighted_words": [
+        "Flugnummer",
+        "Flug",
+        "Frankfurt",
+        "Frankfurt",
+        "Flugnummer"
+      ],
+      "source": "Hamburg Airport"
+    },
+    {
+      "position": 58,
+      "title": "Abflüge und Ankünfte | Flughafen BER",
+      "link": "https://ber.berlin-airport.de/de/fliegen/abfluege-ankuenfte.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ber.berlin-airport.de/de/fliegen/abfluege-ankuenfte.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCLUBEAE",
+      "displayed_link": "https://ber.berlin-airport.de › fliegen",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853f0f90c1f174b7ab48fa527f3b3664f39.png",
+      "snippet": "Nach | Flugnummer | Codeshare Von | Flugnummer | Codeshare. Terminal. Check-in Ankunft. Gate Gepäckband. Status. 09:25 Uhr. 10:45 Uhr. Belgrad (BEG). JU 355 | ...",
+      "snippet_highlighted_words": [
+        "Flugnummer",
+        "Flugnummer",
+        "Belgrad"
+      ],
+      "source": "BER Airport"
+    },
+    {
+      "position": 59,
+      "title": "Billigflüge vergleichen - günstige Flüge mit checkfelix buchen",
+      "link": "https://www.checkfelix.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.checkfelix.com/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCLgBEAE",
+      "displayed_link": "https://www.checkfelix.com",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598533d40ef9d23e0329fbfc87c20a0ea5255.jpeg",
+      "snippet": "checkfelix bietet alles von Billigflügen mit Lowcost-Airlines bis hin zu Business-Class-Tickets. ... Flüge nach Belgrad. So funktioniert die checkfelix Flugsuche.",
+      "snippet_highlighted_words": [
+        "Belgrad",
+        "Flugsuche"
+      ],
+      "source": "Checkfelix"
+    },
+    {
+      "position": 60,
+      "title": "Ankunft in Salzburg",
+      "link": "https://www.salzburg-airport.com/fluege-anreise/fluege/ankunft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.salzburg-airport.com/fluege-anreise/fluege/ankunft&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCLkBEAE",
+      "displayed_link": "https://www.salzburg-airport.com › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598532f6e5f3b85f55eab3435166af207d53b.png",
+      "snippet": "Wann LANDET mein Flug? Zu den aktuellen Ankünften am Flughafen Salzburg ✈ Nonstop zu Destinationen wie Berlin, Hamburg, Köln, Frankfurt ... Belgrad BEG. JU ...",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "Salzburg Airport"
+    },
+    {
+      "position": 61,
+      "title": "Ankunft – Flughafen Zuerich",
+      "link": "https://www.flughafen-zuerich.ch/de/passagiere/fliegen/fluginformation/ankunft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.flughafen-zuerich.ch/de/passagiere/fliegen/fluginformation/ankunft&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCLwBEAE",
+      "displayed_link": "https://www.flughafen-zuerich.ch › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598536fdb765215dd50bfb78150d1b1d9ed63.png",
+      "snippet": "Ankommend aus / Flug, Status. 11:00. Brüssel. LX 787. Zum Detail. AC6785. CX ... Belgrad. LX 1413. Zum Detail. TP8195. 11:20. Rom FCO. LX 1727. Zum Detail. AC6787.",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Belgrad"
+      ],
+      "source": "Flughafen Zuerich"
+    },
+    {
+      "position": 62,
+      "title": "Book a flight Frankfurt - Belgrade (FRA | BEG)",
+      "link": "https://www.austrian.com/lhg/rs/en/o-d/cy-cy/frankfurt-belgrade",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.austrian.com/lhg/rs/en/o-d/cy-cy/frankfurt-belgrade&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCNABEAE",
+      "displayed_link": "https://www.austrian.com › ... › Flight Europe",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598530a3509d4279abcc7efe509d5210eb210.png",
+      "snippet": "We operate flights per week from Frankfurt to Belgrade starting at only 212 €. ✈ Discover top deals every day at austrian.com.",
+      "snippet_highlighted_words": [
+        "Frankfurt",
+        "Belgrade"
+      ],
+      "source": "Austrian Airlines"
+    },
+    {
+      "position": 63,
+      "title": "Franjo Tuđman Airport Zagreb - Arrivals",
+      "link": "https://www.zagreb-airport.hr/en/passengers/flight-information/arrivals/34",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zagreb-airport.hr/en/passengers/flight-information/arrivals/34&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCNQBEAE",
+      "displayed_link": "https://www.zagreb-airport.hr › ... › Flight Information",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853f591a0fe91661498b2dbce826e17c562.png",
+      "snippet": "Flight No. AF 1166. Baggage 03, Gate A22, Status Arrived. Croatia Airlines, Scheduled 22:05, Expected 22:16. FRANKFURT. Flight No. OU 415. Codeshare: AI 7503,LH ...",
+      "snippet_highlighted_words": [
+        "Flight",
+        "FRANKFURT",
+        "Flight"
+      ],
+      "source": "zagreb-airport.hr"
+    },
+    {
+      "position": 64,
+      "title": "Günstige Flüge von Frankfurt Main nach Belgrad",
+      "link": "https://www.airpaz.com/de/flight-tickets/city-city/frankfurt-main-hessen-de-belgrade-rs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.airpaz.com/de/flight-tickets/city-city/frankfurt-main-hessen-de-belgrade-rs&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCNcBEAE",
+      "displayed_link": "https://www.airpaz.com › city-city",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598532fe8b237e96ca9128d44f66002c4efc1.png",
+      "snippet": "Mit Airpaz können Sie ganz einfach Flugtickets von Frankfurt Main nach Belgrad buchen. Als Online-Reisebüro seit 2011 wissen wir, dass jeder Reisende etwas ...",
+      "snippet_highlighted_words": [
+        "Flugtickets",
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "Airpaz.com"
+    },
+    {
+      "position": 65,
+      "title": "Ankunft & Abflug",
+      "link": "https://www.stuttgart-airport.com/de/reisende-besucher/fliegen/ankunft-abflug",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stuttgart-airport.com/de/reisende-besucher/fliegen/ankunft-abflug&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCNYBEAE",
+      "displayed_link": "https://www.stuttgart-airport.com › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853da1fcedbdf673b5498ed82339d1a1549.png",
+      "snippet": "Flugnummer / Airline. Flugzeugtyp. Terminal. Check-in. Gate. Status. 5:50 ... FRANKFURT. Logo Airline Lufthansa. LH 127. Lufthansa. Flugzeugtyp: 319. Terminal ...",
+      "snippet_highlighted_words": [
+        "Flugnummer",
+        "FRANKFURT"
+      ],
+      "source": "Flughafen Stuttgart"
+    },
+    {
+      "position": 66,
+      "title": "Ankunft",
+      "link": "https://www.munich-airport.de/ankommen-89283",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.munich-airport.de/ankommen-89283&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCO4BEAE",
+      "displayed_link": "https://www.munich-airport.de › an...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598532021f594e8f6e99ae0702c7f4178ced4.png",
+      "snippet": "Außerdem finden Sie am Airport über 150 Shop- und Serviceeinheiten. Shops am Flughafen. Lassen Sie Ihren Flug entspannt ausklingen und nutzen Sie unsere ...",
+      "snippet_highlighted_words": [
+        "Flug"
+      ],
+      "source": "Flughafen München"
+    },
+    {
+      "position": 67,
+      "title": "Aktuelle Abflüge",
+      "link": "https://www.viennaairport.com/passagiere/ankunft__abflug/abfluege",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.viennaairport.com/passagiere/ankunft__abflug/abfluege&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCP0BEAE",
+      "displayed_link": "https://www.viennaairport.com › a...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853ca00ff7e8c7bf7beda159d6cd5b7108e.png",
+      "date": "3 days ago",
+      "snippet": "Belgrad, Berlin, Bilbao, Bologna, Brüssel, Budapest ... Für Informationen zu einem bestimmten Flug verwenden Sie bitte die Flugsuche oben.",
+      "snippet_highlighted_words": [
+        "Belgrad",
+        "Flug",
+        "Flugsuche"
+      ],
+      "source": "Flughafen Wien"
+    },
+    {
+      "position": 68,
+      "title": "Abflug - Hannover Airport",
+      "link": "https://www.hannover-airport.de/rund-ums-fliegen/abflug/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hannover-airport.de/rund-ums-fliegen/abflug/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCIACEAE",
+      "displayed_link": "https://www.hannover-airport.de › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853793c5b806cdcef92e4ebba39042ef270.png",
+      "snippet": "Flugtickets & Urlaub buchen · Karriere. Am Flughafen Orientierung ... Frankfurt. LH 057 Check-in: A114-119 Terminal A Deutsche Lufthansa AG (LH). 15 ...",
+      "snippet_highlighted_words": [
+        "Flugtickets",
+        "Frankfurt"
+      ],
+      "source": "Hannover Airport"
+    },
+    {
+      "position": 69,
+      "title": "Flugplan",
+      "link": "https://www.bodensee-airport.eu/passagiere-besucher/rund-ums-fliegen/flugplan/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bodensee-airport.eu/passagiere-besucher/rund-ums-fliegen/flugplan/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCPsBEAE",
+      "displayed_link": "https://www.bodensee-airport.eu › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985368be495679a81aabd164f4a0b88becd8.png",
+      "snippet": "Flug, Von, Nach, Geplant, Tatsächlich, Status. XC 3102, Friedrichshafen, Antalya, 17:45, 18:16, Abgehoben. W6 4120, Friedrichshafen, Belgrad (aerodrom), 18:35 ...",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Belgrad"
+      ],
+      "source": "Bodensee-Airport Friedrichshafen"
+    },
+    {
+      "position": 70,
+      "title": "Abflug von Salzburg",
+      "link": "https://www.salzburg-airport.com/fluege-anreise/fluege/abflug",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.salzburg-airport.com/fluege-anreise/fluege/abflug&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCIgCEAE",
+      "displayed_link": "https://www.salzburg-airport.com › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598531bdcd1d6015cafe0ad055c6968848c35.png",
+      "snippet": "Wann STARTET mein Flug? Zu den aktuellen Ankünften am Flughafen Salzburg ✈ Nonstop zu top Destinationen wie Berlin, Hamburg, Köln, Frankfurt ... Belgrad BEG.",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "Salzburg Airport"
+    },
+    {
+      "position": 71,
+      "title": "Arrivals - Skopje International Airport",
+      "link": "https://skp.airports.com.mk/en-EN/flights/arrival-flights",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://skp.airports.com.mk/en-EN/flights/arrival-flights&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCJUCEAE",
+      "displayed_link": "https://skp.airports.com.mk › Flights › Arrivals",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853d37fce7a5b6a8b428c6e36adbb7da3c8.png",
+      "snippet": "No flight added. To track your flight please add your flight from ... FRANKFURT-HAHN WIZZ AIR · W6 4730 · W6 4730 ---. 24.07.2025 · 00:50 · 00:50 00:50 ...",
+      "snippet_highlighted_words": [
+        "flight",
+        "flight",
+        "flight",
+        "FRANKFURT"
+      ],
+      "source": "Skopje Airport"
+    },
+    {
+      "position": 72,
+      "title": "Ankünfte",
+      "link": "https://www.euroairport.com/de/passagiere-besucher/abflug-ankunft/fluege/ankunft.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.euroairport.com/de/passagiere-besucher/abflug-ankunft/fluege/ankunft.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCKICEAE",
+      "displayed_link": "https://www.euroairport.com › fluege",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598535c8d6b7605db78a83ad6b63f026492b3.png",
+      "snippet": "Frankfurt, Lufthansa, LH1200, Gelandet 07:47. Codeshare(s): LX3937 ... Belgrad, Wizz Air, W64051, Gelandet 08:02. Fluggesellschaft: Wizz Air. Code: W6 / WZZ.",
+      "snippet_highlighted_words": [
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "EuroAirport Basel Mulhouse Freiburg"
+    },
+    {
+      "position": 73,
+      "title": "Live vom FKB Tagesaktueller Flugplan",
+      "link": "https://www.baden-airpark.de/passagiere-besucher/fluege/tagesaktueller-flugplan/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.baden-airpark.de/passagiere-besucher/fluege/tagesaktueller-flugplan/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCKECEAE",
+      "displayed_link": "https://www.baden-airpark.de › ta...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598533ad8db982e9804536ab406ec4edf6d2a.png",
+      "snippet": "Tagesaktueller Flugplan: Abflüge und Ankünfte, Flug suchen, Trainingsflüge am Flughafen Karlsruhe / Baden-Baden (FKB) ... Belgrad W6 4110. 08:40. Morgen. Wizz ...",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Belgrad"
+      ],
+      "source": "Flughafen Karlsruhe / Baden-Baden"
+    },
+    {
+      "position": 74,
+      "title": "Abflug Ankunft",
+      "link": "https://www.hannover-airport.de/rund-ums-fliegen/ankunft/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hannover-airport.de/rund-ums-fliegen/ankunft/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCJ0CEAE",
+      "displayed_link": "https://www.hannover-airport.de › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985343616cd1e9b52bdb768f70c3633e3126.png",
+      "snippet": "Flugtickets & Urlaub buchen · Karriere. Am Flughafen Orientierung | Geschäfte ... Frankfurt. LH 052 Terminal A05 Deutsche Lufthansa AG (LH). 14:25 14:47.",
+      "snippet_highlighted_words": [
+        "Flugtickets",
+        "Frankfurt"
+      ],
+      "source": "Hannover Airport"
+    },
+    {
+      "position": 75,
+      "title": "TAROM",
+      "link": "https://www.tarom.ro/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tarom.ro/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCKMCEAE",
+      "displayed_link": "https://www.tarom.ro",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853ac3c7f26fc3589ee89e5461ec3d1b243.png",
+      "snippet": "Frankfurt Germania. FRA Aeroportul Frankfurt. Genova Italia. GOA Aeroportul ... TAROM Flight Pass. Detalii aici! image. Cursuri TAROM. Detalii aici. image ...",
+      "snippet_highlighted_words": [
+        "Frankfurt",
+        "Frankfurt",
+        "Flight"
+      ],
+      "source": "TAROM"
+    },
+    {
+      "position": 76,
+      "title": "Departures Flight - Skopje International Airport",
+      "link": "https://skp.airports.com.mk/en-EN/flights/departure-flights",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://skp.airports.com.mk/en-EN/flights/departure-flights&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCKkCEAE",
+      "displayed_link": "https://skp.airports.com.mk › Flights › Departures",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853b76b4504c937bb364fe81c90edb26d3b.png",
+      "snippet": "15:10 15:10 · KLM ROYAL DUTCH AIRLINES · BELGRADE KLM ROYAL DUTCH AIRLINES · KL 2829 · KL 2829 ---. 24.07.2025 · 15:40 · 15:40 15:40 · LUFTHANSA · FRANKFURT ...",
+      "snippet_highlighted_words": [
+        "BELGRADE",
+        "FRANKFURT"
+      ],
+      "source": "Skopje Airport"
+    },
+    {
+      "position": 77,
+      "title": "Bodensee-Airport Friedrichshafen",
+      "link": "https://www.bodensee-airport.eu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bodensee-airport.eu/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCKwCEAE",
+      "displayed_link": "https://www.bodensee-airport.eu",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598538adf055a7064aa3605569105d764baaf.png",
+      "snippet": "Außerplanmäßige Landung des Swiss-Fluges LX1413 in Friedrichshafen Der Swiss-Flug LX1413 von Belgrad nach Zürich… WEITERLESEN · Veröffentlicht am: 04.07.2025.",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Belgrad"
+      ],
+      "source": "Bodensee-Airport Friedrichshafen"
+    },
+    {
+      "position": 78,
+      "title": "flugplan.pdf",
+      "link": "https://www.munich-airport.de/_b/0000000000000027589260bb6718b5d0/flugplan.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.munich-airport.de/_b/0000000000000027589260bb6718b5d0/flugplan.pdf&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCLoCEAE",
+      "displayed_link": "https://www.munich-airport.de › flugplan",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853d572a4ca1b003c2274d834d5cd7fff0f.png",
+      "snippet": "... Frankfurt (FRA). Deutschland. Hamburg (HAM). Deutschland. Hannover (HAJ) ... Belgrad (BEG). Singapur. Singapur (SIN). Slowenien. Ljubljana (LJU). Spanien.",
+      "snippet_highlighted_words": [
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "Flughafen München"
+    },
+    {
+      "position": 79,
+      "title": "Home - BELAVIA - Belarusian Airlines",
+      "link": "https://en.belavia.by/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.belavia.by/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCMQCEAE",
+      "displayed_link": "https://en.belavia.by",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853f17897716dbea9e46ac3508581433e1d.png",
+      "snippet": "Offers · 17 July 2025 Summer all year round: direct flights to Hainan · 23 June 2025 Flight restrictions have been lifted: Belavia plans to operate flights to and ...",
+      "snippet_highlighted_words": [
+        "Flight"
+      ],
+      "source": "BELAVIA"
+    },
+    {
+      "position": 80,
+      "title": "Direktziele ab Hamburg",
+      "link": "https://www.hamburg-airport.de/de/planen-buchen/direktziele-ab-hamburg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hamburg-airport.de/de/planen-buchen/direktziele-ab-hamburg&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCMICEAE",
+      "displayed_link": "https://www.hamburg-airport.de › d...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853f0ef5f5e9b26c2c61c283c3eae6434ba.png",
+      "snippet": "... Belgrad (BEG) | Wizz Air Flüge nach Belgrad anzeigen. Spanien. Alicante (ALC) ... Flug buchen ab Hamburg Airport. Oliver Sorg. Flug suchen & buchen. Fliegen ...",
+      "snippet_highlighted_words": [
+        "Belgrad",
+        "Belgrad",
+        "Flug",
+        "Flug"
+      ],
+      "source": "Hamburg Airport"
+    },
+    {
+      "position": 81,
+      "title": "Flughafen Karlsruhe / Baden-Baden (FKB)",
+      "link": "https://www.baden-airpark.de/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.baden-airpark.de/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCM0CEAE",
+      "displayed_link": "https://www.baden-airpark.de",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853d3e9fdfccfcf054e9b8511d15433f3b1.png",
+      "snippet": "Flug Suchen. Alle Abflüge anzeigen. KARLSRUHE / BADEN-BADEN (FKB) 12:25 20 ... Belgrad W6 4110. 08:40. Morgen. London Stansted FR 8095. 09:15. Morgen. Palma de ...",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Belgrad"
+      ],
+      "source": "Flughafen Karlsruhe / Baden-Baden"
+    },
+    {
+      "position": 82,
+      "title": "Abflüge",
+      "link": "https://www.euroairport.com/de/passagiere-besucher/abflug-ankunft/fluege/abflug.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.euroairport.com/de/passagiere-besucher/abflug-ankunft/fluege/abflug.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCNcCEAE",
+      "displayed_link": "https://www.euroairport.com › abflug",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853259b9804dbe3b97208e62ae97f46006f.png",
+      "snippet": "Frankfurt, Air Dolomiti, EN8113, Gestartet 06:17. Codeshare(s): LH6917 ... Belgrad, Wizz Air, W64052, Gestartet 09:01. Fluggesellschaft: Wizz Air. Code: W6 ...",
+      "snippet_highlighted_words": [
+        "Frankfurt",
+        "Belgrad"
+      ],
+      "source": "EuroAirport Basel Mulhouse Freiburg"
+    },
+    {
+      "position": 83,
+      "title": "Check-in und Boarding",
+      "link": "https://www.wizzair.com/de-de/hilfe-center/check-in-und-boarding",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wizzair.com/de-de/hilfe-center/check-in-und-boarding&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCOMCEAE",
+      "displayed_link": "https://www.wizzair.com › de-de",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853a8d033e5084adb69eeab6d27f014ebac.jpeg",
+      "snippet": "Boarding. Probleme mit dem Boarding-Prozess und der Bordkarte. Weitere Informationen. Reisedokumente und Anforderungen. Für die Flugreise erforderliche ...",
+      "snippet_highlighted_words": [
+        "Flugreise"
+      ],
+      "source": "Wizz Air"
+    },
+    {
+      "position": 84,
+      "title": "Check-in - Zusätzliche Services",
+      "link": "https://www.sunexpress.com/de-de/information/passagierinformationen/check-in/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunexpress.com/de-de/information/passagierinformationen/check-in/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCOQCEAE",
+      "displayed_link": "https://www.sunexpress.com › de-de",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853c83ac132ee15502c0d20647c1403bde6.png",
+      "snippet": "Wie funktioniert der Online Check-in? Wenn Sie Ihren Flug: direkt über SunExpress oder über eine SunExpress-Agenturmit Zugang zum SunExpress-Buchungssystem ...",
+      "snippet_highlighted_words": [
+        "Flug"
+      ],
+      "source": "SunExpress"
+    },
+    {
+      "position": 85,
+      "title": "Flights | Aerodrom Nikola Tesla Beograd",
+      "link": "https://beg.aero/eng/flights",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://beg.aero/eng/flights&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCOUCEAE",
+      "displayed_link": "https://beg.aero › eng › flights",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853a1ba1170a63d28bef6e9a13a39393da5.png",
+      "snippet": "The real-time flight information is given as an indication and is ... Frankfurt. A05. 06:10. Departed 06:16. Lufthansa LH 1415. + info. LH 1415 + info ...",
+      "snippet_highlighted_words": [
+        "flight",
+        "Frankfurt"
+      ],
+      "source": "Aerodrom Nikola Tesla"
+    },
+    {
+      "position": 86,
+      "title": "Ankunft Abflug",
+      "link": "https://www.dus.com/de-de/fliegen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dus.com/de-de/fliegen&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCPMCEAE",
+      "displayed_link": "https://www.dus.com › fliegen",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853c3120abb9de29dd6d7dc054a4cba7d91.png",
+      "snippet": "Flug Nr. EW 9613, aus Korfu, Geplant 16:15, Erwartet. 17:05, Ausgang 1 ; Flug Nr. EW 9923, aus Belgrad, Geplant 16:30, Erwartet. 16:35, Ausgang 1 ...",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Flug",
+        "Belgrad"
+      ],
+      "source": "DUS Airport"
+    },
+    {
+      "position": 87,
+      "title": "Pegasus Airlines: Günstige Flüge & Flugtickets Buchen",
+      "link": "https://www.flypgs.com/de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.flypgs.com/de&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCPECEAE",
+      "displayed_link": "https://www.flypgs.com › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985345e3bda9257c3f3f5c6b57158e89e880.png",
+      "snippet": "Bereichern Sie Ihren Flug. Sitzauswahl · Verkauf Von ... Von Berlin, Frankfurt, München, Düsseldorf und Köln bieten wir viele ...",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Frankfurt"
+      ],
+      "source": "Pegasus"
+    },
+    {
+      "position": 88,
+      "title": "Air Montenegro | Home",
+      "link": "https://airmontenegro.com/en/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://airmontenegro.com/en/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECDgQAQ",
+      "displayed_link": "https://airmontenegro.com › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985320624572eae2d05a61f0da9016f6aff2.jpeg",
+      "snippet": "Flight Number (for example \"611\"). YM, AZ, EY, JU. Departing from. Podgorica (TGD) ... Belgrade · Zurich · Frankfurt · Istanbul · Ljubljana · Rome. Newsletter.",
+      "snippet_highlighted_words": [
+        "Flight",
+        "Belgrade",
+        "Frankfurt"
+      ],
+      "source": "Air Montenegro"
+    },
+    {
+      "position": 89,
+      "title": "Günstige Flüge ab 19 €* – Eurowings",
+      "link": "https://www.eurowings.com/de/buchen/angebote/guenstige-fluege.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eurowings.com/de/buchen/angebote/guenstige-fluege.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECDYQAQ",
+      "displayed_link": "https://www.eurowings.com › gue...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853535fdf8ef97639a39cb996c80b56d448.png",
+      "snippet": "Belgrad, Bergen, Berlin Brandenburg, Bilbao, Birmingham, Bologna, Bordeaux ... Flug ab Frankfurt/Main (FRA)ab 59,99€*. 2025-08-20T12:00:00Flug ab Frankfurt ...",
+      "snippet_highlighted_words": [
+        "Belgrad",
+        "Flug",
+        "Frankfurt",
+        "Flug",
+        "Frankfurt"
+      ],
+      "source": "Eurowings"
+    },
+    {
+      "position": 90,
+      "title": "TAROM",
+      "link": "https://www.tarom.ro/en/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tarom.ro/en/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECDQQAQ",
+      "displayed_link": "https://www.tarom.ro › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598535fcd35c5db7fa2ef8a20fa7a54702562.png",
+      "snippet": "Additional Flight to Prague. TAROM introduces an additional flight to ... Frankfurt Germany. FRA Frankfurt Airport. Genoa Italy. GOA Genova City Airport.",
+      "snippet_highlighted_words": [
+        "Flight",
+        "flight",
+        "Frankfurt",
+        "Frankfurt"
+      ],
+      "source": "TAROM"
+    },
+    {
+      "position": 91,
+      "title": "Luxair: Offizielle Webseite – Buchen Sie Direktflüge zu ...",
+      "link": "https://www.luxair.lu/de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.luxair.lu/de&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECFQQAQ",
+      "displayed_link": "https://www.luxair.lu › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598531a88d65d3cc57d98a92eb9d644595382.png",
+      "snippet": "Neu! Edinburgh. keyboard_arrow_right. pause. Flug; Urlaub mit LuxairTours. Mietwagen. Intelligent Flight Search. Hin- und Rückflug. Nur Hinflug. Gabelflug. Von.",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Flight",
+        "Gabelflug"
+      ],
+      "source": "Luxair"
+    },
+    {
+      "position": 92,
+      "title": "Billigflüge ✈️ Flüge vergleichen & buchen",
+      "link": "https://www.easyjet.com/de/billigfluege",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.easyjet.com/de/billigfluege&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECFYQAQ",
+      "displayed_link": "https://www.easyjet.com › billigflu...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853e8c38488796b006f7c2809e5549bb170.png",
+      "snippet": "Flight Tracker. Flugstatus prüfen über. Flug; Route. Flugnummer. Status abrufen ... Frankfurt; Friedrichshafen; Baden-Baden; Sylt. Griechenland. Korfu; Kreta ...",
+      "snippet_highlighted_words": [
+        "Flight",
+        "Flugstatus",
+        "Flug",
+        "Flugnummer",
+        "Frankfurt"
+      ],
+      "source": "EasyJet"
+    },
+    {
+      "position": 93,
+      "title": "Ankunft",
+      "link": "https://www.dus.com/de-de/fliegen/ankunft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dus.com/de-de/fliegen/ankunft&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECFIQAQ",
+      "displayed_link": "https://www.dus.com › fliegen › a...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853d629519e8b7b6588e5a362cbe01eb1a1.png",
+      "snippet": "Flug Nr. XC 5512, aus Balikesir / Edremit, Geplant 06:05, Erwartet. -, Ausgang ... aus Frankfurt, Geplant 08:15, Erwartet. -, Ausgang -, Gepäckband -, Bemerkung.",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Frankfurt"
+      ],
+      "source": "DUS Airport"
+    },
+    {
+      "position": 94,
+      "title": "AJet",
+      "link": "https://ajet.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ajet.com/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECFcQAQ",
+      "displayed_link": "https://ajet.com",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc59853b1dd13fa5d357652e51ee50ac8fa9da1.png",
+      "source": "AJet"
+    },
+    {
+      "position": 95,
+      "title": "Departures | Göteborg Landvetter Airport - Swedavia",
+      "link": "https://www.swedavia.com/landvetter/departures/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.swedavia.com/landvetter/departures/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECG0QAQ",
+      "displayed_link": "https://www.swedavia.com › landvetter › departures",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598533d96852c4e8b936c8fd9266f1d6bfa2c.png",
+      "snippet": "Click on your flight to see opening hours. Loading flight data... Date. Yesterday, Today ... Frankfurt. LH821. 06:25. Copenhagen. SK1439. 06:25. Thessaloniki.",
+      "snippet_highlighted_words": [
+        "flight",
+        "flight",
+        "Frankfurt"
+      ],
+      "source": "swedavia.com"
+    },
+    {
+      "position": 96,
+      "title": "Booking is flexible now, fly good, feel safe with Bulgaria Air",
+      "link": "https://www.air.bg/en/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.air.bg/en/&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECG4QAQ",
+      "displayed_link": "https://www.air.bg › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598539dc360895cbd8eee944690077b68c447.png",
+      "snippet": "... flight of Bulgaria Air in Economy YOUTH fare. View more. From. Select a ... Frankfurt. Plan your trip from Varna to Frankfurt! See more. from €. 129. Prague.",
+      "snippet_highlighted_words": [
+        "flight",
+        "Frankfurt",
+        "Frankfurt"
+      ],
+      "source": "air.bg"
+    },
+    {
+      "position": 97,
+      "title": "Super Last Minute Angebote - Heute buchen, heute fliegen",
+      "link": "https://www.ltur.com/de/reisearten/super-last-minute",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ltur.com/de/reisearten/super-last-minute&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECHAQAQ",
+      "displayed_link": "https://www.ltur.com › reisearten",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598533f1fad86f28c0544ab64e230a6a2ff59.png",
+      "snippet": "Flug und Hotel Flug und Hotel. Übersicht Flug und Hotel · All Inclusive Urlaub ... Frankfurt/Hahn. Frankfurt/Main. Friedrichshafen. Hamburg. Hannover.",
+      "snippet_highlighted_words": [
+        "Flug",
+        "Flug",
+        "Flug",
+        "Frankfurt",
+        "Frankfurt"
+      ],
+      "source": "ltur"
+    },
+    {
+      "position": 98,
+      "title": "Arriving flights",
+      "link": "https://www.bud.hu/en/arrivals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bud.hu/en/arrivals&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoECHEQAQ",
+      "displayed_link": "https://www.bud.hu › arrivals",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598531a7d4efb301660093332e4a87b7d518f.png",
+      "snippet": "Flight and travel information; Flights; Arrivals. Arrivals · Departures ... Frankfurt, Lufthansa, LH1340, 2A, Scheduled. Please wait... Frankfurt, Air Canada ...",
+      "snippet_highlighted_words": [
+        "Flight",
+        "Frankfurt",
+        "Frankfurt"
+      ],
+      "source": "bud.hu"
+    },
+    {
+      "position": 99,
+      "title": "Edelweiss: Flüge ab Zürich zu über 90 Destinationen",
+      "link": "https://www.flyedelweiss.com/ch/de/home.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.flyedelweiss.com/ch/de/home.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCIkBEAE",
+      "displayed_link": "https://www.flyedelweiss.com › ...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc598539521af8cb4276773793651a876faee77.png",
+      "snippet": "Wohin möchten Sie fliegen? Flugtyp. Hin- und Rückflug. Einfacher Flug. Gabelflug. Scrollen links. Scrollen rechts. Das Feld um einen Promotioncode einzulösen ...",
+      "snippet_highlighted_words": [
+        "Flugtyp",
+        "Flug",
+        "Gabelflug"
+      ],
+      "source": "Edelweiss"
+    },
+    {
+      "position": 100,
+      "title": "Eurowings Flugstrecken: Unser aktueller Flugplan",
+      "link": "https://www.eurowings.com/de/entdecken/reiseziele/flugplan.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eurowings.com/de/entdecken/reiseziele/flugplan.html&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQFnoFCIsBEAE",
+      "displayed_link": "https://www.eurowings.com › flug...",
+      "favicon": "https://serpapi.com/searches/68822332cfa23059213695dd/images/4853dc01ab51fd0fff938321ffc5985353aed5d0040a3577ab07a6cf3cf6a925.png",
+      "snippet": "Auf dieser Seite findest du alle bestehenden und neuen Flugziele ab Düsseldorf, Köln, Hamburg und allen weiteren Flughäfen, von denen wir abfliegen. Neue ...",
+      "snippet_highlighted_words": [
+        "Flugziele"
+      ],
+      "source": "Eurowings"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Air Serbia",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJGR82gv2OyaKuid4T0tlgPMGI6AWxMuAj4oc&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Air+Serbia&stick=H4sIAAAAAAAAAOMwVOLSz9U3KK80KU42-cXIsIGF4RULDxeS4CsWLi4OELfApDzpFQs3FyeIY5gbX5UCl8owzzaFS5kaJ-VVwXmW5vEZKQhtZumWRQieaW5JEdwQQ0uLqkWsXI6ZRQrBqUVJmYm32CQZdi_q-Mniut9wo6Xxxk1ij7ez_3L_W5s2Y-UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAA5OlVfVAAAA&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQs9oBKAB6BQiYARAK",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Air+Serbia&stick=H4sIAAAAAAAAAOMwVOLSz9U3KK80KU42-cXIsIGF4RULDxeS4CsWLi4OELfApDzpFQs3FyeIY5gbX5UCl8owzzaFS5kaJ-VVwXmW5vEZKQhtZumWRQieaW5JEdwQQ0uLqkWsXI6ZRQrBqUVJmYm32CQZdi_q-Mniut9wo6Xxxk1ij7ez_3L_W5s2Y-UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAA5OlVfVAAAA"
+        },
+        {
+          "name": "Lufthansa",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QZHrFDXcdur_jWHwkeYQKuYO3oPt_dt1q1Xo&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Lufthansa&stick=H4sIAAAAAAAAAOMwVOLQz9U3KDApT_rFyLCBheEVCw8XF0iovNKkONnkFQsXF1zFKxZuLk4QxzA3vioFLpVhnm0KlzI1TsqrgvMszeMzUhDazNItixA809ySIrghhpYWVYtYOX1K00oyEvOKE2-xSTLsXtTxk8V1v-FGS-ONm8Qeb2f_5f63Nm3GykUcYgGp-QU5qQqJOcX5CsWpiUXJGQpp-UUrOBgB2iRrDtIAAAA&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQs9oBKAB6BQiYARAP",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Lufthansa&stick=H4sIAAAAAAAAAOMwVOLQz9U3KDApT_rFyLCBheEVCw8XF0iovNKkONnkFQsXF1zFKxZuLk4QxzA3vioFLpVhnm0KlzI1TsqrgvMszeMzUhDazNItixA809ySIrghhpYWVYtYOX1K00oyEvOKE2-xSTLsXtTxk8V1v-FGS-ONm8Qeb2f_5f63Nm3GykUcYgGp-QU5qQqJOcX5CsWpiUXJGQpp-UUrOBgB2iRrDtIAAAA"
+        },
+        {
+          "name": "Ryanair",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-iln9SKLzF6SQXfFuQMpT3Qvk2pMVqq2B187&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Ryanair&stick=H4sIAAAAAAAAAOMwVOLUz9U3MMyNr0r5xciwgYXhFQsPFxdIrLzSpDjZ5BULFxcHiFtgUp70ioWbC6EeLpVhnm0KlzI1TsqrgvMszeMzUhDazNItixA809ySIrghhpYWVYtY2YMqE_MSM4tusUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAVW5PtTRAAAA&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQs9oBKAB6BQiYARAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Ryanair&stick=H4sIAAAAAAAAAOMwVOLUz9U3MMyNr0r5xciwgYXhFQsPFxdIrLzSpDjZ5BULFxcHiFtgUp70ioWbC6EeLpVhnm0KlzI1TsqrgvMszeMzUhDazNItixA809ySIrghhpYWVYtY2YMqE_MSM4tusUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAVW5PtTRAAAA"
+        },
+        {
+          "name": "Air France",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyQrcUcuJIG9uaPe3gAwV1UY5ujmfwzrcl9crj&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Air+France&stick=H4sIAAAAAAAAAOMwVOLQz9U3yDDPNv3FyLCBheEVCw8XF0iovNKkONnkFQsXF1hFgUl50isWbi5OEMcwN74qBS4F0gyXMjVOyquC8yzN4zNSENrM0i2LEDzT3JIiuCGGlhZVi1i5HDOLFNyKEvOSU2-xSTLsXtTxk8V1v-FGS-ONm8Qeb2f_5f63Nm3GykUcYgGp-QU5qQqJOcX5CsWpiUXJGQpp-UUrOBgBFPCVy9MAAAA&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQs9oBKAB6BQiYARAZ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Air+France&stick=H4sIAAAAAAAAAOMwVOLQz9U3yDDPNv3FyLCBheEVCw8XF0iovNKkONnkFQsXF1hFgUl50isWbi5OEMcwN74qBS4F0gyXMjVOyquC8yzN4zNSENrM0i2LEDzT3JIiuCGGlhZVi1i5HDOLFNyKEvOSU2-xSTLsXtTxk8V1v-FGS-ONm8Qeb2f_5f63Nm3GykUcYgGp-QU5qQqJOcX5CsWpiUXJGQpp-UUrOBgBFPCVy9MAAAA"
+        },
+        {
+          "name": "Aegean Airlines",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScs56SPx2eW9QJ9IdqMvMHLoY-bPnwo2_bsFuE&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Aegean+Airlines&stick=H4sIAAAAAAAAAOMwVOLUz9U3MDVOyqv6xciwgYXhFQsPFxdIrLzSpDjZ5BULFxcHiFtgUp70ioWbC6zeMDe-KgUulWGebQqXAhsF51max2ekILSZpVsWIXimuSVFcEMMLS2qFrHyO6ampybmKThmFuVk5qUW32KTZNi9qOMni-t-w42Wxhs3iT3ezv7L_W9t2oyVizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAt0yTMNkAAAA&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQs9oBKAB6BQiYARAe",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Aegean+Airlines&stick=H4sIAAAAAAAAAOMwVOLUz9U3MDVOyqv6xciwgYXhFQsPFxdIrLzSpDjZ5BULFxcHiFtgUp70ioWbC6zeMDe-KgUulWGebQqXAhsF51max2ekILSZpVsWIXimuSVFcEMMLS2qFrHyO6ampybmKThmFuVk5qUW32KTZNi9qOMni-t-w42Wxhs3iT3ezv7L_W9t2oyVizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAt0yTMNkAAAA"
+        },
+        {
+          "name": "Austrian Airlines",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReMJqcBHfo6IYpQI6zGZTYLfK2iGfDjrQsHfch&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Austrian+Airlines&stick=H4sIAAAAAAAAAOMwVOLUz9U3sDSPz0j5xciwgYXhFQsPFxdIrLzSpDjZ5BULFxcHiFtgUp70ioWbC6zeMDe-KgUulWGebQqXMjVOyquC88AGI7SZpVsWIXimuSVFcEMMLS2qFrEKOpYWlxRlJuYpOGYW5WTmpRbfYpNk2L2o4yeL637DjZbGGzeJPd7O_sv9b23ajJWLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgC-tOxW2wAAAA&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQs9oBKAB6BQiYARAj",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Austrian+Airlines&stick=H4sIAAAAAAAAAOMwVOLUz9U3sDSPz0j5xciwgYXhFQsPFxdIrLzSpDjZ5BULFxcHiFtgUp70ioWbC6zeMDe-KgUulWGebQqXMjVOyquC88AGI7SZpVsWIXimuSVFcEMMLS2qFrEKOpYWlxRlJuYpOGYW5WTmpRbfYpNk2L2o4yeL637DjZbGGzeJPd7O_sv9b23ajJWLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgC-tOxW2wAAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "Flug Frankfurt Belgrad Air Serbia",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Flug+Frankfurt+Belgrad+Air+Serbia&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQ1QJ6BQj0ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Flug+Frankfurt+Belgrad+Air+Serbia"
+    },
+    {
+      "block_position": 1,
+      "query": "Flug Frankfurt Belgrad Lufthansa",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Flug+Frankfurt+Belgrad+Lufthansa&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQ1QJ6BQjyARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Flug+Frankfurt+Belgrad+Lufthansa"
+    },
+    {
+      "block_position": 1,
+      "query": "Flug Frankfurt - Belgrad heute",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Flug+Frankfurt+-+Belgrad+heute&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQ1QJ6BQjwARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Flug+Frankfurt+-+Belgrad+heute"
+    },
+    {
+      "block_position": 1,
+      "query": "Flug Frankfurt - Belgrad Last Minute",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Flug+Frankfurt+-+Belgrad+Last+Minute&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQ1QJ6BQjvARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Flug+Frankfurt+-+Belgrad+Last+Minute"
+    },
+    {
+      "block_position": 1,
+      "query": "Flug frankfurt belgrad tickets",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Flug+frankfurt+belgrad+tickets&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQ1QJ6BQjpARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Flug+frankfurt+belgrad+tickets"
+    },
+    {
+      "block_position": 1,
+      "query": "Flug Frankfurt - Belgrad günstig",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Flug+Frankfurt+-+Belgrad+g%C3%BCnstig&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQ1QJ6BQjmARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Flug+Frankfurt+-+Belgrad+g%C3%BCnstig"
+    },
+    {
+      "block_position": 1,
+      "query": "Flug Frankfurt Belgrad Moskau",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Flug+Frankfurt+Belgrad+Moskau&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQ1QJ6BQjbARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Flug+Frankfurt+Belgrad+Moskau"
+    },
+    {
+      "block_position": 1,
+      "query": "Flug frankfurt belgrad inklusive gepäck",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&q=Flug+frankfurt+belgrad+inklusive+gep%C3%A4ck&sa=X&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQ1QJ6BQj3ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Flug+frankfurt+belgrad+inklusive+gep%C3%A4ck"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=flug+frankfurt+belgrad&num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&ei=NyOCaPuhJ56GptQPmfTE4Qo&start=100&sa=N&sstk=Ac65TH5b1UZ3n5_G9tsT5GTlHAM4Tyi2VedCGR9ikh003ZK4D3I0rVUih5Ih3g5KXJzNEariVdkEZXhjlU_yoitXIbOe918jZN-UTg&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQ8NMDegQIChAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=flug+frankfurt+belgrad&num=100&sca_esv=613cc7993e3f5318&hl=en&gl=us&ei=NyOCaPuhJ56GptQPmfTE4Qo&start=100&sa=N&sstk=Ac65TH5b1UZ3n5_G9tsT5GTlHAM4Tyi2VedCGR9ikh003ZK4D3I0rVUih5Ih3g5KXJzNEariVdkEZXhjlU_yoitXIbOe918jZN-UTg&ved=2ahUKEwi7mf_uu9WOAxUeg4kEHRk6MawQ8tMDegQIChAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=flug+frankfurt+belgrad&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=flug+frankfurt+belgrad&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=flug+frankfurt+belgrad&start=100"
+    }
+  }
+}

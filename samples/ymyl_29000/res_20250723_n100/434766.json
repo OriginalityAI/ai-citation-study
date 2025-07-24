@@ -1,0 +1,619 @@
+{
+  "search_metadata": {
+    "id": "68824de39d26cf32f1999291",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a8e1405b3a0e7600/68824de39d26cf32f1999291.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/a8e1405b3a0e7600/68824de39d26cf32f1999291.json_with_pixel_position",
+    "created_at": "2025-07-24 15:14:43 UTC",
+    "processed_at": "2025-07-24 15:14:43 UTC",
+    "google_url": "https://www.google.com/search?q=haggens+flu+shot&oq=haggens+flu+shot&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a8e1405b3a0e7600/68824de39d26cf32f1999291.html",
+    "total_time_taken": 5.12
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "haggens flu shot",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "haggens flu shot",
+    "total_results": 37,
+    "time_taken_displayed": 0.39,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Which flu shot is better, fluzone or fluad?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVUycEJXa0l5Ymt0SVRGUllRVFp1V0ZwdlFqSlZVV2RNVW13emRFRmpiSHBaWlVSSk1VbG5VV0pEZVhScmEyaEplR1YwTTBKc1NIZDNkRVl5U2pOUlpuWlVUWFl6YkRodGMyRjVUazFDUVdob1ZVRkRZVkp5VWtsS1VSSVdOVEF5UTJGS04zVk5UVk5LT1hVNFVERjJZakpqVVJvaVFVWk5RVWRIYjB0ek1tVjZlakozZFRoT09ERXpPVVoxYkZOWk5XeEhVVkZFWnciLCJmY3YiOiIzIiwiZWkiOiI1MDJDYUo3dU1NU0o5dThQMXZiMmNRIiwicWMiOiJDaEJvWVdkblpXNXpJR1pzZFNCemFHOTBFQUFZQVgzcFppd18iLCJxdWVzdGlvbiI6IldoaWNoIGZsdSBzaG90IGlzIGJldHRlciwgZmx1em9uZSBvciBmbHVhZD8iLCJsayI6ImM1UFNMTV9JVE01UVNNc3BWU2pPeUM5UnlDeFdTRW90S1VrdEFnbFY1ZWVsS3VTRG1Za3BBQSIsImJzIjoiYzZXUXZXckRNQlNGOFNvSVpEUU9nYnZtWl9JRFJIbUJ6cDVTa08wankwUklJQ3NWVHZZLVVzZS1TWWEtU1MyVDRFQXBCREpkY2ZWOWg4TmxCN1lwVkZzcGt2cEVuYktlMm81S2VBLTNqYnV6TlNEcjRsUFVQUDJlNVp0c0ZmNHhfZ2pzTTJHOFVHSmt2QUxWclpSd01CV2lFZ0FUd1ZMYkl3bFRrME56MG1LVTZVTlVWV3ZBMC1zbDMyZTc4RklLZTJPcnh4NEdZZW92aDdweENWM0Q2WjZuWHpKZlpvczdjNHNZc1J2QzN1UFpwcmdTblpfeXZLVUd3MUREYndfaGVQcWo4MjIyRGs4YjgtUVgiLCJpZCI6ImZjXzUwMkNhSjd1TU1TSjl1OFAxdmIyY1FfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVUycEJXa0l5Ymt0SVRGUllRVFp1V0ZwdlFqSlZVV2RNVW13emRFRmpiSHBaWlVSSk1VbG5VV0pEZVhScmEyaEplR1YwTTBKc1NIZDNkRVl5U2pOUlpuWlVUWFl6YkRodGMyRjVUazFDUVdob1ZVRkRZVkp5VWtsS1VSSVdOVEF5UTJGS04zVk5UVk5LT1hVNFVERjJZakpqVVJvaVFVWk5RVWRIYjB0ek1tVjZlakozZFRoT09ERXpPVVoxYkZOWk5XeEhVVkZFWnciLCJmY3YiOiIzIiwiZWkiOiI1MDJDYUo3dU1NU0o5dThQMXZiMmNRIiwicWMiOiJDaEJvWVdkblpXNXpJR1pzZFNCemFHOTBFQUFZQVgzcFppd18iLCJxdWVzdGlvbiI6IldoaWNoIGZsdSBzaG90IGlzIGJldHRlciwgZmx1em9uZSBvciBmbHVhZD8iLCJsayI6ImM1UFNMTV9JVE01UVNNc3BWU2pPeUM5UnlDeFdTRW90S1VrdEFnbFY1ZWVsS3VTRG1Za3BBQSIsImJzIjoiYzZXUXZXckRNQlNGOFNvSVpEUU9nYnZtWl9JRFJIbUJ6cDVTa08wankwUklJQ3NWVHZZLVVzZS1TWWEtU1MyVDRFQXBCREpkY2ZWOWg4TmxCN1lwVkZzcGt2cEVuYktlMm81S2VBLTNqYnV6TlNEcjRsUFVQUDJlNVp0c0ZmNHhfZ2pzTTJHOFVHSmt2QUxWclpSd01CV2lFZ0FUd1ZMYkl3bFRrME56MG1LVTZVTlVWV3ZBMC1zbDMyZTc4RklLZTJPcnh4NEdZZW92aDdweENWM0Q2WjZuWHpKZlpvczdjNHNZc1J2QzN1UFpwcmdTblpfeXZLVUd3MUREYndfaGVQcWo4MjIyRGs4YjgtUVgiLCJpZCI6ImZjXzUwMkNhSjd1TU1TSjl1OFAxdmIyY1FfMSJ9"
+    },
+    {
+      "question": "What is the difference between flublok and regular flu vaccine?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVUycEJXa0l5Ymt0SVRGUllRVFp1V0ZwdlFqSlZVV2RNVW13emRFRmpiSHBaWlVSSk1VbG5VV0pEZVhScmEyaEplR1YwTTBKc1NIZDNkRVl5U2pOUlpuWlVUWFl6YkRodGMyRjVUazFDUVdob1ZVRkRZVkp5VWtsS1VSSVdOVEF5UTJGS04zVk5UVk5LT1hVNFVERjJZakpqVVJvaVFVWk5RVWRIYjB0ek1tVjZlakozZFRoT09ERXpPVVoxYkZOWk5XeEhVVkZFWnciLCJmY3YiOiIzIiwiZWkiOiI1MDJDYUo3dU1NU0o5dThQMXZiMmNRIiwicWMiOiJDaEJvWVdkblpXNXpJR1pzZFNCemFHOTBFQUFZQVgzcFppd18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBmbHVibG9rIGFuZCByZWd1bGFyIGZsdSB2YWNjaW5lPyIsImxrIjoiY3hYSVFRNkFJQXdFd0g5NDJwZjRsd0piYVNRbHFVVy1iNXpqSE9mdWtyQUgyWWxtcWd4NkpRcHprdzRkcTR4NVE3d2hlSzBoOFI5ZXFkV2NIdyIsImJzIjoiYzZXUXZXckRNQlNGOFNvSVpEUU9nYnZtWl9JRFJIbUJ6cDVTa08wankwUklJQ3NWVHZZLVVzZS1TWWEtU1MyVDRFQXBCREpkY2ZWOWg4TmxCN1lwVkZzcGt2cEVuYktlMm81S2VBLTNqYnV6TlNEcjRsUFVQUDJlNVp0c0ZmNHhfZ2pzTTJHOFVHSmt2QUxWclpSd01CV2lFZ0FUd1ZMYkl3bFRrME56MG1LVTZVTlVWV3ZBMC1zbDMyZTc4RklLZTJPcnh4NEdZZW92aDdweENWM0Q2WjZuWHpKZlpvczdjNHNZc1J2QzN1UFpwcmdTblpfeXZLVUd3MUREYndfaGVQcWo4MjIyRGs4YjgtUVgiLCJpZCI6ImZjXzUwMkNhSjd1TU1TSjl1OFAxdmIyY1FfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVUycEJXa0l5Ymt0SVRGUllRVFp1V0ZwdlFqSlZVV2RNVW13emRFRmpiSHBaWlVSSk1VbG5VV0pEZVhScmEyaEplR1YwTTBKc1NIZDNkRVl5U2pOUlpuWlVUWFl6YkRodGMyRjVUazFDUVdob1ZVRkRZVkp5VWtsS1VSSVdOVEF5UTJGS04zVk5UVk5LT1hVNFVERjJZakpqVVJvaVFVWk5RVWRIYjB0ek1tVjZlakozZFRoT09ERXpPVVoxYkZOWk5XeEhVVkZFWnciLCJmY3YiOiIzIiwiZWkiOiI1MDJDYUo3dU1NU0o5dThQMXZiMmNRIiwicWMiOiJDaEJvWVdkblpXNXpJR1pzZFNCemFHOTBFQUFZQVgzcFppd18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBmbHVibG9rIGFuZCByZWd1bGFyIGZsdSB2YWNjaW5lPyIsImxrIjoiY3hYSVFRNkFJQXdFd0g5NDJwZjRsd0piYVNRbHFVVy1iNXpqSE9mdWtyQUgyWWxtcWd4NkpRcHprdzRkcTR4NVE3d2hlSzBoOFI5ZXFkV2NIdyIsImJzIjoiYzZXUXZXckRNQlNGOFNvSVpEUU9nYnZtWl9JRFJIbUJ6cDVTa08wankwUklJQ3NWVHZZLVVzZS1TWWEtU1MyVDRFQXBCREpkY2ZWOWg4TmxCN1lwVkZzcGt2cEVuYktlMm81S2VBLTNqYnV6TlNEcjRsUFVQUDJlNVp0c0ZmNHhfZ2pzTTJHOFVHSmt2QUxWclpSd01CV2lFZ0FUd1ZMYkl3bFRrME56MG1LVTZVTlVWV3ZBMC1zbDMyZTc4RklLZTJPcnh4NEdZZW92aDdweENWM0Q2WjZuWHpKZlpvczdjNHNZc1J2QzN1UFpwcmdTblpfeXZLVUd3MUREYndfaGVQcWo4MjIyRGs4YjgtUVgiLCJpZCI6ImZjXzUwMkNhSjd1TU1TSjl1OFAxdmIyY1FfMSJ9"
+    },
+    {
+      "question": "What is the new flu shot for the elderly?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVUycEJXa0l5Ymt0SVRGUllRVFp1V0ZwdlFqSlZVV2RNVW13emRFRmpiSHBaWlVSSk1VbG5VV0pEZVhScmEyaEplR1YwTTBKc1NIZDNkRVl5U2pOUlpuWlVUWFl6YkRodGMyRjVUazFDUVdob1ZVRkRZVkp5VWtsS1VSSVdOVEF5UTJGS04zVk5UVk5LT1hVNFVERjJZakpqVVJvaVFVWk5RVWRIYjB0ek1tVjZlakozZFRoT09ERXpPVVoxYkZOWk5XeEhVVkZFWnciLCJmY3YiOiIzIiwiZWkiOiI1MDJDYUo3dU1NU0o5dThQMXZiMmNRIiwicWMiOiJDaEJvWVdkblpXNXpJR1pzZFNCemFHOTBFQUFZQVgzcFppd18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5ldyBmbHUgc2hvdCBmb3IgdGhlIGVsZGVybHk/IiwibGsiOiJHaHR1WlhjZ1pteDFJSFpoWTJOcGJtVWdabTl5SUdWc1pHVnliSGsiLCJicyI6ImM2V1F2V3JETUJTRjhTb0laRFFPZ2J2bVpfSURSSG1CenA1U2tPMGp5MFJJSUNzVlR2WS1Vc2UtU1lhLVNTMlQ0RUFwQkRKZGNmVjloOE5sQjdZcFZGc3BrdnBFbmJLZTJvNUtlQS0zamJ1ek5TRHI0bFBVUFAyZTVadHNGZjR4X2dqc00yRzhVR0prdkFMVnJaUndNQldpRWdBVHdWTGJJd2xUazBOejBtS1U2VU5VVld2QTAtc2wzMmU3OEZJS2UyT3J4eDRHWWVvdmg3cHhDVjNENlo2blh6SmZab3M3YzRzWXNSdkMzdVBacHJnU25aX3l2S1VHdzFERGJ3X2hlUHFqODIyMkRrOGI4LVFYIiwiaWQiOiJmY181MDJDYUo3dU1NU0o5dThQMXZiMmNRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVUycEJXa0l5Ymt0SVRGUllRVFp1V0ZwdlFqSlZVV2RNVW13emRFRmpiSHBaWlVSSk1VbG5VV0pEZVhScmEyaEplR1YwTTBKc1NIZDNkRVl5U2pOUlpuWlVUWFl6YkRodGMyRjVUazFDUVdob1ZVRkRZVkp5VWtsS1VSSVdOVEF5UTJGS04zVk5UVk5LT1hVNFVERjJZakpqVVJvaVFVWk5RVWRIYjB0ek1tVjZlakozZFRoT09ERXpPVVoxYkZOWk5XeEhVVkZFWnciLCJmY3YiOiIzIiwiZWkiOiI1MDJDYUo3dU1NU0o5dThQMXZiMmNRIiwicWMiOiJDaEJvWVdkblpXNXpJR1pzZFNCemFHOTBFQUFZQVgzcFppd18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5ldyBmbHUgc2hvdCBmb3IgdGhlIGVsZGVybHk%2FIiwibGsiOiJHaHR1WlhjZ1pteDFJSFpoWTJOcGJtVWdabTl5SUdWc1pHVnliSGsiLCJicyI6ImM2V1F2V3JETUJTRjhTb0laRFFPZ2J2bVpfSURSSG1CenA1U2tPMGp5MFJJSUNzVlR2WS1Vc2UtU1lhLVNTMlQ0RUFwQkRKZGNmVjloOE5sQjdZcFZGc3BrdnBFbmJLZTJvNUtlQS0zamJ1ek5TRHI0bFBVUFAyZTVadHNGZjR4X2dqc00yRzhVR0prdkFMVnJaUndNQldpRWdBVHdWTGJJd2xUazBOejBtS1U2VU5VVld2QTAtc2wzMmU3OEZJS2UyT3J4eDRHWWVvdmg3cHhDVjNENlo2blh6SmZab3M3YzRzWXNSdkMzdVBacHJnU25aX3l2S1VHdzFERGJ3X2hlUHFqODIyMkRrOGI4LVFYIiwiaWQiOiJmY181MDJDYUo3dU1NU0o5dThQMXZiMmNRXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the best flu shot to get this year?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVUycEJXa0l5Ymt0SVRGUllRVFp1V0ZwdlFqSlZVV2RNVW13emRFRmpiSHBaWlVSSk1VbG5VV0pEZVhScmEyaEplR1YwTTBKc1NIZDNkRVl5U2pOUlpuWlVUWFl6YkRodGMyRjVUazFDUVdob1ZVRkRZVkp5VWtsS1VSSVdOVEF5UTJGS04zVk5UVk5LT1hVNFVERjJZakpqVVJvaVFVWk5RVWRIYjB0ek1tVjZlakozZFRoT09ERXpPVVoxYkZOWk5XeEhVVkZFWnciLCJmY3YiOiIzIiwiZWkiOiI1MDJDYUo3dU1NU0o5dThQMXZiMmNRIiwicWMiOiJDaEJvWVdkblpXNXpJR1pzZFNCemFHOTBFQUFZQVgzcFppd18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgZmx1IHNob3QgdG8gZ2V0IHRoaXMgeWVhcj8iLCJsayI6ImM1UFNLczlJTEZISUxGWW95VWhWU0VvdExsRkl5eWxWS003SUwxRW95VmRJVHdWU0dVRFp5dFRFSWdBIiwiYnMiOiJjNldRdldyRE1CU0Y4U29JWkRRT2didm1aX0lEUkhtQnpwNVNrTzBqeTBSSUlDc1ZUdlktVXNlLVNZYS1TUzJUNEVBcEJESmRjZlY5aDhObEI3WXBWRnNwa3ZwRW5iS2UybzVLZUEtM2pidXpOU0RyNGxQVVBQMmU1WnRzRmY0eF9nanNNMkc4VUdKa3ZBTFZyWlJ3TUJXaUVnQVR3VkxiSXdsVGswTnowbUtVNlVOVVZXdkEwLXNsMzJlNzhGSUtlMk9yeHg0R1llb3ZoN3B4Q1YzRDZaNm5YekpmWm9zN2M0c1lzUnZDM3VQWnByZ1NuWl95dktVR3cxRERid19oZVBxajgyMjJEazhiOC1RWCIsImlkIjoiZmNfNTAyQ2FKN3VNTVNKOXU4UDF2YjJjUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSVUycEJXa0l5Ymt0SVRGUllRVFp1V0ZwdlFqSlZVV2RNVW13emRFRmpiSHBaWlVSSk1VbG5VV0pEZVhScmEyaEplR1YwTTBKc1NIZDNkRVl5U2pOUlpuWlVUWFl6YkRodGMyRjVUazFDUVdob1ZVRkRZVkp5VWtsS1VSSVdOVEF5UTJGS04zVk5UVk5LT1hVNFVERjJZakpqVVJvaVFVWk5RVWRIYjB0ek1tVjZlakozZFRoT09ERXpPVVoxYkZOWk5XeEhVVkZFWnciLCJmY3YiOiIzIiwiZWkiOiI1MDJDYUo3dU1NU0o5dThQMXZiMmNRIiwicWMiOiJDaEJvWVdkblpXNXpJR1pzZFNCemFHOTBFQUFZQVgzcFppd18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgZmx1IHNob3QgdG8gZ2V0IHRoaXMgeWVhcj8iLCJsayI6ImM1UFNLczlJTEZISUxGWW95VWhWU0VvdExsRkl5eWxWS003SUwxRW95VmRJVHdWU0dVRFp5dFRFSWdBIiwiYnMiOiJjNldRdldyRE1CU0Y4U29JWkRRT2didm1aX0lEUkhtQnpwNVNrTzBqeTBSSUlDc1ZUdlktVXNlLVNZYS1TUzJUNEVBcEJESmRjZlY5aDhObEI3WXBWRnNwa3ZwRW5iS2UybzVLZUEtM2pidXpOU0RyNGxQVVBQMmU1WnRzRmY0eF9nanNNMkc4VUdKa3ZBTFZyWlJ3TUJXaUVnQVR3VkxiSXdsVGswTnowbUtVNlVOVVZXdkEwLXNsMzJlNzhGSUtlMk9yeHg0R1llb3ZoN3B4Q1YzRDZaNm5YekpmWm9zN2M0c1lzUnZDM3VQWnByZ1NuWl95dktVR3cxRERid19oZVBxajgyMjJEazhiOC1RWCIsImlkIjoiZmNfNTAyQ2FKN3VNTVNKOXU4UDF2YjJjUV8xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Flu Shots, Vaccines and Immunizations Near Me",
+      "link": "https://www.haggen.com/pharmacy/vaccines-and-immunizations.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/vaccines-and-immunizations.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECAsQAQ",
+      "displayed_link": "https://www.haggen.com › pharmacy › vaccines-and-im...",
+      "thumbnail": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee591d2c3fc78ce5b9b4622226bf464b8ac.jpeg",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5393e6a92bc6e62597d0603eedc0159d3.png",
+      "snippet": "Available vaccinations vary by location and are subject to state law restrictions. 4: Free flu shots with most insurance. No co-payment unless required by your ...",
+      "snippet_highlighted_words": [
+        "Free flu shots with most insurance"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 2,
+      "title": "Our Pharmacies Offer a Variety of Services Including Free ...",
+      "link": "https://www.haggen.com/pharmacy/about.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/about.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECB0QAQ",
+      "displayed_link": "https://www.haggen.com › pharmacy › about",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5d7ff8fc20afdacd69214c21703c0d3a2.png",
+      "snippet": "Haggen offers a many services including free flu shots, vaccinations, and prescription transfers.",
+      "snippet_highlighted_words": [
+        "free flu shots"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 3,
+      "title": "Drive-Thru Flu Shots - Drive-Up Vaccine Clinic",
+      "link": "https://www.haggen.com/pharmacy/vaccines-and-immunizations/flu-shot/drive-up-clinic.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/vaccines-and-immunizations/flu-shot/drive-up-clinic.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECBoQAQ",
+      "displayed_link": "https://www.haggen.com › pharmacy › flu-shot › drive-...",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee531b809feb2a5094dc1e5ece2d621af37.png",
+      "snippet": "Drive up flu shots and vaccination clinics are here at Haggen. Drive up immunizations and vaccinations such as flu shots and many others are available near ...",
+      "snippet_highlighted_words": [
+        "Drive up flu shots and vaccination clinics are here at Haggen"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 4,
+      "title": "Haggen Pharmacy 1401 12th St",
+      "link": "https://local.pharmacy.haggen.com/wa/bellingham/1401-12th-st.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://local.pharmacy.haggen.com/wa/bellingham/1401-12th-st.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECCEQAQ",
+      "displayed_link": "https://local.pharmacy.haggen.com › WA › Bellingham",
+      "snippet": "Refill prescriptions with our Haggen app. Easily schedule an appointment for the latest flu shot & new Covid-19 booster right from our grocery app, along ...",
+      "snippet_highlighted_words": [
+        "Easily schedule an appointment for the latest flu shot"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 5,
+      "title": "COVID Vaccines and COVID Boosters Near Me",
+      "link": "https://www.haggen.com/pharmacy/covid-19.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/covid-19.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECB8QAQ",
+      "displayed_link": "https://www.haggen.com › pharmacy › covid-19",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5b1aecc32e94ff0e00043adf690ad9c5c.png",
+      "snippet": "2024-2025 Flu shots. The 2024/2025 flu season has ended. Check back in September for a new vaccine.",
+      "snippet_highlighted_words": [
+        "2024-2025 Flu shots"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 6,
+      "title": "Online & In-Store Pharmacy - Prescription Pickup",
+      "link": "https://www.haggen.com/pharmacy.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECDQQAQ",
+      "displayed_link": "https://www.haggen.com › pharmacy",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee54a80bb29325d3a7a26cb74c280949249.png",
+      "snippet": "Haggen Pharmacy allows for online or in-store prescription pickup as well as offering immunizations of every type. Have your prescriptions filled and your ...",
+      "snippet_highlighted_words": [
+        "Haggen Pharmacy allows for online or in-store prescription pickup"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 7,
+      "title": "Flu shots and flu shot locations | Health & wellness",
+      "link": "https://www.uhc.com/health-and-wellness/health-topics/flu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uhc.com/health-and-wellness/health-topics/flu&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECDsQAQ",
+      "displayed_link": "https://www.uhc.com › ... › Health topics A-Z",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee512388352b2e2b8dcad37b6e5ba2db5a7.png",
+      "snippet": "Where can I get a flu shot? · Albertsons® Companies. Including Acme Sav-on, Albertsons Osco, Albertsons Sav-on, Haggen, Jewel-Osco, Star Markets, Shaws Osco, and ...",
+      "snippet_highlighted_words": [
+        "Albertsons® Companies"
+      ],
+      "source": "United Healthcare"
+    },
+    {
+      "position": 8,
+      "title": "All Haggen Pharmacy Locations | Prescriptions, Flu Shots ...",
+      "link": "https://local.pharmacy.haggen.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://local.pharmacy.haggen.com/&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECG0QAQ",
+      "displayed_link": "https://local.pharmacy.haggen.com",
+      "snippet": "Browse all Haggen Pharmacy locations in the United States for prescription refills, flu shots, vaccinations, medication therapy, diabetes counseling and ...",
+      "snippet_highlighted_words": [
+        "Browse all Haggen Pharmacy locations in the United States"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 9,
+      "title": "Free Flu Shots - Schedule Flu Shot Appointments",
+      "link": "https://www.walgreens.com/topic/pharmacy/seasonal-flu.jsp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.walgreens.com/topic/pharmacy/seasonal-flu.jsp&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECDgQAQ",
+      "displayed_link": "https://www.walgreens.com › pharmacy › seasonal-flu",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee58b7d5c3d9c727c77d9f934e4704527af.png",
+      "snippet": "Schedule your annual flu shot appointment today at Walgreens to receive the flu vaccine. You can also receive multiple vaccines in one visit.",
+      "snippet_highlighted_words": [
+        "Schedule your annual flu shot appointment today at Walgreens"
+      ],
+      "source": "Walgreens"
+    },
+    {
+      "position": 10,
+      "title": "Pharmacy Near Me in Mount Vernon",
+      "link": "https://local.pharmacy.haggen.com/wa/mount-vernon/2601-e-division-st.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://local.pharmacy.haggen.com/wa/mount-vernon/2601-e-division-st.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECFIQAQ",
+      "displayed_link": "https://local.pharmacy.haggen.com › WA › Mount Vernon",
+      "snippet": "Easily schedule an appointment for the latest flu shot ... For more information, stop by or call (360) 848-6930 today! haggen.com Link Opens in New Tab. Nearby ...",
+      "snippet_highlighted_words": [
+        "360) 848-6930"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 11,
+      "title": "Medical network: participating retail pharmacies.",
+      "link": "https://www.cigna.com/static/www-cigna-com/docs/medical-vaccine-program-customer-pharmacy-directory.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cigna.com/static/www-cigna-com/docs/medical-vaccine-program-customer-pharmacy-directory.pdf&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECGwQAQ",
+      "displayed_link": "https://www.cigna.com › www-cigna-com › docs",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5b92d2878a1f426bea5500059aec2b738.png",
+      "snippet": "• Flu shot and other vaccines – at no cost-share ($0) to you, depending on your plan. • Medical tests, such as COVID, flu and strep, as well as prescription ...",
+      "snippet_highlighted_words": [
+        "Flu shot and other vaccines"
+      ],
+      "source": "Cigna"
+    },
+    {
+      "position": 12,
+      "title": "Get $20 Off Groceries With Health & Pharmacy",
+      "link": "https://www.haggen.com/pharmacy/rewards-and-offers.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/rewards-and-offers.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoFCIsBEAE",
+      "displayed_link": "https://www.haggen.com › pharmacy › rewards-and-offers",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5e10ff31cdb9501ac4d5460c84f2a32b4.png",
+      "snippet": "Get up to $20 off with vaccinations*. Need your COVID-19 booster? Flu shot? We have you covered. Get up to $20 off on groceries for every vaccine ...",
+      "snippet_highlighted_words": [
+        "Get up to $20 off with vaccinations"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 13,
+      "title": "Hartford Flu Shot Campaign",
+      "link": "https://www.hartfordct.gov/Government/Departments/HHS/Flu-Shot",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hartfordct.gov/Government/Departments/HHS/Flu-Shot&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECDYQAQ",
+      "displayed_link": "https://www.hartfordct.gov › Departments › HHS › Flu-...",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5a63c05b433f6176189584fde82a62ecf.png",
+      "snippet": "The Hartford Flu campaign encourages everyone in our city to get the flu shot. This flu season it has never been more important to get your flu shot to stay ...",
+      "snippet_highlighted_words": [
+        "encourages everyone in our city to get the flu shot"
+      ],
+      "source": "City of Hartford (.gov)"
+    },
+    {
+      "position": 14,
+      "title": "HAGGEN FOOD & PHARMACY - Updated July 2025",
+      "link": "https://www.yelp.com/biz/haggen-food-and-pharmacy-ferndale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/biz/haggen-food-and-pharmacy-ferndale&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECE8QAQ",
+      "displayed_link": "https://www.yelp.com › Ferndale, WA › Food › Grocery",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee518be4d2d4c65ea3ea9fb5bf218825ea3.png",
+      "snippet": "Dear Haggen Pharmacy, when we made our appointments for flu shots, we chose a time that was convenient for us, completed all the \"paperwork \" information ...",
+      "snippet_highlighted_words": [
+        "Haggen",
+        "flu shots"
+      ],
+      "source": "Yelp"
+    },
+    {
+      "position": 15,
+      "title": "Vaccinations for Employers & Groups",
+      "link": "https://www.haggen.com/pharmacy/employers-and-groups.3430.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/employers-and-groups.3430.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECFQQAQ",
+      "displayed_link": "https://www.haggen.com › pharmacy › employers-and-g...",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee54c24f90db3ffecf5a2f37b25b4e5ef7b.png",
+      "snippet": "Flu shot vouchers to provide to your employees that can be redeemed at any of our pharmacies. As a courtesy (and incentive), we provide members who participate ...",
+      "snippet_highlighted_words": [
+        "Flu shot vouchers to provide to your employees"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 16,
+      "title": "Sincerely Health Haggen - Nutrition, Health, & Wellness App",
+      "link": "https://www.haggen.com/health.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/health.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECE4QAQ",
+      "displayed_link": "https://www.haggen.com › health",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee56f5314a5e388a733001efa4e55648dcf.png",
+      "snippet": "Refill prescriptions, schedule vaccines, and access your health records with ease — all from your phone. Learn more. Earn rewards on your way. Collect healthy ...",
+      "snippet_highlighted_words": [
+        "schedule vaccines"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 17,
+      "title": "Where to Get a Flu Shot—And Why It's More Important ...",
+      "link": "https://www.whatcomtalk.com/2020/11/03/where-to-get-a-flu-shot-and-why-its-more-important-than-ever/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.whatcomtalk.com/2020/11/03/where-to-get-a-flu-shot-and-why-its-more-important-than-ever/&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECGsQAQ",
+      "displayed_link": "https://www.whatcomtalk.com › Cannabis Education",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5044d2024bdd22f68bdfc4a0dd10672a2.png",
+      "date": "Nov 3, 2020",
+      "snippet": "You can even combine it into a grocery shopping trip at Safeway, Haggen, or Fred Meyer. At many of these locations, the immunization is free ...",
+      "snippet_highlighted_words": [
+        "Haggen",
+        "immunization"
+      ],
+      "source": "WhatcomTalk"
+    },
+    {
+      "position": 18,
+      "title": "Haggen Pharmacy - 1301 Avenue D, ...",
+      "link": "https://www.yelp.com/biz/haggen-pharmacy-snohomish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/biz/haggen-pharmacy-snohomish&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECH4QAQ",
+      "displayed_link": "https://www.yelp.com › ... › Health & Medical › Pharmacy",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5c3ae44583b833e73df22f94a9909f825.png",
+      "snippet": "I went to get a Flu vaccine on 10/3/24 and after telling me the day before that I do not need an appointment, just come in. On the day of the person that ...",
+      "snippet_highlighted_words": [
+        "Flu vaccine"
+      ],
+      "source": "Yelp"
+    },
+    {
+      "position": 19,
+      "title": "Good For You, Connecticut | Hartford HealthCare | CT",
+      "link": "https://hartfordhealthcare.org/health-wellness/good-for-you-ct",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hartfordhealthcare.org/health-wellness/good-for-you-ct&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoFCIoBEAE",
+      "displayed_link": "https://hartfordhealthcare.org › health-wellness › good-f...",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5440dbc515f81fed6b1a4c8cba1cd3126.png",
+      "snippet": "Good for You, Connecticut! We vaccinated. Masked up. We kept our COVID numbers down. Get Your Flu Shot ... Call your doctor's office to schedule a flu shot. Good ...",
+      "snippet_highlighted_words": [
+        "Get Your Flu Shot"
+      ],
+      "source": "Hartford HealthCare"
+    },
+    {
+      "position": 20,
+      "title": "Shop for Cold & Allergy at your local ...",
+      "link": "https://www.haggen.com/shop/aisles/personal-care-health/cold-allergy.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/shop/aisles/personal-care-health/cold-allergy.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoFCJABEAE",
+      "displayed_link": "https://www.haggen.com › ... › Personal Care & Health",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee59175b28bb7f7d2587467f0a8642f7697.png",
+      "snippet": "Shop Cold & Allergy direct from Haggen. Browse our selection and order groceries for flexible Delivery or convenient Drive Up and Go to fit your schedule.",
+      "snippet_highlighted_words": [
+        "Shop Cold & Allergy direct from Haggen"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 21,
+      "title": "Entrepreneurship Development and Communication Skills",
+      "link": "https://www.scientificpubonline.com/websitehome/downloadanyfile?key=zPQze8lX8ysvqqfUIo85U0u5DgAWo2ua/itu4fSthce0C3KSdbAMmj4AvztcbAQnIOpAWqbtKCS7NRwJUvC6Y7CDU7oC6FNPfcvGZeXutQi3pMGtK+Lhew==",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scientificpubonline.com/websitehome/downloadanyfile%3Fkey%3DzPQze8lX8ysvqqfUIo85U0u5DgAWo2ua/itu4fSthce0C3KSdbAMmj4AvztcbAQnIOpAWqbtKCS7NRwJUvC6Y7CDU7oC6FNPfcvGZeXutQi3pMGtK%2BLhew%3D%3D&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECDoQAQ",
+      "displayed_link": "https://www.scientificpubonline.com › websitehome",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee54e8169d1a421c706f8d3ece51a2b83b2.png",
+      "snippet": "Improvements to food quality have also been achieved through changes in legislation and administrative restrictions to control diseases like mad cow disease, ...",
+      "source": "Scientific Publishers"
+    },
+    {
+      "position": 22,
+      "title": "Shingles Vaccine - Shingrix - Get Shingles Immunization",
+      "link": "https://www.haggen.com/pharmacy/vaccines-and-immunizations/shingles.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/vaccines-and-immunizations/shingles.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECDcQAQ",
+      "displayed_link": "https://www.haggen.com › pharmacy › shingles",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee59408c08c02cb00320deb161e871df25d.png",
+      "snippet": "Shingles vaccinations are available at Haggen where walkins for the Shingrix vaccine are available to immunize you from Shingles.",
+      "snippet_highlighted_words": [
+        "Shingles vaccinations are available at Haggen"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 23,
+      "title": "Haggen Pharmacy Locations in Bellingham, WA",
+      "link": "https://local.pharmacy.haggen.com/wa/bellingham.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://local.pharmacy.haggen.com/wa/bellingham.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECFEQAQ",
+      "displayed_link": "https://local.pharmacy.haggen.com › WA",
+      "snippet": "Browse all Haggen Pharmacy locations in Bellingham, WA for prescription refills, flu shots, vaccinations, medication therapy, diabetes counseling and",
+      "snippet_highlighted_words": [
+        "Haggen",
+        "flu shots"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 24,
+      "title": "Buy New Year's Eve Party Food Near Me in Snohomish, WA",
+      "link": "https://local.haggen.com/wa/snohomish/1301-avenue-d.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://local.haggen.com/wa/snohomish/1301-avenue-d.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECGQQAQ",
+      "displayed_link": "https://local.haggen.com › WA › Snohomish",
+      "snippet": "Buy New Year's Eve 2025 party food and appetizers near you at your local Haggen for delivery and pickup. We accept SNAP and EBT payments in Snohomish, WA.",
+      "snippet_highlighted_words": [
+        "Haggen"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 25,
+      "title": "Lowell Sun Newspaper Archives, May 2, 1953, p. 1",
+      "link": "https://newspaperarchive.com/lowell-sun-may-02-1953-p-1/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://newspaperarchive.com/lowell-sun-may-02-1953-p-1/&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECFMQAQ",
+      "displayed_link": "https://newspaperarchive.com › ... › Lowell Sun › 1953",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee50efbd047a2ec6818d5252654ebc0be0d.png",
+      "snippet": "Read Lowell Sun Newspaper Archives, May 2, 1953, p. 1 with family history and genealogy records from lowell, massachusetts 1879-1977.",
+      "source": "NewspaperArchive"
+    },
+    {
+      "position": 26,
+      "title": "Health FAQs",
+      "link": "https://www.haggen.com/pharmacy/health-faqs.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/health-faqs.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECGMQAQ",
+      "displayed_link": "https://www.haggen.com › pharmacy › health-faqs",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5aa143a3a78d3f1a4cf1239549f46006d.png",
+      "snippet": "Flu · Hepatitis B Vaccine · Pneumonia · RSV · Shingles · Travel · Back-to-School · View ... I cannot access the Digital Vaccine Record through My Vaccine Records ...",
+      "snippet_highlighted_words": [
+        "Flu"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 27,
+      "title": "So Good So You Organic Immunity Ginger Cayenne ...",
+      "link": "https://www.haggen.com/shop/product-details.960520165.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/shop/product-details.960520165.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECGoQAQ",
+      "displayed_link": "https://www.haggen.com › ... › Smoothies",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5c156af954d3c86118087b103a4e43789.png",
+      "snippet": "When it seems like there's a bug going around and a cough in every crowd, this tasty blend of pure, nutritious juices is the immunity shot you want and need.",
+      "snippet_highlighted_words": [
+        "shot"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 28,
+      "title": "COVID-19 Test Kits - At Home COVID Tests Near Me",
+      "link": "https://www.haggen.com/pharmacy/at-home-covid-19-test-kits.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/at-home-covid-19-test-kits.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECGkQAQ",
+      "displayed_link": "https://www.haggen.com › pharmacy › at-home-covid-1...",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5da4d17b6fce349d5226fe23ac81944ec.png",
+      "snippet": "Get two results from one sample with the new 2-in-1 flu and COVID-19 at-home test kits. ... See us for your updated shot and we'll say thank you with 10 ...",
+      "snippet_highlighted_words": [
+        "Get two results from one sample with the new 2-in-1 flu and COVID-19 at-home test kits"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 29,
+      "title": "All Haggen Locations | Pharmacy, Grocery, Weekly Ad",
+      "link": "https://local.haggen.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://local.haggen.com/&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECG8QAQ",
+      "displayed_link": "https://local.haggen.com",
+      "snippet": "Browse all Haggen locations in the United States for pharmacies and weekly deals on fresh produce, meat, seafood, bakery, deli, beer, wine and liquor.",
+      "snippet_highlighted_words": [
+        "Haggen"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 30,
+      "title": "Flu Shots & Flu Vaccines | MinuteClinic®",
+      "link": "https://www.cvs.com/minuteclinic/services/flu-shots",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cvs.com/minuteclinic/services/flu-shots&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECG4QAQ",
+      "displayed_link": "https://www.cvs.com › minuteclinic › services › flu-shots",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee581c90a7288c36c4ff8429521cde065ca.png",
+      "snippet": "MinuteClinic offers different types of flu vaccines, including a seasonal shot for adults and children, as well as a high dose shot for older adults (ages 65 ...",
+      "snippet_highlighted_words": [
+        "MinuteClinic offers different types of flu vaccines"
+      ],
+      "source": "CVS"
+    },
+    {
+      "position": 31,
+      "title": "Pharmacy Care Services",
+      "link": "https://www.haggen.com/pharmacy/care-services.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/care-services.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECH8QAQ",
+      "displayed_link": "https://www.haggen.com › pharmacy › care-services",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee53cb878d4c1f3e85ad72aed15a9a8b5c5.png",
+      "snippet": "Let us help you host an onsite vaccination clinic or COVID testing for employees and workplace visitors. Request clinic Learn more.",
+      "snippet_highlighted_words": [
+        "onsite vaccination clinic"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 32,
+      "title": "Travel Vaccinations Near Me - Travel Immunizations",
+      "link": "https://www.haggen.com/pharmacy/care-services/travel-health.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/care-services/travel-health.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoFCIwBEAE",
+      "displayed_link": "https://www.haggen.com › pharmacy › care-services › tr...",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5a79d08efa88bd4f81998c8819b69a9ad.png",
+      "snippet": "Make an appointment at your nearest Haggen location, and our trained pharmacy staff will administer your vaccines. Start here. *The cost of our service is $60.",
+      "snippet_highlighted_words": [
+        "Make an appointment at your nearest Haggen location"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 33,
+      "title": "Flowflex COVID-19 Antigen Home Test 1 Count - Each",
+      "link": "https://www.haggen.com/shop/product-details.970125718.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/shop/product-details.970125718.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoFCIkBEAE",
+      "displayed_link": "https://www.haggen.com › ... › Medical Supplies",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee574e3bfea1051830deb1540b05b8fe5d3.png",
+      "snippet": "A rapid test for the detection of Covid-19 antigens in nasal swab specimens. Easy to use. Accurate. Quick results. For in vitro diagnostic use. IVD.",
+      "snippet_highlighted_words": [
+        "A rapid test for the detection of Covid-19 antigens in nasal swab specimens"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 34,
+      "title": "Specialty Care",
+      "link": "https://www.haggen.com/pharmacy/care-services/specialty-pharmacy.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/pharmacy/care-services/specialty-pharmacy.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECFAQAQ",
+      "displayed_link": "https://www.haggen.com › pharmacy › specialty-pharmacy",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5dc54afe8d4e0600a40bc2f25dd478da2.png",
+      "snippet": "We help patients manage mental health, substance abuse recovery, migraine, auto-immune, and anti-inflammatory conditions.",
+      "source": "Haggen"
+    },
+    {
+      "position": 35,
+      "title": "Your Benefit card accepted in-store for healthy food & more",
+      "link": "https://www.haggen.com/benefit-card.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.haggen.com/benefit-card.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECDMQAQ",
+      "displayed_link": "https://www.haggen.com › benefit-card",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee57ea6b2f50537864deb11f4928ca86c03.png",
+      "snippet": "Some eligible items may include over-the-counter health and wellness care like pain & allergy relief; cold and flu products; and dental, eye, and ear products.",
+      "snippet_highlighted_words": [
+        "flu"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 36,
+      "title": "Haggen 1406 Lake Tapps Pkwy E",
+      "link": "https://local.haggen.com/wa/auburn/1406-lake-tapps-pkwy-e.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://local.haggen.com/wa/auburn/1406-lake-tapps-pkwy-e.html&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECDkQAQ",
+      "displayed_link": "https://local.haggen.com › WA › Auburn",
+      "snippet": "Does Haggen located at 1406 Lake Tapps Pkwy E, Auburn, WA accept SNAP EBT? Yes! We accept Visa, MasterCard, Discover and American Express credit cards, ...",
+      "snippet_highlighted_words": [
+        "1406 Lake Tapps Pkwy E, Auburn, WA"
+      ],
+      "source": "Haggen"
+    },
+    {
+      "position": 37,
+      "title": "Flu Shot Near Me | Schedule Your Vaccination at ...",
+      "link": "https://www.hy-vee.com/healthnew/flu-shots?srsltid=AfmBOoqF8la7J39tQfykDjN_C3NjILuAZqNpdVJBM14YOI7g9nO7dOvJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hy-vee.com/healthnew/flu-shots%3Fsrsltid%3DAfmBOoqF8la7J39tQfykDjN_C3NjILuAZqNpdVJBM14YOI7g9nO7dOvJ&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4QFnoECDUQAQ",
+      "displayed_link": "https://www.hy-vee.com › healthnew › flu-shots",
+      "favicon": "https://serpapi.com/searches/68824de39d26cf32f1999291/images/bb2ce67b92e4636d58d4c68d5f2bcee5f820635a7df285e3f6b034d09af1915f.png",
+      "snippet": "Flu shots are available without a prescription to patients ages 6 months and older at Hy-Vee's Iowa, Nebraska and South Dakota locations; or 3 years and older ...",
+      "snippet_highlighted_words": [
+        "Flu shots are available without a prescription"
+      ],
+      "source": "Hy-Vee"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Walk-in flu shots near me",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Walk-in+flu+shots+near+me&sa=X&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4Q1QJ6BQiUARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Walk-in+flu+shots+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Shaw's flu shot appointment",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Shaw%27s+flu+shot+appointment&sa=X&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4Q1QJ6BQiTARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Shaw%27s+flu+shot+appointment"
+    },
+    {
+      "block_position": 1,
+      "query": "Free flu vaccine near me",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Free+flu+vaccine+near+me&sa=X&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4Q1QJ6BQiSARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Free+flu+vaccine+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "How to get flu vaccine free",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=How+to+get+flu+vaccine+free&sa=X&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4Q1QJ6BQiPARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+get+flu+vaccine+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Free influenza vaccine",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Free+influenza+vaccine&sa=X&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4Q1QJ6BQiOARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Free+influenza+vaccine"
+    },
+    {
+      "block_position": 1,
+      "query": "Safeway flu shot appointment",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Safeway+flu+shot+appointment&sa=X&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4Q1QJ6BQiNARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Safeway+flu+shot+appointment"
+    },
+    {
+      "block_position": 1,
+      "query": "ACME vaccine scheduler",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=ACME+vaccine+scheduler&sa=X&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4Q1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=ACME+vaccine+scheduler"
+    },
+    {
+      "block_position": 1,
+      "query": "Flu shot deals",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Flu+shot+deals&sa=X&ved=2ahUKEwje_fjJ5NWOAxXEhP0HHVa7PQ4Q1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Flu+shot+deals"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 37 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=haggens+flu+shot&num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=haggens+flu+shot&oq=haggens+flu+shot&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=haggens+flu+shot&oq=haggens+flu+shot&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=haggens+flu+shot&oq=haggens+flu+shot&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=haggens+flu+shot&oq=haggens+flu+shot&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=haggens+flu+shot&oq=haggens+flu+shot&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=haggens+flu+shot&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=haggens+flu+shot&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=haggens+flu+shot&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=haggens+flu+shot&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=haggens+flu+shot&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=haggens+flu+shot&start=400"
+    }
+  }
+}

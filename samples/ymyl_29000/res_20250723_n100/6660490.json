@@ -1,0 +1,1583 @@
+{
+  "search_metadata": {
+    "id": "6881da5adb99eccebdbc1b7b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2b828dea4800e0ae/6881da5adb99eccebdbc1b7b.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/2b828dea4800e0ae/6881da5adb99eccebdbc1b7b.json_with_pixel_position",
+    "created_at": "2025-07-24 07:01:46 UTC",
+    "processed_at": "2025-07-24 07:01:46 UTC",
+    "google_url": "https://www.google.com/search?q=is+there+a+flu+bug+going+around&oq=is+there+a+flu+bug+going+around&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2b828dea4800e0ae/6881da5adb99eccebdbc1b7b.html",
+    "total_time_taken": 1.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "is there a flu bug going around",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "is there a flu bug going around",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What are the signs of the new virus going around?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFlWVlFiRXMzTVZSbVRUWk5ObGRQTkY5UmQxcEZSbEZ6UTBvMVNHaGplamhzTldjNVUxSmxRbUZyVTJWU1Yya3hiWEZwU1V4SWRuWjVVV3BCU1hWT2IzSXpRV0pYWDJoMk9XcHFRVmxrWlRWSlozaGpjR1UwYkdJMVVSSVhWemx4UW1GSmJubEdXbWxNYTFCSlVERXRNa2g1VVRBYUlrRkdUVUZIUjNGUlgybGlRakpuV25VeldVeEljRGN5VlUxNlVFZFFOV2wwU0VFIiwiZmN2IjoiMyIsImVpIjoiVzlxQmFJbnlGWmlMa1BJUDEtMkh5UTAiLCJxYyI6IkNoOXBjeUIwYUdWeVpTQmhJR1pzZFNCaWRXY2daMjlwYm1jZ1lYSnZkVzVrRUFBWUFYMVllMHNfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgc2lnbnMgb2YgdGhlIG5ldyB2aXJ1cyBnb2luZyBhcm91bmQ/IiwibGsiOiJjNU15S005SUxGRklMRXBWS01sSVZTak9UTThyVnNoUEEzUHlVc3NWeWpLTFNvc1Ywdk16ODlLQml2Skw4MUlBIiwiYnMiOiJjLVBLNGpJTXowZ3NVVWdzU2xVb3lVaFZLTTVNenl0V3lFOERjX0pTeXhYS01vdEtpeFhTOHpQejBvR0s4a3Z6VXV3bDdub1pHVWtabEpPb2p5dU1TeDFzVjFwT3FVSnhaVzVCU1g1dU1kZ0FaRlVLZWZubDloSlRhNDAwcE5US2lWSU5ON2U0cENneE13X2tDSkNlekdJczV2NHNocHRMVURWWEVKY3EyTnpzVEtBQVZGMVNhVHE2V251Sk5hbEdhbElxNVVTb0ZXQUVBQSIsImlkIjoiZmNfVzlxQmFJbnlGWmlMa1BJUDEtMkh5UTBfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFlWVlFiRXMzTVZSbVRUWk5ObGRQTkY5UmQxcEZSbEZ6UTBvMVNHaGplamhzTldjNVUxSmxRbUZyVTJWU1Yya3hiWEZwU1V4SWRuWjVVV3BCU1hWT2IzSXpRV0pYWDJoMk9XcHFRVmxrWlRWSlozaGpjR1UwYkdJMVVSSVhWemx4UW1GSmJubEdXbWxNYTFCSlVERXRNa2g1VVRBYUlrRkdUVUZIUjNGUlgybGlRakpuV25VeldVeEljRGN5VlUxNlVFZFFOV2wwU0VFIiwiZmN2IjoiMyIsImVpIjoiVzlxQmFJbnlGWmlMa1BJUDEtMkh5UTAiLCJxYyI6IkNoOXBjeUIwYUdWeVpTQmhJR1pzZFNCaWRXY2daMjlwYm1jZ1lYSnZkVzVrRUFBWUFYMVllMHNfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgc2lnbnMgb2YgdGhlIG5ldyB2aXJ1cyBnb2luZyBhcm91bmQ%2FIiwibGsiOiJjNU15S005SUxGRklMRXBWS01sSVZTak9UTThyVnNoUEEzUHlVc3NWeWpLTFNvc1Ywdk16ODlLQml2Skw4MUlBIiwiYnMiOiJjLVBLNGpJTXowZ3NVVWdzU2xVb3lVaFZLTTVNenl0V3lFOERjX0pTeXhYS01vdEtpeFhTOHpQejBvR0s4a3Z6VXV3bDdub1pHVWtabEpPb2p5dU1TeDFzVjFwT3FVSnhaVzVCU1g1dU1kZ0FaRlVLZWZubDloSlRhNDAwcE5US2lWSU5ON2U0cENneE13X2tDSkNlekdJczV2NHNocHRMVURWWEVKY3EyTnpzVEtBQVZGMVNhVHE2V251Sk5hbEdhbElxNVVTb0ZXQUVBQSIsImlkIjoiZmNfVzlxQmFJbnlGWmlMa1BJUDEtMkh5UTBfMSJ9"
+    },
+    {
+      "question": "What flu symptoms are going around now?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFlWVlFiRXMzTVZSbVRUWk5ObGRQTkY5UmQxcEZSbEZ6UTBvMVNHaGplamhzTldjNVUxSmxRbUZyVTJWU1Yya3hiWEZwU1V4SWRuWjVVV3BCU1hWT2IzSXpRV0pYWDJoMk9XcHFRVmxrWlRWSlozaGpjR1UwYkdJMVVSSVhWemx4UW1GSmJubEdXbWxNYTFCSlVERXRNa2g1VVRBYUlrRkdUVUZIUjNGUlgybGlRakpuV25VeldVeEljRGN5VlUxNlVFZFFOV2wwU0VFIiwiZmN2IjoiMyIsImVpIjoiVzlxQmFJbnlGWmlMa1BJUDEtMkh5UTAiLCJxYyI6IkNoOXBjeUIwYUdWeVpTQmhJR1pzZFNCaWRXY2daMjlwYm1jZ1lYSnZkVzVrRUFBWUFYMVllMHNfIiwicXVlc3Rpb24iOiJXaGF0IGZsdSBzeW1wdG9tcyBhcmUgZ29pbmcgYXJvdW5kIG5vdz8iLCJsayI6IkdpWjNhR0YwSUdac2RTQnplVzF3ZEc5dGN5QmhjbVVnWjI5cGJtY2dZWEp2ZFc1a0lHNXZkdyIsImJzIjoiYy1QSzRqSU16MGdzVVVnc1NsVW95VWhWS001TXp5dFd5RThEY19KU3l4WEtNb3RLaXhYUzh6UHowb0dLOGt2elV1d2w3bm9aR1VrWmxKT29qeXVNU3gxc1YxcE9xVUp4Wlc1QlNYNXVNZGdBWkZVS2Vmbmw5aEpUYTQwMHBOVEtpVklOTjdlNHBDZ3hNd19rQ0pDZXpHSXM1djRzaHB0TFVEVlhFSmNxMk56c1RLQUFWRjFTYVRxNldudUpOYWxHYWxJcTVVU29GV0FFQUEiLCJpZCI6ImZjX1c5cUJhSW55RlppTGtQSVAxLTJIeVEwXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFlWVlFiRXMzTVZSbVRUWk5ObGRQTkY5UmQxcEZSbEZ6UTBvMVNHaGplamhzTldjNVUxSmxRbUZyVTJWU1Yya3hiWEZwU1V4SWRuWjVVV3BCU1hWT2IzSXpRV0pYWDJoMk9XcHFRVmxrWlRWSlozaGpjR1UwYkdJMVVSSVhWemx4UW1GSmJubEdXbWxNYTFCSlVERXRNa2g1VVRBYUlrRkdUVUZIUjNGUlgybGlRakpuV25VeldVeEljRGN5VlUxNlVFZFFOV2wwU0VFIiwiZmN2IjoiMyIsImVpIjoiVzlxQmFJbnlGWmlMa1BJUDEtMkh5UTAiLCJxYyI6IkNoOXBjeUIwYUdWeVpTQmhJR1pzZFNCaWRXY2daMjlwYm1jZ1lYSnZkVzVrRUFBWUFYMVllMHNfIiwicXVlc3Rpb24iOiJXaGF0IGZsdSBzeW1wdG9tcyBhcmUgZ29pbmcgYXJvdW5kIG5vdz8iLCJsayI6IkdpWjNhR0YwSUdac2RTQnplVzF3ZEc5dGN5QmhjbVVnWjI5cGJtY2dZWEp2ZFc1a0lHNXZkdyIsImJzIjoiYy1QSzRqSU16MGdzVVVnc1NsVW95VWhWS001TXp5dFd5RThEY19KU3l4WEtNb3RLaXhYUzh6UHowb0dLOGt2elV1d2w3bm9aR1VrWmxKT29qeXVNU3gxc1YxcE9xVUp4Wlc1QlNYNXVNZGdBWkZVS2Vmbmw5aEpUYTQwMHBOVEtpVklOTjdlNHBDZ3hNd19rQ0pDZXpHSXM1djRzaHB0TFVEVlhFSmNxMk56c1RLQUFWRjFTYVRxNldudUpOYWxHYWxJcTVVU29GV0FFQUEiLCJpZCI6ImZjX1c5cUJhSW55RlppTGtQSVAxLTJIeVEwXzEifQ%3D%3D"
+    },
+    {
+      "question": "What strain of flu is going around now?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFlWVlFiRXMzTVZSbVRUWk5ObGRQTkY5UmQxcEZSbEZ6UTBvMVNHaGplamhzTldjNVUxSmxRbUZyVTJWU1Yya3hiWEZwU1V4SWRuWjVVV3BCU1hWT2IzSXpRV0pYWDJoMk9XcHFRVmxrWlRWSlozaGpjR1UwYkdJMVVSSVhWemx4UW1GSmJubEdXbWxNYTFCSlVERXRNa2g1VVRBYUlrRkdUVUZIUjNGUlgybGlRakpuV25VeldVeEljRGN5VlUxNlVFZFFOV2wwU0VFIiwiZmN2IjoiMyIsImVpIjoiVzlxQmFJbnlGWmlMa1BJUDEtMkh5UTAiLCJxYyI6IkNoOXBjeUIwYUdWeVpTQmhJR1pzZFNCaWRXY2daMjlwYm1jZ1lYSnZkVzVrRUFBWUFYMVllMHNfIiwicXVlc3Rpb24iOiJXaGF0IHN0cmFpbiBvZiBmbHUgaXMgZ29pbmcgYXJvdW5kIG5vdz8iLCJsayI6IkdpWjNhR0YwSUhOMGNtRnBiaUJ2WmlCbWJIVWdhWE1nWjI5cGJtY2dZWEp2ZFc1a0lHNXZkdyIsImJzIjoiYy1QSzRqSU16MGdzVVVnc1NsVW95VWhWS001TXp5dFd5RThEY19KU3l4WEtNb3RLaXhYUzh6UHowb0dLOGt2elV1d2w3bm9aR1VrWmxKT29qeXVNU3gxc1YxcE9xVUp4Wlc1QlNYNXVNZGdBWkZVS2Vmbmw5aEpUYTQwMHBOVEtpVklOTjdlNHBDZ3hNd19rQ0pDZXpHSXM1djRzaHB0TFVEVlhFSmNxMk56c1RLQUFWRjFTYVRxNldudUpOYWxHYWxJcTVVU29GV0FFQUEiLCJpZCI6ImZjX1c5cUJhSW55RlppTGtQSVAxLTJIeVEwXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFlWVlFiRXMzTVZSbVRUWk5ObGRQTkY5UmQxcEZSbEZ6UTBvMVNHaGplamhzTldjNVUxSmxRbUZyVTJWU1Yya3hiWEZwU1V4SWRuWjVVV3BCU1hWT2IzSXpRV0pYWDJoMk9XcHFRVmxrWlRWSlozaGpjR1UwYkdJMVVSSVhWemx4UW1GSmJubEdXbWxNYTFCSlVERXRNa2g1VVRBYUlrRkdUVUZIUjNGUlgybGlRakpuV25VeldVeEljRGN5VlUxNlVFZFFOV2wwU0VFIiwiZmN2IjoiMyIsImVpIjoiVzlxQmFJbnlGWmlMa1BJUDEtMkh5UTAiLCJxYyI6IkNoOXBjeUIwYUdWeVpTQmhJR1pzZFNCaWRXY2daMjlwYm1jZ1lYSnZkVzVrRUFBWUFYMVllMHNfIiwicXVlc3Rpb24iOiJXaGF0IHN0cmFpbiBvZiBmbHUgaXMgZ29pbmcgYXJvdW5kIG5vdz8iLCJsayI6IkdpWjNhR0YwSUhOMGNtRnBiaUJ2WmlCbWJIVWdhWE1nWjI5cGJtY2dZWEp2ZFc1a0lHNXZkdyIsImJzIjoiYy1QSzRqSU16MGdzVVVnc1NsVW95VWhWS001TXp5dFd5RThEY19KU3l4WEtNb3RLaXhYUzh6UHowb0dLOGt2elV1d2w3bm9aR1VrWmxKT29qeXVNU3gxc1YxcE9xVUp4Wlc1QlNYNXVNZGdBWkZVS2Vmbmw5aEpUYTQwMHBOVEtpVklOTjdlNHBDZ3hNd19rQ0pDZXpHSXM1djRzaHB0TFVEVlhFSmNxMk56c1RLQUFWRjFTYVRxNldudUpOYWxHYWxJcTVVU29GV0FFQUEiLCJpZCI6ImZjX1c5cUJhSW55RlppTGtQSVAxLTJIeVEwXzEifQ%3D%3D"
+    },
+    {
+      "question": "What kind of flu bug is going around?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFlWVlFiRXMzTVZSbVRUWk5ObGRQTkY5UmQxcEZSbEZ6UTBvMVNHaGplamhzTldjNVUxSmxRbUZyVTJWU1Yya3hiWEZwU1V4SWRuWjVVV3BCU1hWT2IzSXpRV0pYWDJoMk9XcHFRVmxrWlRWSlozaGpjR1UwYkdJMVVSSVhWemx4UW1GSmJubEdXbWxNYTFCSlVERXRNa2g1VVRBYUlrRkdUVUZIUjNGUlgybGlRakpuV25VeldVeEljRGN5VlUxNlVFZFFOV2wwU0VFIiwiZmN2IjoiMyIsImVpIjoiVzlxQmFJbnlGWmlMa1BJUDEtMkh5UTAiLCJxYyI6IkNoOXBjeUIwYUdWeVpTQmhJR1pzZFNCaWRXY2daMjlwYm1jZ1lYSnZkVzVrRUFBWUFYMVllMHNfIiwicXVlc3Rpb24iOiJXaGF0IGtpbmQgb2YgZmx1IGJ1ZyBpcyBnb2luZyBhcm91bmQ/IiwibGsiOiJHaVIzYUdGMElHdHBibVFnYjJZZ1pteDFJR0oxWnlCcGN5Qm5iMmx1WnlCaGNtOTFibVEiLCJicyI6ImMtUEs0aklNejBnc1VVZ3NTbFVveVVoVktNNU16eXRXeUU4RGNfSlN5eFhLTW90S2l4WFM4elB6MG9HSzhrdnpVdXdsN25vWkdVa1psSk9vanl1TVN4MXNWMXBPcVVKeFpXNUJTWDV1TWRnQVpGVUtlZm5sOWhKVGE0MDBwTlRLaVZJTk43ZTRwQ2d4TXdfa0NKQ2V6R0lzNXY0c2hwdExVRFZYRUpjcTJOenNUS0FBVkYxU2FUcTZXbnVKTmFsR2FsSXE1VVNvRldBRUFBIiwiaWQiOiJmY19XOXFCYUlueUZaaUxrUElQMS0ySHlRMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFlWVlFiRXMzTVZSbVRUWk5ObGRQTkY5UmQxcEZSbEZ6UTBvMVNHaGplamhzTldjNVUxSmxRbUZyVTJWU1Yya3hiWEZwU1V4SWRuWjVVV3BCU1hWT2IzSXpRV0pYWDJoMk9XcHFRVmxrWlRWSlozaGpjR1UwYkdJMVVSSVhWemx4UW1GSmJubEdXbWxNYTFCSlVERXRNa2g1VVRBYUlrRkdUVUZIUjNGUlgybGlRakpuV25VeldVeEljRGN5VlUxNlVFZFFOV2wwU0VFIiwiZmN2IjoiMyIsImVpIjoiVzlxQmFJbnlGWmlMa1BJUDEtMkh5UTAiLCJxYyI6IkNoOXBjeUIwYUdWeVpTQmhJR1pzZFNCaWRXY2daMjlwYm1jZ1lYSnZkVzVrRUFBWUFYMVllMHNfIiwicXVlc3Rpb24iOiJXaGF0IGtpbmQgb2YgZmx1IGJ1ZyBpcyBnb2luZyBhcm91bmQ%2FIiwibGsiOiJHaVIzYUdGMElHdHBibVFnYjJZZ1pteDFJR0oxWnlCcGN5Qm5iMmx1WnlCaGNtOTFibVEiLCJicyI6ImMtUEs0aklNejBnc1VVZ3NTbFVveVVoVktNNU16eXRXeUU4RGNfSlN5eFhLTW90S2l4WFM4elB6MG9HSzhrdnpVdXdsN25vWkdVa1psSk9vanl1TVN4MXNWMXBPcVVKeFpXNUJTWDV1TWRnQVpGVUtlZm5sOWhKVGE0MDBwTlRLaVZJTk43ZTRwQ2d4TXdfa0NKQ2V6R0lzNXY0c2hwdExVRFZYRUpjcTJOenNUS0FBVkYxU2FUcTZXbnVKTmFsR2FsSXE1VVNvRldBRUFBIiwiaWQiOiJmY19XOXFCYUlueUZaaUxrUElQMS0ySHlRMF8xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "As of July 23, 2025, influenza activity in the United States is low. The Centers for Disease Control and Prevention (CDC) reports that there are no known cases of avian influenza (H5N1) in humans and that the number of influenza cases is below the seasonal baseline.",
+        "snippet_highlighted_words": [
+          "As of July 23, 2025, influenza activity in the United States is low"
+        ],
+        "reference_indexes": [
+          4,
+          5
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "However, other respiratory viruses, such as norovirus and respiratory syncytial virus (RSV), are circulating and can cause symptoms similar to the flu. It is important to stay informed about current virus activity in your area and take appropriate precautions to protect yourself from illness.",
+        "reference_indexes": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Respiratory Illnesses Data Channel",
+      "link": "https://www.cdc.gov/respiratory-viruses/data/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdc.gov/respiratory-viruses/data/index.html&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECBwQAQ",
+      "displayed_link": "https://www.cdc.gov › respiratory-viruses › data",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f4cdd5d96de6a77b68e00d70283a8199f.png",
+      "date": "6 days ago",
+      "snippet": "Seasonal influenza activity is low, and RSV activity is very low. The community snapshot shows activity levels using the following colors: very ...",
+      "snippet_highlighted_words": [
+        "Seasonal influenza activity is low"
+      ],
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "What is the stomach bug going around right now? ...",
+      "link": "https://www.ama-assn.org/delivering-care/public-health/what-stomach-bug-going-around-right-now-norovirus-2025-signs-symptoms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ama-assn.org/delivering-care/public-health/what-stomach-bug-going-around-right-now-norovirus-2025-signs-symptoms&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECCkQAQ",
+      "displayed_link": "https://www.ama-assn.org › public-health › what-stoma...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f47be21714c2ee79428a4964f479949f2.png",
+      "date": "Mar 26, 2025",
+      "snippet": "What is the stomach bug going around right now? Norovirus 2025 ... But there has also been a lot more going on, so it's a little harder ...",
+      "snippet_highlighted_words": [
+        "What is the stomach bug going around right now? Norovirus"
+      ],
+      "source": "American Medical Association"
+    },
+    {
+      "position": 3,
+      "title": "Outbreaks Near Me: Home",
+      "link": "https://outbreaksnearme.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://outbreaksnearme.org/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCOwBEAE",
+      "displayed_link": "https://outbreaksnearme.org",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f358e770165d3250b8982e17e4caaac99.png",
+      "snippet": "Crowdsourced surveillance system tracking flu and COVID-19. Contribute your health status to help track these diseases in your area.",
+      "snippet_highlighted_words": [
+        "flu"
+      ],
+      "source": "Outbreaks Near Me"
+    },
+    {
+      "position": 4,
+      "title": "Norovirus (Stomach Flu) Cases Are Surging: 3 Things to ...",
+      "link": "https://www.yalemedicine.org/news/norovirus-stomach-flu-cases-are-surging-3-things-to-know",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yalemedicine.org/news/norovirus-stomach-flu-cases-are-surging-3-things-to-know&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCLUBEAE",
+      "displayed_link": "https://www.yalemedicine.org › news › norovirus-stom...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f6c2b856575f97eb5685ebe2889462b1c.png",
+      "date": "Jan 21, 2025",
+      "snippet": "Norovirus, the most common cause of “viral stomach flu,” is on the rise in the United States. Norovirus infections cause acute gastroenteritis.",
+      "snippet_highlighted_words": [
+        "Norovirus",
+        "stomach flu",
+        "Norovirus"
+      ],
+      "source": "Yale Medicine"
+    },
+    {
+      "position": 5,
+      "title": "What viruses are going around right now? A guide for adults.",
+      "link": "https://www.citymd.com/health-and-wellness/what-viruses-are-going-around-right-now-guide-for-adults",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.citymd.com/health-and-wellness/what-viruses-are-going-around-right-now-guide-for-adults&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCKYBEAE",
+      "displayed_link": "https://www.citymd.com › health-and-wellness › what-v...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fee577f3c70d46db3d137994cc1d8abe3.png",
+      "snippet": "It means that four big viruses—COVID-19, the flu, RSV, and norovirus—are spreading at the same time. This has made it harder for hospitals to keep up with so ...",
+      "snippet_highlighted_words": [
+        "four big viruses—COVID-19, the flu, RSV, and norovirus"
+      ],
+      "source": "CityMD"
+    },
+    {
+      "position": 6,
+      "title": "What is the stomach bug going around right now? Norovirus ...",
+      "link": "https://www.youtube.com/watch?v=HaswYK2D3vQ",
+      "displayed_link": "46.1K+ views · 3 months ago",
+      "thumbnail": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f21271e03334d436bf3b87ffdc1204345.jpeg",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f2fc13eb41860ab26b5504be252b3c3d0.png",
+      "snippet": "It's a bacteria that's passed by contact with it. It is not spread through the air like say measles which we've heard a lot about or the flu.",
+      "duration": "14:54",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR65lVUM4eUV-KNrn45hNvtyNCYiLXNwA6kDQ",
+      "source": "YouTube · American Medical Association (AMA)"
+    },
+    {
+      "position": 7,
+      "title": "Weekly US Influenza Surveillance Report: Key Updates for ...",
+      "link": "https://www.cdc.gov/fluview/surveillance/2025-week-17.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdc.gov/fluview/surveillance/2025-week-17.html&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCKgCEAE",
+      "displayed_link": "https://www.cdc.gov › surveillance › 2025-week-17",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f0309867dc753d3ea9bb4cea3f7bafbda.png",
+      "date": "May 2, 2025",
+      "snippet": "No new influenza A(H5) cases were reported to CDC this week. To date, human-to-human transmission of avian influenza A(H5) virus (H5 bird flu) ...",
+      "snippet_highlighted_words": [
+        "No new influenza A(H5) cases were reported to CDC this week"
+      ],
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "Norovirus: Symptoms, Causes & Treatment",
+      "link": "https://my.clevelandclinic.org/health/diseases/17703-norovirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my.clevelandclinic.org/health/diseases/17703-norovirus&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECEUQAQ",
+      "displayed_link": "https://my.clevelandclinic.org › health › 17703-norovirus",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f70cdb7f19f7134c00cffb4b15fe2eb1c.png",
+      "snippet": "Norovirus is a common and very contagious virus. It causes nausea, vomiting and diarrhea. Your symptoms may be similar to the stomach flu, but they have a ...",
+      "snippet_highlighted_words": [
+        "Norovirus is a common and very contagious virus"
+      ],
+      "source": "Cleveland Clinic"
+    },
+    {
+      "position": 9,
+      "title": "Know the symptoms: Cold, flu, RSV, or COVID-19",
+      "link": "https://healthy.kaiserpermanente.org/health-wellness/respiratory-infection/know-symptoms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://healthy.kaiserpermanente.org/health-wellness/respiratory-infection/know-symptoms&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECHUQAQ",
+      "displayed_link": "https://healthy.kaiserpermanente.org › respiratory-infection",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fd68ddeb7cd2c0f30e2f54987192ba820.png",
+      "snippet": "What viruses are going around? The common cold, influenza (the flu), and respiratory syncytial virus (RSV) are seasonal, meaning they're more common at ...",
+      "snippet_highlighted_words": [
+        "going around",
+        "influenza",
+        "flu",
+        "virus"
+      ],
+      "source": "Kaiser Permanente"
+    },
+    {
+      "position": 10,
+      "title": "What's Going Around?",
+      "link": "https://www.icpeds.com/Resources/What-s-Going-Around",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.icpeds.com/Resources/What-s-Going-Around&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCIABEAE",
+      "displayed_link": "https://www.icpeds.com › Resources › What-s-Going-Ar...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fcfcd901901ebea2e342795445f415ea8.png",
+      "snippet": "Adenovirus seems to be popping out everywhere. Adenoviruses can cause mild to severe illness, though serious illness is less common.",
+      "snippet_highlighted_words": [
+        "Adenovirus seems to be popping out everywhere"
+      ],
+      "source": "Island Coast Pediatrics"
+    },
+    {
+      "position": 11,
+      "title": "Influenza (flu) - Symptoms and causes",
+      "link": "https://www.mayoclinic.org/diseases-conditions/flu/symptoms-causes/syc-20351719",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mayoclinic.org/diseases-conditions/flu/symptoms-causes/syc-20351719&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCL8BEAE",
+      "displayed_link": "https://www.mayoclinic.org › flu › syc-20351719",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fdae4ec87cb49372ef6e47427bd1206c0.png",
+      "date": "Jan 28, 2025",
+      "snippet": "Flu, also called influenza, is an infection of the nose, throat and lungs, which are part of the respiratory system. The flu is caused by a virus.",
+      "snippet_highlighted_words": [
+        "Flu",
+        "influenza",
+        "flu"
+      ],
+      "source": "Mayo Clinic"
+    },
+    {
+      "position": 12,
+      "title": "The Flu, Norovirus, Other Respiratory Viruses Are ...",
+      "link": "https://www.bu.edu/articles/2025/what-you-need-to-know-about-viruses/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bu.edu/articles/2025/what-you-need-to-know-about-viruses/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCPEBEAE",
+      "displayed_link": "https://www.bu.edu › articles › what-you-need-to-know...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f85f887d868389d1345d9fcd731a75041.png",
+      "date": "Jan 17, 2025",
+      "snippet": "Four viruses—all of them highly contagious—are sweeping across the country, flooding emergency rooms and doctors' offices ...",
+      "snippet_highlighted_words": [
+        "Four viruses—all of them highly contagious"
+      ],
+      "source": "Boston University"
+    },
+    {
+      "position": 13,
+      "title": "What Virus Is Going Around: Flu, COVID, Norovirus, and RSV",
+      "link": "https://premierfamily.net/what-virus-is-going-around-flu-covid-norovirus-and-rsv/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://premierfamily.net/what-virus-is-going-around-flu-covid-norovirus-and-rsv/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCIUCEAE",
+      "displayed_link": "https://premierfamily.net › Uncategorized",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f0568c53c5f9126d5655294e0ec05e479.png",
+      "date": "Feb 11, 2025",
+      "snippet": "Viruses like flu, COVID-19, norovirus, and RSV are circulating widely, making it crucial to stay informed and prepared. By recognizing the ...",
+      "snippet_highlighted_words": [
+        "Viruses like flu, COVID-19, norovirus, and RSV are circulating widely"
+      ],
+      "source": "Premier Family Medical"
+    },
+    {
+      "position": 14,
+      "title": "Stomach Flu: Symptoms, Causes & Treatment",
+      "link": "https://my.clevelandclinic.org/health/diseases/12418-stomach-flu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my.clevelandclinic.org/health/diseases/12418-stomach-flu&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCJcCEAE",
+      "displayed_link": "https://my.clevelandclinic.org › health › diseases › 124...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f00bf538b99d6b3f88074dcad42353460.png",
+      "snippet": "Stomach flu, viral gastroenteritis, is a viral infection in your digestive system. It causes gastrointestinal symptoms like vomiting and diarrhea.",
+      "snippet_highlighted_words": [
+        "Stomach flu, viral gastroenteritis"
+      ],
+      "source": "Cleveland Clinic"
+    },
+    {
+      "position": 15,
+      "title": "The 2025 Stomach Flu (Norovirus): Symptoms and Treatment",
+      "link": "https://blog.ochsner.org/articles/the-2022-stomach-flu-symptoms-and-treatment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.ochsner.org/articles/the-2022-stomach-flu-symptoms-and-treatment/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCLwCEAE",
+      "displayed_link": "https://blog.ochsner.org › articles › the-2022-stomach-f...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f71ab0b5dd6a7cf26d76f7af5831a318b.png",
+      "snippet": "Norovirus, which causes the stomach flu, is highly contagious, and cases are on the rise. Here's how to stay healthy.",
+      "snippet_highlighted_words": [
+        "cases are on the rise"
+      ],
+      "source": "Ochsner Health"
+    },
+    {
+      "position": 16,
+      "title": "What to know about norovirus, the 'stomach bug' that's ...",
+      "link": "https://www.wpr.org/news/what-to-know-norovirus-stomach-bug-wisconsin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wpr.org/news/what-to-know-norovirus-stomach-bug-wisconsin&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECEYQAQ",
+      "displayed_link": "https://www.wpr.org › news › what-to-know-norovirus-s...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f638a40b7d45befaf79fd5d0524ded5d0.png",
+      "date": "Jan 17, 2025",
+      "snippet": "Norovirus cases have seen an uptick around the country this winter, according to the Centers for Disease Control and Prevention. And Wisconsin ...",
+      "snippet_highlighted_words": [
+        "Norovirus cases have seen an uptick around the country this winter"
+      ],
+      "source": "WPR"
+    },
+    {
+      "position": 17,
+      "title": "Norovirus (vomiting bug)",
+      "link": "https://www.nhs.uk/conditions/norovirus/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhs.uk/conditions/norovirus/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECFMQAQ",
+      "displayed_link": "https://www.nhs.uk › conditions › norovirus",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fa2d69e16a499062759427ff197e1dea0.png",
+      "snippet": "Norovirus, also called the winter vomiting bug, is a stomach bug that causes vomiting and diarrhoea. It can be very unpleasant, but usually gets better in about ...",
+      "snippet_highlighted_words": [
+        "is a stomach bug that causes vomiting and diarrhoea"
+      ],
+      "source": "nhs.uk"
+    },
+    {
+      "position": 18,
+      "title": "Stomach bug symptoms to know as norovirus cases are ...",
+      "link": "https://www.cbsnews.com/news/norovirus-cases-surging-parts-of-us-cdc-data/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbsnews.com/news/norovirus-cases-surging-parts-of-us-cdc-data/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECGsQAQ",
+      "displayed_link": "https://www.cbsnews.com › HealthWatch",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fdd87b8ffab6c5536ed1cc5ec07a591c7.png",
+      "date": "Jan 8, 2025",
+      "snippet": "Cases of norovirus, a wretched and highly contagious stomach bug, are surging in parts of the United States this winter, according to ...",
+      "snippet_highlighted_words": [
+        "Cases of norovirus, a wretched and highly contagious stomach bug"
+      ],
+      "source": "CBS News"
+    },
+    {
+      "position": 19,
+      "title": "How to avoid the highly contagious stomach flu",
+      "link": "https://regionalhospital.com/blog/entry/how-to-avoid-the-highly-contagious-stomach-flu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://regionalhospital.com/blog/entry/how-to-avoid-the-highly-contagious-stomach-flu&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCOMBEAE",
+      "displayed_link": "https://regionalhospital.com › blog › entry › how-to-avoi...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f155900d2193f56b768a27bacbd501536.png",
+      "date": "Jul 7, 2025",
+      "snippet": "The virus that causes most cases of “stomach flu” is highly contagious and tough to avoid. Learn what you can do to protect yourself.",
+      "snippet_highlighted_words": [
+        "ly contagi"
+      ],
+      "source": "Terre Haute Regional Hospital"
+    },
+    {
+      "position": 20,
+      "title": "Respiratory Viruses",
+      "link": "https://www.chfs.ky.gov/agencies/dph/Pages/RespiratoryDiseases.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chfs.ky.gov/agencies/dph/Pages/RespiratoryDiseases.aspx&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCIcBEAE",
+      "displayed_link": "https://www.chfs.ky.gov › Pages › RespiratoryDiseases",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f2196c514b867aff200befba0898796f8.png",
+      "snippet": "Viruses that cause respiratory diseases, like the ones that cause COVID-19, flu and respiratory syncytial virus (RSV), usually spread in the fall and winter.",
+      "snippet_highlighted_words": [
+        "flu",
+        "virus"
+      ],
+      "source": "Kentucky.gov"
+    },
+    {
+      "position": 21,
+      "title": "Viral gastroenteritis (stomach flu) - Symptoms & causes",
+      "link": "https://www.mayoclinic.org/diseases-conditions/viral-gastroenteritis/symptoms-causes/syc-20378847",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mayoclinic.org/diseases-conditions/viral-gastroenteritis/symptoms-causes/syc-20378847&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCKYCEAE",
+      "displayed_link": "https://www.mayoclinic.org › syc-20378847",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fd2a16b1b824b568e34ad720ae7d5ccdb.png",
+      "snippet": "This condition, often called stomach flu, is usually harmless, except for infants and people with immunosuppression. Symptoms can usually be managed.",
+      "snippet_highlighted_words": [
+        "is usually harmless, except for infants and people with immunosuppression"
+      ],
+      "source": "Mayo Clinic"
+    },
+    {
+      "position": 22,
+      "title": "Tips for Surviving the Stomach Bug",
+      "link": "https://www.wth.org/blog/stomach-bug-going-around/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wth.org/blog/stomach-bug-going-around/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCMgBEAE",
+      "displayed_link": "https://www.wth.org › blog › stomach-bug-going-around",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f32cd1530353d001cbd88dfdaa0a6dfd0.png",
+      "date": "Apr 21, 2025",
+      "snippet": "Stomach bugs, also called gastroenteritis, are very common and can cause vomiting, diarrhea and sometimes a fever, usually lasting about three to seven days.",
+      "snippet_highlighted_words": [
+        "Stomach"
+      ],
+      "source": "West Tennessee Healthcare"
+    },
+    {
+      "position": 23,
+      "title": "Worst flu season: Influenza virus spread, new bird flu cases in ...",
+      "link": "https://www.youtube.com/watch?v=Wi6BpP3GQHc&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "110.8K+ views · 5 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0GF4JgBt5DcEAvl9w9_qeZ1ucSF2StRa1v3jM_q_cttkD&s",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f93cd6e24bc3d3694092450aeacc14015.png",
+      "snippet": "Worst flu season: Influenza virus spread, new bird flu cases in the US, plus measles outbreak update · Comments.",
+      "duration": "11:38",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRz2EYAEGIVvnHnJXUuv5YMaHBGTlrQcsduyQ",
+      "source": "YouTube · American Medical Association (AMA)"
+    },
+    {
+      "position": 24,
+      "title": "What doctors wish patients knew about the contagious ...",
+      "link": "https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-contagious-norovirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-contagious-norovirus&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCNIBEAE",
+      "displayed_link": "https://www.ama-assn.org › public-health › what-doctor...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f724feddf48db01b207883abf70760efc.png",
+      "snippet": "Commonly called the “stomach bug” or “stomach flu,” norovirus is the leading cause of vomiting and diarrhea from acute gastroenteritis.",
+      "source": "American Medical Association"
+    },
+    {
+      "position": 25,
+      "title": "Flu and COVID-19 surveillance reports bulletin 2025",
+      "link": "https://www.gov.uk/government/news/flu-and-covid-19-surveillance-reports-bulletin-2025",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/government/news/flu-and-covid-19-surveillance-reports-bulletin-2025&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCOIBEAE",
+      "displayed_link": "https://www.gov.uk › ... › Immunisation",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f8fdfa1299116aaa393bf1e3cfe4b6630.png",
+      "snippet": "It's promising to see the downward trend continuing for flu, which is now circulating at low to medium levels. Despite this, it's still important that people ...",
+      "snippet_highlighted_words": [
+        "flu"
+      ],
+      "source": "GOV.UK"
+    },
+    {
+      "position": 26,
+      "title": "Influenza | Florida Department of Health",
+      "link": "https://www.floridahealth.gov/diseases-and-conditions/respiratory-illness/influenza/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.floridahealth.gov/diseases-and-conditions/respiratory-illness/influenza/index.html&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCM8BEAE",
+      "displayed_link": "https://www.floridahealth.gov › respiratory-illness › infl...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f95e65217995103a691855f3d393cb792.png",
+      "date": "Jul 14, 2025",
+      "snippet": "Influenza (flu) is a respiratory infection caused by a variety of flu viruses spread primarily by droplets made when infected people cough, sneeze, or talk.",
+      "snippet_highlighted_words": [
+        "Influenza",
+        "flu",
+        "flu"
+      ],
+      "source": "Florida Department of Health (.gov)"
+    },
+    {
+      "position": 27,
+      "title": "Flu (influenza) – influenza A and B, symptoms, vaccine",
+      "link": "https://www.healthdirect.gov.au/flu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthdirect.gov.au/flu&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECEQQAQ",
+      "displayed_link": "https://www.healthdirect.gov.au › flu",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fa156d74c725f7c11c507760d563ec9a6.png",
+      "author": "by H Australia",
+      "snippet": "Influenza (the flu) is a very contagious viral infection. It's a respiratory illness that can affect your nose, throat and sometimes your lungs.",
+      "snippet_highlighted_words": [
+        "Influenza",
+        "flu"
+      ],
+      "source": "Healthdirect"
+    },
+    {
+      "position": 28,
+      "title": "How to prevent (and recover from) norovirus, the stomach ...",
+      "link": "https://www.uchicagomedicine.org/forefront/health-and-wellness-articles/norovirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uchicagomedicine.org/forefront/health-and-wellness-articles/norovirus&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCKACEAE",
+      "displayed_link": "https://www.uchicagomedicine.org › ... › Home",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f24f1ba076a5e72f493572b757b429cfc.png",
+      "date": "Jan 16, 2025",
+      "snippet": "Norovirus is most commonly known as the stomach flu, but it is not caused by the influenza virus. It's a different, highly contagious virus ...",
+      "snippet_highlighted_words": [
+        "stomach flu",
+        "influenza virus",
+        "virus"
+      ],
+      "source": "UChicago Medicine"
+    },
+    {
+      "position": 29,
+      "title": "Viral gastroenteritis (stomach flu) Information",
+      "link": "https://www.mountsinai.org/health-library/diseases-conditions/viral-gastroenteritis-stomach-flu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mountsinai.org/health-library/diseases-conditions/viral-gastroenteritis-stomach-flu&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCKQCEAE",
+      "displayed_link": "https://www.mountsinai.org › diseases-conditions › vira...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f7aa49e3a861421ad8bf217b8d223f6c2.png",
+      "snippet": "Viral gastroenteritis is an infection of the stomach and intestine caused by a virus. The infection can lead to diarrhea and vomiting. It is sometimes called ...",
+      "snippet_highlighted_words": [
+        "an infection of the stomach and intestine caused by a virus"
+      ],
+      "source": "Mount Sinai"
+    },
+    {
+      "position": 30,
+      "title": "Norovirus — It's not the flu!",
+      "link": "https://www.southernnevadahealthdistrict.org/news-release/norovirus-its-not-the-flu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.southernnevadahealthdistrict.org/news-release/norovirus-its-not-the-flu/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCMACEAE",
+      "displayed_link": "https://www.southernnevadahealthdistrict.org › norovir...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fc48ffa542cd125471c2a50a7f68d2e75.png",
+      "date": "Nov 14, 2024",
+      "snippet": "Cases of norovirus typically increase between November and April. The most common symptoms include diarrhea, vomiting, nausea and stomach pain.",
+      "snippet_highlighted_words": [
+        "Cases of norovirus typically increase between November and April"
+      ],
+      "source": "Southern Nevada Health District"
+    },
+    {
+      "position": 31,
+      "title": "Norovirus is on the rise. How is it different? - News",
+      "link": "https://news.llu.edu/health-wellness/norovirus-rise-how-it-different",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.llu.edu/health-wellness/norovirus-rise-how-it-different&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCL0CEAE",
+      "displayed_link": "https://news.llu.edu › Health & Wellness",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fddf589cd94b7dfda753dea95d9d00c4d.png",
+      "date": "Jan 21, 2025",
+      "snippet": "Norovirus, often referred to as the “stomach flu,” is not related to influenza but rather a leading cause of gastroenteritis outbreaks worldwide.",
+      "snippet_highlighted_words": [
+        "is not related to influenza"
+      ],
+      "source": "Loma Linda University"
+    },
+    {
+      "position": 32,
+      "title": "Respiratory Illnesses, Norovirus Spreading Across U.S.",
+      "link": "https://www.redcross.org/about-us/news-and-events/news/2024/avoid-the-flu-get-your-vaccine-now.html?srsltid=AfmBOoq4J1ReLnoVX7UV_d0airbzxx5zdjStZw98xutBYeilGWsoFHUa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.redcross.org/about-us/news-and-events/news/2024/avoid-the-flu-get-your-vaccine-now.html%3Fsrsltid%3DAfmBOoq4J1ReLnoVX7UV_d0airbzxx5zdjStZw98xutBYeilGWsoFHUa&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCIYCEAE",
+      "displayed_link": "https://www.redcross.org › news-and-events › news › av...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f5fe1bcc02143cee3f114d5008f2f3ea3.png",
+      "date": "Jan 2, 2025",
+      "snippet": "There were more than 90 norovirus outbreaks in the first week of December, the highest number recorded during that week in recent years.",
+      "snippet_highlighted_words": [
+        "There were more than 90 norovirus outbreaks in the first week of December"
+      ],
+      "source": "American Red Cross"
+    },
+    {
+      "position": 33,
+      "title": "Symptoms & Causes of Viral Gastroenteritis (“Stomach Flu”)",
+      "link": "https://www.niddk.nih.gov/health-information/digestive-diseases/viral-gastroenteritis/symptoms-causes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.niddk.nih.gov/health-information/digestive-diseases/viral-gastroenteritis/symptoms-causes&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECEgQAQ",
+      "displayed_link": "https://www.niddk.nih.gov › digestive-diseases › sympt...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f0941e069ac685fef0488d062f178cd9d.png",
+      "snippet": "Although some people call viral gastroenteritis “stomach flu,” influenza (flu) viruses NIH external link do not cause viral gastroenteritis. Flu viruses cause ...",
+      "snippet_highlighted_words": [
+        "stomach flu",
+        "influenza",
+        "flu",
+        "Flu"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 34,
+      "title": "What virus is going around? The flu, COVID, norovirus",
+      "link": "https://www.usatoday.com/story/news/health/2024/12/31/virus-going-around-flu-covid-norovirus-rsv/77358321007/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usatoday.com/story/news/health/2024/12/31/virus-going-around-flu-covid-norovirus-rsv/77358321007/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECFUQAQ",
+      "displayed_link": "https://www.usatoday.com › news › health › 2024/12/31",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fb19b5bd3ef8cfefd3e9394cd45e5af30.png",
+      "date": "Dec 31, 2024",
+      "snippet": "A quadruple whammy of viruses – flu, COVID, norovirus, and respiratory syncytial virus, or RSV – is hitting the US as the year comes to a close.",
+      "snippet_highlighted_words": [
+        "flu, COVID, norovirus, and respiratory syncytial virus, or RSV"
+      ],
+      "source": "USA Today"
+    },
+    {
+      "position": 35,
+      "title": "What's Going Around",
+      "link": "https://sfbaypeds.com/Resources/Medical-Library/What-s-Going-Around",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sfbaypeds.com/Resources/Medical-Library/What-s-Going-Around&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECGMQAQ",
+      "displayed_link": "https://sfbaypeds.com › Resources › Medical-Library",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f7f0c0cec4fb09f4d0e04ab7a86452981.png",
+      "snippet": "Among the many viruses we see causing respiratory illness right now, the influenza virus (commonly called \"the flu\") can be particularly severe. Infection with ...",
+      "snippet_highlighted_words": [
+        "influenza virus",
+        "flu"
+      ],
+      "source": "SF Bay Pediatrics"
+    },
+    {
+      "position": 36,
+      "title": "Stomach Bug, COVID-19, or Flu: How to Tell",
+      "link": "https://emersonhealth.org/stomach-bug-covid-19-or-flu-how-to-tell/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://emersonhealth.org/stomach-bug-covid-19-or-flu-how-to-tell/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECGwQAQ",
+      "displayed_link": "https://emersonhealth.org › stomach-bug-covid-19-or-fl...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f4fbcbb75bc20676963a323d900277be2.png",
+      "snippet": "Viral gastroenteritis is highly contagious, and symptoms usually develop within 1-2 days after exposure to someone with the illness. Typical symptoms include ...",
+      "snippet_highlighted_words": [
+        "symptoms",
+        "symptoms"
+      ],
+      "source": "Emerson Health"
+    },
+    {
+      "position": 37,
+      "title": "Flu (influenza): Symptoms and treatment",
+      "link": "https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCK4BEAE",
+      "displayed_link": "https://www.canada.ca › services › diseases › flu-influe...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fca4aa2e323b4f8b9bbe3bbe2c3de2b99.png",
+      "date": "Jan 20, 2025",
+      "snippet": "Flu (influenza) symptoms for adults and children, when you can spread the flu, if you get sick, how it is diagnosed and treatment.",
+      "snippet_highlighted_words": [
+        "Flu",
+        "influenza",
+        "symptoms",
+        "flu"
+      ],
+      "source": "Canada.ca"
+    },
+    {
+      "position": 38,
+      "title": "Flu symptoms, diagnosis and treatment",
+      "link": "https://www2.hse.ie/conditions/flu/symptoms-diagnosis/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www2.hse.ie/conditions/flu/symptoms-diagnosis/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECH4QAQ",
+      "displayed_link": "https://www2.hse.ie › conditions › symptoms-diagnosis",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fd0016bc2cf94a3a0cd95a67ade292b4f.png",
+      "snippet": "Flu is a virus that spreads each winter. Flu symptoms come on very quickly. Read about the symptoms of flu.",
+      "snippet_highlighted_words": [
+        "Flu is a virus that spreads each winter"
+      ],
+      "source": "HSE.ie"
+    },
+    {
+      "position": 39,
+      "title": "How to Avoid Norovirus: The U.S.'s Most Prevalent ...",
+      "link": "https://www.houstonmethodist.org/blog/articles/2024/jul/how-to-avoid-norovirus-the-u-s-s-most-prevalent-stomach-bug/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.houstonmethodist.org/blog/articles/2024/jul/how-to-avoid-norovirus-the-u-s-s-most-prevalent-stomach-bug/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECH0QAQ",
+      "displayed_link": "https://www.houstonmethodist.org › blog › articles › jul",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f19b493a0d825a283c340d81177e456a0.png",
+      "date": "Jul 2, 2024",
+      "snippet": "An infectious disease physician shares how to avoid and prevent the spread of norovirus, the leading cause of foodborne illness in the U.S..",
+      "snippet_highlighted_words": [
+        "how to avoid and prevent the spread of norovirus"
+      ],
+      "source": "Houston Methodist"
+    },
+    {
+      "position": 40,
+      "title": "Seasonal flu (seasonal influenza) | Australian Centre for ...",
+      "link": "https://www.cdc.gov.au/topics/seasonal-flu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdc.gov.au/topics/seasonal-flu&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCNgBEAE",
+      "displayed_link": "https://www.cdc.gov.au › topics › seasonal-flu",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f11b0d9fc4d203d5d5a4b8d6a95d11b8d.png",
+      "date": "Jun 19, 2025",
+      "snippet": "Seasonal flu is a common and highly contagious respiratory infection. It is usually caused by influenza A or B viruses, but there are many subtypes and strains.",
+      "snippet_highlighted_words": [
+        "Seasonal flu is a common and highly contagious respiratory infection"
+      ],
+      "source": "cdc.gov.au"
+    },
+    {
+      "position": 41,
+      "title": "Influenza - Novel | Maine Center for Disease Control & ...",
+      "link": "https://www.maine.gov/dhhs/mecdc/diseases-conditions/infectious-diseases/influenza-novel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.maine.gov/dhhs/mecdc/diseases-conditions/infectious-diseases/influenza-novel&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCP4BEAE",
+      "displayed_link": "https://www.maine.gov › mecdc › infectious-diseases",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f798bf1b012945e30397280310d0808ee.jpeg",
+      "snippet": "Do not go to work or school until you get a flu test to prove you do not have ... Infected birds have avian flu virus in their saliva, mucous, and feces.",
+      "snippet_highlighted_words": [
+        "go",
+        "flu",
+        "flu virus",
+        "their"
+      ],
+      "source": "Maine.gov"
+    },
+    {
+      "position": 42,
+      "title": "Flu in Colorado: What to do if you're feeling lousy",
+      "link": "https://www.uchealth.org/today/flu-in-colorado-what-to-do-if-youre-feeling-lousy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uchealth.org/today/flu-in-colorado-what-to-do-if-youre-feeling-lousy/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCJMBEAE",
+      "displayed_link": "https://www.uchealth.org › today › flu-in-colorado-wha...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fed7043a342b33e1c043928f6398af3d7.png",
+      "date": "Feb 12, 2025",
+      "snippet": "Feeling lousy? Flu cases are spiking in Colorado. While flu symptoms are similar to COVID-19, influenza A is dominating now. Find out more.",
+      "snippet_highlighted_words": [
+        "Flu",
+        "flu symptoms",
+        "influenza"
+      ],
+      "source": "UCHealth"
+    },
+    {
+      "position": 43,
+      "title": "Flu Tracker Weekly - NYAPD - NYS Health Connector",
+      "link": "https://nyshc.health.ny.gov/web/nyapd/new-york-state-flu-tracker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nyshc.health.ny.gov/web/nyapd/new-york-state-flu-tracker&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCJgBEAE",
+      "displayed_link": "https://nyshc.health.ny.gov › new-york-state-flu-tracker",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f3d1714f29cd1935b3b24c8e5f928a4e9.png",
+      "snippet": "Influenza, often referred to as 'flu', is a contagious respiratory illness caused by influenza viruses. Seasonal flu epidemics occur yearly during the ...",
+      "snippet_highlighted_words": [
+        "Influenza",
+        "flu",
+        "influenza",
+        "flu"
+      ],
+      "source": "NYS Health Connector (.gov)"
+    },
+    {
+      "position": 44,
+      "title": "The 24-Hour Stomach Bug and Its Symptoms and Causes",
+      "link": "https://www.verywellhealth.com/what-is-the-24-hour-flu-770474",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.verywellhealth.com/what-is-the-24-hour-flu-770474&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCLECEAE",
+      "displayed_link": "https://www.verywellhealth.com › Cold & Flu › Flu",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fa45fe31f75659d3939d76f9017c589b1.png",
+      "date": "May 1, 2025",
+      "snippet": "A 24-hour stomach bug is a viral infection that causes diarrhea and vomiting. Most case resolve in one to three days.",
+      "snippet_highlighted_words": [
+        "stomach bug"
+      ],
+      "source": "Verywell Health"
+    },
+    {
+      "position": 45,
+      "title": "As cases spread, doctors warn of norovirus symptoms",
+      "link": "https://www.youtube.com/watch?v=oE2E-o2rtbM",
+      "displayed_link": "6.1K+ views · 6 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyhCLdkhrk9FuKb-X9V1B_rnoIJT3UvlKJq4y6FDXBT3mG&s",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f6352934c8a233e691cdd9965682acfb6.png",
+      "snippet": "Comments ; What is the stomach bug going around right now? Norovirus 2025: Signs, symptoms and treatment. American Medical Association (AMA) · 45K ...",
+      "duration": "1:58",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR2aO5pCDqOA05Pswh1aawCvSfBi2o5Q7owyw",
+      "source": "YouTube · ABC Action News"
+    },
+    {
+      "position": 46,
+      "title": "Is it COVID-19, flu, or RSV? The symptoms to look out for",
+      "link": "https://www.gsk.com/en-gb/behind-the-science-magazine/covid-flu-rsv-symptoms-virus/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gsk.com/en-gb/behind-the-science-magazine/covid-flu-rsv-symptoms-virus/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCLQBEAE",
+      "displayed_link": "https://www.gsk.com › behind-the-science-magazine",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f7fbcb29abdc522871cd56322156d04d0.png",
+      "date": "Dec 17, 2024",
+      "snippet": "... virus like flu, COVID-19 or RSV? ... The type of respiratory infection someone may be at risk from depends on the viruses circulating around a ...",
+      "snippet_highlighted_words": [
+        "virus",
+        "flu",
+        "around"
+      ],
+      "source": "GSK"
+    },
+    {
+      "position": 47,
+      "title": "North Carolina Respiratory Virus Summary Dashboard",
+      "link": "https://covid19.ncdhhs.gov/dashboard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covid19.ncdhhs.gov/dashboard&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCLgBEAE",
+      "displayed_link": "https://covid19.ncdhhs.gov › dashboard",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f64c7361f2d6b84de95ea6f25e20287f8.png",
+      "snippet": "This dashboard is a resource for tracking and understanding the spread of respiratory illness, including COVID-19, flu (influenza), and RSV, in North Carolina.",
+      "snippet_highlighted_words": [
+        "flu",
+        "influenza"
+      ],
+      "source": "North Carolina Department of Health and Human Services (.gov)"
+    },
+    {
+      "position": 48,
+      "title": "Canadian respiratory virus surveillance report - : - Influenza",
+      "link": "https://health-infobase.canada.ca/respiratory-virus-surveillance/influenza.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://health-infobase.canada.ca/respiratory-virus-surveillance/influenza.html&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCNABEAE",
+      "displayed_link": "https://health-infobase.canada.ca › influenza",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f936f8f924cdc1bd392adf16be09699cc.png",
+      "snippet": "In week 28, 38 regions across 9 provinces and territories reported influenza activity levels (Figure 1). ... In week 28, there were a total of 86 detections of ...",
+      "snippet_highlighted_words": [
+        "across",
+        "influenza",
+        "there"
+      ],
+      "source": "Health Infobase"
+    },
+    {
+      "position": 49,
+      "title": "Flu",
+      "link": "https://www.nhs.uk/conditions/flu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhs.uk/conditions/flu/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCNEBEAE",
+      "displayed_link": "https://www.nhs.uk › conditions › flu",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f6b214344eab2deabc06709c76fed28b7.png",
+      "snippet": "feeling sick and being sick. The symptoms are similar for children, but they can also get pain in their ear and appear less active. Telling ...",
+      "snippet_highlighted_words": [
+        "symptoms",
+        "their"
+      ],
+      "source": "nhs.uk"
+    },
+    {
+      "position": 50,
+      "title": "What winter bug do I have? Know the signs and symptoms",
+      "link": "https://ukhsa.blog.gov.uk/2024/12/18/what-winter-bug-do-i-have-know-the-signs-and-symptoms/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ukhsa.blog.gov.uk/2024/12/18/what-winter-bug-do-i-have-know-the-signs-and-symptoms/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCOsBEAE",
+      "displayed_link": "https://ukhsa.blog.gov.uk › 2024/12/18 › what-winter-...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f5d69416dd137b803ef1dfa2f6026564f.png",
+      "date": "Dec 18, 2024",
+      "snippet": "We see cases of flu, RSV, COVID-19 and norovirus throughout the year, but in winter they circulate at the same time and can reach high levels.",
+      "snippet_highlighted_words": [
+        "flu"
+      ],
+      "source": "GOV.UK blogs"
+    },
+    {
+      "position": 51,
+      "title": "Norovirus: symptoms, causes, prevention and treatments",
+      "link": "https://www2.hse.ie/conditions/norovirus/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www2.hse.ie/conditions/norovirus/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCOoBEAE",
+      "displayed_link": "https://www2.hse.ie › conditions › norovirus",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f4b3a70f87c96559b504135905ba52faa.png",
+      "snippet": "Norovirus causes diarrhoea and vomiting. It is one of the most common stomach bugs in Ireland. It's also called the 'winter vomiting bug'.",
+      "snippet_highlighted_words": [
+        "stomach",
+        "bug"
+      ],
+      "source": "HSE.ie"
+    },
+    {
+      "position": 52,
+      "title": "\"Quad-Demic\": Is it RSV, Norovirus, Flu or COVID-19?",
+      "link": "https://www.universityhealth.com/blog/do-i-have-the-flu-a-cold-or-allergies",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.universityhealth.com/blog/do-i-have-the-flu-a-cold-or-allergies&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCO4BEAE",
+      "displayed_link": "https://www.universityhealth.com › blog › do-i-have-th...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f25493e3a130a6620a32d726770452473.png",
+      "date": "Jan 17, 2025",
+      "snippet": "Flu season typically starts around October and can last ... Bowling has some tips on how to prevent getting sick with a respiratory virus.",
+      "snippet_highlighted_words": [
+        "Flu",
+        "around",
+        "getting",
+        "virus"
+      ],
+      "source": "University Health System"
+    },
+    {
+      "position": 53,
+      "title": "Influenza fact sheet - NSW Health",
+      "link": "https://www.health.nsw.gov.au/Infectious/factsheets/Pages/influenza_factsheet.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.nsw.gov.au/Infectious/factsheets/Pages/influenza_factsheet.aspx&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCO0BEAE",
+      "displayed_link": "https://www.health.nsw.gov.au › factsheets › Pages › in...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f321d595ca24f2d457ee3c2a65b8acf1c.png",
+      "snippet": "Influenza, or flu, is a highly contagious respiratory illness caused by influenza viruses. The symptoms are more serious than a common cold.",
+      "snippet_highlighted_words": [
+        "Influenza",
+        "flu",
+        "influenza",
+        "symptoms"
+      ],
+      "source": "NSW Health"
+    },
+    {
+      "position": 54,
+      "title": "Flu and norovirus are going around",
+      "link": "https://www.youtube.com/watch?v=Y0xzLNs1IhI",
+      "displayed_link": "1.8K+ views · 5 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_4gnj_dUmSVSbuIfpimNa0YE9QptfPWLBwI3V9yFEq_r&s",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fc152c4bddebd645bb9cc3876636ab9dd.png",
+      "snippet": "6 Signs an Elderly Person May Be in Their Final Year - Subtle Warnings You Shouldn't Ignore! ... Doctor explains norovirus symptoms. News 4 ...",
+      "duration": "2:22",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRrMnPXTfHK_MMUex63-pNiE3R45zAx0MdVgQ",
+      "source": "YouTube · WREG News Channel 3"
+    },
+    {
+      "position": 55,
+      "title": "All About the Flu (Influenza) | Nemours KidsHealth",
+      "link": "https://kidshealth.org/en/parents/flu.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kidshealth.org/en/parents/flu.html&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCIcCEAE",
+      "displayed_link": "https://kidshealth.org › parents › flu",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f56522d5df0934597d9bc328b89a8d33d.png",
+      "snippet": "... flu is still going around. Many health care providers give flu vaccines through May if the flu virus is still circulating. Kids can get a flu vaccine at the ...",
+      "snippet_highlighted_words": [
+        "flu",
+        "going around",
+        "flu",
+        "flu virus",
+        "flu"
+      ],
+      "source": "Kids Health"
+    },
+    {
+      "position": 56,
+      "title": "What's Going Around Right Now? The 4 Winter Viruses of the ...",
+      "link": "https://www.health.com/quad-demic-winter-viruses-8771332",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.com/quad-demic-winter-viruses-8771332&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCJUCEAE",
+      "displayed_link": "https://www.health.com › quad-demic-winter-viruses-8...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f7ab9a98843d9b4330d48041cc93525e4.png",
+      "date": "Jan 14, 2025",
+      "snippet": "It's not uncommon for respiratory illnesses, like COVID, the flu, and RSV, to spread more in the winter months, and current rates of infection ...",
+      "snippet_highlighted_words": [
+        "flu"
+      ],
+      "source": "health.com"
+    },
+    {
+      "position": 57,
+      "title": "Flu and COVID-19 surveillance reports published up to ...",
+      "link": "https://www.gov.uk/government/news/flu-and-covid-19-surveillance-report-published",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/government/news/flu-and-covid-19-surveillance-report-published&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCJkCEAE",
+      "displayed_link": "https://www.gov.uk › ... › Immunisation",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fd79cb3b7d3aaa93ba1c92ac4e157a2d5.png",
+      "snippet": "Norovirus activity is continuing to rise, as expected at this time of year. If you've caught the virus, take steps to avoid passing the infection on. If you ...",
+      "snippet_highlighted_words": [
+        "virus"
+      ],
+      "source": "GOV.UK"
+    },
+    {
+      "position": 58,
+      "title": "Gastroenteritis",
+      "link": "https://www.nhsinform.scot/illnesses-and-conditions/stomach-liver-and-gastrointestinal-tract/gastroenteritis/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhsinform.scot/illnesses-and-conditions/stomach-liver-and-gastrointestinal-tract/gastroenteritis/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCKMCEAE",
+      "displayed_link": "https://www.nhsinform.scot › illnesses-and-conditions",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372ff3d36f54fb636cd69a644c56951093d2.png",
+      "date": "Jun 9, 2025",
+      "snippet": "Gastroenteritis is a very common condition that causes diarrhoea and vomiting. It's usually caused by a bacterial or viral tummy bug.",
+      "snippet_highlighted_words": [
+        "bug"
+      ],
+      "source": "NHS inform"
+    },
+    {
+      "position": 59,
+      "title": "Respiratory surveillance report",
+      "link": "https://www.publichealth.hscni.net/services-and-teams/public-health-services/health-protection/surveillance-data/respiratory-0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.publichealth.hscni.net/services-and-teams/public-health-services/health-protection/surveillance-data/respiratory-0&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCK0CEAE",
+      "displayed_link": "https://www.publichealth.hscni.net › respiratory-0",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fbfb6943579516b0dd6dc478d99a696ce.png",
+      "snippet": "There were seven unique episodes of influenza identified (one was typed as Flu A (H1) and six were typed as Flu A (not subtyped). For RSV, there were no ...",
+      "snippet_highlighted_words": [
+        "There",
+        "influenza",
+        "Flu",
+        "Flu",
+        "there"
+      ],
+      "source": "HSC Public Health Agency"
+    },
+    {
+      "position": 60,
+      "title": "What's Going Around: Flu, stomach bug, strep, mono",
+      "link": "https://www.yahoo.com/lifestyle/going-around-flu-stomach-bug-093100641.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yahoo.com/lifestyle/going-around-flu-stomach-bug-093100641.html&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCLsCEAE",
+      "displayed_link": "https://www.yahoo.com › lifestyle › going-around-flu-s...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fd7b2c095f4982992b6b54d0e5c35261b.png",
+      "date": "Feb 6, 2025",
+      "snippet": "Pediatricians at Penn State Health Children's Hospital are seeing cases of the flu, RSV and other viral respiratory infections.",
+      "snippet_highlighted_words": [
+        "flu"
+      ],
+      "source": "Yahoo"
+    },
+    {
+      "position": 61,
+      "title": "Acute respiratory infection surveillance reporting",
+      "link": "https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/surveillance/reports/flu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/surveillance/reports/flu&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCL4CEAE",
+      "displayed_link": "https://www.health.qld.gov.au › surveillance › reports › flu",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f6df72316f3561ddf2022fabc7b36fa5c.png",
+      "snippet": "Queensland Health publishes weekly surveillance reports for influenza, Respiratory Syncytial Virus (RSV) and COVID-19 to monitor trends from a number of ...",
+      "snippet_highlighted_words": [
+        "influenza",
+        "Virus"
+      ],
+      "source": "Queensland Health"
+    },
+    {
+      "position": 62,
+      "title": "Norovirus cases are on the rise in the US. Here's what you ...",
+      "link": "https://abc7ny.com/post/what-kind-stomach-bug-is-going-around-norovirus-cases-are-rise-us-cdc-warns-symptoms/15714882/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://abc7ny.com/post/what-kind-stomach-bug-is-going-around-norovirus-cases-are-rise-us-cdc-warns-symptoms/15714882/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCMwCEAE",
+      "displayed_link": "https://abc7ny.com › post › what-kind-stomach-bug-is-...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f97f0d9bf585a02d80a6567389d679da5.png",
+      "date": "Dec 31, 2024",
+      "snippet": "Norovirus cases are on the rise in the US. Here's what you need to know ... The most common symptoms are nausea, vomiting, stomach pain and ...",
+      "snippet_highlighted_words": [
+        "symptoms",
+        "stomach"
+      ],
+      "source": "ABC7 New York"
+    },
+    {
+      "position": 63,
+      "title": "Kaden's Story (Flu)",
+      "link": "https://www.nfid.org/resource/kadens-story-flu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nfid.org/resource/kadens-story-flu/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCMcCEAE",
+      "displayed_link": "https://www.nfid.org › Resources",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372ff6a0241fdd69cb8e3135e75cd79b0da8.png",
+      "snippet": "There, Kaden was diagnosed with influenza A and strep. As a ... flu and children. Learn More. Traveling Flu Bug Graphic. Graphic. Traveling Flu ...",
+      "snippet_highlighted_words": [
+        "There",
+        "influenza",
+        "flu",
+        "Flu Bug",
+        "Flu"
+      ],
+      "source": "National Foundation for Infectious Diseases"
+    },
+    {
+      "position": 64,
+      "title": "Spanish flu",
+      "link": "https://en.wikipedia.org/wiki/Spanish_flu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Spanish_flu&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECEcQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Spanish_flu",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f4c42cf737a06695f39877bcf89ffc6ac.png",
+      "snippet": "This article is about the influenza pandemic that began in 1918. For the virus that caused the pandemic, see Influenza A virus subtype H1N1. The 1918–1920 flu ...",
+      "snippet_highlighted_words": [
+        "influenza",
+        "virus",
+        "Influenza",
+        "virus",
+        "flu"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 65,
+      "title": "Bird flu 2025, first H5N1 death, norovirus outbreak, and links ...",
+      "link": "https://www.youtube.com/watch?v=hTVyfqDqCZc",
+      "displayed_link": "16.4K+ views · 6 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcAETjbi09Ai0FEF1AFlKCUXGiPAGhNXAcLtTt8IdSL&s",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f92a2e048d7b42b5d8230918c668456e3.png",
+      "snippet": "Should I be worried about bird flu? How do humans get bird flu? What's the stomach virus going around? What happens if you drink alcohol ...",
+      "duration": "12:12",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTYbz8S13dFlAIQ2NngAZMRfEJa-igDmWFLNw",
+      "source": "YouTube · American Medical Association (AMA)"
+    },
+    {
+      "position": 66,
+      "title": "Norovirus | Nemours KidsHealth",
+      "link": "https://kidshealth.org/en/parents/norovirus.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kidshealth.org/en/parents/norovirus.html&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCOEBEAE",
+      "displayed_link": "https://kidshealth.org › parents › norovirus",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f61a4bbdc897a885906bbbfaa8b56ed21.png",
+      "snippet": "Norovirus is a virus that causes diarrhea and vomiting. It's sometimes called the stomach flu or stomach bug, but norovirus (NOR-uh-vy-ris) isn't related to ...",
+      "snippet_highlighted_words": [
+        "virus",
+        "stomach flu",
+        "stomach bug"
+      ],
+      "source": "Kids Health"
+    },
+    {
+      "position": 67,
+      "title": "Flu, RSV, COVID-19, Norovirus Cases Surging. How to ...",
+      "link": "https://www.healthline.com/health-news/flu-season-rsv-norovirus-how-to-protect-yourself",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/health-news/flu-season-rsv-norovirus-how-to-protect-yourself&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECFQQAQ",
+      "displayed_link": "https://www.healthline.com › health-news › flu-season-r...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f0cd120292d7e4531130fa8988bb31579.png",
+      "date": "Jan 13, 2025",
+      "snippet": "Respiratory illnesses like influenza, COVID-19, and RSV are surging across the United States, according to CDC data. Norovirus has also been ...",
+      "snippet_highlighted_words": [
+        "influenza",
+        "across"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 68,
+      "title": "Where Is Flu Surging In US? These States Have The ...",
+      "link": "https://www.today.com/health/cold-flu/flu-season-2025-rcna186909",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.today.com/health/cold-flu/flu-season-2025-rcna186909&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECFwQAQ",
+      "displayed_link": "https://www.today.com › flu-season-2025-rcna186909",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fb6da11a737d5962818cc95cfbbc52bda.png",
+      "date": "Feb 21, 2025",
+      "snippet": "Flu is still surging across the US, straining hospitals. Experts discuss 2024-25 flu season trends, symptoms to watch for, and how to stay safe.",
+      "snippet_highlighted_words": [
+        "Flu",
+        "across",
+        "flu",
+        "symptoms"
+      ],
+      "source": "TODAY.com"
+    },
+    {
+      "position": 69,
+      "title": "A February flu surge has arrived",
+      "link": "https://www.nbcnews.com/health/health-news/flu-cases-high-cdc-illness-hospitalizations-rcna191203",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nbcnews.com/health/health-news/flu-cases-high-cdc-illness-hospitalizations-rcna191203&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECF0QAQ",
+      "displayed_link": "https://www.nbcnews.com › health › health-news › flu-...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fc58ad6556262bb7f63f7cacb850308bd.png",
+      "date": "Feb 7, 2025",
+      "snippet": "Flu A strains — which could cause more severe symptoms — make up nearly all cases going around right now, particularly H1N1 and H3N2. There were ...",
+      "snippet_highlighted_words": [
+        "Flu",
+        "symptoms",
+        "going around",
+        "There"
+      ],
+      "source": "NBC News"
+    },
+    {
+      "position": 70,
+      "title": "GISAID - gisaid.org",
+      "link": "https://gisaid.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gisaid.org/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECGIQAQ",
+      "displayed_link": "https://gisaid.org",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f1274fb447d2fea7dfde2f332f7d2b548.png",
+      "snippet": "Clade 2.3.4.4b of the highly pathogenic avian influenza (HPAI) virus causing outbreaks in wild and domestic birds around the world continues to spread in dairy ...",
+      "snippet_highlighted_words": [
+        "influenza",
+        "virus",
+        "around"
+      ],
+      "source": "GISAID"
+    },
+    {
+      "position": 71,
+      "title": "Lyme Disease Symptoms",
+      "link": "https://www.hopkinslyme.org/lyme-disease/lyme-disease-signs-symptoms/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hopkinslyme.org/lyme-disease/lyme-disease-signs-symptoms/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECGQQAQ",
+      "displayed_link": "https://www.hopkinslyme.org › Lyme Disease",
+      "snippet": "If those circumstances apply (rash, summer-flu) or symptoms persist it is very important to go to a physician. Despite higher risk being late spring through ...",
+      "snippet_highlighted_words": [
+        "flu",
+        "symptoms",
+        "go"
+      ],
+      "source": "Johns Hopkins Lyme Disease Research Center"
+    },
+    {
+      "position": 72,
+      "title": "What Is the Difference Between Norovirus and Flu?",
+      "link": "https://www.michiganmedicine.org/health-lab/whats-difference-between-norovirus-and-flu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.michiganmedicine.org/health-lab/whats-difference-between-norovirus-and-flu&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECG0QAQ",
+      "displayed_link": "https://www.michiganmedicine.org › Health Lab",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f77b6f1d622195b9623e99aa7045927c1.png",
+      "date": "Jan 14, 2019",
+      "snippet": "The seasonal return of two unpleasant viruses offers a reminder for good hygiene and vigilance. Here's how to stop the spread of flu and ...",
+      "snippet_highlighted_words": [
+        "flu"
+      ],
+      "source": "michiganmedicine.org"
+    },
+    {
+      "position": 73,
+      "title": "'Tidal wave' of flu hitting hospitals amid record treatment ...",
+      "link": "https://www.england.nhs.uk/2024/12/tidal-wave-of-flu-hitting-hospitals-amid-record-treatment-delivered-for-patients/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.england.nhs.uk/2024/12/tidal-wave-of-flu-hitting-hospitals-amid-record-treatment-delivered-for-patients/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECHQQAQ",
+      "displayed_link": "https://www.england.nhs.uk › 2024/12 › tidal-wave-of-...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372ff25c0fccd417adcdd9ae32fcac8fc8c1.png",
+      "date": "Dec 12, 2024",
+      "snippet": "... across just 7 days. The NHS is encouraging eligible people to get ... There's a long way to go, but through our Plan for Change we will ...",
+      "snippet_highlighted_words": [
+        "across",
+        "There's",
+        "go"
+      ],
+      "source": "NHS England"
+    },
+    {
+      "position": 74,
+      "title": "UKHSA data dashboard",
+      "link": "https://ukhsa-dashboard.data.gov.uk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ukhsa-dashboard.data.gov.uk/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCJkBEAE",
+      "displayed_link": "https://ukhsa-dashboard.data.gov.uk",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fe5eb49d44d6bf1c049a4b344fcc1ff04.png",
+      "snippet": "There is only 1 plot on this chart. The horizontal X-axis is labelled · Respiratory viruses · Influenza ... Respiratory syncytial virus (RSV). Testing positivity.",
+      "snippet_highlighted_words": [
+        "There",
+        "Influenza",
+        "virus"
+      ],
+      "source": "Data.gov.uk"
+    },
+    {
+      "position": 75,
+      "title": "NCBI Virus",
+      "link": "https://www.ncbi.nlm.nih.gov/labs/virus/vssi/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncbi.nlm.nih.gov/labs/virus/vssi/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCJoBEAE",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov › labs › virus › vssi",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f9cf8ea9e230f804b48fe99dc62ac63cb.png",
+      "snippet": "NCBI Virus is a community portal for viral sequence data from RefSeq, GenBank and other NCBI repositories.",
+      "snippet_highlighted_words": [
+        "Virus"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 76,
+      "title": "Confirmations of Highly Pathogenic Avian Influenza in ...",
+      "link": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/commercial-backyard-flocks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/commercial-backyard-flocks&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCKECEAE",
+      "displayed_link": "https://www.aphis.usda.gov › commercial-backyard-flocks",
+      "snippet": "... virus to their birds and preventing the spread of the virus from one premises to another. To provide context on the overall size of the U.S. poultry flock ...",
+      "snippet_highlighted_words": [
+        "virus",
+        "their",
+        "virus"
+      ],
+      "source": "Animal and Plant Health Inspection Service (.gov)"
+    },
+    {
+      "position": 77,
+      "title": "Surge in norovirus, whooping cough, and flu cases marks end ...",
+      "link": "https://www.youtube.com/watch?v=fsr1VS4gpX8",
+      "displayed_link": "1.4K+ views · 6 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8a9QuctHNIDUUYGaAclmBP_k-HO_nBbhJzSSuriPFXYz&s",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f6540d9d7efc6f6a8c82cfccfae32713f.png",
+      "snippet": "Go to channel · Norovirus outbreak: Is there a stomach bug going around? Norovirus symptoms and incubation period. American Medical Association ...",
+      "duration": "2:46",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS7Shj-GJjmRl_Oo7P0NvjjShIKJ1j-GW3WrQ",
+      "source": "YouTube · News4JAX The Local Station"
+    },
+    {
+      "position": 78,
+      "title": "Respiratory Syncytial Virus (RSV) in Children",
+      "link": "https://www.cedars-sinai.org/health-library/diseases-and-conditions---pediatrics/r/respiratory-syncytial-virus-rsv-in-children.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cedars-sinai.org/health-library/diseases-and-conditions---pediatrics/r/respiratory-syncytial-virus-rsv-in-children.html&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECH8QAQ",
+      "displayed_link": "https://www.cedars-sinai.org › health-library › respirato...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fc39b1019431a397e5914532b1e1d0b0a.png",
+      "snippet": "Turning blue around the lips and fingertips. The symptoms of RSV can seem ... Not go to childcare with lots of children during their first winter season.",
+      "snippet_highlighted_words": [
+        "around",
+        "symptoms",
+        "go",
+        "their"
+      ],
+      "source": "Cedars-Sinai"
+    },
+    {
+      "position": 79,
+      "title": "Chikungunya fact sheet",
+      "link": "https://www.who.int/news-room/fact-sheets/detail/chikungunya",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.who.int/news-room/fact-sheets/detail/chikungunya&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCJ4BEAE",
+      "displayed_link": "https://www.who.int › Newsroom › Fact sheets › Detail",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fd95157c68dbc6daa89800dd6ef5fc5a4.png",
+      "date": "Apr 14, 2025",
+      "snippet": "There is no specific antiviral treatment for chikungunya virus ... symptoms in infected individuals are usually mild and the infection may go ...",
+      "snippet_highlighted_words": [
+        "There",
+        "virus",
+        "symptoms",
+        "go"
+      ],
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 80,
+      "title": "Norovirus 2024: Cases of highly contagious stomach bug ...",
+      "link": "https://www.today.com/health/health/norovirus-2024-highly-contagious-stomach-bug-spiking-us-rcna140528",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.today.com/health/health/norovirus-2024-highly-contagious-stomach-bug-spiking-us-rcna140528&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCIsBEAE",
+      "displayed_link": "https://www.today.com › health › health › norovirus-20...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fd49b4c4d1805051d8782d21141c49971.png",
+      "date": "Feb 27, 2024",
+      "snippet": "Respiratory virus season may winding down as the U.S. enters spring, but the 2023–2024 norovirus season is still underway. Nationally, norovirus ...",
+      "snippet_highlighted_words": [
+        "virus"
+      ],
+      "source": "TODAY.com"
+    },
+    {
+      "position": 81,
+      "title": "Coughs and colds in children - treatment, prevention, causes",
+      "link": "https://www.healthdirect.gov.au/coughs-and-colds-in-children",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthdirect.gov.au/coughs-and-colds-in-children&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCLQCEAE",
+      "displayed_link": "https://www.healthdirect.gov.au › coughs-and-colds-in-...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f8e671c15ebd562f1e84302a83c769556.png",
+      "snippet": "When should I take my child to see a doctor for a cough or a cold? · your child is under 3 months old · their symptoms are very unpleasant or getting worse · you ...",
+      "snippet_highlighted_words": [
+        "their symptoms",
+        "getting"
+      ],
+      "source": "Healthdirect"
+    },
+    {
+      "position": 82,
+      "title": "What virus is going around? Which illnesses are circulating ...",
+      "link": "https://www.nbcchicago.com/news/local/what-virus-is-going-around-which-illnesses-are-circulating-most-right-now/3637491/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nbcchicago.com/news/local/what-virus-is-going-around-which-illnesses-are-circulating-most-right-now/3637491/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCIoBEAE",
+      "displayed_link": "https://www.nbcchicago.com › news › local › what-viru...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f37cfa0e6be27dc5a3c29bccec2ab52b4.png",
+      "date": "Jan 3, 2025",
+      "snippet": "The wintertime viral season is upon us, and medical experts say the norovirus is having a huge impact right now. In recent weeks, doctors say ...",
+      "source": "NBC 5 Chicago"
+    },
+    {
+      "position": 83,
+      "title": "When and Why to Wear a Mask - CDPH - CA.gov",
+      "link": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Respiratory-Viruses/When-and-Why-to-Wear-a-Mask.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Respiratory-Viruses/When-and-Why-to-Wear-a-Mask.aspx&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCJABEAE",
+      "displayed_link": "https://www.cdph.ca.gov › Pages › Respiratory-Viruses",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f8599017ed5e5f2ac8a843b34c27779f3.png",
+      "date": "Jun 27, 2025",
+      "snippet": "Examples of respiratory virus infections are COVID-19, influenza, and respiratory syncytial virus (RSV). ... Check for any gaps by cupping your ...",
+      "snippet_highlighted_words": [
+        "virus",
+        "influenza",
+        "virus",
+        "any"
+      ],
+      "source": "CDPH (.gov)"
+    },
+    {
+      "position": 84,
+      "title": "What's Going Around: Influenza, COVID, stomach virus ...",
+      "link": "https://www.clickondetroit.com/health/2024/11/14/whats-going-around-influenza-covid-stomach-virus-respiratory-viruses-rsv-strep-throat/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clickondetroit.com/health/2024/11/14/whats-going-around-influenza-covid-stomach-virus-respiratory-viruses-rsv-strep-throat/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCIwCEAE",
+      "displayed_link": "https://www.clickondetroit.com › health › 2024/11/14",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fe97e93643272c70464b7ad971c9aec84.jpeg",
+      "date": "Nov 14, 2024",
+      "snippet": "Here's our weekly round-up of what illnesses are spreading the most in Metro Detroit communities, according to our local doctors and ...",
+      "source": "ClickOnDetroit | WDIV Local 4"
+    },
+    {
+      "position": 85,
+      "title": "What's Going Around: Flu, stomach bug, COVID",
+      "link": "https://www.abc27.com/news/whats-going-around-flu-stomach-bug-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.abc27.com/news/whats-going-around-flu-stomach-bug-covid/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCJYBEAE",
+      "displayed_link": "https://www.abc27.com › news › whats-going-around-f...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f635b5c343d157160a323ea73264b1f96.png",
+      "date": "Jan 30, 2025",
+      "snippet": "They're also seeing a lot of colds with fevers that are not positive for the flu. In many cases, the flu is leading to a secondary infection ...",
+      "snippet_highlighted_words": [
+        "flu",
+        "flu"
+      ],
+      "source": "ABC27"
+    },
+    {
+      "position": 86,
+      "title": "Symptoms of Celiac Disease",
+      "link": "https://celiac.org/about-celiac-disease/symptoms-of-celiac-disease/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://celiac.org/about-celiac-disease/symptoms-of-celiac-disease/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECHYQAQ",
+      "displayed_link": "https://celiac.org › About Celiac Disease",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f6acfd67f78745d45e10fdb8dfb658bcb.png",
+      "snippet": "There are more than 200 known celiac disease symptoms which may occur in the digestive system or other parts of the body.",
+      "snippet_highlighted_words": [
+        "There",
+        "symptoms"
+      ],
+      "source": "Celiac Disease Foundation"
+    },
+    {
+      "position": 87,
+      "title": "Is there something viral or contagious going around SE/K",
+      "link": "https://www.reddit.com/r/kansas/comments/1m5xlso/is_there_something_viral_or_contagious_going/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/kansas/comments/1m5xlso/is_there_something_viral_or_contagious_going/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCI0CEAE",
+      "displayed_link": "40+ comments · 2 days ago",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f91902ffe6d798311eabc7d17ca3ebeac.png",
+      "snippet": "Sore throat. Achy joints. Sore neck. Hot cheeks. Weak. Tired. Floaty. Not hungry. Thirsty! Update - fever! That's it - Flu?",
+      "snippet_highlighted_words": [
+        "Flu"
+      ],
+      "source": "Reddit · r/kansas"
+    },
+    {
+      "position": 88,
+      "title": "Disease Prevention | Pitkin County, CO",
+      "link": "https://www.pitkincounty.com/1175/Disease-Prevention",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pitkincounty.com/1175/Disease-Prevention&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCKQBEAE",
+      "displayed_link": "https://www.pitkincounty.com › Disease-Prevention",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f3b4c74bc68e08c5b8caab6d21c7d1bd8.jpeg",
+      "snippet": "This work is done by the county epidemiologist in partnership with the City of Aspen, Town of Snowmass Village, local healthcare providers, the Colorado ...",
+      "source": "Pitkin County"
+    },
+    {
+      "position": 89,
+      "title": "What is norovirus? What to know as stomach flu cases rise",
+      "link": "https://www.usatoday.com/story/news/nation/2024/12/29/norovirus-outbreak-stomach-flu/77298826007/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usatoday.com/story/news/nation/2024/12/29/norovirus-outbreak-stomach-flu/77298826007/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCIkCEAE",
+      "displayed_link": "https://www.usatoday.com › news › nation › 2024/12/29",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f5cfce77a44f716539d23137a14115346.png",
+      "date": "Dec 29, 2024",
+      "snippet": "During the week of Dec. 5, the CDC reported 91 cases of norovirus, more commonly known as the stomach flu, which is over double the highest ...",
+      "snippet_highlighted_words": [
+        "stomach flu"
+      ],
+      "source": "USA Today"
+    },
+    {
+      "position": 90,
+      "title": "Norovirus outbreak: Is there a stomach bug going around ...",
+      "link": "https://www.youtube.com/watch?v=vlxzs16U3lI",
+      "displayed_link": "44.3K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhviwUDg4QELaYY3rOtiojwS_K3AYN-0glJWLsczxBPZY&s",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fc61bc1950e16586ab17736b2d79d8af2.png",
+      "snippet": "What is the stomach bug going around right now? Norovirus 2025: Signs, symptoms and treatment. American Medical Association (AMA)",
+      "duration": "13:39",
+      "source": "YouTube · American Medical Association (AMA)"
+    },
+    {
+      "position": 91,
+      "title": "Respiratory syncytial virus (RSV) fact sheet - NSW Health",
+      "link": "https://www.health.nsw.gov.au/Infectious/factsheets/Pages/respiratory-syncytial-virus.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.nsw.gov.au/Infectious/factsheets/Pages/respiratory-syncytial-virus.aspx&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCK0BEAE",
+      "displayed_link": "https://www.health.nsw.gov.au › factsheets › Pages › re...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f6e6e1f7dc56049f2bb7f37a4c5a01d08.png",
+      "date": "Jan 17, 2025",
+      "snippet": "Symptoms usually begin around 2 to 8 days after exposure to the virus. ... go to hospital to help manage their symptoms. How do I protect my ...",
+      "snippet_highlighted_words": [
+        "Symptoms",
+        "around",
+        "virus",
+        "go",
+        "their symptoms"
+      ],
+      "source": "NSW Health"
+    },
+    {
+      "position": 92,
+      "title": "Respiratory Syncytial Virus (RSV): Everything You Need to ...",
+      "link": "https://www.webmd.com/lung/respiratory-syncytial-virus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/lung/respiratory-syncytial-virus&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCLIBEAE",
+      "displayed_link": "https://www.webmd.com › ... › Reference",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f6ed23decbc741c66ebb3c88e2916654f.png",
+      "date": "May 22, 2024",
+      "snippet": "Most people with RSV have mild symptoms that go away on their own in a week or two. ... Flu symptoms tend to pop up 1 to 4 days after you ...",
+      "snippet_highlighted_words": [
+        "symptoms",
+        "go",
+        "their",
+        "Flu symptoms"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 93,
+      "title": "Norovirus cases are surging. A doctor explains what to look ...",
+      "link": "https://www.cnn.com/2024/12/31/health/norovirus-cases-increase-wellness",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/2024/12/31/health/norovirus-cases-increase-wellness&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCLYBEAE",
+      "displayed_link": "https://www.cnn.com › norovirus-cases-increase-wellness",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f0dfa390b85c8de44fdd9f261d9e106bc.png",
+      "date": "Dec 31, 2024",
+      "snippet": "A common stomach bug is surging, according to new data from the US Centers for Disease Control and Prevention. In the week of December 5, ...",
+      "snippet_highlighted_words": [
+        "stomach bug"
+      ],
+      "source": "CNN"
+    },
+    {
+      "position": 94,
+      "title": "Covid-19",
+      "link": "https://en.wikipedia.org/wiki/COVID-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/COVID-19&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCLoBEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › COVID-19",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f37c892a41a23a1a441404f9b92f6abbb.png",
+      "snippet": "... flu, Middle East respiratory syndrome, and Zika virus. In January ... People with the COVID-19 infection may have different symptoms, and their symptoms may ...",
+      "snippet_highlighted_words": [
+        "flu",
+        "virus",
+        "symptoms",
+        "their symptoms"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 95,
+      "title": "Best foods to eat when you have a stomach 'bug'",
+      "link": "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/best-foods-to-eat-when-you-have-a-stomach-bug",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/best-foods-to-eat-when-you-have-a-stomach-bug&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCMcBEAE",
+      "displayed_link": "https://www.mayoclinichealthsystem.org › best-foods-to...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372ff96628eb8c891528ede7a0a9c58a765e.png",
+      "date": "Oct 20, 2023",
+      "snippet": "Viral gastroenteritis is an intestinal infection marked by watery diarrhea, abdominal cramps, nausea or vomiting, headache, muscle aches and ...",
+      "source": "Mayo Clinic Health System"
+    },
+    {
+      "position": 96,
+      "title": "It might not be hay fever. Which of the four spring viruses ...",
+      "link": "https://www.telegraph.co.uk/health-fitness/conditions/cold-flu/your-hay-fever-might-be-one-of-these-four-spring-viruses/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.telegraph.co.uk/health-fitness/conditions/cold-flu/your-hay-fever-might-be-one-of-these-four-spring-viruses/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCNUBEAE",
+      "displayed_link": "https://www.telegraph.co.uk › conditions › cold-flu › y...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fa53f1be778f840c374690358956fff2e.png",
+      "date": "Apr 9, 2025",
+      "snippet": "Despite the change in season, Covid hospitalisations are at the highest levels seen this year and colds, the flu and respiratory syncytial virus ...",
+      "snippet_highlighted_words": [
+        "flu",
+        "virus"
+      ],
+      "source": "The Telegraph"
+    },
+    {
+      "position": 97,
+      "title": "Why everyone has a gnarly stomach bug right now ... - Vox",
+      "link": "https://www.vox.com/even-better/393811/norovirus-surge-vomiting-diarrhea-stomach-bug",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vox.com/even-better/393811/norovirus-surge-vomiting-diarrhea-stomach-bug&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECD8QAQ",
+      "displayed_link": "https://www.vox.com › Life › Even Better",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372ff4df4c7fd42450bf129a7e687eda3245.png",
+      "date": "Jan 8, 2025",
+      "snippet": "That's probably related to the fact that immunity to the virus only lasts somewhere around a couple of years. Norovirus levels dropped during ...",
+      "snippet_highlighted_words": [
+        "virus",
+        "around"
+      ],
+      "source": "vox.com"
+    },
+    {
+      "position": 98,
+      "title": "Here Are the Viruses to Worry About Right Now",
+      "link": "https://time.com/6957615/norovirus-flu-2024/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://time.com/6957615/norovirus-flu-2024/&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoECD4QAQ",
+      "displayed_link": "https://time.com › Health › Disease",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fa02ee1930d56870b9083dfc9cb58d131.png",
+      "date": "Mar 19, 2024",
+      "snippet": "Norovirus, one type of influenza, and another respiratory virus are all increasing or have recently peaked in samples from the network's 190 wastewater ...",
+      "snippet_highlighted_words": [
+        "influenza",
+        "virus"
+      ],
+      "source": "Time Magazine"
+    },
+    {
+      "position": 99,
+      "title": "Norovirus, aka stomach flu, on the rise in the US",
+      "link": "https://www.aol.com/news/cdc-data-show-stomach-flu-203945772.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aol.com/news/cdc-data-show-stomach-flu-203945772.html&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCP0BEAE",
+      "displayed_link": "https://www.aol.com › news › cdc-data-show-stomach-f...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372f571240f677970877a98c725730fc2db9.png",
+      "snippet": "Norovirus, a highly contagious stomach bug that causes diarrhea and vomiting, is on the rise across the United States.",
+      "snippet_highlighted_words": [
+        "Norovirus",
+        "stomach bug",
+        "across"
+      ],
+      "source": "AOL.com"
+    },
+    {
+      "position": 100,
+      "title": "What's Going Around: Colds, allergies, stomach bug",
+      "link": "https://www.yahoo.com/lifestyle/going-around-colds-allergies-stomach-083000436.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yahoo.com/lifestyle/going-around-colds-allergies-stomach-083000436.html&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQFnoFCPwBEAE",
+      "displayed_link": "https://www.yahoo.com › lifestyle › going-around-cold...",
+      "favicon": "https://serpapi.com/searches/6881da5adb99eccebdbc1b7b/images/1a26a26678f4d38e86fe52500e24372fa66f97cc046533a1ea4136e7e8bb026f.png",
+      "date": "May 15, 2025",
+      "snippet": "UPMC Children's Community Pediatrics is seeing an increase in cases of croup, strep throat, allergies, a stomach bug and viral upper ...",
+      "snippet_highlighted_words": [
+        "stomach bug"
+      ],
+      "source": "Yahoo.co"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "What sickness is going around right now",
+      "link": "https://www.google.com/search?num=100&sca_esv=35e16478e05ded5f&hl=en&gl=us&q=What+sickness+is+going+around+right+now&sa=X&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQ1QJ6BQjXAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+sickness+is+going+around+right+now"
+    },
+    {
+      "block_position": 1,
+      "query": "What sickness is Going Around in my area",
+      "link": "https://www.google.com/search?num=100&sca_esv=35e16478e05ded5f&hl=en&gl=us&q=What+sickness+is+Going+Around+in+my+area&sa=X&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQ1QJ6BQjVAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+sickness+is+Going+Around+in+my+area"
+    },
+    {
+      "block_position": 1,
+      "query": "What viruses are going around right now in adults",
+      "link": "https://www.google.com/search?num=100&sca_esv=35e16478e05ded5f&hl=en&gl=us&q=What+viruses+are+going+around+right+now+in+adults&sa=X&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQ1QJ6BQjYAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+viruses+are+going+around+right+now+in+adults"
+    },
+    {
+      "block_position": 1,
+      "query": "What are the symptoms of the new virus going around",
+      "link": "https://www.google.com/search?num=100&sca_esv=35e16478e05ded5f&hl=en&gl=us&q=What+are+the+symptoms+of+the+new+virus+going+around&sa=X&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQ1QJ6BQjbAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+are+the+symptoms+of+the+new+virus+going+around"
+    },
+    {
+      "block_position": 1,
+      "query": "Is there a stomach bug going around right now",
+      "link": "https://www.google.com/search?num=100&sca_esv=35e16478e05ded5f&hl=en&gl=us&q=Is+there+a+stomach+bug+going+around+right+now&sa=X&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQ1QJ6BQjWAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Is+there+a+stomach+bug+going+around+right+now"
+    },
+    {
+      "block_position": 1,
+      "query": "what is the human virus going around?",
+      "link": "https://www.google.com/search?num=100&sca_esv=35e16478e05ded5f&hl=en&gl=us&q=what+is+the+human+virus+going+around%3F&sa=X&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQ1QJ6BQjRAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+is+the+human+virus+going+around%3F"
+    },
+    {
+      "block_position": 1,
+      "query": "What sickness is going around right now 2025",
+      "link": "https://www.google.com/search?num=100&sca_esv=35e16478e05ded5f&hl=en&gl=us&q=What+sickness+is+going+around+right+now+2025&sa=X&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQ1QJ6BQjSAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+sickness+is+going+around+right+now+2025"
+    },
+    {
+      "block_position": 1,
+      "query": "What are the symptoms of the virus going around",
+      "link": "https://www.google.com/search?num=100&sca_esv=35e16478e05ded5f&hl=en&gl=us&q=What+are+the+symptoms+of+the+virus+going+around&sa=X&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQ1QJ6BQjKAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+are+the+symptoms+of+the+virus+going+around"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=is+there+a+flu+bug+going+around&num=100&sca_esv=35e16478e05ded5f&hl=en&gl=us&ei=W9qBaInyFZiLkPIP1-2HyQ0&start=100&sa=N&sstk=Ac65TH5QFmDqk0ecRBsBWfKzeA-eNnrVlQe9MbTNzF5UN_KGeH_qwsU8R-e4APXs99BRBLjSiuHnV6j3lQEx1uLNZrj2MNKcG3QJxg&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQ8NMDegQIDBAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=is+there+a+flu+bug+going+around&num=100&sca_esv=35e16478e05ded5f&hl=en&gl=us&ei=W9qBaInyFZiLkPIP1-2HyQ0&start=100&sa=N&sstk=Ac65TH5QFmDqk0ecRBsBWfKzeA-eNnrVlQe9MbTNzF5UN_KGeH_qwsU8R-e4APXs99BRBLjSiuHnV6j3lQEx1uLNZrj2MNKcG3QJxg&ved=2ahUKEwjJi_Kw9tSOAxWYBUQIHdf2IdkQ8tMDegQIDBAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=is+there+a+flu+bug+going+around&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=is+there+a+flu+bug+going+around&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=is+there+a+flu+bug+going+around&start=100"
+    }
+  }
+}

@@ -1,0 +1,1596 @@
+{
+  "search_metadata": {
+    "id": "68814d4805bb59a330d6d0d7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6d2a19f75e3fec20/68814d4805bb59a330d6d0d7.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6d2a19f75e3fec20/68814d4805bb59a330d6d0d7.json_with_pixel_position",
+    "created_at": "2025-07-23 20:59:52 UTC",
+    "processed_at": "2025-07-23 20:59:52 UTC",
+    "google_url": "https://www.google.com/search?q=could+veganism+save+the+world&oq=could+veganism+save+the+world&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6d2a19f75e3fec20/68814d4805bb59a330d6d0d7.html",
+    "total_time_taken": 2.08
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "could veganism save the world",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "could veganism save the world",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Does being vegan help the earth?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2JWUk5VMnM1YzFSRmRHbG5iRkZmVlRsVGRETm5SVnBtYjNoWk1WZDJORmxYWW5BNWVtUkRTek42V25wTVlUSnRNWGRUWlY5T2IyVnFPWGt0VlZoMmJpMVFSbEJTWDJ4RlJVbzBOV1ZQYmxBeVNXWldRbE5tY1VrMlp4SVhVMVV5UW1GT1dGQkhTbTFmYUdKSlVIcExiV2xyVVhjYUlrRkdUVUZIUjNGSFlXRm1PVWhaZG1wU1YzaEdlVjl1TUhaVlFuRnpiMVJUY25jIiwiZmN2IjoiMyIsImVpIjoiU1UyQmFOWFBHSm1faGJJUHpLbWlrUXciLCJxYyI6IkNoMWpiM1ZzWkNCMlpXZGhibWx6YlNCellYWmxJSFJvWlNCM2IzSnNaQkFBZlY1UUt6OCIsInF1ZXN0aW9uIjoiRG9lcyBiZWluZyB2ZWdhbiBoZWxwIHRoZSBlYXJ0aD8iLCJsayI6IkdoOWtiMlZ6SUdKbGFXNW5JSFpsWjJGdUlHaGxiSEFnZEdobElHVmhjblJvIiwiYnMiOiJjNVdQc1E2Q01CUkY0OXJKa1RESWRYVlFnem96YUl5THMzTzFUOW9JTFFLbDZmZjRZWDZEZnlDZ2NYQXdjV3h5em4wOWJNZXdNVlRoU0VxbmFDamxHcEt5QXJVa0VDOXJtUVFQRTRfRFNQekcySlpGQi1raGxNQmVaZVN4OXFXdGNMV3FmZ250a0kwUmp0eWJ5bnZxOUVXeGdpMTN4aUczSjRtTWF3Rm5iQ2JheTZoNFF3THFER3FvOUVZVEhPblAtTzBhcjhLRl9GOWxaemJyZjI1ZTc2cU5VdnJTcFhud3NwZTc2aTYxYUdlcFRvTDdKSjZIVV9lWE5SdzhBUSIsImlkIjoiZmNfU1UyQmFOWFBHSm1faGJJUHpLbWlrUXdfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2JWUk5VMnM1YzFSRmRHbG5iRkZmVlRsVGRETm5SVnBtYjNoWk1WZDJORmxYWW5BNWVtUkRTek42V25wTVlUSnRNWGRUWlY5T2IyVnFPWGt0VlZoMmJpMVFSbEJTWDJ4RlJVbzBOV1ZQYmxBeVNXWldRbE5tY1VrMlp4SVhVMVV5UW1GT1dGQkhTbTFmYUdKSlVIcExiV2xyVVhjYUlrRkdUVUZIUjNGSFlXRm1PVWhaZG1wU1YzaEdlVjl1TUhaVlFuRnpiMVJUY25jIiwiZmN2IjoiMyIsImVpIjoiU1UyQmFOWFBHSm1faGJJUHpLbWlrUXciLCJxYyI6IkNoMWpiM1ZzWkNCMlpXZGhibWx6YlNCellYWmxJSFJvWlNCM2IzSnNaQkFBZlY1UUt6OCIsInF1ZXN0aW9uIjoiRG9lcyBiZWluZyB2ZWdhbiBoZWxwIHRoZSBlYXJ0aD8iLCJsayI6IkdoOWtiMlZ6SUdKbGFXNW5JSFpsWjJGdUlHaGxiSEFnZEdobElHVmhjblJvIiwiYnMiOiJjNVdQc1E2Q01CUkY0OXJKa1RESWRYVlFnem96YUl5THMzTzFUOW9JTFFLbDZmZjRZWDZEZnlDZ2NYQXdjV3h5em4wOWJNZXdNVlRoU0VxbmFDamxHcEt5QXJVa0VDOXJtUVFQRTRfRFNQekcySlpGQi1raGxNQmVaZVN4OXFXdGNMV3FmZ250a0kwUmp0eWJ5bnZxOUVXeGdpMTN4aUczSjRtTWF3Rm5iQ2JheTZoNFF3THFER3FvOUVZVEhPblAtTzBhcjhLRl9GOWxaemJyZjI1ZTc2cU5VdnJTcFhud3NwZTc2aTYxYUdlcFRvTDdKSjZIVV9lWE5SdzhBUSIsImlkIjoiZmNfU1UyQmFOWFBHSm1faGJJUHpLbWlrUXdfMSJ9"
+    },
+    {
+      "question": "Why did Miley Cyrus quit vegan?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2JWUk5VMnM1YzFSRmRHbG5iRkZmVlRsVGRETm5SVnBtYjNoWk1WZDJORmxYWW5BNWVtUkRTek42V25wTVlUSnRNWGRUWlY5T2IyVnFPWGt0VlZoMmJpMVFSbEJTWDJ4RlJVbzBOV1ZQYmxBeVNXWldRbE5tY1VrMlp4SVhVMVV5UW1GT1dGQkhTbTFmYUdKSlVIcExiV2xyVVhjYUlrRkdUVUZIUjNGSFlXRm1PVWhaZG1wU1YzaEdlVjl1TUhaVlFuRnpiMVJUY25jIiwiZmN2IjoiMyIsImVpIjoiU1UyQmFOWFBHSm1faGJJUHpLbWlrUXciLCJxYyI6IkNoMWpiM1ZzWkNCMlpXZGhibWx6YlNCellYWmxJSFJvWlNCM2IzSnNaQkFBZlY1UUt6OCIsInF1ZXN0aW9uIjoiV2h5IGRpZCBNaWxleSBDeXJ1cyBxdWl0IHZlZ2FuPyIsImxrIjoiR2g1M2FIa2daR2xrSUcxcGJHVjVJR041Y25WeklIRjFhWFFnZG1WbllXNCIsImJzIjoiYzVXUHNRNkNNQlJGNDlySmtURElkWFZRZ3pvemFJeUxzM08xVDlvSUxRS2w2ZmY0WVg2RGZ5Q2djWEF3Y1d4eXpuMDliTWV3TVZUaFNFcW5hQ2psR3BLeUFyVWtFQzlybVFRUEU0X0RTUHpHMkpaRkIta2hsTUJlWmVTeDlxV3RjTFdxZmdudGtJMFJqdHlieW52cTlFV3hnaTEzeGlHM0o0bU1hd0ZuYkNiYXk2aDRRd0xxREdxbzlFWVRIT25QLU8wYXI4S0ZfRjlsWnpicmYyNWU3NnFOVXZyU3BYbndzcGU3Nmk2MWFHZXBUb0w3Sko2SFVfZVhOUnc4QVEiLCJpZCI6ImZjX1NVMkJhTlhQR0ptX2hiSVB6S21pa1F3XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2JWUk5VMnM1YzFSRmRHbG5iRkZmVlRsVGRETm5SVnBtYjNoWk1WZDJORmxYWW5BNWVtUkRTek42V25wTVlUSnRNWGRUWlY5T2IyVnFPWGt0VlZoMmJpMVFSbEJTWDJ4RlJVbzBOV1ZQYmxBeVNXWldRbE5tY1VrMlp4SVhVMVV5UW1GT1dGQkhTbTFmYUdKSlVIcExiV2xyVVhjYUlrRkdUVUZIUjNGSFlXRm1PVWhaZG1wU1YzaEdlVjl1TUhaVlFuRnpiMVJUY25jIiwiZmN2IjoiMyIsImVpIjoiU1UyQmFOWFBHSm1faGJJUHpLbWlrUXciLCJxYyI6IkNoMWpiM1ZzWkNCMlpXZGhibWx6YlNCellYWmxJSFJvWlNCM2IzSnNaQkFBZlY1UUt6OCIsInF1ZXN0aW9uIjoiV2h5IGRpZCBNaWxleSBDeXJ1cyBxdWl0IHZlZ2FuPyIsImxrIjoiR2g1M2FIa2daR2xrSUcxcGJHVjVJR041Y25WeklIRjFhWFFnZG1WbllXNCIsImJzIjoiYzVXUHNRNkNNQlJGNDlySmtURElkWFZRZ3pvemFJeUxzM08xVDlvSUxRS2w2ZmY0WVg2RGZ5Q2djWEF3Y1d4eXpuMDliTWV3TVZUaFNFcW5hQ2psR3BLeUFyVWtFQzlybVFRUEU0X0RTUHpHMkpaRkIta2hsTUJlWmVTeDlxV3RjTFdxZmdudGtJMFJqdHlieW52cTlFV3hnaTEzeGlHM0o0bU1hd0ZuYkNiYXk2aDRRd0xxREdxbzlFWVRIT25QLU8wYXI4S0ZfRjlsWnpicmYyNWU3NnFOVXZyU3BYbndzcGU3Nmk2MWFHZXBUb0w3Sko2SFVfZVhOUnc4QVEiLCJpZCI6ImZjX1NVMkJhTlhQR0ptX2hiSVB6S21pa1F3XzEifQ%3D%3D"
+    },
+    {
+      "question": "How much land would be saved if everyone went vegan?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2JWUk5VMnM1YzFSRmRHbG5iRkZmVlRsVGRETm5SVnBtYjNoWk1WZDJORmxYWW5BNWVtUkRTek42V25wTVlUSnRNWGRUWlY5T2IyVnFPWGt0VlZoMmJpMVFSbEJTWDJ4RlJVbzBOV1ZQYmxBeVNXWldRbE5tY1VrMlp4SVhVMVV5UW1GT1dGQkhTbTFmYUdKSlVIcExiV2xyVVhjYUlrRkdUVUZIUjNGSFlXRm1PVWhaZG1wU1YzaEdlVjl1TUhaVlFuRnpiMVJUY25jIiwiZmN2IjoiMyIsImVpIjoiU1UyQmFOWFBHSm1faGJJUHpLbWlrUXciLCJxYyI6IkNoMWpiM1ZzWkNCMlpXZGhibWx6YlNCellYWmxJSFJvWlNCM2IzSnNaQkFBZlY1UUt6OCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggbGFuZCB3b3VsZCBiZSBzYXZlZCBpZiBldmVyeW9uZSB3ZW50IHZlZ2FuPyIsImxrIjoiR2pOb2IzY2diWFZqYUNCc1lXNWtJSGR2ZFd4a0lHSmxJSE5oZG1Wa0lHbG1JR1YyWlhKNWIyNWxJSGRsYm5RZ2RtVm5ZVzQiLCJicyI6ImM1V1BzUTZDTUJSRjQ5ckprVERJZFhWUWd6b3phSXlMczNPMVQ5b0lMUUtsNmZmNFlYNkRmeUNnY1hBd2NXeHl6bjA5Yk1ld01WVGhTRXFuYUNqbEdwS3lBclVrRUM5cm1RUVBFNF9EU1B6RzJKWkZCLWtobE1CZVplU3g5cVd0Y0xXcWZnbnRrSTBSanR5YnludnE5RVd4Z2kxM3hpRzNKNG1NYXdGbmJDYmF5Nmg0UXdMcURHcW85RVlUSE9uUC1PMGFyOEtGX0Y5bFp6YnJmMjVlNzZxTlV2clNwWG53c3BlNzZpNjFhR2VwVG9MN0pKNkhVX2VYTlJ3OEFRIiwiaWQiOiJmY19TVTJCYU5YUEdKbV9oYklQekttaWtRd18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2JWUk5VMnM1YzFSRmRHbG5iRkZmVlRsVGRETm5SVnBtYjNoWk1WZDJORmxYWW5BNWVtUkRTek42V25wTVlUSnRNWGRUWlY5T2IyVnFPWGt0VlZoMmJpMVFSbEJTWDJ4RlJVbzBOV1ZQYmxBeVNXWldRbE5tY1VrMlp4SVhVMVV5UW1GT1dGQkhTbTFmYUdKSlVIcExiV2xyVVhjYUlrRkdUVUZIUjNGSFlXRm1PVWhaZG1wU1YzaEdlVjl1TUhaVlFuRnpiMVJUY25jIiwiZmN2IjoiMyIsImVpIjoiU1UyQmFOWFBHSm1faGJJUHpLbWlrUXciLCJxYyI6IkNoMWpiM1ZzWkNCMlpXZGhibWx6YlNCellYWmxJSFJvWlNCM2IzSnNaQkFBZlY1UUt6OCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggbGFuZCB3b3VsZCBiZSBzYXZlZCBpZiBldmVyeW9uZSB3ZW50IHZlZ2FuPyIsImxrIjoiR2pOb2IzY2diWFZqYUNCc1lXNWtJSGR2ZFd4a0lHSmxJSE5oZG1Wa0lHbG1JR1YyWlhKNWIyNWxJSGRsYm5RZ2RtVm5ZVzQiLCJicyI6ImM1V1BzUTZDTUJSRjQ5ckprVERJZFhWUWd6b3phSXlMczNPMVQ5b0lMUUtsNmZmNFlYNkRmeUNnY1hBd2NXeHl6bjA5Yk1ld01WVGhTRXFuYUNqbEdwS3lBclVrRUM5cm1RUVBFNF9EU1B6RzJKWkZCLWtobE1CZVplU3g5cVd0Y0xXcWZnbnRrSTBSanR5YnludnE5RVd4Z2kxM3hpRzNKNG1NYXdGbmJDYmF5Nmg0UXdMcURHcW85RVlUSE9uUC1PMGFyOEtGX0Y5bFp6YnJmMjVlNzZxTlV2clNwWG53c3BlNzZpNjFhR2VwVG9MN0pKNkhVX2VYTlJ3OEFRIiwiaWQiOiJmY19TVTJCYU5YUEdKbV9oYklQekttaWtRd18xIn0%3D"
+    },
+    {
+      "question": "Why do vegans think they are saving the planet?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2JWUk5VMnM1YzFSRmRHbG5iRkZmVlRsVGRETm5SVnBtYjNoWk1WZDJORmxYWW5BNWVtUkRTek42V25wTVlUSnRNWGRUWlY5T2IyVnFPWGt0VlZoMmJpMVFSbEJTWDJ4RlJVbzBOV1ZQYmxBeVNXWldRbE5tY1VrMlp4SVhVMVV5UW1GT1dGQkhTbTFmYUdKSlVIcExiV2xyVVhjYUlrRkdUVUZIUjNGSFlXRm1PVWhaZG1wU1YzaEdlVjl1TUhaVlFuRnpiMVJUY25jIiwiZmN2IjoiMyIsImVpIjoiU1UyQmFOWFBHSm1faGJJUHpLbWlrUXciLCJxYyI6IkNoMWpiM1ZzWkNCMlpXZGhibWx6YlNCellYWmxJSFJvWlNCM2IzSnNaQkFBZlY1UUt6OCIsInF1ZXN0aW9uIjoiV2h5IGRvIHZlZ2FucyB0aGluayB0aGV5IGFyZSBzYXZpbmcgdGhlIHBsYW5ldD8iLCJsayI6ImM1UFNLOC1vVkVqSlZ5aExUVV9NSzFZb3ljak15d2FTcVpVS2lVV3BDc1dKWlpsNTZTQy1Ra0ZPWWw1cUNRQSIsImJzIjoiYzVXUHNRNkNNQlJGNDlySmtURElkWFZRZ3pvemFJeUxzM08xVDlvSUxRS2w2ZmY0WVg2RGZ5Q2djWEF3Y1d4eXpuMDliTWV3TVZUaFNFcW5hQ2psR3BLeUFyVWtFQzlybVFRUEU0X0RTUHpHMkpaRkIta2hsTUJlWmVTeDlxV3RjTFdxZmdudGtJMFJqdHlieW52cTlFV3hnaTEzeGlHM0o0bU1hd0ZuYkNiYXk2aDRRd0xxREdxbzlFWVRIT25QLU8wYXI4S0ZfRjlsWnpicmYyNWU3NnFOVXZyU3BYbndzcGU3Nmk2MWFHZXBUb0w3Sko2SFVfZVhOUnc4QVEiLCJpZCI6ImZjX1NVMkJhTlhQR0ptX2hiSVB6S21pa1F3XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2JWUk5VMnM1YzFSRmRHbG5iRkZmVlRsVGRETm5SVnBtYjNoWk1WZDJORmxYWW5BNWVtUkRTek42V25wTVlUSnRNWGRUWlY5T2IyVnFPWGt0VlZoMmJpMVFSbEJTWDJ4RlJVbzBOV1ZQYmxBeVNXWldRbE5tY1VrMlp4SVhVMVV5UW1GT1dGQkhTbTFmYUdKSlVIcExiV2xyVVhjYUlrRkdUVUZIUjNGSFlXRm1PVWhaZG1wU1YzaEdlVjl1TUhaVlFuRnpiMVJUY25jIiwiZmN2IjoiMyIsImVpIjoiU1UyQmFOWFBHSm1faGJJUHpLbWlrUXciLCJxYyI6IkNoMWpiM1ZzWkNCMlpXZGhibWx6YlNCellYWmxJSFJvWlNCM2IzSnNaQkFBZlY1UUt6OCIsInF1ZXN0aW9uIjoiV2h5IGRvIHZlZ2FucyB0aGluayB0aGV5IGFyZSBzYXZpbmcgdGhlIHBsYW5ldD8iLCJsayI6ImM1UFNLOC1vVkVqSlZ5aExUVV9NSzFZb3ljak15d2FTcVpVS2lVV3BDc1dKWlpsNTZTQy1Ra0ZPWWw1cUNRQSIsImJzIjoiYzVXUHNRNkNNQlJGNDlySmtURElkWFZRZ3pvemFJeUxzM08xVDlvSUxRS2w2ZmY0WVg2RGZ5Q2djWEF3Y1d4eXpuMDliTWV3TVZUaFNFcW5hQ2psR3BLeUFyVWtFQzlybVFRUEU0X0RTUHpHMkpaRkIta2hsTUJlWmVTeDlxV3RjTFdxZmdudGtJMFJqdHlieW52cTlFV3hnaTEzeGlHM0o0bU1hd0ZuYkNiYXk2aDRRd0xxREdxbzlFWVRIT25QLU8wYXI4S0ZfRjlsWnpicmYyNWU3NnFOVXZyU3BYbndzcGU3Nmk2MWFHZXBUb0w3Sko2SFVfZVhOUnc4QVEiLCJpZCI6ImZjX1NVMkJhTlhQR0ptX2hiSVB6S21pa1F3XzEifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "TmMuDXicxZTbcqpIFIZv50WGm-wo5oiponatbohpD9EWjSY3FCJpEBClRYJ3-xnmFeap5mmmOcRotqnaUzNVA2XTp7X677U-148_A2_p__XbH-5ms-J39XqapjUWRSxwanYU1i2eLe36axTw2Ha_s0BNuOQGqrOUsq16KdlclSXHU43xBbIep4NWOzTdGRnsOqHn01QqzFVzZnFnIby_LXjdrIvG__1SE4MarznL2sx5SW-yB6LcPtcu5IZS69etUGyAf_mwE3NI_DoYgB5v1E_ZU1K04B9NvjtiuQ0BFyIAzI4ciEP0d880BNNMtIMDqyWc9_CHEQacYmAtArrOPgn8GNHKtLwd_nzFo3Gxt78_7Yvn_tCmA0gDLa1GpS3JHTHcG2t7FZiCoi1g-GaMT_psU72XoSZwjE6uI_DWuL2hz0JXfc5EruX6LBafRj3meebxqClH920TRjp53k3aeOVd2_fa-SZYu9G0-wbfCqZsvoeKH0L1cv5i2BPIrg271q2hxp4olAfCKDOAWKEEAyIw_DI8ZQiqGLGDFg4ymb_Ijqq40a0Y-9UyGUQIxYyww4T6VRSEp1bRET3SBb2Ilgte7nOce0Uo38tyEPWcMUQQ6RXn94D2SpyLFAE46BxS0SPlxQAey6yXRIkE7jWTdxlRoTZvxH9tCguxxYugi2QbKCovh_OPjnB10Y6w7xNUHEwBCzMFKFVKP5RB_lJ0GKUOPIPQNSlHLciBETMwOSaqUHMalqMn-nJFkPQzQq2R_Eb9y97sqjXE9mSxnXu3eBx3msMmrRCKwtk_KEz2_wNZ7qGDMQwPIWOnITsuWxVk9B0ylkOWl611Xj6OIEN7yFxiF2VrcACZvodMJ_gDsqOyxTB911yJ-DXIcql7yOgBZPhLyMqytYfsRYNdWkHWryCjnyH7b8tWwZpTfo5rWLJgP9WyrusF0wln00vLTc8nrzTs6EQL2qQtatlruLlbxRH7ZnrzO3TR3mRzaa3aURLMz7YOs5YeD8-4tXXONq5zlkZxMJfCII5U2bq-TxPeaMe-OV3dwK7p2KvlZmYsXft1SxKvk_TikczoUumaxtBIIpSN9WS26u0Sc0mePOPpvD9s4qdM6-4eHNm0Fr7RNNbB83owbY0bltw1FzvXZwMSu_wmmxpD2lcypKVxyxRIjqzd44oZjZk8NS48a8TTQhdXH5vmQOs1k8sHKoXWnDtqQwpjWxU5vvLhUeRR4rZlOnyrXl3LitK4tua3N4pszxQpZJtspV40_wb8MISl",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TmMuDXicxZTbcqpIFIZv50WGm-wo5oiponatbohpD9EWjSY3FCJpEBClRYJ3-xnmFeap5mmmOcRotqnaUzNVA2XTp7X677U-148_A2_p__XbH-5ms-J39XqapjUWRSxwanYU1i2eLe36axTw2Ha_s0BNuOQGqrOUsq16KdlclSXHU43xBbIep4NWOzTdGRnsOqHn01QqzFVzZnFnIby_LXjdrIvG__1SE4MarznL2sx5SW-yB6LcPtcu5IZS69etUGyAf_mwE3NI_DoYgB5v1E_ZU1K04B9NvjtiuQ0BFyIAzI4ciEP0d880BNNMtIMDqyWc9_CHEQacYmAtArrOPgn8GNHKtLwd_nzFo3Gxt78_7Yvn_tCmA0gDLa1GpS3JHTHcG2t7FZiCoi1g-GaMT_psU72XoSZwjE6uI_DWuL2hz0JXfc5EruX6LBafRj3meebxqClH920TRjp53k3aeOVd2_fa-SZYu9G0-wbfCqZsvoeKH0L1cv5i2BPIrg271q2hxp4olAfCKDOAWKEEAyIw_DI8ZQiqGLGDFg4ymb_Ijqq40a0Y-9UyGUQIxYyww4T6VRSEp1bRET3SBb2Ilgte7nOce0Uo38tyEPWcMUQQ6RXn94D2SpyLFAE46BxS0SPlxQAey6yXRIkE7jWTdxlRoTZvxH9tCguxxYugi2QbKCovh_OPjnB10Y6w7xNUHEwBCzMFKFVKP5RB_lJ0GKUOPIPQNSlHLciBETMwOSaqUHMalqMn-nJFkPQzQq2R_Eb9y97sqjXE9mSxnXu3eBx3msMmrRCKwtk_KEz2_wNZ7qGDMQwPIWOnITsuWxVk9B0ylkOWl611Xj6OIEN7yFxiF2VrcACZvodMJ_gDsqOyxTB911yJ-DXIcql7yOgBZPhLyMqytYfsRYNdWkHWryCjnyH7b8tWwZpTfo5rWLJgP9WyrusF0wln00vLTc8nrzTs6EQL2qQtatlruLlbxRH7ZnrzO3TR3mRzaa3aURLMz7YOs5YeD8-4tXXONq5zlkZxMJfCII5U2bq-TxPeaMe-OV3dwK7p2KvlZmYsXft1SxKvk_TikczoUumaxtBIIpSN9WS26u0Sc0mePOPpvD9s4qdM6-4eHNm0Fr7RNNbB83owbY0bltw1FzvXZwMSu_wmmxpD2lcypKVxyxRIjqzd44oZjZk8NS48a8TTQhdXH5vmQOs1k8sHKoXWnDtqQwpjWxU5vvLhUeRR4rZlOnyrXl3LitK4tua3N4pszxQpZJtspV40_wb8MISl"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Veganism may not save the planet: Study suggests limited ...",
+      "link": "https://phys.org/news/2023-02-veganism-planet-limited-meat-consumption.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://phys.org/news/2023-02-veganism-planet-limited-meat-consumption.html&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECBcQAQ",
+      "displayed_link": "https://phys.org › Biology › Ecology",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2931829f39779a491587cb1a8ad4001768.png",
+      "date": "Feb 15, 2023",
+      "snippet": "Veganism may not save the planet: Study suggests limited meat consumption better for environment, animals.",
+      "snippet_highlighted_words": [
+        "Veganism may not save the planet"
+      ],
+      "source": "Phys.org"
+    },
+    {
+      "position": 2,
+      "title": "14 Environmental Benefits of Veganism",
+      "link": "https://thehumaneleague.org/article/environmental-benefits-of-veganism",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thehumaneleague.org/article/environmental-benefits-of-veganism&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECBkQAQ",
+      "displayed_link": "https://thehumaneleague.org › article › environmental-be...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29eb57eae2ce5fc5ec7359555a4999d51f.png",
+      "date": "Nov 4, 2021",
+      "snippet": "As we've previously explored, going vegan stops the deforestation, soil degradation, and greenhouse gas emissions associated with meat ...",
+      "snippet_highlighted_words": [
+        "vegan"
+      ],
+      "source": "The Humane League"
+    },
+    {
+      "position": 3,
+      "title": "What would happen if everyone went vegan?",
+      "link": "https://www.bbcgoodfood.com/health/special-diets/what-would-world-look-if-everyone-went-vegan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbcgoodfood.com/health/special-diets/what-would-world-look-if-everyone-went-vegan&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECDAQAQ",
+      "displayed_link": "https://www.bbcgoodfood.com › Health › Special diets",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2908db14c9bfda0792e937bd7c83a3706a.png",
+      "date": "Dec 19, 2024",
+      "snippet": "A 2018 study by University of Oxford even concluded that switching to a plant-based diet could save up to eight million lives worldwide. ...",
+      "snippet_highlighted_words": [
+        "switching to a plant-based diet could save up to eight million lives worldwide"
+      ],
+      "source": "Good Food"
+    },
+    {
+      "position": 4,
+      "title": "Save the Planet, Put Down that Hamburger",
+      "link": "https://www.nytimes.com/2023/07/21/climate/diet-vegan-meat-emissions.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/2023/07/21/climate/diet-vegan-meat-emissions.html&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCNoBEAE",
+      "displayed_link": "https://www.nytimes.com › diet-vegan-meat-emissions",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f294bf8da9f182d37342463557ad913d71d.png",
+      "date": "Jul 22, 2023",
+      "snippet": "Researchers examined the diets of 55,500 people and found that vegans are responsible for 75 percent less in greenhouse gases than meat-eaters.",
+      "snippet_highlighted_words": [
+        "vegans are responsible for 75 percent less in greenhouse gases"
+      ],
+      "source": "The New York Times"
+    },
+    {
+      "position": 5,
+      "title": "How Veganism May Save The Planet! : r/solarpunk",
+      "link": "https://www.reddit.com/r/solarpunk/comments/1dm7tea/how_veganism_may_save_the_planet/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/solarpunk/comments/1dm7tea/how_veganism_may_save_the_planet/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECEQQAQ",
+      "displayed_link": "140+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f292993e9c060b433dcc455e39fc4380a8f.png",
+      "snippet": "No amount of plant eating will stop fossil fuels. No amount of veganism will stop or even slow down deforestation. It won't even help with ...",
+      "snippet_highlighted_words": [
+        "amount"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Veganism is bad for the environment? : r ...",
+            "link": "https://www.reddit.com/r/sustainability/comments/11c1fmf/veganism_is_bad_for_the_environment/",
+            "answer_count": 121,
+            "date": "Feb 26, 2023"
+          },
+          {
+            "title": "Could widespread veganism be disastrous for the ...",
+            "link": "https://www.reddit.com/r/EffectiveAltruism/comments/1gnvs0n/could_widespread_veganism_be_disastrous_for_the/",
+            "answer_count": 27,
+            "date": "Nov 10, 2024"
+          }
+        ]
+      },
+      "source": "Reddit · r/solarpunk"
+    },
+    {
+      "position": 6,
+      "title": "How Veganism Can Help Ease the World's Land Use Crisis",
+      "link": "https://earth.org/veganism-land-use/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://earth.org/veganism-land-use/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCIcBEAE",
+      "displayed_link": "https://earth.org › veganism-land-use",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29b95a8fd92777c928e40ab5376da04f57.png",
+      "date": "Jan 6, 2024",
+      "snippet": "The good news is that veganism could quite literally save the Earth, by freeing up space for nature and combating the planet's land use crisis.",
+      "snippet_highlighted_words": [
+        "veganism could quite literally save the Earth"
+      ],
+      "source": "Earth.Org"
+    },
+    {
+      "position": 7,
+      "title": "Must we all turn vegan to save the planet?",
+      "link": "https://www.zurich.com/media/magazine/2021/must-we-all-turn-vegan-to-save-the-planet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zurich.com/media/magazine/2021/must-we-all-turn-vegan-to-save-the-planet&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCPIBEAE",
+      "displayed_link": "https://www.zurich.com › News and media › Magazine",
+      "date": "Jan 7, 2022",
+      "snippet": "“Changing your diet to avoid animal products reduces your emissions for a typical global consumer by 28 percent, land use by 75% and water ...",
+      "source": "Zurich Insurance Group"
+    },
+    {
+      "position": 8,
+      "title": "Could going vegan help reduce greenhouse gas emissions?",
+      "link": "https://sustainability.stanford.edu/news/could-going-vegan-help-reduce-greenhouse-gas-emissions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sustainability.stanford.edu/news/could-going-vegan-help-reduce-greenhouse-gas-emissions&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCI4CEAE",
+      "displayed_link": "https://sustainability.stanford.edu › news › could-going-...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2922739aea87715418ecc1478ee622326e.png",
+      "date": "Feb 2, 2022",
+      "snippet": "Phasing out animal agriculture over the next 15 years would have the same effect as a 68 percent reduction of carbon dioxide emissions through the year 2100.",
+      "snippet_highlighted_words": [
+        "would"
+      ],
+      "source": "Stanford Doerr School of Sustainability"
+    },
+    {
+      "position": 9,
+      "title": "Will the planet be saved if I become a vegan?",
+      "link": "https://www.quora.com/Will-the-planet-be-saved-if-I-become-a-vegan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Will-the-planet-be-saved-if-I-become-a-vegan&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECDQQAQ",
+      "displayed_link": "10+ answers · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f292023ac8717fc516ccbc85fe4cbb17ad0.png",
+      "snippet": "No. The opposite is true. There is a kind of agriculture called regenerative agriculture that can reverse damage to the environment. It involves ...",
+      "snippet_highlighted_words": [
+        "No"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 10,
+      "title": "Why Going Vegan Could Help Save the Planet",
+      "link": "https://cure100.org/2024/02/05/why-going-vegan-could-help-save-the-planet/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cure100.org/2024/02/05/why-going-vegan-could-help-save-the-planet/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECGkQAQ",
+      "displayed_link": "https://cure100.org › 2024 › February › 5",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29337eb103723bf585696d83cd59c7ca95.png",
+      "date": "Feb 5, 2024",
+      "snippet": "If you find the evidence convincing – that a vegan diet could reduce your carbon emissions due to food by 75%, and that animal agriculture is ...",
+      "snippet_highlighted_words": [
+        "a vegan diet could reduce your carbon emissions due to food by 75"
+      ],
+      "source": "Cure100"
+    },
+    {
+      "position": 11,
+      "title": "Vegan diet massively cuts environmental damage, study ...",
+      "link": "https://www.theguardian.com/environment/2023/jul/20/vegan-diet-cuts-environmental-damage-climate-heating-emissions-study",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/environment/2023/jul/20/vegan-diet-cuts-environmental-damage-climate-heating-emissions-study&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCIQBEAE",
+      "displayed_link": "https://www.theguardian.com › environment › jul › veg...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29c3012072a1e0b0772b8a257976dfcd2f.png",
+      "date": "Jul 20, 2023",
+      "snippet": "The research showed that vegan diets resulted in 75% less climate-heating emissions, water pollution and land use than diets in which more than 100g of meat a ...",
+      "snippet_highlighted_words": [
+        "vegan diets resulted in 75% less climate-heating emissions, water pollution and land use"
+      ],
+      "source": "The Guardian"
+    },
+    {
+      "position": 12,
+      "title": "Veganism could save the world, new study argues",
+      "link": "https://www.science.org/content/article/veganism-could-save-world-new-study-argues",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.science.org/content/article/veganism-could-save-world-new-study-argues&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCLsBEAE",
+      "displayed_link": "https://www.science.org › content › article › veganism-...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29fac1c6698ee9a4577f70d6d86ddf9f4d.png",
+      "date": "Apr 19, 2016",
+      "snippet": "Veganism could save the world, new study argues · Cutting out meat could help fill bellies while saving forests · About the author. Patrick ...",
+      "snippet_highlighted_words": [
+        "Veganism could save the world"
+      ],
+      "source": "Science | AAAS"
+    },
+    {
+      "position": 13,
+      "title": "A Vegan Diet: Eating for the Environment",
+      "link": "https://www.pcrm.org/good-nutrition/vegan-diet-environment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcrm.org/good-nutrition/vegan-diet-environment&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCPcBEAE",
+      "displayed_link": "https://www.pcrm.org › good-nutrition › vegan-diet-en...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2904623699f9f60ba053994f4927d68d64.jpeg",
+      "snippet": "A global shift to a plant-based diet could reduce mortality and greenhouse gases caused by food production by 10% and 70%, respectively, by 2050.",
+      "source": "Physicians Committee for Responsible Medicine"
+    },
+    {
+      "position": 14,
+      "title": "How could veganism change the world?",
+      "link": "https://www.youtube.com/watch?v=hwoL6hWd4l0",
+      "displayed_link": "942K+ views · 6 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIZdEhDaL_wEknc--4tcdFla3daEOphh_CpaR-pKMZYAHeuAqj0qQQZieQNi8F&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2995161cb8624203730e148e1e6274296a.png",
+      "snippet": "A major study has put the diet to the test analyzing an imagined scenario in which the world goes vegan by 2050.",
+      "duration": "6:30",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTAEiy3ar7Kq4d-asgo0RaYeIiIqL82ZuIeTA",
+      "source": "YouTube · The Economist"
+    },
+    {
+      "position": 15,
+      "title": "Meat out to help out: can veganism save the planet?",
+      "link": "https://www.theactuary.com/2024/03/04/meat-out-help-out-can-veganism-save-planet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theactuary.com/2024/03/04/meat-out-help-out-can-veganism-save-planet&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCI0CEAE",
+      "displayed_link": "https://www.theactuary.com › 2024/03/04 › meat-out-hel...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29e8b7e560b3e8dcbf8210e316a524e82d.png",
+      "date": "Mar 7, 2024",
+      "snippet": "There is evidence to suggest that plant-based diets can mitigate the effects of climate change, so we might expect the number of people adopting ...",
+      "snippet_highlighted_words": [
+        "plant-based diets can mitigate the effects of climate change"
+      ],
+      "source": "The Actuary"
+    },
+    {
+      "position": 16,
+      "title": "Going vegan for the environment - Animal Aid",
+      "link": "https://www.animalaid.org.uk/veganism/why-veganism/going-vegan-environment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.animalaid.org.uk/veganism/why-veganism/going-vegan-environment/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCK8CEAE",
+      "displayed_link": "https://www.animalaid.org.uk › ... › Why Veganism?",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29772560f15070e2496a21d72add5c3d0b.png",
+      "snippet": "Research shows that the carbon footprint of a vegan diet can be as much as 60% smaller than a meat-based one, and 24% smaller than a vegetarian diet.",
+      "snippet_highlighted_words": [
+        "vegan",
+        "can"
+      ],
+      "missing": [
+        "could"
+      ],
+      "must_include": {
+        "word": "could",
+        "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=%22could%22+veganism+save+the+world&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ5t4CegUIwQIQAQ"
+      },
+      "source": "animalaid.org.uk"
+    },
+    {
+      "position": 17,
+      "title": "Sorry, Veganism Won't Save the Planet",
+      "link": "https://insertphilosophyhere.com/sorry-veganism-wont-save-the-planet/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://insertphilosophyhere.com/sorry-veganism-wont-save-the-planet/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECDEQAQ",
+      "displayed_link": "https://insertphilosophyhere.com › sorry-veganism-won...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f295362126442f7d96b608f29351532b9d6.png",
+      "snippet": "Veganism won't save the planet because it attacks the wrong targets, focusing on meat while the real issue is the socio-economic system and factory farming.",
+      "snippet_highlighted_words": [
+        "Veganism won't save the planet"
+      ],
+      "missing": [
+        "could"
+      ],
+      "must_include": {
+        "word": "could",
+        "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=%22could%22+veganism+save+the+world&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ5t4CegQIRRAB"
+      },
+      "source": "Insert Philosophy Here"
+    },
+    {
+      "position": 18,
+      "title": "Would Veganism End World Hunger? What About Food Waste?",
+      "link": "https://sentientmedia.org/could-veganism-end-world-hunger/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sentientmedia.org/could-veganism-end-world-hunger/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECEoQAQ",
+      "displayed_link": "https://sentientmedia.org › Diet",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29af8291f69351b8fc82497f9f7af5286e.png",
+      "date": "Sep 23, 2022",
+      "snippet": "Though veganism alone cannot end world hunger, wider adoption of plant-based diets would be a big step in the right direction. Plant-based diets ...",
+      "snippet_highlighted_words": [
+        "veganism alone cannot end world hunger"
+      ],
+      "source": "sentientmedia.org"
+    },
+    {
+      "position": 19,
+      "title": "Video: Do you have to go vegan to save the climate? » Yale ...",
+      "link": "https://yaleclimateconnections.org/2024/05/video-do-you-have-to-go-vegan-to-save-the-climate/",
+      "displayed_link": "https://yaleclimateconnections.org · May 17, 2024",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFjpz6Vxa72BTSG1eTziwDJzkzDeWxCRT210_Na-gyRvnPYSTWBr-foNxDG1q-&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2931ff4ede3be68b00865f3c0953dd0bb9.png",
+      "snippet": "A vegan diet has the smallest impact on the climate but a vegetarian diet that includes eggs and dairy helps the climate almost as much.",
+      "duration": "8:19",
+      "missing": [
+        "could"
+      ],
+      "must_include": {
+        "word": "could",
+        "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=%22could%22+veganism+save+the+world&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ5t4CegUIxwIQEg"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQgW-kE5fQMHxokNf_5p3DtA9fgPMlYQR80jQ",
+      "source": "Yale Climate Connections · YaleClimateConnections"
+    },
+    {
+      "position": 20,
+      "title": "How Does Going Vegan Help the Planet?",
+      "link": "https://www.faithinnature.co.uk/blogs/notes-on-nature/how-does-going-vegan-help-the-planet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.faithinnature.co.uk/blogs/notes-on-nature/how-does-going-vegan-help-the-planet&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCIMBEAE",
+      "displayed_link": "https://www.faithinnature.co.uk › blogs › notes-on-nature",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29f0a446dcb8b94a48a7e28ab7d083aa53.png",
+      "snippet": "An Oxford University study found that veganism is the 'single biggest way' to reduce our impact on the environment. How much of an impact could you make by ...",
+      "snippet_highlighted_words": [
+        "veganism is the 'single biggest way' to reduce our impact on the environment"
+      ],
+      "source": "Faith In Nature"
+    },
+    {
+      "position": 21,
+      "title": "Oxford study shows what a vegan world could look like...",
+      "link": "https://animalsaustralia.org/our-work/compassionate-living/this-could-save-8-million-lives/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://animalsaustralia.org/our-work/compassionate-living/this-could-save-8-million-lives/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCIIBEAE",
+      "displayed_link": "https://animalsaustralia.org › ... › Compassionate living",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29b2ae976d8cffd0be41325d9775a1dc97.png",
+      "snippet": "The research showed that by eating plant-based, by 2050 we could prevent 8.1 million human deaths per year, save US$1 trillion in health care and cut greenhouse ...",
+      "snippet_highlighted_words": [
+        "prevent 8.1 million human deaths per year"
+      ],
+      "source": "Animals Australia"
+    },
+    {
+      "position": 22,
+      "title": "Can Veganism Really Save the World?",
+      "link": "https://producersmarket.com/blog/can-veganism-really-save-the-world/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://producersmarket.com/blog/can-veganism-really-save-the-world/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKMBEAE",
+      "displayed_link": "https://producersmarket.com › blog › can-veganism-reall...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29e5ac1032a25b8a1bb39b966b535f4927.png",
+      "date": "Jul 24, 2023",
+      "snippet": "Each individual person who goes vegan can save 200 animals per year, 1.3 million gallons of water, and 1.5 tons of carbon emissions, and the UN ...",
+      "snippet_highlighted_words": [
+        "Each individual person who goes vegan can save 200 animals per year"
+      ],
+      "source": "Producers Market"
+    },
+    {
+      "position": 23,
+      "title": "Which diet will help save our planet: climatarian, flexitarian ...",
+      "link": "https://theconversation.com/which-diet-will-help-save-our-planet-climatarian-flexitarian-vegetarian-or-vegan-186772",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theconversation.com/which-diet-will-help-save-our-planet-climatarian-flexitarian-vegetarian-or-vegan-186772&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCLoBEAE",
+      "displayed_link": "https://theconversation.com › which-diet-will-help-save...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2928306dabeda4b13ec594668ba4fb6550.png",
+      "date": "Aug 12, 2022",
+      "snippet": "If the whole world went vegan it would save nearly 8 billion tonnes CO₂e while even a switch to the Mediterranean diet would still save 3 ...",
+      "snippet_highlighted_words": [
+        "world",
+        "vegan",
+        "would save",
+        "would",
+        "save"
+      ],
+      "source": "The Conversation"
+    },
+    {
+      "position": 24,
+      "title": "One Month, Big Impact: Veganuary Could Save 536 Million ...",
+      "link": "https://eatformo.com/one-month-big-impact-veganuary-could-save-536-million-tons-of-co2-if-everyone-went-vegan/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eatformo.com/one-month-big-impact-veganuary-could-save-536-million-tons-of-co2-if-everyone-went-vegan/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCNkBEAE",
+      "displayed_link": "https://eatformo.com › one-month-big-impact-veganuary...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29879999d40d01a9eb1c1689dbd16bdb1a.png",
+      "snippet": "A vegan diet can save around 200,000 liters of water per person per year—or about 16,000 liters in just one month. Globally, Veganuary could save 128 trillion ...",
+      "snippet_highlighted_words": [
+        "Globally, Veganuary could save 128 trillion"
+      ],
+      "source": "Formo"
+    },
+    {
+      "position": 25,
+      "title": "Vegan v flexitarian – which will save the planet?",
+      "link": "https://www.bbc.co.uk/food/articles/vegan_vs_flexitarian",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.co.uk/food/articles/vegan_vs_flexitarian&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCPABEAE",
+      "displayed_link": "https://www.bbc.co.uk › food › articles › vegan_vs_fle...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29b5121ba5e03509e2c2f7d03825e5d334.png",
+      "snippet": "A vegan diet is in most cases better for the environment than a flexitarian diet, when you consider greenhouse gas emissions, land use, freshwater use and water ...",
+      "snippet_highlighted_words": [
+        "A vegan diet is in most cases better for the environment"
+      ],
+      "source": "BBC"
+    },
+    {
+      "position": 26,
+      "title": "Food | United Nations",
+      "link": "https://www.un.org/en/actnow/food",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.un.org/en/actnow/food&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCPUBEAE",
+      "displayed_link": "https://www.un.org › actnow › food",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29d2801abfd91feff61ade0a4a49f49d2d.png",
+      "snippet": "Switching to a plant-based diet can reduce an individual's annual carbon footprint by up to 2.1 tons with a vegan diet or up to 1.5 tons for vegetarians. While ...",
+      "snippet_highlighted_words": [
+        "Switching to a plant-based diet can reduce an individual's annual carbon footprint"
+      ],
+      "source": "Welcome to the United Nations"
+    },
+    {
+      "position": 27,
+      "title": "Vegan diets can save the world",
+      "link": "https://theecologist.org/2019/oct/03/vegan-diets-can-save-world",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theecologist.org/2019/oct/03/vegan-diets-can-save-world&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCPgBEAE",
+      "displayed_link": "https://theecologist.org › oct › vegan-diets-can-save-wo...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29c44cf9c5a4e7983e49160307cad75d77.png",
+      "date": "Oct 3, 2019",
+      "snippet": "A study published in Environmental Research Letters showed that eating a plant-based diet has three times more positive impact than washing your clothes in ...",
+      "snippet_highlighted_words": [
+        "eating a plant-based diet has three times more positive impact than washing your clothes"
+      ],
+      "source": "The Ecologist"
+    },
+    {
+      "position": 28,
+      "title": "How Vegan and Plant-Based Eating Can Help The ...",
+      "link": "https://cleanchoiceenergy.com/news/plant-based-eating-can-help-our-planet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cleanchoiceenergy.com/news/plant-based-eating-can-help-our-planet&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCJICEAE",
+      "displayed_link": "https://cleanchoiceenergy.com › news › plant-based-eati...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f292da2e6ac34a8fcdd580271107471be30.png",
+      "date": "Jun 4, 2024",
+      "snippet": "Plant-based and vegan eating can have a huge positive impact on the planet. Even eating plant-based just one day a week can reduce your carbon footprint ...",
+      "snippet_highlighted_words": [
+        "Plant-based and vegan eating can have a huge positive impact on the planet"
+      ],
+      "source": "CleanChoice Energy"
+    },
+    {
+      "position": 29,
+      "title": "Veganism could save the planet. Here's why.",
+      "link": "https://www.youtube.com/watch?v=QnrtRaM28cY",
+      "displayed_link": "138.5K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9W5Jsoqo9H5l3tNOZ3yzE2gCkdX68hFdlR7vwzCcL4tfwv1tbg-P3GpJONELO&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29f6dfcbdc9f9cfa09a6d0154311bef521.png",
+      "snippet": "A global shift towards a vegan diet is vital to save the world from hunger, fuel poverty and the worst impacts of climate change.",
+      "duration": "10:44",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSujUQO7tYIsmX9s8Cl4UyXk8-qPAG8Y5WQqw",
+      "source": "YouTube · Earthling Ed"
+    },
+    {
+      "position": 30,
+      "title": "Can veganism save the world from the climate crisis?",
+      "link": "https://theface.com/society/veganism-climate-change-crisis-veganuary-plant-based",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theface.com/society/veganism-climate-change-crisis-veganuary-plant-based&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKYCEAE",
+      "displayed_link": "https://theface.com › Society",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f292427dc02f0171a1bfa0f64bb9c290e3f.png",
+      "date": "Jan 31, 2022",
+      "snippet": "Veganism can help shield us from a disaster scenario in several ways. It reduces the mass deforestation required to clear land for animals and as well as the ...",
+      "snippet_highlighted_words": [
+        "Veganism can help shield us from a disaster scenario"
+      ],
+      "source": "The Face"
+    },
+    {
+      "position": 31,
+      "title": "Veggie-based diets could save 8 million lives by 2050 and ...",
+      "link": "https://www.ox.ac.uk/news/2016-03-22-veggie-based-diets-could-save-8-million-lives-2050-and-cut-global-warming",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ox.ac.uk/news/2016-03-22-veggie-based-diets-could-save-8-million-lives-2050-and-cut-global-warming&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKgCEAE",
+      "displayed_link": "https://www.ox.ac.uk › news › 2016-03-22-veggie-base...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2952f01891e6fa85442a14482acf80b3ac.png",
+      "date": "Mar 22, 2016",
+      "snippet": "Adopting global dietary guidelines would cut food-related emissions by 29%, vegetarian diets by 63%, and vegan diets by 70%, says the study. The ...",
+      "snippet_highlighted_words": [
+        "would",
+        "vegan"
+      ],
+      "source": "University of Oxford"
+    },
+    {
+      "position": 32,
+      "title": "What If the World Went Vegan? A Review of the Impact on ...",
+      "link": "https://www.mdpi.com/2077-0472/12/10/1518",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mdpi.com/2077-0472/12/10/1518&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKwCEAE",
+      "displayed_link": "https://www.mdpi.com › ...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29c508e7b615f047f79a8b5bde9db37a4f.png",
+      "author": "by IK Dorgbetor",
+      "snippet": "Some studies suggest that eliminating meat from the diet (i.e., moving to a vegan diet) can reduce GHG emissions globally, while other studies suggest that ...",
+      "snippet_highlighted_words": [
+        "vegan",
+        "can"
+      ],
+      "source": "MDPI"
+    },
+    {
+      "position": 33,
+      "title": "Can Veganism Solve World Hunger? An Honest Answer",
+      "link": "https://bitesizevegan.org/can-veganism-solve-world-hunger/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitesizevegan.org/can-veganism-solve-world-hunger/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECCwQAQ",
+      "displayed_link": "https://bitesizevegan.org › can-veganism-solve-world-h...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29e0d6ee065aec6504efb09d94d352498b.png",
+      "date": "Feb 15, 2023",
+      "snippet": "Veganism alone cannot solve world hunger. However, world hunger cannot be solved without a global shift to plant-based diets.",
+      "snippet_highlighted_words": [
+        "Veganism alone cannot solve world hunger"
+      ],
+      "source": "Bite Size Vegan"
+    },
+    {
+      "position": 34,
+      "title": "Go vegan for the environment",
+      "link": "https://www.vegansociety.com/go-vegan/why-go-vegan/environment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vegansociety.com/go-vegan/why-go-vegan/environment&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECFAQAQ",
+      "displayed_link": "https://www.vegansociety.com › go-vegan › environment",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2979ab9c67a6a47f39e764f695b65fb46d.png",
+      "snippet": "Consuming animal products is incredibly resource-intensive. Globally, farming uses about 70% of the planet's accessible freshwater. This is compared to around ...",
+      "snippet_highlighted_words": [
+        "planet's"
+      ],
+      "source": "The Vegan Society |"
+    },
+    {
+      "position": 35,
+      "title": "Is a vegan diet better for the environment?",
+      "link": "https://www.bbcgoodfood.com/howto/guide/vegan-diet-better-environment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbcgoodfood.com/howto/guide/vegan-diet-better-environment&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECE0QAQ",
+      "displayed_link": "https://www.bbcgoodfood.com › How to › Guide",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f292b4ad17a00d3cd5eb714961db543b589.png",
+      "date": "Aug 25, 2023",
+      "snippet": "But, if we all went vegan, scientists believe the world's food-related emissions might drop by 68% within 15 years, limiting global warming. Ad.",
+      "snippet_highlighted_words": [
+        "vegan",
+        "world's",
+        "might"
+      ],
+      "source": "Good Food"
+    },
+    {
+      "position": 36,
+      "title": "Our Power, Our Planet, Your Plate: Go Vegan This Earth Day",
+      "link": "https://headlines.peta.org/go-vegan-earth-day/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://headlines.peta.org/go-vegan-earth-day/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECGYQAQ",
+      "displayed_link": "https://headlines.peta.org › go-vegan-earth-day",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2926c39007c174a314ba0b5f320e545c91.png",
+      "snippet": "Every individual who is vegan saves 1,100 gallons of water, nearly 40 pounds of grain, and 30 square feet of forested land each day. So if planet Earth means ...",
+      "snippet_highlighted_words": [
+        "vegan",
+        "planet"
+      ],
+      "source": "PETA"
+    },
+    {
+      "position": 37,
+      "title": "Veganism IS NOT the Answer to Climate Change - Madison Mae",
+      "link": "https://www.madisonmae.org/health-hacks/why-veganism-isnt-the-answer-to-saving-the-environment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.madisonmae.org/health-hacks/why-veganism-isnt-the-answer-to-saving-the-environment&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECGwQAQ",
+      "displayed_link": "https://www.madisonmae.org › health-hacks › why-vega...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29fcb5018d9887aa846814a3f9f2b20f5c.png",
+      "date": "Nov 1, 2020",
+      "snippet": "Many vegans claim their diet is the solution to global warming. But that just isn't true. Not only is it not healthy from a nutritional ...",
+      "source": "madisonmae.org"
+    },
+    {
+      "position": 38,
+      "title": "How vegans save the Earth - environmental reasons to go ...",
+      "link": "https://agaonthe.run/how-vegans-save-the-earth-environmental-reasons-to-go-vegan/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://agaonthe.run/how-vegans-save-the-earth-environmental-reasons-to-go-vegan/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECGsQAQ",
+      "displayed_link": "https://agaonthe.run › how-vegans-save-the-earth-envir...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2963b688ee198628ed9fa9983ec05935f5.png",
+      "date": "May 4, 2021",
+      "snippet": "By switching to a vegan diet, you can reduce the amount of agricultural carbon being pumped into the atmosphere and help ocean ecosystems re- ...",
+      "snippet_highlighted_words": [
+        "reduce the amount of agricultural carbon being pumped into the atmosphere"
+      ],
+      "source": "Aga on the run"
+    },
+    {
+      "position": 39,
+      "title": "Could Veganism Really Save the Planet? | Diet & Climate ...",
+      "link": "https://www.youtube.com/watch?v=TGiu6RDIjBg",
+      "displayed_link": "2.3K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYOv1ucKs3L0aqkgeHMd61NizKf5sQ_A7EbCMC0CVZjM3gm6q71JTD8mk0l_Al&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29084c71fa8c687aad479abfed94ae15a7.png",
+      "snippet": "A plant-based diet is the solution but is it really the case because popular foods like avocados soy almonds and more do cause massive environmental destruction.",
+      "duration": "14:11",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTbsthgH1vBpbLn4VxU6IvXAwp-OPSjsLC1ew",
+      "source": "YouTube · Jun Goto"
+    },
+    {
+      "position": 40,
+      "title": "You Asked: Should We All Go Vegetarian or Vegan to Reduce ...",
+      "link": "https://news.climate.columbia.edu/2019/09/26/vegetarian-vegan-diets-climate-change/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.climate.columbia.edu/2019/09/26/vegetarian-vegan-diets-climate-change/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCIkBEAE",
+      "displayed_link": "https://news.climate.columbia.edu › 2019/09/26 › veget...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f296d8ba72e35c041fd9e67b2f35f081195.png",
+      "date": "Sep 26, 2019",
+      "snippet": "So, while going vegan would certainly help the environment, it is also unrealistic for most people to follow a dairy-free and meat-free diet.",
+      "snippet_highlighted_words": [
+        "going vegan would certainly help the environment"
+      ],
+      "source": "Columbia University"
+    },
+    {
+      "position": 41,
+      "title": "Eat Vegan, Save the World? - Animals: Tradition - Philosophy",
+      "link": "https://www.all-creatures.org/articles/an-tpr-eat-vegan-save-earth.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.all-creatures.org/articles/an-tpr-eat-vegan-save-earth.html&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCJwBEAE",
+      "displayed_link": "https://www.all-creatures.org › articles › an-tpr-eat-vega...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29b17e0219a9d443f6ab734f43b619e65d.jpeg",
+      "snippet": "FROM · Time: How a Vegetarian Diet Could Help Save the Planet · Reuters: A vegetarian world would be healthier, cooler and richer: scientists · Fox News: Global ...",
+      "snippet_highlighted_words": [
+        "Could",
+        "Save the Planet",
+        "would"
+      ],
+      "source": "All-Creatures.org"
+    },
+    {
+      "position": 42,
+      "title": "Should we all go vegan in order to save the planet?",
+      "link": "https://www.quora.com/Should-we-all-go-vegan-in-order-to-save-the-planet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Should-we-all-go-vegan-in-order-to-save-the-planet&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKUBEAE",
+      "displayed_link": "10+ answers · 2 years ago",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f291bfdfb6a2e8446b428f44a0ac1e2aaf0.png",
+      "snippet": "No, these alt-foods will not help save the planet. Both are manufactured substances high on the scale of energy requirements, delivering little ...",
+      "snippet_highlighted_words": [
+        "save the planet"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 43,
+      "title": "How vegan burgers can help save the planet",
+      "link": "https://www.youtube.com/watch?v=98Xvl-uTmlw",
+      "displayed_link": "141.1K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ88SnbxUWkBLdPq3CAGuout5O5UREC_Imje9WbE7M52Ccd9JzGJyyazE7mW4tA&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29199bdad2d5511155b587083ba4f4d4c4.png",
+      "snippet": "When people cook steak, they're also cooking the planet. As meat consumption continues to rise, what role can meat alternatives play in a ...",
+      "duration": "11:26",
+      "source": "YouTube · The Economist"
+    },
+    {
+      "position": 44,
+      "title": "Go vegan, save the planet",
+      "link": "https://www.cnn.com/2017/04/08/opinions/go-vegan-save-the-planet-wang",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/2017/04/08/opinions/go-vegan-save-the-planet-wang&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCMABEAE",
+      "displayed_link": "https://www.cnn.com › 2017/04/08 › opinions › go-ve...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f298044fa41007f0b03fe89caa0a30df81f.png",
+      "date": "Apr 9, 2017",
+      "snippet": "It follows that the vegan diet, by eliminating dairy and egg, would reduce emissions the most, as confirmed by a subsequent study. Adopting a ...",
+      "snippet_highlighted_words": [
+        "vegan",
+        "would"
+      ],
+      "missing": [
+        "could"
+      ],
+      "must_include": {
+        "word": "could",
+        "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=%22could%22+veganism+save+the+world&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ5t4CegUI0wEQAQ"
+      },
+      "source": "CNN"
+    },
+    {
+      "position": 45,
+      "title": "Could we save the world if we all went vegan?",
+      "link": "https://www.ft.com/content/3b210ddc-bba0-11e8-8274-55b72926558f",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ft.com/content/3b210ddc-bba0-11e8-8274-55b72926558f&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCLkBEAE",
+      "displayed_link": "https://www.ft.com › Health › Food & Drink › Food diet",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29f674f26cf88be03d3391c324a87af80d.png",
+      "date": "Sep 20, 2018",
+      "snippet": "According to scientist Joseph Poore of Oxford University, worldwide conversion to veganism would shrink the amount of farmland needed by 3.1 billion hectares.",
+      "snippet_highlighted_words": [
+        "veganism would"
+      ],
+      "source": "Financial Times"
+    },
+    {
+      "position": 46,
+      "title": "Can a Vegan Diet Save The Planet - GENeco",
+      "link": "https://www.geneco.uk.com/news/can-a-vegan-diet-save-the-planet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geneco.uk.com/news/can-a-vegan-diet-save-the-planet&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCL8BEAE",
+      "displayed_link": "https://www.geneco.uk.com › News",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29902e27e0d60a4b88c4b8a5fabcfaba4c.png",
+      "snippet": "The study claimed that, by becoming vegan, an individual's carbon footprint falls by up to 73%.",
+      "snippet_highlighted_words": [
+        "vegan"
+      ],
+      "missing": [
+        "world"
+      ],
+      "must_include": {
+        "word": "world",
+        "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=could+veganism+save+the+%22world%22&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ5t4CegUI1AEQAQ"
+      },
+      "source": "UK.COM"
+    },
+    {
+      "position": 47,
+      "title": "Going vegan: can switching to a plant-based diet really ...",
+      "link": "https://www.theguardian.com/lifeandstyle/2021/apr/25/going-vegan-can-switching-to-a-plant-based-diet-really-save-the-planet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/lifeandstyle/2021/apr/25/going-vegan-can-switching-to-a-plant-based-diet-really-save-the-planet&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCNsBEAE",
+      "displayed_link": "https://www.theguardian.com › lifeandstyle › apr › goi...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29e2fca55a8e005a6babeaf8cf208722b0.png",
+      "date": "Apr 25, 2021",
+      "snippet": "Some studies show that choosing vegetarian options would only reduce greenhouse gas emissions per person by 3%. Others show a reduction in emissions per person ...",
+      "snippet_highlighted_words": [
+        "would"
+      ],
+      "source": "The Guardian"
+    },
+    {
+      "position": 48,
+      "title": "The climate benefits of veganism and vegetarianism",
+      "link": "https://www.bbc.com/future/article/20220429-the-climate-benefits-of-veganism-and-vegetarianism",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.com/future/article/20220429-the-climate-benefits-of-veganism-and-vegetarianism&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCNUBEAE",
+      "displayed_link": "https://www.bbc.com › future › article › 20220429-the-...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29c2e114d38176233a179f0ac99dad3c9c.png",
+      "date": "May 1, 2022",
+      "snippet": "Save. Alamy Swapping animal products for a plant-based diet can ... We supposed that a vegan diet would have the lowest emissions, the ...",
+      "snippet_highlighted_words": [
+        "Save",
+        "can",
+        "vegan",
+        "would"
+      ],
+      "source": "BBC"
+    },
+    {
+      "position": 49,
+      "title": "The Daily Climate Show: Could veganism save the world?",
+      "link": "https://www.youtube.com/watch?v=iv3ryQiKiZM",
+      "displayed_link": "3.9K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWLOnSz2cGyiYCoyis5gywfRQuTqgRvMRT-sNJwCghddS8PrzpEgK34LaKpbv&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29e9ea9a7d6d667fd3b9485017ae1d69c4.png",
+      "snippet": "On The Daily Climate Show with Anna Jones: - could veganism be the answer to global warming? One group of scientists say that by stopping ...",
+      "duration": "21:45",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQvHduZIHJxYgHreFpcOC-I1l0re3CFjsIEnQ",
+      "source": "YouTube · Sky News"
+    },
+    {
+      "position": 50,
+      "title": "The thought experiment: What would happen if everyone ...",
+      "link": "https://www.sciencefocus.com/science/the-thought-experiment-what-would-happen-if-everyone-on-the-planet-suddenly-went-vegan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencefocus.com/science/the-thought-experiment-what-would-happen-if-everyone-on-the-planet-suddenly-went-vegan&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCPEBEAE",
+      "displayed_link": "https://www.sciencefocus.com › science › the-thought-ex...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29c1ee16e82f10f25a93c45a3c42085469.png",
+      "snippet": "Veganism seeks to exclude all cruelty to animals. Simply opening the farm gates to the existing stock of 3.5 billion grazing animals and 19 billion chickens ...",
+      "snippet_highlighted_words": [
+        "Veganism"
+      ],
+      "source": "BBC Science Focus Magazine"
+    },
+    {
+      "position": 51,
+      "title": "Can Veganism Really Save the Planet?",
+      "link": "https://www.theiwillprojects.com/can-veganism-really-save-the-planet/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theiwillprojects.com/can-veganism-really-save-the-planet/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCPYBEAE",
+      "displayed_link": "https://www.theiwillprojects.com › can-veganism-really...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f299ed527d6b91071c663b82f78737e7a2e.png",
+      "date": "Nov 10, 2023",
+      "snippet": "Veganism is just one of many potential solutions to our environmental challenges. Integrated approaches, such as combining renewable energy, ...",
+      "snippet_highlighted_words": [
+        "Veganism"
+      ],
+      "source": "The I Will Projects"
+    },
+    {
+      "position": 52,
+      "title": "WHY YOU SHOULD AVOID MEAT TO SAVE THE WORLD",
+      "link": "https://srcuniten.org/veganism-why-you-should-avoid-meat-to-save-the-world/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://srcuniten.org/veganism-why-you-should-avoid-meat-to-save-the-world/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCPQBEAE",
+      "displayed_link": "https://srcuniten.org › veganism-why-you-should-avoid-...",
+      "snippet": "Of course, it's almost impossible to get everyone on this planet to eat only fruits and vegetables but perhaps the depletion of the resources can be slowed down ...",
+      "snippet_highlighted_words": [
+        "planet",
+        "can"
+      ],
+      "source": "SRC UNITEN"
+    },
+    {
+      "position": 53,
+      "title": "Change the world by eating a vegan diet just one day a week",
+      "link": "https://www.panmacmillan.com/blogs/lifestyle-wellbeing/environmental-health-benefits-of-being-vegan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.panmacmillan.com/blogs/lifestyle-wellbeing/environmental-health-benefits-of-being-vegan&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCIsCEAE",
+      "displayed_link": "https://www.panmacmillan.com › lifestyle-wellbeing › e...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f292f04ba7bda6d5b82e9af6add3fbf5de6.png",
+      "snippet": "'One person eating vegan just one day per week saves approximately 40lbs of grain (which could feed hungry populations around the world), 1100 gallons of water, ...",
+      "snippet_highlighted_words": [
+        "vegan",
+        "could",
+        "world"
+      ],
+      "source": "Pan Macmillan"
+    },
+    {
+      "position": 54,
+      "title": "7 Ways Going Vegan Can Save Our Planet",
+      "link": "https://thefarmbuzz.com/7waysvegansaveplanet/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thefarmbuzz.com/7waysvegansaveplanet/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCJACEAE",
+      "displayed_link": "https://thefarmbuzz.com › Animal Rights",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f291c4858b2da5fae52de887713783169bd.png",
+      "date": "Mar 27, 2023",
+      "snippet": "7 Ways Going Vegan Can Save Our Planet · 1. Plant-Based Diets Reduce Water Consumption · 2. Going Vegan Reduces the Risk of New Zoonotic ...",
+      "snippet_highlighted_words": [
+        "Vegan Can Save",
+        "Planet",
+        "Vegan"
+      ],
+      "source": "THE FARM BUZZ"
+    },
+    {
+      "position": 55,
+      "title": "Make it Better: Will veganism save the world?",
+      "link": "https://twyg.co.za/make-it-better-will-veganism-save-the-world/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twyg.co.za/make-it-better-will-veganism-save-the-world/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCJECEAE",
+      "displayed_link": "https://twyg.co.za › make-it-better-will-veganism-save-th...",
+      "date": "Apr 13, 2019",
+      "snippet": "Man-made greenhouse gas emissions would reduce by around 14.5% and there would be a great deal less methane in our environment (methane is a ...",
+      "snippet_highlighted_words": [
+        "would",
+        "would"
+      ],
+      "source": "Twyg"
+    },
+    {
+      "position": 56,
+      "title": "Is Veganism Sustainable? Looking at Its Environmental ...",
+      "link": "https://www.edengreen.com/blog-collection/is-veganism-sustainable",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.edengreen.com/blog-collection/is-veganism-sustainable&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCI8CEAE",
+      "displayed_link": "https://www.edengreen.com › blog-collection › is-vega...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2914c9cd75bba179275fd4c9f83d57bce6.png",
+      "date": "Feb 4, 2025",
+      "snippet": "Veganism is more popular than ever, partially due to the environmental benefits of veganism. People are trying to make better choices for ...",
+      "snippet_highlighted_words": [
+        "Veganism",
+        "veganism"
+      ],
+      "source": "Eden Green"
+    },
+    {
+      "position": 57,
+      "title": "Vegan and Vegetarian Impact on Environment and Climate ...",
+      "link": "https://www.volunteerfdip.org/vegan-and-vegetarian-impact-on-environment-and-climate-change",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.volunteerfdip.org/vegan-and-vegetarian-impact-on-environment-and-climate-change&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCJMCEAE",
+      "displayed_link": "https://www.volunteerfdip.org › vegan-and-vegetarian-i...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29750ca6040b9278b2b03285021e4786b2.png",
+      "date": "Jan 2, 2025",
+      "snippet": "A vegan or vegetarian diet is one of the healthiest personal choices one can make to save the earth. Veganism and plant-based eating must ...",
+      "snippet_highlighted_words": [
+        "vegan",
+        "can",
+        "save",
+        "Veganism"
+      ],
+      "source": "Volunteer FDIP"
+    },
+    {
+      "position": 58,
+      "title": "Vegan for the planet",
+      "link": "https://curious.earth/blog/vegan-for-the-planet/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://curious.earth/blog/vegan-for-the-planet/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCIwCEAE",
+      "displayed_link": "https://curious.earth › All Posts",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29c566e05dbf671e354f8a8332572b5105.png",
+      "date": "May 22, 2024",
+      "snippet": "Research has found that a vegetarian or vegan diet can have a water footprint 35% to 55% lower than an average European diet.",
+      "snippet_highlighted_words": [
+        "vegan",
+        "can"
+      ],
+      "source": "Curious Earth"
+    },
+    {
+      "position": 59,
+      "title": "Saving Our Planet: Can Vegetarianism Fix Environmental ...",
+      "link": "https://edubirdie.com/examples/saving-our-planet-are-vegetarianism-and-veganism-the-ways-to-fix-the-worlds-environmental-issue/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://edubirdie.com/examples/saving-our-planet-are-vegetarianism-and-veganism-the-ways-to-fix-the-worlds-environmental-issue/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCK4CEAE",
+      "displayed_link": "https://edubirdie.com › ✍️ Examples › 🔬 Science › Planet",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29914d600b384c9377eabbc5b30397ab66.png",
+      "snippet": "If the world went vegan eight million lives could be saved by 2050 through the reduction of greenhouse gas emissions by two thirds (12). One in three people in ...",
+      "snippet_highlighted_words": [
+        "world",
+        "vegan",
+        "could",
+        "saved"
+      ],
+      "source": "EduBirdie"
+    },
+    {
+      "position": 60,
+      "title": "Is Global Veganism Even Possible, From a Nutritional and ...",
+      "link": "https://sentientmedia.org/is-global-veganism-even-possible/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sentientmedia.org/is-global-veganism-even-possible/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKkCEAE",
+      "displayed_link": "https://sentientmedia.org › Health",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2977ca61dbe7eac75712c39e0629b025d1.png",
+      "date": "Jun 27, 2024",
+      "snippet": "Add in the land savings that would come from the elimination of livestock pastures, and a fully vegan world would require 75 percent less ...",
+      "snippet_highlighted_words": [
+        "would",
+        "vegan world would"
+      ],
+      "source": "sentientmedia.org"
+    },
+    {
+      "position": 61,
+      "title": "Environmental Benefits Of Veganism: How Does ...",
+      "link": "https://genv.org/environmental-benefits-of-veganism/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://genv.org/environmental-benefits-of-veganism/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKsCEAE",
+      "displayed_link": "https://genv.org › Blog › Planet",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f292d8001bc136623b868913e8393a53350.png",
+      "date": "Sep 21, 2021",
+      "snippet": "Vegan for the planet: veganism is one of the most effective individual decisions we can make to help the environment.",
+      "snippet_highlighted_words": [
+        "Vegan",
+        "planet",
+        "veganism",
+        "can"
+      ],
+      "source": "Generation Vegan"
+    },
+    {
+      "position": 62,
+      "title": "Vegan for the Planet",
+      "link": "https://tamerlaine.org/vegan-for-the-planet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tamerlaine.org/vegan-for-the-planet&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKcCEAE",
+      "displayed_link": "https://tamerlaine.org › vegan-for-the-planet",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f294dd2b272272a933d429b69e30f94910f.png",
+      "snippet": "1. One person going vegan for a month can save 620 lbs. · 2. Farming animals is not sustainable for a growing planet. · 3. Agricultural systems are a leading ...",
+      "snippet_highlighted_words": [
+        "vegan",
+        "can save",
+        "planet"
+      ],
+      "source": "Tamerlaine Sanctuary & Preserve"
+    },
+    {
+      "position": 63,
+      "title": "Why you don't need to give up meat to save the planet",
+      "link": "https://www.youtube.com/watch?v=dHzfvM8mXxI",
+      "displayed_link": "51.1K+ views · 6 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZD67OGHQ3jsJTUTlopwk-d4ZXsZQNJk04p0tv5PV2o1jaHsP-dST84av2LAJ&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29e69c31093e9c31fd4104cc4c81ff33fb.png",
+      "snippet": "Loads of people are ditching meat and changing to a vegan diet to help fight climate change. But can going vegan actually save the planet?",
+      "duration": "8:28",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTIYMJLTfs-Lm8JKnUhEyizeCDZXMZqmq7lng",
+      "source": "YouTube · Channel 4 News"
+    },
+    {
+      "position": 64,
+      "title": "Climate crisis: Can going vegan save the world?",
+      "link": "https://www.independent.co.uk/climate-change/news/veganism-meat-environmental-impact-diet-b1901628.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.independent.co.uk/climate-change/news/veganism-meat-environmental-impact-diet-b1901628.html&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKoCEAE",
+      "displayed_link": "https://www.independent.co.uk › Climate › News",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29881d0b75a5ba5fd453df6150698ebc3f.png",
+      "date": "Aug 15, 2021",
+      "snippet": "Scientists have said avoiding meat and dairy products from your diet is the single best way an individual can cut down their own impact on the ...",
+      "snippet_highlighted_words": [
+        "can"
+      ],
+      "source": "The Independent"
+    },
+    {
+      "position": 65,
+      "title": "How Veganism Can Save Us",
+      "link": "https://www.mindlessmag.com/post/how-veganism-can-save-us",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mindlessmag.com/post/how-veganism-can-save-us&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECC4QAQ",
+      "displayed_link": "https://www.mindlessmag.com › post › how-veganism-...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2935164882654f52cd079add7444b5fe93.png",
+      "date": "Apr 1, 2023",
+      "snippet": "How Veganism Can Save Us ... Just by simply changing to a vegan diet it reduces greenhouse gas emissions drastically, greenhouse gas emissions are ...",
+      "snippet_highlighted_words": [
+        "Veganism Can Save",
+        "vegan"
+      ],
+      "source": "Mindless Mag"
+    },
+    {
+      "position": 66,
+      "title": "Going Vegan Reduces Your Environmental Impact",
+      "link": "https://veganoutreach.org/environment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veganoutreach.org/environment/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECE8QAQ",
+      "displayed_link": "https://veganoutreach.org › environment",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29806b588811e7d8ca0ed9efc6a0337949.png",
+      "snippet": "Globally, a diet that excludes animal products can save 19% of freshwater (Poore and Nemecek, Science, 2018). In the southwestern United States, the Colorado ...",
+      "snippet_highlighted_words": [
+        "can save"
+      ],
+      "source": "Vegan Outreach"
+    },
+    {
+      "position": 67,
+      "title": "Can Veganism Save the Environment?",
+      "link": "https://www.yourdailyvegan.com/environment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yourdailyvegan.com/environment/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECEsQAQ",
+      "displayed_link": "https://www.yourdailyvegan.com › environment",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29463e6ef2483a384f61ceb44bd2222f5a.png",
+      "snippet": "We already produce enough food to feed every human on the planet, but it requires a vegan shift in diets. If we redirected the resources and feed used to raise ...",
+      "snippet_highlighted_words": [
+        "planet",
+        "vegan"
+      ],
+      "source": "Your Daily Vegan"
+    },
+    {
+      "position": 68,
+      "title": "Vegan Impact on Environment",
+      "link": "https://www.mfmac.com/insights/food-drink/veganism-as-good-for-the-environment-as-we-think/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mfmac.com/insights/food-drink/veganism-as-good-for-the-environment-as-we-think/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECEwQAQ",
+      "displayed_link": "https://www.mfmac.com › insights › food-drink › vega...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f290b6a23d8844ba5e95124ccd1d7c25571.png",
+      "snippet": "Veganism is generally hailed as being one of the most low-impact, environmentally friendly diets that one can adopt. Vegan diets tend to have a lower water ...",
+      "snippet_highlighted_words": [
+        "Veganism",
+        "can",
+        "Vegan"
+      ],
+      "source": "MFMac"
+    },
+    {
+      "position": 69,
+      "title": "10 Awesome Environmental Benefits of Veganism",
+      "link": "https://veggievagabonds.com/environmental-benefits-of-veganism/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veggievagabonds.com/environmental-benefits-of-veganism/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECFEQAQ",
+      "displayed_link": "https://veggievagabonds.com › Green Adventures",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29b448aac592e842dbd8b3a09797dd19eb.png",
+      "snippet": "Switching out meat for veggies could save gallons of water just in one person's lifetime. ... Switching to veganism can have such a beautiful impact on the planet ...",
+      "snippet_highlighted_words": [
+        "could save",
+        "veganism can",
+        "planet"
+      ],
+      "source": "Veggie Vagabonds"
+    },
+    {
+      "position": 70,
+      "title": "How the Vegan Diet Can Change the World",
+      "link": "https://www.sos.org/articles/healthy-living/how-the-vegan-diet-can-change-the-world",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sos.org/articles/healthy-living/how-the-vegan-diet-can-change-the-world&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECFIQAQ",
+      "displayed_link": "https://www.sos.org › articles › healthy-living › how-the-...",
+      "snippet": "Learn how a vegan diet can have a profound impact on the environment and help in causes like climate change and global warming.It is also more humane and ...",
+      "snippet_highlighted_words": [
+        "vegan",
+        "can"
+      ],
+      "source": "Science of Spirituality"
+    },
+    {
+      "position": 71,
+      "title": "Why Going Vegan Can Help Save the Planet",
+      "link": "https://poosh.com/being-vegan-helps-save-planet/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://poosh.com/being-vegan-helps-save-planet/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECGcQAQ",
+      "displayed_link": "https://poosh.com › being-vegan-helps-save-planet",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f297abebaf3c2508f2786ea66f30d3e3413.png",
+      "snippet": "Why Going Vegan Can Help SAVE THE PLANET · Meat = methane · Vast farmland destroys native species' homes · Water pollution · Vital soil and forests are destroyed.",
+      "snippet_highlighted_words": [
+        "Vegan Can",
+        "SAVE THE PLANET"
+      ],
+      "source": "Poosh"
+    },
+    {
+      "position": 72,
+      "title": "Veganism and Biodiversity Conservation",
+      "link": "https://grabenord.com/blogs/blog/veganism-and-biodiversity-conservation?srsltid=AfmBOooNHvuWoKlZ9gGDVOWnxM5vIZxYZc01Mdcdkd_tZIIUTXyJONty",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://grabenord.com/blogs/blog/veganism-and-biodiversity-conservation%3Fsrsltid%3DAfmBOooNHvuWoKlZ9gGDVOWnxM5vIZxYZc01Mdcdkd_tZIIUTXyJONty&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECGoQAQ",
+      "displayed_link": "https://grabenord.com › blogs › blog › veganism-and-bi...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29a195cd85cbc63cdad63459e8fdf5c387.png",
+      "date": "Feb 24, 2024",
+      "snippet": "While no single action can save the planet, veganism represents a significant step towards sustainability. Adopting a vegan diet reduces one's ...",
+      "snippet_highlighted_words": [
+        "can save the planet",
+        "veganism",
+        "vegan"
+      ],
+      "source": "Grabenord"
+    },
+    {
+      "position": 73,
+      "title": "Why go vegan?",
+      "link": "https://www.vegansociety.com/go-vegan/why-go-vegan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vegansociety.com/go-vegan/why-go-vegan&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECGgQAQ",
+      "displayed_link": "https://www.vegansociety.com › go-vegan › why-go-veg...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29f930bfdebd5a1ebf8670ceee2f554a22.png",
+      "snippet": "Just like veganism is the sustainable option when it comes to looking after our planet, plant-based living is also a more sustainable way of feeding the human ...",
+      "snippet_highlighted_words": [
+        "veganism",
+        "planet"
+      ],
+      "source": "The Vegan Society |"
+    },
+    {
+      "position": 74,
+      "title": "Climatarian, flexitarian, vegetarian, vegan: Which diet is ...",
+      "link": "https://ideas.ted.com/which-diet-is-better-for-climate-change-vegan-vegetarian-climatarian-flexitarian/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ideas.ted.com/which-diet-is-better-for-climate-change-vegan-vegetarian-climatarian-flexitarian/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECG0QAQ",
+      "displayed_link": "https://ideas.ted.com › which-diet-is-better-for-climate-ch...",
+      "date": "Sep 7, 2022",
+      "snippet": "If the whole world went vegan, it would save nearly 8 billion tonnes CO₂equivalent — while even a switch to the Mediterranean diet would still ...",
+      "snippet_highlighted_words": [
+        "world",
+        "vegan",
+        "would save",
+        "would"
+      ],
+      "source": "ideas.ted.com"
+    },
+    {
+      "position": 75,
+      "title": "What would happen in a vegan world?",
+      "link": "https://www.carnisostenibili.it/en/what-would-happen-if-the-world-went-completely-vegan/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.carnisostenibili.it/en/what-would-happen-if-the-world-went-completely-vegan/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECG4QAQ",
+      "displayed_link": "https://www.carnisostenibili.it › ... › Health & Nutrition",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29c211d588f21a4be57916f8c589cb1555.png",
+      "snippet": "In a paradoxical scenario of 100% veganism, according to the study, we would need more arable land, as the ingredients of the vegan diet are produced with very ...",
+      "snippet_highlighted_words": [
+        "veganism",
+        "would",
+        "vegan"
+      ],
+      "source": "Carni Sostenibili"
+    },
+    {
+      "position": 76,
+      "title": "How can going vegan save the planet? - Love Shack",
+      "link": "https://www.loveshackldn.com/post/how-can-going-vegan-save-the-planet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveshackldn.com/post/how-can-going-vegan-save-the-planet&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCIUBEAE",
+      "displayed_link": "https://www.loveshackldn.com › post › how-can-going-...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2919b4c5f313f08552cf21afc3b3f2fcc7.png",
+      "date": "Dec 12, 2023",
+      "snippet": "At the heart of the positive implications of veganism lies a significant reduction in greenhouse gas emissions. The livestock sector, ...",
+      "snippet_highlighted_words": [
+        "veganism"
+      ],
+      "source": "loveshackldn.com"
+    },
+    {
+      "position": 77,
+      "title": "What would happen if the world went vegan?",
+      "link": "https://www.veganfoodandliving.com/features/what-would-happen-if-the-world-went-vegan/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.veganfoodandliving.com/features/what-would-happen-if-the-world-went-vegan/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCIgBEAE",
+      "displayed_link": "https://www.veganfoodandliving.com › features › what...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29f91ccce398ce1abd629be27aff1830ac.png",
+      "date": "Feb 5, 2020",
+      "snippet": "According to The Vegan Calculator, you can also save 3,300kg of carbon dioxide emissions by going vegan for one whole year. If other climate ...",
+      "snippet_highlighted_words": [
+        "Vegan",
+        "can",
+        "save",
+        "vegan"
+      ],
+      "source": "Vegan Food & Living"
+    },
+    {
+      "position": 78,
+      "title": "Plant-based to Save the Planet - Belfast Local Group",
+      "link": "https://group.rspb.org.uk/belfast/news-blogs/blog/eating-to-save-the-planet/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://group.rspb.org.uk/belfast/news-blogs/blog/eating-to-save-the-planet/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCIYBEAE",
+      "displayed_link": "https://group.rspb.org.uk › belfast › news-blogs › blog",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f291eec1538cad8bc040f9f7167ddb193b6.png",
+      "date": "Feb 3, 2025",
+      "snippet": "Multiple studies have shown it–eating a plant-based diet is the most effective decision you can make to help protect our planet.",
+      "snippet_highlighted_words": [
+        "can",
+        "protect",
+        "planet"
+      ],
+      "source": "RSPB"
+    },
+    {
+      "position": 79,
+      "title": "About Veganism",
+      "link": "https://vegan.org/about-veganism/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vegan.org/about-veganism/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCIEBEAE",
+      "displayed_link": "https://vegan.org › about-veganism",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f2949feec261364500f330dab7ee0305bf2.png",
+      "snippet": "You can make an impact. BEING VEGAN CAN SAVE: 200 animals per year. 1.3 million gallons of water. 1.5 tons of carbon emissions. For The Animals. Despite the ...",
+      "snippet_highlighted_words": [
+        "can",
+        "VEGAN CAN SAVE"
+      ],
+      "source": "Vegan Action"
+    },
+    {
+      "position": 80,
+      "title": "Could Veganism Save The World?",
+      "link": "https://www.youtube.com/watch?v=_-jrlWqI9Vg",
+      "displayed_link": "550+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-BGOK-TWEeh9zfegpCQS5S5OTgVL0XErkXm_tBdqDL7V1gEiVAJwNPvjyBhLv&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29732a3a6e35a5daffec2413abe776c4f1.png",
+      "snippet": "In 2019, 2% of Americans classed themselves as vegan, It's a number that's growing all the time. So what's the appeal?",
+      "duration": "1:39",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQjAiM0eOgQnwHjvDuttHtcQq1yMXg1U7R92w",
+      "source": "YouTube · Untold History"
+    },
+    {
+      "position": 81,
+      "title": "Why Veganism Isn't THE Solution To Climate Change",
+      "link": "https://www.honestlymodern.com/why-veganism-isnt-the-solution-to-climate-change/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.honestlymodern.com/why-veganism-isnt-the-solution-to-climate-change/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCJ8BEAE",
+      "displayed_link": "https://www.honestlymodern.com › why-veganism-isnt-...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f294c6cb8a94f1212e552e2bc123a006948.png",
+      "date": "Jul 21, 2020",
+      "snippet": "Eliminating meat and becoming vegan can benefit the environment, but veganism isn't THE sole solution to fighting climate change.",
+      "snippet_highlighted_words": [
+        "vegan can",
+        "veganism"
+      ],
+      "source": "Honestly Modern"
+    },
+    {
+      "position": 82,
+      "title": "Can Vegetarianism Save the World? Nitty-gritty",
+      "link": "https://stanfordmag.org/contents/can-vegetarianism-save-the-world-nitty-gritty",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stanfordmag.org/contents/can-vegetarianism-save-the-world-nitty-gritty&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCJ0BEAE",
+      "displayed_link": "https://stanfordmag.org › contents › can-vegetarianism-...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f290f86ca667ab15b7569721c65184dd01d.png",
+      "snippet": "In short, yes! Depending how the figure is calculated, livestock account for anywhere between 18 and 51 percent of global greenhouse gas (GHG) emissions.",
+      "snippet_highlighted_words": [
+        "yes"
+      ],
+      "source": "STANFORD magazine"
+    },
+    {
+      "position": 83,
+      "title": "Can veganism really save the planet?",
+      "link": "https://thred.com/change/can-veganism-really-save-the-planet/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thred.com/change/can-veganism-really-save-the-planet/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKABEAE",
+      "displayed_link": "https://thred.com › change › can-veganism-really-save-t...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29451ac23fc4aafbfc4a56a83624284453.png",
+      "date": "Oct 28, 2022",
+      "snippet": "New research suggests that, despite popular belief, a plant-based diet adopted by the masses isn't a silver bullet in the face of our ...",
+      "source": "Thred"
+    },
+    {
+      "position": 84,
+      "title": "Not Going Vegan to Save the Planet | Climate Conscious",
+      "link": "https://medium.com/climate-conscious/not-going-vegan-to-save-the-planet-5158d50ef45c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/climate-conscious/not-going-vegan-to-save-the-planet-5158d50ef45c&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKIBEAE",
+      "displayed_link": "140+ likes · 4 years ago",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29814c6f47c345836d60ace94f86f5f302.png",
+      "snippet": "Most plant based products have a carbon footprint 10 to 50 times less than most animal based products. Based on this, you can see why it makes ...",
+      "snippet_highlighted_words": [
+        "can"
+      ],
+      "source": "Medium · Easy Carbon Solutions"
+    },
+    {
+      "position": 85,
+      "title": "Top 10 Reasons Why It's Green to Go Veggie",
+      "link": "https://www.downtoearth.org/go-veggie/environment/top-10-reasons",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.downtoearth.org/go-veggie/environment/top-10-reasons&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCJ4BEAE",
+      "displayed_link": "https://www.downtoearth.org › go-veggie › environment",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29f91ed754203efd7a1544f5ed53550206.jpeg",
+      "snippet": "By switching to a vegetarian diet, each person can save more than 100 animals each year from the horrific cruelty of the meat industry24. 10. Help ensure ...",
+      "snippet_highlighted_words": [
+        "can save"
+      ],
+      "source": "Down to Earth Organic and Natural"
+    },
+    {
+      "position": 86,
+      "title": "Why going vegan won't save the world",
+      "link": "https://eco-gites.blogspot.com/2018/08/why-going-vegan-wont-save-world.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eco-gites.blogspot.com/2018/08/why-going-vegan-wont-save-world.html&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCKEBEAE",
+      "displayed_link": "https://eco-gites.blogspot.com › 2018/08 › why-going-v...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f292bcf972ffdf0ec5a7e6bbb32208f2cff.png",
+      "date": "Aug 27, 2018",
+      "snippet": "... but not wasting food, changing what meat we eat and altering our lifestyles will certainly help. Some proponents of a vegan lifestyle state ...",
+      "snippet_highlighted_words": [
+        "vegan"
+      ],
+      "source": "Blogger.com"
+    },
+    {
+      "position": 87,
+      "title": "How a Vegetarian Diet Could Help Save the Planet",
+      "link": "https://time.com/4266874/vegetarian-diet-climate-change/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://time.com/4266874/vegetarian-diet-climate-change/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCL4BEAE",
+      "displayed_link": "https://time.com › Science › climate change",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29855f212662a87021549130e1be9e5bda.png",
+      "date": "Mar 21, 2016",
+      "snippet": "New research shows how the widespread adoption of vegetarian and vegan diets could save millions of lives and trillion of dollars.",
+      "snippet_highlighted_words": [
+        "vegan",
+        "could save"
+      ],
+      "source": "Time Magazine"
+    },
+    {
+      "position": 88,
+      "title": "How Might Global Veganism Impact Society?",
+      "link": "https://faunalytics.org/how-might-global-veganism-impact-society/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://faunalytics.org/how-might-global-veganism-impact-society/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCLwBEAE",
+      "displayed_link": "https://faunalytics.org › how-might-global-veganism-im...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29283506dfaca1b28c334ea9924ff134c2.png",
+      "date": "Feb 9, 2023",
+      "snippet": "Transforming pasturelands to croplands, if the world goes vegan, also increases plant production. Yet, there's a problem: the most productivity ...",
+      "snippet_highlighted_words": [
+        "world",
+        "vegan"
+      ],
+      "source": "Faunalytics"
+    },
+    {
+      "position": 89,
+      "title": "Going vegan is the best way to save the earth",
+      "link": "https://www.scmp.com/yp/discover/lifestyle/features/article/3072609/going-vegan-best-way-save-earth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scmp.com/yp/discover/lifestyle/features/article/3072609/going-vegan-best-way-save-earth&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCL0BEAE",
+      "displayed_link": "https://www.scmp.com › lifestyle › features › article › g...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29ea515c614ff908882b5d4c25426f1081.png",
+      "date": "Jun 3, 2018",
+      "snippet": "Avoiding meat and dairy products is the single biggest way to reduce your environmental impact on the planet, according to the scientists ...",
+      "snippet_highlighted_words": [
+        "planet"
+      ],
+      "source": "South China Morning Post"
+    },
+    {
+      "position": 90,
+      "title": "17 Environmental Benefits of Veganism",
+      "link": "https://www.greenwelfare.org/environmentalbenefitsofveganism",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.greenwelfare.org/environmentalbenefitsofveganism&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCLgBEAE",
+      "displayed_link": "https://www.greenwelfare.org › environmentalbenefitso...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29ac81d7d665c394ee8f48ddc4ab1e83c8.png",
+      "snippet": "Adopting a vegan diet decreases air pollution by saving carbon dioxide emissions. According to the Veganism Impact Report, the world would see a 70% decrease in ...",
+      "snippet_highlighted_words": [
+        "vegan",
+        "Veganism",
+        "world would"
+      ],
+      "source": "Green Welfare Indonesia"
+    },
+    {
+      "position": 91,
+      "title": "Plant-based diets are good for animals, the environment ...",
+      "link": "https://www.humaneworld.org/en/resources/plant-based-diets-are-good-animals-environment-and-you",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.humaneworld.org/en/resources/plant-based-diets-are-good-animals-environment-and-you&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCNwBEAE",
+      "displayed_link": "https://www.humaneworld.org › resources › plant-based-...",
+      "snippet": "The more plants you eat, the more animals you'll spare from lives of suffering. Fewer mother pigs will be kept in crates so small they can barely move. Fewer ...",
+      "snippet_highlighted_words": [
+        "can"
+      ],
+      "source": "Humane World for Animals"
+    },
+    {
+      "position": 92,
+      "title": "Would going vegan save the planet?",
+      "link": "https://hoards.com/article-28686-would-going-vegan-save-the-planet.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hoards.com/article-28686-would-going-vegan-save-the-planet.html&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCN0BEAE",
+      "displayed_link": "https://hoards.com › ... › Intel › Hoard's Dairyman Intel",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29b872d7c9048838764182dabfb464f19e.png",
+      "date": "Sep 14, 2020",
+      "snippet": "When presented with the question if we could eat ourselves out of climate change, he compared numbers — a person eating vegan for a year would ...",
+      "snippet_highlighted_words": [
+        "could",
+        "vegan",
+        "would"
+      ],
+      "source": "Hoard's Dairyman"
+    },
+    {
+      "position": 93,
+      "title": "What if the whole world went vegan?",
+      "link": "https://www.anthropocenemagazine.org/2016/03/can-vegans-really-save-planet/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.anthropocenemagazine.org/2016/03/can-vegans-really-save-planet/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCNgBEAE",
+      "displayed_link": "https://www.anthropocenemagazine.org › 2016/03 › ca...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29bbe0591200c54f02f74c3bcbc495972f.png",
+      "date": "Mar 22, 2016",
+      "snippet": "Similarly, the researchers calculated that if everyone ate a vegetarian diet, consuming eggs and dairy but no meat, emissions would fall by 44 ...",
+      "snippet_highlighted_words": [
+        "would"
+      ],
+      "source": "Anthropocene Magazine"
+    },
+    {
+      "position": 94,
+      "title": "How You Can Help Save the Planet By Going Vegan",
+      "link": "https://www.themanual.com/food-and-drink/going-vegan-environmental-impact/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.themanual.com/food-and-drink/going-vegan-environmental-impact/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCNYBEAE",
+      "displayed_link": "https://www.themanual.com › Food & Drink",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f292145647a008dce76dcad8cfab88a0936.png",
+      "date": "May 7, 2021",
+      "snippet": "Going Vegan Might Be the Single Best Thing You Can Do to Help Save the Planet ... People choose to go vegan for a variety of reasons. Two of the ...",
+      "snippet_highlighted_words": [
+        "Vegan Might",
+        "Can",
+        "Save the Planet",
+        "vegan"
+      ],
+      "source": "The Manual"
+    },
+    {
+      "position": 95,
+      "title": "Vegan for a Better World – Green Veganista",
+      "link": "https://greenveganista.com/2019/03/vegan-for-a-better-world-six-ways-veganism-will-save-us/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://greenveganista.com/2019/03/vegan-for-a-better-world-six-ways-veganism-will-save-us/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCNcBEAE",
+      "displayed_link": "https://greenveganista.com › 2019/03 › vegan-for-a-bet...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29766d4ce7022bc5fc5de8c9873270bff0.png",
+      "date": "Mar 25, 2019",
+      "snippet": "According to the Vegan Society, “If the world went vegan, 8 million human lives could be saved by 2050, greenhouse gas emissions could be ...",
+      "snippet_highlighted_words": [
+        "Vegan",
+        "world",
+        "vegan",
+        "could",
+        "saved",
+        "could"
+      ],
+      "source": "greenveganista.com"
+    },
+    {
+      "position": 96,
+      "title": "Opinion: Which diet will help save our planet: climatarian ...",
+      "link": "https://www.ucl.ac.uk/news/2022/aug/opinion-which-diet-will-help-save-our-planet-climatarian-flexitarian-vegetarian-or-vegan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ucl.ac.uk/news/2022/aug/opinion-which-diet-will-help-save-our-planet-climatarian-flexitarian-vegetarian-or-vegan&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECE4QAQ",
+      "displayed_link": "https://www.ucl.ac.uk › news › aug › opinion-which-diet...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f290bed3467348b3bd43caed866d3f637e5.png",
+      "date": "Aug 12, 2022",
+      "snippet": "If the whole world went vegan it would save nearly 8 billion tonnes CO₂e while even a switch to the Mediterranean diet would still save 3 ...",
+      "snippet_highlighted_words": [
+        "world",
+        "vegan",
+        "would save",
+        "would",
+        "save"
+      ],
+      "source": "UCL"
+    },
+    {
+      "position": 97,
+      "title": "Study Suggests if Everyone Went Vegan, We Could Save ...",
+      "link": "https://www.peta.org/news/new-study-suggests-everyone-went-vegan-save-8-1-million-human-lives-per-year/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.peta.org/news/new-study-suggests-everyone-went-vegan-save-8-1-million-human-lives-per-year/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoFCPMBEAE",
+      "displayed_link": "https://www.peta.org › News",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29f921441fd9db3dec7f25e18d62eb04b6.png",
+      "date": "Mar 24, 2016",
+      "snippet": "And a worldwide shift to vegan eating wouldn't just save lives and the planet: According to the study, it would also cut billions of dollars in ...",
+      "snippet_highlighted_words": [
+        "vegan",
+        "save",
+        "planet",
+        "would"
+      ],
+      "source": "PETA"
+    },
+    {
+      "position": 98,
+      "title": "Switching to plant-based diets means cleaner air",
+      "link": "https://theconversation.com/switching-to-plant-based-diets-means-cleaner-air-and-it-could-save-more-than-200-000-lives-around-the-world-219265",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theconversation.com/switching-to-plant-based-diets-means-cleaner-air-and-it-could-save-more-than-200-000-lives-around-the-world-219265&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECC0QAQ",
+      "displayed_link": "https://theconversation.com › switching-to-plant-based-...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f298d51c8820e60608713a7ad73c6d8250f.png",
+      "date": "Jan 2, 2024",
+      "snippet": "Switching to plant-based diets means cleaner air – and it could save more than 200,000 lives around the world · Healthier diets, cleaner air.",
+      "snippet_highlighted_words": [
+        "could save",
+        "world"
+      ],
+      "source": "The Conversation"
+    },
+    {
+      "position": 99,
+      "title": "WWF Report Suggests Vegan Diet Could Save Animals from ...",
+      "link": "https://www.livekindly.com/wwf-report-vegan-save-animals-extinction/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.livekindly.com/wwf-report-vegan-save-animals-extinction/&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECCsQAQ",
+      "displayed_link": "https://www.livekindly.com › wwf-report-vegan-save-a...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f29f3574a61b84b6383e3b459206ae8ddd4.png",
+      "snippet": "The World Wildlife Foundation's new summary report, titled 'Appetite for Destruction', focuses on the effect our appetite for animal protein has on the planet.",
+      "snippet_highlighted_words": [
+        "World",
+        "planet"
+      ],
+      "source": "livekindly.com"
+    },
+    {
+      "position": 100,
+      "title": "Vegan Diets Have One-Fourth the Climate Impact of Meat ...",
+      "link": "https://e360.yale.edu/digest/vegan-diet-climate-meat-vegetarian-pescatarian",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://e360.yale.edu/digest/vegan-diet-climate-meat-vegetarian-pescatarian&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQFnoECC8QAQ",
+      "displayed_link": "https://e360.yale.edu › digest › vegan-diet-climate-meat...",
+      "favicon": "https://serpapi.com/searches/68814d4805bb59a330d6d0d7/images/6716f327575afba314fb11e7d9c36f295bfa3c0c161faf43f2f7df2db354a27c.png",
+      "date": "Jul 21, 2023",
+      "snippet": "“Our dietary choices have a big impact on the planet,” Peter Scarborough, a researcher at Oxford University and lead author of the study, said ...",
+      "snippet_highlighted_words": [
+        "planet"
+      ],
+      "source": "Yale E360"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Could veganism save the world debate",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Could+veganism+save+the+world+debate&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ1QJ6BQjVAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Could+veganism+save+the+world+debate"
+    },
+    {
+      "block_position": 1,
+      "query": "Negative effects of veganism on the environment scholarly articles",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Negative+effects+of+veganism+on+the+environment+scholarly+articles&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ1QJ6BQjRAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Negative+effects+of+veganism+on+the+environment+scholarly+articles"
+    },
+    {
+      "block_position": 1,
+      "query": "Could veganism save the world essay",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Could+veganism+save+the+world+essay&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ1QJ6BQjQAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Could+veganism+save+the+world+essay"
+    },
+    {
+      "block_position": 1,
+      "query": "Could veganism save the world 2021",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Could+veganism+save+the+world+2021&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ1QJ6BQjPAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Could+veganism+save+the+world+2021"
+    },
+    {
+      "block_position": 1,
+      "query": "Benefits of veganism on environment",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Benefits+of+veganism+on+environment&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ1QJ6BQjOAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Benefits+of+veganism+on+environment"
+    },
+    {
+      "block_position": 1,
+      "query": "Pros and cons of veganism on the environment",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Pros+and+cons+of+veganism+on+the+environment&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ1QJ6BQjNAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Pros+and+cons+of+veganism+on+the+environment"
+    },
+    {
+      "block_position": 1,
+      "query": "How does veganism help climate change",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=How+does+veganism+help+climate+change&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ1QJ6BQjMAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+does+veganism+help+climate+change"
+    },
+    {
+      "block_position": 1,
+      "query": "Carbon footprint vegan vs meat eater",
+      "link": "https://www.google.com/search?num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&q=Carbon+footprint+vegan+vs+meat+eater&sa=X&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ1QJ6BQjJAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Carbon+footprint+vegan+vs+meat+eater"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=could+veganism+save+the+world&num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&ei=SU2BaNXPGJm_hbIPzKmikQw&start=100&sa=N&sstk=Ac65TH6mOvLEv0KocQ5oeCnCx6U16av_gXk5czLdsd6ccnAof27Hs-f5iZSViRqBax3qkrSJ0z5ROfgwsORf4kT1aNhteLSvI6HVgg&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ8NMDegQIChAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=could+veganism+save+the+world&num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&ei=SU2BaNXPGJm_hbIPzKmikQw&start=100&sa=N&sstk=Ac65TH6mOvLEv0KocQ5oeCnCx6U16av_gXk5czLdsd6ccnAof27Hs-f5iZSViRqBax3qkrSJ0z5ROfgwsORf4kT1aNhteLSvI6HVgg&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=could+veganism+save+the+world&num=100&sca_esv=4508815ad7680cb8&gl=us&hl=en&ei=SU2BaNXPGJm_hbIPzKmikQw&start=200&sa=N&sstk=Ac65TH6mOvLEv0KocQ5oeCnCx6U16av_gXk5czLdsd6ccnAof27Hs-f5iZSViRqBax3qkrSJ0z5ROfgwsORf4kT1aNhteLSvI6HVgg&ved=2ahUKEwiVmLXs79OOAxWZX0EAHcyUKMIQ8tMDegQIChAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=could+veganism+save+the+world&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=could+veganism+save+the+world&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=could+veganism+save+the+world&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=could+veganism+save+the+world&start=200"
+    }
+  }
+}

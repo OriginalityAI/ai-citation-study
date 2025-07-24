@@ -1,0 +1,1536 @@
+{
+  "search_metadata": {
+    "id": "688168386561a6ec139a718a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2ac1edbfb2bee528/688168386561a6ec139a718a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/2ac1edbfb2bee528/688168386561a6ec139a718a.json_with_pixel_position",
+    "created_at": "2025-07-23 22:54:48 UTC",
+    "processed_at": "2025-07-23 22:54:48 UTC",
+    "google_url": "https://www.google.com/search?q=is+covid+forever&oq=is+covid+forever&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2ac1edbfb2bee528/688168386561a6ec139a718a.html",
+    "total_time_taken": 3.26
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "is covid forever",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "is covid forever",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How long will COVID-19 last in your body?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVEyNTNVV1pqU1VjNGN5MXRNVmRsWkdOclVrTm1ORUoyT1dscFZHa3hjek0xT1doTFZtMUJRMUZxWDJoNFJuTmxORTUwVDIxeVR6VmphR3BHYTAwMGRrNUhhbXAxU2tsdFRFdE1OREJRVVZKdVIxVkJibkZJZDFGRFFSSVhUMjFwUW1GTGVYbEVOWFpyTlU1dlVHeDBRME54UVUwYUlrRkdUVUZIUjNGSGF6RjVVbnBoVEc5RmQxbGZTblY0Wlc1c0xUVnpVMFJyY2xFIiwiZmN2IjoiMyIsImVpIjoiT21pQmFLeXlENXZrNU5vUGx0Q0NxQU0iLCJxYyI6IkNoQnBjeUJqYjNacFpDQm1iM0psZG1WeUVBQVlBWDBJOGtrXyIsInF1ZXN0aW9uIjoiSG93IGxvbmcgd2lsbCBDT1ZJRC0xOSBsYXN0IGluIHlvdXIgYm9keT8iLCJsayI6IkdpaG9iM2NnYkc5dVp5QjNhV3hzSUdOdmRtbGtJREU1SUd4aGMzUWdhVzRnZVc5MWNpQmliMlI1IiwiYnMiOiJjLU9LNHRMMHlDOVh5TW5QUzFjb3o4ekpVWEQyRF9OMDBUVzBWTWhKTEM1UnlNeFRxTXd2TFZKSXlrLXB0SmRvampIU2t0TElRRkdmbkYtV21hS0FUVDJYRDVlU2N5SllRQ0VwRldLd1FrRi1jV1pKWmxtcVFscC1VV3BaYXBHOXhETkxJMlVweFdTRVFvaUo2QXE1bkxua1BZdWhwaFNYZ0t4T1ZDakp5QVM2QTJpcGtZR1JxYjNFMGdJaldTbnB6R0tvRWFpcVFFcTRYTGprWFBKVFljWWtaeVRtcGFlQzdZVTc1Ny1Za2J5VWJBcElFY1FVVEVVQ2pBQSIsImlkIjoiZmNfT21pQmFLeXlENXZrNU5vUGx0Q0NxQU1fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVEyNTNVV1pqU1VjNGN5MXRNVmRsWkdOclVrTm1ORUoyT1dscFZHa3hjek0xT1doTFZtMUJRMUZxWDJoNFJuTmxORTUwVDIxeVR6VmphR3BHYTAwMGRrNUhhbXAxU2tsdFRFdE1OREJRVVZKdVIxVkJibkZJZDFGRFFSSVhUMjFwUW1GTGVYbEVOWFpyTlU1dlVHeDBRME54UVUwYUlrRkdUVUZIUjNGSGF6RjVVbnBoVEc5RmQxbGZTblY0Wlc1c0xUVnpVMFJyY2xFIiwiZmN2IjoiMyIsImVpIjoiT21pQmFLeXlENXZrNU5vUGx0Q0NxQU0iLCJxYyI6IkNoQnBjeUJqYjNacFpDQm1iM0psZG1WeUVBQVlBWDBJOGtrXyIsInF1ZXN0aW9uIjoiSG93IGxvbmcgd2lsbCBDT1ZJRC0xOSBsYXN0IGluIHlvdXIgYm9keT8iLCJsayI6IkdpaG9iM2NnYkc5dVp5QjNhV3hzSUdOdmRtbGtJREU1SUd4aGMzUWdhVzRnZVc5MWNpQmliMlI1IiwiYnMiOiJjLU9LNHRMMHlDOVh5TW5QUzFjb3o4ekpVWEQyRF9OMDBUVzBWTWhKTEM1UnlNeFRxTXd2TFZKSXlrLXB0SmRvampIU2t0TElRRkdmbkYtV21hS0FUVDJYRDVlU2N5SllRQ0VwRldLd1FrRi1jV1pKWmxtcVFscC1VV3BaYXBHOXhETkxJMlVweFdTRVFvaUo2QXE1bkxua1BZdWhwaFNYZ0t4T1ZDakp5QVM2QTJpcGtZR1JxYjNFMGdJaldTbnB6R0tvRWFpcVFFcTRYTGprWFBKVFljWWtaeVRtcGFlQzdZVTc1Ny1Za2J5VWJBcElFY1FVVEVVQ2pBQSIsImlkIjoiZmNfT21pQmFLeXlENXZrNU5vUGx0Q0NxQU1fMSJ9"
+    },
+    {
+      "question": "Can you be COVID positive forever?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVEyNTNVV1pqU1VjNGN5MXRNVmRsWkdOclVrTm1ORUoyT1dscFZHa3hjek0xT1doTFZtMUJRMUZxWDJoNFJuTmxORTUwVDIxeVR6VmphR3BHYTAwMGRrNUhhbXAxU2tsdFRFdE1OREJRVVZKdVIxVkJibkZJZDFGRFFSSVhUMjFwUW1GTGVYbEVOWFpyTlU1dlVHeDBRME54UVUwYUlrRkdUVUZIUjNGSGF6RjVVbnBoVEc5RmQxbGZTblY0Wlc1c0xUVnpVMFJyY2xFIiwiZmN2IjoiMyIsImVpIjoiT21pQmFLeXlENXZrNU5vUGx0Q0NxQU0iLCJxYyI6IkNoQnBjeUJqYjNacFpDQm1iM0psZG1WeUVBQVlBWDBJOGtrXyIsInF1ZXN0aW9uIjoiQ2FuIHlvdSBiZSBDT1ZJRCBwb3NpdGl2ZSBmb3JldmVyPyIsImxrIjoiR2lGallXNGdlVzkxSUdKbElHTnZkbWxrSUhCdmMybDBhWFpsSUdadmNtVjJaWEkiLCJicyI6ImMtT0s0dEwweUM5WHlNblBTMWNvejh6SlVYRDJEX04wMFRXMFZNaEpMQzVSeU14VHFNd3ZMVkpJeWstcHRKZG9qakhTa3RMSVFGR2ZuRi1XbWFLQVRUMlhENWVTY3lKWVFDRXBGV0t3UWtGLWNXWkpabG1xUWxwLVVXcFphcEc5eEROTEkyVXB4V1NFUW9pSjZBcTVuTG5rUFl1aHBoU1hnS3hPVkNqSnlBUzZBMmlwa1lHUnFiM0UwZ0lqV1NucHpHS29FYWlxUUVxNFhMamtYUEpUWWNZa1p5VG1wYWVDN1lVNzU3LVlrYnlVYkFwSUVjUVVURVVDakFBIiwiaWQiOiJmY19PbWlCYUt5eUQ1dms1Tm9QbHRDQ3FBTV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVEyNTNVV1pqU1VjNGN5MXRNVmRsWkdOclVrTm1ORUoyT1dscFZHa3hjek0xT1doTFZtMUJRMUZxWDJoNFJuTmxORTUwVDIxeVR6VmphR3BHYTAwMGRrNUhhbXAxU2tsdFRFdE1OREJRVVZKdVIxVkJibkZJZDFGRFFSSVhUMjFwUW1GTGVYbEVOWFpyTlU1dlVHeDBRME54UVUwYUlrRkdUVUZIUjNGSGF6RjVVbnBoVEc5RmQxbGZTblY0Wlc1c0xUVnpVMFJyY2xFIiwiZmN2IjoiMyIsImVpIjoiT21pQmFLeXlENXZrNU5vUGx0Q0NxQU0iLCJxYyI6IkNoQnBjeUJqYjNacFpDQm1iM0psZG1WeUVBQVlBWDBJOGtrXyIsInF1ZXN0aW9uIjoiQ2FuIHlvdSBiZSBDT1ZJRCBwb3NpdGl2ZSBmb3JldmVyPyIsImxrIjoiR2lGallXNGdlVzkxSUdKbElHTnZkbWxrSUhCdmMybDBhWFpsSUdadmNtVjJaWEkiLCJicyI6ImMtT0s0dEwweUM5WHlNblBTMWNvejh6SlVYRDJEX04wMFRXMFZNaEpMQzVSeU14VHFNd3ZMVkpJeWstcHRKZG9qakhTa3RMSVFGR2ZuRi1XbWFLQVRUMlhENWVTY3lKWVFDRXBGV0t3UWtGLWNXWkpabG1xUWxwLVVXcFphcEc5eEROTEkyVXB4V1NFUW9pSjZBcTVuTG5rUFl1aHBoU1hnS3hPVkNqSnlBUzZBMmlwa1lHUnFiM0UwZ0lqV1NucHpHS29FYWlxUUVxNFhMamtYUEpUWWNZa1p5VG1wYWVDN1lVNzU3LVlrYnlVYkFwSUVjUVVURVVDakFBIiwiaWQiOiJmY19PbWlCYUt5eUQ1dms1Tm9QbHRDQ3FBTV8xIn0%3D"
+    },
+    {
+      "question": "Is COVID still a thing in 2025?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVEyNTNVV1pqU1VjNGN5MXRNVmRsWkdOclVrTm1ORUoyT1dscFZHa3hjek0xT1doTFZtMUJRMUZxWDJoNFJuTmxORTUwVDIxeVR6VmphR3BHYTAwMGRrNUhhbXAxU2tsdFRFdE1OREJRVVZKdVIxVkJibkZJZDFGRFFSSVhUMjFwUW1GTGVYbEVOWFpyTlU1dlVHeDBRME54UVUwYUlrRkdUVUZIUjNGSGF6RjVVbnBoVEc5RmQxbGZTblY0Wlc1c0xUVnpVMFJyY2xFIiwiZmN2IjoiMyIsImVpIjoiT21pQmFLeXlENXZrNU5vUGx0Q0NxQU0iLCJxYyI6IkNoQnBjeUJqYjNacFpDQm1iM0psZG1WeUVBQVlBWDBJOGtrXyIsInF1ZXN0aW9uIjoiSXMgQ09WSUQgc3RpbGwgYSB0aGluZyBpbiAyMDI1PyIsImxrIjoiR2h0cGN5QmpiM1pwWkNCemRHbHNiQ0JoSUhSb2FXNW5JREl3TWpVIiwiYnMiOiJjLU9LNHRMMHlDOVh5TW5QUzFjb3o4ekpVWEQyRF9OMDBUVzBWTWhKTEM1UnlNeFRxTXd2TFZKSXlrLXB0SmRvampIU2t0TElRRkdmbkYtV21hS0FUVDJYRDVlU2N5SllRQ0VwRldLd1FrRi1jV1pKWmxtcVFscC1VV3BaYXBHOXhETkxJMlVweFdTRVFvaUo2QXE1bkxua1BZdWhwaFNYZ0t4T1ZDakp5QVM2QTJpcGtZR1JxYjNFMGdJaldTbnB6R0tvRWFpcVFFcTRYTGprWFBKVFljWWtaeVRtcGFlQzdZVTc1Ny1Za2J5VWJBcElFY1FVVEVVQ2pBQSIsImlkIjoiZmNfT21pQmFLeXlENXZrNU5vUGx0Q0NxQU1fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVEyNTNVV1pqU1VjNGN5MXRNVmRsWkdOclVrTm1ORUoyT1dscFZHa3hjek0xT1doTFZtMUJRMUZxWDJoNFJuTmxORTUwVDIxeVR6VmphR3BHYTAwMGRrNUhhbXAxU2tsdFRFdE1OREJRVVZKdVIxVkJibkZJZDFGRFFSSVhUMjFwUW1GTGVYbEVOWFpyTlU1dlVHeDBRME54UVUwYUlrRkdUVUZIUjNGSGF6RjVVbnBoVEc5RmQxbGZTblY0Wlc1c0xUVnpVMFJyY2xFIiwiZmN2IjoiMyIsImVpIjoiT21pQmFLeXlENXZrNU5vUGx0Q0NxQU0iLCJxYyI6IkNoQnBjeUJqYjNacFpDQm1iM0psZG1WeUVBQVlBWDBJOGtrXyIsInF1ZXN0aW9uIjoiSXMgQ09WSUQgc3RpbGwgYSB0aGluZyBpbiAyMDI1PyIsImxrIjoiR2h0cGN5QmpiM1pwWkNCemRHbHNiQ0JoSUhSb2FXNW5JREl3TWpVIiwiYnMiOiJjLU9LNHRMMHlDOVh5TW5QUzFjb3o4ekpVWEQyRF9OMDBUVzBWTWhKTEM1UnlNeFRxTXd2TFZKSXlrLXB0SmRvampIU2t0TElRRkdmbkYtV21hS0FUVDJYRDVlU2N5SllRQ0VwRldLd1FrRi1jV1pKWmxtcVFscC1VV3BaYXBHOXhETkxJMlVweFdTRVFvaUo2QXE1bkxua1BZdWhwaFNYZ0t4T1ZDakp5QVM2QTJpcGtZR1JxYjNFMGdJaldTbnB6R0tvRWFpcVFFcTRYTGprWFBKVFljWWtaeVRtcGFlQzdZVTc1Ny1Za2J5VWJBcElFY1FVVEVVQ2pBQSIsImlkIjoiZmNfT21pQmFLeXlENXZrNU5vUGx0Q0NxQU1fMSJ9"
+    },
+    {
+      "question": "Does COVID change you forever?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVEyNTNVV1pqU1VjNGN5MXRNVmRsWkdOclVrTm1ORUoyT1dscFZHa3hjek0xT1doTFZtMUJRMUZxWDJoNFJuTmxORTUwVDIxeVR6VmphR3BHYTAwMGRrNUhhbXAxU2tsdFRFdE1OREJRVVZKdVIxVkJibkZJZDFGRFFSSVhUMjFwUW1GTGVYbEVOWFpyTlU1dlVHeDBRME54UVUwYUlrRkdUVUZIUjNGSGF6RjVVbnBoVEc5RmQxbGZTblY0Wlc1c0xUVnpVMFJyY2xFIiwiZmN2IjoiMyIsImVpIjoiT21pQmFLeXlENXZrNU5vUGx0Q0NxQU0iLCJxYyI6IkNoQnBjeUJqYjNacFpDQm1iM0psZG1WeUVBQVlBWDBJOGtrXyIsInF1ZXN0aW9uIjoiRG9lcyBDT1ZJRCBjaGFuZ2UgeW91IGZvcmV2ZXI/IiwibGsiOiJHaDFrYjJWeklHTnZkbWxrSUdOb1lXNW5aU0I1YjNVZ1ptOXlaWFpsY2ciLCJicyI6ImMtT0s0dEwweUM5WHlNblBTMWNvejh6SlVYRDJEX04wMFRXMFZNaEpMQzVSeU14VHFNd3ZMVkpJeWstcHRKZG9qakhTa3RMSVFGR2ZuRi1XbWFLQVRUMlhENWVTY3lKWVFDRXBGV0t3UWtGLWNXWkpabG1xUWxwLVVXcFphcEc5eEROTEkyVXB4V1NFUW9pSjZBcTVuTG5rUFl1aHBoU1hnS3hPVkNqSnlBUzZBMmlwa1lHUnFiM0UwZ0lqV1NucHpHS29FYWlxUUVxNFhMamtYUEpUWWNZa1p5VG1wYWVDN1lVNzU3LVlrYnlVYkFwSUVjUVVURVVDakFBIiwiaWQiOiJmY19PbWlCYUt5eUQ1dms1Tm9QbHRDQ3FBTV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVEyNTNVV1pqU1VjNGN5MXRNVmRsWkdOclVrTm1ORUoyT1dscFZHa3hjek0xT1doTFZtMUJRMUZxWDJoNFJuTmxORTUwVDIxeVR6VmphR3BHYTAwMGRrNUhhbXAxU2tsdFRFdE1OREJRVVZKdVIxVkJibkZJZDFGRFFSSVhUMjFwUW1GTGVYbEVOWFpyTlU1dlVHeDBRME54UVUwYUlrRkdUVUZIUjNGSGF6RjVVbnBoVEc5RmQxbGZTblY0Wlc1c0xUVnpVMFJyY2xFIiwiZmN2IjoiMyIsImVpIjoiT21pQmFLeXlENXZrNU5vUGx0Q0NxQU0iLCJxYyI6IkNoQnBjeUJqYjNacFpDQm1iM0psZG1WeUVBQVlBWDBJOGtrXyIsInF1ZXN0aW9uIjoiRG9lcyBDT1ZJRCBjaGFuZ2UgeW91IGZvcmV2ZXI%2FIiwibGsiOiJHaDFrYjJWeklHTnZkbWxrSUdOb1lXNW5aU0I1YjNVZ1ptOXlaWFpsY2ciLCJicyI6ImMtT0s0dEwweUM5WHlNblBTMWNvejh6SlVYRDJEX04wMFRXMFZNaEpMQzVSeU14VHFNd3ZMVkpJeWstcHRKZG9qakhTa3RMSVFGR2ZuRi1XbWFLQVRUMlhENWVTY3lKWVFDRXBGV0t3UWtGLWNXWkpabG1xUWxwLVVXcFphcEc5eEROTEkyVXB4V1NFUW9pSjZBcTVuTG5rUFl1aHBoU1hnS3hPVkNqSnlBUzZBMmlwa1lHUnFiM0UwZ0lqV1NucHpHS29FYWlxUUVxNFhMamtYUEpUWWNZa1p5VG1wYWVDN1lVNzU3LVlrYnlVYkFwSUVjUVVURVVDakFBIiwiaWQiOiJmY19PbWlCYUt5eUQ1dms1Tm9QbHRDQ3FBTV8xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "No, COVID-19 is not a permanently incurable disease. While some individuals experience persistent symptoms known as long COVID, it is not inherently a permanent condition for everyone. For many, long COVID symptoms improve over time, and ongoing research is aimed at developing better treatments and understanding the underlying causes to aid in recovery.",
+        "snippet_highlighted_words": [
+          "No, COVID-19 is not a permanently incurable disease"
+        ],
+        "reference_indexes": [
+          0,
+          1,
+          5,
+          8
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Here's a more detailed explanation:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Acute COVID-19:",
+            "snippet": "The initial infection typically resolves within a few weeks.",
+            "reference_indexes": [
+              6,
+              9
+            ]
+          },
+          {
+            "title": "Long COVID:",
+            "snippet": "Some individuals experience symptoms that persist for weeks, months, or even longer after the initial infection. These symptoms can vary widely and may include fatigue, shortness of breath, cognitive difficulties (\"brain fog\"), and other issues.",
+            "reference_indexes": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              7,
+              10,
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Long COVID Basics",
+      "link": "https://www.cdc.gov/covid/long-term-effects/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdc.gov/covid/long-term-effects/index.html&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECCwQAQ",
+      "displayed_link": "https://www.cdc.gov › covid › long-term-effects",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d523e9a687229e9d15c6a87a47ad413416.png",
+      "date": "Feb 3, 2025",
+      "snippet": "Long COVID is defined as a chronic condition that occurs after SARS-CoV-2 infection and is present for at least 3 months.",
+      "snippet_highlighted_words": [
+        "is present for at least 3 months"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Signs and Symptoms of Long...",
+            "link": "https://www.cdc.gov/covid/long-term-effects/long-covid-signs-symptoms.html"
+          },
+          {
+            "title": "Living with Long COVID",
+            "link": "https://www.cdc.gov/covid/long-term-effects/living-with-long-covid.html"
+          },
+          {
+            "title": "ME/CFS",
+            "link": "https://www.cdc.gov/me-cfs/about/index.html"
+          }
+        ]
+      },
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "Long COVID: Lasting effects of COVID-19",
+      "link": "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-long-term-effects/art-20490351",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-long-term-effects/art-20490351&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECCsQAQ",
+      "displayed_link": "https://www.mayoclinic.org › in-depth › art-20490351",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d50b5158d4518f803fb691083987369f56.png",
+      "date": "Aug 23, 2024",
+      "snippet": "COVID-19 can have lasting symptoms that affect many parts of the body. Learn more about the symptoms and effects of long COVID.",
+      "snippet_highlighted_words": [
+        "COVID-19 can have lasting symptoms that affect many parts of the body"
+      ],
+      "source": "Mayo Clinic"
+    },
+    {
+      "position": 3,
+      "title": "Long-term effects of COVID-19 (long COVID)",
+      "link": "https://www.nhs.uk/conditions/covid-19/long-term-effects-of-covid-19-long-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhs.uk/conditions/covid-19/long-term-effects-of-covid-19-long-covid/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECFAQAQ",
+      "displayed_link": "https://www.nhs.uk › Conditions A to Z › COVID-19",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5d23781a4e58d96aa5fec13f7feaefd51.png",
+      "snippet": "What is long COVID? Most people with COVID-19 feel better within a few days or weeks of their first symptoms and make a full recovery within 12 weeks.",
+      "snippet_highlighted_words": [
+        "Most people with COVID-19 feel better within a few days or weeks of their first symptoms"
+      ],
+      "source": "nhs.uk"
+    },
+    {
+      "position": 4,
+      "title": "COVID-19 Virus Can Stay in the Body More Than a Year ...",
+      "link": "https://www.ucsf.edu/news/2024/03/427241/covid-19-virus-can-stay-body-more-year-after-infection",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ucsf.edu/news/2024/03/427241/covid-19-virus-can-stay-body-more-year-after-infection&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECGMQAQ",
+      "displayed_link": "https://www.ucsf.edu › news › 2024/03 › covid-19-viru...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d59bdf14dbbfcd13d1948112e9f60b2091.png",
+      "date": "Mar 7, 2024",
+      "snippet": "The COVID-19 virus can persist in the blood and tissue of patients for more than a year after the acute phase of the illness has ended.",
+      "snippet_highlighted_words": [
+        "more than a year"
+      ],
+      "source": "UC San Francisco"
+    },
+    {
+      "position": 5,
+      "title": "Long COVID still worrisome 2 years after infection",
+      "link": "https://medicine.washu.edu/news/long-covid-still-worrisome-2-years-after-infection/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medicine.washu.edu/news/long-covid-still-worrisome-2-years-after-infection/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCI8CEAE",
+      "displayed_link": "https://medicine.washu.edu › news › long-covid-still-w...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d546b2c8b9afe277316dee1657b49924ce.png",
+      "snippet": "People who had COVID-19 were still, up to two years after infection, at an elevated risk for diabetes, lung conditions, fatigue, blood clots and disorders.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "WashU Medicine"
+    },
+    {
+      "position": 6,
+      "title": "Had COVID recently? Here's what to know about how long ...",
+      "link": "https://www.aamc.org/news/had-covid-recently-here-s-what-know-about-how-long-immunity-lasts-long-covid-and-more",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aamc.org/news/had-covid-recently-here-s-what-know-about-how-long-immunity-lasts-long-covid-and-more&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECE4QAQ",
+      "displayed_link": "https://www.aamc.org › news › had-covid-recently-here...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5aed363fbb7e415ac3b77727c283017a0.png",
+      "date": "Feb 7, 2024",
+      "snippet": "The immune response from a COVID-19 infection usually tamps down after 3-4 months, says Kawsar Talaat, MD, a vaccinologist and associate professor.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "AAMC"
+    },
+    {
+      "position": 7,
+      "title": "Endemic COVID-19",
+      "link": "https://en.wikipedia.org/wiki/Endemic_COVID-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Endemic_COVID-19&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCKgBEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Endemic_COVID-19",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d516ea0df5b93c32320f9d2870cb4444ec.png",
+      "snippet": "The observed behavior of SARS-CoV-2, the virus that causes COVID-19, suggests it is unlikely it will die out, and the lack of a COVID-19 vaccine that provides ...",
+      "snippet_highlighted_words": [
+        "unlikely it will die out"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 8,
+      "title": "COVID is still around and a risk to vulnerable people. What ...",
+      "link": "https://theconversation.com/covid-is-still-around-and-a-risk-to-vulnerable-people-what-are-the-symptoms-in-2025-and-how-long-does-it-last-253840",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theconversation.com/covid-is-still-around-and-a-risk-to-vulnerable-people-what-are-the-symptoms-in-2025-and-how-long-does-it-last-253840&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCJICEAE",
+      "displayed_link": "https://theconversation.com › covid-is-still-around-and-...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5815fee50e628f049081355c20a8ec6a1.png",
+      "date": "May 6, 2025",
+      "snippet": "In most people with mild to moderate COVID, it can last 7–10 days. Symptomatic people can spread the infection to others from about 48 hours ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "The Conversation"
+    },
+    {
+      "position": 9,
+      "title": "Is COVID-19 Still a Pandemic? | The Brink",
+      "link": "https://www.bu.edu/articles/2024/is-covid-19-still-a-pandemic/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bu.edu/articles/2024/is-covid-19-still-a-pandemic/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCMUCEAE",
+      "displayed_link": "https://www.bu.edu › articles › is-covid-19-still-a-pande...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5603c2d79cf4f6d723c0e7af8d483d108.png",
+      "date": "Mar 4, 2024",
+      "snippet": "Three experts explain how COVID-19 is shifting from pandemic to endemic and why there is still a need to remain vigilant.",
+      "snippet_highlighted_words": [
+        "how COVID-19 is shifting from pandemic to endemic"
+      ],
+      "source": "Boston University"
+    },
+    {
+      "position": 10,
+      "title": "Post COVID-19 condition (long COVID)",
+      "link": "https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid)&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECFMQAQ",
+      "displayed_link": "https://www.who.int › Newsroom › Fact sheets › Detail",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d59200ce03ca2c8afe140dc7c0d88cd642.png",
+      "date": "Feb 26, 2025",
+      "snippet": "Most patients with COVID-19 recover fully, but some develop post COVID-19 condition with medium- to long-term effects on one or more body ...",
+      "snippet_highlighted_words": [
+        "Most patients with COVID-19 recover fully"
+      ],
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 11,
+      "title": "COVID-19",
+      "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCIkBEAE",
+      "displayed_link": "https://www.hopkinsmedicine.org › health › coronavirus",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5522941fcc5845f52835b598d31de0a4a.png",
+      "snippet": "How long do COVID-19 symptoms last? ... Active illness can last one to two weeks if you have mild or moderate coronavirus disease, but severe cases can last ...",
+      "snippet_highlighted_words": [
+        "Active illness can last one to two weeks"
+      ],
+      "source": "Johns Hopkins Medicine"
+    },
+    {
+      "position": 12,
+      "title": "As Recommendations for Isolation End, How Common is ...",
+      "link": "https://www.kff.org/coronavirus-covid-19/issue-brief/as-recommendations-for-isolation-end-how-common-is-long-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kff.org/coronavirus-covid-19/issue-brief/as-recommendations-for-isolation-end-how-common-is-long-covid/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCLsBEAE",
+      "displayed_link": "https://www.kff.org › coronavirus-covid-19 › issue-brief",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5ef8b2e31c04010edeea5027320226295.png",
+      "date": "Apr 9, 2024",
+      "snippet": "7% of all adults—roughly 17 million people—reported currently having long COVID in March 2024. The latest data show that rates of long COVID ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID"
+      ],
+      "source": "KFF"
+    },
+    {
+      "position": 13,
+      "title": "Living with Long COVID",
+      "link": "https://www.cdc.gov/covid/long-term-effects/living-with-long-covid.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdc.gov/covid/long-term-effects/living-with-long-covid.html&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCOIBEAE",
+      "displayed_link": "https://www.cdc.gov › covid › long-term-effects › livin...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5e4f5bd5e6a372bce99c53efab0d4f7ef.png",
+      "date": "Feb 3, 2025",
+      "snippet": "Long COVID is a serious illness that can result in chronic conditions requiring comprehensive care and may cause disability.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "position": 14,
+      "title": "Here are 5 ways the pandemic changed us",
+      "link": "https://www.npr.org/sections/shots-health-news/2025/03/19/nx-s1-5332116/pandemic-covid-5-year-anniversary-vaccines-dogs-brain-fog",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.npr.org/sections/shots-health-news/2025/03/19/nx-s1-5332116/pandemic-covid-5-year-anniversary-vaccines-dogs-brain-fog&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCJMCEAE",
+      "displayed_link": "https://www.npr.org › 2025/03/19 › nx-s1-5332116",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d566a170a59f2f9c52ae2fca4f1a7fe6a7.png",
+      "date": "Mar 19, 2025",
+      "snippet": "Here are five more examples of lessons we have learned and things COVID changed permanently, though it is not an exhaustive list.",
+      "snippet_highlighted_words": [
+        "things COVID changed permanently"
+      ],
+      "source": "NPR"
+    },
+    {
+      "position": 15,
+      "title": "About Long COVID and other Post-Viral Infection ...",
+      "link": "https://www.health.state.mn.us/diseases/longcovid/about.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.state.mn.us/diseases/longcovid/about.html&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCK4CEAE",
+      "displayed_link": "https://www.health.state.mn.us › diseases › about",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d55d43e6b1a2919dacffc1f3539be2b81f.png",
+      "date": "May 23, 2025",
+      "snippet": "For many people, long COVID symptoms will gradually improve over time. For others, symptoms may progressively get worse and could become ...",
+      "snippet_highlighted_words": [
+        "For many people, long COVID symptoms will gradually improve over time"
+      ],
+      "source": "MN Dept. of Health"
+    },
+    {
+      "position": 16,
+      "title": "COVID-19 has become endemic",
+      "link": "https://www.unc.edu/discover/covid-19-has-become-endemic/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unc.edu/discover/covid-19-has-become-endemic/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCMQCEAE",
+      "displayed_link": "https://www.unc.edu › discover › covid-19-has-become...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d57a74ab26465630ebe5f96f4d3a2fb655.png",
+      "date": "4 days ago",
+      "snippet": "COVID-19 is still having a big impact. Even with dramatic decreases in cases, we're losing more than 100 people a day to this virus in the U.S. ...",
+      "snippet_highlighted_words": [
+        "COVID-19 is still having a big impact"
+      ],
+      "source": "The University of North Carolina at Chapel Hill"
+    },
+    {
+      "position": 17,
+      "title": "How long does Coronavirus survive on different surfaces?",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7225631/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC7225631/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCNoCEAE",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC7225631",
+      "author": "by E Hammett",
+      "snippet": "Coronavirus can survive on plastic, stainless steel and countertops as a functional and infectious virus for up to three days (72 hours), the longest of all ...",
+      "snippet_highlighted_words": [
+        "Coronavirus"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 18,
+      "title": "COVID-19 myths: Many were busted, but a dangerous one still ...",
+      "link": "https://epi.ufl.edu/2024/05/28/covid-19-myths-many-were-busted-but-a-dangerous-one-still-prevails/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://epi.ufl.edu/2024/05/28/covid-19-myths-many-were-busted-but-a-dangerous-one-still-prevails/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECFEQAQ",
+      "displayed_link": "https://epi.ufl.edu › 2024/05/28 › covid-19-myths-many...",
+      "date": "May 28, 2024",
+      "snippet": "Long COVID manifests differently in different people and follows varying timelines, making it nearly impossible to make any kind of blanket ...",
+      "snippet_highlighted_words": [
+        "Long COVID manifests differently in different people"
+      ],
+      "source": "Emerging Pathogens Institute"
+    },
+    {
+      "position": 19,
+      "title": "How Long Does COVID-19 Last?",
+      "link": "https://www.verywellhealth.com/how-long-does-covid-last-8547620",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.verywellhealth.com/how-long-does-covid-last-8547620&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECHAQAQ",
+      "displayed_link": "https://www.verywellhealth.com › how-long-does-covi...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d59c4488d7a96502b2e742279a5f164380.png",
+      "date": "Jun 21, 2024",
+      "snippet": "Mild to moderate illness from COVID-19 usually lasts an average of 10 days. For some people, symptoms fade in a matter of days; for others, it ...",
+      "snippet_highlighted_words": [
+        "10"
+      ],
+      "source": "Verywell Health"
+    },
+    {
+      "position": 20,
+      "title": "Coronavirus Disease (COVID-19): Symptoms & Treatment",
+      "link": "https://my.clevelandclinic.org/health/diseases/21214-coronavirus-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my.clevelandclinic.org/health/diseases/21214-coronavirus-covid-19&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCIgBEAE",
+      "displayed_link": "https://my.clevelandclinic.org › health › diseases › 212...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d50aa2c98f2a5c10d82b56c5c98bd492d4.png",
+      "snippet": "Long COVID, a condition where pain, extreme fatigue and other symptoms last for months or years after a COVID infection. Diagnosis and Tests. How doctors ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID"
+      ],
+      "source": "Cleveland Clinic"
+    },
+    {
+      "position": 21,
+      "title": "Long COVID - New York State Department of Health",
+      "link": "https://www.health.ny.gov/diseases/long_covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.ny.gov/diseases/long_covid/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCJ8BEAE",
+      "displayed_link": "https://www.health.ny.gov › diseases › long_covid",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d51a44bdceeb7e2fd22238925a3bd33a3a.jpeg",
+      "snippet": "Long COVID, or Post-Acute Sequelae of SARS-CoV-2 (PASC), is a condition in which individuals infected with COVID-19 continue to experience a wide range of ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID"
+      ],
+      "source": "New York State Department of Health (.gov)"
+    },
+    {
+      "position": 22,
+      "title": "Are we stuck with COVID-19 forever?",
+      "link": "https://www.universityofcalifornia.edu/news/are-we-stuck-covid-19-forever",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.universityofcalifornia.edu/news/are-we-stuck-covid-19-forever&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCL0BEAE",
+      "displayed_link": "https://www.universityofcalifornia.edu › news › are-we-...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d571943eeefbca686b98bd2c05e6424e81.png",
+      "date": "Feb 25, 2021",
+      "snippet": "However, it has become clear that SARS-CoV-2 is here to stay for at least a few more years. While it is likely that the disease will persist, I ...",
+      "snippet_highlighted_words": [
+        "SARS-CoV-2 is here to stay for at least a few more years"
+      ],
+      "source": "University of California"
+    },
+    {
+      "position": 23,
+      "title": "Coronavirus disease (COVID-19)",
+      "link": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCMIBEAE",
+      "displayed_link": "https://www.who.int › Newsroom › Fact sheets › Detail",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5ca77515a0e181facc1acdb8c0771e59a.png",
+      "date": "Aug 9, 2023",
+      "snippet": "Some people who have had COVID-19, whether they have needed hospitalization or not, continue to experience symptoms. These long-term effects are ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 24,
+      "title": "What Is Long COVID? Understanding the Pandemic's ...",
+      "link": "https://www.yalemedicine.org/news/what-is-long-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yalemedicine.org/news/what-is-long-covid&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCOQBEAE",
+      "displayed_link": "https://www.yalemedicine.org › news › what-is-long-co...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5ca18231c0decf516c39d3bcb64595beb.png",
+      "date": "Apr 15, 2024",
+      "snippet": "Long COVID as the “continuation or development of new symptoms three months after the initial SARS-CoV-2 infection, with these symptoms lasting for at least ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Yale Medicine"
+    },
+    {
+      "position": 25,
+      "title": "Long COVID 2025: Symptoms, diagnosis, post-COVID ...",
+      "link": "https://www.youtube.com/watch?v=ilIOh4cZiNI&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "46.5K+ views · 3 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11SF4v329e-YsRBTIUlmGk5QNGRh_HA3PLqTCABEWGLt6&s",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d57ad732ba94678acf50c3d61a1d3eb2b7.png",
+      "snippet": "What is long COVID? What are the signs of long COVID? Does getting COVID multiple times increase long COVID risk? What long COVID treatments ...",
+      "duration": "11:00",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRBOja7jh9uTYz2-kx-qw99XNlWBq68w6ilUA",
+      "source": "YouTube · American Medical Association (AMA)"
+    },
+    {
+      "position": 26,
+      "title": "Long-Term Effects of COVID-19",
+      "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/covid-long-haulers-long-term-effects-of-covid19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/covid-long-haulers-long-term-effects-of-covid19&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCJ4CEAE",
+      "displayed_link": "https://www.hopkinsmedicine.org › health › coronavirus",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5cc5db3b8843e674d8bfc40d38f119a77.png",
+      "date": "Jun 14, 2022",
+      "snippet": "Mild or moderate COVID-19 lasts about two weeks for most people. But others experience lingering health problems even after the fever and cough go away.",
+      "snippet_highlighted_words": [
+        "weeks"
+      ],
+      "source": "Johns Hopkins Medicine"
+    },
+    {
+      "position": 27,
+      "title": "Coronavirus disease 2019 (COVID-19)",
+      "link": "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCJsCEAE",
+      "displayed_link": "https://www.mayoclinic.org › syc-20479963",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5db3ddcd1e7efb37802bb221e2eb966bc.png",
+      "date": "Sep 20, 2024",
+      "snippet": "Medicine can limit the seriousness of the viral infection. Most people recover without long-term effects, but some people have symptoms that ...",
+      "snippet_highlighted_words": [
+        "Most people recover without long-term effects"
+      ],
+      "source": "Mayo Clinic"
+    },
+    {
+      "position": 28,
+      "title": "Coronavirus Resource Center - Harvard Health",
+      "link": "https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCK8CEAE",
+      "displayed_link": "https://www.health.harvard.edu › diseases-and-conditions",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d53b8d7884ee3f0ceabee560d41d943b84.png",
+      "snippet": "Some people may go on to suffer from post-COVID conditions, known as “long COVID.” Mounting evidence suggests that COVID vaccines protect against long COVID.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID",
+        "COVID",
+        "COVID"
+      ],
+      "source": "Harvard Health"
+    },
+    {
+      "position": 29,
+      "title": "How long is COVID infectious? What scientists know so far",
+      "link": "https://www.nature.com/articles/d41586-022-02026-x",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nature.com/articles/d41586-022-02026-x&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCL0CEAE",
+      "displayed_link": "https://www.nature.com › news",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d571f451ddb1cf88e544e4431ce681cd3a.png",
+      "author": "by D Adam",
+      "snippet": "Those with SARS-CoV-2 are often advised to isolate for only a few days. But evidence is mounting that some people can continue to pass on ...",
+      "source": "Nature"
+    },
+    {
+      "position": 30,
+      "title": "COVID-19: Will we have to live with it forever? A virologist ...",
+      "link": "https://www.sciencefocus.com/the-human-body/is-covid-endemic",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencefocus.com/the-human-body/is-covid-endemic&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCMoCEAE",
+      "displayed_link": "https://www.sciencefocus.com › is-covid-endemic",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5777ada658a53a2566e807b8864f68e63.png",
+      "date": "Jan 30, 2022",
+      "snippet": "There are also additional long-term impacts, as it's estimated that nearly 14 per cent of COVID-19 infections result in symptoms lasting three ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "BBC Science Focus Magazine"
+    },
+    {
+      "position": 31,
+      "title": "5 years later, long Covid is still a medical mystery",
+      "link": "https://www.nbcnews.com/health/health-news/5-years-later-long-covid-still-medical-mystery-scientists-learned-rcna195608",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nbcnews.com/health/health-news/5-years-later-long-covid-still-medical-mystery-scientists-learned-rcna195608&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCMwCEAE",
+      "displayed_link": "https://www.nbcnews.com › health › health-news › 5-y...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5e978e3d3708a2a43bf07bdc41f1b2961.png",
+      "date": "Mar 11, 2025",
+      "snippet": "A study published last month found that only about 6% of people with long Covid recover after two years, according to Cohen. Covid vaccination ...",
+      "snippet_highlighted_words": [
+        "only about 6% of people with long Covid recover after two years"
+      ],
+      "source": "NBC News"
+    },
+    {
+      "position": 32,
+      "title": "Long COVID Brain Fog: What It Is and How to Manage It",
+      "link": "https://www.yalemedicine.org/news/how-to-manage-long-covid-brain-fog",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yalemedicine.org/news/how-to-manage-long-covid-brain-fog&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCNgCEAE",
+      "displayed_link": "https://www.yalemedicine.org › news › how-to-manage...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5d81f738178bd912478470a546b112ac1.png",
+      "date": "May 29, 2024",
+      "snippet": "Yale Medicine doctors discuss “brain fog” and how it can affect people with Long COVID. It's not curable, but treatments and coping ...",
+      "snippet_highlighted_words": [
+        "It's not curable"
+      ],
+      "source": "Yale Medicine"
+    },
+    {
+      "position": 33,
+      "title": "No, the COVID-19 Pandemic Isn't Over",
+      "link": "https://health.clevelandclinic.org/is-the-pandemic-over",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://health.clevelandclinic.org/is-the-pandemic-over&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCO0CEAE",
+      "displayed_link": "https://health.clevelandclinic.org › is-the-pandemic-over",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d53a4ce53932ea5d781920a4c548d2e3af.png",
+      "date": "May 25, 2023",
+      "snippet": "Unfortunately, no: The COVID-19 pandemic isn't going anywhere. What's changing is the US government's approach, which means prevention, care and treatment are ...",
+      "snippet_highlighted_words": [
+        "no: The COVID-19 pandemic isn't going anywhere"
+      ],
+      "source": "Cleveland Clinic Health Essentials"
+    },
+    {
+      "position": 34,
+      "title": "Covid-19",
+      "link": "https://en.wikipedia.org/wiki/COVID-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/COVID-19&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECE8QAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › COVID-19",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5ca01a57c85e16ced204384ee510eacb8.png",
+      "snippet": "Some complications result in death. Some people continue to experience a range of effects (long COVID) for months or years after infection, and damage to organs ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 35,
+      "title": "Post-COVID Conditions (Long COVID)",
+      "link": "https://medlineplus.gov/postcovidconditionslongcovid.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medlineplus.gov/postcovidconditionslongcovid.html&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECFIQAQ",
+      "displayed_link": "https://medlineplus.gov › Health Topics",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d520b02864e84e50d1f3df4db9b4a425f6.png",
+      "date": "Apr 30, 2024",
+      "snippet": "Most people's symptoms slowly improve over time. But for some people, the symptoms can last weeks, months, or longer. Sometimes the symptoms are ...",
+      "snippet_highlighted_words": [
+        "Most people's symptoms slowly improve over time"
+      ],
+      "source": "MedlinePlus (.gov)"
+    },
+    {
+      "position": 36,
+      "title": "Will COVID-19 ever go away? | Inside Story",
+      "link": "https://www.youtube.com/watch?v=DHu_cWRDwQw",
+      "displayed_link": "44.3K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEndAgvKQeBe1JUSBGHX5i9QVCPYOWtbPgWL1mr1STabee&s",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d59494482b20f744e4f2473a5530e3d72f.png",
+      "snippet": "It is no longer a global health emergency, but Covid-19 is still a threat. That is according to the World Health Organization, ...",
+      "duration": "27:36",
+      "source": "YouTube · Al Jazeera English"
+    },
+    {
+      "position": 37,
+      "title": "The mystery of why Covid-19 seems to be becoming milder",
+      "link": "https://www.bbc.com/future/article/20250113-why-covid-19-is-becoming-less-deadly",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.com/future/article/20250113-why-covid-19-is-becoming-less-deadly&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECG4QAQ",
+      "displayed_link": "https://www.bbc.com › future › article › 20250113-wh...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5c17710ee5cf2d8146f90efd10e78861b.png",
+      "date": "Jan 14, 2025",
+      "snippet": "The risk of developing Long Covid has not gone away either. For some people, the condition can last years.",
+      "snippet_highlighted_words": [
+        "For some people, the condition can last years"
+      ],
+      "source": "BBC"
+    },
+    {
+      "position": 38,
+      "title": "Coronavirus Recovery: Rate, Time, & Outlook",
+      "link": "https://www.webmd.com/covid/covid-recovery-overview",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/covid/covid-recovery-overview&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECHIQAQ",
+      "displayed_link": "https://www.webmd.com › Coronavirus › Reference",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5fb989b89b3143baa2b16bc5e406bfbfd.png",
+      "date": "Dec 10, 2024",
+      "snippet": "How long does COVID last if vaccinated? COVID-19 vaccines protect against infection. But you can still get COVID-19 even if you're vaccinated.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID",
+        "COVID"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 39,
+      "title": "Is COVID endemic yet? Yep, says the CDC. Here's what ...",
+      "link": "https://www.npr.org/sections/shots-health-news/2024/08/09/nx-s1-5060398/covid-endemic-cdc-summer-surge",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.npr.org/sections/shots-health-news/2024/08/09/nx-s1-5060398/covid-endemic-cdc-summer-surge&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCIwBEAE",
+      "displayed_link": "https://www.npr.org › covid-endemic-cdc-summer-surge",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5f7b80348cf40ad9c3915c606ef96eced.png",
+      "date": "Aug 9, 2024",
+      "snippet": "Four years after SARS-CoV2 sparked a devastating global pandemic, U.S. health officials now consider COVID-19 an endemic disease.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "NPR"
+    },
+    {
+      "position": 40,
+      "title": "Is COVID-19 Still a Pandemic?",
+      "link": "https://time.com/6898943/is-covid-19-still-pandemic-2024/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://time.com/6898943/is-covid-19-still-pandemic-2024/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCI0BEAE",
+      "displayed_link": "https://time.com › Health › COVID-19",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d54e3a6b81b759c48eaea2cc6bc6ede1b0.png",
+      "date": "Mar 11, 2024",
+      "snippet": "The WHO continues to describe COVID-19 as a pandemic on its website. Van Kerkhove says that's reasonable given the virus' continued global presence.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Time Magazine"
+    },
+    {
+      "position": 41,
+      "title": "Is long COVID forever? A new study has clues.",
+      "link": "https://www.nationalgeographic.com/premium/article/long-covid-inflammation-immune-recover",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nationalgeographic.com/premium/article/long-covid-inflammation-immune-recover&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCKIBEAE",
+      "displayed_link": "https://www.nationalgeographic.com › premium › article",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5dd80818b5a541010d9e539783a988a11.png",
+      "date": "May 1, 2024",
+      "snippet": "A new study shows that an abnormally active immune system, a characteristic of long COVID patients, largely subsides two years after the ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "National Geographic"
+    },
+    {
+      "position": 42,
+      "title": "Study Finds Persistent Infection Could Explain Long ...",
+      "link": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/study-finds-persistent-infection-could-explain-long-covid-in-some-people",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/study-finds-persistent-infection-could-explain-long-covid-in-some-people&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCKYBEAE",
+      "displayed_link": "https://www.massgeneralbrigham.org › ... › Newsroom",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5f88223ad1037e77531f10bdf1e860a25.png",
+      "date": "Oct 10, 2024",
+      "snippet": "A persistent infection could explain why some people experience long COVID symptoms, according to a new study led by researchers at Brigham and Women's ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Mass General Brigham"
+    },
+    {
+      "position": 43,
+      "title": "Long COVID 2025: Symptoms, diagnosis, post- ...",
+      "link": "https://www.ama-assn.org/delivering-care/public-health/long-covid-2025-symptoms-diagnosis-post-covid-treatments-and-latest",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ama-assn.org/delivering-care/public-health/long-covid-2025-symptoms-diagnosis-post-covid-treatments-and-latest&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCLwBEAE",
+      "displayed_link": "https://www.ama-assn.org › public-health › long-covid-...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d58aa9122e8f04e5518e928f8d92be11f1.png",
+      "date": "Apr 7, 2025",
+      "snippet": "So when you get infected, reducing the replication of the virus by taking antivirals like Paxlovid might help mitigate long COVID. For the ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "American Medical Association"
+    },
+    {
+      "position": 44,
+      "title": "When will the COVID-19 pandemic end?",
+      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/when-will-the-covid-19-pandemic-end",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mckinsey.com/industries/healthcare/our-insights/when-will-the-covid-19-pandemic-end&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCMQBEAE",
+      "displayed_link": "https://www.mckinsey.com › healthcare › our-insights",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d52a066e8acd73df9ba2c2ece41a9b5e7f.jpeg",
+      "date": "Jul 28, 2022",
+      "snippet": "As long as Omicron remains the dominant variant, there is reason for relative optimism. Our scenario analysis suggests that Omicron-related ...",
+      "source": "McKinsey & Company"
+    },
+    {
+      "position": 45,
+      "title": "Risk of death from COVID-19 lessens, but infection still can ...",
+      "link": "https://medicine.washu.edu/news/covid-can-cause-new-health-problems-3-years-after-infection/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medicine.washu.edu/news/covid-can-cause-new-health-problems-3-years-after-infection/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCNkBEAE",
+      "displayed_link": "https://medicine.washu.edu › news › covid-can-cause-n...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5608ecb8a8fe727aa0bb47a51f38454d5.png",
+      "snippet": "New findings on long COVID by Washington University School of Medicine in St. Louis and the Veterans Affairs St. Louis Health Care system reveal that COVID-19 ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID"
+      ],
+      "source": "WashU Medicine"
+    },
+    {
+      "position": 46,
+      "title": "Study suggests COVID-19 infection no longer grants long- ...",
+      "link": "https://www.gavi.org/vaccineswork/post-omicron-covid-19-infection-no-longer-grants-long-lasting-immunity",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gavi.org/vaccineswork/post-omicron-covid-19-infection-no-longer-grants-long-lasting-immunity&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCNcBEAE",
+      "displayed_link": "https://www.gavi.org › vaccineswork › post-omicron-c...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5e1889bdf229504005595a1265db13461.png",
+      "date": "Feb 11, 2025",
+      "snippet": "A study in Nature, however, has found that since Omicron hit in late 2021, there is effectively no such thing as long-lasting natural immunity ...",
+      "source": "Gavi, the Vaccine Alliance"
+    },
+    {
+      "position": 47,
+      "title": "Can we get rid of Covid-19 forever?",
+      "link": "https://www.youtube.com/watch?v=34oI0yd5YUc",
+      "displayed_link": "2.3M+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0O9MtvLtRgGVReiUlXzx-Wy_TVqP7KE5Z3aWftAJ5v8s&s",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d503fb03acbc39e59d540d8140b63f4140.png",
+      "snippet": "How to eradicate a disease, in 4 steps. ✉️ Sign up for our newsletter: http://www.vox.com/video-newsletter As of March 2021, Covid-19 has ...",
+      "duration": "8:14",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRaDyaXfWKYWAhKDhxSkZCyI1SqILHiZYjKsg",
+      "source": "YouTube · Vox"
+    },
+    {
+      "position": 48,
+      "title": "The coronavirus is here to stay — here's what that means",
+      "link": "https://www.nature.com/articles/d41586-021-00396-2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nature.com/articles/d41586-021-00396-2&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCPYBEAE",
+      "displayed_link": "https://www.nature.com › news feature",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5ec6fc94dc43ffd0237d225bb880dbebd.png",
+      "author": "by S TE",
+      "snippet": "... COVID-19 to see if it persists. If most people develop life-long immunity to the virus, either through natural infection or vaccination ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Nature"
+    },
+    {
+      "position": 49,
+      "title": "Study suggests reinfections from the virus that causes ...",
+      "link": "https://www.nih.gov/news-events/news-releases/study-suggests-reinfections-virus-causes-covid-19-likely-have-similar-severity-original-infection",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nih.gov/news-events/news-releases/study-suggests-reinfections-virus-causes-covid-19-likely-have-similar-severity-original-infection&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCP4BEAE",
+      "displayed_link": "https://www.nih.gov › news-events › news-releases › stu...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5b3e54be759d67dc73480a0ffaf5c0c6c.png",
+      "date": "Jul 11, 2024",
+      "snippet": "Additionally, scientists discovered that long COVID was more likely to occur after a first infection compared to a reinfection. The study, ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 50,
+      "title": "How We Live With the Coronavirus Forever",
+      "link": "https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCIICEAE",
+      "displayed_link": "https://www.theatlantic.com › archive › 2021/08 › how...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d50a2d46fa94b17a456fe2669f02896dc1.png",
+      "date": "Aug 17, 2021",
+      "snippet": "The coronavirus is here forever. This is how we live with it. We can't avoid the virus for the rest of our lives, but we can minimize its impact.",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "forever"
+      ],
+      "source": "The Atlantic"
+    },
+    {
+      "position": 51,
+      "title": "COVID-19 virus can stay in the body more than a year after ...",
+      "link": "https://www.eurekalert.org/news-releases/1036945",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eurekalert.org/news-releases/1036945&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCJ0CEAE",
+      "displayed_link": "https://www.eurekalert.org › news-releases",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5e962bce14fc807050bb0b95c818f549c.png",
+      "date": "Mar 7, 2024",
+      "snippet": "... long COVID. The scientists found pieces of SARS-CoV-2, referred to ... long COVID. They detected portions of viral RNA for up to two ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID"
+      ],
+      "source": "EurekAlert!"
+    },
+    {
+      "position": 52,
+      "title": "Will the COVID-19 pandemic end in 2023",
+      "link": "https://ada.com/covid/covid-19-is-the-pandemic-over/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ada.com/covid/covid-19-is-the-pandemic-over/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCJwCEAE",
+      "displayed_link": "https://ada.com › COVID",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d59e09f48bbb38bf18366f2dfe25c660e0.png",
+      "date": "Jan 1, 2025",
+      "snippet": "Despite progress made in the fight against COVID-19, the virus continues to have a deadly impact. Read on to learn when the COVID pandemic ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID"
+      ],
+      "source": "Health. Powered by Ada."
+    },
+    {
+      "position": 53,
+      "title": "Coronavirus (COVID-19) Information Hub - Health",
+      "link": "https://www.health.com/condition/infectious-diseases/coronavirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.com/condition/infectious-diseases/coronavirus&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCKACEAE",
+      "displayed_link": "https://www.health.com › ... › Infectious Diseases",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d552f6f1239e6997b374f3c07977bcbf28.png",
+      "snippet": "Having Sleep Apnea Also Boosts Your Risk of Developing Long COVID, Study Shows ... How Long Should You Wait to Get Vaccinated After Being Exposed to COVID?",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID"
+      ],
+      "source": "health.com"
+    },
+    {
+      "position": 54,
+      "title": "COVID Five Years Later: From Lockdowns to Long COVID ...",
+      "link": "https://www.youtube.com/watch?v=RgGHwUbKi9o",
+      "displayed_link": "10.5K+ views · 4 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVcyZf4WzNKev9t_R5xBb_WmwOcJ14yF23aWA7tiH9T6mA&s",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5caede4278a664bc015e6ee1bca443ca3.png",
+      "snippet": "Five years ago today, COVID-19 was declared a pandemic and the world changed forever. Since then, there have been over 700 million cases and ...",
+      "duration": "18:19",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQzD0hYH6Qx1-FBCXJvBlcXn5EfXze-k3VcRQ",
+      "source": "YouTube · Amanpour and Company"
+    },
+    {
+      "position": 55,
+      "title": "US FDA Safety Labeling Change for mRNA COVID-19 ...",
+      "link": "https://jamanetwork.com/journals/jama/fullarticle/2836670",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jamanetwork.com/journals/jama/fullarticle/2836670&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCKUCEAE",
+      "displayed_link": "https://jamanetwork.com › JAMA",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d599034d226e7efe64838b13beb9429b95.png",
+      "author": "by V Prasad",
+      "snippet": "The FDA is currently conducting benefit-risk modeling studies based on the evolving risk of COVID-19 severe outcomes and the long-term cardiac ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "JAMA"
+    },
+    {
+      "position": 56,
+      "title": "Everything You Should Know About COVID-19 in 2024",
+      "link": "https://www.healthline.com/health/coronavirus-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/health/coronavirus-covid-19&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCLACEAE",
+      "displayed_link": "https://www.healthline.com › coronavirus-covid-19",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5abcdebc3924d3a5b4fb8ca2601a5da08.png",
+      "snippet": "That said, mild cases can still have long-lasting effects. People who experience symptoms months after first contracting the virus — and after it is no longer ...",
+      "source": "Healthline"
+    },
+    {
+      "position": 57,
+      "title": "The COVID-19 pandemic will fade, but the disease will be ...",
+      "link": "https://www.fastcompany.com/90565349/the-covid-19-pandemic-will-fade-but-the-disease-will-be-with-us-forever",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fastcompany.com/90565349/the-covid-19-pandemic-will-fade-but-the-disease-will-be-with-us-forever&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCLYCEAE",
+      "displayed_link": "https://www.fastcompany.com › Impact",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5632f201c2f0583136cd39c3341926d68.png",
+      "date": "Oct 17, 2020",
+      "snippet": "The COVID-19 pandemic will fade, but the disease will be with us forever · Where we are now in the course of the pandemic · Once they emerge, ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "forever"
+      ],
+      "source": "Fast Company"
+    },
+    {
+      "position": 58,
+      "title": "How long do mRNA and spike proteins last in the body?",
+      "link": "https://www.nebraskamed.com/COVID/where-mrna-vaccines-and-spike-proteins-go",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nebraskamed.com/COVID/where-mrna-vaccines-and-spike-proteins-go&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCLsCEAE",
+      "displayed_link": "https://www.nebraskamed.com › COVID › where-mrna...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d54d0f443dbecfd24f42e049e4442f6deb.png",
+      "snippet": "For COVID-19 vaccines, all of the approved vaccines so far used the spike protein. The spike protein is located on the outside of a coronavirus and is how SARS- ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "coronavirus"
+      ],
+      "source": "Nebraska Medicine"
+    },
+    {
+      "position": 59,
+      "title": "How long can the virus that causes COVID-19 live on surfaces?",
+      "link": "https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCLwCEAE",
+      "displayed_link": "https://hub.jhu.edu › sars-cov-2-survive-on-surfaces",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5a784cb10e415b7fe0ec39507a785d27e.png",
+      "date": "Mar 20, 2020",
+      "snippet": "The study found that the virus is viable for up to 72 hours on plastics, 48 hours on stainless steel, 24 hours on cardboard, and 4 hours on copper.",
+      "source": "Johns Hopkins University"
+    },
+    {
+      "position": 60,
+      "title": "Could We Be Living With COVID-19 Forever?",
+      "link": "https://www.discovermagazine.com/health/could-we-be-living-with-covid-19-forever",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.discovermagazine.com/health/could-we-be-living-with-covid-19-forever&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCMsCEAE",
+      "displayed_link": "https://www.discovermagazine.com › Health",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5575c659fe16fdf090fcd9e644f23d2cf.png",
+      "date": "Mar 30, 2020",
+      "snippet": "With the other four coronaviruses currently endemic in humans, we know that immunity disappears gradually over time — it likely takes years.",
+      "source": "Discover Magazine"
+    },
+    {
+      "position": 61,
+      "title": "Going long: Viruses linger with lasting impact",
+      "link": "https://www.fredhutch.org/en/news/center-news/2023/04/viruses-linger-with-lasting-impact-hpv-hsv-hiv-long-covid.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fredhutch.org/en/news/center-news/2023/04/viruses-linger-with-lasting-impact-hpv-hsv-hiv-long-covid.html&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCM0CEAE",
+      "displayed_link": "https://www.fredhutch.org › ... › Hutch News",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5e7a3e20354cf991a6c0522c20365ea1c.png",
+      "date": "Apr 10, 2023",
+      "snippet": "Herpes, HIV, Epstein-Barr and other viruses hang around, causing potential long-term health woes. Should 'long COVID' surprise us?",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Fred Hutchinson Cancer Center"
+    },
+    {
+      "position": 62,
+      "title": "Long Covid still an issue 5 years after global pandemic began",
+      "link": "https://www.youtube.com/watch?v=hZyOGxzXOAY",
+      "displayed_link": "4.7K+ views · 4 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-I4c8gsBfnkE3vwT9VP4Jv_Lij6DEimECJaNCidqHjuC4&s",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d57e2cd5b5ebcf5ccc4338922321c1d3fc.png",
+      "snippet": "Five years ago, the World Health Organization declared Covid a global pandemic, but many people are still living with the symptoms of long ...",
+      "duration": "4:03",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR1SW6C8QhqHvzgFV9Ttp32X3vECx_BB3AA6g",
+      "source": "YouTube · NBC News"
+    },
+    {
+      "position": 63,
+      "title": "Coronavirus & COVID-19 Overview",
+      "link": "https://www.webmd.com/covid/coronavirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/covid/coronavirus&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCNkCEAE",
+      "displayed_link": "https://www.webmd.com › Coronavirus › Reference",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5352eef1a04d4b3738c016993049af000.png",
+      "date": "Dec 26, 2022",
+      "snippet": "Zeta. How long will the coronavirus last? There's no way to tell how long the pandemic will continue. There ...",
+      "snippet_highlighted_words": [
+        "coronavirus"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 64,
+      "title": "Endemic COVID-19 could be one to 10 years away",
+      "link": "https://ufhealth.org/news/2022/endemic-covid-19-could-be-one-10-years-away",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ufhealth.org/news/2022/endemic-covid-19-could-be-one-10-years-away&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCOACEAE",
+      "displayed_link": "https://ufhealth.org › news › endemic-covid-19-could-b...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5ae440cd4c0bd1b71006ab00c6c7b7291.png",
+      "date": "Feb 23, 2022",
+      "snippet": "Longini is an expert in modeling infectious diseases, vaccine efficacy and clinical trials. He has been involved in projects with collaborators ...",
+      "source": "UF Health"
+    },
+    {
+      "position": 65,
+      "title": "Eight things you need to know about the new “Nimbus” and ...",
+      "link": "https://www.gavi.org/vaccineswork/eight-things-you-need-know-about-new-nimbus-and-stratus-covid-variants",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gavi.org/vaccineswork/eight-things-you-need-know-about-new-nimbus-and-stratus-covid-variants&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCN8CEAE",
+      "displayed_link": "https://www.gavi.org › vaccineswork › eight-things-yo...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d538df110b9578caffe7e08103f1d3e5b4.png",
+      "date": "Jun 16, 2025",
+      "snippet": "COVID-19 mRNA vaccines train immune cells for long-lasting protection · Everything you need to know about next-generation coronavirus vaccines ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "coronavirus"
+      ],
+      "source": "Gavi, the Vaccine Alliance"
+    },
+    {
+      "position": 66,
+      "title": "What doctors wish patients knew about COVID-19 reinfection",
+      "link": "https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-covid-19-reinfection",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-covid-19-reinfection&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCOwCEAE",
+      "displayed_link": "https://www.ama-assn.org › public-health › what-doctor...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d53fb0abe59d65c0bec4e2875406d2ad57.png",
+      "date": "Jan 20, 2023",
+      "snippet": "The COVID-19 bivalent vaccine is key. “We do know that the updated vaccine should reduce your chances of getting reinfected and developing long ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "American Medical Association"
+    },
+    {
+      "position": 67,
+      "title": "5 years after it appeared, things we know and still don't ...",
+      "link": "https://www.pbs.org/newshour/health/5-years-after-it-appeared-things-we-know-and-still-dont-know-about-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pbs.org/newshour/health/5-years-after-it-appeared-things-we-know-and-still-dont-know-about-covid&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCO4CEAE",
+      "displayed_link": "https://www.pbs.org › newshour › health › 5-years-afte...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d55b9b9c50faf9ec9b533069066c3f9b19.png",
+      "date": "Jan 2, 2025",
+      "snippet": "Existing COVID-19 medications and the latest vaccine booster should be effective against it, Long said, since “it's really sort of a remixing of ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "PBS"
+    },
+    {
+      "position": 68,
+      "title": "Is COVID endemic yet? Yep, says the CDC. Here's what ...",
+      "link": "https://www.weaa.org/2024-08-09/is-covid-endemic-yet-yep-says-the-cdc-heres-what-that-means",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.weaa.org/2024-08-09/is-covid-endemic-yet-yep-says-the-cdc-heres-what-that-means&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECFQQAQ",
+      "displayed_link": "https://www.weaa.org › is-covid-endemic-yet-yep-says-t...",
+      "date": "Aug 9, 2024",
+      "snippet": "And then there's long COVID. “I certainly hope that this is not our new normal for COVID,” says Samuel Scarpino, who studies infectious ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID"
+      ],
+      "source": "WEAA"
+    },
+    {
+      "position": 69,
+      "title": "How to order free COVID test kits from the federal ...",
+      "link": "https://consumer.ftc.gov/consumer-alerts/2024/10/how-order-free-covid-test-kits-federal-government-and-avoid-scammers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://consumer.ftc.gov/consumer-alerts/2024/10/how-order-free-covid-test-kits-federal-government-and-avoid-scammers&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECFUQAQ",
+      "displayed_link": "https://consumer.ftc.gov › consumer-alerts › 2024/10 › h...",
+      "date": "Oct 2, 2024",
+      "snippet": "After a long search, you've got that new job. You can't wait to share the good news on social media, but as you're shouting it from the ...",
+      "source": "Federal Trade Commission (.gov)"
+    },
+    {
+      "position": 70,
+      "title": "Covid's Long-Term Effects on the Lungs, Gut, Brain and More",
+      "link": "https://www.nytimes.com/2025/03/10/well/covid-long-term-health-damage.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/2025/03/10/well/covid-long-term-health-damage.html&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECGwQAQ",
+      "displayed_link": "https://www.nytimes.com › 2025/03/10 › well › covid-l...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d517029b5449fe1b608c8dfccc00e6ebd4.png",
+      "date": "Mar 12, 2025",
+      "snippet": "Some of these effects, such as chronic fatigue and brain fog, are considered long Covid, defined as symptoms from an infection that persist for at least three ...",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "The New York Times"
+    },
+    {
+      "position": 71,
+      "title": "How long does SARS-CoV-2 stay in the body?",
+      "link": "https://www.bmj.com/content/377/bmj.o1555",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bmj.com/content/377/bmj.o1555&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECG0QAQ",
+      "displayed_link": "https://www.bmj.com › content › bmj",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d552a6abb41402777fed01a4fb8b60f6f8.png",
+      "author": "by C Stokel-Walker",
+      "snippet": "“There is no evidence—and people have looked very hard for infectious virus persisting outside it.” Even in the respiratory tract, the virus is ...",
+      "source": "The BMJ"
+    },
+    {
+      "position": 72,
+      "title": "We Might Have to Live With COVID Forever—Here's ... - Parade",
+      "link": "https://parade.com/1265108/ericasweeney/will-covid-19-ever-end/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://parade.com/1265108/ericasweeney/will-covid-19-ever-end/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECG8QAQ",
+      "displayed_link": "https://parade.com › Health & Wellness",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5908ed2936e19a8c416075baf3d6adb91.png",
+      "date": "Sep 24, 2021",
+      "snippet": "Will COVID-19 ever end? Medical experts say we may have to live with COVID forever, although it won't be in the same state of emergency it ...",
+      "snippet_highlighted_words": [
+        "COVID forever"
+      ],
+      "source": "parade.com"
+    },
+    {
+      "position": 73,
+      "title": "Based on Science",
+      "link": "https://www.nationalacademies.org/based-on-science",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nationalacademies.org/based-on-science&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoECHEQAQ",
+      "displayed_link": "https://www.nationalacademies.org › based-on-science",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5c37d999654ac8c7b8980258bcc2bd9e8.png",
+      "snippet": "FREQUENTLY ASKED QUESTIONS ; COVID-19. Can a COVID-19 test tell me if I'm contagious? ; Climate Change. Are humans causing global warming? ; Vaccines. What is the ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID"
+      ],
+      "source": "National Academies"
+    },
+    {
+      "position": 74,
+      "title": "Will COVID-19 Last Forever?",
+      "link": "https://waradana.com/english/article/115049-will-covid19-last-forever",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://waradana.com/english/article/115049-will-covid19-last-forever&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCIIBEAE",
+      "displayed_link": "https://waradana.com › english › article › 115049-will-...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5907a3cccb4b9bc1d5b4c393f17956dfe.png",
+      "date": "Sep 12, 2024",
+      "snippet": "Will COVID-19 Last Forever? More than a year after the World Health Organization (WHO) declared the COVID-19 pandemic's onset, we are now ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Forever",
+        "COVID"
+      ],
+      "source": "وردنا"
+    },
+    {
+      "position": 75,
+      "title": "COVID-19 will likely be with us forever. Here's how we'll ...",
+      "link": "https://www.nationalgeographic.com/science/article/covid-19-will-likely-be-with-us-forever-heres-how-well-live-with-it",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nationalgeographic.com/science/article/covid-19-will-likely-be-with-us-forever-heres-how-well-live-with-it&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCIQBEAE",
+      "displayed_link": "https://www.nationalgeographic.com › science › article",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d54a469f3cf3e38985ff570ea943f93e1d.png",
+      "date": "Jan 22, 2021",
+      "snippet": "Eventually, the virus could become a much milder illness—but for now, vaccination and surveillance are critical to end the pandemic phase ...",
+      "source": "National Geographic"
+    },
+    {
+      "position": 76,
+      "title": "Our World in Data",
+      "link": "https://ourworldindata.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ourworldindata.org/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCIoBEAE",
+      "displayed_link": "https://ourworldindata.org",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d524fc3517632629dc3dee7699c15df2eb.png",
+      "snippet": "The English cleric Thomas Malthus predicted this would continue forever ... It also shows that the COVID-19 pandemic led to reduced life expectancy worldwide.",
+      "snippet_highlighted_words": [
+        "forever",
+        "COVID"
+      ],
+      "source": "Our World in Data"
+    },
+    {
+      "position": 77,
+      "title": "Frequently Asked Questions",
+      "link": "https://www.redcrossblood.org/faq.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.redcrossblood.org/faq.html&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCIsBEAE",
+      "displayed_link": "https://www.redcrossblood.org › faq",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5c6b6e8ab8772ef612b9eba50a9b5561d.png",
+      "snippet": "How does the blood donation process work? · What should I do after donating blood? · Will it hurt when you insert the needle? · How long does a blood donation take ...",
+      "source": "Red Cross Blood Donation"
+    },
+    {
+      "position": 78,
+      "title": "Long COVID has affected millions. Here's what scientists ...",
+      "link": "https://www.cbsnews.com/news/long-covid-what-scientists-now-know/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbsnews.com/news/long-covid-what-scientists-now-know/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCI4BEAE",
+      "displayed_link": "https://www.cbsnews.com › HealthWatch",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5c6b480f3313c8e5d16bc74adf83a5e05.png",
+      "date": "Jul 19, 2024",
+      "snippet": "It concludes that long COVID is a complex chronic condition that can result in more than 200 health effects across multiple body systems. These ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "CBS News"
+    },
+    {
+      "position": 79,
+      "title": "Will Covid-19 eventually go away or will it remain a threat ...",
+      "link": "https://www.quora.com/Will-Covid-19-eventually-go-away-or-will-it-remain-a-threat-forever",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Will-Covid-19-eventually-go-away-or-will-it-remain-a-threat-forever&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCJ4BEAE",
+      "displayed_link": "3 answers · 1 year ago",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d564702b3cdf681923a43ab712d9d2cde9.png",
+      "snippet": "There is a 90% probability that COVID will be with us forever. Think of the common cold, the flu. There are vaccines for many transmittable ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "forever"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 80,
+      "title": "“Forever Chemicals” Linked to Higher Risk of Type 2 ...",
+      "link": "https://www.mountsinai.org/about/newsroom/2025/forever-chemicals-linked-to-higher-risk-of-type-2-diabetes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mountsinai.org/about/newsroom/2025/forever-chemicals-linked-to-higher-risk-of-type-2-diabetes&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCKEBEAE",
+      "displayed_link": "https://www.mountsinai.org › about › newsroom › fore...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5685ef59e72a95c7b6c1527a989ba1a10.png",
+      "date": "1 day ago",
+      "snippet": "Mount Sinai Health System is one of the largest academic medical systems in the New York metro area, with 48,000 employees working across seven ...",
+      "source": "Mount Sinai"
+    },
+    {
+      "position": 81,
+      "title": "What we learned about long COVID 4 years later",
+      "link": "https://www.youtube.com/watch?v=9kJ5GWb2wzw",
+      "displayed_link": "26.1K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzF9fxyGy-vjNl4BizQqVDwlZ6x5wlEdF38Ay25rr2GlGV&s",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d53eb17200ec448328646a4d7ca1d549a7.png",
+      "snippet": "Millions of Americans are still experiencing long COVID more than four years since the global COVID-19 outbreak was declared a pandemic.",
+      "duration": "3:12",
+      "source": "YouTube · ABC News"
+    },
+    {
+      "position": 82,
+      "title": "COVID can stay in your body long after infection: study",
+      "link": "https://www.miamiherald.com/news/nation-world/national/article287566985.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.miamiherald.com/news/nation-world/national/article287566985.html&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCKUBEAE",
+      "displayed_link": "https://www.miamiherald.com › news › article287566985",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d51db0de014d3123b7a5a985812773c1b9.png",
+      "date": "Apr 10, 2024",
+      "snippet": "A paper published on April 8 in The Lancet presents strong evidence that the COVID-19 virus can persist for months, or even years, after infection.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Miami Herald"
+    },
+    {
+      "position": 83,
+      "title": "Covid may now be an endemic disease, experts say. ...",
+      "link": "https://www.washingtonpost.com/wellness/2025/03/13/covid-endemic-pandemic-five-years/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.washingtonpost.com/wellness/2025/03/13/covid-endemic-pandemic-five-years/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCK8BEAE",
+      "displayed_link": "https://www.washingtonpost.com › wellness › 2025/03/13",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d56fda9615ed6ac65883dc493fb2494dea.png",
+      "date": "Mar 13, 2025",
+      "snippet": "“We know that immunity is not long-lasting,” Topol said. “The virus continues to evolve and find new ways to challenge our immune system.”.",
+      "source": "The Washington Post"
+    },
+    {
+      "position": 84,
+      "title": "COVID-24: Where Are We Now? - Columbia Library Journals",
+      "link": "https://journals.library.columbia.edu/index.php/jgh/blog/view/591",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://journals.library.columbia.edu/index.php/jgh/blog/view/591&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCK0BEAE",
+      "displayed_link": "https://journals.library.columbia.edu › jgh › blog › view",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d57575805975adc4ea10309742480e9cfa.png",
+      "date": "Feb 4, 2024",
+      "snippet": "And what's long COVID?! Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes COVID-19, is notoriously ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "coronavirus",
+        "COVID"
+      ],
+      "source": "Columbia Library Journals"
+    },
+    {
+      "position": 85,
+      "title": "Attention deficits may linger for months in COVID-19 ...",
+      "link": "https://www.psypost.org/attention-deficits-may-linger-for-months-in-covid-19-survivors-even-after-physical-recovery/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.psypost.org/attention-deficits-may-linger-for-months-in-covid-19-survivors-even-after-physical-recovery/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCMMBEAE",
+      "displayed_link": "https://www.psypost.org › Exclusive › Cognitive Science",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d559a7e9e7fc60e49df72bba30b531053b.png",
+      "date": "3 days ago",
+      "snippet": "... long COVID. Their focus was on patients who had not been admitted to the intensive care unit and had recovered their physical functions at ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "PsyPost"
+    },
+    {
+      "position": 86,
+      "title": "Viruses that come to stay",
+      "link": "https://knowablemagazine.org/content/article/health-disease/2020/viruses-come-stay",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://knowablemagazine.org/content/article/health-disease/2020/viruses-come-stay&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCMUBEAE",
+      "displayed_link": "https://knowablemagazine.org › article › health-disease",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d532ac61ce43a6991151c8f296d881b796.png",
+      "date": "Sep 15, 2020",
+      "snippet": "The one causing Covid-19 probably isn't one of them, but it and others can create mischief long after the immune system appears to have banished ...",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "Knowable Magazine"
+    },
+    {
+      "position": 87,
+      "title": "Scientists are piecing together the puzzle of long COVID. ...",
+      "link": "https://www.pbs.org/newshour/health/scientists-are-piecing-together-the-puzzle-of-long-covid-heres-what-to-know",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pbs.org/newshour/health/scientists-are-piecing-together-the-puzzle-of-long-covid-heres-what-to-know&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCMcBEAE",
+      "displayed_link": "https://www.pbs.org › newshour › health › scientists-are...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5523bb3b2d2bdf9e05d269fa61597cbe2.png",
+      "date": "Aug 3, 2024",
+      "snippet": "A new study finds the risks of developing long COVID declined over the first two years of the pandemic. But unvaccinated adults were more ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "PBS"
+    },
+    {
+      "position": 88,
+      "title": "Advance Declaration and ArriveCAN help topics",
+      "link": "https://www.canada.ca/en/border-services-agency/services/arrivecan/help.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.canada.ca/en/border-services-agency/services/arrivecan/help.html&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCMYBEAE",
+      "displayed_link": "https://www.canada.ca › services › arrivecan › help",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5592a87a353ad7b46afeaef4a04416b36.png",
+      "date": "May 1, 2024",
+      "snippet": "The information is stored privately and securely on a Government of Canada server. Since October 2022 , there are no longer COVID-19 related ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Canada.ca"
+    },
+    {
+      "position": 89,
+      "title": "Time to finally stop worrying about COVID?",
+      "link": "https://news.harvard.edu/gazette/story/2024/03/time-to-finally-stop-worrying-about-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.harvard.edu/gazette/story/2024/03/time-to-finally-stop-worrying-about-covid/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCNgBEAE",
+      "displayed_link": "https://news.harvard.edu › gazette › story › 2024/03 › t...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5aecdb2de622f31d682b1210fbf040e52.png",
+      "date": "Mar 8, 2024",
+      "snippet": "The key change reduced the recommended isolation time for those with COVID from five days to one after a fever breaks or other symptoms start improving.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Harvard Gazette"
+    },
+    {
+      "position": 90,
+      "title": "Summer COVID strain 2025, measles news, new RSV vaccine ...",
+      "link": "https://www.youtube.com/watch?v=0tFngNAY3SY&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "57.4K+ views · 1 month ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn1e5N8XvAuyo9JmTb9LPAMD1TlEzBLTWaCMtd0XikSbtG&s",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d55dca179fe97de47d03860c5f208ea3ed.png",
+      "snippet": "How long does COVID last? What's the new COVID study? Is there a new COVID variant? What states have measles? Is there a new RSV vaccine?",
+      "duration": "10:28",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRuaFm-PnGVJEKP9tSH0hhSfqAuTlMWAZrByg",
+      "source": "YouTube · American Medical Association (AMA)"
+    },
+    {
+      "position": 91,
+      "title": "Welcome to Clark County, NV - Home",
+      "link": "https://www.clarkcountynv.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clarkcountynv.gov/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCOEBEAE",
+      "displayed_link": "https://www.clarkcountynv.gov",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d566513c18fe9d87a0d8ce6657e5a7b350.png",
+      "snippet": "The Clark County Government Center is open Monday through Thursday, 7 a.m. - 5:30 p.m. PST. Department-specific hours may vary. Explore More to view our ...",
+      "source": "Clark County (.gov)"
+    },
+    {
+      "position": 92,
+      "title": "During Past Recessions and Economic Downturns, These ...",
+      "link": "https://www.gao.gov/blog/during-past-recessions-and-economic-downturns-these-factors-supported-effective-fiscal-response",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gao.gov/blog/during-past-recessions-and-economic-downturns-these-factors-supported-effective-fiscal-response&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCOMBEAE",
+      "displayed_link": "https://www.gao.gov › blog › during-past-recessions-and...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5bb8978c378feb8c6527f4cec3ae78902.jpeg",
+      "date": "Jul 15, 2025",
+      "snippet": "Depending on how deep an economic downturn is or how long it lasts, changes can be made to expand access to supports. For example, during COVID- ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Government Accountability Office (GAO) (.gov)"
+    },
+    {
+      "position": 93,
+      "title": "Five years after the Covid pandemic, health experts are ...",
+      "link": "https://www.independent.co.uk/news/health/covid-pandemic-endemic-virus-b2714475.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.independent.co.uk/news/health/covid-pandemic-endemic-virus-b2714475.html&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCOUBEAE",
+      "displayed_link": "https://www.independent.co.uk › Health",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d567786d26b6a403b2a978b40eef9bb766.png",
+      "date": "Mar 13, 2025",
+      "snippet": "Long Reads · Politics Explained · News Analysis. More. More. Best · Home ... CovidCoronavirusInfectious diseaseinfectious diseasesvirusviruses ...",
+      "snippet_highlighted_words": [
+        "CovidCoronavirus"
+      ],
+      "source": "The Independent"
+    },
+    {
+      "position": 94,
+      "title": "Shooter McGavin Is Forever",
+      "link": "https://www.theringer.com/2025/07/23/movies/happy-gilmore-2-netflix-shooter-mcgavin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theringer.com/2025/07/23/movies/happy-gilmore-2-netflix-shooter-mcgavin&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCOYBEAE",
+      "displayed_link": "https://www.theringer.com › 2025/07/23 › movies › hap...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5a28df7843928688ac9e5396cf1da9eb6.png",
+      "date": "12 hours ago",
+      "snippet": "Shooter McGavin Is Forever. After nearly three decades, the golfer that everyone loves to hate finally makes his return to the big screen in ' ...",
+      "snippet_highlighted_words": [
+        "Forever"
+      ],
+      "source": "The Ringer"
+    },
+    {
+      "position": 95,
+      "title": "Where's My Refund",
+      "link": "https://revenue.iowa.gov/taxes/wheres-my-refund",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revenue.iowa.gov/taxes/wheres-my-refund&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCPUBEAE",
+      "displayed_link": "https://revenue.iowa.gov › Taxes",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5617200250982aa9fbee6aa26241e22c9.png",
+      "snippet": "Information is updated in real-time. The information on Where's My Refund, available on our website or over the phone at 515-281-3114 or 800-367-3388, is the ...",
+      "source": "Iowa Department of Revenue (.gov)"
+    },
+    {
+      "position": 96,
+      "title": "Medina County District Library",
+      "link": "https://www.mcdl.info/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mcdl.info/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCPQBEAE",
+      "displayed_link": "https://www.mcdl.info",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d564740a788bc24db5d48300f830f671cc.png",
+      "snippet": "COVID Tests · Educational Services · GED Testing & Classes · Kids Services · Library ... She discusses her latest title, Only and Forever July 24 at Medina ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Forever"
+      ],
+      "source": "Medina Library"
+    },
+    {
+      "position": 97,
+      "title": "Covid challenges at the park",
+      "link": "https://www.facebook.com/groups/889761312454334/posts/1237783464318782/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/889761312454334/posts/1237783464318782/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCP8BEAE",
+      "displayed_link": "11 hours ago",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d5f6d47f9b26cd594aaca07bdac278c6db.png",
+      "snippet": "Long Covid Tips on Recovery. 1w ·. 󱟠 · I'd like to have a long covid picnic bash, put on at one of the parks for all of us. Possibly make a ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "covid"
+      ],
+      "source": "Facebook · To Coney, with love."
+    },
+    {
+      "position": 98,
+      "title": "U engineers develop novel material that efficiently removes ...",
+      "link": "https://attheu.utah.edu/science-technology/u-engineers-develop-novel-material-that-efficiently-removes-forever-chemicals/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://attheu.utah.edu/science-technology/u-engineers-develop-novel-material-that-efficiently-removes-forever-chemicals/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCP0BEAE",
+      "displayed_link": "https://attheu.utah.edu › science-technology › u-engine...",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d51469183af9d9e4e38e912760756552b5.png",
+      "date": "1 day ago",
+      "snippet": "COVID-19 · Belonging · Health & Medicine · Humans of the U ... U engineers develop novel material that efficiently removes 'forever chemicals'.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "forever"
+      ],
+      "source": "The University of Utah"
+    },
+    {
+      "position": 99,
+      "title": "Montgomery County Public Libraries (MCPL)",
+      "link": "https://www.montgomerycountymd.gov/library/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.montgomerycountymd.gov/library/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCIECEAE",
+      "displayed_link": "https://www.montgomerycountymd.gov › library",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d57d11f70eeb854ebb9623d897430218a0.png",
+      "snippet": "Long Branch · Maggie Nightingale (Poolesville) · Marilyn J. Praisner ... Montgomery County Covid-19 Data Dashboard · Thrive Montgomery 2050. Explore.",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "Montgomery County Maryland (.gov)"
+    },
+    {
+      "position": 100,
+      "title": "Home | Occupational Safety and Health Administration",
+      "link": "http://www.osha.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.osha.gov/&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQFnoFCIACEAE",
+      "displayed_link": "http://www.osha.gov",
+      "favicon": "https://serpapi.com/searches/688168386561a6ec139a718a/images/cec0a98ba0bcb2bbf851cbeb2c6572d52785dc1dae6f160a87a5bf21ae4a185f.png",
+      "snippet": "We remember the lives lost and those forever affected by 9/11. Provide workers ... COVID-19 Workplace Safety Reminders. Workplace Safety Reminders. Find ...",
+      "snippet_highlighted_words": [
+        "forever",
+        "COVID"
+      ],
+      "source": "Occupational Safety and Health Administration (.gov)"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Long COVID symptoms",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=Long+COVID+symptoms&sa=X&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQ1QJ6BQixAxAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Long+COVID+symptoms"
+    },
+    {
+      "block_position": 1,
+      "query": "Long COVID treatment",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=Long+COVID+treatment&sa=X&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQ1QJ6BQiqAxAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Long+COVID+treatment"
+    },
+    {
+      "block_position": 1,
+      "query": "How long does long COVID last",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=How+long+does+long+COVID+last&sa=X&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQ1QJ6BQiiAxAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+long+does+long+COVID+last"
+    },
+    {
+      "block_position": 1,
+      "query": "What are the 12 symptoms of long COVID",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=What+are+the+12+symptoms+of+long+COVID&sa=X&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQ1QJ6BQicAxAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+are+the+12+symptoms+of+long+COVID"
+    },
+    {
+      "block_position": 1,
+      "query": "Long COVID test",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=Long+COVID+test&sa=X&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQ1QJ6BQiWAxAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Long+COVID+test"
+    },
+    {
+      "block_position": 1,
+      "query": "after-effects of covid-19 on human body",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=after-effects+of+covid-19+on+human+body&sa=X&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQ1QJ6BQiPAxAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=after-effects+of+covid-19+on+human+body"
+    },
+    {
+      "block_position": 1,
+      "query": "Signs COVID is getting better",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=Signs+COVID+is+getting+better&sa=X&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQ1QJ6BQiIAxAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Signs+COVID+is+getting+better"
+    },
+    {
+      "block_position": 1,
+      "query": "Is long COVID contagious",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=Is+long+COVID+contagious&sa=X&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQ1QJ6BQiBAxAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Is+long+COVID+contagious"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=is+covid+forever&num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&ei=OmiBaKyyD5vk5NoPltCCqAM&start=100&sa=N&sstk=Ac65TH7SSOXN8_CdYwKkwLVGT9Kn0rJA6JCb--7gZufGVPLkXGGrqO7MtmGQUe1IIwFE-_lJodoAh4jLduDU4frs0bzXXyXPhMHayw&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQ8NMDegQIDRAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=is+covid+forever&num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&ei=OmiBaKyyD5vk5NoPltCCqAM&start=100&sa=N&sstk=Ac65TH7SSOXN8_CdYwKkwLVGT9Kn0rJA6JCb--7gZufGVPLkXGGrqO7MtmGQUe1IIwFE-_lJodoAh4jLduDU4frs0bzXXyXPhMHayw&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=is+covid+forever&num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&ei=OmiBaKyyD5vk5NoPltCCqAM&start=200&sa=N&sstk=Ac65TH7SSOXN8_CdYwKkwLVGT9Kn0rJA6JCb--7gZufGVPLkXGGrqO7MtmGQUe1IIwFE-_lJodoAh4jLduDU4frs0bzXXyXPhMHayw&ved=2ahUKEwist4vFidSOAxUbMlkFHRaoADUQ8tMDegQIDRAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=is+covid+forever&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=is+covid+forever&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=is+covid+forever&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=is+covid+forever&start=200"
+    }
+  }
+}

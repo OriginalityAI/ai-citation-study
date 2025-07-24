@@ -1,0 +1,1458 @@
+{
+  "search_metadata": {
+    "id": "6881d29d5c4bf44525c689df",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7c4c9e94afd2d49d/6881d29d5c4bf44525c689df.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/7c4c9e94afd2d49d/6881d29d5c4bf44525c689df.json_with_pixel_position",
+    "created_at": "2025-07-24 06:28:45 UTC",
+    "processed_at": "2025-07-24 06:28:45 UTC",
+    "google_url": "https://www.google.com/search?q=macron+covid&oq=macron+covid&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7c4c9e94afd2d49d/6881d29d5c4bf44525c689df.html",
+    "total_time_taken": 1.56
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "macron covid",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "macron covid",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How many times can you have COVID?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWFXRndVamxLTTNoUmJEaDZWbmRmWkVWTE9VNHlNVlV6UW5kYVYyWm5WRzlhUkhCTlZqTkZWblJDWlVOTlluYzJhalZsUm1kMVRWZE1WSHBGZVZKM1YxUlNWazlNTjFSS1FtVkNhRWxJYUV4NWJEQlZhVXRyUzFob1VSSVhiblJMUW1GSmNtTkdVRWQ2Y1hSelVIcExNMHcwVVhNYUlrRkdUVUZIUjI4eFl6VnlWbmR4UVdoWWRtaEtaR3haZGtsQ1kySldjMXB4ZG5jIiwiZmN2IjoiMyIsImVpIjoibnRLQmFJcmNGUEd6cXRzUHpLM0w0UXMiLCJxYyI6IkNneHRZV055YjI0Z1kyOTJhV1FRQUNnQk1RQUFBR0NzMS1FX2ZSWFlLajgiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHRpbWVzIGNhbiB5b3UgaGF2ZSBDT1ZJRD8iLCJsayI6IkdpRm9iM2NnYldGdWVTQjBhVzFsY3lCallXNGdlVzkxSUdoaGRtVWdZMjkyYVdRIiwiYnMiOiJjLVB5NFZMeXlDOVh5RTNNcTFRb3ljeE5MVlpJVHN4VHFNd3ZWY2hJTEV0VmNQWVA4M1N4bDlnVmJhUXNwWmlCUjJGeWZsbG1DcGNMbHh6SXRKVE1GQVczb3NTODVGU0ZvdFRFNUJLRmtueVlTU3VFak9TbFpET2dpdExRRkVGTUFickpzMWloSkNOVklTLTFYS0c0cENneE0wOGhQdzFpQk5EYW5KelVGSHVKM19rZ04yVmlVd2cyQnFxUUs0QkxCYmRwdW9hV0N1WDVSY1dwOWhKUGs0eFVwWlR4bUFkVEtzQUlBQSIsImlkIjoiZmNfbnRLQmFJcmNGUEd6cXRzUHpLM0w0UXNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWFXRndVamxLTTNoUmJEaDZWbmRmWkVWTE9VNHlNVlV6UW5kYVYyWm5WRzlhUkhCTlZqTkZWblJDWlVOTlluYzJhalZsUm1kMVRWZE1WSHBGZVZKM1YxUlNWazlNTjFSS1FtVkNhRWxJYUV4NWJEQlZhVXRyUzFob1VSSVhiblJMUW1GSmNtTkdVRWQ2Y1hSelVIcExNMHcwVVhNYUlrRkdUVUZIUjI4eFl6VnlWbmR4UVdoWWRtaEtaR3haZGtsQ1kySldjMXB4ZG5jIiwiZmN2IjoiMyIsImVpIjoibnRLQmFJcmNGUEd6cXRzUHpLM0w0UXMiLCJxYyI6IkNneHRZV055YjI0Z1kyOTJhV1FRQUNnQk1RQUFBR0NzMS1FX2ZSWFlLajgiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHRpbWVzIGNhbiB5b3UgaGF2ZSBDT1ZJRD8iLCJsayI6IkdpRm9iM2NnYldGdWVTQjBhVzFsY3lCallXNGdlVzkxSUdoaGRtVWdZMjkyYVdRIiwiYnMiOiJjLVB5NFZMeXlDOVh5RTNNcTFRb3ljeE5MVlpJVHN4VHFNd3ZWY2hJTEV0VmNQWVA4M1N4bDlnVmJhUXNwWmlCUjJGeWZsbG1DcGNMbHh6SXRKVE1GQVczb3NTODVGU0ZvdFRFNUJLRmtueVlTU3VFak9TbFpET2dpdExRRkVGTUFickpzMWloSkNOVklTLTFYS0c0cENneE0wOGhQdzFpQk5EYW5KelVGSHVKM19rZ04yVmlVd2cyQnFxUUs0QkxCYmRwdW9hV0N1WDVSY1dwOWhKUGs0eFVwWlR4bUFkVEtzQUlBQSIsImlkIjoiZmNfbnRLQmFJcmNGUEd6cXRzUHpLM0w0UXNfMSJ9"
+    },
+    {
+      "question": "How did France react to COVID?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWFXRndVamxLTTNoUmJEaDZWbmRmWkVWTE9VNHlNVlV6UW5kYVYyWm5WRzlhUkhCTlZqTkZWblJDWlVOTlluYzJhalZsUm1kMVRWZE1WSHBGZVZKM1YxUlNWazlNTjFSS1FtVkNhRWxJYUV4NWJEQlZhVXRyUzFob1VSSVhiblJMUW1GSmNtTkdVRWQ2Y1hSelVIcExNMHcwVVhNYUlrRkdUVUZIUjI4eFl6VnlWbmR4UVdoWWRtaEtaR3haZGtsQ1kySldjMXB4ZG5jIiwiZmN2IjoiMyIsImVpIjoibnRLQmFJcmNGUEd6cXRzUHpLM0w0UXMiLCJxYyI6IkNneHRZV055YjI0Z1kyOTJhV1FRQUNnQk1RQUFBR0NzMS1FX2ZSWFlLajgiLCJxdWVzdGlvbiI6IkhvdyBkaWQgRnJhbmNlIHJlYWN0IHRvIENPVklEPyIsImxrIjoiR2gxb2IzY2daR2xrSUdaeVlXNWpaU0J5WldGamRDQjBieUJqYjNacFpBIiwiYnMiOiJjLVB5NFZMeXlDOVh5RTNNcTFRb3ljeE5MVlpJVHN4VHFNd3ZWY2hJTEV0VmNQWVA4M1N4bDlnVmJhUXNwWmlCUjJGeWZsbG1DcGNMbHh6SXRKVE1GQVczb3NTODVGU0ZvdFRFNUJLRmtueVlTU3VFak9TbFpET2dpdExRRkVGTUFickpzMWloSkNOVklTLTFYS0c0cENneE0wOGhQdzFpQk5EYW5KelVGSHVKM19rZ04yVmlVd2cyQnFxUUs0QkxCYmRwdW9hV0N1WDVSY1dwOWhKUGs0eFVwWlR4bUFkVEtzQUlBQSIsImlkIjoiZmNfbnRLQmFJcmNGUEd6cXRzUHpLM0w0UXNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWFXRndVamxLTTNoUmJEaDZWbmRmWkVWTE9VNHlNVlV6UW5kYVYyWm5WRzlhUkhCTlZqTkZWblJDWlVOTlluYzJhalZsUm1kMVRWZE1WSHBGZVZKM1YxUlNWazlNTjFSS1FtVkNhRWxJYUV4NWJEQlZhVXRyUzFob1VSSVhiblJMUW1GSmNtTkdVRWQ2Y1hSelVIcExNMHcwVVhNYUlrRkdUVUZIUjI4eFl6VnlWbmR4UVdoWWRtaEtaR3haZGtsQ1kySldjMXB4ZG5jIiwiZmN2IjoiMyIsImVpIjoibnRLQmFJcmNGUEd6cXRzUHpLM0w0UXMiLCJxYyI6IkNneHRZV055YjI0Z1kyOTJhV1FRQUNnQk1RQUFBR0NzMS1FX2ZSWFlLajgiLCJxdWVzdGlvbiI6IkhvdyBkaWQgRnJhbmNlIHJlYWN0IHRvIENPVklEPyIsImxrIjoiR2gxb2IzY2daR2xrSUdaeVlXNWpaU0J5WldGamRDQjBieUJqYjNacFpBIiwiYnMiOiJjLVB5NFZMeXlDOVh5RTNNcTFRb3ljeE5MVlpJVHN4VHFNd3ZWY2hJTEV0VmNQWVA4M1N4bDlnVmJhUXNwWmlCUjJGeWZsbG1DcGNMbHh6SXRKVE1GQVczb3NTODVGU0ZvdFRFNUJLRmtueVlTU3VFak9TbFpET2dpdExRRkVGTUFickpzMWloSkNOVklTLTFYS0c0cENneE0wOGhQdzFpQk5EYW5KelVGSHVKM19rZ04yVmlVd2cyQnFxUUs0QkxCYmRwdW9hV0N1WDVSY1dwOWhKUGs0eFVwWlR4bUFkVEtzQUlBQSIsImlkIjoiZmNfbnRLQmFJcmNGUEd6cXRzUHpLM0w0UXNfMSJ9"
+    },
+    {
+      "question": "Is the new strain of COVID called?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWFXRndVamxLTTNoUmJEaDZWbmRmWkVWTE9VNHlNVlV6UW5kYVYyWm5WRzlhUkhCTlZqTkZWblJDWlVOTlluYzJhalZsUm1kMVRWZE1WSHBGZVZKM1YxUlNWazlNTjFSS1FtVkNhRWxJYUV4NWJEQlZhVXRyUzFob1VSSVhiblJMUW1GSmNtTkdVRWQ2Y1hSelVIcExNMHcwVVhNYUlrRkdUVUZIUjI4eFl6VnlWbmR4UVdoWWRtaEtaR3haZGtsQ1kySldjMXB4ZG5jIiwiZmN2IjoiMyIsImVpIjoibnRLQmFJcmNGUEd6cXRzUHpLM0w0UXMiLCJxYyI6IkNneHRZV055YjI0Z1kyOTJhV1FRQUNnQk1RQUFBR0NzMS1FX2ZSWFlLajgiLCJxdWVzdGlvbiI6IklzIHRoZSBuZXcgc3RyYWluIG9mIENPVklEIGNhbGxlZD8iLCJsayI6IkdpRnBjeUIwYUdVZ2JtVjNJSE4wY21GcGJpQnZaaUJqYjNacFpDQmpZV3hzWldRIiwiYnMiOiJjLVB5NFZMeXlDOVh5RTNNcTFRb3ljeE5MVlpJVHN4VHFNd3ZWY2hJTEV0VmNQWVA4M1N4bDlnVmJhUXNwWmlCUjJGeWZsbG1DcGNMbHh6SXRKVE1GQVczb3NTODVGU0ZvdFRFNUJLRmtueVlTU3VFak9TbFpET2dpdExRRkVGTUFickpzMWloSkNOVklTLTFYS0c0cENneE0wOGhQdzFpQk5EYW5KelVGSHVKM19rZ04yVmlVd2cyQnFxUUs0QkxCYmRwdW9hV0N1WDVSY1dwOWhKUGs0eFVwWlR4bUFkVEtzQUlBQSIsImlkIjoiZmNfbnRLQmFJcmNGUEd6cXRzUHpLM0w0UXNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWFXRndVamxLTTNoUmJEaDZWbmRmWkVWTE9VNHlNVlV6UW5kYVYyWm5WRzlhUkhCTlZqTkZWblJDWlVOTlluYzJhalZsUm1kMVRWZE1WSHBGZVZKM1YxUlNWazlNTjFSS1FtVkNhRWxJYUV4NWJEQlZhVXRyUzFob1VSSVhiblJMUW1GSmNtTkdVRWQ2Y1hSelVIcExNMHcwVVhNYUlrRkdUVUZIUjI4eFl6VnlWbmR4UVdoWWRtaEtaR3haZGtsQ1kySldjMXB4ZG5jIiwiZmN2IjoiMyIsImVpIjoibnRLQmFJcmNGUEd6cXRzUHpLM0w0UXMiLCJxYyI6IkNneHRZV055YjI0Z1kyOTJhV1FRQUNnQk1RQUFBR0NzMS1FX2ZSWFlLajgiLCJxdWVzdGlvbiI6IklzIHRoZSBuZXcgc3RyYWluIG9mIENPVklEIGNhbGxlZD8iLCJsayI6IkdpRnBjeUIwYUdVZ2JtVjNJSE4wY21GcGJpQnZaaUJqYjNacFpDQmpZV3hzWldRIiwiYnMiOiJjLVB5NFZMeXlDOVh5RTNNcTFRb3ljeE5MVlpJVHN4VHFNd3ZWY2hJTEV0VmNQWVA4M1N4bDlnVmJhUXNwWmlCUjJGeWZsbG1DcGNMbHh6SXRKVE1GQVczb3NTODVGU0ZvdFRFNUJLRmtueVlTU3VFak9TbFpET2dpdExRRkVGTUFickpzMWloSkNOVklTLTFYS0c0cENneE0wOGhQdzFpQk5EYW5KelVGSHVKM19rZ04yVmlVd2cyQnFxUUs0QkxCYmRwdW9hV0N1WDVSY1dwOWhKUGs0eFVwWlR4bUFkVEtzQUlBQSIsImlkIjoiZmNfbnRLQmFJcmNGUEd6cXRzUHpLM0w0UXNfMSJ9"
+    },
+    {
+      "question": "Is the new strain of COVID-19 worse?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWFXRndVamxLTTNoUmJEaDZWbmRmWkVWTE9VNHlNVlV6UW5kYVYyWm5WRzlhUkhCTlZqTkZWblJDWlVOTlluYzJhalZsUm1kMVRWZE1WSHBGZVZKM1YxUlNWazlNTjFSS1FtVkNhRWxJYUV4NWJEQlZhVXRyUzFob1VSSVhiblJMUW1GSmNtTkdVRWQ2Y1hSelVIcExNMHcwVVhNYUlrRkdUVUZIUjI4eFl6VnlWbmR4UVdoWWRtaEtaR3haZGtsQ1kySldjMXB4ZG5jIiwiZmN2IjoiMyIsImVpIjoibnRLQmFJcmNGUEd6cXRzUHpLM0w0UXMiLCJxYyI6IkNneHRZV055YjI0Z1kyOTJhV1FRQUNnQk1RQUFBR0NzMS1FX2ZSWFlLajgiLCJxdWVzdGlvbiI6IklzIHRoZSBuZXcgc3RyYWluIG9mIENPVklELTE5IHdvcnNlPyIsImxrIjoiR2lOcGN5QjBhR1VnYm1WM0lITjBjbUZwYmlCdlppQmpiM1pwWkNBeE9TQjNiM0p6WlEiLCJicyI6ImMtUHk0Vkx5eUM5WHlFM01xMVFveWN4TkxWWklUc3hUcU13dlZjaElMRXRWY1BZUDgzU3hsOWdWYmFRc3BaaUJSMkZ5ZmxsbUNwY0xseHpJdEpUTUZBVzNvc1M4NUZTRm90VEU1QktGa255WVNTdUVqT1NsWkRPZ2l0TFFGRUZNQWJySnMxaWhKQ05WSVMtMVhLRzRwQ2d4TTA4aFB3MWlCTkRhbkp6VUZIdUozX2tnTjJWaVV3ZzJCcXFRSzRCTEJiZHB1b2FXQ3VYNVJjV3A5aEpQazR4VXBaVHhtQWRUS3NBSUFBIiwiaWQiOiJmY19udEtCYUlyY0ZQR3pxdHNQekszTDRRc18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWFXRndVamxLTTNoUmJEaDZWbmRmWkVWTE9VNHlNVlV6UW5kYVYyWm5WRzlhUkhCTlZqTkZWblJDWlVOTlluYzJhalZsUm1kMVRWZE1WSHBGZVZKM1YxUlNWazlNTjFSS1FtVkNhRWxJYUV4NWJEQlZhVXRyUzFob1VSSVhiblJMUW1GSmNtTkdVRWQ2Y1hSelVIcExNMHcwVVhNYUlrRkdUVUZIUjI4eFl6VnlWbmR4UVdoWWRtaEtaR3haZGtsQ1kySldjMXB4ZG5jIiwiZmN2IjoiMyIsImVpIjoibnRLQmFJcmNGUEd6cXRzUHpLM0w0UXMiLCJxYyI6IkNneHRZV055YjI0Z1kyOTJhV1FRQUNnQk1RQUFBR0NzMS1FX2ZSWFlLajgiLCJxdWVzdGlvbiI6IklzIHRoZSBuZXcgc3RyYWluIG9mIENPVklELTE5IHdvcnNlPyIsImxrIjoiR2lOcGN5QjBhR1VnYm1WM0lITjBjbUZwYmlCdlppQmpiM1pwWkNBeE9TQjNiM0p6WlEiLCJicyI6ImMtUHk0Vkx5eUM5WHlFM01xMVFveWN4TkxWWklUc3hUcU13dlZjaElMRXRWY1BZUDgzU3hsOWdWYmFRc3BaaUJSMkZ5ZmxsbUNwY0xseHpJdEpUTUZBVzNvc1M4NUZTRm90VEU1QktGa255WVNTdUVqT1NsWkRPZ2l0TFFGRUZNQWJySnMxaWhKQ05WSVMtMVhLRzRwQ2d4TTA4aFB3MWlCTkRhbkp6VUZIdUozX2tnTjJWaVV3ZzJCcXFRSzRCTEJiZHB1b2FXQ3VYNVJjV3A5aEpQazR4VXBaVHhtQWRUS3NBSUFBIiwiaWQiOiJmY19udEtCYUlyY0ZQR3pxdHNQekszTDRRc18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Macron refused Russian COVID test in Putin trip over DNA ...",
+      "link": "https://www.reuters.com/world/europe/putin-kept-macron-distance-snubbing-covid-demands-sources-2022-02-10/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reuters.com/world/europe/putin-kept-macron-distance-snubbing-covid-demands-sources-2022-02-10/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECBUQAQ",
+      "displayed_link": "https://www.reuters.com › world › europe › putin-kept-...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747e21deddcd344fdb0c0c290736ffebb90.png",
+      "date": "Feb 11, 2022",
+      "snippet": "French President Emmanuel Macron refused a Kremlin request that he take a Russian COVID-19 test when he arrived to see President Vladimir Putin this week.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "COVID"
+      ],
+      "source": "Reuters"
+    },
+    {
+      "position": 2,
+      "title": "Macron's vow to 'piss off' the unvaccinated sparks outrage",
+      "link": "https://www.france24.com/en/france/20220105-macron-says-he-wants-to-piss-off-france-s-unvaccinated",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.france24.com/en/france/20220105-macron-says-he-wants-to-piss-off-france-s-unvaccinated&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECBQQAQ",
+      "displayed_link": "https://www.france24.com › Home › France",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747a60ad48a2556c8c6ff06b9625565a5c9.png",
+      "date": "Jan 5, 2022",
+      "snippet": "Coronavirus (Covid-19) · Emmanuel Macron · French Presidential Election 2022. Happening now. France · USA · Donald Trump · Features · Tourism.",
+      "snippet_highlighted_words": [
+        "Coronavirus",
+        "Covid",
+        "Macron"
+      ],
+      "source": "France 24"
+    },
+    {
+      "position": 3,
+      "title": "Macron hails French solidarity five years after first Covid ...",
+      "link": "https://www.rfi.fr/en/france/20250317-recognising-french-solidarity-five-years-after-first-covid-lockdown",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rfi.fr/en/france/20250317-recognising-french-solidarity-five-years-after-first-covid-lockdown&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECBIQAQ",
+      "displayed_link": "https://www.rfi.fr › RFI › France",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747d49a9c9ef60e5bcccefca707663ba84d.png",
+      "date": "Mar 17, 2025",
+      "snippet": "President Emmanuel Macron on Monday hailed France's solidarity during this period, which he and others say is crucial to remember in order to face future ...",
+      "snippet_highlighted_words": [
+        "President Emmanuel Macron on Monday hailed France's solidarity during this period"
+      ],
+      "source": "RFI"
+    },
+    {
+      "position": 4,
+      "title": "We are at war - French Embassy",
+      "link": "https://uk.ambafrance.org/We-are-at-war-with-COVID-19-says-President-in-national-broadcast",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.ambafrance.org/We-are-at-war-with-COVID-19-says-President-in-national-broadcast&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECBMQAQ",
+      "displayed_link": "https://uk.ambafrance.org › We-are-at-war-with-COVID-...",
+      "snippet": "No information is available for this page.",
+      "source": "Ministère de l'Europe et des Affaires étrangères"
+    },
+    {
+      "position": 5,
+      "title": "\"Yesterday morning, I tested positive for COVID-19. ...",
+      "link": "https://www.elysee.fr/en/emmanuel-macron/2020/12/18/yesterday-morning-i-tested-positive-for-covid-19-emmanuel-macron",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.elysee.fr/en/emmanuel-macron/2020/12/18/yesterday-morning-i-tested-positive-for-covid-19-emmanuel-macron&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECBEQAQ",
+      "displayed_link": "https://www.elysee.fr › emmanuel-macron › 2020/12/18",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747a71597a5baee518f0a895db4aaf618cc.png",
+      "date": "Dec 18, 2020",
+      "snippet": "Yesterday morning, the President of the Republic Emmanuel Macron has been diagnosed positive at COVID-19. Today he sends a message: YouTube ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "COVID"
+      ],
+      "source": "elysee.fr"
+    },
+    {
+      "position": 6,
+      "title": "French uproar as Macron vows to 'piss off' unvaccinated",
+      "link": "https://www.bbc.com/news/world-europe-59873833",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.com/news/world-europe-59873833&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCPcBEAE",
+      "displayed_link": "https://www.bbc.com › news › world-europe-59873833",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474756eea3f3a785af2497ed8ff41fb4e051.png",
+      "date": "Jan 5, 2022",
+      "snippet": "Mr Macron says he wants to limit \"as much as possible\" access to activities for the unvaccinated line.",
+      "snippet_highlighted_words": [
+        "Macron"
+      ],
+      "source": "BBC"
+    },
+    {
+      "position": 7,
+      "title": "Macron and African leaders push for vaccines for Africa ...",
+      "link": "https://apnews.com/article/vaccines-africa-macron-coronavirus-pandemic-68a157ad426c6935d4e2652284a359d5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apnews.com/article/vaccines-africa-macron-coronavirus-pandemic-68a157ad426c6935d4e2652284a359d5&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCNkBEAE",
+      "displayed_link": "https://apnews.com › article › vaccines-africa-macron-c...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747d6e5efaa347217a6872dcae5d67d2f96.png",
+      "date": "Jun 20, 2024",
+      "snippet": "French President Emmanuel Macron has joined African leaders to kick off a planned $1 billion project to accelerate the rollout of vaccines ...",
+      "snippet_highlighted_words": [
+        "French President Emmanuel Macron has joined African leaders"
+      ],
+      "source": "AP News"
+    },
+    {
+      "position": 8,
+      "title": "Emmanuel Macron facing Covid-19: A president in search ...",
+      "link": "https://journals.openedition.org/aad/6423",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://journals.openedition.org/aad/6423&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCI0BEAE",
+      "displayed_link": "https://journals.openedition.org › aad",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147471399677477f08e4a5cd9c8190d40dee5.png",
+      "author": "by K Sadoun-Kerber",
+      "snippet": "Cet article repère les démarches discursives du Président français pour réparer son image dans ses deux premiers discours sur le Coronavirus.",
+      "snippet_highlighted_words": [
+        "Coronavirus"
+      ],
+      "source": "OpenEdition Journals"
+    },
+    {
+      "position": 9,
+      "title": "Official speeches and statements - March 17, 2020",
+      "link": "https://franceintheus.org/spip.php?article9659",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://franceintheus.org/spip.php%3Farticle9659&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKgBEAE",
+      "displayed_link": "https://franceintheus.org › spip › article9659",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747421856a69ca3ca3d05a43b4c6204a2b3.png",
+      "date": "Mar 17, 2020",
+      "snippet": "1. COVID-19 - Speech by Mr. Emmanuel Macron, President of the Republic, on the COVID-19 coronavirus (Paris - March 16, 2020)",
+      "snippet_highlighted_words": [
+        "Speech by Mr. Emmanuel Macron"
+      ],
+      "source": "Embassy of France in the United States"
+    },
+    {
+      "position": 10,
+      "title": "Macron declares his Covid strategy is to 'piss off' ...",
+      "link": "https://www.theguardian.com/world/2022/jan/04/macron-declares-his-covid-strategy-is-to-piss-off-the-unvaccinated",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/world/2022/jan/04/macron-declares-his-covid-strategy-is-to-piss-off-the-unvaccinated&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCNoBEAE",
+      "displayed_link": "https://www.theguardian.com › world › jan › macron-d...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747b2e26a841bd9de3570016437c854d769.png",
+      "date": "Jan 5, 2022",
+      "snippet": "Emmanuel Macron has prompted a furore after saying that his government's vaccination strategy is to “piss off” people who have not had coronavirus jabs.",
+      "snippet_highlighted_words": [
+        "Emmanuel Macron"
+      ],
+      "source": "The Guardian"
+    },
+    {
+      "position": 11,
+      "title": "Why the big table in Moscow? Macron refused a Russian ...",
+      "link": "https://www.cnn.com/2022/02/11/europe/france-emmanuel-macron-pcr-putin-meeting-intl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/2022/02/11/europe/france-emmanuel-macron-pcr-putin-meeting-intl&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCJkCEAE",
+      "displayed_link": "https://www.cnn.com › 2022/02/11 › europe › france-e...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747e966e00487c40269cd4f258913d2994c.png",
+      "date": "Feb 11, 2022",
+      "snippet": "The French leader declined the Kremlin's request for a Russian Covid-19 test, the Elysee Palace said Thursday.",
+      "snippet_highlighted_words": [
+        "declined the Kremlin's request for a Russian Covid-19 test"
+      ],
+      "source": "CNN"
+    },
+    {
+      "position": 12,
+      "title": "Emmanuel Macron (@emmanuelmacron)",
+      "link": "https://www.instagram.com/emmanuelmacron/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/emmanuelmacron/%3Fhl%3Den&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECFcQAQ",
+      "displayed_link": "5.2M+ followers",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147478a984c87f14167ed1679448da83f1be2.png",
+      "snippet": "Privée de ses touristes et pèlerins avec le Covid, Lourdes a été durement touchée.",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "Instagram · emmanuelmacron"
+    },
+    {
+      "position": 13,
+      "title": "Covid vaccine resisters get blasted by French President ...",
+      "link": "https://www.nbcnews.com/think/opinion/covid-vaccine-resisters-get-blasted-french-president-emmanuel-macron-touch-ncna1287032",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nbcnews.com/think/opinion/covid-vaccine-resisters-get-blasted-french-president-emmanuel-macron-touch-ncna1287032&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCIYBEAE",
+      "displayed_link": "https://www.nbcnews.com › think › opinion › covid-va...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147476d37e52defd3a0d98173cedc2a5e28cb.png",
+      "date": "Jan 5, 2022",
+      "snippet": "But in fact, this couldn't come at a more appropriate — and likely carefully selected — moment. French President Emmanuel Macron reacts during a ...",
+      "snippet_highlighted_words": [
+        "French President Emmanuel Macron"
+      ],
+      "source": "NBC News"
+    },
+    {
+      "position": 14,
+      "title": "Five years of Macron: Yellow Vests, Covid-19 stymie plans ...",
+      "link": "https://www.france24.com/en/france/20220323-yellow-vest-protests-covid-19-stymied-macron-s-plans-for-social-welfare-cuts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.france24.com/en/france/20220323-yellow-vest-protests-covid-19-stymied-macron-s-plans-for-social-welfare-cuts&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCLwBEAE",
+      "displayed_link": "https://www.france24.com › Home › France",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147477defe6e3abc0417ab1a271ebb0e83274.png",
+      "date": "Mar 23, 2022",
+      "snippet": "FRANCE 24 takes a look at how Macron has performed on social welfare issues – after the spending cuts he once pledged were thwarted by Yellow Vest protests and ...",
+      "snippet_highlighted_words": [
+        "how Macron has performed on social welfare issues"
+      ],
+      "source": "France 24"
+    },
+    {
+      "position": 15,
+      "title": "French President Macron Tests Positive For Coronavirus",
+      "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/12/17/947449920/french-president-macron-tests-positive-for-coronavirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.npr.org/sections/coronavirus-live-updates/2020/12/17/947449920/french-president-macron-tests-positive-for-coronavirus&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCL0BEAE",
+      "displayed_link": "https://www.npr.org › sections › 2020/12/17 › french-p...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474735a53eba7c8b7e1aaac3a7c406604f90.png",
+      "date": "Dec 17, 2020",
+      "snippet": "French President Emmanuel Macron tested positive for the coronavirus and will quarantine for a week, his official residence announced Thursday.",
+      "snippet_highlighted_words": [
+        "French President Emmanuel Macron tested positive for the coronavirus"
+      ],
+      "source": "NPR"
+    },
+    {
+      "position": 16,
+      "title": "Macron refused Russia COVID test over DNA theft fears",
+      "link": "https://www.youtube.com/watch?v=bsefsCrz2dM",
+      "displayed_link": "27.1K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPvGV4vnbDyZw1sbV48D9OHj6LElM7Ms2WxxUIRxdOoYjQ&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747e04a5849c053bfdca21163cdfe3eeeaf.png",
+      "snippet": "French president emmanuel macron refused a russian covert 19 test this week to prevent the country getting hold of his dna.",
+      "duration": "1:56",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRoqMJKZLfhdphs-rGb9WF_iSvrIgzRJJWN-A",
+      "source": "YouTube · Reuters"
+    },
+    {
+      "position": 17,
+      "title": "Did France's Emmanuel Macron break his own Covid rules?",
+      "link": "https://www.bbc.com/news/world-europe-55368182",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.com/news/world-europe-55368182&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCPgBEAE",
+      "displayed_link": "https://www.bbc.com › news › world-europe-55368182",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747cb585ba6efc35a0537bcf25ed81f5496.png",
+      "date": "Dec 18, 2020",
+      "snippet": "President Macron's symptoms include fever as well \"heavy coughing and fatigue\", French officials say",
+      "snippet_highlighted_words": [
+        "Macron's"
+      ],
+      "source": "BBC"
+    },
+    {
+      "position": 18,
+      "title": "France's Macron stands by his \"piss off\" comments on ...",
+      "link": "https://www.reuters.com/world/europe/frances-macron-stands-by-his-piss-off-comments-covid-non-vaccinated-2022-01-07/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reuters.com/world/europe/frances-macron-stands-by-his-piss-off-comments-covid-non-vaccinated-2022-01-07/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCIUCEAE",
+      "displayed_link": "https://www.reuters.com › world › europe › frances-ma...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147479cec67c23452f0d31a4999c39de3fbce.png",
+      "date": "Jan 8, 2022",
+      "snippet": "French President Emmanuel Macron said he stood by his earlier comments saying he wanted to \"piss off\" the five million French people who are ...",
+      "snippet_highlighted_words": [
+        "French President Emmanuel Macron"
+      ],
+      "source": "Reuters"
+    },
+    {
+      "position": 19,
+      "title": "Coronavirus COVID-19",
+      "link": "https://www.elysee.fr/emmanuel-macron/coronavirus-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.elysee.fr/emmanuel-macron/coronavirus-covid-19&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCJgCEAE",
+      "displayed_link": "https://www.elysee.fr › coronaviru...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147471ed5bfb68467977039fbb9893da1e585.png",
+      "snippet": "La crise de la Covid-19 n'est pas terminée et le monde n'est pas à l'abri de résurgences de variants connus ou de l'émergence de nouveaux variants.",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "elysee.fr"
+    },
+    {
+      "position": 20,
+      "title": "French President Macron tests positive for Covid - BBC News",
+      "link": "https://www.youtube.com/watch?v=ymKNru4MygA",
+      "displayed_link": "102K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc7XAC-ImbNqokGRmGqX412uA9FXWhBv8kGPG0OdlISJlD&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147472118a271287bbd41c1bcc9bcba8c0eb4.png",
+      "snippet": "France's Emmanuel Macron has tested positive for Covid-19, forcing several European leaders to self-isolate after coming into contact with ...",
+      "duration": "4:15",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSUAqqrOTJqbA0VoH1WZOh5qeYo8RX5cWz4ug",
+      "source": "YouTube · BBC News"
+    },
+    {
+      "position": 21,
+      "title": "Emmanuel Macron, Free of Covid-19 Symptoms, Leaves ...",
+      "link": "https://www.nytimes.com/2020/12/24/world/europe/france-macron-covid.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/2020/12/24/world/europe/france-macron-covid.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECGwQAQ",
+      "displayed_link": "https://www.nytimes.com › World › Europe",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747271c707f7f6b7a6f852512e95a2bff17.png",
+      "date": "Dec 24, 2020",
+      "snippet": "President Emmanuel Macron of France has stopped isolating himself because he no longer shows symptoms, a statement from the Élysée Palace, his official office, ...",
+      "snippet_highlighted_words": [
+        "President Emmanuel Macron of France has stopped isolating himself"
+      ],
+      "source": "The New York Times"
+    },
+    {
+      "position": 22,
+      "title": "COVID-19 pandemic in France",
+      "link": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECG8QAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › COVID-19_pandemic...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474733ded584ad73b0e7de0b12a98c6c0d16.png",
+      "snippet": "On 31 March 2021, Macron announced a third national lockdown which commenced on 3 April 2021 and which was mandated for all of April 2021; measures included the ...",
+      "snippet_highlighted_words": [
+        "Macron announced a third national lockdown"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 23,
+      "title": "Macron urges French to follow rules after contracting Covid: 'It ...",
+      "link": "https://www.youtube.com/watch?v=6Jvv-kiFfqs",
+      "displayed_link": "40.7K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoLF6sKu5vSokmTWjgPv_v-uj489udRuurTg1093anM5aS&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474797da541381e7c629e4b4d2a4cd0d386d.png",
+      "snippet": "Emmanuel Macron has blamed his coronavirus infection on a combination of negligence and bad luck and urged his compatriots to stay safe in a ...",
+      "duration": "1:14",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcShnnKr3gOVdsfkbU8hLF68KuFAW7XcRXgozg",
+      "source": "YouTube · Guardian News"
+    },
+    {
+      "position": 24,
+      "title": "COVID-19 could impact support for France's Macron",
+      "link": "https://www.emerald.com/insight/content/doi/10.1108/OXAN-ES265631/full/html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.emerald.com/insight/content/doi/10.1108/OXAN-ES265631/full/html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKMBEAE",
+      "displayed_link": "https://www.emerald.com › content › doi › full › html",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747627e4912a554ab70620894465421c411.png",
+      "author": "by Oxford Analytica",
+      "snippet": "France's handling of the pandemic would compare favourably with neighbouring countries and potentially boost Macron's support ahead of April's presidential ...",
+      "snippet_highlighted_words": [
+        "France's handling of the pandemic would compare favourably with neighbouring countries"
+      ],
+      "source": "Emerald Insight"
+    },
+    {
+      "position": 25,
+      "title": "Macron announces to postpone easing anti-COVID-19 ...",
+      "link": "https://www.nationthailand.com/international/40008620",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nationthailand.com/international/40008620&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCLsBEAE",
+      "displayed_link": "https://www.nationthailand.com › ... › International News",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147476940e2e0bc6493364706bcfade4d019a.png",
+      "date": "Nov 9, 2021",
+      "snippet": "People over 65 years old and the most vulnerable ones will have to get a booster dose in order to validate their health pass from Dec. 15.",
+      "source": "Nation Thailand"
+    },
+    {
+      "position": 26,
+      "title": "Macron under fire after refusing to apologise for lockdown ...",
+      "link": "https://www.ft.com/content/e93e26fd-d401-4534-8c39-8ee29f6cc5d5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ft.com/content/e93e26fd-d401-4534-8c39-8ee29f6cc5d5&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCMEBEAE",
+      "displayed_link": "https://www.ft.com › Europe › France › World",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747bcc9daddc59e03dc251554878cb1ac88.png",
+      "date": "Mar 26, 2021",
+      "snippet": "French President Emmanuel Macron came under fire from political opponents on Friday over his refusal to take the blame for the recent surge in Covid-19 ...",
+      "snippet_highlighted_words": [
+        "Macron"
+      ],
+      "source": "Financial Times"
+    },
+    {
+      "position": 27,
+      "title": "Macron gambled on coronavirus immunity passport — and won",
+      "link": "https://www.politico.eu/article/macron-france-covid-immunity-passport-vaccine-pass/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.politico.eu/article/macron-france-covid-immunity-passport-vaccine-pass/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCL4BEAE",
+      "displayed_link": "https://www.politico.eu › article › macron-france-covid...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147477dd2f010b4ea06361df4994957c51b6d.png",
+      "date": "Aug 30, 2021",
+      "snippet": "The French president stuck his neck out, banking that the public would support his plan. And so far, it's been a success.",
+      "source": "politico.eu"
+    },
+    {
+      "position": 28,
+      "title": "Emmanuel Macron tests positive for COVID-19",
+      "link": "https://www.youtube.com/watch?v=VfKcTqusaiw",
+      "displayed_link": "23.2K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbcvOvWmAD1DXdA919iaExjOpmKWXvs_nu9BVF9UOs0AGx&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747056b947688fa9e96bc109f70d23a05af.png",
+      "snippet": "France's president Emmanuel Macron has tested positive for coronavirus, his office has said. The Elysee Palace in Paris said on Thursday the ...",
+      "duration": "2:14",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSeuVXRRr6KXrOKcQPMo7q2CpenecDG4wlxpw",
+      "source": "YouTube · Sky News"
+    },
+    {
+      "position": 29,
+      "title": "Kremlin Says Macron Sat At Long Table With Putin After ...",
+      "link": "https://www.rferl.org/a/putin-macron-long-table/31699111.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rferl.org/a/putin-macron-long-table/31699111.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCN0BEAE",
+      "displayed_link": "https://www.rferl.org › putin-macron-long-table",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747df127f30b03692bb0a1c6036d82cfd2b.png",
+      "date": "Feb 11, 2022",
+      "snippet": "Kremlin Says Macron Sat At Long Table With Putin After Refusal To Take COVID-19 Test. February 11, 2022 14:02 CET. By RFE/RL's Russian Service ...",
+      "snippet_highlighted_words": [
+        "Macron Sat At Long Table With Putin"
+      ],
+      "source": "Radio Free Europe/Radio Liberty"
+    },
+    {
+      "position": 30,
+      "title": "COVID-19 will shift Macron's policy focus in France",
+      "link": "https://www.emerald.com/insight/content/doi/10.1108/oxan-db252027/full/html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.emerald.com/insight/content/doi/10.1108/oxan-db252027/full/html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCPEBEAE",
+      "displayed_link": "https://www.emerald.com › oxan-db252027 › full › html",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474755e39621522baf360927862caff27634.png",
+      "author": "by Oxford Analytica",
+      "snippet": "The economic and social impact of the crisis could push Macron leftwards, favouring greater state ownership and public spending in the coming years.",
+      "snippet_highlighted_words": [
+        "Macron"
+      ],
+      "source": "Emerald Insight"
+    },
+    {
+      "position": 31,
+      "title": "COVID-19: Macron says he stands by earlier comments to ...",
+      "link": "https://www.youtube.com/watch?v=Z8kx9GGk2FI",
+      "displayed_link": "10.4K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0VzcKhzIXpSJJvjItz5bp5ly_ne4N4irUEY5SLjBIo04&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747ffff3e95a3af95eabf3a40fd432fca87.png",
+      "snippet": "... COVID-19 “because of the irresponsibility of some others.” He also ... Macron #COVID19 #Coronavirus #GlobalNews.",
+      "duration": "1:39",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQke43bX60uMwRlx4f8sJSmGlmYEz7tdA7LbA",
+      "source": "YouTube · Global News"
+    },
+    {
+      "position": 32,
+      "title": "Emmanuel Macron (@EmmanuelMacron) / X",
+      "link": "https://x.com/emmanuelmacron?lang=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/emmanuelmacron%3Flang%3Den&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCIwCEAE",
+      "displayed_link": "10.2M+ followers",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747d1a46f936bf2b858afd2f9039e1a26fe.png",
+      "snippet": "Privée de ses touristes et pèlerins avec le Covid, Lourdes a été durement touchée. Nous avons déployé un plan et des moyens pour relancer le ...",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "X · EmmanuelMacron"
+    },
+    {
+      "position": 33,
+      "title": "Macron tests positive for Covid-19 ...",
+      "link": "https://www.cnn.com/2020/12/17/europe/emmanuel-macron-covid-positive-france-intl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/2020/12/17/europe/emmanuel-macron-covid-positive-france-intl&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCJACEAE",
+      "displayed_link": "https://www.cnn.com › 2020/12/17 › europe › emmanu...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474779a978e3034961d8e48ea4fbbdfa0d2e.png",
+      "date": "Dec 17, 2020",
+      "snippet": "French President Emmanuel Macron has a “fever” and is “tired [and] coughing” after testing positive for Covid-19 on Thursday, according to an Élysée ...",
+      "snippet_highlighted_words": [
+        "French President Emmanuel Macron has a “fever” and is “tired [and] coughing”"
+      ],
+      "source": "CNN"
+    },
+    {
+      "position": 34,
+      "title": "Freeport-McMoRan l FCX",
+      "link": "https://www.fcx.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fcx.com/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKACEAE",
+      "displayed_link": "https://www.fcx.com",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747a5522caf8c1dac231665c28ff4cef9db.png",
+      "snippet": "Automated Rail System. Message from FCX CEO to Stakeholders regarding COVID-19 · Message from FCX CEO to Stakeholders regarding COVID-19 · REPLAY FCX 2Q 2020",
+      "snippet_highlighted_words": [
+        "X CEO to Stakeholders regarding COVID-19"
+      ],
+      "source": "Freeport-McMoRan"
+    },
+    {
+      "position": 35,
+      "title": "Prononcé le 12 mars 2020 - Emmanuel Macron ...",
+      "link": "https://www.vie-publique.fr/discours/273869-emmanuel-macron-12032020-coronavirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vie-publique.fr/discours/273869-emmanuel-macron-12032020-coronavirus&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKoCEAE",
+      "displayed_link": "https://www.vie-publique.fr › 273...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747544557e6f8f35cdd76259486df8a538b.png",
+      "date": "Mar 12, 2020",
+      "snippet": "Déclaration de M. Emmanuel Macron, président de la République, sur la lutte contre l'épidémie de COViD-19, l'engagement des personnels soignants ...",
+      "snippet_highlighted_words": [
+        "Déclaration de M. Emmanuel Macron, président de la République"
+      ],
+      "source": "Vie publique"
+    },
+    {
+      "position": 36,
+      "title": "Covid-19 : suivez l'allocation du président Emmanuel Macron",
+      "link": "https://www.info.gouv.fr/actualite/covid-19-suivez-l-allocation-du-president-emmanuel-macron",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.info.gouv.fr/actualite/covid-19-suivez-l-allocation-du-president-emmanuel-macron&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECE4QAQ",
+      "displayed_link": "https://www.info.gouv.fr › actualite",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147472753dd45b7accf363b2e171132a74750.png",
+      "snippet": "Pour la neuvième fois depuis le début de la pandémie, le chef de l'État s'exprime ce mardi soir à 20h sur l'épidémie qui connaît un regain depuis quelques ...",
+      "source": "info.gouv.fr"
+    },
+    {
+      "position": 37,
+      "title": "Macron set to address the nation as France's Covid-19 ...",
+      "link": "https://www.youtube.com/watch?v=zYGsTx4x-UQ",
+      "displayed_link": "4.9K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfvaIueIUTIi2h4HPc_eNtPv5cliEQrsJ93WB0u4J0zNau&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474772fefd74dd6424eba2134e9ab4fadb1a.png",
+      "snippet": "French President Emmanuel #Macron is expected to announce a reworking of the country's #Covid-19 lockdown rules in a televised speech ...",
+      "duration": "1:37",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRGfnnH9DE9lwSLJeHR01RK-92m8J-VYUz7gg",
+      "source": "YouTube · FRANCE 24 English"
+    },
+    {
+      "position": 38,
+      "title": "How France's President Emmanuel Macron bungled his ... - Vox",
+      "link": "https://www.vox.com/2020/4/14/21218927/coronavirus-covid-france-macron-response",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vox.com/2020/4/14/21218927/coronavirus-covid-france-macron-response&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECGsQAQ",
+      "displayed_link": "https://www.vox.com › coronavirus-covid-france-macr...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747d460372b03f70ddfedc96eb4e86f5f9a.png",
+      "date": "Apr 14, 2020",
+      "snippet": "French President Emmanuel Macron bungled his initial coronavirus response. Now he's at war with the disease and has imposed a lockdown.",
+      "snippet_highlighted_words": [
+        "French President Emmanuel Macron bungled his initial coronavirus response"
+      ],
+      "source": "vox.com"
+    },
+    {
+      "position": 39,
+      "title": "Macron's coronavirus prompts EU leaders to self-isolate",
+      "link": "https://www.politico.eu/article/emmanuel-macron-has-coronavirus/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.politico.eu/article/emmanuel-macron-has-coronavirus/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECGMQAQ",
+      "displayed_link": "https://www.politico.eu › article › emmanuel-macron-h...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747044e31457b20be7e8642c9c65c268116.png",
+      "date": "Dec 17, 2020",
+      "snippet": "French President Emmanuel Macron was diagnosed with COVID-19 on Thursday after experiencing initial symptoms, according to a statement from his ...",
+      "snippet_highlighted_words": [
+        "French President Emmanuel Macron was diagnosed with COVID-19"
+      ],
+      "source": "politico.eu"
+    },
+    {
+      "position": 40,
+      "title": "World must face new reality of Covid-19 together, France's ...",
+      "link": "https://www.rfi.fr/en/international/20200922-world-faces-new-reality-with-coronavirus-pandemic-france-s-macron-tells-un",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rfi.fr/en/international/20200922-world-faces-new-reality-with-coronavirus-pandemic-france-s-macron-tells-un&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECHwQAQ",
+      "displayed_link": "https://www.rfi.fr › RFI › International",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747f70425d4973b6709a1465c390019a0e1.png",
+      "date": "Sep 22, 2020",
+      "snippet": "French President Emmanuel Macron urged the world nations to work together against Covid-19 and not be dominated by a China-US rivalry.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Covid"
+      ],
+      "source": "RFI"
+    },
+    {
+      "position": 41,
+      "title": "Macron Beat Back the Coronavirus. France Is Not Impressed.",
+      "link": "https://www.nytimes.com/2020/06/05/world/europe/coronavirus-france-macron-reopening.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/2020/06/05/world/europe/coronavirus-france-macron-reopening.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCIcBEAE",
+      "displayed_link": "https://www.nytimes.com › World › Europe",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747f44b4b486c070c046a8a884fd6b3e49a.png",
+      "date": "Dec 17, 2020",
+      "snippet": "PARIS — President Emmanuel Macron's government has beaten back the coronavirus, prevented mass layoffs, propped up the salaries of the ...",
+      "snippet_highlighted_words": [
+        "President Emmanuel Macron's government has beaten back the coronavirus"
+      ],
+      "source": "The New York Times"
+    },
+    {
+      "position": 42,
+      "title": "French President Macron has Covid-19",
+      "link": "https://www.youtube.com/watch?v=N7uV1ErBh1s",
+      "displayed_link": "1.7K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyN9yGIkoSRxmnw9DWswg-ncGUlJLE13eylLXErB44KM3&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747c5ee6e5ae6e347a4bc78db535dfa795b.png",
+      "snippet": "French President Emmanuel Macron has tested positive for COVID-19, the French Presidency said on Thursday.",
+      "duration": "1:13",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSM2Mc0tKctiAeU95DUAxZQ807omCSHhWuGeQ",
+      "source": "YouTube · The Straits Times"
+    },
+    {
+      "position": 43,
+      "title": "Emmanuel Macron, President of France, tests positive for ...",
+      "link": "https://www.cbsnews.com/news/french-president-emmanuel-macron-tests-postiive-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbsnews.com/news/french-president-emmanuel-macron-tests-postiive-covid-19/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCIwBEAE",
+      "displayed_link": "https://www.cbsnews.com › World",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147472cc8c8f856051c5e295e5e2f8f6d5a19.png",
+      "date": "Dec 17, 2020",
+      "snippet": "Emmanuel Macron, President of France, tests positive for COVID-19 ... French President Emmanuel Macron has become the latest world leader to catch ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "COVID",
+        "Macron"
+      ],
+      "source": "CBS News"
+    },
+    {
+      "position": 44,
+      "title": "Our World in Data",
+      "link": "https://ourworldindata.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ourworldindata.org/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKABEAE",
+      "displayed_link": "https://ourworldindata.org",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147473bf4a78c5276ab5de02bce98bed81a35.png",
+      "snippet": "Research and data to make progress against the world's largest problems.",
+      "source": "Our World in Data"
+    },
+    {
+      "position": 45,
+      "title": "France's Macron in stable condition after positive COVID test",
+      "link": "https://www.aljazeera.com/news/2020/12/19/frances-macron-in-stable-condition-after-positive-covid-test",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aljazeera.com/news/2020/12/19/frances-macron-in-stable-condition-after-positive-covid-test&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKUBEAE",
+      "displayed_link": "https://www.aljazeera.com › News › Emmanuel Macron",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747fd9104aea77e2977df39df752f4aa60c.png",
+      "date": "Dec 19, 2020",
+      "snippet": "French President Emmanuel Macron is in stable condition after testing positive for the coronavirus, the Elysee Palace said on Saturday. Macron, ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "coronavirus",
+        "Macron"
+      ],
+      "source": "Al Jazeera"
+    },
+    {
+      "position": 46,
+      "title": "Coronavirus: France's President Macron warns we are at war",
+      "link": "https://www.cnbc.com/2020/03/17/coronavirus-france-president-macron-warns-we-are-at-war.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnbc.com/2020/03/17/coronavirus-france-president-macron-warns-we-are-at-war.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECEQQAQ",
+      "displayed_link": "https://www.cnbc.com › 2020/03/17 › coronavirus-fran...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747fd82ccccc4d3735fed8f24bcbf1de83d.png",
+      "date": "Mar 17, 2020",
+      "snippet": "Macron told the French people they are only allowed outside their houses for essential trips, such as to buy food and medicines, ...",
+      "snippet_highlighted_words": [
+        "Macron"
+      ],
+      "source": "CNBC"
+    },
+    {
+      "position": 47,
+      "title": "Emmanuel Macron tells the FT coronavirus is Europe's ...",
+      "link": "https://www.youtube.com/watch?v=DPGfKhCICC0",
+      "displayed_link": "362.6K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPYyTPtzGBs6-sSCin71X43XEvq5WyW_wcSrtfU2QQ6oJB&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474782f9f791a404460feffb30a6d2930d65.png",
+      "snippet": "French President Emmanuel Macron tells FT editor Roula Khalaf and Paris bureau chief Victor Mallet that the pandemic is an existential ...",
+      "duration": "21:31",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQcvCgNdLN0nnljnX0jrqh-FJtayvZnIIcTYw",
+      "source": "YouTube · Financial Times"
+    },
+    {
+      "position": 48,
+      "title": "French president Emmanuel Macron tests positive for ...",
+      "link": "https://www.theguardian.com/world/2020/dec/17/french-president-emmanuel-macron-tests-positive-for-coronavirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/world/2020/dec/17/french-president-emmanuel-macron-tests-positive-for-coronavirus&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCPIBEAE",
+      "displayed_link": "https://www.theguardian.com › world › dec › french-pr...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747b8b31559c83f923d7365b3d198f260cc.png",
+      "date": "Dec 17, 2020",
+      "snippet": "Emmanuel Macron has been diagnosed with Covid-19 after developing symptoms, the Élysée Palace has announced.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Covid"
+      ],
+      "source": "The Guardian"
+    },
+    {
+      "position": 49,
+      "title": "French court drops government Covid response investigation",
+      "link": "https://www.lemonde.fr/en/france/article/2025/07/07/french-court-drops-government-covid-response-investigation_6743119_7.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lemonde.fr/en/france/article/2025/07/07/french-court-drops-government-covid-response-investigation_6743119_7.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCMABEAE",
+      "displayed_link": "https://www.lemonde.fr › France › Covid-19 pandemic",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747691553b0b456b3cc6fe019734c381da4.png",
+      "date": "Jul 7, 2025",
+      "snippet": "... Macron's centrist faction. He is the only leading contender to firmly have declared his intention to stand in the 2027 presidential election ...",
+      "snippet_highlighted_words": [
+        "Macron's"
+      ],
+      "source": "Le Monde.fr"
+    },
+    {
+      "position": 50,
+      "title": "Covid: “The health crisis is not behind us”, Emmanuel ...",
+      "link": "https://www.sortiraparis.com/en/news/in-paris/articles/257624-covid-the-health-crisis-is-not-behind-us-emmanuel-macron-warns",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sortiraparis.com/en/news/in-paris/articles/257624-covid-the-health-crisis-is-not-behind-us-emmanuel-macron-warns&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCL8BEAE",
+      "displayed_link": "https://www.sortiraparis.com › Home › News › News",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747057efbeadf66923b8028ac4917456a59.png",
+      "date": "Aug 11, 2021",
+      "snippet": "This Wednesday August 11, opening a new Health Defense Council, Emmanuel Macron warned about a “dramatic situation” in French West Indies.",
+      "snippet_highlighted_words": [
+        "Macron"
+      ],
+      "source": "Sortir à Paris"
+    },
+    {
+      "position": 51,
+      "title": "Emmanuel Macron to unveil phased plan to ease France's ...",
+      "link": "https://www.indiablooms.com/phoenix/server.php/world/emmanuel-macron-to-unveil-phased-plan-to-ease-frances-covid-19-restrictions/details",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.indiablooms.com/phoenix/server.php/world/emmanuel-macron-to-unveil-phased-plan-to-ease-frances-covid-19-restrictions/details&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCMcBEAE",
+      "displayed_link": "https://www.indiablooms.com › phoenix › world › details",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747185e76b2eaac08ede1e97ab2dcba24c9.png",
+      "date": "Apr 29, 2021",
+      "snippet": "Paris/Xinhua: French President Emmanuel Macron will unveil a \"progressive and phased\" plan to relax the country's coronavirus rules on ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "coronavirus"
+      ],
+      "source": "Indiablooms"
+    },
+    {
+      "position": 52,
+      "title": "French President Macron tests positive for COVID-19",
+      "link": "https://apnews.com/article/emmanuel-macron-europe-coronavirus-pandemic-b88c7ec3a89ec2269b83a9aba3b66ed9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apnews.com/article/emmanuel-macron-europe-coronavirus-pandemic-b88c7ec3a89ec2269b83a9aba3b66ed9&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCNwBEAE",
+      "displayed_link": "https://apnews.com › article › emmanuel-macron-europ...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747d6e857573eb16860b04f0c1b1ea87267.png",
+      "date": "Dec 17, 2020",
+      "snippet": "French President Macron tests positive for COVID-19 ... PARIS (AP) — Wearing a white medical mask, French President Emmanuel Macron went ahead ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "COVID",
+        "Macron"
+      ],
+      "source": "AP News"
+    },
+    {
+      "position": 53,
+      "title": "Emmanuel Macron addresses the nation as the Delta variant ...",
+      "link": "https://www.youtube.com/watch?v=Wo3cykyi1ug",
+      "displayed_link": "29K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8-ywx7kyuv1jCKQMMJfSaZA1hBlwHsH-Li_6V6gZfFGU&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747bffc0103e4a511f20f38e8123c905a9f.png",
+      "snippet": "Emmanuel Macron addresses the nation as the Delta variant of Covid-19 surges • FRANCE 24 English. 29K views · 4 years ago ...more ...",
+      "duration": "27:08",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRguLkb12LvXuslnd9VmGPGjspZcAi3A_ZDOA",
+      "source": "YouTube · FRANCE 24 English"
+    },
+    {
+      "position": 54,
+      "title": "EPA Images | EPA",
+      "link": "https://epaimages.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://epaimages.com/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCNsBEAE",
+      "displayed_link": "https://epaimages.com",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747789fff2032c5c4125f9cf6d7d2652638.png",
+      "snippet": "French President Macron visits Berlin. 23.7.2025 by · 16. MIDEAST ISRAEL PROTEST ... Wuhan, frontline city on global Covid fight · Thailand's Marriage ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Covid"
+      ],
+      "source": "EPA Images"
+    },
+    {
+      "position": 55,
+      "title": "Emmanuel Macron en visite à Lourdes pour soutenir le plan ...",
+      "link": "https://www.francebleu.fr/infos/societe/emmanuel-macron-en-visite-a-lourdes-pour-soutenir-le-plan-de-developpement-dans-la-cite-mariale-4571434",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.francebleu.fr/infos/societe/emmanuel-macron-en-visite-a-lourdes-pour-soutenir-le-plan-de-developpement-dans-la-cite-mariale-4571434&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCOABEAE",
+      "displayed_link": "https://www.francebleu.fr › societe",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747a12ef71916c97c7e352640d3b0c2d385.png",
+      "date": "8 days ago",
+      "snippet": "\"Les chiffres d'avant Covid sont revenus\" · \"J'attends des autres forces politiques qu'elles proposent d'autres idées pour accroître l'activité ...",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "francebleu.fr"
+    },
+    {
+      "position": 56,
+      "title": "Treffen in Berlin - Merz und Macron beraten über ...",
+      "link": "https://www.deutschlandfunk.de/berliner-gespraech-108.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deutschlandfunk.de/berliner-gespraech-108.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCPQBEAE",
+      "displayed_link": "https://www.deutschlandfunk.de › ...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147473e1bed2778a6409fe400da8ba8cc14b9.png",
+      "date": "1 day ago",
+      "snippet": "Diese wird wie die Hisbollah im Libanon vom Iran unterstützt. Hand hält Stethoskop mit Coronavirus-Symbol, Long Covid, Fotomontage. Coronavirus.",
+      "snippet_highlighted_words": [
+        "Coronavirus",
+        "Covid",
+        "Coronavirus"
+      ],
+      "source": "Deutschlandfunk"
+    },
+    {
+      "position": 57,
+      "title": "French President Macron Tests Positive For Coronavirus",
+      "link": "https://www.wfdd.org/story/french-president-macron-tests-positive-coronavirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wfdd.org/story/french-president-macron-tests-positive-coronavirus&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCPMBEAE",
+      "displayed_link": "https://www.wfdd.org › story › french-president-macro...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474709fbc335e33bedb7d57e23ebbf15014b.png",
+      "date": "Dec 17, 2020",
+      "snippet": "French President Emmanuel Macron tested positive for the coronavirus and will quarantine for a week, his official residence announced Thursday.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "coronavirus"
+      ],
+      "source": "88.5 WFDD"
+    },
+    {
+      "position": 58,
+      "title": "'No regrets': France's Macron defends measures against ...",
+      "link": "https://www.youtube.com/watch?v=UV8oXw_n8GA",
+      "displayed_link": "2.8K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTKIhcmzH0HGpB-EOSIMqJsUlJjCstXgE5Nv9QydUi0QOg&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747407dbcdfdc3e3a5bea3b74b5c5b608a5.png",
+      "snippet": "With #France now Europe's latest virus danger zone, #Macron on Wednesday ordered temporary school closures nationwide and new travel ...",
+      "duration": "5:15",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSyYbUQfz9J9HWCkGu06i4HCMpg1YWygholFQ",
+      "source": "YouTube · FRANCE 24 English"
+    },
+    {
+      "position": 59,
+      "title": "France's Government Promises More Work, Fewer Holidays",
+      "link": "https://jacobin.com/2025/07/france-bayrou-austerity-budget-holidays",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jacobin.com/2025/07/france-bayrou-austerity-budget-holidays&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCP4BEAE",
+      "displayed_link": "https://jacobin.com › 2025/07 › france-bayrou-austerity...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747579d2dfe9b1255bc056bf595dd3b5824.png",
+      "date": "4 days ago",
+      "snippet": "After raising the pension age and cutting taxes on the rich, now Emmanuel Macron's government wants to scrap the Easter Monday and VE Day ...",
+      "snippet_highlighted_words": [
+        "Macron's"
+      ],
+      "source": "Jacobin"
+    },
+    {
+      "position": 60,
+      "title": "France's Macron to address country on COVID-19 situation",
+      "link": "https://english.alarabiya.net/coronavirus/2021/03/31/Coronavirus-France-s-Macron-to-address-country-on-COVID-19-situation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://english.alarabiya.net/coronavirus/2021/03/31/Coronavirus-France-s-Macron-to-address-country-on-COVID-19-situation&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCI0CEAE",
+      "displayed_link": "https://english.alarabiya.net › coronavirus › 2021/03/31",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747f4a28ed861eb2db1bb3d9ace50c88906.png",
+      "date": "Mar 31, 2021",
+      "snippet": "French President Emmanuel Macron will deliver a televised address to the nation on Wednesday evening, his office said, as a fast-spreading ...",
+      "snippet_highlighted_words": [
+        "Macron"
+      ],
+      "source": "Al Arabiya English"
+    },
+    {
+      "position": 61,
+      "title": "French president Macron sues influencer Candace Owens ...",
+      "link": "https://www.reddit.com/r/FreeSpeech/comments/1m7ktkc/french_president_macron_sues_influencer_candace/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/FreeSpeech/comments/1m7ktkc/french_president_macron_sues_influencer_candace/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCJECEAE",
+      "displayed_link": "10+ comments · 9 hours ago",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747252466af6588faa6936b68446ccef5f1.png",
+      "snippet": "Macron is a racist confirmed. Upvote ... Petersburg police chief reaches $70,000 settlement with borough over Covid-mask free speech lawsuit.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Covid"
+      ],
+      "source": "Reddit · r/FreeSpeech"
+    },
+    {
+      "position": 62,
+      "title": "List of international presidential trips made by Donald Trump",
+      "link": "https://en.wikipedia.org/wiki/List_of_international_presidential_trips_made_by_Donald_Trump",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/List_of_international_presidential_trips_made_by_Donald_Trump&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCJQCEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › List_of_international_...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747b968d0d8b2f693e3b438de83924d0865.png",
+      "snippet": "Trump has made 4 international trips to 7 countries during his second presidency. Due to the COVID-19 pandemic, he did not make any international trips between ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 63,
+      "title": "France's Macron Leaving Isolation After Week With the Virus",
+      "link": "https://www.nbcconnecticut.com/news/coronavirus/frances-macron-leaving-isolation-after-week-with-the-virus/2390848/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nbcconnecticut.com/news/coronavirus/frances-macron-leaving-isolation-after-week-with-the-virus/2390848/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCJUCEAE",
+      "displayed_link": "https://www.nbcconnecticut.com › news › coronavirus",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147475eb933e7f61b4be5042917e6c9c344f5.png",
+      "date": "Dec 24, 2020",
+      "snippet": "French President Emmanuel Macron no longer has virus symptoms and is leaving isolation Thursday after a week with COVID-19.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "COVID"
+      ],
+      "source": "NBC Connecticut"
+    },
+    {
+      "position": 64,
+      "title": "French President Macron blames Covid-19 infection on ...",
+      "link": "https://www.youtube.com/watch?v=ueqfyzaHxSk",
+      "displayed_link": "10.3K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZTEz52pvTYZMaOkvnevqDXmnZTJGqkRynbuVlGBBxN_MT&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747e9a7abc1c8eb7addaabb5daf9b828001.png",
+      "snippet": "French President Emmanuel Macron on Friday blamed his Covid-19 on a combination of negligence and bad luck, urging his compatriots to stay ...",
+      "duration": "0:25",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS6zneA11Xx0e3m9TCerx5wk34slwLx7gVo2A",
+      "source": "YouTube · FRANCE 24 English"
+    },
+    {
+      "position": 65,
+      "title": "President Macron continues Covid isolation in Versailles",
+      "link": "https://www.connexionfrance.com/news/president-macron-continues-covid-isolation-in-versailles/425527",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.connexionfrance.com/news/president-macron-continues-covid-isolation-in-versailles/425527&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKkCEAE",
+      "displayed_link": "https://www.connexionfrance.com › news › president-...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147476f4f56cff2d10a2a23b9267436451a5c.png",
+      "date": "Dec 18, 2020",
+      "snippet": "Updates have been given on the President's health and how he will be cared for while isolating for the next seven days.",
+      "source": "The Connexion"
+    },
+    {
+      "position": 66,
+      "title": "Macron urges people to remain vigilant against virus",
+      "link": "https://www.aa.com.tr/en/europe/macron-urges-people-to-remain-vigilant-against-virus/2081990",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aa.com.tr/en/europe/macron-urges-people-to-remain-vigilant-against-virus/2081990&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCLICEAE",
+      "displayed_link": "https://www.aa.com.tr › europe › macron-urges-people-t...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147478a074e3987a6a30add04555c7c2fbb5c.png",
+      "date": "Dec 19, 2020",
+      "snippet": "In a video message after testing COVID-19 positive, French president calls for caution in festive days - Anadolu Ajansı.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Anadolu Ajansı"
+    },
+    {
+      "position": 67,
+      "title": "French president Emmanuel Macron tests positive for ...",
+      "link": "https://thefederal.com/international/french-president-emmanuel-macron-tests-positive-for-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thefederal.com/international/french-president-emmanuel-macron-tests-positive-for-covid-19&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCLMCEAE",
+      "displayed_link": "https://thefederal.com › World",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474733edccbdfd49e80e3b140fe140703760.png",
+      "date": "Dec 17, 2020",
+      "snippet": "Macron and other government officials have continously said that they have been adhering to COVID-19 norms, such as wearing a mask, not shaking ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "COVID"
+      ],
+      "source": "The Federal"
+    },
+    {
+      "position": 68,
+      "title": "Macron says France does not need to lock down non- ...",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/macron-says-france-does-not-need-to-lock-down-non-vaccinated-people-as-covid-spreads/87790134",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://health.economictimes.indiatimes.com/news/industry/macron-says-france-does-not-need-to-lock-down-non-vaccinated-people-as-covid-spreads/87790134&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECFEQAQ",
+      "displayed_link": "https://health.economictimes.indiatimes.com › industry",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747cbfef787e29ddac7f3ad4cc151c6e08b.png",
+      "date": "Nov 19, 2021",
+      "snippet": "France does not need to follow those European countries imposing COVID-19 lockdowns on unvaccinated people, because of the success of its health pass in ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "ET HealthWorld"
+    },
+    {
+      "position": 69,
+      "title": "France's President Macron & wife sue US influencer ...",
+      "link": "https://mothership.sg/2025/07/macron-candace-owens-lawsuit/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mothership.sg/2025/07/macron-candace-owens-lawsuit/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECFAQAQ",
+      "displayed_link": "https://mothership.sg › macron-candace-owens-lawsuit",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747ab9abf61ef7c15b30498d78d2d427ece.png",
+      "date": "34 minutes ago",
+      "snippet": "French President Emmanuel Macron and his wife, Brigitte Macron, have ... Covid-19 vaccines, the Holocaust and the moon landings. She ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Macron",
+        "Covid"
+      ],
+      "source": "Mothership"
+    },
+    {
+      "position": 70,
+      "title": "Macron hails 'first victory' against COVID-19 and reopens ...",
+      "link": "https://www.euronews.com/2020/06/14/macron-hails-first-victory-against-covid-19-and-reopens-french-borders",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.euronews.com/2020/06/14/macron-hails-first-victory-against-covid-19-and-reopens-french-borders&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECE8QAQ",
+      "displayed_link": "https://www.euronews.com › News › World › France",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747c3a99cf16184c55cf216f781d3218bbe.png",
+      "date": "Jun 14, 2020",
+      "snippet": "French President Emmanuel Macron hailed a \"first victory\" against the coronavirus crisis while also promising to draw lessons from the impact of the outbreak.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "coronavirus"
+      ],
+      "source": "Euronews"
+    },
+    {
+      "position": 71,
+      "title": "France's Macron: No regrets for rejecting new virus lockdown",
+      "link": "https://www.cbs42.com/news/international/french-president-no-regrets-at-refusing-new-virus-lockdown/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbs42.com/news/international/french-president-no-regrets-at-refusing-new-virus-lockdown/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECGAQAQ",
+      "displayed_link": "https://www.cbs42.com › news › international › french-...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147473bd77af0678781c1cb115455f6e9f7a1.png",
+      "date": "Mar 26, 2021",
+      "snippet": "Families of French COVID-19 victims say, however, that Macron has turned a blind eye to their suffering. “We were right not to implement a ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Macron"
+      ],
+      "source": "CBS 42"
+    },
+    {
+      "position": 72,
+      "title": "Site officiel du Gouvernement | info.gouv.fr",
+      "link": "https://www.info.gouv.fr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.info.gouv.fr/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECGoQAQ",
+      "displayed_link": "https://www.info.gouv.fr",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747a076b11bbe005c2b2888f80434eab63a.png",
+      "snippet": "Retrouvez toute l'actualité sur l'action du Gouvernement, les résultats des politiques publiques, et les services essentiels à tous les citoyens.",
+      "source": "info.gouv.fr"
+    },
+    {
+      "position": 73,
+      "title": "France is all set to ease #COVID19 restrictions after ...",
+      "link": "https://www.facebook.com/WIONews/videos/second-wave-of-covid-19-over-in-france-says-macron/807741923127938/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/WIONews/videos/second-wave-of-covid-19-over-in-france-says-macron/807741923127938/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECGQQAQ",
+      "displayed_link": "20+ reactions · 4 years ago",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474770a7cb708174c630de244f9317e499da.png",
+      "snippet": "Second wave of COVID-19 over in France, says Macron · France is all set to ease #COVID19 restrictions after President Emmanuel Macron said that ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Macron",
+        "Macron"
+      ],
+      "source": "Facebook · WION"
+    },
+    {
+      "position": 74,
+      "title": "Tatiana Wright - X",
+      "link": "https://x.com/twright55/status/1948094066203185659",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/twright55/status/1948094066203185659&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECG4QAQ",
+      "displayed_link": "11 hours ago",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147470dae95c95732ca66cd3d4c48922d8498.png",
+      "snippet": "Macron Sues #CandaceOwens For Defamation For Claiming His Wife Is A Man. Macron ... COVID. Xi Jinping lies about his viruses.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Macron",
+        "COVID"
+      ],
+      "source": "X · twright55"
+    },
+    {
+      "position": 75,
+      "title": "Macron who was diagnosed with COVID-19 earlier says he ...",
+      "link": "https://en.apa.az/europe/Macron-who-was-diagnosed-with-COVID-19-earlier-says-he-is-generally-feeling-well-338275",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.apa.az/europe/Macron-who-was-diagnosed-with-COVID-19-earlier-says-he-is-generally-feeling-well-338275&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECG0QAQ",
+      "displayed_link": "https://en.apa.az › europe › Macron-who-was-diagnosed-...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147473bfb43819b3466ad8daa4ded223cea81.png",
+      "snippet": "rench President Emmanuel Macron has informed on Friday that despite having contracted COVID-19, he is feeling well, but is working at a slower pace.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "COVID"
+      ],
+      "source": "Apa.az"
+    },
+    {
+      "position": 76,
+      "title": "Macron to address the nation tonight with France on brink ...",
+      "link": "https://www.the-sun.com/news/2614681/macron-new-covid-restrictions-france/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.the-sun.com/news/2614681/macron-new-covid-restrictions-france/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECH4QAQ",
+      "displayed_link": "https://www.the-sun.com › News › US News",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747ea5f997c656db50676220bf919f09daf.png",
+      "date": "Mar 31, 2021",
+      "snippet": "Emmanuel Macron is tonight expected to impose a third lockdown on France in a televised address amid surging Covid cases.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Covid"
+      ],
+      "source": "The US Sun"
+    },
+    {
+      "position": 77,
+      "title": "Macron extends France's lockdown until 11 May",
+      "link": "https://www.euractiv.com/section/health-consumers/news/macron-extends-frances-lockdown-until-may-11/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.euractiv.com/section/health-consumers/news/macron-extends-frances-lockdown-until-may-11/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECH0QAQ",
+      "displayed_link": "https://www.euractiv.com › News",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147476c1ecfddfda673266aedeaebf43b3726.png",
+      "date": "Apr 14, 2020",
+      "snippet": "French President Emmanuel Macron on Monday (13 April) announced he was extending a virtual lockdown to curb the coronavirus outbreak until ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "coronavirus"
+      ],
+      "source": "Euractiv"
+    },
+    {
+      "position": 78,
+      "title": "Macron dit vouloir concilier \"science\" et \"juste concurrence\"",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/agriculture/loi-duplomb-macron-veut-concilier-science-et-juste-concurrence_187285",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencesetavenir.fr/nature-environnement/agriculture/loi-duplomb-macron-veut-concilier-science-et-juste-concurrence_187285&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCIgBEAE",
+      "displayed_link": "https://www.sciencesetavenir.fr › l...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147475af94d2506e051d1f08441b1644cb4d7.png",
+      "date": "19 hours ago",
+      "snippet": "Emmanuel Macron a dit le 23 juillet 2025 qu'il attendrait ... Origines du Covid Sixième Science, notre podcast avec 20 min Diabète Twitch.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Covid"
+      ],
+      "source": "Sciences et Avenir"
+    },
+    {
+      "position": 79,
+      "title": "Emmanuel Macron a été diagnostiqué positif au Covid-19 ...",
+      "link": "https://www.lemonde.fr/politique/article/2020/12/17/emmanuel-macron-a-ete-diagnostique-positif-au-covid-19_6063701_823448.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lemonde.fr/politique/article/2020/12/17/emmanuel-macron-a-ete-diagnostique-positif-au-covid-19_6063701_823448.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCIUBEAE",
+      "displayed_link": "https://www.lemonde.fr › article",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747dc92ea3bb4314970c3401f180b428ea5.png",
+      "date": "Dec 17, 2020",
+      "snippet": "Un fidèle d'Emmanuel Macron se veut rassurant sur son état de santé. « Il n'est pas abattu, il va bien et n'a que des légers symptômes. Il ...",
+      "snippet_highlighted_words": [
+        "Macron"
+      ],
+      "source": "Le Monde.fr"
+    },
+    {
+      "position": 80,
+      "title": "Berlin - Merz empfängt Macron",
+      "link": "https://www.deutschlandfunk.de/merz-empfaengt-macron-104.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deutschlandfunk.de/merz-empfaengt-macron-104.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCIoBEAE",
+      "displayed_link": "https://www.deutschlandfunk.de › ...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474714e02bb49c0baacd22095a7146e3d217.png",
+      "date": "1 day ago",
+      "snippet": "Merz und Macron treffen in der Villa Borsig am Stadtrand von Berlin zusammen. Das ist die frühere Residenz des Befehlshabers der französischen ...",
+      "snippet_highlighted_words": [
+        "Macron"
+      ],
+      "source": "Deutschlandfunk"
+    },
+    {
+      "position": 81,
+      "title": "COVID-19: Is Macron's lockdown too far or not far enough ...",
+      "link": "https://uk.news.yahoo.com/covid-19-macrons-lockdown-too-234500316.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.news.yahoo.com/covid-19-macrons-lockdown-too-234500316.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCIkBEAE",
+      "displayed_link": "https://uk.news.yahoo.com › covid-19-macrons-lockdo...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474765fce5e4942f7c57d737a13261693c79.png",
+      "snippet": "COVID-19: Is Macron's lockdown too far or not far enough as France fights a 'pandemic within a pandemic'?. Sky News. Updated 31 March 2021 4-min read.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Macron's"
+      ],
+      "source": "Yahoo"
+    },
+    {
+      "position": 82,
+      "title": "REPLAY: Macron addresses the nation amid a resurgence of ...",
+      "link": "https://www.youtube.com/watch?v=CCrcml70Crg",
+      "displayed_link": "6.8K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcOUHqiar0N03r3inyHPUM270BEFcNTy3HZ52iL84Gjr5h&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747c911d7275ca2b3a56be091d1d5fd353c.png",
+      "snippet": "French President Emmanuel #Macron addressed the nation Tuesday as the rate of #Covid-19 infections has been climbing once again in #France.",
+      "duration": "27:23",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQtRZf2VY8ReDk0T1A_9p0jot8tyxk7jO0tBQ",
+      "source": "YouTube · FRANCE 24 English"
+    },
+    {
+      "position": 83,
+      "title": "Who really is Candace Owens? shocking lawsuit by French ...",
+      "link": "https://m.economictimes.com/news/international/us/who-really-is-candace-owens-shocking-lawsuit-by-french-president-macron-reveals-secrets-about-her-net-worth-career-and-personal-life/articleshow/122871725.cms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.economictimes.com/news/international/us/who-really-is-candace-owens-shocking-lawsuit-by-french-president-macron-reveals-secrets-about-her-net-worth-career-and-personal-life/articleshow/122871725.cms&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCIsBEAE",
+      "displayed_link": "https://m.economictimes.com › ... › US News",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474780bfb84716a2fce67d034f8d4c497f7b.png",
+      "date": "2 hours ago",
+      "snippet": "French President Emmanuel Macron and his wife, Brigitte Macron, have ... She actively opposes COVID-19 lockdowns, vaccine policies ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Macron",
+        "COVID"
+      ],
+      "source": "The Economic Times"
+    },
+    {
+      "position": 84,
+      "title": "French President Macron and wife file defamation suit against ...",
+      "link": "https://abcnews.go.com/US/french-president-macron-wife-file-defamation-suit-commentator/story?id=124002172",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://abcnews.go.com/US/french-president-macron-wife-file-defamation-suit-commentator/story%3Fid%3D124002172&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKYBEAE",
+      "displayed_link": "https://abcnews.go.com › story",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147477dcdd7f947efc3b43c64faef2d22923d.png",
+      "date": "12 hours ago",
+      "snippet": "COVID-19 · Entertainment · Business · Technology · Lifestyle · Health · Weather ... Brigitte Macron: France's first ladyEmmanuel Macron married ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Macron",
+        "Macron"
+      ],
+      "source": "ABC News"
+    },
+    {
+      "position": 85,
+      "title": "Covid: “Lifting lockdown is out of the question” Emmanuel ...",
+      "link": "https://www.sortiraparis.com/en/news/in-paris/articles/236064-covid-lifting-lockdown-is-out-of-the-question-emmanuel-macron-warns",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sortiraparis.com/en/news/in-paris/articles/236064-covid-lifting-lockdown-is-out-of-the-question-emmanuel-macron-warns&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKQBEAE",
+      "displayed_link": "https://www.sortiraparis.com › Home › News › News",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747e37e274479cabdb3b88ffacab99bc752.png",
+      "snippet": "Interviewed by JDD on November 22, Emmanuel Macron is to address the situation in France on Tuesday November 24 at 8 p.m., and said “lifting lockdown is out ...",
+      "snippet_highlighted_words": [
+        "Macron"
+      ],
+      "source": "Sortir à Paris"
+    },
+    {
+      "position": 86,
+      "title": "Emmanuel and Brigitte Macron are suing Candace Owens ...",
+      "link": "https://www.reddit.com/r/france/comments/1m7ez1k/emmanuel_et_brigitte_macron_portent_plainte_en/?tl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/france/comments/1m7ez1k/emmanuel_et_brigitte_macron_portent_plainte_en/%3Ftl%3Den&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKcBEAE",
+      "displayed_link": "10+ comments · 13 hours ago",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747dca211691f277da9710bb63ace915f6b.png",
+      "snippet": "I didn't know the lady, but obviously if you imagine any lousy conspiracy theory, tell yourself that she's in it (covid vaccines, satanists, ...",
+      "snippet_highlighted_words": [
+        "covid"
+      ],
+      "source": "Reddit · r/france"
+    },
+    {
+      "position": 87,
+      "title": "French President Macron tests positive for Covid-19",
+      "link": "https://timesofindia.indiatimes.com/world/europe/french-president-macron-tests-positive-for-covid-19/articleshow/79777200.cms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://timesofindia.indiatimes.com/world/europe/french-president-macron-tests-positive-for-covid-19/articleshow/79777200.cms&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECEkQAQ",
+      "displayed_link": "https://timesofindia.indiatimes.com › ... › Europe News",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747277e9872561057dbed3a0c82a8f27df3.png",
+      "date": "Dec 17, 2020",
+      "snippet": "PARIS: French President Emmanuel Macron tested positive for Covid-19 on Thursday, the presidency said, adding that he would now self-isolate ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Covid"
+      ],
+      "source": "Times of India"
+    },
+    {
+      "position": 88,
+      "title": "France’s Emmanuel Macron told the World Economic Forum ...",
+      "link": "https://www.facebook.com/cgtneuropeofficial/videos/frances-president-emmanuel-macron-speaks-at-world-economic-forum/753965051889961/",
+      "displayed_link": "40+ reactions · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoELj45HqtStb0v7OR_8GzpPMzBYLN3UXLXdti2U7apCjR&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747825b4fe61d80f2d2eabac9b1520df909.png",
+      "snippet": "... COVID-19. Read more: https://newseu.cgtn.com/news/2021-01-26/EU-chief-calls-for-global-biodiversity-agreement-at-WEF-Xn0qjvEy3K/index ...",
+      "duration": "0:56",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ-_QCipL8A3CdrhDJULm3DhoYmbOnBmWNVrg",
+      "source": "Facebook · CGTNEurope"
+    },
+    {
+      "position": 89,
+      "title": "Macron put to the test in unprecedented times",
+      "link": "https://www.aa.com.tr/en/europe/macron-put-to-the-test-in-unprecedented-times/1773736",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aa.com.tr/en/europe/macron-put-to-the-test-in-unprecedented-times/1773736&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECEMQAQ",
+      "displayed_link": "https://www.aa.com.tr › europe › macron-put-to-the-test-...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747dd54712a4804d397e159519e0bcaaeef.png",
+      "date": "Mar 21, 2020",
+      "snippet": "French President Emmanuel Macron faced a great leadership test Friday as the deadly coronavirus outbreak continued to claim lives, infect patients, and ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "coronavirus"
+      ],
+      "source": "Anadolu Ajansı"
+    },
+    {
+      "position": 90,
+      "title": "French President Emmanuel Macron Announces Second ...",
+      "link": "https://www.latintimes.com/french-president-emmanuel-macron-announces-second-nationwide-lockdown-warns-deadlier-463194",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.latintimes.com/french-president-emmanuel-macron-announces-second-nationwide-lockdown-warns-deadlier-463194&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCNYBEAE",
+      "displayed_link": "https://www.latintimes.com › ... › France › Lockdown",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747df3e29a08b106cbe940e998ea7f18cbc.png",
+      "date": "Oct 29, 2020",
+      "snippet": "Macron in his speech to the nation, cited that things might turn ghastlier in France -- with over 400,000 COVID-19 related deaths -- if ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "COVID"
+      ],
+      "source": "Latin Times"
+    },
+    {
+      "position": 91,
+      "title": "Emmanuel Macron annonce un confinement pour lutter ...",
+      "link": "https://enseignants.lumni.fr/fiche-media/00000004931/16-mars-2020-emmanuel-macron-annonce-un-confinement-en-france-pour-lutter-contre-lecovid-19.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enseignants.lumni.fr/fiche-media/00000004931/16-mars-2020-emmanuel-macron-annonce-un-confinement-en-france-pour-lutter-contre-lecovid-19.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCP0BEAE",
+      "displayed_link": "https://enseignants.lumni.fr › 16-...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147477778c24a4a90f8240dba621c898e0ab4.png",
+      "date": "Mar 16, 2020",
+      "snippet": "Afin de freiner la propagation de l'épidémie de Covid-19 en France, le président de la République Emmanuel Macron annonce, dans un discours ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "Macron"
+      ],
+      "source": "Lumni Enseignement"
+    },
+    {
+      "position": 92,
+      "title": "Emanuel, Brigitte Macron sue Candace Owens for claiming ...",
+      "link": "https://nypost.com/2025/07/23/media/candace-owens-sued-by-french-president-emanuel-macron-and-his-wife-for-defamation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nypost.com/2025/07/23/media/candace-owens-sued-by-french-president-emanuel-macron-and-his-wife-for-defamation/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCNcBEAE",
+      "displayed_link": "https://nypost.com › 2025/07/23 › media › candace-ow...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747d34d679ee2d19510358cef0d0d52ea5a.png",
+      "date": "13 hours ago",
+      "snippet": "French President Emmanuel Macron and his wife Brigitte Macron have filed a defamation lawsuit in a ... COVID‑19 vaccine misinformation. Read More.",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Macron",
+        "COVID"
+      ],
+      "source": "New York Post"
+    },
+    {
+      "position": 93,
+      "title": "French constitutional court backs Macron's Covid-19 pass ...",
+      "link": "https://www.youtube.com/watch?v=Sda7tGZWszA",
+      "displayed_link": "1.1K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtEib6L_aGL2Jjn08Rwxw4wEIaotRTQeuvl63z3dJJ37km&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474744c293af52f3aa0cb656407d37b8fbee.png",
+      "snippet": "French constitutional court backs Macron's Covid-19 pass • FRANCE 24 English. 1.1K views · 3 years ago #virus #France #Covid ...more. FRANCE ...",
+      "duration": "1:34",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQAT2g1vKbw6jkN04RNPYZEspq3NcMBCU1mYA",
+      "source": "YouTube · FRANCE 24 English"
+    },
+    {
+      "position": 94,
+      "title": "Loi Duplomb: Macron veut concilier \"science\" et \"juste ...",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/loi-duplomb-macron-veut-concilier-science-et-juste-concurrence_187285",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencesetavenir.fr/nature-environnement/loi-duplomb-macron-veut-concilier-science-et-juste-concurrence_187285&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCNgBEAE",
+      "displayed_link": "https://www.sciencesetavenir.fr › l...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747e8b4af87d81828d7923ce0f2a12002f6.png",
+      "date": "19 hours ago",
+      "snippet": "Origines du Covid Sixième Science, notre podcast avec 20 min James Webb Twitch ... Emmanuel Macron a dit mercredi qu'il attendrait la ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "Macron"
+      ],
+      "source": "Sciences et Avenir"
+    },
+    {
+      "position": 95,
+      "title": "France's Macron Raises Defense Budget, Says Europe ...",
+      "link": "https://www.bloomberg.com/news/articles/2025-07-13/france-s-macron-raises-defense-budget-says-europe-under-threat",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bloomberg.com/news/articles/2025-07-13/france-s-macron-raises-defense-budget-says-europe-under-threat&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECEwQAQ",
+      "displayed_link": "https://www.bloomberg.com › news › articles › france-s-...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747cfd676f6d5b5dbe939b75a6188d98986.png",
+      "date": "Jul 13, 2025",
+      "snippet": "However, France is facing greater spending constraints than most as efforts to repair public finances after the Covid pandemic and energy crisis ...",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "Bloomberg"
+    },
+    {
+      "position": 96,
+      "title": "Who is Candace Owens, the US influencer being sued by ...",
+      "link": "https://www.firstpost.com/explainers/candace-owens-emmanuel-macron-brigitte-lawsuit-explained-13911586.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.firstpost.com/explainers/candace-owens-emmanuel-macron-brigitte-lawsuit-explained-13911586.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKIBEAE",
+      "displayed_link": "https://www.firstpost.com › Explainers",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747b738320f70dd226b9baa57b1448c0976.png",
+      "date": "2 hours ago",
+      "snippet": "France's President Emmanuel Macron and his wife Brigitte Macron have ... She was one of the foremost voices against Covid vaccines ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Macron",
+        "Covid"
+      ],
+      "source": "Firstpost"
+    },
+    {
+      "position": 97,
+      "title": "Self-isolation rush after France's Macron catches Covid-19",
+      "link": "https://www.youtube.com/watch?v=xiFKvOQnsXE",
+      "displayed_link": "900+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYeqma_VkAHOcYUvuRpX04QH1GNUF26djYAWi0rhndTDUW&s",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147479efc7610314037339ab19d5090afa639.png",
+      "snippet": "A host of European leaders and top French officials rushed into isolation on Thursday after President Emmanuel #Macron tested positive for ...",
+      "duration": "1:10",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSLBv2UbpQDfncsiLxLLCcp2mtjQgHfJgT38w",
+      "source": "YouTube · FRANCE 24 English"
+    },
+    {
+      "position": 98,
+      "title": "Macron And Wife Sue Candace Owens",
+      "link": "https://www.forbes.com/sites/saradorn/2025/07/23/emmanuel-macron-and-wife-brigitte-sue-right-wing-influencer-candace-owens/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.forbes.com/sites/saradorn/2025/07/23/emmanuel-macron-and-wife-brigitte-sue-right-wing-influencer-candace-owens/&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCMIBEAE",
+      "displayed_link": "https://www.forbes.com › Business",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f101474736367ffc1381a30aacc33cfe57da9608.png",
+      "date": "13 hours ago",
+      "snippet": "Covid-19 Travel Insurance · Cheap Travel Insurance Companies · Best Car ... French President Emmanuel Macron and his wife More Brigitte Macron ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "Macron",
+        "Macron"
+      ],
+      "source": "Forbes"
+    },
+    {
+      "position": 99,
+      "title": "French president Macron sues right-wing podcaster over ...",
+      "link": "https://www.yahoo.com/news/articles/french-president-macron-sues-influencer-154736584.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yahoo.com/news/articles/french-president-macron-sues-influencer-154736584.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoFCKEBEAE",
+      "displayed_link": "https://www.yahoo.com › news › articles › french-presi...",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f10147472e12810d5fa64d932dd0ec29b3d4bf14.png",
+      "date": "15 hours ago",
+      "snippet": "... Macron, 72, was born under the name Jean-Michel Trogneux, the ... COVID-19 pandemic but more recently there has been an exodus as ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "COVID"
+      ],
+      "source": "Yahoo.co"
+    },
+    {
+      "position": 100,
+      "title": "Who is Candace Owens? Right-wing commentator sued by ...",
+      "link": "https://www.hindustantimes.com/world-news/us-news/who-is-candace-owens-right-wing-commentator-sued-by-french-president-macron-for-defamation-101753295196216.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hindustantimes.com/world-news/us-news/who-is-candace-owens-right-wing-commentator-sued-by-french-president-macron-for-defamation-101753295196216.html&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQFnoECEsQAQ",
+      "displayed_link": "https://www.hindustantimes.com › World news › us news",
+      "favicon": "https://serpapi.com/searches/6881d29d5c4bf44525c689df/images/a6045e0f1014fc6c18a0f414f1014747a63f5a252c60c076a7a54e84a35f54a2.png",
+      "date": "12 hours ago",
+      "snippet": "French President Emmanuel Macron and his wife, Brigitte Macron, have ... She has promoted conspiracy theories regarding COVID-19 vaccines, the ...",
+      "snippet_highlighted_words": [
+        "Macron",
+        "Macron",
+        "COVID"
+      ],
+      "source": "Hindustan Times"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=macron+covid&num=100&sca_esv=35e16478e05ded5f&gl=us&hl=en&ei=ntKBaIrcFPGzqtsPzK3L4Qs&start=100&sa=N&sstk=Ac65TH5H_5CtTXLcTcACK8ktrAcMVSoWaw5U09zXMpVhxpqYxx5pDFnSTbXEgGvM8VfyqG4Yl3tRaUugyIuIG2u68u99WA8gHRyvsw&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQ8NMDegQICxAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=macron+covid&num=100&sca_esv=35e16478e05ded5f&gl=us&hl=en&ei=ntKBaIrcFPGzqtsPzK3L4Qs&start=100&sa=N&sstk=Ac65TH5H_5CtTXLcTcACK8ktrAcMVSoWaw5U09zXMpVhxpqYxx5pDFnSTbXEgGvM8VfyqG4Yl3tRaUugyIuIG2u68u99WA8gHRyvsw&ved=2ahUKEwiKo6KA79SOAxXxmWoFHczWMrwQ8tMDegQICxAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=macron+covid&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=macron+covid&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=macron+covid&start=100"
+    }
+  }
+}

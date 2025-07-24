@@ -1,0 +1,1308 @@
+{
+  "search_metadata": {
+    "id": "68825bc8fbe53b0226c69e0c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a8fd6384ddd61558/68825bc8fbe53b0226c69e0c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/a8fd6384ddd61558/68825bc8fbe53b0226c69e0c.json_with_pixel_position",
+    "created_at": "2025-07-24 16:14:00 UTC",
+    "processed_at": "2025-07-24 16:14:00 UTC",
+    "google_url": "https://www.google.com/search?q=tax+sale+fayette+county+pa&oq=tax+sale+fayette+county+pa&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a8fd6384ddd61558/68825bc8fbe53b0226c69e0c.html",
+    "total_time_taken": 1.62
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "tax sale fayette county pa",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "tax sale fayette county pa",
+    "total_results": 70,
+    "time_taken_displayed": 0.49,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "see_results_about": [
+      {
+        "name": "Fayette County Tax Claim",
+        "extensions": [
+          "Tax department in Uniontown, Pennsylvania"
+        ],
+        "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Fayette+County+Tax+Claim&si=AMgyJEuDwE-plGsuxjxlU3KtUl_qYBgoTqjLA0JSWB3IfGeMHVUdbMSfTD-w-zpjCBPp3yIHt0ASxeO-sGesNcXAogzk7l3sRg45CHzpEVoTWc_Y7rfaX7iHOnZoh84dQb9O3h-NmbVTQUto9uftaG1892j23XKyTyHhjnF946yw1D63Gc9krXo%3D&sa=X&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQ6RN6BAgFEAE"
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "How does a tax sale work in Pennsylvania?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "In Pennsylvania, tax sales involve the sale of properties with delinquent property taxes. These sales occur through auctions, where the highest bidder wins the right to purchase the tax lien. The tax claim bureau in each county typically manages these auctions, which are announced publicly. Winning a tax lien means you're essentially buying the right to collect the overdue taxes, plus interest, from the property owner.",
+          "snippet_highlighted_words": [
+            "involve the sale of properties with delinquent property taxes"
+          ],
+          "reference_indexes": [
+            5,
+            8,
+            10
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Here's a more detailed breakdown:"
+        },
+        {
+          "type": "heading",
+          "snippet": "1. Upset Sale:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "This is the initial stage of the tax sale process.",
+              "reference_indexes": [
+                0,
+                2,
+                5
+              ]
+            },
+            {
+              "snippet": "Properties are offered for sale to satisfy the unpaid taxes.",
+              "reference_indexes": [
+                2,
+                8
+              ]
+            },
+            {
+              "snippet": "If a property doesn't sell at the Upset Sale, it moves to the Judicial Sale.",
+              "reference_indexes": [
+                2
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "2. Judicial Sale:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "This sale is a more formal process, often involving court involvement."
+            },
+            {
+              "snippet": "Properties sold at a Judicial Sale are generally free and clear of most liens and encumbrances, including those from the original sale.",
+              "reference_indexes": [
+                2,
+                6,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "3. Right of Redemption:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "In some cases, the original property owner or other interested parties may have the right to redeem the property after the sale.",
+              "reference_indexes": [
+                3
+              ]
+            },
+            {
+              "snippet": "This means they can pay off the outstanding taxes and reclaim ownership.",
+              "reference_indexes": [
+                3,
+                4,
+                7
+              ]
+            },
+            {
+              "snippet": "The specific redemption period (e.g., 9 months in some sheriff's sales) and procedures vary by county and sale type.",
+              "reference_indexes": [
+                1,
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "4. Tax Lien:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "A tax lien is a legal claim against a property for unpaid taxes."
+            },
+            {
+              "snippet": "When you buy a tax lien, you're essentially stepping into the shoes of the taxing authority and have the right to collect the debt."
+            },
+            {
+              "snippet": "If the property owner doesn't pay the taxes and interest within a certain timeframe, the lien holder may be able to pursue foreclosure.",
+              "reference_indexes": [
+                8,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "5. Tax Deed:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "A tax deed is a legal document that transfers ownership of a property to the purchaser after a tax sale."
+            },
+            {
+              "snippet": "It is usually issued after a Judicial Sale or when the property is sold at a tax deed sale.",
+              "reference_indexes": [
+                10
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Tax Sale Information",
+          "link": "https://yorkcountypa.gov/528/Tax-Sale-Information#:~:text=Basic%20Information%20Regarding%20Tax%20Sales%20Our%20first,as%20reported%2C%20municipal%20liens%2C%20and%20our%20costs.",
+          "snippet": "Basic Information Regarding Tax Sales Our first sale is known as the Upset Sale. (Generally held in September.) We set the startin...",
+          "source": "York County, PA (.gov)",
+          "index": 0
+        },
+        {
+          "title": "The Consequences of Delinquent Property Taxes in PA",
+          "link": "https://www.nolo.com/legal-encyclopedia/what-happens-if-i-dont-pay-property-taxes-pennsylvania.html",
+          "snippet": "You Might Get the Right to Redeem the Property After a Pennsylvania Tax Sale Some counties permit redemption. Some counties provid...",
+          "source": "Nolo",
+          "index": 1
+        },
+        {
+          "title": "Tax Sales In Pennsylvania: A Guide to Your Rights - Timoney Knox LLP",
+          "link": "https://www.timoneyknox.com/tax-sales-in-pennsylvania-a-guide-to-your-rights/#:~:text=Mortgages%20and%20other%20liens%20typically,of%20all%20liens%20and%20encumbrances.",
+          "snippet": "Mortgages and other liens typically remain, with only the tax liens being discharged. If your property does not sell at an Upset S...",
+          "source": "Timoney Knox LLP",
+          "index": 2
+        },
+        {
+          "title": "Conditions of Sale for Tax Sales - Philadelphia Sheriff's Office",
+          "link": "https://phillysheriff.com/real-estate/conditions-of-sale-for-tax-sales/#:~:text=The%20properties%20auctioned%20in%20tax,property%20back%20after%20the%20sale.",
+          "snippet": "The properties auctioned in tax foreclosure sales may be subject to a right of redemption, meaning the property owner or other par...",
+          "source": "Philadelphia Sheriff's Office",
+          "index": 3
+        },
+        {
+          "title": "Is There a Right of Redemption at a Sheriff's Sale in Pennsylvania? | ABI",
+          "link": "https://www.abi.org/feed-item/is-there-a-right-of-redemption-at-a-sheriff%E2%80%99s-sale-in-pennsylvania#:~:text=This%20means%20that%20if%20your,sheriff's%20sale%20to%20redeem%20it.",
+          "snippet": "This means that if your home was foreclosed upon and sold off in a sheriff's sale because you missed mortgage payments, you will n...",
+          "source": "abi.org",
+          "index": 4
+        },
+        {
+          "title": "How To Buy Tax Liens In PA? - CountyOffice.org - YouTube",
+          "link": "https://www.youtube.com/watch?v=JZ-IV9J5m0c&t=7",
+          "snippet": "Jun 24, 2024 — let's get started how to buy tax leans in PA purchasing tax leans in Pennsylvania can be a profitable investment. unde...",
+          "source": "YouTube · County Office Property",
+          "index": 5
+        },
+        {
+          "title": "Philadelphia Tax Sale Litigation Attorneys",
+          "link": "https://www.weisberglawoffices.com/real-estate-litigation/tax-sale-litigation/#:~:text=Exploring%20Tax%20Sale%20Varieties%20in%20PA%20Tax,sales%20are%20conducted%20through%20the%20court%20system.",
+          "snippet": "Exploring Tax Sale Varieties in PA Tax Lien Sales: In a tax lien sale, the local government sells the delinquent tax liens on prop...",
+          "source": "Weisberg Law",
+          "index": 6
+        },
+        {
+          "title": "Tax Sale: Definition, How It Works, Two Types",
+          "link": "https://www.investopedia.com/terms/t/tax-sale.asp#:~:text=Before%20or%20after%20a%20tax%20sale%2C%20during,their%20tax%20debt%20and%20reclaim%20the%20property.",
+          "snippet": "Before or after a tax sale, during a right-of-redemption period, a property owner may pay off their tax debt and reclaim the prope...",
+          "source": "Investopedia",
+          "index": 7
+        },
+        {
+          "title": "What Is a Tax Sale Property and How Do Tax Sales Work - Realtor.com",
+          "link": "https://www.realtor.com/advice/finance/happens-buy-home-tax-sale/#:~:text=The%20unpaid%20taxes%20are%20auctioned,plus%20interest%2C%20or%20face%20foreclosure.",
+          "snippet": "Jan 30, 2025 — The unpaid taxes are auctioned off at a tax lien sale. The highest bidder gets the lien against the property. The tax ...",
+          "source": "Realtor.com",
+          "index": 8
+        },
+        {
+          "title": "Investing in Property Tax Liens - Investopedia",
+          "link": "https://www.investopedia.com/articles/investing/061313/investing-property-tax-liens.asp#:~:text=Many%20have%20an%20expiration%20date,impossible%20to%20obtain%20the%20title.",
+          "snippet": "Many have an expiration date after the end of the redemption period. Once the lien expires, the lienholder becomes unable to colle...",
+          "source": "Investopedia",
+          "index": 9
+        },
+        {
+          "title": "Definition, How to Clear It, and Tax Deed Sales - Investopedia",
+          "link": "https://www.investopedia.com/terms/t/tax-deed.asp#:~:text=A%20tax%20deed%20is%20a,then%20transferred%20to%20the%20purchaser.",
+          "snippet": "A tax deed is a legal document that grants ownership of a property to a government body when the owner fails to pay any associated...",
+          "source": "Investopedia",
+          "index": 10
+        },
+        {
+          "title": "Execution Sales in a Criminal Case",
+          "link": "https://www.legalmatch.com/law-library/article/execution-sales-in-a-criminal-case.html#:~:text=So%20judicial%20sales%20involve%20more%20monitoring%20by,be%20reported%20to%20a%20court%20for%20confirmation.",
+          "snippet": "So judicial sales involve more monitoring by the court, and in that sense, they are somewhat more formal. There are also “special ...",
+          "source": "LegalMatch",
+          "index": 11
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJUUkdkMEpGU1hGYWNuUnJlRFZZZWtneFNYcGZXVlk0ZFZwak1ESTRkekphYzFKNk1UZFJjek54UVVSa2N6Sm5UamxMVERKZmNGRnhZWFV4YjBaWmRsQkxPWEZ2TXkwd01qRTFNR3QxYkRCUlUwaG9jM2N3U1VkbVp4SVhlVVoxUTJGTFZGbElOVFpXTlU5TlVEUTNabkkwUVUwYUlrRkdUVUZIUjI4M2VIVjNNWGhxUm5SeWRFbHRYMjQzVlRGRmMwTlNVazVSYVVFIiwiZmN2IjoiMyIsImVpIjoieUZ1Q2FLVFlINTZWNU9NUDQ3ZnI0QU0iLCJxYyI6IkNocDBZWGdnYzJGc1pTQm1ZWGxsZEhSbElHTnZkVzUwZVNCd1lSQUFmU1FNVlQ4IiwicXVlc3Rpb24iOiJIb3cgZG9lcyBhIHRheCBzYWxlIHdvcmsgaW4gUGVubnN5bHZhbmlhPyIsImxrIjoiR2lob2IzY2daRzlsY3lCaElIUmhlQ0J6WVd4bElIZHZjbXNnYVc0Z2NHVnVibk41YkhaaGJtbGgiLCJicyI6ImM1M1FzVTdETUJBR1lMRmFESXdtTEQ5TXdCZ21pa1NFRUJKaVlrTmk0aEpmYWl2aGJNVnVnOFU3OENBOEhZOUFXbFdvWFRvdzN0MTN2MDZuWHRYRm94OWhQRWNRRW4wZ1VzOFlfZERCQ1o1WkpPWi1TZUtvMGwtSDVXVnhidmY0c09YVmt6cGRaU2VQZXBFM3VuY3NzUDZkMS1sM2xmNjVLczhLMkwwdWtQcFVzM3NTWkwtWXhoM0RqOEpEdEM3QXQ5TktHSHpnSVdYVWVkTFp5UncxTmQwcWltT2xIOHFiNHJyNTc3NTZVN2N2bGhKY1JMSU00OXFXQjVhR1VYTWFlYnAwNnhVa1psTWFaclB1VmZwYmx5ZkY4WjlaeGwxd2RQQUwiLCJpZCI6ImZjX3lGdUNhS1RZSDU2VjVPTVA0N2ZyNEFNXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJUUkdkMEpGU1hGYWNuUnJlRFZZZWtneFNYcGZXVlk0ZFZwak1ESTRkekphYzFKNk1UZFJjek54UVVSa2N6Sm5UamxMVERKZmNGRnhZWFV4YjBaWmRsQkxPWEZ2TXkwd01qRTFNR3QxYkRCUlUwaG9jM2N3U1VkbVp4SVhlVVoxUTJGTFZGbElOVFpXTlU5TlVEUTNabkkwUVUwYUlrRkdUVUZIUjI4M2VIVjNNWGhxUm5SeWRFbHRYMjQzVlRGRmMwTlNVazVSYVVFIiwiZmN2IjoiMyIsImVpIjoieUZ1Q2FLVFlINTZWNU9NUDQ3ZnI0QU0iLCJxYyI6IkNocDBZWGdnYzJGc1pTQm1ZWGxsZEhSbElHTnZkVzUwZVNCd1lSQUFmU1FNVlQ4IiwicXVlc3Rpb24iOiJIb3cgZG9lcyBhIHRheCBzYWxlIHdvcmsgaW4gUGVubnN5bHZhbmlhPyIsImxrIjoiR2lob2IzY2daRzlsY3lCaElIUmhlQ0J6WVd4bElIZHZjbXNnYVc0Z2NHVnVibk41YkhaaGJtbGgiLCJicyI6ImM1M1FzVTdETUJBR1lMRmFESXdtTEQ5TXdCZ21pa1NFRUJKaVlrTmk0aEpmYWl2aGJNVnVnOFU3OENBOEhZOUFXbFdvWFRvdzN0MTN2MDZuWHRYRm94OWhQRWNRRW4wZ1VzOFlfZERCQ1o1WkpPWi1TZUtvMGwtSDVXVnhidmY0c09YVmt6cGRaU2VQZXBFM3VuY3NzUDZkMS1sM2xmNjVLczhLMkwwdWtQcFVzM3NTWkwtWXhoM0RqOEpEdEM3QXQ5TktHSHpnSVdYVWVkTFp5UncxTmQwcWltT2xIOHFiNHJyNTc3NTZVN2N2bGhKY1JMSU00OXFXQjVhR1VYTWFlYnAwNnhVa1psTWFaclB1VmZwYmx5ZkY4WjlaeGwxd2RQQUwiLCJpZCI6ImZjX3lGdUNhS1RZSDU2VjVPTVA0N2ZyNEFNXzEifQ%3D%3D"
+    },
+    {
+      "question": "How to buy a tax lien home in PA?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "To buy tax lien properties in Pennsylvania, you'll need to participate in public auctions organized by county Tax Claim Bureaus. These auctions typically occur annually, with Upset Sales being the first opportunity to purchase properties with delinquent taxes. If properties remain unsold, they may be offered in subsequent Judicial or Repository Sales.",
+          "snippet_highlighted_words": [
+            "participate in public auctions organized by county Tax Claim Bureaus"
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Here's a more detailed breakdown:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "1. Locate the County Tax Claim Bureau:",
+              "snippet": "Each county in Pennsylvania has a Tax Claim Bureau responsible for managing delinquent taxes and tax sales. You can find contact information for your county's bureau on their official website."
+            },
+            {
+              "title": "2. Research Properties and Attend Auctions:",
+              "snippet": "County Tax Claim Bureaus advertise upcoming Upset Sales, often in local newspapers and on their websites. You'll need to research properties of interest and attend the auction to bid."
+            },
+            {
+              "title": "3. Understand the Sales Process:",
+              "list": [
+                {
+                  "snippet": "Upset Sale: This is the first sale of properties with delinquent taxes, typically for properties two years in arrears. Properties are sold subject to all existing liens and encumbrances."
+                },
+                {
+                  "snippet": "Judicial Sale: If properties don't sell at the Upset Sale, they may be offered in a Judicial Sale. These sales may offer properties free and clear of some liens, but it's crucial to do your research as this isn't always the case."
+                },
+                {
+                  "snippet": "Repository Sale: Properties remaining unsold after the Judicial Sale may be placed on a repository list for sale at a later date."
+                }
+              ]
+            },
+            {
+              "title": "4. Pre-registration and Fees:",
+              "snippet": "Some counties require pre-registration with the Tax Claim Bureau and may charge a fee. For example, Erie County requires pre-registration at least 10 days before the sale and a $25 fee."
+            },
+            {
+              "title": "5. Bidding and Payment:",
+              "snippet": "At the auction, you'll bid on properties. If you win, you'll be responsible for paying the bid amount, plus any applicable transfer taxes, recording fees, and other costs."
+            },
+            {
+              "title": "6. Due Diligence:",
+              "snippet": "It's extremely important to conduct thorough due diligence on any property before bidding. This includes researching the property's history, existing liens, and any potential issues."
+            },
+            {
+              "title": "7. No Guarantees:",
+              "snippet": "Pennsylvania law generally states that properties are sold \"as is,\" with no guarantee or warranty. You are responsible for any and all liens, encumbrances, and other issues associated with the property."
+            },
+            {
+              "title": "8. Philadelphia Sheriff's Sales:",
+              "snippet": "Philadelphia County conducts its tax sales through Bid4Assets.com, which requires online registration and a deposit."
+            },
+            {
+              "title": "9. Municipality Approval:",
+              "snippet": "In some cases, municipalities may have the right to deny a bid if a potential buyer doesn't meet their qualifications."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Repository Tax Sales | Wayne County, PA",
+          "link": "https://www.waynecountypa.gov/177/Repository-Tax-Sales#:~:text=Public%20Repository%20Sale,scheduled%20on%20the%20following%20dates:",
+          "snippet": "Public Repository Sale. Following the Judicial Sale, unsold properties are placed on a Repository list. The Wayne County Tax Claim...",
+          "source": "Wayne County",
+          "index": 0
+        },
+        {
+          "title": "How To Buy Tax Liens In PA? - CountyOffice.org",
+          "link": "https://www.youtube.com/watch?v=JZ-IV9J5m0c&t=1",
+          "snippet": "Jun 24, 2024 — welcome to County Office your ultimate guide to local government services and public records. let's get started how to...",
+          "source": "YouTube · County Office Property",
+          "index": 1
+        },
+        {
+          "title": "Conditions of Sale for Tax Sales - Philadelphia Sheriff's Office",
+          "link": "https://phillysheriff.com/real-estate/conditions-of-sale-for-tax-sales/#:~:text=ROCHELLE%20BILAL%2C%20SHERIFF,all%20responsibility%20for%20due%20diligence.",
+          "snippet": "ROCHELLE BILAL, SHERIFF. PHILADELPHIA COUNTY TAX DELINQUENT, TAX COLLECTION & TAX LIENS TERMS AND CONDITIONS OF SALE. Philadelphia...",
+          "source": "Philadelphia Sheriff's Office",
+          "index": 2
+        },
+        {
+          "title": "Tax Sale Information | Westmoreland County, PA - Official Website",
+          "link": "https://www.westmorelandcountypa.gov/166/Tax-Sale-Information#:~:text=If%20there%20are%20properties%20still,:30pm)%20of%20any%20sale.",
+          "snippet": "If there are properties still unsold after the annual, judicial, and bid-off sales, then the property is placed in the repository ...",
+          "source": "Westmoreland County",
+          "index": 3
+        },
+        {
+          "title": "Upset Sale | Montgomery County, PA - Official Website",
+          "link": "https://www.montgomerycountypa.gov/2331/Upset-Sale#:~:text=The%20Upset%20Sale%20is%20conducted,MONTGOMERY%20COUNTY%20TAX%20CLAIM%20BUREAU.",
+          "snippet": "The Upset Sale is conducted once a year and is the first sale at which a delinquent taxpayer's property may be sold. Properties wh...",
+          "source": "Montgomery County, PA",
+          "index": 4
+        },
+        {
+          "title": "Tax Sales | Erie County, PA",
+          "link": "https://eriecountypa.gov/departments/tax-claim-and-revenue/tax-sales/#:~:text=Pre%2DRegistered%20Bidders%2C%20per%20Act,may%20unreasonably%20deny%20a%20bidder.",
+          "snippet": "Pre-Registered Bidders, per Act 33 of 2021 – All bidders are now required to Pre-Register in person at the Tax Claim Bureau at lea...",
+          "source": "Erie County, PA",
+          "index": 5
+        },
+        {
+          "title": "Monroe County PA - Upset Sale",
+          "link": "https://www.monroecountypa.gov/departments/tax-claim/resources/upset-sale#:~:text=The%20Upset%20Tax%20Sale%20is,the%20property%20is%20struck%20down.",
+          "snippet": "The Upset Tax Sale is the first time a property with delinquent property taxes is offered for sale at public auction. We will be s...",
+          "source": "Monroe County, PA (.gov)",
+          "index": 6
+        },
+        {
+          "title": "Upset and Judicial Sales | Bucks County, PA",
+          "link": "https://www.buckscounty.gov/1955/Upset-and-Judicial-Sales#:~:text=General%20Information,Reporter%20prior%20to%20the%20sale.",
+          "snippet": "General Information. The Upset Sale is held each September by the Bucks County Tax Claim Bureau in accordance with Pennsylvania's ...",
+          "source": "Bucks County, PA (.gov)",
+          "index": 7
+        },
+        {
+          "title": "Tax Claim Bureau | Montgomery County, PA - Official Website",
+          "link": "https://www.montgomerycountypa.gov/569/Tax-Claim-Bureau#:~:text=A%20Private%20Sale%20can%20occur,all%20liens%20on%20the%20property.",
+          "snippet": "A Private Sale can occur after a property has been exposed but not sold at an Upset Sale. An interested buyer submits a written bi...",
+          "source": "Montgomery County, PA (.gov)",
+          "index": 8
+        },
+        {
+          "title": "Susquehanna County PA - Tax Claim Bureau",
+          "link": "https://www.susqco.com/departments/tax-claim-bureau#:~:text=in%20Repository%20Sale-,REGISTRATION%20REQUIRED%20TO%20BID%20AT%20ALL%20SALES%20To%20be%20received,which%20you%20intend%20to%20bid.",
+          "snippet": "REGISTRATION REQUIRED TO BID AT ALL SALES To be received in our office NOT LESS THAN 10 BUSINESS DAYS prior each sale with registr...",
+          "source": "Susquehanna County Courthouse",
+          "index": 9
+        },
+        {
+          "title": "Tax Claim Bureau Sales - Mercer County Government Homepage",
+          "link": "https://www.mercercountypa.gov/tax/Sales.htm#:~:text=JUDICIAL%20SALE&text=The%20advantage%20of%20this%20type,at%20any%20type%20of%20sale.",
+          "snippet": "JUDICIAL SALE ... The advantage of this type of sale to a purchaser is that the properties are sold free and clear of liens and en...",
+          "source": "Mercer County Government Homepage (.gov)",
+          "index": 10
+        },
+        {
+          "title": "Tax Claim Bureau - Greene County, PA",
+          "link": "https://www.co.greene.pa.us/department-tax-claim-bureau",
+          "snippet": "Upset Sale: Properties exposed at the upset sale are offered together with any mortgages, * judgments or non-tax liens. Propertie...",
+          "source": "County of Greene (.gov)",
+          "index": 11
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJUUkdkMEpGU1hGYWNuUnJlRFZZZWtneFNYcGZXVlk0ZFZwak1ESTRkekphYzFKNk1UZFJjek54UVVSa2N6Sm5UamxMVERKZmNGRnhZWFV4YjBaWmRsQkxPWEZ2TXkwd01qRTFNR3QxYkRCUlUwaG9jM2N3U1VkbVp4SVhlVVoxUTJGTFZGbElOVFpXTlU5TlVEUTNabkkwUVUwYUlrRkdUVUZIUjI4M2VIVjNNWGhxUm5SeWRFbHRYMjQzVlRGRmMwTlNVazVSYVVFIiwiZmN2IjoiMyIsImVpIjoieUZ1Q2FLVFlINTZWNU9NUDQ3ZnI0QU0iLCJxYyI6IkNocDBZWGdnYzJGc1pTQm1ZWGxsZEhSbElHTnZkVzUwZVNCd1lSQUFmU1FNVlQ4IiwicXVlc3Rpb24iOiJIb3cgdG8gYnV5IGEgdGF4IGxpZW4gaG9tZSBpbiBQQT8iLCJsayI6IkdpQm9iM2NnZEc4Z1luVjVJR0VnZEdGNElHeHBaVzRnYUc5dFpTQnBiaUJ3WVEiLCJicyI6ImM1M1FzVTdETUJBR1lMRmFESXdtTEQ5TXdCZ21pa1NFRUJKaVlrTmk0aEpmYWl2aGJNVnVnOFU3OENBOEhZOUFXbFdvWFRvdzN0MTN2MDZuWHRYRm94OWhQRWNRRW4wZ1VzOFlfZERCQ1o1WkpPWi1TZUtvMGwtSDVXVnhidmY0c09YVmt6cGRaU2VQZXBFM3VuY3NzUDZkMS1sM2xmNjVLczhLMkwwdWtQcFVzM3NTWkwtWXhoM0RqOEpEdEM3QXQ5TktHSHpnSVdYVWVkTFp5UncxTmQwcWltT2xIOHFiNHJyNTc3NTZVN2N2bGhKY1JMSU00OXFXQjVhR1VYTWFlYnAwNnhVa1psTWFaclB1VmZwYmx5ZkY4WjlaeGwxd2RQQUwiLCJpZCI6ImZjX3lGdUNhS1RZSDU2VjVPTVA0N2ZyNEFNXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJUUkdkMEpGU1hGYWNuUnJlRFZZZWtneFNYcGZXVlk0ZFZwak1ESTRkekphYzFKNk1UZFJjek54UVVSa2N6Sm5UamxMVERKZmNGRnhZWFV4YjBaWmRsQkxPWEZ2TXkwd01qRTFNR3QxYkRCUlUwaG9jM2N3U1VkbVp4SVhlVVoxUTJGTFZGbElOVFpXTlU5TlVEUTNabkkwUVUwYUlrRkdUVUZIUjI4M2VIVjNNWGhxUm5SeWRFbHRYMjQzVlRGRmMwTlNVazVSYVVFIiwiZmN2IjoiMyIsImVpIjoieUZ1Q2FLVFlINTZWNU9NUDQ3ZnI0QU0iLCJxYyI6IkNocDBZWGdnYzJGc1pTQm1ZWGxsZEhSbElHTnZkVzUwZVNCd1lSQUFmU1FNVlQ4IiwicXVlc3Rpb24iOiJIb3cgdG8gYnV5IGEgdGF4IGxpZW4gaG9tZSBpbiBQQT8iLCJsayI6IkdpQm9iM2NnZEc4Z1luVjVJR0VnZEdGNElHeHBaVzRnYUc5dFpTQnBiaUJ3WVEiLCJicyI6ImM1M1FzVTdETUJBR1lMRmFESXdtTEQ5TXdCZ21pa1NFRUJKaVlrTmk0aEpmYWl2aGJNVnVnOFU3OENBOEhZOUFXbFdvWFRvdzN0MTN2MDZuWHRYRm94OWhQRWNRRW4wZ1VzOFlfZERCQ1o1WkpPWi1TZUtvMGwtSDVXVnhidmY0c09YVmt6cGRaU2VQZXBFM3VuY3NzUDZkMS1sM2xmNjVLczhLMkwwdWtQcFVzM3NTWkwtWXhoM0RqOEpEdEM3QXQ5TktHSHpnSVdYVWVkTFp5UncxTmQwcWltT2xIOHFiNHJyNTc3NTZVN2N2bGhKY1JMSU00OXFXQjVhR1VYTWFlYnAwNnhVa1psTWFaclB1VmZwYmx5ZkY4WjlaeGwxd2RQQUwiLCJpZCI6ImZjX3lGdUNhS1RZSDU2VjVPTVA0N2ZyNEFNXzEifQ%3D%3D"
+    },
+    {
+      "question": "Can you take ownership of a property by paying back taxes?",
+      "type": "featured_snippet",
+      "snippet": "In California, paying someone else's taxes, even if done in good faith, is considered a gesture of goodwill or a means of avoiding a tax lien, but no matter the motive, payment does not transfer legal ownership.",
+      "title": "What happens when you pay someone else's property taxes?",
+      "date": "Mar 26, 2025",
+      "link": "https://underwood.law/blog/what-happens-when-you-pay-someone-elses-property-taxes/#:~:text=In%20California%2C%20paying%20someone%20else's,does%20not%20transfer%20legal%20ownership.",
+      "displayed_link": "https://underwood.law › blog › what-happens-when-you...",
+      "source_logo": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/fbea9d958098ed6ddd3cb6dca6360dae0c98ac7ffadf197a586d4a5d6c10bc50.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJUUkdkMEpGU1hGYWNuUnJlRFZZZWtneFNYcGZXVlk0ZFZwak1ESTRkekphYzFKNk1UZFJjek54UVVSa2N6Sm5UamxMVERKZmNGRnhZWFV4YjBaWmRsQkxPWEZ2TXkwd01qRTFNR3QxYkRCUlUwaG9jM2N3U1VkbVp4SVhlVVoxUTJGTFZGbElOVFpXTlU5TlVEUTNabkkwUVUwYUlrRkdUVUZIUjI4M2VIVjNNWGhxUm5SeWRFbHRYMjQzVlRGRmMwTlNVazVSYVVFIiwiZmN2IjoiMyIsImVpIjoieUZ1Q2FLVFlINTZWNU9NUDQ3ZnI0QU0iLCJxYyI6IkNocDBZWGdnYzJGc1pTQm1ZWGxsZEhSbElHTnZkVzUwZVNCd1lSQUFmU1FNVlQ4IiwicXVlc3Rpb24iOiJDYW4geW91IHRha2Ugb3duZXJzaGlwIG9mIGEgcHJvcGVydHkgYnkgcGF5aW5nIGJhY2sgdGF4ZXM/IiwibGsiOiJHamxqWVc0Z2VXOTFJSFJoYTJVZ2IzZHVaWEp6YUdsd0lHOW1JR0VnY0hKdmNHVnlkSGtnWW5rZ2NHRjVhVzVuSUdKaFkyc2dkR0Y0WlhNIiwiYnMiOiJjNTNRc1U3RE1CQUdZTEZhREl3bUxEOU13QmdtaWtTRUVCSmlZa05pNGhKZmFpdmhiTVZ1ZzhVNzhDQThIWTlBV2xXb1hUb3czdDEzdjA2blh0WEZveDloUEVjUUVuMGdVczhZX2REQkNaNVpKT1otU2VLbzBsLUg1V1Z4YnZmNHNPWFZrenBkWlNlUGVwRTN1bmNzc1A2ZDEtbDNsZjY1S3M4SzJMMHVrUHBVczNzU1pMLVl4aDNEajhKRHRDN0F0OU5LR0h6Z0lXWFVlZExaeVJ3MU5kMHFpbU9sSDhxYjRycjU3NzU2VTdjdmxoSmNSTElNNDlxV0I1YUdVWE1hZWJwMDZ4VWtabE1hWnJQdVZmcGJseWZGOFo5WnhsMXdkUEFMIiwiaWQiOiJmY195RnVDYUtUWUg1NlY1T01QNDdmcjRBTV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJUUkdkMEpGU1hGYWNuUnJlRFZZZWtneFNYcGZXVlk0ZFZwak1ESTRkekphYzFKNk1UZFJjek54UVVSa2N6Sm5UamxMVERKZmNGRnhZWFV4YjBaWmRsQkxPWEZ2TXkwd01qRTFNR3QxYkRCUlUwaG9jM2N3U1VkbVp4SVhlVVoxUTJGTFZGbElOVFpXTlU5TlVEUTNabkkwUVUwYUlrRkdUVUZIUjI4M2VIVjNNWGhxUm5SeWRFbHRYMjQzVlRGRmMwTlNVazVSYVVFIiwiZmN2IjoiMyIsImVpIjoieUZ1Q2FLVFlINTZWNU9NUDQ3ZnI0QU0iLCJxYyI6IkNocDBZWGdnYzJGc1pTQm1ZWGxsZEhSbElHTnZkVzUwZVNCd1lSQUFmU1FNVlQ4IiwicXVlc3Rpb24iOiJDYW4geW91IHRha2Ugb3duZXJzaGlwIG9mIGEgcHJvcGVydHkgYnkgcGF5aW5nIGJhY2sgdGF4ZXM%2FIiwibGsiOiJHamxqWVc0Z2VXOTFJSFJoYTJVZ2IzZHVaWEp6YUdsd0lHOW1JR0VnY0hKdmNHVnlkSGtnWW5rZ2NHRjVhVzVuSUdKaFkyc2dkR0Y0WlhNIiwiYnMiOiJjNTNRc1U3RE1CQUdZTEZhREl3bUxEOU13QmdtaWtTRUVCSmlZa05pNGhKZmFpdmhiTVZ1ZzhVNzhDQThIWTlBV2xXb1hUb3czdDEzdjA2blh0WEZveDloUEVjUUVuMGdVczhZX2REQkNaNVpKT1otU2VLbzBsLUg1V1Z4YnZmNHNPWFZrenBkWlNlUGVwRTN1bmNzc1A2ZDEtbDNsZjY1S3M4SzJMMHVrUHBVczNzU1pMLVl4aDNEajhKRHRDN0F0OU5LR0h6Z0lXWFVlZExaeVJ3MU5kMHFpbU9sSDhxYjRycjU3NzU2VTdjdmxoSmNSTElNNDlxV0I1YUdVWE1hZWJwMDZ4VWtabE1hWnJQdVZmcGJseWZGOFo5WnhsMXdkUEFMIiwiaWQiOiJmY195RnVDYUtUWUg1NlY1T01QNDdmcjRBTV8xIn0%3D"
+    },
+    {
+      "question": "What is the difference between a tax sale and a tax deed sale?",
+      "type": "featured_snippet",
+      "snippet": "There are two types of tax sales: a tax deed sale, which sells the property, including unpaid taxes, at auction; and a tax lien sale, which sells the liens on the property to a buyer who may then pursue the collection of monies owed.",
+      "title": "Tax Sale: Definition, How It Works, Two Types - Investopedia",
+      "link": "https://www.investopedia.com/terms/t/tax-sale.asp#:~:text=There%20are%20two%20types%20of,the%20collection%20of%20monies%20owed.",
+      "displayed_link": "https://www.investopedia.com › terms › tax-sale",
+      "source_logo": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/fbea9d958098ed6ddd3cb6dca6360dae1f7fd286384a5b3dda6dcd982f0aaea5.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJUUkdkMEpGU1hGYWNuUnJlRFZZZWtneFNYcGZXVlk0ZFZwak1ESTRkekphYzFKNk1UZFJjek54UVVSa2N6Sm5UamxMVERKZmNGRnhZWFV4YjBaWmRsQkxPWEZ2TXkwd01qRTFNR3QxYkRCUlUwaG9jM2N3U1VkbVp4SVhlVVoxUTJGTFZGbElOVFpXTlU5TlVEUTNabkkwUVUwYUlrRkdUVUZIUjI4M2VIVjNNWGhxUm5SeWRFbHRYMjQzVlRGRmMwTlNVazVSYVVFIiwiZmN2IjoiMyIsImVpIjoieUZ1Q2FLVFlINTZWNU9NUDQ3ZnI0QU0iLCJxYyI6IkNocDBZWGdnYzJGc1pTQm1ZWGxsZEhSbElHTnZkVzUwZVNCd1lSQUFmU1FNVlQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gYSB0YXggc2FsZSBhbmQgYSB0YXggZGVlZCBzYWxlPyIsImxrIjoiYzVPU0xFbXNVQ2hPekVsVktDdFdBTEZUVWxOVHdBSUEiLCJicyI6ImM1M1FzVTdETUJBR1lMRmFESXdtTEQ5TXdCZ21pa1NFRUJKaVlrTmk0aEpmYWl2aGJNVnVnOFU3OENBOEhZOUFXbFdvWFRvdzN0MTN2MDZuWHRYRm94OWhQRWNRRW4wZ1VzOFlfZERCQ1o1WkpPWi1TZUtvMGwtSDVXVnhidmY0c09YVmt6cGRaU2VQZXBFM3VuY3NzUDZkMS1sM2xmNjVLczhLMkwwdWtQcFVzM3NTWkwtWXhoM0RqOEpEdEM3QXQ5TktHSHpnSVdYVWVkTFp5UncxTmQwcWltT2xIOHFiNHJyNTc3NTZVN2N2bGhKY1JMSU00OXFXQjVhR1VYTWFlYnAwNnhVa1psTWFaclB1VmZwYmx5ZkY4WjlaeGwxd2RQQUwiLCJpZCI6ImZjX3lGdUNhS1RZSDU2VjVPTVA0N2ZyNEFNXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmJUUkdkMEpGU1hGYWNuUnJlRFZZZWtneFNYcGZXVlk0ZFZwak1ESTRkekphYzFKNk1UZFJjek54UVVSa2N6Sm5UamxMVERKZmNGRnhZWFV4YjBaWmRsQkxPWEZ2TXkwd01qRTFNR3QxYkRCUlUwaG9jM2N3U1VkbVp4SVhlVVoxUTJGTFZGbElOVFpXTlU5TlVEUTNabkkwUVUwYUlrRkdUVUZIUjI4M2VIVjNNWGhxUm5SeWRFbHRYMjQzVlRGRmMwTlNVazVSYVVFIiwiZmN2IjoiMyIsImVpIjoieUZ1Q2FLVFlINTZWNU9NUDQ3ZnI0QU0iLCJxYyI6IkNocDBZWGdnYzJGc1pTQm1ZWGxsZEhSbElHTnZkVzUwZVNCd1lSQUFmU1FNVlQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gYSB0YXggc2FsZSBhbmQgYSB0YXggZGVlZCBzYWxlPyIsImxrIjoiYzVPU0xFbXNVQ2hPekVsVktDdFdBTEZUVWxOVHdBSUEiLCJicyI6ImM1M1FzVTdETUJBR1lMRmFESXdtTEQ5TXdCZ21pa1NFRUJKaVlrTmk0aEpmYWl2aGJNVnVnOFU3OENBOEhZOUFXbFdvWFRvdzN0MTN2MDZuWHRYRm94OWhQRWNRRW4wZ1VzOFlfZERCQ1o1WkpPWi1TZUtvMGwtSDVXVnhidmY0c09YVmt6cGRaU2VQZXBFM3VuY3NzUDZkMS1sM2xmNjVLczhLMkwwdWtQcFVzM3NTWkwtWXhoM0RqOEpEdEM3QXQ5TktHSHpnSVdYVWVkTFp5UncxTmQwcWltT2xIOHFiNHJyNTc3NTZVN2N2bGhKY1JMSU00OXFXQjVhR1VYTWFlYnAwNnhVa1psTWFaclB1VmZwYmx5ZkY4WjlaeGwxd2RQQUwiLCJpZCI6ImZjX3lGdUNhS1RZSDU2VjVPTVA0N2ZyNEFNXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Tax Sale Information",
+      "link": "https://www.fayettecountypa.org/269/Tax-Claim-Bureau",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fayettecountypa.org/269/Tax-Claim-Bureau&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECA8QAQ",
+      "displayed_link": "https://www.fayettecountypa.org › Tax-Claim-Bureau",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b2f3dbd3e087155c61e0ccd7109e15d42.png",
+      "snippet": "This sale will be held on",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Upset, Repository and Free...",
+            "link": "https://www.fayettecountypa.org/273/Upset-Repository-Judicial-Sale"
+          },
+          {
+            "title": "Procedure for Collecting...",
+            "link": "https://www.fayettecountypa.org/272/Procedure-for-Collecting-Delinquent-Taxe"
+          },
+          {
+            "title": "Pay",
+            "link": "https://www.fayettecountypa.org/667/Pay"
+          }
+        ]
+      },
+      "source": "Fayette County, PA"
+    },
+    {
+      "position": 2,
+      "title": "Upset, Repository and Free & clear (Judicial Sale)",
+      "link": "https://www.fayettecountypa.org/273/Upset-Repository-Judicial-Sale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fayettecountypa.org/273/Upset-Repository-Judicial-Sale&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECAkQAQ",
+      "displayed_link": "https://www.fayettecountypa.org › Upset-Repository-Judi...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b0985d9f79148fe6e577286fcdcd98f30.png",
+      "snippet": "Repository Sale First Tuesday of every month.",
+      "source": "Fayette County, PA"
+    },
+    {
+      "position": 3,
+      "title": "Tax Sales",
+      "link": "https://www.fayettecountypay.com/tax-sales.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fayettecountypay.com/tax-sales.html&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECAgQAQ",
+      "displayed_link": "https://www.fayettecountypay.com › tax-sales",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bbf365e44818634cb3a105e9383973a99.png",
+      "snippet": ". (subject to change), we hold our tax sale on the steps of the Fayette County ...",
+      "source": "Fayette County Tax"
+    },
+    {
+      "position": 4,
+      "title": "Welcome to Fayette County Tax Claim",
+      "link": "https://tax.rba.com/taxes/fayclaim/tri.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.rba.com/taxes/fayclaim/tri.asp&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECAoQAQ",
+      "displayed_link": "https://tax.rba.com › taxes › fayclaim › tri",
+      "snippet": ". To make a payment you must first identify a property with taxes due. Please complete at least one of ...",
+      "source": "RBA Professional Data Systems, Inc."
+    },
+    {
+      "position": 5,
+      "title": "Fayette County, Pennsylvania - Live Tax Deed Sale, 240 ...",
+      "link": "https://www.bid4assets.com/auction/1050821",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bid4assets.com/auction/1050821&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECAcQAQ",
+      "displayed_link": "https://www.bid4assets.com › auction",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bc693cb65c46b13d9e2450d3f588495d3.png",
+      "snippet": "The Treasurer's Office of",
+      "source": "Bid4Assets.com"
+    },
+    {
+      "position": 6,
+      "title": "Tax Sale Procedures",
+      "link": "https://www.fayettecountypay.com/resources/sites/fayettecountyga/docs/Tax%20Sale%20Procedures.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fayettecountypay.com/resources/sites/fayettecountyga/docs/Tax%2520Sale%2520Procedures.pdf&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECDoQAQ",
+      "displayed_link": "https://www.fayettecountypay.com › sites › docs",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b6ee9cf904880d8f47036bfd13fff5eb2.png",
+      "snippet": "The",
+      "source": "Fayette County Tax"
+    },
+    {
+      "position": 7,
+      "title": "Fayette Property",
+      "link": "http://property.co.fayette.pa.us/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://property.co.fayette.pa.us/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCMYBEAE",
+      "displayed_link": "http://property.co.fayette.pa.us",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b82f438d25fc169145c37d3e0146db13d.jpeg",
+      "snippet": "is pleased to offer all property assessment related data on this site at no charge to our taxpayers.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Calendar",
+            "link": "http://property.co.fayette.pa.us/schedule_body.aspx"
+          },
+          {
+            "title": "Disclaimer",
+            "link": "http://property.co.fayette.pa.us/disclaimer.aspx"
+          },
+          {
+            "title": "View Parcel Maps",
+            "link": "http://property.co.fayette.pa.us/map.aspx?uxPARID=x"
+          },
+          {
+            "title": "Tax Relief Information",
+            "link": "http://property.co.fayette.pa.us/taxrelief_body.aspx"
+          }
+        ]
+      },
+      "source": "Fayette Property"
+    },
+    {
+      "position": 8,
+      "title": "TAX COLLECTORS 2023 - Fayette Property",
+      "link": "http://property.co.fayette.pa.us/content/assessment_office/taxcollectors_2023.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://property.co.fayette.pa.us/content/assessment_office/taxcollectors_2023.pdf&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECDkQAQ",
+      "displayed_link": "http://property.co.fayette.pa.us › assessment_office",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bc521fd79f0e14e12ba6fafbfbf6eacfd.jpeg",
+      "snippet": "MUNICIPALITY. NAME. ADDRESS. TELEPHONE. 01- Belle Vernon Boro. Alison R. Figueroa. 10 Main St. 724-929-8080. Belle Vernon,",
+      "source": "Fayette Property"
+    },
+    {
+      "position": 9,
+      "title": "Tax Sales In Pennsylvania: A Guide to Your Rights",
+      "link": "https://www.timoneyknox.com/tax-sales-in-pennsylvania-a-guide-to-your-rights/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.timoneyknox.com/tax-sales-in-pennsylvania-a-guide-to-your-rights/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECGwQAQ",
+      "displayed_link": "https://www.timoneyknox.com › tax-sales-in-pennsylvan...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b622163acc2125a36270a4b433935bab3.png",
+      "snippet": "Understand your",
+      "source": "Timoney Knox LLP"
+    },
+    {
+      "position": 10,
+      "title": "Fayette County, Pennsylvania - Tax Deed Sale Information",
+      "link": "https://www.taxsaleresources.com/counties/fayette-county-pennsylvania",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxsaleresources.com/counties/fayette-county-pennsylvania&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCKYBEAE",
+      "displayed_link": "https://www.taxsaleresources.com › ... › State",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b5e772752eae07c1b953501b4ec92bc81.png",
+      "snippet": "The",
+      "source": "Tax Sale Resources"
+    },
+    {
+      "position": 11,
+      "title": "Fayette County Tax Sale – 2024 Certificates of Delinquency",
+      "link": "https://www.fayettecountyclerk.com/web/landrecords/delinquenttaxes/taxsaleprocedures.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fayettecountyclerk.com/web/landrecords/delinquenttaxes/taxsaleprocedures.pdf&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCMQBEAE",
+      "displayed_link": "https://www.fayettecountyclerk.com › landrecords",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166be71da642bfb400843f44bf9b5644ce5c.png",
+      "date": "Jun 1, 2025",
+      "snippet": "Sheriff is to transfer unpaid 2024 tax bills to county clerk at the close of business.",
+      "source": "Fayette County Clerk"
+    },
+    {
+      "position": 12,
+      "title": "Fayette tax sales going online | News",
+      "link": "https://www.dailycourier.com/news/fayette-tax-sales-going-online/article_feda46f3-0865-4fa7-b419-cd97990ac492.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dailycourier.com/news/fayette-tax-sales-going-online/article_feda46f3-0865-4fa7-b419-cd97990ac492.html&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECDgQAQ",
+      "displayed_link": "https://www.dailycourier.com › news › fayette-tax-sales-...",
+      "snippet": "commissioners on Thursday approved a contract that will permit all future",
+      "source": "Daily Courier"
+    },
+    {
+      "position": 13,
+      "title": "Fayette County - Pennsylvania Tax Deed Sale",
+      "link": "https://www.facebook.com/reel/493820710111141/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/reel/493820710111141/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECFUQAQ",
+      "displayed_link": "3 reactions · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b9712cdcbb0c15137e876cf908cb5114c.png",
+      "snippet": "Get Properties at Fractional Costs! -",
+      "source": "Facebook · Dustin Hahn's Tax Lien Certificate School"
+    },
+    {
+      "position": 14,
+      "title": "2024 08 17 (tax sale)",
+      "link": "https://www.palegalads.org/journals/pdf/990_2024_08_17__tax_sale___FLJ.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.palegalads.org/journals/pdf/990_2024_08_17__tax_sale___FLJ.pdf&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECHQQAQ",
+      "displayed_link": "https://www.palegalads.org › journals › pdf › 99...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166be3855d4f9633ee1b3aa9bdd89a1e1071.png",
+      "date": "Aug 17, 2024",
+      "snippet": "Real",
+      "source": "PA Legal Ads"
+    },
+    {
+      "position": 15,
+      "title": "Fayette County, Pennsylvania - Live Tax Deed Sale, 346 ...",
+      "link": "https://www.bid4assets.com/auction/1203009",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bid4assets.com/auction/1203009&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECHEQAQ",
+      "displayed_link": "https://www.bid4assets.com › auction",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bda1ca0bddbd3630f57bdb5605e585817.png",
+      "snippet": "NOTICE OF SALE:",
+      "source": "Bid4Assets.com"
+    },
+    {
+      "position": 16,
+      "title": "Court Overturns Upset Tax Sale Due ...",
+      "link": "https://www.bestlawyers.com/article/tax-sale-overturned/5797",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestlawyers.com/article/tax-sale-overturned/5797&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCKQBEAE",
+      "displayed_link": "https://www.bestlawyers.com › tax-sale-overturned",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bd7d8dec58dea22284ebab1f881bca623.png",
+      "date": "Mar 28, 2024",
+      "snippet": "Recently, our real estate litigation team",
+      "source": "Best Lawyers"
+    },
+    {
+      "position": 17,
+      "title": "Decision: In re: Consol. Return of Sale of Properties Sold ...",
+      "link": "https://www.law.com/thelegalintelligencer/almID/1628134510PA210774/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.law.com/thelegalintelligencer/almID/1628134510PA210774/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCOwBEAE",
+      "displayed_link": "https://www.law.com › thelegalintelligencer › almID",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b9bae64fd5a9dff87a7dd77f62d1299ae.png",
+      "snippet": "The court set aside an upset",
+      "source": "Law.com"
+    },
+    {
+      "position": 18,
+      "title": "K. Hochendoner v. Fayette County TCB v. T. Phillips :: 2023",
+      "link": "https://law.justia.com/cases/pennsylvania/commonwealth-court/2023/398-c-d-2021.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://law.justia.com/cases/pennsylvania/commonwealth-court/2023/398-c-d-2021.html&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCI8BEAE",
+      "displayed_link": "https://law.justia.com › cases › commonwealth-court",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b6aab791e5abacd757725b682a22e92a6.png",
+      "date": "May 18, 2023",
+      "snippet": "The Property was sold at the 2020",
+      "source": "Justia Law"
+    },
+    {
+      "position": 19,
+      "title": "Fayette County, PA Commercial Real Estate for Sale",
+      "link": "https://www.crexi.com/properties/PA/Fayette_County",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crexi.com/properties/PA/Fayette_County&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCIECEAE",
+      "displayed_link": "https://www.crexi.com › ... › Pennsylvania",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b1c62fdd19089efa757c871e08528930c.png",
+      "snippet": ", PA, including retail, office & multifamily properties.See photos, get details & contact brokers.",
+      "source": "Crexi"
+    },
+    {
+      "position": 20,
+      "title": "Real Property Official Records Search",
+      "link": "https://pa.uslandrecords.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pa.uslandrecords.com/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECDUQAQ",
+      "displayed_link": "https://pa.uslandrecords.com",
+      "snippet": "Recorder offices create a searchable index that contains the names of all parties to a document and the property address.",
+      "source": "US Land Records"
+    },
+    {
+      "position": 21,
+      "title": "2025 Pennsylvania Tax Sale Property List (All Counties)",
+      "link": "https://www.taxtitleservices.com/pa-sheriff-sales-property-list",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxtitleservices.com/pa-sheriff-sales-property-list&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECDsQAQ",
+      "displayed_link": "https://www.taxtitleservices.com › pa-sheriff-sales-proper...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b88d55d3acef994c163def00956ae1a98.png",
+      "snippet": "for the all upcoming Pennsylvania Tax Deed Sales PLUS our guide to tax title ...",
+      "source": "Tax Title Services"
+    },
+    {
+      "position": 22,
+      "title": "Trust Properties Offered for Sale",
+      "link": "https://fayettecad.org/trust-properties-offered-for-sale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fayettecad.org/trust-properties-offered-for-sale&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCMABEAE",
+      "displayed_link": "https://fayettecad.org › trust-properties-offered-for-sale",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b18dcaed15add3e4f94d8f8d92560ddce.png",
+      "snippet": ". Contact Information (979) 968-8383 (979) 968-8385. Menu. Contact Information (979) 968-8383 (979) 968",
+      "source": "Fayette CAD"
+    },
+    {
+      "position": 23,
+      "title": "Foreclosure Homes For Sale in Fayette County, PA",
+      "link": "https://www.realtor.com/realestateandhomes-search/Fayette-County_PA/show-foreclosure",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.realtor.com/realestateandhomes-search/Fayette-County_PA/show-foreclosure&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECFYQAQ",
+      "displayed_link": "https://www.realtor.com › realestateandhomes-search › s...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b34e777d38d9420ac1f949f1856da8e61.png",
+      "snippet": "Foreclosure homes for sale in Fayette County, PA have a",
+      "source": "Realtor.com"
+    },
+    {
+      "position": 24,
+      "title": "Fayette County, PA Sheriff Sale Homes",
+      "link": "https://www.sheriffsales.net/listings/fayette-county-pa/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sheriffsales.net/listings/fayette-county-pa/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECG4QAQ",
+      "displayed_link": "https://www.sheriffsales.net › Pennsylvania",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b29f232927d20392b62433f5ad9b2f38d.png",
+      "snippet": "Our expert-curated database allows you to search through all the",
+      "source": "SheriffSales.net"
+    },
+    {
+      "position": 25,
+      "title": "In Re: Sale of Tax Delinquent Property on October 19 ...",
+      "link": "https://law.justia.com/cases/pennsylvania/commonwealth-court/2024/49-c-d-2021.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://law.justia.com/cases/pennsylvania/commonwealth-court/2024/49-c-d-2021.html&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECHMQAQ",
+      "displayed_link": "https://law.justia.com › cases › commonwealth-court",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b97ba5db8c46ec17691e5d34ec94efc53.png",
+      "date": "Jan 4, 2024",
+      "snippet": "In Re:",
+      "source": "Justia Law"
+    },
+    {
+      "position": 26,
+      "title": "Auditor General DeFoor Releases Audits for Volunteer ...",
+      "link": "https://www.paauditor.gov/auditor-general-defoor-releases-audits-for-volunteer-firefighters-relief-associations-in-25-counties-11/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.paauditor.gov/auditor-general-defoor-releases-audits-for-volunteer-firefighters-relief-associations-in-25-counties-11/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCIoBEAE",
+      "displayed_link": "https://www.paauditor.gov › auditor-general-defoor-rele...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b77325e2d1a4bfe9bbac4bc9b0c1a37ec.png",
+      "date": "1 day ago",
+      "snippet": "The Department of the Auditor General distributes state aid for VFRAs and audits how they use the funds, which come from a 2%",
+      "source": "Pennsylvania Department of the Auditor General (.gov)"
+    },
+    {
+      "position": 27,
+      "title": "Western Pa. man pleads to tax scheme involving ...",
+      "link": "https://www.pennlive.com/news/2025/07/western-pa-man-pleads-to-tax-scheme-involving-undocumented-workers-must-pay-back-36m.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pennlive.com/news/2025/07/western-pa-man-pleads-to-tax-scheme-involving-undocumented-workers-must-pay-back-36m.html&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCI4BEAE",
+      "displayed_link": "https://www.pennlive.com › news › 2025/07 › western-p...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bd744a2bc0141090272dee4ec2b136ce8.png",
+      "date": "2 days ago",
+      "snippet": "A western",
+      "source": "PennLive.com"
+    },
+    {
+      "position": 28,
+      "title": "DELINQUENT PROPERTY TAX SALE | Legal Notices",
+      "link": "https://www.fayette-news.net/legal_notices/delinquent-property-tax-sale/article_397f4870-4c48-11ee-9a24-e3eadb87e998.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fayette-news.net/legal_notices/delinquent-property-tax-sale/article_397f4870-4c48-11ee-9a24-e3eadb87e998.html&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCKMBEAE",
+      "displayed_link": "https://www.fayette-news.net › legal_notices › delinquent...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b3fc9883c82fcf44d505bce4354a110f1.png",
+      "date": "Sep 5, 2023",
+      "snippet": "at public outcry, before the Courthouse door in Fayetteville, Fayette County, Georgia, between the legal hours of ...",
+      "source": "fayette-news.net"
+    },
+    {
+      "position": 29,
+      "title": "Fayette County, PA Tax Liens",
+      "link": "https://www.foreclosure.com/listings/fayette-county-pa/tax-liens/?lc=tax-liens&lc=tax-liens&pg=5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foreclosure.com/listings/fayette-county-pa/tax-liens/%3Flc%3Dtax-liens%26lc%3Dtax-liens%26pg%3D5&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCKIBEAE",
+      "displayed_link": "https://www.foreclosure.com › listings › tax-liens › lc=t...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b838dca00d7fd7a5db17dc948815291e1.png",
+      "snippet": "There are",
+      "source": "Foreclosure.com"
+    },
+    {
+      "position": 30,
+      "title": "Welcome to Laurel Caverns - Where learning goes ...",
+      "link": "https://laurelcaverns.com/welcome-to-laurel-caverns/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://laurelcaverns.com/welcome-to-laurel-caverns/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCN0BEAE",
+      "displayed_link": "https://laurelcaverns.com › welcome-to-laurel-caverns",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b8b0ea966d77af77105d7c020c6b48717.png",
+      "snippet": "located 50 miles south of Pittsburgh. Call for a tour: 724-438-3003.",
+      "source": "Laurel Caverns"
+    },
+    {
+      "position": 31,
+      "title": "Foreclosure and Bank Owned Auctions in Fayette County, PA",
+      "link": "https://www.auction.com/residential/pa/fayette-county",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.auction.com/residential/pa/fayette-county&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCL0BEAE",
+      "displayed_link": "https://www.auction.com › residential › fayette-county",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bab64b604a719cde13a8d175918670091.png",
+      "snippet": "Find and Bid on Homes in Fayette County, PA.",
+      "source": "Auction.com"
+    },
+    {
+      "position": 32,
+      "title": "Welcome to the Bureau of Unclaimed Property Search Portal",
+      "link": "https://unclaimedproperty.patreasury.gov/en/Property/SearchIndex",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://unclaimedproperty.patreasury.gov/en/Property/SearchIndex&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCMIBEAE",
+      "displayed_link": "https://unclaimedproperty.patreasury.gov › SearchIndex",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b39a753a6fafd56a29b7bc95742e375e7.png",
+      "snippet": "You may be richer than you think!",
+      "source": "Pennsylvania Treasury (.gov)"
+    },
+    {
+      "position": 33,
+      "title": "Fayette County PA Foreclosure Homes For Sale",
+      "link": "https://www.zillow.com/fayette-county-pa/foreclosures/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zillow.com/fayette-county-pa/foreclosures/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCMEBEAE",
+      "displayed_link": "https://www.zillow.com › For Sale › Pennsylvania",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b61907064a94959705160c1c9001f3c46.png",
+      "snippet": ", with data on unpaid balances and auction dates. Find Bank Foreclosures and premium information on ...",
+      "source": "Zillow"
+    },
+    {
+      "position": 34,
+      "title": "2022 08 06 (tax sale)",
+      "link": "https://www.palegalads.org/journals/pdf/675_2022_08_06__tax_sale___FLJ.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.palegalads.org/journals/pdf/675_2022_08_06__tax_sale___FLJ.pdf&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCNsBEAE",
+      "displayed_link": "https://www.palegalads.org › journals › pdf › 67...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b39818cd0a85767b652ef4735c56bb517.png",
+      "date": "Aug 6, 2022",
+      "snippet": "Uniontown, Fayette County, PA (3). Executor: Mark A. Wontroba c/o Radcliffe Law, LLC. 648 Morgantown Road,",
+      "source": "PA Legal Ads"
+    },
+    {
+      "position": 35,
+      "title": "Fallingwater Homepage - Fallingwater",
+      "link": "https://fallingwater.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fallingwater.org/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCKcBEAE",
+      "displayed_link": "https://fallingwater.org",
+      "snippet": "Since Frank Lloyd Wright's Fallingwater opened to the public in 1964, visitors from around the world have experienced this masterwork.",
+      "source": "Fallingwater"
+    },
+    {
+      "position": 36,
+      "title": "Masontown Renaissance - FAYETTE COUNTY TAX CLAIM ...",
+      "link": "https://www.facebook.com/photo.php?fbid=4173988402698046&id=627191167377805&set=a.631218990308356",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/photo.php%3Ffbid%3D4173988402698046%26id%3D627191167377805%26set%3Da.631218990308356&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECD0QAQ",
+      "displayed_link": "6 reactions · 3 years ago",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b48facad5e404f7b0a39d1fc5ac6ec0b4.png",
+      "snippet": "TAX CLAIM BUREAU",
+      "source": "Facebook · Masontown Renaissance"
+    },
+    {
+      "position": 37,
+      "title": "First Niagara Bank building could be sold for unpaid taxes",
+      "link": "https://www.heraldstandard.com/news/2019/jul/18/first-niagara-bank-building-could-be-sold-for-unpaid-taxes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.heraldstandard.com/news/2019/jul/18/first-niagara-bank-building-could-be-sold-for-unpaid-taxes/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECFEQAQ",
+      "displayed_link": "https://www.heraldstandard.com › news › jul › first-nia...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b512a88ecd14520f8bf1f34c0375d6235.png",
+      "date": "Jul 18, 2019",
+      "snippet": "A deserted and crumbling former bank building, which was once one of downtown",
+      "source": "Herald-Standard"
+    },
+    {
+      "position": 38,
+      "title": "Consumer Complaint – PA Office of Attorney General",
+      "link": "https://www.attorneygeneral.gov/submit-a-complaint/consumer-complaint/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.attorneygeneral.gov/submit-a-complaint/consumer-complaint/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECFIQAQ",
+      "displayed_link": "https://www.attorneygeneral.gov › submit-a-complaint",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b94ddc20bc12e7c9c497aa1970c07ba7f.png",
+      "snippet": "The",
+      "source": "PA Office of Attorney General (.gov)"
+    },
+    {
+      "position": 39,
+      "title": "PHFA HOMEPAGE | Mortgage – Housing – Foreclosure Options",
+      "link": "https://www.phfa.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.phfa.org/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECDwQAQ",
+      "displayed_link": "https://www.phfa.org",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bcc01fc9fbe85d5da0fb5cd5469c96609.png",
+      "snippet": "| Mortgage Loans; Homebuyer Counseling; Foreclosure Prevention; Rental & Senior Housing Opportunities; ...",
+      "source": "PHFA"
+    },
+    {
+      "position": 40,
+      "title": "106 King St, Upper Tyrone Twp., PA 15683",
+      "link": "https://www.thepreferredrealty.com/real-estate/1713122/106-king-st-upper-tyrone-twp-pa-15683/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thepreferredrealty.com/real-estate/1713122/106-king-st-upper-tyrone-twp-pa-15683/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECFAQAQ",
+      "displayed_link": "https://www.thepreferredrealty.com › real-estate › 106-...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bda4657bf35f3ea60382584c4494dbbbe.png",
+      "date": "9 hours ago",
+      "snippet": "(MLS#:1713122) is listed for sale for $194900. View this 3 bedroom, 2 bath home or other homes in ...",
+      "source": "Berkshire Hathaway HomeServices The Preferred Realty"
+    },
+    {
+      "position": 41,
+      "title": "Sheriff Sale Homes in Fayette County, PA",
+      "link": "https://www.foreclosure.com/listings/fayette-county-pa/preforeclosure_sheriff%20sale/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foreclosure.com/listings/fayette-county-pa/preforeclosure_sheriff%2520sale/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECFgQAQ",
+      "displayed_link": "https://www.foreclosure.com › Pennsylvania",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b894034ca8f40cb56a40829a53dfe2219.png",
+      "snippet": ",",
+      "source": "Foreclosure.com"
+    },
+    {
+      "position": 42,
+      "title": "Homepage - National 4-H Council",
+      "link": "https://4-h.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://4-h.org/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCNkBEAE",
+      "displayed_link": "https://4-h.org",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b0f0952a3c4e97ccbbf255081622aad83.png",
+      "snippet": "Events in every",
+      "source": "National 4-H Council"
+    },
+    {
+      "position": 43,
+      "title": "MV-1 DOR Motor Vehicle Title/Tag Application",
+      "link": "https://dor.georgia.gov/mv-1-dor-motor-vehicle-titletag-application",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dor.georgia.gov/mv-1-dor-motor-vehicle-titletag-application&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECFcQAQ",
+      "displayed_link": "https://dor.georgia.gov › mv-1-dor-motor-vehicle-titlet...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b8fa3d9318e1620a183a181061f082882.png",
+      "snippet": "Save Time! Start your MV-1 Motor Vehicle Title/Tag Application online BEFORE you visit the",
+      "source": "Georgia.gov"
+    },
+    {
+      "position": 44,
+      "title": "Penn State Extension | The Pennsylvania State University",
+      "link": "https://extension.psu.edu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://extension.psu.edu/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECHAQAQ",
+      "displayed_link": "https://extension.psu.edu",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b01910daaa114fa51537703a4aa899058.png",
+      "snippet": "Penn State Extension delivers science-based information about Agronomy, Animal Systems, Food Safety, Home Gardening, and more. Browse our online courses.",
+      "source": "Penn State Extension"
+    },
+    {
+      "position": 45,
+      "title": "Lexington Public Library: Home",
+      "link": "https://www.lexpublib.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lexpublib.org/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECG0QAQ",
+      "displayed_link": "https://www.lexpublib.org",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b723997638b0e5295e375f05d336686fc.png",
+      "snippet": "- With:",
+      "source": "Lexington Public Library"
+    },
+    {
+      "position": 46,
+      "title": "Cumberland County - Property Search",
+      "link": "https://taxpwa.co.cumberland.nc.us/camapwa/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxpwa.co.cumberland.nc.us/camapwa/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECG8QAQ",
+      "displayed_link": "https://taxpwa.co.cumberland.nc.us › camapwa",
+      "snippet": "Cumberland",
+      "source": "cumberland.nc.us"
+    },
+    {
+      "position": 47,
+      "title": "Fayette County Tax Collectors - Fay-West Resources",
+      "link": "https://faywestresources.wordpress.com/government/local/fayettegov/ftaxcollectors/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://faywestresources.wordpress.com/government/local/fayettegov/ftaxcollectors/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECHIQAQ",
+      "displayed_link": "https://faywestresources.wordpress.com › local › ftaxcol...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b61521902ac55d3ac2be64191a275e2f7.png",
+      "snippet": "County Collector Nancy Lee Wilson,",
+      "source": "WordPress.com"
+    },
+    {
+      "position": 48,
+      "title": "Vehicle Licensing Offices - Alabama Department of Revenue",
+      "link": "https://www.revenue.alabama.gov/motor-vehicle/vehicle-licensing-offices/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.revenue.alabama.gov/motor-vehicle/vehicle-licensing-offices/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCIsBEAE",
+      "displayed_link": "https://www.revenue.alabama.gov › motor-vehicle › ve...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b28b142ac0444a72be8d4b260b006274f.png",
+      "snippet": "Barbour",
+      "source": "Alabama Department of Revenue (.gov)"
+    },
+    {
+      "position": 49,
+      "title": "Fishing Summary 2025Pennsylvania",
+      "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/fishandboat/documents/fishing/regulations/summarybook.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pa.gov/content/dam/copapwp-pagov/en/fishandboat/documents/fishing/regulations/summarybook.pdf&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCIgBEAE",
+      "displayed_link": "https://www.pa.gov › regulations › summarybook",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bb6869682ee9f0b1bdcc33921c69e5391.png",
+      "snippet": "showing",
+      "source": "Commonwealth of Pennsylvania (.gov)"
+    },
+    {
+      "position": 50,
+      "title": "Fayette County PA Real Estate & Homes For Sale",
+      "link": "https://www.zillow.com/fayette-county-pa/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zillow.com/fayette-county-pa/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCIcBEAE",
+      "displayed_link": "https://www.zillow.com › For Sale › Pennsylvania",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bc6927214f833e388fe242b523a907283.png",
+      "snippet": "Real Estate & Homes For",
+      "source": "Zillow"
+    },
+    {
+      "position": 51,
+      "title": "Fayette County Superintendent reacts to the potential of AI ...",
+      "link": "https://www.wvnstv.com/news/local-news/fayette-county-superintendent-reacts-to-the-potential-of-ai-in-the-classroom/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wvnstv.com/news/local-news/fayette-county-superintendent-reacts-to-the-potential-of-ai-in-the-classroom/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCIkBEAE",
+      "displayed_link": "https://www.wvnstv.com › news › local-news › fayette-...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b3604309436f9e783c270b6cdd6bb6db2.png",
+      "date": "6 days ago",
+      "snippet": "...",
+      "source": "WVNS"
+    },
+    {
+      "position": 52,
+      "title": "Tax Liens and Foreclosure Homes in Fayette County, PA",
+      "link": "https://www.taxliens.com/homes/fayette-county-pa/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxliens.com/homes/fayette-county-pa/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCIwBEAE",
+      "displayed_link": "https://www.taxliens.com › Pennsylvania",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bccc340f2339da9b961414436bf4a0f20.png",
+      "snippet": "Search",
+      "source": "Taxliens.com"
+    },
+    {
+      "position": 53,
+      "title": "Fallingwater Tours",
+      "link": "https://fallingwater.org/visit/fallingwater-tours/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fallingwater.org/visit/fallingwater-tours/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCI0BEAE",
+      "displayed_link": "https://fallingwater.org › Visiting Fallingwater",
+      "snippet": "Days · Private Customized Experiences · About · The Kaufmanns & Frank Lloyd Wright · Timeline · Preservation & Collections · Research Resources ...",
+      "source": "Fallingwater"
+    },
+    {
+      "position": 54,
+      "title": "Greater Philadelphia YMCA",
+      "link": "https://www.philaymca.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.philaymca.org/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCNwBEAE",
+      "displayed_link": "https://www.philaymca.org",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b3e0e5f8f2f0c9574d3ebe4b2b026ef23.png",
+      "snippet": "Join the Greater Philadelphia YMCA and gain access to modern fitness facilities, world-class pools, and free babysitting. Learn about becoming a Y member.",
+      "source": "YMCA | Greater Philadelphia"
+    },
+    {
+      "position": 55,
+      "title": "New to Georgia? - Department of Revenue",
+      "link": "https://dor.georgia.gov/motor-vehicles/vehicle-registration-license-plates/new-georgia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dor.georgia.gov/motor-vehicles/vehicle-registration-license-plates/new-georgia&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCN4BEAE",
+      "displayed_link": "https://dor.georgia.gov › motor-vehicles › new-georgia",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b94712a6ff9b6c2d4a4fe6fb1d554da9d.png",
+      "snippet": "You will need to visit the",
+      "source": "Georgia.gov"
+    },
+    {
+      "position": 56,
+      "title": "News",
+      "link": "https://triblive.com/news/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://triblive.com/news/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCKUBEAE",
+      "displayed_link": "https://triblive.com › news",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166ba34c9f1802cb5c4fd47aedf2a7bfeeda.png",
+      "snippet": "Western",
+      "source": "TribLIVE.com"
+    },
+    {
+      "position": 57,
+      "title": "Commonwealth of PA - Opportunities for All Job Seekers",
+      "link": "https://www.governmentjobs.com/careers/pabureau?page=7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.governmentjobs.com/careers/pabureau%3Fpage%3D7&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCIQCEAE",
+      "displayed_link": "https://www.governmentjobs.com › careers › pabureau",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bb733d75fe7502e83813b6c7758bbbf0c.png",
+      "snippet": ",",
+      "source": "GovernmentJobs.com"
+    },
+    {
+      "position": 58,
+      "title": "“My House Was Sold at an Upset Tax Sale”: What To Do?",
+      "link": "https://www.cgalaw.com/my-house-was-sold-at-an-upset-tax-sale-what-to-do/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cgalaw.com/my-house-was-sold-at-an-upset-tax-sale-what-to-do/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCN8BEAE",
+      "displayed_link": "https://www.cgalaw.com › CGA Law News & Blog",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b016b67f008414a14f738e95ae4210f7f.png",
+      "date": "Sep 19, 2024",
+      "snippet": "In cases where an owner is two years delinquent in paying his or her property taxes, the Real Estate",
+      "source": "CGA Law Firm"
+    },
+    {
+      "position": 59,
+      "title": "LEGISLATIVE ROUNDUP: State celebrates Kolmar's new ...",
+      "link": "https://www.timesleader.com/news/1710584/legislative-roundup-state-celebrates-kolmars-new-60m-manufacturing-facility-in-lackawanna-county",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.timesleader.com/news/1710584/legislative-roundup-state-celebrates-kolmars-new-60m-manufacturing-facility-in-lackawanna-county&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCNYBEAE",
+      "displayed_link": "https://www.timesleader.com › News › Local",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b79ecce998ac845082ca533731258464f.png",
+      "date": "4 days ago",
+      "snippet": "The Crawford Avenue Bridge rehabilitation project in",
+      "source": "Times Leader"
+    },
+    {
+      "position": 60,
+      "title": "Delinquent Tax Collection",
+      "link": "https://fayettecountyattorney.com/services/delinquent-tax-collection/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fayettecountyattorney.com/services/delinquent-tax-collection/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCL4BEAE",
+      "displayed_link": "https://fayettecountyattorney.com › services › delinque...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166ba3e1fc03c382f72e7ba7d17dbd70d2a2.png",
+      "snippet": "The purpose of the Delinquent Property",
+      "source": "Fayette County Attorney's Office"
+    },
+    {
+      "position": 61,
+      "title": "Takeaways from AP's report about cuts to government ...",
+      "link": "https://www.wvnstv.com/news/ap-takeaways-from-aps-report-about-cuts-to-government-grants-for-nonprofits/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wvnstv.com/news/ap-takeaways-from-aps-report-about-cuts-to-government-grants-for-nonprofits/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECFQQAQ",
+      "displayed_link": "https://www.wvnstv.com › news › ap-takeaways-from-a...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bfe1d634aac1a4d6dfb4ec2fa4e5c3d36.png",
+      "date": "2 days ago",
+      "snippet": "It also excludes the smallest nonprofits, which file a different, abbreviated",
+      "source": "WVNS"
+    },
+    {
+      "position": 62,
+      "title": "Fayette County, PA Real Estate & House Auctions",
+      "link": "https://www.realtytrac.com/fayette-county-pa/foreclosure/auction/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.realtytrac.com/fayette-county-pa/foreclosure/auction/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCKoBEAE",
+      "displayed_link": "https://www.realtytrac.com › foreclosure › auction",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bc8bf416a95034d0ce054d46e5b0005bd.jpeg",
+      "snippet": "At present, 9 properties in",
+      "source": "RealtyTrac"
+    },
+    {
+      "position": 63,
+      "title": "With gavel in hand, Trump chisels away at the power of a ...",
+      "link": "https://www.wowktv.com/news/u-s-world/ap-with-gavel-in-hand-trump-chisels-away-at-the-power-of-a-compliant-congress/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wowktv.com/news/u-s-world/ap-with-gavel-in-hand-trump-chisels-away-at-the-power-of-a-compliant-congress/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCL8BEAE",
+      "displayed_link": "https://www.wowktv.com › news › u-s-world › ap-with...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b822b6ad64613bcb3856af7f9fde2036c.png",
+      "date": "5 days ago",
+      "snippet": "...",
+      "source": "WOWK 13 News"
+    },
+    {
+      "position": 64,
+      "title": "SHOP 'n SAVE",
+      "link": "https://www.shopnsavefood.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shopnsavefood.com/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCNoBEAE",
+      "displayed_link": "https://www.shopnsavefood.com",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b408fba1031a4af57c10672b86fc89b75.png",
+      "snippet": "coupon may not be transferred, copied, auctioned, or",
+      "source": "SHOP 'n SAVE"
+    },
+    {
+      "position": 65,
+      "title": "341 Windgate Ct, Millersville, PA 17551 - MLS PALA2073610",
+      "link": "https://www.coldwellbankerhomes.com/pa/millersville/341-windgate-ct/pid_66566528/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coldwellbankerhomes.com/pa/millersville/341-windgate-ct/pid_66566528/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCOQBEAE",
+      "displayed_link": "https://www.coldwellbankerhomes.com › pid_66566528",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166be392626108c436b5179c65ad1fcb03d5.png",
+      "date": "10 minutes ago",
+      "snippet": "For",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 275000.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$275,000.00"
+          ]
+        }
+      },
+      "source": "ColdwellBankerHomes.com"
+    },
+    {
+      "position": 66,
+      "title": "Potential amphitheater buyers willing to forgo oil, gas rights",
+      "link": "https://archive.triblive.com/news/potential-amphitheater-buyers-willing-to-forgo-oil-gas-rights/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://archive.triblive.com/news/potential-amphitheater-buyers-willing-to-forgo-oil-gas-rights/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCKkBEAE",
+      "displayed_link": "https://archive.triblive.com › news › potential-amphithe...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bb9efb0518419341d5d82d4ee7c6c6d22.png",
+      "date": "Oct 28, 2011",
+      "snippet": "To speed up the",
+      "source": "TribLIVE.com"
+    },
+    {
+      "position": 67,
+      "title": "Find a Furniture Store near me | Ashley Store",
+      "link": "https://stores.ashleyfurniture.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stores.ashleyfurniture.com/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoFCKgBEAE",
+      "displayed_link": "https://stores.ashleyfurniture.com › ... › Beds",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b7f2b342a09250713157123b07b421700.png",
+      "snippet": "Find a locally owned and operated Ashley Store Store near you with our Store Locator. Shop home furniture and mattresses at affordable prices!",
+      "source": "Ashley Furniture"
+    },
+    {
+      "position": 68,
+      "title": "Topgolf Pittsburgh",
+      "link": "https://topgolf.com/us/pittsburgh/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://topgolf.com/us/pittsburgh/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECDYQAQ",
+      "displayed_link": "https://topgolf.com › pittsburgh",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166b66616dfb09250dd63b67e1aa1cc16e2a.png",
+      "snippet": "Welcome to Topgolf Pittsburgh, the premier entertainment destination in Bridgeville,",
+      "source": "Topgolf"
+    },
+    {
+      "position": 69,
+      "title": "2759 St Anthony Way, Gilbertsville, PA 19525",
+      "link": "https://www.coldwellbankerhomes.com/pa/gilbertsville/2759-saint-anthony-way/pid_66567091/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coldwellbankerhomes.com/pa/gilbertsville/2759-saint-anthony-way/pid_66567091/&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECFMQAQ",
+      "displayed_link": "https://www.coldwellbankerhomes.com › pid_66567091",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166beb492819225c7ad0e0e62bf7d9737466.png",
+      "date": "39 minutes ago",
+      "snippet": "For",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 599900.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$599,900.00"
+          ]
+        }
+      },
+      "source": "ColdwellBankerHomes.com"
+    },
+    {
+      "position": 70,
+      "title": "Fayette county pa tax sale list 2023.",
+      "link": "https://ampel-stoppen.de/fayette-county-pa-tax-sale-list-2023",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ampel-stoppen.de/fayette-county-pa-tax-sale-list-2023&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQFnoECDcQAQ",
+      "displayed_link": "https://ampel-stoppen.de › fayette-county-pa-tax-sale-lis...",
+      "favicon": "https://serpapi.com/searches/68825bc8fbe53b0226c69e0c/images/891ca136cbbbd7d5fdf86134902a166bc531736a3067c9b92e8f03030e5a689b.jpeg",
+      "snippet": "Claim Bureau Office at 87: 017: Sep 23, 2024 · SHERIFF'S",
+      "source": "ampel-stoppen.de"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Tax sale fayette county pa today",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Tax+sale+fayette+county+pa+today&sa=X&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQ1QJ6BQiAAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Tax+sale+fayette+county+pa+today"
+    },
+    {
+      "block_position": 1,
+      "query": "Property tax sale fayette county pa",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Property+tax+sale+fayette+county+pa&sa=X&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQ1QJ6BQj_ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Property+tax+sale+fayette+county+pa"
+    },
+    {
+      "block_position": 1,
+      "query": "fayette county, pa tax sale list pdf",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=fayette+county,+pa+tax+sale+list+pdf&sa=X&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQ1QJ6BQj-ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=fayette+county%2C+pa+tax+sale+list+pdf"
+    },
+    {
+      "block_position": 1,
+      "query": "Fayette County tax sale List",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Fayette+County+tax+sale+List&sa=X&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQ1QJ6BQj8ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Fayette+County+tax+sale+List"
+    },
+    {
+      "block_position": 1,
+      "query": "fayette county, pa delinquent tax list",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=fayette+county,+pa+delinquent+tax+list&sa=X&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQ1QJ6BQj9ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=fayette+county%2C+pa+delinquent+tax+list"
+    },
+    {
+      "block_position": 1,
+      "query": "Fayette County delinquent tax list pdf",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Fayette+County+delinquent+tax+list+pdf&sa=X&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQ1QJ6BQj6ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Fayette+County+delinquent+tax+list+pdf"
+    },
+    {
+      "block_position": 1,
+      "query": "Tax sale fayette county pa 2022",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Tax+sale+fayette+county+pa+2022&sa=X&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQ1QJ6BQj7ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Tax+sale+fayette+county+pa+2022"
+    },
+    {
+      "block_position": 1,
+      "query": "Free tax sale fayette county pa",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Free+tax+sale+fayette+county+pa&sa=X&ved=2ahUKEwik3IHo8dWOAxWeCnkGHePbGjwQ1QJ6BQj5ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Free+tax+sale+fayette+county+pa"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 70 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=tax+sale+fayette+county+pa&num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=tax+sale+fayette+county+pa&oq=tax+sale+fayette+county+pa&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=tax+sale+fayette+county+pa&oq=tax+sale+fayette+county+pa&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=tax+sale+fayette+county+pa&oq=tax+sale+fayette+county+pa&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=tax+sale+fayette+county+pa&oq=tax+sale+fayette+county+pa&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=tax+sale+fayette+county+pa&oq=tax+sale+fayette+county+pa&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=tax+sale+fayette+county+pa&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=tax+sale+fayette+county+pa&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=tax+sale+fayette+county+pa&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=tax+sale+fayette+county+pa&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=tax+sale+fayette+county+pa&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=tax+sale+fayette+county+pa&start=400"
+    }
+  }
+}

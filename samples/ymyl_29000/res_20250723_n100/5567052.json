@@ -1,0 +1,1380 @@
+{
+  "search_metadata": {
+    "id": "68823b716561a6026ba3fd97",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c29f82c3847a0c10/68823b716561a6026ba3fd97.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/c29f82c3847a0c10/68823b716561a6026ba3fd97.json_with_pixel_position",
+    "created_at": "2025-07-24 13:56:01 UTC",
+    "processed_at": "2025-07-24 13:56:01 UTC",
+    "google_url": "https://www.google.com/search?q=ted+talks+on+cancer&oq=ted+talks+on+cancer&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/c29f82c3847a0c10/68823b716561a6026ba3fd97.html",
+    "total_time_taken": 2.47
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ted talks on cancer",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "ted talks on cancer",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How to live longer with stage 4 cancer?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdYZFVVME5WUmxCeWNrZGxWSGh6VEVSc2VURkhSMlUyYm1SS0xVaDZUMlZYV1VWWGJITjZlR3cwYjNOZmNFNDJSREp1UVdwUlZrODJSREoyT0dWb1UzbFpRazQyYVRoYUxXVk5UbEpVWnpsalZsQnJhMFZuWVd0dFVSSVhZMnAxUTJGUFdHVktYMTlWY0RnMFVEaFplVXhwVVhjYUlrRkdUVUZIUjNBdGJFNU5SbTR4UkdKME9HZzVVMFU1VEhKbGNWZEhRbkJJTmxFIiwiZmN2IjoiMyIsImVpIjoiY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXciLCJxYyI6IkNoTjBaV1FnZEdGc2EzTWdiMjRnWTJGdVkyVnlFQUFZQVgxY1Jpb18iLCJxdWVzdGlvbiI6IkhvdyB0byBsaXZlIGxvbmdlciB3aXRoIHN0YWdlIDQgY2FuY2VyPyIsImxrIjoiR2lab2IzY2dkRzhnYkdsMlpTQnNiMjVuWlhJZ2QybDBhQ0J6ZEdGblpTQTBJR05oYm1ObGNnIiwiYnMiOiJjLU1LNDFMM3lDOVhLTWxYeU1rc1MxWEl5YzlMVHkxU0tNOHN5VkFvTGtsTVQxVXdVVWhPekV0T0xiS1hlQjlzcENHbGxrR1VhaTRuTHRud2pNUVNoY1NpVklXU0RDRE9MMUF3VlFoSlRWRW9TY3pKTHJhWG1CWm9KQ2NsVTQ2cHBnU21oc3VQUzlrNU1VOGhVYUVndGFnNFB3OWlEOFI4aFAzMkVudHNqRlNrbEpJSnF1U0s0OUlHdXdub19PTEVTakNWbjV1YW41ZUszYjg3V1l4MHBMVEtpZFlod0FnQSIsImlkIjoiZmNfY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXdfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdYZFVVME5WUmxCeWNrZGxWSGh6VEVSc2VURkhSMlUyYm1SS0xVaDZUMlZYV1VWWGJITjZlR3cwYjNOZmNFNDJSREp1UVdwUlZrODJSREoyT0dWb1UzbFpRazQyYVRoYUxXVk5UbEpVWnpsalZsQnJhMFZuWVd0dFVSSVhZMnAxUTJGUFdHVktYMTlWY0RnMFVEaFplVXhwVVhjYUlrRkdUVUZIUjNBdGJFNU5SbTR4UkdKME9HZzVVMFU1VEhKbGNWZEhRbkJJTmxFIiwiZmN2IjoiMyIsImVpIjoiY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXciLCJxYyI6IkNoTjBaV1FnZEdGc2EzTWdiMjRnWTJGdVkyVnlFQUFZQVgxY1Jpb18iLCJxdWVzdGlvbiI6IkhvdyB0byBsaXZlIGxvbmdlciB3aXRoIHN0YWdlIDQgY2FuY2VyPyIsImxrIjoiR2lab2IzY2dkRzhnYkdsMlpTQnNiMjVuWlhJZ2QybDBhQ0J6ZEdGblpTQTBJR05oYm1ObGNnIiwiYnMiOiJjLU1LNDFMM3lDOVhLTWxYeU1rc1MxWEl5YzlMVHkxU0tNOHN5VkFvTGtsTVQxVXdVVWhPekV0T0xiS1hlQjlzcENHbGxrR1VhaTRuTHRud2pNUVNoY1NpVklXU0RDRE9MMUF3VlFoSlRWRW9TY3pKTHJhWG1CWm9KQ2NsVTQ2cHBnU21oc3VQUzlrNU1VOGhVYUVndGFnNFB3OWlEOFI4aFAzMkVudHNqRlNrbEpJSnF1U0s0OUlHdXdub19PTEVTakNWbjV1YW41ZUszYjg3V1l4MHBMVEtpZFlod0FnQSIsImlkIjoiZmNfY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXdfMiJ9"
+    },
+    {
+      "question": "What are the top 5 Ted talks?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdYZFVVME5WUmxCeWNrZGxWSGh6VEVSc2VURkhSMlUyYm1SS0xVaDZUMlZYV1VWWGJITjZlR3cwYjNOZmNFNDJSREp1UVdwUlZrODJSREoyT0dWb1UzbFpRazQyYVRoYUxXVk5UbEpVWnpsalZsQnJhMFZuWVd0dFVSSVhZMnAxUTJGUFdHVktYMTlWY0RnMFVEaFplVXhwVVhjYUlrRkdUVUZIUjNBdGJFNU5SbTR4UkdKME9HZzVVMFU1VEhKbGNWZEhRbkJJTmxFIiwiZmN2IjoiMyIsImVpIjoiY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXciLCJxYyI6IkNoTjBaV1FnZEdGc2EzTWdiMjRnWTJGdVkyVnlFQUFZQVgxY1Jpb18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgNSBUZWQgdGFsa3M/IiwibGsiOiJHaHgzYUdGMElHRnlaU0IwYUdVZ2RHOXdJRFVnZEdWa0lIUmhiR3R6IiwiYnMiOiJjLU1LNDFMM3lDOVhLTWxYeU1rc1MxWEl5YzlMVHkxU0tNOHN5VkFvTGtsTVQxVXdVVWhPekV0T0xiS1hlQjlzcENHbGxrR1VhaTRuTHRud2pNUVNoY1NpVklXU0RDRE9MMUF3VlFoSlRWRW9TY3pKTHJhWG1CWm9KQ2NsVTQ2cHBnU21oc3VQUzlrNU1VOGhVYUVndGFnNFB3OWlEOFI4aFAzMkVudHNqRlNrbEpJSnF1U0s0OUlHdXdub19PTEVTakNWbjV1YW41ZUszYjg3V1l4MHBMVEtpZFlod0FnQSIsImlkIjoiZmNfY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXdfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdYZFVVME5WUmxCeWNrZGxWSGh6VEVSc2VURkhSMlUyYm1SS0xVaDZUMlZYV1VWWGJITjZlR3cwYjNOZmNFNDJSREp1UVdwUlZrODJSREoyT0dWb1UzbFpRazQyYVRoYUxXVk5UbEpVWnpsalZsQnJhMFZuWVd0dFVSSVhZMnAxUTJGUFdHVktYMTlWY0RnMFVEaFplVXhwVVhjYUlrRkdUVUZIUjNBdGJFNU5SbTR4UkdKME9HZzVVMFU1VEhKbGNWZEhRbkJJTmxFIiwiZmN2IjoiMyIsImVpIjoiY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXciLCJxYyI6IkNoTjBaV1FnZEdGc2EzTWdiMjRnWTJGdVkyVnlFQUFZQVgxY1Jpb18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgNSBUZWQgdGFsa3M%2FIiwibGsiOiJHaHgzYUdGMElHRnlaU0IwYUdVZ2RHOXdJRFVnZEdWa0lIUmhiR3R6IiwiYnMiOiJjLU1LNDFMM3lDOVhLTWxYeU1rc1MxWEl5YzlMVHkxU0tNOHN5VkFvTGtsTVQxVXdVVWhPekV0T0xiS1hlQjlzcENHbGxrR1VhaTRuTHRud2pNUVNoY1NpVklXU0RDRE9MMUF3VlFoSlRWRW9TY3pKTHJhWG1CWm9KQ2NsVTQ2cHBnU21oc3VQUzlrNU1VOGhVYUVndGFnNFB3OWlEOFI4aFAzMkVudHNqRlNrbEpJSnF1U0s0OUlHdXdub19PTEVTakNWbjV1YW41ZUszYjg3V1l4MHBMVEtpZFlod0FnQSIsImlkIjoiZmNfY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXdfMiJ9"
+    },
+    {
+      "question": "Can a person with cancer live long?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdYZFVVME5WUmxCeWNrZGxWSGh6VEVSc2VURkhSMlUyYm1SS0xVaDZUMlZYV1VWWGJITjZlR3cwYjNOZmNFNDJSREp1UVdwUlZrODJSREoyT0dWb1UzbFpRazQyYVRoYUxXVk5UbEpVWnpsalZsQnJhMFZuWVd0dFVSSVhZMnAxUTJGUFdHVktYMTlWY0RnMFVEaFplVXhwVVhjYUlrRkdUVUZIUjNBdGJFNU5SbTR4UkdKME9HZzVVMFU1VEhKbGNWZEhRbkJJTmxFIiwiZmN2IjoiMyIsImVpIjoiY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXciLCJxYyI6IkNoTjBaV1FnZEdGc2EzTWdiMjRnWTJGdVkyVnlFQUFZQVgxY1Jpb18iLCJxdWVzdGlvbiI6IkNhbiBhIHBlcnNvbiB3aXRoIGNhbmNlciBsaXZlIGxvbmc/IiwibGsiOiJHaUpqWVc0Z1lTQndaWEp6YjI0Z2QybDBhQ0JqWVc1alpYSWdiR2wyWlNCc2IyNW4iLCJicyI6ImMtTUs0MUwzeUM5WEtNbFh5TWtzUzFYSXljOUxUeTFTS004c3lWQW9Ma2xNVDFVd1VVaE96RXRPTGJLWGVCOXNwQ0dsbGtHVWFpNG5MdG53ak1RU2hjU2lWSVdTRENET0wxQXdWUWhKVFZFb1NjekpMcmFYbUJab0pDY2xVNDZwcGdTbWhzdVBTOWs1TVU4aFVhRWd0YWc0UHc5aUQ4UjhoUDMyRW50c2pGU2tsSklKcXVTSzQ5SUd1d25vX09MRVNqQ1ZuNXVhbjVlSzNiODdXWXgwcExUS2lkWWh3QWdBIiwiaWQiOiJmY19janVDYU9YZUpfX1VwODRQOFl5TGlRd18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdYZFVVME5WUmxCeWNrZGxWSGh6VEVSc2VURkhSMlUyYm1SS0xVaDZUMlZYV1VWWGJITjZlR3cwYjNOZmNFNDJSREp1UVdwUlZrODJSREoyT0dWb1UzbFpRazQyYVRoYUxXVk5UbEpVWnpsalZsQnJhMFZuWVd0dFVSSVhZMnAxUTJGUFdHVktYMTlWY0RnMFVEaFplVXhwVVhjYUlrRkdUVUZIUjNBdGJFNU5SbTR4UkdKME9HZzVVMFU1VEhKbGNWZEhRbkJJTmxFIiwiZmN2IjoiMyIsImVpIjoiY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXciLCJxYyI6IkNoTjBaV1FnZEdGc2EzTWdiMjRnWTJGdVkyVnlFQUFZQVgxY1Jpb18iLCJxdWVzdGlvbiI6IkNhbiBhIHBlcnNvbiB3aXRoIGNhbmNlciBsaXZlIGxvbmc%2FIiwibGsiOiJHaUpqWVc0Z1lTQndaWEp6YjI0Z2QybDBhQ0JqWVc1alpYSWdiR2wyWlNCc2IyNW4iLCJicyI6ImMtTUs0MUwzeUM5WEtNbFh5TWtzUzFYSXljOUxUeTFTS004c3lWQW9Ma2xNVDFVd1VVaE96RXRPTGJLWGVCOXNwQ0dsbGtHVWFpNG5MdG53ak1RU2hjU2lWSVdTRENET0wxQXdWUWhKVFZFb1NjekpMcmFYbUJab0pDY2xVNDZwcGdTbWhzdVBTOWs1TVU4aFVhRWd0YWc0UHc5aUQ4UjhoUDMyRW50c2pGU2tsSklKcXVTSzQ5SUd1d25vX09MRVNqQ1ZuNXVhbjVlSzNiODdXWXgwcExUS2lkWWh3QWdBIiwiaWQiOiJmY19janVDYU9YZUpfX1VwODRQOFl5TGlRd18yIn0%3D"
+    },
+    {
+      "question": "What to say to someone with stage 4 cancer?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdYZFVVME5WUmxCeWNrZGxWSGh6VEVSc2VURkhSMlUyYm1SS0xVaDZUMlZYV1VWWGJITjZlR3cwYjNOZmNFNDJSREp1UVdwUlZrODJSREoyT0dWb1UzbFpRazQyYVRoYUxXVk5UbEpVWnpsalZsQnJhMFZuWVd0dFVSSVhZMnAxUTJGUFdHVktYMTlWY0RnMFVEaFplVXhwVVhjYUlrRkdUVUZIUjNBdGJFNU5SbTR4UkdKME9HZzVVMFU1VEhKbGNWZEhRbkJJTmxFIiwiZmN2IjoiMyIsImVpIjoiY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXciLCJxYyI6IkNoTjBaV1FnZEdGc2EzTWdiMjRnWTJGdVkyVnlFQUFZQVgxY1Jpb18iLCJxdWVzdGlvbiI6IldoYXQgdG8gc2F5IHRvIHNvbWVvbmUgd2l0aCBzdGFnZSA0IGNhbmNlcj8iLCJsayI6ImM1UFNLczlJTEZFb3lWY29UcXdFVV9tNXFmbDVxUXJsbVNVWkNzVWxpZW1wQ2lZS3lZbDV5YWxGQUEiLCJicyI6ImMtTUs0MUwzeUM5WEtNbFh5TWtzUzFYSXljOUxUeTFTS004c3lWQW9Ma2xNVDFVd1VVaE96RXRPTGJLWGVCOXNwQ0dsbGtHVWFpNG5MdG53ak1RU2hjU2lWSVdTRENET0wxQXdWUWhKVFZFb1NjekpMcmFYbUJab0pDY2xVNDZwcGdTbWhzdVBTOWs1TVU4aFVhRWd0YWc0UHc5aUQ4UjhoUDMyRW50c2pGU2tsSklKcXVTSzQ5SUd1d25vX09MRVNqQ1ZuNXVhbjVlSzNiODdXWXgwcExUS2lkWWh3QWdBIiwiaWQiOiJmY19janVDYU9YZUpfX1VwODRQOFl5TGlRd18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVdYZFVVME5WUmxCeWNrZGxWSGh6VEVSc2VURkhSMlUyYm1SS0xVaDZUMlZYV1VWWGJITjZlR3cwYjNOZmNFNDJSREp1UVdwUlZrODJSREoyT0dWb1UzbFpRazQyYVRoYUxXVk5UbEpVWnpsalZsQnJhMFZuWVd0dFVSSVhZMnAxUTJGUFdHVktYMTlWY0RnMFVEaFplVXhwVVhjYUlrRkdUVUZIUjNBdGJFNU5SbTR4UkdKME9HZzVVMFU1VEhKbGNWZEhRbkJJTmxFIiwiZmN2IjoiMyIsImVpIjoiY2p1Q2FPWGVKX19VcDg0UDhZeUxpUXciLCJxYyI6IkNoTjBaV1FnZEdGc2EzTWdiMjRnWTJGdVkyVnlFQUFZQVgxY1Jpb18iLCJxdWVzdGlvbiI6IldoYXQgdG8gc2F5IHRvIHNvbWVvbmUgd2l0aCBzdGFnZSA0IGNhbmNlcj8iLCJsayI6ImM1UFNLczlJTEZFb3lWY29UcXdFVV9tNXFmbDVxUXJsbVNVWkNzVWxpZW1wQ2lZS3lZbDV5YWxGQUEiLCJicyI6ImMtTUs0MUwzeUM5WEtNbFh5TWtzUzFYSXljOUxUeTFTS004c3lWQW9Ma2xNVDFVd1VVaE96RXRPTGJLWGVCOXNwQ0dsbGtHVWFpNG5MdG53ak1RU2hjU2lWSVdTRENET0wxQXdWUWhKVFZFb1NjekpMcmFYbUJab0pDY2xVNDZwcGdTbWhzdVBTOWs1TVU4aFVhRWd0YWc0UHc5aUQ4UjhoUDMyRW50c2pGU2tsSklKcXVTSzQ5SUd1d25vX09MRVNqQ1ZuNXVhbjVlSzNiODdXWXgwcExUS2lkWWh3QWdBIiwiaWQiOiJmY19janVDYU9YZUpfX1VwODRQOFl5TGlRd18yIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How we're fighting cancer",
+      "link": "https://www.ted.com/playlists/63/a_cure_for_cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ted.com/playlists/63/a_cure_for_cancer&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECBsQAQ",
+      "displayed_link": "https://www.ted.com › playlists › a_cure_for_cancer",
+      "thumbnail": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaac63cf41550fc5df2f7177617a9fe72a.jpeg",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda5e1e3d8bf3af4c49f0e42328cf9ed24c.png",
+      "snippet": "Talks from researchers who've dedicated their lives and careers to understanding cancer -- and maybe, someday, ending it.",
+      "snippet_highlighted_words": [
+        "Talks",
+        "cancer"
+      ],
+      "source": "TED"
+    },
+    {
+      "position": 2,
+      "title": "Ideas about Cancer",
+      "link": "https://www.ted.com/topics/cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ted.com/topics/cancer&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECBcQAQ",
+      "displayed_link": "https://www.ted.com › topics › cancer",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdadabc3d4b3d1956eb6a0377e5d6f65c81.png",
+      "snippet": "Understanding cancer, preventing it -- and ending it. Watch these TED Talks about the latest science and technology in the fight against cancer.",
+      "snippet_highlighted_words": [
+        "Understanding cancer, preventing it -- and ending it"
+      ],
+      "source": "TED"
+    },
+    {
+      "position": 3,
+      "title": "Why do people get cancer, how it spreads, and how to prevent ...",
+      "link": "https://www.youtube.com/watch?v=Xmpp6p_hhjw",
+      "displayed_link": "1.9M+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdab880c0fcf7336b77a119a1fc745030c0.jpeg",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda7840f5844744fb9b46d8674845d79be2.png",
+      "snippet": "Why do people get cancer, how it spreads, and how to prevent it? | Sendurai Mani | TEDxProvidence 1.8M views 1 year ago",
+      "duration": "16:06",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 4,
+      "title": "Eric Tran: A breakthrough in eradicating cancer",
+      "link": "https://www.ted.com/talks/eric_tran_a_breakthrough_in_eradicating_cancer?language=en",
+      "displayed_link": "https://www.ted.com · Sep 20, 2022",
+      "thumbnail": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda6299ee9899f487fb32cca9d7e379b2ef.jpeg",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda7e581dd3f6f7b67f4580f1d5cdf356ce.png",
+      "snippet": "Dr. Eric Tran and his incredible team are pioneering breakthroughs in cancer immunotherapy - a \"global first\" in tumor reduction efforts.",
+      "duration": "14:12",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 5,
+      "title": "How do cancer cells behave differently from healthy ones?",
+      "link": "https://www.ted.com/talks/george_zaidan_and_charles_morton_how_do_cancer_cells_behave_differently_from_healthy_ones?language=en",
+      "displayed_link": "https://www.ted.com · Feb 13, 2020",
+      "thumbnail": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda8c0b1b7a837f4416e40444251a6daef5.jpeg",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda7c3094688e90fc18dc613c697859cb6e.png",
+      "snippet": "How do cancer cells grow? How does chemotherapy fight cancer (and cause negative side effects)? The answers lie in cell division.",
+      "duration": "3:39",
+      "source": "TED"
+    },
+    {
+      "position": 6,
+      "title": "A \"living drug\" that could change the way we treat cancer",
+      "link": "https://www.ted.com/talks/carl_june_a_living_drug_that_could_change_the_way_we_treat_cancer?language=en",
+      "displayed_link": "https://www.ted.com · Sep 10, 2019",
+      "thumbnail": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda2705218da3d6296aaf9a24f2e9e0a1a8.jpeg",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdac93ed2cc90737e6a5072482c7337cf37.png",
+      "snippet": "Carl June is the pioneer behind CAR T-cell therapy: a groundbreaking cancer treatment that supercharges part of a patient's own immune ...",
+      "duration": "15:00",
+      "source": "TED"
+    },
+    {
+      "position": 7,
+      "title": "My life started when they said it was over",
+      "link": "https://www.ted.com/talks/elin_kjos_my_life_started_when_they_said_it_was_over?language=en",
+      "displayed_link": "https://www.ted.com · May 17, 2022",
+      "thumbnail": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdacc5bd3582a674d19b296f5248e8593e9.jpeg",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdab263e6127238f307764d8a957f9fd18c.png",
+      "snippet": "Elin Kjos is a sport's trainer who was diagnosed with incurable lung cancer two years ago. She was given less than a year to live and has ...",
+      "duration": "12:49",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 8,
+      "title": "7 talks with insights on breast cancer",
+      "link": "https://www.ted.com/playlists/195/7_talks_with_insights_on_breas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ted.com/playlists/195/7_talks_with_insights_on_breas&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECCMQAQ",
+      "displayed_link": "https://www.ted.com › playlists › 7_talks_with_insights...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda96a2a13e1c27c553c63cedd2dc94faef.png",
+      "snippet": "Breast cancer is the most common cancer among women worldwide. Listen as cancer researchers, doctors, technologists and, oh, a dancer, ...",
+      "snippet_highlighted_words": [
+        "Breast cancer is the most common cancer among women worldwide"
+      ],
+      "source": "TED"
+    },
+    {
+      "position": 9,
+      "title": "Suleika Jaouad: What almost dying taught me about living",
+      "link": "https://www.ted.com/talks/suleika_jaouad_what_almost_dying_taught_me_about_living?language=en",
+      "displayed_link": "https://www.ted.com · Jun 19, 2019",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4iNUae4iGCiUoYGHV9nH3Xtdn4NyAZaOQBNwFuZQTfoGR&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda7ec435364662acfb72d767d72b53730d.png",
+      "snippet": "\"The hardest part of my cancer experience began once the cancer was gone,\" says author Suleika Jaouad. In this fierce, funny, wisdom-packed ...",
+      "duration": "17:13",
+      "source": "TED"
+    },
+    {
+      "position": 10,
+      "title": "A breakthrough in eradicating cancer | Eric Tran | TEDxPortland",
+      "link": "https://www.youtube.com/watch?v=LIvVMIcRTew",
+      "displayed_link": "353.5K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP41rZVVHC1qus2ha8Dwm-g92xNxMRc2SCE5hwX2mjZZ-r&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdafb1b063d72963c139824a738f5927c57.png",
+      "snippet": "Dr. Eric Tran and his incredible team are pioneering breakthroughs in cancer immunotherapy - a \"global first\" in tumor reduction efforts.",
+      "duration": "14:12",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 11,
+      "title": "Medicine: Rethinking Cancer",
+      "link": "https://www.ted.com/pages/medicine-rethinking-cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ted.com/pages/medicine-rethinking-cancer&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCMEBEAE",
+      "displayed_link": "https://www.ted.com › pages › medicine-rethinking-can...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda1b17332a47a70c0ffffcaa2d11d49d00.png",
+      "snippet": "In this course, you'll question fundamental concepts about what cancer is and rethink how cancer research should be conducted.",
+      "snippet_highlighted_words": [
+        "fundamental concepts about what cancer is"
+      ],
+      "source": "TED"
+    },
+    {
+      "position": 12,
+      "title": "Priyanka Gogna: Cancer Prevention - No Quick Fix",
+      "link": "https://www.ted.com/talks/priyanka_gogna_cancer_prevention_no_quick_fix",
+      "displayed_link": "https://www.ted.com · Apr 23, 2019",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2-r57NvFkc90D16UYCJ4TwogMvl9W9HJOecmhFzna8t_m&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda969c2415c749786403aa9c952ee585de.png",
+      "snippet": "Cancer prevention represents our best bet at reducing the burden of cancer in the population not treatment.",
+      "duration": "10:30",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSp_oj3SxTPzFGJx6UA6pMXo6Y2JSVVAUMhzg",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 13,
+      "title": "How To Talk To Someone With Cancer | Katie Deming ...",
+      "link": "https://www.youtube.com/watch?v=vrZef13BSpU",
+      "displayed_link": "40.6K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6vB1PNBtXqzu-Muq9qqLFLbr8QMwBX513h8yJJPsxagHm&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdacf4f95640337bd25b883b4e181a60af7.png",
+      "snippet": "My cancer is going away, and I don't know if it will come back. I have decided I will not live in fear. It is all a matter of perspective. My ...",
+      "duration": "12:57",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 14,
+      "title": "A cancer survivor talks about the one thing that saved her life",
+      "link": "https://www.ted.com/talks/jenny_mulks_a_cancer_survivor_talks_about_the_one_thing_that_saved_her_life",
+      "displayed_link": "https://www.ted.com · Mar 1, 2019",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKuO7koKXNGl2En1fJg2jtEaZmvPL-gYqCjOguvlw1u9JH&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda01f217ecb43758866014a0cfba78c7a0.png",
+      "snippet": "A cancer survivor talks about the one thing that saved her life. Jenny Mulks | TEDxFlowerMound • February 2019",
+      "duration": "14:03",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR966ThhvX4wlTL_XeqjxQ1vPJN95vjDEZqqg",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 15,
+      "title": "Jim McCarthy: What Cancer Taught Me About Happiness",
+      "link": "https://www.ted.com/talks/jim_mccarthy_what_cancer_taught_me_about_happiness",
+      "displayed_link": "https://www.ted.com · Feb 6, 2019",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbs-Ml7yuR16HUB4leN6HKCdnXOcVajWG5qVD61gd2KAJt&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdacd74fee966829c8cefff4763df1a0ffb.png",
+      "snippet": "Jim McCarthy had a Stanford MBA and a successful career in Silicon Valley. But a cancer diagnosis suddenly changed his life, forcing him to ...",
+      "duration": "6:16",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTX6Wjc1ODo7LVUz1RPa74qQTGVHH-5Ir6gEA",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 16,
+      "title": "The Secret You Need to Know When Facing A Cancer ...",
+      "link": "https://www.youtube.com/watch?v=pJt6DGx_bhc",
+      "displayed_link": "3.6K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylcSnpMxOenu12ahYNkF-0BzfcY_I9YJmSM9CxVVquw3S&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdad64226520d998722e394938f810a3f21.png",
+      "snippet": "There's a good chance you or someone you love will be faced with a cancer diagnosis in their lifetime. Join wellness expert, Kelsey Carignan ...",
+      "duration": "11:20",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTWPJds1Yr5y-ZnleUx_uxnAg681MVY4_gd7Q",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 17,
+      "title": "Dr. Sharlene Gill: How to Flip the Script on Cancer",
+      "link": "https://www.ted.com/talks/dr_sharlene_gill_how_to_flip_the_script_on_cancer",
+      "displayed_link": "https://www.ted.com · Apr 20, 2022",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmT5hmACmyFvkSd4L8S7b_j0IlueoJNcVyxu2Z2kx3gwpy&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda897848f0b06a3356156f1d98e91a4071.png",
+      "snippet": "We will all likely be touched by cancer in one form or another – it's a scary reality. Dr. Sharlene Gill, a Vancouver-based cancer ...",
+      "duration": "12:50",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQFxcU9hJh0Cf57Q8I0tXcfNOGTKIHzPFI9DQ",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 18,
+      "title": "Can we eat to starve cancer? - William Li",
+      "link": "https://ed.ted.com/lessons/can-we-eat-to-starve-cancer-william-li",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ed.ted.com/lessons/can-we-eat-to-starve-cancer-william-li&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCLIBEAE",
+      "displayed_link": "https://ed.ted.com › lessons › can-we-eat-to-starve-canc...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdae1685103dbd6643544bc5fbc46190755.png",
+      "snippet": "William Li presents a new way to think about treating cancer and other diseases: anti-angiogenesis, preventing the growth of blood vessels that feed a tumor.",
+      "snippet_highlighted_words": [
+        "William Li presents a new way to think about treating cancer"
+      ],
+      "source": "TED-Ed"
+    },
+    {
+      "position": 19,
+      "title": "Is the cure for cancer already inside us? | Dr. Shana Kelley ...",
+      "link": "https://www.youtube.com/watch?v=3_ZBBGbbgZY",
+      "displayed_link": "50.9K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZRiKpEfXNpmYrHkecButugQMdyiO81VfLpifgtvHS7gQ&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda36cb68962e0aaead13f4c55944bc8eb4.png",
+      "snippet": "Using Your Own Body To Fight Cancer | Wesley Wilson | TEDxUWA · Starving cancer away | Sophia Lunt | TEDxMSU · Finally, some good news about ...",
+      "duration": "14:59",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 20,
+      "title": "Survivor's wisdom | TED Talks",
+      "link": "https://www.ted.com/playlists/330/survivor_s_wisdom",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ted.com/playlists/330/survivor_s_wisdom&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECCYQAQ",
+      "displayed_link": "https://www.ted.com › playlists › survivor_s_wisdom",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda7e49c53e59c6a7eb21ae10ad3be60ae6.png",
+      "snippet": "Survivor's wisdom. Powerful, perspective-shifting talks on what it means to live courageously. Watch now · Add to list · Yes, I survived cancer.",
+      "snippet_highlighted_words": [
+        "Powerful, perspective-shifting talks on what it means to live courageously"
+      ],
+      "source": "TED"
+    },
+    {
+      "position": 21,
+      "title": "Don't Humour the Tumour - Beating cancer with science and ...",
+      "link": "https://www.ted.com/talks/david_downs_don_t_humour_the_tumour_beating_cancer_with_science_and_optimism",
+      "displayed_link": "https://www.ted.com · Sep 23, 2019",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpr0a9QUNnfsGU8hLLbhWedX5_lE0gEs_rMRJlhLuwymkv&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaa05fb3926046542e59ca924358900fc7.png",
+      "snippet": "Ex-comedian, actor, business person and now genetically modified organism David Downs shares his hilarious account of his cancer journey.",
+      "duration": "16:17",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRx4QMRX9eFAnzwMJtSC9s6VnT870xirS272w",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 22,
+      "title": "Paula Hammond: Superweapon Against Cancer - Full TED ...",
+      "link": "https://www.pbssocal.org/shows/ted-talks/clip/ted-talks-science-wonder-paula-hammond",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pbssocal.org/shows/ted-talks/clip/ted-talks-science-wonder-paula-hammond&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECD4QAQ",
+      "displayed_link": "https://www.pbssocal.org › shows › ted-talks › clip › te...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdad8392e924b41e94446e49a3fceb51b5d.png",
+      "snippet": "Cancer is a very clever, adaptable disease. To defeat it, says medical researcher and educator Paula Hammond, we need a new and powerful mode of attack.",
+      "snippet_highlighted_words": [
+        "Cancer is a very clever, adaptable disease"
+      ],
+      "source": "PBS SoCal"
+    },
+    {
+      "position": 23,
+      "title": "TED Talks - X",
+      "link": "https://x.com/TEDTalks/status/1146491227040342018",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/TEDTalks/status/1146491227040342018&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECE8QAQ",
+      "displayed_link": "520+ likes · 6 years ago",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda7f9907ffa3c5888dfeb47a767a18d9ba.png",
+      "snippet": "\"The hardest part of my cancer experience began once the cancer was gone.\" Watch @suleikajaouad's TED Talk on the myth of the divide between ...",
+      "snippet_highlighted_words": [
+        "The hardest part of my cancer experience began once the cancer was gone"
+      ],
+      "source": "X · TEDTalks"
+    },
+    {
+      "position": 24,
+      "title": "The Cure of Cancer is Not More Drugs!",
+      "link": "https://www.ted.com/talks/dr_jimmy_lin_the_cure_of_cancer_is_not_more_drugs",
+      "displayed_link": "https://www.ted.com · Jun 13, 2018",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNa2A8q40f0PgDfD3DVOOBL50EQnwD0XPyqRn65LKUZque&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda04f1263db94d176acf5bf03f7559ffef.png",
+      "snippet": "Despite popular belief, winning the war on cancer is not more and better drugs. Chemotherapies are still front line in many cancers and ...",
+      "duration": "10:18",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSLr7Shm62FD9zUxCDLqepnHoVlHKQFLuoIvQ",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 25,
+      "title": "My Friends Cut Me Off Because I Have Cancer: Cancer ...",
+      "link": "https://www.youtube.com/watch?v=fV-xCzA-13c",
+      "displayed_link": "26K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvUH2VJquUwccQz66pdr5Ryqb1dRNQoxvbpEN76n0Nb4Fy&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaafe1e76c6ef4c7b7976b9c1984601156.png",
+      "snippet": "In her talk, she discusses the phenomenon of 'cancer ghosting' and how the experiences she's faced during cancer treatment has helped her ...",
+      "duration": "15:09",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 26,
+      "title": "Is there a link between cancer and heart disease?",
+      "link": "https://podcasts.apple.com/us/podcast/is-there-a-link-between-cancer-and-heart/id160904630?i=1000580450180",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://podcasts.apple.com/us/podcast/is-there-a-link-between-cancer-and-heart/id160904630%3Fi%3D1000580450180&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCIwBEAE",
+      "displayed_link": "https://podcasts.apple.com › podcast › is-there-a-link-be...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda344a92b68eb0b5d23f618b20a169b54e.png",
+      "date": "Sep 23, 2022",
+      "snippet": "Cardiologist Nicholas Leeper digs into emerging scientific research on the link between the world's two leading causes of death, heart disease ...",
+      "source": "Apple Podcasts"
+    },
+    {
+      "position": 27,
+      "title": "Search results for cancer",
+      "link": "https://ed.ted.com/search?qs=cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ed.ted.com/search%3Fqs%3Dcancer&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCIsBEAE",
+      "displayed_link": "https://ed.ted.com › search › qs=cancer",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda817a1479ced18f71e6cdacb6e6f44bb7.png",
+      "snippet": "Life Sciences · How does cancer spread through the body? Lesson duration 04:43. Cancer usually begins with one tumor in a specific area of the body.",
+      "snippet_highlighted_words": [
+        "How does cancer spread through the body"
+      ],
+      "source": "TED-Ed"
+    },
+    {
+      "position": 28,
+      "title": "3 TED Talks: On Suicide, Processing Grief, and Life After ...",
+      "link": "https://healingbrave.com/blogs/all/ted-talks-suicide-grief-living-again",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://healingbrave.com/blogs/all/ted-talks-suicide-grief-living-again&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCJIBEAE",
+      "displayed_link": "https://healingbrave.com › blogs › all › ted-talks-suicide-...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda677d49b96b6000d85fb2baf395302ba4.png",
+      "date": "Feb 23, 2021",
+      "snippet": "3 TED Talks: On Suicide, Processing Grief, and Life After Cancer · 1. The bridge between suicide and life · 2. We don't \"move on\" from grief.",
+      "snippet_highlighted_words": [
+        "1. The bridge between suicide and life"
+      ],
+      "source": "Healing Brave"
+    },
+    {
+      "position": 29,
+      "title": "TED Talks | Paula Hammond: Superweapon Against Cancer ...",
+      "link": "https://www.pbs.org/video/ted-talks-science-wonder-paula-hammond/",
+      "displayed_link": "https://www.pbs.org · Mar 30, 2016",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWix5fw2F5YP6d6Z-9memgOSkCevehkF9OT1ldk__PHUX&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaf66e4dbd83d9f9b708818fe44d8e32a5.png",
+      "snippet": "Paula Hammond: Superweapon Against Cancer - Full TED Talk ... Watch this clip through March 29, 2021. Cancer is a very clever, adaptable disease. To defeat it, ...",
+      "duration": "10:43",
+      "source": "PBS"
+    },
+    {
+      "position": 30,
+      "title": "Our wonderful Prostate Cancer Awareness Abassador ...",
+      "link": "https://www.facebook.com/MarieKeatingFoundation/posts/our-wonderful-prostate-cancer-awareness-abassador-gerry-did-his-first-ted-talk-y/987634820059218/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/MarieKeatingFoundation/posts/our-wonderful-prostate-cancer-awareness-abassador-gerry-did-his-first-ted-talk-y/987634820059218/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCLkBEAE",
+      "displayed_link": "4 reactions · 8 months ago",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda2ef6b48947ca974b788b16b3ac64f7a1.png",
+      "snippet": "Our wonderful Prostate Cancer Awareness Abassador Gerry did his first Ted Talk! You can see it here. Prostate, Piddling and Passion.",
+      "snippet_highlighted_words": [
+        "Prostate Cancer Awareness Abassador Gerry"
+      ],
+      "source": "Facebook · The Marie Keating Foundation"
+    },
+    {
+      "position": 31,
+      "title": "Shekinah Elmore: The courage to live with radical uncertainty",
+      "link": "https://www.ted.com/talks/shekinah_elmore_the_courage_to_live_with_radical_uncertainty?language=en",
+      "displayed_link": "https://www.ted.com · Jul 1, 2020",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSH4cHM_lmHCjDrgzWrcEU3-iUZ_pijJ8uVHxW-UhKopUr&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda1c749c69f54b8181c80538ab046efddc.png",
+      "snippet": "When your future is uncertain, how do you keep moving forward? In this courageous talk, oncologist and cancer survivor Shekinah Elmore ...",
+      "duration": "15:43",
+      "source": "TED"
+    },
+    {
+      "position": 32,
+      "title": "What Cancer Taught Me About ME | Rachel Mintz ...",
+      "link": "https://www.youtube.com/watch?v=QgcgoCbd5vM",
+      "displayed_link": "890+ views · 9 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOs-9PvWJEaMogoE0leDId_EDXEPY_4t_JfP2Y65ScbOr&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda9fc72d967e6e47295ca5ee3d37380e7f.png",
+      "snippet": "Rachel shares her journey through cancer survival, emphasizing the power of establishing core values as unwavering guideposts in shaping ...",
+      "duration": "16:52",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ434IfZTmQwL-FMWfSSTUqARqnUt29zyL1DA",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 33,
+      "title": "How do doctors determine what stage of cancer you have?",
+      "link": "https://ed.ted.com/lessons/what-do-cancer-stages-actually-mean-hyunsoo-joshua-no-and-trudy-wu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ed.ted.com/lessons/what-do-cancer-stages-actually-mean-hyunsoo-joshua-no-and-trudy-wu&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCKYBEAE",
+      "displayed_link": "https://ed.ted.com › lessons › what-do-cancer-stages-act...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda93e4f8fd2aaa10c19889bd86515a75f3.png",
+      "date": "Jun 25, 2024",
+      "snippet": "How do doctors determine what stage of cancer you have? - Hyunsoo Joshua No and Trudy Wu. 703,501 Views. 683 Questions Answered. TEDEd Animation ...",
+      "snippet_highlighted_words": [
+        "How do doctors determine what stage of cancer you have"
+      ],
+      "source": "TED-Ed"
+    },
+    {
+      "position": 34,
+      "title": "Using Nano to Treat Cancer: TED Talk for TV",
+      "link": "https://alum.mit.edu/slice/using-nano-treat-cancer-ted-talk-tv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alum.mit.edu/slice/using-nano-treat-cancer-ted-talk-tv&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCMMBEAE",
+      "displayed_link": "https://alum.mit.edu › Alumni Life",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdad68d2694deb655fc5bd212b3600f0a67.png",
+      "date": "Apr 6, 2016",
+      "snippet": "There's a new weapon for fighting cancer and it's about one one-hundredth the size of a human hair. This was the message of Paula Hammond '84 ...",
+      "snippet_highlighted_words": [
+        "There's a new weapon for fighting cancer"
+      ],
+      "source": "MIT Alumni Association"
+    },
+    {
+      "position": 35,
+      "title": "Why is it so hard to cure cancer? - Kyuson Yun",
+      "link": "https://www.youtube.com/watch?v=h2rR77VsF5c",
+      "displayed_link": "7M+ views · 7 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_NfUYl5FHvCY2ejeQfBVdod9qVqqSnUnlAlSO76KLtjA&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdafefe3ab39bceb8295d018c79ce045f8e.png",
+      "snippet": "Can we eat to starve cancer? - William Li. TED-Ed · 3.5M views ; Why Cancer is So Hard to Kill. Institute of Human Anatomy · 2.3M views ; The ...",
+      "duration": "5:23",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTVcESxMrjk81e2CA9Td2VoEDicewpKWj0rXg",
+      "source": "YouTube · TED-Ed"
+    },
+    {
+      "position": 36,
+      "title": "What if a simple blood test could detect cancer? | Hani ...",
+      "link": "https://open.spotify.com/episode/39sXupdcXXYwkp3maOAXt9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://open.spotify.com/episode/39sXupdcXXYwkp3maOAXt9&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECCgQAQ",
+      "displayed_link": "https://open.spotify.com › episode",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda45e1d7f687571b31fc3f5c0314e68b4f.png",
+      "date": "Jan 29, 2024",
+      "snippet": "Listen to this episode from TED Talks Daily on Spotify. Catching cancer at its earliest stages saves lives. But in a body made up of ...",
+      "snippet_highlighted_words": [
+        "Catching cancer at its earliest stages saves lives"
+      ],
+      "source": "Spotify - Web Player: Music for everyone"
+    },
+    {
+      "position": 37,
+      "title": "Cancer: Who Lives? Who dies? | Ted Goldstein Ph.D ...",
+      "link": "https://www.youtube.com/watch?v=p5TLbO1wvSM",
+      "displayed_link": "183K+ views · 6 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJU9ycNSC3LLhXjYab3rTdf6gl7L4qT4DjL_gjjfVKlO7E&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda779ad30c3eeea7f7b8cd687554ca4610.png",
+      "snippet": "Ted Goldstein is a Silicon Valley tech executive turned cancer researcher. After a successful career and an instrumental role as top ...",
+      "duration": "16:04",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTNG_74N9dAsIt-Bgnx6NohqhcYk9vhjCVBBA",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 38,
+      "title": "Catching cancer at its earliest stages saves lives",
+      "link": "https://www.tiktok.com/@tedtoks/video/7349310361713020206",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40tedtoks/video/7349310361713020206&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECCQQAQ",
+      "displayed_link": "16.8K+ views · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda8a1c77cf114905699d7847810764dd9f.png",
+      "snippet": "In his TED Talk, biomedical researcher Hani Goodarzi explains how pairing these RNAs with emerging AI tools could allow doctors to screen catch ...",
+      "snippet_highlighted_words": [
+        "TED Talk"
+      ],
+      "source": "TikTok · TED Talks"
+    },
+    {
+      "position": 39,
+      "title": "David Octavio Gandell: Surviving Your Cancer",
+      "link": "https://www.ted.com/talks/david_octavio_gandell_surviving_your_cancer",
+      "displayed_link": "https://www.ted.com · May 29, 2019",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRED2hr-wv6QOPrTUioOU_Fu8SBYuXbJ-wJU_tgb7C3I8fK&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda5a48d09ad827f7e817eca416c2663052.png",
+      "snippet": "A two-time cancer survivor and inspirational LifeChanger, David Octavio Gandell is an award-winning Life Coach, published author, TV host, ...",
+      "duration": "14:02",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTtVs14DKZAFzn16mxdsIIB07azMtEK6rdFrQ",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 40,
+      "title": "Ted Talks Cancer",
+      "link": "https://www.youtube.com/playlist?list=PLJ4_F70raXW47q_kAgPOArceNp06JYfiX",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/playlist%3Flist%3DPLJ4_F70raXW47q_kAgPOArceNp06JYfiX&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECDsQAQ",
+      "displayed_link": "170+ followers",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdafa8ed7deeb17c6972b04df049d5a6796.png",
+      "snippet": "Ted Talks Cancer · Can we eat to starve cancer? - William Li · My survival story -- what I learned from having cancer | Martin Inderbitzin | TEDxZurich · The ...",
+      "snippet_highlighted_words": [
+        "Ted Talks Cancer"
+      ],
+      "source": "YouTube · CancerIS"
+    },
+    {
+      "position": 41,
+      "title": "Can we prevent breast cancer? | Lester Barr | TEDxWarrington",
+      "link": "https://www.youtube.com/watch?v=U50W581jSKE",
+      "displayed_link": "2.1K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV9UKwoGWl4NyIw83r--RSbjgQyefrz25IeueqwDgTNdtV&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdab0b31f9ec0780b446aad4a14334b5a06.png",
+      "snippet": "NOTE FROM TED: Research around breast cancer risk and prevention remains ongoing. For more about the data presented in this talk see here: ...",
+      "duration": "15:59",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRddW0eC5KDueHxlJj4T7MYFmclQGzHjFkAJg",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 42,
+      "title": "Cure for Unpredictable Nature of Cancer",
+      "link": "https://embed.ted.com/talks/dr_rohan_chandra_gatti_cure_for_unpredictable_nature_of_cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://embed.ted.com/talks/dr_rohan_chandra_gatti_cure_for_unpredictable_nature_of_cancer&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECE0QAQ",
+      "displayed_link": "https://embed.ted.com › talks › dr_rohan_chandra_gatti...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda347f75b6b2feef888c3933d0fe8d96b7.png",
+      "snippet": "Play Pause.",
+      "source": "TED Talks"
+    },
+    {
+      "position": 43,
+      "title": "Alexia Funes: Thank you, cancer!",
+      "link": "https://www.ted.com/talks/alexia_funes_gracias_cancer?language=en",
+      "displayed_link": "https://www.ted.com · Apr 26, 2022",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3aMxoIHS8T6yjSGO52J_lnsXQHz39ZR5xEu0lFanGK7u6&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaea10045c2c0772c6d864a4f7b5a780e3.png",
+      "snippet": "Alexia tells us about how the worst news became the most decisive moment in her life. Cancer was hard, but it opened her eyes to see good ...",
+      "duration": "11:56",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQJh9xmoTglysvhh9FBRlAiIZYccO-a-nw9tQ",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 44,
+      "title": "Experiments that point to a new understanding of cancer",
+      "link": "https://embed.ted.com/talks/mina_bissell_experiments_that_point_to_a_new_understanding_of_cancer?language=mk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://embed.ted.com/talks/mina_bissell_experiments_that_point_to_a_new_understanding_of_cancer%3Flanguage%3Dmk&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECHIQAQ",
+      "displayed_link": "https://embed.ted.com › talks › mina_bissell_experimen...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda577ab9b8a455c4a18d3d03de88a861c2.png",
+      "snippet": "TED is supported by ads and partners 00:00. Visit advertiser. Play Pause. Mute Unmute. Enable captions Disable captions.",
+      "snippet_highlighted_words": [
+        "TED"
+      ],
+      "source": "TED Talks"
+    },
+    {
+      "position": 45,
+      "title": "A \"living drug\" that could change the way we treat cancer ...",
+      "link": "https://www.youtube.com/watch?v=7qWvVcBZzRg",
+      "displayed_link": "124.6K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcKFnpy7pnX2SNN8OYH6Jbn0-s2vdLkEi6Cm52FhyM6H2S&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaa577bb0ed737b7bf66dbf25ec1fc5069.png",
+      "snippet": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized Talk recommendations and more.",
+      "duration": "15:10",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQVQrB8w8neHehfFttjD4PgowhtqyFmrXSyEQ",
+      "source": "YouTube · TED"
+    },
+    {
+      "position": 46,
+      "title": "The Myth of Early Detection of Cancer | TED Talk Embed",
+      "link": "https://embed.ted.com/talks/jill_wruble_the_myth_of_early_detection_of_cancer_jan_2018",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://embed.ted.com/talks/jill_wruble_the_myth_of_early_detection_of_cancer_jan_2018&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECE4QAQ",
+      "displayed_link": "https://embed.ted.com › talks › jill_wruble_the_myth_o...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda8ae0723b3b4187f350ec4d5f66a48f24.png",
+      "snippet": "Play Pause.",
+      "source": "TED"
+    },
+    {
+      "position": 47,
+      "title": "TED Talks",
+      "link": "https://twitter.com/TEDTalks/status/939538912644599808",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/TEDTalks/status/939538912644599808&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECG4QAQ",
+      "displayed_link": "210+ likes · 7 years ago",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdabd7f5a26406c425d8a76f2522f868e8a.png",
+      "snippet": "The surprising link between cancer and the sugar coating on your cells: https://t.co/wONyj8P0hP.",
+      "snippet_highlighted_words": [
+        "cancer"
+      ],
+      "source": "X · TEDTalks"
+    },
+    {
+      "position": 48,
+      "title": "What If a Simple Blood Test Could Detect Cancer? | Hani ...",
+      "link": "https://www.youtube.com/watch?v=A3WrAEm3PXU",
+      "displayed_link": "55.8K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTonE-oQKMv50qEj8vNCd4xUaCiJvAu9t_NT982lt27zXeq&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda45363bd713424d022785c021130382ff.png",
+      "snippet": "Catching cancer at its earliest stages saves lives. But in a body ... / tedtoks The TED Talks channel features talks, performances and ...",
+      "duration": "7:04",
+      "source": "YouTube · TED"
+    },
+    {
+      "position": 49,
+      "title": "Brittany Bychkovsky: Cancer Genetics and Prevention",
+      "link": "https://www.ted.com/talks/brittany_bychkovsky_cancer_genetics_and_prevention",
+      "displayed_link": "https://www.ted.com · Dec 17, 2021",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmAmAFyaf3yE7n_mCwn--l-vrr71ML165tsdkCwriSaK7u&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda40862b64dd4e50ac0bf30c5a1f4ca2b6.png",
+      "snippet": "Dr. Bychkovsky reflects on her sister's diagnosis and how the experiences has affected her work in cancer prevention and early detection.",
+      "duration": "12:09",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRRYLXabbXKhWR8wkODTsT9d7I0JDmbKTpufg",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 50,
+      "title": "Usuària:Jane023/TED talks - Viquipèdia, l'enciclopèdia lliure",
+      "link": "https://ca.wikipedia.org/wiki/Usu%C3%A0ria:Jane023/TED_talks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ca.wikipedia.org/wiki/Usu%25C3%25A0ria:Jane023/TED_talks&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECHMQAQ",
+      "displayed_link": "https://ca.wikipedia.org › wiki › TED_talks",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda434a5fd3df87ab6ecd5cbc42e932d143.png",
+      "snippet": "Ananda Shankar Jayant: Fighting cancer with dance · Ananda Shankar Jayant · TEDIndia 2009, 2009-11-12, 888, Q23000364 · Anant Agarwal: Why massive open online ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "TEDIndia"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 51,
+      "title": "Lessons from my dad's fight with cancer | Kendall Ohlemacher ...",
+      "link": "https://www.youtube.com/watch?v=8-Sjr5JfO0g",
+      "displayed_link": "870+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD5emBF2Y-v0gKRQ5ia0DWMbKV0vjwgXwSxW4qQa97WCNA&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda17b5fcb3dbd432e6d415832a7da75cdb.png",
+      "snippet": "... cancer in 2016, is the reason she is who she is today. Losing him ... How to talk to the worst parts of yourself | Karen Faith | TEDxKC.",
+      "duration": "11:58",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTAHWyLE-z9kPQyrTZNjsd3q7bl8v4KXDls1g",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 52,
+      "title": "How does chemotherapy work? - Hyunsoo Joshua No",
+      "link": "https://ed.ted.com/lessons/how-does-chemotherapy-work-hyunsoo-joshua-no",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ed.ted.com/lessons/how-does-chemotherapy-work-hyunsoo-joshua-no&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCI8BEAE",
+      "displayed_link": "https://ed.ted.com › lessons › how-does-chemotherapy-...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda862afcee9fa6c2852a3c8d88321852c6.png",
+      "date": "Dec 5, 2019",
+      "snippet": "... cancer cells and bone marrow both replicate rapidly. Could. ... Educator TalksLearn how educators in your community can give their own TED-style ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "Talks",
+        "TED"
+      ],
+      "source": "TED-Ed"
+    },
+    {
+      "position": 53,
+      "title": "Navigating Grief in the Workplace: TED Talk Insights",
+      "link": "https://www.tiktok.com/@tedtoks/video/7483650307247934763",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40tedtoks/video/7483650307247934763&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCKgBEAE",
+      "displayed_link": "72K+ views · 4 months ago",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda6c2190facf3b782edee90a8d65e38a5d.png",
+      "snippet": "4031 Likes, 25 Comments. TikTok video from TED Talks (@tedtoks): “Discover practical tools from crisis expert Meredith Wilson Parfet on ...",
+      "snippet_highlighted_words": [
+        "TED Talks"
+      ],
+      "source": "TikTok · TED Talks"
+    },
+    {
+      "position": 54,
+      "title": "Aravindan Vasudevan: Capturing cancer cells-Uncovering ...",
+      "link": "https://www.ted.com/talks/aravindan_vasudevan_capturing_cancer_cells_uncovering_secrets_for_treatments",
+      "displayed_link": "https://www.ted.com · Feb 28, 2023",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzD8gaL0BMo1Zqxl2BnZawgqvMcmZp3a_7Za4eBAKesZvU&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdad41fccb64a360fd2fbd2fa70f6e36cfd.png",
+      "snippet": "Describing cancer cell as the 'Perfect Villain' and focusing on how we could help eradicate its conception altogether, Aravindan talks about ...",
+      "duration": "12:02",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTLr8oBkQ-OBoOBMKSUIRDZlntPM_Gf1HKItQ",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 55,
+      "title": "Did you know your body might be inflamed—and showing ...",
+      "link": "https://www.instagram.com/reel/DMdNEgZtyyX/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DMdNEgZtyyX/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCJEBEAE",
+      "displayed_link": "480+ likes · 21 hours ago",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdada2cec76206a636d13f9f4f27bdc655c.png",
+      "snippet": "Dr. Li initially rose to fame in 2010 for his TED Talk, “Can We Eat to Starve Cancer? ... Li talks about colon cancer prevention using Food as ...",
+      "snippet_highlighted_words": [
+        "TED Talk",
+        "Cancer",
+        "cancer"
+      ],
+      "source": "Instagram · drwilliamli"
+    },
+    {
+      "position": 56,
+      "title": "Cancer: Behind the Mask | Carsten Witte | TEDxFreiburg",
+      "link": "https://www.youtube.com/watch?v=FEXuPp2qJsI",
+      "displayed_link": "2.6K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw22jBLL8JXCZWYLJzQY7Dr4lmT26CrfWJ40cppbeyjkil&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda52c45f3ecae055d0683a8b168e1e2705.png",
+      "snippet": "Learn more at https://www.ted.com/tedx. Cancer: Behind the Mask | Carsten Witte | TEDxFreiburg. 2.6K views · 1 year ago ...more. TEDx Talks.",
+      "duration": "17:32",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR1yC6TkMA4GG66fHMK73swuHaIlOMKHWa3EA",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 57,
+      "title": "Women's Care: OBGYN & Expert Gynecologists Near You",
+      "link": "https://www.womenscareobgyn.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.womenscareobgyn.com/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCJABEAE",
+      "displayed_link": "https://www.womenscareobgyn.com",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda00b5109270dd690c233ae848d911da32.png",
+      "snippet": "Women's Care offers OBGYN and women's health care through all phases of life for every woman. Find a provider and schedule an appointment.",
+      "source": "Women’s Care"
+    },
+    {
+      "position": 58,
+      "title": "Rumford making Roundup return",
+      "link": "https://www.dodgeglobe.com/rumford-making-roundup-return/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dodgeglobe.com/rumford-making-roundup-return/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCKcBEAE",
+      "displayed_link": "https://www.dodgeglobe.com › rumford-making-round...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda2568dc29315ef377c30208c62751924e.png",
+      "date": "23 hours ago",
+      "snippet": "Ted HarbinDodge City RoundUp Media A couple decades ago, Justin Rumford ... Bridging the Gap: Late cancer diagnosis in rural cancer care ...",
+      "snippet_highlighted_words": [
+        "Ted",
+        "cancer",
+        "cancer"
+      ],
+      "source": "Dodge City Daily Globe"
+    },
+    {
+      "position": 59,
+      "title": "Leadership Training & Employee Development Platform - The ...",
+      "link": "https://simonsinek.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://simonsinek.com/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCKUBEAE",
+      "displayed_link": "https://simonsinek.com",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaa20bb6c47057fdf0e8f0cbadf2cd0770.png",
+      "snippet": "Leadership development training programs that can enable your employees and build great teams.",
+      "source": "The Optimism Company"
+    },
+    {
+      "position": 60,
+      "title": "10 talks to help you better understand cancer",
+      "link": "https://blog.ted.com/1-talks-to-help-you-better-understand-cancer/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.ted.com/1-talks-to-help-you-better-understand-cancer/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCLMBEAE",
+      "displayed_link": "https://blog.ted.com › 1-talks-to-help-you-better-unders...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdad6f112013d08c32d58b209f1e4a47a8e.png",
+      "date": "Feb 4, 2013",
+      "snippet": "Cancer doesn't just affect humans. In this 2011 TEDGlobal talk, geneticist Elizabeth Murchison explains her work on an alarming contagious ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "TEDGlobal talk"
+      ],
+      "source": "TED Blog"
+    },
+    {
+      "position": 61,
+      "title": "cancer #pretagil #intestino #tumor #saude",
+      "link": "https://www.tiktok.com/@drpedroateixeira/video/7530404955354565894?lang=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40drpedroateixeira/video/7530404955354565894%3Flang%3Den&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCLQBEAE",
+      "displayed_link": "26.8K+ views · 15 hours ago",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaf6913bfbd1909abbec3ceb783ef66fa4.png",
+      "snippet": "... curtidas,Vídeo do TikTok de Dr Pedro Teixeira (@drpedroateixeira): \"#cancer ... TED Talks. 86.4K · recommend-cover . 40.4K · recommend-cover.",
+      "snippet_highlighted_words": [
+        "cancer",
+        "TED Talks"
+      ],
+      "source": "TikTok · Dr Pedro Teixeira"
+    },
+    {
+      "position": 62,
+      "title": "Timothy Cripe: Three must-dos to cure cancer",
+      "link": "https://www.ted.com/talks/timothy_cripe_three_must_dos_to_cure_cancer",
+      "displayed_link": "https://www.ted.com · Dec 12, 2017",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbiYG6z7Np1wrMCIEPa9bCV5H_HAgUqhrIkJgKOS60YZjZ&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaaf4eaefb38dff3320f598016976a461a.png",
+      "snippet": "About TEDx · A new strategy in the war on cancer · A simple new blood test that can catch cancer early · The future of early cancer detection?",
+      "duration": "13:24",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSKvpP0revx0zwMkZOj5iCIkFWvS-8W--OxGA",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 63,
+      "title": "Sangeeta Bhatia",
+      "link": "https://en.wikipedia.org/wiki/Sangeeta_Bhatia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Sangeeta_Bhatia&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCMABEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Sangeeta_Bhatia",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda8cd1620281522e14c1f7d36f165565bd.png",
+      "snippet": "Mehmet Toner. External videos. video icon “This tiny particle could roam your body to find tumors”, Sangeeta Bhatia, TED Talks Live, November 2015. video icon ...",
+      "snippet_highlighted_words": [
+        "TED Talks"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 64,
+      "title": "Sanford Health: Here for all. Here for good.",
+      "link": "https://www.sanfordhealth.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sanfordhealth.org/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCMsBEAE",
+      "displayed_link": "https://www.sanfordhealth.org",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdab455d7708f289c9bfab06e41d1836511.png",
+      "snippet": "We show you what it means to be cared for by an expert breast cancer team. Explore Breast Cancer Care. Previous Next ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "Cancer"
+      ],
+      "source": "Sanford Health"
+    },
+    {
+      "position": 65,
+      "title": "RF | Home | RF",
+      "link": "https://www.rockefellerfoundation.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rockefellerfoundation.org/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCMwBEAE",
+      "displayed_link": "https://www.rockefellerfoundation.org",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdab73ab604d2d4bcc6e34449623e7c0bdb.png",
+      "snippet": "RF TED Talks · Deep Dives · Perspectives Blog · Grantee Impact Stories · RF TED Talks · Deep Dives. Subscribe; Search; Subscribe. facebook; twitter; linkedin ...",
+      "snippet_highlighted_words": [
+        "TED Talks",
+        "TED Talks"
+      ],
+      "source": "The Rockefeller Foundation"
+    },
+    {
+      "position": 66,
+      "title": "How to Flip the Script on Cancer | Dr. Sharlene Gill | TEDxSurrey",
+      "link": "https://www.youtube.com/watch?v=LpZeei82orw",
+      "displayed_link": "139.3K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-QL-7JPmAPo6ZDelYXlAAT69hBAZ8gy4svdqeh1EUdC3&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda5c2f6b8703bb190cb4fb22684295d383.png",
+      "snippet": "... TED conference format but independently organized by a local ... TEDx Talks•711K views.",
+      "duration": "12:50",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQFxcU9hJh0Cf57Q8I0tXcfNOGTKIHzPFI9DQ",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 67,
+      "title": "Warm temperatures and an active-weather pattern ...",
+      "link": "https://www.kttc.com/2025/07/23/warm-temperatures-active-weather-pattern-continues/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kttc.com/2025/07/23/warm-temperatures-active-weather-pattern-continues/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCM0BEAE",
+      "displayed_link": "https://www.kttc.com › 2025/07/23 › warm-temperatur...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda10a0fb0d6225527a99147c8c33967ae6.png",
+      "date": "22 hours ago",
+      "snippet": "Eagles Cancer Telethon · Finding Madeline · Education · Health · Economy ... Ted's Weather Talks · Camera Network · Garden Gallery · Weather ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "Ted's",
+        "Talks"
+      ],
+      "source": "KTTC News"
+    },
+    {
+      "position": 68,
+      "title": "TED | English Listening Exercises",
+      "link": "https://dailydictation.com/exercises/ted-ed",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dailydictation.com/exercises/ted-ed&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECCUQAQ",
+      "displayed_link": "https://dailydictation.com › exercises › ted-ed",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda46ada764ea12e728a466308bb712834f.png",
+      "snippet": "TED. Dive into fascinating topics from science, history, philosophy, and more while improving your English skills. Perfect for English learners who love ...",
+      "snippet_highlighted_words": [
+        "TED"
+      ],
+      "source": "DailyDictation"
+    },
+    {
+      "position": 69,
+      "title": "Cancer Prevention - No Quick Fix",
+      "link": "https://embed.ted.com/talks/priyanka_gogna_cancer_prevention_no_quick_fix",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://embed.ted.com/talks/priyanka_gogna_cancer_prevention_no_quick_fix&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECCIQAQ",
+      "displayed_link": "https://embed.ted.com › talks › priyanka_gogna_cancer...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda5aa595566df89f9468b3798c076c9603.png",
+      "snippet": "Play Pause.",
+      "source": "TED"
+    },
+    {
+      "position": 70,
+      "title": "How do doctors determine what stage of cancer you have?",
+      "link": "https://www.ted.com/talks/hyunsoo_joshua_no_and_trudy_wu_how_do_doctors_determine_what_stage_of_cancer_you_have?language=en",
+      "displayed_link": "https://www.ted.com · Jun 25, 2024",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPYtKRLoigcNsL5izVcjJffqVdvMk49iZZnGsQLZFwF9h&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda0a2b1cc9985488e5d45cc0ba2672056d.png",
+      "snippet": "... cancer stages actually mean? Hyunsoo Joshua No and Trudy Wu ... TED Talks Usage Policy · Privacy Policy · Advertising / Partnership · TED ...",
+      "duration": "5:08",
+      "source": "TED"
+    },
+    {
+      "position": 71,
+      "title": "Elder Scrolls Daggerfall chief engineer Julian LeFay has ...",
+      "link": "https://www.gamedeveloper.com/programming/obituary-elder-scrolls-daggerfall-chief-engineer-julian-lefay-has-passed-away",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gamedeveloper.com/programming/obituary-elder-scrolls-daggerfall-chief-engineer-julian-lefay-has-passed-away&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECCEQAQ",
+      "displayed_link": "https://www.gamedeveloper.com › Programming",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdad7a06cfccb6449645a67ca9d48ba6569.png",
+      "date": "20 hours ago",
+      "snippet": "OnceLost Games, a studio led by LeFay and former Bethesda Softworks designer and writer Ted ... cancer for some time now. His doctors ...",
+      "snippet_highlighted_words": [
+        "Ted",
+        "cancer"
+      ],
+      "source": "Game Developer"
+    },
+    {
+      "position": 72,
+      "title": "The Diary Of A CEO",
+      "link": "https://www.youtube.com/TheDiaryOfACEO",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/TheDiaryOfACEO&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECDkQAQ",
+      "displayed_link": "11.4M+ followers",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaa958f5b72792b22ceafc663f574acd80.png",
+      "snippet": "Share your videos with friends, family, and the world.",
+      "source": "YouTube · The Diary Of A CEO"
+    },
+    {
+      "position": 73,
+      "title": "How You Can Say “Yes” to Public Speaking",
+      "link": "https://www.shondaland.com/shonda/year-of-yes/how-to-say-yes-to-public-speaking",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shondaland.com/shonda/year-of-yes/how-to-say-yes-to-public-speaking&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECHQQAQ",
+      "displayed_link": "https://www.shondaland.com › shonda › year-of-yes",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda75cd31f464c928d9b3f25d364415a6e9.png",
+      "date": "1 day ago",
+      "snippet": "In Shonda Rhimes' 2016 TED Talk, which garnered 1.7 million views ... cancer and process grief to defeat depression. A close up image ...",
+      "snippet_highlighted_words": [
+        "TED Talk",
+        "cancer"
+      ],
+      "source": "Shondaland"
+    },
+    {
+      "position": 74,
+      "title": "Episodes",
+      "link": "https://www.thisamericanlife.org/archive",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thisamericanlife.org/archive&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECDoQAQ",
+      "displayed_link": "https://www.thisamericanlife.org › archive",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda9b3adfdcde837b6b1e41f8e7b70c732d.png",
+      "snippet": "Cancer, Chicago, Childhood, Children, China, Christmas, Climate Change, College ... Ted Gesing, Keith Gessen, Masha Gessen, Chris Gethard, Bianca Giaever ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "Ted"
+      ],
+      "source": "This American Life"
+    },
+    {
+      "position": 75,
+      "title": "Dax Shepard (@daxshepard) • Instagram photos and videos",
+      "link": "https://www.instagram.com/daxshepard/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/daxshepard/%3Fhl%3Den&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECD0QAQ",
+      "displayed_link": "4.2M+ followers",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdafa7ae20948f3c39269c1eb37a17ae311.png",
+      "snippet": "“What else would you expect from 60+ years of combined alcoholism ... cancer ward. What a dude… @armchairexppod ...",
+      "snippet_highlighted_words": [
+        "cancer"
+      ],
+      "source": "Instagram · daxshepard"
+    },
+    {
+      "position": 76,
+      "title": "How to Flip the Script on Cancer | TED Talk Embed",
+      "link": "https://embed.ted.com/talks/dr_sharlene_gill_how_to_flip_the_script_on_cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://embed.ted.com/talks/dr_sharlene_gill_how_to_flip_the_script_on_cancer&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECDwQAQ",
+      "displayed_link": "https://embed.ted.com › talks › dr_sharlene_gill_how_t...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdac22bed5ba43368e0c6c60e76ada35f5f.png",
+      "snippet": "Play Pause.",
+      "source": "TED"
+    },
+    {
+      "position": 77,
+      "title": "Could AI find your cancer? | Anant Madabhushi | TEDxAtlanta",
+      "link": "https://www.youtube.com/watch?v=DFj6W8sQn18",
+      "displayed_link": "27.8K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HaMIluqrz4jyABGEQu51k6mqu7XAKwVQ8mRrjOaEHhUZ&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda74233da613dba97ef5b7114f9cb3c72c.png",
+      "snippet": "... TEDxMidAtlantic. TEDx Talks•2.8M views · 12:57 · Go to channel · How To Talk To Someone With Cancer | Katie Deming | TEDxReno. TEDx Talks•40K ...",
+      "duration": "13:39",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 78,
+      "title": "William Alan Gerber Obituary July 15, 2025",
+      "link": "https://www.spearmillerfuneralhome.com/obituaries/william-gerber",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.spearmillerfuneralhome.com/obituaries/william-gerber&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCI0BEAE",
+      "displayed_link": "https://www.spearmillerfuneralhome.com › obituaries",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda6906d9be9450a8041af76477b71948b1.png",
+      "date": "Jul 15, 2025",
+      "snippet": "He would joke about having “Ted talks” with me. I very quickly considered him a friend. He is missed….. Ted Luchsinger. Jul 21, 2025. I met ...",
+      "snippet_highlighted_words": [
+        "Ted talks"
+      ],
+      "source": "Spear Miller Funeral Home"
+    },
+    {
+      "position": 79,
+      "title": "Jennifer Cochran: Unspoken Truths of a Breast Cancer Journey",
+      "link": "https://www.ted.com/talks/jennifer_cochran_unspoken_truths_of_a_breast_cancer_journey",
+      "displayed_link": "https://www.ted.com · Jan 2, 2020",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRROSUhjodSzP9u09A9Lml-OgE9--nQX9EWzrI8JxsiiZnV&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda88a2b0108ed20b5548960f2fb8e8dcbc.png",
+      "snippet": "About TEDx · A new strategy in the war on cancer · The future of early cancer detection? · Fighting a contagious cancer · A simple new blood ...",
+      "duration": "16:37",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSl3KPa6X8fWZ9YjLHtNMpZqFvQtxSe-mhYDw",
+      "source": "TED · TEDx Talks"
+    },
+    {
+      "position": 80,
+      "title": "First Alert Days Today and Wednesday: Heat index values ...",
+      "link": "https://www.kttc.com/2025/07/22/first-alert-days-today-wednesday-heat-index-values-95-105-expected/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kttc.com/2025/07/22/first-alert-days-today-wednesday-heat-index-values-95-105-expected/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCI4BEAE",
+      "displayed_link": "https://www.kttc.com › 2025/07/22 › first-alert-days-to...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda272d91049d62789df63e722999e51bac.png",
+      "date": "2 days ago",
+      "snippet": "Eagles Cancer Telethon · Finding Madeline · Education · Health · Economy ... Ted's Weather Talks · Camera Network · Garden Gallery · Weather ...",
+      "snippet_highlighted_words": [
+        "Cancer",
+        "Ted's",
+        "Talks"
+      ],
+      "source": "KTTC News"
+    },
+    {
+      "position": 81,
+      "title": "Skyler White | Breaking Bad Wiki - Fandom",
+      "link": "https://breakingbad.fandom.com/wiki/Skyler_White",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://breakingbad.fandom.com/wiki/Skyler_White&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECFEQAQ",
+      "displayed_link": "https://breakingbad.fandom.com › wiki › Skyler_White",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda894cf6b74bd4acc8a1e68978f9f80587.png",
+      "snippet": "Ted Beneke (former boss and lover) Pamela Orbic (former divorce lawyer) Saul ... Skyler is convinced that Walt got the cancer from laboratory chemicals and books ...",
+      "snippet_highlighted_words": [
+        "Ted",
+        "cancer"
+      ],
+      "source": "Breaking Bad Wiki"
+    },
+    {
+      "position": 82,
+      "title": "Why is it so hard to cure cancer? - Kyuson Yun",
+      "link": "https://ed.ted.com/lessons/why-is-it-so-hard-to-cure-cancer-kyuson-yun",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ed.ted.com/lessons/why-is-it-so-hard-to-cure-cancer-kyuson-yun&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECFIQAQ",
+      "displayed_link": "https://ed.ted.com › lessons › why-is-it-so-hard-to-cure-...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaef7146bc099b4c23cec7796bbae49291.png",
+      "date": "Oct 10, 2017",
+      "snippet": "We've harnessed electricity, sequenced the human genome, and eradicated smallpox. But after billions of dollars in research, ...",
+      "source": "TED-Ed"
+    },
+    {
+      "position": 83,
+      "title": "How immunotherapy could help us beat cancer | Deepta ...",
+      "link": "https://www.youtube.com/watch?v=75Fbh5wPH7E",
+      "displayed_link": "23.1K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpB6Oq12JD3ciSYvk1TGjcbPCEVTF-nsHsw5zAFIYpES9&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda4fce7b9e4bfc5e6bbe4769fe7b430c8f.png",
+      "snippet": "... TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx.",
+      "duration": "11:43",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 84,
+      "title": "CERN",
+      "link": "https://www.facebook.com/cern/posts/and-thats-a-wrap-on-stellar-a-cern-science-festival-to-celebrate-the-first-time-/1165089792327415/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/cern/posts/and-thats-a-wrap-on-stellar-a-cern-science-festival-to-celebrate-the-first-time-/1165089792327415/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECFUQAQ",
+      "displayed_link": "530+ reactions · 4 days ago",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdae9ce1c2929d0a54d610ca4c9445e4329.png",
+      "snippet": "CERN and TED's talks are leading the civilization. Sticker, Avatar ... cancer risk prediction models with the IARC - International ...",
+      "snippet_highlighted_words": [
+        "TED's talks",
+        "cancer"
+      ],
+      "source": "Facebook · CERN"
+    },
+    {
+      "position": 85,
+      "title": "What if a simple blood test could detect cancer?",
+      "link": "https://www.ted.com/talks/hani_goodarzi_what_if_a_simple_blood_test_could_detect_cancer?language=en",
+      "displayed_link": "https://www.ted.com · Jan 29, 2024",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_MRj_bN1C85hTsiHk-6VGn1imN-MZTT6r6Cxo0YmwunZ&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdafa6f9512677b4ee5ead224b75ec89338.png",
+      "snippet": "Catching cancer at its earliest stages saves lives. But in a body made up of trillions of cells, how do you spot a small group of rogue ...",
+      "duration": "7:03",
+      "source": "TED"
+    },
+    {
+      "position": 86,
+      "title": "How can we detect cancer earlier? The answer could be in ...",
+      "link": "https://ideas.ted.com/how-can-we-detect-cancer-earlier-the-answer-could-be-in-your-blood/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ideas.ted.com/how-can-we-detect-cancer-earlier-the-answer-could-be-in-your-blood/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECFMQAQ",
+      "displayed_link": "https://ideas.ted.com › how-can-we-detect-cancer-earlier-...",
+      "date": "Aug 1, 2017",
+      "snippet": "... (TED Talk: A simple new blood test detects cancer early). Lin, a TED ... Subscribe to the TED Talks Daily newsletter. Thank you for ...",
+      "snippet_highlighted_words": [
+        "TED Talk",
+        "cancer",
+        "TED Talks"
+      ],
+      "source": "ideas.ted.com"
+    },
+    {
+      "position": 87,
+      "title": "Can an image save lives from breast cancer? | Corrine ...",
+      "link": "https://www.youtube.com/watch?v=El5BC3lu3hI",
+      "displayed_link": "4.5K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8PR9WaZAm2gVXbN_Ejll3QT5UmKSKknr5kBRvjzGgq_O&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdafac8e191bab5223a6f35249d4ded3b3a.png",
+      "snippet": "This talk will have you rethink the ways we traditionally communicate the topic of cancer ... TED conference format but independently ...",
+      "duration": "17:50",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT7vgvcvOlR0LmwAdmtI-ZnEe6xsuMt5-RK0Q",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 88,
+      "title": "Throwback to visiting IPM in London! 🇬🇧✨ Stumbled upon ...",
+      "link": "https://www.instagram.com/reel/DMYs8NyCV1f/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/reel/DMYs8NyCV1f/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECFQQAQ",
+      "displayed_link": "290+ likes · 2 days ago",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda9f5511d78245a914c2fdf0d6444e91ee.png",
+      "snippet": "Li initially rose to fame in 2010 for his TED Talk, “Can We Eat to Starve Cancer?”, which has racked up over 11 million views. His ...",
+      "snippet_highlighted_words": [
+        "TED Talk",
+        "Cancer"
+      ],
+      "source": "Instagram · drwilliamli"
+    },
+    {
+      "position": 89,
+      "title": "How nanoparticles could change the way we treat cancer",
+      "link": "https://www.ted.com/talks/joy_wolfram_how_nanoparticles_could_change_the_way_we_treat_cancer?language=en",
+      "displayed_link": "https://www.ted.com · Oct 18, 2019",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo7_KwIVorZfGPIp8pLI5KaKcBYvs9Xh308hHtL6yzy5zR&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda74718e5a187558aec1929ca9e2a7d597.png",
+      "snippet": "Ninety-nine percent of cancer drugs never make it to tumors ... Get the latest talks. Get a daily email featuring the latest talk ...",
+      "duration": "10:43",
+      "source": "TED"
+    },
+    {
+      "position": 90,
+      "title": "Understanding Oncology: Key Insights and Support",
+      "link": "https://www.tiktok.com/@ridzal.rahman/video/7525751382968716551",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40ridzal.rahman/video/7525751382968716551&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECG8QAQ",
+      "displayed_link": "2K+ views · 1 week ago",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda4df4599b234d8d594c33b4ca748d2838.png",
+      "snippet": "62 Likes, TikTok video from Ridzal Type Rahman (@ridzal.rahman): “Explore essential insights on oncology and support for cancer patients.",
+      "snippet_highlighted_words": [
+        "cancer"
+      ],
+      "source": "TikTok · Ridzal Type Rahman"
+    },
+    {
+      "position": 91,
+      "title": "I Met Cancer as a Teenager",
+      "link": "https://embed.ted.com/talks/esther_kim_i_met_cancer_as_a_teenager",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://embed.ted.com/talks/esther_kim_i_met_cancer_as_a_teenager&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECG0QAQ",
+      "displayed_link": "https://embed.ted.com › talks › esther_kim_i_met_canc...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdac8580c91975c11f67d5594c41d6f9858.png",
+      "snippet": "Play Pause.",
+      "source": "TED"
+    },
+    {
+      "position": 92,
+      "title": "EPA proposes approval for cancer-linked weedkiller",
+      "link": "https://subscriber.politicopro.com/article/eenews/2025/07/23/epa-proposes-approval-for-cancer-linked-weedkiller-00471491",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://subscriber.politicopro.com/article/eenews/2025/07/23/epa-proposes-approval-for-cancer-linked-weedkiller-00471491&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECHUQAQ",
+      "displayed_link": "https://subscriber.politicopro.com › eenews › 2025/07/23",
+      "date": "18 hours ago",
+      "snippet": "E&E NEWS PM | EPA has proposed use of the weedkiller dicamba for certain soybean and cotton crops, the agency announced Wednesday while also ...",
+      "source": "POLITICO Pro"
+    },
+    {
+      "position": 93,
+      "title": "Surviving the Cure | Courtney Horvath | TEDxMcphs",
+      "link": "https://www.youtube.com/watch?v=XjO5u04QcU0",
+      "displayed_link": "10.1K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUOCLzVZxZRV27-xcIT95hUydfTsp-dqZefQF7sSnwr89&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda446056c5a944904b78a6df8e4c74e3ea.png",
+      "snippet": "In her talk, Courtney describes what it takes for childhood cancer ... TED conference format but independently organized by a local ...",
+      "duration": "17:00",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRhrlVR1ibr-4DMCG-OL4htWBFnt1TO1TyI3Q",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 94,
+      "title": "24 Books Oncologists Should Read This Summer ...",
+      "link": "https://www.oncologynewscentral.com/experience/books-oncologists-should-read-this-summer-according-to-their-colleagues",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oncologynewscentral.com/experience/books-oncologists-should-read-this-summer-according-to-their-colleagues&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECHAQAQ",
+      "displayed_link": "https://www.oncologynewscentral.com › experience › b...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda51746b5907e69db3c4394b1cdacca895.png",
+      "snippet": "... cancer therapies approved by the FDA.” Ted Okon Executive Director Community Oncology Alliance Washington, D.C.. The Fourth Turning Is Here: What the Seasons ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "Ted"
+      ],
+      "source": "Oncology News Central"
+    },
+    {
+      "position": 95,
+      "title": "Expanding Access To Lifesaving Cancer Detection Services",
+      "link": "https://fox4kc.com/video/expanding-access-to-lifesaving-cancer-detection-services/10913091/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fox4kc.com/video/expanding-access-to-lifesaving-cancer-detection-services/10913091/&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCMIBEAE",
+      "displayed_link": "https://fox4kc.com › video › expanding-access-to-lifesa...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaa086825422f339889e5f2071f71e8423.png",
+      "date": "2 days ago",
+      "snippet": "Overland Park mayor, challenger comment on Royals … News / 18 hours ago. 'Ted ... talks about how flooding contaminates … News / 2 days ago ...",
+      "snippet_highlighted_words": [
+        "Ted",
+        "talks"
+      ],
+      "source": "FOX4KC.com"
+    },
+    {
+      "position": 96,
+      "title": "King Charles Shares Rare Health Update Amid Cancer Battle",
+      "link": "https://www.eonline.com/videos/2440718915602/king-charles-shares-rare-health-update-amid-cancer-battle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eonline.com/videos/2440718915602/king-charles-shares-rare-health-update-amid-cancer-battle&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCLEBEAE",
+      "displayed_link": "https://www.eonline.com › videos › king-charles-shares...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cdaf05873b61ec306dd3a8c6925e49ad78f.png",
+      "snippet": "Over a year after King Charles III revealed his cancer diagnosis, he gave a simple explanation of how he is feeling ... Lily Collins Talks Meeting Ted Bundy's Ex- ...",
+      "snippet_highlighted_words": [
+        "cancer",
+        "Talks",
+        "Ted"
+      ],
+      "source": "E! Online"
+    },
+    {
+      "position": 97,
+      "title": "What to do when AI says \"I love you.\" We talked to an ...",
+      "link": "https://www.npr.org/2025/07/18/g-s1177-78041/what-to-do-when-ai-says-i-love-you-we-talked-to-an-artificial-intimacy-expert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.npr.org/2025/07/18/g-s1177-78041/what-to-do-when-ai-says-i-love-you-we-talked-to-an-artificial-intimacy-expert&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoECCcQAQ",
+      "displayed_link": "https://www.npr.org › 2025/07/18 › what-to-do-when-a...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda419e979130e3b7e63e15729e32f9c730.png",
+      "date": "6 days ago",
+      "snippet": "Related TED Playlist: The must-watch TED Talks on AI from 2023. Related TED Talk: How AI could save (not destroy) education. Sponsor Message.",
+      "snippet_highlighted_words": [
+        "TED Talks",
+        "TED Talk"
+      ],
+      "source": "NPR"
+    },
+    {
+      "position": 98,
+      "title": "How to survive surviving cancer | TED Talk Embed",
+      "link": "https://embed.ted.com/talks/luz_d_ans_how_to_survive_surviving_cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://embed.ted.com/talks/luz_d_ans_how_to_survive_surviving_cancer&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQFnoFCM8BEAE",
+      "displayed_link": "https://embed.ted.com › talks › luz_d_ans_how_to_sur...",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda8fb19417823ac4283271b9cbe27bcdf4.png",
+      "snippet": "Play Pause.",
+      "source": "TED"
+    },
+    {
+      "position": 99,
+      "title": "Facebook and Rare Cancer Changed My Life | Jerad Gardner ...",
+      "link": "https://www.youtube.com/watch?v=9aQSmx0A7pg",
+      "displayed_link": "49.1K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyofcyarFFRtWY0vtc233BXJ1HL6WsqtMDQJheOcmzr8fm&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda8b5b05e72a8202d03dfd5d7c8840a44f.png",
+      "snippet": "... www.ted.com/tedx. Facebook and Rare Cancer Changed My Life | Jerad Gardner | TEDxUAMS. 49K views · 5 years ago ...more. TEDx Talks. 43.3M.",
+      "duration": "18:11",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRLBU0XB6uaHk7U54q45M1ilmVeKOkNzMbxkw",
+      "source": "YouTube · TEDx Talks"
+    },
+    {
+      "position": 100,
+      "title": "Karen Wonders: Exercise Through Cancer Care",
+      "link": "https://www.ted.com/talks/karen_wonders_exercise_through_cancer_care",
+      "displayed_link": "https://www.ted.com · Dec 11, 2017",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRraQINjEBFFLAfx6J6PXKDUAyuvqY0PTdo_Qlr5LX6y4fx&s",
+      "favicon": "https://serpapi.com/searches/68823b716561a6026ba3fd97/images/09667f1301ccc35f37da11a4e06f2cda269490cc633e3cb2cdac69afd49be99e.png",
+      "snippet": "If you received a life-altering cancer diagnosis, would your first action be to hit the gym? Karen shares why exercise should become a key ...",
+      "duration": "8:00",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQiLX9uDDmEFMfqW8IVDxfluX3V2gRIfdkClg",
+      "source": "TED · TEDx Talks"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Ted talk cancer survivor",
+      "link": "https://www.google.com/search?num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&q=Ted+talk+cancer+survivor&sa=X&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ1QJ6BQiLAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Ted+talk+cancer+survivor"
+    },
+    {
+      "block_position": 1,
+      "query": "Ted talk cancer cure",
+      "link": "https://www.google.com/search?num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&q=Ted+talk+cancer+cure&sa=X&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ1QJ6BQiKAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Ted+talk+cancer+cure"
+    },
+    {
+      "block_position": 1,
+      "query": "Ted talk cancer research",
+      "link": "https://www.google.com/search?num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&q=Ted+talk+cancer+research&sa=X&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ1QJ6BQiIAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Ted+talk+cancer+research"
+    },
+    {
+      "block_position": 1,
+      "query": "Ted talk disease",
+      "link": "https://www.google.com/search?num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&q=Ted+talk+disease&sa=X&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ1QJ6BQiJAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Ted+talk+disease"
+    },
+    {
+      "block_position": 1,
+      "query": "How can cancer cells be identified",
+      "link": "https://www.google.com/search?num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&q=How+can+cancer+cells+be+identified&sa=X&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ1QJ6BQiHAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+can+cancer+cells+be+identified"
+    },
+    {
+      "block_position": 1,
+      "query": "TED-Ed",
+      "link": "https://www.google.com/search?num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&q=TED-Ed&sa=X&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ1QJ6BQiGAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=TED-Ed"
+    },
+    {
+      "block_position": 1,
+      "query": "How do cancer cells behave differently from healthy ones",
+      "link": "https://www.google.com/search?num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&q=How+do+cancer+cells+behave+differently+from+healthy+ones&sa=X&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ1QJ6BQiFAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+do+cancer+cells+behave+differently+from+healthy+ones"
+    },
+    {
+      "block_position": 1,
+      "query": "why would rapid cell growth be harmful to the body?",
+      "link": "https://www.google.com/search?num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&q=why+would+rapid+cell+growth+be+harmful+to+the+body%3F&sa=X&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ1QJ6BQiEAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=why+would+rapid+cell+growth+be+harmful+to+the+body%3F"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ted+talks+on+cancer&num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&ei=cjuCaOXeJ__Up84P8YyLiQw&start=100&sa=N&sstk=Ac65TH7i02aKPdzG32--vrdVMdP7jrjVWKO5ETfAMyObdkKUum1bjNH86_8kPK7UwvcJAFFPuatEdhHF6OpVsbD-goJPieQQbfVVkA&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ8NMDegQIDhAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ted+talks+on+cancer&num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&ei=cjuCaOXeJ__Up84P8YyLiQw&start=100&sa=N&sstk=Ac65TH7i02aKPdzG32--vrdVMdP7jrjVWKO5ETfAMyObdkKUum1bjNH86_8kPK7UwvcJAFFPuatEdhHF6OpVsbD-goJPieQQbfVVkA&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ8tMDegQIDhAE",
+      "3": "https://www.google.com/search?q=ted+talks+on+cancer&num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&ei=cjuCaOXeJ__Up84P8YyLiQw&start=200&sa=N&sstk=Ac65TH7i02aKPdzG32--vrdVMdP7jrjVWKO5ETfAMyObdkKUum1bjNH86_8kPK7UwvcJAFFPuatEdhHF6OpVsbD-goJPieQQbfVVkA&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ8tMDegQIDhAG",
+      "4": "https://www.google.com/search?q=ted+talks+on+cancer&num=100&sca_esv=44f27cba552c4951&hl=en&gl=us&ei=cjuCaOXeJ__Up84P8YyLiQw&start=300&sa=N&sstk=Ac65TH7i02aKPdzG32--vrdVMdP7jrjVWKO5ETfAMyObdkKUum1bjNH86_8kPK7UwvcJAFFPuatEdhHF6OpVsbD-goJPieQQbfVVkA&ved=2ahUKEwjl3-j80tWOAxV_6skDHXHGIsEQ8tMDegQIDhAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=ted+talks+on+cancer&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=ted+talks+on+cancer&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=ted+talks+on+cancer&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=ted+talks+on+cancer&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=ted+talks+on+cancer&start=300"
+    }
+  }
+}

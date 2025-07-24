@@ -1,0 +1,864 @@
+{
+  "search_metadata": {
+    "id": "6881e0fb5e3494b325332b83",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b7ba5d38c24ba684/6881e0fb5e3494b325332b83.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/b7ba5d38c24ba684/6881e0fb5e3494b325332b83.json_with_pixel_position",
+    "created_at": "2025-07-24 07:30:03 UTC",
+    "processed_at": "2025-07-24 07:30:03 UTC",
+    "google_url": "https://www.google.com/search?q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&oq=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/b7ba5d38c24ba684/6881e0fb5e3494b325332b83.html",
+    "total_time_taken": 5.79
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "consider a drug that is taken in 60 mg doses daily. suppose that the first dose is taken when 𝑡=0 t = 0 and that 𝑡 t is measured in hours.",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "consider a drug that is taken in 60 mg doses daily. suppose that the first dose is taken when 𝑡=0 t = 0 and that 𝑡 t is measured in hours.",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "questions_and_answers": [
+    {
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/1-point-consider-drug-taken-60-mg-doses-daily-suppose-first-dose-taken-t-0-t-measured-hour-q46731789",
+      "source": "Chegg",
+      "question": "(1 point) Consider a drug that is taken in 60 mg doses daily. Suppose that the first dose is taken when t = 0 and that t is measured in hours. A.If the half-life of the drug is 5.3 hours, what fraction of the drug remains in the patient after 24 hours? fraction = 0.0433 B.Write a general expression for the amount of the drug in the patient immediately after",
+      "answer": "Your question starts from the place where A is written. Please ignore what's writ",
+      "votes": 0
+    },
+    {
+      "link": "https://brainly.com/question/6256119",
+      "source": "Brainly",
+      "question": "Consider a drug that is taken in 40 mg doses daily. Suppose that the first dose is taken when \\( t = 0 \\) and that \\( t \\) is measured in hours.",
+      "answer": "There are 4 questions related to this problem: 1 If the half-life of the drug is 7.3 hours, what fraction of the drug remains in the patient after 24 hours?The amount of the drug is halved every 7.3-hour period, and 24 hours equals 24/7.3 of these halving periods. So the portion of the drug left over after 24 hours is (1/2) ^ (24/7.3) = 0.10224 2 Write a general expression for the amount of the drug in the patient immediately after taking the nth dose of the drug One method is to combine the residual amounts from each amount, when the nth dose arises; this will contain adding a finite geometric series So the total amount of the drug immediately after the nth dose, in mg, is An = 40+ 40(0.10224) + 40(0.10224)^2 + ... + 40(0.10244)^(n-1) An = 40[1 - (0.010224)^n]/(1 - 0.10224) 3 Write a broad expression for the quantity of the drug in the patient directly before taking the nth dose of the drug Pn = An – 40 = 40(0.10224) + 40(0.10224)^2 + ... + 40(0.10244)^(n-1) = 40(0.10224) [1 - (0.1022…",
+      "votes": 4
+    },
+    {
+      "link": "https://homework.study.com/explanation/consider-a-drug-that-is-taken-in-35-mg-doses-daily-suppose-that-the-first-dose-is-taken-when-t-0-and-that-t-is-measured-in-hours-a-if-the-half-life-of-the-drug-is-5-5-hours-what-fraction-of-the-drug-remains-in-the-patient-after-24-hours-b-write-a.html",
+      "source": "Homework.Study.com",
+      "question": "Consider a drug that is taken in 35 mg doses daily. Suppose that the first dose is taken when t = 0 and that t is measured in hours. A. If the half-life of the drug is 5.5 hours, what fraction of the drug remains in the patient after 24 hours? B. Write a general expression for the amount of the drug in the patient immediately after taking the nth dose of the drug. C. Write a general expression for the amount of the drug in the patient immediately before taking the nth dose of the drug (for this we only consider n > 1). D. What is the long-term minimum amount of drug in the patient?",
+      "answer": "Given: • Consider a drug that is taken in 35 mg doses daily. Suppose that the first dose is taken when t = 0 and that t is measured in hours. A) t12=7 The drug is halved every 7 hours Hence, 1724=247 the fraction of the drug remains in the patient after 24 hours. The fraction that remains after 24 hours is (12)247=0.09287 B) The remaining amount after the first dose = 35(0.09287)n−1 The remaining amount after the second dose = 35(0.09287)n−2 Hence, the remaining amount after (n-1)th dose= 35(0.09287) The remaining amount after the nth dose= 35 mg One method is to combine the residual amounts from each amount when the nth dose arises; this will contain adding a finite geometric series So the total amount of the drug immediately after the nth dose, in mg, is An=35+35(0.09287)+...+35(0.09287)n−1=35[1−(0.09287)n]1−0.09287=38.5834(1−(0.09287)n) C) Now, Pn=An−35=38.5834(1−(0.09287)n)−35=35(0.09287)(1−(0.09287)n−1)1−0.09287=3.58342(1−(0.09287)n−1) D) The long term minimum amount…",
+      "votes": 0
+    }
+  ],
+  "inline_images": [
+    {
+      "source": "https://www.chegg.com/homework-help/questions-and-answers/1-point-consider-drug-taken-60-mg-doses-daily-suppose-first-dose-taken-t-0-t-measured-hour-q46731789",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMSAsLamELKetILT2nm9Ttpg0Bgl9PMPe0etC1oykmHr--Jw4QodLXNSE&s",
+      "original": "https://media.cheggcdn.com/media/701/70139c6c-235b-459e-a148-b76aac3a10b9/phps8vSch.png",
+      "title": "Solved (1 point) Consider a drug that is taken in 60 mg ...",
+      "source_name": "Chegg"
+    },
+    {
+      "source": "https://www.chegg.com/homework-help/questions-and-answers/1-point-consider-drug-taken-50-mg-doses-daily-suppose-first-dose-taken-t-0-t-measured-hour-q88222046",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDL298GVwuE8WW1O0c_Nc8JMxJ7F8VKew9N19TXvuGqdrW7L0iBeOFy3A&s",
+      "original": "https://media.cheggcdn.com/media/541/5410d97b-82a5-4e37-83e9-eea1a0cea8b3/phpIJHJNA",
+      "title": "Solved (1 point) Consider a drug that is taken in 50 mg ...",
+      "source_name": "Chegg"
+    },
+    {
+      "source": "https://www.chegg.com/homework-help/questions-and-answers/1-point-consider-drug-taken-60-mg-doses-daily-suppose-first-dose-taken-t-0-t-measured-hour-q25650623",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTA341jg8c8Otres3NnfVTX6EWhbNJSs5AFP2egg5Cd6mBaea7MOMPWDs&s",
+      "original": "https://media.cheggcdn.com/media%2F5cc%2F5cc97185-326a-4ee7-ac4f-6fb3356963e3%2Fimage",
+      "title": "Solved (1 point) Consider a drug that is taken in 60 mg ...",
+      "source_name": "Chegg"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "cB64xXicxZTbc7pGFMef-9S_Ir7wC4JixMwwnV1AxVuyIcaYFwYBF5SLsigxb_1f-lf1r-ku3qBJOu20M8UR2Ms557vnfDi__hYG8fr3n372s2xD7uv1PM95nCQ49Hgnieo2OcROfZmEJHX8X_xQ8eIaDpUdqR32SrPmEEWoeYFieSq0J7tstDfFfCI9NltNXwZCrTBXrIVNvBX1_r4idatOb-ubpkYHPOG9mJc-2oHbDFsfmcE3BFHmH-p2RDeAf3nhL-Yg_Q9VAFB1o_6VPTKKO1hXJs-OMLMxgA8SAFRccWBcY6tTDKyJvCwd5iKLajHLZq9sDiKNOlPVipLyyDiangLCykHAnw5W7O1_mq5cVE5-icO0Qeu6-MBiF6E0XxVKTh4QkPsE-BBNP7ukcqGjO-ZIxt_F3YDAnvUIjV53Ma21UF-k9CHWU8Iqrz53hEQfbTRbcO3DIZCexobUAVNPDu8cmbyhHwVTDrlARcpQDfU3eT5ZiP0W4Uc8FC9EQabNPOYOFoelE9AAT9-m55hHfMkVKBVQPx-X_aCTnPKI9nS8Pi8_JhCm2Khk4kgUZJ56xQt9M0agy-ikRAXM55R5ZQVklkinNhigAS2prjMbrDL9xlVK_kgoPXP2DouKGqBXxGREUYcIncTDsw08YUGdGDqUdAPBNQRwrob4ML4cmYk7hWG7Q2r2WJyaypkDDasmdc9WqFgdsUDnFBWT7MswQDc_MQx7ALHPj4p_rhJFY8z_ugr0Gn6_REn6jFC3k2r5zlwMzK370hUO2m3kLecwb6UmOCGURIt_0Jic_wcy5mFIm8JTGTL8NWTVtnWCDJ0hwwwy1ra2rDgVyOZXyNTpukfblqVdIcMlyMwyZOW2ZVYgU8HfhgyVITMukJnfQnZuWxfIBtYVsgcGmf4FZP9l2ypY846Pag_brfCnXhZLi8VihMnLsPMRY0kSbxet3WwFthrtZcsou7fd8IcVuPewMcgObm2rOElMAtdLOZtz0x3mMt_OuIBwmb32Yi6IuTuBizDnJsQjnGsH4YHnyG6zoePj3sz3uGWQkqzYczXNfXq76Qo3He2mI94AkWnnMo4-OIGzY_doXt7BFZEjzya71HNZcD_ZpYSvRWGaKIJ9J4hWH0lmlE_xajQbYKf1gRqrZQYMu5e1jc6z-NLy9_h28wTHvvmevCxfxwLOwbLfMrajuPE28LprabaZkmyaSvto7-6ER2Pf6jeQJYxnk2HbNTevg2nn_dnot9-jlimj9iwOUO_99VZTt61ZZvbktu6KvflDoYoot81wnbzaSTtxalHqKLS-0hpMEEA14tiWR_aKK8lLWWzYy7bX8DxvUYtwdtgokvQHomCoeQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cB64xXicxZTbc7pGFMef-9S_Ir7wC4JixMwwnV1AxVuyIcaYFwYBF5SLsigxb_1f-lf1r-ku3qBJOu20M8UR2Ms557vnfDi__hYG8fr3n372s2xD7uv1PM95nCQ49Hgnieo2OcROfZmEJHX8X_xQ8eIaDpUdqR32SrPmEEWoeYFieSq0J7tstDfFfCI9NltNXwZCrTBXrIVNvBX1_r4idatOb-ubpkYHPOG9mJc-2oHbDFsfmcE3BFHmH-p2RDeAf3nhL-Yg_Q9VAFB1o_6VPTKKO1hXJs-OMLMxgA8SAFRccWBcY6tTDKyJvCwd5iKLajHLZq9sDiKNOlPVipLyyDiangLCykHAnw5W7O1_mq5cVE5-icO0Qeu6-MBiF6E0XxVKTh4QkPsE-BBNP7ukcqGjO-ZIxt_F3YDAnvUIjV53Ma21UF-k9CHWU8Iqrz53hEQfbTRbcO3DIZCexobUAVNPDu8cmbyhHwVTDrlARcpQDfU3eT5ZiP0W4Uc8FC9EQabNPOYOFoelE9AAT9-m55hHfMkVKBVQPx-X_aCTnPKI9nS8Pi8_JhCm2Khk4kgUZJ56xQt9M0agy-ikRAXM55R5ZQVklkinNhigAS2prjMbrDL9xlVK_kgoPXP2DouKGqBXxGREUYcIncTDsw08YUGdGDqUdAPBNQRwrob4ML4cmYk7hWG7Q2r2WJyaypkDDasmdc9WqFgdsUDnFBWT7MswQDc_MQx7ALHPj4p_rhJFY8z_ugr0Gn6_REn6jFC3k2r5zlwMzK370hUO2m3kLecwb6UmOCGURIt_0Jic_wcy5mFIm8JTGTL8NWTVtnWCDJ0hwwwy1ra2rDgVyOZXyNTpukfblqVdIcMlyMwyZOW2ZVYgU8HfhgyVITMukJnfQnZuWxfIBtYVsgcGmf4FZP9l2ypY846Pag_brfCnXhZLi8VihMnLsPMRY0kSbxet3WwFthrtZcsou7fd8IcVuPewMcgObm2rOElMAtdLOZtz0x3mMt_OuIBwmb32Yi6IuTuBizDnJsQjnGsH4YHnyG6zoePj3sz3uGWQkqzYczXNfXq76Qo3He2mI94AkWnnMo4-OIGzY_doXt7BFZEjzya71HNZcD_ZpYSvRWGaKIJ9J4hWH0lmlE_xajQbYKf1gRqrZQYMu5e1jc6z-NLy9_h28wTHvvmevCxfxwLOwbLfMrajuPE28LprabaZkmyaSvto7-6ER2Pf6jeQJYxnk2HbNTevg2nn_dnot9-jlimj9iwOUO_99VZTt61ZZvbktu6KvflDoYoot81wnbzaSTtxalHqKLS-0hpMEEA14tiWR_aKK8lLWWzYy7bX8DxvUYtwdtgokvQHomCoeQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Solved (1 point) Consider a drug that is taken in 60 mg",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/1-point-consider-drug-taken-60-mg-doses-daily-suppose-first-dose-taken-t-0-t-measured-hour-q46731789",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chegg.com/homework-help/questions-and-answers/1-point-consider-drug-taken-60-mg-doses-daily-suppose-first-dose-taken-t-0-t-measured-hour-q46731789&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECBkQAQ",
+      "displayed_link": "https://www.chegg.com › questions-and-answers › 1-poi...",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c0879117c75254957632b4c074cc69c5d.png",
+      "date": "Apr 6, 2020",
+      "snippet": "(1 point) Consider a drug that is taken in 60 mg doses daily. Suppose that the first dose is taken when t = 0 and that t is measured in hours.",
+      "snippet_highlighted_words": [
+        "Consider a drug that is taken in 60 mg doses daily"
+      ],
+      "source": "Chegg"
+    },
+    {
+      "position": 2,
+      "title": "Solved 0 - - - (1 point) Consider a drug that is taken in 60",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/0-1-point-consider-drug-taken-60-mg-doses-daily-suppose-first-dose-taken-t-0-t-measured-ho-q47114067",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chegg.com/homework-help/questions-and-answers/0-1-point-consider-drug-taken-60-mg-doses-daily-suppose-first-dose-taken-t-0-t-measured-ho-q47114067&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECB8QAQ",
+      "displayed_link": "https://www.chegg.com › questions-and-answers › 0-1-p...",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c26e57b8ea00488cede82cb82fb6faae6.png",
+      "snippet": "Question: 0 - - - (1 point) Consider a drug that is taken in 60 mg doses daily. Suppose that the first dose is taken when t = 0 and that t is measured in hours.",
+      "snippet_highlighted_words": [
+        "Consider",
+        "drug",
+        "taken",
+        "60 mg doses daily",
+        "Suppose",
+        "first dose",
+        "taken",
+        "t",
+        "0",
+        "t",
+        "measured",
+        "hours"
+      ],
+      "source": "Chegg"
+    },
+    {
+      "position": 3,
+      "title": "[FREE] Consider a drug that is taken in 40 mg doses daily. ...",
+      "link": "https://brainly.com/question/6256119",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/6256119&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoFCJMBEAE",
+      "displayed_link": "https://brainly.com › Physics › College",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28cb00c086e37997186bb3325423d15a343.png",
+      "date": "Oct 17, 2017",
+      "snippet": "Consider a drug that is taken in 40 mg doses daily. Suppose that the first dose is taken when t = 0 and that t is measured in hours.",
+      "snippet_highlighted_words": [
+        "Consider",
+        "drug",
+        "taken",
+        "mg doses daily",
+        "Suppose",
+        "first dose",
+        "taken",
+        "t",
+        "0",
+        "t",
+        "measured",
+        "hours"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 4,
+      "title": "Consider a drug that is taken in 65 mg doses daily. Suppose ...",
+      "link": "https://askfilo.com/user-question-answers-ap-calculus-bc/consider-a-drug-that-is-taken-in-65-mg-doses-daily-suppose-3235393137393539",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://askfilo.com/user-question-answers-ap-calculus-bc/consider-a-drug-that-is-taken-in-65-mg-doses-daily-suppose-3235393137393539&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECDAQAQ",
+      "displayed_link": "https://askfilo.com › CBSE › AP Calculus BC",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c0c88bc13ced8bf139869e590bd0df55e.png",
+      "snippet": "Consider a drug that is taken in 65 mg doses daily. Suppose that the first dose is taken when t=0 and that t is measured in hours. A. If the half life of the ...",
+      "snippet_highlighted_words": [
+        "Consider",
+        "drug",
+        "taken",
+        "mg doses daily",
+        "Suppose",
+        "first dose",
+        "taken",
+        "t",
+        "0",
+        "t",
+        "measured",
+        "hours"
+      ],
+      "source": "Filo"
+    },
+    {
+      "position": 5,
+      "title": "Consider a drug that is taken in 50 mg doses daily. Suppose ...",
+      "link": "https://brainly.com/question/49636192",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/49636192&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECFkQAQ",
+      "displayed_link": "https://brainly.com › Mathematics › High School",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c1d5b2ff6b88595ec034d5d2f5cf13a20.png",
+      "snippet": "Consider a drug that is taken in 50 mg doses daily. Suppose that the first dose is taken when t=0 and that t is measured in hours.",
+      "snippet_highlighted_words": [
+        "Consider",
+        "drug",
+        "taken",
+        "mg doses daily",
+        "Suppose",
+        "first dose",
+        "taken",
+        "t",
+        "0",
+        "t",
+        "measured",
+        "hours"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 6,
+      "title": "Consider a drug that is taken in 55 mg doses daily. Suppose ...",
+      "link": "https://www.gauthmath.com/solution/1838044408748034/Consider-a-drug-that-is-taken-in-55-mg-doses-daily-Suppose-that-the-first-dose-i",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gauthmath.com/solution/1838044408748034/Consider-a-drug-that-is-taken-in-55-mg-doses-daily-Suppose-that-the-first-dose-i&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECH4QAQ",
+      "displayed_link": "https://www.gauthmath.com › Study Resources › Math",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28ce7078fb895d94df462712557fad722fb.jpeg",
+      "snippet": "Consider a drug that is taken in 55 mg doses daily. Suppose that the first dose is taken when t=0 and that t is measured in hours. A ...",
+      "snippet_highlighted_words": [
+        "Consider",
+        "drug",
+        "taken",
+        "mg doses daily",
+        "Suppose",
+        "first dose",
+        "taken",
+        "t",
+        "0",
+        "t",
+        "measured",
+        "hours"
+      ],
+      "source": "Gauth"
+    },
+    {
+      "position": 7,
+      "title": "If a drug has a half life of 48 hours, will we give the next ...",
+      "link": "https://www.quora.com/If-a-drug-has-a-half-life-of-48-hours-will-we-give-the-next-dose-after-48-hours-to-the-patient-Quote-the-reasons",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/If-a-drug-has-a-half-life-of-48-hours-will-we-give-the-next-dose-after-48-hours-to-the-patient-Quote-the-reasons&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoFCJQBEAE",
+      "displayed_link": "1 answer · 1 year ago",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28cc8f80e32e939fe1aadfe49a04f6992f3.png",
+      "snippet": "Suppose that the first dose is taken when t = 0 and that t is measured in hours. If the half-life of the drug is 7.2 hours, what fraction of the ...",
+      "snippet_highlighted_words": [
+        "Suppose",
+        "first dose",
+        "taken",
+        "t",
+        "0",
+        "t",
+        "measured",
+        "hours",
+        "drug",
+        "hours",
+        "what"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 8,
+      "title": "point consider a drug that is taken in 60 mg doses daily suppose ...",
+      "link": "https://www.numerade.com/ask/question/point-consider-a-drug-that-is-taken-in-60-mg-doses-daily-suppose-that-the-first-dose-is-taken-when-t-0-and-that-t-is-measured-in-hours_-alf-the-half-life-of-the-drug-is-63-hours-what-fractio-07893/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.numerade.com/ask/question/point-consider-a-drug-that-is-taken-in-60-mg-doses-daily-suppose-that-the-first-dose-is-taken-when-t-0-and-that-t-is-measured-in-hours_-alf-the-half-life-of-the-drug-is-63-hours-what-fractio-07893/&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoFCIIBEAE",
+      "displayed_link": "https://www.numerade.com › ... › Calculus 1 / AB",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28cb06bdbc637ff164ed3500ab5abb0a498.png",
+      "snippet": "Question. Consider a drug that is taken in 60 mg doses daily. Suppose that the first dose is taken when t = 0 and that t is measured in hours.",
+      "snippet_highlighted_words": [
+        "Consider",
+        "drug",
+        "taken",
+        "60 mg doses daily",
+        "Suppose",
+        "first dose",
+        "taken",
+        "t",
+        "0",
+        "t",
+        "measured",
+        "hours"
+      ],
+      "source": "Numerade"
+    },
+    {
+      "position": 9,
+      "title": "Consider a drug that is taken in 35 mg doses daily. ...",
+      "link": "https://homework.study.com/explanation/consider-a-drug-that-is-taken-in-35-mg-doses-daily-suppose-that-the-first-dose-is-taken-when-t-0-and-that-t-is-measured-in-hours-a-if-the-half-life-of-the-drug-is-5-5-hours-what-fraction-of-the-drug-remains-in-the-patient-after-24-hours-b-write-a.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homework.study.com/explanation/consider-a-drug-that-is-taken-in-35-mg-doses-daily-suppose-that-the-first-dose-is-taken-when-t-0-and-that-t-is-measured-in-hours-a-if-the-half-life-of-the-drug-is-5-5-hours-what-fraction-of-the-drug-remains-in-the-patient-after-24-hours-b-write-a.html&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECEgQAQ",
+      "displayed_link": "https://homework.study.com › ... › Chemistry › Half-life",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28cbb93df282d9144959f38aa2cc05e4f67.png",
+      "snippet": "Suppose that the first dose is taken when t = 0 and that t is measured in hours. A. If the half-life of the drug is 5.5 hours, what fraction of the drug remains ...",
+      "snippet_highlighted_words": [
+        "Suppose",
+        "first dose",
+        "taken",
+        "t",
+        "0",
+        "t",
+        "measured",
+        "hours",
+        "drug",
+        "hours",
+        "what",
+        "drug"
+      ],
+      "source": "Homework.Study.com"
+    },
+    {
+      "position": 10,
+      "title": "Interpretation of Animal Dose and Human Equivalent ...",
+      "link": "https://www.jkom.org/upload/31-3%2001%20[01-07].pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jkom.org/upload/31-3%252001%2520%5B01-07%5D.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECGUQAQ",
+      "displayed_link": "https://www.jkom.org › upload",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28ca93d17571b2915a869027a04b078dad4.jpeg",
+      "author": "by JW Shin",
+      "snippet": "Animal to human dose conversion should be based on body surface area, not just weight. Misunderstandings in dose conversion can cause issues in drug ...",
+      "snippet_highlighted_words": [
+        "to",
+        "dose",
+        "dose",
+        "drug"
+      ],
+      "source": "Journal of Korean Medicine"
+    },
+    {
+      "position": 11,
+      "title": "Analysis of individual drug use as a time-varying ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2850996/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC2850996/&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECGQQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC2850996",
+      "author": "by BHC Stricker",
+      "snippet": "In pharmaco-epidemiology, the use of drugs is the determinant of interest when studying exposure-outcome associations.",
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 12,
+      "title": "GINA Strategy Report 2025 Front Cover",
+      "link": "https://ginasthma.org/wp-content/uploads/2025/05/GINA-Strategy-Report_2025-WEB-WMS.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ginasthma.org/wp-content/uploads/2025/05/GINA-Strategy-Report_2025-WEB-WMS.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECHMQAQ",
+      "displayed_link": "https://ginasthma.org › uploads › 2025/05 › GIN...",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28cc0021ac7bb9f4561d03de349698c8bb6.png",
+      "date": "May 6, 2025",
+      "snippet": "(albuterol) 100/100 mcg metered dose (80/90 mcg delivered dose), taken for symptom relief, increased the time to first severe exacerbation ...",
+      "snippet_highlighted_words": [
+        "dose",
+        "dose",
+        "taken",
+        "to first"
+      ],
+      "source": "Global Initiative for Asthma - GINA"
+    },
+    {
+      "position": 13,
+      "title": "Clinical Review of Investigational New Drug Applications",
+      "link": "https://www.fda.gov/media/87621/download",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fda.gov/media/87621/download&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoFCIABEAE",
+      "displayed_link": "https://www.fda.gov › media › download",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c3ffdf4b7d6cba116d85d31282d95e664.png",
+      "snippet": "This FDA document covers clinical review of INDs, including pre-IND meetings, Phase 1 protocols, end-of-Phase 2/3 planning, and controlled trial reviews.",
+      "source": "U.S. Food and Drug Administration (.gov)"
+    },
+    {
+      "position": 14,
+      "title": "The amount in grams of a drug in the body t hours after ...",
+      "link": "https://www.quora.com/The-amount-in-grams-of-a-drug-in-the-body-t-hours-after-taking-a-pill-is-given-by-A-t-19-0-9-t-What-is-the-initial-dose-given-What-percent-of-the-drug-leaves-the-body-after-each-hour-What-is-the-amount-of-drug-left",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/The-amount-in-grams-of-a-drug-in-the-body-t-hours-after-taking-a-pill-is-given-by-A-t-19-0-9-t-What-is-the-initial-dose-given-What-percent-of-the-drug-leaves-the-body-after-each-hour-What-is-the-amount-of-drug-left&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoFCI4BEAE",
+      "displayed_link": "3 answers · 2 years ago",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c4d588827b0eb58387890180c89fea5fb.png",
+      "snippet": "Suppose that the first dose is taken when t = 0 and that t is measured in hours. If the half-life of the drug is 7.2 hours, what fraction of the ...",
+      "snippet_highlighted_words": [
+        "Suppose",
+        "first dose",
+        "taken",
+        "t",
+        "0",
+        "t",
+        "measured",
+        "hours",
+        "drug",
+        "hours",
+        "what"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 15,
+      "title": "Applied Biopharmaceutics & Pharmacokinetics",
+      "link": "https://akfarstfransiskusxaverius.ac.id/wp-content/uploads/2023/08/3_Applied-Biopharmaceutics-Pharmacokinetics-PDFDrive-.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://akfarstfransiskusxaverius.ac.id/wp-content/uploads/2023/08/3_Applied-Biopharmaceutics-Pharmacokinetics-PDFDrive-.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoFCKABEAE",
+      "displayed_link": "https://akfarstfransiskusxaverius.ac.id › 2023/08",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28cf3f3da06b3d7fe7828471a1496283f1e.png",
+      "snippet": "This book covers biopharmaceutics, pharmacokinetics, pharmacodynamics, clinical pharmacokinetics, drug exposure, toxicokinetics, and measurement of drug ...",
+      "snippet_highlighted_words": [
+        "drug",
+        "measurement",
+        "drug"
+      ],
+      "source": "AKADEMI FARMASI SANTO FRANSISKUS XAVERIUS"
+    },
+    {
+      "position": 16,
+      "title": "REGULATIONS GOVERNING LICENSURE OF CHILD CARE ...",
+      "link": "https://msdh.ms.gov/page/resources/78.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://msdh.ms.gov/page/resources/78.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECDoQAQ",
+      "displayed_link": "https://msdh.ms.gov › page › resources",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c4f75213508480c4da1f573cd8d81b05b.png",
+      "snippet": "Return to child care: The child may return to child care 24 hours after they have received the first treatment. Employ thorough hand washing especially ...",
+      "snippet_highlighted_words": [
+        "to",
+        "to",
+        "hours",
+        "first"
+      ],
+      "source": "Mississippi State Department of Health (.gov)"
+    },
+    {
+      "position": 17,
+      "title": "2024-qrs-measure-technical-specifications. ...",
+      "link": "https://www.cms.gov/files/document/2024-qrs-measure-technical-specifications.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cms.gov/files/document/2024-qrs-measure-technical-specifications.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECDsQAQ",
+      "displayed_link": "https://www.cms.gov › files › document › 2024-q...",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28cb154b47eb15f25b94911cb73165594d0.png",
+      "snippet": "This document includes the measure specifications and guidelines for data collection for the 2024 Quality. Rating System (QRS) measure set.",
+      "snippet_highlighted_words": [
+        "measure",
+        "measure"
+      ],
+      "source": "Centers for Medicare & Medicaid Services | CMS (.gov)"
+    },
+    {
+      "position": 18,
+      "title": "XRAY: Why So Many of Us Quit Taking Tamoxifen",
+      "link": "https://www.facingourrisk.org/blog/why-so-many-of-us-quit-taking-tamoxifen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facingourrisk.org/blog/why-so-many-of-us-quit-taking-tamoxifen&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECEUQAQ",
+      "displayed_link": "https://www.facingourrisk.org › blog › why-so-many-o...",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c33bd2bd38428e3ba82a621755c811b93.png",
+      "date": "Apr 5, 2021",
+      "snippet": "Research that studied why patients stop taking these medications and what can be done to address the issue.",
+      "snippet_highlighted_words": [
+        "taking",
+        "what",
+        "done to"
+      ],
+      "source": "Facing Hereditary Cancer Empowered"
+    },
+    {
+      "position": 19,
+      "title": "HyQvia, INN-human normal immunoglobulin (SCIg) - EMA",
+      "link": "https://www.ema.europa.eu/en/documents/product-information/hyqvia-epar-product-information_en.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ema.europa.eu/en/documents/product-information/hyqvia-epar-product-information_en.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECF8QAQ",
+      "displayed_link": "https://www.ema.europa.eu › product-information",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c9ddeac5e65895b9c4cebfc018bcb63b1.png",
+      "snippet": "Doses less than or equal to. 0.4 g/kg may be administered without a titration schedule, provided acceptable patient tolerance. Patients must be on stable doses* ...",
+      "snippet_highlighted_words": [
+        "Doses",
+        "to",
+        "schedule",
+        "doses"
+      ],
+      "source": "European Medicines Agency"
+    },
+    {
+      "position": 20,
+      "title": "Biocalculus Calculus for the Life Sciences",
+      "link": "https://uotechnology.edu.iq/dep/bme/english/Pages/Lectures/mathmatix/2stage/BIOCALCULUS%20CALCULUS%20FOR%20LIFE%20SCIENCES%201ST%20EDITION%20C2015.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uotechnology.edu.iq/dep/bme/english/Pages/Lectures/mathmatix/2stage/BIOCALCULUS%2520CALCULUS%2520FOR%2520LIFE%2520SCIENCES%25201ST%2520EDITION%2520C2015.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECGMQAQ",
+      "displayed_link": "https://uotechnology.edu.iq › Pages › mathmatix",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c77db164ab5693267f5ea6151a9f07649.png",
+      "snippet": "Biocalculus is a calculus book for the life sciences, covering topics like population analysis, snake fitness, and dinosaur dating.",
+      "source": "الجامعة التكنولوجية"
+    },
+    {
+      "position": 21,
+      "title": "Dosage Calculations Made Incredibly Easy!",
+      "link": "https://www.minams.edu.pk/cPanel/ebooks/miscellaneous/(Incredibly%20Easy!%20Series%C2%AE)%20Springhouse%20-%20Dosage%20Calculations%20Made%20Incredibly%20Easy!-LWW%20(2009).pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.minams.edu.pk/cPanel/ebooks/miscellaneous/(Incredibly%2520Easy!%2520Series%25C2%25AE)%2520Springhouse%2520-%2520Dosage%2520Calculations%2520Made%2520Incredibly%2520Easy!-LWW%2520(2009).pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECGEQAQ",
+      "displayed_link": "https://www.minams.edu.pk › miscellaneous",
+      "snippet": "This book teaches important dosage calculation basics, including oral, topical, rectal, parenteral, pediatric, and obstetric dosages, and helps you remember ...",
+      "snippet_highlighted_words": [
+        "dosage"
+      ],
+      "source": "MINAMS"
+    },
+    {
+      "position": 22,
+      "title": "The Biological Disposition of Morphine and its Surrogates 1 *",
+      "link": "https://apps.who.int/iris/bitstream/handle/10665/267419/PMC2555571.pdf?sequence=1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.who.int/iris/bitstream/handle/10665/267419/PMC2555571.pdf%3Fsequence%3D1&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECHQQAQ",
+      "displayed_link": "https://apps.who.int › iris › handle › PMC2555571",
+      "date": "1961",
+      "snippet": "The study considers the biological disposition of morphine, including its absorption, distribution, metabolism, and excretion.",
+      "snippet_highlighted_words": [
+        "considers"
+      ],
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 23,
+      "title": "Dose Finding in Drug Development",
+      "link": "https://oasis.iik.ac.id:9443/library/repository/dd034d2120cd9b2053ceb933dd3d270a.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://oasis.iik.ac.id:9443/library/repository/dd034d2120cd9b2053ceb933dd3d270a.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECHIQAQ",
+      "displayed_link": "https://oasis.iik.ac.id › library › repository",
+      "snippet": "A clinical development program for a new drug can be broadly divided into four phases – namely Phases I, II, III, and IV. Phase. I clinical trials are designed ...",
+      "snippet_highlighted_words": [
+        "drug"
+      ],
+      "source": "IIK OASIS 3"
+    },
+    {
+      "position": 24,
+      "title": "Lowe's Law of Diurnal Distribution",
+      "link": "https://www.science.org/content/blog-post/lowe-s-law-diurnal-distribution",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.science.org/content/blog-post/lowe-s-law-diurnal-distribution&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECHUQAQ",
+      "displayed_link": "https://www.science.org › content › blog-post › lowe-s-...",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c44b572d4c0d500a4d706da728401fc43.png",
+      "date": "Jul 18, 2008",
+      "snippet": "We commonly suggest that the first dose to a patient be delivered on a Wednesday so that all 5 weekdays of subsequent weeks are within protocol.",
+      "snippet_highlighted_words": [
+        "first dose to"
+      ],
+      "source": "Science | AAAS"
+    },
+    {
+      "position": 25,
+      "title": "Complex math: Doris turner Flashcards",
+      "link": "https://quizlet.com/701426733/complex-math-doris-turner-flash-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/701426733/complex-math-doris-turner-flash-cards/&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECH8QAQ",
+      "displayed_link": "https://quizlet.com › Science › Medicine",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c9bac2fa96087ff2e28d11ab9b91d1d79.png",
+      "snippet": "Convert pounds (lbs) to kilograms (kg). 20.3 lbs x 1 kg/ 2.20 Ib = 9.227 kg 2. Multiply the first day's dosage by weight in kg. 10 mg/ ...",
+      "snippet_highlighted_words": [
+        "to",
+        "first day's dosage",
+        "mg"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.7,
+            "reviews": 7
+          },
+          "extensions": [
+            "3.7(7)"
+          ]
+        }
+      },
+      "source": "Quizlet"
+    },
+    {
+      "position": 26,
+      "title": "THÈSE Modélisations mathématiques de l'hématopoïèse et des ...",
+      "link": "https://theses.hal.science/tel-00653348v1/file/TH2009_Demin_Ivan.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theses.hal.science/tel-00653348v1/file/TH2009_Demin_Ivan.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoFCIMBEAE",
+      "displayed_link": "https://theses.hal.science › TH2009_Demin_Ivan",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c4d4581a289edb23cef1bef3d544fe86f.png",
+      "snippet": "First, from day 0 to day 7, the computed erythro- cyte count increases as fast as observed in the experiments, with only one day delay. From day. Page 77. 6 ...",
+      "snippet_highlighted_words": [
+        "First",
+        "day 0 to day",
+        "day",
+        "day"
+      ],
+      "source": "TEL - Thèses en ligne"
+    },
+    {
+      "position": 27,
+      "title": "Medical Abbreviations and Dosage Calculations Using Body ...",
+      "link": "http://www.cwladis.com/math104/lecture5.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.cwladis.com/math104/lecture5.php&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoFCI0BEAE",
+      "displayed_link": "http://www.cwladis.com › math104 › lecture5",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c8dbc1adc1ce99f2a54f03553cb7c37ad.jpeg",
+      "snippet": "We need to know how to read drug orders that are given based on body weight. These drug orders will look just like any other drug order.",
+      "snippet_highlighted_words": [
+        "to",
+        "to",
+        "drug",
+        "drug",
+        "drug"
+      ],
+      "source": "cwladis.com"
+    },
+    {
+      "position": 28,
+      "title": "Statistical Issues in Clinical Trials for Treatment of Opiate ...",
+      "link": "https://archives.nida.nih.gov/sites/default/files/monograph128.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://archives.nida.nih.gov/sites/default/files/monograph128.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoFCKYBEAE",
+      "displayed_link": "https://archives.nida.nih.gov › monograph128",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c2e53879ef4b5ec33884c726381ca1bd3.png",
+      "snippet": "on a 40 to 60 mg per day dose, only one of five addicts will use heroin; and on more than 60 mg per day doses, fewer than one in five addicts continue to use.",
+      "snippet_highlighted_words": [
+        "to 60 mg",
+        "day dose",
+        "60 mg",
+        "day doses",
+        "to"
+      ],
+      "source": "NIDA Archives (.gov)"
+    },
+    {
+      "position": 29,
+      "title": "Drug Half-Life Calculator",
+      "link": "https://www.omnicalculator.com/health/drug-half-life",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omnicalculator.com/health/drug-half-life&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoFCKMBEAE",
+      "displayed_link": "https://www.omnicalculator.com › health › drug-half-life",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28cacca47fbd33eb25358265af92a212c33.png",
+      "snippet": "How to calculate a half-life of a drug? Our drug elimination half-life calculator uses the following equation: Dosage(t) = Dosage(0) × 0.5 ...",
+      "snippet_highlighted_words": [
+        "to",
+        "drug",
+        "drug",
+        "Dosage",
+        "t",
+        "Dosage",
+        "0"
+      ],
+      "source": "Omni Calculator"
+    },
+    {
+      "position": 30,
+      "title": "Using units to solve problems: Drug dosage (video)",
+      "link": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:working-units/x2f8bb11595b61c86:word-problems-multiple-units/v/unit-conversion-example-drug-dosage",
+      "displayed_link": "https://www.khanacademy.org · Jul 10, 2019",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxI-Q_E8SiKkhdNoDbMLK8tQjFrVOOCW7RwoufwI0xbaxTiP9w4smUJqd9s65U&s&ec=73015329",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c094690e99975ebb56cec8cb0609ac81b.png",
+      "snippet": "This unit conversion word problem deals with converting drug dosage units, something that is commonly done in hospitals. Give it a try with us.",
+      "duration": "10:44",
+      "source": "Khan Academy"
+    },
+    {
+      "position": 31,
+      "title": "022569Orig1s000 - accessdata.fda.gov",
+      "link": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/022569Orig1s000MedR.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/022569Orig1s000MedR.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECBwQAQ",
+      "displayed_link": "https://www.accessdata.fda.gov › nda › 022569Or...",
+      "date": "Dec 9, 2009",
+      "snippet": "Lazanda (fentanyl nasal spray) is a formulation of fentanyl citrate intended to be administered via nasal spray. The product belongs to a group ...",
+      "snippet_highlighted_words": [
+        "to",
+        "to"
+      ],
+      "source": "U.S. Food and Drug Administration (.gov)"
+    },
+    {
+      "position": 32,
+      "title": "Dosage Calculations Assignment Quiz Flashcards",
+      "link": "https://quizlet.com/577945098/dosage-calculations-assignment-quiz-flash-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/577945098/dosage-calculations-assignment-quiz-flash-cards/&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECCMQAQ",
+      "displayed_link": "https://quizlet.com › Science › Medicine › Nursing",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28ca90896a7b43472f00cd6c0bb50f09667.png",
+      "snippet": "To calculate the amount of medication being delivered each hour: First convert grams to mg: 1 gram = 1000 mg :: 4 grams = 4000 mgNext calculate number of mg ...",
+      "snippet_highlighted_words": [
+        "To",
+        "medication",
+        "hour",
+        "First",
+        "to mg",
+        "mg",
+        "mg"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 31
+          },
+          "extensions": [
+            "4.9(31)"
+          ]
+        }
+      },
+      "source": "Quizlet"
+    },
+    {
+      "position": 33,
+      "title": "Dosage Calculations Packet",
+      "link": "https://www.lmunet.edu/caylor-school-of-nursing/documents/Dosage_Calculations_Packet.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lmunet.edu/caylor-school-of-nursing/documents/Dosage_Calculations_Packet.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECDkQAQ",
+      "displayed_link": "https://www.lmunet.edu › documents › Dosage_C...",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28cbd5ad954ddfe7154c64b00c8e2b2e275.png",
+      "date": "Dec 16, 2019",
+      "snippet": "This packet reviews basic math including fractions, decimals, percentages, and ratio and proportion. Simple calculators may be used.",
+      "source": "Lincoln Memorial University"
+    },
+    {
+      "position": 34,
+      "title": "Mathematical Modeling and Simulation with MATLAB",
+      "link": "https://scholarworks.alaska.edu/bitstream/handle/11122/12246/MathModelingWithMatlab.pdf?sequence=3&isAllowed=y",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://scholarworks.alaska.edu/bitstream/handle/11122/12246/MathModelingWithMatlab.pdf%3Fsequence%3D3%26isAllowed%3Dy&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECDgQAQ",
+      "displayed_link": "https://scholarworks.alaska.edu › handle › Math...",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c167ac1f3949655ec1ef2c26e9309fc5e.png",
+      "author": "by M Buzby",
+      "snippet": "This textbook attempts to provide you with an overview of the commonly used basic mathematical models, as well as a wide range of applications.",
+      "snippet_highlighted_words": [
+        "to"
+      ],
+      "source": "ScholarWorks@UA"
+    },
+    {
+      "position": 35,
+      "title": "A certain drug is eliminated from the bloodstream with a half-life ...",
+      "link": "https://homework.study.com/explanation/a-certain-drug-is-eliminated-from-the-bloodstream-with-a-half-life-of-34-hours-suppose-that-a-patient-receives-an-initial-dose-of-60-mg-of-the-drug-at-midnight-how-much-of-the-drug-is-in-the-patient.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homework.study.com/explanation/a-certain-drug-is-eliminated-from-the-bloodstream-with-a-half-life-of-34-hours-suppose-that-a-patient-receives-an-initial-dose-of-60-mg-of-the-drug-at-midnight-how-much-of-the-drug-is-in-the-patient.html&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECEkQAQ",
+      "displayed_link": "https://homework.study.com › ... › Chemistry › Half-life",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c595eacf3b4eee547896cef464f2f3883.png",
+      "snippet": "Suppose that the first dose is taken when t = 0 and that t is measured in hours. a. If the half-life of the drug is 7.2 hours, what fraction of the · Consider ...",
+      "snippet_highlighted_words": [
+        "Suppose",
+        "first dose",
+        "taken",
+        "t",
+        "0",
+        "t",
+        "measured",
+        "hours",
+        "drug",
+        "hours",
+        "what",
+        "Consider"
+      ],
+      "source": "Homework.Study.com"
+    },
+    {
+      "position": 36,
+      "title": "Signature Question 1. ______/5pts 2.",
+      "link": "https://pharmacy.ufl.edu/files/2013/01/2009-exam1-5128.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pharmacy.ufl.edu/files/2013/01/2009-exam1-5128.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECEQQAQ",
+      "displayed_link": "https://pharmacy.ufl.edu › files › 2009-exam1-5128",
+      "snippet": "A patient who has had an adverse reaction to Drug X requires that the plasma drug concentration not ever exceed 40 mg/L. If Drug X has half life of 8 hrs ...",
+      "snippet_highlighted_words": [
+        "to Drug",
+        "drug",
+        "mg",
+        "Drug"
+      ],
+      "source": "University of Florida College of Pharmacy"
+    },
+    {
+      "position": 37,
+      "title": "Session 4",
+      "link": "https://www.iaea.org/sites/default/files/18/02/rpop-session4.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iaea.org/sites/default/files/18/02/rpop-session4.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECFcQAQ",
+      "displayed_link": "https://www.iaea.org › sites › default › files › rpop...",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c76c4e15d7f157ca8b4c5ccfa60e73f03.png",
+      "snippet": "The measured effective doses appeared to be considerably lower than adopted dose limits, recommended by International Commission on Radiological Protection ...",
+      "snippet_highlighted_words": [
+        "measured",
+        "doses",
+        "to",
+        "dose"
+      ],
+      "source": "IAEA"
+    },
+    {
+      "position": 38,
+      "title": "Converting Measurements & Calculating Dosage per Body ...",
+      "link": "https://www2.iccb.org/iccb/wp-content/pdfs/adulted/healthcare_curriculum/curriculum&resources/context_math/HC3-Conversions_&_Dosage_by_weight.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www2.iccb.org/iccb/wp-content/pdfs/adulted/healthcare_curriculum/curriculum%26resources/context_math/HC3-Conversions_%26_Dosage_by_weight.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECFYQAQ",
+      "displayed_link": "https://www2.iccb.org › adulted › context_math",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28cc3b8d782a2742edaef30e8b6526103d6.png",
+      "snippet": "This module covers using ratios, proportions, and formulas to convert measurements, including temperature, and calculate medication dosage based on body weight.",
+      "snippet_highlighted_words": [
+        "to",
+        "measurements",
+        "medication dosage"
+      ],
+      "source": "Illinois Community College Board"
+    },
+    {
+      "position": 39,
+      "title": "Chapter e5: Clinical Pharmacokinetics and Pharmacodynamics",
+      "link": "https://accesspharmacy.mhmedical.com/content.aspx?bookid=2577&sectionid=234135883",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://accesspharmacy.mhmedical.com/content.aspx%3Fbookid%3D2577%26sectionid%3D234135883&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECGIQAQ",
+      "displayed_link": "https://accesspharmacy.mhmedical.com › content",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28cbd2b0a7d40e44575cf2d9d70c3914720.png",
+      "snippet": "Most drugs follow linear pharmacokinetics; serum drug concentrations change proportionally with long-term daily dosing. For example, if a drug dose were doubled ...",
+      "snippet_highlighted_words": [
+        "drug",
+        "daily",
+        "drug dose"
+      ],
+      "source": "AccessPharmacy"
+    },
+    {
+      "position": 40,
+      "title": "DRUG CALCULATIONS 2",
+      "link": "https://www.resourcepharm.com/pre-reg-articles/prereg-pharmacist-drug-calculations-roy-sinclair-booklet-2.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.resourcepharm.com/pre-reg-articles/prereg-pharmacist-drug-calculations-roy-sinclair-booklet-2.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECCAQAQ",
+      "displayed_link": "https://www.resourcepharm.com › pre-reg-articles",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c8f95efaeef82479566dfb04a51b56987.png",
+      "snippet": "Nitrofurantoin oral suspension at a dose of 200mg daily in 4 divided doses, to be taken with food for seven days. What volume of suspension do you need to.",
+      "snippet_highlighted_words": [
+        "dose",
+        "daily",
+        "doses",
+        "to",
+        "taken",
+        "What",
+        "to"
+      ],
+      "source": "ResourcePharm"
+    },
+    {
+      "position": 41,
+      "title": "Mathematical Modeling for Epidemiology and Ecology",
+      "link": "https://lib.zu.edu.pk/ebookdata/Epidemiology/Mathematical%20Modeling%20for%20Epidemiology%20and%20Ecology-by%20Glenn%20Ledder.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lib.zu.edu.pk/ebookdata/Epidemiology/Mathematical%2520Modeling%2520for%2520Epidemiology%2520and%2520Ecology-by%2520Glenn%2520Ledder.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECCIQAQ",
+      "displayed_link": "https://lib.zu.edu.pk › ebookdata › Epidemiology",
+      "snippet": "... first edition of this textbook published with the ... taken from my own original research. • The use of ... t care about the answer; we work problems ...",
+      "snippet_highlighted_words": [
+        "first",
+        "taken",
+        "t"
+      ],
+      "source": "Ziauddin University"
+    },
+    {
+      "position": 42,
+      "title": "GINA-2024-Strategy-Report-24_05_22_WMS.pdf",
+      "link": "https://ginasthma.org/wp-content/uploads/2024/05/GINA-2024-Strategy-Report-24_05_22_WMS.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ginasthma.org/wp-content/uploads/2024/05/GINA-2024-Strategy-Report-24_05_22_WMS.pdf&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECB0QAQ",
+      "displayed_link": "https://ginasthma.org › uploads › 2024/05 › GIN...",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c52cdd8980af810c7a6eb4980a1f07fed.png",
+      "date": "May 22, 2024",
+      "snippet": "... dose), taken for symptom relief, increased the time to first severe ... daily low-dose ICS should be undertaken first. The effect on ...",
+      "snippet_highlighted_words": [
+        "dose",
+        "taken",
+        "to first",
+        "daily",
+        "dose",
+        "first"
+      ],
+      "source": "Global Initiative for Asthma - GINA"
+    },
+    {
+      "position": 43,
+      "title": "Dose-adjusted EPOCH chemotherapy for untreated large B ...",
+      "link": "https://ashpublications.org/blood/article/99/8/2685/89633/Dose-adjusted-EPOCH-chemotherapy-for-untreated",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ashpublications.org/blood/article/99/8/2685/89633/Dose-adjusted-EPOCH-chemotherapy-for-untreated&ved=2ahUKEwiboODa_NSOAxX0GtAFHd9OGN4QFnoECB4QAQ",
+      "displayed_link": "https://ashpublications.org › blood › article › Dose-adju...",
+      "favicon": "https://serpapi.com/searches/6881e0fb5e3494b325332b83/images/82a3ae4eb8b0753b1311d50b4eb4f28c837fd2fed07a131e784d71bb871bc65a.png",
+      "snippet": "... drug selection, schedule, and dose in the CHOP regimen. Etoposide ... Survival time and time to disease progression in months were calculated from the day ...",
+      "snippet_highlighted_words": [
+        "drug",
+        "schedule",
+        "dose",
+        "to",
+        "calculated",
+        "day"
+      ],
+      "source": "ashpublications.org"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 43 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&oq=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&oq=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&oq=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&oq=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&oq=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=consider+a+drug+that+is+taken+in+60+mg+doses+daily.+suppose+that+the+first+dose+is+taken+when+%F0%9D%91%A1%3D0+t+%3D+0+and+that+%F0%9D%91%A1+t+is+measured+in+hours.&start=400"
+    }
+  }
+}

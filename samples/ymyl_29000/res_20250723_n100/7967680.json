@@ -1,0 +1,985 @@
+{
+  "search_metadata": {
+    "id": "68826088de1f3321bc20b442",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/60108698b75ea17c/68826088de1f3321bc20b442.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/60108698b75ea17c/68826088de1f3321bc20b442.json_with_pixel_position",
+    "created_at": "2025-07-24 16:34:16 UTC",
+    "processed_at": "2025-07-24 16:34:16 UTC",
+    "google_url": "https://www.google.com/search?q=does+oscillococcinum+work+for+covid&oq=does+oscillococcinum+work+for+covid&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/60108698b75ea17c/68826088de1f3321bc20b442.html",
+    "total_time_taken": 2.22
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "does oscillococcinum work for covid",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "does oscillococcinum work for covid",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Does Oscillococcinum work for viruses?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1FtNHROa2RaY1RoaE1Ua3dhbFZRV0dwVmFuSjRNMEpVUmpCU1h6STVjVWhVWlV0bGRUTlpWVWN6Ukc5aFEwOUhkMkZWUlU4MU9XcFNkbWRhT0c5M2VFVXhUemxOTUhoNmIzVnVlRGRFVGtWSmEwTkNZeTB3YW5OaFp4SVhhVzFEUTJGTmJrcEhkREpNZDJKclVIazNMVTF6UVZVYUlrRkdUVUZIUjI5YVpVNHljR1YzVkhZdGNUSm9XbkpuWlZOeVRWODFibUZOV1djIiwiZmN2IjoiMyIsImVpIjoiaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVUiLCJxYyI6IkNpTmtiMlZ6SUc5elkybHNiRzlqYjJOamFXNTFiU0IzYjNKcklHWnZjaUJqYjNacFpCQUFHQUVvQVRFQUFBREF0Y0RnUDMwNmF6VV8iLCJxdWVzdGlvbiI6IkRvZXMgT3NjaWxsb2NvY2NpbnVtIHdvcmsgZm9yIHZpcnVzZXM/IiwibGsiOiJHaVZrYjJWeklHOXpZMmxzYkc5amIyTmphVzUxYlNCM2IzSnJJR1p2Y2lCMmFYSjFjMlZ6IiwiYnMiOiJjNDJQUFc3Q1FCQ0ZoZWkyQ2FXeEZHV0NnUFN1Z01ZU1VJVEtEWUxhWGtfaUVmWk90RHZZTXJmZ2ZtbHlnbHdoX0VnV3NwQklOVk44NzMxNmFxM0dTMFlIa2RPVTU2eFphekw3QWlxMk9faGdDeVhadlVNWGVqOVB3WnNfU3M4d1A0RFZRVTIzV1N4QURpUkRTTkRKNlNIekNjSWc4UTdQMTJKT1dDSXNvczFxQ2E0dXZvU0xrLWo3T1pqNWstcmZlYzBscFUxZXZTdTR1Tk43czhSaUxLSDMydzFlX1plcXdkcURMcGpTYW5LN1FyTVJ5eVZhVjBORmtzR2N5YktCMktSdFQtZ2QtOEhRSHlSWG9sMV8wOVRyX0FFIiwiaWQiOiJmY19pbUNDYU1uSkd0Mkx3YmtQeTctTXNBVV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1FtNHROa2RaY1RoaE1Ua3dhbFZRV0dwVmFuSjRNMEpVUmpCU1h6STVjVWhVWlV0bGRUTlpWVWN6Ukc5aFEwOUhkMkZWUlU4MU9XcFNkbWRhT0c5M2VFVXhUemxOTUhoNmIzVnVlRGRFVGtWSmEwTkNZeTB3YW5OaFp4SVhhVzFEUTJGTmJrcEhkREpNZDJKclVIazNMVTF6UVZVYUlrRkdUVUZIUjI5YVpVNHljR1YzVkhZdGNUSm9XbkpuWlZOeVRWODFibUZOV1djIiwiZmN2IjoiMyIsImVpIjoiaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVUiLCJxYyI6IkNpTmtiMlZ6SUc5elkybHNiRzlqYjJOamFXNTFiU0IzYjNKcklHWnZjaUJqYjNacFpCQUFHQUVvQVRFQUFBREF0Y0RnUDMwNmF6VV8iLCJxdWVzdGlvbiI6IkRvZXMgT3NjaWxsb2NvY2NpbnVtIHdvcmsgZm9yIHZpcnVzZXM%2FIiwibGsiOiJHaVZrYjJWeklHOXpZMmxzYkc5amIyTmphVzUxYlNCM2IzSnJJR1p2Y2lCMmFYSjFjMlZ6IiwiYnMiOiJjNDJQUFc3Q1FCQ0ZoZWkyQ2FXeEZHV0NnUFN1Z01ZU1VJVEtEWUxhWGtfaUVmWk90RHZZTXJmZ2ZtbHlnbHdoX0VnV3NwQklOVk44NzMxNmFxM0dTMFlIa2RPVTU2eFphekw3QWlxMk9faGdDeVhadlVNWGVqOVB3WnNfU3M4d1A0RFZRVTIzV1N4QURpUkRTTkRKNlNIekNjSWc4UTdQMTJKT1dDSXNvczFxQ2E0dXZvU0xrLWo3T1pqNWstcmZlYzBscFUxZXZTdTR1Tk43czhSaUxLSDMydzFlX1plcXdkcURMcGpTYW5LN1FyTVJ5eVZhVjBORmtzR2N5YktCMktSdFQtZ2QtOEhRSHlSWG9sMV8wOVRyX0FFIiwiaWQiOiJmY19pbUNDYU1uSkd0Mkx3YmtQeTctTXNBVV8xIn0%3D"
+    },
+    {
+      "question": "What is the best thing to take to relieve COVID symptoms?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1FtNHROa2RaY1RoaE1Ua3dhbFZRV0dwVmFuSjRNMEpVUmpCU1h6STVjVWhVWlV0bGRUTlpWVWN6Ukc5aFEwOUhkMkZWUlU4MU9XcFNkbWRhT0c5M2VFVXhUemxOTUhoNmIzVnVlRGRFVGtWSmEwTkNZeTB3YW5OaFp4SVhhVzFEUTJGTmJrcEhkREpNZDJKclVIazNMVTF6UVZVYUlrRkdUVUZIUjI5YVpVNHljR1YzVkhZdGNUSm9XbkpuWlZOeVRWODFibUZOV1djIiwiZmN2IjoiMyIsImVpIjoiaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVUiLCJxYyI6IkNpTmtiMlZ6SUc5elkybHNiRzlqYjJOamFXNTFiU0IzYjNKcklHWnZjaUJqYjNacFpCQUFHQUVvQVRFQUFBREF0Y0RnUDMwNmF6VV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgdGhpbmcgdG8gdGFrZSB0byByZWxpZXZlIENPVklEIHN5bXB0b21zPyIsImxrIjoiYzVPeUtNOUlMRkhJTEZZb3lVaFZTRW90TGdFeU12UFNGVXJ5RlVvU3MxTkJkRkZxVG1acVdhcENjbjVaWm9wQ2NXVnVRVWwtYmpFQSIsImJzIjoiYzQyUFBXN0NRQkNGaGVpMkNhV3hGR1dDZ1BTdWdNWVNVSVRLRFlMYVhrX2lFZlpPdER2WU1yZmdmbWx5Z2x3aF9FZ1dzcEJJTlZOODczMTZhcTNHUzBZSGtkT1U1NnhaYXpMN0FpcTJPX2hnQ3lYWnZVTVhlajlQd1pzX1NzOHdQNERWUVUyM1dTeEFEaVJEU05ESjZTSHpDY0lnOFE3UDEySk9XQ0lzb3MxcUNhNHV2b1NMay1qN09aajVrLXJmZWMwbHBVMWV2U3U0dU5ON3M4UmlMS0gzMncxZV9aZXF3ZHFETHBqU2FuSzdRck1SeXlWYVYwTkZrc0djeWJLQjJLUnRULWdkLThIUUh5UlhvbDFfMDlUcl9BRSIsImlkIjoiZmNfaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVVfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1FtNHROa2RaY1RoaE1Ua3dhbFZRV0dwVmFuSjRNMEpVUmpCU1h6STVjVWhVWlV0bGRUTlpWVWN6Ukc5aFEwOUhkMkZWUlU4MU9XcFNkbWRhT0c5M2VFVXhUemxOTUhoNmIzVnVlRGRFVGtWSmEwTkNZeTB3YW5OaFp4SVhhVzFEUTJGTmJrcEhkREpNZDJKclVIazNMVTF6UVZVYUlrRkdUVUZIUjI5YVpVNHljR1YzVkhZdGNUSm9XbkpuWlZOeVRWODFibUZOV1djIiwiZmN2IjoiMyIsImVpIjoiaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVUiLCJxYyI6IkNpTmtiMlZ6SUc5elkybHNiRzlqYjJOamFXNTFiU0IzYjNKcklHWnZjaUJqYjNacFpCQUFHQUVvQVRFQUFBREF0Y0RnUDMwNmF6VV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgdGhpbmcgdG8gdGFrZSB0byByZWxpZXZlIENPVklEIHN5bXB0b21zPyIsImxrIjoiYzVPeUtNOUlMRkhJTEZZb3lVaFZTRW90TGdFeU12UFNGVXJ5RlVvU3MxTkJkRkZxVG1acVdhcENjbjVaWm9wQ2NXVnVRVWwtYmpFQSIsImJzIjoiYzQyUFBXN0NRQkNGaGVpMkNhV3hGR1dDZ1BTdWdNWVNVSVRLRFlMYVhrX2lFZlpPdER2WU1yZmdmbWx5Z2x3aF9FZ1dzcEJJTlZOODczMTZhcTNHUzBZSGtkT1U1NnhaYXpMN0FpcTJPX2hnQ3lYWnZVTVhlajlQd1pzX1NzOHdQNERWUVUyM1dTeEFEaVJEU05ESjZTSHpDY0lnOFE3UDEySk9XQ0lzb3MxcUNhNHV2b1NMay1qN09aajVrLXJmZWMwbHBVMWV2U3U0dU5ON3M4UmlMS0gzMncxZV9aZXF3ZHFETHBqU2FuSzdRck1SeXlWYVYwTkZrc0djeWJLQjJLUnRULWdkLThIUUh5UlhvbDFfMDlUcl9BRSIsImlkIjoiZmNfaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVVfMSJ9"
+    },
+    {
+      "question": "What does Oscillococcinum treat?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1FtNHROa2RaY1RoaE1Ua3dhbFZRV0dwVmFuSjRNMEpVUmpCU1h6STVjVWhVWlV0bGRUTlpWVWN6Ukc5aFEwOUhkMkZWUlU4MU9XcFNkbWRhT0c5M2VFVXhUemxOTUhoNmIzVnVlRGRFVGtWSmEwTkNZeTB3YW5OaFp4SVhhVzFEUTJGTmJrcEhkREpNZDJKclVIazNMVTF6UVZVYUlrRkdUVUZIUjI5YVpVNHljR1YzVkhZdGNUSm9XbkpuWlZOeVRWODFibUZOV1djIiwiZmN2IjoiMyIsImVpIjoiaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVUiLCJxYyI6IkNpTmtiMlZ6SUc5elkybHNiRzlqYjJOamFXNTFiU0IzYjNKcklHWnZjaUJqYjNacFpCQUFHQUVvQVRFQUFBREF0Y0RnUDMwNmF6VV8iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBPc2NpbGxvY29jY2ludW0gdHJlYXQ/IiwibGsiOiJHaDkzYUdGMElHUnZaWE1nYjNOamFXeHNiMk52WTJOcGJuVnRJSFJ5WldGMCIsImJzIjoiYzQyUFBXN0NRQkNGaGVpMkNhV3hGR1dDZ1BTdWdNWVNVSVRLRFlMYVhrX2lFZlpPdER2WU1yZmdmbWx5Z2x3aF9FZ1dzcEJJTlZOODczMTZhcTNHUzBZSGtkT1U1NnhaYXpMN0FpcTJPX2hnQ3lYWnZVTVhlajlQd1pzX1NzOHdQNERWUVUyM1dTeEFEaVJEU05ESjZTSHpDY0lnOFE3UDEySk9XQ0lzb3MxcUNhNHV2b1NMay1qN09aajVrLXJmZWMwbHBVMWV2U3U0dU5ON3M4UmlMS0gzMncxZV9aZXF3ZHFETHBqU2FuSzdRck1SeXlWYVYwTkZrc0djeWJLQjJLUnRULWdkLThIUUh5UlhvbDFfMDlUcl9BRSIsImlkIjoiZmNfaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVVfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1FtNHROa2RaY1RoaE1Ua3dhbFZRV0dwVmFuSjRNMEpVUmpCU1h6STVjVWhVWlV0bGRUTlpWVWN6Ukc5aFEwOUhkMkZWUlU4MU9XcFNkbWRhT0c5M2VFVXhUemxOTUhoNmIzVnVlRGRFVGtWSmEwTkNZeTB3YW5OaFp4SVhhVzFEUTJGTmJrcEhkREpNZDJKclVIazNMVTF6UVZVYUlrRkdUVUZIUjI5YVpVNHljR1YzVkhZdGNUSm9XbkpuWlZOeVRWODFibUZOV1djIiwiZmN2IjoiMyIsImVpIjoiaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVUiLCJxYyI6IkNpTmtiMlZ6SUc5elkybHNiRzlqYjJOamFXNTFiU0IzYjNKcklHWnZjaUJqYjNacFpCQUFHQUVvQVRFQUFBREF0Y0RnUDMwNmF6VV8iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBPc2NpbGxvY29jY2ludW0gdHJlYXQ%2FIiwibGsiOiJHaDkzYUdGMElHUnZaWE1nYjNOamFXeHNiMk52WTJOcGJuVnRJSFJ5WldGMCIsImJzIjoiYzQyUFBXN0NRQkNGaGVpMkNhV3hGR1dDZ1BTdWdNWVNVSVRLRFlMYVhrX2lFZlpPdER2WU1yZmdmbWx5Z2x3aF9FZ1dzcEJJTlZOODczMTZhcTNHUzBZSGtkT1U1NnhaYXpMN0FpcTJPX2hnQ3lYWnZVTVhlajlQd1pzX1NzOHdQNERWUVUyM1dTeEFEaVJEU05ESjZTSHpDY0lnOFE3UDEySk9XQ0lzb3MxcUNhNHV2b1NMay1qN09aajVrLXJmZWMwbHBVMWV2U3U0dU5ON3M4UmlMS0gzMncxZV9aZXF3ZHFETHBqU2FuSzdRck1SeXlWYVYwTkZrc0djeWJLQjJLUnRULWdkLThIUUh5UlhvbDFfMDlUcl9BRSIsImlkIjoiZmNfaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVVfMSJ9"
+    },
+    {
+      "question": "What is the controversy with Boiron and Oscillococcinum?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1FtNHROa2RaY1RoaE1Ua3dhbFZRV0dwVmFuSjRNMEpVUmpCU1h6STVjVWhVWlV0bGRUTlpWVWN6Ukc5aFEwOUhkMkZWUlU4MU9XcFNkbWRhT0c5M2VFVXhUemxOTUhoNmIzVnVlRGRFVGtWSmEwTkNZeTB3YW5OaFp4SVhhVzFEUTJGTmJrcEhkREpNZDJKclVIazNMVTF6UVZVYUlrRkdUVUZIUjI5YVpVNHljR1YzVkhZdGNUSm9XbkpuWlZOeVRWODFibUZOV1djIiwiZmN2IjoiMyIsImVpIjoiaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVUiLCJxYyI6IkNpTmtiMlZ6SUc5elkybHNiRzlqYjJOamFXNTFiU0IzYjNKcklHWnZjaUJqYjNacFpCQUFHQUVvQVRFQUFBREF0Y0RnUDMwNmF6VV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGNvbnRyb3ZlcnN5IHdpdGggQm9pcm9uIGFuZCBPc2NpbGxvY29jY2ludW0/IiwibGsiOiJHaUppYjJseWIyNGdiM05qYVd4c2IyTnZZMk5wYm5WdElHTnZiblJ5YjNabGNuTjUiLCJicyI6ImM0MlBQVzdDUUJDRmhlaTJDYVd4RkdXQ2dQU3VnTVlTVUlUS0RZTGFYa19pRWZaT3REdllNcmZnZm1seWdsd2hfRWdXc3BCSU5WTjg3MzE2YXEzR1MwWUhrZE9VNTZ4WmF6TDdBaXEyT19oZ0N5WFp2VU1YZWo5UHdac19Tczh3UDREVlFVMjNXU3hBRGlSRFNOREo2U0h6Q2NJZzhRN1AxMkpPV0NJc29zMXFDYTR1dm9TTGstajdPWmo1ay1yZmVjMGxwVTFldlN1NHVOTjdzOFJpTEtIMzJ3MWVfWmVxd2RxRExwalNhbks3UXJNUnl5VmFWME5Ga3NHY3liS0IyS1J0VC1nZC04SFFIeVJYb2wxXzA5VHJfQUUiLCJpZCI6ImZjX2ltQ0NhTW5KR3QyTHdia1B5Ny1Nc0FVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1FtNHROa2RaY1RoaE1Ua3dhbFZRV0dwVmFuSjRNMEpVUmpCU1h6STVjVWhVWlV0bGRUTlpWVWN6Ukc5aFEwOUhkMkZWUlU4MU9XcFNkbWRhT0c5M2VFVXhUemxOTUhoNmIzVnVlRGRFVGtWSmEwTkNZeTB3YW5OaFp4SVhhVzFEUTJGTmJrcEhkREpNZDJKclVIazNMVTF6UVZVYUlrRkdUVUZIUjI5YVpVNHljR1YzVkhZdGNUSm9XbkpuWlZOeVRWODFibUZOV1djIiwiZmN2IjoiMyIsImVpIjoiaW1DQ2FNbkpHdDJMd2JrUHk3LU1zQVUiLCJxYyI6IkNpTmtiMlZ6SUc5elkybHNiRzlqYjJOamFXNTFiU0IzYjNKcklHWnZjaUJqYjNacFpCQUFHQUVvQVRFQUFBREF0Y0RnUDMwNmF6VV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGNvbnRyb3ZlcnN5IHdpdGggQm9pcm9uIGFuZCBPc2NpbGxvY29jY2ludW0%2FIiwibGsiOiJHaUppYjJseWIyNGdiM05qYVd4c2IyTnZZMk5wYm5WdElHTnZiblJ5YjNabGNuTjUiLCJicyI6ImM0MlBQVzdDUUJDRmhlaTJDYVd4RkdXQ2dQU3VnTVlTVUlUS0RZTGFYa19pRWZaT3REdllNcmZnZm1seWdsd2hfRWdXc3BCSU5WTjg3MzE2YXEzR1MwWUhrZE9VNTZ4WmF6TDdBaXEyT19oZ0N5WFp2VU1YZWo5UHdac19Tczh3UDREVlFVMjNXU3hBRGlSRFNOREo2U0h6Q2NJZzhRN1AxMkpPV0NJc29zMXFDYTR1dm9TTGstajdPWmo1ay1yZmVjMGxwVTFldlN1NHVOTjdzOFJpTEtIMzJ3MWVfWmVxd2RxRExwalNhbks3UXJNUnl5VmFWME5Ga3NHY3liS0IyS1J0VC1nZC04SFFIeVJYb2wxXzA5VHJfQUUiLCJpZCI6ImZjX2ltQ0NhTW5KR3QyTHdia1B5Ny1Nc0FVXzEifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "yLPkkXicxZTdkqJGFMdv8yLhZnYFv1acKirVjaioqD0Ou-qNBQ22CNgOjbLOXV4gT5GnytOkG79gZyaVVFIVlK_uPuf8-5wf59ffo2AX_vHTb5s03bNHWc6yrEIoJZFfwTSWHXbaYXlNI5bgzS8k0g5M2kSav5NOR60uYaYpkh9oQazrjrUb9NLaKHPD6an12WLAlnJzbeU6zN9y79-3TF7J_BL-XO_wlwqr-LtK47UVePWo-ZqalZpSVSsT2Yn5AvAvD_LOGOTnUAcAlRca79kjM7-CsDR4dUSEjQk2gAKgk5ID8x5btwlYjdV1YTM3WVzLrGg2F2MQdbgzXS8pKb6ZZ9NLQFjaCPhhY_na_pvh0sHlZLc4Qhtc3ScnInYeqr_RFWTdJxBQ-wxsILLfuuRyITbwbKSSj-LuQeB86zEeXfYIr7Uiuwm_VeWEicrrz22FdquD475O0k1trC4nlmN7cDSGRzWexuhTzhRmN6hYEaqhsVQXY7fab7LKqAKrN6Kg0DY75w7mm-UD0ARPH6bnnEdyyxUoFNC4blf8IKaXPKIjfw-v01MKYULMUgXOREHhqZc_8CdzBLqCTk5UIHzawqsooMghMrgNAWjAS2oYwjHRhX7zLiWbMk7PQjzDvKIm6OUxBVHcIUIX8fBqAy9YmOIPG4aJYAgBXOgROVm3LQtxlzBidcTNpvmuuZwF6BB9xt2LmQ6XhkSga4oQuHwZJuhmF4ZhDyDx-XHx8zJRPMbir6vAj-HHU5yktwgZk69rWneidn-8Ve36xIzG6Huj5jfilFwQorH7DxoT_n8gEx6GvCk8FSEj70NWblsXyNAVMiIgE23rRRSnBNniDpluhwZvW6vOHTJSgGxWhKzYtmYlyHTwtyFDRcjMG2SzDyG7tq0bZIPVHbKJgMx4B7L_sm3lrPnnW7mHHbbkRxD7TWvK3NoXZ-It9xguDnWjt5u4EU4TDuI6Th8dL_q0CrxHWBukJ0960TzqswfKcBBFFFOMg90hfshoEj6safKA6THwpDhKqKY4jcxiUwKXk29L3aEBq66PxnBhtV0WVXG3YyhN5zQExtzyX59p6jquweLtybIayB_Xvh6S-VyP4csSrKebdnvaa9UtS7Vb_nZksRPyVXVRjb9gu4mMeu_Q3SWq8vTkRrVOaitG1gxbnewZGtHnubocvLJ0lqtiWjtCa3u0SbdLS4oTrPH0NkIwRgBJDDsrnx01XGv7ioNx1W-2sediKSbpaa81Gn8CutKCdg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yLPkkXicxZTdkqJGFMdv8yLhZnYFv1acKirVjaioqD0Ou-qNBQ22CNgOjbLOXV4gT5GnytOkG79gZyaVVFIVlK_uPuf8-5wf59ffo2AX_vHTb5s03bNHWc6yrEIoJZFfwTSWHXbaYXlNI5bgzS8k0g5M2kSav5NOR60uYaYpkh9oQazrjrUb9NLaKHPD6an12WLAlnJzbeU6zN9y79-3TF7J_BL-XO_wlwqr-LtK47UVePWo-ZqalZpSVSsT2Yn5AvAvD_LOGOTnUAcAlRca79kjM7-CsDR4dUSEjQk2gAKgk5ID8x5btwlYjdV1YTM3WVzLrGg2F2MQdbgzXS8pKb6ZZ9NLQFjaCPhhY_na_pvh0sHlZLc4Qhtc3ScnInYeqr_RFWTdJxBQ-wxsILLfuuRyITbwbKSSj-LuQeB86zEeXfYIr7Uiuwm_VeWEicrrz22FdquD475O0k1trC4nlmN7cDSGRzWexuhTzhRmN6hYEaqhsVQXY7fab7LKqAKrN6Kg0DY75w7mm-UD0ARPH6bnnEdyyxUoFNC4blf8IKaXPKIjfw-v01MKYULMUgXOREHhqZc_8CdzBLqCTk5UIHzawqsooMghMrgNAWjAS2oYwjHRhX7zLiWbMk7PQjzDvKIm6OUxBVHcIUIX8fBqAy9YmOIPG4aJYAgBXOgROVm3LQtxlzBidcTNpvmuuZwF6BB9xt2LmQ6XhkSga4oQuHwZJuhmF4ZhDyDx-XHx8zJRPMbir6vAj-HHU5yktwgZk69rWneidn-8Ve36xIzG6Huj5jfilFwQorH7DxoT_n8gEx6GvCk8FSEj70NWblsXyNAVMiIgE23rRRSnBNniDpluhwZvW6vOHTJSgGxWhKzYtmYlyHTwtyFDRcjMG2SzDyG7tq0bZIPVHbKJgMx4B7L_sm3lrPnnW7mHHbbkRxD7TWvK3NoXZ-It9xguDnWjt5u4EU4TDuI6Th8dL_q0CrxHWBukJ0960TzqswfKcBBFFFOMg90hfshoEj6safKA6THwpDhKqKY4jcxiUwKXk29L3aEBq66PxnBhtV0WVXG3YyhN5zQExtzyX59p6jquweLtybIayB_Xvh6S-VyP4csSrKebdnvaa9UtS7Vb_nZksRPyVXVRjb9gu4mMeu_Q3SWq8vTkRrVOaitG1gxbnewZGtHnubocvLJ0lqtiWjtCa3u0SbdLS4oTrPH0NkIwRgBJDDsrnx01XGv7ioNx1W-2sediKSbpaa81Gn8CutKCdg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "LitCovid - NCBI - NLM - NIH",
+      "link": "https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/38286113",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/38286113&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECBoQAQ",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov › coronavirus › publication",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b397e3d88f696fa2282ceabaaa5a1eb9e.png",
+      "date": "Jan 30, 2024",
+      "snippet": "Prespecified homeopathic medicines, particularly Oscillococcinum(R) and Arsenicum album 30C, may have a role in preventing COVID-19.",
+      "snippet_highlighted_words": [
+        "Oscillococcinum",
+        "COVID"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "Can Homeopathic Treatment Speed Recovery in Patients ...",
+      "link": "https://www.pulmonologyadvisor.com/news/covid-19-recovery-time-shorter-with-homeopathic-treatment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pulmonologyadvisor.com/news/covid-19-recovery-time-shorter-with-homeopathic-treatment/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECBkQAQ",
+      "displayed_link": "https://www.pulmonologyadvisor.com › News",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b261d6b804989a5d61d9869d36401c167.png",
+      "date": "Jun 22, 2022",
+      "snippet": "In patients with COVID-19, an earlier recovery has been reported among those treated with an adjunctive individualized homeopathic regimen ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Pulmonology Advisor"
+    },
+    {
+      "position": 3,
+      "title": "Does Oscillococcinum Work for the Cold and Flu?",
+      "link": "https://networkhealth.com/grow-in-the-know/2023/10/does-oscillococcinum-work-for-the-cold-and-flu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://networkhealth.com/grow-in-the-know/2023/10/does-oscillococcinum-work-for-the-cold-and-flu&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECC4QAQ",
+      "displayed_link": "https://networkhealth.com › grow-in-the-know › 2023/10",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bb481329d108a4c782046536db452b9bc.png",
+      "snippet": "There is no scientific evidence to suggest that oscillococcinum is effective in this way. In many cases, oscillococcinum is unlikely to have any adverse side ...",
+      "snippet_highlighted_words": [
+        "There is no scientific evidence to suggest that oscillococcinum is effective"
+      ],
+      "source": "Network Health"
+    },
+    {
+      "position": 4,
+      "title": "Oscillococcinum - Uses, Side Effects, and More",
+      "link": "https://www.webmd.com/vitamins/ai/ingredientmono-1080/oscillococcinum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/vitamins/ai/ingredientmono-1080/oscillococcinum&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCIMBEAE",
+      "displayed_link": "https://www.webmd.com › ingredientmono-1080 › osci...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bba05cbda90926b95feae1dd81dfd751d.png",
+      "snippet": "Most experts believe that it will have no beneficial or harmful effects. But cases of severe swelling, including swelling of the tongue, and headache have been ...",
+      "snippet_highlighted_words": [
+        "no beneficial or harmful effects"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 5,
+      "title": "Adjunctive homeopathic treatment of hospitalized COVID ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8110319/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC8110319/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECC8QAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC8110319",
+      "author": "by M Takacs",
+      "snippet": "Conclusion. The observations suggest that adjunctive homeopathic treatment may be helpful to treat patients with confirmed COVID-19 even in ...",
+      "snippet_highlighted_words": [
+        "may be helpful to treat patients with confirmed COVID-19"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "Oscillococcinum: Homeopathic Medicine for Flu Symptoms",
+      "link": "https://www.oscillo.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oscillo.com/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECGoQAQ",
+      "displayed_link": "https://www.oscillo.com",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b634113850e6d4b7d6da7fd6ae3722c3c.png",
+      "snippet": "Oscillococcinum relieves flu-like symptoms when taken at the first signs of flu, but there's a lot you can do to reduce or slow your chances of infection.",
+      "snippet_highlighted_words": [
+        "Oscillococcinum relieves flu-like symptoms"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Facts About Oscillococcinum",
+            "link": "https://www.oscillo.com/about/facts-about-oscillo/"
+          },
+          {
+            "title": "Frequently Asked Questions",
+            "link": "https://www.oscillo.com/contact-us/faq/"
+          },
+          {
+            "title": "About Oscillococcinum",
+            "link": "https://www.oscillo.com/about/"
+          }
+        ]
+      },
+      "source": "oscillo.com"
+    },
+    {
+      "position": 7,
+      "title": "A Comparative Study of Oscillococcinum versus Arsenic Album",
+      "link": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0040-1712524",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0040-1712524&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCJwBEAE",
+      "displayed_link": "https://www.thieme-connect.com › ejournals › abstract",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bf8a18abb2968f6106135453ee3f4a0ba.png",
+      "author": "by MR Usuf",
+      "snippet": "COVID-19 Pandemic: A Comparative Study of Oscillococcinum versus Arsenic Album · Oscillococcinum in influenza-like illnesses · OscillococcinumR in patients with ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Oscillococcinum",
+        "Oscillococcinum"
+      ],
+      "source": "Thieme Group"
+    },
+    {
+      "position": 8,
+      "title": "More on the clinical usefulness of Oscillococcinum",
+      "link": "https://www.ejinme.com/article/S0953-6205(13)01041-8/fulltext",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ejinme.com/article/S0953-6205(13)01041-8/fulltext&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCLsBEAE",
+      "displayed_link": "https://www.ejinme.com › article › fulltext",
+      "author": "by S Chirumbolo",
+      "snippet": "Our findings do not rule out the possibility that Oscillococcinum® could have a clinically useful treatment effect.",
+      "snippet_highlighted_words": [
+        "do"
+      ],
+      "source": "European Journal of Internal Medicine"
+    },
+    {
+      "position": 9,
+      "title": "Prespecified Homeopathic Medicines in the Prevention of ...",
+      "link": "https://karger.com/cmr/article/31/2/140/896387/Prespecified-Homeopathic-Medicines-in-the",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://karger.com/cmr/article/31/2/140/896387/Prespecified-Homeopathic-Medicines-in-the&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECCwQAQ",
+      "displayed_link": "https://karger.com › cmr › article › Prespecified-Homeo...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b25e4c95d0409e3afe42f816fdd9c44b6.png",
+      "date": "Jan 29, 2024",
+      "snippet": "However, Oscillococcinum® and Arsenicum album 30C may be considered as potential recommendation for preventing overall COVID-19-like illnesses.",
+      "snippet_highlighted_words": [
+        "Oscillococcinum",
+        "COVID"
+      ],
+      "source": "Karger Publishers"
+    },
+    {
+      "position": 10,
+      "title": "Homeopathic COVID-19 treatments: what are they and do ...",
+      "link": "https://www.wkow.com/coronavirus/homeopathic-covid-19-treatments-what-are-they-and-do-they-work/article_0e97ae18-3d1d-11ec-850a-43a3016486a6.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wkow.com/coronavirus/homeopathic-covid-19-treatments-what-are-they-and-do-they-work/article_0e97ae18-3d1d-11ec-850a-43a3016486a6.html&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECEkQAQ",
+      "displayed_link": "https://www.wkow.com › coronavirus › homeopathic-co...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bb2b0347c04db30ed72dc229b84b2f1cd.png",
+      "date": "Nov 4, 2021",
+      "snippet": "Although they don't protect against COVID-19, DeMuri said homeopathic remedies do sometimes work against other viruses.",
+      "source": "WKOW"
+    },
+    {
+      "position": 11,
+      "title": "User Reviews for oscillococcinum",
+      "link": "https://reviews.webmd.com/vitamins-supplements/ingredientreview-1080-oscillococcinum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://reviews.webmd.com/vitamins-supplements/ingredientreview-1080-oscillococcinum&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECGIQAQ",
+      "displayed_link": "https://reviews.webmd.com › vitamins-supplements › in...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bfeda3f94c50d688f65f6bc96ebc8b843.png",
+      "snippet": "As long as I take the doses prior to the onset of strong symptoms it is 100% effective, currently using against Covid-19.",
+      "snippet_highlighted_words": [
+        "is 100% effective"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 12,
+      "title": "Benefits of Oscillococcinum for Flu Symptoms",
+      "link": "https://www.verywellhealth.com/health-benefits-of-oscillococcinum-89022",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.verywellhealth.com/health-benefits-of-oscillococcinum-89022&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCIEBEAE",
+      "displayed_link": "https://www.verywellhealth.com › ... › Treatment",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bc9dd949a6436c9df574bfe20e51135d1.png",
+      "snippet": "Oscillococcinum is a brand-name homeopathic remedy used to treat influenza (flu). Taken at the first signs of infection, Oscillococcinum is said to ease ...",
+      "snippet_highlighted_words": [
+        "Oscillococcinum",
+        "Oscillococcinum"
+      ],
+      "source": "Verywell Health"
+    },
+    {
+      "position": 13,
+      "title": "Prespecified Homeopathic Medicines in the Prevention of ...",
+      "link": "https://karger.figshare.com/articles/dataset/Supplementary_Material_for_Prespecified_Homeopathic_Medicines_in_the_Prevention_of_Confirmed_and_Suspected_cases_of_COVID-19_A_Community-based_Double-blind_Randomized_Placebo-Controlled_Prophylaxis_Trial/25103714",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://karger.figshare.com/articles/dataset/Supplementary_Material_for_Prespecified_Homeopathic_Medicines_in_the_Prevention_of_Confirmed_and_Suspected_cases_of_COVID-19_A_Community-based_Double-blind_Randomized_Placebo-Controlled_Prophylaxis_Trial/25103714&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCJ8BEAE",
+      "displayed_link": "https://karger.figshare.com › articles › dataset › Supple...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b47a653ced5ac7467e49a33ba4ae45519.png",
+      "date": "Jan 29, 2024",
+      "snippet": "Conclusion: Prespecified homeopathic medicines, particularly Oscillococcinum® and Arsenicum album 30C, may have a role in preventing COVID-19, ...",
+      "missing": [
+        "work"
+      ],
+      "must_include": {
+        "word": "work",
+        "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=does+oscillococcinum+%22work%22+for+covid&sa=X&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQ5t4CegUIrQEQAQ"
+      },
+      "source": "Figshare"
+    },
+    {
+      "position": 14,
+      "title": "Oscillococcinum",
+      "link": "https://en.wikipedia.org/wiki/Oscillococcinum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Oscillococcinum&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCKEBEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Oscillococcinum",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b571b976b2b18f8fc5de4b53b71cd8798.png",
+      "snippet": "Oscillococcinum /ˌɒsələˈkɒksɪnəm/ (or Oscillo) is a homeopathic preparation marketed to relieve flu-like symptoms, although it does not provide any benefit ...",
+      "snippet_highlighted_words": [
+        "Oscillococcinum",
+        "does"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 15,
+      "title": "Frequently Asked Questions - Oscillococcinum",
+      "link": "https://www.oscillo.com/contact-us/faq/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oscillo.com/contact-us/faq/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCL0BEAE",
+      "displayed_link": "https://www.oscillo.com › Contact Us",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b86aab8aa518693e10c0e1813271d5df9.png",
+      "snippet": "Dissolve the entire contents of one tube in the mouth every 6 hours, up to 3 times a day. As with all homeopathic medicines, Oscillococcinum should be taken ...",
+      "snippet_highlighted_words": [
+        "Oscillococcinum"
+      ],
+      "source": "oscillo.com"
+    },
+    {
+      "position": 16,
+      "title": "What supplements should I take if I have Covid-19?",
+      "link": "https://www.biancapeyvan.com/post/what-supplements-should-i-take-if-i-have-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.biancapeyvan.com/post/what-supplements-should-i-take-if-i-have-covid-19&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCL4BEAE",
+      "displayed_link": "https://www.biancapeyvan.com › post › what-suppleme...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bf0773ec120287474cb2701a5fba29e76.png",
+      "date": "Sep 15, 2020",
+      "snippet": "Oscillococcinum (Boiron) – addresses fatigue, headache, body aches, chills, and fever; should be taken at the first sign of illness ...",
+      "snippet_highlighted_words": [
+        "Oscillococcinum"
+      ],
+      "source": "Bianca Peyvan"
+    },
+    {
+      "position": 17,
+      "title": "Oscillococcinum, the homeopathic solution to the coronavirus ...",
+      "link": "https://edzardernst.com/2020/03/oscillococcinum-the-homeopathic-solution-to-the-coronavirus-threat/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://edzardernst.com/2020/03/oscillococcinum-the-homeopathic-solution-to-the-coronavirus-threat/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECDIQAQ",
+      "displayed_link": "https://edzardernst.com › pseudo-science",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b53badd1856795ed08005268a41c04682.png",
+      "date": "Mar 1, 2020",
+      "snippet": "So, to be clear: oscillococcinum does not help against the corona or any other virus. Those who claim otherwise are either mistaken, or have a ...",
+      "snippet_highlighted_words": [
+        "oscillococcinum does not help against the corona"
+      ],
+      "source": "edzardernst.com"
+    },
+    {
+      "position": 18,
+      "title": "Oscillococcinum: Can It Really Cure Flu Symptoms?",
+      "link": "https://www.contagionlive.com/view/oscillococcinum-can-it-really-cure-flu-symptoms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.contagionlive.com/view/oscillococcinum-can-it-really-cure-flu-symptoms&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECEcQAQ",
+      "displayed_link": "https://www.contagionlive.com › view › oscillococcinu...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b13485a4d1fdba8777a596015e07aa11c.png",
+      "date": "Jan 11, 2018",
+      "snippet": "The authors ultimately concluded that Oscillococcinum may work, but the evidence was not strong or sufficient enough reach a definitive ...",
+      "snippet_highlighted_words": [
+        "Oscillococcinum may work"
+      ],
+      "source": "Contagion Live"
+    },
+    {
+      "position": 19,
+      "title": "COVID-19 cases treated with classical homeopathy",
+      "link": "https://www.joghr.org/article/77376-covid-19-cases-treated-with-classical-homeopathy-a-retrospective-analysis-of-international-academy-of-classical-homeopathy-database",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.joghr.org/article/77376-covid-19-cases-treated-with-classical-homeopathy-a-retrospective-analysis-of-international-academy-of-classical-homeopathy-database&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECEsQAQ",
+      "displayed_link": "https://www.joghr.org › article › 77376-covid-19-cases-t...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b67739ff2ee523eb8810e4758f7a962cc.png",
+      "author": "by S Mahesh",
+      "snippet": "This study suggests that classical homeopathy was associated with improvement in COVID-19, including severe cases.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Journal of Global Health Reports"
+    },
+    {
+      "position": 20,
+      "title": "Oscillococcinum : r/COVID19positive",
+      "link": "https://www.reddit.com/r/COVID19positive/comments/19a7fqn/oscillococcinum/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/COVID19positive/comments/19a7fqn/oscillococcinum/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECE0QAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8beab5c3a1d17fe106561c36f866116e31.png",
+      "snippet": "You take them every 6 hours up to 3 times a day, and the main thing it does for me is it reduces inflammation. It's kinda like when you have a ...",
+      "snippet_highlighted_words": [
+        "it reduces inflammation"
+      ],
+      "source": "Reddit · r/COVID19positive"
+    },
+    {
+      "position": 21,
+      "title": "Oscillococcinum®: Misunderstanding or biased interest?",
+      "link": "https://www.ejinme.com/article/S0953-6205(13)00985-0/abstract",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ejinme.com/article/S0953-6205(13)00985-0/abstract&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECGcQAQ",
+      "displayed_link": "https://www.ejinme.com › article › abstract",
+      "author": "by S Chirumbolo",
+      "snippet": "This popular homeopathic medicine is scarcely supported by clinical and pharmacological evidence and, therefore, further investigations are needed.",
+      "source": "European Journal of Internal Medicine"
+    },
+    {
+      "position": 22,
+      "title": "Should You Take Oscillococcinum to Treat Respiratory ...",
+      "link": "https://medium.com/microbial-instincts/should-you-take-oscillococcinum-to-treat-respiratory-infections-like-influenza-9403ed7568df",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/microbial-instincts/should-you-take-oscillococcinum-to-treat-respiratory-infections-like-influenza-9403ed7568df&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECGQQAQ",
+      "displayed_link": "510+ likes · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b078bfb05243ba5667bb614e345a78b6f.png",
+      "snippet": "A homeopathic remedy consisting of a dilution of arsenic (whose poisoning symptoms are abdominal pain, vomiting, and diarrhea) should help.",
+      "source": "Medium · René F. Najera, MPH, DrPH"
+    },
+    {
+      "position": 23,
+      "title": "Boiron Oscillococcinum Homeopathic Medicine for flu-Like ...",
+      "link": "https://www.amazon.com/Oscillococcinum-Boiron-oscillococcinum-homeopathic-Medicine/dp/B07Y51PNSZ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Oscillococcinum-Boiron-oscillococcinum-homeopathic-Medicine/dp/B07Y51PNSZ&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCIYBEAE",
+      "displayed_link": "https://www.amazon.com › Oscillococcinum-Boiron-os...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b6109ed301ca8b6b6e881977ba6886987.png",
+      "snippet": "Homeopathic flu relief: Oscillococcinum works with your body to help temporarily relieve fatigue, headache, body aches, chills & Fever.",
+      "snippet_highlighted_words": [
+        "Oscillococcinum"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 24.3,
+            "currency": "$"
+          },
+          "extensions": [
+            "$24.30",
+            "30-day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 24,
+      "title": "Facts About Oscillococcinum",
+      "link": "https://www.oscillo.com/about/facts-about-oscillo/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oscillo.com/about/facts-about-oscillo/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECH4QAQ",
+      "displayed_link": "https://www.oscillo.com › About Oscillococcinum®",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b0de6716db6c1c9676b78f9ec5514577a.png",
+      "snippet": "Clinical studies show that Oscillococcinum reduces the duration of body aches, headache, fever, chills, and fatigue.",
+      "snippet_highlighted_words": [
+        "Oscillococcinum"
+      ],
+      "source": "oscillo.com"
+    },
+    {
+      "position": 25,
+      "title": "COVID Takes Its Toll — No Article This Week",
+      "link": "https://numbernomics.com/covid-takes-its-toll-no-article-this-week/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://numbernomics.com/covid-takes-its-toll-no-article-this-week/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCJ4BEAE",
+      "displayed_link": "https://numbernomics.com › covid-takes-its-toll-no-arti...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bc67ad606082b7d23e813c4aed3afdf98.jpeg",
+      "date": "Jan 20, 2023",
+      "snippet": "I take all the time but also helped with Covid. Oscillococcinum is a homeopathic medicine for flu-like symptoms; this also helps reduce severity ...",
+      "snippet_highlighted_words": [
+        "Oscillococcinum is a homeopathic medicine for flu-like symptoms"
+      ],
+      "source": "NumberNomics"
+    },
+    {
+      "position": 26,
+      "title": "Homeopathy? Does anyone use it?",
+      "link": "https://www.reddit.com/r/moderatelygranolamoms/comments/1gahq0n/homeopathy_does_anyone_use_it/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/moderatelygranolamoms/comments/1gahq0n/homeopathy_does_anyone_use_it/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCKABEAE",
+      "displayed_link": "50+ comments · 9 months ago",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b4b8bf9e52256bd0aebcd021e7af49b0f.png",
+      "snippet": "It's completely a scam. There is absolutely no scientific evidence that homeopathic remedies have any effect other than possible placebo.",
+      "source": "Reddit · r/moderatelygranolamoms"
+    },
+    {
+      "position": 27,
+      "title": "Influenza (Homeopathy) – Health Information Library",
+      "link": "https://www.peacehealth.org/medical-topics/id/hn-2236006",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.peacehealth.org/medical-topics/id/hn-2236006&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCLwBEAE",
+      "displayed_link": "https://www.peacehealth.org › medical-topics",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b7823194730079abeacc1db25f05c0cde.png",
+      "snippet": "Oscillococcinum® and Children's Oscillococcinum®. This remedy relieve flu-like symptoms: feeling run down, body aches, chills and fever. Rhus toxicodendron.",
+      "snippet_highlighted_words": [
+        "Oscillococcinum",
+        "Oscillococcinum"
+      ],
+      "source": "PeaceHealth"
+    },
+    {
+      "position": 28,
+      "title": "Homeopathic Oscillococcinum (R) for preventing and ...",
+      "link": "https://www.researchgate.net/publication/233909020_Homeopathic_Oscillococcinum_R_for_preventing_and_treating_influenza_and_influenza-like_illness",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.researchgate.net/publication/233909020_Homeopathic_Oscillococcinum_R_for_preventing_and_treating_influenza_and_influenza-like_illness&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCLoBEAE",
+      "displayed_link": "https://www.researchgate.net › publication › 23390902...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b2d58891a762faa0ccf91560b72cacd6f.png",
+      "date": "Feb 8, 2025",
+      "snippet": "Initially, COVID-19 infection produces influenza/flu-like symptoms. Based on the available data, we can recommend few homeopathic medicines such ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "can"
+      ],
+      "source": "ResearchGate"
+    },
+    {
+      "position": 29,
+      "title": "Natural Remedies to Combat Cold, Flu and COVID-19",
+      "link": "https://www.redlinepharmacy.com/natural-remedies/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.redlinepharmacy.com/natural-remedies/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCL8BEAE",
+      "displayed_link": "https://www.redlinepharmacy.com › natural-remedies",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8ba9c8c2215737b98d0d76a75789f5601c.png",
+      "date": "Feb 17, 2021",
+      "snippet": "Oscillococcinum: This has shown to naturally shorten the duration of and severity of flu like symptoms. Take this at the first sign of symptoms ...",
+      "snippet_highlighted_words": [
+        "Oscillococcinum"
+      ],
+      "source": "Redline Specialty Pharmacy"
+    },
+    {
+      "position": 30,
+      "title": "Efficacy of Oscillococcinum in the treatment of acute ...",
+      "link": "https://www.researchgate.net/publication/332459746_Efficacy_of_Oscillococcinum_in_the_treatment_of_acute_respiratory_infections_in_children",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.researchgate.net/publication/332459746_Efficacy_of_Oscillococcinum_in_the_treatment_of_acute_respiratory_infections_in_children&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCMABEAE",
+      "displayed_link": "https://www.researchgate.net › ... › Medicine › Children",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b91e1c52d76d2712da36d61ea61845ea8.png",
+      "snippet": "We recommend Oscillococcinum® for the treatment of moderate ARVIs caused by influenza A and B, parainfluenza, adenovirus, rhinovirus, bocavirus, and ...",
+      "source": "ResearchGate"
+    },
+    {
+      "position": 31,
+      "title": "Homeopathy for Spanish Flu and COVID-19",
+      "link": "https://homeopathyusa.org/ajhm/homeopathy-for-spanish-flu-and-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homeopathyusa.org/ajhm/homeopathy-for-spanish-flu-and-covid-19/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCMIBEAE",
+      "displayed_link": "https://homeopathyusa.org › ajhm › homeopathy-for-sp...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b7a4081010753848dec7a32f18ee695cd.png",
+      "author": "by S Jahn",
+      "snippet": "... Oscillococcinum, Phosphorus, Pulsatilla and Rhus toxicodendron. Conventional ... can be used to treat COVID-19 and with what kind of results. A ...",
+      "snippet_highlighted_words": [
+        "can be used to treat COVID-19"
+      ],
+      "source": "American Institute of Homeopathy"
+    },
+    {
+      "position": 32,
+      "title": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like ...",
+      "link": "https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCMMBEAE",
+      "displayed_link": "https://www.cvs.com › ... › Cold & Flu Medicine",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b7478a15edd07b5f4ba9aeaae523c8b8b.png",
+      "snippet": "How Does Oscillococcinum Work? The active ingredient in Oscillococcinum is said to help decrease the length and severity of the flu and flu-like symptoms.",
+      "snippet_highlighted_words": [
+        "is said to help decrease the length and severity of the flu and flu-like symptoms"
+      ],
+      "source": "CVS"
+    },
+    {
+      "position": 33,
+      "title": "Homeopathic Flu Remedy: The Truth About Oscillococcinum",
+      "link": "https://www.rupahealth.com/post/homeopathic-flu-remedy-the-truth-about-oscillococcinum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rupahealth.com/post/homeopathic-flu-remedy-the-truth-about-oscillococcinum&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECC0QAQ",
+      "displayed_link": "https://www.rupahealth.com › post › homeopathic-flu-r...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b1834980ab892fcedbc6ffd17f46db398.png",
+      "date": "Feb 14, 2025",
+      "snippet": "Does Oscillococcinum Work? The evidence regarding the effectiveness of this homeopathic remedy for treating flu-like symptoms is mixed and ...",
+      "snippet_highlighted_words": [
+        "Does Oscillococcinum Work"
+      ],
+      "source": "Rupa Health"
+    },
+    {
+      "position": 34,
+      "title": "Why Not Everyone Should Take Paxlovid",
+      "link": "https://time.com/6198667/paxlovid-who-should-take-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://time.com/6198667/paxlovid-who-should-take-covid-19/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECEgQAQ",
+      "displayed_link": "https://time.com › Health › COVID-19",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bb4ee32f88c002f1fe73a33c569c5f393.png",
+      "date": "Jul 22, 2022",
+      "snippet": "Used properly, an antiviral like Paxlovid can help to slow transmission as the highly contagious Omicron variants continue to spread. “We have ...",
+      "snippet_highlighted_words": [
+        "Paxlovid can help to slow transmission"
+      ],
+      "source": "Time Magazine"
+    },
+    {
+      "position": 35,
+      "title": "Boiron Oscillococcinum Natural Relief for Flu-Like ...",
+      "link": "https://www.amazon.com/Boiron-Oscillococcinum-Flu-like-Symptoms-Pellets/dp/B0078W0QOI",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Boiron-Oscillococcinum-Flu-like-Symptoms-Pellets/dp/B0078W0QOI&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECE4QAQ",
+      "displayed_link": "https://www.amazon.com › Boiron-Oscillococcinum-Fl...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bb76cc67c42a9b0d5b765d185011ff692.png",
+      "snippet": "HOMEOPATHIC FLU RELIEF: Oscillococcinum works with your body to help relieve body aches, headache, fever, chills, and fatigue. Ideal for ages 2 and up, ...",
+      "snippet_highlighted_words": [
+        "Oscillococcinum"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "30-day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 36,
+      "title": "COVID",
+      "link": "https://www.boironusa.com/tag/covid/?srsltid=AfmBOoq9IyDCuDt6NfvzttOf0A55EzdaHTRJERtkX2dM6mLcrG7iA-fA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.boironusa.com/tag/covid/%3Fsrsltid%3DAfmBOoq9IyDCuDt6NfvzttOf0A55EzdaHTRJERtkX2dM6mLcrG7iA-fA&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECEYQAQ",
+      "displayed_link": "https://www.boironusa.com › tag › covid",
+      "snippet": "Always read and follow label directions. * Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. **C, K, CK and X ...",
+      "source": "Boiron USA"
+    },
+    {
+      "position": 37,
+      "title": "Is homeopathy really effective against the Omicron covid- ...",
+      "link": "https://www.quora.com/Is-homeopathy-really-effective-against-the-Omicron-covid-19-variant",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Is-homeopathy-really-effective-against-the-Omicron-covid-19-variant&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECEwQAQ",
+      "displayed_link": "20+ answers · 3 years ago",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bbe7a14078d8e3a55e81db07ddd96c624.png",
+      "snippet": "Homeopathy doesn't work. Homeopathy is based on two ideas: Something that induces a symptom can also be used to cure a symptom. So ...",
+      "snippet_highlighted_words": [
+        "Homeopathy doesn't work"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 38,
+      "title": "Covid Protocol",
+      "link": "https://www.costalifestylemedicine.com/blog/covid-protocol.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.costalifestylemedicine.com/blog/covid-protocol.html&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECEoQAQ",
+      "displayed_link": "https://www.costalifestylemedicine.com › blog › covid-...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b63968b737081893f072b0912f0a362c1.png",
+      "snippet": "They have been effective in the past for treating prolonged bronchitis and pneumonia; they do not conflict with other medications. Kids. Humidify with Breathe ...",
+      "snippet_highlighted_words": [
+        "They have been effective in the past for treating prolonged bronchitis and pneumonia"
+      ],
+      "source": "Costa Lifestyle Medicine"
+    },
+    {
+      "position": 39,
+      "title": "Oscillococcinum: What a Pharmacist Should Know During ...",
+      "link": "https://www.pharmacytimes.com/view/oscillococciunm-what-a-pharmacist-should-know-during-flu-season",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pharmacytimes.com/view/oscillococciunm-what-a-pharmacist-should-know-during-flu-season&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECGMQAQ",
+      "displayed_link": "https://www.pharmacytimes.com › view › oscillococciun...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b5103db34426d78f790a038cd0e4df065.png",
+      "date": "Jan 8, 2018",
+      "snippet": "The authors ultimately concluded that oscillococcinum may work, but the evidence was not strong or sufficent enough to definitively say one ...",
+      "snippet_highlighted_words": [
+        "oscillococcinum may work"
+      ],
+      "source": "Pharmacy Times"
+    },
+    {
+      "position": 40,
+      "title": "Is there any explanation for oscillococcinum working, while ...",
+      "link": "https://www.quora.com/Is-there-any-explanation-for-oscillococcinum-working-while-the-rest-of-Homeopathy-does-not-not-seem-effective",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Is-there-any-explanation-for-oscillococcinum-working-while-the-rest-of-Homeopathy-does-not-not-seem-effective&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECGYQAQ",
+      "displayed_link": "10+ answers · 13 years ago",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b63adeeae97e8360ea2f3d14d7d84e580.png",
+      "snippet": "There is no evidence that Oscillococcinum works either. (See, for example, the meta-analysis Homeopathic Oscillococcinum(®) for preventing and ...",
+      "snippet_highlighted_words": [
+        "There is no evidence that Oscillococcinum works"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 41,
+      "title": "Preventing COVID19 – How Homeopathy Can Help",
+      "link": "https://hpathy.com/homeopathy-papers/preventing-covid19-how-homeopathy-can-help/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hpathy.com/homeopathy-papers/preventing-covid19-how-homeopathy-can-help/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECGUQAQ",
+      "displayed_link": "https://hpathy.com › homeopathy-papers › preventing-c...",
+      "date": "Mar 11, 2020",
+      "snippet": "Andrew – if you read my article carefully you will know why I am not able to answer all your question. Our knowledge of COVID is work in ...",
+      "snippet_highlighted_words": [
+        "will",
+        "COVID",
+        "work"
+      ],
+      "source": "Hpathy.com"
+    },
+    {
+      "position": 42,
+      "title": "Use of Homeopathy in Patients Suffering from Long COVID ...",
+      "link": "https://www.lidsen.com/journals/icm/icm-09-03-045",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lidsen.com/journals/icm/icm-09-03-045&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECGgQAQ",
+      "displayed_link": "https://www.lidsen.com › journals › icm › icm-09-03-045",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b09dc7f7bf0f2365645b18d144b1ba1a0.png",
+      "author": "by M Takacs",
+      "snippet": "In some patients, coronavirus (COVID-19) can cause symptoms that last weeks or even months after the infection has gone ... Well-prescribed remedies did not work.",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "COVID",
+        "can",
+        "did",
+        "work"
+      ],
+      "source": "lidsen"
+    },
+    {
+      "position": 43,
+      "title": "Flu or Cold?",
+      "link": "https://www.oscillo.ca/flu-cold/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oscillo.ca/flu-cold/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECGkQAQ",
+      "displayed_link": "https://www.oscillo.ca › flu-cold",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bc0742d0731664ce3de49c8cfeebea617.png",
+      "snippet": "Oscillo is suitable for the whole family and it does not cause drowsiness. Cold symptoms? Coryzalia is a homeopathic medicine used for cold symptoms such as ...",
+      "snippet_highlighted_words": [
+        "does"
+      ],
+      "source": "Oscillococcinum® Canada"
+    },
+    {
+      "position": 44,
+      "title": "The Homeopathic Treatment of COVID-19",
+      "link": "https://drmasiello.com/the-homeopathic-treatment-of-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://drmasiello.com/the-homeopathic-treatment-of-covid/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCIABEAE",
+      "displayed_link": "https://drmasiello.com › Blog",
+      "snippet": "After treating a number of cases of an epidemic disease (yes, yearly flu is an epidemic disease) and studying its nature and its symptoms, a homeopath can ...",
+      "snippet_highlighted_words": [
+        "can"
+      ],
+      "source": "Domenick J. Masiello, DO"
+    },
+    {
+      "position": 45,
+      "title": "Oscillococcinum for Flu",
+      "link": "https://www.earthclinic.com/mobile/cures/flu/oscillococcinum/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.earthclinic.com/mobile/cures/flu/oscillococcinum/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECH8QAQ",
+      "displayed_link": "https://www.earthclinic.com › mobile › cures › oscilloco...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bb0a8bad9e55a0eecc70e8712d12f184e.png",
+      "snippet": "I bought some Oscillococcinum after I read one of your posts about it. It worked for me when I started coming down with the flu last spring! I will always be ...",
+      "snippet_highlighted_words": [
+        "Oscillococcinum",
+        "worked",
+        "will"
+      ],
+      "source": "Earth Clinic"
+    },
+    {
+      "position": 46,
+      "title": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like ...",
+      "link": "https://es.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558?skuId=926229",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://es.cvs.com/shop/boiron-oscillococcinum-homeopathic-medicine-for-flu-like-symptoms-prodid-706558%3FskuId%3D926229&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCIQBEAE",
+      "displayed_link": "https://es.cvs.com › shop › boiron-...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bf0f28d5a125b420bebab08694aff0182.png",
+      "snippet": "Does Oscillococcinum Work for a Cold? The original Oscillococcinum generally ... You have a sore throat: Is it a cold, strep or COVID-19? How to manage ...",
+      "snippet_highlighted_words": [
+        "Does Oscillococcinum Work",
+        "Oscillococcinum",
+        "COVID"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 35,
+            "currency": "$"
+          },
+          "extensions": [
+            "Free delivery over $35",
+            "Free in-store returns"
+          ]
+        }
+      },
+      "source": "CVS"
+    },
+    {
+      "position": 47,
+      "title": "Oscillococcinum Review: Cold, Flu, and Covid Relief",
+      "link": "https://www.tiktok.com/@brandywortham/video/7018235381078428933",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40brandywortham/video/7018235381078428933&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCIIBEAE",
+      "displayed_link": "21.6K+ views · 3 years ago",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b26b81467879ae7b79cd7b380523682d3.png",
+      "snippet": "um, some people say that it can't possibly work. it's just a placebo. it's supposed to reduce, uh, and, uh, reduces the duration and severity of ...",
+      "snippet_highlighted_words": [
+        "can",
+        "work"
+      ],
+      "source": "TikTok · Brandy Wortham"
+    },
+    {
+      "position": 48,
+      "title": "Boiron Oscillococcinum Homeopathic Medicine for Flu-Like ...",
+      "link": "https://www.walmart.com/reviews/product/17324892",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.walmart.com/reviews/product/17324892&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCIUBEAE",
+      "displayed_link": "https://www.walmart.com › reviews › product",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b044160ff75f6f0b330c1275fd05dcbbf.png",
+      "snippet": "Flue not! Voon. If I feel under the weather with the possible flue, I take Oscillococcinum and it does the trick without side effects ... Since Covid, once ...",
+      "snippet_highlighted_words": [
+        "Oscillococcinum",
+        "does",
+        "Covid"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "90-day returns"
+          ]
+        }
+      },
+      "source": "Walmart"
+    },
+    {
+      "position": 49,
+      "title": "Homeopathy and COVID-19 - AHIMA",
+      "link": "https://arizonahomeopathic.org/homeopathy-and-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arizonahomeopathic.org/homeopathy-and-covid-19/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCJ0BEAE",
+      "displayed_link": "https://arizonahomeopathic.org › homeopathy-and-covi...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bd84a40e8e34c4cf4fe5c02d1d794adbf.png",
+      "date": "Jul 12, 2020",
+      "snippet": "How does homeopathy for COVID work? If homeopathic medicines are ... Oscillococcinum (a remedy made from the heart and liver of wild ...",
+      "snippet_highlighted_words": [
+        "does",
+        "COVID work",
+        "Oscillococcinum"
+      ],
+      "source": "arizonahomeopathic.org"
+    },
+    {
+      "position": 50,
+      "title": "Oscillococcinum® | Boiron USA",
+      "link": "https://www.boironusa.com/product/oscillo/?srsltid=AfmBOorraV3F6Jz8sna6rm4z6kaD6_wLTW6kPNb9BfIbw_fVLY7GL6o5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.boironusa.com/product/oscillo/%3Fsrsltid%3DAfmBOorraV3F6Jz8sna6rm4z6kaD6_wLTW6kPNb9BfIbw_fVLY7GL6o5&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCKoBEAE",
+      "displayed_link": "https://www.boironusa.com › ... › Flu Relief",
+      "snippet": "Any time I've had flu like symptoms, I take this and by the 3rd does I am feeling much better. ... work as the day went I was feeling tired and low fever ...",
+      "snippet_highlighted_words": [
+        "does",
+        "work"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Free delivery",
+            "Free 10-day returns"
+          ]
+        }
+      },
+      "source": "Boiron USA"
+    },
+    {
+      "position": 51,
+      "title": "The Curious “Science” of Oscillococcinum",
+      "link": "https://www.mcgill.ca/oss/article/homeopathy/curious-science-oscillococcinum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mcgill.ca/oss/article/homeopathy/curious-science-oscillococcinum&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCKYBEAE",
+      "displayed_link": "https://www.mcgill.ca › oss › article › homeopathy › curi...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8bd4f7d4d39e8a131a995da361bd410c98.png",
+      "date": "Mar 20, 2017",
+      "snippet": "... work against cancer ... The other claims have fallen by the wayside, but homeopaths still believe that Oscillococcinum can treat the flu.",
+      "snippet_highlighted_words": [
+        "work",
+        "Oscillococcinum can"
+      ],
+      "missing": [
+        "covid"
+      ],
+      "must_include": {
+        "word": "covid",
+        "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=does+oscillococcinum+work+for+%22covid%22&sa=X&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQ5t4CegUIuQEQAQ"
+      },
+      "source": "McGill University"
+    },
+    {
+      "position": 52,
+      "title": "Beschermt het homeopathisch middel Oscillococcinum ...",
+      "link": "https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/beschermt-het-homeopathisch-middel-oscillococcinum-tegen-corona",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gezondheidenwetenschap.be/gezondheid-in-de-media/beschermt-het-homeopathisch-middel-oscillococcinum-tegen-corona&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoFCKIBEAE",
+      "displayed_link": "https://www.gezondheidenwetenschap.be › ...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b6f864c6b3749ace7b5830055de714e5a.png",
+      "date": "Apr 22, 2020",
+      "snippet": "Tot nu toe is er nog geen werkzaam geneesmiddel gevonden tegen het coronavirus. Ook van een performant vaccin zijn we nog ver af.",
+      "snippet_highlighted_words": [
+        "coronavirus"
+      ],
+      "source": "gezondheidenwetenschap.be"
+    },
+    {
+      "position": 53,
+      "title": "Coronavirus (COVID19) Prevent and Treat with Homeopathy",
+      "link": "https://classichomeopath.com/coronavirus-covid-19-how-homeopathy-can-help/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://classichomeopath.com/coronavirus-covid-19-how-homeopathy-can-help/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECDAQAQ",
+      "displayed_link": "https://classichomeopath.com › coronavirus-covid-19-h...",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b35e390cb07aa2bbb1305d728a9cf5c39.png",
+      "snippet": "The situation can be frustrating, since conventional medicine has very little treatment for viral infections, including Coronavirus or COVID-19. Homeopathy is a ...",
+      "snippet_highlighted_words": [
+        "can",
+        "Coronavirus",
+        "COVID"
+      ],
+      "source": "classichomeopath.com"
+    },
+    {
+      "position": 54,
+      "title": "Reviews | Oscillococcinum",
+      "link": "https://www.oscillo.com/testimonials/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oscillo.com/testimonials/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECDMQAQ",
+      "displayed_link": "https://www.oscillo.com › testimonials",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b0c5acdda9e4c742e31239b39243d9af0.png",
+      "snippet": "Your browser can't play this video. ... Considering how high copays are, I'm glad this worked out for me. Consumer Icon-Oscillo_Icon@2x. Sheri S. Best stuff ever!",
+      "snippet_highlighted_words": [
+        "can",
+        "worked"
+      ],
+      "source": "oscillo.com"
+    },
+    {
+      "position": 55,
+      "title": "Can Homeopathy (Oscillococcinum, Dolivaxil, Influenzinum ...",
+      "link": "https://lizditz.typepad.com/i_speak_of_dreams/2004/10/can_homeopathy_.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lizditz.typepad.com/i_speak_of_dreams/2004/10/can_homeopathy_.html&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECDEQAQ",
+      "displayed_link": "https://lizditz.typepad.com › i_speak_of_dreams › 2004/10",
+      "date": "Oct 29, 2004",
+      "snippet": "But why any other drugs in similar situation did not work at least for my daughter similarly, as a placebo? ... COVID-19 Vaccinations: \"Allergic ...",
+      "snippet_highlighted_words": [
+        "did",
+        "work",
+        "COVID"
+      ],
+      "source": "TypePad"
+    },
+    {
+      "position": 56,
+      "title": "Easypara : Votre parapharmacie en ligne française ! - Easypara",
+      "link": "https://www.easypara.fr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.easypara.fr/&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQFnoECCsQAQ",
+      "displayed_link": "https://www.easypara.fr",
+      "favicon": "https://serpapi.com/searches/68826088de1f3321bc20b442/images/e9226d8f9ab7baabe6170dc13aa6dd8b450a8f916334fe4c53ebcef7250e20a9.png",
+      "snippet": "The store will not work correctly in the case when cookies are disabled. ... Covid-19. Santé. Covid-19; Thermomètres et appareils de mesure · Gels ...",
+      "snippet_highlighted_words": [
+        "will",
+        "work",
+        "Covid",
+        "Covid"
+      ],
+      "source": "Easypara"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Does Oscillococcinum work for Cough",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Does+Oscillococcinum+work+for+Cough&sa=X&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQ1QJ6BQjhARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Does+Oscillococcinum+work+for+Cough"
+    },
+    {
+      "block_position": 1,
+      "query": "Oscillococcinum side effects",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Oscillococcinum+side+effects&sa=X&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQ1QJ6BQjgARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Oscillococcinum+side+effects"
+    },
+    {
+      "block_position": 1,
+      "query": "Oscillococcinum how to take",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Oscillococcinum+how+to+take&sa=X&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQ1QJ6BQjfARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Oscillococcinum+how+to+take"
+    },
+    {
+      "block_position": 1,
+      "query": "What does Oscillococcinum do to your body",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=What+does+Oscillococcinum+do+to+your+body&sa=X&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQ1QJ6BQjeARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+does+Oscillococcinum+do+to+your+body"
+    },
+    {
+      "block_position": 1,
+      "query": "Can I take Oscillococcinum with ibuprofen",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Can+I+take+Oscillococcinum+with+ibuprofen&sa=X&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQ1QJ6BQjdARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Can+I+take+Oscillococcinum+with+ibuprofen"
+    },
+    {
+      "block_position": 1,
+      "query": "Can you take Oscillococcinum on an empty stomach",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Can+you+take+Oscillococcinum+on+an+empty+stomach&sa=X&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQ1QJ6BQjcARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Can+you+take+Oscillococcinum+on+an+empty+stomach"
+    },
+    {
+      "block_position": 1,
+      "query": "Anas barbariae side effects",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Anas+barbariae+side+effects&sa=X&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQ1QJ6BQjbARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Anas+barbariae+side+effects"
+    },
+    {
+      "block_position": 1,
+      "query": "Can you take Oscillococcinum at night",
+      "link": "https://www.google.com/search?num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&q=Can+you+take+Oscillococcinum+at+night&sa=X&ved=2ahUKEwjJtuGs9tWOAxXdRTABHcsfA1YQ1QJ6BQjaARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Can+you+take+Oscillococcinum+at+night"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 56 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=does+oscillococcinum+work+for+covid&num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=does+oscillococcinum+work+for+covid&oq=does+oscillococcinum+work+for+covid&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=does+oscillococcinum+work+for+covid&oq=does+oscillococcinum+work+for+covid&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=does+oscillococcinum+work+for+covid&oq=does+oscillococcinum+work+for+covid&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=does+oscillococcinum+work+for+covid&oq=does+oscillococcinum+work+for+covid&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=does+oscillococcinum+work+for+covid&oq=does+oscillococcinum+work+for+covid&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=does+oscillococcinum+work+for+covid&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=does+oscillococcinum+work+for+covid&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=does+oscillococcinum+work+for+covid&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=does+oscillococcinum+work+for+covid&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=does+oscillococcinum+work+for+covid&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=does+oscillococcinum+work+for+covid&start=400"
+    }
+  }
+}

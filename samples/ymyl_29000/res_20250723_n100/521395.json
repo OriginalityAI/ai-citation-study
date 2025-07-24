@@ -1,0 +1,2144 @@
+{
+  "search_metadata": {
+    "id": "688163b765f701f47f05d1b5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/afd31b4062f21617/688163b765f701f47f05d1b5.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/afd31b4062f21617/688163b765f701f47f05d1b5.json_with_pixel_position",
+    "created_at": "2025-07-23 22:35:35 UTC",
+    "processed_at": "2025-07-23 22:35:35 UTC",
+    "google_url": "https://www.google.com/search?q=is+it+safe+to+email+social+security+number&oq=is+it+safe+to+email+social+security+number&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/afd31b4062f21617/688163b765f701f47f05d1b5.html",
+    "total_time_taken": 4.39
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "is it safe to email social security number",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "is it safe to email social security number",
+    "total_results": 1680000000,
+    "time_taken_displayed": 0.56,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the safest way to send your Social Security number?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "The safest way to send a Social Security number (SSN) is in person or through a secure, government-approved channel. Avoid sending it via email, text, or unsecured online forms. If absolutely necessary to send it electronically, use a secure online portal or encrypted email with strong security measures, but always prioritize face-to-face or official channels.",
+          "snippet_highlighted_words": [
+            "in person or through a secure, government-approved channel"
+          ],
+          "reference_indexes": [
+            0,
+            1,
+            4,
+            7,
+            10
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Why it's not safe to send SSNs electronically via email or text:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Phishing and scams:",
+              "snippet": "Criminals often use phishing emails and texts to trick people into revealing sensitive information like SSNs.",
+              "reference_indexes": [
+                1,
+                6
+              ]
+            },
+            {
+              "title": "Lack of security:",
+              "snippet": "Email and text messages are not encrypted by default, making them vulnerable to interception by hackers or malicious actors.",
+              "reference_indexes": [
+                1,
+                4,
+                11,
+                13
+              ]
+            },
+            {
+              "title": "Identity theft:",
+              "snippet": "Stolen SSNs can be used for various fraudulent activities, including identity theft and financial fraud.",
+              "reference_indexes": [
+                2,
+                4
+              ]
+            },
+            {
+              "title": "Data breaches:",
+              "snippet": "Email providers and online services can be vulnerable to data breaches, potentially exposing sensitive information like SSNs.",
+              "reference_indexes": [
+                1,
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Safe alternatives:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "In person:",
+              "snippet": "If possible, share your SSN in person with the recipient.",
+              "reference_indexes": [
+                1
+              ]
+            },
+            {
+              "title": "Secure government channels:",
+              "snippet": "Use secure online portals or websites provided by the government or reputable organizations.",
+              "reference_indexes": [
+                1,
+                7
+              ]
+            },
+            {
+              "title": "Password managers:",
+              "snippet": "If using a password manager like 1Password, ensure it has strong encryption and sharing features.",
+              "reference_indexes": [
+                3,
+                8
+              ]
+            },
+            {
+              "title": "Encrypted email:",
+              "snippet": "If using email, use an encrypted email service or ensure the recipient uses an encrypted email system, and consider using a password to encrypt the email or document.",
+              "reference_indexes": [
+                0,
+                1,
+                2,
+                5,
+                10
+              ]
+            },
+            {
+              "title": "Secure online portals:",
+              "snippet": "Some organizations offer secure online portals for sharing sensitive information. Check if the recipient has a secure portal and use it.",
+              "reference_indexes": [
+                1,
+                7,
+                10
+              ]
+            },
+            {
+              "title": "Phone call:",
+              "snippet": "If absolutely necessary, consider calling the recipient and sharing the information over the phone, but ensure they store it securely.",
+              "reference_indexes": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Important reminders:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Verify the sender:",
+              "snippet": "Always verify the identity of the person or organization requesting your SSN, especially if they are contacting you online or by phone.",
+              "reference_indexes": [
+                1,
+                4,
+                6
+              ]
+            },
+            {
+              "title": "Don't carry your SSN card:",
+              "snippet": "Keep your SSN card in a secure location and avoid carrying it with you unless absolutely necessary, according to the US Government Publishing Office.",
+              "reference_indexes": [
+                9
+              ]
+            },
+            {
+              "title": "Be cautious of unsolicited requests:",
+              "snippet": "Be wary of unsolicited requests for your SSN, especially if they seem suspicious or pushy.",
+              "reference_indexes": [
+                1,
+                6,
+                12
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Emailing SSN? : r/AskNetsec - Reddit",
+          "link": "https://www.reddit.com/r/AskNetsec/comments/1339qr0/emailing_ssn/#:~:text=I%20agree%20with%20everything%20illogic_bomb,it%20would%20be%20transmitted%20securely.",
+          "snippet": "Apr 29, 2023 — I agree with everything illogic_bomb posted here. Some more options could be a webex or teams call where you can show ...",
+          "source": "Reddit · r/AskNetsec",
+          "index": 0
+        },
+        {
+          "title": "Is it safe to text your social security number?",
+          "link": "https://greenlight.com/learning-center/family-safety/is-it-safe-to-text-social-security-number",
+          "snippet": "Feb 26, 2024",
+          "source": "Greenlight card",
+          "index": 1
+        },
+        {
+          "title": "Is It Safe to Email Your Social Security Number? (+ 5 Safety Tips)",
+          "link": "https://www.trustworthy.com/blog/safe-to-email-social-security-number#:~:text=Trustworthy%20for%20Sending%20Your%20Social,Provide%20Your%20Social%20Security%20Number",
+          "snippet": "Oct 3, 2024 — Trustworthy for Sending Your Social Security Number. Don't let your SSN fall into the wrong hands by sending it through...",
+          "source": "Trustworthy",
+          "index": 2
+        },
+        {
+          "title": "Is It Safe to Email Your Social Security Number? (+ 5 Safety Tips)",
+          "link": "https://www.trustworthy.com/blog/safe-to-email-social-security-number#:~:text=How%20to%20Protect%20Your%20SSN%20With%20a,keeping%20your%20information%20safe%20from%20unauthorized%20access.",
+          "snippet": "Oct 3, 2024 — How to Protect Your SSN With a Password Manager If you need to transmit your SSN, do it using secure methods like a pas...",
+          "source": "Trustworthy: The Family Operating System®",
+          "index": 3
+        },
+        {
+          "title": "Is It Safe to Email Your Social Security Number? (+ 5 Safety Tips)",
+          "link": "https://www.trustworthy.com/blog/family-security/safe-to-email-social-security-number#:~:text=However%2C%20you%20should%20never%20send,a%20password%20manager%20like%20Trustworthy.",
+          "snippet": "Oct 3, 2024 — However, you should never send your SSN by email. While it may seem convenient, sending your SSN through email exposes ...",
+          "source": "Trustworthy: The Family Operating System®",
+          "index": 4
+        },
+        {
+          "title": "email encryption instructions - SSA",
+          "link": "https://www.ssa.gov/appeals/documents/email_encryption_instructions.pdf",
+          "snippet": "1. Save the file to your hard drive. 2. Open Windows Explorer and locate the file. 3. Right click on the file. 4. Select “WinZip” ...",
+          "source": "SSA",
+          "index": 5
+        },
+        {
+          "title": "Is It Safe to Text Your Social Security Number? (5 Safety Tips)",
+          "link": "https://www.trustworthy.com/blog/family-security/safe-to-text-social-security-number#:~:text=4.,they%20finish%20using%20your%20SSN.",
+          "snippet": "Feb 1, 2023 — 4. Call the Recipient Instead. Instead of texting your SSN, you can deliver it through a phone call. This way, your SSN...",
+          "source": "Trustworthy: The Family Operating System®",
+          "index": 6
+        },
+        {
+          "title": "Social Security number & card",
+          "link": "https://www.ssa.gov/number-card#:~:text=Social%20Security%20number%20&%20card&text=SSA&text=A%20lock%20(%20A%20locked%20padlock,only%20on%20official%2C%20secure%20websites.",
+          "snippet": "Social Security number & card. ... SSA. ... A lock ( A locked padlock ) or https:// means you've safely connected to the .gov webs...",
+          "source": "Social Security Administration (.gov)",
+          "index": 7
+        },
+        {
+          "title": "How to store social security numbers in 1Password",
+          "link": "https://1password.com/resources/guides/how-to-store-social-security-number/#:~:text=Share%20your%20SSN%20securely%20with,link%2C%20or%20only%20specific%20people.",
+          "snippet": "Share your SSN securely with a password manager Need to send your children their social security numbers? Or share your SSN with y...",
+          "source": "1Password",
+          "index": 8
+        },
+        {
+          "title": "Tips to keep your Social Security number safe - gov.gpo.pueblo",
+          "link": "https://pueblo.gpo.gov/Publications/pdfs/CFPB466.pdf",
+          "snippet": "Don't carry your Social Security card or number in your wallet or purse. Keep your card somewhere safe at home. Never give your pe...",
+          "source": "U.S. Government Publishing Office (GPO) (.gov)",
+          "index": 9
+        },
+        {
+          "title": "Securing SSNs: Best Practices for Enterprise Data Protection - Strac",
+          "link": "https://www.strac.io/blog/how-to-protect-ssn#:~:text=4.,the%20security%20of%20sensitive%20information.",
+          "snippet": "Nov 23, 2024 — 4. Secure communication channels. When sending social security numbers, employ secure communication methods such as en...",
+          "source": "Strac.io",
+          "index": 10
+        },
+        {
+          "title": "How to safely share your credit card information [Tips from an IT Support Company]",
+          "link": "https://www.noctechnology.com/how-to-safely-share-your-credit-card-information-tips-from-an-it-support-company#:~:text=Although%20email%20and%20text%20are%20convenient%2C%20they,SMS%20texts.%20Emails%20are%20even%20more%20vulnerable.",
+          "snippet": "Although email and text are convenient, they are also easy targets. Simjacking, common malware, or cell network hackers can easily...",
+          "source": "NOC Technology",
+          "index": 11
+        },
+        {
+          "title": "Is It Safe to Provide My Social Security Number (SSN)?",
+          "link": "https://dimovtax.com/is-it-safe-to-provide-my-social-security-number-ssn/#:~:text=Warning%20Signs%20of%20Fraudulent%20Requests%20Be%20cautious,is%20requested%20under%20suspicious%20circumstances%20listed%20below:",
+          "snippet": "Jan 25, 2025 — Warning Signs of Fraudulent Requests Be cautious when the SSN ( Social Security Number ) is requested under suspicious...",
+          "source": "Dimov Tax & CPA Services",
+          "index": 12
+        },
+        {
+          "title": "How to Share a Password Safely and Securely in 2025 (4 Methods)",
+          "link": "https://blog.mailfence.com/share-a-password/#:~:text=Stop%20using%20unencrypted%20emails%20or%20text%20messages!,be%20intercepted%20by%20hackers%20or%20malicious%20actors.",
+          "snippet": "Oct 14, 2024 — Stop using unencrypted emails or text messages! One of the most prevalent methods of unsecured password sharing is thr...",
+          "source": "Mailfence Blog",
+          "index": 13
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRk1HUm5OSEphY0ZCdWFUUjRMV1UyV0hCdk9IQnZMWEZEWmkxbFlrNWhaa1JSTm10b1lVcDFhME5DUWpaMFpFRkhRMUJmTnpaMlQybDBSRWxZYWkxaldFaFBVV1Y0TFVOM2JERXRjSEV6VmsxMFptTlJaa2haYjFKRWR4SVhkVmRQUW1GUFlVaEpPVTlVZDJKclVERlFkbmswVVhjYUlrRkdUVUZIUjNCaVRWWjFRVlpWTlU0NGRETlFjMWRxUjNNMFduaHlMVlIyZUdjIiwiZmN2IjoiMyIsImVpIjoidVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXciLCJxYyI6IkNpcHBjeUJwZENCellXWmxJSFJ2SUdWdFlXbHNJSE52WTJsaGJDQnpaV04xY21sMGVTQnVkVzFpWlhJUUFIMmRkZ3dfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzYWZlc3Qgd2F5IHRvIHNlbmQgeW91ciBTb2NpYWwgU2VjdXJpdHkgbnVtYmVyPyIsImxrIjoiR2lsellXWmxjM1FnZDJGNUlIUnZJSE5sYm1RZ2MyOWphV0ZzSUhObFkzVnlhWFI1SUc1MWJXSmxjZyIsImJzIjoiYzNXUHNVN0RRQkJFbGZZcVN1TUNUY3FJUU9HV3dnMUNvWUFDRjlRYmU0TlhzdmVpdXpYSXZ3STlmOEkzMFJJYmdSUnMtbmx2Wmx6cnJoNXJNa2lFMVl4SU80NkdGLXBoSHBHMVF1LTdnTUtYUWcwS0xyc2cxa083ZHNzaFQ5NVBzX04wTlVQRmJ5QWVBMjdqbHJjUlltUFJHSzRwTUFoRmNmOHJmVnRsU005a0poZWpfcGhlRi03dWoycm9wWC1tUWhTazRKYWtBWmxSV2Jlc0JxOTQ0S29TeTVOUHkyN1NhNWs2NTc4TXhva3VqQzYzZFJmSDI1N2ttY2VQaHo2dmplamg4MzdmU0VrbVh2UGtZNTFkcG11Wk1zUGpXZVprOFFVIiwiaWQiOiJmY191V09CYU9hSEk5T1R3YmtQMVB2eTRRd18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRk1HUm5OSEphY0ZCdWFUUjRMV1UyV0hCdk9IQnZMWEZEWmkxbFlrNWhaa1JSTm10b1lVcDFhME5DUWpaMFpFRkhRMUJmTnpaMlQybDBSRWxZYWkxaldFaFBVV1Y0TFVOM2JERXRjSEV6VmsxMFptTlJaa2haYjFKRWR4SVhkVmRQUW1GUFlVaEpPVTlVZDJKclVERlFkbmswVVhjYUlrRkdUVUZIUjNCaVRWWjFRVlpWTlU0NGRETlFjMWRxUjNNMFduaHlMVlIyZUdjIiwiZmN2IjoiMyIsImVpIjoidVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXciLCJxYyI6IkNpcHBjeUJwZENCellXWmxJSFJ2SUdWdFlXbHNJSE52WTJsaGJDQnpaV04xY21sMGVTQnVkVzFpWlhJUUFIMmRkZ3dfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzYWZlc3Qgd2F5IHRvIHNlbmQgeW91ciBTb2NpYWwgU2VjdXJpdHkgbnVtYmVyPyIsImxrIjoiR2lsellXWmxjM1FnZDJGNUlIUnZJSE5sYm1RZ2MyOWphV0ZzSUhObFkzVnlhWFI1SUc1MWJXSmxjZyIsImJzIjoiYzNXUHNVN0RRQkJFbGZZcVN1TUNUY3FJUU9HV3dnMUNvWUFDRjlRYmU0TlhzdmVpdXpYSXZ3STlmOEkzMFJJYmdSUnMtbmx2Wmx6cnJoNXJNa2lFMVl4SU80NkdGLXBoSHBHMVF1LTdnTUtYUWcwS0xyc2cxa083ZHNzaFQ5NVBzX04wTlVQRmJ5QWVBMjdqbHJjUlltUFJHSzRwTUFoRmNmOHJmVnRsU005a0poZWpfcGhlRi03dWoycm9wWC1tUWhTazRKYWtBWmxSV2Jlc0JxOTQ0S29TeTVOUHkyN1NhNWs2NTc4TXhva3VqQzYzZFJmSDI1N2ttY2VQaHo2dmplamg4MzdmU0VrbVh2UGtZNTFkcG11Wk1zUGpXZVprOFFVIiwiaWQiOiJmY191V09CYU9hSEk5T1R3YmtQMVB2eTRRd18xIn0%3D"
+    },
+    {
+      "question": "Is it safe to share a SSN number?",
+      "type": "featured_snippet",
+      "snippet": "Thieves can try to trick you into giving them all or part of your number online or on the phone. Never give your personal information to someone who calls you and asks for it, even if they say they're from a bank or credit union. Be careful when giving people the last four digits of your number.",
+      "title": "Tips to keep your Social Security number safe - gov.gpo.pueblo",
+      "link": "https://pueblo.gpo.gov/Publications/pdfs/CFPB466.pdf",
+      "displayed_link": "https://pueblo.gpo.gov › pdfs › CFPB466",
+      "source_logo": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/e9f4fb6dead4cb0fd85efd8f33846b354bcc33a2c065217d523f5420b82a5f47.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRk1HUm5OSEphY0ZCdWFUUjRMV1UyV0hCdk9IQnZMWEZEWmkxbFlrNWhaa1JSTm10b1lVcDFhME5DUWpaMFpFRkhRMUJmTnpaMlQybDBSRWxZYWkxaldFaFBVV1Y0TFVOM2JERXRjSEV6VmsxMFptTlJaa2haYjFKRWR4SVhkVmRQUW1GUFlVaEpPVTlVZDJKclVERlFkbmswVVhjYUlrRkdUVUZIUjNCaVRWWjFRVlpWTlU0NGRETlFjMWRxUjNNMFduaHlMVlIyZUdjIiwiZmN2IjoiMyIsImVpIjoidVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXciLCJxYyI6IkNpcHBjeUJwZENCellXWmxJSFJ2SUdWdFlXbHNJSE52WTJsaGJDQnpaV04xY21sMGVTQnVkVzFpWlhJUUFIMmRkZ3dfIiwicXVlc3Rpb24iOiJJcyBpdCBzYWZlIHRvIHNoYXJlIGEgU1NOIG51bWJlcj8iLCJsayI6IkdoNXBjeUJwZENCellXWmxJSFJ2SUhOb1lYSmxJSE56YmlCdWRXMWlaWEkiLCJicyI6ImMzV1BzVTdEUUJCRWxmWXFTdU1DVGNxSVFPR1d3ZzFDb1lBQ0Y5UWJlNE5Yc3ZlaXV6WEl2d0k5ZjhJMzBSSWJnUlJzLW5sdlpsenJyaDVyTWtpRTFZeElPNDZHRi1waEhwRzFRdS03Z01LWFFnMEtMcnNnMWtPN2Rzc2hUOTVQc19OME5VUEZieUFlQTI3amxyY1JZbVBSR0s0cE1BaEZjZjhyZlZ0bFNNOWtKaGVqX3BoZUYtN3VqMnJvcFgtbVFoU2s0SmFrQVpsUldiZXNCcTk0NEtvU3k1TlB5MjdTYTVrNjU3OE14b2t1akM2M2RSZkgyNTdrbWNlUGh6NnZqZWpoODM3ZlNFa21YdlBrWTUxZHBtdVpNc1BqV2VaazhRVSIsImlkIjoiZmNfdVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXdfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRk1HUm5OSEphY0ZCdWFUUjRMV1UyV0hCdk9IQnZMWEZEWmkxbFlrNWhaa1JSTm10b1lVcDFhME5DUWpaMFpFRkhRMUJmTnpaMlQybDBSRWxZYWkxaldFaFBVV1Y0TFVOM2JERXRjSEV6VmsxMFptTlJaa2haYjFKRWR4SVhkVmRQUW1GUFlVaEpPVTlVZDJKclVERlFkbmswVVhjYUlrRkdUVUZIUjNCaVRWWjFRVlpWTlU0NGRETlFjMWRxUjNNMFduaHlMVlIyZUdjIiwiZmN2IjoiMyIsImVpIjoidVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXciLCJxYyI6IkNpcHBjeUJwZENCellXWmxJSFJ2SUdWdFlXbHNJSE52WTJsaGJDQnpaV04xY21sMGVTQnVkVzFpWlhJUUFIMmRkZ3dfIiwicXVlc3Rpb24iOiJJcyBpdCBzYWZlIHRvIHNoYXJlIGEgU1NOIG51bWJlcj8iLCJsayI6IkdoNXBjeUJwZENCellXWmxJSFJ2SUhOb1lYSmxJSE56YmlCdWRXMWlaWEkiLCJicyI6ImMzV1BzVTdEUUJCRWxmWXFTdU1DVGNxSVFPR1d3ZzFDb1lBQ0Y5UWJlNE5Yc3ZlaXV6WEl2d0k5ZjhJMzBSSWJnUlJzLW5sdlpsenJyaDVyTWtpRTFZeElPNDZHRi1waEhwRzFRdS03Z01LWFFnMEtMcnNnMWtPN2Rzc2hUOTVQc19OME5VUEZieUFlQTI3amxyY1JZbVBSR0s0cE1BaEZjZjhyZlZ0bFNNOWtKaGVqX3BoZUYtN3VqMnJvcFgtbVFoU2s0SmFrQVpsUldiZXNCcTk0NEtvU3k1TlB5MjdTYTVrNjU3OE14b2t1akM2M2RSZkgyNTdrbWNlUGh6NnZqZWpoODM3ZlNFa21YdlBrWTUxZHBtdVpNc1BqV2VaazhRVSIsImlkIjoiZmNfdVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXdfMSJ9"
+    },
+    {
+      "question": "Is it safe to send a Social Security number in an email attachment on Reddit?",
+      "type": "featured_snippet",
+      "snippet": "Sharing unencrypted SSNs is a major Compliance violation, think HIPAA, GLBA, or even GDPR if any international data is involved. If that email or file gets forwarded, stolen, or misrouted, it's potentially a reportable data breach.",
+      "title": "What to do? : r/sysadmin - Reddit",
+      "date": "Jun 9, 2025",
+      "link": "https://www.reddit.com/r/sysadmin/comments/1l72nak/what_to_do/#:~:text=Sharing%20unencrypted%20SSNs%20is%20a,potentially%20a%20reportable%20data%20breach.",
+      "displayed_link": "https://www.reddit.com › sysadmin › comments › what_t...",
+      "source_logo": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/e9f4fb6dead4cb0fd85efd8f33846b352a94501b6dcd5534fc1d4ca49491caeb.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRk1HUm5OSEphY0ZCdWFUUjRMV1UyV0hCdk9IQnZMWEZEWmkxbFlrNWhaa1JSTm10b1lVcDFhME5DUWpaMFpFRkhRMUJmTnpaMlQybDBSRWxZYWkxaldFaFBVV1Y0TFVOM2JERXRjSEV6VmsxMFptTlJaa2haYjFKRWR4SVhkVmRQUW1GUFlVaEpPVTlVZDJKclVERlFkbmswVVhjYUlrRkdUVUZIUjNCaVRWWjFRVlpWTlU0NGRETlFjMWRxUjNNMFduaHlMVlIyZUdjIiwiZmN2IjoiMyIsImVpIjoidVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXciLCJxYyI6IkNpcHBjeUJwZENCellXWmxJSFJ2SUdWdFlXbHNJSE52WTJsaGJDQnpaV04xY21sMGVTQnVkVzFpWlhJUUFIMmRkZ3dfIiwicXVlc3Rpb24iOiJJcyBpdCBzYWZlIHRvIHNlbmQgYSBTb2NpYWwgU2VjdXJpdHkgbnVtYmVyIGluIGFuIGVtYWlsIGF0dGFjaG1lbnQgb24gUmVkZGl0PyIsImxrIjoiY3czR3NRMkFNQXdFd0Qyb2ZoZ1dNWWtSTHlXT1pIOEt0b2VyN2poWm9GQjJPN1JRSGgyMUdtMzhienVwRjdIbjVRa0dmQm9IVExMMlRBOGh2WGZxQXciLCJicyI6ImMzV1BzVTdEUUJCRWxmWXFTdU1DVGNxSVFPR1d3ZzFDb1lBQ0Y5UWJlNE5Yc3ZlaXV6WEl2d0k5ZjhJMzBSSWJnUlJzLW5sdlpsenJyaDVyTWtpRTFZeElPNDZHRi1waEhwRzFRdS03Z01LWFFnMEtMcnNnMWtPN2Rzc2hUOTVQc19OME5VUEZieUFlQTI3amxyY1JZbVBSR0s0cE1BaEZjZjhyZlZ0bFNNOWtKaGVqX3BoZUYtN3VqMnJvcFgtbVFoU2s0SmFrQVpsUldiZXNCcTk0NEtvU3k1TlB5MjdTYTVrNjU3OE14b2t1akM2M2RSZkgyNTdrbWNlUGh6NnZqZWpoODM3ZlNFa21YdlBrWTUxZHBtdVpNc1BqV2VaazhRVSIsImlkIjoiZmNfdVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXdfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRk1HUm5OSEphY0ZCdWFUUjRMV1UyV0hCdk9IQnZMWEZEWmkxbFlrNWhaa1JSTm10b1lVcDFhME5DUWpaMFpFRkhRMUJmTnpaMlQybDBSRWxZYWkxaldFaFBVV1Y0TFVOM2JERXRjSEV6VmsxMFptTlJaa2haYjFKRWR4SVhkVmRQUW1GUFlVaEpPVTlVZDJKclVERlFkbmswVVhjYUlrRkdUVUZIUjNCaVRWWjFRVlpWTlU0NGRETlFjMWRxUjNNMFduaHlMVlIyZUdjIiwiZmN2IjoiMyIsImVpIjoidVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXciLCJxYyI6IkNpcHBjeUJwZENCellXWmxJSFJ2SUdWdFlXbHNJSE52WTJsaGJDQnpaV04xY21sMGVTQnVkVzFpWlhJUUFIMmRkZ3dfIiwicXVlc3Rpb24iOiJJcyBpdCBzYWZlIHRvIHNlbmQgYSBTb2NpYWwgU2VjdXJpdHkgbnVtYmVyIGluIGFuIGVtYWlsIGF0dGFjaG1lbnQgb24gUmVkZGl0PyIsImxrIjoiY3czR3NRMkFNQXdFd0Qyb2ZoZ1dNWWtSTHlXT1pIOEt0b2VyN2poWm9GQjJPN1JRSGgyMUdtMzhienVwRjdIbjVRa0dmQm9IVExMMlRBOGh2WGZxQXciLCJicyI6ImMzV1BzVTdEUUJCRWxmWXFTdU1DVGNxSVFPR1d3ZzFDb1lBQ0Y5UWJlNE5Yc3ZlaXV6WEl2d0k5ZjhJMzBSSWJnUlJzLW5sdlpsenJyaDVyTWtpRTFZeElPNDZHRi1waEhwRzFRdS03Z01LWFFnMEtMcnNnMWtPN2Rzc2hUOTVQc19OME5VUEZieUFlQTI3amxyY1JZbVBSR0s0cE1BaEZjZjhyZlZ0bFNNOWtKaGVqX3BoZUYtN3VqMnJvcFgtbVFoU2s0SmFrQVpsUldiZXNCcTk0NEtvU3k1TlB5MjdTYTVrNjU3OE14b2t1akM2M2RSZkgyNTdrbWNlUGh6NnZqZWpoODM3ZlNFa21YdlBrWTUxZHBtdVpNc1BqV2VaazhRVSIsImlkIjoiZmNfdVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXdfMSJ9"
+    },
+    {
+      "question": "Is it safe to give SSN on online application?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "Generally, it's not recommended to include your Social Security number (SSN) on online job applications, especially during the initial application process. Employers should not require it at this stage, and it's best to avoid sharing this sensitive information until a formal offer of employment is made.",
+          "snippet_highlighted_words": [
+            "it's not recommended to include your Social Security number (SSN) on online job applications"
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Here's why:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Identity Theft Risk:",
+              "snippet": "Providing your SSN on an application increases the risk of identity theft and fraud, especially if the application is not on a secure and trusted platform, according to the Social Security Administration."
+            },
+            {
+              "title": "Employer Practices:",
+              "snippet": "Employers generally don't need your SSN until they are ready to hire you for background checks or onboarding purposes, according to the Society for Human Resource Management."
+            },
+            {
+              "title": "Privacy Concerns:",
+              "snippet": "Your SSN is sensitive information, and it's best to protect it from unauthorized access."
+            },
+            {
+              "title": "Scams:",
+              "snippet": "Scammers may pose as employers to collect SSNs for malicious purposes."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Instead of including your SSN, you can:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Leave it blank (if allowed): Some online applications allow you to submit without entering your SSN."
+            },
+            {
+              "snippet": "Contact the employer: If the application requires it and you're uncomfortable providing it, contact the employer to inquire about their policy and if it's truly necessary at that stage."
+            },
+            {
+              "snippet": "Provide it later: Once you receive a formal job offer, the employer will likely need your SSN for background checks and onboarding paperwork. You can then provide it on a separate, secure form."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "In summary, protect your SSN and avoid sharing it on online applications unless absolutely necessary and you are confident in the employer and the application's security."
+        }
+      ],
+      "references": [
+        {
+          "title": "Job application asking for social security number? - Reddit",
+          "link": "https://www.reddit.com/r/jobs/comments/14zntiv/job_application_asking_for_social_security_number/#:~:text=Good%20luck%20%F0%9F%8D%80,references%20follow%20that%20should%20help.",
+          "snippet": "Jul 14, 2023 — Good luck 🍀 Upvote 7 Downvote Reply. Lucindoll. • 2y ago. It is illegal for them to require it tho. On a lot of online...",
+          "source": "Reddit · r/jobs",
+          "index": 0
+        },
+        {
+          "title": "Asking for Social Security Numbers on Job Applications",
+          "link": "https://www.goodhire.com/resources/articles/social-security-numbers-on-job-applications/#:~:text=Why%20Do%20Employers%20Ask%20For%20Social%20Security,importantly%2C%20to%20conduct%20a%20thorough%20background%20check.",
+          "snippet": "Apr 6, 2021 — Why Do Employers Ask For Social Security Numbers? This answer, of course, depends on the employer. More often than not,",
+          "source": "GoodHire",
+          "index": 1
+        },
+        {
+          "title": "Should I Put My Social Security Number on a Job Application? - iHire",
+          "link": "https://www.ihire.com/resourcecenter/jobseeker/pages/does-hr-really-need-my-social-security-number-for-a-job-application",
+          "snippet": "5 days ago — Nevertheless, you have the right to decline to share your Social Security number on a job application. You should also a...",
+          "source": "iHire",
+          "index": 2
+        },
+        {
+          "title": "Should you put your SSN on a job application? Why do companies ...",
+          "link": "https://www.reddit.com/r/interviews/comments/1km3ct9/should_you_put_your_ssn_on_a_job_application_why/#:~:text=you%20shouldn't%20give%20your,to%20work%20in%20the%20US.",
+          "snippet": "May 14, 2025 — you shouldn't give your SSN if you're applying and have yet to be interviewed, but they will need it once they've deci...",
+          "source": "Reddit · r/interviews",
+          "index": 3
+        },
+        {
+          "title": "Should I ever include my social security number on my resume or an application form? | Career & College Connection - Moore Norman Technology Center",
+          "link": "https://career-connection.mntc.edu/should-i-ever-include-my-social-security-number-my-resume-or-application-form",
+          "source": "Career & College Connection - Moore Norman Technology Center",
+          "index": 4
+        },
+        {
+          "title": "Can employers request an applicant's Social Security number on an employment application?",
+          "link": "https://www.shrm.org/topics-tools/tools/hr-answers/can-employers-request-applicants-social-security-number-employment-application",
+          "source": "SHRM",
+          "index": 5
+        },
+        {
+          "title": "Avoid Identity Theft: Protect Social Security Numbers",
+          "link": "https://www.ssa.gov/phila/ProtectingSSNs.htm#:~:text=An%20organization's%20collection%20and%20use%20of%20SSNs,employment%20histories%20and%20other%20private%20information%20increases.",
+          "snippet": "An organization's collection and use of SSNs can increase the risk of identity theft and fraud. Each time an individual divulges h...",
+          "source": "Social Security Administration (.gov)",
+          "index": 6
+        },
+        {
+          "title": "Employers shouldn't require your social security number as part of the...",
+          "link": "https://www.tiktok.com/@alifeafterlayoff/video/7374850712884432174",
+          "snippet": "May 30, 2024 — 513 Likes, 22 Comments. TikTok video from Bryan Creely - Career Coach (@alifeafterlayoff): “Employers shouldn't requir...",
+          "source": "TikTok - Make Your Day · Bryan Creely - Career Coach",
+          "index": 7
+        },
+        {
+          "title": "Managing H-2A Onboarding Without Social Security Numbers",
+          "link": "https://www.harvust.com/blog/how-to-fill-out-an-h-2a-workers-w-4-if-they-dont-have-a-social-security-number#:~:text=Leave%20the%20Social%20Security%20Number%20Field%20Blank:,leave%20the%20Social%20Security%20Number%20field%20blank.",
+          "snippet": "Feb 28, 2024 — Leave the Social Security Number Field Blank: If the worker does not yet have an SSN, they should leave the Social Sec...",
+          "source": "Harvust",
+          "index": 8
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRk1HUm5OSEphY0ZCdWFUUjRMV1UyV0hCdk9IQnZMWEZEWmkxbFlrNWhaa1JSTm10b1lVcDFhME5DUWpaMFpFRkhRMUJmTnpaMlQybDBSRWxZYWkxaldFaFBVV1Y0TFVOM2JERXRjSEV6VmsxMFptTlJaa2haYjFKRWR4SVhkVmRQUW1GUFlVaEpPVTlVZDJKclVERlFkbmswVVhjYUlrRkdUVUZIUjNCaVRWWjFRVlpWTlU0NGRETlFjMWRxUjNNMFduaHlMVlIyZUdjIiwiZmN2IjoiMyIsImVpIjoidVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXciLCJxYyI6IkNpcHBjeUJwZENCellXWmxJSFJ2SUdWdFlXbHNJSE52WTJsaGJDQnpaV04xY21sMGVTQnVkVzFpWlhJUUFIMmRkZ3dfIiwicXVlc3Rpb24iOiJJcyBpdCBzYWZlIHRvIGdpdmUgU1NOIG9uIG9ubGluZSBhcHBsaWNhdGlvbj8iLCJsayI6ImM1UFN5U3hXeUN4UktFNU1TMVVveVZkSXp5eExWU2d1emxQSUI2R2N6THhVaGNTQ2dwek01TVNTelB3OEFBIiwiYnMiOiJjM1dQc1U3RFFCQkVsZllxU3VNQ1RjcUlRT0dXd2cxQ29ZQUNGOVFiZTROWHN2ZWl1elhJdndJOWY4STMwUkliZ1JScy1ubHZabHpycmg1ck1raUUxWXhJTzQ2R0YtcGhIcEcxUXUtN2dNS1hRZzBLTHJzZzFrTzdkc3NoVDk1UHNfTjBOVVBGYnlBZUEyN2pscmNSWW1QUkdLNHBNQWhGY2Y4cmZWdGxTTTlrSmhlal9waGVGLTd1ajJyb3BYLW1RaFNrNEpha0FabFJXYmVzQnE5NDRLb1N5NU5QeTI3U2E1azY1NzhNeG9rdWpDNjNkUmZIMjU3a21jZVBoejZ2amVqaDgzN2ZTRWttWHZQa1k1MWRwbXVaTXNQaldlWms4UVUiLCJpZCI6ImZjX3VXT0JhT2FISTlPVHdia1AxUHZ5NFF3XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRk1HUm5OSEphY0ZCdWFUUjRMV1UyV0hCdk9IQnZMWEZEWmkxbFlrNWhaa1JSTm10b1lVcDFhME5DUWpaMFpFRkhRMUJmTnpaMlQybDBSRWxZYWkxaldFaFBVV1Y0TFVOM2JERXRjSEV6VmsxMFptTlJaa2haYjFKRWR4SVhkVmRQUW1GUFlVaEpPVTlVZDJKclVERlFkbmswVVhjYUlrRkdUVUZIUjNCaVRWWjFRVlpWTlU0NGRETlFjMWRxUjNNMFduaHlMVlIyZUdjIiwiZmN2IjoiMyIsImVpIjoidVdPQmFPYUhJOU9Ud2JrUDFQdnk0UXciLCJxYyI6IkNpcHBjeUJwZENCellXWmxJSFJ2SUdWdFlXbHNJSE52WTJsaGJDQnpaV04xY21sMGVTQnVkVzFpWlhJUUFIMmRkZ3dfIiwicXVlc3Rpb24iOiJJcyBpdCBzYWZlIHRvIGdpdmUgU1NOIG9uIG9ubGluZSBhcHBsaWNhdGlvbj8iLCJsayI6ImM1UFN5U3hXeUN4UktFNU1TMVVveVZkSXp5eExWU2d1emxQSUI2R2N6THhVaGNTQ2dwek01TVNTelB3OEFBIiwiYnMiOiJjM1dQc1U3RFFCQkVsZllxU3VNQ1RjcUlRT0dXd2cxQ29ZQUNGOVFiZTROWHN2ZWl1elhJdndJOWY4STMwUkliZ1JScy1ubHZabHpycmg1ck1raUUxWXhJTzQ2R0YtcGhIcEcxUXUtN2dNS1hRZzBLTHJzZzFrTzdkc3NoVDk1UHNfTjBOVVBGYnlBZUEyN2pscmNSWW1QUkdLNHBNQWhGY2Y4cmZWdGxTTTlrSmhlal9waGVGLTd1ajJyb3BYLW1RaFNrNEpha0FabFJXYmVzQnE5NDRLb1N5NU5QeTI3U2E1azY1NzhNeG9rdWpDNjNkUmZIMjU3a21jZVBoejZ2amVqaDgzN2ZTRWttWHZQa1k1MWRwbXVaTXNQaldlWms4UVUiLCJpZCI6ImZjX3VXT0JhT2FISTlPVHdia1AxUHZ5NFF3XzEifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "No, it is not safe to send your Social Security number via email. Email is not a secure method of communication for highly sensitive information like your SSN. Hackers can intercept emails, leading to potential identity theft and fraud if your SSN falls into the wrong hands.",
+        "snippet_highlighted_words": [
+          "No, it is not safe to send your Social Security number via email"
+        ],
+        "reference_indexes": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Why it's unsafe:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Easily intercepted:",
+            "snippet": "Email servers and networks are not always secure, and emails can be intercepted by malicious actors.",
+            "reference_indexes": [
+              2,
+              3
+            ]
+          },
+          {
+            "title": "Lack of encryption:",
+            "snippet": "Standard email encryption is often not strong enough to protect sensitive data like your SSN.",
+            "reference_indexes": [
+              1,
+              3,
+              6
+            ]
+          },
+          {
+            "title": "Phishing attacks:",
+            "snippet": "Email can be subject to phishing attacks, where hackers impersonate legitimate organizations to trick you into revealing your SSN.",
+            "reference_indexes": [
+              3,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Safer alternatives:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Secure online portals:",
+            "snippet": "Use secure, password-protected portals offered by banks, government agencies, or employers to submit your SSN.",
+            "reference_indexes": [
+              1,
+              7,
+              8
+            ]
+          },
+          {
+            "title": "Encrypted file-sharing services:",
+            "snippet": "If you need to share files containing your SSN, use reputable encrypted file-sharing services with robust security features.",
+            "reference_indexes": [
+              1,
+              4
+            ]
+          },
+          {
+            "title": "Password-protected documents:",
+            "snippet": "If you must send your SSN via email, encrypt the document containing it with a strong password and communicate the password separately.",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "title": "Avoid sending it altogether:",
+            "snippet": "If possible, avoid sending your SSN via email and explore alternative methods of providing the information, recommends Experian.",
+            "reference_indexes": [
+              1,
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "In short, always prioritize secure methods of communication when dealing with your Social Security number to protect yourself from identity theft and fraud.",
+        "reference_indexes": [
+          1,
+          3
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "email encryption instructions - SSA",
+        "link": "https://www.ssa.gov/appeals/documents/email_encryption_instructions.pdf",
+        "snippet": "1. Click the File tab. 2. Click Info. 3. Click Protect Document. 4. Click Encrypt with Password. 5. In the Encrypt Document box, t...",
+        "source": "SSA",
+        "index": 0
+      },
+      {
+        "title": "How to Keep Your Social Security Number Safe - Experian",
+        "link": "https://www.experian.com/blogs/ask-experian/how-to-keep-social-security-number-safe/#:~:text=Don't%20Send%20Your%20SSN%20by%20Email%20or%20Text%20Message,-While%20it%20might&text=Because%20a%20hacker%20might%20intercept,by%20banks%20and%20government%20agencies",
+        "snippet": "Don't Send Your SSN by Email or Text Message Because a hacker might intercept the number and use it to commit fraud. Safe alternat...",
+        "source": "Experian",
+        "index": 1
+      },
+      {
+        "title": "How to Keep Your Social Security Number Safe Online - AARP",
+        "link": "https://www.aarp.org/personal-technology/online-ssn-security-tips/#:~:text=Never%20send%20your%20Social%20Security,re%20in%20a%20different%20city.",
+        "snippet": "Aug 9, 2021 — Never send your Social Security number in regular email. If you're satisfied that the stranger you are dealing with is ...",
+        "source": "AARP",
+        "index": 2
+      },
+      {
+        "title": "Is It Safe to Email Your Social Security Number? (+ 5 Safety Tips)",
+        "link": "https://www.trustworthy.com/blog/family-security/safe-to-email-social-security-number#:~:text=However%2C%20you%20should%20never%20send,Social%20Security%20number%20through%20email.",
+        "snippet": "Oct 3, 2024 — However, you should never send your SSN by email. While it may seem convenient, sending your SSN through email exposes ...",
+        "source": "Trustworthy",
+        "index": 3
+      },
+      {
+        "title": "4 ways to send sensitive information via email - Proton",
+        "link": "https://proton.me/blog/securely-send-sensitive-information-via-email#:~:text=4.-,Use%20encrypted%20cloud%20storage,the%20link%20will%20be%20disabled.",
+        "snippet": "Dec 16, 2022 — Use encrypted cloud storage. All email services set a limit to the total size of attachments in an email (25 MB for Pr...",
+        "source": "Proton",
+        "index": 4
+      },
+      {
+        "title": "Is It Safe to Email Your Social Security Number (SSN)?",
+        "link": "https://www.exchangedefender.com/blog/2024/06/is-it-safe-to-email-your-social-security-number-ssn/#:~:text=How%20ExchangeDefender%20Helps:,attempts%20that%20target%20you%20specifically.",
+        "snippet": "Jun 4, 2024 — How ExchangeDefender Helps: While ExchangeDefender offers robust security features, it can't guarantee complete safety ...",
+        "source": "ExchangeDefender",
+        "index": 5
+      },
+      {
+        "title": "Is it a red flag if a recruiter asks for my SSN in email to begin the onboarding process? : r/ITCareerQuestions",
+        "link": "https://www.reddit.com/r/ITCareerQuestions/comments/5w0510/is_it_a_red_flag_if_a_recruiter_asks_for_my_ssn/#:~:text=Email%2C%20without%20encryption%2C%20does%20not%20afford%20that%20sort%20of%20security.",
+        "snippet": "Feb 24, 2017 — Email, without encryption, does not afford that sort of security.",
+        "source": "Reddit",
+        "index": 6
+      },
+      {
+        "title": "Should I Put My Social Security Number on a Job Application? - iHire",
+        "link": "https://www.ihire.com/resourcecenter/jobseeker/pages/does-hr-really-need-my-social-security-number-for-a-job-application#:~:text=Never%20transmit%20your%20SSN%20through,staying%20alert%20and%20asking%20questions.",
+        "snippet": "5 days ago — Never transmit your SSN through an unsecured email or text, which is vulnerable to interception by cybercriminals. If an...",
+        "source": "iHire",
+        "index": 7
+      },
+      {
+        "title": "Social Security provides crucial update on identity proofing for payments: 'You don't need to...'",
+        "link": "https://www.hindustantimes.com/world-news/us-news/social-security-provides-crucial-update-on-identity-proofing-for-payments-you-dont-need-to-101744180719072.html#:~:text=Additionally%2C%20the%20SSA%20(%20Social%20Security%20Administration,accessing%20their%20benefits%20or%20making%20necessary%20updates.",
+        "snippet": "Apr 9, 2025 — Additionally, the SSA ( Social Security Administration ) has been working to strengthen its online portals, making them...",
+        "source": "Hindustan Times",
+        "index": 8
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How bad is sending your social security number via email, ...",
+      "link": "https://www.reddit.com/r/cybersecurity_help/comments/18sttgn/how_bad_is_sending_your_social_security_number/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/cybersecurity_help/comments/18sttgn/how_bad_is_sending_your_social_security_number/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECDAQAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d75c1d69e1864ffa9209df04b5e94fb6e4.png",
+      "snippet": "It's not a good idea to send that via email, but not the worst privacy mistake you could have made. Email is point in time, so as long as you ...",
+      "snippet_highlighted_words": [
+        "It's not a good idea to send that via email"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Is it safe to send SSN over email? : r/AskNetsec - Reddit",
+            "link": "https://www.reddit.com/r/AskNetsec/comments/7sbmru/is_it_safe_to_send_ssn_over_email/",
+            "answer_count": 22,
+            "date": "Jan 23, 2018"
+          },
+          {
+            "title": "Emailing SSN? : r/AskNetsec - Reddit",
+            "link": "https://www.reddit.com/r/AskNetsec/comments/1339qr0/emailing_ssn/",
+            "answer_count": 10,
+            "date": "Apr 29, 2023"
+          }
+        ]
+      },
+      "source": "Reddit · r/cybersecurity_help"
+    },
+    {
+      "position": 2,
+      "title": "How To Send Your Social Security Number Safely",
+      "link": "https://www.keepersecurity.com/blog/2023/10/03/how-to-send-your-social-security-number-safely/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.keepersecurity.com/blog/2023/10/03/how-to-send-your-social-security-number-safely/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECC0QAQ",
+      "displayed_link": "https://www.keepersecurity.com › blog › 2023/10/03",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d75dfb57ad714a8c01440c46a4bf377bd8.png",
+      "date": "Oct 3, 2023",
+      "snippet": "Sending your Social Security number, or any other sensitive information, through email is never a secure sharing method. Standard email ...",
+      "snippet_highlighted_words": [
+        "Social Security number",
+        "email",
+        "secure",
+        "email"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "The Importance of Keeping...",
+            "link": "https://www.keepersecurity.com/blog/2023/10/03/how-to-send-your-social-security-number-safely/#h-the-importance-of-keeping-your-social-security-number-safe"
+          },
+          {
+            "title": "Why You Shouldn't Send Your...",
+            "link": "https://www.keepersecurity.com/blog/2023/10/03/how-to-send-your-social-security-number-safely/#h-why-you-shouldn-t-send-your-ssn-through-email"
+          }
+        ]
+      },
+      "source": "Keeper Security"
+    },
+    {
+      "position": 3,
+      "title": "email encryption instructions",
+      "link": "https://www.ssa.gov/appeals/documents/email_encryption_instructions.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ssa.gov/appeals/documents/email_encryption_instructions.pdf&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECEUQAQ",
+      "displayed_link": "https://www.ssa.gov › appeals › documents › em...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7f70640bba4b2e7b719159d844f8cd99c.png",
+      "snippet": "You must NEVER send the password in the same email message to which you attached the encrypted file. Page 5. 5. Alternate Encryption Methods. Microsoft Office.",
+      "snippet_highlighted_words": [
+        "email"
+      ],
+      "source": "Social Security Administration (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "How to Keep Your Social Security Number Safe",
+      "link": "https://www.experian.com/blogs/ask-experian/how-to-keep-social-security-number-safe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.experian.com/blogs/ask-experian/how-to-keep-social-security-number-safe/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCIECEAE",
+      "displayed_link": "https://www.experian.com › ... › Prevention",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d733545e8bf94a6ccdad5fa32a9e1acea9.png",
+      "snippet": "While it might be convenient, it's not safe to email or text your SSN. Why? Because a hacker might intercept the number and use it to commit fraud. Safe ...",
+      "snippet_highlighted_words": [
+        "it's not safe to email or text your SSN"
+      ],
+      "source": "Experian"
+    },
+    {
+      "position": 5,
+      "title": "My hiring manager is asking for my SSN. Is it advisable to ...",
+      "link": "https://www.quora.com/My-hiring-manager-is-asking-for-my-SSN-Is-it-advisable-to-share-it-over-email-How-can-I-respond-to-him",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/My-hiring-manager-is-asking-for-my-SSN-Is-it-advisable-to-share-it-over-email-How-can-I-respond-to-him&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECF0QAQ",
+      "displayed_link": "7 answers · 9 years ago",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d79fcd42be6e38c4456522fef4320af991.png",
+      "snippet": "Never write or send your social security number in an email or instant message. The majority of email messages can be intercepted and read in ...",
+      "snippet_highlighted_words": [
+        "Never write or send your social security number in an email"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Is it safe to send a Social Security number in an email ...",
+            "link": "https://www.quora.com/Is-it-safe-to-send-a-Social-Security-number-in-an-email-attachment",
+            "answer_count": 2,
+            "date": "Jul 13, 2022"
+          },
+          {
+            "title": "Can you put your Social Security number on an email ...",
+            "link": "https://www.quora.com/Can-you-put-your-Social-Security-number-on-an-email",
+            "answer_count": 10,
+            "date": "Oct 5, 2021"
+          }
+        ]
+      },
+      "source": "Quora"
+    },
+    {
+      "position": 6,
+      "title": "Is It Safe to Email Your Social Security Number? (+ 5 Safety ...",
+      "link": "https://www.trustworthy.com/blog/family-security/safe-to-email-social-security-number",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.trustworthy.com/blog/family-security/safe-to-email-social-security-number&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCK8BEAE",
+      "displayed_link": "https://www.trustworthy.com › blog › safe-to-email-soc...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d705393185751954145c66d0a2698a0e9f.png",
+      "date": "Oct 3, 2024",
+      "snippet": "You should never send your SSN by email. While it may seem convenient, sending your SSN through email exposes you to risks like identity theft and tax fraud.",
+      "snippet_highlighted_words": [
+        "You should never send your SSN by email"
+      ],
+      "source": "Trustworthy: The Family Operating System®"
+    },
+    {
+      "position": 7,
+      "title": "How to Keep Your Social Security Number Safe Online",
+      "link": "https://www.aarp.org/personal-technology/online-ssn-security-tips/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aarp.org/personal-technology/online-ssn-security-tips/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCIICEAE",
+      "displayed_link": "https://www.aarp.org › personal-technology › online-ss...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d74790b80abc8734d84a414d2f4673aa7b.png",
+      "date": "Aug 9, 2021",
+      "snippet": "Never send your Social Security number in regular email. If you're satisfied that the stranger you are dealing with is who they say they are ...",
+      "snippet_highlighted_words": [
+        "Never send your Social Security number in regular email"
+      ],
+      "source": "AARP"
+    },
+    {
+      "position": 8,
+      "title": "Protect Yourself from Social Security Scams | SSA",
+      "link": "https://www.ssa.gov/scam/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ssa.gov/scam/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCKYCEAE",
+      "displayed_link": "https://www.ssa.gov › scam",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7c7fa3e3560138080d256e861f7f3c118.png",
+      "date": "Dec 5, 2019",
+      "snippet": "Social Security will never ask for sensitive information through social media as these channels are not secure. Here are some ways to spot an ...",
+      "snippet_highlighted_words": [
+        "Social Security will never ask for sensitive information through social media"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Social Media Resources",
+            "link": "https://www.ssa.gov/scam/resources.html"
+          },
+          {
+            "title": "Report Scams",
+            "link": "https://secure.ssa.gov/oig/scam/"
+          },
+          {
+            "title": "Scam Alerts",
+            "link": "https://oig.ssa.gov/scam-awareness/prior-scam-alerts/"
+          }
+        ]
+      },
+      "source": "Social Security Administration (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "Should You Email Your Social Security Number? (It's Risky)",
+      "link": "https://your.sealit.id/blog/sending-social-security-number-through-email-sealit",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://your.sealit.id/blog/sending-social-security-number-through-email-sealit&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECEgQAQ",
+      "displayed_link": "https://your.sealit.id › blog › sending-social-security-nu...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7cb0744a0df718f104aa706f68d6f24e1.png",
+      "snippet": "Ask a cybersecurity expert whether you should send your social security number via email, and the answer will be “NO”.",
+      "snippet_highlighted_words": [
+        "social security number",
+        "email"
+      ],
+      "source": "sealit.id"
+    },
+    {
+      "position": 10,
+      "title": "How Encrypted Email Can Protect Your Privacy",
+      "link": "https://www.microsoft.com/en-us/microsoft-365-life-hacks/privacy-and-safety/how-encrypted-email-can-protect-your-privacy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microsoft.com/en-us/microsoft-365-life-hacks/privacy-and-safety/how-encrypted-email-can-protect-your-privacy&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECHwQAQ",
+      "displayed_link": "https://www.microsoft.com › en-us › privacy-and-safety",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7ef624543bd0da4870578fcb15ff34d35.png",
+      "snippet": "In short, no, it's not necessary to encrypt every email you send. Only emails with sensitive information like a credit card number, social security number, or ...",
+      "snippet_highlighted_words": [
+        "Only emails with sensitive information like a credit card number, social security number"
+      ],
+      "source": "Microsoft"
+    },
+    {
+      "position": 11,
+      "title": "How to Send Social Security Number Safely Via Email?",
+      "link": "https://nextdoorsec.com/how-to-send-social-security-number-safely-via-email/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nextdoorsec.com/how-to-send-social-security-number-safely-via-email/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCLABEAE",
+      "displayed_link": "https://nextdoorsec.com › how-to-send-social-security-n...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7816f54e732e0b77efb332b6ff191dd8e.png",
+      "date": "Mar 14, 2023",
+      "snippet": "The answer is No. Sending social security numbers through email is not recommended, as email is not a secure method of communication.",
+      "snippet_highlighted_words": [
+        "email is not a secure method of communication"
+      ],
+      "source": "NextdoorSEC"
+    },
+    {
+      "position": 12,
+      "title": "hello, Can a person get sued for emailing another ...",
+      "link": "https://answers.justia.com/question/2024/04/30/hello-can-a-person-get-sued-for-emailing-1012384",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://answers.justia.com/question/2024/04/30/hello-can-a-person-get-sued-for-emailing-1012384&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCNABEAE",
+      "displayed_link": "https://answers.justia.com › ... › Texas › Civil Rights",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7df65ed5b5ec54d71fa66df8d054831ec.png",
+      "date": "Apr 30, 2024",
+      "snippet": "A: Emailing someone's Social Security number without their permission may be illegal under various state and federal laws. Here are a few ...",
+      "snippet_highlighted_words": [
+        "may be illegal under various state and federal laws"
+      ],
+      "source": "Justia Ask A Lawyer"
+    },
+    {
+      "position": 13,
+      "title": "Guidelines for the Use of Social Security Numbers",
+      "link": "https://it.tulane.edu/guidelines-use-social-security-numbers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://it.tulane.edu/guidelines-use-social-security-numbers&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCIQCEAE",
+      "displayed_link": "https://it.tulane.edu › guidelines-use-social-security-num...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7384b4de24c301c06e391431bc1e5d4b5.png",
+      "snippet": "Sending SSNs via any insecure method (including the internet or by email) is prohibited. Departments should become familiar with methods of secure transmission ...",
+      "snippet_highlighted_words": [
+        "Sending SSNs via any insecure method (including the internet or by email) is prohibited"
+      ],
+      "source": "Tulane University Information Technology"
+    },
+    {
+      "position": 14,
+      "title": "Never Email Your Social Security Number, I Am Begging You",
+      "link": "https://lifehacker.com/never-email-your-social-security-number-i-am-begging-y-1844178304",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lifehacker.com/never-email-your-social-security-number-i-am-begging-y-1844178304&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCKICEAE",
+      "displayed_link": "https://lifehacker.com › Money › Personal Finance",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d75eb0e1286fb71a21511f20e7b97799a3.png",
+      "date": "Jul 1, 2020",
+      "snippet": "Don't email your Social Security number to anyone. Ever. Don't supply it to anyone who calls you out of the blue, who claims to have a good reason for needing ...",
+      "snippet_highlighted_words": [
+        "Don't email your Social Security number to anyone"
+      ],
+      "source": "Lifehacker"
+    },
+    {
+      "position": 15,
+      "title": "4 ways to send sensitive information via email",
+      "link": "https://proton.me/blog/securely-send-sensitive-information-via-email",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proton.me/blog/securely-send-sensitive-information-via-email&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCLwCEAE",
+      "displayed_link": "https://proton.me › blog › securely-send-sensitive-infor...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d74b5bf6489f38129c5f52cc3a7a4dc9d6.png",
+      "date": "Dec 16, 2022",
+      "snippet": "Emails you send with most providers aren't secure, but here's how you can securely send sensitive information by email.",
+      "snippet_highlighted_words": [
+        "Emails you send with most providers aren't secure"
+      ],
+      "source": "Proton"
+    },
+    {
+      "position": 16,
+      "title": "Is It Safe to Email Your Social Security Number (SSN)?",
+      "link": "https://www.exchangedefender.com/blog/2024/06/is-it-safe-to-email-your-social-security-number-ssn/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.exchangedefender.com/blog/2024/06/is-it-safe-to-email-your-social-security-number-ssn/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCL8CEAE",
+      "displayed_link": "https://www.exchangedefender.com › blog › 2024/06",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d79236373bd034784cf847d28d59e42637.jpeg",
+      "date": "Jun 4, 2024",
+      "snippet": "Sharing it via email is generally discouraged due to the inherent risks of data breaches and phishing scams. So, can ExchangeDefender, an email ...",
+      "snippet_highlighted_words": [
+        "Sharing it via email is generally discouraged"
+      ],
+      "source": "ExchangeDefender"
+    },
+    {
+      "position": 17,
+      "title": "Avoid Identity Theft: Protect Social Security Numbers",
+      "link": "https://www.ssa.gov/phila/ProtectingSSNs.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ssa.gov/phila/ProtectingSSNs.htm&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECEIQAQ",
+      "displayed_link": "https://www.ssa.gov › phila › ProtectingSSNs",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7d544f26f0d662b0e8ebf6b06b3a439b7.png",
+      "snippet": "Because the Internet is not secure, please do not send any personal information, especially social security numbers, in your feedback. Support. Contact us ...",
+      "snippet_highlighted_words": [
+        "please do not send any personal information, especially social security numbers"
+      ],
+      "source": "Social Security Administration (.gov)"
+    },
+    {
+      "position": 18,
+      "title": "How to Protect Your Social Security Number: 7 Tips ...",
+      "link": "https://www.identityiq.com/articles/6-tips-for-protecting-your-social-security-number",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.identityiq.com/articles/6-tips-for-protecting-your-social-security-number&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECGUQAQ",
+      "displayed_link": "https://www.identityiq.com › articles › 6-tips-for-protec...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7b9c7449b2ddce681a0cb75787a010d23.jpeg",
+      "date": "Jun 30, 2023",
+      "snippet": "Don't send your SSN in a message, such as an email, text, or instant message, from your electronic device. These messages could be intercepted ...",
+      "snippet_highlighted_words": [
+        "Don't send your SSN in a message, such as an email"
+      ],
+      "source": "IdentityIQ"
+    },
+    {
+      "position": 19,
+      "title": "Is it safe to text your social security number?",
+      "link": "https://greenlight.com/learning-center/family-safety/is-it-safe-to-text-social-security-number",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://greenlight.com/learning-center/family-safety/is-it-safe-to-text-social-security-number&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECH8QAQ",
+      "displayed_link": "https://greenlight.com › learning-center › family-safety",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7a240a46bd1b0b88c654ccccafd323af2.png",
+      "date": "Feb 26, 2024",
+      "snippet": "No, it is not safe to text your social security number. Text messages are not secure, and hacking or message interception is always a risk.",
+      "snippet_highlighted_words": [
+        "it is not safe to text your social security number"
+      ],
+      "source": "Greenlight card"
+    },
+    {
+      "position": 20,
+      "title": "10 Places Where You Should Never Give Your Social ...",
+      "link": "https://www.kiplinger.com/article/credit/t051-c011-s001-10-riskiest-places-to-give-your-social-security-nu.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kiplinger.com/article/credit/t051-c011-s001-10-riskiest-places-to-give-your-social-security-nu.html&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCJoBEAE",
+      "displayed_link": "https://www.kiplinger.com › Retirement › Social Security",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d77fd4710df0739dcbaf73c49fed0369e2.png",
+      "date": "6 days ago",
+      "snippet": "\"Avoid sharing your number with any organization unless you have initiated contact and are completely confident you are speaking to them,\" ...",
+      "snippet_highlighted_words": [
+        "number"
+      ],
+      "source": "Kiplinger"
+    },
+    {
+      "position": 21,
+      "title": "Putting Social Security Number on Email: Risks & Safety Tips",
+      "link": "https://cryptoscamdefensenetwork.com/putting-social-security-number-on-email/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cryptoscamdefensenetwork.com/putting-social-security-number-on-email/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCK4BEAE",
+      "displayed_link": "https://cryptoscamdefensenetwork.com › putting-social-s...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7f4114f2963beb347143c51299b6b282d.png",
+      "date": "Apr 18, 2025",
+      "snippet": "Putting Social Security Number on email might feel like a routine step, but it's a mistake with potentially serious consequences.",
+      "snippet_highlighted_words": [
+        "Social Security Number",
+        "email"
+      ],
+      "source": "cryptoscamdefensenetwork.com"
+    },
+    {
+      "position": 22,
+      "title": "Social Security Number Protection",
+      "link": "https://support.google.com/accounts/thread/87375623/social-security-number-protection?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.google.com/accounts/thread/87375623/social-security-number-protection%3Fhl%3Den&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCMwBEAE",
+      "displayed_link": "https://support.google.com › accounts › thread › social-s...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d72483511ceaf2cf47b919dbf222de8f52.png",
+      "date": "Dec 7, 2020",
+      "snippet": "It's just Google trying to protect you because your SSN and driver's license are sensitive info about you.",
+      "snippet_highlighted_words": [
+        "Google trying to protect you"
+      ],
+      "source": "Google Help"
+    },
+    {
+      "position": 23,
+      "title": "Why You Should Never Email a Social Security Number",
+      "link": "https://time.com/4344632/social-security-number-email-fraud-identity-theft-encryption/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://time.com/4344632/social-security-number-email-fraud-identity-theft-encryption/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCMoBEAE",
+      "displayed_link": "https://time.com › Tech › Security",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7218eff8ceef46d5729aef1786332aaf8.png",
+      "date": "May 23, 2016",
+      "snippet": "Sending a Social Security number via email without taking steps to protect it could make you or others vulnerable to hackers.",
+      "snippet_highlighted_words": [
+        "make you or others vulnerable to hackers"
+      ],
+      "source": "Time Magazine"
+    },
+    {
+      "position": 24,
+      "title": "Social Security email about online account; Is it legit?",
+      "link": "https://www.wgal.com/article/social-security-administration-email-is-it-real/64780331",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wgal.com/article/social-security-administration-email-is-it-real/64780331&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCO4BEAE",
+      "displayed_link": "https://www.wgal.com › article › social-security-admini...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d75ff12ec38bd2c1b305762d0485ed5578.jpeg",
+      "date": "May 16, 2025",
+      "snippet": "Social Security Administration email ... When it comes to your Social Security number or benefits, it's always a good idea to be cautious.",
+      "snippet_highlighted_words": [
+        "it's always a good idea to be cautious"
+      ],
+      "source": "WGAL"
+    },
+    {
+      "position": 25,
+      "title": "Protect Yourself from Social Security Scams",
+      "link": "http://larson.house.gov/services/protect-yourself-social-security-scams",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://larson.house.gov/services/protect-yourself-social-security-scams&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCIkCEAE",
+      "displayed_link": "http://larson.house.gov › services › protect-yourself-soci...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d75302638e91e5c68721f470724f313b30.jpeg",
+      "snippet": "The Social Security Administration, IRS , and Medicare do not email or text the public. They will send paper mail if they need your attention and action. In ...",
+      "snippet_highlighted_words": [
+        "Social Security",
+        "email"
+      ],
+      "source": "Congressman John Larson (.gov)"
+    },
+    {
+      "position": 26,
+      "title": "Protect your Social Security Number! How to Lock it to be safe.",
+      "link": "https://www.youtube.com/watch?v=QOJgPvyNoN0",
+      "displayed_link": "146.6K+ views · 9 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBmafknGK5RcN9Tw6w4g-aQ7aVwGa2gv6Ctx0EZtnFzSyo&s",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d73830edc24ec5477f58769b0a051c1ccf.png",
+      "snippet": "As per myE-verify: \"Locking your SSN in myE-Verify will not prevent the use of your SSN for anything other than E-Verify and Self Check.",
+      "duration": "22:43",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTlARfPcPDCr8vNCXeRrc-EYhZpGfvDlozjlA",
+      "source": "YouTube · Laptop Seniors | Retire Better"
+    },
+    {
+      "position": 27,
+      "title": "Your Social Security Number: Controlling the Key to Identity…",
+      "link": "https://oag.ca.gov/idtheft/facts/your-ssn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://oag.ca.gov/idtheft/facts/your-ssn&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCKUCEAE",
+      "displayed_link": "https://oag.ca.gov › idtheft › facts › your-ssn",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7bd526d308ba7ff40f3cd0f62db2d7c98.png",
+      "snippet": "There is no law that prevents businesses from asking for your SSN. And you may be denied service if you don't give the number. If giving your SSN to a business ...",
+      "snippet_highlighted_words": [
+        "There is no law that prevents businesses from asking for your SSN"
+      ],
+      "source": "State of California - Department of Justice (.gov)"
+    },
+    {
+      "position": 28,
+      "title": "Tips to keep your Social Security number safe",
+      "link": "https://pueblo.gpo.gov/Publications/pdfs/CFPB466.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pueblo.gpo.gov/Publications/pdfs/CFPB466.pdf&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCKECEAE",
+      "displayed_link": "https://pueblo.gpo.gov › pdfs › CFPB466",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d72e5ca2a088424f7f778c5e1a67aaeb7f.png",
+      "snippet": "Dishonest people can try to steal your Social. Security number. They can steal your wallet, purse, mail, or even your trash! Don't carry your.",
+      "snippet_highlighted_words": [
+        "Social",
+        "Security number"
+      ],
+      "source": "U.S. Government Publishing Office (GPO) (.gov)"
+    },
+    {
+      "position": 29,
+      "title": "my Social Security Security and Protection",
+      "link": "https://www.ssa.gov/myaccount/security.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ssa.gov/myaccount/security.html&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCLoCEAE",
+      "displayed_link": "https://www.ssa.gov › myaccount › security",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7c2a886a364e86c6b2a459a53143c6ba4.png",
+      "snippet": "Most emails from Social Security will come from a “.gov\" email address. If an email address does not end in “.gov”, use caution before opening attachments or ...",
+      "snippet_highlighted_words": [
+        "Most emails from Social Security will come from a “.gov\" email address"
+      ],
+      "source": "Social Security Administration (.gov)"
+    },
+    {
+      "position": 30,
+      "title": "Is It Safe to Email Your Social Security Number? Expert ...",
+      "link": "https://www.justanswer.com/consumer-protection-law/o6047-received-email-saying-social-security-number.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justanswer.com/consumer-protection-law/o6047-received-email-saying-social-security-number.html&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCMECEAE",
+      "displayed_link": "https://www.justanswer.com › consumer-protection-law",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7224df2a6c6250fb0150b9e4eabd242c9.png",
+      "date": "Feb 13, 2024",
+      "snippet": "It is 100% a scam. Your Social Security number does not just get deactivated and the fact that you got a call or an email or a message is a red ...",
+      "snippet_highlighted_words": [
+        "It is 100% a scam"
+      ],
+      "source": "JustAnswer"
+    },
+    {
+      "position": 31,
+      "title": "Social Security Administration (SSA)",
+      "link": "https://www.usa.gov/agencies/social-security-administration",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usa.gov/agencies/social-security-administration&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCLsCEAE",
+      "displayed_link": "https://www.usa.gov › agencies › social-security-admini...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d79b206f2ef96a298fe74adfb1cd8568e4.png",
+      "snippet": "The Social Security Administration (SSA) has two main functions. One is to assign Social Security numbers. The other is to run the Social Security retirement, ...",
+      "snippet_highlighted_words": [
+        "Social Security numbers"
+      ],
+      "source": "USA.gov"
+    },
+    {
+      "position": 32,
+      "title": "Is it Safe to Share Your Social Security Number? Experts ...",
+      "link": "https://www.yahoo.com/lifestyle/share-social-security-number-experts-223902256.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yahoo.com/lifestyle/share-social-security-number-experts-223902256.html&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCNsCEAE",
+      "displayed_link": "https://www.yahoo.com › lifestyle › share-social-securit...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7af399909b508023b387db79ab9240463.png",
+      "date": "Apr 11, 2025",
+      "snippet": "Here's when it's safe to share your Social Security Number and what to do if your private info was exposed in a data breach.",
+      "snippet_highlighted_words": [
+        "Here's when it's safe to share your Social Security Number"
+      ],
+      "source": "Yahoo.co"
+    },
+    {
+      "position": 33,
+      "title": "Social Security Administration (SSA)",
+      "link": "https://www.login.gov/help/specific-agencies/ssa/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.login.gov/help/specific-agencies/ssa/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECGMQAQ",
+      "displayed_link": "https://www.login.gov › help › specific-agencies › ssa",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d72e1178648301f3af2c7ee7fac7e6290a.png",
+      "snippet": "Please do not send Login.gov sensitive data about yourself or identifying numbers. Login.gov can only answer questions about the sign-in process and creating a ...",
+      "snippet_highlighted_words": [
+        "numbers"
+      ],
+      "source": "Login.gov"
+    },
+    {
+      "position": 34,
+      "title": "Important SSA Email You Shouldn't Ignore",
+      "link": "https://www.youtube.com/watch?v=LhopudcO4IU",
+      "displayed_link": "279.5K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfXcaya8b_Ve-uI7xHWf_hkovhmomEY3b-Zxzs9soNdem&s",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d793e79891c48000c05fa803ea527d11a8.png",
+      "snippet": "Don't ignore this email from the SSA. If you haven't received it yet, you will likely receive it soon. The SSA is making some changes that ...",
+      "duration": "3:03",
+      "missing": [
+        "number"
+      ],
+      "must_include": {
+        "word": "number",
+        "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=is+it+safe+to+email+social+security+%22number%22&sa=X&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ5t4CegUI1wIQEg"
+      },
+      "source": "YouTube · Devin Carroll, CFP®"
+    },
+    {
+      "position": 35,
+      "title": "Was Your SSN Found on the Dark Web? Do This",
+      "link": "https://www.identityguard.com/news/ssn-found-on-dark-web",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.identityguard.com/news/ssn-found-on-dark-web&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECGEQAQ",
+      "displayed_link": "https://www.identityguard.com › news › ssn-found-on-...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7aac672c24c5685de76afe55a4c2b2167.png",
+      "snippet": "If your SSN was found on the Dark Web, scammers could use it to steal your identity, money, and more. Here's what to do if your SSN has been compromised.",
+      "snippet_highlighted_words": [
+        "scammers could use it to steal your identity, money, and more"
+      ],
+      "source": "Identity Guard"
+    },
+    {
+      "position": 36,
+      "title": "Potential employer wants me to email my SSN with an ...",
+      "link": "https://security.stackexchange.com/questions/92575/potential-employer-wants-me-to-email-my-ssn-with-an-application-form-is-this-a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://security.stackexchange.com/questions/92575/potential-employer-wants-me-to-email-my-ssn-with-an-application-form-is-this-a&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECH4QAQ",
+      "displayed_link": "https://security.stackexchange.com › questions › potenti...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7f8408d6d2e201f9cb098439758b60511.png",
+      "date": "Jun 28, 2015",
+      "snippet": "I feel like this is a major personal security risk for myself. Is it? It may be. You may not be targeted specifically, but \"email is a ...",
+      "snippet_highlighted_words": [
+        "security",
+        "email"
+      ],
+      "source": "Information Security Stack Exchange"
+    },
+    {
+      "position": 37,
+      "title": "How to lock your Social Security number",
+      "link": "https://lifelock.norton.com/learn/identity-theft-resources/tips-to-help-protect-your-social-security-number?srsltid=AfmBOorPBMVMHYoVw7uL4HXBQ15QbUjrVshlD0-6DICxCttXQW1vaMfN",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lifelock.norton.com/learn/identity-theft-resources/tips-to-help-protect-your-social-security-number%3Fsrsltid%3DAfmBOorPBMVMHYoVw7uL4HXBQ15QbUjrVshlD0-6DICxCttXQW1vaMfN&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECH0QAQ",
+      "displayed_link": "https://lifelock.norton.com › Learn › Identity Theft",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d78eb66e89ac2fc461368ebce1d46ca541.png",
+      "date": "Apr 15, 2025",
+      "snippet": "1. Leave your Social Security card at home · 2. Store your SSN safely · 3. Only share your SSN when necessary · 4. Beware of phone, text, and email ...",
+      "snippet_highlighted_words": [
+        "Beware of phone, text, and email"
+      ],
+      "source": "LifeLock"
+    },
+    {
+      "position": 38,
+      "title": "[Social Security Number] in email — Need Help",
+      "link": "https://www.bogleheads.org/forum/viewtopic.php?t=370704",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bogleheads.org/forum/viewtopic.php%3Ft%3D370704&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCJsBEAE",
+      "displayed_link": "https://www.bogleheads.org › forum › viewtopic",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d73e5523abc55199b271a8253e4b6df528.png",
+      "date": "Feb 16, 2022",
+      "snippet": "A high percentage of e-mail is encrypted via TLS in transit - the last numbers I've seen put it in the low 90% range. It is not encrypted as a ...",
+      "snippet_highlighted_words": [
+        "numbers"
+      ],
+      "source": "Bogleheads"
+    },
+    {
+      "position": 39,
+      "title": "Self Lock",
+      "link": "https://www.e-verify.gov/employees/employee-self-services/mye-verify/self-lock",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.e-verify.gov/employees/employee-self-services/mye-verify/self-lock&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCJYBEAE",
+      "displayed_link": "https://www.e-verify.gov › employees › mye-verify › sel...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d76d2af5b8167d0abe4fda0567c5b006ee.png",
+      "date": "Sep 15, 2022",
+      "snippet": "Self Lock is the unique feature that lets you protect your identity in E-Verify and Self Check by placing a \"lock\" in E-Verify on your Social Security number ( ...",
+      "snippet_highlighted_words": [
+        "Self Lock is the unique feature that lets you protect your identity"
+      ],
+      "source": "E-Verify (.gov)"
+    },
+    {
+      "position": 40,
+      "title": "How can HR transmit sensitive information like social ...",
+      "link": "https://community.spiceworks.com/t/how-can-hr-transmit-sensitive-information-like-social-security-numbers/504975",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.spiceworks.com/t/how-can-hr-transmit-sensitive-information-like-social-security-numbers/504975&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCJcBEAE",
+      "displayed_link": "https://community.spiceworks.com › ... › discussion",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d716ecafca9a2e2a9fe8614ee0e9f8bb2f.png",
+      "date": "Jun 17, 2016",
+      "snippet": "New hires are emailing their SS# and other sensitive email to HR in unencrypted emails when requested by HR. We do have an encrypted email service.",
+      "snippet_highlighted_words": [
+        "email",
+        "email"
+      ],
+      "source": "Spiceworks Community"
+    },
+    {
+      "position": 41,
+      "title": "What to do if your Social Security Number (SSN) is exposed",
+      "link": "https://support.microsoft.com/en-us/topic/what-to-do-if-your-social-security-number-ssn-is-exposed-b08d677f-471d-41be-ac9b-f9f7109f7643",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.microsoft.com/en-us/topic/what-to-do-if-your-social-security-number-ssn-is-exposed-b08d677f-471d-41be-ac9b-f9f7109f7643&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCLMBEAE",
+      "displayed_link": "https://support.microsoft.com › en-us › topic › what-to-...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d79c2c809e513bb90181cfb2f6185cef49.png",
+      "snippet": "\"What could they do with my Social Security number?\" · First step - Place a temporary fraud alert on your credit · Second step - Get a copy of your credit report.",
+      "snippet_highlighted_words": [
+        "Social Security number"
+      ],
+      "source": "Microsoft Support"
+    },
+    {
+      "position": 42,
+      "title": "Social Security Administration Phishing Emails | Latest Alerts ...",
+      "link": "https://www.cyber.nj.gov/Home/Components/News/News/1687/214",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cyber.nj.gov/Home/Components/News/News/1687/214&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCLUBEAE",
+      "displayed_link": "https://www.cyber.nj.gov › Components › News › News",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d72e4dd9bf70118f62d7474dec6674dd3f.png",
+      "date": "Apr 24, 2025",
+      "snippet": "Also, the SSA will not threaten to suspend your Social Security number, demand immediate payment, warn of legal action, download “secure” ...",
+      "snippet_highlighted_words": [
+        "Social Security number",
+        "secure"
+      ],
+      "source": "NJCCIC (.gov)"
+    },
+    {
+      "position": 43,
+      "title": "IdentityTheft.gov - Social Security Administration SSA",
+      "link": "https://identitytheft.gov/SSA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://identitytheft.gov/SSA&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCMsBEAE",
+      "displayed_link": "https://identitytheft.gov › SSA",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7f04288d1c77439abb172db1399c03035.png",
+      "snippet": "Never give any part of your Social Security number to anyone who contacts you out of the blue. Or your bank account or credit card number. Real SSA staff do ...",
+      "snippet_highlighted_words": [
+        "Social Security number"
+      ],
+      "source": "IdentityTheft.gov"
+    },
+    {
+      "position": 44,
+      "title": "CNET: Is it Safe to Share Your Social Security Number? ...",
+      "link": "https://epic.org/cnet-is-it-safe-to-share-your-social-security-number-experts-explain-the-risks/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://epic.org/cnet-is-it-safe-to-share-your-social-security-number-experts-explain-the-risks/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCM4BEAE",
+      "displayed_link": "https://epic.org › cnet-is-it-safe-to-share-your-social-sec...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d77d81df094320a8324d4df8ac0bf15bf8.png",
+      "date": "Apr 11, 2025",
+      "snippet": "“Every time another entity stores your Social, it's one more chance for identity theft,” said Butler. Read more here. Support Our Work. EPIC's ...",
+      "snippet_highlighted_words": [
+        "Social"
+      ],
+      "source": "EPIC – Electronic Privacy Information Center"
+    },
+    {
+      "position": 45,
+      "title": "How To Recognize and Avoid Phishing Scams",
+      "link": "https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCOcBEAE",
+      "displayed_link": "https://consumer.ftc.gov › articles › how-recognize-and-...",
+      "snippet": "What To Do if You Responded to a Phishing Email ... If you think a scammer has your information, like your Social Security, credit card, or bank account number, ...",
+      "snippet_highlighted_words": [
+        "Email",
+        "Social Security",
+        "card",
+        "number"
+      ],
+      "source": "Federal Trade Commission (.gov)"
+    },
+    {
+      "position": 46,
+      "title": "Is It Safe To Text Social Security Numbers? 10 SSN Safety ...",
+      "link": "https://reasonlabs.com/blog/is-it-safe-to-text-social-security-numbers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://reasonlabs.com/blog/is-it-safe-to-text-social-security-numbers&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCO0BEAE",
+      "displayed_link": "https://reasonlabs.com › blog › is-it-safe-to-text-social-s...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d72c887f7fa672f2adfd7cfb1de9cfb151.png",
+      "snippet": "Is It Safe To Text Social Security Numbers? 10 SSN Safety Tips. July 04, 2023. img. logo Featured On. img. More Articles For You.",
+      "snippet_highlighted_words": [
+        "Is It Safe",
+        "Social Security Numbers"
+      ],
+      "source": "ReasonLabs"
+    },
+    {
+      "position": 47,
+      "title": "Disclosure of Social Security Numbers",
+      "link": "https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition/ssn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition/ssn&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCOkBEAE",
+      "displayed_link": "https://www.justice.gov › opcl › ssn",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7167829de93028bf77930519c2583b59b.png",
+      "date": "Oct 11, 2022",
+      "snippet": "(b) Any Federal, State, or local government agency which requests an individual to disclose his social security account number shall inform that ...",
+      "snippet_highlighted_words": [
+        "social security",
+        "number"
+      ],
+      "source": "Department of Justice (.gov)"
+    },
+    {
+      "position": 48,
+      "title": "Scam Email Targets Social Security Recipients",
+      "link": "https://njelders.com/scam-email-targets-social-security-recipients/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://njelders.com/scam-email-targets-social-security-recipients/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCIYCEAE",
+      "displayed_link": "https://njelders.com › Blog",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d770526bb4c66ebcab3888b0e8395af604.png",
+      "date": "Jun 10, 2025",
+      "snippet": "This dangerous email could end up directly in your general inbox, not your spam folder. The Social Security statement email scam may appear ...",
+      "snippet_highlighted_words": [
+        "dangerous email",
+        "Social Security",
+        "email"
+      ],
+      "source": "njelders.com"
+    },
+    {
+      "position": 49,
+      "title": "How To Protect Your Social Security Number From ...",
+      "link": "https://www.aura.com/learn/how-to-protect-your-social-security-number",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aura.com/learn/how-to-protect-your-social-security-number&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCIgCEAE",
+      "displayed_link": "https://www.aura.com › learn › how-to-protect-your-so...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d76af0c5562f6158425060b8e08c87ab28.png",
+      "date": "Jun 14, 2023",
+      "snippet": "Giving out your SSN on the phone or via email is risky, as you don't know for sure with whom you're sharing it. Even worse, when you're in ...",
+      "snippet_highlighted_words": [
+        "SSN",
+        "email"
+      ],
+      "source": "Aura"
+    },
+    {
+      "position": 50,
+      "title": "Limiting use of Social Security Numbers through mail - VA News",
+      "link": "https://news.va.gov/120249/limiting-social-security-numbers-through-mail/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.va.gov/120249/limiting-social-security-numbers-through-mail/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCIMCEAE",
+      "displayed_link": "https://news.va.gov › limiting-social-security-numbers-t...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d76e770b4ce71de79ec0ded6665d9a730b.png",
+      "date": "May 25, 2023",
+      "snippet": "The Social Security Number Fraud Prevention Act of 2017 restricts the inclusion of the SSN on any document or package sent by physical mail, unless required ...",
+      "snippet_highlighted_words": [
+        "Social Security Number"
+      ],
+      "source": "VA News (.gov)"
+    },
+    {
+      "position": 51,
+      "title": "The 6 Times You'll Need to Share Your Social Security ...",
+      "link": "https://www.idefendhome.com/blog/identityandfinancial/the-6-times-youll-need-to-share-your-social-security-number-and-when-not-to/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.idefendhome.com/blog/identityandfinancial/the-6-times-youll-need-to-share-your-social-security-number-and-when-not-to/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCIcCEAE",
+      "displayed_link": "https://www.idefendhome.com › Identity & Financial",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d76aa271600323a7a2ef26d521a06c50c7.png",
+      "date": "Oct 25, 2024",
+      "snippet": "Your Social Security card should be kept in a secure location, such as a locked safe or drawer, not in your wallet. If your wallet is lost or ...",
+      "snippet_highlighted_words": [
+        "Social Security card",
+        "secure",
+        "safe"
+      ],
+      "source": "idefendhome.com"
+    },
+    {
+      "position": 52,
+      "title": "Social Security Administration and ID.me",
+      "link": "https://help.id.me/hc/en-us/articles/4416182310039-Social-Security-Administration-and-ID-me",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.id.me/hc/en-us/articles/4416182310039-Social-Security-Administration-and-ID-me&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCJ0CEAE",
+      "displayed_link": "https://help.id.me › en-us › articles › 4416182310039-S...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7eb1bc3b3bce77c1c067415f81b24f7ab.png",
+      "snippet": "Your ID.me Wallet can offer seamless, secure access to the SSA. Follow the steps below to sign in or add a verified identity card. Sign in to SSA applications.",
+      "snippet_highlighted_words": [
+        "secure",
+        "card"
+      ],
+      "source": "ID.me Help Center"
+    },
+    {
+      "position": 53,
+      "title": "Fresh Phish: A New Social Security Phishing Scam Preys ...",
+      "link": "https://www.inky.com/en/blog/fresh-phish-a-new-social-security-phishing-scam-preys-upon-our-biggest-worries",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inky.com/en/blog/fresh-phish-a-new-social-security-phishing-scam-preys-upon-our-biggest-worries&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCJ4CEAE",
+      "displayed_link": "https://www.inky.com › blog › fresh-phish-a-new-socia...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7a7fe9b35f6dc03734051115be1bf6c5f.png",
+      "snippet": "The SSA will never ask for personal or banking information in an email, on a phone call, or through an online service. Get INKY. Preying upon our greatest ...",
+      "snippet_highlighted_words": [
+        "email"
+      ],
+      "source": "INKY Technology"
+    },
+    {
+      "position": 54,
+      "title": "Keep sensitive data safe: don't send in emails - UBIT",
+      "link": "https://www.buffalo.edu/ubit/news/article.host.html/content/shared/www/ubit/news/2019/keep-sensitive-data-safe.detail.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.buffalo.edu/ubit/news/article.host.html/content/shared/www/ubit/news/2019/keep-sensitive-data-safe.detail.html&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCKQCEAE",
+      "displayed_link": "https://www.buffalo.edu › shared › www › ubit › news",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d77c963d2c99c921ba068106001f19287f.png",
+      "date": "Mar 1, 2021",
+      "snippet": "What shouldn't I send in an email? · Social Security numbers · Driver's License numbers · Passport numbers · State-issue ID numbers · Any bank/ ...",
+      "snippet_highlighted_words": [
+        "email",
+        "Social Security numbers"
+      ],
+      "source": "University at Buffalo"
+    },
+    {
+      "position": 55,
+      "title": "Fake Social Security Statement emails trick users into ...",
+      "link": "https://www.malwarebytes.com/blog/news/2025/04/fake-social-security-statement-emails-trick-users-into-installing-remote-tool",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.malwarebytes.com/blog/news/2025/04/fake-social-security-statement-emails-trick-users-into-installing-remote-tool&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCKACEAE",
+      "displayed_link": "https://www.malwarebytes.com › blog › news › 2025/04",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d77f6fc72de8321f4dd055c24d2e8a59f5.png",
+      "date": "Apr 30, 2025",
+      "snippet": "Fake emails pretending to come from the US Social Security Administration (SSA) try to get targets to install ScreenConnect, a remote access tool.",
+      "snippet_highlighted_words": [
+        "Social Security"
+      ],
+      "source": "Malwarebytes"
+    },
+    {
+      "position": 56,
+      "title": "Scam Email Targets Social Security Recipients",
+      "link": "https://www.elderlawanswers.com/scam-email-targets-social-security-recipients-21076",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.elderlawanswers.com/scam-email-targets-social-security-recipients-21076&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCKMCEAE",
+      "displayed_link": "https://www.elderlawanswers.com › scam-email-targets-s...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7c10c00779469585b95b9e49714d893f1.png",
+      "date": "May 20, 2025",
+      "snippet": "You could receive a dangerous email from hack ... The executor, administrator, or next-of-kin should notify the SSA by calling the 800 number for ...",
+      "snippet_highlighted_words": [
+        "dangerous email",
+        "number"
+      ],
+      "source": "ElderLawAnswers"
+    },
+    {
+      "position": 57,
+      "title": "How to get, replace, or correct a Social Security card",
+      "link": "https://www.usa.gov/social-security-card",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usa.gov/social-security-card&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCMACEAE",
+      "displayed_link": "https://www.usa.gov › ... › Social Security",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7b68c36e928f9dbbeada1b69beb70408d.png",
+      "date": "Mar 19, 2025",
+      "snippet": "Email. Have a question? Ask a real person any government-related question for free. They will get you the answer or let you know where to ...",
+      "snippet_highlighted_words": [
+        "Email"
+      ],
+      "source": "USA.gov"
+    },
+    {
+      "position": 58,
+      "title": "Bank Has Emailed My Social Security Number",
+      "link": "https://security.stackexchange.com/questions/111721/bank-has-emailed-my-social-security-number",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://security.stackexchange.com/questions/111721/bank-has-emailed-my-social-security-number&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCL4CEAE",
+      "displayed_link": "https://security.stackexchange.com › questions › bank-h...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d758ef24db3aba9b9636d20007b921784d.png",
+      "date": "Jan 26, 2016",
+      "snippet": "There is a way to safely encrypt email, but you would know (without looking at the headers) since there must be a way for you to ...",
+      "snippet_highlighted_words": [
+        "email"
+      ],
+      "source": "Information Security Stack Exchange"
+    },
+    {
+      "position": 59,
+      "title": "Social Security",
+      "link": "https://secure.ssa.gov/emailus/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://secure.ssa.gov/emailus/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCL0CEAE",
+      "displayed_link": "https://secure.ssa.gov › emailus",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7c2a986de53cdb585fe8a7c435f1ac795.png",
+      "snippet": "Social Security. Email Our Support Team. Comments And Questions. Privacy Act Statement. Collection and Use of Personal Information. Section 205 of the Social ...",
+      "snippet_highlighted_words": [
+        "Social Security",
+        "Email",
+        "Social"
+      ],
+      "source": "Social Security Administration (.gov)"
+    },
+    {
+      "position": 60,
+      "title": "PROTECTING YOUR DIGITS: KEEPING YOUR SOCIAL ...",
+      "link": "https://www.youtube.com/watch?v=XO3Yn51uW9A",
+      "displayed_link": "100+ views · 4 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQibHCaKzgPJi_yyeiHcia2T1rDt5ytyLG-6GDVgyjwBHCY&s",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7d3074c6a3311da7ca17b8e29d859253f.png",
+      "snippet": "Your social security number is used for many things, but if it gets shared or stolen, anyone can become you. Here are tips on how to keep ...",
+      "duration": "1:30",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRDke_1HZ9kNx8KfmBLpR1n4y6vgwnIfkgglg",
+      "source": "YouTube · Ivanhoe Web"
+    },
+    {
+      "position": 61,
+      "title": "sending ssn",
+      "link": "https://community.docusign.com/esignature-111/sending-ssn-3067",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.docusign.com/esignature-111/sending-ssn-3067&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCMMCEAE",
+      "displayed_link": "https://community.docusign.com › esignature-111 › send...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d79033fc57c64485b62ee02fc817032af3.png",
+      "date": "Mar 14, 2024",
+      "snippet": "Besides the encryption used in the envelopes, you can, for example, add a Text Field in a document, named it as SSN, use the validation rule for ...",
+      "snippet_highlighted_words": [
+        "SSN"
+      ],
+      "source": "Docusign Community"
+    },
+    {
+      "position": 62,
+      "title": "Social Security Administration phishing scam targets retirees",
+      "link": "https://cyberguy.com/privacy/social-security-administration-phishing-scam/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cyberguy.com/privacy/social-security-administration-phishing-scam/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCN4CEAE",
+      "displayed_link": "https://cyberguy.com › privacy › social-security-admini...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7909f30dc2842610784c193e2ce42a5e6.png",
+      "date": "Jul 5, 2025",
+      "snippet": "Phishing emails and messages are among the most dangerous cybersecurity threats. One of the most common and harmful examples is the Social ...",
+      "snippet_highlighted_words": [
+        "dangerous",
+        "Social"
+      ],
+      "source": "Kurt the CyberGuy"
+    },
+    {
+      "position": 63,
+      "title": "How To Submit the FAFSA® Form if Your Contributor ...",
+      "link": "https://studentaid.gov/announcements-events/fafsa-support/contributor-social-security-number",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studentaid.gov/announcements-events/fafsa-support/contributor-social-security-number&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCN0CEAE",
+      "displayed_link": "https://studentaid.gov › fafsa-support › contributor-soci...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d759c15f04ef8a0f40124a943b71f769c5.png",
+      "snippet": "All contributors without an SSN, including those with an Individual Taxpayer Identification Number (ITIN), will need to manually enter their financial ...",
+      "snippet_highlighted_words": [
+        "SSN",
+        "Number"
+      ],
+      "source": "Federal Student Aid (.gov)"
+    },
+    {
+      "position": 64,
+      "title": "OPM rule removes Social Security numbers from mailed ...",
+      "link": "https://www.govexec.com/management/2024/04/opm-rule-removes-social-security-numbers-mailed-documents/395700/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.govexec.com/management/2024/04/opm-rule-removes-social-security-numbers-mailed-documents/395700/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCNwCEAE",
+      "displayed_link": "https://www.govexec.com › management › 2024/04 › o...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d73da1f2365d9dc3fa907c2409df255b19.png",
+      "date": "Apr 12, 2024",
+      "snippet": "After becoming law in September 2017, the Social Security Number Fraud Prevention Act prohibited federal agencies from using SSNs in any mailed ...",
+      "snippet_highlighted_words": [
+        "Social Security Number"
+      ],
+      "source": "Government Executive"
+    },
+    {
+      "position": 65,
+      "title": "Create your Login.gov account",
+      "link": "https://www.login.gov/help/get-started/create-your-account/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.login.gov/help/get-started/create-your-account/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECGAQAQ",
+      "displayed_link": "https://www.login.gov › help › get-started › create-your...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d727afade95c4f1f65718ac27336f6b7fe.png",
+      "snippet": "More secure: Security key; Face or touch unlock; Authentication application; PIV or CAC card for federal government employees or military. Less secure:.",
+      "snippet_highlighted_words": [
+        "secure",
+        "Security",
+        "card",
+        "secure"
+      ],
+      "source": "Login.gov"
+    },
+    {
+      "position": 66,
+      "title": "Is your Social Security Number Safe?",
+      "link": "https://dlctechnology.com/keep-your-ssn-safe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dlctechnology.com/keep-your-ssn-safe/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECGQQAQ",
+      "displayed_link": "https://dlctechnology.com › keep-your-ssn-safe",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d745c18f5a4c1ae30a42cd6aa4683a7ba6.png",
+      "date": "Dec 23, 2024",
+      "snippet": "Your SSN is a cornerstone of your identity. With it, hackers can gain access to your financial and personal information, impersonate you, open ...",
+      "snippet_highlighted_words": [
+        "SSN"
+      ],
+      "source": "DLC Technology"
+    },
+    {
+      "position": 67,
+      "title": "Think Twice Before Mailing a Social Security Number",
+      "link": "https://www.experityhealth.com/blog/think-twice-before-mailing-a-social-security-number/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.experityhealth.com/blog/think-twice-before-mailing-a-social-security-number/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECGcQAQ",
+      "displayed_link": "https://www.experityhealth.com › blog › think-twice-bef...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d79f6e94ce7c244e9e4008ec32644dd651.png",
+      "date": "Oct 11, 2016",
+      "snippet": "The intent is to help prevent identity theft, which is a fast-growing crime in the U.S.. A person's Social Security number has evolved into a ...",
+      "snippet_highlighted_words": [
+        "Social Security number"
+      ],
+      "source": "Experity"
+    },
+    {
+      "position": 68,
+      "title": "Social Security Representative Visiting Chile (appointments ...",
+      "link": "https://cl.usembassy.gov/u-s-social-security-services/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cl.usembassy.gov/u-s-social-security-services/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECGYQAQ",
+      "displayed_link": "https://cl.usembassy.gov › u-s-social-security-services",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7e429d62557c38f45e3065d6d0eee1257.png",
+      "date": "5 days ago",
+      "snippet": "Please include in the Subject line “APPOINTMENT SSA – SANTIAGO”. In the body of your email, please include your full name, date of birth, last 4 ...",
+      "snippet_highlighted_words": [
+        "email"
+      ],
+      "source": "U.S. Embassy in Chile (.gov)"
+    },
+    {
+      "position": 69,
+      "title": "Getting a Replacement Social Security Card",
+      "link": "https://www.charlie.com/articles/how-to-get-a-replacement-social-security-card-a-step-by-step-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.charlie.com/articles/how-to-get-a-replacement-social-security-card-a-step-by-step-guide&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECGIQAQ",
+      "displayed_link": "https://www.charlie.com › articles › how-to-get-a-replac...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7cca4ef0acc3ff4e7a5a020ee2a7a5a86.png",
+      "snippet": "Store it somewhere safe at home (don't keep it in your wallet). Consider a ... Please email us at privacy@charlie.com to request this information.",
+      "snippet_highlighted_words": [
+        "safe",
+        "email"
+      ],
+      "source": "Charlie Financial"
+    },
+    {
+      "position": 70,
+      "title": "Social Security Administration Email Scam",
+      "link": "https://www.pcrisk.com/removal-guides/33368-social-security-administration-email-scam",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcrisk.com/removal-guides/33368-social-security-administration-email-scam&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECHgQAQ",
+      "displayed_link": "https://www.pcrisk.com › removal-guides › 33368-soci...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d741a0a02f6f03fe5c73e748ecc71e5d66.jpeg",
+      "date": "Jul 15, 2025",
+      "snippet": "This deceptive email encourages recipients to review their Social Security records through a \"secure portal\". It claims this step is ...",
+      "snippet_highlighted_words": [
+        "email",
+        "Social Security",
+        "secure"
+      ],
+      "source": "PCrisk.com"
+    },
+    {
+      "position": 71,
+      "title": "Your Medicare Card",
+      "link": "https://www.medicare.gov/basics/get-started-with-medicare/using-medicare/your-medicare-card",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicare.gov/basics/get-started-with-medicare/using-medicare/your-medicare-card&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECHkQAQ",
+      "displayed_link": "https://www.medicare.gov › basics › using-medicare",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7d70f9325c766a0d677cebaaa8d94e319.png",
+      "snippet": "Your card has a Medicare Number that's unique to you — it's not your Social Security Number. ... so keep your Medicare card in a safe place. If you have.",
+      "snippet_highlighted_words": [
+        "Social Security Number",
+        "safe"
+      ],
+      "source": "medicare.gov"
+    },
+    {
+      "position": 72,
+      "title": "Receipts",
+      "link": "https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents/receipts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents/receipts&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECHsQAQ",
+      "displayed_link": "https://www.uscis.gov › form-i-9-acceptable-documents",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d71378ff15f7d4ae52b25a9464fdbd34e5.png",
+      "date": "Oct 16, 2024",
+      "snippet": "... Social Security card. Unexpired Form I-94 that contains a class of ... Email · Contact USCIS · U.S. Department of Homeland Security Seal.",
+      "snippet_highlighted_words": [
+        "Social Security card",
+        "Email"
+      ],
+      "source": "USCIS (.gov)"
+    },
+    {
+      "position": 73,
+      "title": "Fraudulent Electronic Communication - Illinois Tollway",
+      "link": "https://agency.illinoistollway.com/fraudulent-electronic-communication",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://agency.illinoistollway.com/fraudulent-electronic-communication&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECHoQAQ",
+      "displayed_link": "https://agency.illinoistollway.com › fraudulent-electronic...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d72805d26cbc0bd56776210e03954539ad.png",
+      "snippet": "Legitimate emails will never ask you to perform security-related changes to your account or send emails to collect user names, passwords, email addresses or ...",
+      "snippet_highlighted_words": [
+        "security",
+        "email"
+      ],
+      "source": "Tollway"
+    },
+    {
+      "position": 74,
+      "title": "Getting Your CAC",
+      "link": "https://www.cac.mil/Common-Access-Card/Getting-Your-CAC/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cac.mil/Common-Access-Card/Getting-Your-CAC/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCIABEAE",
+      "displayed_link": "https://www.cac.mil › Common-Access-Card › Getting-...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7eb8c7fe8e93eab82e0c79584b5b78557.png",
+      "snippet": "... Social Security Number (SSN), birthday, anniversary date, telephone number, or address. Your government unclassified email address if you use a government ...",
+      "snippet_highlighted_words": [
+        "Social Security Number",
+        "email"
+      ],
+      "source": "CAC.mil"
+    },
+    {
+      "position": 75,
+      "title": "Scam Email Targets Social Security Recipients",
+      "link": "https://strohscheinlawgroup.com/scam-email-targets-social-security-recipients/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://strohscheinlawgroup.com/scam-email-targets-social-security-recipients/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCJkBEAE",
+      "displayed_link": "https://strohscheinlawgroup.com › Blog",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d773ab67b1a6b96552c42ff2867c251c1d.png",
+      "date": "May 29, 2025",
+      "snippet": "... Social Security benefits, be careful of downloading email attachments. You could receive a dangerous email from hackers pretending to be the ...",
+      "snippet_highlighted_words": [
+        "Social Security",
+        "email",
+        "dangerous email"
+      ],
+      "source": "Strohschein Law Group"
+    },
+    {
+      "position": 76,
+      "title": "Is it safe to send an email attachment containing my SSN?",
+      "link": "https://www.early-retirement.org/threads/is-it-safe-to-send-an-email-attachment-containing-my-ssn.72027/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.early-retirement.org/threads/is-it-safe-to-send-an-email-attachment-containing-my-ssn.72027/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCJMBEAE",
+      "displayed_link": "https://www.early-retirement.org › ... › Other topics",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7a69ef870d616d7540f9c212d8373ce66.png",
+      "date": "May 16, 2014",
+      "snippet": "It's unlikely that someone would intercept the email and find your SSN in the scanned images (searching an image for text is much more difficult ...",
+      "snippet_highlighted_words": [
+        "email",
+        "SSN"
+      ],
+      "source": "early-retirement.org"
+    },
+    {
+      "position": 77,
+      "title": "Is It Safe To Provide My SSN On The Social Security ...",
+      "link": "https://www.youtube.com/watch?v=Kx4oSiig3P0",
+      "displayed_link": "20+ views · 3 weeks ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYxGvA7zcn5M5LTuSzwWSIr4O4g7ks8muNjwrWTTQJSbY&s",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7d85fe93581ad3698a1b9177f41ae9acf.png",
+      "snippet": "... Social Security number on the Social Security Administration (SSA) website. ... Additionally, we will highlight the importance of verifying email ...",
+      "duration": "4:38",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSkdFY0z9IXKQK6YwY6LIWqF2J5BEudJpbFPQ",
+      "source": "YouTube · County Office"
+    },
+    {
+      "position": 78,
+      "title": "Online Instructions | Washington State Department of Health",
+      "link": "https://doh.wa.gov/licenses-permits-and-certificates/professions-new-renew-or-update/apply-online/online-instructions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://doh.wa.gov/licenses-permits-and-certificates/professions-new-renew-or-update/apply-online/online-instructions&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCJgBEAE",
+      "displayed_link": "https://doh.wa.gov › apply-online › online-instructions",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d721ebeb36a87b0033de3f43e1d4306667.png",
+      "snippet": "Online applications are accessed through the Secure Access Washington (SAW) security portal ... Last name, date of birth, and social security number (SSN) are ...",
+      "snippet_highlighted_words": [
+        "Secure",
+        "social security number"
+      ],
+      "source": "Washington State Department of Health (.gov)"
+    },
+    {
+      "position": 79,
+      "title": "Individual taxpayer identification number (ITIN)",
+      "link": "https://www.irs.gov/tin/itin/individual-taxpayer-identification-number-itin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.irs.gov/tin/itin/individual-taxpayer-identification-number-itin&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCJQBEAE",
+      "displayed_link": "https://www.irs.gov › tin › individual-taxpayer-identifica...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7c13e41e99f1dd8d31aa449e327786d53.png",
+      "snippet": "What an ITIN is used for · Qualify you for Social Security benefits or the Earned Income Tax Credit · Provide or change immigration status · Authorize you to work ...",
+      "snippet_highlighted_words": [
+        "Social Security"
+      ],
+      "source": "IRS (.gov)"
+    },
+    {
+      "position": 80,
+      "title": "Homeland Security: Home",
+      "link": "https://www.dhs.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dhs.gov/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCJUBEAE",
+      "displayed_link": "https://www.dhs.gov",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7f8a6808150fac87391565573963e8b9c.png",
+      "snippet": "U.S. Department of Homeland Security: With honor and integrity, we will safeguard the American people, our homeland, and our values.",
+      "snippet_highlighted_words": [
+        "Security"
+      ],
+      "source": "Homeland Security (.gov)"
+    },
+    {
+      "position": 81,
+      "title": "Texas by Texas",
+      "link": "https://www.texas.gov/texas-by-texas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.texas.gov/texas-by-texas/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCLQBEAE",
+      "displayed_link": "https://www.texas.gov › texas-by-texas",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7d46fc82f797f9a7f806bb4b4c2f6ae23.png",
+      "snippet": "To create your own TxT account, you'll need a personal email address, mobile phone number, current Texas driver license or ID, and Social Security number. We ...",
+      "snippet_highlighted_words": [
+        "email",
+        "Social Security number"
+      ],
+      "source": "Texas.gov"
+    },
+    {
+      "position": 82,
+      "title": "myE-Verify",
+      "link": "https://www.e-verify.gov/employees/mye-verify",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.e-verify.gov/employees/mye-verify&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCLIBEAE",
+      "displayed_link": "https://www.e-verify.gov › employees › mye-verify",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d77d09ad37fd5045d0392538663ab3a2da.png",
+      "date": "Jun 9, 2025",
+      "snippet": "... safe and secure ... Why does Self Check need my name, date of birth, Social Security number, citizenship status, and document information?",
+      "snippet_highlighted_words": [
+        "safe",
+        "secure",
+        "Social Security number"
+      ],
+      "source": "E-Verify (.gov)"
+    },
+    {
+      "position": 83,
+      "title": "Verify a Census Bureau Survey, Mailing, or Contact",
+      "link": "https://www.census.gov/programs-surveys/surveyhelp/verify-a-survey.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.census.gov/programs-surveys/surveyhelp/verify-a-survey.html&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCLEBEAE",
+      "displayed_link": "https://www.census.gov › programs-surveys › surveyhelp",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d78aba3b4344c7d0c64ab17e775bb8d1a8.png",
+      "date": "Feb 28, 2025",
+      "snippet": "The Census Bureau will never ask for your full Social Security number, bank account numbers, or passwords. Email. Completing the survey ...",
+      "snippet_highlighted_words": [
+        "Social Security number",
+        "Email"
+      ],
+      "source": "Census.gov"
+    },
+    {
+      "position": 84,
+      "title": "How To Recover Your Hacked Email or Social Media ...",
+      "link": "https://consumer.ftc.gov/articles/how-recover-your-hacked-email-or-social-media-account",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://consumer.ftc.gov/articles/how-recover-your-hacked-email-or-social-media-account&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCLYBEAE",
+      "displayed_link": "https://consumer.ftc.gov › articles › how-recover-your-h...",
+      "snippet": "Some might want to steal your personal information — like your usernames and passwords, bank account numbers, or Social Security number — to commit identity ...",
+      "snippet_highlighted_words": [
+        "Social Security number"
+      ],
+      "source": "Federal Trade Commission (.gov)"
+    },
+    {
+      "position": 85,
+      "title": "Register",
+      "link": "https://www.sss.gov/register/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sss.gov/register/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCNIBEAE",
+      "displayed_link": "https://www.sss.gov › register",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d77a39713a73233f35c48eb000ab5998a2.png",
+      "snippet": "Thank you for doing your part to keep America safe and secure. Required information: Full name; Home address; Date of Birth; Social Security Number ... Email · X ...",
+      "snippet_highlighted_words": [
+        "safe",
+        "secure",
+        "Social Security Number",
+        "Email"
+      ],
+      "source": "Selective Service (.gov)"
+    },
+    {
+      "position": 86,
+      "title": "Privacy Policy - United States Department of State",
+      "link": "https://www.state.gov/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.state.gov/privacy-policy&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCM8BEAE",
+      "displayed_link": "https://www.state.gov › privacy-policy",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d781f7aa3f25e5edc45aec6485209981f1.png",
+      "snippet": "Therefore, we suggest that you do not send sensitive personal data (such as your Social Security number) to us via email. If your intended email communication ...",
+      "snippet_highlighted_words": [
+        "Social Security number",
+        "email",
+        "email"
+      ],
+      "source": "U.S. Department of State (.gov)"
+    },
+    {
+      "position": 87,
+      "title": "Applying for Medicaid - Virginia Medicaid",
+      "link": "https://www.dmas.virginia.gov/for-applicants/applying-for-medicaid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dmas.virginia.gov/for-applicants/applying-for-medicaid/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCNEBEAE",
+      "displayed_link": "https://www.dmas.virginia.gov › for-applicants › applyi...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d748602df940d5126ea28b9815460f1524.png",
+      "snippet": "Social Security numbers (or document numbers for any legal immigrants who need insurance) ... To keep your information secure, this email address only ...",
+      "snippet_highlighted_words": [
+        "Social Security numbers",
+        "secure",
+        "email"
+      ],
+      "source": "Virginia Medicaid (.gov)"
+    },
+    {
+      "position": 88,
+      "title": "Webchat, phone or post",
+      "link": "https://www.mygov.scot/contact-social-security-scotland",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mygov.scot/contact-social-security-scotland&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCM0BEAE",
+      "displayed_link": "https://www.mygov.scot › contact-social-security-scotland",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d77593b70ff54491afdd5471edb3e90671.png",
+      "date": "Jun 25, 2025",
+      "snippet": "You can contact Social Security Scotland by post, webchat, or on our freephone number from any phone.",
+      "snippet_highlighted_words": [
+        "Social Security",
+        "number"
+      ],
+      "source": "mygov.scot"
+    },
+    {
+      "position": 89,
+      "title": "Documents for Driver/ Nondriver License & Instruction Permit",
+      "link": "https://dor.mo.gov/driver-license/issuance/id-requirements.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dor.mo.gov/driver-license/issuance/id-requirements.html&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCOYBEAE",
+      "displayed_link": "https://dor.mo.gov › issuance › id-requirements",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d78d703f47a0d8418fdbf170986f4cf18b.jpeg",
+      "snippet": "... Security Administration (SSA) regarding the status of the applicant's Social Security number. ... Safe at Home program may submit their program card to ...",
+      "snippet_highlighted_words": [
+        "Social Security number",
+        "Safe"
+      ],
+      "source": "Missouri Department of Revenue (.gov)"
+    },
+    {
+      "position": 90,
+      "title": "Check Your Payments | Child Support Services - NY.Gov",
+      "link": "https://childsupport.ny.gov/payments/check",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://childsupport.ny.gov/payments/check&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCOgBEAE",
+      "displayed_link": "https://childsupport.ny.gov › payments › check",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d756d5277b75becf51634ec6a762672164.png",
+      "snippet": "Secure ny.gov ... To create an account, you will need your PIN , your Social Security number, your New York Case Identifier(s) , and a valid email address.",
+      "snippet_highlighted_words": [
+        "Secure",
+        "Social Security number",
+        "email"
+      ],
+      "source": "NY child support (.gov)"
+    },
+    {
+      "position": 91,
+      "title": "Social Security Phishing Scam Targets Retirees",
+      "link": "https://www.yahoo.com/lifestyle/articles/social-security-phishing-scam-targets-170237586.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yahoo.com/lifestyle/articles/social-security-phishing-scam-targets-170237586.html&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCOsBEAE",
+      "displayed_link": "https://www.yahoo.com › lifestyle › articles › social-sec...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7a18fe354a6c3b1bf698d0a2665ccc802.png",
+      "date": "Jul 10, 2025",
+      "snippet": "The most recent scam that is going around relates to a phishing email being sent explaining that your Social Security number is under ...",
+      "snippet_highlighted_words": [
+        "email",
+        "Social Security number"
+      ],
+      "source": "Yahoo.co"
+    },
+    {
+      "position": 92,
+      "title": "Cybercrime — FBI",
+      "link": "https://www.fbi.gov/investigate/cyber",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fbi.gov/investigate/cyber&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCOoBEAE",
+      "displayed_link": "https://www.fbi.gov › investigate › cyber",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7d833ad72e6e59d897842b4301c728d53.jpeg",
+      "snippet": "Business email compromise (BEC) ... Identity theft happens when someone steals your personal information, like your Social Security number, and uses it to commit ...",
+      "snippet_highlighted_words": [
+        "email",
+        "Social Security number"
+      ],
+      "source": "FBI (.gov)"
+    },
+    {
+      "position": 93,
+      "title": "A Step-by-Step Guide to Your Social Security Name Change",
+      "link": "https://www.charlie.com/articles/name-change-on-social-security-simple-steps-and-required-documents",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.charlie.com/articles/name-change-on-social-security-simple-steps-and-required-documents&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCOwBEAE",
+      "displayed_link": "https://www.charlie.com › articles › name-change-on-so...",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7c449c3205463dd8e4f63b079b0d13fa4.png",
+      "snippet": "Your Social Security number won't change — only your name will be updated. Store your new card in a safe place and avoid carrying it with you unless absolutely ...",
+      "snippet_highlighted_words": [
+        "Social Security number",
+        "safe"
+      ],
+      "source": "Charlie Financial"
+    },
+    {
+      "position": 94,
+      "title": "Best way to (safely) email my SSN? - AppleNova Forums",
+      "link": "https://forums.applenova.com/showthread.php?t=31348",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.applenova.com/showthread.php%3Ft%3D31348&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoFCIUCEAE",
+      "displayed_link": "https://forums.applenova.com › showthread",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d72dfee1228cb25f95a219840d6a5bc23b.jpeg",
+      "date": "Feb 2, 2009",
+      "snippet": "Give it to him in some kind of code or \"poor man's encryption\". Call him and tell him he's going to get the number, BUT that it'll be in reverse ...",
+      "snippet_highlighted_words": [
+        "number"
+      ],
+      "source": "applenova.com"
+    },
+    {
+      "position": 95,
+      "title": "UPDATE: Social Security Email Confusion? Here's What to ...",
+      "link": "https://www.youtube.com/watch?v=EasFTAjo0o8",
+      "displayed_link": "18.6K+ views · 2 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhq11ieuVKi7eMZEcXTpVMdBLzbxKErWjkWczT2egElDhw&s",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7b591dcad6c2f7e1d61632cd6db2f52ca.png",
+      "snippet": "... number of products ... Learn about the SSA's recent email prompting account updates and the transition to more secure login systems.",
+      "duration": "9:57",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQPzmMgLQXRKrbzm7hBAP20y0MqhHmCHFO6sw",
+      "source": "YouTube · Money Instructor"
+    },
+    {
+      "position": 96,
+      "title": "Is It Against the Law to Send an Email Containing Social ...",
+      "link": "https://www.justanswer.com/criminal-law/o705n-against-law-send-email-containing-social.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justanswer.com/criminal-law/o705n-against-law-send-email-containing-social.html&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECEcQAQ",
+      "displayed_link": "https://www.justanswer.com › Criminal Law",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d73449c34193bc34053d365afa1faa18a1.png",
+      "date": "Feb 16, 2024",
+      "snippet": "Is it against the law to send an email containing social security number and investment accounts account numbers and.",
+      "snippet_highlighted_words": [
+        "email",
+        "social security number"
+      ],
+      "source": "JustAnswer"
+    },
+    {
+      "position": 97,
+      "title": "Avoiding Student Aid Scams",
+      "link": "https://studentaid.gov/resources/scams",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studentaid.gov/resources/scams&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECEMQAQ",
+      "displayed_link": "https://studentaid.gov › resources › scams",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d772a172557ff6dc13e233c701a6370ef3.png",
+      "snippet": "Identity theft can occur when criminals access personal data such as names, Social Security numbers, and bank and credit card information. ... email address or ...",
+      "snippet_highlighted_words": [
+        "Social Security numbers",
+        "email"
+      ],
+      "source": "Federal Student Aid (.gov)"
+    },
+    {
+      "position": 98,
+      "title": "Commitment to Identity Security",
+      "link": "https://www.capitalone.com/digital/identity-protection/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.capitalone.com/digital/identity-protection/&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECEQQAQ",
+      "displayed_link": "https://www.capitalone.com › digital › identity-protection",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7cf1e709eaec3455731f7d0604fc66d75.png",
+      "snippet": "We restrict access to your Social Security Number except for authorized purposes. ... Keep sensitive documents in a safe place or shred them if you don't need ...",
+      "snippet_highlighted_words": [
+        "Social Security Number",
+        "safe"
+      ],
+      "source": "Capital One"
+    },
+    {
+      "position": 99,
+      "title": "Completing Section 1, Employee Information and Attestation",
+      "link": "https://www.uscis.gov/i-9-central/completing-form-i-9/completing-section-1-employee-information-and-attestation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uscis.gov/i-9-central/completing-form-i-9/completing-section-1-employee-information-and-attestation&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECEkQAQ",
+      "displayed_link": "https://www.uscis.gov › i-9-central › completing-form-i-9",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d7c7d0f805e6afd3318ef7b8f2ab1bf72c.png",
+      "date": "Apr 2, 2025",
+      "snippet": "Social Security number (Exception: Employees must provide their ... E-mail address (employees may receive email notifications from USCIS if you ...",
+      "snippet_highlighted_words": [
+        "Social Security number",
+        "email"
+      ],
+      "source": "USCIS (.gov)"
+    },
+    {
+      "position": 100,
+      "title": "Who Do You Trust with Your Social Security Number? | Forney ...",
+      "link": "https://www.yourforneymessenger.com/node/205270",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yourforneymessenger.com/node/205270&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQFnoECEYQAQ",
+      "displayed_link": "https://www.yourforneymessenger.com › node",
+      "favicon": "https://serpapi.com/searches/688163b765f701f47f05d1b5/images/f4468be10dc6e2f8786a4c7ee8b241d71707c790d8fd2fb5343148a34b0927ff.jpeg",
+      "date": "Jun 15, 2023",
+      "snippet": "So, who can you trust? Ultimately, your SSN should only be used for your earnings,. taxes, and opening a bank account. That is the sum total of ...",
+      "snippet_highlighted_words": [
+        "SSN"
+      ],
+      "source": "yourforneymessenger.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How to send Social Security number safely via text",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=How+to+send+Social+Security+number+safely+via+text&sa=X&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ1QJ6BQjzAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+send+Social+Security+number+safely+via+text"
+    },
+    {
+      "block_position": 1,
+      "query": "Employer asking for SSN over email",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=Employer+asking+for+SSN+over+email&sa=X&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ1QJ6BQj0AhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Employer+asking+for+SSN+over+email"
+    },
+    {
+      "block_position": 1,
+      "query": "Sending Social Security number through mail",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=Sending+Social+Security+number+through+mail&sa=X&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ1QJ6BQjyAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Sending+Social+Security+number+through+mail"
+    },
+    {
+      "block_position": 1,
+      "query": "Is it safe to email Social Security card to employer",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=Is+it+safe+to+email+Social+Security+card+to+employer&sa=X&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ1QJ6BQjxAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Is+it+safe+to+email+Social+Security+card+to+employer"
+    },
+    {
+      "block_position": 1,
+      "query": "Is it safe to send Social Security number by text",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=Is+it+safe+to+send+Social+Security+number+by+text&sa=X&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ1QJ6BQjwAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Is+it+safe+to+send+Social+Security+number+by+text"
+    },
+    {
+      "block_position": 1,
+      "query": "Is it safe to send Social security number by Gmail",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=Is+it+safe+to+send+Social+security+number+by+Gmail&sa=X&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ1QJ6BQjtAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Is+it+safe+to+send+Social+security+number+by+Gmail"
+    },
+    {
+      "block_position": 1,
+      "query": "How to send social security number safely Reddit",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=How+to+send+social+security+number+safely+Reddit&sa=X&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ1QJ6BQjvAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+send+social+security+number+safely+Reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Is it safe to send Social Security number by mail",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&q=Is+it+safe+to+send+Social+Security+number+by+mail&sa=X&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ1QJ6BQjuAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Is+it+safe+to+send+Social+Security+number+by+mail"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=is+it+safe+to+email+social+security+number&num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&ei=uWOBaOaHI9OTwbkP1Pvy4Qw&start=100&sa=N&sstk=Ac65TH4EicocmfqYma7d5jk9dy6ltnGSi6xZXQ1z3RXfScH51o6Jyv5zf-ewNIWdS3PWYCHbq2GUSRAGXXPRdoDwBv4U-NBlpvbV_Q&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ8NMDegQIDBAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=is+it+safe+to+email+social+security+number&num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&ei=uWOBaOaHI9OTwbkP1Pvy4Qw&start=100&sa=N&sstk=Ac65TH4EicocmfqYma7d5jk9dy6ltnGSi6xZXQ1z3RXfScH51o6Jyv5zf-ewNIWdS3PWYCHbq2GUSRAGXXPRdoDwBv4U-NBlpvbV_Q&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=is+it+safe+to+email+social+security+number&num=100&sca_esv=21b8fdcecfe5527b&gl=us&hl=en&ei=uWOBaOaHI9OTwbkP1Pvy4Qw&start=200&sa=N&sstk=Ac65TH4EicocmfqYma7d5jk9dy6ltnGSi6xZXQ1z3RXfScH51o6Jyv5zf-ewNIWdS3PWYCHbq2GUSRAGXXPRdoDwBv4U-NBlpvbV_Q&ved=2ahUKEwimyLmfhdSOAxXTSTABHdS9PMwQ8tMDegQIDBAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=is+it+safe+to+email+social+security+number&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=is+it+safe+to+email+social+security+number&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=is+it+safe+to+email+social+security+number&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=is+it+safe+to+email+social+security+number&start=200"
+    }
+  }
+}

@@ -1,0 +1,1563 @@
+{
+  "search_metadata": {
+    "id": "6881817cd0a88fbba1feace5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6faa9d256f6546df/6881817cd0a88fbba1feace5.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6faa9d256f6546df/6881817cd0a88fbba1feace5.json_with_pixel_position",
+    "created_at": "2025-07-24 00:42:36 UTC",
+    "processed_at": "2025-07-24 00:42:36 UTC",
+    "google_url": "https://www.google.com/search?q=view+my+tax+code&oq=view+my+tax+code&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6faa9d256f6546df/6881817cd0a88fbba1feace5.html",
+    "total_time_taken": 3.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "view my tax code",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "view my tax code",
+    "total_results": 1540000000,
+    "time_taken_displayed": 0.57,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How do I access the tax code?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVlWOWxOalU0WWpsaWFsVjNiR3hWUWtGME4xRXpla1l6WVc0dFdGODBOWFZ3YnpOVFgwTlNVMFZhVjBWYU5IcElhVlp6TFdGQ05GQTVibTg0YTFoeU0ybENXWEoyVFV4eE5tbDNiemh4TFdWWWRWRTVaV0ZIYjIxV1VSSVhaalJIUW1GTWFuQkpZMHc0Y0hSUlVIZzVZa1pwVVRBYUlrRkdUVUZIUjNKMFVrUjNibHBJYWpCR1ZISjNRMHhvWjBwWlgzSkVObmszY0ZFIiwiZmN2IjoiMyIsImVpIjoiZjRHQmFManBJY0w4cHRRUHg5YkZpUTAiLCJxYyI6IkNoQjJhV1YzSUcxNUlIUmhlQ0JqYjJSbEVBQjlnT05wUHciLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGFjY2VzcyB0aGUgdGF4IGNvZGU/IiwibGsiOiJHaHBvYjNjZ2RHOGdZV05qWlhOeklIUm9aU0IwWVhnZ1kyOWtaUSIsImJzIjoiYy1OeTRKTDF5QzlYU01sWDhGUklURTVPTFM1V0tNbElWU2hKckZCSXprOUp0WmY0eDJJa0l5V1ZBVlJUa285TkJWY1lsenJjaExUTXZCU0YzRXF3WkZscVVXWmFabkppU1daLUh0U3NfaW9qRFNtMURJanFUUHlxdVp5NFpKMFQ4NENHcHFlV2dGUjVCZ1dESlJUeTgzSXk4NENtN2NreWtwT1NTUWFxeVlTcHlTd3FSbGJERmNHbEFURWpKejhfVzZHMEFHWmJabDVhZmxFdXhES1ljYmR0akRTbDFDSEdFVlF1d0FnQSIsImlkIjoiZmNfZjRHQmFManBJY0w4cHRRUHg5YkZpUTBfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVlWOWxOalU0WWpsaWFsVjNiR3hWUWtGME4xRXpla1l6WVc0dFdGODBOWFZ3YnpOVFgwTlNVMFZhVjBWYU5IcElhVlp6TFdGQ05GQTVibTg0YTFoeU0ybENXWEoyVFV4eE5tbDNiemh4TFdWWWRWRTVaV0ZIYjIxV1VSSVhaalJIUW1GTWFuQkpZMHc0Y0hSUlVIZzVZa1pwVVRBYUlrRkdUVUZIUjNKMFVrUjNibHBJYWpCR1ZISjNRMHhvWjBwWlgzSkVObmszY0ZFIiwiZmN2IjoiMyIsImVpIjoiZjRHQmFManBJY0w4cHRRUHg5YkZpUTAiLCJxYyI6IkNoQjJhV1YzSUcxNUlIUmhlQ0JqYjJSbEVBQjlnT05wUHciLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGFjY2VzcyB0aGUgdGF4IGNvZGU%2FIiwibGsiOiJHaHBvYjNjZ2RHOGdZV05qWlhOeklIUm9aU0IwWVhnZ1kyOWtaUSIsImJzIjoiYy1OeTRKTDF5QzlYU01sWDhGUklURTVPTFM1V0tNbElWU2hKckZCSXprOUp0WmY0eDJJa0l5V1ZBVlJUa285TkJWY1lsenJjaExUTXZCU0YzRXF3WkZscVVXWmFabkppU1daLUh0U3NfaW9qRFNtMURJanFUUHlxdVp5NFpKMFQ4NENHcHFlV2dGUjVCZ1dESlJUeTgzSXk4NENtN2NreWtwT1NTUWFxeVlTcHlTd3FSbGJERmNHbEFURWpKejhfVzZHMEFHWmJabDVhZmxFdXhES1ljYmR0akRTbDFDSEdFVlF1d0FnQSIsImlkIjoiZmNfZjRHQmFManBJY0w4cHRRUHg5YkZpUTBfMSJ9"
+    },
+    {
+      "question": "How do I find my tax verification code?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVlWOWxOalU0WWpsaWFsVjNiR3hWUWtGME4xRXpla1l6WVc0dFdGODBOWFZ3YnpOVFgwTlNVMFZhVjBWYU5IcElhVlp6TFdGQ05GQTVibTg0YTFoeU0ybENXWEoyVFV4eE5tbDNiemh4TFdWWWRWRTVaV0ZIYjIxV1VSSVhaalJIUW1GTWFuQkpZMHc0Y0hSUlVIZzVZa1pwVVRBYUlrRkdUVUZIUjNKMFVrUjNibHBJYWpCR1ZISjNRMHhvWjBwWlgzSkVObmszY0ZFIiwiZmN2IjoiMyIsImVpIjoiZjRHQmFManBJY0w4cHRRUHg5YkZpUTAiLCJxYyI6IkNoQjJhV1YzSUcxNUlIUmhlQ0JqYjJSbEVBQjlnT05wUHciLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGZpbmQgbXkgdGF4IHZlcmlmaWNhdGlvbiBjb2RlPyIsImxrIjoiR2lab2IzY2daRzhnYVNCbWFXNWtJRzE1SUhSaGVDQjJaWEpwWm1sallYUnBiMjRnWTI5a1pRIiwiYnMiOiJjLU55NEpMMXlDOVhTTWxYOEZSSVRFNU9MUzVXS01sSVZTaEpyRkJJems5SnRaZjR4MklrSXlXVkFWUlRrbzlOQlZjWWx6cmNoTFRNdkJTRjNFcXdaRmxxVVdaYVpuSmlTV1otSHRTc19pb2pEU20xRElqcVRQeXF1Wnk0WkowVDg0Q0dwcWVXZ0ZSNUJnV0RKUlR5ODNJeTg0Q203Y2t5a3BPU1NRYXF5WVNweVN3cVJsYkRGY0dsQVRFakp6OF9XNkcwQUdaYlpsNWFmbEV1eERLWWNiZHRqRFNsMUNIR0VWUXV3QWdBIiwiaWQiOiJmY19mNEdCYUxqcEljTDhwdFFQeDliRmlRMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVlWOWxOalU0WWpsaWFsVjNiR3hWUWtGME4xRXpla1l6WVc0dFdGODBOWFZ3YnpOVFgwTlNVMFZhVjBWYU5IcElhVlp6TFdGQ05GQTVibTg0YTFoeU0ybENXWEoyVFV4eE5tbDNiemh4TFdWWWRWRTVaV0ZIYjIxV1VSSVhaalJIUW1GTWFuQkpZMHc0Y0hSUlVIZzVZa1pwVVRBYUlrRkdUVUZIUjNKMFVrUjNibHBJYWpCR1ZISjNRMHhvWjBwWlgzSkVObmszY0ZFIiwiZmN2IjoiMyIsImVpIjoiZjRHQmFManBJY0w4cHRRUHg5YkZpUTAiLCJxYyI6IkNoQjJhV1YzSUcxNUlIUmhlQ0JqYjJSbEVBQjlnT05wUHciLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGZpbmQgbXkgdGF4IHZlcmlmaWNhdGlvbiBjb2RlPyIsImxrIjoiR2lab2IzY2daRzhnYVNCbWFXNWtJRzE1SUhSaGVDQjJaWEpwWm1sallYUnBiMjRnWTI5a1pRIiwiYnMiOiJjLU55NEpMMXlDOVhTTWxYOEZSSVRFNU9MUzVXS01sSVZTaEpyRkJJems5SnRaZjR4MklrSXlXVkFWUlRrbzlOQlZjWWx6cmNoTFRNdkJTRjNFcXdaRmxxVVdaYVpuSmlTV1otSHRTc19pb2pEU20xRElqcVRQeXF1Wnk0WkowVDg0Q0dwcWVXZ0ZSNUJnV0RKUlR5ODNJeTg0Q203Y2t5a3BPU1NRYXF5WVNweVN3cVJsYkRGY0dsQVRFakp6OF9XNkcwQUdaYlpsNWFmbEV1eERLWWNiZHRqRFNsMUNIR0VWUXV3QWdBIiwiaWQiOiJmY19mNEdCYUxqcEljTDhwdFFQeDliRmlRMF8xIn0%3D"
+    },
+    {
+      "question": "Can I get my IRS code online?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVlWOWxOalU0WWpsaWFsVjNiR3hWUWtGME4xRXpla1l6WVc0dFdGODBOWFZ3YnpOVFgwTlNVMFZhVjBWYU5IcElhVlp6TFdGQ05GQTVibTg0YTFoeU0ybENXWEoyVFV4eE5tbDNiemh4TFdWWWRWRTVaV0ZIYjIxV1VSSVhaalJIUW1GTWFuQkpZMHc0Y0hSUlVIZzVZa1pwVVRBYUlrRkdUVUZIUjNKMFVrUjNibHBJYWpCR1ZISjNRMHhvWjBwWlgzSkVObmszY0ZFIiwiZmN2IjoiMyIsImVpIjoiZjRHQmFManBJY0w4cHRRUHg5YkZpUTAiLCJxYyI6IkNoQjJhV1YzSUcxNUlIUmhlQ0JqYjJSbEVBQjlnT05wUHciLCJxdWVzdGlvbiI6IkNhbiBJIGdldCBteSBJUlMgY29kZSBvbmxpbmU/IiwibGsiOiJHaHhqWVc0Z2FTQm5aWFFnYlhrZ2FYSnpJR052WkdVZ2IyNXNhVzVsIiwiYnMiOiJjLU55NEpMMXlDOVhTTWxYOEZSSVRFNU9MUzVXS01sSVZTaEpyRkJJems5SnRaZjR4MklrSXlXVkFWUlRrbzlOQlZjWWx6cmNoTFRNdkJTRjNFcXdaRmxxVVdaYVpuSmlTV1otSHRTc19pb2pEU20xRElqcVRQeXF1Wnk0WkowVDg0Q0dwcWVXZ0ZSNUJnV0RKUlR5ODNJeTg0Q203Y2t5a3BPU1NRYXF5WVNweVN3cVJsYkRGY0dsQVRFakp6OF9XNkcwQUdaYlpsNWFmbEV1eERLWWNiZHRqRFNsMUNIR0VWUXV3QWdBIiwiaWQiOiJmY19mNEdCYUxqcEljTDhwdFFQeDliRmlRMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVlWOWxOalU0WWpsaWFsVjNiR3hWUWtGME4xRXpla1l6WVc0dFdGODBOWFZ3YnpOVFgwTlNVMFZhVjBWYU5IcElhVlp6TFdGQ05GQTVibTg0YTFoeU0ybENXWEoyVFV4eE5tbDNiemh4TFdWWWRWRTVaV0ZIYjIxV1VSSVhaalJIUW1GTWFuQkpZMHc0Y0hSUlVIZzVZa1pwVVRBYUlrRkdUVUZIUjNKMFVrUjNibHBJYWpCR1ZISjNRMHhvWjBwWlgzSkVObmszY0ZFIiwiZmN2IjoiMyIsImVpIjoiZjRHQmFManBJY0w4cHRRUHg5YkZpUTAiLCJxYyI6IkNoQjJhV1YzSUcxNUlIUmhlQ0JqYjJSbEVBQjlnT05wUHciLCJxdWVzdGlvbiI6IkNhbiBJIGdldCBteSBJUlMgY29kZSBvbmxpbmU%2FIiwibGsiOiJHaHhqWVc0Z2FTQm5aWFFnYlhrZ2FYSnpJR052WkdVZ2IyNXNhVzVsIiwiYnMiOiJjLU55NEpMMXlDOVhTTWxYOEZSSVRFNU9MUzVXS01sSVZTaEpyRkJJems5SnRaZjR4MklrSXlXVkFWUlRrbzlOQlZjWWx6cmNoTFRNdkJTRjNFcXdaRmxxVVdaYVpuSmlTV1otSHRTc19pb2pEU20xRElqcVRQeXF1Wnk0WkowVDg0Q0dwcWVXZ0ZSNUJnV0RKUlR5ODNJeTg0Q203Y2t5a3BPU1NRYXF5WVNweVN3cVJsYkRGY0dsQVRFakp6OF9XNkcwQUdaYlpsNWFmbEV1eERLWWNiZHRqRFNsMUNIR0VWUXV3QWdBIiwiaWQiOiJmY19mNEdCYUxqcEljTDhwdFFQeDliRmlRMF8xIn0%3D"
+    },
+    {
+      "question": "Can I look up my tax information online?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVlWOWxOalU0WWpsaWFsVjNiR3hWUWtGME4xRXpla1l6WVc0dFdGODBOWFZ3YnpOVFgwTlNVMFZhVjBWYU5IcElhVlp6TFdGQ05GQTVibTg0YTFoeU0ybENXWEoyVFV4eE5tbDNiemh4TFdWWWRWRTVaV0ZIYjIxV1VSSVhaalJIUW1GTWFuQkpZMHc0Y0hSUlVIZzVZa1pwVVRBYUlrRkdUVUZIUjNKMFVrUjNibHBJYWpCR1ZISjNRMHhvWjBwWlgzSkVObmszY0ZFIiwiZmN2IjoiMyIsImVpIjoiZjRHQmFManBJY0w4cHRRUHg5YkZpUTAiLCJxYyI6IkNoQjJhV1YzSUcxNUlIUmhlQ0JqYjJSbEVBQjlnT05wUHciLCJxdWVzdGlvbiI6IkNhbiBJIGxvb2sgdXAgbXkgdGF4IGluZm9ybWF0aW9uIG9ubGluZT8iLCJsayI6IkdpZGpZVzRnYVNCc2IyOXJJSFZ3SUcxNUlIUmhlQ0JwYm1admNtMWhkR2x2YmlCdmJteHBibVUiLCJicyI6ImMtTnk0SkwxeUM5WFNNbFg4RlJJVEU1T0xTNVdLTWxJVlNoSnJGQkl6azlKdFpmNHgySWtJeVdWQVZSVGtvOU5CVmNZbHpyY2hMVE12QlNGM0Vxd1pGbHFVV1phWm5KaVNXWi1IdFNzX2lvakRTbTFESWpxVFB5cXVaeTRaSjBUODRDR3BxZVdnRlI1QmdXREpSVHk4M0l5ODRDbTdja3lrcE9TU1FhcXlZU3B5U3dxUmxiREZjR2xBVEVqSno4X1c2RzBBR1piWmw1YWZsRXV4REtZY2JkdGpEU2wxQ0hHRVZRdXdBZ0EiLCJpZCI6ImZjX2Y0R0JhTGpwSWNMOHB0UVB4OWJGaVEwXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVlWOWxOalU0WWpsaWFsVjNiR3hWUWtGME4xRXpla1l6WVc0dFdGODBOWFZ3YnpOVFgwTlNVMFZhVjBWYU5IcElhVlp6TFdGQ05GQTVibTg0YTFoeU0ybENXWEoyVFV4eE5tbDNiemh4TFdWWWRWRTVaV0ZIYjIxV1VSSVhaalJIUW1GTWFuQkpZMHc0Y0hSUlVIZzVZa1pwVVRBYUlrRkdUVUZIUjNKMFVrUjNibHBJYWpCR1ZISjNRMHhvWjBwWlgzSkVObmszY0ZFIiwiZmN2IjoiMyIsImVpIjoiZjRHQmFManBJY0w4cHRRUHg5YkZpUTAiLCJxYyI6IkNoQjJhV1YzSUcxNUlIUmhlQ0JqYjJSbEVBQjlnT05wUHciLCJxdWVzdGlvbiI6IkNhbiBJIGxvb2sgdXAgbXkgdGF4IGluZm9ybWF0aW9uIG9ubGluZT8iLCJsayI6IkdpZGpZVzRnYVNCc2IyOXJJSFZ3SUcxNUlIUmhlQ0JwYm1admNtMWhkR2x2YmlCdmJteHBibVUiLCJicyI6ImMtTnk0SkwxeUM5WFNNbFg4RlJJVEU1T0xTNVdLTWxJVlNoSnJGQkl6azlKdFpmNHgySWtJeVdWQVZSVGtvOU5CVmNZbHpyY2hMVE12QlNGM0Vxd1pGbHFVV1phWm5KaVNXWi1IdFNzX2lvakRTbTFESWpxVFB5cXVaeTRaSjBUODRDR3BxZVdnRlI1QmdXREpSVHk4M0l5ODRDbTdja3lrcE9TU1FhcXlZU3B5U3dxUmxiREZjR2xBVEVqSno4X1c2RzBBR1piWmw1YWZsRXV4REtZY2JkdGpEU2wxQ0hHRVZRdXdBZ0EiLCJpZCI6ImZjX2Y0R0JhTGpwSWNMOHB0UVB4OWJGaVEwXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Internal Revenue Service | An official website of the United ...",
+      "link": "https://www.irs.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.irs.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECAoQAQ",
+      "displayed_link": "https://www.irs.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5dae646191847a45adc2336dcb30c25ec.png",
+      "snippet": "Pay your taxes. Get your refund status. Find IRS forms and answers to tax questions. We help you understand and meet your federal tax responsibilities.",
+      "snippet_highlighted_words": [
+        "Get your refund status"
+      ],
+      "source": "IRS (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "Here's how individual taxpayers can view their tax account ...",
+      "link": "https://www.irs.gov/newsroom/heres-how-individual-taxpayers-can-view-their-tax-account-info",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.irs.gov/newsroom/heres-how-individual-taxpayers-can-view-their-tax-account-info&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECBsQAQ",
+      "displayed_link": "https://www.irs.gov › newsroom › heres-how-individual-...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5c89e73c0bd7b9f7ecad6338c5307bc43.png",
+      "snippet": "Individual taxpayers can login to the View Your Account Information page to view specific details about their federal tax account information.",
+      "snippet_highlighted_words": [
+        "Individual taxpayers can login to the View Your Account Information page"
+      ],
+      "missing": [
+        "code"
+      ],
+      "must_include": {
+        "word": "code",
+        "link": "https://www.google.com/search?num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&q=view+my+tax+%22code%22&sa=X&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ5t4CegQIIRAB"
+      },
+      "source": "IRS (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "How Can You Check Your Tax Code?",
+      "link": "https://lytaxadvisors.com/blog/how-can-you-check-your-tax-code/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lytaxadvisors.com/blog/how-can-you-check-your-tax-code/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECBwQAQ",
+      "displayed_link": "https://lytaxadvisors.com › blog › how-can-you-check-...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e550d4cf4ecf18580af375af14fbc83c33.webp",
+      "date": "Nov 27, 2024",
+      "snippet": "It's simple to understand and check your tax code. The IRS website, which offers information on popular tax subjects, links to IRS publications, and answers to ...",
+      "snippet_highlighted_words": [
+        "The IRS website"
+      ],
+      "source": "L&Y Tax advisors"
+    },
+    {
+      "position": 4,
+      "title": "Check your Income Tax for the current year",
+      "link": "https://www.gov.uk/check-income-tax-current-year",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/check-income-tax-current-year&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECCIQAQ",
+      "displayed_link": "https://www.gov.uk › Money and tax › Income Tax",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5a00d349bee50907db30c085b7c9becee.webp",
+      "snippet": "Use the service to: check your tax code and Personal Allowance; see your estimated income from any jobs and pensions and the tax you can expect to pay for ...",
+      "snippet_highlighted_words": [
+        "Use the service to: check your tax code"
+      ],
+      "source": "GOV.UK"
+    },
+    {
+      "position": 5,
+      "title": "Viewing the Tax Codes",
+      "link": "https://docs.oracle.com/cd/E97085_01/TPMhelp/en/North_America/10310005.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.oracle.com/cd/E97085_01/TPMhelp/en/North_America/10310005.htm&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECCYQAQ",
+      "displayed_link": "https://docs.oracle.com › TPMhelp › North_America",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e597830b7dc4161b384c8e884881158be1.png",
+      "snippet": "To view the tax code, from the My Organization Settings page, select the Manage Tax Codes link. The Tax Code page displays.",
+      "snippet_highlighted_words": [
+        "select the Manage Tax Codes link"
+      ],
+      "source": "Oracle Help Center"
+    },
+    {
+      "position": 6,
+      "title": "Comptroller of Maryland",
+      "link": "https://www.marylandcomptroller.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marylandcomptroller.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECCsQAQ",
+      "displayed_link": "https://www.marylandcomptroller.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e50985185602f5354364d13f0e0777191d.webp",
+      "snippet": "The Comptroller's Office is here to help Marylanders get the tax credits they've earned. You may qualify for the Earned Income Tax Credit or the Child Tax ...",
+      "snippet_highlighted_words": [
+        "tax",
+        "Tax",
+        "Tax"
+      ],
+      "source": "Maryland Comptroller (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Tax codes: Overview",
+      "link": "https://www.gov.uk/tax-codes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/tax-codes&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCI8CEAE",
+      "displayed_link": "https://www.gov.uk › Money and tax › Income Tax",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e50f5f07ef9648db4071493cf206360769.webp",
+      "snippet": "Find your tax code · by checking your tax code for the current year online - you'll need to sign in to or create an online account · on the HMRC app · on your ...",
+      "snippet_highlighted_words": [
+        "by checking your tax code for the current year online"
+      ],
+      "source": "GOV.UK"
+    },
+    {
+      "position": 8,
+      "title": "How do y'all be finding your tax codes??? : r/IRS",
+      "link": "https://www.reddit.com/r/IRS/comments/1c132m7/how_do_yall_be_finding_your_tax_codes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/IRS/comments/1c132m7/how_do_yall_be_finding_your_tax_codes/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECC8QAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5a725b1938c46fcbb82a77801174b9a2e.webp",
+      "snippet": "If your account transcript has no codes listed, your federal return has not completed processing yet.",
+      "snippet_highlighted_words": [
+        "codes"
+      ],
+      "source": "Reddit · r/IRS"
+    },
+    {
+      "position": 9,
+      "title": "Tax Form Management",
+      "link": "https://www.mytaxform.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mytaxform.com/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCIYBEAE",
+      "displayed_link": "https://www.mytaxform.com",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e57e81bfd92d6b26e5e823b756b9f897c2.webp",
+      "snippet": "Get access to your tax forms: W-2 and 1095-C. Employer Name/Code. Remember my Employer Name/Code on this computer. Login. Find employer name. Tax Topics. Form W ...",
+      "snippet_highlighted_words": [
+        "Get access to your tax forms: W-2 and 1095-C"
+      ],
+      "source": "Tax Form Management"
+    },
+    {
+      "position": 10,
+      "title": "How to Check and Change your Tax Code",
+      "link": "https://www.youtube.com/watch?v=m7p5Uncgo84&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "10.5K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8zvYZiZVwkXdOS6JDVQHJU1HyLSwMVSpp9lOfkLDm3aI8&s",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5cb86bbec535b444188ac7a92130a54be.png",
+      "snippet": "Do you know what your tax code means, and what to do if you think it's wrong? Presenter – Emma Rawson, Technical Officer, ATT Here are some ...",
+      "duration": "5:07",
+      "missing": [
+        "view"
+      ],
+      "must_include": {
+        "word": "view",
+        "link": "https://www.google.com/search?num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&q=%22view%22+my+tax+code&sa=X&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ5t4CegUIzAIQEg"
+      },
+      "source": "YouTube · Association of Taxation Technicians"
+    },
+    {
+      "position": 11,
+      "title": "How do I find out my 5 digit code from last year that they want ...",
+      "link": "https://ttlc.intuit.com/community/taxes/discussion/how-do-i-find-out-my-5-digit-code-from-last-year-that-they-want-me-to-put-in/00/161710/page/2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ttlc.intuit.com/community/taxes/discussion/how-do-i-find-out-my-5-digit-code-from-last-year-that-they-want-me-to-put-in/00/161710/page/2&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJwCEAE",
+      "displayed_link": "https://ttlc.intuit.com › taxes › discussion › page",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e527aa8cd5d493ca93459666ff571b47ea.webp",
+      "date": "Jun 1, 2019",
+      "snippet": "You can download your previous tax return from 2018 and find your pin. I found mine, it was on page 18.",
+      "snippet_highlighted_words": [
+        "You can download your previous tax return from 2018"
+      ],
+      "source": "TurboTax Support"
+    },
+    {
+      "position": 12,
+      "title": "How do I check my tax code, or how much tax I have paid ...",
+      "link": "https://support.nasagroup.co.uk/knowledge/how-do-i-check-my-tax-code-or-how-much-tax-i-have-paid-this-year",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.nasagroup.co.uk/knowledge/how-do-i-check-my-tax-code-or-how-much-tax-i-have-paid-this-year&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECCoQAQ",
+      "displayed_link": "https://support.nasagroup.co.uk › knowledge › how-do-i...",
+      "snippet": "If you'd like to check on your tax, you can select the \"Pay As You Earn (PAYE)\" option. This will show your current tax paid, and current tax code.",
+      "snippet_highlighted_words": [
+        "the \"Pay As You Earn (PAYE)\" option"
+      ],
+      "source": "Nasa Group"
+    },
+    {
+      "position": 13,
+      "title": "MyTax DC",
+      "link": "https://mytax.dc.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mytax.dc.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECFsQAQ",
+      "displayed_link": "https://mytax.dc.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5b646ae8bdf195412fef8a0d84b23a718.png",
+      "snippet": "Office of Tax and Revenue DC Office of Tax and Revenue. Javascript must be enabled to use this site. Accessibility · Privacy and Security · Terms and Conditions ...",
+      "snippet_highlighted_words": [
+        "Office of Tax and Revenue"
+      ],
+      "source": "MyTax DC (.gov)"
+    },
+    {
+      "position": 14,
+      "title": "Free Tax Code Calculator",
+      "link": "https://www.moneysavingexpert.com/family/check-tax-code/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.moneysavingexpert.com/family/check-tax-code/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJcBEAE",
+      "displayed_link": "https://www.moneysavingexpert.com › check-tax-code",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5b707bfde3c2b2282ff4632af3cba6cc1.webp",
+      "snippet": "HM Revenue & Customs (HMRC)​​ You can check your tax code with HMRC online or by using its app – read our full guide to the HMRC app.",
+      "snippet_highlighted_words": [
+        "You can check your tax code with HMRC online or by using its app"
+      ],
+      "missing": [
+        "view"
+      ],
+      "must_include": {
+        "word": "view",
+        "link": "https://www.google.com/search?num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&q=%22view%22+my+tax+code&sa=X&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ5t4CegUIoAEQAQ"
+      },
+      "source": "Money Saving Expert"
+    },
+    {
+      "position": 15,
+      "title": "Home - Delaware.gov",
+      "link": "https://tax.delaware.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.delaware.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCL4BEAE",
+      "displayed_link": "https://tax.delaware.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e567496c83ae086a9d35c22616716d9813.webp",
+      "snippet": "Create a Delaware Taxpayer Portal Account, register now. Guests without an account may also access the Taxpayer Services listed on this page.",
+      "snippet_highlighted_words": [
+        "Create a Delaware Taxpayer Portal Account"
+      ],
+      "source": "Delaware.gov"
+    },
+    {
+      "position": 16,
+      "title": "How do I find my tax code? : r/AskUK",
+      "link": "https://www.reddit.com/r/AskUK/comments/1dhygic/how_do_i_find_my_tax_code/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/AskUK/comments/1dhygic/how_do_i_find_my_tax_code/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCIUCEAE",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5dd51395987b9429d7c9b67ea1a9b60e1.webp",
+      "snippet": "For future reference, (once you have one) your tax code will usually appear on your pay slips (if you're PAYE). You can find out what it means: ...",
+      "snippet_highlighted_words": [
+        "your tax code will usually appear on your pay slips"
+      ],
+      "source": "Reddit · r/AskUK"
+    },
+    {
+      "position": 17,
+      "title": "Virginia Tax: Home",
+      "link": "https://tax.virginia.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.virginia.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCPQBEAE",
+      "displayed_link": "https://tax.virginia.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e56804cf4ae9c953a8f2915a430a7bf1fa.webp",
+      "snippet": "Individuals · File Online · Make a Payment · Where's My Refund · Look Up My 1099G ; Businesses · Register My Business · File My Sales & Use Tax · File My ...",
+      "snippet_highlighted_words": [
+        "Look Up My 1099G"
+      ],
+      "source": "Virginia Tax (.gov)"
+    },
+    {
+      "position": 18,
+      "title": "Online Services for individuals",
+      "link": "https://www.tax.ny.gov/online/ind.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tax.ny.gov/online/ind.htm&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJgCEAE",
+      "displayed_link": "https://www.tax.ny.gov › online › ind",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5c3c6341ab1dcbb6f1879fe2f615080bb.png",
+      "date": "Jul 2, 2025",
+      "snippet": "An Individual Online Services account is a free and secure way to manage your tax information - anywhere, anytime.",
+      "snippet_highlighted_words": [
+        "tax"
+      ],
+      "source": "NYS Department of Tax and Finance (.gov)"
+    },
+    {
+      "position": 19,
+      "title": "MyJH Account | Check Your Tax Refund Status & More",
+      "link": "https://www.jacksonhewitt.com/tax-tools/join-my-jh/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jacksonhewitt.com/tax-tools/join-my-jh/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLUCEAE",
+      "displayed_link": "https://www.jacksonhewitt.com › tax-tools › join-my-jh",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e54f32457281aa55bb0aa87cd6958d7816.webp",
+      "snippet": "To speed things up, look for your \"Document Access Code\" a 16-digit code provided with your tax return information. If you do not have your access code, you ...",
+      "snippet_highlighted_words": [
+        "16-digit code"
+      ],
+      "source": "Jackson Hewitt"
+    },
+    {
+      "position": 20,
+      "title": "Getting help after verifying for the IRS - ID.me Help Center",
+      "link": "https://help.id.me/hc/en-us/articles/8193028104087-Getting-help-after-verifying-for-the-IRS",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.id.me/hc/en-us/articles/8193028104087-Getting-help-after-verifying-for-the-IRS&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECC0QAQ",
+      "displayed_link": "https://help.id.me › en-us › articles › 8193028104087-G...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5a8f14debaf8896e2c3c8523246863cc7.webp",
+      "snippet": "For questions about your tax transcripts, refund status, tax payments, or IRS error codes, you must contact the IRS directly, as ID.me can only help with ...",
+      "snippet_highlighted_words": [
+        "contact the IRS directly"
+      ],
+      "source": "ID.me Help Center"
+    },
+    {
+      "position": 21,
+      "title": "Taxes | USAGov",
+      "link": "https://www.usa.gov/taxes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usa.gov/taxes&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECEEQAQ",
+      "displayed_link": "https://www.usa.gov › taxes",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e55af2196a33f727c5808f788c2448bf26.png",
+      "snippet": "Learn about filing federal income tax. Check the status of your tax refund, find help filing your taxes, and get federal tax forms.",
+      "snippet_highlighted_words": [
+        "Learn about filing federal income tax"
+      ],
+      "source": "USA.gov"
+    },
+    {
+      "position": 22,
+      "title": "Tax codes and tax rates for individuals",
+      "link": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECHkQAQ",
+      "displayed_link": "https://www.ird.govt.nz › income-tax › tax-codes-and-t...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5b256ee33129cc9ec37fd146935e2ab9e.webp",
+      "date": "Sep 25, 2024",
+      "snippet": "Find out about tax codes for your situation or use the tool to work out which code is right for you. Complete my tax code declaration. You must ...",
+      "snippet_highlighted_words": [
+        "Find out about tax codes for your situation"
+      ],
+      "source": "IRD"
+    },
+    {
+      "position": 23,
+      "title": "Personal Income Tax | Department of Revenue",
+      "link": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/personal-income-tax.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/personal-income-tax.html&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECGgQAQ",
+      "displayed_link": "https://www.pa.gov › ... › Tax Types and Information",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5a243ab7260d93e2dff7a74bb253c3609.webp",
+      "snippet": "Pennsylvania personal income tax is levied at the rate of 3.07 percent against taxable income of resident and nonresident individuals, estates, trusts, ...",
+      "snippet_highlighted_words": [
+        "Pennsylvania personal income tax is levied at the rate of 3.07 percent"
+      ],
+      "source": "Commonwealth of Pennsylvania (.gov)"
+    },
+    {
+      "position": 24,
+      "title": "MyTax Missouri - MO.gov",
+      "link": "https://mytax.mo.gov/rptp/portal/home/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mytax.mo.gov/rptp/portal/home/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCP8BEAE",
+      "displayed_link": "https://mytax.mo.gov › rptp › portal",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5fd81fc6c954561280c3b067db4bc8425.webp",
+      "snippet": "File your tax return as a guest, resume your tax return, new business registration, resume new business registration, manage email subscriptions.",
+      "snippet_highlighted_words": [
+        "tax",
+        "tax"
+      ],
+      "source": "MyTax Missouri (.gov)"
+    },
+    {
+      "position": 25,
+      "title": "Illinois Department of Revenue",
+      "link": "https://tax.illinois.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.illinois.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCKQBEAE",
+      "displayed_link": "https://tax.illinois.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5274abaf0c8d4c5cf8c33397f620536b4.webp",
+      "snippet": "Welcome to the Illinois Department of Revenue. Committed to excellence and working together to fund Illinois' future.",
+      "snippet_highlighted_words": [
+        "Illinois Department of Revenue"
+      ],
+      "source": "Illinois Department of Revenue (.gov)"
+    },
+    {
+      "position": 26,
+      "title": "Sales and Use Tax Login",
+      "link": "https://www1.state.nj.us/TYTR_BusinessFilings/jsp/common/Login.jsp?taxcode=55",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www1.state.nj.us/TYTR_BusinessFilings/jsp/common/Login.jsp%3Ftaxcode%3D55&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLABEAE",
+      "displayed_link": "https://www1.state.nj.us › jsp › common › Login › taxc...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e52f3c6a90ed92bda5c427694026ef8cbd.webp",
+      "snippet": "Your PIN is printed on the Welcome Letter you received after registering your business. If you use this option, you can file and pay taxes and view information ...",
+      "snippet_highlighted_words": [
+        "Your PIN is printed on the Welcome Letter you received after registering your business"
+      ],
+      "source": "www1.state.nj.us"
+    },
+    {
+      "position": 27,
+      "title": "6 Essential Tips to Navigate the Tax Code Like a Pro",
+      "link": "https://www.investopedia.com/understanding-us-tax-code-8731466",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investopedia.com/understanding-us-tax-code-8731466&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCM0BEAE",
+      "displayed_link": "https://www.investopedia.com › Personal Finance › Taxes",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5900a826f4728e732da06759854084895.png",
+      "date": "Dec 5, 2024",
+      "snippet": "Taxpayers can view the tax code online on the Office of the Law Revision Counsel's website. Treasury regulations—also referred to as tax ...",
+      "snippet_highlighted_words": [
+        "view",
+        "tax code"
+      ],
+      "source": "Investopedia"
+    },
+    {
+      "position": 28,
+      "title": "Changing your tax code for NZ Super and Veteran's Pension",
+      "link": "https://www.workandincome.govt.nz/eligibility/seniors/change-your-tax-code.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.workandincome.govt.nz/eligibility/seniors/change-your-tax-code.html&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCOEBEAE",
+      "displayed_link": "https://www.workandincome.govt.nz › eligibility › seniors",
+      "snippet": "Find out your tax code. If you don't know what tax code you should be on, go to Inland Revenue's website. Work out my tax code - Inland ...",
+      "snippet_highlighted_words": [
+        "Find out your tax code"
+      ],
+      "source": "Work and Income"
+    },
+    {
+      "position": 29,
+      "title": "Division of Revenue - Department of Finance - State of ...",
+      "link": "https://revenue.delaware.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revenue.delaware.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCOQBEAE",
+      "displayed_link": "https://revenue.delaware.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e55e57368d9f8816604e29b96cdb4fd98b.webp",
+      "date": "Jan 22, 2025",
+      "snippet": "Check the status of your return and your refund using our online tools and services. Check Return Status. Tax Services & Information. Image of ...",
+      "snippet_highlighted_words": [
+        "Check",
+        "Check",
+        "Tax"
+      ],
+      "source": "Delaware.gov"
+    },
+    {
+      "position": 30,
+      "title": "Taxes | New Castle County, DE - Official Website",
+      "link": "https://www.newcastlede.gov/232/Taxes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newcastlede.gov/232/Taxes&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCP0BEAE",
+      "displayed_link": "https://www.newcastlede.gov › Taxes",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5a1d5d812bbf9505164021c374af0cf6a.png",
+      "snippet": "Taxpayers can access their property tax information and payment status online: https://www3.newcastlede.gov/parcel/search/.",
+      "snippet_highlighted_words": [
+        "tax"
+      ],
+      "source": "New Castle County (.gov)"
+    },
+    {
+      "position": 31,
+      "title": "Taxes for Individuals - Department of Revenue - Georgia.gov",
+      "link": "https://dor.georgia.gov/taxes/taxes-individuals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dor.georgia.gov/taxes/taxes-individuals&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCIECEAE",
+      "displayed_link": "https://dor.georgia.gov › Taxes",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5934d92eea0ce1ea59207b850bef225c0.webp",
+      "snippet": "Taxes for Individuals · Visit GTC. The Georgia Tax Center (GTC) is an accurate and safe way for individuals and businesses to take care of their state tax needs.",
+      "snippet_highlighted_words": [
+        "Tax",
+        "tax"
+      ],
+      "source": "Georgia.gov"
+    },
+    {
+      "position": 32,
+      "title": "Get a copy of my return",
+      "link": "https://www.tax.ny.gov/help/contact/get-copy-of-return.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tax.ny.gov/help/contact/get-copy-of-return.htm&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJsCEAE",
+      "displayed_link": "https://www.tax.ny.gov › help › contact › get-copy-of-r...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e578ce11d727eaa710cf292453d98e5779.png",
+      "date": "Mar 23, 2025",
+      "snippet": "Log in or create an Online Services account to view and print a copy of your e-filed return for the following tax types.",
+      "snippet_highlighted_words": [
+        "Log in or create an Online Services account"
+      ],
+      "source": "NYS Department of Tax and Finance (.gov)"
+    },
+    {
+      "position": 33,
+      "title": "U.S. Tax Code Online",
+      "link": "https://www.taxact.com/support/14720/tax-code-u-s-tax-code-online",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxact.com/support/14720/tax-code-u-s-tax-code-online&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCK4CEAE",
+      "displayed_link": "https://www.taxact.com › support › tax-code-u-s-tax-cod...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5f012cddde74493b25bc948fec6c5d336.webp",
+      "snippet": "You can either perform a Quick Search by entering \"26\" for the Title, then entering the applicable Section number; OR scrolling down and clicking the TITLE 26 - ...",
+      "source": "TaxAct"
+    },
+    {
+      "position": 34,
+      "title": "Nebraska Department of Revenue: Welcome",
+      "link": "https://revenue.nebraska.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revenue.nebraska.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLMCEAE",
+      "displayed_link": "https://revenue.nebraska.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5c79f5e14bc64915104115e02c439868d.png",
+      "snippet": "Committed to helping taxpayers understand and meet their tax obligations. Featured Information. Check on the status of your refund here: Where's my refund?",
+      "snippet_highlighted_words": [
+        "tax",
+        "Check",
+        "my"
+      ],
+      "source": "Nebraska Department of Revenue (.gov)"
+    },
+    {
+      "position": 35,
+      "title": "DOR Wisconsin Department of Revenue Portal",
+      "link": "https://www.revenue.wi.gov/Pages/Home.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.revenue.wi.gov/Pages/Home.aspx&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLgCEAE",
+      "displayed_link": "https://www.revenue.wi.gov › Pages › Home",
+      "snippet": "Explore Wisconsin's tax and economic data quickly and easily. Our interactive data visualizations provide a dynamic and user-friendly way to understand key ...",
+      "snippet_highlighted_words": [
+        "Explore Wisconsin's tax and economic data"
+      ],
+      "source": "Wisconsin Department of Revenue (.gov)"
+    },
+    {
+      "position": 36,
+      "title": "Pay Taxes or Obtain Tax Bill",
+      "link": "https://www.sjgov.org/department/ttc/tax/how-to-pay-property-taxes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sjgov.org/department/ttc/tax/how-to-pay-property-taxes&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECCkQAQ",
+      "displayed_link": "https://www.sjgov.org › tax › how-to-pay-property-taxes",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5ee2198d523244fa811afb1d99e022d86.png",
+      "snippet": "The San Joaquin County current year property tax roll is available online for inquiry or to make a payment by credit card, debit card, or E-Check. Payment plans ...",
+      "snippet_highlighted_words": [
+        "available online for inquiry"
+      ],
+      "source": "sjgov.org"
+    },
+    {
+      "position": 37,
+      "title": "Individual Income Tax | DOR",
+      "link": "https://www.dor.ms.gov/individual",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dor.ms.gov/individual&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJACEAE",
+      "displayed_link": "https://www.dor.ms.gov › individual",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e57332c488f6d3d279376ad24f6606fa49.webp",
+      "snippet": "Check the status of your individual inco me tax refund. What is the due date? The due date is April 15, 2025.",
+      "snippet_highlighted_words": [
+        "Check",
+        "tax"
+      ],
+      "source": "State of Mississippi (.gov)"
+    },
+    {
+      "position": 38,
+      "title": "Iowa Department of Revenue | Department of Revenue",
+      "link": "https://revenue.iowa.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revenue.iowa.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECEMQAQ",
+      "displayed_link": "https://revenue.iowa.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e58f25d55a95c368416c51829d20c8eff3.webp",
+      "snippet": "File My Taxes · Make a Payment · Check My Refund · Learn About Property Tax · Access Alcohol Licensing & Permits · File a W-2 or 1099 · Request Policy Guidance ...",
+      "snippet_highlighted_words": [
+        "File My Taxes"
+      ],
+      "source": "Iowa Department of Revenue (.gov)"
+    },
+    {
+      "position": 39,
+      "title": "Check your HMRC or PAYE tax code online",
+      "link": "https://help.untied.io/article/219-check-your-hmrc-or-paye-tax-code-online",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.untied.io/article/219-check-your-hmrc-or-paye-tax-code-online&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECEkQAQ",
+      "displayed_link": "https://help.untied.io › untied",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5927c36f67ea4eca50aab6f8daab0ac29.webp",
+      "date": "Apr 18, 2024",
+      "snippet": "Are you wondering \"how do I check my tax code online?\" Good news - untied's tool can help you. Just enter your tax code below and we'll tell ...",
+      "snippet_highlighted_words": [
+        "check my tax code"
+      ],
+      "source": "untied.io"
+    },
+    {
+      "position": 40,
+      "title": "Prior Year Tax Return Software | File Previous ...",
+      "link": "https://www.freetaxusa.com/prior-year",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.freetaxusa.com/prior-year&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECH8QAQ",
+      "displayed_link": "https://www.freetaxusa.com › prior-year",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5bfc280f324f5cb5bd57d4966454947d6.png",
+      "snippet": "... Tax ReturnFile 2021 Tax ReturnView My Prior Year Return(s). After You File ... Backed by our Maximum Refund Guarantee, our online tax software has all the 2023 ...",
+      "snippet_highlighted_words": [
+        "Tax",
+        "Tax",
+        "View My",
+        "tax"
+      ],
+      "source": "FreeTaxUSA"
+    },
+    {
+      "position": 41,
+      "title": "West Virginia Tax Division",
+      "link": "https://tax.wv.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.wv.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECF4QAQ",
+      "displayed_link": "https://tax.wv.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5b9a01769f91ca9827597b5398d25638e.webp",
+      "snippet": "Striving to act with integrity and fairness in the administration of the tax laws of West Virginia, the West Virginia Tax Division's primary mission is to ...",
+      "snippet_highlighted_words": [
+        "tax laws"
+      ],
+      "source": "West Virginia Tax Division (.gov)"
+    },
+    {
+      "position": 42,
+      "title": "PAYE tax codes",
+      "link": "https://taxaid.org.uk/tax-information/employee-paye/paye-and-tax-codes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxaid.org.uk/tax-information/employee-paye/paye-and-tax-codes&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECGwQAQ",
+      "displayed_link": "https://taxaid.org.uk › ... › Employee (PAYE)",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5bc3a740db6ce965021ca780b1d2fa156.png",
+      "date": "Jun 7, 2024",
+      "snippet": "The key to paying the right tax is to check the tax code your employer uses for you. If you don't do this you could be overpaying or underpaying your tax.",
+      "snippet_highlighted_words": [
+        "check",
+        "tax code"
+      ],
+      "source": "TaxAid"
+    },
+    {
+      "position": 43,
+      "title": "Michigan Department of Treasury - Taxes",
+      "link": "https://www.michigan.gov/taxes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.michigan.gov/taxes&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCIUBEAE",
+      "displayed_link": "https://www.michigan.gov › taxes",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e534e66e2282cc73bd185c2813c95ae1b7.webp",
+      "snippet": "View Result for: Taxes, All Michigan.gov Sites. /taxes. Back to Taxes. outline ... My Income Tax Refund Status · Collections · Forms and Instructions · Michigan ...",
+      "snippet_highlighted_words": [
+        "View",
+        "My",
+        "Tax"
+      ],
+      "source": "State of Michigan (.gov)"
+    },
+    {
+      "position": 44,
+      "title": "Sales & use tax rates | Washington Department of Revenue",
+      "link": "https://dor.wa.gov/taxes-rates/sales-use-tax-rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dor.wa.gov/taxes-rates/sales-use-tax-rates&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJgBEAE",
+      "displayed_link": "https://dor.wa.gov › taxes-rates › sales-use-tax-rates",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e574abc30ca28d01690cccf5381d2de37e.webp",
+      "snippet": "Use our Tax Rate Lookup Tool to find tax rates and location codes for any location in Washington. You'll find rates for sales and use tax, motor vehicle taxes, ...",
+      "snippet_highlighted_words": [
+        "Tax",
+        "tax",
+        "codes",
+        "tax"
+      ],
+      "source": "Washington Department of Revenue (.gov)"
+    },
+    {
+      "position": 45,
+      "title": "Department of Taxation | State of Hawaii",
+      "link": "https://tax.hawaii.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.hawaii.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJYBEAE",
+      "displayed_link": "https://tax.hawaii.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5bdd38c377affcc869c32bfde59e94d3f.webp",
+      "snippet": "File and pay your taxes, calendar of important deadlines, forms and instructions, check your refund status, law & guidance, Hawaii tax information.",
+      "snippet_highlighted_words": [
+        "check",
+        "law",
+        "tax"
+      ],
+      "source": "Hawaii Department of Taxation (.gov)"
+    },
+    {
+      "position": 46,
+      "title": "NCDOR: Home Page",
+      "link": "https://www.ncdor.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncdor.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCKIBEAE",
+      "displayed_link": "https://www.ncdor.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e547bfec9689b71b48ea9278e1f34b08c9.webp",
+      "snippet": "The NCDOR is committed to helping taxpayers comply with tax laws in order to fund public services benefiting the people of North Carolina.",
+      "snippet_highlighted_words": [
+        "tax laws"
+      ],
+      "source": "NCDOR (.gov)"
+    },
+    {
+      "position": 47,
+      "title": "e-Services Information | Minnesota ...",
+      "link": "https://www.revenue.state.mn.us/e-services-information",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.revenue.state.mn.us/e-services-information&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLEBEAE",
+      "displayed_link": "https://www.revenue.state.mn.us › e-services-information",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e54b2ae24cc2fe77d5285fce39f3ffb048.png",
+      "snippet": "... view account information for many state taxes ... Policy statements that provide added interpretation, details, or information about Minnesota tax laws or rules.",
+      "snippet_highlighted_words": [
+        "view",
+        "tax laws"
+      ],
+      "source": "Minnesota Department of Revenue"
+    },
+    {
+      "position": 48,
+      "title": "Tax code checker",
+      "link": "https://taxscouts.com/calculator/tax-code-checker/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxscouts.com/calculator/tax-code-checker/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCMABEAE",
+      "displayed_link": "https://taxscouts.com › Tax calculators",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e500967f59e0fcbd08505368a0a5ca6373.webp",
+      "snippet": "... tax code – to let you know what you're being taxed on, and why. So have a look for this letter or check HMRC online for more info. My tax code isn't recognised.",
+      "snippet_highlighted_words": [
+        "tax code",
+        "check",
+        "My tax code"
+      ],
+      "source": "TaxScouts"
+    },
+    {
+      "position": 49,
+      "title": "Department of the Treasury - Division of Taxation",
+      "link": "https://www.nj.gov/treasury/taxation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nj.gov/treasury/taxation/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCMoBEAE",
+      "displayed_link": "https://www.nj.gov › treasury › taxation",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5094b1e07bde7d0224fec84aa626bf968.webp",
+      "snippet": "Our mission is to administer the State's tax laws uniformly, equitably ... Check My Tax Refund Status. Announcements. Phase 1 Tax Filing Extension. There ...",
+      "snippet_highlighted_words": [
+        "tax laws",
+        "Check My"
+      ],
+      "source": "NJ.gov"
+    },
+    {
+      "position": 50,
+      "title": "Franchise Tax Account Status - Texas Comptroller",
+      "link": "https://comptroller.texas.gov/taxes/franchise/coas-instructions.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://comptroller.texas.gov/taxes/franchise/coas-instructions.php&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCNQBEAE",
+      "displayed_link": "https://comptroller.texas.gov › franchise › coas-instructions",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5cba3ae3c09bdf7aa0595db5b8ffdbe5c.webp",
+      "snippet": "The Comptroller is required by law to forfeit a company's right to transact business in Texas if the company has not met franchise tax filing requirements under ...",
+      "snippet_highlighted_words": [
+        "law",
+        "tax"
+      ],
+      "source": "Texas Comptroller of Public Accounts (.gov)"
+    },
+    {
+      "position": 51,
+      "title": "PSD Codes | EIT Rates | Tax",
+      "link": "https://dced.pa.gov/local-government/local-income-tax-information/psd-codes-and-eit-rates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dced.pa.gov/local-government/local-income-tax-information/psd-codes-and-eit-rates/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCN8BEAE",
+      "displayed_link": "https://dced.pa.gov › local-income-tax-information › ps...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5f3fd6dba4d2f586921d211ba5939d8b2.webp",
+      "snippet": "Then, contact the Tax Collector/Officer to determine your local tax rates and PSD codes. View and sort PSD Codes & EIT Rates by county, municipality, and school ...",
+      "snippet_highlighted_words": [
+        "Tax",
+        "tax",
+        "codes",
+        "View",
+        "Codes"
+      ],
+      "source": "PA Department of Community & Economic Development (.gov)"
+    },
+    {
+      "position": 52,
+      "title": "Alabama Department of Revenue: Home",
+      "link": "https://www.revenue.alabama.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.revenue.alabama.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCOUBEAE",
+      "displayed_link": "https://www.revenue.alabama.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5d393d72b3d401f49e2f4250af6a66f7b.png",
+      "snippet": "... Code of... Read More · NOTICE Sales Tax Holidays – CPI Adjustments and Local ... File a Return. Visit My Alabama Taxes for filing Individual Income Tax ...",
+      "snippet_highlighted_words": [
+        "Code",
+        "Tax",
+        "My",
+        "Tax"
+      ],
+      "source": "Alabama Department of Revenue (.gov)"
+    },
+    {
+      "position": 53,
+      "title": "Home | Department of Revenue - Taxation",
+      "link": "https://tax.colorado.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.colorado.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCOMBEAE",
+      "displayed_link": "https://tax.colorado.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5684068cde51418580dd8e32a27633cfd.webp",
+      "snippet": "... tax rules listed below at 10:00 a.m. on July 10, 2025. View All. Online Filing Tools. Revenue Online (ROL). File state taxes and manage your state tax account.",
+      "snippet_highlighted_words": [
+        "tax rules",
+        "View"
+      ],
+      "source": "Colorado tax (.gov)"
+    },
+    {
+      "position": 54,
+      "title": "MyDORWAY Help - SC Department of Revenue",
+      "link": "https://dor.sc.gov/mydorway",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dor.sc.gov/mydorway&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCOcBEAE",
+      "displayed_link": "https://dor.sc.gov › mydorway",
+      "snippet": "... Check my Business Income Tax refund status View South Carolina's Top Delinquent Taxpayers ... How do I scan the QR code printed on my notice to make a payment​?",
+      "snippet_highlighted_words": [
+        "Check my",
+        "Tax",
+        "View",
+        "code",
+        "my"
+      ],
+      "source": "SC Department of Revenue (.gov)"
+    },
+    {
+      "position": 55,
+      "title": "Sales & Use Tax - Department of Revenue - Kentucky.gov",
+      "link": "https://revenue.ky.gov/Business/Sales-Use-Tax/Pages/default.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revenue.ky.gov/Business/Sales-Use-Tax/Pages/default.aspx&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCOYBEAE",
+      "displayed_link": "https://revenue.ky.gov › Sales-Use-Tax › Pages",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e565403fbae751151258dabf94739724a6.png",
+      "snippet": "Where's My Refund? Business · Additional Information · Alcohol Taxes · Bank ... Sales and Use Tax Laws are located in Kentucky Revised Statutes Chapter 139 ...",
+      "snippet_highlighted_words": [
+        "My",
+        "Tax Laws"
+      ],
+      "source": "Kentucky.gov"
+    },
+    {
+      "position": 56,
+      "title": "Payroll Taxes and Wage Withholding Login",
+      "link": "https://www1.state.nj.us/TYTR_BusinessFilings/jsp/common/Login.jsp?taxcode=45",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www1.state.nj.us/TYTR_BusinessFilings/jsp/common/Login.jsp%3Ftaxcode%3D45&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCPYBEAE",
+      "displayed_link": "https://www1.state.nj.us › jsp › common › Login › taxc...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e58174e38180c2ccdfe2a507bad5590bd4.webp",
+      "snippet": "... view information on past filings and payments. Log in using the first prompt ... tax laws, including investigations that may lead to enforcement actions.",
+      "snippet_highlighted_words": [
+        "view",
+        "tax laws"
+      ],
+      "source": "www1.state.nj.us"
+    },
+    {
+      "position": 57,
+      "title": "Q&A: How to Get Your Tax Filing Code Quickly?",
+      "link": "https://www.justanswer.com/tax/rbnyr-husband-myself-accountant-just-contacted-us.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justanswer.com/tax/rbnyr-husband-myself-accountant-just-contacted-us.html&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCIACEAE",
+      "displayed_link": "https://www.justanswer.com › Tax Questions",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e566b65f4af790b8764df82c97bd0cdcb2.webp",
+      "date": "Feb 18, 2025",
+      "snippet": "If this is for an E-filing PIN, check with your accountant, or if it's an IP PIN, you can retrieve it from the IRS website or by calling the IRS ...",
+      "snippet_highlighted_words": [
+        "check"
+      ],
+      "source": "JustAnswer"
+    },
+    {
+      "position": 58,
+      "title": "DC Office of Tax and Revenue - DC.gov",
+      "link": "https://otr.cfo.dc.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://otr.cfo.dc.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCIICEAE",
+      "displayed_link": "https://otr.cfo.dc.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5891137528bc7addbfa3096663d4d84d9.png",
+      "snippet": "Real Property Tax Suite Now Available at MyTax.DC.gov. Image for Real Property Tax Suite · more. Tax Law and Guidance. Gavel. View Tax Law and Guidance ...",
+      "snippet_highlighted_words": [
+        "MyTax",
+        "Tax Law",
+        "View Tax Law"
+      ],
+      "source": "DC.gov"
+    },
+    {
+      "position": 59,
+      "title": "Property Tax | Williamson County, TX",
+      "link": "https://www.wilcotx.gov/734/Property-Tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wilcotx.gov/734/Property-Tax&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCI4CEAE",
+      "displayed_link": "https://www.wilcotx.gov › Property-Tax",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5e2e0dd3bd8747e160ad314e8fc930046.webp",
+      "snippet": "Property owners whose taxes are escrowed by their lender may view their billing information using our Search My Property system. ... Tax Code - 2019 Edition (PDF) ...",
+      "snippet_highlighted_words": [
+        "view",
+        "My",
+        "Tax Code"
+      ],
+      "source": "Williamson County (.gov)"
+    },
+    {
+      "position": 60,
+      "title": "How to check my tax code",
+      "link": "https://www.afforda.co.uk/personal-finance/how-to-check-tax-code/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.afforda.co.uk/personal-finance/how-to-check-tax-code/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJkCEAE",
+      "displayed_link": "https://www.afforda.co.uk › Personal Finance",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5dc1c3e24b5e7a2e8f49e9763c53b8396.webp",
+      "date": "Apr 17, 2025",
+      "snippet": "Need to find your UK tax code? Our easy guide explains what a tax code is, why it matters, and how to find yours. Get clarity on your tax ...",
+      "snippet_highlighted_words": [
+        "tax code",
+        "tax code"
+      ],
+      "source": "Afforda"
+    },
+    {
+      "position": 61,
+      "title": "Home | DOR",
+      "link": "https://www.dor.ms.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dor.ms.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJ0CEAE",
+      "displayed_link": "https://www.dor.ms.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5356ce8e13aba72cb4a5ff60f8db325ab.webp",
+      "snippet": "Press Releases. I want to... File My Taxes Online · Check Status of My Refund · Get ... Tax Law. Library of Congress, Legislative Information · University of ...",
+      "snippet_highlighted_words": [
+        "My",
+        "Check",
+        "My",
+        "Tax Law"
+      ],
+      "source": "State of Mississippi (.gov)"
+    },
+    {
+      "position": 62,
+      "title": "Department of Taxation",
+      "link": "https://tax.ohio.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.ohio.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCKwCEAE",
+      "displayed_link": "https://tax.ohio.gov",
+      "snippet": "Take advantage of extended support hours for the upcoming July 23, 2025 Sales & Use Tax filing deadline. View Extended Hours.",
+      "snippet_highlighted_words": [
+        "Tax",
+        "View"
+      ],
+      "source": "Ohio Department of Taxation (.gov)"
+    },
+    {
+      "position": 63,
+      "title": "Individual Tax Services",
+      "link": "https://www.marylandcomptroller.gov/individuals/tax-services.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marylandcomptroller.gov/individuals/tax-services.html&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLcCEAE",
+      "displayed_link": "https://www.marylandcomptroller.gov › Individuals",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5b5f47d22fc4b0db14e11f55e35ec18a8.webp",
+      "snippet": "Guidance on making payments, tracking refunds, and resolving payment-related issues. Where's My Refund. Check the status of your refund quickly and easily. Make ...",
+      "snippet_highlighted_words": [
+        "My",
+        "Check"
+      ],
+      "source": "Maryland Comptroller (.gov)"
+    },
+    {
+      "position": 64,
+      "title": "Tax Search | OC Treasurer-Tax Collector",
+      "link": "https://taxbill.octreasurer.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxbill.octreasurer.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLQCEAE",
+      "displayed_link": "https://taxbill.octreasurer.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e51054ed2d706289cff46883e11c9ea87b.webp",
+      "snippet": "View Property Tax Inserts · Secured and Unsecured Tax Bill Samples · Secured ... My Tax Bill · FAQs · Unclaimed Funds · Get... Online Forms · Give... Website ...",
+      "snippet_highlighted_words": [
+        "View",
+        "Tax",
+        "Tax",
+        "My Tax"
+      ],
+      "source": "Tax Search | OC Treasurer-Tax Collector (.gov)"
+    },
+    {
+      "position": 65,
+      "title": "DOR Using My Tax Account for Personal Use",
+      "link": "https://www.revenue.wi.gov/Pages/FAQS/mta-personal.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.revenue.wi.gov/Pages/FAQS/mta-personal.aspx&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLYCEAE",
+      "displayed_link": "https://www.revenue.wi.gov › FAQS › mta-personal",
+      "snippet": "... code becomes invalid as soon as you request a new code ... You may not have access to view these accounts in My Tax Account but are responsible for paying the ...",
+      "snippet_highlighted_words": [
+        "code",
+        "code",
+        "view",
+        "My Tax"
+      ],
+      "source": "Wisconsin Department of Revenue (.gov)"
+    },
+    {
+      "position": 66,
+      "title": "About tax codes",
+      "link": "https://www.ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/about-tax-codes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ird.govt.nz/income-tax/income-tax-for-individuals/tax-codes-and-tax-rates-for-individuals/about-tax-codes&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCMsCEAE",
+      "displayed_link": "https://www.ird.govt.nz › income-tax-for-individuals",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e566dcfdcf83bc64be23e70299f9ff2d83.webp",
+      "date": "Jun 4, 2025",
+      "snippet": "Now they can deduct the right amount of tax from your salary or wage. Complete my tax code declaration. If you do not give your employer an ...",
+      "snippet_highlighted_words": [
+        "my tax code"
+      ],
+      "source": "IRD"
+    },
+    {
+      "position": 67,
+      "title": "Reviewing your 2025/26 tax code",
+      "link": "https://taxaid.org.uk/reviewing-your-2025-26-tax-code",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxaid.org.uk/reviewing-your-2025-26-tax-code&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCMgCEAE",
+      "displayed_link": "https://taxaid.org.uk › reviewing-your-2025-26-tax-code",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5a256f8a7bd97cb67d457ac7dd3fdc09e.png",
+      "date": "Mar 13, 2025",
+      "snippet": "Information about your PAYE tax code · On HMRC's website by signing up to view your Personal Tax Account here: Check your Income Tax for the ...",
+      "snippet_highlighted_words": [
+        "tax code",
+        "view",
+        "Check"
+      ],
+      "source": "TaxAid"
+    },
+    {
+      "position": 68,
+      "title": "Free Tax Code Calculator: Check if your tax code is correct",
+      "link": "https://www.moneysavingexpert.com/family/check-tax-code/check-your-tax-code-is-correct/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.moneysavingexpert.com/family/check-tax-code/check-your-tax-code-is-correct/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECC4QAQ",
+      "displayed_link": "https://www.moneysavingexpert.com › family › check-y...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5735f973b56b9d19124b6e33dea50826e.webp",
+      "snippet": "I'd previously been self-employed, but stopped trading three years ago and my tax code hadn't been updated with my employer. It took an hour on the phone to ...",
+      "snippet_highlighted_words": [
+        "my tax code",
+        "my"
+      ],
+      "source": "Money Saving Expert"
+    },
+    {
+      "position": 69,
+      "title": "Individual Income Tax",
+      "link": "https://www.ncdor.gov/taxes-forms/individual-income-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncdor.gov/taxes-forms/individual-income-tax&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECCwQAQ",
+      "displayed_link": "https://www.ncdor.gov › taxes-forms › individual-inco...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e55cc8735b1fcfc1cfb1479178474f5a19.webp",
+      "snippet": "To learn more, view our full privacy policy. Secure websites use HTTPS certificates. A lock icon or https:// means you've safely connected to the official ...",
+      "snippet_highlighted_words": [
+        "view"
+      ],
+      "source": "NCDOR (.gov)"
+    },
+    {
+      "position": 70,
+      "title": "Property Tax Information | Bexar County, TX - Official Website",
+      "link": "https://www.bexar.org/1529/Property-Tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bexar.org/1529/Property-Tax&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCIcBEAE",
+      "displayed_link": "https://www.bexar.org › Property-Tax",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5660f830b7b0fe1b1785980787615c27d.webp",
+      "snippet": "The Tax Code requires that all past due accounts be assessed penalty and interest. ... View All Locations & Hours. Tax Help Tool/Email Us If you have any ...",
+      "snippet_highlighted_words": [
+        "Tax Code",
+        "View"
+      ],
+      "source": "Bexar County"
+    },
+    {
+      "position": 71,
+      "title": "Online Services - Missouri Department of Revenue - MO.gov",
+      "link": "https://dor.mo.gov/online-services/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dor.mo.gov/online-services/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECEIQAQ",
+      "displayed_link": "https://dor.mo.gov › online-services",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5ad3fa968405939f6f2e61c6a45241773.png",
+      "snippet": "After you file your tax return, check the Department of Revenue's Online Return Inquiry system to find out when to expect your refund.",
+      "snippet_highlighted_words": [
+        "tax",
+        "check"
+      ],
+      "source": "Missouri Department of Revenue (.gov)"
+    },
+    {
+      "position": 72,
+      "title": "Taxes",
+      "link": "https://www.nc.gov/working/taxes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nc.gov/working/taxes&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECEsQAQ",
+      "displayed_link": "https://www.nc.gov › working › taxes",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5acae993939a23e783f6f60227a883e76.webp",
+      "snippet": "State Tax Forms & Instructions · Apply for an Extension · Pay Bill or Notice · Order Tax Forms & Instructions · Collections & Past Due Taxes · Check Refund · more ...",
+      "snippet_highlighted_words": [
+        "Tax",
+        "Tax",
+        "Check"
+      ],
+      "source": "NC.gov"
+    },
+    {
+      "position": 73,
+      "title": "Arizona Department of Revenue: Home",
+      "link": "https://azdor.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://azdor.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECEoQAQ",
+      "displayed_link": "https://azdor.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5bc082dea01185ffdf907651b2f698f23.webp",
+      "snippet": "Under Arizona tax law, residents are taxed on the same income reported ... View Tax Rate Tables · Review PRTA Transportation Tax · Proposition 312 Nuisance ...",
+      "snippet_highlighted_words": [
+        "tax law",
+        "View"
+      ],
+      "source": "Arizona Department of Revenue (.gov)"
+    },
+    {
+      "position": 74,
+      "title": "Florida Department of Revenue",
+      "link": "https://floridarevenue.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://floridarevenue.com/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECEgQAQ",
+      "displayed_link": "https://floridarevenue.com",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5199eaef382c28db33741bd7fed120283.webp",
+      "snippet": "Florida Department of Revenue - The Florida Department of Revenue has three primary lines of business: (1) Administer tax law for 36 taxes and fees, ...",
+      "snippet_highlighted_words": [
+        "tax law"
+      ],
+      "source": "Florida Department of Revenue"
+    },
+    {
+      "position": 75,
+      "title": "Letters and Notices for Individual income Tax",
+      "link": "https://tax.illinois.gov/individuals/letters.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.illinois.gov/individuals/letters.html&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECEQQAQ",
+      "displayed_link": "https://tax.illinois.gov › Individuals",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e56ff186d7246a6754187c9ffdce57825d.webp",
+      "snippet": "... MyTax Illinois Help Guide - Respond to a Notice. You can also use MyTax Illinois to check your account balances or view any notices sent to you. To respond ...",
+      "snippet_highlighted_words": [
+        "MyTax",
+        "MyTax",
+        "check",
+        "view"
+      ],
+      "source": "Illinois Department of Revenue (.gov)"
+    },
+    {
+      "position": 76,
+      "title": "How do I find out my Tax Code?",
+      "link": "https://www.taxrebateservices.co.uk/tax-faqs/tax-codes/my-tax-code/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxrebateservices.co.uk/tax-faqs/tax-codes/my-tax-code/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECHcQAQ",
+      "displayed_link": "https://www.taxrebateservices.co.uk › ... › Tax Codes",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e54336d67ca3a98153e6f7d79463098240.webp",
+      "snippet": "You can also check your most recent tax code online by using your personal tax account or the downloadable HMRC smartphone app.",
+      "snippet_highlighted_words": [
+        "check",
+        "tax code"
+      ],
+      "source": "Tax Rebate Services"
+    },
+    {
+      "position": 77,
+      "title": "Estimated tax payments | FTB.ca.gov",
+      "link": "https://www.ftb.ca.gov/pay/estimated-tax-payments.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ftb.ca.gov/pay/estimated-tax-payments.html&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECFwQAQ",
+      "displayed_link": "https://www.ftb.ca.gov › pay › estimated-tax-payments",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e52c72a1a1b22ebf959fb2bc9d11df65f6.webp",
+      "date": "Jan 9, 2025",
+      "snippet": "Typically if you have an employer, tax payments are automatically deducted from your check and sent to us. ... California Government Code Sections ...",
+      "snippet_highlighted_words": [
+        "tax",
+        "check",
+        "Code"
+      ],
+      "source": "Franchise Tax Board (FTB) (.gov)"
+    },
+    {
+      "position": 78,
+      "title": "HOW TO ACCESS YOUR TAX TRANSCRIPTS. TOP ...",
+      "link": "https://www.youtube.com/watch?v=pC50yXS2lY8",
+      "displayed_link": "16.4K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKv9Gagesv4LreZ8n1wjkvKFHB2nNHVEPqm7_MZSsalD7&s",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5f995310ede55c11204deb79996cff44c.png",
+      "snippet": "On today's IRS Tax Refund update we're going to take a look at how to exactly access those IRS tax transcripts which can provide you with ...",
+      "duration": "6:40",
+      "source": "YouTube · UI Vlogs 2021"
+    },
+    {
+      "position": 79,
+      "title": "Property Tax - Tax Statement & Online Payments",
+      "link": "https://www.mctx.org/departments/departments_q_-_z/tax_office/property_tax.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mctx.org/departments/departments_q_-_z/tax_office/property_tax.php&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECF0QAQ",
+      "displayed_link": "https://www.mctx.org › departments_q_-_z › tax_office",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5bdf0b1e8e3ff9720c4c98b465f9da72d.png",
+      "snippet": "State of Texas Property Tax Code. Click the image below to see a detailed PDF ... View Photo Gallery. STAY INFORMED. NEWSLETTER Signup. Sign Up. © 2024 ...",
+      "snippet_highlighted_words": [
+        "Tax Code",
+        "View"
+      ],
+      "source": "Montgomery County, Texas"
+    },
+    {
+      "position": 80,
+      "title": "Utah State Tax Commission: Utah Income Taxes",
+      "link": "https://incometax.utah.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://incometax.utah.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECGcQAQ",
+      "displayed_link": "https://incometax.utah.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5c87df768a136303ebb1139c1472a80ee.webp",
+      "snippet": "Where's My Refund? Utah Earned Income Tax Credit (EITC). Juneteenth Holiday ... It does not contain all tax laws or rules. For security reasons, TAP and ...",
+      "snippet_highlighted_words": [
+        "My",
+        "tax laws"
+      ],
+      "source": "Utah State Tax Commission (.gov)"
+    },
+    {
+      "position": 81,
+      "title": "Individual Income Tax – Arkansas Department of Finance and ...",
+      "link": "https://www.dfa.arkansas.gov/office/taxes/income-tax-administration/individual-income-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dfa.arkansas.gov/office/taxes/income-tax-administration/individual-income-tax/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECGsQAQ",
+      "displayed_link": "https://www.dfa.arkansas.gov › office › taxes › individ...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e557f2b648e00db70486e3f921cea3b212.png",
+      "snippet": "Arkansas Code · State Employees · Help Center · State Directory · All State Agencies ... View My Account · Due Dates · W2 Submission · 1099 Submission.",
+      "snippet_highlighted_words": [
+        "Code",
+        "View My"
+      ],
+      "source": "Arkansas Department of Finance and Administration (.gov)"
+    },
+    {
+      "position": 82,
+      "title": "Individual Income Tax - Department of Revenue - Kentucky.gov",
+      "link": "https://revenue.ky.gov/Individual/Individual-Income-Tax/Pages/default.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revenue.ky.gov/Individual/Individual-Income-Tax/Pages/default.aspx&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECHgQAQ",
+      "displayed_link": "https://revenue.ky.gov › Individual-Income-Tax › Pages",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e531b2d610785f2bfb7c1531d840cca100.png",
+      "snippet": "You can check the status of your Kentucky current year refund at Where's My Refund? ... Kentucky's individual income tax law is based on the Internal ...",
+      "snippet_highlighted_words": [
+        "check",
+        "My",
+        "tax law"
+      ],
+      "source": "Kentucky.gov"
+    },
+    {
+      "position": 83,
+      "title": "Oregon Department of Revenue : Welcome Page",
+      "link": "https://www.oregon.gov/dor/pages/index.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oregon.gov/dor/pages/index.aspx&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCIMBEAE",
+      "displayed_link": "https://www.oregon.gov › dor › pages",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e51881b001062e3d32426b5c9d4376db14.webp",
+      "snippet": "View my 1099-G · Personal Income Tax · Clip art of house and car. Links to ... Administrative Rules and Oregon tax law. About Oregon. Back to Top. ×. How to ...",
+      "snippet_highlighted_words": [
+        "View my",
+        "tax law"
+      ],
+      "source": "Oregon.gov"
+    },
+    {
+      "position": 84,
+      "title": "Tax Records - City of Milwaukee",
+      "link": "https://city.milwaukee.gov/treasurer/Tax-Records",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://city.milwaukee.gov/treasurer/Tax-Records&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJoCEAE",
+      "displayed_link": "https://city.milwaukee.gov › treasurer › Tax-Records",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e563088762ff76fc923718e6a2b03cec54.webp",
+      "snippet": "Index To Property Tax Codes · Index to Special Charges and Assessments · Back of ... View All Social Media · Web & Email Policies · Web Accessibility Policy ...",
+      "snippet_highlighted_words": [
+        "Tax Codes",
+        "View"
+      ],
+      "source": "City of Milwaukee (.gov)"
+    },
+    {
+      "position": 85,
+      "title": "2023 Tax Balance: Check & Payment Plan Info",
+      "link": "https://www.justanswer.com/tax/rdnwr-trying-find-balance-2023-taxes.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justanswer.com/tax/rdnwr-trying-find-balance-2023-taxes.html&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCPUBEAE",
+      "displayed_link": "https://www.justanswer.com › Tax Questions",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5dc3ca5a7b4adf0efdcc71baeaa454359.webp",
+      "date": "Feb 25, 2025",
+      "snippet": "To access your tax balance, go to the IRS homepage at www.irs.gov. Once there, look for the section titled 'How Can We Help You?' On the right ...",
+      "snippet_highlighted_words": [
+        "tax"
+      ],
+      "source": "JustAnswer"
+    },
+    {
+      "position": 86,
+      "title": "Department of Revenue",
+      "link": "https://dor.georgia.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dor.georgia.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJwBEAE",
+      "displayed_link": "https://dor.georgia.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5ff607dbbe41ca8cd43a3a02290d806d2.webp",
+      "snippet": "Mission StatementThe mission of the Department of Revenue is to administer the tax laws of the State of Georgia fairly and efficiently in order to promote ...",
+      "snippet_highlighted_words": [
+        "tax laws"
+      ],
+      "source": "Georgia.gov"
+    },
+    {
+      "position": 87,
+      "title": "Sales and Use Tax - Texas Comptroller",
+      "link": "https://comptroller.texas.gov/taxes/sales/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://comptroller.texas.gov/taxes/sales/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCJkBEAE",
+      "displayed_link": "https://comptroller.texas.gov › taxes › sales",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5cf1d3fb1b21d214df341589856959d99.webp",
+      "snippet": "Texas Tax Code · Rules – Texas Administrative Code · State Tax Automated ... View GovDeals Auctions · Check Claim Status · Report Unclaimed Property · Contact Us ...",
+      "snippet_highlighted_words": [
+        "Tax Code",
+        "View",
+        "Check"
+      ],
+      "source": "Texas Comptroller of Public Accounts (.gov)"
+    },
+    {
+      "position": 88,
+      "title": "Home, Louisiana Department of Revenue",
+      "link": "https://revenue.louisiana.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revenue.louisiana.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCKMBEAE",
+      "displayed_link": "https://revenue.louisiana.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e58a2b27bcbdaf773edd156e876f71d200.png",
+      "snippet": "Where's My Refund? ... The Louisiana Department of Revenue is dedicated to fairly and efficiently administering the state's tax laws to ensure compliance while ...",
+      "snippet_highlighted_words": [
+        "My",
+        "tax laws"
+      ],
+      "source": "Louisiana Department of Revenue (.gov)"
+    },
+    {
+      "position": 89,
+      "title": "How Do I Find Out My Tax Code?",
+      "link": "https://cruseburke.co.uk/how-do-i-find-out-my-tax-code/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cruseburke.co.uk/how-do-i-find-out-my-tax-code/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCK8BEAE",
+      "displayed_link": "https://cruseburke.co.uk › Blog Original",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e59c122032365c1725536856c6c772d4dc.png",
+      "date": "May 29, 2024",
+      "snippet": "You can also use the 'Check your Income Tax' service online to find your tax code. You will need to sign into your tax account to access this ...",
+      "snippet_highlighted_words": [
+        "Check",
+        "tax code"
+      ],
+      "source": "CruseBurke"
+    },
+    {
+      "position": 90,
+      "title": "Make a Payment",
+      "link": "https://www.revenue.state.mn.us/make-payment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.revenue.state.mn.us/make-payment&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLMBEAE",
+      "displayed_link": "https://www.revenue.state.mn.us › make-payment",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e50cb4a9e269cdf03b373769df938bbc35.png",
+      "date": "Apr 28, 2025",
+      "snippet": "Where's My Refund? ... Policy statements that provide added interpretation, details, or information about Minnesota tax laws or rules.",
+      "snippet_highlighted_words": [
+        "My",
+        "tax laws"
+      ],
+      "source": "Minnesota Department of Revenue"
+    },
+    {
+      "position": 91,
+      "title": "How to Make the Tax Code Work for You",
+      "link": "https://www.trombleyassociates.com/resource-center/tax/how-to-make-the-tax-code-work-for-you",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.trombleyassociates.com/resource-center/tax/how-to-make-the-tax-code-work-for-you&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLIBEAE",
+      "displayed_link": "https://www.trombleyassociates.com › resource-center",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e52be8310a5acc963e01fe82aa3931ac0a.webp",
+      "date": "Apr 11, 2025",
+      "snippet": "Check the background of your financial professional on FINRA's BrokerCheck. The content is developed from sources believed to be providing ...",
+      "snippet_highlighted_words": [
+        "Check"
+      ],
+      "source": "Trombley Associates"
+    },
+    {
+      "position": 92,
+      "title": "Welcome to Idaho State Tax Commission",
+      "link": "https://tax.idaho.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.idaho.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLQBEAE",
+      "displayed_link": "https://tax.idaho.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e57636916ba71024d16d453b8baa1e8e5b.png",
+      "snippet": "ISTC informs taxpayers about their obligations so everyone can pay their fair share of taxes, & enforces Idaho's laws to ensure the fairness of the tax ...",
+      "snippet_highlighted_words": [
+        "laws",
+        "tax"
+      ],
+      "source": "Idaho State Tax Commission (.gov)"
+    },
+    {
+      "position": 93,
+      "title": "Property Tax",
+      "link": "https://www.tarrantcountytx.gov/en/tax/property-tax.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tarrantcountytx.gov/en/tax/property-tax.html&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCLoBEAE",
+      "displayed_link": "https://www.tarrantcountytx.gov › tax › property-tax",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5038aa13c13953234517d04bb669791ae.webp",
+      "date": "Aug 5, 2024",
+      "snippet": "hands on laptop with tax, dollar sign, calculator descriptive images · Pay My Property Tax Account ... View Entities We Collect For, Current Year ...",
+      "snippet_highlighted_words": [
+        "tax",
+        "My",
+        "Tax",
+        "View"
+      ],
+      "source": "Tarrant County (.gov)"
+    },
+    {
+      "position": 94,
+      "title": "Montana Department of Revenue",
+      "link": "https://revenue.mt.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revenue.mt.gov/&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCMsBEAE",
+      "displayed_link": "https://revenue.mt.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5b9902e876aff662eecfed713fe2332f0.webp",
+      "snippet": "... tax agency. Get Tax Assistance. I Want To... Make a Payment · Find Unclaimed Property · Get Help · Get Property Tax Assistance · Find My Refund · Access The ...",
+      "snippet_highlighted_words": [
+        "tax",
+        "Tax",
+        "Tax",
+        "My"
+      ],
+      "source": "Montana Department of Revenue (.gov)"
+    },
+    {
+      "position": 95,
+      "title": "How to Look Up Location Codes & Tax Rates",
+      "link": "https://tax.colorado.gov/how-to-look-up-sales-use-tax-rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.colorado.gov/how-to-look-up-sales-use-tax-rates&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCMwBEAE",
+      "displayed_link": "https://tax.colorado.gov › how-to-look-up-sales-use-tax...",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e553dc1be18d7dc3dd13119172e567d7dd.webp",
+      "snippet": "Two services are available in Revenue Online. View Local Sales Tax Rates: This service provides tax rates for all Colorado cities and counties. View Business ...",
+      "snippet_highlighted_words": [
+        "View",
+        "Tax",
+        "tax",
+        "View"
+      ],
+      "source": "Colorado tax (.gov)"
+    },
+    {
+      "position": 96,
+      "title": "Franchise Tax Board Homepage | FTB.ca.gov",
+      "link": "https://www.ftb.ca.gov/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ftb.ca.gov/index.html&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCM8BEAE",
+      "displayed_link": "https://www.ftb.ca.gov",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5368eca7cc013eebf74b740bf1b1bb6c5.webp",
+      "snippet": "Personal and Business Income Taxes, Residents, Non-residents, State of California.",
+      "source": "Franchise Tax Board (FTB) (.gov)"
+    },
+    {
+      "position": 97,
+      "title": "Individual Income Tax",
+      "link": "https://www.michigan.gov/taxes/iit",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.michigan.gov/taxes/iit&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoFCM4BEAE",
+      "displayed_link": "https://www.michigan.gov › taxes › iit",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e582e4510dfd201a034738405b9757a515.webp",
+      "snippet": "Treasury's Individual Income Tax (IIT) eService is a web platform used by the taxpayer to check refund status, view tax account information, ask questions, and ...",
+      "snippet_highlighted_words": [
+        "Tax",
+        "check",
+        "view tax"
+      ],
+      "source": "State of Michigan (.gov)"
+    },
+    {
+      "position": 98,
+      "title": "What You Need to Know About US Tax Code and How It ...",
+      "link": "https://www.bench.co/blog/tax-tips/tax-code",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bench.co/blog/tax-tips/tax-code&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQFnoECDAQAQ",
+      "displayed_link": "https://www.bench.co › blog › tax-tips › tax-code",
+      "favicon": "https://serpapi.com/searches/6881817cd0a88fbba1feace5/images/f0f743986059f7faaee424e0956d34e5cf62fa623141932f582a71abff93f872.webp",
+      "date": "Jan 9, 2024",
+      "snippet": "The difference between tax code and tax rate, the role of tax professionals, and recent tax code changes affecting small business tax ...",
+      "snippet_highlighted_words": [
+        "tax code",
+        "tax code"
+      ],
+      "source": "Bench Accounting"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "View my tax code online",
+      "link": "https://www.google.com/search?num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&q=View+my+tax+code+online&sa=X&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ1QJ6BQjWAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=View+my+tax+code+online"
+    },
+    {
+      "block_position": 1,
+      "query": "View my tax code tax return",
+      "link": "https://www.google.com/search?num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&q=View+my+tax+code+tax+return&sa=X&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ1QJ6BQjYAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=View+my+tax+code+tax+return"
+    },
+    {
+      "block_position": 1,
+      "query": "View my tax code 1040",
+      "link": "https://www.google.com/search?num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&q=View+my+tax+code+1040&sa=X&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ1QJ6BQjZAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=View+my+tax+code+1040"
+    },
+    {
+      "block_position": 1,
+      "query": "List of IRS tax codes",
+      "link": "https://www.google.com/search?num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&q=List+of+IRS+tax+codes&sa=X&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ1QJ6BQjXAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=List+of+IRS+tax+codes"
+    },
+    {
+      "block_position": 1,
+      "query": "Where's My refund",
+      "link": "https://www.google.com/search?num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&q=Where%27s+My+refund&sa=X&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ1QJ6BQjUAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Where%27s+My+refund"
+    },
+    {
+      "block_position": 1,
+      "query": "IRS login",
+      "link": "https://www.google.com/search?num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&q=IRS+login&sa=X&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ1QJ6BQjTAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=IRS+login"
+    },
+    {
+      "block_position": 1,
+      "query": "What is a tax code number",
+      "link": "https://www.google.com/search?num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&q=What+is+a+tax+code+number&sa=X&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ1QJ6BQjRAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+is+a+tax+code+number"
+    },
+    {
+      "block_position": 1,
+      "query": "List of IRS tax codes PDF",
+      "link": "https://www.google.com/search?num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&q=List+of+IRS+tax+codes+PDF&sa=X&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ1QJ6BQjSAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=List+of+IRS+tax+codes+PDF"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "How to find my income tax code",
+      "link": "https://www.quora.com/How-do-I-find-my-income-tax-code-I-ll-pay-any-amount-to-generate-my-income-tax-code",
+      "date": "6 years ago",
+      "extensions": [
+        "10+ answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "snippet": "You want to “FILE” your tax forms and payments after you find out what they are.",
+          "link": "https://www.quora.com/How-do-I-find-my-income-tax-code-I-ll-pay-any-amount-to-generate-my-income-tax-code?top_ans=1477743764686217",
+          "extensions": [
+            "Top answer",
+            "a year ago"
+          ]
+        },
+        {
+          "snippet": "Please clarify what do you mean by Income tax code? Do you want to generate a Permanent ...",
+          "link": "https://www.quora.com/How-do-I-find-my-income-tax-code-I-ll-pay-any-amount-to-generate-my-income-tax-code?top_ans=142057239",
+          "extensions": [
+            "6 years ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How do I find out my 5 digit code from last year that they want me to put in",
+      "link": "https://ttlc.intuit.com/community/taxes/discussion/how-do-i-find-out-my-5-digit-code-from-last-year-that-they-want-me-to-put-in/00/161710/page/_11",
+      "date": "6 years ago",
+      "source": "How do I find out my 5 digit code from last year that they want ..."
+    },
+    {
+      "title": "How do I find out my 5 digit code from last year that they want me to put in",
+      "link": "https://ttlc.intuit.com/community/taxes/discussion/how-do-i-find-out-my-5-digit-code-from-last-year-that-they-want-me-to-put-in/00/161710/page/2",
+      "date": "6 years ago",
+      "source": "How do I find out my 5 digit code from last year that they want ..."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=view+my+tax+code&num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&ei=f4GBaLjpIcL8ptQPx9bFiQ0&start=100&sa=N&sstk=Ac65TH47CyMoQ1ZYW4KFddnDLiIeWuKI_JUvaIMbozNwyj01SmZKmabBQ183FUPjdD-EcD2SoCXr_0_UL8Bvl1Vhpchuecclue3rcA&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ8NMDegUI1QIQBg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=view+my+tax+code&num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&ei=f4GBaLjpIcL8ptQPx9bFiQ0&start=100&sa=N&sstk=Ac65TH47CyMoQ1ZYW4KFddnDLiIeWuKI_JUvaIMbozNwyj01SmZKmabBQ183FUPjdD-EcD2SoCXr_0_UL8Bvl1Vhpchuecclue3rcA&ved=2ahUKEwj4pPLRodSOAxVCvokEHUdrMdEQ8tMDegUI1QIQBA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=view+my+tax+code&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=view+my+tax+code&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=view+my+tax+code&start=100"
+    }
+  }
+}

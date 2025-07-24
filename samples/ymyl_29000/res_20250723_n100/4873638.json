@@ -1,0 +1,614 @@
+{
+  "search_metadata": {
+    "id": "68822476b463f3b1ee9e59f0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8fb574a8ebd1f0e0/68822476b463f3b1ee9e59f0.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8fb574a8ebd1f0e0/68822476b463f3b1ee9e59f0.json_with_pixel_position",
+    "created_at": "2025-07-24 12:17:58 UTC",
+    "processed_at": "2025-07-24 12:17:58 UTC",
+    "google_url": "https://www.google.com/search?q=deficit+proteina+c+y+vacuna+covid&oq=deficit+proteina+c+y+vacuna+covid&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8fb574a8ebd1f0e0/68822476b463f3b1ee9e59f0.html",
+    "total_time_taken": 9.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "deficit proteina c y vacuna covid",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "deficit proteina c y vacuna covid",
+    "total_results": 22,
+    "time_taken_displayed": 0.43,
+    "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+    "spelling_fix": "deficit proteina y vacuna covid"
+  },
+  "related_questions": [
+    {
+      "question": "What are the spike protein levels after COVID vaccine?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "After COVID-19 vaccination, spike protein can be detected in the bloodstream for a few days, but it typically returns to baseline levels. However, in some individuals, particularly those experiencing post-vaccination syndrome (PVS), spike protein levels may remain detectable for extended periods, potentially even beyond 700 days after the last vaccination, according to YaleNews. This prolonged presence of spike protein has also been linked to long COVID.",
+          "snippet_highlighted_words": [
+            "can be detected in the bloodstream for a few days, but it typically returns to baseline levels"
+          ],
+          "reference_indexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Here's a more detailed breakdown:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Normal Response:",
+              "snippet": "Following vaccination, the body produces spike protein as part of the immune response to the vaccine. This spike protein is a target for the immune system, and it's typically cleared within a few days.",
+              "reference_indexes": [
+                0,
+                1,
+                3,
+                4,
+                7
+              ]
+            },
+            {
+              "title": "Post-Vaccination Syndrome (PVS):",
+              "snippet": "Some individuals experience PVS, characterized by persistent symptoms after vaccination. In these cases, spike protein has been found to be detectable for significantly longer durations than in the general vaccinated population.",
+              "reference_indexes": [
+                1,
+                2
+              ]
+            },
+            {
+              "title": "Long COVID Connection:",
+              "snippet": "The prolonged presence of spike protein in PVS patients is also observed in individuals with long COVID, suggesting a potential link between the two.",
+              "reference_indexes": [
+                1
+              ]
+            },
+            {
+              "title": "Potential Implications:",
+              "snippet": "The persistence of spike protein, particularly in the context of PVS and long COVID, is an area of ongoing research with potential implications for understanding and managing these conditions, according to YaleNews.",
+              "reference_indexes": [
+                1,
+                5,
+                6
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Circulating Spike Protein Detected in Post–COVID-19 mRNA Vaccine ...",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10010667/",
+          "snippet": "Results * Figure 1. Open in a new tab. Study overview. After they received a coronavirus disease 2019 (COVID-19) mRNA vaccination...",
+          "source": "PubMed Central",
+          "index": 0
+        },
+        {
+          "title": "Immune markers of post-vaccination syndrome indicate future research ...",
+          "link": "https://news.yale.edu/2025/02/19/immune-markers-post-vaccination-syndrome-indicate-future-research-directions",
+          "snippet": "Feb 19, 2025 — ... levels of spike protein than controls. Typically spike protein can be detected for a few days after vaccination, b...",
+          "source": "YaleNews",
+          "index": 1
+        },
+        {
+          "title": "Detection of S1 spike protein in CD16+ monocytes up to 245 days in SARS-CoV-2-negative post-COVID-19 vaccine syndrome (PCVS) individuals",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40358138/#:~:text=Despite%20over%2013%20billion%20SARS%2DCoV%2D2%20vaccine%20doses,issues%20often%20emerge%20shortly%20after%20vaccination%20%E2%80%A6",
+          "snippet": "May 13, 2025 — Despite over 13 billion SARS-CoV-2 vaccine doses administered globally, persistent post-vaccination symptoms, termed p...",
+          "source": "National Institutes of Health (NIH) | (.gov)",
+          "index": 2
+        },
+        {
+          "title": "Covid-19 Vaccine Immunity Test",
+          "link": "https://monitormyhealth.org.uk/covid19-vaccine-immunity-test/",
+          "snippet": "The spike protein is produced by the virus that causes COVID-19. The spike protein is also used by all currently available vaccine...",
+          "source": "Monitor My Health",
+          "index": 3
+        },
+        {
+          "title": "Vaxtherapy, a Multiphase Therapeutic Protocol Approach for Longvax, the COVID-19 Vaccine-Induced Disease: Spike Persistence as the Core Culprit and Its Downstream Effects",
+          "link": "https://www.mdpi.com/2079-9721/13/7/204#:~:text=4.1.%20Pathophysiology%20The%20persistence%20of%20the%20spike,pathophysiological%20framework%20caused%20by%20the%20spike%20protein.",
+          "snippet": "4.1. Pathophysiology The persistence of the spike protein and its downstream pathological effects have been well documented in bot...",
+          "source": "MDPI",
+          "index": 4
+        },
+        {
+          "title": "In silico prediction of immune-escaping hot spots for future COVID-19 vaccine design | Scientific Reports",
+          "link": "https://www.nature.com/articles/s41598-023-40741-1#:~:text=Fourth%2C%20whether%20the%20spike%20is%20relatively%20stable,still%20limited%20to%20use%20in%20our%20analysis.",
+          "snippet": "Aug 18, 2023 — Fourth, whether the spike is relatively stable or will change significantly over time still need to pay attention to,",
+          "source": "Nature",
+          "index": 5
+        },
+        {
+          "title": "What Is Spike Protein and Why Should You Get Tested? - LINNA CLINIC",
+          "link": "https://www.linnaclinic.com/en/blogs/spike-protein-antibody-level-test-covid-immunity-check/#:~:text=Benefits%20of%20the%20Spike%20Protein%20(in%20vaccine,Helps%20prevent%20severe%20illness%20in%20future%20infections",
+          "snippet": "Benefits of the Spike Protein (in vaccine form) Builds immunity without exposure to the live virus Spike protein from vaccines bre...",
+          "source": "linna clinic",
+          "index": 6
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVJGaE1kMk5VTlROb2RubEhPREpTYkRBek4wZHZieTFQUlRWUE5XVnRlVXd4YUc0MVNUQjJVRE5sZDBVNVFuQlRRMDQxV21saE9XRnZTMVk1Y0c1alJWZGpOamhUZEhCeVNWUmtlV2RKZFc5NU1teGFRMjAwWTA1RlFSSVhabWxUUTJGUVMwaFBOVGRPTVhOUlVHaE5hbWw1VVRBYUlrRkdUVUZIUjNCM05XdGlWVjh0UWpObmMwbGZOM1JWUm1NMmVUQTVXbXBDTTNjIiwiZmN2IjoiMyIsImVpIjoiZmlTQ2FQS0hPNTdOMXNRUGhNaml5UTAiLCJxYyI6IkNpQmtaV1pwWTJsMElIQnliM1JsYVc1aElHTjVJSFpoWTNWdVlTQmpiM1pwWkJBQUdBRjlaTTlPUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBzcGlrZSBwcm90ZWluIGxldmVscyBhZnRlciBDT1ZJRCB2YWNjaW5lPyIsImxrIjoiR2loemNHbHJaU0J3Y205MFpXbHVJR3hsZG1Wc2N5QmhablJsY2lCamIzWnBaQ0IyWVdOamFXNWwiLCJicyI6ImMzMlBzUXJDTUJDR2NjMmlZLWwwT0ltZ1NBWFhEaGJCeWEzT0liM2EySnFVSkFUNktyNkVELUpqLUNJMmdpbHR4ZVVPanVfX19fdkpoZXpPQlRWQUZZSXBFSFROUzRSYVNZTmNRSVVXS3cwME42aGdmMHFQQ1ZqS0dCY1lCNDgwV29hTFB6eVRsbWRmbnFSazlRa3lUWTBnY3lfaEd0cnBvZ2YtcnlpYWgyTmNESHl2Wkp0STFHT0hGbVVLcVc3UDBHNW11UFdQeHNGekdtM0NkZWFVUGI5T3hVWXEzMEUzSWxQeWh1NzVpb3NTTXpEeVY0Zjd3WFh3ZU1mMk1tZVROdyIsImlkIjoiZmNfZmlTQ2FQS0hPNTdOMXNRUGhNaml5UTBfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVJGaE1kMk5VTlROb2RubEhPREpTYkRBek4wZHZieTFQUlRWUE5XVnRlVXd4YUc0MVNUQjJVRE5sZDBVNVFuQlRRMDQxV21saE9XRnZTMVk1Y0c1alJWZGpOamhUZEhCeVNWUmtlV2RKZFc5NU1teGFRMjAwWTA1RlFSSVhabWxUUTJGUVMwaFBOVGRPTVhOUlVHaE5hbWw1VVRBYUlrRkdUVUZIUjNCM05XdGlWVjh0UWpObmMwbGZOM1JWUm1NMmVUQTVXbXBDTTNjIiwiZmN2IjoiMyIsImVpIjoiZmlTQ2FQS0hPNTdOMXNRUGhNaml5UTAiLCJxYyI6IkNpQmtaV1pwWTJsMElIQnliM1JsYVc1aElHTjVJSFpoWTNWdVlTQmpiM1pwWkJBQUdBRjlaTTlPUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBzcGlrZSBwcm90ZWluIGxldmVscyBhZnRlciBDT1ZJRCB2YWNjaW5lPyIsImxrIjoiR2loemNHbHJaU0J3Y205MFpXbHVJR3hsZG1Wc2N5QmhablJsY2lCamIzWnBaQ0IyWVdOamFXNWwiLCJicyI6ImMzMlBzUXJDTUJDR2NjMmlZLWwwT0ltZ1NBWFhEaGJCeWEzT0liM2EySnFVSkFUNktyNkVELUpqLUNJMmdpbHR4ZVVPanVfX19fdkpoZXpPQlRWQUZZSXBFSFROUzRSYVNZTmNRSVVXS3cwME42aGdmMHFQQ1ZqS0dCY1lCNDgwV29hTFB6eVRsbWRmbnFSazlRa3lUWTBnY3lfaEd0cnBvZ2YtcnlpYWgyTmNESHl2Wkp0STFHT0hGbVVLcVc3UDBHNW11UFdQeHNGekdtM0NkZWFVUGI5T3hVWXEzMEUzSWxQeWh1NzVpb3NTTXpEeVY0Zjd3WFh3ZU1mMk1tZVROdyIsImlkIjoiZmNfZmlTQ2FQS0hPNTdOMXNRUGhNaml5UTBfMSJ9"
+    },
+    {
+      "question": "What type of protein is in the COVID vaccine?",
+      "type": "featured_snippet",
+      "snippet": "Protein subunit vaccines (Novavax) Protein subunit vaccines contain pieces (proteins) of the virus that causes COVID-19. These virus pieces are the spike protein. The vaccine also contains another ingredient called an adjuvant that helps the immune system respond to that spike protein in the future.",
+      "title": "COVID-19 Vaccine Basics - CDC",
+      "date": "Sep 3, 2024",
+      "link": "https://www.cdc.gov/covid/vaccines/how-they-work.html#:~:text=Protein%20subunit%20vaccines%20(Novavax),spike%20protein%20in%20the%20future.",
+      "displayed_link": "https://www.cdc.gov › covid › vaccines › how-they-work",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Syi5t1JU7Q88t-CP_p-O2-0gQS9rAkM8X_7-dwnr&s",
+      "source_logo": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/34ce2fe131689a703a5179825b19f68fdd820ae3ddfed0689adf07204c434002.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVJGaE1kMk5VTlROb2RubEhPREpTYkRBek4wZHZieTFQUlRWUE5XVnRlVXd4YUc0MVNUQjJVRE5sZDBVNVFuQlRRMDQxV21saE9XRnZTMVk1Y0c1alJWZGpOamhUZEhCeVNWUmtlV2RKZFc5NU1teGFRMjAwWTA1RlFSSVhabWxUUTJGUVMwaFBOVGRPTVhOUlVHaE5hbWw1VVRBYUlrRkdUVUZIUjNCM05XdGlWVjh0UWpObmMwbGZOM1JWUm1NMmVUQTVXbXBDTTNjIiwiZmN2IjoiMyIsImVpIjoiZmlTQ2FQS0hPNTdOMXNRUGhNaml5UTAiLCJxYyI6IkNpQmtaV1pwWTJsMElIQnliM1JsYVc1aElHTjVJSFpoWTNWdVlTQmpiM1pwWkJBQUdBRjlaTTlPUHciLCJxdWVzdGlvbiI6IldoYXQgdHlwZSBvZiBwcm90ZWluIGlzIGluIHRoZSBDT1ZJRCB2YWNjaW5lPyIsImxrIjoiR2lCMGVYQmxJRzltSUhCeWIzUmxhVzRnYVc0Z1kyOTJhV1FnZG1GalkybHVaUSIsImJzIjoiYzMyUHNRckNNQkNHY2MyaVktbDBPSW1nU0FYWERoYkJ5YTNPSWIzYTJKcVVKQVQ2S3I2RUQtSmotQ0kyZ2lsdHhlVU9qdV9fX192Smhlek9CVFZBRllJcEVIVE5TNFJhU1lOY1FJVVdLdzAwTjZoZ2YwcVBDVmpLR0JjWUI0ODBXb2FMUHp5VGxtZGZucVJrOVFreVRZMGdjeV9oR3RycG9nZi1yeWlhaDJOY0RIeXZaSnRJMUdPSEZtVUtxVzdQMEc1bXVQV1B4c0Z6R20zQ2RlYVVQYjlPeFVZcTMwRTNJbFB5aHU3NWlvc1NNekR5VjRmN3dYWHdlTWYyTW1lVE53IiwiaWQiOiJmY19maVNDYVBLSE81N04xc1FQaE1qaXlRMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVJGaE1kMk5VTlROb2RubEhPREpTYkRBek4wZHZieTFQUlRWUE5XVnRlVXd4YUc0MVNUQjJVRE5sZDBVNVFuQlRRMDQxV21saE9XRnZTMVk1Y0c1alJWZGpOamhUZEhCeVNWUmtlV2RKZFc5NU1teGFRMjAwWTA1RlFSSVhabWxUUTJGUVMwaFBOVGRPTVhOUlVHaE5hbWw1VVRBYUlrRkdUVUZIUjNCM05XdGlWVjh0UWpObmMwbGZOM1JWUm1NMmVUQTVXbXBDTTNjIiwiZmN2IjoiMyIsImVpIjoiZmlTQ2FQS0hPNTdOMXNRUGhNaml5UTAiLCJxYyI6IkNpQmtaV1pwWTJsMElIQnliM1JsYVc1aElHTjVJSFpoWTNWdVlTQmpiM1pwWkJBQUdBRjlaTTlPUHciLCJxdWVzdGlvbiI6IldoYXQgdHlwZSBvZiBwcm90ZWluIGlzIGluIHRoZSBDT1ZJRCB2YWNjaW5lPyIsImxrIjoiR2lCMGVYQmxJRzltSUhCeWIzUmxhVzRnYVc0Z1kyOTJhV1FnZG1GalkybHVaUSIsImJzIjoiYzMyUHNRckNNQkNHY2MyaVktbDBPSW1nU0FYWERoYkJ5YTNPSWIzYTJKcVVKQVQ2S3I2RUQtSmotQ0kyZ2lsdHhlVU9qdV9fX192Smhlek9CVFZBRllJcEVIVE5TNFJhU1lOY1FJVVdLdzAwTjZoZ2YwcVBDVmpLR0JjWUI0ODBXb2FMUHp5VGxtZGZucVJrOVFreVRZMGdjeV9oR3RycG9nZi1yeWlhaDJOY0RIeXZaSnRJMUdPSEZtVUtxVzdQMEc1bXVQV1B4c0Z6R20zQ2RlYVVQYjlPeFVZcTMwRTNJbFB5aHU3NWlvc1NNekR5VjRmN3dYWHdlTWYyTW1lVE53IiwiaWQiOiJmY19maVNDYVBLSE81N04xc1FQaE1qaXlRMF8xIn0%3D"
+    },
+    {
+      "question": "Does the COVID vaccine increase C reactive protein?",
+      "type": "featured_snippet",
+      "snippet": "Conclusion: Patients with inflammatory arthritis and on DMARDs have a high uptake of COVID-19 vaccine (95%), which is greater than the national average. A CRP rise >10 mg/l within 30 days of vaccination was observed in ∼1 in 10 patients in our study population after all three doses.",
+      "title": "C-Reactive protein rise in rheumatology patients ... - PubMed",
+      "date": "Mar 24, 2023",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/36968632/#:~:text=Conclusion%3A%20Patients%20with%20inflammatory%20arthritis,population%20after%20all%20three%20doses.",
+      "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+      "source_logo": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/34ce2fe131689a703a5179825b19f68f99441fd410edf98ca979eac668b8f8a7.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVJGaE1kMk5VTlROb2RubEhPREpTYkRBek4wZHZieTFQUlRWUE5XVnRlVXd4YUc0MVNUQjJVRE5sZDBVNVFuQlRRMDQxV21saE9XRnZTMVk1Y0c1alJWZGpOamhUZEhCeVNWUmtlV2RKZFc5NU1teGFRMjAwWTA1RlFSSVhabWxUUTJGUVMwaFBOVGRPTVhOUlVHaE5hbWw1VVRBYUlrRkdUVUZIUjNCM05XdGlWVjh0UWpObmMwbGZOM1JWUm1NMmVUQTVXbXBDTTNjIiwiZmN2IjoiMyIsImVpIjoiZmlTQ2FQS0hPNTdOMXNRUGhNaml5UTAiLCJxYyI6IkNpQmtaV1pwWTJsMElIQnliM1JsYVc1aElHTjVJSFpoWTNWdVlTQmpiM1pwWkJBQUdBRjlaTTlPUHciLCJxdWVzdGlvbiI6IkRvZXMgdGhlIENPVklEIHZhY2NpbmUgaW5jcmVhc2UgQyByZWFjdGl2ZSBwcm90ZWluPyIsImxrIjoiY3czRnNRMEFJQXdEc0QtWWNnRV9vWkFoUzRzQTlYN3c0dFpuNm9CWm5xaEJPZ1FIdDhZUmlELXZTMWc3cnh3UCIsImJzIjoiYzMyUHNRckNNQkNHY2MyaVktbDBPSW1nU0FYWERoYkJ5YTNPSWIzYTJKcVVKQVQ2S3I2RUQtSmotQ0kyZ2lsdHhlVU9qdV9fX192Smhlek9CVFZBRllJcEVIVE5TNFJhU1lOY1FJVVdLdzAwTjZoZ2YwcVBDVmpLR0JjWUI0ODBXb2FMUHp5VGxtZGZucVJrOVFreVRZMGdjeV9oR3RycG9nZi1yeWlhaDJOY0RIeXZaSnRJMUdPSEZtVUtxVzdQMEc1bXVQV1B4c0Z6R20zQ2RlYVVQYjlPeFVZcTMwRTNJbFB5aHU3NWlvc1NNekR5VjRmN3dYWHdlTWYyTW1lVE53IiwiaWQiOiJmY19maVNDYVBLSE81N04xc1FQaE1qaXlRMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVJGaE1kMk5VTlROb2RubEhPREpTYkRBek4wZHZieTFQUlRWUE5XVnRlVXd4YUc0MVNUQjJVRE5sZDBVNVFuQlRRMDQxV21saE9XRnZTMVk1Y0c1alJWZGpOamhUZEhCeVNWUmtlV2RKZFc5NU1teGFRMjAwWTA1RlFSSVhabWxUUTJGUVMwaFBOVGRPTVhOUlVHaE5hbWw1VVRBYUlrRkdUVUZIUjNCM05XdGlWVjh0UWpObmMwbGZOM1JWUm1NMmVUQTVXbXBDTTNjIiwiZmN2IjoiMyIsImVpIjoiZmlTQ2FQS0hPNTdOMXNRUGhNaml5UTAiLCJxYyI6IkNpQmtaV1pwWTJsMElIQnliM1JsYVc1aElHTjVJSFpoWTNWdVlTQmpiM1pwWkJBQUdBRjlaTTlPUHciLCJxdWVzdGlvbiI6IkRvZXMgdGhlIENPVklEIHZhY2NpbmUgaW5jcmVhc2UgQyByZWFjdGl2ZSBwcm90ZWluPyIsImxrIjoiY3czRnNRMEFJQXdEc0QtWWNnRV9vWkFoUzRzQTlYN3c0dFpuNm9CWm5xaEJPZ1FIdDhZUmlELXZTMWc3cnh3UCIsImJzIjoiYzMyUHNRckNNQkNHY2MyaVktbDBPSW1nU0FYWERoYkJ5YTNPSWIzYTJKcVVKQVQ2S3I2RUQtSmotQ0kyZ2lsdHhlVU9qdV9fX192Smhlek9CVFZBRllJcEVIVE5TNFJhU1lOY1FJVVdLdzAwTjZoZ2YwcVBDVmpLR0JjWUI0ODBXb2FMUHp5VGxtZGZucVJrOVFreVRZMGdjeV9oR3RycG9nZi1yeWlhaDJOY0RIeXZaSnRJMUdPSEZtVUtxVzdQMEc1bXVQV1B4c0Z6R20zQ2RlYVVQYjlPeFVZcTMwRTNJbFB5aHU3NWlvc1NNekR5VjRmN3dYWHdlTWYyTW1lVE53IiwiaWQiOiJmY19maVNDYVBLSE81N04xc1FQaE1qaXlRMF8xIn0%3D"
+    },
+    {
+      "question": "What syndrome is linked to the COVID vaccine?",
+      "type": "featured_snippet",
+      "snippet": "Neurological side effects can occur following COVID‐19 vaccines. However, their frequency is not well studied yet. One of those side effects is the development of Guillain‐Barre syndrome. The frequency of its occurrence is still not precise, and many other studies are needed to clarify its incidence further.",
+      "title": "COVID‐19 vaccine causing Guillain‐Barre syndrome, a rare potential ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8405530/#:~:text=Neurological%20side%20effects%20can%20occur,to%20clarify%20its%20incidence%20further.",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC8405530",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVJGaE1kMk5VTlROb2RubEhPREpTYkRBek4wZHZieTFQUlRWUE5XVnRlVXd4YUc0MVNUQjJVRE5sZDBVNVFuQlRRMDQxV21saE9XRnZTMVk1Y0c1alJWZGpOamhUZEhCeVNWUmtlV2RKZFc5NU1teGFRMjAwWTA1RlFSSVhabWxUUTJGUVMwaFBOVGRPTVhOUlVHaE5hbWw1VVRBYUlrRkdUVUZIUjNCM05XdGlWVjh0UWpObmMwbGZOM1JWUm1NMmVUQTVXbXBDTTNjIiwiZmN2IjoiMyIsImVpIjoiZmlTQ2FQS0hPNTdOMXNRUGhNaml5UTAiLCJxYyI6IkNpQmtaV1pwWTJsMElIQnliM1JsYVc1aElHTjVJSFpoWTNWdVlTQmpiM1pwWkJBQUdBRjlaTTlPUHciLCJxdWVzdGlvbiI6IldoYXQgc3luZHJvbWUgaXMgbGlua2VkIHRvIHRoZSBDT1ZJRCB2YWNjaW5lPyIsImxrIjoiR2lCemVXNWtjbTl0WlNCc2FXNXJaV1FnZEc4Z1kyOTJhV1FnZG1GalkybHVaUSIsImJzIjoiYzMyUHNRckNNQkNHY2MyaVktbDBPSW1nU0FYWERoYkJ5YTNPSWIzYTJKcVVKQVQ2S3I2RUQtSmotQ0kyZ2lsdHhlVU9qdV9fX192Smhlek9CVFZBRllJcEVIVE5TNFJhU1lOY1FJVVdLdzAwTjZoZ2YwcVBDVmpLR0JjWUI0ODBXb2FMUHp5VGxtZGZucVJrOVFreVRZMGdjeV9oR3RycG9nZi1yeWlhaDJOY0RIeXZaSnRJMUdPSEZtVUtxVzdQMEc1bXVQV1B4c0Z6R20zQ2RlYVVQYjlPeFVZcTMwRTNJbFB5aHU3NWlvc1NNekR5VjRmN3dYWHdlTWYyTW1lVE53IiwiaWQiOiJmY19maVNDYVBLSE81N04xc1FQaE1qaXlRMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVJGaE1kMk5VTlROb2RubEhPREpTYkRBek4wZHZieTFQUlRWUE5XVnRlVXd4YUc0MVNUQjJVRE5sZDBVNVFuQlRRMDQxV21saE9XRnZTMVk1Y0c1alJWZGpOamhUZEhCeVNWUmtlV2RKZFc5NU1teGFRMjAwWTA1RlFSSVhabWxUUTJGUVMwaFBOVGRPTVhOUlVHaE5hbWw1VVRBYUlrRkdUVUZIUjNCM05XdGlWVjh0UWpObmMwbGZOM1JWUm1NMmVUQTVXbXBDTTNjIiwiZmN2IjoiMyIsImVpIjoiZmlTQ2FQS0hPNTdOMXNRUGhNaml5UTAiLCJxYyI6IkNpQmtaV1pwWTJsMElIQnliM1JsYVc1aElHTjVJSFpoWTNWdVlTQmpiM1pwWkJBQUdBRjlaTTlPUHciLCJxdWVzdGlvbiI6IldoYXQgc3luZHJvbWUgaXMgbGlua2VkIHRvIHRoZSBDT1ZJRCB2YWNjaW5lPyIsImxrIjoiR2lCemVXNWtjbTl0WlNCc2FXNXJaV1FnZEc4Z1kyOTJhV1FnZG1GalkybHVaUSIsImJzIjoiYzMyUHNRckNNQkNHY2MyaVktbDBPSW1nU0FYWERoYkJ5YTNPSWIzYTJKcVVKQVQ2S3I2RUQtSmotQ0kyZ2lsdHhlVU9qdV9fX192Smhlek9CVFZBRllJcEVIVE5TNFJhU1lOY1FJVVdLdzAwTjZoZ2YwcVBDVmpLR0JjWUI0ODBXb2FMUHp5VGxtZGZucVJrOVFreVRZMGdjeV9oR3RycG9nZi1yeWlhaDJOY0RIeXZaSnRJMUdPSEZtVUtxVzdQMEc1bXVQV1B4c0Z6R20zQ2RlYVVQYjlPeFVZcTMwRTNJbFB5aHU3NWlvc1NNekR5VjRmN3dYWHdlTWYyTW1lVE53IiwiaWQiOiJmY19maVNDYVBLSE81N04xc1FQaE1qaXlRMF8xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "xv7dHHicxZTbkqJIEIZv90XWmx4VGmyxI4iJKmQAT1ie9YZAwAJBsS1PeLcvsE-xT7VPM1V4ghl7Yzd2IxYVi6rKzL8yP_K3P6JgHf75y-_-brch7-Xy8Xgs4TjGkVdy4lXZJsnaKS_iiGwd_yuO5D0p-JHsrQvJQRYKDpG5ghfIi6Cv2N2mblaqHZ6grt9eBgniCqm5bM1t4i2p99OSlK0yvYW_CnX6UCIlb10Sz9XAFaLKeWeUXjleKplle0U3gH954SdzkP6aCgAov1F9Zo-M9A7C3OTNEWY2BvBBDICCc3uMR2xliIHVkRaZw9xlUS39rNmEzUFUp54VJack-2RcTK-KYe4g4IeDpXv1n6ZzF5VzvMdh2qD1WDRZ7DRU3Ve4jBMTAUknwIdo-LNLKhc6qtNvSfizuBsQ2GON0OhlF9Nac-X5lv7x5S1hlVcGNS7W98dANOa6pb3OlvyqOD5tlpF0agJngb6kTDnkDhXJQtVUZ9K0M-f1Cim1SpC_EwWZtv4ldzA9LJ2ABuh9mp5LHvE9VyBTQPV2XPaBjnjNIzrQ5_C23I0h3GIjl4kLLZB50tIBHRktoDI6KVEB88kxr6yAzBKp1AYD1KAlVVVmgxWm33hIOXYJpWfKxjCtqAG0NCYjijpE6Coe3mzgFQuDfaGoGgiGEMCpEuGkfT8yE3cNw3ZH1KybnprKmYI6VvrUPVuhYlXEAt1SlE6y18QA345XhqEGEHv9qPhBnigaY_rXVaBX8_MlStIThI64pkPbabyharA_i76JurFxGCwc_4ZQvJr_g8bk_D-QMQ9N2hR6Wcjwc8jybesKGbpBhhlkrG19sOLkIJs-IFOGoUbbllV_QIYzkPWzkGXbVj8HmQL-NmQoC5lxh6z_KWS3tnWHrGE9IDMZZOoTyP7LtpWy5l3-8j1sv8Q_gqhyrfVArU_qrl01gTZOZocRbDbPZmVCQVysdu-2G32xAvcdvjZ2iVv4kF1vETjB7mWzjXdesLZfnJfk5WA7ezaMD4FbWEXbWOZsEbVG6qw95Hk8Lu7VjT5NuDkXHJq--ZGExZrfXJ68Bvd6DpdG34H-vtt1p1YoKEtroCXA9jpI13hdFUZ7VxJtPGkbwzfSE82KX-xJE6vGB5Ve8jZsVwau2mvNNlMpis0P3V758Nt0LQnwVByFdiU-gqLLQZzqIvLY1kbJ3Au6MSqsto5M0yuGoIMAKhDHtjxykN94wXGqtZrgCYuKwEuFFd4lG1kUvwNayX-f",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xv7dHHicxZTbkqJIEIZv90XWmx4VGmyxI4iJKmQAT1ie9YZAwAJBsS1PeLcvsE-xT7VPM1V4ghl7Yzd2IxYVi6rKzL8yP_K3P6JgHf75y-_-brch7-Xy8Xgs4TjGkVdy4lXZJsnaKS_iiGwd_yuO5D0p-JHsrQvJQRYKDpG5ghfIi6Cv2N2mblaqHZ6grt9eBgniCqm5bM1t4i2p99OSlK0yvYW_CnX6UCIlb10Sz9XAFaLKeWeUXjleKplle0U3gH954SdzkP6aCgAov1F9Zo-M9A7C3OTNEWY2BvBBDICCc3uMR2xliIHVkRaZw9xlUS39rNmEzUFUp54VJack-2RcTK-KYe4g4IeDpXv1n6ZzF5VzvMdh2qD1WDRZ7DRU3Ve4jBMTAUknwIdo-LNLKhc6qtNvSfizuBsQ2GON0OhlF9Nac-X5lv7x5S1hlVcGNS7W98dANOa6pb3OlvyqOD5tlpF0agJngb6kTDnkDhXJQtVUZ9K0M-f1Cim1SpC_EwWZtv4ldzA9LJ2ABuh9mp5LHvE9VyBTQPV2XPaBjnjNIzrQ5_C23I0h3GIjl4kLLZB50tIBHRktoDI6KVEB88kxr6yAzBKp1AYD1KAlVVVmgxWm33hIOXYJpWfKxjCtqAG0NCYjijpE6Coe3mzgFQuDfaGoGgiGEMCpEuGkfT8yE3cNw3ZH1KybnprKmYI6VvrUPVuhYlXEAt1SlE6y18QA345XhqEGEHv9qPhBnigaY_rXVaBX8_MlStIThI64pkPbabyharA_i76JurFxGCwc_4ZQvJr_g8bk_D-QMQ9N2hR6Wcjwc8jybesKGbpBhhlkrG19sOLkIJs-IFOGoUbbllV_QIYzkPWzkGXbVj8HmQL-NmQoC5lxh6z_KWS3tnWHrGE9IDMZZOoTyP7LtpWy5l3-8j1sv8Q_gqhyrfVArU_qrl01gTZOZocRbDbPZmVCQVysdu-2G32xAvcdvjZ2iVv4kF1vETjB7mWzjXdesLZfnJfk5WA7ezaMD4FbWEXbWOZsEbVG6qw95Hk8Lu7VjT5NuDkXHJq--ZGExZrfXJ68Bvd6DpdG34H-vtt1p1YoKEtroCXA9jpI13hdFUZ7VxJtPGkbwzfSE82KX-xJE6vGB5Ve8jZsVwau2mvNNlMpis0P3V758Nt0LQnwVByFdiU-gqLLQZzqIvLY1kbJ3Au6MSqsto5M0yuGoIMAKhDHtjxykN94wXGqtZrgCYuKwEuFFd4lG1kUvwNayX-f"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Venous Thromboembolism Following COVID-19 ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11236358/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC11236358/&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECBwQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC11236358",
+      "author": "by M Rayner",
+      "snippet": "Inherited thrombophilias, such as hereditary protein S (PS) deficiency, are not listed as a contraindication to receiving a COVID-19 vaccination ...",
+      "snippet_highlighted_words": [
+        "protein",
+        "deficiency",
+        "COVID"
+      ],
+      "missing": [
+        "deficit",
+        "proteina",
+        "cy",
+        "vacuna"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "Cerebral venous sinus thrombosis after COVID-19 ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9746424/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC9746424/&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECBkQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC9746424",
+      "author": "by F Mele",
+      "snippet": "We describe two rare cases of thrombosis temporally associated with live-vectored Covid vaccination in patients with Protein S deficiency and Prothrombin G ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "Protein",
+        "deficiency"
+      ],
+      "missing": [
+        "deficit",
+        "proteina",
+        "cy",
+        "vacuna"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "Clinical review of cerebral venous thrombosis in the ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022510X21002264",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S0022510X21002264&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECDkQAQ",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391e474553b9d7cb2a8cef3c5995beedf5c0.png",
+      "author": "by KT Thakur",
+      "snippet": "Vaccine induced immune mediated thrombocytopenia or VITT, is a recent and rare phenomenon of thrombosis with thrombocytopenia, ...",
+      "snippet_highlighted_words": [
+        "Vaccine"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 4,
+      "title": "Cognitive deficits and memory impairments after COVID-19 ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2666354622000539",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S2666354622000539&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECFEQAQ",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391e4c6a2600bf4d1a461761257aa5f16149.png",
+      "author": "by B Chaurasia",
+      "snippet": "We report a 65-year-old man who developed cognitive deficits and memory impairments following his first dose of Oxford AstraZeneca vaccine (Covishield).",
+      "snippet_highlighted_words": [
+        "deficits",
+        "vaccine"
+      ],
+      "missing": [
+        "proteina",
+        "cy"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 5,
+      "title": "Spectrum of neurological complications following COVID- ...",
+      "link": "https://link.springer.com/article/10.1007/s10072-021-05662-9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/article/10.1007/s10072-021-05662-9&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECDUQAQ",
+      "displayed_link": "https://link.springer.com › Neurological Sciences",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391eee820de33eed488f587a6934ce152663.png",
+      "author": "by RK Garg",
+      "snippet": "Neurological adverse events following vaccination are generally mild and transient, like fever and chills, headache, fatigue, myalgia and arthralgia.",
+      "missing": [
+        "proteina"
+      ],
+      "must_include": {
+        "word": "proteina",
+        "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=deficit+%22proteina%22+c+y+vacuna+covid&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ5t4CegQIRBAB"
+      },
+      "source": "Springer"
+    },
+    {
+      "position": 6,
+      "title": "Trombosis de eje porto-espleno-mesentérico por síndrome ...",
+      "link": "https://www.researchgate.net/publication/366678410_Trombosis_de_eje_porto-espleno-mesenterico_por_sindrome_de_trombosis_con_trombocitopenia_inducida_por_la_vacuna_COVID-19_AstraZeneca_ChAdOx1nCov-19_reporte_de_caso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.researchgate.net/publication/366678410_Trombosis_de_eje_porto-espleno-mesenterico_por_sindrome_de_trombosis_con_trombocitopenia_inducida_por_la_vacuna_COVID-19_AstraZeneca_ChAdOx1nCov-19_reporte_de_caso&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECFIQAQ",
+      "displayed_link": "https://www.researchgate.net › ... › COVID-19",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391e2af159ac8cec50f9fa084d4a53bd751e.png",
+      "snippet": "La trombosis venosa y la trombocitopenia después de la vacunación con la vacuna COVID-19 transmitida por adenovirus ChAdOx1 nCov-19 (AstraZeneca) se han ...",
+      "snippet_highlighted_words": [
+        "vacuna COVID"
+      ],
+      "source": "ResearchGate"
+    },
+    {
+      "position": 7,
+      "title": "Alteraciones hematológicas como consecuencia de COVID ...",
+      "link": "https://dialnet.unirioja.es/descarga/articulo/8741868.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dialnet.unirioja.es/descarga/articulo/8741868.pdf&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECFUQAQ",
+      "displayed_link": "https://dialnet.unirioja.es › descarga › articulo",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391e9f608cc927c9ba0bc92a2edd1c06c511.png",
+      "author": "by JCV Carruyo",
+      "snippet": "De igual forma, se aborda el tema de las coagulopatías asociadas a las vacunas desarrolladas contra el SARS-CoV-2, en particular, la trombocitopenia trombótica ...",
+      "snippet_highlighted_words": [
+        "vacunas"
+      ],
+      "source": "Dialnet"
+    },
+    {
+      "position": 8,
+      "title": "¿Cuáles son los ingredientes de las vacunas contra el ...",
+      "link": "https://www.goodrx.com/es/conditions/covid-19/ingredients-covid-19-vaccine?srsltid=AfmBOorUB0ftIw-kVhoy11qHhygRVWMQcyAweZImna9712eGabIm_m7V",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodrx.com/es/conditions/covid-19/ingredients-covid-19-vaccine%3Fsrsltid%3DAfmBOorUB0ftIw-kVhoy11qHhygRVWMQcyAweZImna9712eGabIm_m7V&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECGMQAQ",
+      "displayed_link": "https://www.goodrx.com › covid-19",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391ef1e8ecf0cff1068d08aaded378044866.png",
+      "snippet": "Todas las vacunas contra el COVID atacan la proteína de la espícula. Pero contienen diferentes ingredientes que ayudan a enseñarle a su sistema inmunológico ...",
+      "snippet_highlighted_words": [
+        "Todas las vacunas contra el COVID atacan la proteína de la espícula"
+      ],
+      "source": "GoodRx"
+    },
+    {
+      "position": 9,
+      "title": "Recomendaciones SEPAR sobre la vacuna COVID-19 en ...",
+      "link": "https://www.elsevier.es/en-revista-open-respiratory-archives-11-articulo-recomendaciones-separ-sobre-vacuna-covid-19-S2659663621000163",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.elsevier.es/en-revista-open-respiratory-archives-11-articulo-recomendaciones-separ-sobre-vacuna-covid-19-S2659663621000163&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECDEQAQ",
+      "displayed_link": "https://www.elsevier.es › en-revist...",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391e9c05b296ec372b43cb245f5dac7aca40.png",
+      "snippet": "Vacuna de ARNm, Estimula la producción de la proteína S en el citoplasma de la célula.El ARNm no se integra en el núcleo de la célula.Altamente inmunógenas, ...",
+      "snippet_highlighted_words": [
+        "Estimula la producción de la proteína S en el citoplasma de la célula"
+      ],
+      "source": "Elsevier"
+    },
+    {
+      "position": 10,
+      "title": "Policy Responses to COVID-19",
+      "link": "https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECDIQAQ",
+      "displayed_link": "https://www.imf.org › Topics › imf-and-covid19 › Poli...",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391e306d541e1ccd66bc187397c952bec48d.png",
+      "snippet": "This policy tracker summarizes the key economic responses governments are taking to limit the human and economic impact of the COVID-19 pandemic.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "International Monetary Fund"
+    },
+    {
+      "position": 11,
+      "title": "Vacuna frente al COVID-19",
+      "link": "https://seq.es/wp-content/uploads/2021/12/vacunas-covid-6.3.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://seq.es/wp-content/uploads/2021/12/vacunas-covid-6.3.pdf&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECFAQAQ",
+      "displayed_link": "https://seq.es › 2021/12 › vacunas-covid-6.3.pdf",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391ea4e1789e78283b25c2895358001ceeb7.png",
+      "author": "by JJ Picazo",
+      "snippet": "Los anticuerpos desarrollados en la sangre. (IgG o IgM) bloquean la entrada de la proteína S del virus en la célula humana, aunque ...",
+      "snippet_highlighted_words": [
+        "proteína"
+      ],
+      "missing": [
+        "deficit"
+      ],
+      "must_include": {
+        "word": "deficit",
+        "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=%22deficit%22+proteina+c+y+vacuna+covid&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ5t4CegQIZBAB"
+      },
+      "source": "seq.es"
+    },
+    {
+      "position": 12,
+      "title": "Deficiencia de proteína C - Hematología y oncología",
+      "link": "https://www.msdmanuals.com/es/professional/hematolog%C3%ADa-y-oncolog%C3%ADa/trastornos-tromb%C3%B3ticos/deficiencia-de-prote%C3%ADna-c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.msdmanuals.com/es/professional/hematolog%25C3%25ADa-y-oncolog%25C3%25ADa/trastornos-tromb%25C3%25B3ticos/deficiencia-de-prote%25C3%25ADna-c&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECFMQAQ",
+      "displayed_link": "https://www.msdmanuals.com › def...",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391e15979d7b5b3fe8fbfe6fa04815f6119d.png",
+      "snippet": "Puesto que la proteína C activada degrada los factores de la coagulación Va y VIIIa, la deficiencia de proteína C predispone a la trombosis venosa.",
+      "snippet_highlighted_words": [
+        "proteína",
+        "proteína"
+      ],
+      "source": "MSD Manuals"
+    },
+    {
+      "position": 13,
+      "title": "Farmacovigilancia de vacunas para COVID-19 - Sinovac",
+      "link": "https://covid-19pharmacovigilance.paho.org/sinovac",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covid-19pharmacovigilance.paho.org/sinovac&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECFQQAQ",
+      "displayed_link": "https://covid-19pharmacovigilance.paho.org › sinovac",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391ec6859a6a0a60991b4eb584d6d6b0fa63.png",
+      "author": "by B Faso",
+      "snippet": "The Sinovac COVID-19 vaccine is an inactivated virus vaccine, derived from the CZ02 strain of coronavirus. The virus is cultivated in African green monkey ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "vaccine",
+        "vaccine",
+        "coronavirus"
+      ],
+      "source": "Pan American Health Organization (PAHO)"
+    },
+    {
+      "position": 14,
+      "title": "¿Qué Ingredientes Tiene La Vacuna Contra El COVID-19?",
+      "link": "https://portal.ct.gov/-/media/coronavirus/community_resources/vaccinations/print-materials/fact-sheets/ingredients_spanish.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://portal.ct.gov/-/media/coronavirus/community_resources/vaccinations/print-materials/fact-sheets/ingredients_spanish.pdf&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECGIQAQ",
+      "displayed_link": "https://portal.ct.gov › media › ingredients_spanish",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391e36ee47f6f11528781ec08ca1bdf9d456.png",
+      "snippet": "Explicación de ingredientes: - Lípidos: Los nanolípidos, o pequeñas moléculas de grasa, protegen el ARN y proporcionan un exterior “grasoso” que.",
+      "source": "CT.GOV-Connecticut's Official State Website (.gov)"
+    },
+    {
+      "position": 15,
+      "title": "Thrombosis and Thrombocytopenia after ChAdOx1 nCoV- ...",
+      "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2104882",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nejm.org/doi/full/10.1056/NEJMoa2104882&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECH4QAQ",
+      "displayed_link": "https://www.nejm.org › doi › full › NEJMoa2104882",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391eb3aeb0c459e8fabf630f0ff06610e570.png",
+      "author": "by NH Schultz",
+      "snippet": "We report findings in five patients who presented with venous thrombosis and thrombocytopenia 7 to 10 days after receiving the first dose of the ChAdOx1 nCoV- ...",
+      "source": "The New England Journal of Medicine"
+    },
+    {
+      "position": 16,
+      "title": "Innate and adaptative immune mechanisms of COVID-19 ...",
+      "link": "https://www.elsevier.es/en-revista-vacunas-english-edition--259-articulo-innate-adaptative-immune-mechanisms-covid-19-S2445146024000293?covid=Dr56DrLjUdaMjzAgze452SzSInMN&rfr=truhgiz&y=kEzTXsahn8atJufRpNPuIGh67s1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.elsevier.es/en-revista-vacunas-english-edition--259-articulo-innate-adaptative-immune-mechanisms-covid-19-S2445146024000293%3Fcovid%3DDr56DrLjUdaMjzAgze452SzSInMN%26rfr%3Dtruhgiz%26y%3DkEzTXsahn8atJufRpNPuIGh67s1&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECHsQAQ",
+      "displayed_link": "https://www.elsevier.es › en-revista-vacunas-english-edi...",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391eaa8c92f184c2859eee67d6ff0d6244a3.png",
+      "snippet": "The present review focuses on innate–adaptative immune stimulation by COVID-19 vaccines, especially by mRNA-iLNP vaccines.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Elsevier"
+    },
+    {
+      "position": 17,
+      "title": "Vacuna bivalente de ARNm contra la COVID-19 (Moderna)",
+      "link": "https://medlineplus.gov/spanish/druginfo/meds/a621002-es.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medlineplus.gov/spanish/druginfo/meds/a621002-es.html&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECDMQAQ",
+      "displayed_link": "https://medlineplus.gov › meds › a...",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391ed3da93984d8111a64d493a2d5f88d393.png",
+      "date": "May 15, 2023",
+      "snippet": "La FDA ha aprobado una EUA para la vacuna bivalente de ARNm contra la COVID-19 para personas de 6 meses o mayores que no hayan recibido ninguna ...",
+      "snippet_highlighted_words": [
+        "vacuna",
+        "COVID"
+      ],
+      "source": "MedlinePlus (.gov)"
+    },
+    {
+      "position": 18,
+      "title": "VACUNA COVID, TROMBOFILIA Y HEPARINA",
+      "link": "https://vacunasaep.org/profesionales/pregunta-al-cav/coronavirus/vacuna-covid-trombofilia-y-heparina",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vacunasaep.org/profesionales/pregunta-al-cav/coronavirus/vacuna-covid-trombofilia-y-heparina&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECDcQAQ",
+      "displayed_link": "https://vacunasaep.org › coronavirus",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391eeb30cc97ceea3455a5dbe6b1216cee4d.png",
+      "date": "Dec 29, 2021",
+      "snippet": "La deficiencia de proteína S es una enfermedad hereditaria que se debe a una mutación en el gen de la proteína S encargada de desactivar el ...",
+      "snippet_highlighted_words": [
+        "La deficiencia de proteína S es una enfermedad hereditaria"
+      ],
+      "missing": [
+        "cy"
+      ],
+      "must_include": {
+        "word": "cy",
+        "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=deficit+proteina+%22cy%22+y+vacuna+covid&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ5t4CegQITBAB"
+      },
+      "source": "Comité Asesor de Vacunas de la AEP"
+    },
+    {
+      "position": 19,
+      "title": "Trombofilia hereditaria grave por deficiencia congénita de ...",
+      "link": "https://www.orpha.net/es/disease/detail/745",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orpha.net/es/disease/detail/745&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECDQQAQ",
+      "displayed_link": "https://www.orpha.net › detail",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391e173642de248e861ecf7ab0aa9d28559a.png",
+      "snippet": "El déficit de proteína C está causado por mutaciones en el gen PROC (2q13-q14), que controla la producción de proteína C. La transmisión es autosómica ...",
+      "snippet_highlighted_words": [
+        "déficit",
+        "proteína",
+        "proteína"
+      ],
+      "missing": [
+        "vacuna"
+      ],
+      "must_include": {
+        "word": "vacuna",
+        "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=deficit+proteina+c+y+%22vacuna%22+covid&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ5t4CegQIRRAB"
+      },
+      "source": "Orphanet"
+    },
+    {
+      "position": 20,
+      "title": "Trombosis venosa profunda durante el periodo de vacunación ...",
+      "link": "https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0003-31702023000100003",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://scielo.isciii.es/scielo.php%3Fscript%3Dsci_arttext%26pid%3DS0003-31702023000100003&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECE8QAQ",
+      "displayed_link": "https://scielo.isciii.es › scielo",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391e6c14d897f9c8cf7a6e20a5eb3dc87393.png",
+      "author": "by L Pastor-Alconchel",
+      "snippet": "En el grupo de vacunados, 5 pacientes presentaron estados trombofílicos de alto riesgo, como déficit de proteína C o síndrome antifosfolipídico, y 2 eran ...",
+      "snippet_highlighted_words": [
+        "déficit",
+        "proteína"
+      ],
+      "source": "SciELO España"
+    },
+    {
+      "position": 21,
+      "title": "Hepatitis C y COVID-19: Riesgos, vacunación y seguridad",
+      "link": "https://www.medicalnewstoday.com/articles/es/vinculo-entre-covid-19-y-hepatitis-c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicalnewstoday.com/articles/es/vinculo-entre-covid-19-y-hepatitis-c&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECDYQAQ",
+      "displayed_link": "https://www.medicalnewstoday.com › ...",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391e242327094a702b8b13cf2fb3125ea17c.png",
+      "date": "Oct 29, 2021",
+      "snippet": "Las personas con hepatitis C pueden tener un mayor riesgo de sufrir síntomas graves de COVID-19 y daño hepático. Lo que debes saber.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Medical News Today"
+    },
+    {
+      "position": 22,
+      "title": "Laboratorio de análisis clínicos",
+      "link": "https://www.cdrossi.com/laboratorio-rossi.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdrossi.com/laboratorio-rossi.html&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQFnoECDgQAQ",
+      "displayed_link": "https://www.cdrossi.com › laborat...",
+      "favicon": "https://serpapi.com/searches/68822476b463f3b1ee9e59f0/images/d76e3838c71e7aee8c3bb5712745391ebe3bc1d3026566694d4892f4609de8af.png",
+      "snippet": "El laboratorio Rossi es reevaluado regularmente para verificar que sigue manteniendo los estándares de calidad. Es un proceso voluntario mediante el cual una ...",
+      "source": "Centro Rossi"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "COVID vaccine cognitive side effects",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=COVID+vaccine+cognitive+side+effects&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ1QJ6BAh6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=COVID+vaccine+cognitive+side+effects"
+    },
+    {
+      "block_position": 1,
+      "query": "vaccine-induced immune thrombotic thrombocytopenia symptoms",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=vaccine-induced+immune+thrombotic+thrombocytopenia+symptoms&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ1QJ6BAh5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=vaccine-induced+immune+thrombotic+thrombocytopenia+symptoms"
+    },
+    {
+      "block_position": 1,
+      "query": "COVID vaccine brain fog",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=COVID+vaccine+brain+fog&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ1QJ6BAh2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=COVID+vaccine+brain+fog"
+    },
+    {
+      "block_position": 1,
+      "query": "does covid-19 vaccine affect memory",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=does+covid-19+vaccine+affect+memory&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ1QJ6BAh3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=does+covid-19+vaccine+affect+memory"
+    },
+    {
+      "block_position": 1,
+      "query": "Vaccine-induced thrombocytopenia",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=Vaccine-induced+thrombocytopenia&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ1QJ6BAh4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Vaccine-induced+thrombocytopenia"
+    },
+    {
+      "block_position": 1,
+      "query": "Brain fog covid vaccine Reddit",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=Brain+fog+covid+vaccine+Reddit&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Brain+fog+covid+vaccine+Reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Can COVID booster cause confusion in elderly",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=Can+COVID+booster+cause+confusion+in+elderly&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ1QJ6BAhzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Can+COVID+booster+cause+confusion+in+elderly"
+    },
+    {
+      "block_position": 1,
+      "query": "Vitt wikipedia",
+      "link": "https://www.google.com/search?num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&q=Vitt+wikipedia&sa=X&ved=2ahUKEwjyvomLvdWOAxWeppUCHQSkONkQ1QJ6BAh1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Vitt+wikipedia"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 22 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=deficit+proteina+c+y+vacuna+covid&num=100&sca_esv=613cc7993e3f5318&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=deficit+proteina+c+y+vacuna+covid&oq=deficit+proteina+c+y+vacuna+covid&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=deficit+proteina+c+y+vacuna+covid&oq=deficit+proteina+c+y+vacuna+covid&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=deficit+proteina+c+y+vacuna+covid&oq=deficit+proteina+c+y+vacuna+covid&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=deficit+proteina+c+y+vacuna+covid&oq=deficit+proteina+c+y+vacuna+covid&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=deficit+proteina+c+y+vacuna+covid&oq=deficit+proteina+c+y+vacuna+covid&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=deficit+proteina+c+y+vacuna+covid&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=deficit+proteina+c+y+vacuna+covid&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=deficit+proteina+c+y+vacuna+covid&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=deficit+proteina+c+y+vacuna+covid&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=deficit+proteina+c+y+vacuna+covid&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=deficit+proteina+c+y+vacuna+covid&start=400"
+    }
+  }
+}

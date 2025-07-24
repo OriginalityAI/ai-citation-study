@@ -1,0 +1,1611 @@
+{
+  "search_metadata": {
+    "id": "68816625bde9790da69af53b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3fbdfb6436254014/68816625bde9790da69af53b.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/3fbdfb6436254014/68816625bde9790da69af53b.json_with_pixel_position",
+    "created_at": "2025-07-23 22:45:57 UTC",
+    "processed_at": "2025-07-23 22:45:57 UTC",
+    "google_url": "https://www.google.com/search?q=sales+tax+by+county+ga&oq=sales+tax+by+county+ga&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3fbdfb6436254014/68816625bde9790da69af53b.html",
+    "total_time_taken": 1.3
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "sales tax by county ga",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "sales tax by county ga",
+    "total_results": 14000000,
+    "time_taken_displayed": 0.54,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the sales tax rate for Georgia counties?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSGNXcFNOR3RoVTBKc2MweE9iMDFzZFdGSmMwSmlRMWhSVmpkSVpGUk5aM3BPV0hGaGNVTk1jM0F6V1ZSWmRYVTRUR0pUZG1GdGVrMU9iVmhJTlVoaWRtSk1aWHBxTlRGSFpWWnlXVEpQVW1FelRtNWtWVWRPYXpJM1VSSVdTbTFoUW1GTFgxaENkV1Z0T1hVNFVISTFUM05oUVJvaVFVWk5RVWRIY0cxdFVUSXhPRkIyVEdSVU9GWk1kWGM1ZG5NNVEyd3dVa1E0UVEiLCJmY3YiOiIzIiwiZWkiOiJKbWFCYUtfWEJ1ZW05dThQcjVPc2FBIiwicWMiOiJDaFp6WVd4bGN5QjBZWGdnWW5rZ1kyOTFiblI1SUdkaEVBQjlwbmh3UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNhbGVzIHRheCByYXRlIGZvciBHZW9yZ2lhIGNvdW50aWVzPyIsImxrIjoiR2k5M2FHRjBJR2x6SUhSb1pTQnpZV3hsY3lCMFlYZ2djbUYwWlNCbWIzSWdaMlZ2Y21kcFlTQmpiM1Z1ZEdsbGN3IiwiYnMiOiJjMzJQUVFyQ01CQkZjWnVWeTVMVjZFcEZxZVlDUlRjVjEwTEIzUkJpSmxBYWFGS2pCX01VM3NHYkNLWldVRVM2RzRiM191Y3pZc3VDMElOeDRFbUJ3MUxGQzg5UW8xZHd0RFhreXRiYUlFamJWTjRvbHlXM2pWanhOUFJyLWtkakJ6WXR5RWpxUGhjd0ZlUnJJT3dTeUdoU3pyY1piY1hqSkdaOEVuNTRqZjk1cGxqYXN5S2FleHNxOTA2YXg5NHN1UllpNVl1ZUVkSHlYMVlzWnpzMjJ0b1EzeUN4bEUzWlloX3JOU2hMN28wWWM2QmVUdU53OEFRIiwiaWQiOiJmY19KbWFCYUtfWEJ1ZW05dThQcjVPc2FBXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSGNXcFNOR3RoVTBKc2MweE9iMDFzZFdGSmMwSmlRMWhSVmpkSVpGUk5aM3BPV0hGaGNVTk1jM0F6V1ZSWmRYVTRUR0pUZG1GdGVrMU9iVmhJTlVoaWRtSk1aWHBxTlRGSFpWWnlXVEpQVW1FelRtNWtWVWRPYXpJM1VSSVdTbTFoUW1GTFgxaENkV1Z0T1hVNFVISTFUM05oUVJvaVFVWk5RVWRIY0cxdFVUSXhPRkIyVEdSVU9GWk1kWGM1ZG5NNVEyd3dVa1E0UVEiLCJmY3YiOiIzIiwiZWkiOiJKbWFCYUtfWEJ1ZW05dThQcjVPc2FBIiwicWMiOiJDaFp6WVd4bGN5QjBZWGdnWW5rZ1kyOTFiblI1SUdkaEVBQjlwbmh3UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNhbGVzIHRheCByYXRlIGZvciBHZW9yZ2lhIGNvdW50aWVzPyIsImxrIjoiR2k5M2FHRjBJR2x6SUhSb1pTQnpZV3hsY3lCMFlYZ2djbUYwWlNCbWIzSWdaMlZ2Y21kcFlTQmpiM1Z1ZEdsbGN3IiwiYnMiOiJjMzJQUVFyQ01CQkZjWnVWeTVMVjZFcEZxZVlDUlRjVjEwTEIzUkJpSmxBYWFGS2pCX01VM3NHYkNLWldVRVM2RzRiM191Y3pZc3VDMElOeDRFbUJ3MUxGQzg5UW8xZHd0RFhreXRiYUlFamJWTjRvbHlXM2pWanhOUFJyLWtkakJ6WXR5RWpxUGhjd0ZlUnJJT3dTeUdoU3pyY1piY1hqSkdaOEVuNTRqZjk1cGxqYXN5S2FleHNxOTA2YXg5NHN1UllpNVl1ZUVkSHlYMVlzWnpzMjJ0b1EzeUN4bEUzWlloX3JOU2hMN28wWWM2QmVUdU53OEFRIiwiaWQiOiJmY19KbWFCYUtfWEJ1ZW05dThQcjVPc2FBXzEifQ%3D%3D"
+    },
+    {
+      "question": "Which county in GA has the highest taxes?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSGNXcFNOR3RoVTBKc2MweE9iMDFzZFdGSmMwSmlRMWhSVmpkSVpGUk5aM3BPV0hGaGNVTk1jM0F6V1ZSWmRYVTRUR0pUZG1GdGVrMU9iVmhJTlVoaWRtSk1aWHBxTlRGSFpWWnlXVEpQVW1FelRtNWtWVWRPYXpJM1VSSVdTbTFoUW1GTFgxaENkV1Z0T1hVNFVISTFUM05oUVJvaVFVWk5RVWRIY0cxdFVUSXhPRkIyVEdSVU9GWk1kWGM1ZG5NNVEyd3dVa1E0UVEiLCJmY3YiOiIzIiwiZWkiOiJKbWFCYUtfWEJ1ZW05dThQcjVPc2FBIiwicWMiOiJDaFp6WVd4bGN5QjBZWGdnWW5rZ1kyOTFiblI1SUdkaEVBQjlwbmh3UHciLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50eSBpbiBHQSBoYXMgdGhlIGhpZ2hlc3QgdGF4ZXM/IiwibGsiOiJHaWgzYUdsamFDQmpiM1Z1ZEhrZ2FXNGdaMkVnYUdGeklIUm9aU0JvYVdkb1pYTjBJSFJoZUdWeiIsImJzIjoiYzMyUFFRckNNQkJGY1p1Vnk1TFY2RXBGcWVZQ1JUY1YxMExCM1JCaUpsQWFhRktqQl9NVTNzR2JDS1pXVUVTNkc0YjNfdWN6WXN1QzBJTng0RW1CdzFMRkM4OVFvMWR3dERYa3l0YmFJRWpiVk40b2x5VzNqVmp4TlBSci1rZGpCell0eUVqcVBoY3dGZVJySU93U3lHaFN6cmNaYmNYakpHWjhFbjU0amY5NXBsamFzeUthZXhzcTkwNmF4OTRzdVJZaTVZdWVFZEh5WDFZc1p6czIydG9RM3lDeGxFM1pZaF9yTlNoTDdvMFljNkJlVHVOdzhBUSIsImlkIjoiZmNfSm1hQmFLX1hCdWVtOXU4UHI1T3NhQV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSGNXcFNOR3RoVTBKc2MweE9iMDFzZFdGSmMwSmlRMWhSVmpkSVpGUk5aM3BPV0hGaGNVTk1jM0F6V1ZSWmRYVTRUR0pUZG1GdGVrMU9iVmhJTlVoaWRtSk1aWHBxTlRGSFpWWnlXVEpQVW1FelRtNWtWVWRPYXpJM1VSSVdTbTFoUW1GTFgxaENkV1Z0T1hVNFVISTFUM05oUVJvaVFVWk5RVWRIY0cxdFVUSXhPRkIyVEdSVU9GWk1kWGM1ZG5NNVEyd3dVa1E0UVEiLCJmY3YiOiIzIiwiZWkiOiJKbWFCYUtfWEJ1ZW05dThQcjVPc2FBIiwicWMiOiJDaFp6WVd4bGN5QjBZWGdnWW5rZ1kyOTFiblI1SUdkaEVBQjlwbmh3UHciLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50eSBpbiBHQSBoYXMgdGhlIGhpZ2hlc3QgdGF4ZXM%2FIiwibGsiOiJHaWgzYUdsamFDQmpiM1Z1ZEhrZ2FXNGdaMkVnYUdGeklIUm9aU0JvYVdkb1pYTjBJSFJoZUdWeiIsImJzIjoiYzMyUFFRckNNQkJGY1p1Vnk1TFY2RXBGcWVZQ1JUY1YxMExCM1JCaUpsQWFhRktqQl9NVTNzR2JDS1pXVUVTNkc0YjNfdWN6WXN1QzBJTng0RW1CdzFMRkM4OVFvMWR3dERYa3l0YmFJRWpiVk40b2x5VzNqVmp4TlBSci1rZGpCell0eUVqcVBoY3dGZVJySU93U3lHaFN6cmNaYmNYakpHWjhFbjU0amY5NXBsamFzeUthZXhzcTkwNmF4OTRzdVJZaTVZdWVFZEh5WDFZc1p6czIydG9RM3lDeGxFM1pZaF9yTlNoTDdvMFljNkJlVHVOdzhBUSIsImlkIjoiZmNfSm1hQmFLX1hCdWVtOXU4UHI1T3NhQV8xIn0%3D"
+    },
+    {
+      "question": "What is the sales tax rate in Towns county, GA?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSGNXcFNOR3RoVTBKc2MweE9iMDFzZFdGSmMwSmlRMWhSVmpkSVpGUk5aM3BPV0hGaGNVTk1jM0F6V1ZSWmRYVTRUR0pUZG1GdGVrMU9iVmhJTlVoaWRtSk1aWHBxTlRGSFpWWnlXVEpQVW1FelRtNWtWVWRPYXpJM1VSSVdTbTFoUW1GTFgxaENkV1Z0T1hVNFVISTFUM05oUVJvaVFVWk5RVWRIY0cxdFVUSXhPRkIyVEdSVU9GWk1kWGM1ZG5NNVEyd3dVa1E0UVEiLCJmY3YiOiIzIiwiZWkiOiJKbWFCYUtfWEJ1ZW05dThQcjVPc2FBIiwicWMiOiJDaFp6WVd4bGN5QjBZWGdnWW5rZ1kyOTFiblI1SUdkaEVBQjlwbmh3UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNhbGVzIHRheCByYXRlIGluIFRvd25zIGNvdW50eSwgR0E/IiwibGsiOiJHaTEzYUdGMElHbHpJSFJvWlNCellXeGxjeUIwWVhnZ2NtRjBaU0JwYmlCMGIzZHVjeUJqYjNWdWRIa2daMkUiLCJicyI6ImMzMlBRUXJDTUJCRmNadVZ5NUxWNkVwRnFlWUNSVGNWMTBMQjNSQmlKbEFhYUZLakJfTVUzc0diQ0taV1VFUzZHNGIzX3VjellzdUMwSU54NEVtQncxTEZDODlRbzFkd3REWGt5dGJhSUVqYlZONG9seVczalZqeE5QUnIta2RqQnpZdHlFanFQaGN3RmVScklPd1N5R2hTenJjWmJjWGpKR1o4RW41NGpmOTVwbGphc3lLYWV4c3E5MDZheDk0c3VSWWk1WXVlRWRIeVgxWXNaenMyMnRvUTN5Q3hsRTNaWWhfck5TaEw3bzBZYzZCZVR1Tnc4QVEiLCJpZCI6ImZjX0ptYUJhS19YQnVlbTl1OFByNU9zYUFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSGNXcFNOR3RoVTBKc2MweE9iMDFzZFdGSmMwSmlRMWhSVmpkSVpGUk5aM3BPV0hGaGNVTk1jM0F6V1ZSWmRYVTRUR0pUZG1GdGVrMU9iVmhJTlVoaWRtSk1aWHBxTlRGSFpWWnlXVEpQVW1FelRtNWtWVWRPYXpJM1VSSVdTbTFoUW1GTFgxaENkV1Z0T1hVNFVISTFUM05oUVJvaVFVWk5RVWRIY0cxdFVUSXhPRkIyVEdSVU9GWk1kWGM1ZG5NNVEyd3dVa1E0UVEiLCJmY3YiOiIzIiwiZWkiOiJKbWFCYUtfWEJ1ZW05dThQcjVPc2FBIiwicWMiOiJDaFp6WVd4bGN5QjBZWGdnWW5rZ1kyOTFiblI1SUdkaEVBQjlwbmh3UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNhbGVzIHRheCByYXRlIGluIFRvd25zIGNvdW50eSwgR0E%2FIiwibGsiOiJHaTEzYUdGMElHbHpJSFJvWlNCellXeGxjeUIwWVhnZ2NtRjBaU0JwYmlCMGIzZHVjeUJqYjNWdWRIa2daMkUiLCJicyI6ImMzMlBRUXJDTUJCRmNadVZ5NUxWNkVwRnFlWUNSVGNWMTBMQjNSQmlKbEFhYUZLakJfTVUzc0diQ0taV1VFUzZHNGIzX3VjellzdUMwSU54NEVtQncxTEZDODlRbzFkd3REWGt5dGJhSUVqYlZONG9seVczalZqeE5QUnIta2RqQnpZdHlFanFQaGN3RmVScklPd1N5R2hTenJjWmJjWGpKR1o4RW41NGpmOTVwbGphc3lLYWV4c3E5MDZheDk0c3VSWWk1WXVlRWRIeVgxWXNaenMyMnRvUTN5Q3hsRTNaWWhfck5TaEw3bzBZYzZCZVR1Tnc4QVEiLCJpZCI6ImZjX0ptYUJhS19YQnVlbTl1OFByNU9zYUFfMSJ9"
+    },
+    {
+      "question": "How to calculate sales tax in GA?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSGNXcFNOR3RoVTBKc2MweE9iMDFzZFdGSmMwSmlRMWhSVmpkSVpGUk5aM3BPV0hGaGNVTk1jM0F6V1ZSWmRYVTRUR0pUZG1GdGVrMU9iVmhJTlVoaWRtSk1aWHBxTlRGSFpWWnlXVEpQVW1FelRtNWtWVWRPYXpJM1VSSVdTbTFoUW1GTFgxaENkV1Z0T1hVNFVISTFUM05oUVJvaVFVWk5RVWRIY0cxdFVUSXhPRkIyVEdSVU9GWk1kWGM1ZG5NNVEyd3dVa1E0UVEiLCJmY3YiOiIzIiwiZWkiOiJKbWFCYUtfWEJ1ZW05dThQcjVPc2FBIiwicWMiOiJDaFp6WVd4bGN5QjBZWGdnWW5rZ1kyOTFiblI1SUdkaEVBQjlwbmh3UHciLCJxdWVzdGlvbiI6IkhvdyB0byBjYWxjdWxhdGUgc2FsZXMgdGF4IGluIEdBPyIsImxrIjoiR2lCb2IzY2dkRzhnWTJGc1kzVnNZWFJsSUhOaGJHVnpJSFJoZUNCcGJpQm5ZUSIsImJzIjoiYzMyUFFRckNNQkJGY1p1Vnk1TFY2RXBGcWVZQ1JUY1YxMExCM1JCaUpsQWFhRktqQl9NVTNzR2JDS1pXVUVTNkc0YjNfdWN6WXN1QzBJTng0RW1CdzFMRkM4OVFvMWR3dERYa3l0YmFJRWpiVk40b2x5VzNqVmp4TlBSci1rZGpCell0eUVqcVBoY3dGZVJySU93U3lHaFN6cmNaYmNYakpHWjhFbjU0amY5NXBsamFzeUthZXhzcTkwNmF4OTRzdVJZaTVZdWVFZEh5WDFZc1p6czIydG9RM3lDeGxFM1pZaF9yTlNoTDdvMFljNkJlVHVOdzhBUSIsImlkIjoiZmNfSm1hQmFLX1hCdWVtOXU4UHI1T3NhQV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSGNXcFNOR3RoVTBKc2MweE9iMDFzZFdGSmMwSmlRMWhSVmpkSVpGUk5aM3BPV0hGaGNVTk1jM0F6V1ZSWmRYVTRUR0pUZG1GdGVrMU9iVmhJTlVoaWRtSk1aWHBxTlRGSFpWWnlXVEpQVW1FelRtNWtWVWRPYXpJM1VSSVdTbTFoUW1GTFgxaENkV1Z0T1hVNFVISTFUM05oUVJvaVFVWk5RVWRIY0cxdFVUSXhPRkIyVEdSVU9GWk1kWGM1ZG5NNVEyd3dVa1E0UVEiLCJmY3YiOiIzIiwiZWkiOiJKbWFCYUtfWEJ1ZW05dThQcjVPc2FBIiwicWMiOiJDaFp6WVd4bGN5QjBZWGdnWW5rZ1kyOTFiblI1SUdkaEVBQjlwbmh3UHciLCJxdWVzdGlvbiI6IkhvdyB0byBjYWxjdWxhdGUgc2FsZXMgdGF4IGluIEdBPyIsImxrIjoiR2lCb2IzY2dkRzhnWTJGc1kzVnNZWFJsSUhOaGJHVnpJSFJoZUNCcGJpQm5ZUSIsImJzIjoiYzMyUFFRckNNQkJGY1p1Vnk1TFY2RXBGcWVZQ1JUY1YxMExCM1JCaUpsQWFhRktqQl9NVTNzR2JDS1pXVUVTNkc0YjNfdWN6WXN1QzBJTng0RW1CdzFMRkM4OVFvMWR3dERYa3l0YmFJRWpiVk40b2x5VzNqVmp4TlBSci1rZGpCell0eUVqcVBoY3dGZVJySU93U3lHaFN6cmNaYmNYakpHWjhFbjU0amY5NXBsamFzeUthZXhzcTkwNmF4OTRzdVJZaTVZdWVFZEh5WDFZc1p6czIydG9RM3lDeGxFM1pZaF9yTlNoTDdvMFljNkJlVHVOdzhBUSIsImlkIjoiZmNfSm1hQmFLX1hCdWVtOXU4UHI1T3NhQV8xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Sales Tax Rates - General - Department of Revenue",
+      "link": "https://dor.georgia.gov/sales-tax-rates-general",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dor.georgia.gov/sales-tax-rates-general&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECAoQAQ",
+      "displayed_link": "https://dor.georgia.gov › sales-tax-rates-general",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86ad90457fbe15adb4c69f73989f39eafe.png",
+      "snippet": "Current Year. Download this pdf file. General Rate Chart - Effective July 1, 2025 through September 30, 2025. Download this pdf file.",
+      "source": "Georgia.gov"
+    },
+    {
+      "position": 2,
+      "title": "GEORGIA SALES AND USE TAX RATE CHART",
+      "link": "https://dor.georgia.gov/document/document/general-rate-chart-effective-january-1-2025-through-march-31-2025/download",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dor.georgia.gov/document/document/general-rate-chart-effective-january-1-2025-through-march-31-2025/download&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECBIQAQ",
+      "displayed_link": "https://dor.georgia.gov › document › download",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86caed2023b8a1fb14d9cdc4cd82bb7ff8.png",
+      "date": "Jan 1, 2025",
+      "snippet": "Code 000 - The state sales and use tax rate is 4%. Other than 803 Fulton (Cent. Yards), state tax is included in the jurisdiction rates below.",
+      "snippet_highlighted_words": [
+        "4"
+      ],
+      "source": "Georgia.gov"
+    },
+    {
+      "position": 3,
+      "title": "Georgia Sales Tax Rates by County",
+      "link": "https://www.salestaxhelper.com/our-locations/georgia/georgia-sales-tax-rates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.salestaxhelper.com/our-locations/georgia/georgia-sales-tax-rates/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECBMQAQ",
+      "displayed_link": "https://www.salestaxhelper.com › our-locations › georgi...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8639383a8220d5563a22b17acdf98a4967.png",
+      "snippet": "Georgia County Sales Tax Rates in 2020 · Appling County 8.00% · Atkinson County 8.00% · Bacon County 8.00% · Baker County 7.00% · Baldwin County 8.00% · Banks ...",
+      "snippet_highlighted_words": [
+        "Georgia County Sales Tax Rates in 2020"
+      ],
+      "source": "Sales Tax Helper"
+    },
+    {
+      "position": 4,
+      "title": "GA Sales and Use Tax Rate Chart",
+      "link": "https://www.glynntaxoffice.org/news_detail_T2_R26.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.glynntaxoffice.org/news_detail_T2_R26.php&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECBkQAQ",
+      "displayed_link": "https://www.glynntaxoffice.org › news_detail_T2_R26",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d861d212aa286b9e9b90229eb5da9fcb1e4.png",
+      "snippet": "The Georgia Sales and Use Tax Rates have been updated, Effective October 1, 2024. Learn More: View Georgia Sales and Tax Rates from the Department of ...",
+      "snippet_highlighted_words": [
+        "Georgia Sales and Use Tax Rates"
+      ],
+      "source": "glynntaxoffice.org"
+    },
+    {
+      "position": 5,
+      "title": "Sales Tax Distributions By Jurisdiction (Georgia Tax Center)",
+      "link": "https://georgiadata.org/topics/economics/sales-tax-distributions-by-jurisdiction",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://georgiadata.org/topics/economics/sales-tax-distributions-by-jurisdiction&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECBEQAQ",
+      "displayed_link": "https://georgiadata.org › topics › economics › sales-tax-d...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86a23fbd73cb3101abb2d7967011075fc9.png",
+      "snippet": "Sales tax distributions represent distributions of all tax types (LOST, SPLOST, ELOST, etc.) to tax jurisdictions.",
+      "snippet_highlighted_words": [
+        "Sales tax"
+      ],
+      "source": "Georgia Data"
+    },
+    {
+      "position": 6,
+      "title": "2025 Richmond County Sales Tax Rate",
+      "link": "https://www.avalara.com/taxrates/en/state-rates/georgia/counties/richmond-county.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.avalara.com/taxrates/en/state-rates/georgia/counties/richmond-county.html&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECDIQAQ",
+      "displayed_link": "https://www.avalara.com › State Rates › Georgia",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8675f6527bc96dea18aa3ab44567521ee1.png",
+      "snippet": "This is the total of state, county, and city sales tax rates. The Georgia sales tax rate is currently 4.0%. The Richmond County sales tax rate is 3.5%.",
+      "snippet_highlighted_words": [
+        "The Georgia sales tax rate is currently 4.0"
+      ],
+      "source": "Avalara"
+    },
+    {
+      "position": 7,
+      "title": "Sales Tax",
+      "link": "https://www.miltonga.gov/business/sales-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.miltonga.gov/business/sales-tax&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECDAQAQ",
+      "displayed_link": "https://www.miltonga.gov › business › sales-tax",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d868a34d9f9fde29f9d83b672652a5b3bbf.png",
+      "snippet": "The base sales tax rate for transactions within Milton and most of Fulton County is 7.75 percent. In other words, if you buy (or sell) something for $100, ...",
+      "snippet_highlighted_words": [
+        "7.75 percent"
+      ],
+      "source": "Milton, GA (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "Georgia State, County, City, & Municipal Tax Rate Table",
+      "link": "https://www.online-tax-id-number.org/georgia-state-sales-tax-registration/georgia-state-tax-rate-table.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.online-tax-id-number.org/georgia-state-sales-tax-registration/georgia-state-tax-rate-table.html&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCN4BEAE",
+      "displayed_link": "https://www.online-tax-id-number.org › georgia-state-tax...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86ad6a1c45c2344846148aee628f1302e3.png",
+      "snippet": "Arnoldsville, GA Sales Tax Rate · 7.000% ; Ashburn, GA Sales Tax Rate · 7.000% ; Athens, GA Sales Tax Rate · 8.000% ; Atkinson County, GA Sales Tax Rate · 7.000%.",
+      "snippet_highlighted_words": [
+        "Arnoldsville, GA Sales Tax Rate · 7.000"
+      ],
+      "source": "online-tax-id-number.org"
+    },
+    {
+      "position": 9,
+      "title": "Georgia sales tax guide and calculator for businesses",
+      "link": "https://www.taxjar.com/sales-tax/georgia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxjar.com/sales-tax/georgia&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECDcQAQ",
+      "displayed_link": "https://www.taxjar.com › ... › State",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86f6beebb93914a0574aaf94ce1aa95ad4.png",
+      "snippet": "The state sales tax rate of Georgia is 4%, but counties and cities may impose additional taxes. For example, as of December 2021, Fulton County has a 3% sales ...",
+      "snippet_highlighted_words": [
+        "sales tax",
+        "Georgia",
+        "taxes",
+        "County"
+      ],
+      "source": "TaxJar"
+    },
+    {
+      "position": 10,
+      "title": "Georgia Tax Rates & Rankings",
+      "link": "https://taxfoundation.org/location/georgia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxfoundation.org/location/georgia/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCJ4BEAE",
+      "displayed_link": "https://taxfoundation.org › Data › State Tax › State",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86b184dfd8efb27bf958d9272b72cdb9d5.png",
+      "snippet": "Georgia also has a 4.00 percent state sales tax rate and an average combined state and local sales tax rate of 7.38 percent. Georgia has a 0.72 percent ...",
+      "snippet_highlighted_words": [
+        "Georgia also has a 4.00 percent state sales tax rate"
+      ],
+      "source": "Tax Foundation"
+    },
+    {
+      "position": 11,
+      "title": "2025 Georgia Sales Tax Calculator & Rates",
+      "link": "https://www.avalara.com/taxrates/en/state-rates/georgia.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.avalara.com/taxrates/en/state-rates/georgia.html&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCO8BEAE",
+      "displayed_link": "https://www.avalara.com › taxrates › state-rates › georgia",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d867674f1fea145d005827627917bab5709.png",
+      "snippet": "The base Georgia sales tax is currently 4.0%. This state rate does not include any additional local taxes. Use our sales tax calculator to get rates by county,",
+      "snippet_highlighted_words": [
+        "Use our sales tax calculator to get rates by county"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Atlanta",
+            "link": "https://www.avalara.com/taxrates/en/state-rates/georgia/cities/atlanta.html"
+          },
+          {
+            "title": "Fulton County",
+            "link": "https://www.avalara.com/taxrates/en/state-rates/georgia/counties/fulton-county.html"
+          },
+          {
+            "title": "Cobb County",
+            "link": "https://www.avalara.com/taxrates/en/state-rates/georgia/counties/cobb-county.html"
+          },
+          {
+            "title": "Dekalb County",
+            "link": "https://www.avalara.com/taxrates/en/state-rates/georgia/counties/dekalb-county.html"
+          }
+        ]
+      },
+      "source": "Avalara"
+    },
+    {
+      "position": 12,
+      "title": "State and Local Sales Tax Rates, Midyear 2025",
+      "link": "https://taxfoundation.org/data/all/state/sales-tax-rates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxfoundation.org/data/all/state/sales-tax-rates/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCJ4CEAE",
+      "displayed_link": "https://taxfoundation.org › Data › State Taxes",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86d11678713769ac2eab921119c3ed57d1.png",
+      "date": "Jul 8, 2025",
+      "snippet": "State & Local Sales Tax Rates as of July 1, 2025 ; Florida, 6.00%, 17 ; Georgia, 4.00%, 40 ; Hawaii (b), 4.00%, 40 ; Idaho, 6.00%, 17 ...",
+      "snippet_highlighted_words": [
+        "Local Sales Tax",
+        "Georgia"
+      ],
+      "source": "Tax Foundation"
+    },
+    {
+      "position": 13,
+      "title": "The Geographic Distribution of Georgia's Local Sales Tax ...",
+      "link": "https://cslf.gsu.edu/files/2024/04/cslf2401.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cslf.gsu.edu/files/2024/04/cslf2401.pdf&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECDYQAQ",
+      "displayed_link": "https://cslf.gsu.edu › files › 2024/04 › cslf2401",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86060412dec98fd00aa0026c4deb133dc4.png",
+      "author": "by DL Sjoquist",
+      "snippet": "In this policy brief, we explore the variation across Georgia counties in sales tax revenue per capita and explore a grant program to address the inequities.",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "sales tax"
+      ],
+      "source": "Center for State and Local Finance"
+    },
+    {
+      "position": 14,
+      "title": "2025 Guide to Sales Tax in Atlanta, Georgia - TaxCloud",
+      "link": "https://taxcloud.com/sales-tax/georgia/fulton/atlanta/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxcloud.com/sales-tax/georgia/fulton/atlanta/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECGsQAQ",
+      "displayed_link": "https://taxcloud.com › All States › Georgia",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86edc5b4c644513563aba3bd7a51779e56.png",
+      "date": "Jun 16, 2025",
+      "snippet": "Breakdown of Sales Tax in Atlanta · State Sales Tax: 4.000% · County Sales Tax: 3.000% · City Sales Tax: Variable (up to 1.900%) · Special Sales Tax ...",
+      "snippet_highlighted_words": [
+        "County Sales Tax: 3.000"
+      ],
+      "source": "taxcloud.com"
+    },
+    {
+      "position": 15,
+      "title": "Tax Rates - Harris County, Georgia",
+      "link": "https://www.harriscountyga.gov/tax-rates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.harriscountyga.gov/tax-rates/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCJ0BEAE",
+      "displayed_link": "https://www.harriscountyga.gov › tax-rates",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86b3622e0caa02d843ab06977ae98bbc9e.png",
+      "snippet": "Compare Harris County's Property Tax Rates with Other Georgia Counties. Sales Tax Rates: 4% – State, 1% – Local Option Sales Tax (LOST), 1% – Special Purpose ...",
+      "snippet_highlighted_words": [
+        "Sales Tax Rates: 4% – State"
+      ],
+      "source": "Harris County, Georgia (.gov)"
+    },
+    {
+      "position": 16,
+      "title": "Georgia (GA) Sales Tax Rates by City (all)",
+      "link": "https://www.sale-tax.com/Georgia_counties",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sale-tax.com/Georgia_counties&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCM0BEAE",
+      "displayed_link": "https://www.sale-tax.com › Georgia_counties",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d860e35aaf267d542f9f092a80a672a01e6.png",
+      "snippet": "Banks County, GA Sales Tax Rate · 8.000% · Barrow County, GA Sales Tax Rate · 7.000% · Bartow County, GA Sales Tax Rate · 7.000% · Ben Hill County, GA Sales Tax ...",
+      "snippet_highlighted_words": [
+        "Banks County, GA Sales Tax Rate · 8.000"
+      ],
+      "source": "sale-tax.com"
+    },
+    {
+      "position": 17,
+      "title": "FAQ | Coweta County, GA Website",
+      "link": "https://www.coweta.ga.us/about-coweta/coweta-splost/faq",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coweta.ga.us/about-coweta/coweta-splost/faq&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCPkBEAE",
+      "displayed_link": "https://www.coweta.ga.us › about-coweta › coweta-splost",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86fa932ed87d8f2b1786f6e6ffa7ca821b.png",
+      "snippet": "The sales tax rate is 7%. This consists of 4% Georgia sales tax, 1% Local Option Sales Tax (LOST), 1% Education SPLOST (ESPLOST), and 1% SPLOST.",
+      "snippet_highlighted_words": [
+        "7"
+      ],
+      "source": "Coweta County"
+    },
+    {
+      "position": 18,
+      "title": "2025 Georgia Sales Tax Map by County",
+      "link": "https://www.salestaxhandbook.com/georgia/sales-tax-map",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.salestaxhandbook.com/georgia/sales-tax-map&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCIwCEAE",
+      "displayed_link": "https://www.salestaxhandbook.com › georgia › sales-tax-...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d867b56e9d2608ddf9c10ed03eebc282917.png",
+      "snippet": "This interactive sales tax map map of Georgia shows how local sales tax rates vary across Georgia's 161 counties. Click on any county for detailed sales tax ...",
+      "snippet_highlighted_words": [
+        "how local sales tax rates vary across Georgia's 161 counties"
+      ],
+      "source": "Sales Tax Handbook"
+    },
+    {
+      "position": 19,
+      "title": "Free Georgia State Sales Tax Calculator",
+      "link": "https://www.timetrex.com/resources/georgia-state-sales-tax-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.timetrex.com/resources/georgia-state-sales-tax-calculator&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCKYCEAE",
+      "displayed_link": "https://www.timetrex.com › Resources",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8628c254752684b563b9b248e3aa34e79f.png",
+      "snippet": "Instantly calculate your sales tax in Georgia with our free calculator. Get combined, state, county, and city rates by ZIP code or region.",
+      "snippet_highlighted_words": [
+        "Instantly calculate your sales tax in Georgia"
+      ],
+      "source": "TimeTrex"
+    },
+    {
+      "position": 20,
+      "title": "Georgia Sales Tax Guide 2025: A Comprehensive Overview",
+      "link": "https://trykintsugi.com/blog/georgia-sales-tax-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://trykintsugi.com/blog/georgia-sales-tax-guide&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCLgCEAE",
+      "displayed_link": "https://trykintsugi.com › blog › georgia-sales-tax-guide",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d861b39bb86255f8e45c420853171203dc1.png",
+      "date": "May 29, 2025",
+      "snippet": "Georgia's base sales tax rate is 4.0%, with additional local taxes varying by jurisdiction, resulting in a total sales tax range of 4.0% to 9.0% ...",
+      "snippet_highlighted_words": [
+        "Georgia's base sales tax rate is 4.0"
+      ],
+      "source": "Kintsugi Tax"
+    },
+    {
+      "position": 21,
+      "title": "Georgia Sales Tax: The Basics",
+      "link": "https://masseyandcompanycpa.com/georgia-sales-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://masseyandcompanycpa.com/georgia-sales-tax/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECDUQAQ",
+      "displayed_link": "https://masseyandcompanycpa.com › georgia-sales-tax",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d869b18dc6ec0e2868dd88902a7994ead8e.png",
+      "snippet": "The sales tax rate in Atlanta (Fulton County) is 8.9%. This includes 4% for Georgia, 3% for Fulton County, 1.5% for Atlanta, and 0.4% for Atlanta TSPLOST ( ...",
+      "snippet_highlighted_words": [
+        "9"
+      ],
+      "source": "Massey and Company CPA"
+    },
+    {
+      "position": 22,
+      "title": "State Sales Tax Rates",
+      "link": "https://www.salestaxinstitute.com/resources/rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.salestaxinstitute.com/resources/rates&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECE4QAQ",
+      "displayed_link": "https://www.salestaxinstitute.com › Resources",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86540d7f9440a86e191cb8391c417f4213.png",
+      "snippet": "4.850% The state has reduced rates for sales of certain types of items. Range of Local Rates. 1% – 7.5%. Local Rates Apply to Use Tax.",
+      "snippet_highlighted_words": [
+        "4.850"
+      ],
+      "source": "Sales Tax Institute"
+    },
+    {
+      "position": 23,
+      "title": "Georgia Sales Tax | Calculator and Local Rates | 2021",
+      "link": "https://wise.com/us/business/sales-tax/georgia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wise.com/us/business/sales-tax/georgia&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECGoQAQ",
+      "displayed_link": "https://wise.com › business › sales-tax › georgia",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86efc474e8985b5871ad273fdace752e72.png",
+      "snippet": "The base state sales tax rate in Georgia is 4%. Local tax rates in Georgia range from 0% to 5%, making the sales tax range in Georgia 4% to 9%.",
+      "snippet_highlighted_words": [
+        "sales tax",
+        "Georgia",
+        "Local",
+        "Georgia",
+        "sales tax",
+        "Georgia"
+      ],
+      "source": "Wise"
+    },
+    {
+      "position": 24,
+      "title": "Ultimate Georgia Sales Tax Guide - Zamp",
+      "link": "https://zamp.com/resources/georgia-sales-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zamp.com/resources/georgia-sales-tax/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCIMBEAE",
+      "displayed_link": "https://zamp.com › resources › georgia-sales-tax",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d864c94a69978261cbf7bda64e280464a35.png",
+      "snippet": "Apart from the state sales tax, Georgia also allows local counties and cities to impose a maximum local sales tax of 5%. For instance, Warwick, a city in Worth ...",
+      "snippet_highlighted_words": [
+        "Georgia also allows local counties and cities to impose a maximum local sales tax of 5"
+      ],
+      "source": "zamp.com"
+    },
+    {
+      "position": 25,
+      "title": "GTC - Ga Tax Center - Georgia.gov",
+      "link": "https://gtc.dor.ga.gov/_/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gtc.dor.ga.gov/_/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCJ8BEAE",
+      "displayed_link": "https://gtc.dor.ga.gov › ...",
+      "snippet": "No information is available for this page.",
+      "source": "Georgia.gov"
+    },
+    {
+      "position": 26,
+      "title": "2025 Sales Tax by State – Georgia",
+      "link": "https://blog.usgeocoder.com/2025-sales-tax-by-state-georgia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.usgeocoder.com/2025-sales-tax-by-state-georgia/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCLYBEAE",
+      "displayed_link": "https://blog.usgeocoder.com › USgeocoder All Posts",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8610f68ad14bd3382a2345aa40aa18efae.png",
+      "date": "Mar 30, 2025",
+      "snippet": "Georgia Statewide Sales Tax Rate: 4.00%. Highest Total Local District Sales Tax Rate in Georgia: 5.00%. Highest Total Sales Tax Rate with Local District Sales ...",
+      "snippet_highlighted_words": [
+        "Georgia Statewide Sales Tax Rate: 4.00"
+      ],
+      "source": "USgeocoder"
+    },
+    {
+      "position": 27,
+      "title": "Georgia—Sales and Use Tax: Local Rate Changes ...",
+      "link": "https://www.vitallaw.com/news/georgia-sales-and-use-tax-local-rate-changes-announced-for-q2/std01d3072dfa13ef40f8ac8c944299aef33e",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vitallaw.com/news/georgia-sales-and-use-tax-local-rate-changes-announced-for-q2/std01d3072dfa13ef40f8ac8c944299aef33e&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCNEBEAE",
+      "displayed_link": "https://www.vitallaw.com › news › georgia-sales-and-use...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d865229786df1c6c70652d7e88a7497c42c.png",
+      "date": "Mar 7, 2025",
+      "snippet": "County Tax Rate Changes · Crawford, 7%; · Glynn, 7%; · Irwin, 8%; · McIntosh, 7%; · Pulaski, 8%; · Stewart, 7%; and · Telfair, 7%.",
+      "snippet_highlighted_words": [
+        "Crawford, 7"
+      ],
+      "source": "VitalLaw.com"
+    },
+    {
+      "position": 28,
+      "title": "Fulton County, GA Sales Tax Calculator & Rate",
+      "link": "https://taxhero.net/sales-tax/county/ga-fulton/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxhero.net/sales-tax/county/ga-fulton/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCOEBEAE",
+      "displayed_link": "https://taxhero.net › sales-tax › county › ga-fulton",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86350ca1b274a317114fce1fc13fe18ea8.png",
+      "snippet": "Fulton County, located in North Central Georgia, has sales tax rates ranging from 7.75% to 8.90%. The sales tax rate in Fulton includes the Georgia state tax.",
+      "snippet_highlighted_words": [
+        "County",
+        "Georgia",
+        "sales tax",
+        "sales tax",
+        "Georgia"
+      ],
+      "source": "TaxHero"
+    },
+    {
+      "position": 29,
+      "title": "Georgia Sales Tax Guide And Local Rates",
+      "link": "https://www.commenda.io/usa/georgia/sales-tax-rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.commenda.io/usa/georgia/sales-tax-rates&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCPgBEAE",
+      "displayed_link": "https://www.commenda.io › usa › sales-tax-rates",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86143059aafb089e8c20a008ae377f7577.png",
+      "snippet": "Local Sales Taxes: Counties and municipalities can impose additional sales taxes, leading to a maximum combined sales tax rate of 9%. Nexus Requirements: ...",
+      "snippet_highlighted_words": [
+        "Local Sales Taxes",
+        "sales taxes",
+        "sales tax"
+      ],
+      "source": "Commenda"
+    },
+    {
+      "position": 30,
+      "title": "Georgia (GA) Sales Tax 2025: Rates, Nexus, Thresholds",
+      "link": "https://taxcloud.com/sales-tax/georgia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxcloud.com/sales-tax/georgia/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCIACEAE",
+      "displayed_link": "https://taxcloud.com › All States",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d868fedf31a65a273b5029181877053002b.png",
+      "date": "Jun 16, 2025",
+      "snippet": "Georgia's general sales tax rate is 4%. Local: Georgia localities impose their own sales tax at rates ranging from 0% to 4%.",
+      "snippet_highlighted_words": [
+        "Georgia's general sales tax rate is 4"
+      ],
+      "source": "taxcloud.com"
+    },
+    {
+      "position": 31,
+      "title": "Georgia Sales Tax Rates | Comprehensive Tax Guide",
+      "link": "https://www.yondatax.com/state-sales-tax-rates/georgia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yondatax.com/state-sales-tax-rates/georgia&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCP8BEAE",
+      "displayed_link": "https://www.yondatax.com › state-sales-tax-rates › geor...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d866f94d740b14a76ec629042860b9e46e1.png",
+      "snippet": "The base state sales tax rate in Georgia is 4%, but since the local rates range from 0-5% the total sales tax range is 4-9%.",
+      "snippet_highlighted_words": [
+        "total sales tax range is 4-9"
+      ],
+      "source": "Yonda Tax"
+    },
+    {
+      "position": 32,
+      "title": "Georgia Sales Tax Distributions - Fiscal Research Center",
+      "link": "https://frc.gsu.edu/georgia-sales-tax-distributions/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://frc.gsu.edu/georgia-sales-tax-distributions/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCJMCEAE",
+      "displayed_link": "https://frc.gsu.edu › georgia-sales-tax-distributions",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86c257f71c199405481706f820fc53313e.png",
+      "snippet": "Explore Georgia sales tax distributions by county, region, and commodity with our interactive data tool.",
+      "snippet_highlighted_words": [
+        "Georgia sales tax distributions by county"
+      ],
+      "source": "Fiscal Research Center"
+    },
+    {
+      "position": 33,
+      "title": "Georgia Sales and Use Tax",
+      "link": "https://www.zip2tax.com/pages/ga?srsltid=AfmBOopKf1IPrNmRdO_7N7MRJNt-Fl2E6pOhUSKZ8yaee9X_zT6z0cSa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zip2tax.com/pages/ga%3Fsrsltid%3DAfmBOopKf1IPrNmRdO_7N7MRJNt-Fl2E6pOhUSKZ8yaee9X_zT6z0cSa&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCKcCEAE",
+      "displayed_link": "https://www.zip2tax.com › pages › ga",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86d3a9368e7cfd955839054af26649bdfd.jpeg",
+      "snippet": "The Georgia sales tax rate is 4.0%. Georgia State Flag Each county, city and special district can add sales taxes on top of the state rate.",
+      "snippet_highlighted_words": [
+        "4.0"
+      ],
+      "source": "Zip2Tax"
+    },
+    {
+      "position": 34,
+      "title": "Tax Sale",
+      "link": "https://tax.chathamcountyga.gov/TaxSaleList",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.chathamcountyga.gov/TaxSaleList&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCKwCEAE",
+      "displayed_link": "https://tax.chathamcountyga.gov › TaxSaleList",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86878eb082f4d70a9fbc7be3dd8d5c474f.png",
+      "snippet": "Next Tax Sale - Tuesday, August 05, 2025 ... Tax sales are held on the second floor of the Savannah Civic Center in the Bryan Room (301 W. Oglethorpe Ave, 31401).",
+      "snippet_highlighted_words": [
+        "Tax Sale",
+        "Tax sales"
+      ],
+      "source": "Chatham County Tax Commissioner (.gov)"
+    },
+    {
+      "position": 35,
+      "title": "Georgia State Taxes 2025: Income, Property and Sales",
+      "link": "https://states.aarp.org/georgia/state-taxes-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://states.aarp.org/georgia/state-taxes-guide&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCL8CEAE",
+      "displayed_link": "https://states.aarp.org › georgia › state-taxes-guide",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86d7401873a5873336a2c32e316e611553.png",
+      "date": "Feb 20, 2025",
+      "snippet": "Most counties add a local tax that can raise combined sales taxes as high as 9 percent. Georgia's combined state and average local tax rate is ...",
+      "snippet_highlighted_words": [
+        "Most counties add a local tax that can raise combined sales taxes as high as 9 percent"
+      ],
+      "source": "AARP States"
+    },
+    {
+      "position": 36,
+      "title": "Atlanta, GA Sales Tax Rates Guide",
+      "link": "https://cumberlandlawatlanta.com/atlanta-ga-sales-tax-rates-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cumberlandlawatlanta.com/atlanta-ga-sales-tax-rates-guide/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCM4CEAE",
+      "displayed_link": "https://cumberlandlawatlanta.com › atlanta-ga-sales-tax-...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86dc6a9064731f55eec6c02bfe4b6f9faa.png",
+      "snippet": "In Georgia, many counties have a sales tax and local tax. The Atlanta, GA, combined sales tax rate is 8.9%. The city charges a local tax rate of 1.9%.",
+      "snippet_highlighted_words": [
+        "Atlanta, GA, combined sales tax rate is 8.9"
+      ],
+      "source": "Cumberland Law Group"
+    },
+    {
+      "position": 37,
+      "title": "Georgia Sales Tax Rates By City & County 2025",
+      "link": "https://www.salestaxhandbook.com/georgia/rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.salestaxhandbook.com/georgia/rates&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECDgQAQ",
+      "displayed_link": "https://www.salestaxhandbook.com › georgia › rates",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d861fe619425ac84150560113cabb7b341b.png",
+      "snippet": "Georgia has state sales tax of 4%, and allows local governments to collect a local option sales tax of up to 4%.",
+      "snippet_highlighted_words": [
+        "Georgia has state sales tax of 4"
+      ],
+      "source": "Sales Tax Handbook"
+    },
+    {
+      "position": 38,
+      "title": "Sales Tax Calculator",
+      "link": "https://www.taxjar.com/sales-tax-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxjar.com/sales-tax-calculator&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECE0QAQ",
+      "displayed_link": "https://www.taxjar.com › sales-tax-calculator",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d869b9ad278e32f1507eeaa5f0b86531b46.png",
+      "snippet": "Enter your city and zip code below to find the combined sales tax rate for a location. Ready to automate your sales tax calculation?",
+      "snippet_highlighted_words": [
+        "Enter your city and zip code below"
+      ],
+      "source": "TaxJar"
+    },
+    {
+      "position": 39,
+      "title": "Georgia Property Tax Calculator",
+      "link": "https://smartasset.com/taxes/georgia-property-tax-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://smartasset.com/taxes/georgia-property-tax-calculator&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECE8QAQ",
+      "displayed_link": "https://smartasset.com › taxes › georgia-property-tax-ca...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8652ec52c79ca885c3de466c8d9d0c6b3a.png",
+      "snippet": "The average effective property tax rate is 0.83%. It's important to keep in mind, though, that property taxes in Georgia vary greatly between locations. In ...",
+      "snippet_highlighted_words": [
+        "0.8"
+      ],
+      "source": "SmartAsset"
+    },
+    {
+      "position": 40,
+      "title": "Georgia Sales Tax Calculator and Rates",
+      "link": "https://taxhero.net/sales-tax/state/georgia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxhero.net/sales-tax/state/georgia/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECGgQAQ",
+      "displayed_link": "https://taxhero.net › sales-tax › state › georgia",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d865cdf0ca619f166f2d741668c2b5e74fd.png",
+      "snippet": "To determine the 2025 GA Sales Tax Rate, start with the statewide sales tax rate of 4%. Then, identify the local sales tax rates, varying across counties, ...",
+      "snippet_highlighted_words": [
+        "GA Sales Tax",
+        "sales tax",
+        "local sales tax"
+      ],
+      "source": "TaxHero"
+    },
+    {
+      "position": 41,
+      "title": "History & Overview | DeKalb County GA",
+      "link": "https://www.dekalbcountyga.gov/splost/history-overview",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dekalbcountyga.gov/splost/history-overview&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECHIQAQ",
+      "displayed_link": "https://www.dekalbcountyga.gov › splost › history-overv...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d863df1836f690f23f483b8652350bfcca0.png",
+      "snippet": "Effective April 1, 2018, the sales tax rate in DeKalb County (excluding Atlanta in DeKalb) is 8 percent; 4 percent is collected by the State of Georgia; 1 ...",
+      "snippet_highlighted_words": [
+        "8 percent"
+      ],
+      "source": "DeKalb County GA (.gov)"
+    },
+    {
+      "position": 42,
+      "title": "Georgia (GA) Sales Tax Rates by City",
+      "link": "https://www.sale-tax.com/Georgia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sale-tax.com/Georgia&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECHYQAQ",
+      "displayed_link": "https://www.sale-tax.com › Georgia",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86a18d9df1b30619d2fc7dfced0728e201.png",
+      "snippet": "The state sales tax rate in Georgia is 4.000%. With local taxes, the total sales tax rate is between 4.000% and 8.900%.",
+      "snippet_highlighted_words": [
+        "sales tax",
+        "Georgia",
+        "local taxes",
+        "sales tax"
+      ],
+      "source": "sale-tax.com"
+    },
+    {
+      "position": 43,
+      "title": "Georgia Sales Tax Guide for 2024",
+      "link": "https://complyt.io/sales-tax-by-state/georgia-sales-tax-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://complyt.io/sales-tax-by-state/georgia-sales-tax-guide/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCIsBEAE",
+      "displayed_link": "https://complyt.io › Sales Tax by State",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d868fc7cd1dd5f0a83aaec24e3a2e400f65.png",
+      "snippet": "The Georgia state sales tax rate is currently 4%. However, the total tax rate can increase when local optional taxes are added.",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "sales tax",
+        "4%",
+        "local",
+        "taxes"
+      ],
+      "source": "Complyt"
+    },
+    {
+      "position": 44,
+      "title": "Georgia Sales Tax Calculator",
+      "link": "https://www.northone.com/business-tools/georgia-sales-tax-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.northone.com/business-tools/georgia-sales-tax-calculator&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCI0BEAE",
+      "displayed_link": "https://www.northone.com › business-tools › georgia-sa...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8621a0c24bb5fbf2a76c5632567844312e.png",
+      "snippet": "The state of Georgia imposes a base sales tax rate of 4%1 on most retail sales of goods and certain services. Local jurisdictions, such as counties and special ...",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "sales tax",
+        "Local"
+      ],
+      "source": "North One business banking"
+    },
+    {
+      "position": 45,
+      "title": "Georgia Sales Tax Calculator",
+      "link": "https://www.boloforms.com/calculators/sales-tax-calculator/Georgia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.boloforms.com/calculators/sales-tax-calculator/Georgia&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCKcBEAE",
+      "displayed_link": "https://www.boloforms.com › calculators › Georgia",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86ae186446939d15c5ac626fd3d211572d.png",
+      "snippet": "Georgia has a state sales tax rate of 4%, but local option sales taxes can raise the rate to as high as 8.9%. With our calculator, you can enter the ...",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "sales tax",
+        "local",
+        "sales taxes"
+      ],
+      "source": "BoloForms"
+    },
+    {
+      "position": 46,
+      "title": "Sales and Use Tax Rates - Alabama Department of Revenue",
+      "link": "https://www.revenue.alabama.gov/sales-use/tax-rates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.revenue.alabama.gov/sales-use/tax-rates/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCKkBEAE",
+      "displayed_link": "https://www.revenue.alabama.gov › sales-use › tax-rates",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d860f29ef740567f1f33043036ca1245431.png",
+      "snippet": "State Tax Rates ; SALES TAX, FARM, 1.500% ; SALES TAX, GENERAL \\ AMUSEMENT, 4.000% ; SALES TAX, FOOD/GROCERY Effective September 1, 2023, 3.000% ; SALES TAX, MFG.",
+      "snippet_highlighted_words": [
+        "SALES TAX",
+        "SALES TAX",
+        "SALES TAX",
+        "SALES TAX"
+      ],
+      "source": "Alabama Department of Revenue (.gov)"
+    },
+    {
+      "position": 47,
+      "title": "Georgia - Local Tax Rates - Sales and Use - Explanations",
+      "link": "https://answerconnect.cch.com/document/jga0109013e2c83ab030c/state/explanations/georgia/local-tax-rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://answerconnect.cch.com/document/jga0109013e2c83ab030c/state/explanations/georgia/local-tax-rates&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCLUBEAE",
+      "displayed_link": "https://answerconnect.cch.com › document › state › loc...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86f0fdde424badfa1c193cdb5b95e09b4e.png",
+      "snippet": "¶61-735, Local Tax Rates ; (1). county sales and use tax rates ; (2). jurisdiction codes and tax rates for TSPLOST-exempt sales ; (3). miscellaneous jurisdiction ...",
+      "snippet_highlighted_words": [
+        "Local Tax",
+        "county sales",
+        "tax",
+        "tax",
+        "sales"
+      ],
+      "source": "CCH Incorporated"
+    },
+    {
+      "position": 48,
+      "title": "Tax Commissioner - Home - Chatham County",
+      "link": "https://tax.chathamcountyga.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.chathamcountyga.gov/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCMQBEAE",
+      "displayed_link": "https://tax.chathamcountyga.gov",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d864705f6fdd1a61afd8e1e5f7c115072e3.png",
+      "snippet": "Tax Commissioner Sonya L. Jackson. Part of Chatham County, GA Part of ChathamCountyGA.gov ... Tax Sales Results · Excess Funds · Property Tax FAQs. Motor Vehicle.",
+      "snippet_highlighted_words": [
+        "Tax",
+        "County",
+        "GA",
+        "Tax Sales",
+        "Tax"
+      ],
+      "source": "Chatham County Tax Commissioner (.gov)"
+    },
+    {
+      "position": 49,
+      "title": "Georgia Sales & Use Tax",
+      "link": "https://www.taxconnex.com/georgia-state-sales-tax-0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxconnex.com/georgia-state-sales-tax-0&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCM4BEAE",
+      "displayed_link": "https://www.taxconnex.com › georgia-state-sales-tax-0",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86cfb71511d4d31facfffe3ac7754ed031.jpeg",
+      "snippet": "The sales tax rate in Georgia is 4%. When Are Sales ...",
+      "snippet_highlighted_words": [
+        "sales tax",
+        "Georgia"
+      ],
+      "source": "TaxConnex"
+    },
+    {
+      "position": 50,
+      "title": "Georgia Counties Board of Assessors - Parcel Management",
+      "link": "https://qpublic.net/ga/gaassessors/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://qpublic.net/ga/gaassessors/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCOQBEAE",
+      "displayed_link": "https://qpublic.net › ga › gaassessors",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8647fcbbcb125df4a63c9148dd98381a2a.png",
+      "snippet": "Georgia Assessors is your doorway to all Georgia County websites for on-line parcel & GIS Data. Search parcel data, tax digest & GIS maps by Owners Name.",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "Georgia County",
+        "tax"
+      ],
+      "source": "Schneider Geospatial"
+    },
+    {
+      "position": 51,
+      "title": "Georgia Sales Tax By County",
+      "link": "http://www.tax-rates.org/georgia/sales-tax-by-county",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.tax-rates.org/georgia/sales-tax-by-county&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCNwBEAE",
+      "displayed_link": "http://www.tax-rates.org › georgia › sales-tax-by-county",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86eef0499dfe75b05de793c781190d2400.png",
+      "snippet": "Georgia has 961 cities, counties, and special districts that collect a local sales tax in addition to the Georgia state sales tax.",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "local sales tax",
+        "Georgia",
+        "sales tax"
+      ],
+      "source": "Tax-Rates.org"
+    },
+    {
+      "position": 52,
+      "title": "Municipal Option Sales Tax Locator | Atlanta, GA",
+      "link": "https://www.atlantaga.gov/residents/city-hall/online-services/municipal-option-sales-tax-locator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlantaga.gov/residents/city-hall/online-services/municipal-option-sales-tax-locator&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCN0BEAE",
+      "displayed_link": "https://www.atlantaga.gov › city-hall › online-services",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86e39b04c7ccc5cbfec222c8858ce94bfe.jpeg",
+      "snippet": "The 1% City of Atlanta municipal sales and use tax will be collected on transactions where the customer takes delivery of the item being sold or an item is used ...",
+      "snippet_highlighted_words": [
+        "sales",
+        "tax"
+      ],
+      "source": "City Of Atlanta, Ga (.gov)"
+    },
+    {
+      "position": 53,
+      "title": "Tax Information",
+      "link": "https://www.gwinnettcounty.com/aboutgwinnett/taxinformation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gwinnettcounty.com/aboutgwinnett/taxinformation&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCPoBEAE",
+      "displayed_link": "https://www.gwinnettcounty.com › aboutgwinnett › taxi...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86ad8b64c2a5854a6a3c6720a177c41d99.png",
+      "snippet": "Gwinnett County has received consistent, national recognition for its fiscal responsibility and efficient operation. 62% (approximately) - School taxes, set by ...",
+      "snippet_highlighted_words": [
+        "County",
+        "taxes"
+      ],
+      "source": "Gwinnett County"
+    },
+    {
+      "position": 54,
+      "title": "Georgia—Sales and Use Tax: Updated...",
+      "link": "https://www.vitallaw.com/news/georgia-sales-and-use-tax-updated-chart-of-local-sales-and-use-tax-rate-history-issued/std01e59d8b4fde9f4ca48282064a3b6d73cf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vitallaw.com/news/georgia-sales-and-use-tax-updated-chart-of-local-sales-and-use-tax-rate-history-issued/std01e59d8b4fde9f4ca48282064a3b6d73cf&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCIUCEAE",
+      "displayed_link": "https://www.vitallaw.com › news › georgia-sales-and-use...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86b03d057d542542827aadc41828a56d80.png",
+      "date": "Sep 6, 2024",
+      "snippet": "The Georgia Department of Revenue published a local sales and use tax history that provides local tax by jurisdiction and tax type from 1972 ...",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "local sales",
+        "tax",
+        "local tax",
+        "tax"
+      ],
+      "source": "VitalLaw.com"
+    },
+    {
+      "position": 55,
+      "title": "Cobb County Tax Commissioner: Welcome to Cobbtax.gov",
+      "link": "https://www.cobbtax.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cobbtax.gov/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCP4BEAE",
+      "displayed_link": "https://www.cobbtax.gov",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8695b89cc1321faf089940c55a3703f8fa.png",
+      "snippet": "Welcome to the Cobb County Tax Commissioner's website. Click here for everything property tax and exemptions as well as motor vehicle tags.",
+      "snippet_highlighted_words": [
+        "County Tax",
+        "tax"
+      ],
+      "source": "Cobb County Tax Commissioner (.gov)"
+    },
+    {
+      "position": 56,
+      "title": "Georgia Sales Tax Compliance: Rules, Filing, and Penalties",
+      "link": "https://wiggamlaw.com/blog/georgia-sales-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wiggamlaw.com/blog/georgia-sales-tax/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCIQCEAE",
+      "displayed_link": "https://wiggamlaw.com › blog › georgia-sales-tax",
+      "date": "Apr 4, 2025",
+      "snippet": "In Georgia, the state sales tax rate is 4%, but remember that you could also have to collect and pay local sales taxes, which range from 0 ...",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "sales tax",
+        "local sales taxes"
+      ],
+      "source": "Wiggam Law"
+    },
+    {
+      "position": 57,
+      "title": "Georgia - Streamlined Sales Tax",
+      "link": "https://www.streamlinedsalestax.org/state-details/georgia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.streamlinedsalestax.org/state-details/georgia&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCJUCEAE",
+      "displayed_link": "https://www.streamlinedsalestax.org › state-details › geo...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d869bff4a9570ecc03105ff36419775b419.png",
+      "snippet": "The state of Georgia became an associate member of Streamlined Sales Tax ... Tax Rates. State Sales and Use Tax Rate: 4%. Local Jurisdiction Sales and Use Taxes: ...",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "Sales Tax",
+        "Local",
+        "Taxes"
+      ],
+      "source": "streamlinedsalestax.org"
+    },
+    {
+      "position": 58,
+      "title": "Georgia Sales & Use Tax Rates / Exemptions",
+      "link": "https://www.salesandusetax.com/sales-tax-by-state/georgia-sales-tax-exemptions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.salesandusetax.com/sales-tax-by-state/georgia-sales-tax-exemptions&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCJQCEAE",
+      "displayed_link": "https://www.salesandusetax.com › sales-tax-by-state › g...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8626005725ca86a55f5c69c839490859c3.png",
+      "snippet": "The state of Georgia levies a 4% state sales tax rate on the retail sale, lease or rental of most goods. Local jurisdictions impose additional sales taxes up ...",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "sales tax",
+        "Local",
+        "sales taxes"
+      ],
+      "source": "Agile Consulting Group"
+    },
+    {
+      "position": 59,
+      "title": "GEORGIA SALES AND USE TAX RATE CHART",
+      "link": "https://cms5.revize.com/revize/camillaga/Deptarment%20of%20Revenue%20Tax%20Rate%20Schedule.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cms5.revize.com/revize/camillaga/Deptarment%2520of%2520Revenue%2520Tax%2520Rate%2520Schedule.pdf&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCJ8CEAE",
+      "displayed_link": "https://cms5.revize.com › revize › camillaga › De...",
+      "date": "Apr 1, 2021",
+      "snippet": "Code 000 - The state sales and use tax rate is 4% and is included in the jurisdiction rates below. Code Jurisdiction. Rate Type.",
+      "snippet_highlighted_words": [
+        "sales",
+        "tax"
+      ],
+      "source": "Revize Website"
+    },
+    {
+      "position": 60,
+      "title": "Georgia Tax Information",
+      "link": "https://smartpay.gsa.gov/smarttax/tax-information-by-state/georgia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://smartpay.gsa.gov/smarttax/tax-information-by-state/georgia/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCJ0CEAE",
+      "displayed_link": "https://smartpay.gsa.gov › smarttax › georgia",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8644938eb4a191db94d69108c216bc906b.png",
+      "snippet": "Centrally billed accounts (CBA) are exempt from state sales tax. ... Travel Card. State of Georgia Certificate of Exemption of Local Hotel/Motel Excise Tax ...",
+      "snippet_highlighted_words": [
+        "sales tax",
+        "Georgia",
+        "Local"
+      ],
+      "source": "GSA SmartPay (.gov)"
+    },
+    {
+      "position": 61,
+      "title": "State by state sales and use tax rates",
+      "link": "https://www.wolterskluwer.com/en/expert-insights/whole-ball-of-tax-multistate-sales-tax-state-rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wolterskluwer.com/en/expert-insights/whole-ball-of-tax-multistate-sales-tax-state-rates&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCKgCEAE",
+      "displayed_link": "https://www.wolterskluwer.com › Home › Expert Insights",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86d51f628454e1c91e47f21a4dfef483da.png",
+      "snippet": "Rate listed below is the general state rate. Most states authorize additional local sales and use taxes, which are not included. ; Georgia 2023 RATES: 4%, Sales ...",
+      "snippet_highlighted_words": [
+        "local",
+        "taxes",
+        "Georgia"
+      ],
+      "source": "Wolters Kluwer"
+    },
+    {
+      "position": 62,
+      "title": "Gwinnett County Tax Commissioner",
+      "link": "https://www.gwinnetttaxcommissioner.com/home",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gwinnetttaxcommissioner.com/home&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCKoCEAE",
+      "displayed_link": "https://www.gwinnetttaxcommissioner.com › ...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d863e8a65623004612372ff2582602c2731.png",
+      "snippet": "Tax Commissioner Denise Mitchell is a constitutional officer elected to bill, collect and disburse personal and property taxes and to administer homestead ...",
+      "snippet_highlighted_words": [
+        "taxes"
+      ],
+      "source": "Gwinnett County Tax Commissioner"
+    },
+    {
+      "position": 63,
+      "title": "Tax Rates | Monroe Georgia",
+      "link": "https://www.monroega.com/econdev/page/tax-rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.monroega.com/econdev/page/tax-rates&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCKsCEAE",
+      "displayed_link": "https://www.monroega.com › econdev › page › tax-rates",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8695397b502caa90f29b73a854144b7f42.png",
+      "snippet": "Tax Rates ; Effective Property Tax, Millage Rate, Sales Tax ; $15.75 per $1,000 FMV, 39.382, 7% ...",
+      "snippet_highlighted_words": [
+        "Sales Tax"
+      ],
+      "source": "City of Monroe GA"
+    },
+    {
+      "position": 64,
+      "title": "Atlanta Sales Tax Rates for 2025 – Georgia | YonDatax",
+      "link": "https://www.yondatax.com/cities/atlanta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yondatax.com/cities/atlanta&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCLkCEAE",
+      "displayed_link": "https://www.yondatax.com › cities › atlanta",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86b12393b6bb5c17f332970eea218dfb4c.png",
+      "snippet": "The base state sales tax rate in Georgia is 4%, but since the city-specific tax rate is 1.50%, the Atlanta Tsplost TI rate is 0.4%, and the Fulton County tax ...",
+      "snippet_highlighted_words": [
+        "sales tax",
+        "Georgia",
+        "County"
+      ],
+      "source": "Yonda Tax"
+    },
+    {
+      "position": 65,
+      "title": "2025 Georgia Sales and Use Tax Rate Changes",
+      "link": "https://blog.usgeocoder.com/2025-georgia-sales-and-use-tax-rate-changes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.usgeocoder.com/2025-georgia-sales-and-use-tax-rate-changes/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCMICEAE",
+      "displayed_link": "https://blog.usgeocoder.com › USgeocoder All Posts",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d860d9f96af6d86015b7443e92ddcf4b58b.png",
+      "date": "Mar 30, 2025",
+      "snippet": "Track local district sales tax changes in GA ... Baker, Baldwin, Barrow, Long, Richmond, Taylor, Towns and Walker county tax rates are changed.",
+      "snippet_highlighted_words": [
+        "local",
+        "sales tax",
+        "GA",
+        "county"
+      ],
+      "source": "USgeocoder"
+    },
+    {
+      "position": 66,
+      "title": "Sales Tax in Atlanta, Georgia in 2025 - Zamp",
+      "link": "https://zamp.com/resources/atlanta-georgia-sales-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zamp.com/resources/atlanta-georgia-sales-tax/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCMACEAE",
+      "displayed_link": "https://zamp.com › resources › atlanta-georgia-sales-tax",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86792b94e9d8cd6a4bcebe33ff4b52c333.png",
+      "snippet": "Your total sales tax rate is the sum of the Georgia state tax (4.00%), the county sales tax (3.00%) and the Atlanta city sales tax (1.90%). There is no special ...",
+      "snippet_highlighted_words": [
+        "sales tax",
+        "Georgia",
+        "county sales tax",
+        "sales tax"
+      ],
+      "source": "zamp.com"
+    },
+    {
+      "position": 67,
+      "title": "Georgia Sales Tax Guide - Chamber Of Commerce",
+      "link": "https://www.chamberofcommerce.org/sales-tax/georgia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chamberofcommerce.org/sales-tax/georgia&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCMMCEAE",
+      "displayed_link": "https://www.chamberofcommerce.org › sales-tax › geor...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86125ea1626b741f03e7661a77e2456cbb.png",
+      "date": "Sep 13, 2023",
+      "snippet": "Georgia's various counties and cities can add a discretionary tax percentage onto the state sales tax. Most areas charge a local sales tax ...",
+      "snippet_highlighted_words": [
+        "Georgia's",
+        "sales tax",
+        "local sales tax"
+      ],
+      "source": "ChamberofCommerce.org"
+    },
+    {
+      "position": 68,
+      "title": "Cost of Doing Business | Franklin County Georgia ...",
+      "link": "https://www.franklin-county.com/cost-of-doing-business.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.franklin-county.com/cost-of-doing-business.php&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCM8CEAE",
+      "displayed_link": "https://www.franklin-county.com › cost-of-doing-busin...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8648701a7a0e7364698afa4f59d1ce12a8.png",
+      "snippet": "Sales Tax · 4% State · 1% Local Option Sales Tax · 1% Local E-SPLOST · (Education Special Purpose Local Option Sales Tax) · 1% Local SPLOST · (Special Purpose Local ...",
+      "snippet_highlighted_words": [
+        "Sales Tax",
+        "Local",
+        "Sales Tax",
+        "Local",
+        "Local",
+        "Sales Tax",
+        "Local",
+        "Local"
+      ],
+      "source": "Franklin County Georgia Chamber of Commerce |"
+    },
+    {
+      "position": 69,
+      "title": "Georgia Sales Tax",
+      "link": "https://www.accuratetax.com/resources/sales-tax-information/georgia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.accuratetax.com/resources/sales-tax-information/georgia/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECDQQAQ",
+      "displayed_link": "https://www.accuratetax.com › ... › By State",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d867a3d1e3f7b7bfef7a5ba8c4211d33230.png",
+      "snippet": "Georgia sales tax varies by location. There is a state sales tax of 4%, but local rates typically vary from 6-9% (4% for state, plus an additional 2-5% for ...",
+      "snippet_highlighted_words": [
+        "Georgia sales tax",
+        "sales tax",
+        "local"
+      ],
+      "source": "AccurateTax.com"
+    },
+    {
+      "position": 70,
+      "title": "Property Taxes",
+      "link": "https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/tax-commissioner/property-taxes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/tax-commissioner/property-taxes&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECEsQAQ",
+      "displayed_link": "https://www.fultoncountyga.gov › tax-commissioner",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8666ba938a446818cd5029bb4e09a95894.png",
+      "snippet": "Property Tax Page. location-icon. 141 Pryor Street, SW Atlanta, GA 30303 ... The Fulton County Tax Commissioner is responsible for collecting property taxes ...",
+      "snippet_highlighted_words": [
+        "GA",
+        "County",
+        "taxes"
+      ],
+      "source": "Fulton County (.gov)"
+    },
+    {
+      "position": 71,
+      "title": "Georgia Sales Tax",
+      "link": "https://wyomingllcattorney.com/Blog/Georgia-Sales-Tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wyomingllcattorney.com/Blog/Georgia-Sales-Tax&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECFAQAQ",
+      "displayed_link": "https://wyomingllcattorney.com › Blog › Georgia-Sales-...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d864225527bbe35774bb177b08d464245a3.png",
+      "snippet": "In Georgia, the state sales tax is currently 0.00%. Interestingly enough, the cities within Georgia also do not have added sales tax rates.",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "sales tax",
+        "0.00%",
+        "Georgia",
+        "sales tax"
+      ],
+      "source": "Wyoming LLC Attorney"
+    },
+    {
+      "position": 72,
+      "title": "Georgia sales tax guide - 1stopVAT",
+      "link": "https://1stopvat.com/georgia-sales-tax-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://1stopvat.com/georgia-sales-tax-guide/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECFYQAQ",
+      "displayed_link": "https://1stopvat.com › georgia-sales-tax-guide",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8639dc662a1f16250bb7facc60cee7f988.png",
+      "snippet": "Like many other states, Georgia has a basic sales tax rate and local rates. The sales tax rates Georgia -based or remote companies with a nexus in the state ...",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "sales tax",
+        "local",
+        "sales tax",
+        "Georgia"
+      ],
+      "source": "1stopvat.com"
+    },
+    {
+      "position": 73,
+      "title": "Atlanta, GA Sales Tax 2025 Guide: Rates & Filing Tips",
+      "link": "https://trykintsugi.com/sales-tax-guide/atlanta-georgia-sales-tax-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://trykintsugi.com/sales-tax-guide/atlanta-georgia-sales-tax-guide&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECFEQAQ",
+      "displayed_link": "https://trykintsugi.com › sales-tax-guide › atlanta-georg...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8683fc7a9677629c2ce75aeff68d7a5a25.png",
+      "snippet": "The sales tax rate in Atlanta, GA, is 8.9%, combining Georgia's 4% state tax with 4.9% in local taxes. Atlanta Sales Tax Filing Steps. View details for sales ...",
+      "snippet_highlighted_words": [
+        "sales tax",
+        "GA",
+        "Georgia's",
+        "local taxes",
+        "Sales Tax"
+      ],
+      "source": "Kintsugi Tax"
+    },
+    {
+      "position": 74,
+      "title": "Georgia Sales Tax",
+      "link": "https://www.salestaxinstitute.com/jurisdiction/georgia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.salestaxinstitute.com/jurisdiction/georgia&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECFUQAQ",
+      "displayed_link": "https://www.salestaxinstitute.com › jurisdiction › georgia",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86e276b46e6a13e5cb7f2385c729443c67.png",
+      "snippet": "4.000% The state has reduced rates for sales of certain types of items. Range of Local Rates. 1% – 5%. Local Rates Apply to Use Tax.",
+      "snippet_highlighted_words": [
+        "sales",
+        "Local",
+        "Local",
+        "Tax"
+      ],
+      "source": "Sales Tax Institute"
+    },
+    {
+      "position": 75,
+      "title": "Georgia Sales Tax Guide 2024: Compliance, Rates, and ...",
+      "link": "https://www.numeralhq.com/blog/georgia-sales-tax-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.numeralhq.com/blog/georgia-sales-tax-guide&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECGkQAQ",
+      "displayed_link": "https://www.numeralhq.com › blog › georgia-sales-tax-...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d869f31191dc6e92d684d8b77f7f57b9504.png",
+      "date": "Dec 13, 2023",
+      "snippet": "As an ecommerce seller, here's how you calculate Georgia's sales tax: Add the 4% state tax plus the local tax rate based on the shipment or ...",
+      "snippet_highlighted_words": [
+        "Georgia's sales tax",
+        "local"
+      ],
+      "source": "numeralhq.com"
+    },
+    {
+      "position": 76,
+      "title": "Baldwin County Tax",
+      "link": "https://www.baldwincountygatax.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.baldwincountygatax.com/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECGcQAQ",
+      "displayed_link": "https://www.baldwincountygatax.com",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8656c5cc969c7d91614af0d557123ed865.png",
+      "snippet": "On this website you can securely pay your property taxes as well as renew your vehicle tags at your convenience. (A convenience fee applies.)",
+      "snippet_highlighted_words": [
+        "taxes"
+      ],
+      "source": "Baldwin County Tax"
+    },
+    {
+      "position": 77,
+      "title": "Atlanta 2025 Sales Tax Guide and Calculator",
+      "link": "https://quaderno.io/guides/atlanta-sales-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quaderno.io/guides/atlanta-sales-tax/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECHMQAQ",
+      "displayed_link": "https://quaderno.io › ... › Worldwide Tax Guides",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d865819583272d01177463f1723231ce907.png",
+      "date": "Apr 23, 2025",
+      "snippet": "This is the total of state, county and city sales tax rates. The Georgia sales tax rate is currently 4%. The Fulton County sales tax rate is 3%.",
+      "snippet_highlighted_words": [
+        "county",
+        "sales tax",
+        "Georgia sales tax",
+        "County sales tax"
+      ],
+      "source": "Quaderno"
+    },
+    {
+      "position": 78,
+      "title": "Georgia Sales and Use Tax & Audit Guide",
+      "link": "https://www.salestaxhelper.com/resources/state-sales-tax-guides/georgia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.salestaxhelper.com/resources/state-sales-tax-guides/georgia/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECHcQAQ",
+      "displayed_link": "https://www.salestaxhelper.com › resources › georgia",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d866069adb1c81ba876ca7682259c43dfa7.png",
+      "snippet": "Georgia's base or statewide sales tax rate is 4.00%. However, local taxing jurisdictions (cities, counties, special purpose districts and transit authorities) ...",
+      "snippet_highlighted_words": [
+        "Georgia's",
+        "sales tax",
+        "local"
+      ],
+      "source": "Sales Tax Helper"
+    },
+    {
+      "position": 79,
+      "title": "Sumter County Georgia|General Info",
+      "link": "https://www.sumtercountygatax.com/info.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sumtercountygatax.com/info.html&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCIQBEAE",
+      "displayed_link": "https://www.sumtercountygatax.com › info",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86147a22e92ac0a05aaca00a722d2f23f8.png",
+      "snippet": "The Tax Commissioner is responsible for the billing and collection of ad valorem taxes. These taxes include real property, personal property, motor vehicle tax ...",
+      "snippet_highlighted_words": [
+        "taxes",
+        "taxes"
+      ],
+      "source": "sumtercountygatax.com"
+    },
+    {
+      "position": 80,
+      "title": "Georgia Sales Tax Rates by City - June 2025",
+      "link": "https://www.sales-taxes.com/ga",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sales-taxes.com/ga&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCIIBEAE",
+      "displayed_link": "https://www.sales-taxes.com › ga",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8654a1dbe2c90fbe4f102efb3dbebb8cbb.png",
+      "snippet": "Georgia has a statewide sales tax of 4%. Municipal governments in Georgia are allowed to collect local sales taxes, so the total sales tax rate varies between ...",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "sales tax",
+        "Georgia",
+        "local sales taxes",
+        "sales tax"
+      ],
+      "source": "Sales-Taxes.com"
+    },
+    {
+      "position": 81,
+      "title": "Douglas County Transportation Special Purpose Local ...",
+      "link": "https://www.douglascountyga.gov/836/Douglas-County-Transportation-Special-Pu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.douglascountyga.gov/836/Douglas-County-Transportation-Special-Pu&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCIwBEAE",
+      "displayed_link": "https://www.douglascountyga.gov › Douglas-County-Tra...",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86a8705c9615c289d45d10107c2cc76949.png",
+      "snippet": "Douglas County Transportation Special Purpose Local Option Sales Tax (TSPLOST) ... Douglas County GA Streets. Tap to unmute. Your browser can't play this ...",
+      "snippet_highlighted_words": [
+        "County",
+        "Local",
+        "Sales Tax",
+        "County GA"
+      ],
+      "source": "Douglas County, GA (.gov)"
+    },
+    {
+      "position": 82,
+      "title": "DeKalb Tax Commissioner: Home",
+      "link": "https://dekalbtax.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dekalbtax.org/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCI4BEAE",
+      "displayed_link": "https://dekalbtax.org",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8650c2a797c58295d6efba1e3457d1914f.png",
+      "snippet": "no tax sale. Aug 5, 2025. NO TAX SALE. 21 Aug. National Senior Citizens ... Jul 22, 2025. DeKalb County tax commissioner's office offers property tax seminars.",
+      "snippet_highlighted_words": [
+        "tax sale",
+        "TAX SALE",
+        "County tax",
+        "tax"
+      ],
+      "source": "DeKalb County Tax Commissioner"
+    },
+    {
+      "position": 83,
+      "title": "qPublic.net",
+      "link": "https://qpublic.schneidercorp.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://qpublic.schneidercorp.com/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCJYBEAE",
+      "displayed_link": "https://qpublic.schneidercorp.com",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d860ba68c99d6b5d992765b8da43c17bae1.png",
+      "snippet": "Forsyth County, GA. Franklin County, GA. Fulton County, GA. Gilmer County, GA. Glascock County, GA. Glynn County, GA. Gordon County, GA. Grady County, GA Tax ...",
+      "snippet_highlighted_words": [
+        "County",
+        "GA",
+        "County",
+        "GA",
+        "County",
+        "GA",
+        "County",
+        "GA",
+        "County",
+        "GA",
+        "County",
+        "GA",
+        "County",
+        "GA",
+        "County",
+        "GA Tax"
+      ],
+      "source": "qPublic"
+    },
+    {
+      "position": 84,
+      "title": "Towns County Tax|FAQ",
+      "link": "https://tax.townscountypay.com/faq.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tax.townscountypay.com/faq.html&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCJUBEAE",
+      "displayed_link": "https://tax.townscountypay.com › faq",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86435d2c744ea88c8c6b86f9b89f4fe495.png",
+      "snippet": "Do I pay taxes on my mobile/modular home? Yes. Mobile/modular homes are considered personal property and are taxable in the State of Georgia. Tax must be paid ...",
+      "snippet_highlighted_words": [
+        "taxes",
+        "Georgia"
+      ],
+      "source": "Towns County Tax"
+    },
+    {
+      "position": 85,
+      "title": "Sept. 28: Local Option Sales Tax (LOST) Town Hall",
+      "link": "https://www.atlantaga.gov/government/mayor-s-office/local-option-sales-tax-lost-town-hall",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlantaga.gov/government/mayor-s-office/local-option-sales-tax-lost-town-hall&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCKYBEAE",
+      "displayed_link": "https://www.atlantaga.gov › government › mayor-s-office",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86b85f60793f44749bff345230f0730855.jpeg",
+      "snippet": "The Local Option Sales Tax (LOST) is a special 1 percent sales tax on the purchase, sale, rental, storage, use or consumption of tangible personal property ...",
+      "snippet_highlighted_words": [
+        "Local",
+        "Sales Tax",
+        "sales tax"
+      ],
+      "source": "City Of Atlanta, Ga (.gov)"
+    },
+    {
+      "position": 86,
+      "title": "Sales and Use Tax | Marietta, GA",
+      "link": "https://www.mariettaga.gov/1520/Sales-and-Use-Tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mariettaga.gov/1520/Sales-and-Use-Tax&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCKgBEAE",
+      "displayed_link": "https://www.mariettaga.gov › Sales-and-Use-Tax",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86ed8f7fee7d5f19aba5ae0d343db533e7.png",
+      "snippet": "Businesses that make sales within the state of Georgia are generally required to register for a sales and use tax permit with the Georgia Department of Revenue.",
+      "snippet_highlighted_words": [
+        "sales",
+        "Georgia",
+        "sales",
+        "tax",
+        "Georgia"
+      ],
+      "source": "Marietta.gov"
+    },
+    {
+      "position": 87,
+      "title": "Motor Vehicles",
+      "link": "https://www.rabuncountytax.com/motor-vehicles.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rabuncountytax.com/motor-vehicles.html&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCKwBEAE",
+      "displayed_link": "https://www.rabuncountytax.com › motor-vehicles",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8623b65ae1076f8b0c6fbf9e1a892592ee.png",
+      "snippet": "As of March 2013 there will no longer be sales tax on the purchase of motor vehicles. A 6.6% Title Ad Valorem Tax (TAVT) is now required on every title ...",
+      "snippet_highlighted_words": [
+        "sales tax"
+      ],
+      "source": "Rabun County Tax"
+    },
+    {
+      "position": 88,
+      "title": "Tax Assessor's Office | Cherokee County, Georgia",
+      "link": "https://www.cherokeecountyga.gov/tax-assessors-office/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cherokeecountyga.gov/tax-assessors-office/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCK0BEAE",
+      "displayed_link": "https://www.cherokeecountyga.gov › tax-assessors-office",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86fcd470053f5897f380bfd6adf27348c7.png",
+      "date": "Jun 19, 2025",
+      "snippet": "The Board of Tax Assessors is Responsible for ensuring that all taxable property within the county is filed and assessed for taxes at its fair market value.",
+      "snippet_highlighted_words": [
+        "county",
+        "taxes"
+      ],
+      "source": "Cherokee County, Georgia (.gov)"
+    },
+    {
+      "position": 89,
+      "title": "Hall County, GA - Official Website | Official Website",
+      "link": "https://www.hallcounty.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hallcounty.org/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCLQBEAE",
+      "displayed_link": "https://www.hallcounty.org",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8687272cd1adf68c02aa557bc5a7f398c7.png",
+      "snippet": "Hall County GA Homepage. Search. Tag Office · Permits ... Local Option Sales Tax (SPLOST) referendum to be placed on the Nov. 4 ...",
+      "snippet_highlighted_words": [
+        "County GA",
+        "Local",
+        "Sales Tax"
+      ],
+      "source": "Hall County"
+    },
+    {
+      "position": 90,
+      "title": "Cobb County Board of Tax Assessors – Official Website of the ...",
+      "link": "https://assessor.cobbcounty.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://assessor.cobbcounty.gov/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCMEBEAE",
+      "displayed_link": "https://assessor.cobbcounty.gov",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8670f0db1c0e406156dbecce2a8ee534ae.png",
+      "snippet": "Jan. 1 of each year is the assessment date in Georgia. Accordingly, all property must be valued for ad valorem taxes based on its condition and use as of Jan.",
+      "snippet_highlighted_words": [
+        "Georgia",
+        "taxes"
+      ],
+      "source": "Cobb County Board of Tax Assessors (.gov)"
+    },
+    {
+      "position": 91,
+      "title": "Real & Personal Property",
+      "link": "https://hallcountytax.org/property/real-personal-property/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hallcountytax.org/property/real-personal-property/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCMIBEAE",
+      "displayed_link": "https://hallcountytax.org › Property",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86ac61f5b22f6295787cd5f3f8543ea535.png",
+      "snippet": "Millage rates are set by the Board of Commissioners, Board of Education and each city. The Tax Commissioner bills, collects and disburses taxes and is not ...",
+      "snippet_highlighted_words": [
+        "taxes"
+      ],
+      "source": "Hall County Tax Commissioner"
+    },
+    {
+      "position": 92,
+      "title": "Habersham County Tax|Motor Vehicles",
+      "link": "https://www.habershamtax.com/motor-vehicles.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.habershamtax.com/motor-vehicles.html&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCMMBEAE",
+      "displayed_link": "https://www.habershamtax.com › motor-vehicles",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86f497523b6bc9079e11e81f62e173a0a2.png",
+      "snippet": "As of March 2013 there will no longer be sales tax on the purchase of motor vehicles. A 6.6% Title Ad Valorem Tax (TAVT) is now required on every title transfer ...",
+      "snippet_highlighted_words": [
+        "sales tax"
+      ],
+      "source": "Habersham County Tax"
+    },
+    {
+      "position": 93,
+      "title": "Tax Exempt Organization Search | Internal Revenue Service",
+      "link": "https://apps.irs.gov/app/eos/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.irs.gov/app/eos/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCMwBEAE",
+      "displayed_link": "https://apps.irs.gov › app › eos",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86b7f98f6ece374b996045af6442284684.png",
+      "snippet": "Estimated Taxes · Penalties · Refunds · Overview · Where's My Refund · What to Expect ... Georgia, Guam, Hawaii, Iowa, Idaho, Illinois, Indiana, Kansas, Kentucky ...",
+      "snippet_highlighted_words": [
+        "Taxes",
+        "Georgia"
+      ],
+      "source": "IRS (.gov)"
+    },
+    {
+      "position": 94,
+      "title": "Paulding County, GA | Official Website",
+      "link": "https://www.paulding.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.paulding.gov/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCMsBEAE",
+      "displayed_link": "https://www.paulding.gov",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d867d21aba6d14f09091672f0463f6b4ab0.png",
+      "snippet": "Welcome to Paulding County! Explore • Unwind • Thrive. Event Calendar, Legal Advertisements, Property Records / Taxes, Online Payments, Report an Issue, ...",
+      "snippet_highlighted_words": [
+        "County",
+        "Taxes"
+      ],
+      "source": "Paulding County (.gov)"
+    },
+    {
+      "position": 95,
+      "title": "2025 Sales Tax Holidays",
+      "link": "https://taxadmin.org/2025-sales-tax-holidays/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxadmin.org/2025-sales-tax-holidays/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCOIBEAE",
+      "displayed_link": "https://taxadmin.org › 2025-sales-tax-holidays",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8652b43fe08e9f81b9bf743030ce748a81.png",
+      "snippet": "2025 Sales Tax Holidays. Large modern shopping mall with crowds of people ... Georgia, B2S? Energy Savings? Hawaii, No Sales Tax Holiday in 2025. Idaho, No ...",
+      "snippet_highlighted_words": [
+        "Sales Tax",
+        "Georgia",
+        "Sales Tax"
+      ],
+      "source": "Federation of Tax Administrators"
+    },
+    {
+      "position": 96,
+      "title": "Coweta County Tax Commissioner",
+      "link": "https://www.cowetataxcom.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cowetataxcom.com/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCOABEAE",
+      "displayed_link": "https://www.cowetataxcom.com",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d8674c7c49561ee33c2ee6f47c22315a5e6.png",
+      "snippet": "On this website you can securely pay your property taxes as well as renew your vehicle tags at your convenience. A convenience fee applies.",
+      "snippet_highlighted_words": [
+        "taxes"
+      ],
+      "source": "Coweta County Tax Commissioner"
+    },
+    {
+      "position": 97,
+      "title": "Georgia Property Tax Rates 2025",
+      "link": "https://worldpopulationreview.com/states/georgia/property-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://worldpopulationreview.com/states/georgia/property-tax&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoFCN8BEAE",
+      "displayed_link": "https://worldpopulationreview.com › states › property-tax",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86568e0f7cfe75d8917389594c40f28a65.png",
+      "snippet": "Highest Property Taxes ... Leading the state in property tax rates, Fulton County County residents contribute a median of $3,847 annually. Property owners with ...",
+      "snippet_highlighted_words": [
+        "Taxes",
+        "County County"
+      ],
+      "source": "worldpopulationreview.com"
+    },
+    {
+      "position": 98,
+      "title": "Fayette County Tax",
+      "link": "https://www.fayettecountypay.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fayettecountypay.com/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECEwQAQ",
+      "displayed_link": "https://www.fayettecountypay.com",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d864035c7c000a22a09a99d5d93008af00b.png",
+      "snippet": "This site was created to provide Fayette County taxpayers accurate and timely information on property taxes, the titling and registration of motor vehicles, ...",
+      "snippet_highlighted_words": [
+        "County",
+        "taxes"
+      ],
+      "source": "Fayette County Tax"
+    },
+    {
+      "position": 99,
+      "title": "Tax Assessor - Clayton County, Georgia",
+      "link": "https://www.claytoncountyga.gov/government/tax-assessor/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.claytoncountyga.gov/government/tax-assessor/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECDEQAQ",
+      "displayed_link": "https://www.claytoncountyga.gov › Government",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86f1749f288ad81bfda14d311b24f6a34f.png",
+      "snippet": "The billing and collection of taxes is the responsibility of the Tax Commissioner. January 1 of each year is the assessment date in Georgia. Accordingly ...",
+      "snippet_highlighted_words": [
+        "taxes",
+        "Georgia"
+      ],
+      "source": "claytoncountyga.gov"
+    },
+    {
+      "position": 100,
+      "title": "Fulton County Board of Assessors – Official Website of Fulton ...",
+      "link": "https://fultonassessor.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fultonassessor.org/&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0QFnoECDMQAQ",
+      "displayed_link": "https://fultonassessor.org",
+      "favicon": "https://serpapi.com/searches/68816625bde9790da69af53b/images/e6e59380ee8a0f9b18000a881da36d86fba7631977bb29a2a7b2340c801e9b84.png",
+      "snippet": "Don't miss this second chance to reduce your property taxes for the current year! If you did not own and occupy the property on January 1, 2025, you are NOW ...",
+      "snippet_highlighted_words": [
+        "taxes"
+      ],
+      "source": "Fulton County Board of Assessors"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Georgia sales tax rates by county 2025",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&q=Georgia+sales+tax+rates+by+county+2025&sa=X&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0Q1QJ6BQjUAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Georgia+sales+tax+rates+by+county+2025"
+    },
+    {
+      "block_position": 1,
+      "query": "Georgia sales tax calculator",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&q=Georgia+sales+tax+calculator&sa=X&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0Q1QJ6BQjTAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Georgia+sales+tax+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Lowest sales tax in georgia",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&q=Lowest+sales+tax+in+georgia&sa=X&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0Q1QJ6BQjSAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Lowest+sales+tax+in+georgia"
+    },
+    {
+      "block_position": 1,
+      "query": "GA sales tax rate by ZIP code",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&q=GA+sales+tax+rate+by+ZIP+code&sa=X&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0Q1QJ6BQjNAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=GA+sales+tax+rate+by+ZIP+code"
+    },
+    {
+      "block_position": 1,
+      "query": "Gwinnett County sales tax",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&q=Gwinnett+County+sales+tax&sa=X&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0Q1QJ6BQjIAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Gwinnett+County+sales+tax"
+    },
+    {
+      "block_position": 1,
+      "query": "Sales tax in Fulton County ga",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&q=Sales+tax+in+Fulton+County+ga&sa=X&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0Q1QJ6BQjFAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Sales+tax+in+Fulton+County+ga"
+    },
+    {
+      "block_position": 1,
+      "query": "Sales tax in Atlanta",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&q=Sales+tax+in+Atlanta&sa=X&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0Q1QJ6BQjEAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Sales+tax+in+Atlanta"
+    },
+    {
+      "block_position": 1,
+      "query": "Sales tax in Cobb County ga",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&q=Sales+tax+in+Cobb+County+ga&sa=X&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0Q1QJ6BQjBAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Sales+tax+in+Cobb+County+ga"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=sales+tax+by+county+ga&num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&ei=JmaBaK_XBuem9u8Pr5OsaA&start=100&sa=N&sstk=Ac65TH4ERXdXcqv4Rndq1vw7vMSKfpBBVOr2q6hJqklnoAmbX8TQ5zFnHX0LKowuRQ6Gky2qx16KIvE5PXduk2G27tMl_vWyzB2ZJw&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0Q8NMDegUI3AIQBg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=sales+tax+by+county+ga&num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&ei=JmaBaK_XBuem9u8Pr5OsaA&start=100&sa=N&sstk=Ac65TH4ERXdXcqv4Rndq1vw7vMSKfpBBVOr2q6hJqklnoAmbX8TQ5zFnHX0LKowuRQ6Gky2qx16KIvE5PXduk2G27tMl_vWyzB2ZJw&ved=2ahUKEwivgqzHh9SOAxVnk_0HHa8JCw0Q8tMDegUI3AIQBA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=sales+tax+by+county+ga&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=sales+tax+by+county+ga&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=sales+tax+by+county+ga&start=100"
+    }
+  }
+}

@@ -1,0 +1,1452 @@
+{
+  "search_metadata": {
+    "id": "6881b422bdfe4909b69a4166",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6012aa9f6c3dd9f1/6881b422bdfe4909b69a4166.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6012aa9f6c3dd9f1/6881b422bdfe4909b69a4166.json_with_pixel_position",
+    "created_at": "2025-07-24 04:18:42 UTC",
+    "processed_at": "2025-07-24 04:18:42 UTC",
+    "google_url": "https://www.google.com/search?q=arduino+%E6%AD%A3%E5%88%99&oq=arduino+%E6%AD%A3%E5%88%99&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6012aa9f6c3dd9f1/6881b422bdfe4909b69a4166.html",
+    "total_time_taken": 4.17
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "arduino 正则",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "arduino 正则",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://docs.arduino.cc/hardware/uno-rev3",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnhwoA9hLmgm6dnUG_Ui46bhEhRG_pQwpTlij73mm7o_biQ3MtrEXo9Uc&s",
+      "original": "https://docs.arduino.cc/static/bbceab04f8e0726194ef4dfe2457097f/image.svg",
+      "title": "UNO R3 | Arduino Documentation",
+      "source_name": "Arduino Documentation"
+    },
+    {
+      "source": "https://docs.arduino.cc/resources/datasheets/ABX00083-datasheet.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3iwijukXaOq-BatGfzvO7trKWON2CQ5QDtVO8JhqT0XcAkNE2gjYUac&s",
+      "original": "x-raw-image:///5eeb85e4f8891b815b0502454a020922ec4cf9aaeed1b00b67f76381e72e81dc",
+      "title": "Description Target areas:",
+      "source_name": "Arduino Documentation"
+    },
+    {
+      "source": "https://www.cnblogs.com/dapenson/p/Regex_Arduino.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hUKzyVfA_0enl34OdUgASLE6Q_6SMmAYu6fXboVkeJbMDrD_X4PW8A8&s",
+      "original": "https://img2022.cnblogs.com/blog/2027065/202209/2027065-20220904200844186-1852485558.png",
+      "title": "Arduino 正则匹配不规则字符串- Dapenson - 博客园",
+      "source_name": "博客园"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Arduino 正则匹配不规则字符串- Dapenson",
+      "link": "https://www.cnblogs.com/dapenson/p/Regex_Arduino.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnblogs.com/dapenson/p/Regex_Arduino.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECBYQAQ",
+      "displayed_link": "https://www.cnblogs.com › Regex...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046fdfd265fbdbbdfcc7b1e90ce990f86b7.webp",
+      "date": "Sep 4, 2022",
+      "snippet": "在Arduino解析字符串时，对于规则字符串内容，常用的有Json解析，或者是按位置获取从N到N+1位的内容，但对于不规则字符串，则只能使用查找的方式去获取，例如 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "博客园"
+    },
+    {
+      "position": 2,
+      "title": "静态字符串模式匹配模板库_arduino正则表达式",
+      "link": "https://blog.csdn.net/toya_k/article/details/47378301",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.csdn.net/toya_k/article/details/47378301&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECBIQAQ",
+      "displayed_link": "https://blog.csdn.net › details",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046fc031167c6a8aba9b60512e0eaef3de8.png",
+      "date": "Aug 9, 2015",
+      "snippet": "用这个模板链定义本例的正则表达式，代码如下： LogicRule<Char<'a','z'>, Num<2>, LogicRule<Char<'0','9'>, Num<4>, LogicRuleEnd> > ruler;. ruler是可用 ...",
+      "snippet_highlighted_words": [
+        "正则"
+      ],
+      "source": "CSDN博客"
+    },
+    {
+      "position": 3,
+      "title": "用正则表达式可以吗？ : r/arduino",
+      "link": "https://www.reddit.com/r/arduino/comments/t34and/is_it_ok_to_use_regex/?tl=zh-hans",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/arduino/comments/t34and/is_it_ok_to_use_regex/%3Ftl%3Dzh-hans&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECB8QAQ",
+      "displayed_link": "6 comments · 3 years ago",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04612ef5e574b6b05edca110751f174965f.webp",
+      "snippet": "是的。C++11 的正则表达式实现了ECMAScript 语法（不知道他们为什么选择了一个PCRE 的不稳定子集）。 正则表达式有它合适的用途（ ...",
+      "snippet_highlighted_words": [
+        "是的"
+      ],
+      "source": "Reddit · r/arduino"
+    },
+    {
+      "position": 4,
+      "title": "arduino 第三方正则库Regexp 和定时中断库MsTimer2",
+      "link": "http://www.51hei.com/bbs/dpj-118595-1.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.51hei.com/bbs/dpj-118595-1.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECBMQAQ",
+      "displayed_link": "http://www.51hei.com › bbs › dpj-...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04688844c3cb48799685ad2523be67d1752.png",
+      "date": "May 17, 2018",
+      "snippet": "分享一个arduino可用的第三方正则库：Regexp-master，来源于github,搜关键字：Regexp-master，可以找到，不过貌似不更新了。 里面有完整例程，可以进行全局正则 ...",
+      "snippet_highlighted_words": [
+        "arduino",
+        "正则",
+        "正则"
+      ],
+      "source": "单片机教程网"
+    },
+    {
+      "position": 5,
+      "title": "如何在esp8266 Arduino中包含正则表达式和其他标准库",
+      "link": "https://cloud.tencent.com/developer/information/%E5%A6%82%E4%BD%95%E5%9C%A8esp8266%20Arduino%E4%B8%AD%E5%8C%85%E5%90%AB%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%92%8C%E5%85%B6%E4%BB%96%E6%A0%87%E5%87%86%E5%BA%93",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cloud.tencent.com/developer/information/%25E5%25A6%2582%25E4%25BD%2595%25E5%259C%25A8esp8266%2520Arduino%25E4%25B8%25AD%25E5%258C%2585%25E5%2590%25AB%25E6%25AD%25A3%25E5%2588%2599%25E8%25A1%25A8%25E8%25BE%25BE%25E5%25BC%258F%25E5%2592%258C%25E5%2585%25B6%25E4%25BB%2596%25E6%25A0%2587%25E5%2587%2586%25E5%25BA%2593&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECBkQAQ",
+      "displayed_link": "https://cloud.tencent.com › developer",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0463038cff5fba68fadcfbe30f9f53ca56a.webp",
+      "snippet": "包含正则表达式库：在Arduino IDE的“工具”菜单中，选择“库管理器”，搜索并安装“ArduinoJson”库和“ESP8266WiFi”库。",
+      "snippet_highlighted_words": [
+        "正则",
+        "Arduino"
+      ],
+      "source": "腾讯云"
+    },
+    {
+      "position": 6,
+      "title": "Arduino 语法规则 - 代码酷",
+      "link": "https://www.echo.cool/docs/iot/arduino/arduino-base/arduino-syntax-rules/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.echo.cool/docs/iot/arduino/arduino-base/arduino-syntax-rules/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECA8QAQ",
+      "displayed_link": "https://www.echo.cool › arduino",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046687e4624620f05b999270ee7af05f64a.webp",
+      "snippet": "本文介绍了Arduino编程的基本语法规则，包括变量、函数、控制结构和注释的使用方法。掌握这些基本概念是编写Arduino程序的基础。通过实际案例，我们展示了如何将这些概念应用 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "echo.cool"
+    },
+    {
+      "position": 7,
+      "title": "arduino/Regexp/Regexp.ino at master · ZiTAL/arduino",
+      "link": "https://github.com/ZiTAL/arduino/blob/master/Regexp/Regexp.ino",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/ZiTAL/arduino/blob/master/Regexp/Regexp.ino&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECA4QAQ",
+      "displayed_link": "https://github.com › ZiTAL › arduino › blob › Regexp",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046e604df27f383dda9bfda952867bf1adb.png",
+      "snippet": "While the code is focused, press Alt+F1 for a menu of operations.",
+      "source": "GitHub"
+    },
+    {
+      "position": 8,
+      "title": "Arduino Regex - Syntax & Programs",
+      "link": "https://forum.arduino.cc/t/arduino-regex/46026",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/arduino-regex/46026&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCO0BEAE",
+      "displayed_link": "https://forum.arduino.cc › ... › Syntax & Programs",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046c82961ccaea11a0146554e9964618f20.webp",
+      "date": "Jan 17, 2011",
+      "snippet": "Regular expression parsing is not a trivial task. The Arduino (and, in general, C++) does not provide support for regular expression parsing.",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 9,
+      "title": "ARDUINO 正则表达式删除所有注释原创",
+      "link": "https://blog.csdn.net/qq_39239990/article/details/139790532",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.csdn.net/qq_39239990/article/details/139790532&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCO4BEAE",
+      "displayed_link": "https://blog.csdn.net › details",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046f78b90d57ac2d58277f605a6c532f3aa.png",
+      "date": "Jun 19, 2024",
+      "snippet": "arduino二维云台代码带注释，代码简单，注释还行，适合新手，例： void loop() { while(Serial.available() > 0) //当Serial.available()>0时，说明串口接收到了 ...",
+      "snippet_highlighted_words": [
+        "arduino"
+      ],
+      "source": "CSDN博客"
+    },
+    {
+      "position": 10,
+      "title": "Regular expressions - Programming",
+      "link": "https://forum.arduino.cc/t/regular-expressions/678871",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/regular-expressions/678871&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECDAQAQ",
+      "displayed_link": "https://forum.arduino.cc › Projects › Programming",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04620ac14c3efd87ea8ae7a9e02a1a04187.webp",
+      "date": "Oct 17, 2020",
+      "snippet": "I read multiple strings from a file, and need to send each message at an interval of 2 milliseconds. Tried that, not met my requirements.",
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 11,
+      "title": "如何在esp8266 Arduino中包含正则表达式和其他标准库",
+      "link": "https://cloud.tencent.com.cn/developer/information/%E5%A6%82%E4%BD%95%E5%9C%A8esp8266%20Arduino%E4%B8%AD%E5%8C%85%E5%90%AB%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%92%8C%E5%85%B6%E4%BB%96%E6%A0%87%E5%87%86%E5%BA%93",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cloud.tencent.com.cn/developer/information/%25E5%25A6%2582%25E4%25BD%2595%25E5%259C%25A8esp8266%2520Arduino%25E4%25B8%25AD%25E5%258C%2585%25E5%2590%25AB%25E6%25AD%25A3%25E5%2588%2599%25E8%25A1%25A8%25E8%25BE%25BE%25E5%25BC%258F%25E5%2592%258C%25E5%2585%25B6%25E4%25BB%2596%25E6%25A0%2587%25E5%2587%2586%25E5%25BA%2593&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCM8BEAE",
+      "displayed_link": "https://cloud.tencent.com.cn › 如何...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0466e52787c338bd0c12de21789d4413a67.webp",
+      "snippet": "包含正则表达式库：在Arduino IDE的“工具”菜单中，选择“库管理器”，搜索并安装“ArduinoJson”库和“ESP8266WiFi”库。 编写代码： ...",
+      "snippet_highlighted_words": [
+        "正则",
+        "Arduino"
+      ],
+      "source": "腾讯云"
+    },
+    {
+      "position": 12,
+      "title": "Arduino和布林運算：條件為真時永遠大於零！ – DevicePlus",
+      "link": "https://micro.rohm.com/tw/deviceplus/how-tos/arduino-guide/arduino-arduino-and-booleans-the-truth-is-greater-than-zero/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://micro.rohm.com/tw/deviceplus/how-tos/arduino-guide/arduino-arduino-and-booleans-the-truth-is-greater-than-zero/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCOYBEAE",
+      "displayed_link": "https://micro.rohm.com › how-tos",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0461271c46bd8134688270b502fc9937a4b.webp",
+      "date": "Jun 15, 2022",
+      "snippet": "目錄 1布林邏輯運算 1.1電晶體邏輯電路與二進位 2 示例 2.1邏輯運算子 2.2雙繼電器狀態機. 1 Arduino布林邏輯運算. 二進位和布林運算有時候看起來就像 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "ROHM Semiconductor"
+    },
+    {
+      "position": 13,
+      "title": "Arduino 作用域规则| 代码酷",
+      "link": "https://www.echo.cool/docs/iot/arduino/arduino-function/arduino-scope-rules/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.echo.cool/docs/iot/arduino/arduino-function/arduino-scope-rules/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCIgCEAE",
+      "displayed_link": "https://www.echo.cool › arduino",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046c7342992a7e3dc5bf181b80827917c44.webp",
+      "snippet": "在Arduino编程中，作用域规则决定了变量、函数和其他标识符在程序中的可见性和生命周期。理解作用域规则对于编写清晰、高效的代码至关重要。本文将详细介绍Arduino中的作用 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "echo.cool"
+    },
+    {
+      "position": 14,
+      "title": "Arduino—Wolfram 语言参考资料",
+      "link": "https://reference.wolfram.com/language/ref/device/Arduino.html.zh?source=footer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://reference.wolfram.com/language/ref/device/Arduino.html.zh%3Fsource%3Dfooter&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECDEQAQ",
+      "displayed_link": "https://reference.wolfram.com › ref",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046124589cf64057e1a6eaa8229556f7f90.webp",
+      "snippet": "val 值必须为0 或1，除非引脚n 支持脉宽调制(PWM). · DeviceWrite 也支持规则列表. · 引脚3、5、6、9、10 和11 支持PWM. 在这些引脚中，val 可以是任何介于0 和1 之间的实数，或 ...",
+      "source": "Wolfram: Computation Meets Knowledge"
+    },
+    {
+      "position": 15,
+      "title": "Arduino命令解析库(Commander)的使用和实现- Dapenson",
+      "link": "https://www.cnblogs.com/dapenson/p/17948970",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnblogs.com/dapenson/p/17948970&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECF4QAQ",
+      "displayed_link": "https://www.cnblogs.com › dapens...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046ff7f18af0b2301f1e14e3a78f938727d.webp",
+      "date": "Jan 6, 2024",
+      "snippet": "本文将介绍一个简单的Arduino命令解析库(Commander)，并提供使用示例、头文件和源文件。 内容摘自simpleFOC的Commander部分。",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "博客园"
+    },
+    {
+      "position": 16,
+      "title": "Standard c++ regex library in ESP32 - Programming",
+      "link": "https://forum.arduino.cc/t/standard-c-regex-library-in-esp32/947306",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/standard-c-regex-library-in-esp32/947306&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCJgBEAE",
+      "displayed_link": "https://forum.arduino.cc › Projects › Programming",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04630f2ca2788361bd7baebd3455423ec4d.webp",
+      "date": "Jan 15, 2022",
+      "snippet": "I use the c++ standard regex library in ESP32. When i use this code i get error message. Why? #include <regex> using namespace std; ...",
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 17,
+      "title": "Spresense Arduino Library 开发指南 - Developer World",
+      "link": "https://developer.sony.com/spresense/development-guides/arduino_developer_guide_zh.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.sony.com/spresense/development-guides/arduino_developer_guide_zh.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCNIBEAE",
+      "displayed_link": "https://developer.sony.com › ardui...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0466da54ab33193d923a0659703235071b3.png",
+      "snippet": "使用了Audio程序库的Sketch样例程序可在Arduino IDE中的文件→ 程序样例→ Spresense用Sketch程序样例Audio → application下找到。运行Audio相关的样例Sketch程序时，需要事先 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "Sony Developer World"
+    },
+    {
+      "position": 18,
+      "title": "How to write a function for a regular expression for arduino",
+      "link": "https://www.reddit.com/r/arduino/comments/svrjpw/how_to_write_a_function_for_a_regular_expression/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/arduino/comments/svrjpw/how_to_write_a_function_for_a_regular_expression/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCOoBEAE",
+      "displayed_link": "2 comments · 3 years ago",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046321f01e6f7d460e607c4513eec770330.webp",
+      "snippet": "I'm trying to write a function that return a string between two strings as an input, the function takes two strings and it outputs one string.",
+      "source": "Reddit · r/arduino"
+    },
+    {
+      "position": 19,
+      "title": "Solved: Build regular expression for serial data from Arduino.",
+      "link": "https://forums.ni.com/t5/LabVIEW/Build-regular-expression-for-serial-data-from-Arduino/td-p/3258589",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.ni.com/t5/LabVIEW/Build-regular-expression-for-serial-data-from-Arduino/td-p/3258589&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCIYCEAE",
+      "displayed_link": "https://forums.ni.com › LabVIEW › td-p",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046562a1657c1068364db43483a84ce4637.png",
+      "date": "Feb 25, 2016",
+      "snippet": "I have a few Arduinos board built into an extensive test setup that I am able to log data from. I now need to be able to see my data in real-time as it comes ...",
+      "source": "NI Community"
+    },
+    {
+      "position": 20,
+      "title": "Arduino开发实战指南：机器人卷(电子与嵌入式系统设计丛书) ...",
+      "link": "https://www.amazon.com/-/es/%E9%BB%84%E6%96%87%E6%81%BA-%E4%BC%8D%E5%86%AF%E6%B4%81-%E9%99%88%E8%99%B9-%E8%91%97-ebook/dp/B00LFJELS2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/-/es/%25E9%25BB%2584%25E6%2596%2587%25E6%2581%25BA-%25E4%25BC%258D%25E5%2586%25AF%25E6%25B4%2581-%25E9%2599%2588%25E8%2599%25B9-%25E8%2591%2597-ebook/dp/B00LFJELS2&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCKMCEAE",
+      "displayed_link": "https://www.amazon.com › 黄文...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046aff793e457a219f1f7c9c2864e2f7be8.webp",
+      "snippet": "本书将Arduino与机器人的开发相结合，注重实例，每一章都附有示例程序，方便学习者巩固每一章的知识。本书最后两章提供了两套采用3D打印制造的全新机器人的详细制作方法和竞赛 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 5.31,
+            "currency": "$"
+          },
+          "extensions": [
+            "$5.31"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 21,
+      "title": "A000066-datasheet.pdf",
+      "link": "https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLICEAE",
+      "displayed_link": "https://docs.arduino.cc › resources › datasheets",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046bd37453fa4cf3783362c409f6608b080.webp",
+      "date": "Apr 25, 2024",
+      "snippet": "本设备符合FCC 规则第15 部分的规定。操作须满⾜以下两个条件：. (1) 此设备不会造成有害⼲扰. (2) 此设备必须接受接收到的任何⼲扰，包括可能导致不良 ...",
+      "source": "Arduino Documentation"
+    },
+    {
+      "position": 22,
+      "title": "基于Arduino的动态位移实时采集系统及方法",
+      "link": "https://patents.google.com/patent/CN109099828B/zh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://patents.google.com/patent/CN109099828B/zh&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCM0BEAE",
+      "displayed_link": "https://patents.google.com › patent",
+      "snippet": "Arduino微控制器是基于Arduino开源软硬件开发平台的一种微控制器，具有与之 ... 正则化法(Tikhonov regularization)，或岭回归(Ridge regression)，最小化问题的 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "正则"
+      ],
+      "source": "Google Patents"
+    },
+    {
+      "position": 23,
+      "title": "Arduino实践第十五课：疯狂卡丁车",
+      "link": "https://xxjd.shnu.edu.cn/9f/7e/c28879a761726/page.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://xxjd.shnu.edu.cn/9f/7e/c28879a761726/page.htm&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECEYQAQ",
+      "displayed_link": "https://xxjd.shnu.edu.cn › page",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04629172117dfae7013bb92541be4e43b13.webp",
+      "date": "Apr 27, 2022",
+      "snippet": "课程简介：. 了解卡丁车的基本结构以及简单的交通规则。结合按钮模块和模拟角度传感器模块设计一款有趣的卡丁车游戏。 课程视频链接 ...",
+      "source": "上海师范大学"
+    },
+    {
+      "position": 24,
+      "title": "Arduino单片机高级开发:微课视频版 - 统一检索- 内蒙古科技大学",
+      "link": "https://library.imust.edu.cn/articlesearch/web_searchingDetail?id=2011044547641",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://library.imust.edu.cn/articlesearch/web_searchingDetail%3Fid%3D2011044547641&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECGMQAQ",
+      "displayed_link": "https://library.imust.edu.cn › web_...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0467f22cfc610a638cbd583c8eeec86cf98.png",
+      "snippet": "本书分为单片机基础与Arduino作品快速开发、Arduino的性能极限与高级开发两篇，共15章，主要内容包括：单片机基础、Arduino开源平台、简洁的Arduino语言、数字输入/ ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "内蒙古科技大学"
+    },
+    {
+      "position": 25,
+      "title": "Arduino Plugin | Connect | ProtoPie Guide",
+      "link": "https://www.protopie.io/learn/docs/zh/connect/arduino-plugin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.protopie.io/learn/docs/zh/connect/arduino-plugin&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECH8QAQ",
+      "displayed_link": "https://www.protopie.io › Learn",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046ffec2186ade043015bca54020bbd1af5.webp",
+      "snippet": "请留意，Arduino插件实际上可以与任何微控制器通过串口进行通信。例如，要使用ESP32微控制器，只需在连接ESP32控制器后选择适当的端口和波特率来打开ESP32的串口 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "ProtoPie"
+    },
+    {
+      "position": 26,
+      "title": "【繁體】Arduino軟硬體協調設計開發聖經 - 亚米",
+      "link": "https://www.yami.com/zh/p/arduino/3136136831",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yami.com/zh/p/arduino/3136136831&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCJkBEAE",
+      "displayed_link": "https://www.yami.com › arduino",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04674115c22a8b5e7adfcfe0e63c9260461.png",
+      "snippet": "【繁體】Arduino軟硬體協調設計開發聖經，品牌：金石堂，百科知识- 亚米。低价保证，100% 正品保证，品牌官方授权，最全最新亚洲商品，无忧售后。",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 32.12,
+            "currency": "$"
+          },
+          "extensions": [
+            "$32.12"
+          ]
+        }
+      },
+      "source": "Yami"
+    },
+    {
+      "position": 27,
+      "title": "Arduino - Arch Linux 中文维基",
+      "link": "https://wiki.archlinuxcn.org/wiki/Arduino",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wiki.archlinuxcn.org/wiki/Arduino&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLMBEAE",
+      "displayed_link": "https://wiki.archlinuxcn.org › wiki",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046bbc9fcf223c9d9f74ee9e1030a600a88.webp",
+      "date": "Feb 5, 2025",
+      "snippet": "要将Intel Galileo开发板与Arch Linux一起使用，请安装Arduino IDE，然后通过“工具->板->板管理器”下载Galileo工具包。 修复安装问题，请访问github。",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "Arch Linux CN"
+    },
+    {
+      "position": 28,
+      "title": "lesson3_arduino_ide.rst.txt",
+      "link": "https://docs.sunfounder.com/projects/galaxy-rvr/zh-cn/latest/_sources/lesson3_arduino_ide.rst.txt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.sunfounder.com/projects/galaxy-rvr/zh-cn/latest/_sources/lesson3_arduino_ide.rst.txt&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCM4BEAE",
+      "displayed_link": "https://docs.sunfounder.com › latest",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0468500bbe960a66ea015c46eda606efa08.webp",
+      "snippet": "* 安装Arduino IDE，并熟悉其界面。 * 学习Arduino 编程的基本语法规则。 课程材料-------------------- * SunFounder R3 控制板* Arduino IDE * USB 数据线* 计算机Arduino ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "SunFounder"
+    },
+    {
+      "position": 29,
+      "title": "ESP32+GC9A01之屏幕填充红蓝绿色规则网格",
+      "link": "https://makelog.dfrobot.com.cn/article-316657.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://makelog.dfrobot.com.cn/article-316657.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCOcBEAE",
+      "displayed_link": "https://makelog.dfrobot.com.cn › ar...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046f2ee1cd2a945b12fa0fb869c361a493d.webp",
+      "snippet": "【Arduino】189种传感器模块系列实验（资料代码+仿真编程+图形编程） 实验二百四十九：1.28寸圆形彩色TFT显示屏高清IPS模块240*240SPI接口GC9A01驱动 项目.",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "造物记"
+    },
+    {
+      "position": 30,
+      "title": "第21讲Arduino线路板绘制----PCB图绘制（7）(规则)",
+      "link": "https://www.bilibili.com/video/BV1Q4411d7BC/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bilibili.com/video/BV1Q4411d7BC/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCOgBEAE",
+      "displayed_link": "https://www.bilibili.com › video",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046f30bd5c27b871b35800b5fb6ae64f966.png",
+      "snippet": "第21讲Arduino线路板绘制----PCB图绘制（7）(规则), 视频播放量1438、弹幕量0、点赞数21、投硬币枚数9、收藏人数26、转发人数4, 视频作者海创电子, ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "B站"
+    },
+    {
+      "position": 31,
+      "title": "Arduino 相關",
+      "link": "https://hackmd.io/@Mix/r1wLpp-Du/%2FzYMVR6X7ROqTlgGa9xyVSQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hackmd.io/%40Mix/r1wLpp-Du/%252FzYMVR6X7ROqTlgGa9xyVSQ&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCIECEAE",
+      "displayed_link": "https://hackmd.io › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04663da0436b26f71eb63a14906470092e3.png",
+      "snippet": "Arduino 相關 · Android 相關. 其他. AI · Git · 資料結構與演算法_ · 領域驅動設計與簡潔架構 · 網路管理知識 · 正則表達式(regular expression) · HackMD · npm (nvm) ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "正則"
+      ],
+      "source": "HackMD"
+    },
+    {
+      "position": 32,
+      "title": "Arduino Framework .rules | Cursor中文网",
+      "link": "https://cursor.qiannianlu.com/rules/arduino-framework",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cursor.qiannianlu.com/rules/arduino-framework&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCIMCEAE",
+      "displayed_link": "https://cursor.qiannianlu.com › rules",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046658b3f7e6703ab4a7c9bd05af13efdfd.webp",
+      "snippet": "Arduino Framework 相关的提示规则集合，点击右上角复制按键即可复制使用.",
+      "snippet_highlighted_words": [
+        "Arduino Framework 相关的提示规则集合"
+      ],
+      "source": "qiannianlu.com"
+    },
+    {
+      "position": 33,
+      "title": "CN118095159B - 基于Arduino的电路仿真方法及仿真系统",
+      "link": "https://patents.google.com/patent/CN118095159B/zh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://patents.google.com/patent/CN118095159B/zh&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCIcCEAE",
+      "displayed_link": "https://patents.google.com › patent",
+      "snippet": "本申请涉及一种基于Arduino的电路仿真方法及仿真系统，所述方法包括获取电路设计信息，识别所述电路设计信息，获得Arduino配置参数和电路逻辑信息；根据所述Arduino配置 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "Google Patents"
+    },
+    {
+      "position": 34,
+      "title": "逻辑- 1.比较运算符",
+      "link": "https://mixly.readthedocs.io/zh-cn/latest/MicroPython/04Logic.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mixly.readthedocs.io/zh-cn/latest/MicroPython/04Logic.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCKICEAE",
+      "displayed_link": "https://mixly.readthedocs.io › latest",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0469a4fdc97e812bd8d5c9a84c37b894c5f.png",
+      "snippet": "等于符号用两个对象之间的比较，判断符号两侧的对象的数据值和数据类型是否相等。 1.1.2 规则¶. 如果两个数据值相等，且数据类型相同，则结果为True， ...",
+      "source": "Read the Docs"
+    },
+    {
+      "position": 35,
+      "title": "【Arduino】开发入门【七】7段显示器实现+源代码 - 手册网",
+      "link": "https://www.shouce.ren/api/view/a/11382",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shouce.ren/api/view/a/11382&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCKACEAE",
+      "displayed_link": "https://www.shouce.ren › api › view",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04643dd809dbb144504764cabc4786107b2.webp",
+      "snippet": "实现思路为将Arduino的3~10端口电位置为HIGH，通过调整3~9的电位值，来控制7段LED灯的亮和灭。 下面给出Arduino的输出端口对应的LED显示的数字. 通过设置上面对应的输出端口 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "shouce.ren"
+    },
+    {
+      "position": 36,
+      "title": "【JS】正则表达式的使用 - 快乐的回忆",
+      "link": "http://blog.iwwee.com/posts/js_re.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://blog.iwwee.com/posts/js_re.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLMCEAE",
+      "displayed_link": "http://blog.iwwee.com › js_re",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0467b4f402e7d2638cbb00f438cc0304dfd.png",
+      "date": "Sep 19, 2020",
+      "snippet": "简介正则表达式（Regular Expression，用来对单个字符串来描述、匹配一系列符合某个句法规则的字符串搜索模式。搜索模式可用于文本搜索和文本替换。",
+      "snippet_highlighted_words": [
+        "正则"
+      ],
+      "source": "iwwee.com"
+    },
+    {
+      "position": 37,
+      "title": "ARDUINO NANO 33 BLE SENSE ARDUINO - 开发工具",
+      "link": "https://www.tme.com/sg/zh/details/abx00031/arduinojie-jue-fang-an/arduino/arduino-nano-33-ble-sense/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tme.com/sg/zh/details/abx00031/arduinojie-jue-fang-an/arduino/arduino-nano-33-ble-sense/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLwCEAE",
+      "displayed_link": "https://www.tme.com › abx00031",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046de796a734d15e3a8af4c341ccbcf9127.webp",
+      "snippet": "开发工具类型. Arduino Pro ; 包装内容. 原型板 ; 元器件. ADPS9960, HTS221, LPS22HB, LSM9DS1, MP34DT05, nRF52840 ; 记忆. 96kB SRAM 256kB SRAM 1MB FLASH ; 时钟频率.",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "TME"
+    },
+    {
+      "position": 38,
+      "title": "Arduino语法-位运算- 爱折腾",
+      "link": "https://www.ncnynl.com/archives/201606/26.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncnynl.com/archives/201606/26.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECEkQAQ",
+      "displayed_link": "https://www.ncnynl.com › archives",
+      "snippet": "这用于Arduino与串口通讯，所以我们可能会干扰串口通讯。 我们的程序规则是： 仅仅获取和清除我们想控制的与相应引脚对应的位（使用按位与）。",
+      "snippet_highlighted_words": [
+        "仅仅获取和清除我们想控制的与相应引脚对应的位"
+      ],
+      "source": "创客智造"
+    },
+    {
+      "position": 39,
+      "title": "Arduino从入门到精通：创客必学的13个技巧",
+      "link": "https://www.amazon.com/-/es/%E7%BE%8E-%E7%BA%A6%E7%BF%B0%C2%B7%E7%99%BD%E8%B5%AB%E6%B3%B0%EF%BC%88John-Baichtal%EF%BC%89-%E7%BF%81%E6%81%BA/dp/B01MTKAPX2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/-/es/%25E7%25BE%258E-%25E7%25BA%25A6%25E7%25BF%25B0%25C2%25B7%25E7%2599%25BD%25E8%25B5%25AB%25E6%25B3%25B0%25EF%25BC%2588John-Baichtal%25EF%25BC%2589-%25E7%25BF%2581%25E6%2581%25BA/dp/B01MTKAPX2&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECEQQAQ",
+      "displayed_link": "https://www.amazon.com › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046a248d470092e94f7bfaa63acfffd06e0.webp",
+      "snippet": "本书主要内容包括：用面包板快速创建电路而不需要焊接；做出激光/红外阻断探测来保护你家不受入侵；用蓝牙和XBee来做门铃；从头写出有用的、可靠的Arduino程序；使用Arduino ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "Amazon.com"
+    },
+    {
+      "position": 40,
+      "title": "使用Arduino 进行位数学运算",
+      "link": "https://arduino.me/a/2925",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arduino.me/a/2925&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECEwQAQ",
+      "displayed_link": "https://arduino.me › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046c9d3781292d6ff128cca48a65de4d7c4.png",
+      "date": "May 20, 2024",
+      "snippet": "在本文中，我们首先探讨C++ 语言中可用的基本按位运算符。然后，我们将学习如何组合它们来执行某些常见的有用操作。本文基于CosineKitty 的位数学教程。",
+      "source": "Arduino中文社区"
+    },
+    {
+      "position": 41,
+      "title": "HelTecAutomation/Heltec_nRF52: Arduino source codes ...",
+      "link": "https://github.com/HelTecAutomation/Heltec_nRF52",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/HelTecAutomation/Heltec_nRF52&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECGQQAQ",
+      "displayed_link": "https://github.com › HelTecAutomation › Heltec_nRF52",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046ca2d954ab13cb7ece5c05607de0ba415.png",
+      "snippet": "由Heltec Automation制作的nRF52系列的Arduino源代码和工具链，包含一些基础代码，TFT和LoRa/LoRaWAN等相关示例。 内容. 说明; 安装指南; 编码规则; 问题讨论& BUG报告; 联系 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 42,
+      "title": "【ry】深入浅出Hyperscan：高性能正则表达式算法原理与设计 ...",
+      "link": "https://sg.world.taobao.com/item/937941813159.htm?spm=a21wu.24122187-sg/default.recommend-goods.6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sg.world.taobao.com/item/937941813159.htm%3Fspm%3Da21wu.24122187-sg/default.recommend-goods.6&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECHQQAQ",
+      "displayed_link": "https://sg.world.taobao.com › item",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046c5c32c0a38cc0353d4276d40bfb20293.webp",
+      "snippet": "... 正则表达式算法原理与设计，正：副书名：深入浅出Hyperscan ... 正版书籍米思齐实战手册Arduino图形化编程指南*本Mixly图书arduino编程入门教程 ...",
+      "snippet_highlighted_words": [
+        "正则",
+        "Arduino",
+        "arduino"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 80,
+            "currency": "¥"
+          },
+          "extensions": [
+            "¥80"
+          ]
+        }
+      },
+      "source": "Taobao Singapore | 淘宝"
+    },
+    {
+      "position": 43,
+      "title": "Arduino教程- W3xue",
+      "link": "https://www.w3xue.com/dynamic/arduino/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3xue.com/dynamic/arduino/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECHgQAQ",
+      "displayed_link": "https://www.w3xue.com › dynamic",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0465d49126b37b57c332c4d616adecc836e.webp",
+      "snippet": "正则表达式 · 网络协议 · 网站推广 · 计算机历史 · 更多 ». 课程表. Arduino首页. Arduino ... 然而，所有Arduino板都有一个共同点:它们通过Arduino IDE编程。 差异基于输入 ...",
+      "snippet_highlighted_words": [
+        "正则",
+        "Arduino",
+        "Arduino",
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "w3xue.com"
+    },
+    {
+      "position": 44,
+      "title": "如何调试Arduino 项目——编写Arduino 代码的更好方法",
+      "link": "https://zhuanlan.zhihu.com/p/559057219",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zhuanlan.zhihu.com/p/559057219&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECH4QAQ",
+      "displayed_link": "https://zhuanlan.zhihu.com › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046e555cb17bad87c5dd7874fcbb3c94431.png",
+      "date": "Aug 29, 2022",
+      "snippet": "正则表达式搜索和替换; 评论切换; 其他附加功能包括实时调试、自动完成、响应式界面和更快的编译时间。 Arduino IDE 的外部调试工具. 如果您手动检查代码 ...",
+      "snippet_highlighted_words": [
+        "正则",
+        "Arduino"
+      ],
+      "source": "知乎专栏"
+    },
+    {
+      "position": 45,
+      "title": "蓝桥杯青少年创意编程大赛(Arduino组)规则与样题",
+      "link": "http://www.china-scratch.com/news/8751",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.china-scratch.com/news/8751&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCJQBEAE",
+      "displayed_link": "http://www.china-scratch.com › news",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046d210d6f43179133bb47f419b1a0f2666.png",
+      "snippet": "蓝桥杯青少年创意编程大赛(Arduino组)规则与样题. 网友投稿 2019-10-09 14:21. 19-20学年度第十一届蓝桥杯大赛青少年组比赛，主要面向全国中小学生，设置 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "china-scratch.com"
+    },
+    {
+      "position": 46,
+      "title": "Arduino 基础语法",
+      "link": "https://getiot.tech/arduino/arduino-basic-syntax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://getiot.tech/arduino/arduino-basic-syntax/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCKQBEAE",
+      "displayed_link": "https://getiot.tech › arduino › ardu...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0462d7e68f895cd45f937317f9d6684fb60.webp",
+      "snippet": "... Arduino 语言，是指Arduino 核心库文件提供的各种应用程序编程接口（Application Programming Interface，简称API） ... 与许多编程语言类似，Arduino 的变量命名也遵循一些规则， ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "人人都懂物联网"
+    },
+    {
+      "position": 47,
+      "title": "No FFB on Arduino wheel? :: DiRT Rally 2.0 综合讨论",
+      "link": "https://steamcommunity.com/app/690790/discussions/0/2149847423930109430/?l=schinese",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://steamcommunity.com/app/690790/discussions/0/2149847423930109430/%3Fl%3Dschinese&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLABEAE",
+      "displayed_link": "https://steamcommunity.com › app",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046042b45290e6ef85bf87ad4a71e192273.webp",
+      "snippet": "... Arduino wheel can help me out? I really like this game but playing ... 讨论规则及指引. Steam 主页链接. 商店 · 主页 探索队列 愿望单 点数商店 新闻 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "Steam Community"
+    },
+    {
+      "position": 48,
+      "title": "Arduino创意案例编程入门与提高 - 统一检索- 内蒙古科技大学",
+      "link": "https://library.imust.edu.cn/articlesearch/web_searchingDetail?id=2011060283120",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://library.imust.edu.cn/articlesearch/web_searchingDetail%3Fid%3D2011060283120&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLIBEAE",
+      "displayed_link": "https://library.imust.edu.cn › web_...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046d4e374cf261fcd12a2b7213dea288abc.png",
+      "snippet": "借阅规则借阅办理微信借书 · 空间服务 · 自助文印服务知音阁多媒体阅览室RFID自助借还 ... 本书共36个案例,每个案例都从创作灵感、技术方案、程序设计、视野拓展等方面进行了 ...",
+      "source": "内蒙古科技大学"
+    },
+    {
+      "position": 49,
+      "title": "Arduino 教程",
+      "link": "https://www.w3cschool.cn/arduino/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3cschool.cn/arduino/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLUBEAE",
+      "displayed_link": "https://www.w3cschool.cn › arduino",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04660929440896233c028f0f8d0bbc2c301.webp",
+      "snippet": "然而，所有Arduino板都有一个共同点：它们通过Arduino IDE编程。 差异基于输入和 ... 正则工具. AI编程工具 更多 · Trae. 代码小浣熊. 星辰Agent. 通义灵码. 文心快码.",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "正则"
+      ],
+      "source": "W3Cschool.cn"
+    },
+    {
+      "position": 50,
+      "title": "arduino - IT伙伴-分享IT知识",
+      "link": "http://ithb.vip/t/arduino.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://ithb.vip/t/arduino.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCMsBEAE",
+      "displayed_link": "http://ithb.vip › arduino",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0460df98a06d15b1a7bb934114bd72b8c07.png",
+      "snippet": "... arduino uno概述Arduino UNO是基于ATmega328P的Arduino开发板。它有14个数字 ... 热门标签. pl2303 webstorm windws winrar 正则表达式 交换机配置命令 php 专业 ...",
+      "snippet_highlighted_words": [
+        "arduino",
+        "Arduino",
+        "Arduino",
+        "正则"
+      ],
+      "source": "ithb.vip"
+    },
+    {
+      "position": 51,
+      "title": "Arduino 熄灭的LED - W3xue",
+      "link": "https://www.w3xue.com/dynamic/arduino/arduino_fading_led.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3xue.com/dynamic/arduino/arduino_fading_led.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCNABEAE",
+      "displayed_link": "https://www.w3xue.com › arduino",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04642983ddd9c224aac76f0c447ee369673.webp",
+      "snippet": "正则表达式 · 网络协议 · 网站推广 · 计算机历史 · 更多 ». 课程表. Arduino首页. Arduino ... Arduino 熄灭的LED. 当前位置：免费教程 » 程序设计 » Arduino · 上一节: ...",
+      "snippet_highlighted_words": [
+        "正则",
+        "Arduino",
+        "Arduino",
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "w3xue.com"
+    },
+    {
+      "position": 52,
+      "title": "Arduino与机智云达成战略合作，共同服务IoT开发者 - C财经",
+      "link": "http://caijing.chinadaily.com.cn/2016-09/20/content_26846153.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://caijing.chinadaily.com.cn/2016-09/20/content_26846153.htm&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCNEBEAE",
+      "displayed_link": "http://caijing.chinadaily.com.cn › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0463fdea60701ead7f6977bc032b03697a3.webp",
+      "date": "Sep 20, 2016",
+      "snippet": "... Arduino 开发的设备的功能数据点，实现Arduino 设备上联网数据统计分析，在线升级和远程控制等智能功能，还可以充分利用机智云4.0规则引擎配置设备 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "China Daily"
+    },
+    {
+      "position": 53,
+      "title": "Arduino串口通信基础教程入门- 个人空间",
+      "link": "https://my.oschina.net/emacs_8898244/blog/17536978",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my.oschina.net/emacs_8898244/blog/17536978&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCNMBEAE",
+      "displayed_link": "https://my.oschina.net › blog",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04618f288eb5fa04fb18785d0ff10bb03f4.webp",
+      "date": "Feb 9, 2025",
+      "snippet": "它通过在数据位之后添加一个额外的位来确保传输的数据符合奇数或偶数个1的规则。 ... 首先，你需要一个Arduino开发板，如Arduino Uno、Arduino Mega或Arduino ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "OSCHINA"
+    },
+    {
+      "position": 54,
+      "title": "使用Arduino开发板时最常见的10个错误",
+      "link": "https://www.yiboard.com/thread-1019-1-1.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yiboard.com/thread-1019-1-1.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCOkBEAE",
+      "displayed_link": "https://www.yiboard.com › thread...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046a5f23050cb7dbd7962f892741d9f2826.png",
+      "date": "Nov 28, 2018",
+      "snippet": "Arduino IDE本身是用JAVA编写的，由于Arduino IDE提供的Java Run ... 在处理草图时，Arduino使用一些正则表达式进行处理，当遇到某些与字符串 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "Arduino",
+        "正则"
+      ],
+      "source": "yiboard.com"
+    },
+    {
+      "position": 55,
+      "title": "Arduino 语法手册",
+      "link": "https://emakefun-docs.readthedocs.io/zh-cn/latest/arduino/arduino/ArduinoGrammarHandbook.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://emakefun-docs.readthedocs.io/zh-cn/latest/arduino/arduino/ArduinoGrammarHandbook.pdf&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCOsBEAE",
+      "displayed_link": "https://emakefun-docs.readthedocs.io › arduino",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0463c1e25478c59b7df58dcc2da473f87d4.webp",
+      "snippet": "值的那个语句则永远为真。 这是因为C 语言按以下规则进行运算if (x=10)：10 赋值给x（只要非0 的数赋值 ...",
+      "source": "Read the Docs"
+    },
+    {
+      "position": 56,
+      "title": "向Arduino 和Raspberry Pi 开发板组合添加少许FPGA",
+      "link": "https://www.digikey.cn/zh/blog/add-a-dash-of-fpga-to-arduino-and-raspberry-pi-dev-board-mix",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.digikey.cn/zh/blog/add-a-dash-of-fpga-to-arduino-and-raspberry-pi-dev-board-mix&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCOwBEAE",
+      "displayed_link": "https://www.digikey.cn › blog › a...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0465c15da793481199aaab92f641c30050c.png",
+      "date": "Apr 11, 2019",
+      "snippet": "Arduino IDE 支持C 和C++ 语言，具备其独有的特殊代码结构规则。由于Arduino 概念得到了极大发展，较新的Arduino 型号已升级到基于32 位Arm® Cortex ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "digikey.cn"
+    },
+    {
+      "position": 57,
+      "title": "正则表达式必知必会(修订版)/图灵程序设计丛书",
+      "link": "https://www.taobao.com/list/item/737305256942.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taobao.com/list/item/737305256942.htm&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCIICEAE",
+      "displayed_link": "https://www.taobao.com › list › item",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04666af5ceadb556c6f148a7b5256fab96a.png",
+      "snippet": "1019上新. 物流服务4.9; 服务4.9; 商品描述4.9. 你可能还想找. tidb · arduino案例实战. 您的位置. 首页. > 书籍/杂志/报纸. > 计算机/网络. > 程序设计. 已经到底了. 自助 ...",
+      "snippet_highlighted_words": [
+        "arduino"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 26,
+            "currency": "¥"
+          },
+          "extensions": [
+            "¥26"
+          ]
+        }
+      },
+      "source": "Taobao"
+    },
+    {
+      "position": 58,
+      "title": "A000062-datasheet.pdf - Arduino® Due",
+      "link": "https://docs.arduino.cc/resources/datasheets/A000062-datasheet.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.arduino.cc/resources/datasheets/A000062-datasheet.pdf&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCIkCEAE",
+      "displayed_link": "https://docs.arduino.cc › resources › datasheets",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0469b90ad15e656fbb8677445d7df4e835e.webp",
+      "snippet": "Safety Note: Unlike most traditional Arduino boards, the Arduino Due board runs at 3.3 V. ... 注： 本设备已经过测试，符合FCC 规则第15 部分规定的B 类数字设备限值。",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "Arduino Documentation"
+    },
+    {
+      "position": 59,
+      "title": "WHADDA WPSH203 LCD and Keypad Shield for Arduino ...",
+      "link": "https://manuals.plus/zh-CN/whadda/wpsh203-lcd-and-keypad-shield-for-arduino-manual",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://manuals.plus/zh-CN/whadda/wpsh203-lcd-and-keypad-shield-for-arduino-manual&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCIUCEAE",
+      "displayed_link": "https://manuals.plus › zh-CN › wp...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04624c35fc6589e26203810ea51e36c0a8e.webp",
+      "snippet": "遵守当地的环境规则。 如果有疑问，请联系当地的废物处理部门。 感谢您选择Whadda！请在使用本设备前仔细阅读手册。如果设备在运输过程中受损，请勿安装或使用，并联系 ...",
+      "source": "Manuals+"
+    },
+    {
+      "position": 60,
+      "title": "arduino卡牌玩法规则质疑牌",
+      "link": "https://m.ixigua.com/zhuanti/7493631744839567411",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.ixigua.com/zhuanti/7493631744839567411&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCJICEAE",
+      "displayed_link": "https://m.ixigua.com › zhuanti",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04616b659d12a06ea2731f7d10b014d7ac7.png",
+      "date": "Apr 15, 2025",
+      "snippet": "您在查找“arduino卡牌玩法规则质疑牌”吗？西瓜视频为您提供海量优质视频信息，帮您找到更多精彩的视频内容！西瓜视频是一个开眼界、涨知识的视频平台， ...",
+      "snippet_highlighted_words": [
+        "arduino"
+      ],
+      "source": "西瓜视频"
+    },
+    {
+      "position": 61,
+      "title": "Arduino编程参考手册中文版",
+      "link": "https://wiki.dfrobot.com.cn/Arduino%E7%BC%96%E7%A8%8B%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wiki.dfrobot.com.cn/Arduino%25E7%25BC%2596%25E7%25A8%258B%25E5%258F%2582%25E8%2580%2583%25E6%2589%258B%25E5%2586%258C&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCKECEAE",
+      "displayed_link": "https://wiki.dfrobot.com.cn › Ardui...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0468369e20e06a44b682bb50d5cc58b6bc8.webp",
+      "snippet": "这用于Arduino与串口通讯，所以我们可能会干扰串口通讯。 我们的程序规则是： 仅仅获取和清除我们想控制的与相应引脚对应的位（使用按位与）。",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "DFRobot WIKI CN"
+    },
+    {
+      "position": 62,
+      "title": "TAI 智能车实践赛项目规则",
+      "link": "http://ytskjg.cn/static/upload/file/20240403/1712130555168820.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://ytskjg.cn/static/upload/file/20240403/1712130555168820.pdf&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCJ8CEAE",
+      "displayed_link": "http://ytskjg.cn › static › upload › file",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04661b821155eab4db85454d7b1b82bb103.jpeg",
+      "snippet": "主板：可采用Arduino Uno、Arduino Nano、Arduino Pro Mini、. Arduino Mega2560 或其兼容款作为智能车模型中唯一可编程控制器件。 电源：每台智能车必须自带独立电池 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "ytskjg.cn"
+    },
+    {
+      "position": 63,
+      "title": "类",
+      "link": "http://www.lalafell.cn/tags/?tag=%E7%B1%BB%E7%9A%84%E5%B1%9E%E6%80%A7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.lalafell.cn/tags/%3Ftag%3D%25E7%25B1%25BB%25E7%259A%2584%25E5%25B1%259E%25E6%2580%25A7&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCJ4CEAE",
+      "displayed_link": "http://www.lalafell.cn › tags",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046ff47fef093372921f5172f4213a34efe.png",
+      "snippet": "反思 梦 垫底辣妹 写诗 随笔 思考 无常 许嵩 辩论 Arduino 智能应用 机械臂 ... 正则匹配 Zabbix 用户管理 Pod kubectl 集群管理 资源对象 标签 Flake8安装 类型 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "正则"
+      ],
+      "source": "lalafell.cn"
+    },
+    {
+      "position": 64,
+      "title": "Arduino | 原型板; 元器件: SAM3X8E; I/O 线路led 到金色引脚 ...",
+      "link": "https://www.tme.com/sg/zh/details/a000062/arduinojie-jue-fang-an/arduino/arduino-due/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tme.com/sg/zh/details/a000062/arduinojie-jue-fang-an/arduino/arduino-due/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLECEAE",
+      "displayed_link": "https://www.tme.com › details › ar...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0467c0f5270671eb956a37c1160fbf9c791.webp",
+      "snippet": "查看此类别中的其他产品: Arduino解决方案ARDUINO, Arduino ARDUINO. * 所有价格都 ... 简报规则 撤销. 我订阅. 加入我们. 关于我们. 了解我们 · TME集团 · 目录 · 职业 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "ARDUINO",
+        "Arduino ARDUINO"
+      ],
+      "source": "TME"
+    },
+    {
+      "position": 65,
+      "title": "如何用arduino编译一个模糊逻辑控制器",
+      "link": "https://docs.pingcode.com/ask/302720.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.pingcode.com/ask/302720.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCL0CEAE",
+      "displayed_link": "https://docs.pingcode.com › ask",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0467de1cc4c6cc7ba5875de5be9275476dd.png",
+      "date": "May 20, 2024",
+      "snippet": "一、安装模糊逻辑库 · 二、定义输入输出变量 · 三、设置隶属度函数 · 四、创建规则集 · 五、模糊推理和去模糊化 · 六、编写Arduino代码 · 七、测试与调试 · 总结.",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "PingCode"
+    },
+    {
+      "position": 66,
+      "title": "Linux 端上传Arduino 程序 - tan's blog",
+      "link": "https://blog.libcore.org/191/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.libcore.org/191/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCMICEAE",
+      "displayed_link": "https://blog.libcore.org › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04683a4ba0b01c11359084ab7a3fbad7f71.png",
+      "date": "Mar 31, 2017",
+      "snippet": "如果您遇到了相同问题，请尝试加入 dialout 组( usermod -aG dialout $USER ) 或者编写udev 规则。 在Linux 上使用Arduino(IDE) 上传程序会报错，譬如 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "libcore.org"
+    },
+    {
+      "position": 67,
+      "title": "「雕爷学编程」Arduino动手做（09）——火焰传感器模块",
+      "link": "https://zhuanlan.zhihu.com/p/103020176",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zhuanlan.zhihu.com/p/103020176&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCMMCEAE",
+      "displayed_link": "https://zhuanlan.zhihu.com › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046b246a4f8138488f9d40c5d0bc229f9d8.png",
+      "date": "Jan 16, 2020",
+      "snippet": "自然界中的一切物体，只要它的温度高于绝对零度(-273)就存在分子和原子的无规则运动，其表面就会不停的辐射红外线。当然了，虽然是都辐射红外线，但是 ...",
+      "source": "知乎专栏"
+    },
+    {
+      "position": 68,
+      "title": "arduino:int & double 转string 适合12864下使用",
+      "link": "https://developer.aliyun.com/article/372647",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.aliyun.com/article/372647&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCMECEAE",
+      "displayed_link": "https://developer.aliyun.com › article",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0469b4da366d86be8ffc4394711b16e9dbc.webp",
+      "snippet": "在Java中将非数字字符串转换为整数会导致`NumberFormatException`。要解决这个问题，可以使用`try-catch`捕获异常，正则表达式验证数字格式，或利用异常信息提供错误提示。",
+      "snippet_highlighted_words": [
+        "正则"
+      ],
+      "source": "阿里云开发者社区"
+    },
+    {
+      "position": 69,
+      "title": "UNO规则-哔哩哔哩_Bilibili",
+      "link": "https://m.bilibili.com/search?keyword=UNO%E8%A7%84%E5%88%99",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.bilibili.com/search%3Fkeyword%3DUNO%25E8%25A7%2584%25E5%2588%2599&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECEgQAQ",
+      "displayed_link": "https://m.bilibili.com › search",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046a2f31e296a322a6e2fb3104c2dc23e68.png",
+      "snippet": "《UNO》乌诺优诺基础规则教学 · 【桌游教学｜UNO】官方规则！ · UNO一起优诺游戏规则介绍 · 第36期《Arduino入门》筑基篇02：初识Arduino UNO · 【UNO】全玩法教程（高级规则篇）.",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "B站"
+    },
+    {
+      "position": 70,
+      "title": "ABX00083-datasheet.pdf",
+      "link": "https://docs.arduino.cc/resources/datasheets/ABX00083-datasheet.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.arduino.cc/resources/datasheets/ABX00083-datasheet.pdf&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECEUQAQ",
+      "displayed_link": "https://docs.arduino.cc › resources › datasheets",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0461f5a3fb3dac1e9bc19155bf8f4dd59d2.webp",
+      "snippet": "注: 本设备已经过测试，符合FCC 规则第15 部分对B 类数字设备的限制。 这些限制旨在为住宅安装提供合理保护，防⽌. 有害⼲扰。本设备会产⽣、使⽤和辐射射频能量，如果 ...",
+      "source": "Arduino Documentation"
+    },
+    {
+      "position": 71,
+      "title": "arduino卡牌游戏规则",
+      "link": "https://www.douyin.com/search/arduino%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.douyin.com/search/arduino%25E5%258D%25A1%25E7%2589%258C%25E6%25B8%25B8%25E6%2588%258F%25E8%25A7%2584%25E5%2588%2599&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECEMQAQ",
+      "displayed_link": "https://www.douyin.com › search › arduino卡牌游戏规则",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046bfc62b0f51cb1aae284886d36cd1041a.png",
+      "snippet": "您在查找arduino卡牌游戏规则吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线观看需求。",
+      "snippet_highlighted_words": [
+        "arduino"
+      ],
+      "source": "抖音"
+    },
+    {
+      "position": 72,
+      "title": "求正则表达式替换#ifdef ... #endif之间的内容",
+      "link": "https://segmentfault.com/q/1010000040009415",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://segmentfault.com/q/1010000040009415&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECEsQAQ",
+      "displayed_link": "https://segmentfault.com › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046d1dd541a5fdec7aa1deaff8a2f9159eb.webp",
+      "date": "May 16, 2021",
+      "snippet": "#ifdef AVRTARGET #define CPU_MAP_ATMEGA328P // Arduino Uno CPU #endif #ifdef STM32F103C8 //#define CPU_MAP_STM32F103 #endif. 如果按照正则 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "正则"
+      ],
+      "source": "SegmentFault 思否"
+    },
+    {
+      "position": 73,
+      "title": "Arduino编程参考手册 - YwRobot Studio Wiki",
+      "link": "http://wiki.ywrobot.net/index.php?title=Arduino%E7%BC%96%E7%A8%8B%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://wiki.ywrobot.net/index.php%3Ftitle%3DArduino%25E7%25BC%2596%25E7%25A8%258B%25E5%258F%2582%25E8%2580%2583%25E6%2589%258B%25E5%2586%258C&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECGIQAQ",
+      "displayed_link": "http://wiki.ywrobot.net › title=Ardu...",
+      "date": "Apr 25, 2016",
+      "snippet": "事实上右移规则对于无符合整型表达式是不同的。所以你可以使用强制类型转换来避免左边移入1。 int x = -16; // binary: 1111111111110000 int y ...",
+      "source": "ywrobot.net"
+    },
+    {
+      "position": 74,
+      "title": "js简单递归",
+      "link": "https://juejin.cn/post/7082353994546282504",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://juejin.cn/post/7082353994546282504&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECGEQAQ",
+      "displayed_link": "https://juejin.cn › 前端",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046900f54d0b30fe89d89861089734095dc.webp",
+      "date": "Apr 3, 2022",
+      "snippet": "highlight: arduino-light --- ```js //1.斐波那契 / ... 评论. JavaScript ECMAScript 6 · 正则表达式笔记（一）：字符匹配 · --- ...",
+      "snippet_highlighted_words": [
+        "arduino",
+        "正则"
+      ],
+      "source": "掘金"
+    },
+    {
+      "position": 75,
+      "title": "Project Arduino - Edition 2016",
+      "link": "https://www.agorize.com/zh/challenges/thalesarduino/agreements",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.agorize.com/zh/challenges/thalesarduino/agreements&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECF8QAQ",
+      "displayed_link": "https://www.agorize.com › challenges",
+      "snippet": "Project Arduino - Edition 2016. Représentez la France au concours Thales ... 规则. Règlement du challenge. Cliquez pour consulter le réglement : Règlement ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "Agorize"
+    },
+    {
+      "position": 76,
+      "title": "Arduino模拟信号的校准编程效果解读",
+      "link": "https://jingyan.baidu.com/article/425e69e6180166be15fc161a.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jingyan.baidu.com/article/425e69e6180166be15fc161a.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECGAQAQ",
+      "displayed_link": "https://jingyan.baidu.com › article",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046453d881bd11ee1f6c678a747f48cc75b.webp",
+      "date": "Oct 18, 2018",
+      "snippet": "Arduino模拟信号的校准编程效果解读. 养成教育知识分享驿站. 2018-10 ... 制定校准的规则，如图所示 · 5/7. 读取传感器的值 · 6/7. 映射传感器校准的值 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "百度经验"
+    },
+    {
+      "position": 77,
+      "title": "Arduino 字符串",
+      "link": "https://www.w3cschool.cn/arduino/arduino_strings.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3cschool.cn/arduino/arduino_strings.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECHwQAQ",
+      "displayed_link": "https://www.w3cschool.cn › arduino",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04664c9eda0135d3355f829f2da70342657.webp",
+      "date": "Nov 8, 2018",
+      "snippet": "... Arduino的键盘上键入的字符。在Arduino编程中有两种类型的字符串：字符数组，与C编程中使用的字符串相同。Arduino ... 正则工具. AI编程工具 更多 · Trae.",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "Arduino",
+        "正则"
+      ],
+      "source": "编程狮"
+    },
+    {
+      "position": 78,
+      "title": "Arduino权威指南（第2版） - 亚米",
+      "link": "https://www.yami.com/zh/p/arduino-2/3118204111",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yami.com/zh/p/arduino-2/3118204111&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECHkQAQ",
+      "displayed_link": "https://www.yami.com › arduino-2",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0467784d9f3ae60fcae1aee70bac8cb1901.png",
+      "snippet": "Arduino权威指南（第2版），品牌：京东图书，单片机与嵌入式- 亚米。低 ... 规则说明. 礼卡专享价是部分商品拥有的特殊优惠价格；. 购买礼卡专享价商品时，若在 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 47.08,
+            "currency": "$"
+          },
+          "extensions": [
+            "$47.08"
+          ]
+        }
+      },
+      "source": "Yami"
+    },
+    {
+      "position": 79,
+      "title": "unity和单片机通讯arduino与unity交互 - 51CTO博客",
+      "link": "https://blog.51cto.com/u_16099253/10009036",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.51cto.com/u_16099253/10009036&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECHsQAQ",
+      "displayed_link": "https://blog.51cto.com › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04671a576104b448a1ac6a28bf4eda3e12b.webp",
+      "date": "Mar 11, 2024",
+      "snippet": "解决方案:后建立缓冲区，并且分割字符串，进行传输。使用正则表达式分离字符串和数据而后转为数组：动态的数据是一个瀑布流，在做split操作的时候，我们是有 ...",
+      "snippet_highlighted_words": [
+        "正则"
+      ],
+      "source": "51CTO博客"
+    },
+    {
+      "position": 80,
+      "title": "arduinoで正規表現",
+      "link": "https://qiita.com/numeru55/items/2d3c02bf631eb3d707b2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://qiita.com/numeru55/items/2d3c02bf631eb3d707b2&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECHoQAQ",
+      "displayed_link": "https://qiita.com › Arduino",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046b0b62d3e89a26a80879c406d566f37d6.png",
+      "date": "Jan 6, 2020",
+      "snippet": "環境. Arduino 1.8.10 on Mac; Beetle（Leonardo互換機）. 準備. ライブラリマネージャ にて， regexp ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "Qiita"
+    },
+    {
+      "position": 81,
+      "title": "Books - 计算机科学",
+      "link": "http://106.13.34.177:8083/stackoverflow.com/pubold/1/12",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://106.13.34.177:8083/stackoverflow.com/pubold/1/12&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECH0QAQ",
+      "displayed_link": "http://106.13.34.177 › pubold",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046826818261325f30ffa3b3812d69c5fdd.webp",
+      "snippet": "精通正则表达式（第3版） · 余晟 · 文字版 (1).",
+      "snippet_highlighted_words": [
+        "正则"
+      ],
+      "source": "106.13.34"
+    },
+    {
+      "position": 82,
+      "title": "赛项报名 - 全国青少年信息素养大赛",
+      "link": "https://ceic.kpcb.org.cn/comp/enrollMatch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ceic.kpcb.org.cn/comp/enrollMatch&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCJEBEAE",
+      "displayed_link": "https://ceic.kpcb.org.cn › enrollMatch",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04685634959a3b8cf356c5564640a384c42.webp",
+      "snippet": "... Arduino/ESP32/海思）自行设计制作。竞赛内容分为现场比赛和技术笔试两部分。现场比赛部分，参赛选手使用自行设计制作的智能运输器在规定的比赛时间内，采取自动的方式 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "全国青少年信息素养大赛"
+    },
+    {
+      "position": 83,
+      "title": "2020年07月23日| AVR开发Arduino方法(一) 端口子系统",
+      "link": "https://www.eeworld.com.cn/mcu/hisic504204.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eeworld.com.cn/mcu/hisic504204.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCJUBEAE",
+      "displayed_link": "https://www.eeworld.com.cn › mcu",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046e09715779b044a73cc4cc3b4e0d8811d.webp",
+      "date": "18 hours ago",
+      "snippet": "Arduino UNO R3使用的主处理器ATMega328P ... 决策树与集成学习学习决策树的构建过程和决策规则。了解集成学习方法，如 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "电子工程世界（EEWorld）"
+    },
+    {
+      "position": 84,
+      "title": "千锋Python教程：135 正则表达式_第2节",
+      "link": "https://www.elecfans.com/v/424010/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.elecfans.com/v/424010/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCJMBEAE",
+      "displayed_link": "https://www.elecfans.com › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046ce3002ac7544c42d4c83349c1020bd2e.webp",
+      "snippet": "... ，推荐千锋Python教程：135 正则 ... 使用C++ 改进您的Arduino 代码- 解释继承和组合# ESP32. 莫狄. python,编程 ...",
+      "snippet_highlighted_words": [
+        "正则",
+        "Arduino"
+      ],
+      "source": "电子发烧友网"
+    },
+    {
+      "position": 85,
+      "title": "DuinoPack首页、文档和下载- Arduino增强修改版",
+      "link": "https://www.oschina.net/p/duinopack",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oschina.net/p/duinopack&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCKUBEAE",
+      "displayed_link": "https://www.oschina.net › duinopa...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046db1f34c6f8912683284ea98b50b9bfd4.webp",
+      "date": "Dec 4, 2014",
+      "snippet": "Arduino 增强修改版 DuinoPack · 开源硬件. 当前内容疑似存在违反社区规则内容。 请求查看. 授权协议: 未知. 开发语言: C/C++ 查看源码». 操作系统: 嵌入 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "OSCHINA"
+    },
+    {
+      "position": 86,
+      "title": "436 正则表达式常见的功能匹配",
+      "link": "https://www.elecfans.com/v/411519/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.elecfans.com/v/411519/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCK0BEAE",
+      "displayed_link": "https://www.elecfans.com › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0469f91d7cfad7d906fe9934ec91953e247.webp",
+      "snippet": "158.158 尚硅谷SparkSQL 核心编程DataFrame DSL语法的基本使. 充八万. 物联网,单片机,代码. 1760 283. 使用C++ 改进您的Arduino 代码- 解释继承和组合# ESP32.",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "电子发烧友网"
+    },
+    {
+      "position": 87,
+      "title": "A000005-datasheet.pdf",
+      "link": "https://docs.arduino.cc/resources/datasheets/A000005-datasheet.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.arduino.cc/resources/datasheets/A000005-datasheet.pdf&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLEBEAE",
+      "displayed_link": "https://docs.arduino.cc › resources › datasheets",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04660497a377f7d04c43fff1fe994a074e8.webp",
+      "snippet": "硬件兼容Arduino IDE、Arduino CLI 和⽹络编辑器。 安全性：⾼性能和低功耗的 ... 本设备符合FCC 规则第15 部分的规定。操作须满⾜以下两个条件：. (1) 此设备不会 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "Arduino Documentation"
+    },
+    {
+      "position": 88,
+      "title": "《动手玩转Arduino》——2.2 看一下Arduino IDE",
+      "link": "https://developer.aliyun.com/article/100040",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.aliyun.com/article/100040&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLQBEAE",
+      "displayed_link": "https://developer.aliyun.com › article",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046c18bda1d30405f93a00901c1e3e60261.webp",
+      "snippet": "具体规则请查看《 阿里云开发者社区用户服务协议》和《阿里云开发者社区知识产权保护指引》。如果您发现本社区中有涉嫌抄袭的内容，填写侵权投诉表单进行举报，一经 ...",
+      "source": "阿里云开发者社区"
+    },
+    {
+      "position": 89,
+      "title": "arduino卡牌玩法规则加颜色要相同",
+      "link": "https://www.douyin.com/search/arduino%E5%8D%A1%E7%89%8C%E7%8E%A9%E6%B3%95%E8%A7%84%E5%88%99%E5%8A%A0%E9%A2%9C%E8%89%B2%E8%A6%81%E7%9B%B8%E5%90%8C",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.douyin.com/search/arduino%25E5%258D%25A1%25E7%2589%258C%25E7%258E%25A9%25E6%25B3%2595%25E8%25A7%2584%25E5%2588%2599%25E5%258A%25A0%25E9%25A2%259C%25E8%2589%25B2%25E8%25A6%2581%25E7%259B%25B8%25E5%2590%258C&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLcBEAE",
+      "displayed_link": "https://www.douyin.com › search › arduino卡牌玩法规...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046141034bf62e1e859907c90db00a7d19b.png",
+      "snippet": "您在查找arduino卡牌玩法规则加颜色要相同吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线 ...",
+      "snippet_highlighted_words": [
+        "arduino"
+      ],
+      "source": "抖音"
+    },
+    {
+      "position": 90,
+      "title": "Tag: RegExp | 快乐的回忆",
+      "link": "http://blog.iwwee.com/tags/RegExp/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://blog.iwwee.com/tags/RegExp/index.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCLYBEAE",
+      "displayed_link": "http://blog.iwwee.com › tags › Re...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04605b07e93d0d50ffe568f440c10297815.png",
+      "snippet": "Arduino · js · tracking · Hexo · JS · RegExp · vue · nginx · ngrok · natapp · 易班 · Chrome · debugger · TCP · wxapp. 2020-09-19. 【JS】正则表达式的使用 · JS ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "正则"
+      ],
+      "source": "iwwee.com"
+    },
+    {
+      "position": 91,
+      "title": "序言· OpenMV中文入门教程",
+      "link": "https://book.openmv.cc/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://book.openmv.cc/&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCMgBEAE",
+      "displayed_link": "https://book.openmv.cc",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046a895db3d5169a86213728a6beb109593.webp",
+      "snippet": "字符串/json/正则 · 串口通信上 · 串口通信下 · wifi通信 · 手动写一个模块 · 第一个类 · 手动写 ... 00-Arduino. arduino_i2c_slave · arduino_spi_slave · arduino_uart.",
+      "snippet_highlighted_words": [
+        "正则",
+        "Arduino"
+      ],
+      "source": "星瞳科技"
+    },
+    {
+      "position": 92,
+      "title": "举例说明Arduino中使用的不同类型的字符函数",
+      "link": "https://juejin.cn/post/7119665529119309860",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://juejin.cn/post/7119665529119309860&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCMwBEAE",
+      "displayed_link": "https://juejin.cn › 代码人生",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046d7175e2a3e5a44b4ec3294ac4ddc8b64.webp",
+      "date": "Jul 12, 2022",
+      "snippet": "这些函数用于确定使用什么类型的字符，或者是数字或字母。 Arduino中的字符函数由于Arduino ... 使用正则表达式验证字符串使用regexp包中的Match函数： Match ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "正则"
+      ],
+      "source": "掘金"
+    },
+    {
+      "position": 93,
+      "title": "Arduino® Mega 2560 Rev3",
+      "link": "https://docs.arduino.cc/resources/datasheets/A000067-datasheet.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.arduino.cc/resources/datasheets/A000067-datasheet.pdf&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoFCJcBEAE",
+      "displayed_link": "https://docs.arduino.cc › A000067-datasheet",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046f484744a924ebb09f5e460dd6e3deb36.webp",
+      "snippet": "与Arduino 的其他开发板相⽐，Arduino® Mega 2560 Rev3 是⼀款⽤于构建⼴泛应 ... 本设备符合FCC 规则第15 部分的规定。操作须满⾜以下两个条件：. (1) 此设备不会 ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "Arduino Docs"
+    },
+    {
+      "position": 94,
+      "title": "用Arduino编写W800_ARDUINO_V4.0 - 51CTO博客",
+      "link": "https://blog.51cto.com/u_15950621/12708530",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.51cto.com/u_15950621/12708530&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECC0QAQ",
+      "displayed_link": "https://blog.51cto.com › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f04679be0a16670940906535863db3ca596b.webp",
+      "date": "Dec 1, 2024",
+      "snippet": "游戏规则扫雷游戏的基本规则如下：游戏在一个矩阵中进行，玩家可以选择 ... 【arduino】用VSCode替代Arduino编辑器,arduino VSCode编辑器.",
+      "snippet_highlighted_words": [
+        "arduino",
+        "Arduino",
+        "arduino"
+      ],
+      "source": "51CTO博客"
+    },
+    {
+      "position": 95,
+      "title": "大鱼机器人专栏-面包芯语",
+      "link": "https://www.eet-china.com/mp/u3895624",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eet-china.com/mp/u3895624&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECC4QAQ",
+      "displayed_link": "https://www.eet-china.com › ...",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046a9ac67d519fd33bcaef1a652a4a18713.png",
+      "snippet": "这么多32位单片机，你用过哪些？ 大鱼机器人 2025-06-09 363浏览. 收藏！STM32 芯片命名规则 ... arduino是垃圾？STM32更厉害？！ 01 今天在知乎上看到一个这样的观点：关于 ...",
+      "snippet_highlighted_words": [
+        "arduino"
+      ],
+      "source": "Eet-china"
+    },
+    {
+      "position": 96,
+      "title": "ABX00087-datasheet.pdf",
+      "link": "https://docs.arduino.cc/resources/datasheets/ABX00087-datasheet.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.arduino.cc/resources/datasheets/ABX00087-datasheet.pdf&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECCwQAQ",
+      "displayed_link": "https://docs.arduino.cc › resources › datasheets",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f0469481afefbb83a05e523d6b7d25c4cb9e.webp",
+      "date": "Jan 1, 2023",
+      "snippet": "注： 本设备已经过测试，符合FCC规则第15部分规定的B类数字设备的限制。这些限制旨在为居住安装提供合理的防⽌有害. ⼲扰的保护。本设备产⽣、使⽤和 ...",
+      "source": "Arduino Documentation"
+    },
+    {
+      "position": 97,
+      "title": "打破游戏规则！用Arduino创建鼠标模拟器作弊教程",
+      "link": "https://www.toolify.ai/zh/ai-news-cn/%E6%89%93%E7%A0%B4%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99%E7%94%A8arduino%E5%88%9B%E5%BB%BA%E9%BC%A0%E6%A0%87%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BD%9C%E5%BC%8A%E6%95%99%E7%A8%8B-2206526",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.toolify.ai/zh/ai-news-cn/%25E6%2589%2593%25E7%25A0%25B4%25E6%25B8%25B8%25E6%2588%258F%25E8%25A7%2584%25E5%2588%2599%25E7%2594%25A8arduino%25E5%2588%259B%25E5%25BB%25BA%25E9%25BC%25A0%25E6%25A0%2587%25E6%25A8%25A1%25E6%258B%259F%25E5%2599%25A8%25E4%25BD%259C%25E5%25BC%258A%25E6%2595%2599%25E7%25A8%258B-2206526&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECCoQAQ",
+      "displayed_link": "https://www.toolify.ai › ai-news-cn",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046d66d4dbced9d3869b2bcbc47b83d1204.webp",
+      "date": "Mar 3, 2024",
+      "snippet": "在这个视频教程中，我们将通过使用Arduino和Pyserial来创建一个鼠标模拟器，用于游戏作弊。了解如何绕过反作弊机制，实现准确的鼠标移动。",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "Toolify.ai"
+    },
+    {
+      "position": 98,
+      "title": "Arduino® UNO R4 Minima",
+      "link": "https://docs.arduino.cc/resources/datasheets/ABX00080-datasheet.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.arduino.cc/resources/datasheets/ABX00080-datasheet.pdf&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECCsQAQ",
+      "displayed_link": "https://docs.arduino.cc › ABX00080-datasheet",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046fe8253ec6b0f50147ba1a16d753352e8.webp",
+      "snippet": "任何未经合规责任⽅明确批准的更改或修改可能会使⽤⼾操作设备的权限⽆效。 本设备符合FCC 规则第15 部分。操作受以下两个条件限制：. (1) 此设备可能不会造成 ...",
+      "source": "Arduino Documentation"
+    },
+    {
+      "position": 99,
+      "title": "国内有哪些知名的硬件设计培训机构？",
+      "link": "https://www.fanyedu.com/content/121555.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fanyedu.com/content/121555.html&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0QFnoECC8QAQ",
+      "displayed_link": "https://www.fanyedu.com › content",
+      "favicon": "https://serpapi.com/searches/6881b422bdfe4909b69a4166/images/1f3a0a0df6415919baeefb547033f046d3546847e9f397cefa40415056f1fd4f.png",
+      "date": "6 days ago",
+      "snippet": "主打高性价比在线课程，提供Arduino、树莓派等开源硬件开发入门指导 ... 规则的紧急通知》。根据海关总署的相关规定，“集成电路”原产地按照四位 ...",
+      "snippet_highlighted_words": [
+        "Arduino"
+      ],
+      "source": "凡亿教育"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=arduino+%E6%AD%A3%E5%88%99&num=100&sca_esv=5f46ff70bad680f2&gl=us&hl=en&ei=JrSBaMmqD5qvqtsP4Kv16AE&start=100&sa=N&sstk=Ac65TH7Z7A4TcmexN5xXpW7pi_34WRSF0ELr8GCyaW076gmZpv1udb09U42CW5ZRDLSIte_65raSSE5i16eVsfL9SYGzV5RGHTMb-A&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0Q8NMDegQICBAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=arduino+%E6%AD%A3%E5%88%99&num=100&sca_esv=5f46ff70bad680f2&gl=us&hl=en&ei=JrSBaMmqD5qvqtsP4Kv16AE&start=100&sa=N&sstk=Ac65TH7Z7A4TcmexN5xXpW7pi_34WRSF0ELr8GCyaW076gmZpv1udb09U42CW5ZRDLSIte_65raSSE5i16eVsfL9SYGzV5RGHTMb-A&ved=2ahUKEwjJ1fL40dSOAxWal2oFHeBVHR0Q8tMDegQICBAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=arduino+%E6%AD%A3%E5%88%99&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=arduino+%E6%AD%A3%E5%88%99&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=arduino+%E6%AD%A3%E5%88%99&start=100"
+    }
+  }
+}

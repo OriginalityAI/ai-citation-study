@@ -1,0 +1,661 @@
+{
+  "search_metadata": {
+    "id": "688179a3526c48296d5e2a7a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/379eb3c892876f8c/688179a3526c48296d5e2a7a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/379eb3c892876f8c/688179a3526c48296d5e2a7a.json_with_pixel_position",
+    "created_at": "2025-07-24 00:09:07 UTC",
+    "processed_at": "2025-07-24 00:09:07 UTC",
+    "google_url": "https://www.google.com/search?q=gp+notebook+depression&oq=gp+notebook+depression&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/379eb3c892876f8c/688179a3526c48296d5e2a7a.html",
+    "total_time_taken": 3.5
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "gp notebook depression",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "gp notebook depression",
+    "total_results": 23,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the GP screening tool for depression?",
+      "type": "featured_snippet",
+      "snippet": "The PHQ-9 is the depression module, which scores each of the nine DSM-IV criteria as \"0\" (not at all) to \"3\" (nearly every day). It has been validated for use in primary care.",
+      "title": "Patient Health Questionnaire (PHQ-9)",
+      "link": "https://patient.info/doctor/patient-health-questionnaire-phq-9#:~:text=The%20PHQ%2D9%20is%20the,for%20use%20in%20primary%20care.",
+      "displayed_link": "https://patient.info › doctor › patient-health-questionnair...",
+      "source_logo": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/c917c0f28e00da4e4716ac1ae0c15b195bb363fbaaa2aeea989c82ca4f8ac25b.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlNYQjBiaTF0TkhWNWNVdEhXWEZSYjJaRVdsZEliRlU0WWxneFJqVmtaRWhPUVd0RE0wTm1RMjF4TUdOTGRDMXNZV1p3VTJZMlZtMXFkMWt0TUdaaVIzVnVlakkzTUVjMldYTmxWVk5XV1doVmNXUkZZMVJRU0dWMFVSSVhjRzV0UW1GUFluRkpMUzE0Y1hSelVIQlpUSFpuUVRBYUlrRkdUVUZIUjNGc1JuRktWV3BIT0hSc1IxSkpXWGhRU1d3MFRWaDFSRXRuV2tFIiwiZmN2IjoiMyIsImVpIjoicG5tQmFPYnFJLS14cXRzUHBZTHZnQTAiLCJxYyI6IkNoWm5jQ0J1YjNSbFltOXZheUJrWlhCeVpYTnphVzl1RUFBWUFYMUxlQ3dfbWdFQkJRIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBHUCBzY3JlZW5pbmcgdG9vbCBmb3IgZGVwcmVzc2lvbj8iLCJsayI6IkdpQm5jQ0J6WTNKbFpXNXBibWNnZEc5dmJDQm1iM0lnWkdWd2NtVnpjMmx2YmciLCJicyI6ImM1V09vUTdDTUJSRmc2M0N3U2JJRFZnZ3JBNDFDVGdVNkEzZXRrTHBXOXFPQlVmQ1pfRW5mQTAxQ0NBaHdiM2t2bnZ1RVJzeDJWYVpoM0x3RldHeGh0dFpJcU5NQ2Mtc1ViREZubXBMemlrMmFmLWF5bUdNc3Y3OUpfSjNybWxPT1ZtTUVuaXJ5aktjbjl6N1FFN2pjZnRIUjh4RnRITElnclJoVHpuekVaYTB5bkpOYWY5MmtsSGNDNmlnLWhXTGcwaVczQVp6MUkzV3VIQmpIZWtDM0hod0VaaXZtVE9CYXVWNEg1QVBLMlU4cV83c2RUdFAiLCJpZCI6ImZjX3BubUJhT2JxSS0teHF0c1BwWUx2Z0EwXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlNYQjBiaTF0TkhWNWNVdEhXWEZSYjJaRVdsZEliRlU0WWxneFJqVmtaRWhPUVd0RE0wTm1RMjF4TUdOTGRDMXNZV1p3VTJZMlZtMXFkMWt0TUdaaVIzVnVlakkzTUVjMldYTmxWVk5XV1doVmNXUkZZMVJRU0dWMFVSSVhjRzV0UW1GUFluRkpMUzE0Y1hSelVIQlpUSFpuUVRBYUlrRkdUVUZIUjNGc1JuRktWV3BIT0hSc1IxSkpXWGhRU1d3MFRWaDFSRXRuV2tFIiwiZmN2IjoiMyIsImVpIjoicG5tQmFPYnFJLS14cXRzUHBZTHZnQTAiLCJxYyI6IkNoWm5jQ0J1YjNSbFltOXZheUJrWlhCeVpYTnphVzl1RUFBWUFYMUxlQ3dfbWdFQkJRIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBHUCBzY3JlZW5pbmcgdG9vbCBmb3IgZGVwcmVzc2lvbj8iLCJsayI6IkdpQm5jQ0J6WTNKbFpXNXBibWNnZEc5dmJDQm1iM0lnWkdWd2NtVnpjMmx2YmciLCJicyI6ImM1V09vUTdDTUJSRmc2M0N3U2JJRFZnZ3JBNDFDVGdVNkEzZXRrTHBXOXFPQlVmQ1pfRW5mQTAxQ0NBaHdiM2t2bnZ1RVJzeDJWYVpoM0x3RldHeGh0dFpJcU5NQ2Mtc1ViREZubXBMemlrMmFmLWF5bUdNc3Y3OUpfSjNybWxPT1ZtTUVuaXJ5aktjbjl6N1FFN2pjZnRIUjh4RnRITElnclJoVHpuekVaYTB5bkpOYWY5MmtsSGNDNmlnLWhXTGcwaVczQVp6MUkzV3VIQmpIZWtDM0hod0VaaXZtVE9CYXVWNEg1QVBLMlU4cV83c2RUdFAiLCJpZCI6ImZjX3BubUJhT2JxSS0teHF0c1BwWUx2Z0EwXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the number #1 trigger for depression?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "title": "Depression Triggers",
+      "date": "Aug 17, 2021",
+      "link": "https://www.therecoveryvillage.com/mental-health/depression/depression-triggers/",
+      "list": [
+        "Grief and Loss.",
+        "Rejection.",
+        "Stress.",
+        "Illness.",
+        "Lack of Sleep.",
+        "Rumination.",
+        "Money Problems.",
+        "Life Transitions."
+      ],
+      "displayed_link": "https://www.therecoveryvillage.com › mental-health › de...",
+      "source_logo": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/c917c0f28e00da4e4716ac1ae0c15b192851b811c061e6d135781c5da42086cf.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlNYQjBiaTF0TkhWNWNVdEhXWEZSYjJaRVdsZEliRlU0WWxneFJqVmtaRWhPUVd0RE0wTm1RMjF4TUdOTGRDMXNZV1p3VTJZMlZtMXFkMWt0TUdaaVIzVnVlakkzTUVjMldYTmxWVk5XV1doVmNXUkZZMVJRU0dWMFVSSVhjRzV0UW1GUFluRkpMUzE0Y1hSelVIQlpUSFpuUVRBYUlrRkdUVUZIUjNGc1JuRktWV3BIT0hSc1IxSkpXWGhRU1d3MFRWaDFSRXRuV2tFIiwiZmN2IjoiMyIsImVpIjoicG5tQmFPYnFJLS14cXRzUHBZTHZnQTAiLCJxYyI6IkNoWm5jQ0J1YjNSbFltOXZheUJrWlhCeVpYTnphVzl1RUFBWUFYMUxlQ3dfbWdFQkJRIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBudW1iZXIgIzEgdHJpZ2dlciBmb3IgZGVwcmVzc2lvbj8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0J1ZFcxaVpYSWdJekVnZEhKcFoyZGxjaUJtYjNJZ1pHVndjbVZ6YzJsdmJnIiwiYnMiOiJjNVdPb1E3Q01CUkZnNjNDd1NiSURWZ2dyQTQxQ1RnVTZBM2V0a0xwVzlxT0JVZkNaX0VuZkEwMUNDQWh3YjNrdm52dUVSc3gyVmFaaDNMd0ZXR3hodHRaSXFOTUNjLXNVYkRGbm1wTHppazJhZi1heW1HTXN2NzlKX0ozcm1sT09WbU1FbmlyeWpLY245ejdRRTdqY2Z0SFI4eEZ0SExJZ3JSaFR6bnpFWmEweW5KTmFmOTJrbEhjQzZpZy1oV0xnMGlXM0FaejFJM1d1SEJqSGVrQzNIaHdFWml2bVRPQmF1VjRINUFQSzJVOHFfN3NkVHRQIiwiaWQiOiJmY19wbm1CYU9icUktLXhxdHNQcFlMdmdBMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlNYQjBiaTF0TkhWNWNVdEhXWEZSYjJaRVdsZEliRlU0WWxneFJqVmtaRWhPUVd0RE0wTm1RMjF4TUdOTGRDMXNZV1p3VTJZMlZtMXFkMWt0TUdaaVIzVnVlakkzTUVjMldYTmxWVk5XV1doVmNXUkZZMVJRU0dWMFVSSVhjRzV0UW1GUFluRkpMUzE0Y1hSelVIQlpUSFpuUVRBYUlrRkdUVUZIUjNGc1JuRktWV3BIT0hSc1IxSkpXWGhRU1d3MFRWaDFSRXRuV2tFIiwiZmN2IjoiMyIsImVpIjoicG5tQmFPYnFJLS14cXRzUHBZTHZnQTAiLCJxYyI6IkNoWm5jQ0J1YjNSbFltOXZheUJrWlhCeVpYTnphVzl1RUFBWUFYMUxlQ3dfbWdFQkJRIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBudW1iZXIgIzEgdHJpZ2dlciBmb3IgZGVwcmVzc2lvbj8iLCJsayI6IkdpeDNhR0YwSUdseklIUm9aU0J1ZFcxaVpYSWdJekVnZEhKcFoyZGxjaUJtYjNJZ1pHVndjbVZ6YzJsdmJnIiwiYnMiOiJjNVdPb1E3Q01CUkZnNjNDd1NiSURWZ2dyQTQxQ1RnVTZBM2V0a0xwVzlxT0JVZkNaX0VuZkEwMUNDQWh3YjNrdm52dUVSc3gyVmFaaDNMd0ZXR3hodHRaSXFOTUNjLXNVYkRGbm1wTHppazJhZi1heW1HTXN2NzlKX0ozcm1sT09WbU1FbmlyeWpLY245ejdRRTdqY2Z0SFI4eEZ0SExJZ3JSaFR6bnpFWmEweW5KTmFmOTJrbEhjQzZpZy1oV0xnMGlXM0FaejFJM1d1SEJqSGVrQzNIaHdFWml2bVRPQmF1VjRINUFQSzJVOHFfN3NkVHRQIiwiaWQiOiJmY19wbm1CYU9icUktLXhxdHNQcFlMdmdBMF8xIn0%3D"
+    },
+    {
+      "question": "Is a GPnotebook reliable?",
+      "type": "featured_snippet",
+      "snippet": "GPnotebook is my go-to website for checking clinical information for my educational needs. As a paramedic moving into primary care advanced practice, GPnotebook has been invaluable in helping me learn, develop, identify, and treat common conditions easily, safely and with confidence.",
+      "title": "About us – GPnotebook",
+      "link": "https://gpnotebook.com/about-us#:~:text=GPnotebook%20is%20my%20go%2Dto,information%20for%20my%20educational%20needs.&text=As%20a%20paramedic%20moving%20into,easily%2C%20safely%20and%20with%20confidence.",
+      "displayed_link": "https://gpnotebook.com › about-us",
+      "source_logo": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/c917c0f28e00da4e4716ac1ae0c15b19589f005a1974bb7f7ca4370e3a3be880.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlNYQjBiaTF0TkhWNWNVdEhXWEZSYjJaRVdsZEliRlU0WWxneFJqVmtaRWhPUVd0RE0wTm1RMjF4TUdOTGRDMXNZV1p3VTJZMlZtMXFkMWt0TUdaaVIzVnVlakkzTUVjMldYTmxWVk5XV1doVmNXUkZZMVJRU0dWMFVSSVhjRzV0UW1GUFluRkpMUzE0Y1hSelVIQlpUSFpuUVRBYUlrRkdUVUZIUjNGc1JuRktWV3BIT0hSc1IxSkpXWGhRU1d3MFRWaDFSRXRuV2tFIiwiZmN2IjoiMyIsImVpIjoicG5tQmFPYnFJLS14cXRzUHBZTHZnQTAiLCJxYyI6IkNoWm5jQ0J1YjNSbFltOXZheUJrWlhCeVpYTnphVzl1RUFBWUFYMUxlQ3dfbWdFQkJRIiwicXVlc3Rpb24iOiJJcyBhIEdQbm90ZWJvb2sgcmVsaWFibGU/IiwibGsiOiJHaGRwY3lCbmNDQnViM1JsWW05dmF5QnlaV3hwWVdKc1pRIiwiYnMiOiJjNVdPb1E3Q01CUkZnNjNDd1NiSURWZ2dyQTQxQ1RnVTZBM2V0a0xwVzlxT0JVZkNaX0VuZkEwMUNDQWh3YjNrdm52dUVSc3gyVmFaaDNMd0ZXR3hodHRaSXFOTUNjLXNVYkRGbm1wTHppazJhZi1heW1HTXN2NzlKX0ozcm1sT09WbU1FbmlyeWpLY245ejdRRTdqY2Z0SFI4eEZ0SExJZ3JSaFR6bnpFWmEweW5KTmFmOTJrbEhjQzZpZy1oV0xnMGlXM0FaejFJM1d1SEJqSGVrQzNIaHdFWml2bVRPQmF1VjRINUFQSzJVOHFfN3NkVHRQIiwiaWQiOiJmY19wbm1CYU9icUktLXhxdHNQcFlMdmdBMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlNYQjBiaTF0TkhWNWNVdEhXWEZSYjJaRVdsZEliRlU0WWxneFJqVmtaRWhPUVd0RE0wTm1RMjF4TUdOTGRDMXNZV1p3VTJZMlZtMXFkMWt0TUdaaVIzVnVlakkzTUVjMldYTmxWVk5XV1doVmNXUkZZMVJRU0dWMFVSSVhjRzV0UW1GUFluRkpMUzE0Y1hSelVIQlpUSFpuUVRBYUlrRkdUVUZIUjNGc1JuRktWV3BIT0hSc1IxSkpXWGhRU1d3MFRWaDFSRXRuV2tFIiwiZmN2IjoiMyIsImVpIjoicG5tQmFPYnFJLS14cXRzUHBZTHZnQTAiLCJxYyI6IkNoWm5jQ0J1YjNSbFltOXZheUJrWlhCeVpYTnphVzl1RUFBWUFYMUxlQ3dfbWdFQkJRIiwicXVlc3Rpb24iOiJJcyBhIEdQbm90ZWJvb2sgcmVsaWFibGU%2FIiwibGsiOiJHaGRwY3lCbmNDQnViM1JsWW05dmF5QnlaV3hwWVdKc1pRIiwiYnMiOiJjNVdPb1E3Q01CUkZnNjNDd1NiSURWZ2dyQTQxQ1RnVTZBM2V0a0xwVzlxT0JVZkNaX0VuZkEwMUNDQWh3YjNrdm52dUVSc3gyVmFaaDNMd0ZXR3hodHRaSXFOTUNjLXNVYkRGbm1wTHppazJhZi1heW1HTXN2NzlKX0ozcm1sT09WbU1FbmlyeWpLY245ejdRRTdqY2Z0SFI4eEZ0SExJZ3JSaFR6bnpFWmEweW5KTmFmOTJrbEhjQzZpZy1oV0xnMGlXM0FaejFJM1d1SEJqSGVrQzNIaHdFWml2bVRPQmF1VjRINUFQSzJVOHFfN3NkVHRQIiwiaWQiOiJmY19wbm1CYU9icUktLXhxdHNQcFlMdmdBMF8xIn0%3D"
+    },
+    {
+      "question": "How to pull yourself out of a depressive episode?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "To pull yourself out of a depressive episode, focus on a combination of self-care, professional help, and lifestyle adjustments. Engage in activities you enjoy, maintain social connections, and prioritize physical health through exercise and healthy eating. Consider seeking therapy or medication, and be patient with the process, as recovery takes time.",
+          "snippet_highlighted_words": [
+            "focus on a combination of self-care, professional help, and lifestyle adjustments"
+          ],
+          "reference_indexes": [
+            0,
+            2,
+            3,
+            5,
+            6,
+            9,
+            12
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Here's a more detailed breakdown:"
+        },
+        {
+          "type": "heading",
+          "snippet": "1. Seek Professional Help:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Therapy:",
+              "snippet": "Cognitive Behavioral Therapy (CBT) and Interpersonal Therapy (IPT) are effective treatments that can help you understand and manage your thoughts and behaviors, and improve your relationships.",
+              "reference_indexes": [
+                6,
+                7
+              ]
+            },
+            {
+              "title": "Medication:",
+              "snippet": "Antidepressants can be helpful in alleviating depressive symptoms. Consult with a doctor or psychiatrist to determine if medication is appropriate for you.",
+              "reference_indexes": [
+                0,
+                1,
+                10,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "2. Engage in Self-Care:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Prioritize Sleep: Establish a regular sleep schedule and create a relaxing bedtime routine.",
+              "reference_indexes": [
+                5,
+                6
+              ]
+            },
+            {
+              "snippet": "Exercise: Engage in regular physical activity, even a short walk each day can boost your mood.",
+              "reference_indexes": [
+                5
+              ]
+            },
+            {
+              "snippet": "Healthy Eating: Focus on a balanced diet and stay hydrated.",
+              "reference_indexes": [
+                2,
+                3,
+                5,
+                8
+              ]
+            },
+            {
+              "snippet": "Limit Alcohol and Drugs: These substances can worsen depression and should be avoided.",
+              "reference_indexes": [
+                3
+              ]
+            },
+            {
+              "snippet": "Engage in Enjoyable Activities: Make time for activities that bring you joy and relaxation.",
+              "reference_indexes": [
+                5
+              ]
+            },
+            {
+              "snippet": "Journaling: Writing down your thoughts and feelings can help you process emotions and identify negative thought patterns.",
+              "reference_indexes": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "3. Manage Social Connections:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Stay Connected: Don't isolate yourself. Make an effort to connect with friends and family.",
+              "reference_indexes": [
+                2,
+                6
+              ]
+            },
+            {
+              "snippet": "Seek Support: Join support groups or connect with others who understand what you're going through.",
+              "reference_indexes": [
+                4,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "4. Be Patient and Kind to Yourself:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Recovery Takes Time: Be patient with yourself and celebrate small victories along the way."
+            },
+            {
+              "snippet": "Focus on the Positives: Try to shift your focus to the positive aspects of your life and celebrate your progress.",
+              "reference_indexes": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "5. Make Lifestyle Adjustments:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Simplify Your Life: Cut back on obligations and set realistic goals for yourself.",
+              "reference_indexes": [
+                6
+              ]
+            },
+            {
+              "snippet": "Delay Important Decisions: Avoid making major life decisions when you're feeling depressed.",
+              "reference_indexes": [
+                5,
+                6
+              ]
+            },
+            {
+              "snippet": "Learn Relaxation Techniques: Practice techniques like meditation or deep breathing to manage stress.",
+              "reference_indexes": [
+                6
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Major Depression | Johns Hopkins Medicine",
+          "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/major-depression",
+          "source": "Johns Hopkins Medicine",
+          "index": 0
+        },
+        {
+          "title": "Depression (major depressive disorder) - Symptoms and causes",
+          "link": "https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007#:~:text=The%20good%20news%20is%20that,and%20it%20can%20be%20treated.",
+          "snippet": "Oct 14, 2022 — The good news is that treatment helps. Effective treatments for depression exist and you do have options to see what w...",
+          "source": "Mayo Clinic",
+          "index": 1
+        },
+        {
+          "title": "How to cope with depression - NHS",
+          "link": "https://www.nhs.uk/mental-health/self-help/tips-and-support/cope-with-depression/#:~:text=Try%20these%20coping%20strategies%20if,can%20put%20on%20excess%20weight.",
+          "snippet": "Try these coping strategies if you're feeling depressed. Stay in touch. Don't withdraw from life. Socialising can improve your moo...",
+          "source": "NHS",
+          "index": 2
+        },
+        {
+          "title": "Dysthymia - Johns Hopkins Medicine",
+          "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/dysthymia#:~:text=Get%20regular%20exercise.,free%20and%20available%2024/7.",
+          "snippet": "Get regular exercise. Expect your mood to get better slowly, not right away. Feeling better takes time. Eat healthy, well-balanced...",
+          "source": "Johns Hopkins Medicine",
+          "index": 3
+        },
+        {
+          "title": "Overview - Depression in adults - NHS",
+          "link": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/#:~:text=Living%20with%20depression,can%20also%20be%20very%20supportive.",
+          "snippet": "Living with depression Many people with depression benefit by making lifestyle changes, such as getting more exercise, cutting dow...",
+          "source": "nhs.uk",
+          "index": 4
+        },
+        {
+          "title": "Depression - National Institute of Mental Health (NIMH)",
+          "link": "https://www.nimh.nih.gov/health/publications/depression#:~:text=How%20can%20I%20take%20care,medications%20not%20prescribed%20for%20you.",
+          "snippet": "How can I take care of myself? Most people with depression benefit from mental health treatment. Once you begin treatment, you sho...",
+          "source": "National Institute of Mental Health (NIMH) (.gov)",
+          "index": 5
+        },
+        {
+          "title": "Depression (major depressive disorder) - Diagnosis and treatment",
+          "link": "https://www.mayoclinic.org/diseases-conditions/depression/diagnosis-treatment/drc-20356013",
+          "snippet": "Oct 14, 2022 — Talk with your doctor or therapist about improving your coping skills, and try these tips: * Simplify your life. Cut ...",
+          "source": "Mayo Clinic",
+          "index": 6
+        },
+        {
+          "title": "Treatment - Depression in adults - NHS",
+          "link": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/treatment/",
+          "snippet": "Talking therapies * Cognitive behavioural therapy (CBT) Cognitive behavioural therapy (CBT) aims to help you understand your thou...",
+          "source": "nhs.uk",
+          "index": 7
+        },
+        {
+          "title": "5 Ways to Help Yourself Through Depression (for Teens) - Kids Health",
+          "link": "https://kidshealth.org/en/teens/depression-tips.html",
+          "snippet": "5 Ways to Help Yourself Through Depression * Exercise. Take a 15- to 30-minute brisk walk every day. ... * Eat healthy foods and ...",
+          "source": "Kids Health",
+          "index": 8
+        },
+        {
+          "title": "Understanding Mood Episodes in Depression",
+          "link": "https://www.mentalhealth.com/library/understanding-mood-episodes-in-depression#:~:text=Treating%20Depressive%20Episodes%20Self%2Dcare%20and%20lifestyle%20changes,medication%2C%20or%20a%20combination%20of%20the%20two.",
+          "snippet": "Treating Depressive Episodes Self-care and lifestyle changes can be helpful for depression; however, getting out of a depressive e...",
+          "source": "MentalHealth.com",
+          "index": 9
+        },
+        {
+          "title": "Why Does My Depression Keep Coming Back?",
+          "link": "https://www.embarkbh.com/treatment/depression/treatment-resistant-depression/depression-coming-back/#:~:text=As%20psychiatrists%20are%20medical%20doctors%2C%20they%20can,you%20with%20your%20specific%20type%20of%20depression.",
+          "snippet": "Apr 30, 2020 — As psychiatrists are medical doctors, they can determine whether or not you need medication and determine which medica...",
+          "source": "Embark Behavioral Health",
+          "index": 10
+        },
+        {
+          "title": "Risks & Consequences Caused by Untreated Depression?",
+          "link": "https://genesight.com/blog/patient/5-consequences-of-not-treating-depression/",
+          "snippet": "Oct 8, 2018 — Reaching out to your doctor is the first step toward a happier, more fulfilling life. He ( Dr. Doerfler ) or she may di...",
+          "source": "GeneSight",
+          "index": 11
+        },
+        {
+          "title": "Depression",
+          "link": "https://www.ageconcern.org.nz/Public/Public/Info/Health_Topics/Depression.aspx#:~:text=Volunteering%2C%20joining%20social%20and%20hobby%20groups%2C%20or,exercise%20can%20improve%20overall%20wellbeing%20and%20depression.",
+          "snippet": "Volunteering, joining social and hobby groups, or visiting friends and whānau can keep you physically and mentally stimulated and ...",
+          "source": "Age Concern New Zealand",
+          "index": 12
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlNYQjBiaTF0TkhWNWNVdEhXWEZSYjJaRVdsZEliRlU0WWxneFJqVmtaRWhPUVd0RE0wTm1RMjF4TUdOTGRDMXNZV1p3VTJZMlZtMXFkMWt0TUdaaVIzVnVlakkzTUVjMldYTmxWVk5XV1doVmNXUkZZMVJRU0dWMFVSSVhjRzV0UW1GUFluRkpMUzE0Y1hSelVIQlpUSFpuUVRBYUlrRkdUVUZIUjNGc1JuRktWV3BIT0hSc1IxSkpXWGhRU1d3MFRWaDFSRXRuV2tFIiwiZmN2IjoiMyIsImVpIjoicG5tQmFPYnFJLS14cXRzUHBZTHZnQTAiLCJxYyI6IkNoWm5jQ0J1YjNSbFltOXZheUJrWlhCeVpYTnphVzl1RUFBWUFYMUxlQ3dfbWdFQkJRIiwicXVlc3Rpb24iOiJIb3cgdG8gcHVsbCB5b3Vyc2VsZiBvdXQgb2YgYSBkZXByZXNzaXZlIGVwaXNvZGU/IiwibGsiOiJHakJvYjNjZ2RHOGdjSFZzYkNCNWIzVnljMlZzWmlCdmRYUWdiMllnWVNCa1pYQnlaWE56YVhabElHVndhWE52WkdVIiwiYnMiOiJjNVdPb1E3Q01CUkZnNjNDd1NiSURWZ2dyQTQxQ1RnVTZBM2V0a0xwVzlxT0JVZkNaX0VuZkEwMUNDQWh3YjNrdm52dUVSc3gyVmFaaDNMd0ZXR3hodHRaSXFOTUNjLXNVYkRGbm1wTHppazJhZi1heW1HTXN2NzlKX0ozcm1sT09WbU1FbmlyeWpLY245ejdRRTdqY2Z0SFI4eEZ0SExJZ3JSaFR6bnpFWmEweW5KTmFmOTJrbEhjQzZpZy1oV0xnMGlXM0FaejFJM1d1SEJqSGVrQzNIaHdFWml2bVRPQmF1VjRINUFQSzJVOHFfN3NkVHRQIiwiaWQiOiJmY19wbm1CYU9icUktLXhxdHNQcFlMdmdBMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlNYQjBiaTF0TkhWNWNVdEhXWEZSYjJaRVdsZEliRlU0WWxneFJqVmtaRWhPUVd0RE0wTm1RMjF4TUdOTGRDMXNZV1p3VTJZMlZtMXFkMWt0TUdaaVIzVnVlakkzTUVjMldYTmxWVk5XV1doVmNXUkZZMVJRU0dWMFVSSVhjRzV0UW1GUFluRkpMUzE0Y1hSelVIQlpUSFpuUVRBYUlrRkdUVUZIUjNGc1JuRktWV3BIT0hSc1IxSkpXWGhRU1d3MFRWaDFSRXRuV2tFIiwiZmN2IjoiMyIsImVpIjoicG5tQmFPYnFJLS14cXRzUHBZTHZnQTAiLCJxYyI6IkNoWm5jQ0J1YjNSbFltOXZheUJrWlhCeVpYTnphVzl1RUFBWUFYMUxlQ3dfbWdFQkJRIiwicXVlc3Rpb24iOiJIb3cgdG8gcHVsbCB5b3Vyc2VsZiBvdXQgb2YgYSBkZXByZXNzaXZlIGVwaXNvZGU%2FIiwibGsiOiJHakJvYjNjZ2RHOGdjSFZzYkNCNWIzVnljMlZzWmlCdmRYUWdiMllnWVNCa1pYQnlaWE56YVhabElHVndhWE52WkdVIiwiYnMiOiJjNVdPb1E3Q01CUkZnNjNDd1NiSURWZ2dyQTQxQ1RnVTZBM2V0a0xwVzlxT0JVZkNaX0VuZkEwMUNDQWh3YjNrdm52dUVSc3gyVmFaaDNMd0ZXR3hodHRaSXFOTUNjLXNVYkRGbm1wTHppazJhZi1heW1HTXN2NzlKX0ozcm1sT09WbU1FbmlyeWpLY245ejdRRTdqY2Z0SFI4eEZ0SExJZ3JSaFR6bnpFWmEweW5KTmFmOTJrbEhjQzZpZy1oV0xnMGlXM0FaejFJM1d1SEJqSGVrQzNIaHdFWml2bVRPQmF1VjRINUFQSzJVOHFfN3NkVHRQIiwiaWQiOiJmY19wbm1CYU9icUktLXhxdHNQcFlMdmdBMF8xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Depression – GPnotebook",
+      "link": "https://gpnotebook.com/pages/mental-health/depression",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gpnotebook.com/pages/mental-health/depression&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECA8QAQ",
+      "displayed_link": "https://gpnotebook.com › Pages › Mental health",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc9d23e7a05bbf1d68faa3183e3c4cb8fa4.png",
+      "date": "May 15, 2024",
+      "snippet": "Depression is a mood disorder in which the predominant feelings are of sadness. Depression describes an individual episode of mood disorder.",
+      "snippet_highlighted_words": [
+        "Depression",
+        "Depression"
+      ],
+      "source": "GPnotebook"
+    },
+    {
+      "position": 2,
+      "title": "Management of depression",
+      "link": "https://gpnotebook.com/pages/general-practice/dysthymia/management-of-depression",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gpnotebook.com/pages/general-practice/dysthymia/management-of-depression&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECBUQAQ",
+      "displayed_link": "https://gpnotebook.com › ... › Dysthymia",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc9e4652752c6e85c739f82a07d0d573364.png",
+      "date": "Aug 7, 2018",
+      "snippet": "antidepressant drugs; electroconvulsive therapy; in rare cases, surgery. psychological interventions. Iindications for antidepressants are (1):.",
+      "source": "GPnotebook"
+    },
+    {
+      "position": 3,
+      "title": "Home | SAMHSA - Substance Abuse and Mental Health ...",
+      "link": "https://www.samhsa.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samhsa.gov/&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECBIQAQ",
+      "displayed_link": "https://www.samhsa.gov",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc9c9865cec3888460658574a0f91bb99b2.png",
+      "snippet": "SAMHSA leads efforts to advance behavioral health across the U.S., offering resources for mental health, substance use, and community well-being.",
+      "source": "SAMHSA (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "FPnotebook",
+      "link": "https://fpnotebook.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fpnotebook.com/&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECBYQAQ",
+      "displayed_link": "https://fpnotebook.com",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc9b910f879ca2bc0aca238ca4afeb2ac70.png",
+      "snippet": "Family Practice Notebook is a library containing the following 31 books: Cardiovascular Medicine, Gynecology, Hematology and Oncology, ...",
+      "snippet_highlighted_words": [
+        "Notebook"
+      ],
+      "source": "FPnotebook"
+    },
+    {
+      "position": 5,
+      "title": "Depression",
+      "link": "https://mobile.fpnotebook.com/Psych/Depress/index.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mobile.fpnotebook.com/Psych/Depress/index.htm&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECBAQAQ",
+      "displayed_link": "https://mobile.fpnotebook.com › Psych › Depress",
+      "snippet": "Depression is a chapter in the book, Mental Health, containing the following 15 pages: Suicide, Depression Management, Depression Medical Management, ...",
+      "snippet_highlighted_words": [
+        "Depression",
+        "Depression",
+        "Depression"
+      ],
+      "source": "FPnotebook"
+    },
+    {
+      "position": 6,
+      "title": "Vitamin B12 & Folate",
+      "link": "https://labtestsonline.org.uk/tests/vitamin-b12-and-folate",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://labtestsonline.org.uk/tests/vitamin-b12-and-folate&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECB0QAQ",
+      "displayed_link": "https://labtestsonline.org.uk › tests › vitamin-b12-and-f...",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc9b4c51367134010fa41c182cfd6c131bf.png",
+      "date": "Feb 28, 2023",
+      "snippet": "These tests measure the concentration of folate and vitamin B12 in the serum (liquid portion of the blood).",
+      "source": "Lab Tests Online-UK"
+    },
+    {
+      "position": 7,
+      "title": "GP treatment decisions for patients with depression",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1463130/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC1463130/&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECDQQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC1463130",
+      "author": "by T Kendrick",
+      "snippet": "GPs are prescribing more antidepressants than previously, but not in accordance with guidelines. The reasons why they prescribe are not well understood.",
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "5 Women On The Reality Of ADHD Medication",
+      "link": "https://www.refinery29.com/en-au/adhd-medication-women-titration-process-experience",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.refinery29.com/en-au/adhd-medication-women-titration-process-experience&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECFQQAQ",
+      "displayed_link": "https://www.refinery29.com › en-au › adhd-medication-...",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc997bc74ee7d9a049b9a9a7de868471d59.png",
+      "date": "Jul 14, 2025",
+      "snippet": "My brain was entirely white noise, so many racing thoughts I couldn't hear a thing. Then when I took the medication I could hear,” says Kerry. “ ...",
+      "source": "Refinery29"
+    },
+    {
+      "position": 9,
+      "title": "The Notes and Reasonable Doubt : r/LucyLetbyTrials",
+      "link": "https://www.reddit.com/r/LucyLetbyTrials/comments/1m1e92q/the_notes_and_reasonable_doubt/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/LucyLetbyTrials/comments/1m1e92q/the_notes_and_reasonable_doubt/&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECDYQAQ",
+      "displayed_link": "20+ comments · 1 week ago",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc9ee10a43d5d31737d9c646c74578dde82.png",
+      "snippet": "Lucy Letby wrote a series of disturbing and emotional notes during the police investigation into infant deaths at the Countess of Chester ...",
+      "source": "Reddit · r/LucyLetbyTrials"
+    },
+    {
+      "position": 10,
+      "title": "The Field Guide for Depression Notebook",
+      "link": "https://www.wonderfairhomeshopping.com/the-field-guide-for-depression-notebook.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wonderfairhomeshopping.com/the-field-guide-for-depression-notebook.html&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECFUQAQ",
+      "displayed_link": "https://www.wonderfairhomeshopping.com › the-field-...",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc9742361dbd470686c3617a8e7031bf0e5.png",
+      "snippet": "5 sections covering different evidence-based tools effective for managing depression · Over 80 journal entries with structured exercises to put those tools to ...",
+      "snippet_highlighted_words": [
+        "depression"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 38.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$38.00"
+          ]
+        }
+      },
+      "source": "wonderfairhomeshopping.com"
+    },
+    {
+      "position": 11,
+      "title": "Bruce Lehrmann's lawyer quizzed over Toowoomba rape ...",
+      "link": "https://www.thechronicle.com.au/truecrimeaustralia/police-courts-toowoomba/bruce-lehrmanns-lawyer-quizzed-over-toowoomba-rape-trial-subpoenas/news-story/8bc4aa8d08a1b4177c504795b672d28b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thechronicle.com.au/truecrimeaustralia/police-courts-toowoomba/bruce-lehrmanns-lawyer-quizzed-over-toowoomba-rape-trial-subpoenas/news-story/8bc4aa8d08a1b4177c504795b672d28b&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECFMQAQ",
+      "displayed_link": "https://www.thechronicle.com.au › news-story",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc9639067d8238b1a81be2e20c171545a50.png",
+      "date": "3 days ago",
+      "snippet": "A court has questioned the validity of multiple requests made by Bruce Lehrmann's legal team in preparation for his rape trial.",
+      "source": "The Chronicle | The Chronicle"
+    },
+    {
+      "position": 12,
+      "title": "ecprice › Public › wordlist.ranked",
+      "link": "https://web.mit.edu/~ecprice/Public/wordlist.ranked",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://web.mit.edu/~ecprice/Public/wordlist.ranked&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECFgQAQ",
+      "displayed_link": "https://web.mit.edu › ~ecprice › Public › wordlist.ranked",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc95bc5e2c63b02519d3d7c87c6afc4d724.png",
+      "snippet": "... notebook sp disabled tm historic attached opened starts husband ref crazy authorized upcoming britain concert retirement scores financing efficiency comedy ...",
+      "snippet_highlighted_words": [
+        "notebook"
+      ],
+      "source": "Massachusetts Institute of Technology"
+    },
+    {
+      "position": 13,
+      "title": "40 Weird Differences Therapists Noticed Between Male ...",
+      "link": "https://www.boredpanda.com/therapists-share-differences-between-male-female-patients/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.boredpanda.com/therapists-share-differences-between-male-female-patients/&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECDgQAQ",
+      "displayed_link": "https://www.boredpanda.com › therapists-share-differen...",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc9e7ae34a2828b2b7ed25732b99572c23a.png",
+      "date": "3 days ago",
+      "snippet": "Therapist in a white shirt with glasses holding a clipboard discussing differences between men and women. Health & Wellness, Lifestyle. Jul 21, ...",
+      "source": "Bored Panda"
+    },
+    {
+      "position": 14,
+      "title": "Poeticous. Beautiful poetry blogs.",
+      "link": "https://www.poeticous.com/poets?lns=d&tu=wallace-stevens",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.poeticous.com/poets%3Flns%3Dd%26tu%3Dwallace-stevens&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECDcQAQ",
+      "displayed_link": "https://www.poeticous.com › poets",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc9ef942ed26bbb9c3c15420bbdc68fa496.png",
+      "snippet": "Born in Dayton, Ohio, in 1872, Dunbar penned a large body of dialect poems, standard English poems, essays, novels and short stories before he died at the age ...",
+      "source": "Poeticous"
+    },
+    {
+      "position": 15,
+      "title": "Bruce Lehrmann's legal team reveals surprise witness in ...",
+      "link": "https://www.thechronicle.com.au/truecrimeaustralia/police-courts-toowoomba/bruce-lehrmanns-legal-team-reveals-surprise-witness-in-toowoomba-case/news-story/8667399f2cd5b44fa5255683e112d3b8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thechronicle.com.au/truecrimeaustralia/police-courts-toowoomba/bruce-lehrmanns-legal-team-reveals-surprise-witness-in-toowoomba-case/news-story/8667399f2cd5b44fa5255683e112d3b8&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECFcQAQ",
+      "displayed_link": "https://www.thechronicle.com.au › news-story",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc92d334bc448992eb2759bca9bc0059ce6.png",
+      "date": "16 hours ago",
+      "snippet": "A surprise potential witness has come forward in the Toowoomba rape trial against former Liberal Party staffer Bruce Lehrmann.",
+      "source": "The Chronicle | The Chronicle"
+    },
+    {
+      "position": 16,
+      "title": "Dispnea",
+      "link": "https://it.wikipedia.org/wiki/Dispnea",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://it.wikipedia.org/wiki/Dispnea&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECFIQAQ",
+      "displayed_link": "https://it.wikipedia.org › wiki › Di...",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc955169926055991aabacd3ca654bfa549.png",
+      "snippet": "La dispnea (dal latino: dispnea; dal greco: δύσπνοια, dýspnoia), o fame d'aria, è il sintomo di una respirazione difficoltosa.",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 17,
+      "title": "'Arthritis at your age?' Chapter 15",
+      "link": "https://dumville.org/aaya/chapter_15.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dumville.org/aaya/chapter_15.html&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECFYQAQ",
+      "displayed_link": "https://dumville.org › aaya › chapter_15",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc93040afa2f1344cc35b24c6bd12baafdf.png",
+      "snippet": "BMA Complete Family Health Guide (2005); BMA Concise Guide to Medicines and Drugs (2nd edition, 2005); BMA A-Z Family Medical Encyclopedia (2004); BMA New Guide ...",
+      "source": "dumville.org"
+    },
+    {
+      "position": 18,
+      "title": "Good Stories & Books Online to Read_ Novel, Fanfic, Comic",
+      "link": "https://www.webnovel.com/stories",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webnovel.com/stories&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECFkQAQ",
+      "displayed_link": "https://www.webnovel.com › stories",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc975f3c0b4d47ad26b48da3e093c36042b.png",
+      "snippet": "The most popular list of genres online at Webnovel.com. We provide you with the best browse books classification and reading list when you need to read and ...",
+      "source": "WebNovel"
+    },
+    {
+      "position": 19,
+      "title": "The '10 all' guy loves Math, valedictorian of block A00 ...",
+      "link": "https://www.vietnam.vn/en/chang-trai-10-deu-me-toan-thu-khoa-khoi-a00-toan-quoc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vietnam.vn/en/chang-trai-10-deu-me-toan-thu-khoa-khoi-a00-toan-quoc&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECDkQAQ",
+      "displayed_link": "https://www.vietnam.vn › chang-tr...",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc97d68f67cafeed702c4fa25bcf09fc406.png",
+      "date": "6 days ago",
+      "snippet": "TPO - Without taking extra classes outside, only studying through books and the internet, Phan Quang Hien Vinh (Dinh Tien Hoang High School, ...",
+      "source": "Vietnam.vn"
+    },
+    {
+      "position": 20,
+      "title": "The Field Guide for Depression",
+      "link": "https://shop.therapynotebooks.com/products/field-guide-for-depression?srsltid=AfmBOopZPVBOEjrALowSXVvUbFAcWY3lEKUZbRmmRlY00DcHUUnC1X3y",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shop.therapynotebooks.com/products/field-guide-for-depression%3Fsrsltid%3DAfmBOopZPVBOEjrALowSXVvUbFAcWY3lEKUZbRmmRlY00DcHUUnC1X3y&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECD8QAQ",
+      "displayed_link": "https://shop.therapynotebooks.com › products › field-gui...",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc99bb804710434884a41e0c986145dd624.png",
+      "snippet": "This field guide is designed to help you explore different evidence-based tools for depression that address your motivation, internal dialogue, and ...",
+      "snippet_highlighted_words": [
+        "depression"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 38.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$38.00"
+          ]
+        }
+      },
+      "source": "Therapy Notebooks"
+    },
+    {
+      "position": 21,
+      "title": "Fontanelle",
+      "link": "https://fr.wikipedia.org/wiki/Fontanelle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fr.wikipedia.org/wiki/Fontanelle&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECDsQAQ",
+      "displayed_link": "https://fr.wikipedia.org › wiki › F...",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc97dfca0b6aae4afa020aca18b8d75a0d1.png",
+      "snippet": "Les fontanelles sont des espaces membraneux séparant les différents os du crâne chez le nourrisson et le fœtus. Fontanelle ...",
+      "source": "Wikipédia"
+    },
+    {
+      "position": 22,
+      "title": "Effective management of depression in primary care",
+      "link": "https://bjgpopen.org/content/1/2/bjgpopen17x101025",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bjgpopen.org/content/1/2/bjgpopen17x101025&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECDUQAQ",
+      "displayed_link": "https://bjgpopen.org › content",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc9ba587cc1ea752263e8eb3f5b7fdb60ab.png",
+      "author": "by B Arroll",
+      "snippet": "A recent study reported that about 10% of patients prescribed antidepressant medication actually have undetected bipolar disorder.",
+      "source": "BJGP Open"
+    },
+    {
+      "position": 23,
+      "title": "Qualitative study of depression management in primary care",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/17976282/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pubmed.ncbi.nlm.nih.gov/17976282/&ved=2ahUKEwjm1fiTmtSOAxXvmGoFHSXBG9AQFnoECDoQAQ",
+      "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+      "favicon": "https://serpapi.com/searches/688179a3526c48296d5e2a7a/images/256e6e37134b649c3e13fb962a7b0dc988ab97b9e21388caeaa68f99bd8bd34b.png",
+      "author": "by O Johnston",
+      "snippet": "Physicians need greater awareness of the extent to which their goals for the management of depression are perceived as relevant or achievable by patients.",
+      "snippet_highlighted_words": [
+        "depression"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 23 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=gp+notebook+depression&num=100&sca_esv=d94c292ea1ae3400&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=gp+notebook+depression&oq=gp+notebook+depression&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=gp+notebook+depression&oq=gp+notebook+depression&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=gp+notebook+depression&oq=gp+notebook+depression&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=gp+notebook+depression&oq=gp+notebook+depression&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=gp+notebook+depression&oq=gp+notebook+depression&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=gp+notebook+depression&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=gp+notebook+depression&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=gp+notebook+depression&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=gp+notebook+depression&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=gp+notebook+depression&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=gp+notebook+depression&start=400"
+    }
+  }
+}

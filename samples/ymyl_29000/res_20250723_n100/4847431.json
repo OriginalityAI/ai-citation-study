@@ -1,0 +1,761 @@
+{
+  "search_metadata": {
+    "id": "6881dfbf0e285d363749a4ac",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/70708f5fa6e20b60/6881dfbf0e285d363749a4ac.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/70708f5fa6e20b60/6881dfbf0e285d363749a4ac.json_with_pixel_position",
+    "created_at": "2025-07-24 07:24:47 UTC",
+    "processed_at": "2025-07-24 07:24:47 UTC",
+    "google_url": "https://www.google.com/search?q=covid+%C5%A1estka&oq=covid+%C5%A1estka&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/70708f5fa6e20b60/6881dfbf0e285d363749a4ac.html",
+    "total_time_taken": 6.07
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "covid šestka",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "covid šestka",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What are the symptoms of the current COVID strain?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lqVlFhMWxYU0d4M05XbG9RM0pLVEhwdE4wTmtiRnBEUjNwSU5YTmFSbTU2U0hOdlEyMWZVM3AzTVZaVmMyWk5kWFF4VFVkNlowODJNRzlJT0VKeFkyTjJlSEZyZVVsNmIwaElUbmhOUTBwMFZWUlBUbXRaYW1KNVVSSVhlRTR0UW1GT1JGcEpOSGxQZDJKclVHbGZiVmhyVVZFYUlrRkdUVUZIUjNKdlNqRTFkR0o1Y3paQ1pWRlROMTlzT1cxeVJWYzVUV0prWldjIiwiZmN2IjoiMyIsImVpIjoieE4tQmFORFpJNHlPd2JrUGlfbVhrUVEiLCJxYyI6IkNnMWpiM1pwWkNERm9XVnpkR3RoRUFBWUFYMHlDQ3dfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgc3ltcHRvbXMgb2YgdGhlIGN1cnJlbnQgQ09WSUQgc3RyYWluPyIsImxrIjoiR2lCemVXMXdkRzl0Y3lCdlppQmpkWEp5Wlc1MElHTnZkbWxrSUhOMGNtRnBiZyIsImJzIjoiYzRXUE1RckNRQkJGc2QzS01rYkVRZXdzMUZ3Z2lCWXFpSjBXVmtQY3VBc21JN3NUUTI1aDUtWDBMcExOcWxoWkR2UC0telBpSUtLOVFnWTBFbGhKc0ZWMlljb3NVT3JtcERCRzVneno3VzYxQU1zR2RSNEh6M1UwQ0hfWU41ZlFWUjg5SjVTWU9MbTJ6cFdpWldrWlNxeUFDZGhJX0lpOUtnNGV2V2dhanN0X01kX2pZMklqUmtzcTRVejVDWTRFRlJXZzhDcHJYbHM2STBzb05hdW1MUTV1cmFnYmRocUhldWUtckppSmZxM3pwcVlSX2FrSkZTY1ZCX2RoclhDcnJINDhKZU9QY2tDNzlRSSIsImlkIjoiZmNfeE4tQmFORFpJNHlPd2JrUGlfbVhrUVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lqVlFhMWxYU0d4M05XbG9RM0pLVEhwdE4wTmtiRnBEUjNwSU5YTmFSbTU2U0hOdlEyMWZVM3AzTVZaVmMyWk5kWFF4VFVkNlowODJNRzlJT0VKeFkyTjJlSEZyZVVsNmIwaElUbmhOUTBwMFZWUlBUbXRaYW1KNVVSSVhlRTR0UW1GT1JGcEpOSGxQZDJKclVHbGZiVmhyVVZFYUlrRkdUVUZIUjNKdlNqRTFkR0o1Y3paQ1pWRlROMTlzT1cxeVJWYzVUV0prWldjIiwiZmN2IjoiMyIsImVpIjoieE4tQmFORFpJNHlPd2JrUGlfbVhrUVEiLCJxYyI6IkNnMWpiM1pwWkNERm9XVnpkR3RoRUFBWUFYMHlDQ3dfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgc3ltcHRvbXMgb2YgdGhlIGN1cnJlbnQgQ09WSUQgc3RyYWluPyIsImxrIjoiR2lCemVXMXdkRzl0Y3lCdlppQmpkWEp5Wlc1MElHTnZkbWxrSUhOMGNtRnBiZyIsImJzIjoiYzRXUE1RckNRQkJGc2QzS01rYkVRZXdzMUZ3Z2lCWXFpSjBXVmtQY3VBc21JN3NUUTI1aDUtWDBMcExOcWxoWkR2UC0telBpSUtLOVFnWTBFbGhKc0ZWMlljb3NVT3JtcERCRzVneno3VzYxQU1zR2RSNEh6M1UwQ0hfWU41ZlFWUjg5SjVTWU9MbTJ6cFdpWldrWlNxeUFDZGhJX0lpOUtnNGV2V2dhanN0X01kX2pZMklqUmtzcTRVejVDWTRFRlJXZzhDcHJYbHM2STBzb05hdW1MUTV1cmFnYmRocUhldWUtckppSmZxM3pwcVlSX2FrSkZTY1ZCX2RoclhDcnJINDhKZU9QY2tDNzlRSSIsImlkIjoiZmNfeE4tQmFORFpJNHlPd2JrUGlfbVhrUVFfMSJ9"
+    },
+    {
+      "question": "What is the fastest way to treat COVID symptoms?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lqVlFhMWxYU0d4M05XbG9RM0pLVEhwdE4wTmtiRnBEUjNwSU5YTmFSbTU2U0hOdlEyMWZVM3AzTVZaVmMyWk5kWFF4VFVkNlowODJNRzlJT0VKeFkyTjJlSEZyZVVsNmIwaElUbmhOUTBwMFZWUlBUbXRaYW1KNVVSSVhlRTR0UW1GT1JGcEpOSGxQZDJKclVHbGZiVmhyVVZFYUlrRkdUVUZIUjNKdlNqRTFkR0o1Y3paQ1pWRlROMTlzT1cxeVJWYzVUV0prWldjIiwiZmN2IjoiMyIsImVpIjoieE4tQmFORFpJNHlPd2JrUGlfbVhrUVEiLCJxYyI6IkNnMWpiM1pwWkNERm9XVnpkR3RoRUFBWUFYMHlDQ3dfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmYXN0ZXN0IHdheSB0byB0cmVhdCBDT1ZJRCBzeW1wdG9tcz8iLCJsayI6IkdpOTNhR0YwSUdseklIUm9aU0JtWVhOMFpYTjBJSGRoZVNCMGJ5QjBjbVZoZENCamIzWnBaQ0J6ZVcxd2RHOXRjdyIsImJzIjoiYzRXUE1RckNRQkJGc2QzS01rYkVRZXdzMUZ3Z2lCWXFpSjBXVmtQY3VBc21JN3NUUTI1aDUtWDBMcExOcWxoWkR2UC0telBpSUtLOVFnWTBFbGhKc0ZWMlljb3NVT3JtcERCRzVneno3VzYxQU1zR2RSNEh6M1UwQ0hfWU41ZlFWUjg5SjVTWU9MbTJ6cFdpWldrWlNxeUFDZGhJX0lpOUtnNGV2V2dhanN0X01kX2pZMklqUmtzcTRVejVDWTRFRlJXZzhDcHJYbHM2STBzb05hdW1MUTV1cmFnYmRocUhldWUtckppSmZxM3pwcVlSX2FrSkZTY1ZCX2RoclhDcnJINDhKZU9QY2tDNzlRSSIsImlkIjoiZmNfeE4tQmFORFpJNHlPd2JrUGlfbVhrUVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lqVlFhMWxYU0d4M05XbG9RM0pLVEhwdE4wTmtiRnBEUjNwSU5YTmFSbTU2U0hOdlEyMWZVM3AzTVZaVmMyWk5kWFF4VFVkNlowODJNRzlJT0VKeFkyTjJlSEZyZVVsNmIwaElUbmhOUTBwMFZWUlBUbXRaYW1KNVVSSVhlRTR0UW1GT1JGcEpOSGxQZDJKclVHbGZiVmhyVVZFYUlrRkdUVUZIUjNKdlNqRTFkR0o1Y3paQ1pWRlROMTlzT1cxeVJWYzVUV0prWldjIiwiZmN2IjoiMyIsImVpIjoieE4tQmFORFpJNHlPd2JrUGlfbVhrUVEiLCJxYyI6IkNnMWpiM1pwWkNERm9XVnpkR3RoRUFBWUFYMHlDQ3dfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmYXN0ZXN0IHdheSB0byB0cmVhdCBDT1ZJRCBzeW1wdG9tcz8iLCJsayI6IkdpOTNhR0YwSUdseklIUm9aU0JtWVhOMFpYTjBJSGRoZVNCMGJ5QjBjbVZoZENCamIzWnBaQ0J6ZVcxd2RHOXRjdyIsImJzIjoiYzRXUE1RckNRQkJGc2QzS01rYkVRZXdzMUZ3Z2lCWXFpSjBXVmtQY3VBc21JN3NUUTI1aDUtWDBMcExOcWxoWkR2UC0telBpSUtLOVFnWTBFbGhKc0ZWMlljb3NVT3JtcERCRzVneno3VzYxQU1zR2RSNEh6M1UwQ0hfWU41ZlFWUjg5SjVTWU9MbTJ6cFdpWldrWlNxeUFDZGhJX0lpOUtnNGV2V2dhanN0X01kX2pZMklqUmtzcTRVejVDWTRFRlJXZzhDcHJYbHM2STBzb05hdW1MUTV1cmFnYmRocUhldWUtckppSmZxM3pwcVlSX2FrSkZTY1ZCX2RoclhDcnJINDhKZU9QY2tDNzlRSSIsImlkIjoiZmNfeE4tQmFORFpJNHlPd2JrUGlfbVhrUVFfMSJ9"
+    },
+    {
+      "question": "How long do you have to isolate with COVID?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lqVlFhMWxYU0d4M05XbG9RM0pLVEhwdE4wTmtiRnBEUjNwSU5YTmFSbTU2U0hOdlEyMWZVM3AzTVZaVmMyWk5kWFF4VFVkNlowODJNRzlJT0VKeFkyTjJlSEZyZVVsNmIwaElUbmhOUTBwMFZWUlBUbXRaYW1KNVVSSVhlRTR0UW1GT1JGcEpOSGxQZDJKclVHbGZiVmhyVVZFYUlrRkdUVUZIUjNKdlNqRTFkR0o1Y3paQ1pWRlROMTlzT1cxeVJWYzVUV0prWldjIiwiZmN2IjoiMyIsImVpIjoieE4tQmFORFpJNHlPd2JrUGlfbVhrUVEiLCJxYyI6IkNnMWpiM1pwWkNERm9XVnpkR3RoRUFBWUFYMHlDQ3dfIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkbyB5b3UgaGF2ZSB0byBpc29sYXRlIHdpdGggQ09WSUQ/IiwibGsiOiJHaGxqYjNacFpDQm9iM2NnYkc5dVp5QjBieUJwYzI5c1lYUmwiLCJicyI6ImM0V1BNUXJDUUJCRnNkM0tNa2JFUWV3czFGd2dpQllxaUowV1ZrUGN1QXNtSTdzVFEyNWg1LVgwTHBMTnFsaFpEdlAtLXpQaUlLSzlRZ1kwRWxoSnNGVjJZY29zVU9ybXBEQkc1Z3p6N1c2MUFNc0dkUjRIejNVMENIX1lONWZRVlI4OUo1U1lPTG0yenBXaVpXa1pTcXlBQ2RoSV9JaTlLZzRldldnYWpzdF9NZF9qWTJJalJrc3E0VXo1Q1k0RUZSV2c4Q3ByWGxzNkkwc29OYXVtTFE1dXJhZ2JkaHFIZXVlLXJKaUpmcTN6cHFZUl9ha0pGU2NWQl9kaHJYQ3JySDQ4SmVPUGNrQzc5UUkiLCJpZCI6ImZjX3hOLUJhTkRaSTR5T3dia1BpX21Ya1FRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lqVlFhMWxYU0d4M05XbG9RM0pLVEhwdE4wTmtiRnBEUjNwSU5YTmFSbTU2U0hOdlEyMWZVM3AzTVZaVmMyWk5kWFF4VFVkNlowODJNRzlJT0VKeFkyTjJlSEZyZVVsNmIwaElUbmhOUTBwMFZWUlBUbXRaYW1KNVVSSVhlRTR0UW1GT1JGcEpOSGxQZDJKclVHbGZiVmhyVVZFYUlrRkdUVUZIUjNKdlNqRTFkR0o1Y3paQ1pWRlROMTlzT1cxeVJWYzVUV0prWldjIiwiZmN2IjoiMyIsImVpIjoieE4tQmFORFpJNHlPd2JrUGlfbVhrUVEiLCJxYyI6IkNnMWpiM1pwWkNERm9XVnpkR3RoRUFBWUFYMHlDQ3dfIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkbyB5b3UgaGF2ZSB0byBpc29sYXRlIHdpdGggQ09WSUQ%2FIiwibGsiOiJHaGxqYjNacFpDQm9iM2NnYkc5dVp5QjBieUJwYzI5c1lYUmwiLCJicyI6ImM0V1BNUXJDUUJCRnNkM0tNa2JFUWV3czFGd2dpQllxaUowV1ZrUGN1QXNtSTdzVFEyNWg1LVgwTHBMTnFsaFpEdlAtLXpQaUlLSzlRZ1kwRWxoSnNGVjJZY29zVU9ybXBEQkc1Z3p6N1c2MUFNc0dkUjRIejNVMENIX1lONWZRVlI4OUo1U1lPTG0yenBXaVpXa1pTcXlBQ2RoSV9JaTlLZzRldldnYWpzdF9NZF9qWTJJalJrc3E0VXo1Q1k0RUZSV2c4Q3ByWGxzNkkwc29OYXVtTFE1dXJhZ2JkaHFIZXVlLXJKaUpmcTN6cHFZUl9ha0pGU2NWQl9kaHJYQ3JySDQ4SmVPUGNrQzc5UUkiLCJpZCI6ImZjX3hOLUJhTkRaSTR5T3dia1BpX21Ya1FRXzEifQ%3D%3D"
+    },
+    {
+      "question": "How do you treat a COVID cough?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lqVlFhMWxYU0d4M05XbG9RM0pLVEhwdE4wTmtiRnBEUjNwSU5YTmFSbTU2U0hOdlEyMWZVM3AzTVZaVmMyWk5kWFF4VFVkNlowODJNRzlJT0VKeFkyTjJlSEZyZVVsNmIwaElUbmhOUTBwMFZWUlBUbXRaYW1KNVVSSVhlRTR0UW1GT1JGcEpOSGxQZDJKclVHbGZiVmhyVVZFYUlrRkdUVUZIUjNKdlNqRTFkR0o1Y3paQ1pWRlROMTlzT1cxeVJWYzVUV0prWldjIiwiZmN2IjoiMyIsImVpIjoieE4tQmFORFpJNHlPd2JrUGlfbVhrUVEiLCJxYyI6IkNnMWpiM1pwWkNERm9XVnpkR3RoRUFBWUFYMHlDQ3dfIiwicXVlc3Rpb24iOiJIb3cgZG8geW91IHRyZWF0IGEgQ09WSUQgY291Z2g/IiwibGsiOiJHaGwwY21WaGRHMWxiblFnWm05eUlHTnZkbWxrSUdOdmRXZG8iLCJicyI6ImM0V1BNUXJDUUJCRnNkM0tNa2JFUWV3czFGd2dpQllxaUowV1ZrUGN1QXNtSTdzVFEyNWg1LVgwTHBMTnFsaFpEdlAtLXpQaUlLSzlRZ1kwRWxoSnNGVjJZY29zVU9ybXBEQkc1Z3p6N1c2MUFNc0dkUjRIejNVMENIX1lONWZRVlI4OUo1U1lPTG0yenBXaVpXa1pTcXlBQ2RoSV9JaTlLZzRldldnYWpzdF9NZF9qWTJJalJrc3E0VXo1Q1k0RUZSV2c4Q3ByWGxzNkkwc29OYXVtTFE1dXJhZ2JkaHFIZXVlLXJKaUpmcTN6cHFZUl9ha0pGU2NWQl9kaHJYQ3JySDQ4SmVPUGNrQzc5UUkiLCJpZCI6ImZjX3hOLUJhTkRaSTR5T3dia1BpX21Ya1FRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lqVlFhMWxYU0d4M05XbG9RM0pLVEhwdE4wTmtiRnBEUjNwSU5YTmFSbTU2U0hOdlEyMWZVM3AzTVZaVmMyWk5kWFF4VFVkNlowODJNRzlJT0VKeFkyTjJlSEZyZVVsNmIwaElUbmhOUTBwMFZWUlBUbXRaYW1KNVVSSVhlRTR0UW1GT1JGcEpOSGxQZDJKclVHbGZiVmhyVVZFYUlrRkdUVUZIUjNKdlNqRTFkR0o1Y3paQ1pWRlROMTlzT1cxeVJWYzVUV0prWldjIiwiZmN2IjoiMyIsImVpIjoieE4tQmFORFpJNHlPd2JrUGlfbVhrUVEiLCJxYyI6IkNnMWpiM1pwWkNERm9XVnpkR3RoRUFBWUFYMHlDQ3dfIiwicXVlc3Rpb24iOiJIb3cgZG8geW91IHRyZWF0IGEgQ09WSUQgY291Z2g%2FIiwibGsiOiJHaGwwY21WaGRHMWxiblFnWm05eUlHTnZkbWxrSUdOdmRXZG8iLCJicyI6ImM0V1BNUXJDUUJCRnNkM0tNa2JFUWV3czFGd2dpQllxaUowV1ZrUGN1QXNtSTdzVFEyNWg1LVgwTHBMTnFsaFpEdlAtLXpQaUlLSzlRZ1kwRWxoSnNGVjJZY29zVU9ybXBEQkc1Z3p6N1c2MUFNc0dkUjRIejNVMENIX1lONWZRVlI4OUo1U1lPTG0yenBXaVpXa1pTcXlBQ2RoSV9JaTlLZzRldldnYWpzdF9NZF9qWTJJalJrc3E0VXo1Q1k0RUZSV2c4Q3ByWGxzNkkwc29OYXVtTFE1dXJhZ2JkaHFIZXVlLXJKaUpmcTN6cHFZUl9ha0pGU2NWQl9kaHJYQ3JySDQ4SmVPUGNrQzc5UUkiLCJpZCI6ImZjX3hOLUJhTkRaSTR5T3dia1BpX21Ya1FRXzEifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "9dkcPnicxZTbkqJIEIZv90Wam51WRGyxI4iJKkAa21N5mG69IThZICC2pSJ9N--yN_tK-zRbhSfosTdmYjdiMYSiqjLzr8yP_P5HFKzCv377099u1-SxWk3TtIKTBEdexUniqkWylVNdJBHZOP5XP5K9FYcjeUe4bC_XOYfIPOcF8qF_D62-OjfEbJDa4TAw49cQIS43l03bIt6Sej8sSdWs0lt4V1fpS4VUvFVFfG8Gbj1qvG-NisDXpMqgasV0A_iXF74xB-n_WQEAlTdqt-yRkd9BWJo8O8LMxgA-SABQcMmBcY2tTDEw-9KicJiLLKplXDR7ZXMQqdSZopSUFN-Mo-kpICwdBHw4WL736Yfp0kXlpJc4TBs0r4sDFjsPpfoKX3AyQEB6IsCHaPqjSyoXOpoz7kr4s7hrEFgvOqHRqy6mtear9oY-atUNYZVXJi0-0bpr1eJdK8sCcdQzxBaYelL04Ehkjr46Nt3XrPP1ZqPV-pIT5pALYqSI2LM2l2Z9u_bUIJVuBdYufEGmdHzMJMyPTiegAUafJuuYVXzJHCiUUzsfnv2gk5yyivb0PTwvDxMIN9go5eXIF2Se9HxAR0YXtBmrlK-A-Zwyr4wrZok0aoMB6tACa5rOxCtMv3GVkg4JZWnGxjCvrwH0PCbjizpE6CQenm3gCRLqxNCgqBkIhhDAmRLhrHc5MhN3CsN2R9RsmJ-aypkBFatj6p6tULEaYoHOKcon2XdigHZ6IhrqALGPkYqflPmiMWb_XAV6PX--RLm6AZS_s8HkcOiJQrCzwpeUz_jVPISjOkpvApXE9i80Lef_QY55eKYNY1REDt9GrtzSTsihM3KYIcda2hsrVQm52RU5ZRrqZr9lqlfkcAG5cRG5Yksbl5BTwE8jh4rIGRfkxp8id25pF-Q65hW5AUNOu4Hcf9nScvK846Pc33ZL_BFLXQn1ViO2a47XlFwQziFot2Z6I5Fq-COWi3j7uN4k-IsZuI9Q6Gwzl3uTnWQfuL_fKY07UPPINrS4ONokMm89zEXkC6O2QCR3bbhxW1x4g-aDGbSW5j6EljIc7aKH6UQd1r8paLIiWZtXgyHZHt6mqeqjVQ8K-mb9bZBZk44gDl_ibEn6D94YuE0U3HcaXQsQxdHHWNrde4t5GLe6nXfrZTWLe5PXRgKd1RQnG2ILXT91dyDXReS24vdfhd0siw0u3jgyza4Ygj4CiCOOZXpkL7uitJBqgrVoeoLneTYX4222loXW32RBho8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9dkcPnicxZTbkqJIEIZv90Wam51WRGyxI4iJKkAa21N5mG69IThZICC2pSJ9N--yN_tK-zRbhSfosTdmYjdiMYSiqjLzr8yP_P5HFKzCv377099u1-SxWk3TtIKTBEdexUniqkWylVNdJBHZOP5XP5K9FYcjeUe4bC_XOYfIPOcF8qF_D62-OjfEbJDa4TAw49cQIS43l03bIt6Sej8sSdWs0lt4V1fpS4VUvFVFfG8Gbj1qvG-NisDXpMqgasV0A_iXF74xB-n_WQEAlTdqt-yRkd9BWJo8O8LMxgA-SABQcMmBcY2tTDEw-9KicJiLLKplXDR7ZXMQqdSZopSUFN-Mo-kpICwdBHw4WL736Yfp0kXlpJc4TBs0r4sDFjsPpfoKX3AyQEB6IsCHaPqjSyoXOpoz7kr4s7hrEFgvOqHRqy6mtear9oY-atUNYZVXJi0-0bpr1eJdK8sCcdQzxBaYelL04Ehkjr46Nt3XrPP1ZqPV-pIT5pALYqSI2LM2l2Z9u_bUIJVuBdYufEGmdHzMJMyPTiegAUafJuuYVXzJHCiUUzsfnv2gk5yyivb0PTwvDxMIN9go5eXIF2Se9HxAR0YXtBmrlK-A-Zwyr4wrZok0aoMB6tACa5rOxCtMv3GVkg4JZWnGxjCvrwH0PCbjizpE6CQenm3gCRLqxNCgqBkIhhDAmRLhrHc5MhN3CsN2R9RsmJ-aypkBFatj6p6tULEaYoHOKcon2XdigHZ6IhrqALGPkYqflPmiMWb_XAV6PX--RLm6AZS_s8HkcOiJQrCzwpeUz_jVPISjOkpvApXE9i80Lef_QY55eKYNY1REDt9GrtzSTsihM3KYIcda2hsrVQm52RU5ZRrqZr9lqlfkcAG5cRG5Yksbl5BTwE8jh4rIGRfkxp8id25pF-Q65hW5AUNOu4Hcf9nScvK846Pc33ZL_BFLXQn1ViO2a47XlFwQziFot2Z6I5Fq-COWi3j7uN4k-IsZuI9Q6Gwzl3uTnWQfuL_fKY07UPPINrS4ONokMm89zEXkC6O2QCR3bbhxW1x4g-aDGbSW5j6EljIc7aKH6UQd1r8paLIiWZtXgyHZHt6mqeqjVQ8K-mb9bZBZk44gDl_ibEn6D94YuE0U3HcaXQsQxdHHWNrde4t5GLe6nXfrZTWLe5PXRgKd1RQnG2ILXT91dyDXReS24vdfhd0siw0u3jgyza4Ygj4CiCOOZXpkL7uitJBqgrVoeoLneTYX4222loXW32RBho8"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "CDC COVID Data Tracker: Home",
+      "link": "https://covid.cdc.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covid.cdc.gov/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECBoQAQ",
+      "displayed_link": "https://covid.cdc.gov",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919096efe462ad7da6e2be807134f88ee6b.png",
+      "snippet": "Test Positivity. % Test Positivity. 4.8%. Week ending July 12, 2025. Previous week 3.7% · Emergency Department Visits. % Diagnosed as",
+      "missing": [
+        "šestka"
+      ],
+      "must_include": {
+        "word": "šestka",
+        "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=covid+%22%C5%A1estka%22&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ5t4CegQIKRAB"
+      },
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "WHO COVID-19 dashboard: COVID-19 cases",
+      "link": "https://covid19.who.int/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covid19.who.int/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECBsQAQ",
+      "displayed_link": "https://covid19.who.int",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d91915bc78ec229ae0ca26ef855637554bce.png",
+      "snippet": "This global summary of",
+      "missing": [
+        "šestka"
+      ],
+      "must_include": {
+        "word": "šestka",
+        "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=covid+%22%C5%A1estka%22&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ5t4CegQIKhAB"
+      },
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 3,
+      "title": "Covid Test Services at Ag Covid Point Oc Šestka in Hlavní ...",
+      "link": "https://furtherpass.com/clinic/ag-covid-point-oc-sestka",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://furtherpass.com/clinic/ag-covid-point-oc-sestka&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECC8QAQ",
+      "displayed_link": "https://furtherpass.com › clinic › ag-covid-point-oc-sestka",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d91921f88ff887b786c4e1952d3acd2c9bb4.png",
+      "snippet": "is one of the PCR Test Locations in Hlavní město Praha, Czechia. Below you can find more information about the PCR tests offered by ...",
+      "source": "furtherpass.com"
+    },
+    {
+      "position": 4,
+      "title": "Apartmán Šestka, Nová Pec (updated prices 2025)",
+      "link": "https://www.booking.com/hotel/cz/apartman-sestka.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.booking.com/hotel/cz/apartman-sestka.html&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCIgBEAE",
+      "displayed_link": "https://www.booking.com › ... › Apartments in Nová Pec",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919e8a496ce2bc33212239a94c17c40881d.png",
+      "snippet": "Featuring a garden, Apartmán",
+      "source": "Booking.com"
+    },
+    {
+      "position": 5,
+      "title": "COVID-19 in Virginia",
+      "link": "https://www.vdh.virginia.gov/coronavirus/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vdh.virginia.gov/coronavirus/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECDYQAQ",
+      "displayed_link": "https://www.vdh.virginia.gov › coronavirus",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919b14de1d13f440cf116defb5312268c9f.png",
+      "date": "Dec 4, 2024",
+      "snippet": ". To get vaccinated and get more information about vaccines, contact a healthcare provider.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Long COVID",
+            "link": "https://www.vdh.virginia.gov/coronavirus/protect-yourself/longcovid/"
+          },
+          {
+            "title": "See the Numbers",
+            "link": "https://www.vdh.virginia.gov/coronavirus/see-the-numbers/"
+          },
+          {
+            "title": "Respiratory Disease Data",
+            "link": "https://www.vdh.virginia.gov/epidemiology/respiratory-diseases-in-virginia/data/"
+          },
+          {
+            "title": "Testing",
+            "link": "https://www.vdh.virginia.gov/coronavirus/protect-yourself/covid-19-testing/"
+          }
+        ]
+      },
+      "missing": [
+        "šestka"
+      ],
+      "must_include": {
+        "word": "šestka",
+        "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=covid+%22%C5%A1estka%22&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ5t4CegQISxAB"
+      },
+      "source": "Virginia Department of Health (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "Stále jsme tu pro Vás!",
+      "link": "https://www.oc-sestka.cz/blog/detail/stale-jsme-tu-pro-vas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oc-sestka.cz/blog/detail/stale-jsme-tu-pro-vas/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECGoQAQ",
+      "displayed_link": "https://www.oc-sestka.cz › detail › s...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9199e7de5e03d8534015e6c72bff1d0268b.png",
+      "snippet": "Vážení zákazníci,.",
+      "source": "OC Šestka"
+    },
+    {
+      "position": 7,
+      "title": "OC Šestka - Jsme rádi, že naše nové stanoviště pro antigenní ...",
+      "link": "https://www.facebook.com/ocsestka/photos/jsme-r%C3%A1di-%C5%BEe-na%C5%A1e-nov%C3%A9-stanovi%C5%A1t%C4%9B-pro-antigenn%C3%AD-testov%C3%A1n%C3%AD-covid-19-hojn%C4%9B-vyu%C5%BE%C3%ADv%C3%A1/4345571398792217/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/ocsestka/photos/jsme-r%25C3%25A1di-%25C5%25BEe-na%25C5%25A1e-nov%25C3%25A9-stanovi%25C5%25A1t%25C4%259B-pro-antigenn%25C3%25AD-testov%25C3%25A1n%25C3%25AD-covid-19-hojn%25C4%259B-vyu%25C5%25BE%25C3%25ADv%25C3%25A1/4345571398792217/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCIoBEAE",
+      "displayed_link": "https://www.facebook.com › ocsestka › photos › jsme-rá...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919cb131d73ad1d5556e940c9035b1e1468.png",
+      "snippet": "Jsme rádi, že naše",
+      "source": "Facebook"
+    },
+    {
+      "position": 8,
+      "title": "Opatření v souvislosti s narůstajícím rizikem onemocnění ...",
+      "link": "https://dumtriprani.cz/opatreni-v-souvislosti-s-narustajicim-rizikem-onemocneni-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dumtriprani.cz/opatreni-v-souvislosti-s-narustajicim-rizikem-onemocneni-covid-19/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCKQBEAE",
+      "displayed_link": "https://dumtriprani.cz › opatreni-v...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9194e78041e3d6afdc35959c34b3a79e1d0.png",
+      "snippet": "V případě potřeby nebo naléhavých případů náš klienti mohou kontaktovat v pracovní době (viz. Krizová pomoc dětem",
+      "source": "Zahrada pro duši"
+    },
+    {
+      "position": 9,
+      "title": "Covid podpory MPO ( ico.keyword:08388300 )",
+      "link": "https://www.hlidacstatu.cz/data/Hledat/covid-podpory-mpo?q=(+ico.keyword%3A08388300+)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hlidacstatu.cz/data/Hledat/covid-podpory-mpo%3Fq%3D(%2Bico.keyword%253A08388300%2B)&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECDAQAQ",
+      "displayed_link": "https://www.hlidacstatu.cz › Hledat",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919dca8fbf350ac7943d625771c163301de.png",
+      "snippet": "— Nájemné Výzva 3, Original Barber",
+      "source": "Hlídač Státu"
+    },
+    {
+      "position": 10,
+      "title": "Před Obchodním centrem Šestka bylo zřízeno nové ...",
+      "link": "https://www.vecerni-praha.cz/pred-obchodnim-centrem-sestka-bylo-zrizeno-nove-testovaci-misto-na-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vecerni-praha.cz/pred-obchodnim-centrem-sestka-bylo-zrizeno-nove-testovaci-misto-na-covid/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECE8QAQ",
+      "displayed_link": "https://www.vecerni-praha.cz › pr...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9193eec7ddeabb9f6a42efc995031762215.jpeg",
+      "date": "Mar 15, 2021",
+      "snippet": ". V rámci zdravotního pojištění je testování zdarma každé tři dny, samoplátci a cizinci ...",
+      "source": "Nová Večerní Praha"
+    },
+    {
+      "position": 11,
+      "title": "Šestka, Varnsdorf (precios actualizados 2025)",
+      "link": "https://www.booking.com/hotel/cz/sestka.es.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.booking.com/hotel/cz/sestka.es.html&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECGkQAQ",
+      "displayed_link": "https://www.booking.com › hotel",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919f65a14459acf3aeba0451d5312ff13ec.png",
+      "snippet": ", a solo 16 km de Universidad de Ciencias Aplicadas de Zittau/Goerlitz, y dispone de alojamiento con vistas a la montaña, wifi...",
+      "source": "Booking.com"
+    },
+    {
+      "position": 12,
+      "title": "Prípravu ViOnu ovplyvnil koronavírus. Cieľ je prvá šestka",
+      "link": "https://www.nikeliga.sk/clanok/2365-pripravu-vionu-ovplyvnil-koronavirus-ciel-je-prva-sestka",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nikeliga.sk/clanok/2365-pripravu-vionu-ovplyvnil-koronavirus-ciel-je-prva-sestka&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCIMBEAE",
+      "displayed_link": "https://www.nikeliga.sk › clanok",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919a1cd5be38128838f3331b0040d9184e3.png",
+      "date": "Feb 4, 2021",
+      "snippet": "6. februára, keď v dohrávke 18. kola privíta Trnavu. Predseda predstavenstva Martin Ondrejka na štvrtkovej ...",
+      "source": "Niké liga"
+    },
+    {
+      "position": 13,
+      "title": "CoVid-19 Test Facilities",
+      "link": "https://www.staralliance.com/zh/test-facilities",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.staralliance.com/zh/test-facilities&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCJ8BEAE",
+      "displayed_link": "https://www.staralliance.com › test...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9195647ff579a8a1a7af925767397cbfe5f.png",
+      "snippet": "Ag Covid Point Oc Šestka.",
+      "source": "Star Alliance"
+    },
+    {
+      "position": 14,
+      "title": "Distanční program COVID-19 (Červená šestka 2020-21 ...",
+      "link": "https://sedmnactka.junakbenesov.cz/distancni-program-covid-19-cervena-sestka-2020-21/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sedmnactka.junakbenesov.cz/distancni-program-covid-19-cervena-sestka-2020-21/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCKYBEAE",
+      "displayed_link": "https://sedmnactka.junakbenesov.cz › ...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d91915e5b2cbc6da51cef0b0503497b43094.png",
+      "snippet": "Distanční program",
+      "source": "\"Sedmnáctka\" Benešov"
+    },
+    {
+      "position": 15,
+      "title": "Čestné prohlášení o negativním testu žáka",
+      "link": "https://web.sestka-fm.cz/2021/06/09/cestne-prohlaseni-o-negativnim-testu-zaka/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://web.sestka-fm.cz/2021/06/09/cestne-prohlaseni-o-negativnim-testu-zaka/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCKIBEAE",
+      "displayed_link": "https://web.sestka-fm.cz › cestne-p...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919f935b37cf81336f0fb897fbea382c909.png",
+      "date": "Jun 9, 2021",
+      "snippet": "Vážení rodiče,. Bakaláři umožňují zákonným zástupcům generovat dokument s čestným prohlášením o negativním testu žáka přímo z aplikace.",
+      "source": "sestka-fm.cz"
+    },
+    {
+      "position": 16,
+      "title": "Apartmán Šestka - апартаменты в Нова-Пеце",
+      "link": "https://ru.planetofhotels.com/chehiya/nova-pec/apartman-sestka",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ru.planetofhotels.com/chehiya/nova-pec/apartman-sestka&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCLwBEAE",
+      "displayed_link": "https://ru.planetofhotels.com › apart...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9192ccca3bb47e46964ac7bd1e2bfcecbc8.png",
+      "snippet": "Апартаменты Apartmán",
+      "source": "Planet of Hotels"
+    },
+    {
+      "position": 17,
+      "title": "COVID-19 põhjustatud majanduskriisi mõju tööjõu",
+      "link": "https://oska.kutsekoda.ee/wp-content/uploads/2021/01/OSKA_COVID-19_eriuuring_11.01.2021_loplik.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://oska.kutsekoda.ee/wp-content/uploads/2021/01/OSKA_COVID-19_eriuuring_11.01.2021_loplik.pdf&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECDQQAQ",
+      "displayed_link": "https://oska.kutsekoda.ee › uploads › 2021/01",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919b33f3e9d0401c86430479d09f81b096b.png",
+      "snippet": "-19 põhjustatud majanduskriisi mõju tööjõu- ja oskuste vajaduse muutusele. Uuringuaruanne. Tallinn: SA Kutsekoda, tööjõuvajaduse seire- ja prognoosisüsteem ...",
+      "source": "Kutsekoda"
+    },
+    {
+      "position": 18,
+      "title": "Obchodní centrum Šestka letos otevírá už třetí novou ...",
+      "link": "https://www.info.cz/zpravodajstvi/byznys/obchodni-centrum-sestka-letos-otevira-uz-treti-novou-prodejnu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.info.cz/zpravodajstvi/byznys/obchodni-centrum-sestka-letos-otevira-uz-treti-novou-prodejnu&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECEwQAQ",
+      "displayed_link": "https://www.info.cz › byznys › ob...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9197ccd3f8e5b29dba460aa921aa1d2718c.png",
+      "date": "May 24, 2021",
+      "snippet": "Na střeše obchodního centra byla instalována mobilní testovací buňka na",
+      "source": "INFO.CZ"
+    },
+    {
+      "position": 19,
+      "title": "Veľká šestka - Chlapec a jeho robot - galéria",
+      "link": "https://www.topky.sk/gl/271149/1484663/Velka-sestka---Chlapec-a-jeho-robot",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.topky.sk/gl/271149/1484663/Velka-sestka---Chlapec-a-jeho-robot&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECFAQAQ",
+      "displayed_link": "https://www.topky.sk › Velka-sest...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919f771a41661455b446bc426949d7f7e31.png",
+      "snippet": ": Dotknúť sa môže najzraniteľnejších, nákup vakcín je pozastavený · Domáce.",
+      "source": "Topky.sk"
+    },
+    {
+      "position": 20,
+      "title": "Senzace v Melbourne, šestka Del Potro končí. Federer a Murray ...",
+      "link": "https://www.idnes.cz/sport/tenis/australian-open.A130119_070351_tenis_min?zdroj=vybava_idnes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.idnes.cz/sport/tenis/australian-open.A130119_070351_tenis_min%3Fzdroj%3Dvybava_idnes&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECFMQAQ",
+      "displayed_link": "https://www.idnes.cz › sport › tenis",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9196ebc1b0086f8e028656d3e8ee023e946.jpeg",
+      "snippet": "Svěřenec Ivana Lendla Andy Murray sice vyhrál ve třech setech, ale proti litevskému kvalifikantovi Berankisovi to jednoduché neměl. Třikrát dokonce ztratil ...",
+      "source": "iDNES.cz"
+    },
+    {
+      "position": 21,
+      "title": "March | 2020",
+      "link": "https://bdsestka.cz/2020/03/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bdsestka.cz/2020/03/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECHAQAQ",
+      "displayed_link": "https://bdsestka.cz › 2020/03",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d91981a4cbaed5816b011bc9091ebd925fc8.png",
+      "date": "Mar 20, 2020",
+      "snippet": "Vážení sousedé, v našem domě je (v karanténě) osoba, která byla v poslední době v rizikové oblasti s vysokým výskytem onemocnění",
+      "source": "Bytové družstvo Šestka"
+    },
+    {
+      "position": 22,
+      "title": "Apartmán Šestka - Apartment - Nová Pec",
+      "link": "https://in.j2ski.com/ski_hotels/Czech_Republic/Nova_Pec/Apartman_Sestka.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.j2ski.com/ski_hotels/Czech_Republic/Nova_Pec/Apartman_Sestka.html&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECGgQAQ",
+      "displayed_link": "https://in.j2ski.com › ... › Prachatice District › Nová Pec",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d91998dd04d8afd05852c5ebae5f50b7ac7c.png",
+      "snippet": ". Cashless payments; Cleaning chemicals effective against Coronavirus; Safety Protocols followed. Sanitization. Hand sanitizer provided ...",
+      "source": "J2Ski.Com"
+    },
+    {
+      "position": 23,
+      "title": "OC Šestka,_jihovýchodní_roh - Prague Airport (PRG)",
+      "link": "https://www.pragueairport.co.uk/shopping/obchodni_centrum_sestka_jihovychodni_roh/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pragueairport.co.uk/shopping/obchodni_centrum_sestka_jihovychodni_roh/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCIkBEAE",
+      "displayed_link": "https://www.pragueairport.co.uk › shopping › obchodn...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919fc5141c159818a67425438aea78ec363.png",
+      "snippet": ". PAT. Recommended. FREE. Free Prague Guide & Tour. Download guidebook · Download map · Free Tour Offer. +420 220 111 888.",
+      "source": "pragueairport.co.uk"
+    },
+    {
+      "position": 24,
+      "title": "Newstalk",
+      "link": "https://m.facebook.com/story.php?story_fbid=1067226905449122&id=100064854665554",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.facebook.com/story.php%3Fstory_fbid%3D1067226905449122%26id%3D100064854665554&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCIsBEAE",
+      "displayed_link": "150+ reactions",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9197bfa839d52bd174657f9bed061e7c9c0.png",
+      "snippet": "Lots of people putting comments about Ukraine, Russia, USA and NATO. People should really look at the history of the Ukraine Russia war and what started it.",
+      "source": "Facebook · Newstalk"
+    },
+    {
+      "position": 25,
+      "title": "Letní vlna covidu BA.5 přichází do Česka. Na podzim se ...",
+      "link": "https://www.irozhlas.cz/zpravy-domov/koronavirus-cesko-covid-19-aktualne-vakcina-letni-vlna-podzim_2206290615_ako",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.irozhlas.cz/zpravy-domov/koronavirus-cesko-covid-19-aktualne-vakcina-letni-vlna-podzim_2206290615_ako&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCKABEAE",
+      "displayed_link": "https://www.irozhlas.cz › koronavi...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9198fd47e372f40028a0627c38be07e0118.png",
+      "date": "Jun 29, 2022",
+      "snippet": "Letní vlna covidu přichází do Česka, počet nově nakažených opět stoupá. Důvodem je hlavně varianta omikronu BA.5.",
+      "source": "iROZHLAS"
+    },
+    {
+      "position": 26,
+      "title": "Scouts in Czechia helping in covid-19 times | O skautské ...",
+      "link": "https://www.facebook.com/skaut/videos/scouts-in-czechia-helping-in-covid-19-times/934663647290723/",
+      "displayed_link": "300+ reactions · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGlJnAurWSj5h95R-hQKCTbSasipGTch8n19dO3z8k5F0EH6uK7UFbxqki97RY&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919c3e3fe51eb9d0e4c9d157128cbe594f6.png",
+      "snippet": "Scouts in Czechia helping in covid-19 times | O skautské pomoci ... Umělecká šestka 2025 | Reportáž Zprávičky. Mar 25, 2025 · 6.2K views.",
+      "duration": "3:12",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS2a5P4FDTA56sVJnptfecPtNfiFDeAutwdZQ",
+      "source": "Facebook · Junák - český skaut"
+    },
+    {
+      "position": 27,
+      "title": "V obchodním centrum Šestka vznikla Sky Gallery",
+      "link": "https://www.neverdie.cz/lifestyle/v-obchodnim-centrum-sestka-vznikla-sky-gallery/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.neverdie.cz/lifestyle/v-obchodnim-centrum-sestka-vznikla-sky-gallery/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCKMBEAE",
+      "displayed_link": "https://www.neverdie.cz › lifestyle",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919e410e8eecb892f5782af7f39642141ec.png",
+      "date": "Apr 28, 2021",
+      "snippet": "Našim zákazníkům se neustále snažíme nabízet něco navíc, ať už v podobě",
+      "source": "neverdie.cz"
+    },
+    {
+      "position": 28,
+      "title": "Akce zdravé nemocnice pro veřejnost",
+      "link": "https://www.uvn.cz/index.php?view=category&id=161%3Azdrava-nemocnice&option=com_content&Itemid=737&lang=cs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uvn.cz/index.php%3Fview%3Dcategory%26id%3D161%253Azdrava-nemocnice%26option%3Dcom_content%26Itemid%3D737%26lang%3Dcs&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCKUBEAE",
+      "displayed_link": "https://www.uvn.cz › ...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919676c26fbcdc5ee343b966f18b930839c.png",
+      "snippet": "ÚVN pravidelně organizuje v prostorách nemocnice i mimo nemocnici (např. nákupní centrum OC",
+      "source": "Ústřední vojenská nemocnice Praha"
+    },
+    {
+      "position": 29,
+      "title": "Zapletalová absolvovala test na COVID-19 a predstaví sa v ...",
+      "link": "https://m.behame.sk/drahove-behy/zapletalova-absolvovala-test-na-covid-19-a-predstavi-sa-v-diamantovej-lige",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.behame.sk/drahove-behy/zapletalova-absolvovala-test-na-covid-19-a-predstavi-sa-v-diamantovej-lige&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCKEBEAE",
+      "displayed_link": "https://m.behame.sk › drahove-behy",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9198f5936de99fb00503c2e8a58cf5a3501.png",
+      "date": "Sep 16, 2020",
+      "snippet": "V konkurencii, v akej pobeží o 18.53 h v Ríme, ešte nikdy neštartovala. V štartovke je šestica z prvej tohtoročnej svetovej desiatky - líderka ...",
+      "source": "BEHAME.sk"
+    },
+    {
+      "position": 30,
+      "title": "Elektronické cigarety Praha 6, Ruzyně",
+      "link": "https://www.vapestyle.cz/prodejna-praha-6-oc-sestka/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vapestyle.cz/prodejna-praha-6-oc-sestka/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCL4BEAE",
+      "displayed_link": "https://www.vapestyle.cz › prodejna...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d91986f093c6b0106022783165cd399edaab.png",
+      "snippet": "program ... Jak se k nám dostanete? Elektronická cigareta vapestyle.cz sídlí na Praze 6 přímo v nákupním centru OC",
+      "source": "VapeStyle.cz"
+    },
+    {
+      "position": 31,
+      "title": "Pomoc seniorům",
+      "link": "https://www.praha6.cz/zpravodajstvi/pomoc-seniorum-2020-03-13_2411.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.praha6.cz/zpravodajstvi/pomoc-seniorum-2020-03-13_2411.html&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCL0BEAE",
+      "displayed_link": "https://www.praha6.cz › pomoc-se...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919c05dbd271a4edbac21273bbfe66cfcba.png",
+      "snippet": "Máte ve svém okolí seniora nebo seniorku, kteří potřebují pomoct s nákupem potravin, hygienických prostředků, přivézt oběd nebo se dostat k lékaři?",
+      "source": "Praha 6"
+    },
+    {
+      "position": 32,
+      "title": "Velká šestka / Filmásek / Premiéra",
+      "link": "https://luhacovice.cz/en/akce/2370a-velka-sestka-filmasek-premiera/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://luhacovice.cz/en/akce/2370a-velka-sestka-filmasek-premiera/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCL8BEAE",
+      "displayed_link": "https://luhacovice.cz › Home › Akce",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919d6c98aaa43c945cc845f6f7644132704.png",
+      "snippet": "Velká",
+      "source": "Luhačovice.cz"
+    },
+    {
+      "position": 33,
+      "title": "Den plný zábavy u nás. Aquacentrum Šutka | Aquacentrum ...",
+      "link": "https://www.sutka.eu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sutka.eu/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECDEQAQ",
+      "displayed_link": "https://www.sutka.eu",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919fcbf7d527c5728de13095beb885737f3.jpeg",
+      "snippet": "Koncentrovanou zábavu naleznete u nás v Aquacentru Šutka. Dokonalé nové čisté prostředí s křišťálovou vodou si každý užije a děti jednou tolik.",
+      "source": "Aquacentrum Šutka"
+    },
+    {
+      "position": 34,
+      "title": "01/2025 | Šestka - zpravodaj MČ Praha 6",
+      "link": "https://www.sestka.cz/01-2025",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sestka.cz/01-2025&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECC4QAQ",
+      "displayed_link": "https://www.sestka.cz › ...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919cd32f0b31a68c952fca4f6cb93330757.png",
+      "snippet": "nám pomohl k pravidelným mezinárodním online setkáním a přípravám online mezinárodního víkendového festivalu. A protože se některá města nacházela na ...",
+      "source": "sestka.cz"
+    },
+    {
+      "position": 35,
+      "title": "Covid-19 vylidnil food courty. Restaurace v obchodních ...",
+      "link": "https://prazsky.denik.cz/zpravy_region/covid-19-vylidnil-food-courty-restaurace-v-obchodnich-centrech-zely-prazdnotou-20200314.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://prazsky.denik.cz/zpravy_region/covid-19-vylidnil-food-courty-restaurace-v-obchodnich-centrech-zely-prazdnotou-20200314.html&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECFEQAQ",
+      "displayed_link": "https://prazsky.denik.cz › ... › Praha",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9195cba8c64331a52ec7602b6c4763d71e5.png",
+      "date": "Mar 14, 2020",
+      "snippet": "(na snímcích). „V zájmu bezpečnosti zákazníků přerušily až do odvolání svůj provoz stravovací jednotky, ...",
+      "source": "Pražský deník"
+    },
+    {
+      "position": 36,
+      "title": "Šestka nečeká a pomáhá hned: městská část nabídne ...",
+      "link": "https://www.praha6.cz/zpravodajstvi/sestka-neceka-a-pomaha-hned-mestska-cast-nabidne-rodicum-skolni-obedy-zdarma_63045.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.praha6.cz/zpravodajstvi/sestka-neceka-a-pomaha-hned-mestska-cast-nabidne-rodicum-skolni-obedy-zdarma_63045.html&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECE4QAQ",
+      "displayed_link": "https://www.praha6.cz › sestka-ne...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9190786f8a26a230d2e4a03cd1214605d03.png",
+      "date": "Nov 9, 2022",
+      "snippet": "nečeká a pomáhá hned: městská část nabídne rodičům školní obědy zdarma ... V posledních měsících zažívají občané dramatický nárůst ...",
+      "source": "Praha 6"
+    },
+    {
+      "position": 37,
+      "title": "Novinky :: Šestka Zásmuky",
+      "link": "https://sestka-zasmuky.webnode.cz/novinky/newscbm_318417/80/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sestka-zasmuky.webnode.cz/novinky/newscbm_318417/80/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECE0QAQ",
+      "displayed_link": "https://sestka-zasmuky.webnode.cz › ...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9192dc9c9e3a3632fa65d05d3ce1c4504e6.png",
+      "snippet": "...",
+      "source": "Šestka Zásmuky"
+    },
+    {
+      "position": 38,
+      "title": "Covid Act Now: US COVID Tracker",
+      "link": "https://covidactnow.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covidactnow.org/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECFIQAQ",
+      "displayed_link": "https://covidactnow.org",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9191d719fe0312bd54c8f6f599f383c7aa1.png",
+      "snippet": "Jul 23, 2025 Covid Act Now has",
+      "missing": [
+        "šestka"
+      ],
+      "must_include": {
+        "word": "šestka",
+        "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=covid+%22%C5%A1estka%22&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ5t4CegQIZRAB"
+      },
+      "source": "Covid Act Now"
+    },
+    {
+      "position": 39,
+      "title": "COVID-19: äririskide juhtimine Archives - Page 9 of 13",
+      "link": "https://www.sorainen.com/et/news-service/covid-19-aririskide-juhtimine/page/9/?pg=4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sorainen.com/et/news-service/covid-19-aririskide-juhtimine/page/9/%3Fpg%3D4&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECFQQAQ",
+      "displayed_link": "https://www.sorainen.com › news-service › page",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919e009268f42aabd826f3804ffb792eaf0.png",
+      "snippet": "Värske „Chambers Europe 2025” järgi tugevdasime oma juhtpositsiooni Baltikumis veelgi,",
+      "source": "Sorainen"
+    },
+    {
+      "position": 40,
+      "title": "Brand synergy at the OC Sestka shopping centre, Prague 6 ...",
+      "link": "https://praguepig.com/2020/01/photo-brand-synergy-at-the-oc-sestka-shopping-centre-prague-6-ruzyne-d-jpstafford-on-twitter-social-media-post/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://praguepig.com/2020/01/photo-brand-synergy-at-the-oc-sestka-shopping-centre-prague-6-ruzyne-d-jpstafford-on-twitter-social-media-post/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECGwQAQ",
+      "displayed_link": "https://praguepig.com › 2020/01 › photo-brand-synergy...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d91904c99ce57ae6e697159042a77044c953.png",
+      "date": "Jan 24, 2020",
+      "snippet": "Photo: Brand synergy at the OC",
+      "source": "praguepig.com"
+    },
+    {
+      "position": 41,
+      "title": "In Southern France",
+      "link": "https://decastell.com/2021/08/15/in-southern-france/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://decastell.com/2021/08/15/in-southern-france/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECG8QAQ",
+      "displayed_link": "https://decastell.com › Blog › Where I Am",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919e910a45b7f13f299a484921062777e38.png",
+      "date": "Aug 15, 2021",
+      "snippet": "But of course,",
+      "source": "Sebastien de Castell"
+    },
+    {
+      "position": 42,
+      "title": "Apartmán Šestka in Nová Pec, Czech Republic - reviews, prices",
+      "link": "https://en.planetofhotels.com/czech-republic/nova-pec/apartman-sestka",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.planetofhotels.com/czech-republic/nova-pec/apartman-sestka&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECG4QAQ",
+      "displayed_link": "https://en.planetofhotels.com › ... › Hotels in Nová Pec",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9195a6fde843113d08b946a52360418327f.png",
+      "snippet": "In response to",
+      "source": "Planet of Hotels"
+    },
+    {
+      "position": 43,
+      "title": "Closer look: Papírový servis (2011)",
+      "link": "https://ajetology.blogspot.com/2020/03/closer-look-papirovy-servis-2011.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ajetology.blogspot.com/2020/03/closer-look-papirovy-servis-2011.html&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECG0QAQ",
+      "displayed_link": "https://ajetology.blogspot.com › 2020/03 › closer-look-p...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d91936e0275d0c512605cb74839f9ca47fce.jpeg",
+      "date": "Mar 27, 2020",
+      "snippet": "this was definitely before the",
+      "source": "ajetology"
+    },
+    {
+      "position": 44,
+      "title": "Podpora zdraví veřejnosti",
+      "link": "https://www.uvn.cz/cs/podpora-zdravi-verejnosti?start=10",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uvn.cz/cs/podpora-zdravi-verejnosti%3Fstart%3D10&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECGsQAQ",
+      "displayed_link": "https://www.uvn.cz › podpora-zdra...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919d0872d5bba0b5ea8bff2c5886e57793d.png",
+      "snippet": "nákupní centrum OC",
+      "source": "Ústřední vojenská nemocnice Praha"
+    },
+    {
+      "position": 45,
+      "title": "11/2021 | Šestka - zpravodaj MČ Praha 6",
+      "link": "https://www.sestka.cz/11-2021",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sestka.cz/11-2021&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCIQBEAE",
+      "displayed_link": "https://www.sestka.cz › ...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919dfc08e7eaa7e4908dcacaab260c0f56c.png",
+      "snippet": "mocnění",
+      "source": "sestka.cz"
+    },
+    {
+      "position": 46,
+      "title": "Sportisimo expanduje na Prahu 6, otevírá novou prodejnu ...",
+      "link": "https://www.vecerni-praha.cz/sportisimo-expanduje-na-prahu-6-otevira-novou-prodejnu-v-oc-sestka/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vecerni-praha.cz/sportisimo-expanduje-na-prahu-6-otevira-novou-prodejnu-v-oc-sestka/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCIYBEAE",
+      "displayed_link": "https://www.vecerni-praha.cz › sp...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d91970f390ba82c717af01d2a38fcf58f083.jpeg",
+      "date": "Mar 12, 2021",
+      "snippet": "Obchodní centrum",
+      "source": "Nová Večerní Praha"
+    },
+    {
+      "position": 47,
+      "title": "Test Clinics List for PCR and Antigen Tests in Hlavni město ...",
+      "link": "https://furtherpass.com/clinics/czechia/hlavni-mesto-praha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://furtherpass.com/clinics/czechia/hlavni-mesto-praha&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCIUBEAE",
+      "displayed_link": "https://furtherpass.com › czechia › hlavni-mesto-praha",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9199efabfbadf2e2e7f29e7947553530766.png",
+      "snippet": "Test Types. Ag",
+      "source": "furtherpass.com"
+    },
+    {
+      "position": 48,
+      "title": "Testovací místo před Obchodním centrem Šestka. - Znojmo",
+      "link": "https://znojmo.regiony24.cz/16-237393-nove-testovaci-misto-na-covid-vyrostlo-pred-obchodnim-centrem-sestka",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://znojmo.regiony24.cz/16-237393-nove-testovaci-misto-na-covid-vyrostlo-pred-obchodnim-centrem-sestka&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCIcBEAE",
+      "displayed_link": "https://znojmo.regiony24.cz › 16-2...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919a92b63eb7b84eff1550b33fde4608642.jpeg",
+      "date": "Mar 15, 2021",
+      "snippet": "Před Obchodním centrem",
+      "source": "Regiony24"
+    },
+    {
+      "position": 49,
+      "title": "See the Numbers – Coronavirus",
+      "link": "https://www.vdh.virginia.gov/coronavirus/see-the-numbers/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vdh.virginia.gov/coronavirus/see-the-numbers/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECDUQAQ",
+      "displayed_link": "https://www.vdh.virginia.gov › Coronavirus",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d91975e7c9d549617e543ec9e4c38e4b0678.png",
+      "date": "Sep 24, 2024",
+      "snippet": "See the Numbers ·",
+      "missing": [
+        "šestka"
+      ],
+      "must_include": {
+        "word": "šestka",
+        "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=covid+%22%C5%A1estka%22&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ5t4CegQIShAB"
+      },
+      "source": "Virginia Department of Health (.gov)"
+    },
+    {
+      "position": 50,
+      "title": "Coronavirus Disease (COVID-19) Situation Reports",
+      "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECDIQAQ",
+      "displayed_link": "https://www.who.int › diseases › novel-coronavirus-2019",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d9194048e9ce7492032a0347f8f3f655ee3e.png",
+      "snippet": "The Weekly Epidemiological Update provides an overview of the global, regional and country-level",
+      "missing": [
+        "šestka"
+      ],
+      "must_include": {
+        "word": "šestka",
+        "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=covid+%22%C5%A1estka%22&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ5t4CegQIRhAB"
+      },
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 51,
+      "title": "Sitka City and Borough, Alaska coronavirus cases ...",
+      "link": "https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/state/alaska/county/sitka-city-and-borough/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/state/alaska/county/sitka-city-and-borough/&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoFCJ4BEAE",
+      "displayed_link": "https://usafacts.org › ... › Sitka City and Borough",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d919358a3c0fc7534b927707979dbdfb9cd1.png",
+      "date": "Jul 23, 2024",
+      "snippet": "How is Sitka City and Borough faring against",
+      "missing": [
+        "šestka"
+      ],
+      "must_include": {
+        "word": "šestka",
+        "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=covid+%22%C5%A1estka%22&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ5t4CegUItwEQAQ"
+      },
+      "source": "USAFacts"
+    },
+    {
+      "position": 52,
+      "title": "Czechs, Slovaks to declare coronavirus state of emergency",
+      "link": "https://medicalxpress.com/news/2020-09-czechs-slovaks-declare-coronavirus-state.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medicalxpress.com/news/2020-09-czechs-slovaks-declare-coronavirus-state.html&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQFnoECC0QAQ",
+      "displayed_link": "https://medicalxpress.com › news › 2020-09-czechs-slo...",
+      "favicon": "https://serpapi.com/searches/6881dfbf0e285d363749a4ac/images/f9e9a76682148104b1a86ee648a3d91910dbdd103bd41a99410506af56a65cc0.png",
+      "date": "Sep 28, 2020",
+      "snippet": "The Czech Republic and Slovakia are set to declare states of emergency this week to combat the",
+      "source": "Medical Xpress"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How bad is COVID right now",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=How+bad+is+COVID+right+now&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ1QJ6BQjMARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+bad+is+COVID+right+now"
+    },
+    {
+      "block_position": 1,
+      "query": "Worst states for COVID right now",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=Worst+states+for+COVID+right+now&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ1QJ6BQjLARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Worst+states+for+COVID+right+now"
+    },
+    {
+      "block_position": 1,
+      "query": "what states are in the red zone for covid-19 as of today",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=what+states+are+in+the+red+zone+for+covid-19+as+of+today&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ1QJ6BQjPARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+states+are+in+the+red+zone+for+covid-19+as+of+today"
+    },
+    {
+      "block_position": 1,
+      "query": "u.s. covid cases today",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=u.s.+covid+cases+today&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ1QJ6BQjTARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=u.s.+covid+cases+today"
+    },
+    {
+      "block_position": 1,
+      "query": "u.s. covid cases per day",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=u.s.+covid+cases+per+day&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ1QJ6BQjSARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=u.s.+covid+cases+per+day"
+    },
+    {
+      "block_position": 1,
+      "query": "covid deaths in u.s. by month chart",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=covid+deaths+in+u.s.+by+month+chart&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ1QJ6BQjJARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+deaths+in+u.s.+by+month+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "u.s. covid deaths per day",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=u.s.+covid+deaths+per+day&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ1QJ6BQjGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=u.s.+covid+deaths+per+day"
+    },
+    {
+      "block_position": 1,
+      "query": "Is COVID on the rise again",
+      "link": "https://www.google.com/search?num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&q=Is+COVID+on+the+rise+again&sa=X&ved=2ahUKEwjQy7XF-9SOAxUMRzABHYv8JUIQ1QJ6BQjKARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Is+COVID+on+the+rise+again"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 52 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=covid+%C5%A1estka&num=100&sca_esv=d48f812af7e2eeeb&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=covid+%C5%A1estka&oq=covid+%C5%A1estka&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=covid+%C5%A1estka&oq=covid+%C5%A1estka&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=covid+%C5%A1estka&oq=covid+%C5%A1estka&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=covid+%C5%A1estka&oq=covid+%C5%A1estka&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=covid+%C5%A1estka&oq=covid+%C5%A1estka&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+%C5%A1estka&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+%C5%A1estka&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+%C5%A1estka&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+%C5%A1estka&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+%C5%A1estka&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+%C5%A1estka&start=400"
+    }
+  }
+}

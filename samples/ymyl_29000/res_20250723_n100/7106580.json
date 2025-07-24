@@ -1,0 +1,1467 @@
+{
+  "search_metadata": {
+    "id": "688168b8ab28c6f2cb87a29d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5e8b9085f22a5502/688168b8ab28c6f2cb87a29d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/5e8b9085f22a5502/688168b8ab28c6f2cb87a29d.json_with_pixel_position",
+    "created_at": "2025-07-23 22:56:56 UTC",
+    "processed_at": "2025-07-23 22:56:56 UTC",
+    "google_url": "https://www.google.com/search?q=test+covid+bruxelles&oq=test+covid+bruxelles&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5e8b9085f22a5502/688168b8ab28c6f2cb87a29d.html",
+    "total_time_taken": 2.77
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "test covid bruxelles",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "test covid bruxelles",
+    "total_results": 3720000,
+    "time_taken_displayed": 0.5,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Where to buy COVID tests in Brussels?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVF6SmhTVlpxUmxoRlMxRnhXV0ZsYUZoeVpFNVBjVlJETm1wdVpFWjFReTFwT0dZMFNISkNTa3MyTVcxbVEySlFXRmRVTW5reFVWTlVRWFZHTUMxaGIyWjFRMFJyVkZsNFZtUktUemhyVTJOS2RYRkJla1IzU0ZwRWR4SVhkVzFwUW1GS1ZIbElaVWRQZG5Jd1VHZEtObm80VVZVYUlrRkdUVUZIUjNCTFQxVlNiR3RKVjJoVFlsQnJPVzlCZDBWR1pEUjVSV3cwUjNjIiwiZmN2IjoiMyIsImVpIjoidW1pQmFKVHlIZUdPdnIwUGdKNno4UVUiLCJxYyI6IkNoUjBaWE4wSUdOdmRtbGtJR0p5ZFhobGJHeGxjeEFBR0FGOVBBdmFQZyIsInF1ZXN0aW9uIjoiV2hlcmUgdG8gYnV5IENPVklEIHRlc3RzIGluIEJydXNzZWxzPyIsImxrIjoiR2lGM2FHVnlaU0IwYnlCaWRYa2dZMjkyYVdRZ2RHVnpkSE1nWW5KMWMzTmxiSE0iLCJicyI6ImMyMlBNVTdEUUJSRVJic0ZpcWdzRjJoUVJFR0ZXQWxJWnltbUlGVVFCZFRyOWNmZTRPeEdfcnUyZkFXT3hBMDRBNWZCRGxZU1Fkb184MmJtaTZXNGZDMnBKbmlITEhSSWx5LUxCM2hpenpBVzh6b3dVOFZKOUgwbXBfRkZlLWpWcmpINTZNMUdvMmpFX2FOcnNWYTJRNjQ2QnBjdVZEa1dhSlh4eU9qTkRRbnEzZGdDNnFBdmliNEtPWXZ2eW1PME9VN3ZGNGhiY2I3dERicEU3b2g3OVNsOTNtcTliWWpfdUpLVC1IU2o2XzJSeFVySVZGbDBMc0RYcXFGcWVHNU9WV0hDR3EzeGZiM2Z6V3lVMXNaU0VuMEdlUk5mNjM5ZzlnZjgzVGRpazVNZiIsImlkIjoiZmNfdW1pQmFKVHlIZUdPdnIwUGdKNno4UVVfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVF6SmhTVlpxUmxoRlMxRnhXV0ZsYUZoeVpFNVBjVlJETm1wdVpFWjFReTFwT0dZMFNISkNTa3MyTVcxbVEySlFXRmRVTW5reFVWTlVRWFZHTUMxaGIyWjFRMFJyVkZsNFZtUktUemhyVTJOS2RYRkJla1IzU0ZwRWR4SVhkVzFwUW1GS1ZIbElaVWRQZG5Jd1VHZEtObm80VVZVYUlrRkdUVUZIUjNCTFQxVlNiR3RKVjJoVFlsQnJPVzlCZDBWR1pEUjVSV3cwUjNjIiwiZmN2IjoiMyIsImVpIjoidW1pQmFKVHlIZUdPdnIwUGdKNno4UVUiLCJxYyI6IkNoUjBaWE4wSUdOdmRtbGtJR0p5ZFhobGJHeGxjeEFBR0FGOVBBdmFQZyIsInF1ZXN0aW9uIjoiV2hlcmUgdG8gYnV5IENPVklEIHRlc3RzIGluIEJydXNzZWxzPyIsImxrIjoiR2lGM2FHVnlaU0IwYnlCaWRYa2dZMjkyYVdRZ2RHVnpkSE1nWW5KMWMzTmxiSE0iLCJicyI6ImMyMlBNVTdEUUJSRVJic0ZpcWdzRjJoUVJFR0ZXQWxJWnltbUlGVVFCZFRyOWNmZTRPeEdfcnUyZkFXT3hBMDRBNWZCRGxZU1Fkb184MmJtaTZXNGZDMnBKbmlITEhSSWx5LUxCM2hpenpBVzh6b3dVOFZKOUgwbXBfRkZlLWpWcmpINTZNMUdvMmpFX2FOcnNWYTJRNjQ2QnBjdVZEa1dhSlh4eU9qTkRRbnEzZGdDNnFBdmliNEtPWXZ2eW1PME9VN3ZGNGhiY2I3dERicEU3b2g3OVNsOTNtcTliWWpfdUpLVC1IU2o2XzJSeFVySVZGbDBMc0RYcXFGcWVHNU9WV0hDR3EzeGZiM2Z6V3lVMXNaU0VuMEdlUk5mNjM5ZzlnZjgzVGRpazVNZiIsImlkIjoiZmNfdW1pQmFKVHlIZUdPdnIwUGdKNno4UVVfMSJ9"
+    },
+    {
+      "question": "How many days should I wait before taking a COVID test?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVF6SmhTVlpxUmxoRlMxRnhXV0ZsYUZoeVpFNVBjVlJETm1wdVpFWjFReTFwT0dZMFNISkNTa3MyTVcxbVEySlFXRmRVTW5reFVWTlVRWFZHTUMxaGIyWjFRMFJyVkZsNFZtUktUemhyVTJOS2RYRkJla1IzU0ZwRWR4SVhkVzFwUW1GS1ZIbElaVWRQZG5Jd1VHZEtObm80VVZVYUlrRkdUVUZIUjNCTFQxVlNiR3RKVjJoVFlsQnJPVzlCZDBWR1pEUjVSV3cwUjNjIiwiZmN2IjoiMyIsImVpIjoidW1pQmFKVHlIZUdPdnIwUGdKNno4UVUiLCJxYyI6IkNoUjBaWE4wSUdOdmRtbGtJR0p5ZFhobGJHeGxjeEFBR0FGOVBBdmFQZyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgZGF5cyBzaG91bGQgSSB3YWl0IGJlZm9yZSB0YWtpbmcgYSBDT1ZJRCB0ZXN0PyIsImxrIjoiR2pab2IzY2diV0Z1ZVNCa1lYbHpJSE5vYjNWc1pDQnBJSGRoYVhRZ1ltVm1iM0psSUhSaGEybHVaeUJoSUdOdmRtbGtJSFJsYzNRIiwiYnMiOiJjMjJQTVU3RFFCUkVSYnNGaXFnc0YyaFFSRUdGV0FsSVp5bW1JRlVRQmRUcjljZmU0T3hHX3J1MmZBV094QTA0QTVmQkRsWVNRZG9fODJibWk2VzRmQzJwSm5pSExIUklseS1MQjNoaXp6QVc4em93VThWSjlIMG1wX0ZGZS1qVnJqSDU2TTFHbzJqRV9hTnJzVmEyUTY0NkJwY3VWRGtXYUpYeHlPak5EUW5xM2RnQzZxQXZpYjRLT1l2dnltTzBPVTd2RjRoYmNiN3REYnBFN29oNzlTbDkzbXE5YllqX3VKS1QtSFNqNl8yUnhVcklWRmwwTHNEWHFxRnFlRzVPVldIQ0dxM3hmYjNmeld5VTFzWlNFbjBHZVJOZjYzOWc5Z2Y4M1RkaWs1TWYiLCJpZCI6ImZjX3VtaUJhSlR5SGVHT3ZyMFBnSjZ6OFFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVF6SmhTVlpxUmxoRlMxRnhXV0ZsYUZoeVpFNVBjVlJETm1wdVpFWjFReTFwT0dZMFNISkNTa3MyTVcxbVEySlFXRmRVTW5reFVWTlVRWFZHTUMxaGIyWjFRMFJyVkZsNFZtUktUemhyVTJOS2RYRkJla1IzU0ZwRWR4SVhkVzFwUW1GS1ZIbElaVWRQZG5Jd1VHZEtObm80VVZVYUlrRkdUVUZIUjNCTFQxVlNiR3RKVjJoVFlsQnJPVzlCZDBWR1pEUjVSV3cwUjNjIiwiZmN2IjoiMyIsImVpIjoidW1pQmFKVHlIZUdPdnIwUGdKNno4UVUiLCJxYyI6IkNoUjBaWE4wSUdOdmRtbGtJR0p5ZFhobGJHeGxjeEFBR0FGOVBBdmFQZyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgZGF5cyBzaG91bGQgSSB3YWl0IGJlZm9yZSB0YWtpbmcgYSBDT1ZJRCB0ZXN0PyIsImxrIjoiR2pab2IzY2diV0Z1ZVNCa1lYbHpJSE5vYjNWc1pDQnBJSGRoYVhRZ1ltVm1iM0psSUhSaGEybHVaeUJoSUdOdmRtbGtJSFJsYzNRIiwiYnMiOiJjMjJQTVU3RFFCUkVSYnNGaXFnc0YyaFFSRUdGV0FsSVp5bW1JRlVRQmRUcjljZmU0T3hHX3J1MmZBV094QTA0QTVmQkRsWVNRZG9fODJibWk2VzRmQzJwSm5pSExIUklseS1MQjNoaXp6QVc4em93VThWSjlIMG1wX0ZGZS1qVnJqSDU2TTFHbzJqRV9hTnJzVmEyUTY0NkJwY3VWRGtXYUpYeHlPak5EUW5xM2RnQzZxQXZpYjRLT1l2dnltTzBPVTd2RjRoYmNiN3REYnBFN29oNzlTbDkzbXE5YllqX3VKS1QtSFNqNl8yUnhVcklWRmwwTHNEWHFxRnFlRzVPVldIQ0dxM3hmYjNmeld5VTFzWlNFbjBHZVJOZjYzOWc5Z2Y4M1RkaWs1TWYiLCJpZCI6ImZjX3VtaUJhSlR5SGVHT3ZyMFBnSjZ6OFFVXzEifQ%3D%3D"
+    },
+    {
+      "question": "How much does a PCR test cost?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVF6SmhTVlpxUmxoRlMxRnhXV0ZsYUZoeVpFNVBjVlJETm1wdVpFWjFReTFwT0dZMFNISkNTa3MyTVcxbVEySlFXRmRVTW5reFVWTlVRWFZHTUMxaGIyWjFRMFJyVkZsNFZtUktUemhyVTJOS2RYRkJla1IzU0ZwRWR4SVhkVzFwUW1GS1ZIbElaVWRQZG5Jd1VHZEtObm80VVZVYUlrRkdUVUZIUjNCTFQxVlNiR3RKVjJoVFlsQnJPVzlCZDBWR1pEUjVSV3cwUjNjIiwiZmN2IjoiMyIsImVpIjoidW1pQmFKVHlIZUdPdnIwUGdKNno4UVUiLCJxYyI6IkNoUjBaWE4wSUdOdmRtbGtJR0p5ZFhobGJHeGxjeEFBR0FGOVBBdmFQZyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBhIFBDUiB0ZXN0IGNvc3Q/IiwibGsiOiJHZzV3WTNJZ2RHVnpkQ0JqYjNOMGN3IiwiYnMiOiJjMjJQTVU3RFFCUkVSYnNGaXFnc0YyaFFSRUdGV0FsSVp5bW1JRlVRQmRUcjljZmU0T3hHX3J1MmZBV094QTA0QTVmQkRsWVNRZG9fODJibWk2VzRmQzJwSm5pSExIUklseS1MQjNoaXp6QVc4em93VThWSjlIMG1wX0ZGZS1qVnJqSDU2TTFHbzJqRV9hTnJzVmEyUTY0NkJwY3VWRGtXYUpYeHlPak5EUW5xM2RnQzZxQXZpYjRLT1l2dnltTzBPVTd2RjRoYmNiN3REYnBFN29oNzlTbDkzbXE5YllqX3VKS1QtSFNqNl8yUnhVcklWRmwwTHNEWHFxRnFlRzVPVldIQ0dxM3hmYjNmeld5VTFzWlNFbjBHZVJOZjYzOWc5Z2Y4M1RkaWs1TWYiLCJpZCI6ImZjX3VtaUJhSlR5SGVHT3ZyMFBnSjZ6OFFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVF6SmhTVlpxUmxoRlMxRnhXV0ZsYUZoeVpFNVBjVlJETm1wdVpFWjFReTFwT0dZMFNISkNTa3MyTVcxbVEySlFXRmRVTW5reFVWTlVRWFZHTUMxaGIyWjFRMFJyVkZsNFZtUktUemhyVTJOS2RYRkJla1IzU0ZwRWR4SVhkVzFwUW1GS1ZIbElaVWRQZG5Jd1VHZEtObm80VVZVYUlrRkdUVUZIUjNCTFQxVlNiR3RKVjJoVFlsQnJPVzlCZDBWR1pEUjVSV3cwUjNjIiwiZmN2IjoiMyIsImVpIjoidW1pQmFKVHlIZUdPdnIwUGdKNno4UVUiLCJxYyI6IkNoUjBaWE4wSUdOdmRtbGtJR0p5ZFhobGJHeGxjeEFBR0FGOVBBdmFQZyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBhIFBDUiB0ZXN0IGNvc3Q%2FIiwibGsiOiJHZzV3WTNJZ2RHVnpkQ0JqYjNOMGN3IiwiYnMiOiJjMjJQTVU3RFFCUkVSYnNGaXFnc0YyaFFSRUdGV0FsSVp5bW1JRlVRQmRUcjljZmU0T3hHX3J1MmZBV094QTA0QTVmQkRsWVNRZG9fODJibWk2VzRmQzJwSm5pSExIUklseS1MQjNoaXp6QVc4em93VThWSjlIMG1wX0ZGZS1qVnJqSDU2TTFHbzJqRV9hTnJzVmEyUTY0NkJwY3VWRGtXYUpYeHlPak5EUW5xM2RnQzZxQXZpYjRLT1l2dnltTzBPVTd2RjRoYmNiN3REYnBFN29oNzlTbDkzbXE5YllqX3VKS1QtSFNqNl8yUnhVcklWRmwwTHNEWHFxRnFlRzVPVldIQ0dxM3hmYjNmeld5VTFzWlNFbjBHZVJOZjYzOWc5Z2Y4M1RkaWs1TWYiLCJpZCI6ImZjX3VtaUJhSlR5SGVHT3ZyMFBnSjZ6OFFVXzEifQ%3D%3D"
+    },
+    {
+      "question": "Can you travel to Belgium without a COVID vaccine?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVF6SmhTVlpxUmxoRlMxRnhXV0ZsYUZoeVpFNVBjVlJETm1wdVpFWjFReTFwT0dZMFNISkNTa3MyTVcxbVEySlFXRmRVTW5reFVWTlVRWFZHTUMxaGIyWjFRMFJyVkZsNFZtUktUemhyVTJOS2RYRkJla1IzU0ZwRWR4SVhkVzFwUW1GS1ZIbElaVWRQZG5Jd1VHZEtObm80VVZVYUlrRkdUVUZIUjNCTFQxVlNiR3RKVjJoVFlsQnJPVzlCZDBWR1pEUjVSV3cwUjNjIiwiZmN2IjoiMyIsImVpIjoidW1pQmFKVHlIZUdPdnIwUGdKNno4UVUiLCJxYyI6IkNoUjBaWE4wSUdOdmRtbGtJR0p5ZFhobGJHeGxjeEFBR0FGOVBBdmFQZyIsInF1ZXN0aW9uIjoiQ2FuIHlvdSB0cmF2ZWwgdG8gQmVsZ2l1bSB3aXRob3V0IGEgQ09WSUQgdmFjY2luZT8iLCJsayI6IkdpOWpZVzRnZVc5MUlIUnlZWFpsYkNCMGJ5QmlaV3huYVhWdElIZHBkR2h2ZFhRZ1kyOTJhV1FnZG1GalkybHVaUSIsImJzIjoiYzIyUE1VN0RRQlJFUmJzRmlxZ3NGMmhRUkVHRldBbElaeW1tSUZVUUJkVHI5Y2ZlNE94R19ydTJmQVdPeEEwNEE1ZkJEbFlTUWRvXzgyYm1pNlc0ZkMycEpuaUhMSFJJbHktTEIzaGl6ekFXOHpvd1U4Vko5SDBtcF9GRmUtalZyakg1Nk0xR28yakVfYU5yc1ZhMlE2NDZCcGN1VkRrV2FKWHh5T2pORFFucTNkZ0M2cUF2aWI0S09ZdnZ5bU8wT1U3dkY0aGJjYjd0RGJwRTdvaDc5U2w5M21xOWJZal91SktULUhTajZfMlJ4VXJJVkZsMExzRFhxcUZxZUc1T1ZXSENHcTN4ZmIzZnpXeVUxc1pTRW4wR2VSTmY2MzlnOWdmODNUZGlrNU1mIiwiaWQiOiJmY191bWlCYUpUeUhlR092cjBQZ0o2ejhRVV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVF6SmhTVlpxUmxoRlMxRnhXV0ZsYUZoeVpFNVBjVlJETm1wdVpFWjFReTFwT0dZMFNISkNTa3MyTVcxbVEySlFXRmRVTW5reFVWTlVRWFZHTUMxaGIyWjFRMFJyVkZsNFZtUktUemhyVTJOS2RYRkJla1IzU0ZwRWR4SVhkVzFwUW1GS1ZIbElaVWRQZG5Jd1VHZEtObm80VVZVYUlrRkdUVUZIUjNCTFQxVlNiR3RKVjJoVFlsQnJPVzlCZDBWR1pEUjVSV3cwUjNjIiwiZmN2IjoiMyIsImVpIjoidW1pQmFKVHlIZUdPdnIwUGdKNno4UVUiLCJxYyI6IkNoUjBaWE4wSUdOdmRtbGtJR0p5ZFhobGJHeGxjeEFBR0FGOVBBdmFQZyIsInF1ZXN0aW9uIjoiQ2FuIHlvdSB0cmF2ZWwgdG8gQmVsZ2l1bSB3aXRob3V0IGEgQ09WSUQgdmFjY2luZT8iLCJsayI6IkdpOWpZVzRnZVc5MUlIUnlZWFpsYkNCMGJ5QmlaV3huYVhWdElIZHBkR2h2ZFhRZ1kyOTJhV1FnZG1GalkybHVaUSIsImJzIjoiYzIyUE1VN0RRQlJFUmJzRmlxZ3NGMmhRUkVHRldBbElaeW1tSUZVUUJkVHI5Y2ZlNE94R19ydTJmQVdPeEEwNEE1ZkJEbFlTUWRvXzgyYm1pNlc0ZkMycEpuaUhMSFJJbHktTEIzaGl6ekFXOHpvd1U4Vko5SDBtcF9GRmUtalZyakg1Nk0xR28yakVfYU5yc1ZhMlE2NDZCcGN1VkRrV2FKWHh5T2pORFFucTNkZ0M2cUF2aWI0S09ZdnZ5bU8wT1U3dkY0aGJjYjd0RGJwRTdvaDc5U2w5M21xOWJZal91SktULUhTajZfMlJ4VXJJVkZsMExzRFhxcUZxZUc1T1ZXSENHcTN4ZmIzZnpXeVUxc1pTRW4wR2VSTmY2MzlnOWdmODNUZGlrNU1mIiwiaWQiOiJmY191bWlCYUpUeUhlR092cjBQZ0o2ejhRVV8xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "_VSEInicxZTdbupGEMdv-yLl5hzAQBIgknU0uzawGAILAZLcIDBmDbZZ8BqMc3f6LH2qPk3XHxCIiHSqVqot9ntm_575MT__dFcb56_f_rCDYCsei8UwDAuMc-ZaBZN7xZmINmZxyV3hm_YP21WtTY656l7kooNayZlCVXLWSt17KzRrP0ctq9k7-EqftR_ea3SUS8zV6XwmrLX0flyL4rQoG-f3iiYnBVGwNoXS4q669vLT3TMvlJVSrdArzjx5AP7lw26sIfkzMAC9PqjfsqckacG5Wjw5YrENARs4AGZXDuQl-skz9WA63WsXF2ZbOB7hDyMMOMTAmgR0nX0S-DGjmWn6dfjzJ17Nk7O9821fPI1LGwOQBlqYzVJbEjtiuDvSziowhZq2hsFxOLrps031boTqIDC6uY9gtcPtgL5KXcUFk7lWinNfdqWiL-LM4-e6wvWRVunU-pXDxu3VKhOj2iT4zdyMKy3MvidMmeIMlbiEasiNlwdjdz929UKngEpnolAciGGaAcQSJRgQgcGX4UlDkMWIXbRwkcn4RSbP4kYPcu6ctvscIZ8RdplQJ4uC9NRMBnJEOtBIomXDKvY5ir0iFJ9lMYh6zBgiiHRZejftpjgnKQKwUB5CiSzBKBX4lGY9JUom8KyZnGTwRG3caEN4gbU8suLQQYoJFKXqcdzp6PShhrTvEZRcTAHLv2gNKK2lfiiD-KXoMkoGvAKEMElnTYiBkSswuSYqUXMblquHf7kjSbqB0FuzFBkjRStNd1vvrroZu5tWbbBekHyYIcS9-T8oTOb_A1nswcAYBpeQsduQXZetDDJ6gozFkMVlaxeXjyvI0Bkym5hJ2WpdQKafIRsR_AHZVdlimJ40ZyJ-DbJY6hkyegEZ_hKytGydIXvT4D3MIOtlkNHPkP23ZSthzUq76xq2X7PPIDb8wbJfV6Y1MZ7ymeEfX_rPx3Y9VGyLfp8uveBx63NZ1VaLR1RuB9Eit1MDSwTfTH5YLb7N_f3Rcl1L5DzX56oyq75vhbkJy5qB_UnUaXPEI2wsg_rCbixJQyfmNjyWRk9E0fdP2va56_SqE-vQWRv7126lH7Tz9nbcC-1q3Rnu1-1R6Lfr1WPDdfu8H_nNsDHQ_EFLD5gYHrdCNA1noPX2lZfDk513SihoOuTQvCf04W03eSdjSHQJNSL3A8Q1bI9IzvNNFQO5c-BJZiAnzNnUEge1XJrXlgvTMpfW_X25Os95LIi2arn-N2xqfnE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_VSEInicxZTdbupGEMdv-yLl5hzAQBIgknU0uzawGAILAZLcIDBmDbZZ8BqMc3f6LH2qPk3XHxCIiHSqVqot9ntm_575MT__dFcb56_f_rCDYCsei8UwDAuMc-ZaBZN7xZmINmZxyV3hm_YP21WtTY656l7kooNayZlCVXLWSt17KzRrP0ctq9k7-EqftR_ea3SUS8zV6XwmrLX0flyL4rQoG-f3iiYnBVGwNoXS4q669vLT3TMvlJVSrdArzjx5AP7lw26sIfkzMAC9PqjfsqckacG5Wjw5YrENARs4AGZXDuQl-skz9WA63WsXF2ZbOB7hDyMMOMTAmgR0nX0S-DGjmWn6dfjzJ17Nk7O9821fPI1LGwOQBlqYzVJbEjtiuDvSziowhZq2hsFxOLrps031boTqIDC6uY9gtcPtgL5KXcUFk7lWinNfdqWiL-LM4-e6wvWRVunU-pXDxu3VKhOj2iT4zdyMKy3MvidMmeIMlbiEasiNlwdjdz929UKngEpnolAciGGaAcQSJRgQgcGX4UlDkMWIXbRwkcn4RSbP4kYPcu6ctvscIZ8RdplQJ4uC9NRMBnJEOtBIomXDKvY5ir0iFJ9lMYh6zBgiiHRZejftpjgnKQKwUB5CiSzBKBX4lGY9JUom8KyZnGTwRG3caEN4gbU8suLQQYoJFKXqcdzp6PShhrTvEZRcTAHLv2gNKK2lfiiD-KXoMkoGvAKEMElnTYiBkSswuSYqUXMblquHf7kjSbqB0FuzFBkjRStNd1vvrroZu5tWbbBekHyYIcS9-T8oTOb_A1nswcAYBpeQsduQXZetDDJ6gozFkMVlaxeXjyvI0Bkym5hJ2WpdQKafIRsR_AHZVdlimJ40ZyJ-DbJY6hkyegEZ_hKytGydIXvT4D3MIOtlkNHPkP23ZSthzUq76xq2X7PPIDb8wbJfV6Y1MZ7ymeEfX_rPx3Y9VGyLfp8uveBx63NZ1VaLR1RuB9Eit1MDSwTfTH5YLb7N_f3Rcl1L5DzX56oyq75vhbkJy5qB_UnUaXPEI2wsg_rCbixJQyfmNjyWRk9E0fdP2va56_SqE-vQWRv7126lH7Tz9nbcC-1q3Rnu1-1R6Lfr1WPDdfu8H_nNsDHQ_EFLD5gYHrdCNA1noPX2lZfDk513SihoOuTQvCf04W03eSdjSHQJNSL3A8Q1bI9IzvNNFQO5c-BJZiAnzNnUEge1XJrXlgvTMpfW_X25Os95LIi2arn-N2xqfnE"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "COVID-19 Test Center in Belgium | Book now via Doctena",
+      "link": "https://www.doctena.be/en/covid-19-test-center/belgium",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doctena.be/en/covid-19-test-center/belgium&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECAoQAQ",
+      "displayed_link": "https://www.doctena.be › Doctena › Pathology",
+      "thumbnail": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27af38f9e1208bab3d3a1a28694cdfceac5.jpeg",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27afb0606f30a54d7b56d3be8a0319058e3.png",
+      "snippet": "Les Pharmacies Servais COVID-19 Test Center, Avenue Molière 8, 1300 Wavre, No appointments available online, Call to book, Please call: +32 10 22 23 31.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Test"
+      ],
+      "source": "doctena.be"
+    },
+    {
+      "position": 2,
+      "title": "Access my European certificates - Brussels Health Network",
+      "link": "https://brusselshealthnetwork.be/en/patients/im-inquiring/covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brusselshealthnetwork.be/en/patients/im-inquiring/covid-19/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECBIQAQ",
+      "displayed_link": "https://brusselshealthnetwork.be › patients › covid-19",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ae30ed3550a91c348566e777cef0f1473.png",
+      "snippet": "Where can you find your COVID-19 test results? ? · Possibility to access PCR test results on MaSante.be via Result via CTPC code (Test prescription Code). · Ask ...",
+      "snippet_highlighted_words": [
+        "Possibility to access PCR test results on MaSante.be"
+      ],
+      "source": "Réseau Santé Bruxellois"
+    },
+    {
+      "position": 3,
+      "title": "Covid Test Services at Testcovid-Albert in Bruxelles-Capitale ...",
+      "link": "https://furtherpass.com/clinic/testcovid-albert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://furtherpass.com/clinic/testcovid-albert&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCO8BEAE",
+      "displayed_link": "https://furtherpass.com › clinic › testcovid-albert",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a9411d581ec1df2484f9d5aec2c2b210d.png",
+      "snippet": "We offer fit-to-fly or travel COVID-19 PCR testing to all travelers in Bruxelles-Capitale. Rapid COVID-19 antigen testing (also called lateral flow COVID-19 ...",
+      "snippet_highlighted_words": [
+        "fit-to-fly or travel COVID-19 PCR testing"
+      ],
+      "source": "furtherpass.com"
+    },
+    {
+      "position": 4,
+      "title": "Coronavirus info",
+      "link": "https://www.visit.brussels/en/visitors/plan-your-trip/coronavirus-info",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.visit.brussels/en/visitors/plan-your-trip/coronavirus-info&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECC0QAQ",
+      "displayed_link": "https://www.visit.brussels › visitors › plan-your-trip › c...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a8f3ff44462b9a4c9bf86074377113778.png",
+      "snippet": "The requirement to be tested on the 1st and 7th day and the 10 day quarantine is removed. There is no more requirement for people travelling to Belgium to have ...",
+      "snippet_highlighted_words": [
+        "The requirement to be tested on the 1st and 7th day"
+      ],
+      "source": "Visit Brussels"
+    },
+    {
+      "position": 5,
+      "title": "Frequently Asked Questions about COVID-19 — Health",
+      "link": "https://www.kuleuven.be/english/stuvo/health/general-practitioners/frequently-asked-questions-about-corona",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kuleuven.be/english/stuvo/health/general-practitioners/frequently-asked-questions-about-corona&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCJECEAE",
+      "displayed_link": "https://www.kuleuven.be › health › general-practitioners",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a7defebbbe73bd62d985099c888351e17.png",
+      "date": "Jul 15, 2024",
+      "snippet": "Preferably, you carry out a self-test, which costs 4 to 8 euros (at your own expense) and is available at pharmacies and supermarkets. RAT costs ...",
+      "snippet_highlighted_words": [
+        "which costs 4 to 8 euros"
+      ],
+      "source": "KU Leuven"
+    },
+    {
+      "position": 6,
+      "title": "The Brussels Airport Covid-19 Test Center in Bruxelles-Capitale",
+      "link": "https://furtherpass.com/clinic/ecocare-the-brussels-airport-covid-19-test-center",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://furtherpass.com/clinic/ecocare-the-brussels-airport-covid-19-test-center&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECDIQAQ",
+      "displayed_link": "https://furtherpass.com › clinic › ecocare-the-brussels-ai...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a6b32cb1f12d711481e86f1bedba1044b.png",
+      "snippet": "We offer fit-to-fly or travel COVID-19 PCR testing to all travelers in Bruxelles-Capitale. Rapid COVID-19 antigen testing (also called lateral flow COVID-19 ...",
+      "snippet_highlighted_words": [
+        "fit-to-fly or travel COVID-19 PCR testing"
+      ],
+      "source": "furtherpass.com"
+    },
+    {
+      "position": 7,
+      "title": "COVID FAQ | English speaking doctors in the heart of Brussels",
+      "link": "https://berlaymonthealth.eu/covid-faq/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://berlaymonthealth.eu/covid-faq/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIcBEAE",
+      "displayed_link": "https://berlaymonthealth.eu › covid-faq",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27af0420c5e94b10872889132e10f7ff29c.png",
+      "snippet": "-buy an antigen selftest kit at your pharmacy and carry out the test at home, -have a pharmacist do the test for you, -have a PCR test done on our practice when ...",
+      "snippet_highlighted_words": [
+        "test",
+        "test",
+        "test"
+      ],
+      "source": "berlaymonthealth.eu"
+    },
+    {
+      "position": 8,
+      "title": "Coronavirus in Belgium: COVID-19 information and support",
+      "link": "https://www.expatica.com/be/healthcare/healthcare-basics/belgium-coronavirus-218146/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.expatica.com/be/healthcare/healthcare-basics/belgium-coronavirus-218146/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCO4BEAE",
+      "displayed_link": "https://www.expatica.com › healthcare › healthcare-basics",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ac09f0580fcd3edf4e0c5e8c035274cc1.png",
+      "snippet": "Belgium offers free PCR tests to anyone over six years old, which are carried out at a testing center or pharmacy. You can also pay to take a rapid antigen test ...",
+      "snippet_highlighted_words": [
+        "Belgium offers free PCR tests to anyone over six years old"
+      ],
+      "source": "Expatica"
+    },
+    {
+      "position": 9,
+      "title": "Covid testing for return to US - Brussels Forum",
+      "link": "https://www.tripadvisor.com/ShowTopic-g188644-i205-k13604181-Covid_testing_for_return_to_US-Brussels.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.com/ShowTopic-g188644-i205-k13604181-Covid_testing_for_return_to_US-Brussels.html&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCKoCEAE",
+      "displayed_link": "https://www.tripadvisor.com › ... › Brussels Travel Forum",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a1e6afbcf883b2909243e26ebeaba435d.png",
+      "date": "Jul 9, 2021",
+      "snippet": "You cannot get tested in the pharmacy, they only sell self tests which are not accepted for travel, only PCR tests are accepted. Best make an ...",
+      "snippet_highlighted_words": [
+        "only PCR tests are accepted"
+      ],
+      "source": "Tripadvisor"
+    },
+    {
+      "position": 10,
+      "title": "Où se faire dépister à Bruxelles ? Tests antigéniques et PCR",
+      "link": "https://famgb.be/fr/actualites-detail/actualites/ou-faire-depister-bruxelles-tests-antigeniques-pcr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://famgb.be/fr/actualites-detail/actualites/ou-faire-depister-bruxelles-tests-antigeniques-pcr/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECDQQAQ",
+      "displayed_link": "https://famgb.be › actualites › ou-f...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ab08aa2f634bb12582c95a20455308507.png",
+      "snippet": "Vous avez peut-être connus les \"centres de test\" de la Région les deux premières années du Covid ? Ces centres de tests temporaires sont désormais fermés.",
+      "snippet_highlighted_words": [
+        "Ces centres de tests temporaires sont désormais fermés"
+      ],
+      "source": "FAMGB"
+    },
+    {
+      "position": 11,
+      "title": "Brussels Airport opens COVID-19 test centre",
+      "link": "https://www.futuretravelexperience.com/2020/09/brussels-airport-opens-covid-19-test-centre/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.futuretravelexperience.com/2020/09/brussels-airport-opens-covid-19-test-centre/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECGYQAQ",
+      "displayed_link": "https://www.futuretravelexperience.com › 2020/09 › br...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27af5924d7de1ef15240a10e96e62bf06b3.png",
+      "snippet": "The Test Centre is open seven days a week, including on Sundays and holidays, from 3.30 am to midnight. People who wish to get tested, are advised to make an ...",
+      "snippet_highlighted_words": [
+        "The Test Centre is open seven days a week"
+      ],
+      "source": "Future Travel Experience"
+    },
+    {
+      "position": 12,
+      "title": "Covid-19 : Informations et Vaccination à Bruxelles",
+      "link": "https://www.vivalis.brussels/fr/covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vivalis.brussels/fr/covid-19&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIUBEAE",
+      "displayed_link": "https://www.vivalis.brussels › covid...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a90f9d8056de8b40d3a07d2a4f3a732d6.jpeg",
+      "snippet": "Le certificat numérique COVID est un document normalisé permettant aux voyageurs de prouver qu'ils sont vaccinés, qu'ils se sont récemment remis de la maladie ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Vivalis.brussels"
+    },
+    {
+      "position": 13,
+      "title": "Find a doctor quickly and book an appointment online",
+      "link": "https://rosa.be/en/results/test-covid/brussels-1000/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rosa.be/en/results/test-covid/brussels-1000/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCLcBEAE",
+      "displayed_link": "https://rosa.be › Test Covid",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27aa81bce71363c1bb4af23a8c645c58efa.png",
+      "snippet": "Find a test covid in Brussels available today or tomorrow, contracted or not and make an appointment online.",
+      "snippet_highlighted_words": [
+        "Find a test covid in Brussels"
+      ],
+      "source": "Rosa.be"
+    },
+    {
+      "position": 14,
+      "title": "COVID testing - Brussels Forum",
+      "link": "https://www.tripadvisor.ie/ShowTopic-g188644-i205-k13740185-COVID_testing-Brussels.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.ie/ShowTopic-g188644-i205-k13740185-COVID_testing-Brussels.html&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCI8CEAE",
+      "displayed_link": "https://www.tripadvisor.ie › ... › Brussels Travel Forum",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a62736a29e3e1c75d6ed3d127b5260ce2.png",
+      "date": "Nov 22, 2021",
+      "snippet": "IMO easiest solution is to take a test at Brussels Airport (assuming this is your point of departure). Most suited for departing USA travellers ...",
+      "snippet_highlighted_words": [
+        "take a test at Brussels Airport"
+      ],
+      "source": "Tripadvisor"
+    },
+    {
+      "position": 15,
+      "title": "Plateforme fédérale de Testing COVID-19 pour renforcer la ...",
+      "link": "https://www.inami.fgov.be/fr/themes/covid-19/plateforme-federale-de-testing-covid-19-pour-renforcer-la-capacite-de-test",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inami.fgov.be/fr/themes/covid-19/plateforme-federale-de-testing-covid-19-pour-renforcer-la-capacite-de-test&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIsCEAE",
+      "displayed_link": "https://www.inami.fgov.be › themes",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27aae247c73efbdf839c60853a39b81fecb.png",
+      "snippet": "La Plateforme fédérale de Testing a permis d'analyser des tests PCR supplémentaires dans le cadre de la pandémie de COVID-19. Cette plateforme a créé une ...",
+      "snippet_highlighted_words": [
+        "Testing",
+        "tests",
+        "COVID"
+      ],
+      "source": "INAMI"
+    },
+    {
+      "position": 16,
+      "title": "Evaluation of Temporary COVID-19 Testing Sites at ...",
+      "link": "https://www.mdpi.com/2075-5309/13/4/985",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mdpi.com/2075-5309/13/4/985&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCK0CEAE",
+      "displayed_link": "https://www.mdpi.com › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a1b3bc70db8e2ae486fcbaccd9ed7f091.png",
+      "author": "by I Muraj",
+      "snippet": "This paper explored the temporary facilities created during the pandemic for use as COVID-19 test centers at Zaventem Airport.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "test"
+      ],
+      "source": "MDPI"
+    },
+    {
+      "position": 17,
+      "title": "Testing Covid-19 à Ixelles",
+      "link": "https://www.pharmacie-louise.be/testing-covid-19-ixelles",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pharmacie-louise.be/testing-covid-19-ixelles&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCMQCEAE",
+      "displayed_link": "https://www.pharmacie-louise.be › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a8296e3f55aa09a95161cac9ffbafe8b5.png",
+      "snippet": "Depuis le 12 juillet 2021, votre pharmacie effectue les tests antigéniques en vue d'obtenir un certificat covid négatif. Le test coûte 21,72 € et n'est pas ...",
+      "snippet_highlighted_words": [
+        "votre pharmacie effectue les tests antigéniques en vue d'obtenir un certificat covid négatif"
+      ],
+      "source": "Pharmacie Louise"
+    },
+    {
+      "position": 18,
+      "title": "COVID-19 PCR test in Brussels, where is how to do it?",
+      "link": "https://en.insidebrussels.be/V2/Brussels/where-and-how-to-do-the-covid-19-pcr-test-in-brussels/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.insidebrussels.be/V2/Brussels/where-and-how-to-do-the-covid-19-pcr-test-in-brussels/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECDAQAQ",
+      "displayed_link": "https://en.insidebrussels.be › Brussels › Activities",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ac0c95ef650fbdf23c7c606d92547e286.png",
+      "date": "Jul 15, 2024",
+      "snippet": "Where to do a PCR test in Brussels? · Pacheco (Brussels Centre) : Boulevard Pacheco 42, 1000 Brussels. · Merode (roundabout located at the ...",
+      "snippet_highlighted_words": [
+        "Pacheco (Brussels Centre) : Boulevard Pacheco 42, 1000 Brussels"
+      ],
+      "source": "Inside Brussels"
+    },
+    {
+      "position": 19,
+      "title": "Prendre rendez-vous pour une PCR COVID-19",
+      "link": "https://synlab.be/fr/news/depistage-coronavirus-covid-19-prendre-rdv-pour-realiser-le-prelevement",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://synlab.be/fr/news/depistage-coronavirus-covid-19-prendre-rdv-pour-realiser-le-prelevement&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECEoQAQ",
+      "displayed_link": "https://synlab.be › Home › News",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a785f0a69e981845c00d9f5e404c9684c.png",
+      "date": "May 13, 2024",
+      "snippet": "Nos résultats PCR COVID sont généralement disponibles entre 24 et 36 heures après prélèvement. Le délai maximal de réponse est de 48h.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Synlab Belgique"
+    },
+    {
+      "position": 20,
+      "title": "Testing | Coronavirus Covid-19",
+      "link": "https://covid-19.sciensano.be/fr/procedures/testing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covid-19.sciensano.be/fr/procedures/testing&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECGUQAQ",
+      "displayed_link": "https://covid-19.sciensano.be › test...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a7803b9f70b6872ccc62df69ab56ce660.png",
+      "snippet": "Il existe plusieurs tests pour le COVID-19 : des tests d'amplification des acides nucléiques utilisant \"reverse transcriptase PCR\" (RT-PCR), des tests d' ...",
+      "snippet_highlighted_words": [
+        "Il existe plusieurs tests pour le COVID-19"
+      ],
+      "source": "sciensano.be"
+    },
+    {
+      "position": 21,
+      "title": "miDiagnostics launches its CE-IVD certified ultra-fast ...",
+      "link": "https://midiagnostics.com/midiagnostics-launches-its-ce-ivd-certified-ultra-fast-covid-19-pcr-test/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://midiagnostics.com/midiagnostics-launches-its-ce-ivd-certified-ultra-fast-covid-19-pcr-test/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECG0QAQ",
+      "displayed_link": "https://midiagnostics.com › midiagnostics-launches-its-c...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a2bd68b15a3aa78669c45bd60dbb1695e.png",
+      "date": "May 2, 2022",
+      "snippet": "miDiagnostics, a fast-growing POC diagnostics company backed by Belgian Family Offices, announces the launch of its CE-IVD certified ultra-fast COVID-19 PCR ...",
+      "snippet_highlighted_words": [
+        "miDiagnostics, a fast-growing POC diagnostics company"
+      ],
+      "source": "miDiagnostics"
+    },
+    {
+      "position": 22,
+      "title": "COVID-19 questions and testing — Health",
+      "link": "https://www.kuleuven.be/english/stuvo/health/general-practitioners/appointment/covid-19-testing-1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kuleuven.be/english/stuvo/health/general-practitioners/appointment/covid-19-testing-1&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIgBEAE",
+      "displayed_link": "https://www.kuleuven.be › stuvo › health › appointment",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a598325e54b552caed380ea6178875801.png",
+      "date": "Jul 12, 2024",
+      "snippet": "You can book your COVID test appointment (mild symptoms, risk contact, incoming travel from a red zone) at the KU Leuven COVID test centre by email.",
+      "snippet_highlighted_words": [
+        "book your COVID test appointment"
+      ],
+      "source": "KU Leuven"
+    },
+    {
+      "position": 23,
+      "title": "Covid19 : Où se faire tester à Bruxelles?",
+      "link": "https://www.solidaris-brabant.be/fr/actualit%C3%A9-sant%C3%A9/covid19-o%C3%B9-se-faire-tester-%C3%A0-bruxelles",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.solidaris-brabant.be/fr/actualit%25C3%25A9-sant%25C3%25A9/covid19-o%25C3%25B9-se-faire-tester-%25C3%25A0-bruxelles&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCKIBEAE",
+      "displayed_link": "https://www.solidaris-brabant.be › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a6cc8a6bb7af796e7f45ace94791cf238.png",
+      "snippet": "Face à la forte demande en tests de dépistage du coronavirus, la Cocom propose sur son site web une carte interactive reprenant tous les centres de tests de ...",
+      "snippet_highlighted_words": [
+        "la Cocom propose sur son site web une carte interactive"
+      ],
+      "source": "Solidaris Brabant"
+    },
+    {
+      "position": 24,
+      "title": "Considerations for diagnostic COVID-19 tests",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/33057203/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pubmed.ncbi.nlm.nih.gov/33057203/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCL4BEAE",
+      "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27af6e0a7c02bfebc4ae99b3b1b7558ef6e.png",
+      "author": "by O Vandenberg",
+      "snippet": "In this Review, we summarize the crucial role of diagnostic tests during the first global wave of COVID-19.",
+      "snippet_highlighted_words": [
+        "tests",
+        "COVID"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 25,
+      "title": "Testing : tests rapides antigéniques - COVID-19 (coronavirus)",
+      "link": "https://www.iriscare.brussels/fr/professionnels/covid-19-coronavirus/commande-de-tests-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iriscare.brussels/fr/professionnels/covid-19-coronavirus/commande-de-tests-covid-19/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNoBEAE",
+      "displayed_link": "https://www.iriscare.brussels › co...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a3ae761d6ccae7d54fbd595b76edb0999.png",
+      "snippet": "Les tests rapides antigéniques seront dorénavant disponibles via la centrale de marchés publics eCat, gérée par Iriscare. Les tests seront commandés directement ...",
+      "snippet_highlighted_words": [
+        "tests rapides antigéniques seront dorénavant disponibles via la centrale de marchés publics eCat"
+      ],
+      "source": "Iriscare"
+    },
+    {
+      "position": 26,
+      "title": "DeepBlue COVID-19 Self Test Kit - 100 pieces",
+      "link": "https://corona-test.be/product/deepblue-covid-19-sars-cov-2-antigen-test-kit-100/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://corona-test.be/product/deepblue-covid-19-sars-cov-2-antigen-test-kit-100/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCPUBEAE",
+      "displayed_link": "https://corona-test.be › Shop",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a52e117cc96b40c1c11bd9ce6d5ad01e7.png",
+      "snippet": "The test kit detects Corona (Sars-Cov-2) with a 98% accuracy. 5 tests in one package. € 250,00. All prices are VAT incl. for Belgium (0% till the end of 2022).",
+      "snippet_highlighted_words": [
+        "test",
+        "tests"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 250.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "€250.00"
+          ]
+        }
+      },
+      "source": "corona-test.be"
+    },
+    {
+      "position": 27,
+      "title": "Accès aux résultats des tests PCR COVID-19",
+      "link": "https://brusselshealthnetwork.be/professionnels-de-la-sante/je-minforme/covid-19-acces-aux-resultats-des-tests-pcr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brusselshealthnetwork.be/professionnels-de-la-sante/je-minforme/covid-19-acces-aux-resultats-des-tests-pcr/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCJACEAE",
+      "displayed_link": "https://brusselshealthnetwork.be › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27aa75ecdef1a945ef34d0ab9080d05e027.png",
+      "snippet": "Où faire les tests COVID-19 ? Une carte interactive recense les différents centres de prélèvement de la région Bruxelloise sur le site de la COCOM, dans la ...",
+      "snippet_highlighted_words": [
+        "Où faire les tests COVID-19"
+      ],
+      "source": "Réseau Santé Bruxellois"
+    },
+    {
+      "position": 28,
+      "title": "Dépistage : où se faire tester ? | Koekelberg.brussels",
+      "link": "https://www.koekelberg.be/w/index.php?cont=2845&lgn=1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.koekelberg.be/w/index.php%3Fcont%3D2845%26lgn%3D1&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCI0CEAE",
+      "displayed_link": "https://www.koekelberg.be › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27aa620f1d28a23f84a7b0d18622998eb27.png",
+      "snippet": "Attention ! La prise de rendez-vous en ligne préalable est obligatoire, via la plateforme brussels.testcovid.be. ... Avez-vous besoin d'un test ? ... Symptômes, ...",
+      "snippet_highlighted_words": [
+        "La prise de rendez-vous en ligne préalable est obligatoire"
+      ],
+      "source": "Koekelberg"
+    },
+    {
+      "position": 29,
+      "title": "COVID-Influenza Rapid Test",
+      "link": "https://www.rdsm.eu/covid19-influenza-rapid-test.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rdsm.eu/covid19-influenza-rapid-test.html&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIoCEAE",
+      "displayed_link": "https://www.rdsm.eu › Medical Devices › Biochemistry",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a59c1f58af10280b96e58c6cffae18601.png",
+      "snippet": "The AMP CoV-2 Ag - Flu A+B rapid test allows to detect SarsCov as well as influenza A and B with 1 sample and gives results in 15 minutes.",
+      "snippet_highlighted_words": [
+        "test"
+      ],
+      "source": "RDSM"
+    },
+    {
+      "position": 30,
+      "title": "Prélèvement d'échantillons",
+      "link": "https://covid-19.sciensano.be/fr/procedures/prelevement-dechantillons",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covid-19.sciensano.be/fr/procedures/prelevement-dechantillons&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCK4CEAE",
+      "displayed_link": "https://covid-19.sciensano.be › pre...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a56ce8659912640df303a81e4e4d35129.png",
+      "snippet": "Pour réaliser un test COVID, les patients peuvent eux-mêmes demander un rendez-vous dans un centre de prélèvement via le site web masanté.be. Il est nécessaire ...",
+      "snippet_highlighted_words": [
+        "demander un rendez-vous dans un centre de prélèvement"
+      ],
+      "source": "sciensano.be"
+    },
+    {
+      "position": 31,
+      "title": "COVID-19 Test Centre at Brussels Airport to open on 14 ...",
+      "link": "https://www.brusselsairport.be/en/pressroom/news/covid-19-test-centre-at-brussels-airport-to-open-on-14-september",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.brusselsairport.be/en/pressroom/news/covid-19-test-centre-at-brussels-airport-to-open-on-14-september&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCK8CEAE",
+      "displayed_link": "https://www.brusselsairport.be › pressroom › news › co...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27af959151f6d2b5c3cbd901038cc213c30.png",
+      "date": "Sep 11, 2020",
+      "snippet": "The Test Centre is open seven days a week, including on Sundays and holidays, from 3.30 am to midnight. People who wish to get tested, are ...",
+      "snippet_highlighted_words": [
+        "The Test Centre is open seven days a week"
+      ],
+      "source": "Brussels Airport"
+    },
+    {
+      "position": 32,
+      "title": "Tests COVID à Schaerbeek sans rendez-vous",
+      "link": "https://www.pharmacieles3filles.be/tests-covid-sans-rendez-vous",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pharmacieles3filles.be/tests-covid-sans-rendez-vous&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCMYCEAE",
+      "displayed_link": "https://www.pharmacieles3filles.be › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a797235fbd71c178adf2fdf563a4e9961.png",
+      "snippet": "La Pharmacie Les 3 Filles à Schaerbeek vous propose de réaliser vos tests COVID-19 sans rendez-vous au prix de 20€. Contactez-nous ...",
+      "snippet_highlighted_words": [
+        "réaliser vos tests COVID-19 sans rendez-vous au prix de 20€"
+      ],
+      "source": "Pharmacie Les 3 Filles"
+    },
+    {
+      "position": 33,
+      "title": "Infos COVID-19",
+      "link": "https://www.mmuniverselle.be/covid19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mmuniverselle.be/covid19&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNYCEAE",
+      "displayed_link": "https://www.mmuniverselle.be › c...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ac88b0095b042d1f9a2128f55ff3d5c69.png",
+      "snippet": "Via le Réseau Santé bruxellois : Pour consulter le résultat de votre test Covid-19, surfez sur www.reseausantebruxellois.be et cliquez sur le bouton vert « ...",
+      "snippet_highlighted_words": [
+        "Réseau Santé bruxellois"
+      ],
+      "source": "Maison Médicale Universelle"
+    },
+    {
+      "position": 34,
+      "title": "FPS Public Health",
+      "link": "https://www.health.belgium.be/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.belgium.be/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECDEQAQ",
+      "displayed_link": "https://www.health.belgium.be",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ac89b22b72130821a8523bbafcd05fbb7.png",
+      "snippet": "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu. Officiële website - Welkom ; Santé publique, Sécurité de la Chaîne alimentaire et Environnement.",
+      "source": "FPS Public Health"
+    },
+    {
+      "position": 35,
+      "title": "Covid-19",
+      "link": "https://www.centre-ciceron.be/covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.centre-ciceron.be/covid-19&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECDUQAQ",
+      "displayed_link": "https://www.centre-ciceron.be › co...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a8afe0bc5c3c40581efea45faed86f10b.png",
+      "snippet": "Où faire le test ? ; Près de notre Centre Médical Ciceron : (liste non-exhaustive, cfr. carte ci-dessous pour le listing complet) ; CHU Brugmann - site Paul Brien",
+      "snippet_highlighted_words": [
+        "test"
+      ],
+      "source": "Centre Médical Ciceron"
+    },
+    {
+      "position": 36,
+      "title": "I want to travel abroad from Belgium | website.title",
+      "link": "https://www.ehealth.fgov.be/en/page/i-want-to-travel-abroad-from-belgium",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ehealth.fgov.be/en/page/i-want-to-travel-abroad-from-belgium&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECEkQAQ",
+      "displayed_link": "https://www.ehealth.fgov.be › page › i-want-to-travel-a...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a7cf0866ceb3dc1e0be632b4850336e70.png",
+      "snippet": "Make sure you have an EU digital certificate of vaccination, recovery or COVID-19 test proving that you meet the requirements set by the destination country or ...",
+      "snippet_highlighted_words": [
+        "Make sure you have an EU digital certificate of vaccination, recovery or COVID-19 test"
+      ],
+      "source": "eGezondheid"
+    },
+    {
+      "position": 37,
+      "title": "Corona-test: Homepage Corona self test",
+      "link": "https://corona-test.be/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://corona-test.be/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECEsQAQ",
+      "displayed_link": "https://corona-test.be",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a3486af2c2f0aa504ce56dd714361a549.png",
+      "snippet": "DeepBlue antigen self test for your co-workers, pupils and family from 1.8€ VAT incl. per test. Free next day delivery for all your orders.",
+      "snippet_highlighted_words": [
+        "DeepBlue antigen self test"
+      ],
+      "source": "corona-test.be"
+    },
+    {
+      "position": 38,
+      "title": "Praticien spécialisé en Test PCR COVID-19",
+      "link": "https://www.doctoranytime.be/l/test-pcr-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doctoranytime.be/l/test-pcr-covid-19&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECGoQAQ",
+      "displayed_link": "https://www.doctoranytime.be › te...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27afbdd6335d113ed213e4d75ad75baff5e.png",
+      "snippet": "Pour toute urgence faite le 1733.Le Dr Nkaere Florence disponible sur le site est ma remplaçante durant mon congé. ATTENTION à partir du 01 janvier 2025 plus de ...",
+      "source": "doctoranytime"
+    },
+    {
+      "position": 39,
+      "title": "Centre de dépistage COVID-19 - Molenbeek",
+      "link": "https://www.molenbeek.irisnet.be/fr/Actualites/actualites-1/centre-de-depistage-covid19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.molenbeek.irisnet.be/fr/Actualites/actualites-1/centre-de-depistage-covid19&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECGkQAQ",
+      "displayed_link": "https://www.molenbeek.irisnet.be › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a78ad38044192189a25a7dcebde47cfc1.png",
+      "snippet": "Centre PNURSE (Boulevard du Midi 60 – 1000 Bruxelles). Tél. : 0490 19 44 96; Quick Testing (02 511 26 00 (Avenue Charles Quint 137 – 1082 Berchem-St-Aagthe).",
+      "snippet_highlighted_words": [
+        "Bruxelles",
+        "Testing"
+      ],
+      "source": "Molenbeek"
+    },
+    {
+      "position": 40,
+      "title": "Covid test price : r/brussels",
+      "link": "https://www.reddit.com/r/brussels/comments/sy2pod/covid_test_price/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/brussels/comments/sy2pod/covid_test_price/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIABEAE",
+      "displayed_link": "10+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ae16642f59ab29eb10a6de0089e9e6580.png",
+      "snippet": "Hello, I will be living in Brussels for a few months and I want to attend some events. Can anyone suggest me some places which perform cheap ...",
+      "source": "Reddit · r/brussels"
+    },
+    {
+      "position": 41,
+      "title": "Covid-19 - Espace professionnel",
+      "link": "https://www.vivalis.brussels/fr/covid-professionnels",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vivalis.brussels/fr/covid-professionnels&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIYBEAE",
+      "displayed_link": "https://www.vivalis.brussels › covid...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ad9afb43cdd7bee22c919c22edda6a019.jpeg",
+      "snippet": "... test | Coronavirus Covid-19. Indications pour test dépistage PCR. Personne ... Covid, veuillez adresser votre demande à health.academy@vivalis.brussels ...",
+      "snippet_highlighted_words": [
+        "test",
+        "Coronavirus Covid",
+        "test",
+        "Covid"
+      ],
+      "source": "Vivalis.brussels"
+    },
+    {
+      "position": 42,
+      "title": "Tests PCR",
+      "link": "https://www.cliniquesdeleurope.be/fr/tests-pcr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cliniquesdeleurope.be/fr/tests-pcr&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCKQBEAE",
+      "displayed_link": "https://www.cliniquesdeleurope.be › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a7910dedb9d29f53fac94e0f70b778e8a.png",
+      "snippet": "... COVID-19. Tests PCR. Dernière mise-à-jour : 25/01/2023. Les tests PCR peuvent se faire sans rendez-vous du lundi au vendredi de 10h30 à 16h et le samedi ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Tests",
+        "tests"
+      ],
+      "source": "Cliniques de l'Europe"
+    },
+    {
+      "position": 43,
+      "title": "Covid-19 : Un test PCR cet été ? Voici le prix et ...",
+      "link": "https://www.inami.fgov.be/fr/actualites/covid-19-un-test-pcr-cet-ete-voici-le-prix-et-le-remboursement-inami-depuis-ce-28-juin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inami.fgov.be/fr/actualites/covid-19-un-test-pcr-cet-ete-voici-le-prix-et-le-remboursement-inami-depuis-ce-28-juin&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCJ0BEAE",
+      "displayed_link": "https://www.inami.fgov.be › covid...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a335388aa593efb87d3738e7e55483dc4.png",
+      "snippet": "J'ai compris ! Skip to main content. nl · fr. Autres informations et services officiels : www.belgium.be ... Laboratoires : Dans quels cas et comment nous ...",
+      "source": "INAMI"
+    },
+    {
+      "position": 44,
+      "title": "Covid-19: Where to get tested in Brussels",
+      "link": "https://www.brusselstimes.com/128452/covid-19-where-to-get-tested-in-brussels",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.brusselstimes.com/128452/covid-19-where-to-get-tested-in-brussels&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCKMBEAE",
+      "displayed_link": "https://www.brusselstimes.com › covid-19-where-to-get...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27afef31c31ac8f39ad50bfca488f6349e1.png",
+      "date": "Aug 26, 2020",
+      "snippet": "Brussels (1000). If you have a doctor's prescription and are symptomatic, you can get a coronavirus test at the Clinique Saint-Jean at Rue du ...",
+      "snippet_highlighted_words": [
+        "coronavirus test"
+      ],
+      "source": "The Brussels Times"
+    },
+    {
+      "position": 45,
+      "title": "European Commission, official website - European Commission",
+      "link": "https://commission.europa.eu/index_en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://commission.europa.eu/index_en&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCLoBEAE",
+      "displayed_link": "https://commission.europa.eu › index_en",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27aa45cfc5d20158c55e2ec31adad586461.png",
+      "snippet": "The European Commission is the EU's main executive body. It proposes legislation, upholds EU treaties and ensures Member States apply EU law and policies.",
+      "source": "European Commission"
+    },
+    {
+      "position": 46,
+      "title": "Clinical Research Unit Brussels",
+      "link": "https://www.pfizerclinicaltrials.com/pcru-brussels",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pfizerclinicaltrials.com/pcru-brussels&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCLsBEAE",
+      "displayed_link": "https://www.pfizerclinicaltrials.com › pcru-brussels",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27af98b9600412d01af0b21277098c0dc61.png",
+      "snippet": "... COVID-19. You will have a temperature check and rapid response COVID-19 test upon entry into our facility. We've also implemented mandatory mask use and ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "COVID",
+        "test"
+      ],
+      "source": "Pfizer Clinical Trials"
+    },
+    {
+      "position": 47,
+      "title": "MSF - Médecins Sans Frontières | Medical humanitarian ...",
+      "link": "https://www.msf.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.msf.org/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNYBEAE",
+      "displayed_link": "https://www.msf.org",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a36ca6bbc4706e708a52799cc5eba3203.png",
+      "snippet": "COVID-19 Project in Mons, Belgium. Learn about our response and our work in ... tests and vaccines for people in our programmes and beyond. GO TO SITE ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "tests"
+      ],
+      "source": "MSF"
+    },
+    {
+      "position": 48,
+      "title": "Bruegel",
+      "link": "https://www.bruegel.org/node/19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bruegel.org/node/19&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNUBEAE",
+      "displayed_link": "https://www.bruegel.org › node",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ae67bc07b858f758b79cbb1f17a9ce965.png",
+      "snippet": "The Brussels-based economic think tank.",
+      "source": "Bruegel"
+    },
+    {
+      "position": 49,
+      "title": "La plateforme fédérale bis covid 19",
+      "link": "https://saintluc.be/fr/plateforme-federale-bis-covid19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://saintluc.be/fr/plateforme-federale-bis-covid19&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNgBEAE",
+      "displayed_link": "https://saintluc.be › plateforme-fed...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27aed8d97fe10c3f484568e9d337d3c32f3.png",
+      "snippet": "Cette plateforme fédérale bis produit des résultats de tests sous la responsabilité médicale des microbiologistes du département des laboratoires cliniques. En ...",
+      "snippet_highlighted_words": [
+        "tests"
+      ],
+      "source": "Cliniques universitaires Saint-Luc"
+    },
+    {
+      "position": 50,
+      "title": "Test COVID, Bruxelles (1000)",
+      "link": "https://rosa.be/fr/results/test-covid/bruxelles-1000/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rosa.be/fr/results/test-covid/bruxelles-1000/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCPIBEAE",
+      "displayed_link": "https://rosa.be › Test COVID",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a5548c7b9da05a291d16d1f67ae22b68e.png",
+      "snippet": "Trouvez des test covid à Bruxelles, conventionnés ou non, disponibles aujourd'hui, de garde ou en urgence et prenez rendez-vous en ligne.",
+      "snippet_highlighted_words": [
+        "test covid",
+        "Bruxelles"
+      ],
+      "source": "Rosa.be"
+    },
+    {
+      "position": 51,
+      "title": "Accelerating clinical trial implementation in the context of ...",
+      "link": "https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(21)00612-1/fulltext",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(21)00612-1/fulltext&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCPYBEAE",
+      "displayed_link": "https://www.clinicalmicrobiologyandinfection.com › article",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a9407bad584a14940bec4bde1157f6271.png",
+      "author": "by M Trøseid",
+      "snippet": "MH reports grants from The Belgian Centre for Knowledge (KCE), the Fonds Erasme-COVID-Université Libre de Bruxelles, outside the submitted work; ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Bruxelles"
+      ],
+      "source": "Clinical Microbiology and Infection"
+    },
+    {
+      "position": 52,
+      "title": "NSF | The Public Health and Safety Organization",
+      "link": "https://www.nsf.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nsf.org/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCI4CEAE",
+      "displayed_link": "https://www.nsf.org",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27aa7284103bad9c984d6d59e9618d91a15.png",
+      "snippet": "NSF, a trusted authority for health standards, testing, certification, and consulting, enhances global human health with public safety standards and…",
+      "snippet_highlighted_words": [
+        "testing"
+      ],
+      "source": "NSF.org"
+    },
+    {
+      "position": 53,
+      "title": "VIB.BE - Home",
+      "link": "https://vib.be/en/home",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vib.be/en/home&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECC4QAQ",
+      "displayed_link": "https://vib.be › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a9f103f73d39143c3b8e84c20c27efee6.png",
+      "snippet": "Towards a COVID-19 Drug · Revolutionary diagnostic cancer test · On the road to ... Blood test for liver diseases · Safe test for mother and child · Toward new ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "test",
+        "test",
+        "test"
+      ],
+      "source": "VIB.BE"
+    },
+    {
+      "position": 54,
+      "title": "Capgemini - Get The Future You Want",
+      "link": "https://www.capgemini.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.capgemini.com/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCPMBEAE",
+      "displayed_link": "https://www.capgemini.com",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a523dbf4940152027aba9670d950bfba4.png",
+      "snippet": "A global leader in consulting, technology services and digital transformation, we offer an array of integrated services combining technology with deep ...",
+      "source": "Capgemini"
+    },
+    {
+      "position": 55,
+      "title": "Ma Santé",
+      "link": "https://www.masante.belgique.be/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.masante.belgique.be/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIwCEAE",
+      "displayed_link": "https://www.masante.belgique.be",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27aa8c436305131f9bbb52e35ced0312f3c.png",
+      "snippet": "(*) Votre médecin, dentiste, pharmacien et d'autres prestataires de soins avec qui vous avez une relation de soins, peuvent aussi le consulter. Cela leur permet ...",
+      "source": "Ma Santé"
+    },
+    {
+      "position": 56,
+      "title": "International Diabetes Federation: Welcome to IDF",
+      "link": "https://idf.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://idf.org/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCKgCEAE",
+      "displayed_link": "https://idf.org",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a31759a58ec2311d4686985385d42defa.png",
+      "snippet": "Our mission is to improve the lives of people with diabetes and prevent diabetes in those at risk. Avenue Herrmann-Debroux 54. B-1160 Brussels, Belgium info@idf ...",
+      "source": "IDF | International Diabetes Federation"
+    },
+    {
+      "position": 57,
+      "title": "Covid-19 Rapid Antigen Test Centers in Brussels - Belgium",
+      "link": "https://www.pruvo.com/blog/covid-19-rapid-antigen-test-centers-in-brussels-belgium/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pruvo.com/blog/covid-19-rapid-antigen-test-centers-in-brussels-belgium/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCKcCEAE",
+      "displayed_link": "https://www.pruvo.com › blog › covid-19-rapid-antige...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27aff1856bdc512cf8dd7765d707bfc6126.png",
+      "snippet": "If you are traveling to Brussels and must perform a Covid-19 Rapid Antigen test before your flight, below is a list of Covid-19 Rapid Antigen test centers ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "test",
+        "Covid",
+        "test"
+      ],
+      "source": "pruvo.com"
+    },
+    {
+      "position": 58,
+      "title": "Plus besoin de prescription pour un test Covid à Bruxelles",
+      "link": "https://www.lecho.be/dossiers/coronavirus/plus-besoin-de-prescription-pour-un-test-covid-a-bruxelles/10278772.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lecho.be/dossiers/coronavirus/plus-besoin-de-prescription-pour-un-test-covid-a-bruxelles/10278772.html&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCLICEAE",
+      "displayed_link": "https://www.lecho.be › coronavirus",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27af5c9f405e49cd3dd25c907c6d6c787b1.png",
+      "date": "Jan 21, 2021",
+      "snippet": "À Bruxelles, il est désormais possible de prendre rendez-vous pour se faire tester au coronavirus sans prescription de la part d'un médecin, et ...",
+      "snippet_highlighted_words": [
+        "Bruxelles",
+        "coronavirus"
+      ],
+      "source": "L'Echo"
+    },
+    {
+      "position": 59,
+      "title": "Take an International Exam with British Council",
+      "link": "https://www.britishcouncil.org/exam",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britishcouncil.org/exam&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCKsCEAE",
+      "displayed_link": "https://www.britishcouncil.org › exam",
+      "snippet": "Coronavirus (Covid-19) – the response from our Study and Work Abroad programmes ... The International English Language Testing System (IELTS) is the world's most ...",
+      "snippet_highlighted_words": [
+        "Coronavirus",
+        "Covid",
+        "Testing"
+      ],
+      "source": "Britishcouncil.org"
+    },
+    {
+      "position": 60,
+      "title": "Beyond industrial standards: crafting quality bread with ...",
+      "link": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2025.1522643/pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2025.1522643/pdf&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCLQCEAE",
+      "displayed_link": "https://www.frontiersin.org › articles › pdf",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a45df580c46a9f0ee7eba7d7a11fb51aa.png",
+      "date": "13 hours ago",
+      "snippet": "Due to COVID-19 restrictions, the grid was filled in by the bakers themselves, without the presence of researchers, during their baking tests.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "tests"
+      ],
+      "source": "Frontiers"
+    },
+    {
+      "position": 61,
+      "title": "Test COVID - Laboratorio Análisis Clínicos",
+      "link": "https://laboratoriobecerra.com/en/test-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://laboratoriobecerra.com/en/test-covid/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCMMCEAE",
+      "displayed_link": "https://laboratoriobecerra.com › test-covid",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27adf63bfb62fad3001d34006cb81d97045.jpeg",
+      "snippet": "We offer all kinds of examinations and tests to detect SARS-CoV-2, better known as COVID 19. This service is available both at our laboratory in Estepona and ...",
+      "snippet_highlighted_words": [
+        "tests",
+        "COVID"
+      ],
+      "source": "Laboratorio Becerra"
+    },
+    {
+      "position": 62,
+      "title": "COVID-19 Tests antigéniques rapides, effectués dans nos ...",
+      "link": "https://www.multipharma.be/fr/test-covid19-antigenique-rapide/testandgo.html?srsltid=AfmBOopk3YtDdVO5LL52WAzFzNmcKJr3Mo_CqO9rQ_hbKO2ayT9YtkFX",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multipharma.be/fr/test-covid19-antigenique-rapide/testandgo.html%3Fsrsltid%3DAfmBOopk3YtDdVO5LL52WAzFzNmcKJr3Mo_CqO9rQ_hbKO2ayT9YtkFX&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCMkCEAE",
+      "displayed_link": "https://www.multipharma.be › test...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a5bf10db6d49e30ec59faa88b43ddf930.png",
+      "snippet": "Où se faire tester dans une pharmacie Multipharma sur RDV? ; 1000 Bruxelles. Place de la Monnaie 2. Cliquez ici pour prendre RDV ; 1000 Bruxelles. Rue Royale 97- ...",
+      "snippet_highlighted_words": [
+        "Bruxelles",
+        "Bruxelles"
+      ],
+      "source": "Multipharma"
+    },
+    {
+      "position": 63,
+      "title": "Trouver un centre de dépistage à Bruxelles",
+      "link": "https://famgb.be/fr/actualites-detail/actualites/ou-faire-depister-bruxelles/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://famgb.be/fr/actualites-detail/actualites/ou-faire-depister-bruxelles/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCMgCEAE",
+      "displayed_link": "https://famgb.be › actualites › ou-f...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a663b323762dd1f7586d77b24781109e1.png",
+      "snippet": "Conditions de remboursement d'un test PCR Covid 19. Le test PCR est totalement gratuit en Belgique à condition : de présenter des symptômes Covid : en cas de ...",
+      "snippet_highlighted_words": [
+        "test",
+        "Covid",
+        "test",
+        "Covid"
+      ],
+      "source": "FAMGB"
+    },
+    {
+      "position": 64,
+      "title": "European Society of Cardiology",
+      "link": "https://www.escardio.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.escardio.org/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNUCEAE",
+      "displayed_link": "https://www.escardio.org",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ae2e7072c68b57cb5a28ddf922b737c2f.png",
+      "snippet": "The European Society of Cardiology (ESC) is an independent, nonprofit organisation aiming to reduce the burden of cardiovascular disease.",
+      "source": "European Society of Cardiology"
+    },
+    {
+      "position": 65,
+      "title": "My Health",
+      "link": "https://www.myhealth.belgium.be/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.myhealth.belgium.be/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNMCEAE",
+      "displayed_link": "https://www.myhealth.belgium.be",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a60186ff4dbb760f2a8ad18e7ff963ae2.png",
+      "snippet": "Brussels Health Network ... If you officially reside abroad, you can apply for a Belgian eID at the Belgian consular post in whose population register you are ...",
+      "source": "Myhealth.belgium.be"
+    },
+    {
+      "position": 66,
+      "title": "COVID",
+      "link": "https://www.ulb-ibc.be/covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ulb-ibc.be/covid/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECC8QAQ",
+      "displayed_link": "https://www.ulb-ibc.be › covid",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a1ed07765e4425bd418863decd1a38937.png",
+      "snippet": "COVID - Testing - communications - tests de laboratoire. ... 1000 Bruxelles. Tél. 02 543 00 00. Fax 02 543 11 11. IBC. Laboratoire IBC.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Testing",
+        "tests",
+        "Bruxelles"
+      ],
+      "source": "IBC - ULB"
+    },
+    {
+      "position": 67,
+      "title": "Test COVID-19 PCR à Bruxelles, où est comment le faire ?",
+      "link": "https://www.insidebrussels.be/V2/bruxelles/ou-et-comment-faire-le-test-covid-19-pcr-a-bruxelles/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.insidebrussels.be/V2/bruxelles/ou-et-comment-faire-le-test-covid-19-pcr-a-bruxelles/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECDMQAQ",
+      "displayed_link": "https://www.insidebrussels.be › ou...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27aac9768f2139648d8514a8a4349fd980a.png",
+      "snippet": "Toutes les informations pour faire le test COVID-19 PCR à Bruxelles ? Quels sont les centres ouverts le dimanche? Test gratuit à Bruxelles ?",
+      "snippet_highlighted_words": [
+        "test COVID",
+        "Bruxelles",
+        "Test",
+        "Bruxelles"
+      ],
+      "source": "Inside Brussels"
+    },
+    {
+      "position": 68,
+      "title": "UZ Brussel - Universitair Ziekenhuis Brussel - UZB Website",
+      "link": "https://www.uzbrussel.be/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uzbrussel.be/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECE0QAQ",
+      "displayed_link": "https://www.uzbrussel.be",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a960a79e2064283d5b4e90a359809064d.png",
+      "snippet": "Het UZ Brussel is een universitair ziekenhuis met bijna 4.000 medewerkers. Met 721 ziekenhuisbedden is het UZ Brussel jaarlijks goed voor meer dan 30.000 ...",
+      "source": "UZ Brussel"
+    },
+    {
+      "position": 69,
+      "title": "Key Account Manager Consumer Health | Diegem,Belgium ...",
+      "link": "https://talent.bayer.com/careers/job/562949967756645-key-account-manager-consumer-health-diegem-belgium-belgium?domain=bayer.com",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://talent.bayer.com/careers/job/562949967756645-key-account-manager-consumer-health-diegem-belgium-belgium%3Fdomain%3Dbayer.com&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECFAQAQ",
+      "displayed_link": "https://talent.bayer.com › careers › job › 562949967756...",
+      "snippet": "Key Account Manager Consumer Health. Diegem, Belgium, Belgium. ID: 850449 ...",
+      "source": "Bayer"
+    },
+    {
+      "position": 70,
+      "title": "Brussels Covid-19 centres phase out PCR-tests from Monday",
+      "link": "https://www.brusselstimes.com/313860/brussels-covid-19-centres-phases-out-pcr-tests-from-monday",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.brusselstimes.com/313860/brussels-covid-19-centres-phases-out-pcr-tests-from-monday&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECE4QAQ",
+      "displayed_link": "https://www.brusselstimes.com › brussels-covid-19-cent...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ae9a128efa5828efe835507693c8abf74.png",
+      "date": "Oct 28, 2022",
+      "snippet": "Brussels Covid-19 centres phase out PCR-tests from Monday. Pacheco test and vaccination centre in Brussels. Credit: Belga. As the emergency ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "tests",
+        "test"
+      ],
+      "source": "The Brussels Times"
+    },
+    {
+      "position": 71,
+      "title": "European Banking Authority: Homepage",
+      "link": "https://www.eba.europa.eu/homepage",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eba.europa.eu/homepage&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECEwQAQ",
+      "displayed_link": "https://www.eba.europa.eu › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a03a7c549fc41442dd2446859fe21ebdc.png",
+      "date": "Jul 3, 2025",
+      "snippet": "Our response to Covid-19 · Brexit. Close menu panel. Risk ... Consultation on Joint Guidelines on integrating ESG in supervisory stress test.",
+      "snippet_highlighted_words": [
+        "Covid",
+        "test"
+      ],
+      "source": "European Banking Authority"
+    },
+    {
+      "position": 72,
+      "title": "Le \"no-show\", ce phénomène hautement préjudiciable ...",
+      "link": "https://www.lalibre.be/economie/enquetes/2025/07/15/le-no-show-ce-phenomene-hautement-prejudiciable-pour-nos-restaurateurs-qui-prend-de-lampleur-RMCLUOT53RGZNLSNE2GF7IGEQA/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lalibre.be/economie/enquetes/2025/07/15/le-no-show-ce-phenomene-hautement-prejudiciable-pour-nos-restaurateurs-qui-prend-de-lampleur-RMCLUOT53RGZNLSNE2GF7IGEQA/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECE8QAQ",
+      "displayed_link": "https://www.lalibre.be › 2025/07/15",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a55840f6b0bf0bf9124f130acb09e3cfe.png",
+      "date": "Jul 15, 2025",
+      "snippet": "horeca restaurant test terrasse grand place du Bruxelles mesure covid 19. Au centre-ville de Bruxelles, tous les restaurateurs ne pratiquent ...",
+      "snippet_highlighted_words": [
+        "test",
+        "Bruxelles",
+        "covid",
+        "Bruxelles"
+      ],
+      "source": "La Libre.be"
+    },
+    {
+      "position": 73,
+      "title": "Covid-19: test antigénique - Pharmacie B.Crowet SRL",
+      "link": "https://easycalendar.be/c/hBlk3Y3l7SwU/1Ffw16jc62Zb/2027-03-16T11:30:00+01:00",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://easycalendar.be/c/hBlk3Y3l7SwU/1Ffw16jc62Zb/2027-03-16T11:30:00%2B01:00&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECFEQAQ",
+      "displayed_link": "https://easycalendar.be › ...",
+      "snippet": "Europe/Brussels. Le test rapide antigénique COVID-19 nécessite le même prélèvement nasopharyngé que le test PCR, mais son résultat est plus ...",
+      "snippet_highlighted_words": [
+        "test",
+        "COVID",
+        "test"
+      ],
+      "source": "easycalendar.be"
+    },
+    {
+      "position": 74,
+      "title": "Pharmacie.be",
+      "link": "https://www.pharmacie.be/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pharmacie.be/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECGcQAQ",
+      "displayed_link": "https://www.pharmacie.be",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a2c82af2d9284b4edd4ff1c7b2acb9fa5.png",
+      "snippet": "Demandez conseil à un pharmacien près de chez vous. DE GARDE. Rechercher Utiliser ma localisation. Tests rapides COVID-19. Vaccination COVID-19. Vaccination ...",
+      "snippet_highlighted_words": [
+        "Tests",
+        "COVID",
+        "COVID"
+      ],
+      "source": "Pharmacie.be"
+    },
+    {
+      "position": 75,
+      "title": "La région de Bruxelles-Capitale lance une carte interactive ...",
+      "link": "https://www.lespecialiste.be/fr/actualites/brussels-gewest-lanceert-interactieve-kaart-met-beschikbare-testcentra.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lespecialiste.be/fr/actualites/brussels-gewest-lanceert-interactieve-kaart-met-beschikbare-testcentra.html&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECGsQAQ",
+      "displayed_link": "https://www.lespecialiste.be › brus...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a198fe449576f3b476a352685447040cd.png",
+      "date": "Aug 11, 2020",
+      "snippet": "coronavirus.brussels. Une distinction claire est faite entre les centres destinés aux personnes présentant des symptômes du Covid-19 et à celles ...",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "Covid"
+      ],
+      "source": "Le Spécialiste"
+    },
+    {
+      "position": 76,
+      "title": "Clinique Saint-Jean: Home",
+      "link": "https://www.clstjean.be/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clstjean.be/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECGgQAQ",
+      "displayed_link": "https://www.clstjean.be",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a91fb09e6f027bfb726bfee53d42d0539.png",
+      "snippet": "Rapport annuel 2024 Clinique Saint-Jean Bruxelles. Retour sur 2024 : découvrez le rapport annuel. Jeudi 03/07/2025. Le rapport annuel 2024 de la Clinique Saint ...",
+      "snippet_highlighted_words": [
+        "Bruxelles"
+      ],
+      "source": "Clinique Saint-Jean"
+    },
+    {
+      "position": 77,
+      "title": "Testing for the coronavirus disease (COVID-19) in Brussels",
+      "link": "https://www.reutersconnect.com/item/testing-for-the-coronavirus-disease-covid-19-in-brussels/dGFnOnJldXRlcnMuY29tLDIwMjI6bmV3c21sX1JDMlpTUjlaSVdTWA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reutersconnect.com/item/testing-for-the-coronavirus-disease-covid-19-in-brussels/dGFnOnJldXRlcnMuY29tLDIwMjI6bmV3c21sX1JDMlpTUjlaSVdTWA&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoECGwQAQ",
+      "displayed_link": "https://www.reutersconnect.com › item › testing-for-the-...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a299f15bba0d4e81436b057fe765b8886.png",
+      "date": "Jan 5, 2022",
+      "snippet": "A healthcare worker takes a swab sample of a woman to test for the coronavirus disease (COVID-19) at a COVID-19 testing centre in Brussels, ...",
+      "snippet_highlighted_words": [
+        "test",
+        "coronavirus",
+        "COVID",
+        "COVID",
+        "testing"
+      ],
+      "source": "Reuters Connect"
+    },
+    {
+      "position": 78,
+      "title": "Biogen: Home",
+      "link": "https://www.biogen.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.biogen.com/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIMBEAE",
+      "displayed_link": "https://www.biogen.com",
+      "snippet": "Biogen is a leading biotechnology company that pioneers innovative science to deliver new medicines to transform patients' lives and to create value for ...",
+      "source": "Biogen"
+    },
+    {
+      "position": 79,
+      "title": "British Council | The UK's international culture and education ...",
+      "link": "https://www.britishcouncil.org/building-trusted-connections-worldwide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britishcouncil.org/building-trusted-connections-worldwide&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIQBEAE",
+      "displayed_link": "https://www.britishcouncil.org › building-trusted-connect...",
+      "snippet": "The British Council is the United Kingdom's international organisation for cultural relations and educational opportunities.",
+      "source": "Britishcouncil.org"
+    },
+    {
+      "position": 80,
+      "title": "Abbott | Life-Changing Health Care Technologies",
+      "link": "https://www.abbott.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.abbott.com/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIIBEAE",
+      "displayed_link": "https://www.abbott.com",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a6ad3714a5188e2f1b9ce7ba5085db541.png",
+      "snippet": "Innovative medical devices and health care solutions for cardiovascular health, diabetes management, diagnostic testing, nutrition, chronic pain and more.",
+      "snippet_highlighted_words": [
+        "testing"
+      ],
+      "source": "Abbott"
+    },
+    {
+      "position": 81,
+      "title": "Worldwide laboratory testing services - Eurofins Scientific",
+      "link": "https://www.eurofins.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eurofins.com/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCIEBEAE",
+      "displayed_link": "https://www.eurofins.com",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a35e063f2c14a2ab40db1027db136526c.png",
+      "snippet": "World leader in food, environment, pharma product testing & agroscience CRO services; ca. 63000 staff across a network of more than 1000 independent ...",
+      "snippet_highlighted_words": [
+        "testing"
+      ],
+      "source": "Eurofins Scientific"
+    },
+    {
+      "position": 82,
+      "title": "BIOGROUP - Laboratoire de biologie médicale",
+      "link": "https://biogroup.fr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://biogroup.fr/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCJ8BEAE",
+      "displayed_link": "https://biogroup.fr",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a0ccfb3340df2e8f2f96554e885d38a9b.png",
+      "snippet": "Covid-19. Biologie nutritionnelle. Biogroup souhaite apporter un service ... Test de grossesse sanguin : tout savoir sur la beta hcg · Cytomegalovirus (CMV) ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "Test"
+      ],
+      "source": "Biogroup"
+    },
+    {
+      "position": 83,
+      "title": "Hôpital Erasme: Un monde de soins dédié à nos patients",
+      "link": "https://www.erasme.be/fr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.erasme.be/fr&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCKEBEAE",
+      "displayed_link": "https://www.erasme.be › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ae0ac1994c9273aa1dd1ddbcec1f2ec83.png",
+      "snippet": "Atelier AVC et conduite - Hôpital Universitaire de Bruxelles. Reprendre le ... logo bruxelles, la ville, de stad. Rejoignez-nous sur nos différents ...",
+      "snippet_highlighted_words": [
+        "Bruxelles",
+        "bruxelles"
+      ],
+      "source": "erasme.be"
+    },
+    {
+      "position": 84,
+      "title": "Uber Health: Reimagining the Way People Access Healthcare",
+      "link": "https://www.uberhealth.com/us/en/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uberhealth.com/us/en/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCKABEAE",
+      "displayed_link": "https://www.uberhealth.com › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a19864f2a3433aa9d5f4d45413f880a46.png",
+      "snippet": "Uber Health is dedicated to helping improve health outcomes by helping enable better access to care and services.",
+      "source": "Uber Health"
+    },
+    {
+      "position": 85,
+      "title": "Gartner | Delivering Actionable, Objective Insight to Executives ...",
+      "link": "https://www.gartner.com/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gartner.com/en&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCJwBEAE",
+      "displayed_link": "https://www.gartner.com › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a83cd1f68a32e7e3a3afe4ec30dde43d7.png",
+      "snippet": "Measure, prioritize, accelerate and communicate your digital strategy. · Benchmark key functional processes and activities. · Make better, data-driven tech ...",
+      "source": "Gartner"
+    },
+    {
+      "position": 86,
+      "title": "PM Soins / PEDIA Soins : Testings COVID PCR & antigéniques",
+      "link": "https://www.maison-medicale-ecaussinnoise.be/testings-covid-pcr-antigeniques",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.maison-medicale-ecaussinnoise.be/testings-covid-pcr-antigeniques&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCJ4BEAE",
+      "displayed_link": "https://www.maison-medicale-ecaussinnoise.be › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ab411ad92290b00ebe3395b832912b407.png",
+      "snippet": "TESTING COVID PCR & ANTIGENIQUES - SERVICE EXCEPTIONNEL HORS DISPENSAIRE ... https://diplomatie.belgium.be/fr/Services/voyager_a_letranger ...",
+      "snippet_highlighted_words": [
+        "TESTING COVID"
+      ],
+      "source": "maison-medicale-ecaussinnoise.be"
+    },
+    {
+      "position": 87,
+      "title": "Réserver un test antigénique",
+      "link": "https://www.pharmacievleurgat.be/page/12/reserver_test_antigenique",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pharmacievleurgat.be/page/12/reserver_test_antigenique&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCL8BEAE",
+      "displayed_link": "https://www.pharmacievleurgat.be › ...",
+      "snippet": "Covid 19. Tests antigéniques. Tests antigéniques SANS rendez-vous, du lundi au ... Le test est totalement remboursé par votre mutuelle. Pour les voyages ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "Tests",
+        "Tests",
+        "test"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 19.95,
+            "currency": "€"
+          },
+          "extensions": [
+            "€19.95"
+          ]
+        }
+      },
+      "source": "Pharmacie Vleurgat"
+    },
+    {
+      "position": 88,
+      "title": "Temporary testing village of Covid-19 in Brussels. ...",
+      "link": "https://www.debeeldunie.nl/lang-en/stock-photo-brussels-test-covid-19-reportage-image00390220.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.debeeldunie.nl/lang-en/stock-photo-brussels-test-covid-19-reportage-image00390220.html&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCLwBEAE",
+      "displayed_link": "https://www.debeeldunie.nl › lang-en › stock-photo-brus...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a9c7230b5ad7873a50af969b74075ad60.png",
+      "snippet": "Temporary testing village of Covid-19 in Brussels. Etterbeek on 2020-10-27.Village provisoire de depistage de la Covid-19 a Bruxelles.",
+      "snippet_highlighted_words": [
+        "testing",
+        "Covid",
+        "Covid",
+        "Bruxelles"
+      ],
+      "source": "debeeldunie"
+    },
+    {
+      "position": 89,
+      "title": "Comment réaliser un autotest covid19",
+      "link": "https://sjtn.brussels/fr/actualites/comment-realiser-un-autotest-covid19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sjtn.brussels/fr/actualites/comment-realiser-un-autotest-covid19&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCL0BEAE",
+      "displayed_link": "https://sjtn.brussels › actualites › co...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ac9aa7478209c294099087f2f97e2e637.png",
+      "date": "Apr 12, 2021",
+      "snippet": "Un autotest n'est pas nécessaire si vous avez eu le COVID il y a moins de 3 mois (confirmé par un test PCR positif). Respectez toujours les ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "test"
+      ],
+      "source": "commune de Saint-Josse"
+    },
+    {
+      "position": 90,
+      "title": "Ma santé",
+      "link": "https://www.sudinfo.be/553381/sections/actualite/sante/ma-sante",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sudinfo.be/553381/sections/actualite/sante/ma-sante&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCLkBEAE",
+      "displayed_link": "https://www.sudinfo.be › ma-sante",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ac177dd315afeb40bc6baf568ac83d713.png",
+      "snippet": "Le Patient - Hôpital Universitaire de Bruxelles - Juillet 2025 · Le ... test covid.jpeg · Le covid long touche au moins 100 millions ...",
+      "snippet_highlighted_words": [
+        "Bruxelles",
+        "test covid",
+        "covid"
+      ],
+      "source": "Sudinfo"
+    },
+    {
+      "position": 91,
+      "title": "Hologic: Breakthrough Diagnostic & Medical Imaging Solutions",
+      "link": "https://www.hologic.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hologic.com/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCLgBEAE",
+      "displayed_link": "https://www.hologic.com",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ac19ccb3b2bc9a2eb1a664376bc1b6a68.png",
+      "snippet": "Hologic is a global champion of women's health. We integrate The Science of Sure into everything we do to help improve and save lives through early ...",
+      "source": "Hologic"
+    },
+    {
+      "position": 92,
+      "title": "Accueil - CHU Saint-Pierre | UMC Sint-Pieter",
+      "link": "https://www.stpierre-bru.be/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stpierre-bru.be/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNcBEAE",
+      "displayed_link": "https://www.stpierre-bru.be",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a15f582e0d0d9df01c1fad459803d17ff.png",
+      "snippet": "1000 Bruxelles; Urgences 290, rue Haute 1000 Bruxelles; Entrée consultation (polyclinique) 129, Boulevard de Waterloo 1000 Bruxelles.. Alexiens / César de ...",
+      "snippet_highlighted_words": [
+        "Bruxelles",
+        "Bruxelles",
+        "Bruxelles"
+      ],
+      "source": "CHU Saint-Pierre"
+    },
+    {
+      "position": 93,
+      "title": "Covid-19 Rapid lateral flow Test Centers in Brussels",
+      "link": "https://www.pruvo.com/blog/covid-19-rapid-lateral-flow-test-centers-in-brussels-belgium/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pruvo.com/blog/covid-19-rapid-lateral-flow-test-centers-in-brussels-belgium/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNMBEAE",
+      "displayed_link": "https://www.pruvo.com › blog › covid-19-rapid-lateral-...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a744857a8e5c89abf403d58543add819e.png",
+      "snippet": "If you are traveling to Brussels and must perform a Covid-19 Rapid lateral flow test before your flight, below is a list of Covid-19 Rapid lateral flow test ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "test",
+        "Covid",
+        "test"
+      ],
+      "source": "Pruvo"
+    },
+    {
+      "position": 94,
+      "title": "Careers at the EIB",
+      "link": "https://www.eib.org/en/about/careers/index",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eib.org/en/about/careers/index&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNkBEAE",
+      "displayed_link": "https://www.eib.org › about › careers",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ac9e879728cc31fe41d20ad217fe435d1.png",
+      "snippet": "The EIB COVID-19 response. Results top-5-search-results See all results ... Interview and additional tests. If you are shortlisted, we will invite you ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "tests"
+      ],
+      "source": "European Investment Bank"
+    },
+    {
+      "position": 95,
+      "title": "UZ Gent. Denk zorg | UZ Gent",
+      "link": "https://www.uzgent.be/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uzgent.be/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNQBEAE",
+      "displayed_link": "https://www.uzgent.be",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ab4311d1d8a6c09698a50a3f2368b0315.png",
+      "snippet": "In het UZ Gent kunnen patiënten terecht voor hooggespecialiseerde, kwalitatieve zorg. Het ziekenhuis is een van de meest gespecialiseerde van Vlaanderen.",
+      "source": "UZ Gent"
+    },
+    {
+      "position": 96,
+      "title": "Doctena | Prenez votre prochain RDV en quelques clics !",
+      "link": "https://www.doctena.be/fr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doctena.be/fr/&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCNsBEAE",
+      "displayed_link": "https://www.doctena.be › ...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a326a55ea7bc8b29e7a8eb6f9554990d5.png",
+      "snippet": "Centre de test COVID-19, Centre de vaccination COVID-19, Chirurgie buccale ... Copyright © 2025 - DOCTENA BELGIUM S.P.R.L./B.V.B.A. 37 Square de Meeûs 1000 ...",
+      "snippet_highlighted_words": [
+        "test COVID",
+        "COVID"
+      ],
+      "source": "doctena.be"
+    },
+    {
+      "position": 97,
+      "title": "Autotest Covid-19 | Pharmacie en ligne",
+      "link": "https://pharmacy-medi-market.be/fr/autotest-covid-achat-en-ligne/c/4000?srsltid=AfmBOooPnEAQjzjQE_CfMHViqwSzGlwry60JcLoBaFgUAX7LnazCWn3K",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pharmacy-medi-market.be/fr/autotest-covid-achat-en-ligne/c/4000%3Fsrsltid%3DAfmBOooPnEAQjzjQE_CfMHViqwSzGlwry60JcLoBaFgUAX7LnazCWn3K&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCPEBEAE",
+      "displayed_link": "https://pharmacy-medi-market.be › autotest-covid-achat-...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a1645d885db696639b1693b850c2ac2bd.png",
+      "snippet": "Les autotests Covid sont désormais disponibles à la vente en ligne et en pharmacie. Un autotest est un test qu'il est possible d'effectuer seul à domicile.",
+      "snippet_highlighted_words": [
+        "Covid",
+        "test"
+      ],
+      "source": "Pharmacy by Medi-Market"
+    },
+    {
+      "position": 98,
+      "title": "Centres de prélèvements",
+      "link": "https://synlab.be/fr/centres-de-prelevements",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://synlab.be/fr/centres-de-prelevements&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCPABEAE",
+      "displayed_link": "https://synlab.be › centres-de-prele...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27ae7449d27359d74bc626c9be74b2a9256.png",
+      "snippet": "BLOEDAFNAMES EN COVID PCR AFNAMES: WOENSDAG EN VRIJDAG: 8u30-10u30 https ... Awans | Rue de Bruxelles 143 | Localiser sur la carte. Prises de sang du ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Bruxelles"
+      ],
+      "source": "Synlab Belgique"
+    },
+    {
+      "position": 99,
+      "title": "DE GARDE",
+      "link": "https://www.pharmacie.be/PharmacySearch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pharmacie.be/PharmacySearch&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCPQBEAE",
+      "displayed_link": "https://www.pharmacie.be › Phar...",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27a443630c841b921effd0ad4c4f8ce5800.png",
+      "snippet": "Tests rapides COVID-19. Vaccination COVID-19. Vaccination Grippe. Trouvez les pharmacies les plus proches en introduisant votre adresse. Trouver une ...",
+      "snippet_highlighted_words": [
+        "Tests",
+        "COVID",
+        "COVID"
+      ],
+      "source": "Pharmacie.be"
+    },
+    {
+      "position": 100,
+      "title": "Boson Biotech Covid-19 antigen rapid test nasal swab",
+      "link": "https://www.firediscounter.be/en/boson-biotech-covid-19-antigen-rapid-test-nasal.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.firediscounter.be/en/boson-biotech-covid-19-antigen-rapid-test-nasal.html&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4QFnoFCJICEAE",
+      "displayed_link": "https://www.firediscounter.be › boson-biotech-covid-19...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5q-SAAPB1_yt-rUA8FxcPUsPld_6Y34-QmO_0OCBlM8UwZwhxAYDxNo&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/688168b8ab28c6f2cb87a29d/images/671e1d712eb930c3fa85d6ea0a34a27acdb0a4404824a564ad3b6665afef08a3.png",
+      "snippet": "This Boson Biotech Covid-19 antigen nasal swab rapid test has been approved by the Belgian Federal Agency for Medicines and Health Products (FAMHP)",
+      "snippet_highlighted_words": [
+        "Covid",
+        "test"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 3.95,
+            "currency": "€"
+          },
+          "extensions": [
+            "€3.95"
+          ]
+        }
+      },
+      "source": "Firediscounter.be"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Covid Brussels",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&q=Covid+Brussels&sa=X&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4Q1QJ6BQjYAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Covid+Brussels"
+    },
+    {
+      "block_position": 1,
+      "query": "Covid19 Belgium",
+      "link": "https://www.google.com/search?num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&q=Covid19+Belgium&sa=X&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4Q1QJ6BQjXAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Covid19+Belgium"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=test+covid+bruxelles&num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&ei=umiBaJTyHeGOvr0PgJ6z8QU&start=100&sa=N&sstk=Ac65TH5WNogMxW4mQ1MqvzJxGn7gU5Wo5ST1tf5jjdnJH-0WFboq_SFieVSE0IJM3MSqkRDlcpYxfJ_drWUbB2W-zxCYIdMRfuy9Bw&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4Q8NMDegQILBAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=test+covid+bruxelles&num=100&sca_esv=21b8fdcecfe5527b&hl=en&gl=us&ei=umiBaJTyHeGOvr0PgJ6z8QU&start=100&sa=N&sstk=Ac65TH5WNogMxW4mQ1MqvzJxGn7gU5Wo5ST1tf5jjdnJH-0WFboq_SFieVSE0IJM3MSqkRDlcpYxfJ_drWUbB2W-zxCYIdMRfuy9Bw&ved=2ahUKEwiUt56CitSOAxVhh68BHQDPLF4Q8tMDegQILBAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+covid+bruxelles&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+covid+bruxelles&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+covid+bruxelles&start=100"
+    }
+  }
+}

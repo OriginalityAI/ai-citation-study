@@ -1,0 +1,1593 @@
+{
+  "search_metadata": {
+    "id": "68819d8a1f758a88970c4e0e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e209e75afc35f9bd/68819d8a1f758a88970c4e0e.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/e209e75afc35f9bd/68819d8a1f758a88970c4e0e.json_with_pixel_position",
+    "created_at": "2025-07-24 02:42:18 UTC",
+    "processed_at": "2025-07-24 02:42:18 UTC",
+    "google_url": "https://www.google.com/search?q=covid+and+smokers&oq=covid+and+smokers&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/e209e75afc35f9bd/68819d8a1f758a88970c4e0e.html",
+    "total_time_taken": 1.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "covid and smokers",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "covid and smokers",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Does smoking affect long COVID?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIzaHFXbTV3VW10d1RqSjVVVEIwVTNCME4yZDZaSHA1UzBSbVZuZGpVRFpFY3paWWNFTnRWVUpaUzJoRU9EZEtabWx2T0RKVk5uTjRTemg0TFdaMVNYRlVSRGxMVERobVZYVXhTVXhCWjBWdGVrSlNibmR6Y0RneFFSSVhhWEF5UW1GTWRreE5ZV0pQYTFCSlVHaExOMVV3VVZFYUlrRkdUVUZIUjNFeU0weGxWbU5MVTJ3dFFuRlJhSEp4Y1RaeVgyRm9XalpqWlZFIiwiZmN2IjoiMyIsImVpIjoiaXAyQmFMdkxNYWJPa1BJUGhLN1UwUVEiLCJxYyI6IkNoRmpiM1pwWkNCaGJtUWdjMjF2YTJWeWN4QUFHQUV4QUFBQUlDMmp3VDk5cUZ0TFB3IiwicXVlc3Rpb24iOiJEb2VzIHNtb2tpbmcgYWZmZWN0IGxvbmcgQ09WSUQ/IiwibGsiOiJHaDVrYjJWeklITnRiMnRwYm1jZ1lXWm1aV04wSUd4dmJtY2dZMjkyYVdRIiwiYnMiOiJjLU55NDVKM3lVOHRWaWpPemNfT3pFdFhTRXhMUzAwdVVjakpCN0tkX2NNOFhld2xubVlaS1VqSnBlQlNsWnhmbHBuQzVjT2xoR0pPYm1KMnFrSm1Ia2haWm42ZVFubC1VWEdxdmNTeUlDTmxLY1VVUWdxNUlyZzB3S2JsWlNibmwyVG1wY0lzQkx0SW9TUzF1RVNoS0xXNE5LZWsyRjVpZTZTUnBwUjZDamJsWUtlaEtPZEs0dEpGTlRrNXNiUTRWY0hSMmRVSXFDWTV0YUFFNkFDRnRQd2ltT19uYVJ2cFNlbWtZTkdUbUp5S3JnZHNvUUFqQUEiLCJpZCI6ImZjX2lwMkJhTHZMTWFiT2tQSVBoSzdVMFFRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIzaHFXbTV3VW10d1RqSjVVVEIwVTNCME4yZDZaSHA1UzBSbVZuZGpVRFpFY3paWWNFTnRWVUpaUzJoRU9EZEtabWx2T0RKVk5uTjRTemg0TFdaMVNYRlVSRGxMVERobVZYVXhTVXhCWjBWdGVrSlNibmR6Y0RneFFSSVhhWEF5UW1GTWRreE5ZV0pQYTFCSlVHaExOMVV3VVZFYUlrRkdUVUZIUjNFeU0weGxWbU5MVTJ3dFFuRlJhSEp4Y1RaeVgyRm9XalpqWlZFIiwiZmN2IjoiMyIsImVpIjoiaXAyQmFMdkxNYWJPa1BJUGhLN1UwUVEiLCJxYyI6IkNoRmpiM1pwWkNCaGJtUWdjMjF2YTJWeWN4QUFHQUV4QUFBQUlDMmp3VDk5cUZ0TFB3IiwicXVlc3Rpb24iOiJEb2VzIHNtb2tpbmcgYWZmZWN0IGxvbmcgQ09WSUQ%2FIiwibGsiOiJHaDVrYjJWeklITnRiMnRwYm1jZ1lXWm1aV04wSUd4dmJtY2dZMjkyYVdRIiwiYnMiOiJjLU55NDVKM3lVOHRWaWpPemNfT3pFdFhTRXhMUzAwdVVjakpCN0tkX2NNOFhld2xubVlaS1VqSnBlQlNsWnhmbHBuQzVjT2xoR0pPYm1KMnFrSm1Ia2haWm42ZVFubC1VWEdxdmNTeUlDTmxLY1VVUWdxNUlyZzB3S2JsWlNibmwyVG1wY0lzQkx0SW9TUzF1RVNoS0xXNE5LZWsyRjVpZTZTUnBwUjZDamJsWUtlaEtPZEs0dEpGTlRrNXNiUTRWY0hSMmRVSXFDWTV0YUFFNkFDRnRQd2ltT19uYVJ2cFNlbWtZTkdUbUp5S3JnZHNvUUFqQUEiLCJpZCI6ImZjX2lwMkJhTHZMTWFiT2tQSVBoSzdVMFFRXzEifQ%3D%3D"
+    },
+    {
+      "question": "Does smoking make infection worse?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIzaHFXbTV3VW10d1RqSjVVVEIwVTNCME4yZDZaSHA1UzBSbVZuZGpVRFpFY3paWWNFTnRWVUpaUzJoRU9EZEtabWx2T0RKVk5uTjRTemg0TFdaMVNYRlVSRGxMVERobVZYVXhTVXhCWjBWdGVrSlNibmR6Y0RneFFSSVhhWEF5UW1GTWRreE5ZV0pQYTFCSlVHaExOMVV3VVZFYUlrRkdUVUZIUjNFeU0weGxWbU5MVTJ3dFFuRlJhSEp4Y1RaeVgyRm9XalpqWlZFIiwiZmN2IjoiMyIsImVpIjoiaXAyQmFMdkxNYWJPa1BJUGhLN1UwUVEiLCJxYyI6IkNoRmpiM1pwWkNCaGJtUWdjMjF2YTJWeWN4QUFHQUV4QUFBQUlDMmp3VDk5cUZ0TFB3IiwicXVlc3Rpb24iOiJEb2VzIHNtb2tpbmcgbWFrZSBpbmZlY3Rpb24gd29yc2U/IiwibGsiOiJHaUZrYjJWeklITnRiMnRwYm1jZ2JXRnJaU0JwYm1abFkzUnBiMjRnZDI5eWMyVSIsImJzIjoiYy1OeTQ1SjN5VTh0VmlqT3pjX096RXRYU0V4TFMwMHVVY2pKQjdLZF9jTThYZXdsbm1ZWktVakpwZUJTbFp4ZmxwbkM1Y09saEdKT2JtSjJxa0ptSGtoWlpuNmVRbmwtVVhHcXZjU3lJQ05sS2NVVVFncTVJcmcwd0tibFpTYm5sMlRtcGNJc0JMdElvU1MxdUVTaEtMVzROS2VrMkY1aWU2U1JwcFI2Q2pibFlLZWhLT2RLNHRKRk5UazVzYlE0VmNIUjJkVUlxQ1k1dGFBRTZBQ0Z0UHdpbU9fbmFSdnBTZW1rWU5HVG1KeUtyZ2Rzb1FBakFBIiwiaWQiOiJmY19pcDJCYUx2TE1hYk9rUElQaEs3VTBRUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIzaHFXbTV3VW10d1RqSjVVVEIwVTNCME4yZDZaSHA1UzBSbVZuZGpVRFpFY3paWWNFTnRWVUpaUzJoRU9EZEtabWx2T0RKVk5uTjRTemg0TFdaMVNYRlVSRGxMVERobVZYVXhTVXhCWjBWdGVrSlNibmR6Y0RneFFSSVhhWEF5UW1GTWRreE5ZV0pQYTFCSlVHaExOMVV3VVZFYUlrRkdUVUZIUjNFeU0weGxWbU5MVTJ3dFFuRlJhSEp4Y1RaeVgyRm9XalpqWlZFIiwiZmN2IjoiMyIsImVpIjoiaXAyQmFMdkxNYWJPa1BJUGhLN1UwUVEiLCJxYyI6IkNoRmpiM1pwWkNCaGJtUWdjMjF2YTJWeWN4QUFHQUV4QUFBQUlDMmp3VDk5cUZ0TFB3IiwicXVlc3Rpb24iOiJEb2VzIHNtb2tpbmcgbWFrZSBpbmZlY3Rpb24gd29yc2U%2FIiwibGsiOiJHaUZrYjJWeklITnRiMnRwYm1jZ2JXRnJaU0JwYm1abFkzUnBiMjRnZDI5eWMyVSIsImJzIjoiYy1OeTQ1SjN5VTh0VmlqT3pjX096RXRYU0V4TFMwMHVVY2pKQjdLZF9jTThYZXdsbm1ZWktVakpwZUJTbFp4ZmxwbkM1Y09saEdKT2JtSjJxa0ptSGtoWlpuNmVRbmwtVVhHcXZjU3lJQ05sS2NVVVFncTVJcmcwd0tibFpTYm5sMlRtcGNJc0JMdElvU1MxdUVTaEtMVzROS2VrMkY1aWU2U1JwcFI2Q2pibFlLZWhLT2RLNHRKRk5UazVzYlE0VmNIUjJkVUlxQ1k1dGFBRTZBQ0Z0UHdpbU9fbmFSdnBTZW1rWU5HVG1KeUtyZ2Rzb1FBakFBIiwiaWQiOiJmY19pcDJCYUx2TE1hYk9rUElQaEs3VTBRUV8xIn0%3D"
+    },
+    {
+      "question": "Does nicotine affect COVID test results?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIzaHFXbTV3VW10d1RqSjVVVEIwVTNCME4yZDZaSHA1UzBSbVZuZGpVRFpFY3paWWNFTnRWVUpaUzJoRU9EZEtabWx2T0RKVk5uTjRTemg0TFdaMVNYRlVSRGxMVERobVZYVXhTVXhCWjBWdGVrSlNibmR6Y0RneFFSSVhhWEF5UW1GTWRreE5ZV0pQYTFCSlVHaExOMVV3VVZFYUlrRkdUVUZIUjNFeU0weGxWbU5MVTJ3dFFuRlJhSEp4Y1RaeVgyRm9XalpqWlZFIiwiZmN2IjoiMyIsImVpIjoiaXAyQmFMdkxNYWJPa1BJUGhLN1UwUVEiLCJxYyI6IkNoRmpiM1pwWkNCaGJtUWdjMjF2YTJWeWN4QUFHQUV4QUFBQUlDMmp3VDk5cUZ0TFB3IiwicXVlc3Rpb24iOiJEb2VzIG5pY290aW5lIGFmZmVjdCBDT1ZJRCB0ZXN0IHJlc3VsdHM/IiwibGsiOiJHaWRrYjJWeklHNXBZMjkwYVc1bElHRm1abVZqZENCamIzWnBaQ0IwWlhOMElISmxjM1ZzZEhNIiwiYnMiOiJjLU55NDVKM3lVOHRWaWpPemNfT3pFdFhTRXhMUzAwdVVjakpCN0tkX2NNOFhld2xubVlaS1VqSnBlQlNsWnhmbHBuQzVjT2xoR0pPYm1KMnFrSm1Ia2haWm42ZVFubC1VWEdxdmNTeUlDTmxLY1VVUWdxNUlyZzB3S2JsWlNibmwyVG1wY0lzQkx0SW9TUzF1RVNoS0xXNE5LZWsyRjVpZTZTUnBwUjZDamJsWUtlaEtPZEs0dEpGTlRrNXNiUTRWY0hSMmRVSXFDWTV0YUFFNkFDRnRQd2ltT19uYVJ2cFNlbWtZTkdUbUp5S3JnZHNvUUFqQUEiLCJpZCI6ImZjX2lwMkJhTHZMTWFiT2tQSVBoSzdVMFFRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIzaHFXbTV3VW10d1RqSjVVVEIwVTNCME4yZDZaSHA1UzBSbVZuZGpVRFpFY3paWWNFTnRWVUpaUzJoRU9EZEtabWx2T0RKVk5uTjRTemg0TFdaMVNYRlVSRGxMVERobVZYVXhTVXhCWjBWdGVrSlNibmR6Y0RneFFSSVhhWEF5UW1GTWRreE5ZV0pQYTFCSlVHaExOMVV3VVZFYUlrRkdUVUZIUjNFeU0weGxWbU5MVTJ3dFFuRlJhSEp4Y1RaeVgyRm9XalpqWlZFIiwiZmN2IjoiMyIsImVpIjoiaXAyQmFMdkxNYWJPa1BJUGhLN1UwUVEiLCJxYyI6IkNoRmpiM1pwWkNCaGJtUWdjMjF2YTJWeWN4QUFHQUV4QUFBQUlDMmp3VDk5cUZ0TFB3IiwicXVlc3Rpb24iOiJEb2VzIG5pY290aW5lIGFmZmVjdCBDT1ZJRCB0ZXN0IHJlc3VsdHM%2FIiwibGsiOiJHaWRrYjJWeklHNXBZMjkwYVc1bElHRm1abVZqZENCamIzWnBaQ0IwWlhOMElISmxjM1ZzZEhNIiwiYnMiOiJjLU55NDVKM3lVOHRWaWpPemNfT3pFdFhTRXhMUzAwdVVjakpCN0tkX2NNOFhld2xubVlaS1VqSnBlQlNsWnhmbHBuQzVjT2xoR0pPYm1KMnFrSm1Ia2haWm42ZVFubC1VWEdxdmNTeUlDTmxLY1VVUWdxNUlyZzB3S2JsWlNibmwyVG1wY0lzQkx0SW9TUzF1RVNoS0xXNE5LZWsyRjVpZTZTUnBwUjZDamJsWUtlaEtPZEs0dEpGTlRrNXNiUTRWY0hSMmRVSXFDWTV0YUFFNkFDRnRQd2ltT19uYVJ2cFNlbWtZTkdUbUp5S3JnZHNvUUFqQUEiLCJpZCI6ImZjX2lwMkJhTHZMTWFiT2tQSVBoSzdVMFFRXzEifQ%3D%3D"
+    },
+    {
+      "question": "Does nicotine cause ACE2 receptors for COVID?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIzaHFXbTV3VW10d1RqSjVVVEIwVTNCME4yZDZaSHA1UzBSbVZuZGpVRFpFY3paWWNFTnRWVUpaUzJoRU9EZEtabWx2T0RKVk5uTjRTemg0TFdaMVNYRlVSRGxMVERobVZYVXhTVXhCWjBWdGVrSlNibmR6Y0RneFFSSVhhWEF5UW1GTWRreE5ZV0pQYTFCSlVHaExOMVV3VVZFYUlrRkdUVUZIUjNFeU0weGxWbU5MVTJ3dFFuRlJhSEp4Y1RaeVgyRm9XalpqWlZFIiwiZmN2IjoiMyIsImVpIjoiaXAyQmFMdkxNYWJPa1BJUGhLN1UwUVEiLCJxYyI6IkNoRmpiM1pwWkNCaGJtUWdjMjF2YTJWeWN4QUFHQUV4QUFBQUlDMmp3VDk5cUZ0TFB3IiwicXVlc3Rpb24iOiJEb2VzIG5pY290aW5lIGNhdXNlIEFDRTIgcmVjZXB0b3JzIGZvciBDT1ZJRD8iLCJsayI6IkdpeGtiMlZ6SUc1cFkyOTBhVzVsSUdOaGRYTmxJR0ZqWlRJZ2NtVmpaWEIwYjNKeklHWnZjaUJqYjNacFpBIiwiYnMiOiJjLU55NDVKM3lVOHRWaWpPemNfT3pFdFhTRXhMUzAwdVVjakpCN0tkX2NNOFhld2xubVlaS1VqSnBlQlNsWnhmbHBuQzVjT2xoR0pPYm1KMnFrSm1Ia2haWm42ZVFubC1VWEdxdmNTeUlDTmxLY1VVUWdxNUlyZzB3S2JsWlNibmwyVG1wY0lzQkx0SW9TUzF1RVNoS0xXNE5LZWsyRjVpZTZTUnBwUjZDamJsWUtlaEtPZEs0dEpGTlRrNXNiUTRWY0hSMmRVSXFDWTV0YUFFNkFDRnRQd2ltT19uYVJ2cFNlbWtZTkdUbUp5S3JnZHNvUUFqQUEiLCJpZCI6ImZjX2lwMkJhTHZMTWFiT2tQSVBoSzdVMFFRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIzaHFXbTV3VW10d1RqSjVVVEIwVTNCME4yZDZaSHA1UzBSbVZuZGpVRFpFY3paWWNFTnRWVUpaUzJoRU9EZEtabWx2T0RKVk5uTjRTemg0TFdaMVNYRlVSRGxMVERobVZYVXhTVXhCWjBWdGVrSlNibmR6Y0RneFFSSVhhWEF5UW1GTWRreE5ZV0pQYTFCSlVHaExOMVV3VVZFYUlrRkdUVUZIUjNFeU0weGxWbU5MVTJ3dFFuRlJhSEp4Y1RaeVgyRm9XalpqWlZFIiwiZmN2IjoiMyIsImVpIjoiaXAyQmFMdkxNYWJPa1BJUGhLN1UwUVEiLCJxYyI6IkNoRmpiM1pwWkNCaGJtUWdjMjF2YTJWeWN4QUFHQUV4QUFBQUlDMmp3VDk5cUZ0TFB3IiwicXVlc3Rpb24iOiJEb2VzIG5pY290aW5lIGNhdXNlIEFDRTIgcmVjZXB0b3JzIGZvciBDT1ZJRD8iLCJsayI6IkdpeGtiMlZ6SUc1cFkyOTBhVzVsSUdOaGRYTmxJR0ZqWlRJZ2NtVmpaWEIwYjNKeklHWnZjaUJqYjNacFpBIiwiYnMiOiJjLU55NDVKM3lVOHRWaWpPemNfT3pFdFhTRXhMUzAwdVVjakpCN0tkX2NNOFhld2xubVlaS1VqSnBlQlNsWnhmbHBuQzVjT2xoR0pPYm1KMnFrSm1Ia2haWm42ZVFubC1VWEdxdmNTeUlDTmxLY1VVUWdxNUlyZzB3S2JsWlNibmwyVG1wY0lzQkx0SW9TUzF1RVNoS0xXNE5LZWsyRjVpZTZTUnBwUjZDamJsWUtlaEtPZEs0dEpGTlRrNXNiUTRWY0hSMmRVSXFDWTV0YUFFNkFDRnRQd2ltT19uYVJ2cFNlbWtZTkdUbUp5S3JnZHNvUUFqQUEiLCJpZCI6ImZjX2lwMkJhTHZMTWFiT2tQSVBoSzdVMFFRXzEifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "26V8I3icxZTbkqJIEIZv90WWm5lW1O5WOoKYqAIE2gNUo6P2DQGIBXJSymPfbcQ-yj7VPs1U4Qmmuzd2YzdiUbGoqsz8K_Mjf_sjDtPoz19-DzabFXmq1_f7fQ1nGY79mpcldYccU6--yGKSe8G3IBb9lMOxuCXccSe2OI-IPOeHYrhqQqe_6w8c14hM3Qx67TGPEFeYi7brEH9JvR-WpG7X6S36tSXThxqp-WmtNYztSWBmyw2uNflGp2bUnYRuAP_ywh_MQfrrSQCg6kblI3ukF3cQVSYvjjCz0UEAMgAkXHGg32JLYwzs4d2idJirLKrFKptN2RxEMnUmSRUl5Sf9ZHoOCCsHAT8drNirvZuuXFTO_hqHaYP2bdFgsYtQciDxJScGAh2NgACi8XuXVC70FM_qd_BncVcgdCYqodHrc0xrzdfdnP416jlhlZdGAp-pG1OG_l086fabU1nezfTQ0e_wNjQO4GvBlEeuUJEyVD3ltTMbug3tgdT6Ndi4EgWZNuuUO1gclk5AHbx8mp5THvE1V6BUQOVyXPaBXnbOI9rR5-iybGYQ5livZOJEFGSe1GJAR3ofdBmdlKiQ-Rwzr4wkZokUaoMBeqYlVRSVVUpi-vWblL1JKD0zNoZFRXWgFjEZUdQAobN4eLGBZyx09oX3io5gBAGcSTE-Dq5HZuLOYdjumJqZxampnBmQsWRR92yFilUQC3RJUTHJ3gwddPdnhqEKEHv9qPhRlSgaY_bXVaBX7_MlStJ7hDRBEKajxqgVvQnR6jhx1oFJbO3uRRmgM0JZ4v6DxuT9P5AxDz3aFF7KkOGPIau2rTNk6AIZZpCxtrVmxalANrtBJo0jlbYtW75BhkuQWWXIym3LqkAmgb8NGSpDpl8hsz6F7NK2rpA92zfIDAaZ8gFk_2XbKljzT3_VHrZd4p9BVJDlR9v1fgfzcL5PnRff_q7G0ff8UcFf7UWyeVrlGR2F8yfYfN4c59xa9LJdOP_ipPMvJMkiPydcEueZyDuPKxINSWO9NdbyQZ4O-_tWY9MKhDU229vjyFjnr2Yy7Ln5w26bdbr3raTdx29yGu_Vlu3OVNJ31obOa7KdOOCVXyjL58f0wDeE5EE4HBygtZPj3Jq7C3eSTYTuDGcETQbTgZC2m7KnTOxpTmAovGnZmz_YtCca5FNQiCOihY6dKNDkkeFxSe6JNKn3ERgigDjiObZPdmKzs1gsGm2_Nfc7Lu89cgneHFdiU_gBTkmA6g",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=26V8I3icxZTbkqJIEIZv90WWm5lW1O5WOoKYqAIE2gNUo6P2DQGIBXJSymPfbcQ-yj7VPs1U4Qmmuzd2YzdiUbGoqsz8K_Mjf_sjDtPoz19-DzabFXmq1_f7fQ1nGY79mpcldYccU6--yGKSe8G3IBb9lMOxuCXccSe2OI-IPOeHYrhqQqe_6w8c14hM3Qx67TGPEFeYi7brEH9JvR-WpG7X6S36tSXThxqp-WmtNYztSWBmyw2uNflGp2bUnYRuAP_ywh_MQfrrSQCg6kblI3ukF3cQVSYvjjCz0UEAMgAkXHGg32JLYwzs4d2idJirLKrFKptN2RxEMnUmSRUl5Sf9ZHoOCCsHAT8drNirvZuuXFTO_hqHaYP2bdFgsYtQciDxJScGAh2NgACi8XuXVC70FM_qd_BncVcgdCYqodHrc0xrzdfdnP416jlhlZdGAp-pG1OG_l086fabU1nezfTQ0e_wNjQO4GvBlEeuUJEyVD3ltTMbug3tgdT6Ndi4EgWZNuuUO1gclk5AHbx8mp5THvE1V6BUQOVyXPaBXnbOI9rR5-iybGYQ5livZOJEFGSe1GJAR3ofdBmdlKiQ-Rwzr4wkZokUaoMBeqYlVRSVVUpi-vWblL1JKD0zNoZFRXWgFjEZUdQAobN4eLGBZyx09oX3io5gBAGcSTE-Dq5HZuLOYdjumJqZxampnBmQsWRR92yFilUQC3RJUTHJ3gwddPdnhqEKEHv9qPhRlSgaY_bXVaBX7_MlStJ7hDRBEKajxqgVvQnR6jhx1oFJbO3uRRmgM0JZ4v6DxuT9P5AxDz3aFF7KkOGPIau2rTNk6AIZZpCxtrVmxalANrtBJo0jlbYtW75BhkuQWWXIym3LqkAmgb8NGSpDpl8hsz6F7NK2rpA92zfIDAaZ8gFk_2XbKljzT3_VHrZd4p9BVJDlR9v1fgfzcL5PnRff_q7G0ff8UcFf7UWyeVrlGR2F8yfYfN4c59xa9LJdOP_ipPMvJMkiPydcEueZyDuPKxINSWO9NdbyQZ4O-_tWY9MKhDU229vjyFjnr2Yy7Ln5w26bdbr3raTdx29yGu_Vlu3OVNJ31obOa7KdOOCVXyjL58f0wDeE5EE4HBygtZPj3Jq7C3eSTYTuDGcETQbTgZC2m7KnTOxpTmAovGnZmz_YtCca5FNQiCOihY6dKNDkkeFxSe6JNKn3ERgigDjiObZPdmKzs1gsGm2_Nfc7Lu89cgneHFdiU_gBTkmA6g"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Impact of Tobacco Smoking on the Risk of COVID-19",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7953961/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC7953961/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECBYQAQ",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC7953961",
+      "author": "by N Paleiron",
+      "snippet": "We found evidence of a lower occurrence of Covid-19 infection among smokers, with the greatest reduction in risk, seem among heavier smokers. The outbreak ...",
+      "snippet_highlighted_words": [
+        "evidence of a lower occurrence of Covid-19 infection among smokers"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "Are smokers protected against SARS-CoV-2 infection ...",
+      "link": "https://www.nature.com/articles/s41533-021-00223-1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nature.com/articles/s41533-021-00223-1&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECBMQAQ",
+      "displayed_link": "https://www.nature.com › ... › comment",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107dc9b056b0c92b528c6910617a686081f.png",
+      "author": "by NA van Westen-Lagerweij",
+      "snippet": "To date, there is no strong evidence (ie, evidence based on causal research) that smokers are protected against SARS-CoV-2 infection.",
+      "snippet_highlighted_words": [
+        "no strong"
+      ],
+      "source": "Nature"
+    },
+    {
+      "position": 3,
+      "title": "The controversial effect of smoking and nicotine in SARS-CoV ...",
+      "link": "https://aacijournal.biomedcentral.com/articles/10.1186/s13223-023-00797-0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aacijournal.biomedcentral.com/articles/10.1186/s13223-023-00797-0&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECDIQAQ",
+      "displayed_link": "https://aacijournal.biomedcentral.com › articles",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107b77023712a0e3440ad1caf7875153a46.png",
+      "author": "by Z Salehi",
+      "snippet": "This study reported former smokers had a risk of progressing COVID-19 severity compared with current smokers. Current smokers were ...",
+      "snippet_highlighted_words": [
+        "former smokers had a risk of progressing COVID-19 severity"
+      ],
+      "source": "Allergy, Asthma & Clinical Immunology"
+    },
+    {
+      "position": 4,
+      "title": "Cigarette Smoking and COVID-19: A Complex Interaction",
+      "link": "https://www.atsjournals.org/doi/10.1164/rccm.202005-1646LE",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atsjournals.org/doi/10.1164/rccm.202005-1646LE&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIkBEAE",
+      "displayed_link": "https://www.atsjournals.org › doi",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510748ede5b2dcfc5d1843a33774944ae809.png",
+      "author": "by F Polverino",
+      "snippet": "Cigarette smoke induces epigenetic modifications of the bronchial epithelium, leading to mucous (goblet) cell metaplasia.",
+      "snippet_highlighted_words": [
+        "smoke"
+      ],
+      "source": "ATS Journals"
+    },
+    {
+      "position": 5,
+      "title": "Effects of Smoking on COVID-19 Management and Mortality",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10199802/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC10199802/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCNUBEAE",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC10199802",
+      "author": "by SA SeyedAlinaghi",
+      "snippet": "COVID-19 smoker patients experience greater disease severity, disease progression, hospitalization rate, hospital admission duration, mechanical ventilation, ...",
+      "snippet_highlighted_words": [
+        "COVID-19 smoker patients experience greater disease severity"
+      ],
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "Smoking and Covid-19: Risks and Outcomes",
+      "link": "https://ada.com/covid/smoking-and-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ada.com/covid/smoking-and-covid-19/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECEMQAQ",
+      "displayed_link": "https://ada.com › COVID",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51078f46f654885047230e03e9f4b34beff2.png",
+      "date": "Mar 7, 2025",
+      "snippet": "There's increasing evidence that smokers may be at a higher risk of experiencing severe symptoms due to an infection with the coronavirus.",
+      "snippet_highlighted_words": [
+        "smokers may be at a higher risk of experiencing severe symptoms"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Overview",
+            "link": "https://ada.com/covid/smoking-and-covid-19/#overview"
+          },
+          {
+            "title": "Risks",
+            "link": "https://ada.com/covid/smoking-and-covid-19/#risks"
+          },
+          {
+            "title": "Impact on smokers",
+            "link": "https://ada.com/covid/smoking-and-covid-19/#impact-on-smokers"
+          },
+          {
+            "title": "Treatments",
+            "link": "https://ada.com/covid/smoking-and-covid-19/#treatments"
+          }
+        ]
+      },
+      "source": "Health. Powered by Ada."
+    },
+    {
+      "position": 7,
+      "title": "Risk of death due to COVID-19 among current and former ...",
+      "link": "https://academic.oup.com/ije/article/53/1/dyae003/7596400",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://academic.oup.com/ije/article/53/1/dyae003/7596400&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCLwBEAE",
+      "displayed_link": "https://academic.oup.com › ije › article › dyae003",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107f18ffbfdf543fa231006f6e22dc30fb1.png",
+      "author": "by NA van Westen-Lagerweij",
+      "snippet": "Former smokers had a higher risk of death due to COVID-19 compared with never smokers across unadjusted (RR, 2.22; 95% CI, 2.04–2.42), age–sex-adjusted (RR, 1. ...",
+      "snippet_highlighted_words": [
+        "Former smokers had a higher risk of death due to COVID-19"
+      ],
+      "source": "Oxford Academic"
+    },
+    {
+      "position": 8,
+      "title": "Cannabis, Tobacco Use, and COVID-19 Outcomes",
+      "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820235",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820235&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCOoBEAE",
+      "displayed_link": "https://jamanetwork.com › JAMA Network Open",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107c15be351c5d428dd5d89c1f7d494f94f.png",
+      "author": "by NB Griffith",
+      "snippet": "Cigarette smoking has been found to be associated with more severe COVID-19 infection, including higher rates of disease progression, ...",
+      "snippet_highlighted_words": [
+        "smoking",
+        "COVID"
+      ],
+      "source": "JAMA"
+    },
+    {
+      "position": 9,
+      "title": "Tobacco and COVID-19",
+      "link": "https://www.who.int/europe/emergencies/situations/covid-19/tobacco-and-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.who.int/europe/emergencies/situations/covid-19/tobacco-and-covid-19&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCJUCEAE",
+      "displayed_link": "https://www.who.int › europe › emergencies › situations",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107f3c4f42283efe47f063d8b39d7514e66.png",
+      "snippet": "Tobacco users have a higher risk of being infected with the virus through the mouth while smoking cigarettes or using other tobacco products.",
+      "snippet_highlighted_words": [
+        "Tobacco users have a higher risk of being infected with the virus"
+      ],
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 10,
+      "title": "Risks of Using with COVID-19 | Tobacco Prevention Toolkit",
+      "link": "https://med.stanford.edu/tobaccopreventiontoolkit/contact/COVID-19.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://med.stanford.edu/tobaccopreventiontoolkit/contact/COVID-19.html&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECDQQAQ",
+      "displayed_link": "https://med.stanford.edu › contact › COVID-19",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51073fcc34b33fe16342d48d4c2e6a9288ab.png",
+      "snippet": "Going smoke-free or vape-free can lower the risk for a severe COVID-19 infection · The immune system is supressed making the lungs less ready to fight a COVID-19 ...",
+      "snippet_highlighted_words": [
+        "Going smoke-free or vape-free can lower the risk for a severe COVID-19 infection"
+      ],
+      "source": "Stanford Medicine"
+    },
+    {
+      "position": 11,
+      "title": "Smoking and risk of COVID-19 hospitalization",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0954611121001207",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S0954611121001207&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECGAQAQ",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107b597630553dce239fc41f27814d2adb5.png",
+      "author": "by DP Neira",
+      "snippet": "Former smokers are at higher risk for hospitalization and death from COVID-19 than current or never smokers.",
+      "snippet_highlighted_words": [
+        "smokers",
+        "COVID",
+        "smokers"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 12,
+      "title": "Systematic review and meta analysis of cross immunity and ...",
+      "link": "https://www.nature.com/articles/s41598-024-75632-6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nature.com/articles/s41598-024-75632-6&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIoBEAE",
+      "displayed_link": "https://www.nature.com › scientific reports › articles",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510732744c81aeec04bbda1ed4530ae44e68.png",
+      "author": "by J Gonzalez-Rubio",
+      "snippet": "Our data suggest that COVID-19 might be less prevalent among smokers due to greater cross-immunity from a larger number or more recent infections by common ...",
+      "snippet_highlighted_words": [
+        "COVID-19 might be less prevalent among smokers"
+      ],
+      "source": "Nature"
+    },
+    {
+      "position": 13,
+      "title": "Smoking, nicotine, and COVID-19",
+      "link": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(22)00258-2/fulltext",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(22)00258-2/fulltext&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCNQBEAE",
+      "displayed_link": "https://www.thelancet.com › lanres › article › fulltext",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51077ee9d61526fc95d37638509f7b42a629.jpeg",
+      "author": "by J Grigg",
+      "snippet": "Not unexpectedly, the authors conclude that cigarette smoking adversely affects a wide range of COVID-19 outcomes such as hospitalisation and ...",
+      "snippet_highlighted_words": [
+        "cigarette smoking adversely affects a wide range of COVID-19 outcomes"
+      ],
+      "source": "The Lancet"
+    },
+    {
+      "position": 14,
+      "title": "The role of smoking in COVID-19 progression",
+      "link": "https://publications.ersnet.org/content/errev/32/167/220191",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://publications.ersnet.org/content/errev/32/167/220191&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCPQBEAE",
+      "displayed_link": "https://publications.ersnet.org › content › errev",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510720327793f5514656689dc59cbbd79719.png",
+      "author": "by S Gallus",
+      "snippet": "We found a 30–50% excess risk of COVID-19 progression for current and former smokers compared with never-smokers.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "smokers",
+        "smokers"
+      ],
+      "source": "ERS - European Respiratory Society"
+    },
+    {
+      "position": 15,
+      "title": "Lower Rate of Daily Smokers With Symptomatic COVID-19",
+      "link": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2021.668995/full",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2021.668995/full&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCPUBEAE",
+      "displayed_link": "https://www.frontiersin.org › fmed.2021.668995 › full",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107d033b741b68ab7fc09ce6c22ecdd0727.png",
+      "author": "by M Miyara",
+      "snippet": "The rate of daily smokers was significantly lower in patients with symptomatic COVID-19, as compared to that in the French general population after ...",
+      "snippet_highlighted_words": [
+        "smokers",
+        "COVID"
+      ],
+      "source": "Frontiers"
+    },
+    {
+      "position": 16,
+      "title": "Is there a smoker's paradox in COVID-19?",
+      "link": "https://ebm.bmj.com/content/26/6/279",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ebm.bmj.com/content/26/6/279&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIgCEAE",
+      "displayed_link": "https://ebm.bmj.com › content",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107c74d2d19de0d7a864d14c62eae51ce03.png",
+      "author": "by MS Usman",
+      "snippet": "Data from recent studies suggest that active smokers are underrepresented among patients with COVID-19. This has led to claims that a 'smoker's paradox' may ...",
+      "snippet_highlighted_words": [
+        "smokers",
+        "COVID",
+        "smoker's"
+      ],
+      "source": "BMJ Evidence-Based Medicine"
+    },
+    {
+      "position": 17,
+      "title": "COVID-19 & Tobacco",
+      "link": "https://www.lung.org/getmedia/7c65fb45-6787-46d6-ac07-79543f37bbc5/COVID-Tobacco",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lung.org/getmedia/7c65fb45-6787-46d6-ac07-79543f37bbc5/COVID-Tobacco&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCLACEAE",
+      "displayed_link": "https://www.lung.org › getmedia › COVID-Toba...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510756623cb78f9d6214d622e8d998cc23e2.png",
+      "snippet": "Being a current or former cigarette smoker increases the risk for severe illness from COVID-19.1. • Cigarette smoking compromises the immune system, is linked ...",
+      "snippet_highlighted_words": [
+        "Being a current or former cigarette smoker increases the risk for severe illness from COVID-19"
+      ],
+      "source": "American Lung Association"
+    },
+    {
+      "position": 18,
+      "title": "Scientific paper claiming smokers less likely to acquire ...",
+      "link": "https://www.theguardian.com/science/2021/apr/22/scientific-paper-claiming-smokers-less-likely-to-acquire-covid-retracted-over-tobacco-industry-links",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/science/2021/apr/22/scientific-paper-claiming-smokers-less-likely-to-acquire-covid-retracted-over-tobacco-industry-links&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECDAQAQ",
+      "displayed_link": "https://www.theguardian.com › science › apr › scientifi...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510788082050e6faf1451e0130653f4459f5.png",
+      "date": "Apr 22, 2021",
+      "snippet": "A scientific paper claiming current smokers are 23% less likely to be diagnosed with Covid-19 compared to non-smokers has been retracted by a medical journal.",
+      "snippet_highlighted_words": [
+        "current smokers are 23% less likely to be diagnosed with Covid-19"
+      ],
+      "source": "The Guardian"
+    },
+    {
+      "position": 19,
+      "title": "Coronavirus disease (COVID-19): Tobacco",
+      "link": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-tobacco",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-tobacco&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECFAQAQ",
+      "displayed_link": "https://www.who.int › ... › Questions and answers › item",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51076bfb1c6aab049b87b64ed62628588fca.png",
+      "date": "May 25, 2022",
+      "snippet": "Evidence indicates that smokers are more likely to suffer more severe outcomes of COVID-19, such as admission into intensive care units and death, than never ...",
+      "snippet_highlighted_words": [
+        "smokers",
+        "COVID"
+      ],
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 20,
+      "title": "The predisposition of smokers to COVID-19 infection",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2405844023049915",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S2405844023049915&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECGoQAQ",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107c706be369a6f5d45399eac74b17022af.png",
+      "author": "by S Chattopadhyay",
+      "snippet": "Overall, the meta-analysis revealed that smokers were 1.4 times more likely to have severe symptoms of COVID-19 and were 2.4 times more likely to be admitted to ...",
+      "snippet_highlighted_words": [
+        "smokers were 1.4 times more likely to have severe symptoms of COVID-19"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 21,
+      "title": "Smoking Nearly Doubles the Rate of COVID-19 Progression",
+      "link": "https://www.ucsf.edu/news/2020/05/417411/smoking-nearly-doubles-rate-covid-19-progression",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ucsf.edu/news/2020/05/417411/smoking-nearly-doubles-rate-covid-19-progression&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECHAQAQ",
+      "displayed_link": "https://www.ucsf.edu › news › 2020/05 › smoking-near...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107bba90c45a491932b25b48b66f4e03a24.png",
+      "date": "May 12, 2020",
+      "snippet": "Smoking significantly worsens COVID-19, according to a new analysis by UCSF of the association between smoking and progression of the ...",
+      "snippet_highlighted_words": [
+        "Smoking",
+        "COVID",
+        "smoking"
+      ],
+      "source": "UC San Francisco"
+    },
+    {
+      "position": 22,
+      "title": "COVID-19 and Smoking | Nicotine & Tobacco Research",
+      "link": "https://academic.oup.com/ntr/article/22/9/1650/5815378",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://academic.oup.com/ntr/article/22/9/1650/5815378&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCI4BEAE",
+      "displayed_link": "https://academic.oup.com › ntr › article",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51079080691f10e59eda342cbf2ccd3bf266.png",
+      "author": "by I Berlin",
+      "snippet": "The percent of current and former smokers were higher among the severe cases: 17% and 5%, respectively, than among the nonsevere cases (12% and 1%, ...",
+      "snippet_highlighted_words": [
+        "smokers"
+      ],
+      "missing": [
+        "smokers"
+      ],
+      "must_include": {
+        "word": "smokers",
+        "link": "https://www.google.com/search?num=100&sca_esv=28fff17e3de8b0c6&hl=en&gl=us&q=covid+and+%22smokers%22&sa=X&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQ5t4CegUImwEQAQ"
+      },
+      "source": "Oxford Academic"
+    },
+    {
+      "position": 23,
+      "title": "Frequently Asked Questions About COVID-19 and Smoking",
+      "link": "https://www.mskcc.org/cancer-care/patient-education/frequently-asked-questions-about-covid-19-and-smoking",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mskcc.org/cancer-care/patient-education/frequently-asked-questions-about-covid-19-and-smoking&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKkBEAE",
+      "displayed_link": "https://www.mskcc.org › cancer-care › patient-education",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107c3ea0a51acf498435fdd11ee83406080.png",
+      "snippet": "You're more likely to have worse symptoms if smoke and get COVID-19 than non-smokers who get COVID-19. Some cancer treatments can also weaken your immune system ...",
+      "snippet_highlighted_words": [
+        "You're more likely to have worse symptoms if smoke and get COVID-19"
+      ],
+      "source": "Memorial Sloan Kettering Cancer Center"
+    },
+    {
+      "position": 24,
+      "title": "Coronavirus and Smoking: Risks of Cigarettes, Marijuana ...",
+      "link": "https://www.webmd.com/covid/covid-19-smoking-vaping",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/covid/covid-19-smoking-vaping&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCL8BEAE",
+      "displayed_link": "https://www.webmd.com › covid-19-smoking-vaping",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107f36b01d80a89ae14b229b7d8a2168f92.png",
+      "date": "Nov 5, 2024",
+      "snippet": "If you smoke, you may already have lung problems. They make you more likely to get very sick from COVID-19 as the coronavirus attacks your lungs ...",
+      "snippet_highlighted_words": [
+        "They make you more likely to get very sick from COVID-19"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 25,
+      "title": "The connection between smoking and COVID-19",
+      "link": "https://www.youtube.com/watch?v=_e189e01Mb8&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "72.4K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_OXvvjnLqEpbXFKMbKBIltnJWHbeLiIZQgUtQrdhTUZVh&s",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510731902d5841bc4723a6be6b537ee91da3.png",
+      "snippet": "It's common knowledge that smoking is bad for your health. And, when it comes to the COVID-19 pandemic, the side effects of smoking and the ...",
+      "duration": "0:54",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR559-odzZmA1lNLvYFMDBzSw0_J4ZRbR4O6Q",
+      "source": "YouTube · Mayo Clinic"
+    },
+    {
+      "position": 26,
+      "title": "Clearing the Air: How Smoking Hinders COVID-19 Recovery",
+      "link": "https://www.inspirahealthnetwork.org/news/healthy-living/clearing-air-how-smoking-hinders-covid-19-recovery",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inspirahealthnetwork.org/news/healthy-living/clearing-air-how-smoking-hinders-covid-19-recovery&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCNgBEAE",
+      "displayed_link": "https://www.inspirahealthnetwork.org › healthy-living",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107da6fdb4a8c4f0baa196b758cf2efe8eb.png",
+      "date": "Nov 11, 2024",
+      "snippet": "Research shows that smoking not only damages lung health but also compromises the body's ability to fight off infections, including the virus responsible for ...",
+      "snippet_highlighted_words": [
+        "smoking not only damages lung health"
+      ],
+      "source": "Inspira Health Network"
+    },
+    {
+      "position": 27,
+      "title": "Smoking and COVID-19",
+      "link": "https://www.cancercouncil.com.au/cancer-prevention/smoking/smoking-and-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cancercouncil.com.au/cancer-prevention/smoking/smoking-and-covid-19/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCPEBEAE",
+      "displayed_link": "https://www.cancercouncil.com.au › ... › Smoking",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107c2684814368f9a2b8ac4d9179e4fac37.png",
+      "snippet": "People who smoke are at higher risk of respiratory infections and growing evidence shows that they are more likely to be severely impacted by COVID-19.",
+      "snippet_highlighted_words": [
+        "People who smoke are at higher risk of respiratory infections"
+      ],
+      "source": "Cancer Council NSW"
+    },
+    {
+      "position": 28,
+      "title": "[Withdrawn] COVID-19: advice for smokers and vapers",
+      "link": "https://www.gov.uk/government/publications/covid-19-advice-for-smokers-and-vapers/covid-19-advice-for-smokers-and-vapers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/government/publications/covid-19-advice-for-smokers-and-vapers/covid-19-advice-for-smokers-and-vapers&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIQCEAE",
+      "displayed_link": "https://www.gov.uk › government › publications › covi...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107aaf367aa78431ad35b04e3bfbcf9f98f.png",
+      "date": "Mar 10, 2022",
+      "snippet": "We do not yet have a clear picture on the impact of smoking on COVID-19 risks but there is no specific evidence to suggest that smokers are at ...",
+      "snippet_highlighted_words": [
+        "smoking",
+        "COVID",
+        "smokers"
+      ],
+      "source": "GOV.UK"
+    },
+    {
+      "position": 29,
+      "title": "COVID-19 More Likely to Impact Smokers and People ...",
+      "link": "https://www.trdrp.org/news/covid-19-impact-smokers.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.trdrp.org/news/covid-19-impact-smokers.html&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIcCEAE",
+      "displayed_link": "https://www.trdrp.org › news › covid-19-impact-smokers",
+      "snippet": "Smokers and former smokers are not only more susceptible to COVID-19, they are far more likely to see their conditions worsen over time and to require ...",
+      "snippet_highlighted_words": [
+        "Smokers",
+        "smokers",
+        "COVID"
+      ],
+      "source": "TRDRP"
+    },
+    {
+      "position": 30,
+      "title": "Cigarette smokers at risk of severe COVID-19",
+      "link": "https://www.medicover.pl/en/coronavirus/cigarette-smokers-at-risk-of-severe-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicover.pl/en/coronavirus/cigarette-smokers-at-risk-of-severe-covid-19/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCJQCEAE",
+      "displayed_link": "https://www.medicover.pl › coronavirus › cigarette-smo...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51072085d34a2ea8d88403adc05e535283a6.png",
+      "snippet": "It is estimated that smokers have a 14-fold higher risk of developing severe cases of COVID-19. First, smokers are more likely to become infected with SARS ...",
+      "snippet_highlighted_words": [
+        "smokers",
+        "COVID",
+        "smokers"
+      ],
+      "source": "Medicover"
+    },
+    {
+      "position": 31,
+      "title": "Study Shows Smoking Increased in Those Trying to Quit ...",
+      "link": "https://www.fau.edu/newsdesk/articles/smoking-pandemic-study",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fau.edu/newsdesk/articles/smoking-pandemic-study&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKQCEAE",
+      "displayed_link": "https://www.fau.edu › newsdesk › articles › smoking-pa...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107847ff00dcf5ab4264e8bec423e2a88a4.png",
+      "date": "Apr 11, 2022",
+      "snippet": "Researchers found correlates of increased tobacco use related to coping strategies and mental health such as high uncertainty about the future, loneliness.",
+      "source": "Florida Atlantic University"
+    },
+    {
+      "position": 32,
+      "title": "Smoking with COVID-19 and more",
+      "link": "https://www.medicalnewstoday.com/articles/smoking-with-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicalnewstoday.com/articles/smoking-with-covid&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCLECEAE",
+      "displayed_link": "https://www.medicalnewstoday.com › articles › smokin...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107869e41e7b2dd2d5b241e49e9d6f3cf57.png",
+      "date": "Mar 15, 2023",
+      "snippet": "A 2021 report showed that current smokers were 80% more likely to be admitted to the hospital and were significantly more likely to die from ...",
+      "snippet_highlighted_words": [
+        "current smokers were 80% more likely to be admitted to the hospital"
+      ],
+      "source": "Medical News Today"
+    },
+    {
+      "position": 33,
+      "title": "Study shows lower SARS-CoV-2 infection rates in smokers",
+      "link": "https://www.news-medical.net/news/20211006/Study-shows-lower-SARS-CoV-2-infection-rates-in-smokers.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.news-medical.net/news/20211006/Study-shows-lower-SARS-CoV-2-infection-rates-in-smokers.aspx&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCK8CEAE",
+      "displayed_link": "https://www.news-medical.net › news › Study-shows-lo...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51074ec6fb5db5dc0b2fa67e015c6ec0df36.png",
+      "date": "Oct 6, 2021",
+      "snippet": "The researchers found that individuals who smoked cigarettes regularly were more likely to be protected from COVID-19, showing lower current infection as well ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "News-Medical"
+    },
+    {
+      "position": 34,
+      "title": "Why are smokers at an increased risk for severe COVID-19?",
+      "link": "https://med.stanford.edu/news/insights/2021/11/why-are-smokers-at-an-increased-risk-for-severe-covid-19.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://med.stanford.edu/news/insights/2021/11/why-are-smokers-at-an-increased-risk-for-severe-covid-19.html&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECC8QAQ",
+      "displayed_link": "https://med.stanford.edu › News Center",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107625c0c749d232ee914aa8815604db98a.png",
+      "date": "Nov 22, 2021",
+      "snippet": "Tobacco smoke blocks airway cells from making a protein that protects against infection by the virus that causes COVID-19.",
+      "snippet_highlighted_words": [
+        "smoke",
+        "COVID"
+      ],
+      "source": "Stanford Medicine"
+    },
+    {
+      "position": 35,
+      "title": "Does Smoking Increase the Risk of Severe COVID-19 ...",
+      "link": "https://www.cedars-sinai.org/newsroom/does-smoking-increase-the-risk-of-severe-covid-19-illness/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cedars-sinai.org/newsroom/does-smoking-increase-the-risk-of-severe-covid-19-illness/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECDUQAQ",
+      "displayed_link": "https://www.cedars-sinai.org › newsroom › does-smoki...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107b0f88c8062335c6de9f8bafcca631711.png",
+      "date": "Sep 1, 2020",
+      "snippet": "Experts say smokers could have increased risk for being hospitalized or being placed on a ventilator if they get the virus that causes COVID-19.",
+      "snippet_highlighted_words": [
+        "smokers"
+      ],
+      "source": "Cedars-Sinai"
+    },
+    {
+      "position": 36,
+      "title": "The connection between smoking, COVID-19",
+      "link": "https://newsnetwork.mayoclinic.org/discussion/the-connection-between-smoking-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://newsnetwork.mayoclinic.org/discussion/the-connection-between-smoking-covid-19/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECFEQAQ",
+      "displayed_link": "https://newsnetwork.mayoclinic.org › discussion › the-c...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510756de70d8ac32b143734ccf0fe4d27600.png",
+      "date": "Nov 30, 2020",
+      "snippet": "The social behavior of smoking and vaping also can increase the risk of spreading the virus, as people who smoke or vape oftentimes do so in ...",
+      "snippet_highlighted_words": [
+        "can increase the risk of spreading the virus"
+      ],
+      "source": "Mayo Clinic News Network"
+    },
+    {
+      "position": 37,
+      "title": "Study reveals how smoking worsens COVID-19 infection in ...",
+      "link": "https://newsroom.ucla.edu/releases/how-smoking-worsens-covid-infection",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://newsroom.ucla.edu/releases/how-smoking-worsens-covid-infection&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECFUQAQ",
+      "displayed_link": "https://newsroom.ucla.edu › releases › how-smoking-w...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107e38c53b78e74a0c557e60ddfef68ff28.png",
+      "date": "Nov 17, 2020",
+      "snippet": "UCLA researchers using a model of airway tissue created from human stem cells have pinpointed how smoking cigarettes causes more severe infection by SARS-CoV-2.",
+      "snippet_highlighted_words": [
+        "smoking cigarettes causes more severe infection"
+      ],
+      "source": "Newsroom | UCLA"
+    },
+    {
+      "position": 38,
+      "title": "Does Nicotine Kill the COVID-19 Virus?",
+      "link": "https://www.healthline.com/health/smoking/does-nicotine-kill-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/health/smoking/does-nicotine-kill-covid&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECGsQAQ",
+      "displayed_link": "https://www.healthline.com › health › smoking › does-...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107dde685a178939405a2c9a642f967371c.png",
+      "date": "Jul 5, 2023",
+      "snippet": "No. Consuming nicotine or tobacco actually increases your risk of contracting COVID-19 and developing severe symptoms.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 39,
+      "title": "Important Facts on Smoking and COVID-19",
+      "link": "https://covid19.ncdhhs.gov/smoking-and-covid19-web/open",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covid19.ncdhhs.gov/smoking-and-covid19-web/open&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECG0QAQ",
+      "displayed_link": "https://covid19.ncdhhs.gov › open",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510777854d52b8ce8fd2abe515c86df3af2a.png",
+      "snippet": "Cigarette smoking causes underlying conditions that increase the risk for severe illness from COVID-19, including heart and lung diseases and diabetes.",
+      "snippet_highlighted_words": [
+        "smoking",
+        "COVID"
+      ],
+      "source": "North Carolina Department of Health and Human Services (.gov)"
+    },
+    {
+      "position": 40,
+      "title": "What smokers and vapers need to know about COVID-19",
+      "link": "https://www.mdanderson.org/publications/focused-on-health/what-smokers-and-vapers-need-to-know-about-covid-19.h13-1593780.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mdanderson.org/publications/focused-on-health/what-smokers-and-vapers-need-to-know-about-covid-19.h13-1593780.html&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIEBEAE",
+      "displayed_link": "https://www.mdanderson.org › focused-on-health › what...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107b767973f86743e4f5c53105f85b4b589.png",
+      "snippet": "“We know that smokers are at higher risk for respiratory infections,” says George Eapen, M.D., Professor in MD Anderson's department of Pulmonary Medicine. “ ...",
+      "snippet_highlighted_words": [
+        "smokers are at higher risk for respiratory infections"
+      ],
+      "source": "MD Anderson Cancer Center"
+    },
+    {
+      "position": 41,
+      "title": "Smokers seem less likely than non-smokers to fall ill with ...",
+      "link": "https://www.economist.com/science-and-technology/2020/05/02/smokers-seem-less-likely-than-non-smokers-to-fall-ill-with-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.economist.com/science-and-technology/2020/05/02/smokers-seem-less-likely-than-non-smokers-to-fall-ill-with-covid-19&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIcBEAE",
+      "displayed_link": "https://www.economist.com › ... › May 2nd 2020 edition",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107fdeda3061db7e3b2f73706c3022a8d16.png",
+      "date": "May 2, 2020",
+      "snippet": "Smokers, the authors of the report wrote, “are much less likely” to suffer severely from SARS-CoV-2, the virus that causes covid-19.",
+      "snippet_highlighted_words": [
+        "Smokers",
+        "covid"
+      ],
+      "source": "The Economist"
+    },
+    {
+      "position": 42,
+      "title": "What smokers should know about COVID-19",
+      "link": "https://www.youtube.com/watch?v=Vf0CKYnseIg",
+      "displayed_link": "93.4K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKXQHqmIw-jNqv02V1KipyFZLALMYuPo2jrDwkr9rr7ew0&s",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107c903f9a89872e5625651c5e77356d4e6.png",
+      "snippet": "4:58 Go to channel The Curious Case Of Smoking & Coronavirus – Are Smokers At Lesser Risk Of COVID-19? Swarajya•68K views",
+      "duration": "0:52",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQYcb9E8YAajApZ5KsglU0D6zgXqE9wrOjIuA",
+      "source": "YouTube · Mayo Clinic"
+    },
+    {
+      "position": 43,
+      "title": "Former smokers most likely to be hospitalized, die from ...",
+      "link": "https://www.utmb.edu/news/article/utmb-news/2021/07/06/former-smokers-most-likely-to-be-hospitalized-die-from-covid-19-new-utmb-study-finds",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.utmb.edu/news/article/utmb-news/2021/07/06/former-smokers-most-likely-to-be-hospitalized-die-from-covid-19-new-utmb-study-finds&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCI0BEAE",
+      "displayed_link": "https://www.utmb.edu › news › utmb-news › 2021/07/06",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107f8286cf2f5b5d71452f0c8347f27f513.png",
+      "date": "May 17, 2021",
+      "snippet": "“The risk of severe COVID-19 among former smokers is significantly driven by the effect of age and comorbidities,” said Dr. Puebla Neira, the ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "smokers"
+      ],
+      "source": "University of Texas Medical Branch"
+    },
+    {
+      "position": 44,
+      "title": "Coronavirus Risk Increased by Smoking, Vaping",
+      "link": "https://salud-america.org/coronavirus-risk-increase-smoking-vaping/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://salud-america.org/coronavirus-risk-increase-smoking-vaping/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKcBEAE",
+      "displayed_link": "https://salud-america.org › Blog",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107faf834fe3d62dcbb858308f1e333702f.png",
+      "date": "Mar 13, 2020",
+      "snippet": "Health experts say smoking and vaping weakens the function of the lungs and could leave people more susceptible to coronavirus (COVID-19).",
+      "snippet_highlighted_words": [
+        "smoking",
+        "coronavirus",
+        "COVID"
+      ],
+      "source": "Salud America!"
+    },
+    {
+      "position": 45,
+      "title": "Smokers Were Never Really Protected From COVID, Despite ...",
+      "link": "https://respiratory-therapy.com/public-health/smoking/smokers-really-protected-from-covid-despite-what-early-studies-claimed/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://respiratory-therapy.com/public-health/smoking/smokers-really-protected-from-covid-despite-what-early-studies-claimed/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKoBEAE",
+      "displayed_link": "https://respiratory-therapy.com › Smoking",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107bd17cd90eb359a819ea3c370aae392b6.png",
+      "date": "Oct 4, 2021",
+      "snippet": "Early in the coronavirus pandemic, researchers stumbled on an unexpected finding: smokers seemed to be protected from COVID's worst effects.",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "smokers",
+        "COVID's"
+      ],
+      "source": "respiratory-therapy.com"
+    },
+    {
+      "position": 46,
+      "title": "Young smokers at higher risk for severe COVID-19 ...",
+      "link": "https://www.seattletimes.com/seattle-news/health/young-smokers-at-higher-risk-for-severe-covid-19-symptoms-than-nonsmokers-their-age/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.seattletimes.com/seattle-news/health/young-smokers-at-higher-risk-for-severe-covid-19-symptoms-than-nonsmokers-their-age/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKUBEAE",
+      "displayed_link": "https://www.seattletimes.com › Local News › Health",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107f347c27f83605cff05d7094d8c70e620.png",
+      "date": "Aug 10, 2020",
+      "snippet": "Young adults who smoke have double the risk of getting seriously sick with COVID-19 than do nonsmokers, according to new research from the University of ...",
+      "snippet_highlighted_words": [
+        "smoke",
+        "COVID"
+      ],
+      "source": "The Seattle Times"
+    },
+    {
+      "position": 47,
+      "title": "Smoking and COVID-19",
+      "link": "https://smokefree.gov/quit-smoking/why-you-should-quit/smoking-and-covid19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://smokefree.gov/quit-smoking/why-you-should-quit/smoking-and-covid19&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCL4BEAE",
+      "displayed_link": "https://smokefree.gov › ... › Why You Should Quit",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51070f2aa905bb019b94d92728f8391ee73c.png",
+      "snippet": "Smoking increases your risk for severe illness from COVID-19. Now is a great time to stop smoking or don't start again if you've already quit.",
+      "snippet_highlighted_words": [
+        "Smoking",
+        "COVID",
+        "smoking"
+      ],
+      "source": "Smokefree (.gov)"
+    },
+    {
+      "position": 48,
+      "title": "Why COVID-19 hits smokers harder",
+      "link": "https://www.livescience.com/coronavirus-covid-19-risk-and-smoking.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.livescience.com/coronavirus-covid-19-risk-and-smoking.html&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCMABEAE",
+      "displayed_link": "https://www.livescience.com › ... › Coronavirus",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107f64744c106fba8d123f280e0a18e30ff.png",
+      "date": "Apr 10, 2020",
+      "snippet": "Smokers may be prone to severe COVID-19 infections, in part, because their lungs contain an abundance of entry points that the virus can exploit.",
+      "snippet_highlighted_words": [
+        "Smokers",
+        "COVID"
+      ],
+      "source": "Live Science"
+    },
+    {
+      "position": 49,
+      "title": "Smoking and Coronavirus (COVID-19)",
+      "link": "https://www.verywellhealth.com/smoking-and-covid-19-5115796",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.verywellhealth.com/smoking-and-covid-19-5115796&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCNcBEAE",
+      "displayed_link": "https://www.verywellhealth.com › smoking-and-covid-...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107218696edc723c0b36e623f445e6c045b.png",
+      "date": "Oct 17, 2023",
+      "snippet": "Research indicates that smokers were more likely to be hospitalized and become severely ill with COVID-19 than non-smokers.",
+      "snippet_highlighted_words": [
+        "smokers",
+        "COVID",
+        "smokers"
+      ],
+      "source": "Verywell Health"
+    },
+    {
+      "position": 50,
+      "title": "What smokers should know about COVID-19",
+      "link": "https://newsnetwork.mayoclinic.org/discussion/what-smokers-should-know-about-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://newsnetwork.mayoclinic.org/discussion/what-smokers-should-know-about-covid-19/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCNYBEAE",
+      "displayed_link": "https://newsnetwork.mayoclinic.org › discussion › what...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107e3124f84cc5557884cfd3469ca0faef0.png",
+      "date": "Mar 24, 2020",
+      "snippet": "\"Smoking makes you more susceptible to COVID-19, because it destroys some of your lung's natural defense mechanisms,\" says Dr. Patel. \"Vaping ...",
+      "snippet_highlighted_words": [
+        "Smoking",
+        "COVID"
+      ],
+      "source": "Mayo Clinic News Network"
+    },
+    {
+      "position": 51,
+      "title": "How COVID-19 Affects Smokers | You Can Quit 2",
+      "link": "https://ycq2.org/tobacco-e-cigarettes/what-you-need-to-know-about-smoking-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ycq2.org/tobacco-e-cigarettes/what-you-need-to-know-about-smoking-covid-19/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCOkBEAE",
+      "displayed_link": "https://ycq2.org › Tobacco & E-cigarettes",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107a907503ba419d6f2702d4b43ddb4dc12.png",
+      "snippet": "Current and former cigarette smokers are at increased risk of experiencing severe illness from COVID-19 compared to those who have never smoked before.",
+      "snippet_highlighted_words": [
+        "smokers",
+        "COVID"
+      ],
+      "source": "YouCanQuit2"
+    },
+    {
+      "position": 52,
+      "title": "Smoking And The Risk Of COVID-19 Infection - Home Health",
+      "link": "https://centrichealthcare.org/smoking-and-the-risk-of-covid-19-infection/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://centrichealthcare.org/smoking-and-the-risk-of-covid-19-infection/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCPABEAE",
+      "displayed_link": "https://centrichealthcare.org › smoking-and-the-risk-of-...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107adc8afddca550a17b8137bea131a613c.png",
+      "snippet": "Smoking has been associated with a raise in mortality rates among patients hospitalized with COVID-19. Risk of smoking.",
+      "snippet_highlighted_words": [
+        "Smoking",
+        "COVID",
+        "smoking"
+      ],
+      "source": "Centric Healthcare"
+    },
+    {
+      "position": 53,
+      "title": "Though concerned about COVID-19, cigar smokers are ...",
+      "link": "https://unclineberger.org/news/survey-results-despite-covid-19-concerns-cigar-smokers-smoking-more/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://unclineberger.org/news/survey-results-despite-covid-19-concerns-cigar-smokers-smoking-more/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCPMBEAE",
+      "displayed_link": "https://unclineberger.org › Posts",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510787a5e452d7c60e945ad57b8da7b6c7e6.png",
+      "date": "Aug 6, 2020",
+      "snippet": "A survey found that more than twice as many cigar smokers reported they increased rather than decreased their tobacco use since the COVID-19 ...",
+      "snippet_highlighted_words": [
+        "smokers",
+        "COVID"
+      ],
+      "source": "UNC Lineberger"
+    },
+    {
+      "position": 54,
+      "title": "People with Certain Medical Conditions and COVID-19 ...",
+      "link": "https://www.cdc.gov/covid/risk-factors/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdc.gov/covid/risk-factors/index.html&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCO8BEAE",
+      "displayed_link": "https://www.cdc.gov › covid › risk-factors",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51070ffd0ef4f0350f8e85b21c3be3b396e0.png",
+      "author": "by L COVID",
+      "snippet": "Smoking - current or former. It's never too late to quit smoking. Quitting smoking improves your health, regardless of age or how long you have ...",
+      "snippet_highlighted_words": [
+        "Smoking",
+        "smoking",
+        "smoking"
+      ],
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "position": 55,
+      "title": "Covid-19: The role of smoking cessation during respiratory ...",
+      "link": "https://blogs.bmj.com/bmj/2020/03/20/covid-19-the-role-of-smoking-cessation-during-respiratory-virus-epidemics/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blogs.bmj.com/bmj/2020/03/20/covid-19-the-role-of-smoking-cessation-during-respiratory-virus-epidemics/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIUCEAE",
+      "displayed_link": "https://blogs.bmj.com › Home › Latest Articles",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107110e2f727bab9b14e95f4b509fba5eb0.png",
+      "date": "Mar 20, 2020",
+      "snippet": "An article reporting disease outcomes in 1,099 laboratory confirmed cases of covid-19 reported that 12.4% (17/137) of current smokers died, ...",
+      "snippet_highlighted_words": [
+        "covid",
+        "smokers"
+      ],
+      "source": "BMJ Blogs"
+    },
+    {
+      "position": 56,
+      "title": "Why smokers and vapers – and those around them",
+      "link": "https://www.theguardian.com/us-news/2020/jul/24/coronavirus-smoking-cigarettes-danger-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/us-news/2020/jul/24/coronavirus-smoking-cigarettes-danger-covid-19&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIYCEAE",
+      "displayed_link": "https://www.theguardian.com › us-news › jul › coronav...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107bab4c8f79811bd0bd7dae93a4fb1fa78.png",
+      "date": "Jul 24, 2020",
+      "snippet": "The study concluded that “smoking is a risk factor for progression of Covid-19”, and smokers are nearly twice as likely to develop severe symptoms.",
+      "snippet_highlighted_words": [
+        "Covid",
+        "smokers"
+      ],
+      "source": "The Guardian"
+    },
+    {
+      "position": 57,
+      "title": "Smoking in Covid19 | ALERT: Are You A #Smoker? You May ...",
+      "link": "https://www.facebook.com/thehealthsite/videos/smoking-in-covid19/392894099083470/?locale=ur_PK",
+      "displayed_link": "2 reactions · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-zxKKQUyvh1qwxQ7h0TCNM2NfCHfDqDpw1KXx2LBaPlX&s",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107466c3a2a45b818be5948eb0d101cbf77.png",
+      "snippet": "... COVID-19. So quitting is the best thing smokers can do to lower their risk from this coronavirus. But now the recent results published ...",
+      "duration": "3:02",
+      "source": "Facebook · Thehealthsite.com"
+    },
+    {
+      "position": 58,
+      "title": "Are Smokers or Vapers More at Risk for COVID-19? Here's ...",
+      "link": "https://www.scientificamerican.com/article/are-smokers-or-vapers-more-at-risk-for-covid-19-heres-what-we-know/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scientificamerican.com/article/are-smokers-or-vapers-more-at-risk-for-covid-19-heres-what-we-know/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCJYCEAE",
+      "displayed_link": "https://www.scientificamerican.com › article › are-smoke...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51072f7d387c9b5257a21cce3862e21ccfd4.png",
+      "date": "Apr 8, 2020",
+      "snippet": "A wealth of research already suggests that smoking suppresses immune function in the lungs. It is also known to increase the risk of influenza.",
+      "snippet_highlighted_words": [
+        "smoking"
+      ],
+      "source": "Scientific American"
+    },
+    {
+      "position": 59,
+      "title": "Does nicotine protect us against coronavirus?",
+      "link": "https://theconversation.com/does-nicotine-protect-us-against-coronavirus-137488",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theconversation.com/does-nicotine-protect-us-against-coronavirus-137488&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCJcCEAE",
+      "displayed_link": "https://theconversation.com › does-nicotine-protect-us-a...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107d6f7c9e90cc0010d8b75d6d4ed37ed43.png",
+      "date": "May 6, 2020",
+      "snippet": "Taken together, although there appears to be an association between smoking and COVID-19 in these hospital-based samples, there's no evidence of ...",
+      "snippet_highlighted_words": [
+        "smoking",
+        "COVID"
+      ],
+      "source": "The Conversation"
+    },
+    {
+      "position": 60,
+      "title": "Smokers and Vapers May Be at Greater Risk for Covid-19",
+      "link": "https://www.nytimes.com/2020/04/09/health/coronavirus-smoking-vaping-risks.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/2020/04/09/health/coronavirus-smoking-vaping-risks.html&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKACEAE",
+      "displayed_link": "https://www.nytimes.com › 2020/04/09 › health › coro...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51070f30b9d7792708a46b1206cf70022881.png",
+      "date": "Sep 4, 2020",
+      "snippet": "Tobacco and marijuana products damage lungs, where the virus does its harm. Health officials are urging people to quit, and temporary sales bans are even being ...",
+      "source": "The New York Times"
+    },
+    {
+      "position": 61,
+      "title": "COVID-19 and the “Lost Year” for Smokers Trying to Quit",
+      "link": "https://jamanetwork.com/journals/jama/fullarticle/2779451",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jamanetwork.com/journals/jama/fullarticle/2779451&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKMCEAE",
+      "displayed_link": "https://jamanetwork.com › JAMA",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510753ff7d105591d1582737f3fe12d8566b.png",
+      "author": "by MC Jaklevic",
+      "snippet": "An analysis of 8910 patients hospitalized with COVID-19 at 169 hospitals on 3 continents found that 9.4% of current smokers died before they ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "smokers"
+      ],
+      "source": "JAMA"
+    },
+    {
+      "position": 62,
+      "title": "Are smokers protected from COVID-19? - Tobacco 21",
+      "link": "https://tobacco21.org/12133-2/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tobacco21.org/12133-2/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKICEAE",
+      "displayed_link": "https://tobacco21.org › ...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510730d962333814060bf58d7559a1c87808.png",
+      "date": "Jun 6, 2020",
+      "snippet": "In summary and based on the available evidence, it seems unlikely that smoking offers some degree of protection from the effects of COVID-19.",
+      "snippet_highlighted_words": [
+        "smoking",
+        "COVID"
+      ],
+      "source": "tobacco21.org"
+    },
+    {
+      "position": 63,
+      "title": "Smoking Is Correlated With the Prognosis of Coronavirus ...",
+      "link": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.634842/full",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.634842/full&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCLICEAE",
+      "displayed_link": "https://www.frontiersin.org › fphys.2021.634842 › full",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51071de7f9c110c985ae4c7a04e6480a494d.png",
+      "author": "by F Peng",
+      "snippet": "Smoking was thought to be a risk factor in predicting the prognosis of COVID-19 and smoking patients might have a higher risk of mortality than that of the non ...",
+      "snippet_highlighted_words": [
+        "Smoking",
+        "COVID",
+        "smoking"
+      ],
+      "source": "Frontiers"
+    },
+    {
+      "position": 64,
+      "title": "Exploring the effects of smoking tobacco on COVID-19 risk",
+      "link": "https://www.news-medical.net/news/20201014/Exploring-the-effects-of-smoking-tobacco-on-COVID-19-risk.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.news-medical.net/news/20201014/Exploring-the-effects-of-smoking-tobacco-on-COVID-19-risk.aspx&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKwCEAE",
+      "displayed_link": "https://www.news-medical.net › news › Exploring-the-e...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107d52963dc098e9e7b5c36b297e510b93b.png",
+      "date": "Oct 14, 2020",
+      "snippet": "A study conducted by researchers in China has shed light on how certain tobacco compounds might prevent cells from becoming infected with severe acute ...",
+      "source": "News-Medical"
+    },
+    {
+      "position": 65,
+      "title": "Smoking and coronavirus: Why experts say people who ...",
+      "link": "https://www.abc.net.au/news/health/2020-04-03/coronavirus-smokers-vulnerable-to-covid-19/12114734",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.abc.net.au/news/health/2020-04-03/coronavirus-smokers-vulnerable-to-covid-19/12114734&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCLsCEAE",
+      "displayed_link": "https://www.abc.net.au › news › health › coronavirus-s...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107cccbe4167fd0df7679e0ee9705b06b91.png",
+      "date": "Apr 2, 2020",
+      "snippet": "While there is still much to learn about COVID-19, experts are certain that smokers are at much higher risk of developing coronavirus and ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "smokers",
+        "coronavirus"
+      ],
+      "source": "Australian Broadcasting Corporation"
+    },
+    {
+      "position": 66,
+      "title": "Smokers At Higher Risk Of Severe COVID-19 During ...",
+      "link": "https://www.forbes.com/sites/victoriaforster/2020/03/23/smokers-at-higher-risk-of-severe--covid-19-during-coronavirus-outbreak/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.forbes.com/sites/victoriaforster/2020/03/23/smokers-at-higher-risk-of-severe--covid-19-during-coronavirus-outbreak/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCLwCEAE",
+      "displayed_link": "https://www.forbes.com › Innovation › Healthcare",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107f98c475926adaa523092027a15fbbd5f.png",
+      "date": "Mar 23, 2020",
+      "snippet": "A leading expert has warned that smokers are likely at increased risk of more severe COVID-19, compared to non-smokers.",
+      "snippet_highlighted_words": [
+        "smokers",
+        "COVID",
+        "smokers"
+      ],
+      "source": "Forbes"
+    },
+    {
+      "position": 67,
+      "title": "What We Know About Smoking and Covid-19",
+      "link": "https://blog.johnsonmemorial.org/what-we-know-about-smoking-and-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.johnsonmemorial.org/what-we-know-about-smoking-and-covid-19&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECDEQAQ",
+      "displayed_link": "https://blog.johnsonmemorial.org › what-we-know-about...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107e93e47c4938ff0c0f63f50dd91b0686d.png",
+      "date": "Nov 19, 2020",
+      "snippet": "And for those with heart or lung disease caused by smoking, you may be at higher risk of having severe illness from COVID-19. Like Covid-19, ...",
+      "snippet_highlighted_words": [
+        "smoking",
+        "COVID",
+        "Covid"
+      ],
+      "source": "Johnson Memorial Health"
+    },
+    {
+      "position": 68,
+      "title": "The role of nicotine in COVID-19 infection",
+      "link": "https://www.cebm.net/covid-19/nicotine-replacement-therapy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cebm.net/covid-19/nicotine-replacement-therapy/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECC4QAQ",
+      "displayed_link": "https://www.cebm.net › nicotine-replacement-therapy",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107c8f811563310daeee99012406693b3a5.png",
+      "date": "May 26, 2020",
+      "snippet": "Whereas the expectation is that smoking would predispose to worse outcomes from COVID-19, as is the case in other acute respiratory infections, ...",
+      "snippet_highlighted_words": [
+        "smoking",
+        "COVID"
+      ],
+      "source": "The Centre for Evidence-Based Medicine"
+    },
+    {
+      "position": 69,
+      "title": "Smokers appear to be at higher risk from coronavirus - expert",
+      "link": "https://www.timesofisrael.com/smokers-appear-to-be-at-higher-risk-from-coronavirus-expert/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.timesofisrael.com/smokers-appear-to-be-at-higher-risk-from-coronavirus-expert/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCPIBEAE",
+      "displayed_link": "https://www.timesofisrael.com › smokers-appear-to-be-...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107182eaf7eb089652a1e002227b75a12ae.png",
+      "date": "Mar 15, 2020",
+      "snippet": "Smokers are likely to have a greater risk of corona disease and a more severe morbidity and mortality risk.” One of Israel's few coronavirus ...",
+      "snippet_highlighted_words": [
+        "Smokers",
+        "coronavirus"
+      ],
+      "source": "The Times of Israel"
+    },
+    {
+      "position": 70,
+      "title": "What You Need to Know About Smoking, Vaping and ...",
+      "link": "https://www.lung.org/blog/smoking-and-covid19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lung.org/blog/smoking-and-covid19&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECFcQAQ",
+      "displayed_link": "https://www.lung.org › blog › smoking-and-covid19",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51073333b29e13f98a888770de3997113559.png",
+      "date": "Mar 27, 2020",
+      "snippet": "In a recent study published by the New England Journal of Medicine, people who smoke were 2.4 times more likely to have severe symptoms from ...",
+      "snippet_highlighted_words": [
+        "smoke"
+      ],
+      "source": "American Lung Association"
+    },
+    {
+      "position": 71,
+      "title": "Tobacco smoking increases lung entry points for COVID-19 ...",
+      "link": "https://www.sciencedaily.com/releases/2020/04/200429134009.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedaily.com/releases/2020/04/200429134009.htm&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECE8QAQ",
+      "displayed_link": "https://www.sciencedaily.com › releases › 2020/04",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510776c74778a4e27f52cdccd1712d84f90f.png",
+      "date": "Apr 29, 2020",
+      "snippet": "Researchers at Baylor College of Medicine, the University of South Carolina and other institutions have identified tobacco smoking as a ...",
+      "snippet_highlighted_words": [
+        "smoking"
+      ],
+      "source": "ScienceDaily"
+    },
+    {
+      "position": 72,
+      "title": "Why Are Smokers At Higher Risk of Severe COVID-19 ...",
+      "link": "https://www.pelagohealth.com/blog/why-are-smokers-vapers-at-higher-risk-of-severe-covid-19-infection/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pelagohealth.com/blog/why-are-smokers-vapers-at-higher-risk-of-severe-covid-19-infection/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECFYQAQ",
+      "displayed_link": "https://www.pelagohealth.com › blog › why-are-smoke...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510747f0ec05722c23750a416b3925ef98b9.png",
+      "date": "Mar 27, 2020",
+      "snippet": "If you smoke or vape, experts are saying that you make yourself more vulnerable to a severe infection from the novel coronavirus. A recent ...",
+      "snippet_highlighted_words": [
+        "smoke",
+        "coronavirus"
+      ],
+      "source": "Pelago Health"
+    },
+    {
+      "position": 73,
+      "title": "Smoking & COVID-19: Another Reason Not to Smoke",
+      "link": "https://mana.md/smoking-and-covid-19-another-reason-not-to-smoke/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mana.md/smoking-and-covid-19-another-reason-not-to-smoke/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECFQQAQ",
+      "displayed_link": "https://mana.md › News",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51072cf0419edd8d1b3fc305f7ace48c4369.png",
+      "snippet": "Smoking also increases your risk for COVID-19, and it increases your risk for complications from COVID-19. Smokers are at a higher risk than non-smokers.",
+      "snippet_highlighted_words": [
+        "Smoking",
+        "COVID",
+        "COVID",
+        "Smokers",
+        "smokers"
+      ],
+      "source": "Medical Associates of Northwest Arkansas"
+    },
+    {
+      "position": 74,
+      "title": "COVID-19, Lungs & Smoking",
+      "link": "https://gsahec.org/articles/tobacco-article/covid-19-lungs-and-smoking/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gsahec.org/articles/tobacco-article/covid-19-lungs-and-smoking/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECFgQAQ",
+      "displayed_link": "https://gsahec.org › articles › tobacco-article › covid-19...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51074f3224e7152c8ec5e525e0dd29986e6e.png",
+      "date": "Aug 12, 2021",
+      "snippet": "COVID-19, otherwise known as Coronavirus Disease 2019, is a disease that comes from a coronavirus—an upper-respiratory illness that can be ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Coronavirus",
+        "coronavirus"
+      ],
+      "source": "Gulfcoast South AHEC"
+    },
+    {
+      "position": 75,
+      "title": "Smoking Can Make COVID-19 Infections Worse",
+      "link": "https://www.sheppardpratt.org/news-views/story/smoking-can-make-covid-19-infections-worse/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sheppardpratt.org/news-views/story/smoking-can-make-covid-19-infections-worse/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECGwQAQ",
+      "displayed_link": "https://www.sheppardpratt.org › News & Views",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51078f9f3c470e9a1d5b4ec3b059d4edb8ae.png",
+      "date": "Apr 20, 2020",
+      "snippet": "... smokers. Smoking and vaping cause damage to the respiratory system, leaving smokers more susceptible to severe illness as coronavirus spreads.",
+      "snippet_highlighted_words": [
+        "smokers",
+        "Smoking",
+        "smokers",
+        "coronavirus"
+      ],
+      "source": "Sheppard Pratt"
+    },
+    {
+      "position": 76,
+      "title": "Smokers seem less likely to fall ill to COVID-19",
+      "link": "https://www.youtube.com/watch?v=wQxwskwSK0Y",
+      "displayed_link": "51.2K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6uHfXYHnHum1Hl0SZVrZFAZTZlQzwioOhMgYuy2Ez1ln&s",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51075ad387a94481c3c7ee24605aff8f5c3f.png",
+      "snippet": "Smoking is a destructive addiction and is often triggered by stress. Amid the ongoing coronavirus pandemic, Americans that smoke could be ...",
+      "duration": "2:25",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSoXBTez1BqEobKEPBizVMzyKkb5ryCXGAVGQ",
+      "source": "YouTube · 13 ON YOUR SIDE"
+    },
+    {
+      "position": 77,
+      "title": "Smoking and COVID-19 Risk - Respiratory Therapy",
+      "link": "https://respiratory-therapy.com/public-health/smoking/smoking-and-covid-19-risk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://respiratory-therapy.com/public-health/smoking/smoking-and-covid-19-risk/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECG4QAQ",
+      "displayed_link": "https://respiratory-therapy.com › Smoking",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107452fd93d34f4453829c5ddb1e8c81217.png",
+      "snippet": "New research discusses how smoking may affect risk for COVID-19 and how to better understand the link between smoking and COVID-19 risk.",
+      "snippet_highlighted_words": [
+        "smoking",
+        "COVID",
+        "smoking",
+        "COVID"
+      ],
+      "source": "respiratory-therapy.com"
+    },
+    {
+      "position": 78,
+      "title": "Smokers are at greater risk of COVID-19 complications ...",
+      "link": "https://gulfnews.com/special-reports/smokers-are-at-greater-risk-of-covid-19-complications-death-than-others-experts-1.1622478245649",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gulfnews.com/special-reports/smokers-are-at-greater-risk-of-covid-19-complications-death-than-others-experts-1.1622478245649&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECHIQAQ",
+      "displayed_link": "https://gulfnews.com › Special Reports",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51072f44eb1c5408997524ffe882210bf6d0.png",
+      "date": "Jun 1, 2021",
+      "snippet": "Claim that smoking protects you from the coronavirus is mistaken, say researchers.",
+      "snippet_highlighted_words": [
+        "smoking",
+        "coronavirus"
+      ],
+      "source": "Gulf News"
+    },
+    {
+      "position": 79,
+      "title": "COVID-19 and the Impact of Smoking",
+      "link": "https://www.netmeds.com/health-library/post/covid-19-and-the-impact-of-smoking?srsltid=AfmBOoo9zB9akBHLWtKcF4bfI7W01rfaxaB43qWcEa-p4B7DUE9OWHuu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.netmeds.com/health-library/post/covid-19-and-the-impact-of-smoking%3Fsrsltid%3DAfmBOoo9zB9akBHLWtKcF4bfI7W01rfaxaB43qWcEa-p4B7DUE9OWHuu&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoECHEQAQ",
+      "displayed_link": "https://www.netmeds.com › Health Library",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51078efa2ce3fd2b507f5b4f6391d72d0b38.png",
+      "date": "Jun 9, 2020",
+      "snippet": "COVID-19 is an infectious disease that primarily attacks the lungs. Smoking impairs lung function making it harder for the body to fight off ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Smoking"
+      ],
+      "source": "Netmeds"
+    },
+    {
+      "position": 80,
+      "title": "Smoking linked with increased risk of viral infection ...",
+      "link": "https://health.economictimes.indiatimes.com/news/industry/smoking-linked-with-increased-risk-of-viral-infection-coronavirus-illness-study/94682041",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://health.economictimes.indiatimes.com/news/industry/smoking-linked-with-increased-risk-of-viral-infection-coronavirus-illness-study/94682041&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIUBEAE",
+      "displayed_link": "https://health.economictimes.indiatimes.com › industry",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107303e32bf2703772ac8d1e370e4b7f953.png",
+      "date": "Oct 6, 2022",
+      "snippet": "This included a type of common coronavirus (coronavirus 229E) that existed prior to the novel coronavirus (SARS-CoV-2 virus), which causes COVID ...",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "coronavirus",
+        "coronavirus",
+        "COVID"
+      ],
+      "source": "ET HealthWorld"
+    },
+    {
+      "position": 81,
+      "title": "Study Reveals How Smoking Worsens the Impact of ...",
+      "link": "https://science.thewire.in/health/covid-19-smoking-airways-lung-infection/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://science.thewire.in/health/covid-19-smoking-airways-lung-infection/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIYBEAE",
+      "displayed_link": "https://science.thewire.in › health › covid-19-smoking-a...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107d3f1005a3241c44e13e9159966a2887d.png",
+      "date": "Nov 20, 2020",
+      "snippet": "While several studies of COVID-19 patients have indicated that current smokers are at increased risk of severe infection and death due to the ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "smokers"
+      ],
+      "source": "The Wire Science"
+    },
+    {
+      "position": 82,
+      "title": "Yes, COVID-19 can be transmitted through secondhand smoke",
+      "link": "https://www.youtube.com/watch?v=--Wd6KXH-uw",
+      "displayed_link": "890+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jPLyPhZmBZgSH9cXu2Eu4bZz5yLo5x5OyBm5A70Ie_21&s",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510768aa6c71b838120e4ff4b11499381683.png",
+      "snippet": "Johns Hopkins Medicine said because smokers take off their masks when they smoke in between puffs, they can spread the virus.",
+      "duration": "1:35",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSGpacGFP4WlYmT0y1YCX0Tax8XARV3-LzUOw",
+      "source": "YouTube · WCNC"
+    },
+    {
+      "position": 83,
+      "title": "Are Smokers or Vapers More at Risk for COVID-19? Here's ...",
+      "link": "https://tobacco21.org/are-smokers-or-vapers-more-at-risk-for-covid-19-heres-what-we-know/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tobacco21.org/are-smokers-or-vapers-more-at-risk-for-covid-19-heres-what-we-know/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCIsBEAE",
+      "displayed_link": "https://tobacco21.org › are-smokers-or-vapers-more-at-...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107be5cb96bb3cf3f9cbf772e3f2f58cd85.png",
+      "date": "Apr 16, 2020",
+      "snippet": "Are Smokers or Vapers More at Risk for COVID-19? Here's What We know · Investigating the potential danger to those who use tobacco products or e- ...",
+      "snippet_highlighted_words": [
+        "Smokers",
+        "COVID"
+      ],
+      "source": "tobacco21.org"
+    },
+    {
+      "position": 84,
+      "title": "#GravitasPlus | Smoking is injurious to health, but some ...",
+      "link": "https://www.facebook.com/WIONews/videos/gravitas-plus-does-smoking-help-you-fight-covid-19/311777570417896/",
+      "displayed_link": "2.4K+ reactions · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx-5Yn6cfbg1ug_Pv19kqVgu2XATsd4NSc6hGay7WJkWN_&s",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510726e6cf13c67ff2fd225c0e092d9b8754.png",
+      "snippet": "Gravitas Plus | Does smoking help you fight Covid-19? #GravitasPlus | Smoking is injurious to health, but some studies say smokers are 23% less ...",
+      "duration": "8:54",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSgNmwVLtpOpXzfiSd7JY-gUt3CZqhFYjbx1w",
+      "source": "Facebook · WION"
+    },
+    {
+      "position": 85,
+      "title": "COVID-19 and the Risks to Former & Current Smokers",
+      "link": "https://asisedeja.org/covid-19-and-the-risks-to-smokers/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://asisedeja.org/covid-19-and-the-risks-to-smokers/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCJwBEAE",
+      "displayed_link": "https://asisedeja.org › covid-19-and-the-risks-to-smokers",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107ca6173a4bad8edca7a69f0cf79930146.png",
+      "snippet": "Being a former or current cigarette smoker increases your risk of severe illness from COVID-19. Of course, it's known that smoking reduces lung capacity and ...",
+      "snippet_highlighted_words": [
+        "smoker",
+        "COVID",
+        "smoking"
+      ],
+      "source": "asisedeja.org"
+    },
+    {
+      "position": 86,
+      "title": "Consumers who smoke cigarettes are more susceptible to ...",
+      "link": "https://www.consumeraffairs.com/news/consumers-who-smoke-cigarettes-are-more-susceptible-to-covid-19-042920.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.consumeraffairs.com/news/consumers-who-smoke-cigarettes-are-more-susceptible-to-covid-19-042920.html&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKEBEAE",
+      "displayed_link": "https://www.consumeraffairs.com › News › COVID-19",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51077a28aeb11c541183fe41883ef0ca3e6e.png",
+      "date": "Apr 29, 2020",
+      "snippet": "To understand the risk that smoking can pose when it comes to COVID-19, the researchers analyzed the lung tissue of both smokers and non-smokers ...",
+      "snippet_highlighted_words": [
+        "smoking",
+        "COVID",
+        "smokers",
+        "smokers"
+      ],
+      "source": "ConsumerAffairs"
+    },
+    {
+      "position": 87,
+      "title": "COVID Lung: Are COVID-19 patient's lungs worse than ...",
+      "link": "https://www.cbs8.com/video/news/health/coronavirus/covid-lung-smokers/509-b75280ab-fc76-4d99-911f-390c7673284e",
+      "displayed_link": "https://www.cbs8.com · Feb 7, 2021",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpK7csmHKT6VUTggpc-urDkDYJ07IeWpS2DdcEnhHufLTe&s",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107754f2a59532fb6a696927f6f8da10263.png",
+      "snippet": "A pulmonary critical care doctor breaks down how lung damage of recovering COVID-19 patients compares to lung damage from habitual smoking.",
+      "source": "CBS 8"
+    },
+    {
+      "position": 88,
+      "title": "5 Vaping Facts You Need to Know",
+      "link": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/5-truths-you-need-to-know-about-vaping",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hopkinsmedicine.org/health/wellness-and-prevention/5-truths-you-need-to-know-about-vaping&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKQBEAE",
+      "displayed_link": "https://www.hopkinsmedicine.org › health › 5-truths-you...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107b5eed2d047d6db50069466ffaaf06435.png",
+      "snippet": "4: Electronic cigarettes aren't the best smoking cessation tool. · 5: A new generation is getting hooked on nicotine. · Vaping and the COVID-19 Pandemic.",
+      "snippet_highlighted_words": [
+        "smoking",
+        "COVID"
+      ],
+      "source": "Johns Hopkins Medicine"
+    },
+    {
+      "position": 89,
+      "title": "COVID-19 & Smoking: Smokers are likely to have more severe ...",
+      "link": "https://www.youtube.com/watch?v=7x3vL72cDxU",
+      "displayed_link": "330+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQJ7WlBWS1k-etPxf1xWlbxE2wTw2xPUSqXz11Hl4rrTkj&s",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107a91e3660840bc23d0ff3505643178fc4.png",
+      "snippet": "COVID-19 & Smoking: Smokers are likely to have more severe outcomes of COVID-19. 339 views · 4 years ago ...more ...",
+      "duration": "0:31",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQMVsrXLzsUfyGRtbkDe5lDUlGSTkWM66v1XA",
+      "source": "YouTube · World Health Organization South-East Asia Region - WHO SEARO"
+    },
+    {
+      "position": 90,
+      "title": "First EU-wide taxes on tobacco to pay for Covid debt",
+      "link": "https://www.telegraph.co.uk/world-news/2025/07/16/first-eu-wide-taxes-to-pay-for-covid-debt/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.telegraph.co.uk/world-news/2025/07/16/first-eu-wide-taxes-to-pay-for-covid-debt/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKgBEAE",
+      "displayed_link": "https://www.telegraph.co.uk › world-news › 2025/07/16",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510771c18fdd570c47da6b020339312eff12.png",
+      "date": "8 days ago",
+      "snippet": "Levy will be based on the smoking population of each member state.",
+      "snippet_highlighted_words": [
+        "smoking"
+      ],
+      "source": "The Telegraph"
+    },
+    {
+      "position": 91,
+      "title": "Smoking DOES increase risk of catching Covid-19, new ...",
+      "link": "https://www.the-sun.com/news/799947/smoking-increase-risk-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.the-sun.com/news/799947/smoking-increase-risk-covid-19/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCKYBEAE",
+      "displayed_link": "https://www.the-sun.com › news › smoking-increase-ris...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510752262dda315c0b80e8aef740a2549988.png",
+      "date": "May 8, 2020",
+      "snippet": "Researchers have identified that smoking tobacco products is a risk factor when it comes to people contracting Covid-19. Advertisement. Sign up ...",
+      "snippet_highlighted_words": [
+        "smoking",
+        "Covid"
+      ],
+      "source": "The US Sun"
+    },
+    {
+      "position": 92,
+      "title": "Smokers have a higher risk of contracting COVID-19 ...",
+      "link": "https://www.youtube.com/watch?v=jk53t-Y6oBw",
+      "displayed_link": "7.7K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQXkCCdXNiVdfRs9CteTORnVWJGKdvZ9uG1_Act_XC93H&s",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107f748d9631267dfcb7560036161db6a2c.png",
+      "snippet": "Early studies found the mortality from COVID-19 among smokers is about 9 percent, compared to 4 percent among non-smokers, officials say.",
+      "duration": "2:55",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR-qYm4O_igJPgVHR-04jZ4tTWTOXLFOSWi6g",
+      "source": "YouTube · THV11"
+    },
+    {
+      "position": 93,
+      "title": "Emphysema: Causes, Symptoms, Diagnosis & Treatment",
+      "link": "https://my.clevelandclinic.org/health/diseases/9370-emphysema",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my.clevelandclinic.org/health/diseases/9370-emphysema&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCLcBEAE",
+      "displayed_link": "https://my.clevelandclinic.org › 9370-emphysema",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a510754ebad73a10fe1a6fb5ebeb3d8533394.png",
+      "snippet": "The main cause of emphysema is smoking, but other causes include chemical fumes and toxins in the air. ... Does COVID-19 cause emphysema? If you don't already ...",
+      "snippet_highlighted_words": [
+        "smoking",
+        "COVID"
+      ],
+      "source": "Cleveland Clinic"
+    },
+    {
+      "position": 94,
+      "title": "Our World in Data",
+      "link": "https://ourworldindata.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ourworldindata.org/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCL0BEAE",
+      "displayed_link": "https://ourworldindata.org",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107094ac5a6bc3094e9c487dd5c90f5fcbe.png",
+      "snippet": "Smokers are about 21 times more likely to die from lung cancer than people ... It also shows that the COVID-19 pandemic led to reduced life expectancy worldwide.",
+      "snippet_highlighted_words": [
+        "Smokers",
+        "COVID"
+      ],
+      "source": "Our World in Data"
+    },
+    {
+      "position": 95,
+      "title": "More evidence smokers are at less risk of COVID-19",
+      "link": "https://dailytrust.com/more-evidence-smokers-are-at-less-risk-of-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dailytrust.com/more-evidence-smokers-are-at-less-risk-of-covid-19/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCMEBEAE",
+      "displayed_link": "https://dailytrust.com › more-evidence-smokers-are-at-les...",
+      "date": "Jun 9, 2020",
+      "snippet": "Smokers are less likely to be diagnosed with COVID-19 compared to those who have never touched a cigarette, another study has claimed.",
+      "snippet_highlighted_words": [
+        "Smokers",
+        "COVID"
+      ],
+      "source": "Daily Trust"
+    },
+    {
+      "position": 96,
+      "title": "Why should you quit and stay off tobacco and vaping during ...",
+      "link": "https://www.youtube.com/watch?v=QFuOlqezM_I",
+      "displayed_link": "2.4K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohFYyrmLDhoR1anzAexd4tHgtqToiKk2sQuO9Pkpm_yq8&s",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107e79d1e9d3edb6b769d8f4d261ea44da3.png",
+      "snippet": "Smoking can increase your chances of developing a severe case of COVID-19. It also damages your lungs and other parts of your body and hurts ...",
+      "duration": "1:08",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTQAXRMnH98SqcAdm8465HP0ixM_Jz7gyznXA",
+      "source": "YouTube · WHO Eastern Mediterranean Region"
+    },
+    {
+      "position": 97,
+      "title": "Non-Viral Therapy in COVID-19: Where Are We Standing? ...",
+      "link": "https://www.mdpi.com/2227-9059/13/8/1801",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mdpi.com/2227-9059/13/8/1801&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCM8BEAE",
+      "displayed_link": "https://www.mdpi.com › ...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107501339ddc7a3363b4212c2dddd7ef6ea.png",
+      "date": "Jul 14, 2025",
+      "snippet": "Since Cannabis smokers display a mild lung inflammation, and on the ... Coronavirus disease (COVID-19): post COVID-19 condition).",
+      "snippet_highlighted_words": [
+        "smokers",
+        "Coronavirus",
+        "COVID",
+        "COVID"
+      ],
+      "source": "MDPI"
+    },
+    {
+      "position": 98,
+      "title": "Adult Immunization Schedule Notes | Vaccines & ...",
+      "link": "https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-notes.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-notes.html&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCM4BEAE",
+      "displayed_link": "https://www.cdc.gov › vaccines › hcp › imz-schedules",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51079715ed09784634aa5f7cf5054d0066ae.png",
+      "date": "Jul 2, 2025",
+      "snippet": "... coronavirus-disease-2019-covid-19/covid-19-vaccines. Special ... smoking, cochlear implant, congenital or acquired asplenia, CSF leak ...",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "covid",
+        "covid",
+        "smoking"
+      ],
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "position": 99,
+      "title": "Quit smoking - Better Health",
+      "link": "https://www.nhs.uk/better-health/quit-smoking/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhs.uk/better-health/quit-smoking/&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCNoBEAE",
+      "displayed_link": "https://www.nhs.uk › better-health › quit-smoking",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a5107be1e71fffe3db2e51ef796dcf488e248.png",
+      "snippet": "Thinking about quitting smoking, ready to stop, or struggling to stay smoke-free? Find the tools, tips, and support you need for a healthier life.",
+      "snippet_highlighted_words": [
+        "smoking",
+        "smoke"
+      ],
+      "source": "nhs.uk"
+    },
+    {
+      "position": 100,
+      "title": "Long-term effects of COVID-19 on chronic obstructive ...",
+      "link": "https://www.dovepress.com/long-term-effects-of-covid-19-on-chronic-obstructive-pulmonary-disease-peer-reviewed-fulltext-article-COPD",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dovepress.com/long-term-effects-of-covid-19-on-chronic-obstructive-pulmonary-disease-peer-reviewed-fulltext-article-COPD&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQFnoFCNkBEAE",
+      "displayed_link": "https://www.dovepress.com › long-term-effects-of-covid...",
+      "favicon": "https://serpapi.com/searches/68819d8a1f758a88970c4e0e/images/2814ee9921d9d702a753a002f25a51077714bcfd59573f3a23164262b11d0dd2.png",
+      "author": "by CT Lee",
+      "snippet": "... smokers and COPD subjects. Eur Resp J. 2020;56(2):2002378. doi:10.1183/13993003.02378-2020. 13. Lu R, Zhao X, Li J, et al. Genomic ...",
+      "snippet_highlighted_words": [
+        "smokers"
+      ],
+      "source": "Dove Medical Press"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "COVID smokers paradox",
+      "link": "https://www.google.com/search?num=100&sca_esv=28fff17e3de8b0c6&hl=en&gl=us&q=COVID+smokers+paradox&sa=X&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=COVID+smokers+paradox"
+    },
+    {
+      "block_position": 1,
+      "query": "Nicotine and COVID",
+      "link": "https://www.google.com/search?num=100&sca_esv=28fff17e3de8b0c6&hl=en&gl=us&q=Nicotine+and+COVID&sa=X&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Nicotine+and+COVID"
+    },
+    {
+      "block_position": 1,
+      "query": "COVID and smokers statistics",
+      "link": "https://www.google.com/search?num=100&sca_esv=28fff17e3de8b0c6&hl=en&gl=us&q=COVID+and+smokers+statistics&sa=X&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=COVID+and+smokers+statistics"
+    },
+    {
+      "block_position": 1,
+      "query": "Smoking with covid Reddit",
+      "link": "https://www.google.com/search?num=100&sca_esv=28fff17e3de8b0c6&hl=en&gl=us&q=Smoking+with+covid+Reddit&sa=X&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Smoking+with+covid+Reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "When can I smoke after COVID recovery",
+      "link": "https://www.google.com/search?num=100&sca_esv=28fff17e3de8b0c6&hl=en&gl=us&q=When+can+I+smoke+after+COVID+recovery&sa=X&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=When+can+I+smoke+after+COVID+recovery"
+    },
+    {
+      "block_position": 1,
+      "query": "Vaping and COVID",
+      "link": "https://www.google.com/search?num=100&sca_esv=28fff17e3de8b0c6&hl=en&gl=us&q=Vaping+and+COVID&sa=X&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Vaping+and+COVID"
+    },
+    {
+      "block_position": 1,
+      "query": "Smoking and long COVID",
+      "link": "https://www.google.com/search?num=100&sca_esv=28fff17e3de8b0c6&hl=en&gl=us&q=Smoking+and+long+COVID&sa=X&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Smoking+and+long+COVID"
+    },
+    {
+      "block_position": 1,
+      "query": "Smoking and COVID 2023",
+      "link": "https://www.google.com/search?num=100&sca_esv=28fff17e3de8b0c6&hl=en&gl=us&q=Smoking+and+COVID+2023&sa=X&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Smoking+and+COVID+2023"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=covid+and+smokers&num=100&sca_esv=28fff17e3de8b0c6&hl=en&gl=us&ei=ip2BaLvLMabOkPIPhK7U0QQ&start=100&sa=N&sstk=Ac65TH42aPjZXgqbwuYOT9y1NJ1V2_Kc_ILHjbFycwczh4SJ-2I-WXN4lYQLoWAS7SYnKY584OeYdhuUs9OYgKfu7NilryEqI3QS_A&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQ8NMDegQIChAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=covid+and+smokers&num=100&sca_esv=28fff17e3de8b0c6&hl=en&gl=us&ei=ip2BaLvLMabOkPIPhK7U0QQ&start=100&sa=N&sstk=Ac65TH42aPjZXgqbwuYOT9y1NJ1V2_Kc_ILHjbFycwczh4SJ-2I-WXN4lYQLoWAS7SYnKY584OeYdhuUs9OYgKfu7NilryEqI3QS_A&ved=2ahUKEwi7uJ2xvNSOAxUmJ0QIHQQXNUoQ8tMDegQIChAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+and+smokers&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+and+smokers&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+and+smokers&start=100"
+    }
+  }
+}

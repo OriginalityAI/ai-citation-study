@@ -1,0 +1,1741 @@
+{
+  "search_metadata": {
+    "id": "688257bfbb48ad88b3610acd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1fb7b56a59a84d69/688257bfbb48ad88b3610acd.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/1fb7b56a59a84d69/688257bfbb48ad88b3610acd.json_with_pixel_position",
+    "created_at": "2025-07-24 15:56:47 UTC",
+    "processed_at": "2025-07-24 15:56:47 UTC",
+    "google_url": "https://www.google.com/search?q=harry+potter+covid&oq=harry+potter+covid&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/1fb7b56a59a84d69/688257bfbb48ad88b3610acd.html",
+    "total_time_taken": 1.28
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "harry potter covid",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "harry potter covid",
+    "total_results": 14100000,
+    "time_taken_displayed": 0.69,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Who in Harry Potter has ADHD?",
+      "type": "featured_snippet",
+      "snippet": "Emma Watson, the actress who is best known for her role as Hermione Granger in the Harry Potter series, has been open about her struggles with ADHD. She has said that she has difficulty focusing and is easily distracted.",
+      "title": "Famous People with ADHD - Cardinal Clinic",
+      "link": "https://cardinalclinic.co.uk/blog/famous-people-with-adhd/#:~:text=Emma%20Watson%2C%20the%20actress%20who,focusing%20and%20is%20easily%20distracted.",
+      "displayed_link": "https://cardinalclinic.co.uk › blog › famous-people-with-...",
+      "source_logo": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/f73b5676115aca41c46089a51bc2843bf88dbd7a24992ec5ff5dde76f68522d5.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lsbHBSM0JGY0RCSWIwVXlMWFJ0TmtKalRWcFBjRUYyWVVwbU9WbzRRa3BFWVhnMWJEQjVkM0pmUW1NeVNrWkRWWGRWZEhwb1FrMUNaRVEwWVVWNldEbHhaSHBLUkVnMFRtZElRWEE1ZDFCc00wWm9OelpuTFdRdFVSSVhkakZsUTJGTFYyaEdUa056TlU1dlVHbGlkazh0VVRnYUlrRkdUVUZIUjI5TU5GOHdlbmhyUm1saFlteFRWRzVpV0V0MGNVdEVPWFp0VWtFIiwiZmN2IjoiMyIsImVpIjoidjFlQ2FLV2hGTkNzNU5vUGlidk8tUTgiLCJxYyI6IkNoSm9ZWEp5ZVNCd2IzUjBaWElnWTI5MmFXUVFBSDFNeFFVXyIsInF1ZXN0aW9uIjoiV2hvIGluIEhhcnJ5IFBvdHRlciBoYXMgQURIRD8iLCJsayI6IkdoeDNhRzhnYVc0Z2FHRnljbmtnY0c5MGRHVnlJR2hoY3lCaFpHaGsiLCJicyI6ImMyWE92UXJDTUJTR1lWd3pPWmJnejNHekZRZXpPUlZMaHpycElnVnhpU2FZUUcwa2laU2ltNjVlalRkb3NLREVydUg1M2hPVW9INHVGTWdTTXFwMURXdGxMZGNncUlGRm1xVng4TVJrZ0h0Vlk4VEhuSC1HTXNIUUZvVzVvQmFZNHNiUE1BV3pPZFNjYWdNRmRTOXg4TGlSQ0ktcnJfZVNMWTkyS0ZxNmFMSUN6V2xSMUk3SThnalV2Mk80bHR6RXdaMlFDUTZscS03Vl84QTcxQXpRQmsxejRZaGtmdS1nVGh6VXhiWi1fN3FTRVI1V2J1UGxmTmJ0dkFFIiwiaWQiOiJmY192MWVDYUtXaEZOQ3M1Tm9QaWJ2Ty1ROF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lsbHBSM0JGY0RCSWIwVXlMWFJ0TmtKalRWcFBjRUYyWVVwbU9WbzRRa3BFWVhnMWJEQjVkM0pmUW1NeVNrWkRWWGRWZEhwb1FrMUNaRVEwWVVWNldEbHhaSHBLUkVnMFRtZElRWEE1ZDFCc00wWm9OelpuTFdRdFVSSVhkakZsUTJGTFYyaEdUa056TlU1dlVHbGlkazh0VVRnYUlrRkdUVUZIUjI5TU5GOHdlbmhyUm1saFlteFRWRzVpV0V0MGNVdEVPWFp0VWtFIiwiZmN2IjoiMyIsImVpIjoidjFlQ2FLV2hGTkNzNU5vUGlidk8tUTgiLCJxYyI6IkNoSm9ZWEp5ZVNCd2IzUjBaWElnWTI5MmFXUVFBSDFNeFFVXyIsInF1ZXN0aW9uIjoiV2hvIGluIEhhcnJ5IFBvdHRlciBoYXMgQURIRD8iLCJsayI6IkdoeDNhRzhnYVc0Z2FHRnljbmtnY0c5MGRHVnlJR2hoY3lCaFpHaGsiLCJicyI6ImMyWE92UXJDTUJTR1lWd3pPWmJnejNHekZRZXpPUlZMaHpycElnVnhpU2FZUUcwa2laU2ltNjVlalRkb3NLREVydUg1M2hPVW9INHVGTWdTTXFwMURXdGxMZGNncUlGRm1xVng4TVJrZ0h0Vlk4VEhuSC1HTXNIUUZvVzVvQmFZNHNiUE1BV3pPZFNjYWdNRmRTOXg4TGlSQ0ktcnJfZVNMWTkyS0ZxNmFMSUN6V2xSMUk3SThnalV2Mk80bHR6RXdaMlFDUTZscS03Vl84QTcxQXpRQmsxejRZaGtmdS1nVGh6VXhiWi1fN3FTRVI1V2J1UGxmTmJ0dkFFIiwiaWQiOiJmY192MWVDYUtXaEZOQ3M1Tm9QaWJ2Ty1ROF8xIn0%3D"
+    },
+    {
+      "question": "What does Harry Potter do 19 years later?",
+      "type": "featured_snippet",
+      "snippet": "Harry Potter and the Cursed Child finds Harry nineteen years older than when we left him at the end of the Deathly Hallows–married to Ginny Weasley, with a job at the Ministry, and three children of his own. One thing that hasn't changed, is his undying friendship with Ron and Hermione.",
+      "title": "19 Years Later, the Boy Who Lived - Carnegie Library of Pittsburgh",
+      "link": "https://www.carnegielibrary.org/staff-picks/19-years-later-the-boy-who-lived/#:~:text=Harry%20Potter%20and%20the%20Cursed,friendship%20with%20Ron%20and%20Hermione.",
+      "displayed_link": "https://www.carnegielibrary.org › staff-picks › 19-years-l...",
+      "source_logo": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/f73b5676115aca41c46089a51bc2843b332bbc1fe593662502a21fb3c6506e45.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lsbHBSM0JGY0RCSWIwVXlMWFJ0TmtKalRWcFBjRUYyWVVwbU9WbzRRa3BFWVhnMWJEQjVkM0pmUW1NeVNrWkRWWGRWZEhwb1FrMUNaRVEwWVVWNldEbHhaSHBLUkVnMFRtZElRWEE1ZDFCc00wWm9OelpuTFdRdFVSSVhkakZsUTJGTFYyaEdUa056TlU1dlVHbGlkazh0VVRnYUlrRkdUVUZIUjI5TU5GOHdlbmhyUm1saFlteFRWRzVpV0V0MGNVdEVPWFp0VWtFIiwiZmN2IjoiMyIsImVpIjoidjFlQ2FLV2hGTkNzNU5vUGlidk8tUTgiLCJxYyI6IkNoSm9ZWEp5ZVNCd2IzUjBaWElnWTI5MmFXUVFBSDFNeFFVXyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIEhhcnJ5IFBvdHRlciBkbyAxOSB5ZWFycyBsYXRlcj8iLCJsayI6ImM1UFNLTTlJTEZGSXlVOHRWc2hJTENxcVZDaklMeWxKTFFLS0tCaGFLbFNtSmhZVkstUWtBa1VBIiwiYnMiOiJjMlhPdlFyQ01CU0dZVnd6T1piZ3ozR3pGUWV6T1JWTGh6cnBJZ1Z4aVNhWVFHMGtpWlNpbTY1ZWpUZG9zS0RFcnVINTNoT1VvSDR1Rk1nU01xcDFEV3RsTGRjZ3FJRkZtcVZ4OE1Sa2dIdFZZOFRIbkgtR01zSFFGb1c1b0JhWTRzYlBNQVd6T2RTY2FnTUZkUzl4OExpUkNJLXJyX2VTTFk5MktGcTZhTElDeldsUjFJN0k4Z2pVdjJPNGx0ekV3WjJRQ1E2bHEtN1ZfOEE3MUF6UUJrMXo0WWhrZnUtZ1RoelV4YlotXzdxU0VSNVdidVBsZk5idHZBRSIsImlkIjoiZmNfdjFlQ2FLV2hGTkNzNU5vUGlidk8tUThfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lsbHBSM0JGY0RCSWIwVXlMWFJ0TmtKalRWcFBjRUYyWVVwbU9WbzRRa3BFWVhnMWJEQjVkM0pmUW1NeVNrWkRWWGRWZEhwb1FrMUNaRVEwWVVWNldEbHhaSHBLUkVnMFRtZElRWEE1ZDFCc00wWm9OelpuTFdRdFVSSVhkakZsUTJGTFYyaEdUa056TlU1dlVHbGlkazh0VVRnYUlrRkdUVUZIUjI5TU5GOHdlbmhyUm1saFlteFRWRzVpV0V0MGNVdEVPWFp0VWtFIiwiZmN2IjoiMyIsImVpIjoidjFlQ2FLV2hGTkNzNU5vUGlidk8tUTgiLCJxYyI6IkNoSm9ZWEp5ZVNCd2IzUjBaWElnWTI5MmFXUVFBSDFNeFFVXyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIEhhcnJ5IFBvdHRlciBkbyAxOSB5ZWFycyBsYXRlcj8iLCJsayI6ImM1UFNLTTlJTEZGSXlVOHRWc2hJTENxcVZDaklMeWxKTFFLS0tCaGFLbFNtSmhZVkstUWtBa1VBIiwiYnMiOiJjMlhPdlFyQ01CU0dZVnd6T1piZ3ozR3pGUWV6T1JWTGh6cnBJZ1Z4aVNhWVFHMGtpWlNpbTY1ZWpUZG9zS0RFcnVINTNoT1VvSDR1Rk1nU01xcDFEV3RsTGRjZ3FJRkZtcVZ4OE1Sa2dIdFZZOFRIbkgtR01zSFFGb1c1b0JhWTRzYlBNQVd6T2RTY2FnTUZkUzl4OExpUkNJLXJyX2VTTFk5MktGcTZhTElDeldsUjFJN0k4Z2pVdjJPNGx0ekV3WjJRQ1E2bHEtN1ZfOEE3MUF6UUJrMXo0WWhrZnUtZ1RoelV4YlotXzdxU0VSNVdidVBsZk5idHZBRSIsImlkIjoiZmNfdjFlQ2FLV2hGTkNzNU5vUGlidk8tUThfMSJ9"
+    },
+    {
+      "question": "Is HBO really doing a Harry Potter series?",
+      "type": "featured_snippet",
+      "snippet": "The Harry Potter series is confirmed to release in 2027 on HBO and HBO Max. During a conference in December 2024, Warner Bros.",
+      "title": "'Harry Potter' TV Series Release Date, Cast, News, Plot, Spoilers and Trailer",
+      "date": "Jul 14, 2025",
+      "link": "https://www.elle.com/culture/movies-tv/a43580787/harry-potter-tv-series-release-date-cast-news-spoilers-trailer/#:~:text=The%20Harry%20Potter%20series%20is,on%20HBO%20and%20HBO%20Max.&text=During%20a%20conference%20in%20December%202024%2C%20Warner%20Bros.",
+      "displayed_link": "https://www.elle.com › culture › movies-tv › harry-potte...",
+      "source_logo": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/f73b5676115aca41c46089a51bc2843b8b80b197f5f8dce4812ba424f198e602.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lsbHBSM0JGY0RCSWIwVXlMWFJ0TmtKalRWcFBjRUYyWVVwbU9WbzRRa3BFWVhnMWJEQjVkM0pmUW1NeVNrWkRWWGRWZEhwb1FrMUNaRVEwWVVWNldEbHhaSHBLUkVnMFRtZElRWEE1ZDFCc00wWm9OelpuTFdRdFVSSVhkakZsUTJGTFYyaEdUa056TlU1dlVHbGlkazh0VVRnYUlrRkdUVUZIUjI5TU5GOHdlbmhyUm1saFlteFRWRzVpV0V0MGNVdEVPWFp0VWtFIiwiZmN2IjoiMyIsImVpIjoidjFlQ2FLV2hGTkNzNU5vUGlidk8tUTgiLCJxYyI6IkNoSm9ZWEp5ZVNCd2IzUjBaWElnWTI5MmFXUVFBSDFNeFFVXyIsInF1ZXN0aW9uIjoiSXMgSEJPIHJlYWxseSBkb2luZyBhIEhhcnJ5IFBvdHRlciBzZXJpZXM/IiwibGsiOiJHaWxwY3lCb1ltOGdjbVZoYkd4NUlHUnZhVzVuSUdFZ2FHRnljbmtnY0c5MGRHVnlJSE5sY21sbGN3IiwiYnMiOiJjMlhPdlFyQ01CU0dZVnd6T1piZ3ozR3pGUWV6T1JWTGh6cnBJZ1Z4aVNhWVFHMGtpWlNpbTY1ZWpUZG9zS0RFcnVINTNoT1VvSDR1Rk1nU01xcDFEV3RsTGRjZ3FJRkZtcVZ4OE1Sa2dIdFZZOFRIbkgtR01zSFFGb1c1b0JhWTRzYlBNQVd6T2RTY2FnTUZkUzl4OExpUkNJLXJyX2VTTFk5MktGcTZhTElDeldsUjFJN0k4Z2pVdjJPNGx0ekV3WjJRQ1E2bHEtN1ZfOEE3MUF6UUJrMXo0WWhrZnUtZ1RoelV4YlotXzdxU0VSNVdidVBsZk5idHZBRSIsImlkIjoiZmNfdjFlQ2FLV2hGTkNzNU5vUGlidk8tUThfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lsbHBSM0JGY0RCSWIwVXlMWFJ0TmtKalRWcFBjRUYyWVVwbU9WbzRRa3BFWVhnMWJEQjVkM0pmUW1NeVNrWkRWWGRWZEhwb1FrMUNaRVEwWVVWNldEbHhaSHBLUkVnMFRtZElRWEE1ZDFCc00wWm9OelpuTFdRdFVSSVhkakZsUTJGTFYyaEdUa056TlU1dlVHbGlkazh0VVRnYUlrRkdUVUZIUjI5TU5GOHdlbmhyUm1saFlteFRWRzVpV0V0MGNVdEVPWFp0VWtFIiwiZmN2IjoiMyIsImVpIjoidjFlQ2FLV2hGTkNzNU5vUGlidk8tUTgiLCJxYyI6IkNoSm9ZWEp5ZVNCd2IzUjBaWElnWTI5MmFXUVFBSDFNeFFVXyIsInF1ZXN0aW9uIjoiSXMgSEJPIHJlYWxseSBkb2luZyBhIEhhcnJ5IFBvdHRlciBzZXJpZXM%2FIiwibGsiOiJHaWxwY3lCb1ltOGdjbVZoYkd4NUlHUnZhVzVuSUdFZ2FHRnljbmtnY0c5MGRHVnlJSE5sY21sbGN3IiwiYnMiOiJjMlhPdlFyQ01CU0dZVnd6T1piZ3ozR3pGUWV6T1JWTGh6cnBJZ1Z4aVNhWVFHMGtpWlNpbTY1ZWpUZG9zS0RFcnVINTNoT1VvSDR1Rk1nU01xcDFEV3RsTGRjZ3FJRkZtcVZ4OE1Sa2dIdFZZOFRIbkgtR01zSFFGb1c1b0JhWTRzYlBNQVd6T2RTY2FnTUZkUzl4OExpUkNJLXJyX2VTTFk5MktGcTZhTElDeldsUjFJN0k4Z2pVdjJPNGx0ekV3WjJRQ1E2bHEtN1ZfOEE3MUF6UUJrMXo0WWhrZnUtZ1RoelV4YlotXzdxU0VSNVdidVBsZk5idHZBRSIsImlkIjoiZmNfdjFlQ2FLV2hGTkNzNU5vUGlidk8tUThfMSJ9"
+    },
+    {
+      "question": "Why did Harry Potter come out 19 years later?",
+      "type": "featured_snippet",
+      "snippet": "She wanted to give them time to get on with their lives, but she wanted it set as they put their kids on the Hogwarts Express. She said in some interview that she picked 19 years later because she didn't want to advocate teenage pregnancies (even though James and Lily both turned 20 while she was pregnant with Harry).",
+      "title": "Why was the epilogue set 19 years later? : r/harrypotter",
+      "date": "Jul 16, 2011",
+      "link": "https://www.reddit.com/r/harrypotter/comments/ir9d3/why_was_the_epilogue_set_19_years_later/",
+      "displayed_link": "https://www.reddit.com › harrypotter › comments › why...",
+      "source_logo": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/f73b5676115aca41c46089a51bc2843b51c3ee424ddd380cc3686cfb3bcf6f26.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lsbHBSM0JGY0RCSWIwVXlMWFJ0TmtKalRWcFBjRUYyWVVwbU9WbzRRa3BFWVhnMWJEQjVkM0pmUW1NeVNrWkRWWGRWZEhwb1FrMUNaRVEwWVVWNldEbHhaSHBLUkVnMFRtZElRWEE1ZDFCc00wWm9OelpuTFdRdFVSSVhkakZsUTJGTFYyaEdUa056TlU1dlVHbGlkazh0VVRnYUlrRkdUVUZIUjI5TU5GOHdlbmhyUm1saFlteFRWRzVpV0V0MGNVdEVPWFp0VWtFIiwiZmN2IjoiMyIsImVpIjoidjFlQ2FLV2hGTkNzNU5vUGlidk8tUTgiLCJxYyI6IkNoSm9ZWEp5ZVNCd2IzUjBaWElnWTI5MmFXUVFBSDFNeFFVXyIsInF1ZXN0aW9uIjoiV2h5IGRpZCBIYXJyeSBQb3R0ZXIgY29tZSBvdXQgMTkgeWVhcnMgbGF0ZXI/IiwibGsiOiJHaDkzYUhrZ2FHRnljbmtnY0c5MGRHVnlJREU1SUhsbFlYSnpJR3hoZEdWeSIsImJzIjoiYzJYT3ZRckNNQlNHWVZ3ek9aYmd6M0d6RlFlek9SVkxoenJwSWdWeGlTYVlRRzBraVpTaW02NWVqVGRvc0tERXJ1SDUzaE9Vb0g0dUZNZ1NNcXAxRFd0bExkY2dxSUZGbXFWeDhNUmtnSHRWWThUSG5ILUdNc0hRRm9XNW9CYVk0c2JQTUFXek9kU2NhZ01GZFM5eDhMaVJDSS1ycl9lU0xZOTJLRnE2YUxJQ3pXbFIxSTdJOGdqVXYyTzRsdHpFd1oyUUNRNmxxLTdWXzhBNzFBelFCazF6NFloa2Z1LWdUaHpVeGJaLV83cVNFUjVXYnVQbGZOYnR2QUUiLCJpZCI6ImZjX3YxZUNhS1doRk5DczVOb1BpYnZPLVE4XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1lsbHBSM0JGY0RCSWIwVXlMWFJ0TmtKalRWcFBjRUYyWVVwbU9WbzRRa3BFWVhnMWJEQjVkM0pmUW1NeVNrWkRWWGRWZEhwb1FrMUNaRVEwWVVWNldEbHhaSHBLUkVnMFRtZElRWEE1ZDFCc00wWm9OelpuTFdRdFVSSVhkakZsUTJGTFYyaEdUa056TlU1dlVHbGlkazh0VVRnYUlrRkdUVUZIUjI5TU5GOHdlbmhyUm1saFlteFRWRzVpV0V0MGNVdEVPWFp0VWtFIiwiZmN2IjoiMyIsImVpIjoidjFlQ2FLV2hGTkNzNU5vUGlidk8tUTgiLCJxYyI6IkNoSm9ZWEp5ZVNCd2IzUjBaWElnWTI5MmFXUVFBSDFNeFFVXyIsInF1ZXN0aW9uIjoiV2h5IGRpZCBIYXJyeSBQb3R0ZXIgY29tZSBvdXQgMTkgeWVhcnMgbGF0ZXI%2FIiwibGsiOiJHaDkzYUhrZ2FHRnljbmtnY0c5MGRHVnlJREU1SUhsbFlYSnpJR3hoZEdWeSIsImJzIjoiYzJYT3ZRckNNQlNHWVZ3ek9aYmd6M0d6RlFlek9SVkxoenJwSWdWeGlTYVlRRzBraVpTaW02NWVqVGRvc0tERXJ1SDUzaE9Vb0g0dUZNZ1NNcXAxRFd0bExkY2dxSUZGbXFWeDhNUmtnSHRWWThUSG5ILUdNc0hRRm9XNW9CYVk0c2JQTUFXek9kU2NhZ01GZFM5eDhMaVJDSS1ycl9lU0xZOTJLRnE2YUxJQ3pXbFIxSTdJOGdqVXYyTzRsdHpFd1oyUUNRNmxxLTdWXzhBNzFBelFCazF6NFloa2Z1LWdUaHpVeGJaLV83cVNFUjVXYnVQbGZOYnR2QUUiLCJpZCI6ImZjX3YxZUNhS1doRk5DczVOb1BpYnZPLVE4XzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Hogwarts during Covid-19 : r/harrypotter",
+      "link": "https://www.reddit.com/r/harrypotter/comments/ntl0cd/hogwarts_during_covid19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/harrypotter/comments/ntl0cd/hogwarts_during_covid19/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECB0QAQ",
+      "displayed_link": "10+ comments · 4 years ago",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d58c35b3cdeace1bb908befdea8eaced0.png",
+      "snippet": "Wizards can brew a potion to regrow bones, I think they could handle Covid. Plus the castle is well suited to keep all the students and teachers ...",
+      "snippet_highlighted_words": [
+        "Wizards can brew a potion to regrow bones"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How do you think the Wizarding World dealt with COVID?",
+            "link": "https://www.reddit.com/r/harrypotter/comments/m5d639/how_do_you_think_the_wizarding_world_dealt_with/",
+            "answer_count": 4,
+            "date": "Mar 15, 2021"
+          },
+          {
+            "title": "COVID in the Wizarding World? : r/harrypotter - Reddit",
+            "link": "https://www.reddit.com/r/harrypotter/comments/hxzt5f/covid_in_the_wizarding_world/",
+            "answer_count": 10,
+            "date": "Jul 26, 2020"
+          }
+        ]
+      },
+      "source": "Reddit · r/harrypotter"
+    },
+    {
+      "position": 2,
+      "title": "Reading Harry Potter in a new light during the coronavirus ...",
+      "link": "https://theconversation.com/reading-harry-potter-in-a-new-light-during-the-coronavirus-pandemic-151835",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theconversation.com/reading-harry-potter-in-a-new-light-during-the-coronavirus-pandemic-151835&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECBIQAQ",
+      "displayed_link": "https://theconversation.com › reading-harry-potter-in-a-...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d440bf504fed23fe058fc6ac0abe5728c.png",
+      "date": "Dec 15, 2020",
+      "snippet": "Rereading Harry Potter during the COVID-19 pandemic means finding new ways of identifying with the characters, especially in the seventh ...",
+      "snippet_highlighted_words": [
+        "Rereading Harry Potter during the COVID-19 pandemic"
+      ],
+      "source": "The Conversation"
+    },
+    {
+      "position": 3,
+      "title": "Harry Potter's kids would've gone to Hogwarts during ...",
+      "link": "https://www.quora.com/Harry-Potters-kids-wouldve-gone-to-Hogwarts-during-the-Covid-Pandemic-How-would-that-have-played-out",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Harry-Potters-kids-wouldve-gone-to-Hogwarts-during-the-Covid-Pandemic-How-would-that-have-played-out&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECBkQAQ",
+      "displayed_link": "3 answers · 1 year ago",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d9e865860d208028195d620e2e8bd94da.png",
+      "snippet": "Since Covid is a Muggle virus, the wizarding community would probably be immune to it. That being so, they might still isolate at Hogwarts just ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "Hogwarts"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How would wizards and witches of the Harry Potter ...",
+            "link": "https://www.quora.com/How-would-wizards-and-witches-of-the-Harry-Potter-universe-deal-with-COVID-19",
+            "answer_count": 7,
+            "date": "Jun 24, 2021"
+          },
+          {
+            "title": "Would the Wizarding World of Harry Potter be affected ...",
+            "link": "https://www.quora.com/Would-the-Wizarding-World-of-Harry-Potter-be-affected-by-COVID-19-If-so-how",
+            "answer_count": 5,
+            "date": "Jul 24, 2020"
+          }
+        ]
+      },
+      "source": "Quora"
+    },
+    {
+      "position": 4,
+      "title": "Harry Potter At Home Launches in Response to Covid-19 ...",
+      "link": "https://www.jkrowling.com/harry-potter-at-home-launches-in-response-to-covid-19-emergency/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jkrowling.com/harry-potter-at-home-launches-in-response-to-covid-19-emergency/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECBUQAQ",
+      "displayed_link": "https://www.jkrowling.com › harry-potter-at-home-laun...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dbb4a03f62dc63f586bbea025a09c4cbe.png",
+      "date": "Apr 1, 2020",
+      "snippet": "JK Rowling and her Wizarding World partners have launched Harry Potter At Home today to help children, parents, carers and teachers confined at home during the ...",
+      "snippet_highlighted_words": [
+        "Harry Potter"
+      ],
+      "source": "jkrowling.com"
+    },
+    {
+      "position": 5,
+      "title": "Harry Potter to fight the COVID-19",
+      "link": "https://steemit.com/@wartrapa/harry-potter-to-fight-the-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://steemit.com/%40wartrapa/harry-potter-to-fight-the-covid-19&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECDMQAQ",
+      "displayed_link": "https://steemit.com › harry-potter-to-fight-the-covid-19",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dc939ca258980904e6e319cbf4b57900e.png",
+      "snippet": "What a better way to 'disconnect' than reading Harry Potter books? IMG_1044.jpg. Here are the special editions of the books that are already in the bookshops.",
+      "snippet_highlighted_words": [
+        "Harry Potter"
+      ],
+      "source": "Steemit"
+    },
+    {
+      "position": 6,
+      "title": "How The Wizarding World Of Harry Potter Would React To ...",
+      "link": "https://medium.com/illumination/how-the-wizarding-world-of-harry-potter-would-react-to-covid-3af4efadb0ef",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/illumination/how-the-wizarding-world-of-harry-potter-would-react-to-covid-3af4efadb0ef&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCN4BEAE",
+      "displayed_link": "870+ likes · 4 years ago",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d7f1080303a283040ec3c6cd3f4fe83b8.png",
+      "snippet": "How The Wizarding World Of Harry Potter Would React To COVID · We all could use a little magic right now · Aurors would be repurposed as contact ...",
+      "snippet_highlighted_words": [
+        "How The Wizarding World Of Harry Potter Would React To COVID"
+      ],
+      "source": "Medium · Jake Daghe"
+    },
+    {
+      "position": 7,
+      "title": "What Can Harry Potter Teach Us About Mental Health and ...",
+      "link": "https://www.youtube.com/watch?v=a3gKAOYNTiM",
+      "displayed_link": "320+ views · 4 years ago",
+      "thumbnail": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16de4ad930bc0879645c6349f7e22c42c91.jpeg",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d9c6374822d0c8fb35ea40d1f3a9a62f7.png",
+      "snippet": "The COVID-19 pandemic has had a major effect on our lives. Dr. Stacey Boyer explains the importance of acknowledging and labeling your ...",
+      "duration": "2:41",
+      "key_moments": [
+        {
+          "time": "00:14",
+          "title": "Think about that first Harry Potter movie, where they almost never say Lord Voldemort's name.",
+          "link": "https://www.youtube.com/watch?v=a3gKAOYNTiM&t=14",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRG7-5ddUH2DcGCEJDAbTewE1lZYvJgUyXEFtkY6Fy-w&s"
+        },
+        {
+          "time": "00:27",
+          "title": "It was only the wise Dumbledore who said that you need to say his name to decrease his power.",
+          "link": "https://www.youtube.com/watch?v=a3gKAOYNTiM&t=27",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSnsZVqT4odjYleNcKLH7SeeHLXR5s0rAeBH0REE71Q&s"
+        },
+        {
+          "time": "00:41",
+          "title": "Secondly, once we label them we need to validate our own experiences",
+          "link": "https://www.youtube.com/watch?v=a3gKAOYNTiM&t=41",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeDC3_T9UhraYRlK-pN-jm1FgdHXTCaV-6faumDy1SQ&s"
+        },
+        {
+          "time": "00:45",
+          "title": "People have a wide range of responses to COVID-19.",
+          "link": "https://www.youtube.com/watch?v=a3gKAOYNTiM&t=45",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5OzABlpeUy6Y7oGjK0vEj-lRyU1EZcp-4639fR6rJGw&s"
+        },
+        {
+          "time": "01:07",
+          "title": "Whatever your experience, acknowledging your experience and saying whatever you're feeling in that moment is understandable",
+          "link": "https://www.youtube.com/watch?v=a3gKAOYNTiM&t=67",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxc1Y0dZMOkoPtPlMeszpTHxwORt_Q_wDX0Q70AY0SqQ&s"
+        },
+        {
+          "time": "01:16",
+          "title": "And then, talking to ourselves as we would a friend.",
+          "link": "https://www.youtube.com/watch?v=a3gKAOYNTiM&t=76",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL0sY-LMRu2vVhnJznCHlwMHUXVdXTiBF0h1jD1LmWw&s"
+        },
+        {
+          "time": "01:19",
+          "title": "We often talk to ourselves so much more harshly than we would a friend.",
+          "link": "https://www.youtube.com/watch?v=a3gKAOYNTiM&t=79",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfL0sY-LMRu2vVhnJznCHlwMHUXVdXTiBF0h1jD1LmWw&s"
+        },
+        {
+          "time": "01:39",
+          "title": "The final thing I would say is finding ways to memorialize our experience.",
+          "link": "https://www.youtube.com/watch?v=a3gKAOYNTiM&t=99",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5PNmk6Nzvp--i6Yl7mF5Qg0m_GzdB9cAJ9LR5AVED7g&s"
+        },
+        {
+          "time": "01:50",
+          "title": "What you can do if you're in that situation is to begin to find Little ways to capture your experience",
+          "link": "https://www.youtube.com/watch?v=a3gKAOYNTiM&t=110",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJU3qzbVQTN_wCriI3yWnMbOA6YS9fStdvAmZhUQzawA&s"
+        },
+        {
+          "time": "02:28",
+          "title": "Things feel harder because they are harder.",
+          "link": "https://www.youtube.com/watch?v=a3gKAOYNTiM&t=148",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQigXuVrPIn0kzR1R5o8aP4hkDfbltDpHlsrfLtjgEQzQ&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRJxjavFd4IhviL0hvOnAeP5VAw67ZSgPGeVQ",
+      "source": "YouTube · ChristianaCare"
+    },
+    {
+      "position": 8,
+      "title": "What if the Coronavirus spreads in the wizarding world?",
+      "link": "https://harrypotter.fandom.com/f/p/3343172654596432780/r/3344233352138857299",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://harrypotter.fandom.com/f/p/3343172654596432780/r/3344233352138857299&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECDkQAQ",
+      "displayed_link": "https://harrypotter.fandom.com › ...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d97aa9b0cd1f3f06eec369008c761ac88.png",
+      "snippet": "So, this has been in my mind for a couple of months. There is a pandemic in the muggle world, named Coronavirus/Covid-19. This forces muggles to quarantine ...",
+      "snippet_highlighted_words": [
+        "Coronavirus",
+        "Covid"
+      ],
+      "source": "Harry Potter Wiki"
+    },
+    {
+      "position": 9,
+      "title": "How Harry Potter Is Helping Me Get Through the Pandemic",
+      "link": "https://www.popsugar.com/entertainment/how-harry-potter-is-helping-me-get-through-pandemic-47396524",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.popsugar.com/entertainment/how-harry-potter-is-helping-me-get-through-pandemic-47396524&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCN0BEAE",
+      "displayed_link": "https://www.popsugar.com › ... › Harry Potter",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16db7c6f0370ae5dfd8cbd658558a7a57d0.png",
+      "date": "Apr 24, 2020",
+      "snippet": "The Minister of Magic ignoring Dumbledore's warnings feels like our own president ignoring the COVID-19 warnings, and everyone hiding in their ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Popsugar"
+    },
+    {
+      "position": 10,
+      "title": "Wizarding World of Harry Potter Covid-19 Update | No Masks ...",
+      "link": "https://www.youtube.com/watch?v=uiiAnTXcOtc",
+      "displayed_link": "100.6K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYZ6ri8SDYmSKQjE4pBp8mfP2JulzF4PTtS8ytFRLyYC-T&s",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d122f46bc07393e9d72944e66d40648aa.png",
+      "snippet": "No more masks required, social distancing markers removed, temperature checks gone, FULL guest capacity, and CROWDS.",
+      "duration": "23:57",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=uiiAnTXcOtc&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpahVENJa52XXilxWor53mD5bjwaIU0jySaR8bJhagA&s"
+        },
+        {
+          "time": "04:33",
+          "title": "Three Broomsticks Restaurant",
+          "link": "https://www.youtube.com/watch?v=uiiAnTXcOtc&t=273",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9DDFbc8lAArNeSij_ME1UpJ_8yA6h7ELGX4yW20xuw&s"
+        },
+        {
+          "time": "07:19",
+          "title": "Diagon Alley",
+          "link": "https://www.youtube.com/watch?v=uiiAnTXcOtc&t=439",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZii9E3xjQKaDTR-i9SI5RNFeFJykn6_bP5vO84-F3A&s"
+        },
+        {
+          "time": "10:16",
+          "title": "Harry Potter Store",
+          "link": "https://www.youtube.com/watch?v=uiiAnTXcOtc&t=616",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqY2ztP06ogJZZ8ODaM-ge6-J2TKbhKgo7_NK26aXAUQ&s"
+        },
+        {
+          "time": "12:43",
+          "title": "Jurassic World Tribute Store",
+          "link": "https://www.youtube.com/watch?v=uiiAnTXcOtc&t=763",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9P3-bcmH-hVQHecqLbSa5SA4QeJpHara9k7Q326OpQ&s"
+        },
+        {
+          "time": "14:12",
+          "title": "Toothsome Emporium & Universal Studios Store",
+          "link": "https://www.youtube.com/watch?v=uiiAnTXcOtc&t=852",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6469Kurn9LojmcG34P4Xg_9Dbdv7ZITWU6IEU58-MGg&s"
+        },
+        {
+          "time": "18:05",
+          "title": "Hogwarts Spirit Jerseys",
+          "link": "https://www.youtube.com/watch?v=uiiAnTXcOtc&t=1085",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTiwCsn8yitARpQc6sWXY-FucgVQ1arTXJhCdp0v6fQ&s"
+        },
+        {
+          "time": "20:05",
+          "title": "Hagrid's Motorbike",
+          "link": "https://www.youtube.com/watch?v=uiiAnTXcOtc&t=1205",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFzPO_OJpw-ZZmDF_wztzfiRT7PPP6oLhnQ66aQOQxjw&s"
+        },
+        {
+          "time": "21:12",
+          "title": "Interactive Wands",
+          "link": "https://www.youtube.com/watch?v=uiiAnTXcOtc&t=1272",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJxdosqUbZbDLhq-F8Ev1TTd8EC3FSz0mxK7bkoiqR_w&s"
+        },
+        {
+          "time": "22:55",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=uiiAnTXcOtc&t=1375",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_LqO0CfQR4XFxV7cUbooxgSpgSxqnd9uwcJr2cGbC4g&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ7QrP14Qey5P8BA4-hl7WgJ_XQK63Q-b2zdA",
+      "source": "YouTube · The Potter Collector"
+    },
+    {
+      "position": 11,
+      "title": "J. K. Rowling launches Harry Potter at Home, casting a ...",
+      "link": "https://www.fastcompany.com/90485122/jk-rowling-launches-harry-potter-at-home-casting-a-charm-against-quarantine-boredom/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fastcompany.com/90485122/jk-rowling-launches-harry-potter-at-home-casting-a-charm-against-quarantine-boredom/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECDUQAQ",
+      "displayed_link": "https://www.fastcompany.com › Creativity",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d5424abe2ecfbf73b363e142b463d7bfa.png",
+      "date": "Apr 1, 2020",
+      "snippet": "J. K. Rowling is supplying a welcome dose of magic during the COVID-19 pandemic with Harry Potter at Home. Announced today, the website aims ...",
+      "snippet_highlighted_words": [
+        "J. K. Rowling is supplying a welcome dose of magic during the COVID-19 pandemic"
+      ],
+      "source": "Fast Company"
+    },
+    {
+      "position": 12,
+      "title": "J.K. Rowling Doing The Dang Thing And Making Harry ...",
+      "link": "https://www.cinemablend.com/news/2493127/jk-rowling-doing-the-dang-thing-and-making-harry-potter-available-during-covid-19-crisis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemablend.com/news/2493127/jk-rowling-doing-the-dang-thing-and-making-harry-potter-available-during-covid-19-crisis&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECGoQAQ",
+      "displayed_link": "https://www.cinemablend.com › news › jk-rowling-doi...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d70acb91a2ff40540dda0903b1e06dff6.png",
+      "date": "Mar 23, 2020",
+      "snippet": "Case in point, author J.K. Rowling is granting an open license for her Harry Potter books to teachers across the world as the coronavirus rages ...",
+      "snippet_highlighted_words": [
+        "author J.K. Rowling is granting an open license for her Harry Potter books"
+      ],
+      "source": "Cinemablend"
+    },
+    {
+      "position": 13,
+      "title": "Harry Potter and the Curse of the Covid 19 - FINAL HD ...",
+      "link": "https://m.youtube.com/watch?v=MNKF0H7yAAo",
+      "displayed_link": "17.8K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9hIWVteYE0LHq12V6Ecb65nxJEEulEJllkVhUu-Fsgxc&s",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d9a2cb31d41aba6e72e977974063fbc87.png",
+      "snippet": "Harry Potter and the Curse of the Covid 19 - FINAL HD TRAILER (UNOFFICIAL) · Comments.",
+      "duration": "2:24",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSCHz7y5gi4PDARau2DU1BFwwbcysrwzehpWw",
+      "source": "YouTube · 17Production"
+    },
+    {
+      "position": 14,
+      "title": "Daniel Radcliffe Reads First Chapter Of 'Harry Potter' For ...",
+      "link": "https://www.tubefilter.com/2020/05/06/daniel-radcliffe-harry-potter-wizarding-world-digital/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tubefilter.com/2020/05/06/daniel-radcliffe-harry-potter-wizarding-world-digital/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIUBEAE",
+      "displayed_link": "https://www.tubefilter.com › 2020/05/06 › daniel-radcli...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d7d24cb9425c2719e7b4379a1fe364f79.png",
+      "date": "May 6, 2020",
+      "snippet": "The collaborative read-aloud is part of Wizarding World Digital's COVID-19-prompted Harry Potter at Home initiative, which is “the Wizarding ...",
+      "snippet_highlighted_words": [
+        "Wizarding World Digital's COVID-19-prompted Harry Potter at Home initiative"
+      ],
+      "source": "Tubefilter"
+    },
+    {
+      "position": 15,
+      "title": "Harry Potter: Hogwarts in 2020",
+      "link": "https://www.youtube.com/watch?v=B18ss3dbRAI",
+      "displayed_link": "8.8M+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucpI2DXPsC1m-q4tiT-sJmnX0VEILslNoVU3u5HUvsphz&s",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d4d2fa820b6c7744b4352090ec98366c6.png",
+      "snippet": "https://displate.com/t... How a Hogwarts class with Harry Potter and company would look in 2020 Join our community on Patreon! · ‪@lisafoiles‬ ) ...",
+      "duration": "8:26",
+      "key_moments": [
+        {
+          "time": "00:07",
+          "title": "Welcome to Hogwarts",
+          "link": "https://www.youtube.com/watch?v=B18ss3dbRAI&t=7"
+        },
+        {
+          "time": "01:06",
+          "title": "Defense Against The Dark Arts Class",
+          "link": "https://www.youtube.com/watch?v=B18ss3dbRAI&t=66"
+        },
+        {
+          "time": "02:18",
+          "title": "House Cup",
+          "link": "https://www.youtube.com/watch?v=B18ss3dbRAI&t=138"
+        },
+        {
+          "time": "02:34",
+          "title": "Blasting Curse Class",
+          "link": "https://www.youtube.com/watch?v=B18ss3dbRAI&t=154"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS_w8S6Yez5cD0aBtZqso-ttIMDYfy-yMiYqg",
+      "source": "YouTube · The Warp Zone"
+    },
+    {
+      "position": 16,
+      "title": "\"Harry Potter\" Characters Join a Coronavirus Safety ...",
+      "link": "https://www.mugglenet.com/2021/02/harry-potter-characters-join-a-coronavirus-safety-campaign/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mugglenet.com/2021/02/harry-potter-characters-join-a-coronavirus-safety-campaign/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCPQBEAE",
+      "displayed_link": "https://www.mugglenet.com › News",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dec6ab03ad583e899262c8aab458a974a.png",
+      "date": "Feb 11, 2021",
+      "snippet": "A scene from Harry Potter and the Deathly Hallows – Part 2 is featured in the new COVID-19 safety campaign from WarnerMedia, the Ad Council, and the Centers ...",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID"
+      ],
+      "source": "MuggleNet"
+    },
+    {
+      "position": 17,
+      "title": "J.K. Rowling Launches 'Harry Potter at Home' Online Hub ...",
+      "link": "https://www.imdb.com/news/ni62839169/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imdb.com/news/ni62839169/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIACEAE",
+      "displayed_link": "https://www.imdb.com › news",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16ddde0e8ee264cbbe5809160a3af25af73.jpeg",
+      "snippet": "The author of the Harry Potter series has launched an online hub for children, families and teachers who are stuck inside amid the coronavirus (Covid-19) ...",
+      "snippet_highlighted_words": [
+        "children, families and teachers"
+      ],
+      "source": "IMDb"
+    },
+    {
+      "position": 18,
+      "title": "The Harry Potter Reunion is a light in COVID's darkness",
+      "link": "https://edinazephyrus.com/the-harry-potter-reunion-is-a-light-in-covids-darkness/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://edinazephyrus.com/the-harry-potter-reunion-is-a-light-in-covids-darkness/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJoCEAE",
+      "displayed_link": "https://edinazephyrus.com › the-harry-potter-reunion-is...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dbca977f9bea793e7b84b363ed679a916.png",
+      "date": "Jan 14, 2022",
+      "snippet": "In true pandemic fashion, “Harry Potter: the Return to Hogwarts,” is the reunion for our troubling times. Free of threats posed by risky ...",
+      "snippet_highlighted_words": [
+        "“Harry Potter: the Return to Hogwarts,” is the reunion for our troubling times"
+      ],
+      "source": "Edina Zephyrus"
+    },
+    {
+      "position": 19,
+      "title": "J.K. Rowling launches 'Harry Potter at Home' in response to ...",
+      "link": "https://www.youtube.com/watch?v=1JnO_srpemw",
+      "displayed_link": "10.9K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8iNg19Rbyv1vcCnLMqzE94lSUys1gQf0OF1VKf3lsxY-q&s",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d8e5c111586626071801da5ba92138a09.png",
+      "snippet": "J.K. Rowling launches 'Harry Potter at Home' in response to coronavirus lockdown ... Professor Lupin & Snape ASMR - Hogwarts Halloween Harry ...",
+      "duration": "0:54",
+      "key_moments": [
+        {
+          "time": "00:09",
+          "title": "Harry Potter author J.K. Rowling has launched a platform for children and parents in isolation",
+          "link": "https://www.youtube.com/watch?v=1JnO_srpemw&t=9",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmpze8ATZOV-pg0P2TNkdAjmRqiAwZ0iEDKNeEobAI9g&s"
+        },
+        {
+          "time": "00:17",
+          "title": "Harry Potter at Home includes word searches, quizzes, crosswords and drawing guides",
+          "link": "https://www.youtube.com/watch?v=1JnO_srpemw&t=17",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-Mm0tAiGDabfLa9sSB_Wysfw8Nj1Q1aNjQotyuuqTA&s"
+        },
+        {
+          "time": "00:33",
+          "title": "will be available for free in six languages in audiobook form",
+          "link": "https://www.youtube.com/watch?v=1JnO_srpemw&t=33",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1sC7DiyLHPQQiQN2b4kLA3S4uu04SUyYuO_7EgPMUA&s"
+        },
+        {
+          "time": "00:47",
+          "title": "So with online magical craft videos & more, you can cast a Banishing Charm on boredom!",
+          "link": "https://www.youtube.com/watch?v=1JnO_srpemw&t=47",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmTLjK5ajJoxj1TqC6Othq-pTnENDAOePW1dMPGV8rw&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSYQ6Ol2yHQYnQxTrik6aAfXUnX59rHpAc4-A",
+      "source": "YouTube · The London Standard"
+    },
+    {
+      "position": 20,
+      "title": "'Harry Potter' author J.K Rowling says fully recovered from ...",
+      "link": "https://sg.style.yahoo.com/harry-potter-author-j-k-020659929.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sg.style.yahoo.com/harry-potter-author-j-k-020659929.html&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECDgQAQ",
+      "displayed_link": "https://sg.style.yahoo.com › harry-potter-author-j-k-02...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d63d61fba87268fbca2e03599c71d6d0d.png",
+      "date": "Apr 6, 2020",
+      "snippet": "(Reuters) - \"Harry Potter\" author J.K. Rowling said on Monday she had recovered from a suspected case of COVID-19 after two weeks of illness.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID"
+      ],
+      "source": "Yahoo Lifestyle Singapore"
+    },
+    {
+      "position": 21,
+      "title": "I'm made some fanart: Hermione Granger (Covid-19): She ...",
+      "link": "https://harrypotter.quora.com/I-m-made-some-fanart-Hermione-Granger-Covid-19-She-feels-like-the-type-of-person-who-would-wear-a-mask-when-needed",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://harrypotter.quora.com/I-m-made-some-fanart-Hermione-Granger-Covid-19-She-feels-like-the-type-of-person-who-would-wear-a-mask-when-needed&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECGwQAQ",
+      "displayed_link": "https://harrypotter.quora.com › I-m-made-some-fanart-...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16df16e9770f7802affd6ccd72b69cdae78.png",
+      "snippet": "I think that even if the Wizarding community was somehow immune to, or less severely affected by Covid (Muggles don't contract Dragonpox so who knows how ...",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 22,
+      "title": "J.K. Rowling Says Serialized New Book 'The Ickabog ...",
+      "link": "https://deadline.com/2020/05/jk-rowling-new-book-the-ickabog-unrelated-to-harry-potter-serialized-1202943131/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://deadline.com/2020/05/jk-rowling-new-book-the-ickabog-unrelated-to-harry-potter-serialized-1202943131/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIIBEAE",
+      "displayed_link": "https://deadline.com › 2020/05 › jk-rowling-new-book-...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16df6a83acd7eb5db1b486f8d49e5c4fafd.png",
+      "date": "May 26, 2020",
+      "snippet": "J.K. Rowling Says Serialized New Book 'The Ickabog' Unrelated To 'Harry Potter'; Royalties To Go To COVID-19 Relief. By Dade Hayes · Dade Hayes.",
+      "snippet_highlighted_words": [
+        "Royalties To Go To COVID-19 Relief"
+      ],
+      "source": "Deadline"
+    },
+    {
+      "position": 23,
+      "title": "Harry Potter At Home Launches In Response To Covid-19 ...",
+      "link": "https://www.facebook.com/DGWGO/posts/3718539921552108/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/DGWGO/posts/3718539921552108/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJcBEAE",
+      "displayed_link": "10+ reactions · 5 years ago",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d2f53c05a3eb85097535068aa7c55cf2a.png",
+      "snippet": "Harry Potter At Home Launches In Response To Covid-19 Emergency J.K. Rowling and her Wizarding World partners have launched Harry Potter At ...",
+      "snippet_highlighted_words": [
+        "Harry Potter At Home Launches In Response To Covid-19 Emergency"
+      ],
+      "source": "Facebook · Dumfries and Galloway! Whats Going on ?"
+    },
+    {
+      "position": 24,
+      "title": "Jeremy Kaplowitz on X: \"jk rowling just revealed that harry ...",
+      "link": "https://x.com/jeremysmiles/status/1247242360439934978",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/jeremysmiles/status/1247242360439934978&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCKcBEAE",
+      "displayed_link": "1.7K+ likes",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d7a77d770390b628d6fc36a749c090cf3.png",
+      "snippet": "jk rowling just revealed that harry potter just died of coronavirus at age 39.",
+      "snippet_highlighted_words": [
+        "harry potter",
+        "coronavirus"
+      ],
+      "source": "X · jeremysmiles"
+    },
+    {
+      "position": 25,
+      "title": "J.K. Rowling grants open licence for teachers during Covid-19 ...",
+      "link": "https://www.jkrowling.com/j-k-rowling-grants-open-licence-for-teachers-during-covid-19-outbreak/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jkrowling.com/j-k-rowling-grants-open-licence-for-teachers-during-covid-19-outbreak/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCMEBEAE",
+      "displayed_link": "https://www.jkrowling.com › j-k-rowling-grants-open-li...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dd2b9090c4201230d6d58774fae5b9686.png",
+      "date": "Mar 20, 2020",
+      "snippet": "Teachers can now post videos of themselves reading aloud from the Harry Potter books to children prevented from attending school because of the Covid-19 virus.",
+      "snippet_highlighted_words": [
+        "Teachers can now post videos of themselves reading aloud from the Harry Potter books"
+      ],
+      "source": "jkrowling.com"
+    },
+    {
+      "position": 26,
+      "title": "Pregnant 'Harry Potter' actor hospitalized for COVID-19",
+      "link": "https://www.latimes.com/entertainment-arts/movies/story/2022-03-07/harry-potter-jessie-cave-lavender-brown-pregnant-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.latimes.com/entertainment-arts/movies/story/2022-03-07/harry-potter-jessie-cave-lavender-brown-pregnant-covid&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCM4BEAE",
+      "displayed_link": "https://www.latimes.com › movies › story › harry-potte...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d85162b1293dc38583291badf2d22ad70.png",
+      "date": "Mar 7, 2022",
+      "snippet": "English actor Jessie Cave, known for playing Lavender Brown in the “Harry Potter” movies, was hospitalized this weekend after contracting COVID-19 while ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Los Angeles Times"
+    },
+    {
+      "position": 27,
+      "title": "Harry Potter publisher says Covid is weaving magic over ...",
+      "link": "https://www.theguardian.com/business/2020/oct/27/harry-potter-publisher-covid-bloomsbury-book-sales-lockdown",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/business/2020/oct/27/harry-potter-publisher-covid-bloomsbury-book-sales-lockdown&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCNwBEAE",
+      "displayed_link": "https://www.theguardian.com › business › oct › harry-p...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d837c50d4f41ab451589eddc280b2ecd0.png",
+      "date": "Oct 27, 2020",
+      "snippet": "The company furloughed staff as the coronavirus crisis forced the publishing industry to shut down, but has seen a remarkable change in fortune ...",
+      "snippet_highlighted_words": [
+        "coronavirus"
+      ],
+      "source": "The Guardian"
+    },
+    {
+      "position": 28,
+      "title": "Wonder Woman, Harry Potter, More Sport Masks for PSA",
+      "link": "https://people.com/movies/coronavirus-psa-wonder-woman-harry-potter-blockbuster-movies-ad/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://people.com/movies/coronavirus-psa-wonder-woman-harry-potter-blockbuster-movies-ad/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCOwBEAE",
+      "displayed_link": "https://people.com › Human Interest › Real People",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16db2b63d2c68fd5ae4fd72e6060bd26696.png",
+      "date": "Feb 11, 2021",
+      "snippet": "See Wonder Woman, Harry Potter, 'The Matrix' 's Neo and More Sport Masks for New COVID-19 PSA. \"We're truly grateful to Warner for lending ...",
+      "snippet_highlighted_words": [
+        "Wonder Woman, Harry Potter"
+      ],
+      "source": "People.com"
+    },
+    {
+      "position": 29,
+      "title": "Coronavirus: J.K. Rowling launches 'Harry Potter At Home' ...",
+      "link": "https://www.usatoday.com/story/entertainment/books/2020/04/01/coronavirus-j-k-rowling-launches-harry-potter-at-home-online/5102882002/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usatoday.com/story/entertainment/books/2020/04/01/coronavirus-j-k-rowling-launches-harry-potter-at-home-online/5102882002/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCPYBEAE",
+      "displayed_link": "https://www.usatoday.com › story › books › 2020/04/01",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dbe90aefe6f411fb1112ce88b8341bc05.png",
+      "date": "Apr 1, 2020",
+      "snippet": "J.K. Rowling is adding a bit of magic to people's time in quarantine due to coronavirus with online hub \"Harry Potter At Home.\"",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "Harry Potter"
+      ],
+      "source": "USA Today"
+    },
+    {
+      "position": 30,
+      "title": "Daniel Radcliffe, other celebs bring magic into COVID-19 ...",
+      "link": "https://www.pennlive.com/entertainment/2020/05/daniel-radcliffe-other-celebs-bring-magic-into-covid-19-sheltering-at-home-with-readings-of-harry-potter.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pennlive.com/entertainment/2020/05/daniel-radcliffe-other-celebs-bring-magic-into-covid-19-sheltering-at-home-with-readings-of-harry-potter.html&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIQCEAE",
+      "displayed_link": "https://www.pennlive.com › entertainment › 2020/05 › d...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d64dfdeefe9c787b4a319132c28c66ed1.png",
+      "date": "May 12, 2020",
+      "snippet": "Daniel Radcliffe, other celebs bring magic into COVID-19 sheltering-at-home with readings of 'Harry Potter' · JK Rowling launches 'Harry Potter ...",
+      "snippet_highlighted_words": [
+        "Daniel Radcliffe, other celebs bring magic into COVID-19 sheltering-at-home"
+      ],
+      "source": "PennLive.com"
+    },
+    {
+      "position": 31,
+      "title": "A Tour of the Wizarding World of Harry Potter During Covid-19 ...",
+      "link": "https://www.youtube.com/watch?v=xSRq1FZmeQc",
+      "displayed_link": "581K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBnGz0UDdp2uBUpuxiAPmh8fnPJUzpdber7Y9IVWUACQ8y&s",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dd6ca4294e6be5e02001c19297b046108.png",
+      "snippet": "Join me as we explore and discover how Universal Studios in Orlando, Florida is protecting their guests and team members during the ...",
+      "duration": "33:46",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=xSRq1FZmeQc&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmt14v6p6JXMyC0P7Z44I8sCtOw9LfJlLGdl6oAr9wqw&s"
+        },
+        {
+          "time": "04:33",
+          "title": "Diagon Alley",
+          "link": "https://www.youtube.com/watch?v=xSRq1FZmeQc&t=273",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStoUt5hzAX5ofsGeJGDmXWT3Qx8t3qFpV1-EqOLWpvkQ&s"
+        },
+        {
+          "time": "06:58",
+          "title": "Borgin & Burkes",
+          "link": "https://www.youtube.com/watch?v=xSRq1FZmeQc&t=418",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSKHtj1SieZvd4UDexutGMuFCAWNWNvDe4hHCpUVheQ&s"
+        },
+        {
+          "time": "08:58",
+          "title": "Bathrooms",
+          "link": "https://www.youtube.com/watch?v=xSRq1FZmeQc&t=538",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNfDp7CkKCMygBA6C6PKx0-FAvBx-f9NRssIKxX0Aigw&s"
+        },
+        {
+          "time": "11:47",
+          "title": "Gringotts Elevator",
+          "link": "https://www.youtube.com/watch?v=xSRq1FZmeQc&t=707",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2SkzWk_GkVHFCaYP9kQKNc6x0JT3rNRZ1VbvHDZTv1w&s"
+        },
+        {
+          "time": "15:08",
+          "title": "Hogwarts Express to Islands of Adventure",
+          "link": "https://www.youtube.com/watch?v=xSRq1FZmeQc&t=908",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu1QEdD_CUDBqDn2mfAQAM_rH9xfYnVFyMZKaz8nOOQ&s"
+        },
+        {
+          "time": "18:54",
+          "title": "Chocolate Frog Cards",
+          "link": "https://www.youtube.com/watch?v=xSRq1FZmeQc&t=1134",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPtGei5RCr5RiMzyajqR_nKZi3iZbF2XZpkioX0rL2g&s"
+        },
+        {
+          "time": "22:10",
+          "title": "Forbidden Journey",
+          "link": "https://www.youtube.com/watch?v=xSRq1FZmeQc&t=1330",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNWaJLXJXMxwMbaxeUfYuY1-cMggyud08UM64OCobkw&s"
+        },
+        {
+          "time": "25:40",
+          "title": "Rest Areas",
+          "link": "https://www.youtube.com/watch?v=xSRq1FZmeQc&t=1540",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTVN5Fc0RFzbhUJ9U3ALAuxej-DY-No8KH-U2TF4NrDg&s"
+        },
+        {
+          "time": "32:54",
+          "title": "Outro",
+          "link": "https://www.youtube.com/watch?v=xSRq1FZmeQc&t=1974",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyQpOKXQB97i8HvqLov9HIoB6iqXitnCr6GcusPiX-1Q&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQameLI1y7treHbzGNsYivnnNMv5cQw65YQoA",
+      "source": "YouTube · The Potter Collector"
+    },
+    {
+      "position": 32,
+      "title": "JK Rowling launches 'Harry Potter at Home' hub for children",
+      "link": "https://www.cnn.com/2020/04/01/world/harry-potter-at-home-hub-jk-rowling-scli-intl-gbr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/2020/04/01/world/harry-potter-at-home-hub-jk-rowling-scli-intl-gbr&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJECEAE",
+      "displayed_link": "https://www.cnn.com › 2020/04/01 › world › harry-pot...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d800b6cf742c6f61ef758fc0637e7f707.png",
+      "date": "Apr 1, 2020",
+      "snippet": "“Harry Potter” author JK Rowling has launched an online Potter hub to keep children educated and entertained during the coronavirus pandemic.",
+      "snippet_highlighted_words": [
+        "“Harry Potter” author JK Rowling has launched an online Potter hub"
+      ],
+      "source": "CNN"
+    },
+    {
+      "position": 33,
+      "title": "\"Harry Potter\" Creator J.K. Rowling Suffered COVID-19 ...",
+      "link": "https://insidethemagic.net/2020/04/jk-rowling-coronavirus-symptoms-tm1/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://insidethemagic.net/2020/04/jk-rowling-coronavirus-symptoms-tm1/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJkCEAE",
+      "displayed_link": "https://insidethemagic.net › Entertainment › Harry Potter",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16de11bd67226382629c574806348a8c7c5.png",
+      "date": "Apr 6, 2020",
+      "snippet": "Beloved creator of the Harry Potter franchise, J.K. Rowling has come out admitting that she was suffering from symptoms of the coronavirus.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "coronavirus"
+      ],
+      "source": "Inside the Magic"
+    },
+    {
+      "position": 34,
+      "title": "Rowling starts Harry Potter At Home for housebound families",
+      "link": "https://whyy.org/articles/rowling-starts-harry-potter-at-home-for-housebound-families/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://whyy.org/articles/rowling-starts-harry-potter-at-home-for-housebound-families/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJ4CEAE",
+      "displayed_link": "https://whyy.org › articles › rowling-starts-harry-potter-...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d90770b88da84fa5bd981ed5bcf137ccf.png",
+      "date": "Apr 1, 2020",
+      "snippet": "J.K. Rowling is hoping a dash of Harry Potter will help families confined to their homes during the coronavirus pandemic.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "coronavirus"
+      ],
+      "source": "WHYY"
+    },
+    {
+      "position": 35,
+      "title": "Harry Potter, the Joker and Wonder Woman don masks in ...",
+      "link": "https://adage.com/creativity/work/warnermedia-mask-psa/2313281/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://adage.com/creativity/work/warnermedia-mask-psa/2313281/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECDEQAQ",
+      "displayed_link": "https://adage.com › Work › Creativity",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16df372675ead62e576aefdfdf897af4712.png",
+      "date": "Feb 10, 2021",
+      "snippet": "Harry Potter and Lord Voldemort wear masks during their final battle in “Harry Potter ... COVID-19. We hope that by seeing some of our favorite ...",
+      "snippet_highlighted_words": [
+        "Harry Potter and Lord Voldemort wear masks"
+      ],
+      "source": "Ad Age"
+    },
+    {
+      "position": 36,
+      "title": "Harry Potter In The Time Of Coronavirus: Reading HP As A ...",
+      "link": "https://www.patheos.com/blogs/clintschnekloth/2020/04/harry-potter-in-the-time-of-coronavirus-reading-hp-as-a-sacred-text/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.patheos.com/blogs/clintschnekloth/2020/04/harry-potter-in-the-time-of-coronavirus-reading-hp-as-a-sacred-text/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECFIQAQ",
+      "displayed_link": "https://www.patheos.com › Religion Category",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d9192bbc0094ba9b782fe50e0fc5e9506.png",
+      "date": "Apr 28, 2020",
+      "snippet": "And as they meditate on our current moment of coronavirus in light of this novel, you find yourself laughing, certainly something worth ...",
+      "snippet_highlighted_words": [
+        "coronavirus"
+      ],
+      "source": "Patheos"
+    },
+    {
+      "position": 37,
+      "title": "harry-potter-day-harry-potter-art-covid-kindness-and ...",
+      "link": "https://artinsights.com/harry-potter-day-harry-potter-art-covid-kindness-and-contributions/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://artinsights.com/harry-potter-day-harry-potter-art-covid-kindness-and-contributions/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECFAQAQ",
+      "displayed_link": "https://artinsights.com › harry-potter-day-harry-potter-art...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d82d08f8f98fbcc20a6f6f27cf699dbb0.png",
+      "date": "May 5, 2020",
+      "snippet": "We talk about the art of Harry Potter, Covid, kindness, Darren Criss, and donation to House of Ruth with every Harry Potter art sale through ...",
+      "snippet_highlighted_words": [
+        "art of Harry Potter, Covid"
+      ],
+      "source": "artinsights.com"
+    },
+    {
+      "position": 38,
+      "title": "Harry Potter casts a spell on Covid-19 in Cape Girardeau ...",
+      "link": "https://www.kfvs12.com/2020/04/15/harry-potter-casts-spell-covid-cape-girardeau-mural/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kfvs12.com/2020/04/15/harry-potter-casts-spell-covid-cape-girardeau-mural/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECFQQAQ",
+      "displayed_link": "https://www.kfvs12.com › 2020/04/15 › harry-potter-c...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d80f0245afe18df02c442bb496bde4b6c.png",
+      "date": "Apr 15, 2020",
+      "snippet": "The piece shows Harry Potter as a young wizard casting a spell on the coronavirus, a colorful image of a specimen with crown-like spikes.",
+      "snippet_highlighted_words": [
+        "Harry Potter as a young wizard casting a spell on the coronavirus"
+      ],
+      "source": "KFVS12"
+    },
+    {
+      "position": 39,
+      "title": "J.K. Rowling Launches “Harry Potter at Home” Hub to ...",
+      "link": "https://www.hollywoodreporter.com/news/general-news/jk-rowling-launches-harry-potter-at-home-hub-entertain-virus-crisis-1287853/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hollywoodreporter.com/news/general-news/jk-rowling-launches-harry-potter-at-home-hub-entertain-virus-crisis-1287853/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECGkQAQ",
+      "displayed_link": "https://www.hollywoodreporter.com › general-news › jk-...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16de3385bbf4a4aca09af85a2212e70cf3c.png",
+      "date": "Apr 1, 2020",
+      "snippet": "JK Rowling on Wednesday morning launched a new “Harry Potter at Home” hub offering a number of resources to parents and children amid the coronavirus pandemic.",
+      "snippet_highlighted_words": [
+        "JK Rowling on Wednesday morning launched a new “Harry Potter at Home” hub"
+      ],
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "position": 40,
+      "title": "J.K. Rowling opens license for 'Harry Potter' during COVID-19",
+      "link": "https://www.today.com/parents/j-k-rowling-opens-license-harry-potter-during-covid-19-t176527",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.today.com/parents/j-k-rowling-opens-license-harry-potter-during-covid-19-t176527&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECHcQAQ",
+      "displayed_link": "https://www.today.com › parents › j-k-rowling-opens-li...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d720ca7afbd649474ab47a16c2f1d7c67.png",
+      "date": "Mar 20, 2020",
+      "snippet": "Author JK Rowling announced Friday that she has relaxed copyright permissions so that educators can post videos of themselves reading “Harry Potter” books ...",
+      "source": "TODAY.com"
+    },
+    {
+      "position": 41,
+      "title": "Harry Potter actress Jessie Cave: My baby is COVID positive",
+      "link": "https://www.mother.ly/life/harry-potter-actress-jessie-cave-my-baby-is-covid-positive/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mother.ly/life/harry-potter-actress-jessie-cave-my-baby-is-covid-positive/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIMBEAE",
+      "displayed_link": "https://www.mother.ly › News › Celebrity News",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16df38f1b460ad065398b0041103d36d8cc.png",
+      "snippet": "Jessie Cave is best known for playing Lavender Brown in the Harry Potter movies and her baby has COVID.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID"
+      ],
+      "source": "Motherly"
+    },
+    {
+      "position": 42,
+      "title": "J.K. Rowling launches Harry Potter at Home hub for ...",
+      "link": "https://www.phillyvoice.com/harry-potter-at-home-free-online-things-to-do-family-friendly-coronavirus/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.phillyvoice.com/harry-potter-at-home-free-online-things-to-do-family-friendly-coronavirus/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIsBEAE",
+      "displayed_link": "https://www.phillyvoice.com › harry-potter-at-home-fre...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d67b5fcbc2c4f71dc182678d335e7dc1c.png",
+      "date": "Apr 2, 2020",
+      "snippet": "The new Harry Potter at Home hub offers a variety of resources for kids, parents and teachers home during the COVID-19 crisis.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID"
+      ],
+      "source": "PhillyVoice"
+    },
+    {
+      "position": 43,
+      "title": "Healthy at Hogwarts: Advice for Stopping the Spread of ...",
+      "link": "https://fandomforward.medium.com/healthy-at-hogwarts-advice-for-stopping-the-spread-of-covid-19-in-the-magical-and-muggle-worlds-a60d496f02fa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fandomforward.medium.com/healthy-at-hogwarts-advice-for-stopping-the-spread-of-covid-19-in-the-magical-and-muggle-worlds-a60d496f02fa&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJ8BEAE",
+      "displayed_link": "5 years ago",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dc94477cfdfaea21aa07752d79af0d217.png",
+      "snippet": "... rooftops. Text reads “We are not giving up hope, and neither shall you.” Harry Potter · Covid-19 · Hogwarts · Fan Activism · Fanfiction.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "Covid",
+        "Hogwarts"
+      ],
+      "source": "Medium · Fandom Forward"
+    },
+    {
+      "position": 44,
+      "title": "Expecto Coronus: Harry Potter takes on COVID-19 in Cape ...",
+      "link": "https://www.kfvs12.com/video/2020/04/15/expecto-coronus-harry-potter-takes-covid-cape-girardeau/",
+      "displayed_link": "https://www.kfvs12.com · Apr 15, 2020",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacDRfJQTpRw9LpmLiluSx7GBxJaAuO_pZyCNW8N5kXQWY&s",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d1852a66fd432df367be1bc91f1adf147.png",
+      "snippet": "A Cape Girardeau artist creates a mural of Harry Potter battling COVID-19 to encourage hope during the pandemic.",
+      "duration": "1:33",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSyl1ZsptobOSb0IO3yPDUoFWZAi_oaR8300Q",
+      "source": "KFVS12"
+    },
+    {
+      "position": 45,
+      "title": "Harry Potter getting Tested for Covid and masking up 🙁😆. ...",
+      "link": "https://www.instagram.com/p/CYyTaYFvvAk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/CYyTaYFvvAk/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCKkBEAE",
+      "displayed_link": "1.7K+ likes · 3 years ago",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d48f48dddfea9f448da83a19b443d572b.png",
+      "snippet": "1707 likes, 15 comments - wizards.humour on January 16, 2022: \"Harry Potter getting Tested for Covid and masking up .",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "Covid"
+      ],
+      "source": "Instagram · wizards.humour"
+    },
+    {
+      "position": 46,
+      "title": "Harry Potter Stuff ͛ on X: \"if COVID-19 were a person: https://t ...",
+      "link": "https://x.com/TheHPfacts/status/1406973931760734210",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/TheHPfacts/status/1406973931760734210&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCLQBEAE",
+      "displayed_link": "5.5K+ likes",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dbb96fcd79f62af2d3525b706bf655e0e.png",
+      "snippet": "Conversation. Harry Potter Stuff ⚯͛ · @TheHPfacts. if COVID-19 were a person: Image. 1:55 PM · Jun 21, 2021. 12. 1K. 5K. 33. Read 12 replies.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID"
+      ],
+      "source": "X · TheHPfacts"
+    },
+    {
+      "position": 47,
+      "title": "\"Harry Potter Safe At Home\": Government's Meme On ...",
+      "link": "https://www.ndtv.com/india-news/coronavirus-harry-potter-was-safe-at-home-governments-meme-on-covid-19-lockdown-amuses-twitter-2204115",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ndtv.com/india-news/coronavirus-harry-potter-was-safe-at-home-governments-meme-on-covid-19-lockdown-amuses-twitter-2204115&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCMIBEAE",
+      "displayed_link": "https://www.ndtv.com › India News",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16da05a688f7c60bea757ca83f6c01b1f1d.png",
+      "date": "Apr 1, 2020",
+      "snippet": "The government has tweeted a meme with a scene from a Harry Potter movie to drive home a message amid the COVID-19 pandemic - stay at home.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID"
+      ],
+      "source": "NDTV"
+    },
+    {
+      "position": 48,
+      "title": "Coronavirus: Harry Potter to bring some magical help for ...",
+      "link": "https://news.sky.com/story/coronavirus-harry-potter-to-bring-some-magical-help-for-parents-and-teachers-in-lockdown-11966995",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.sky.com/story/coronavirus-harry-potter-to-bring-some-magical-help-for-parents-and-teachers-in-lockdown-11966995&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCMwBEAE",
+      "displayed_link": "https://news.sky.com › story › coronavirus-harry-potter...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d81521ea172a23f4c17fc40b987bc77ab.png",
+      "date": "Apr 1, 2020",
+      "snippet": "Author JK Rowling has unveiled Harry Potter At Home, a digital hub to provide entertainment for youngsters during the coronavirus pandemic.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "coronavirus"
+      ],
+      "source": "Sky News"
+    },
+    {
+      "position": 49,
+      "title": "Universal Studios Hollywood",
+      "link": "https://www.universalstudioshollywood.com/web/en/us",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.universalstudioshollywood.com/web/en/us&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCNABEAE",
+      "displayed_link": "https://www.universalstudioshollywood.com › web",
+      "snippet": "Welcome to Universal Studios Hollywood! Learn more about our incredible theme park attractions in California such as The Wizarding World of Harry Potter™ ...",
+      "snippet_highlighted_words": [
+        "Harry Potter"
+      ],
+      "source": "Universal Studios Hollywood"
+    },
+    {
+      "position": 50,
+      "title": "Harry Potter helps to keep us occupied",
+      "link": "https://innovationinpolitics.eu/coping-with-the-crisis-article/harry-potter-helps-to-keep-us-occupied/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://innovationinpolitics.eu/coping-with-the-crisis-article/harry-potter-helps-to-keep-us-occupied/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCM8BEAE",
+      "displayed_link": "https://innovationinpolitics.eu › Virus Articles",
+      "date": "Apr 6, 2020",
+      "snippet": "During the coronavirus crisis, most people have to stay at home. To give children and adults a distraction during their enforced ...",
+      "snippet_highlighted_words": [
+        "coronavirus"
+      ],
+      "source": "The Innovation in Politics Institute"
+    },
+    {
+      "position": 51,
+      "title": "Harry Potter and the Medium of TikTok: Shifting and POV ...",
+      "link": "https://osf.io/preprints/mediarxiv/eunhj/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://osf.io/preprints/mediarxiv/eunhj/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCOEBEAE",
+      "displayed_link": "https://osf.io › preprints › mediarxiv › eunhj",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16de87563e7a9294af65e21219489ce3a2b.png",
+      "date": "May 12, 2022",
+      "snippet": "In this study, a new media phenomena that has developed on TikTok throughout the COVID-19 pandemic and quarantine period will be explored.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "OSF"
+    },
+    {
+      "position": 52,
+      "title": "Harry Potter and Dumbledore Wearing Face Masks ...",
+      "link": "https://gwennseemel.com/artwork/mask/harry/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gwennseemel.com/artwork/mask/harry/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCOsBEAE",
+      "displayed_link": "https://gwennseemel.com › artwork › mask › harry",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d652393e53ea71a931eed66028af85244.png",
+      "snippet": "A Magic Beyond All We Do Here! mixed media Harry Potter fan art for the pandemic, Albus Dumbledore and Harry Gwenn Seemel Ah, Masks! A Magic Beyond All We ...",
+      "snippet_highlighted_words": [
+        "Harry Potter"
+      ],
+      "source": "Gwenn Seemel"
+    },
+    {
+      "position": 53,
+      "title": "Harry Potter's Jessie Cave Hospitalized With COVID-19 ...",
+      "link": "https://www.aol.com/harry-potter-jessie-cave-hospitalized-214117979.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aol.com/harry-potter-jessie-cave-hospitalized-214117979.html&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCN8BEAE",
+      "displayed_link": "https://www.aol.com › harry-potter-jessie-cave-hospitali...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d5c0619f65ead5126b73a934316a5baf3.png",
+      "snippet": "'Harry Potter' Actress Jessie Cave Hospitalized With COVID Amid 4th Pregnancy: COVID '. Jessie Cave Steve Meddle/Shutterstock. Actress Jessie Cave has been ...",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID",
+        "COVID"
+      ],
+      "source": "AOL.com"
+    },
+    {
+      "position": 54,
+      "title": "\"Harry Potter\" author JK Rowling on Monday revealed that ...",
+      "link": "https://www.facebook.com/myrepublica/posts/2743436872371954/?locale=zh_CN",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/myrepublica/posts/2743436872371954/%3Flocale%3Dzh_CN&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCPcBEAE",
+      "displayed_link": "1 reaction · 5 years ago",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dadb783f48ed90b214cf8e0471ef781d1.png",
+      "snippet": "\"Harry Potter\" author JK Rowling on Monday revealed that she showed the symptoms of COVID-19, the disease caused by the novel coronavirus, ...",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID",
+        "coronavirus"
+      ],
+      "source": "Facebook · Republica"
+    },
+    {
+      "position": 55,
+      "title": "For Wizards in Confinement, “Harry Potter at Home” Offers ...",
+      "link": "https://www.slj.com/story/for-wizards-in-confinement-harry-potter-at-home-offers-activities-free-ebook-audiobook-covid-19-coronavirus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.slj.com/story/for-wizards-in-confinement-harry-potter-at-home-offers-activities-free-ebook-audiobook-covid-19-coronavirus&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCPUBEAE",
+      "displayed_link": "https://www.slj.com › story › for-wizards-in-confinement...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dafe29e4a4454a7a29600bbc7dea3c457.png",
+      "date": "Apr 1, 2020",
+      "snippet": "Launching today: A wizarding respite for the coronavirus-weary. Through Harry Potter at Home, readers can access HP-related activities and ...",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "Harry Potter"
+      ],
+      "source": "School Library Journal"
+    },
+    {
+      "position": 56,
+      "title": "Pregnant Harry Potter Actress Jessie Cave Hospitalized ...",
+      "link": "https://people.com/health/harry-potter-jessie-cave-pregnant-hospitalized-covid-third-trimester-pregnancy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://people.com/health/harry-potter-jessie-cave-pregnant-hospitalized-covid-third-trimester-pregnancy/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIECEAE",
+      "displayed_link": "https://people.com › ... › Real People › Real People Births",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dfaaff712ebc80182571f3df494dcbb8c.png",
+      "date": "Mar 7, 2022",
+      "snippet": "'Harry Potter' 's Jessie Cave Hospitalized After Contracting COVID During Pregnancy ... Jen Juneau is a News and Movies Staff Writer at PEOPLE.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID"
+      ],
+      "source": "People.com"
+    },
+    {
+      "position": 57,
+      "title": "Coronavirus inspires 'Harry Potter' author JK Rowling to ...",
+      "link": "https://www.foxbusiness.com/technology/coronavirus-prompts-harry-potter-author-jk-rowling-to-launch-online-initiative",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foxbusiness.com/technology/coronavirus-prompts-harry-potter-author-jk-rowling-to-launch-online-initiative&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIMCEAE",
+      "displayed_link": "https://www.foxbusiness.com › technology › coronavir...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d5b9c17fc70677037d390d91242b028ba.png",
+      "date": "Apr 1, 2020",
+      "snippet": "Coronavirus inspires 'Harry Potter' author JK Rowling to launch online initiative. The COVID-19 pandemic has forced many Americans to stay at ...",
+      "snippet_highlighted_words": [
+        "Coronavirus",
+        "Harry Potter",
+        "COVID"
+      ],
+      "source": "Fox Business"
+    },
+    {
+      "position": 58,
+      "title": "Eight things you need to know about the new “Nimbus” and ...",
+      "link": "https://www.gavi.org/vaccineswork/eight-things-you-need-know-about-new-nimbus-and-stratus-covid-variants",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gavi.org/vaccineswork/eight-things-you-need-know-about-new-nimbus-and-stratus-covid-variants&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIICEAE",
+      "displayed_link": "https://www.gavi.org › vaccineswork › eight-things-yo...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d2f51fc558cf54a71c68d94ad6fab1710.png",
+      "date": "Jun 16, 2025",
+      "snippet": "Eight things you need to know about the new “Nimbus” and “Stratus” COVID-19 variants ... Nimbus isn't a Harry Potter reference. According to Prof ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Harry Potter"
+      ],
+      "source": "Gavi, the Vaccine Alliance"
+    },
+    {
+      "position": 59,
+      "title": "Hear Daniel Radcliffe Read the First Chapter of 'Harry ...",
+      "link": "https://www.smithsonianmag.com/smart-news/quarantine-offers-harry-potter-fans-new-shot-harnessing-magic-180974660/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smithsonianmag.com/smart-news/quarantine-offers-harry-potter-fans-new-shot-harnessing-magic-180974660/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJACEAE",
+      "displayed_link": "https://www.smithsonianmag.com › smart-news › quara...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d0f872f9a45e85432a346a12d3525ae6c.png",
+      "date": "Apr 13, 2020",
+      "snippet": "As the world continues to grapple with the COVID-19 pandemic, magic ... Earlier this month, Harry Potter author J.K. Rowling announced the launch ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Harry Potter"
+      ],
+      "source": "Smithsonian Magazine"
+    },
+    {
+      "position": 60,
+      "title": "Covid 19 Mask Harry Potter by xDellta",
+      "link": "https://www.thingiverse.com/thing:4354766/files",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thingiverse.com/thing:4354766/files&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCI8CEAE",
+      "displayed_link": "https://www.thingiverse.com › thing:4354766 › files",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d87db064d21aebb9930f333c0244b0fb7.png",
+      "snippet": "Covid 19 Mask Harry Potter. xDellta. May 10, 2020. Download all files. Collect Watch Tip designer. Share Report thing. Carousel image representing the 3D ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "Harry Potter"
+      ],
+      "source": "Thingiverse"
+    },
+    {
+      "position": 61,
+      "title": "Absolutely loved exploring the brand new Wizarding World of ...",
+      "link": "https://www.instagram.com/taylorshennett/reel/DJVBY_EABRm/?__d=1",
+      "displayed_link": "230+ likes · 2 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZoDOlS6qDKWhaXw_8fBtWxGIbLW5KSPfdM56uOr1kpwN&s",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d438ad227e8ed78f8733f7ac29cb429c7.png",
+      "snippet": "... covid, I read the whole ... Absolutely loved exploring the brand new Wizarding World of Harry Potter - Ministry of Magic at Epic Universe!",
+      "duration": "0:23",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRNT4UdEY024jBwqQ--utv0cEK-vkCFiynmWQ",
+      "source": "Instagram · taylorshennett"
+    },
+    {
+      "position": 62,
+      "title": "Harry Potter and the Cursed Child",
+      "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJgCEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Harry_Potter_and_the...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d9de38f66785b995fed10e6763148f3aa.png",
+      "snippet": "Harry Potter and the Cursed Child is a play written by Jack Thorne from an original story by Thorne, J. K. Rowling, and John Tiffany.",
+      "snippet_highlighted_words": [
+        "Harry Potter"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 63,
+      "title": "How \"Harry Potter\" Characters Would Spend Social ...",
+      "link": "https://www.mugglenet.com/2020/04/how-harry-potter-characters-would-spend-social-distancing/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mugglenet.com/2020/04/how-harry-potter-characters-would-spend-social-distancing/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJ0CEAE",
+      "displayed_link": "https://www.mugglenet.com › The Daily Prophet",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d6c674235c85b63133ebe6d0c9bc1145d.png",
+      "date": "Apr 1, 2020",
+      "snippet": "Of course, Hermione would be staying up to date on all the news regarding COVID-19 to educate her friends as well. She might be organizing a ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "MuggleNet"
+    },
+    {
+      "position": 64,
+      "title": "Throwing The Ultimate Harry Potter Party Post-Covid",
+      "link": "https://notsosupermomvssociety.com/throwing-the-ultimate-harry-potter-party-post-covid/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://notsosupermomvssociety.com/throwing-the-ultimate-harry-potter-party-post-covid/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJsCEAE",
+      "displayed_link": "https://notsosupermomvssociety.com › Blog",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16ddc19adf6efd853708c152b6312579fff.png",
+      "snippet": "We had some really cute themed items for this party. In addition to the themed sanitizer & masks mentioned above, we also had HP glasses for guests to wear. We ...",
+      "source": "notsosupermomvssociety.com"
+    },
+    {
+      "position": 65,
+      "title": "Attention Harry Potter Fans - Burgess National School - Weebly",
+      "link": "https://burgessns.weebly.com/school-closure-news/attention-harry-potter-fans",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://burgessns.weebly.com/school-closure-news/attention-harry-potter-fans&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCKsCEAE",
+      "displayed_link": "https://burgessns.weebly.com › school-closure-news › att...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d0c38bf8ff0d2584fb9fb4369db6873f5.png",
+      "snippet": "The best-selling author has unveiled Harry Potter At Home, to help children and their parents during the Covid-19 outbreak. A new digital hub, hosted on ...",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "Covid"
+      ],
+      "source": "Burgess National School"
+    },
+    {
+      "position": 66,
+      "title": "The Harry Potter Villain Who Personified the Covid Tyrants",
+      "link": "https://jjmilt.substack.com/p/the-harry-potter-villain-who-personified",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jjmilt.substack.com/p/the-harry-potter-villain-who-personified&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCKwCEAE",
+      "displayed_link": "20+ likes · 1 year ago",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d8cbb2c6e05905b3e0f5cc6524844759d.jpeg",
+      "snippet": "Dolores Umbridge, with her girlish voice, toadlike face, and clutching, stubby fingers, is the greatest make-believe villain to come along since Hannibal ...",
+      "source": "Substack · The Take (by Jon Miltimore)"
+    },
+    {
+      "position": 67,
+      "title": "'Harry Potter' author delivers new content to entertain us in ...",
+      "link": "https://thebrag.com/j-k-rowling-harry-potter-content-quarantine/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thebrag.com/j-k-rowling-harry-potter-content-quarantine/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECFEQAQ",
+      "displayed_link": "https://thebrag.com › j-k-rowling-harry-potter-content-q...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dfd753a06e19b1633d8732da7a1228aa1.png",
+      "date": "Apr 8, 2020",
+      "snippet": "With most of us feeling very downtrodden by the news in the world in the midst of the global COVID-19 pandemic, the newest aspect of the ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "The Brag"
+    },
+    {
+      "position": 68,
+      "title": "Reading Harry Potter In A New Light During The ...",
+      "link": "https://www.shethepeople.tv/home-top-video/reading-harry-potter-in-a-new-light-during-the-coronavirus-pandemic/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shethepeople.tv/home-top-video/reading-harry-potter-in-a-new-light-during-the-coronavirus-pandemic/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECE0QAQ",
+      "displayed_link": "https://www.shethepeople.tv › Coronavirus",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d005bb767ab83be861e7fde31e2b3dd8e.png",
+      "date": "Dec 16, 2020",
+      "snippet": "Reading Harry Potter COVID-19. This has not been the best year for the Harry Potter franchise, assailed as it has been by the fallout from ...",
+      "snippet_highlighted_words": [
+        "Harry Potter COVID"
+      ],
+      "source": "SheThePeople"
+    },
+    {
+      "position": 69,
+      "title": "Health and Safety",
+      "link": "https://www.harrypotterstore.com/covid-safety/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.harrypotterstore.com/covid-safety/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECEwQAQ",
+      "displayed_link": "https://www.harrypotterstore.com › covid-safety",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dc02ac444d54649e0391b52ec3d778471.png",
+      "snippet": "We follow all mandated city, state and federal CDC guidelines. You acknowledge that Exposure to COVID-19 is an inherent risk in any public location where people ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Harry Potter New York"
+    },
+    {
+      "position": 70,
+      "title": "Harry Potter and The COVID-19 Crisis",
+      "link": "https://archive.bookstr.com/article/harry-potter-and-the-covid-19-crisis/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://archive.bookstr.com/article/harry-potter-and-the-covid-19-crisis/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECE4QAQ",
+      "displayed_link": "https://archive.bookstr.com › ... › Category: Fandom",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16ddbf3c9864cbc58dc86b4ba957bc78468.png",
+      "date": "Apr 1, 2020",
+      "snippet": "It seems Harry Potter may have been the perfect model for the #StayHome movement, though, according to Stephen Colbert and Harry himself, Daniel ...",
+      "snippet_highlighted_words": [
+        "Harry Potter"
+      ],
+      "source": "Bookstr"
+    },
+    {
+      "position": 71,
+      "title": "magic in the time of corona, a harry potter fanfic",
+      "link": "https://www.fanfiction.net/s/13942899/1/magic-in-the-time-of-corona",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fanfiction.net/s/13942899/1/magic-in-the-time-of-corona&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECFMQAQ",
+      "displayed_link": "https://www.fanfiction.net › magic-in-the-time-of-corona",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dee9becf8ddfaf1021024cbee0204527c.png",
+      "date": "Aug 21, 2021",
+      "snippet": "... COVID-19. They scheduled this meeting last Tuesday, and news of the coronavirus didn't even reach Hogwarts until Thursday, when the story ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "coronavirus",
+        "Hogwarts"
+      ],
+      "source": "FanFiction"
+    },
+    {
+      "position": 72,
+      "title": "Harry Potter and the Vaccine 💉 ⚡️ #VaccinatedFor ...",
+      "link": "https://www.tiktok.com/@mikaelmmelo/video/6958566033070247174",
+      "displayed_link": "424K+ views · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4uMOwIffo_e3tK281nZOhW6AV0PRNGavcuzMOnOS97Iwc&s",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d25f2e3be8ae2961fa900689576f562da.png",
+      "snippet": "Today's top videos · @mikaelmmelo's videos · #vaccinatedfor · #vacinated · #lockdown · #pandemic · #covid · #harrypotter.",
+      "duration": "0:50",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSGOyaDe28mGba0Z0dI8T5K8NVJoDbgtc1i3g",
+      "source": "TikTok · mikaelmmelo"
+    },
+    {
+      "position": 73,
+      "title": "Harry Potter hospital rooms get JK Rowling approval",
+      "link": "https://www.bbc.com/news/uk-england-dorset-52228493",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.com/news/uk-england-dorset-52228493&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECGcQAQ",
+      "displayed_link": "https://www.bbc.com › uk-england-dorset-52228493",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dfe0ac33a1ab2619e872478f8b1b0c404.png",
+      "snippet": "Coronavirus: Harry Potter hospital rooms get JK Rowling approval. 9 April 2020. Share. Save. Share. Save. Alex Maslen Bournemouth hospital meeting room ...",
+      "snippet_highlighted_words": [
+        "Coronavirus",
+        "Harry Potter"
+      ],
+      "source": "BBC"
+    },
+    {
+      "position": 74,
+      "title": "Coronavirus: 'Harry Potter' star Daniel Radcliffe denies ...",
+      "link": "https://www.thehindu.com/entertainment/movies/coronavirus-harry-potter-star-daniel-radcliffe-denies-testing-positive-for-covid-19/article31039866.ece",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thehindu.com/entertainment/movies/coronavirus-harry-potter-star-daniel-radcliffe-denies-testing-positive-for-covid-19/article31039866.ece&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECGgQAQ",
+      "displayed_link": "https://www.thehindu.com › Entertainment › Movies",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d1d0bcb278533e40f861c59ccd14a94bd.png",
+      "date": "Mar 11, 2020",
+      "snippet": "Harry Potter star Daniel Radcliffe has become the first star to be caught up in a coronavirus hoax. A tweet from a fake BBC account, ...",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "coronavirus"
+      ],
+      "source": "The Hindu"
+    },
+    {
+      "position": 75,
+      "title": "Harry Potter – The Two Cities",
+      "link": "https://www.thetwocities.com/tag/harry-potter/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thetwocities.com/tag/harry-potter/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECGsQAQ",
+      "displayed_link": "https://www.thetwocities.com › tag › harry-potter",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d33202fb6464e620806cb6e8df9fdd5f4.png",
+      "snippet": "... Harry Potter Conference at Chestnut Hill College in Philadelphia. Due to COVID-19, the conference will be held virtually this year. This is a genuine bummer ...",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID"
+      ],
+      "source": "thetwocities.com"
+    },
+    {
+      "position": 76,
+      "title": "Hogwarts COVID Response",
+      "link": "https://www.youtube.com/watch?v=XL-qXKa-q7I",
+      "displayed_link": "1.9K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17uYRoJnEhNX604GynUxL1SmjGkLWQ0L24PWOcaeFP7Ro&s",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dadb8ec14224a1649cde1b1591100e9c0.png",
+      "snippet": "Dumbledor makes some questionable decisions.",
+      "duration": "4:19",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRfii82LojLt3s9dvrmt7CmxWotp7qY9nCjwg",
+      "source": "YouTube · BYUSA Divine Comedy"
+    },
+    {
+      "position": 77,
+      "title": "COVID-19: Reading Harry Potter in a new light during ...",
+      "link": "https://www.guelphtoday.com/around-ontario/covid-19-reading-harry-potter-in-a-new-light-during-the-coronavirus-pandemic-3190731",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.guelphtoday.com/around-ontario/covid-19-reading-harry-potter-in-a-new-light-during-the-coronavirus-pandemic-3190731&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECHYQAQ",
+      "displayed_link": "https://www.guelphtoday.com › around-ontario › covid...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dccfe4de987f435d5cbdff82e30898f25.png",
+      "date": "Dec 27, 2020",
+      "snippet": "Harry Potter's adventures take on a new significance during the ongoing coronavirus pandemic.",
+      "snippet_highlighted_words": [
+        "Harry Potter's",
+        "coronavirus"
+      ],
+      "source": "Guelph News"
+    },
+    {
+      "position": 78,
+      "title": "Revisiting the Pre-Covid Stage with Harry Potter and ...",
+      "link": "https://theoxfordblue.co.uk/the-sound-of-magic-revisiting-the-pre-covid-stage-with-harry-potter-and-the-cursed-child/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theoxfordblue.co.uk/the-sound-of-magic-revisiting-the-pre-covid-stage-with-harry-potter-and-the-cursed-child/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECHUQAQ",
+      "displayed_link": "https://theoxfordblue.co.uk › the-sound-of-magic-revisi...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16da78260659173f360a62e24733066f300.png",
+      "date": "Mar 25, 2021",
+      "snippet": "The story takes place 19 years after the end of the novel and movie Harry Potter and the Deathly Hallows, and the audience is reintroduced to ...",
+      "snippet_highlighted_words": [
+        "Harry Potter"
+      ],
+      "source": "The Oxford Blue"
+    },
+    {
+      "position": 79,
+      "title": "COVID-19: how it will impact 'Harry Potter' in 2020",
+      "link": "https://www.harrypotterfanzone.com/covid19-how-it-will-impact-harry-potter-in-2020/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.harrypotterfanzone.com/covid19-how-it-will-impact-harry-potter-in-2020/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIQBEAE",
+      "displayed_link": "https://www.harrypotterfanzone.com › covid19-how-it-...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d3d2074e570b1a908662cd0065a327afa.jpeg",
+      "date": "Mar 19, 2020",
+      "snippet": "From filming delays to event cancellations, COVID-19 will have a significant effect on the Wizarding World in 2020.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Harry Potter Fan Zone"
+    },
+    {
+      "position": 80,
+      "title": "'Harry Potter' Jessie Cave's baby hospitalized with COVID",
+      "link": "https://www.today.com/parents/harry-potter-jessie-cave-s-baby-hospitalized-covid-t205056",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.today.com/parents/harry-potter-jessie-cave-s-baby-hospitalized-covid-t205056&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIYBEAE",
+      "displayed_link": "https://www.today.com › parents › harry-potter-jessie-c...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d9326aaa9f0657336c9fe5037d774f449.png",
+      "date": "Jan 7, 2021",
+      "snippet": "Harry Potter actor Jessie Cave, who played Lavender Brown, said baby son Alfie Brown has COVID and is in the hospital in the UK.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID"
+      ],
+      "source": "TODAY.com"
+    },
+    {
+      "position": 81,
+      "title": "Harry potter and the order of corona - chapter 1",
+      "link": "https://www.wattpad.com/amp/862073805",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wattpad.com/amp/862073805&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJgBEAE",
+      "displayed_link": "https://www.wattpad.com › amp",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16da42f4d02cb9190c9abfb371502897090.png",
+      "snippet": "Unfortunately, COVID-19 forbade him from leaving the house. Great, stuck with stupid Dudley, Vernon and smelly Petunia. Petunia always carried the air of burned ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Wattpad"
+    },
+    {
+      "position": 82,
+      "title": "Harry Potter publisher Bloomsbury issues another profit ...",
+      "link": "https://www.theguardian.com/business/2021/mar/24/harry-potter-publisher-bloomsbury-issues-another-profit-upgrade-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/business/2021/mar/24/harry-potter-publisher-bloomsbury-issues-another-profit-upgrade-covid&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCIcBEAE",
+      "displayed_link": "https://www.theguardian.com › business › mar › harry-...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16db720c50fa7689483728fc59486ffd1a6.png",
+      "date": "Mar 24, 2021",
+      "snippet": "But company says reading boom may end when Covid restrictions are lifted.",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "The Guardian"
+    },
+    {
+      "position": 83,
+      "title": "[VIDEO] Coronavirus: Harry Potter's J.K Rowling Shares ...",
+      "link": "https://www.techtimes.com/articles/248637/20200406/video-coronavirus-harry-potter-j-k-rowling-shares-her-secret-on-winning-vs-covid-19-symptoms.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.techtimes.com/articles/248637/20200406/video-coronavirus-harry-potter-j-k-rowling-shares-her-secret-on-winning-vs-covid-19-symptoms.htm&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJ0BEAE",
+      "displayed_link": "https://www.techtimes.com › articles › video-coronavir...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d88478c682df2396bd5e3ff91f4f42666.jpeg",
+      "date": "Apr 7, 2020",
+      "snippet": "As explained in the video, the proper way of breathing exercise is to take six deep breathing and hold it for five seconds each. Once you get to ...",
+      "source": "Tech Times"
+    },
+    {
+      "position": 84,
+      "title": "Harry Potter | Official home of Harry Potter, Hogwarts Sorting ...",
+      "link": "https://www.harrypotter.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.harrypotter.com/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCJ4BEAE",
+      "displayed_link": "https://www.harrypotter.com",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d516ef0765fe464f55b2b7ad9bd1ab1f2.png",
+      "snippet": "Join the Harry Potter Fan Club for free to discover your Hogwarts house.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "Hogwarts"
+      ],
+      "source": "Harry Potter"
+    },
+    {
+      "position": 85,
+      "title": "The Harry Potter Villain Who Personified the Covid Tyrants",
+      "link": "https://jjmilt.substack.com/p/the-harry-potter-villain-who-personified/comments",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jjmilt.substack.com/p/the-harry-potter-villain-who-personified/comments&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCKYBEAE",
+      "displayed_link": "https://jjmilt.substack.com › comments",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d1ba186620b2c18e6a57d1738fc585ca6.jpeg",
+      "date": "Jun 2, 2024",
+      "snippet": "What makes Dolores Umbridge so evil that Stephen King would compare her to Hannibal Lecter, the man widely considered the greatest villain ...",
+      "source": "Substack"
+    },
+    {
+      "position": 86,
+      "title": "'Harry Potter' creator J.K. Rowling reveals probable ...",
+      "link": "https://www.ourwindsor.ca/things-to-do/books/harry-potter-creator-j-k-rowling-reveals-probable-coronavirus-infection-says-she-s-recovered/article_53bff1d9-2279-58f6-9037-1d16177dd4ca.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ourwindsor.ca/things-to-do/books/harry-potter-creator-j-k-rowling-reveals-probable-coronavirus-infection-says-she-s-recovered/article_53bff1d9-2279-58f6-9037-1d16177dd4ca.html&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCKgBEAE",
+      "displayed_link": "https://www.ourwindsor.ca › Things To Do › Books",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d9481fff00d36e7f22861006f8bdb44fb.png",
+      "date": "Apr 7, 2020",
+      "snippet": "'Harry Potter' creator J.K. Rowling reveals probable coronavirus infection, says she's recovered. By Theresa Braine New York Daily News ...",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "coronavirus"
+      ],
+      "source": "Our Windsor"
+    },
+    {
+      "position": 87,
+      "title": "[Link in bio] JK Rowling recovers from Covid-19",
+      "link": "https://www.instagram.com/p/B-qm046o7DD/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/B-qm046o7DD/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCLIBEAE",
+      "displayed_link": "70+ likes · 5 years ago",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d6e248b19162ac67b94303ffb3d90abf2.png",
+      "snippet": "75 likes, 0 comments - etpanache on April 6, 2020: \"[Link in bio] JK Rowling recovers from Covid-19: 'Harry Potter' author J.K. Rowling said ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "Harry Potter"
+      ],
+      "source": "Instagram · etpanache"
+    },
+    {
+      "position": 88,
+      "title": "hogwarts in quarantine Chapter 1, a harry potter fanfic",
+      "link": "https://www.fanfiction.net/s/13577991/1/hogwarts-in-quarantine",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fanfiction.net/s/13577991/1/hogwarts-in-quarantine&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCLMBEAE",
+      "displayed_link": "https://www.fanfiction.net › hogwarts-in-quarantine",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d7ad308c29295013dbd13105ab90d9173.png",
+      "date": "May 8, 2020",
+      "snippet": "Its is covid-19 season and all of us are in quarantine, so thought it would be funny to see how hogwarts e-schools students. R&R!",
+      "snippet_highlighted_words": [
+        "covid",
+        "hogwarts"
+      ],
+      "source": "FanFiction"
+    },
+    {
+      "position": 89,
+      "title": "'Harry Potter' extends cancellation of performances amid ...",
+      "link": "https://datebook.sfchronicle.com/theater/harry-potter-and-the-cursed-child-will-continue-as-scheduled-with-reduced-capacity",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://datebook.sfchronicle.com/theater/harry-potter-and-the-cursed-child-will-continue-as-scheduled-with-reduced-capacity&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCLUBEAE",
+      "displayed_link": "https://datebook.sfchronicle.com › theater › harry-potte...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d81ed4297e8b30ee05272db95de113dc5.jpeg",
+      "date": "Mar 14, 2020",
+      "snippet": "The West Coast production of “Harry Potter and the Cursed Child” at the Curran will now be suspended through April 30.",
+      "snippet_highlighted_words": [
+        "be suspended through April 30"
+      ],
+      "source": "Datebook"
+    },
+    {
+      "position": 90,
+      "title": "FACT FINDERS: Will vaccine protect you from the 'razor blade ...",
+      "link": "https://www.kold.com/2025/07/18/fact-finders-will-vaccine-protect-you-razor-blade-throat-covid-variant/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kold.com/2025/07/18/fact-finders-will-vaccine-protect-you-razor-blade-throat-covid-variant/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCLYBEAE",
+      "displayed_link": "https://www.kold.com › 2025/07/18 › fact-finders-will-...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d6e8480f150ca672790d291bcf6794474.png",
+      "date": "7 days ago",
+      "snippet": "“It's actually named for the clouds, that's this particular subset, not for Harry Potter ... As viruses do, COVID continues to evolve and look for ...",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "COVID"
+      ],
+      "source": "kold.com"
+    },
+    {
+      "position": 91,
+      "title": "Policies for Food, Bags, & Other FAQs",
+      "link": "https://www.universalorlando.com/web/en/us/plan-your-visit/hours-information/policies-restrictions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.universalorlando.com/web/en/us/plan-your-visit/hours-information/policies-restrictions&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCMMBEAE",
+      "displayed_link": "https://www.universalorlando.com › policies-restrictions",
+      "snippet": "The Wizarding World of Harry Potter™ · Jurassic Park · DreamWorks Land · VIP Tour Experience · Summer at Universal · Halloween Horror Nights · Holidays at ...",
+      "snippet_highlighted_words": [
+        "Harry Potter"
+      ],
+      "source": "Universal Orlando"
+    },
+    {
+      "position": 92,
+      "title": "J.K. Rowling creates Harry Potter site for coronavirus ...",
+      "link": "https://nypost.com/2020/04/01/j-k-rowling-creates-harry-potter-site-for-coronavirus-boredom/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nypost.com/2020/04/01/j-k-rowling-creates-harry-potter-site-for-coronavirus-boredom/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCMQBEAE",
+      "displayed_link": "https://nypost.com › 2020/04/01 › j-k-rowling-creates-...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d4a40641470f61953b5ea0281c58dcfae.png",
+      "date": "Apr 1, 2020",
+      "snippet": "The site has cast a spell on Twitter's Wizarding World-lovers amid the coronavirus pandemic, which, contrary to rumors, has not infected “Harry ...",
+      "snippet_highlighted_words": [
+        "coronavirus",
+        "Harry"
+      ],
+      "source": "New York Post"
+    },
+    {
+      "position": 93,
+      "title": "Tom’s “Hawaii” with a Harry Potter twist ⚡️🐍 | Day 7 in COVID ...",
+      "link": "https://www.facebook.com/feltbeats/videos/toms-hawaii-with-a-harry-potter-twist-%EF%B8%8F/650983869045015/",
+      "displayed_link": "830+ reactions · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uxpfO93Cj1dr2D5tja0Bz0mANHEWLn2ofdka3DSWfxtb&s",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d397d835368cd2aa4db364ce7f95c56d1.png",
+      "snippet": "Day 7 in COVID-19 quarantine: Draco starts to lose it.",
+      "duration": "0:34",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR99mtwpJPHirHvkGR76dyrfuAkgdyAx9eZsQ",
+      "source": "Facebook · Feltbeats.com"
+    },
+    {
+      "position": 94,
+      "title": "Reading Harry Potter in a new light during the coronavirus ...",
+      "link": "https://interaksyon.philstar.com/hobbies-interests/2020/12/17/182186/reading-harry-potter-in-a-new-light-during-the-coronavirus-pandemic/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://interaksyon.philstar.com/hobbies-interests/2020/12/17/182186/reading-harry-potter-in-a-new-light-during-the-coronavirus-pandemic/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCNMBEAE",
+      "displayed_link": "https://interaksyon.philstar.com › 2020/12/17 › reading...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dc95a1856eb4fa0e32e72c1627a1475a3.png",
+      "date": "Dec 17, 2020",
+      "snippet": "The first six books of the Harry Potter series took place at Hogwarts ... When COVID-19 went viral, Harry Potter caught it and was changed ...",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "Hogwarts",
+        "COVID",
+        "Harry Potter"
+      ],
+      "source": "Interaksyon"
+    },
+    {
+      "position": 95,
+      "title": "Harry Potter Forbidden Forest Grows in Illinois for Fall 2025",
+      "link": "https://979kickfm.com/harry-potter-immersion-illinois/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://979kickfm.com/harry-potter-immersion-illinois/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECE8QAQ",
+      "displayed_link": "https://979kickfm.com › harry-potter-immersion-illinois",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d28919e628ad73e32434f3bbed5ca23f3.png",
+      "date": "23 hours ago",
+      "snippet": "Though COVID-19 restrictions in Florida were among the most relaxed in the country, Universal Studios Florida still underwent a major dip in ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "97.9 KICK FM"
+    },
+    {
+      "position": 96,
+      "title": "J.K. Rowling launches a Harry Potter activity site for kids",
+      "link": "https://www.latimes.com/entertainment-arts/books/story/2020-04-01/coronavirus-jk-rowling-harry-potter-website",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.latimes.com/entertainment-arts/books/story/2020-04-01/coronavirus-jk-rowling-harry-potter-website&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECDYQAQ",
+      "displayed_link": "https://www.latimes.com › books › story › coronavirus-...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dbe8d7b3d9a01d10970876b6d65f6cad5.png",
+      "date": "Apr 1, 2020",
+      "snippet": "... Harry Potter at Home\" to help distract families from the coronavirus crisis ... Covid. California · COVID 'razor blade throat' rises as new ...",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "coronavirus",
+        "Covid",
+        "COVID"
+      ],
+      "source": "Los Angeles Times"
+    },
+    {
+      "position": 97,
+      "title": "No, Daniel Radcliffe aka Harry Potter doesn't have ...",
+      "link": "https://www.dhakatribune.com/world/203630/no-daniel-radcliffe-aka-harry-potter-doesn-t-have",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dhakatribune.com/world/203630/no-daniel-radcliffe-aka-harry-potter-doesn-t-have&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECDIQAQ",
+      "displayed_link": "https://www.dhakatribune.com › World",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d85e68cf6b5f8d28a7aa46c5d473e6a15.png",
+      "date": "Mar 12, 2020",
+      "snippet": "A fake Twitter account claimed on Tuesday that “Harry Potter” actor Daniel Radcliffe was infected with coronavirus.",
+      "snippet_highlighted_words": [
+        "Harry Potter",
+        "coronavirus"
+      ],
+      "source": "Dhaka Tribune"
+    },
+    {
+      "position": 98,
+      "title": "Nimax Theatres | West End Shows & Box Office Tickets London",
+      "link": "https://nimaxtheatres.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nimaxtheatres.com/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECDQQAQ",
+      "displayed_link": "https://nimaxtheatres.com",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d54c9aea81fb09ab5cee76d990f87d526.png",
+      "snippet": "Nimax is home to long-running plays and musicals including Harry Potter and the Cursed Child, The Play That Goes Wrong, SIX, and Hadestown, in addition to ...",
+      "snippet_highlighted_words": [
+        "Harry Potter"
+      ],
+      "source": "Nimax Theatres"
+    },
+    {
+      "position": 99,
+      "title": "\"Harry Potter\" actress Jessie Cave reveals her baby has ...",
+      "link": "https://www.cbsnews.com/news/jessie-cave-baby-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbsnews.com/news/jessie-cave-baby-covid-19/&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoFCOABEAE",
+      "displayed_link": "https://www.cbsnews.com › World",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16dce9ca7abc1181c0eece3b404c9a88f91.png",
+      "date": "Jan 5, 2021",
+      "snippet": "About 11 weeks after taking her baby home from the hospital, actress Jessie Cave announced she was isolated in a hospital room with her son, who tested ...",
+      "snippet_highlighted_words": [
+        "actress Jessie Cave"
+      ],
+      "source": "CBS News"
+    },
+    {
+      "position": 100,
+      "title": "Harry Potter | Get ready to go Back to Hogwarts digitally in ...",
+      "link": "https://www.harrypotter.com/news/go-back-to-hogwarts-digitally-in-2020",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.harrypotter.com/news/go-back-to-hogwarts-digitally-in-2020&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8QFnoECDcQAQ",
+      "displayed_link": "https://www.harrypotter.com › news › go-back-to-hog...",
+      "favicon": "https://serpapi.com/searches/688257bfbb48ad88b3610acd/images/1e903bd0ef909f0299079d0fd485f16d9dec4cf3fd9915b11911261325abc968.png",
+      "date": "Aug 18, 2020",
+      "snippet": "However, this year, the Wizarding World is asking fans not to attend King's Cross station for the usual gathering. In the wake of COVID-19, we ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Harry Potter"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=harry+potter+covid&num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&ei=v1eCaKWhFNCs5NoPibvO-Q8&start=100&sa=N&sstk=Ac65TH43L45_KqxlUlQgKCBcSyRSMn3vXdIPDnV-qxUC41LyYH1_AedQwb_GAoV6vU6DFvY3nbeO-jg2NPDo7yRn6VA6QFgjSoSyvA&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8Q8NMDegQICxAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=harry+potter+covid&num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&ei=v1eCaKWhFNCs5NoPibvO-Q8&start=100&sa=N&sstk=Ac65TH43L45_KqxlUlQgKCBcSyRSMn3vXdIPDnV-qxUC41LyYH1_AedQwb_GAoV6vU6DFvY3nbeO-jg2NPDo7yRn6VA6QFgjSoSyvA&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8Q8tMDegQICxAE",
+      "3": "https://www.google.com/search?q=harry+potter+covid&num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&ei=v1eCaKWhFNCs5NoPibvO-Q8&start=200&sa=N&sstk=Ac65TH43L45_KqxlUlQgKCBcSyRSMn3vXdIPDnV-qxUC41LyYH1_AedQwb_GAoV6vU6DFvY3nbeO-jg2NPDo7yRn6VA6QFgjSoSyvA&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8Q8tMDegQICxAG",
+      "4": "https://www.google.com/search?q=harry+potter+covid&num=100&sca_esv=c29e0acc1e59cdbc&gl=us&hl=en&ei=v1eCaKWhFNCs5NoPibvO-Q8&start=300&sa=N&sstk=Ac65TH43L45_KqxlUlQgKCBcSyRSMn3vXdIPDnV-qxUC41LyYH1_AedQwb_GAoV6vU6DFvY3nbeO-jg2NPDo7yRn6VA6QFgjSoSyvA&ved=2ahUKEwjl_Kz77dWOAxVQFlkFHYmdM_8Q8tMDegQICxAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=harry+potter+covid&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=harry+potter+covid&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=harry+potter+covid&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=harry+potter+covid&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=harry+potter+covid&start=300"
+    }
+  }
+}
