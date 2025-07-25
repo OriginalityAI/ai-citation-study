@@ -1,0 +1,2045 @@
+{
+  "search_metadata": {
+    "id": "68831fde28b27bed1e0b1ae0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/632eeae38f26602d/68831fde28b27bed1e0b1ae0.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/632eeae38f26602d/68831fde28b27bed1e0b1ae0.json_with_pixel_position",
+    "created_at": "2025-07-25 06:10:38 UTC",
+    "processed_at": "2025-07-25 06:10:38 UTC",
+    "google_url": "https://www.google.com/search?q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&oq=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/632eeae38f26602d/68831fde28b27bed1e0b1ae0.html",
+    "total_time_taken": 1.92
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what rate of annual interest will an investment quadruple itself in 10 years?",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "what rate of annual interest will an investment quadruple itself in 10 years?",
+    "total_results": 100,
+    "time_taken_displayed": 0.42,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "questions_and_answers": [
+    {
+      "link": "https://brainly.com/question/38786295",
+      "source": "brainly.co...",
+      "question": "2. At what interest rate will a sum of money triple itself in 10 years?",
+      "answer": "Final Answer: The interest rate that would triple a sum of money in 10 years is approximately 11.49% when compounded annually. ; Explanation: The subject is about determining the interest rate at which money will triple itself in 10 years time . This type of question is related to exponential growth, specifically the formula for compounding interest which is A = P(1 + r/n)^(nt), where A is the money after n years (in this case, 3 times the value), P is the initial principal balance, r is the annual interest rate, n is the number of times interest applied per time period and t is the time the money is invested for. Money triple in the equation means to set A to '3P'. Given that the sum triples in 10 years, we only need to solve the formula for r which is our interest rate. Also, as the compounding period is not specified, we'll assume that the interest is compounded once per year (n=1). Therefore, the equation to solve would be 3P = P(1 + r)^10. Canceling P from both sides we get 3 = (1…",
+      "votes": 0
+    },
+    {
+      "link": "https://www.quora.com/At-what-annual-interest-rate-compounded-semi-anually-will-a-certain-amount-triple-itself-in-20-years",
+      "source": "Quora",
+      "question": "At what annual interest rate compounded semi-anually will a certain amount triple itself in 20 years?",
+      "answer": "The formula for the future value (FV) of some some present value (PV) compounded at an interest rate of i per annum over a period (n) of 20 years is: FV = PV (1 + i ) ^ n Where the symbol ^ means to the power of. In your question we are given: n = 20 FV = 3 x PV (if we take PV = $1, then FV = $3) Your question asks for i, so we have to do some mathematical rearranging to solve for i: FV = PV (1 + i ) ^ n FV / PV = (1 + i ) ^ n (FV / PV) ^ 1/n = ((1 + i ) ^ n) ^ 1/n (FV / PV) ^ 1/n = (1 + i ) i = (FV / PV) ^ 1/n - 1 So for your question we have: i = (FV / PV) ^ 1/n - 1 i = (3/1) ^ 1/20 - 1 = 3^0.05 - 1 = 5.65 So the annual compounded interest rate to triple $1 today to $3 in 20 years is 5.65%. Now there are variations of the above formula where you can account for the timing of the compounding.. the above formula assumes interest is calculated once per annum. In reality it is compounded continuously with Euler’s e or daily or weekly/fortnightly/monthly. Fun fact: an int…",
+      "votes": 3
+    },
+    {
+      "link": "https://www.quora.com/At-what-rate-will-a-sum-triple-itself-in-10-years",
+      "source": "Quora",
+      "question": "At what rate will a sum triple itself in 10 years?",
+      "answer": "[math]x \\times (1+i)^{10} = 3x[/math] Or [math](1+i)^{10} = 3[/math] Or [math]i = \\sqrt[10]{3} - 1[/math] Or [math]i = 0.1161[/math] Your answer is 11.61%",
+      "votes": 6
+    },
+    {
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/5-rate-annual-interest-investment-quadruple-12-years-6-interest-rate-compounded-monthly-eq-q86335717",
+      "source": "Chegg",
+      "question": "5. At what rate of annual interest will an investment quadruple itself in 12 years? 6. What interest rate compounded monthly is equivalent to 10% effective rate? 7. The effective interest rate is 19.56%. If there are 12 compounding periods per years, the nominal interest rate is? 8. A man leads P600 at 6% simple interest for 4 years. At the end of this tie,",
+      "answer": "Sol 5: FV = PV × (1+i)n Put",
+      "votes": 1
+    }
+  ],
+  "inline_images": [
+    {
+      "source": "https://www.chegg.com/homework-help/questions-and-answers/5-rate-annual-interest-investment-quadruple-12-years-6-interest-rate-compounded-monthly-eq-q86335717",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnN1AjTejsOBxkIKYivzmcV8_ztSFtTLA77O67p6DmrfJ0W-LrzUdYYTM&s",
+      "original": "https://media.cheggcdn.com/study/903/903ebd94-a29c-4df7-990f-40708aafd722/image",
+      "title": "Solved 5. At what rate of annual interest will an investment ...",
+      "source_name": "Chegg"
+    },
+    {
+      "source": "https://www.chegg.com/homework-help/questions-and-answers/rate-annual-interest-investment-quadruple-12-years-1101-2112-3122-4131-q12174581",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62sVTDSZ6a_Y6Eos2B5lCv5L8EQNf9Skg9n5z1sQivsVZeFVJuqJHwVM&s",
+      "original": "http://d2vlcm61l7u1fs.cloudfront.net/media%2F4fe%2F4fec7033-5b1e-4841-bc71-633856ae9f7a%2FphpkVzkdx.png",
+      "title": "Solved At what rate of annual interest will an investment ...",
+      "source_name": "Chegg"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=BluAgrzejF0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJFX1JNIRyyu2jpLnTk2uTWmNvavVYWRf-M2alLEDD3dvYmgWj2snoE0&s",
+      "original": "https://i.ytimg.com/vi/BluAgrzejF0/hqdefault.jpg",
+      "title": "Calculating the time required to double or triple an investment",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=-xqs7EZEbv8",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnvttTOsr8HvNTN2ED9gJ7rI8guACqQ2o2ZThblAWWT_iQAM88atxPHfA&s",
+      "original": "https://i.ytimg.com/vi/-xqs7EZEbv8/maxresdefault.jpg",
+      "title": "Time required to triple an investment | compound interest formula",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://www.numerade.com/ask/question/at-what-rate-of-annual-interest-will-an-investment-quadruple-itself-in-12-years-a-101-b-112-c-122-d-131-22136/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ17_jLm9B3HFIgc6sNh8YAVoaaTL88xPxk7sa0fWnqkHwiLVfNjR2ZGl8&s",
+      "original": "https://cdn.numerade.com/ask_previews/3fdc8c8-1e7-da0-7ba1-75d32aa4ce72.gif",
+      "title": "at what rate of annual interest will an investment quadruple ...",
+      "source_name": "Numerade"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=Ml_ZmeZHye8",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9eRpEbVjCbgfSyRsoHBGZ9_o8IOxEh_LG-WvGJHf30jLelEsXbci-zc&s",
+      "original": "https://i.ytimg.com/vi/Ml_ZmeZHye8/maxresdefault.jpg",
+      "title": "How long will it take for an investment to triple at 3% compounded  continuously?",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=4iCKZuj_XoI",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxrZdazpZ9bVE-0G72mqwccyt578FUdx3OCKtMn-ok0WlEEBLN548Yg2c&s",
+      "original": "https://i.ytimg.com/vi/4iCKZuj_XoI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihIMA8=&rs=AOn4CLBsghEkWvkUp_fcvu4iO3Aj28uJbA",
+      "title": "Finding the rate of interest compounded annually to double an investment",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://www.calculatestuff.com/financial/compound-interest-calculator",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9r7RZUWK2p9LFefcT6B0d4wZRw18MW-dRZD8JwbKxa3Ebd9aNM2hkT0&s",
+      "original": "https://cdn.calculatestuff.com/assets/embedded_articles/financial/compound-interest/annuity-due-timelines-6478a06119abe8ba328861a3f36b4c672186bfa1e343528df6c41f263555f4ac.svg",
+      "title": "Compound Interest Calculator - Calculate Investment Returns",
+      "source_name": "CalculateStuff.com"
+    },
+    {
+      "source": "https://www.onlinemath4all.com/simple-and-compound-interest.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdB14xuQjHIM6Z--fHcRYsUMW-DGs8m2ZjeoHqmyYi82wlYcWcNYbUQ&s",
+      "original": "https://www.onlinemath4all.com/images/simpleinterest5.png",
+      "title": "Simple and Compound Interest",
+      "source_name": "onlinemath4all"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What interest rate doubles investment in 10 years?",
+      "type": "featured_snippet",
+      "snippet": "This means, at a 5% rate of return, your investment would roughly double in 14.4 years. 7% Rate of Return: Similarly, for an average return of 7%, it would take a little over 10 years for your money to double.",
+      "title": "7%",
+      "link": "https://www.comerica.com/insights/wealth-management/wealth-preservation/financially-fit-clients-do-math.html#:~:text=This%20means%2C%20at%20a%205,for%20your%20money%20to%20double.",
+      "displayed_link": "https://www.comerica.com › financially-fit-clients-do-math",
+      "source_logo": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/24f6058938241fd83456290a7d935fec4b4fa6891ea18a33700409818a71e72f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR0xYaFVUMWhYUTJFeVF6VXhZVEp3TVRocFUyRjZkMlJ6VFdaNlNFTkVUR1ZwZFV4MmMwWTNSVlpuYmpkSGRHdDFYMVV0VFZOaFZYZHVUMjEwWVhKbFJtVXhkREpNYTJ4WldWRlpNblZRYVc1NWVHVklPRUpxVWtoNFFSSVhNM2d0UkdGSlgzUkhTVU5DTlU5TlVHNHRiV1YzUVZFYUlrRkdUVUZIUjNGTlZFNUJZbkJSTnpreVEwaEplWEJ2ZVRacWNHZElRMUZzYUVFIiwiZmN2IjoiMyIsImVpIjoiM3gtRGFJX3RHSUNCNU9NUG4tbWV3QVEiLCJxYyI6ImMtUHlLYzlJTEZFb1NpeEpWY2hQVTBqTXl5dE56RkhJekN0SkxVb3RMbEVvejh6SkFRb0NCY3FBM056VXZCS0Z3dExFbEtMU2dweFVoY3lTNHRTY05LQ2NncUdCUW1WcVlsR3hBRVB0TTY2dmRnQSIsInF1ZXN0aW9uIjoiV2hhdCBpbnRlcmVzdCByYXRlIGRvdWJsZXMgaW52ZXN0bWVudCBpbiAxMCB5ZWFycz8iLCJsayI6ImM1TXlMTTlJTEZISXpDdEpMVW90TGxFb1NpeEpWVWpKTDAzS1NTMEdpcFlCeFhKVDgwQUtGQXdORkNwVEU0dUtBUSIsImJzIjoiYzUyUXZVb0RRUlNGU2VsVWxzdFdWOVRPWW1iaWdxVFoxaWFsUnRKTmRpZk13TzY5TWo5WmdnLVZMbThVOEFtc25TU1lUVUFKcGozbm51OGVEbXVZbkJnVndHTFFUdnNBVGdVTk5jVlpvMzFTRjBsck5XNFBRSEJZYXVWOG1YMk41VEFYM1gtRGJNcjRNM1hReHNxQTlYQW5IampuME5sZ29PaEpjM0pIdnpaQzN1WTM0dHdoLTJDalV6YmZSY2lsekZFSFNKMExVSWhSTlFkU21hMnU1Q2hfLXMwRGM1N0sxZ1AydHRfUlF6QzZEeWNUZFEyRVA5SDlNa25hbGlfNlRvOVFVZnRPRWV2a1ZZVEJZcVRvbTJXWmZiN0tTZjR5dDFoZnlyN19DMzQ5LUFZIiwiaWQiOiJmY18zeC1EYUlfdEdJQ0I1T01Qbi1tZXdBUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR0xYaFVUMWhYUTJFeVF6VXhZVEp3TVRocFUyRjZkMlJ6VFdaNlNFTkVUR1ZwZFV4MmMwWTNSVlpuYmpkSGRHdDFYMVV0VFZOaFZYZHVUMjEwWVhKbFJtVXhkREpNYTJ4WldWRlpNblZRYVc1NWVHVklPRUpxVWtoNFFSSVhNM2d0UkdGSlgzUkhTVU5DTlU5TlVHNHRiV1YzUVZFYUlrRkdUVUZIUjNGTlZFNUJZbkJSTnpreVEwaEplWEJ2ZVRacWNHZElRMUZzYUVFIiwiZmN2IjoiMyIsImVpIjoiM3gtRGFJX3RHSUNCNU9NUG4tbWV3QVEiLCJxYyI6ImMtUHlLYzlJTEZFb1NpeEpWY2hQVTBqTXl5dE56RkhJekN0SkxVb3RMbEVvejh6SkFRb0NCY3FBM056VXZCS0Z3dExFbEtMU2dweFVoY3lTNHRTY05LQ2NncUdCUW1WcVlsR3hBRVB0TTY2dmRnQSIsInF1ZXN0aW9uIjoiV2hhdCBpbnRlcmVzdCByYXRlIGRvdWJsZXMgaW52ZXN0bWVudCBpbiAxMCB5ZWFycz8iLCJsayI6ImM1TXlMTTlJTEZISXpDdEpMVW90TGxFb1NpeEpWVWpKTDAzS1NTMEdpcFlCeFhKVDgwQUtGQXdORkNwVEU0dUtBUSIsImJzIjoiYzUyUXZVb0RRUlNGU2VsVWxzdFdWOVRPWW1iaWdxVFoxaWFsUnRKTmRpZk13TzY5TWo5WmdnLVZMbThVOEFtc25TU1lUVUFKcGozbm51OGVEbXVZbkJnVndHTFFUdnNBVGdVTk5jVlpvMzFTRjBsck5XNFBRSEJZYXVWOG1YMk41VEFYM1gtRGJNcjRNM1hReHNxQTlYQW5IampuME5sZ29PaEpjM0pIdnpaQzN1WTM0dHdoLTJDalV6YmZSY2lsekZFSFNKMExVSWhSTlFkU21hMnU1Q2hfLXMwRGM1N0sxZ1AydHRfUlF6QzZEeWNUZFEyRVA5SDlNa25hbGlfNlRvOVFVZnRPRWV2a1ZZVEJZcVRvbTJXWmZiN0tTZjR5dDFoZnlyN19DMzQ5LUFZIiwiaWQiOiJmY18zeC1EYUlfdEdJQ0I1T01Qbi1tZXdBUV8xIn0%3D"
+    },
+    {
+      "question": "How much is $1,000 with 5 interest for 10 years?",
+      "type": "featured_snippet",
+      "snippet": "You can deposit money to save for long-term goals – buying a house in 10 years – or relatively shorter-term goals, such as a wedding in two years. $1,000 at 0.01 percent APY will only be $1,001 at the end of 10 years. But $1,000 at 5 percent APY will be $1,629 after 10 years.",
+      "title": "Compound Interest Calculator - Bankrate",
+      "link": "https://www.bankrate.com/banking/savings/compound-savings-calculator/#:~:text=the%20best%20return-,You%20can%20deposit%20money%20to%20save%20for%20long%2Dterm%20goals,be%20%241%2C629%20after%2010%20years.",
+      "displayed_link": "https://www.bankrate.com › banking › savings › compo...",
+      "source_logo": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/24f6058938241fd83456290a7d935fec713610eab5d0b9b9782e4aa70c547925.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR0xYaFVUMWhYUTJFeVF6VXhZVEp3TVRocFUyRjZkMlJ6VFdaNlNFTkVUR1ZwZFV4MmMwWTNSVlpuYmpkSGRHdDFYMVV0VFZOaFZYZHVUMjEwWVhKbFJtVXhkREpNYTJ4WldWRlpNblZRYVc1NWVHVklPRUpxVWtoNFFSSVhNM2d0UkdGSlgzUkhTVU5DTlU5TlVHNHRiV1YzUVZFYUlrRkdUVUZIUjNGTlZFNUJZbkJSTnpreVEwaEplWEJ2ZVRacWNHZElRMUZzYUVFIiwiZmN2IjoiMyIsImVpIjoiM3gtRGFJX3RHSUNCNU9NUG4tbWV3QVEiLCJxYyI6ImMtUHlLYzlJTEZFb1NpeEpWY2hQVTBqTXl5dE56RkhJekN0SkxVb3RMbEVvejh6SkFRb0NCY3FBM056VXZCS0Z3dExFbEtMU2dweFVoY3lTNHRTY05LQ2NncUdCUW1WcVlsR3hBRVB0TTY2dmRnQSIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgJDEsMDAwIHdpdGggNSBpbnRlcmVzdCBmb3IgMTAgeWVhcnM/IiwibGsiOiJHaUV4TURBd0lIZHBkR2dnTlNCcGJuUmxjbVZ6ZENCbWIzSWdNVEFnZVdWaGNuTSIsImJzIjoiYzUyUXZVb0RRUlNGU2VsVWxzdFdWOVRPWW1iaWdxVFoxaWFsUnRKTmRpZk13TzY5TWo5WmdnLVZMbThVOEFtc25TU1lUVUFKcGozbm51OGVEbXVZbkJnVndHTFFUdnNBVGdVTk5jVlpvMzFTRjBsck5XNFBRSEJZYXVWOG1YMk41VEFYM1gtRGJNcjRNM1hReHNxQTlYQW5IampuME5sZ29PaEpjM0pIdnpaQzN1WTM0dHdoLTJDalV6YmZSY2lsekZFSFNKMExVSWhSTlFkU21hMnU1Q2hfLXMwRGM1N0sxZ1AydHRfUlF6QzZEeWNUZFEyRVA5SDlNa25hbGlfNlRvOVFVZnRPRWV2a1ZZVEJZcVRvbTJXWmZiN0tTZjR5dDFoZnlyN19DMzQ5LUFZIiwiaWQiOiJmY18zeC1EYUlfdEdJQ0I1T01Qbi1tZXdBUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR0xYaFVUMWhYUTJFeVF6VXhZVEp3TVRocFUyRjZkMlJ6VFdaNlNFTkVUR1ZwZFV4MmMwWTNSVlpuYmpkSGRHdDFYMVV0VFZOaFZYZHVUMjEwWVhKbFJtVXhkREpNYTJ4WldWRlpNblZRYVc1NWVHVklPRUpxVWtoNFFSSVhNM2d0UkdGSlgzUkhTVU5DTlU5TlVHNHRiV1YzUVZFYUlrRkdUVUZIUjNGTlZFNUJZbkJSTnpreVEwaEplWEJ2ZVRacWNHZElRMUZzYUVFIiwiZmN2IjoiMyIsImVpIjoiM3gtRGFJX3RHSUNCNU9NUG4tbWV3QVEiLCJxYyI6ImMtUHlLYzlJTEZFb1NpeEpWY2hQVTBqTXl5dE56RkhJekN0SkxVb3RMbEVvejh6SkFRb0NCY3FBM056VXZCS0Z3dExFbEtMU2dweFVoY3lTNHRTY05LQ2NncUdCUW1WcVlsR3hBRVB0TTY2dmRnQSIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgJDEsMDAwIHdpdGggNSBpbnRlcmVzdCBmb3IgMTAgeWVhcnM%2FIiwibGsiOiJHaUV4TURBd0lIZHBkR2dnTlNCcGJuUmxjbVZ6ZENCbWIzSWdNVEFnZVdWaGNuTSIsImJzIjoiYzUyUXZVb0RRUlNGU2VsVWxzdFdWOVRPWW1iaWdxVFoxaWFsUnRKTmRpZk13TzY5TWo5WmdnLVZMbThVOEFtc25TU1lUVUFKcGozbm51OGVEbXVZbkJnVndHTFFUdnNBVGdVTk5jVlpvMzFTRjBsck5XNFBRSEJZYXVWOG1YMk41VEFYM1gtRGJNcjRNM1hReHNxQTlYQW5IampuME5sZ29PaEpjM0pIdnpaQzN1WTM0dHdoLTJDalV6YmZSY2lsekZFSFNKMExVSWhSTlFkU21hMnU1Q2hfLXMwRGM1N0sxZ1AydHRfUlF6QzZEeWNUZFEyRVA5SDlNa25hbGlfNlRvOVFVZnRPRWV2a1ZZVEJZcVRvbTJXWmZiN0tTZjR5dDFoZnlyN19DMzQ5LUFZIiwiaWQiOiJmY18zeC1EYUlfdEdJQ0I1T01Qbi1tZXdBUV8xIn0%3D"
+    },
+    {
+      "question": "How much is $10000 worth in 10 years at 5 annual interest?",
+      "type": "featured_snippet",
+      "snippet": "Interest can be compounded annually, semi-annually, quarterly, monthly, or daily. The more frequently interest is compounded, the faster your money grows. For example: A USD 10,000 investment at 5% annual interest over 10 years grows to USD 16,288.95 with annual compounding.",
+      "title": "Compound Interest Calculator: How investments grow over time | Saxo",
+      "link": "https://www.home.saxo/learn/tools/compound-interest-calculator#:~:text=Interest%20can%20be%20compounded%20annually,USD%2016%2C288.95%20with%20annual%20compounding.",
+      "displayed_link": "https://www.home.saxo › learn › tools › compound-inter...",
+      "source_logo": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/24f6058938241fd83456290a7d935fececc60e21f06d3f1c6ba6749d18e49107.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR0xYaFVUMWhYUTJFeVF6VXhZVEp3TVRocFUyRjZkMlJ6VFdaNlNFTkVUR1ZwZFV4MmMwWTNSVlpuYmpkSGRHdDFYMVV0VFZOaFZYZHVUMjEwWVhKbFJtVXhkREpNYTJ4WldWRlpNblZRYVc1NWVHVklPRUpxVWtoNFFSSVhNM2d0UkdGSlgzUkhTVU5DTlU5TlVHNHRiV1YzUVZFYUlrRkdUVUZIUjNGTlZFNUJZbkJSTnpreVEwaEplWEJ2ZVRacWNHZElRMUZzYUVFIiwiZmN2IjoiMyIsImVpIjoiM3gtRGFJX3RHSUNCNU9NUG4tbWV3QVEiLCJxYyI6ImMtUHlLYzlJTEZFb1NpeEpWY2hQVTBqTXl5dE56RkhJekN0SkxVb3RMbEVvejh6SkFRb0NCY3FBM056VXZCS0Z3dExFbEtMU2dweFVoY3lTNHRTY05LQ2NncUdCUW1WcVlsR3hBRVB0TTY2dmRnQSIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgJDEwMDAwIHdvcnRoIGluIDEwIHllYXJzIGF0IDUgYW5udWFsIGludGVyZXN0PyIsImxrIjoiYzVPeVNDeFJNRlZJek1zclRjeFJ5TXdyU1MxS0xTNVJ5TWd2VjhndFRjNVF5Q3hXVURFMEFBS0Y4dnlpRWlBX1Q4SFFRS0V5TmJFSUFBIiwiYnMiOiJjNTJRdlVvRFFSU0ZTZWxVbHN0V1Y5VE9ZbWJpZ3FUWjFpYWxSdEpOZGlmTXdPNjlNajlaZ2ctVkxtOFU4QW1zblNTWVRVQUpwajNubnU4ZURtdVluQmdWd0dMUVR2c0FUZ1VOTmNWWm8zMVNGMGxyTlc0UFFIQllhdVY4bVgyTjVUQVgzWC1EYk1yNE0zWFF4c3FBOVhBbkhqam4wTmxnb09oSmMzSkh2elpDM3VZMzR0d2gtMkNqVXpiZlJjaWx6RkVIU0owTFVJaFJOUWRTbWEydTVDaF8tczBEYzU3SzFnUDJ0dF9SUXpDNkR5Y1RkUTJFUDlIOU1rbmFsaV82VG85UVVmdE9FZXZrVllUQllxVG9tMldaZmI3S1NmNHl0MWhmeXI3X0MzNDktQVkiLCJpZCI6ImZjXzN4LURhSV90R0lDQjVPTVBuLW1ld0FRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR0xYaFVUMWhYUTJFeVF6VXhZVEp3TVRocFUyRjZkMlJ6VFdaNlNFTkVUR1ZwZFV4MmMwWTNSVlpuYmpkSGRHdDFYMVV0VFZOaFZYZHVUMjEwWVhKbFJtVXhkREpNYTJ4WldWRlpNblZRYVc1NWVHVklPRUpxVWtoNFFSSVhNM2d0UkdGSlgzUkhTVU5DTlU5TlVHNHRiV1YzUVZFYUlrRkdUVUZIUjNGTlZFNUJZbkJSTnpreVEwaEplWEJ2ZVRacWNHZElRMUZzYUVFIiwiZmN2IjoiMyIsImVpIjoiM3gtRGFJX3RHSUNCNU9NUG4tbWV3QVEiLCJxYyI6ImMtUHlLYzlJTEZFb1NpeEpWY2hQVTBqTXl5dE56RkhJekN0SkxVb3RMbEVvejh6SkFRb0NCY3FBM056VXZCS0Z3dExFbEtMU2dweFVoY3lTNHRTY05LQ2NncUdCUW1WcVlsR3hBRVB0TTY2dmRnQSIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgJDEwMDAwIHdvcnRoIGluIDEwIHllYXJzIGF0IDUgYW5udWFsIGludGVyZXN0PyIsImxrIjoiYzVPeVNDeFJNRlZJek1zclRjeFJ5TXdyU1MxS0xTNVJ5TWd2VjhndFRjNVF5Q3hXVURFMEFBS0Y4dnlpRWlBX1Q4SFFRS0V5TmJFSUFBIiwiYnMiOiJjNTJRdlVvRFFSU0ZTZWxVbHN0V1Y5VE9ZbWJpZ3FUWjFpYWxSdEpOZGlmTXdPNjlNajlaZ2ctVkxtOFU4QW1zblNTWVRVQUpwajNubnU4ZURtdVluQmdWd0dMUVR2c0FUZ1VOTmNWWm8zMVNGMGxyTlc0UFFIQllhdVY4bVgyTjVUQVgzWC1EYk1yNE0zWFF4c3FBOVhBbkhqam4wTmxnb09oSmMzSkh2elpDM3VZMzR0d2gtMkNqVXpiZlJjaWx6RkVIU0owTFVJaFJOUWRTbWEydTVDaF8tczBEYzU3SzFnUDJ0dF9SUXpDNkR5Y1RkUTJFUDlIOU1rbmFsaV82VG85UVVmdE9FZXZrVllUQllxVG9tMldaZmI3S1NmNHl0MWhmeXI3X0MzNDktQVkiLCJpZCI6ImZjXzN4LURhSV90R0lDQjVPTVBuLW1ld0FRXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the interest earned on $10000 invested for 5 years at 4 compounded continuously?",
+      "type": "featured_snippet",
+      "snippet": "Question: 11. Find the interest earned on $10,000 invested for 5 years at 4% compounded continuously? (Answer: $2,214.03)",
+      "title": "Solved 11. Find the interest earned on $10,000 invested for | Chegg.com",
+      "date": "Nov 1, 2018",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/11-find-interest-earned-10-000-invested-5-years-4-compounded-continuously-answer-2-21403-q32402491#:~:text=Question%3A%2011.,continuously%3F%20(Answer%3A%20%242%2C214.03)",
+      "displayed_link": "https://www.chegg.com › questions-and-answers › 11-fin...",
+      "source_logo": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/24f6058938241fd83456290a7d935fec187e642a1508373469c480fc986f86b4.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR0xYaFVUMWhYUTJFeVF6VXhZVEp3TVRocFUyRjZkMlJ6VFdaNlNFTkVUR1ZwZFV4MmMwWTNSVlpuYmpkSGRHdDFYMVV0VFZOaFZYZHVUMjEwWVhKbFJtVXhkREpNYTJ4WldWRlpNblZRYVc1NWVHVklPRUpxVWtoNFFSSVhNM2d0UkdGSlgzUkhTVU5DTlU5TlVHNHRiV1YzUVZFYUlrRkdUVUZIUjNGTlZFNUJZbkJSTnpreVEwaEplWEJ2ZVRacWNHZElRMUZzYUVFIiwiZmN2IjoiMyIsImVpIjoiM3gtRGFJX3RHSUNCNU9NUG4tbWV3QVEiLCJxYyI6ImMtUHlLYzlJTEZFb1NpeEpWY2hQVTBqTXl5dE56RkhJekN0SkxVb3RMbEVvejh6SkFRb0NCY3FBM056VXZCS0Z3dExFbEtMU2dweFVoY3lTNHRTY05LQ2NncUdCUW1WcVlsR3hBRVB0TTY2dmRnQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaW50ZXJlc3QgZWFybmVkIG9uICQxMDAwMCBpbnZlc3RlZCBmb3IgNSB5ZWFycyBhdCA0IGNvbXBvdW5kZWQgY29udGludW91c2x5PyIsImxrIjoiY3cyS1FRcUFNQXdFXy1GcEQzcFgwS2Y0Z05LbVdOQ050S25RMzVzNXpzeDA1c0lFdXdTRkpsV2FRVUtsSkNneGI2dmo1WFB2S212RmdlRkRRekRzQzZJLXIzWW1qMUZwaFYxN3U4Y1AiLCJicyI6ImM1MlF2VW9EUVJTRlNlbFVsc3RXVjlUT1ltYmlncVRaMWlhbFJ0Sk5kaWZNd082OU1qOVpnZy1WTG04VThBbXNuU1NZVFVBSnBqM25udThlRG11WW5CZ1Z3R0xRVHZzQVRnVU5OY1ZabzMxU0YwbHJOVzRQUUhCWWF1VjhtWDJONVRBWDNYLURiTXI0TTNYUXhzcUE5WEFuSGpqbjBObGdvT2hKYzNKSHZ6WkMzdVkzNHR3aC0yQ2pVemJmUmNpbHpGRUhTSjBMVUloUk5RZFNtYTJ1NUNoXy1zMERjNTdLMWdQMnR0X1JRekM2RHljVGRRMkVQOUg5TWtuYWxpXzZUbzlRVWZ0T0VldmtWWVRCWXFUb20yV1pmYjdLU2Y0eXQxaGZ5cjdfQzM0OS1BWSIsImlkIjoiZmNfM3gtRGFJX3RHSUNCNU9NUG4tbWV3QVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR0xYaFVUMWhYUTJFeVF6VXhZVEp3TVRocFUyRjZkMlJ6VFdaNlNFTkVUR1ZwZFV4MmMwWTNSVlpuYmpkSGRHdDFYMVV0VFZOaFZYZHVUMjEwWVhKbFJtVXhkREpNYTJ4WldWRlpNblZRYVc1NWVHVklPRUpxVWtoNFFSSVhNM2d0UkdGSlgzUkhTVU5DTlU5TlVHNHRiV1YzUVZFYUlrRkdUVUZIUjNGTlZFNUJZbkJSTnpreVEwaEplWEJ2ZVRacWNHZElRMUZzYUVFIiwiZmN2IjoiMyIsImVpIjoiM3gtRGFJX3RHSUNCNU9NUG4tbWV3QVEiLCJxYyI6ImMtUHlLYzlJTEZFb1NpeEpWY2hQVTBqTXl5dE56RkhJekN0SkxVb3RMbEVvejh6SkFRb0NCY3FBM056VXZCS0Z3dExFbEtMU2dweFVoY3lTNHRTY05LQ2NncUdCUW1WcVlsR3hBRVB0TTY2dmRnQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaW50ZXJlc3QgZWFybmVkIG9uICQxMDAwMCBpbnZlc3RlZCBmb3IgNSB5ZWFycyBhdCA0IGNvbXBvdW5kZWQgY29udGludW91c2x5PyIsImxrIjoiY3cyS1FRcUFNQXdFXy1GcEQzcFgwS2Y0Z05LbVdOQ050S25RMzVzNXpzeDA1c0lFdXdTRkpsV2FRVUtsSkNneGI2dmo1WFB2S212RmdlRkRRekRzQzZJLXIzWW1qMUZwaFYxN3U4Y1AiLCJicyI6ImM1MlF2VW9EUVJTRlNlbFVsc3RXVjlUT1ltYmlncVRaMWlhbFJ0Sk5kaWZNd082OU1qOVpnZy1WTG04VThBbXNuU1NZVFVBSnBqM25udThlRG11WW5CZ1Z3R0xRVHZzQVRnVU5OY1ZabzMxU0YwbHJOVzRQUUhCWWF1VjhtWDJONVRBWDNYLURiTXI0TTNYUXhzcUE5WEFuSGpqbjBObGdvT2hKYzNKSHZ6WkMzdVkzNHR3aC0yQ2pVemJmUmNpbHpGRUhTSjBMVUloUk5RZFNtYTJ1NUNoXy1zMERjNTdLMWdQMnR0X1JRekM2RHljVGRRMkVQOUg5TWtuYWxpXzZUbzlRVWZ0T0VldmtWWVRCWXFUb20yV1pmYjdLU2Y0eXQxaGZ5cjdfQzM0OS1BWSIsImlkIjoiZmNfM3gtRGFJX3RHSUNCNU9NUG4tbWV3QVFfMSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "H1OFA3icxZbbkrI4EIBv90XWG1fxPDJV1F9JQERFRcfxcEMhh4gcBQSdu32XfYt9k32aP4AHnMNfs7UXGxXSnaTT6f7S5Z9_2aZr_fPb37so8sNnikqSpIo9D9t6VfUcSgnPrkoZnh0G6u7HzmZ0t4Rt5hiWzjHTLKkhUyvpJtM8VVhFkCNeQLA9EaduxdETIJWy5Yy8VUJ9T6yf9iElU-Rh_d5kiVANq7pb1WZ-uOeWGjwm1Uat3q1OKMUhE8B_btwHDSS_IQJAKirxJxMzdTpdAlZReV0oiKk1Mi70SGeRTr41AdxEtMBAHneNwmFuM8niedH0KrMosZgDCD14UpSEfOnFY_hwkPx875ydPGz6vhE7sOiRBFDlHg412zE100ech696BPoA6GwFSRgLH21CBLADJj7sSp-MZm2BZ-OAXZDtKA2TXNeobUBedSoI08yjF7rm9cxp0237uPc6qrV84_S2PKnamG68Vsb4j4wpNbxBFRah4nrWpins56pvVUdVWL8RBdNQzvNjZMdOFVAAs6_Ck7f7MFcMsXCNRvqBqpfkshQT2brSZwDErsDrQwasS7SJjs_DzgE4UC5dIV0oIUyCsyaZwyT8EkfWEMWA7MlxfOo8Sv2_hZcDyTQk9KzTPguSzDs-y39KFHFSykmR7izACyBC-oVtTpCgBQFcIxufRSH3H5Enuq5IL8SQiHoqEOwxAiJ4SQBkk8wcNEGONLxOJz1CjwRG1yuGxEydkPvgFonKdhN_nYV8068aIekThCbH3Yke9TfgxQ335jKoqXwy4IWpPQAXhDxn-y8Kk_r_QJZaGJKiMCtChj-H7LFsXSCTrpCluSNli8vL1gNk6ztkaGHx8piW2TtkuADZvAhZsWzNHyBD4LuQ9R4gm90gs7-C7Fa2bpDNKyPrCpmaqoUPkH2zbPW-V7Yy1vT89VjDjnv8HkTuDZr-JJBduNKG_fkUJu557fsnq06TWmY40bMfeKRnas-wMYjOWunAJDslKgdKpJc9o6y47lGxy6Yb6YEeRuXEtG2iJIqYiI7uRuXDUdGCo2_rZTMKddsgY-V6rXzWlSD8UXLswGNqSmscAzXyD_rOcWetzqqu9SHdaSqyXT9J0ma4PMUrb7LRtvWneMWeBwdW5ZceUHAii8Nze7Ba71VdSHpaDUr0VJ7Cl0rDEoexPhTxm-HyytPytMRPlT3S8AKjpiOZ4ZkHWz_2Yt7YdN_Yngsl5Majg0iP2zjzi_yLANNZ0N3UnIZVcgKVIei0LDAmtaMUqoqshzHTohudjmq0OxrdpJsto-Tg6Owz9cZPH76TIg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=H1OFA3icxZbbkrI4EIBv90XWG1fxPDJV1F9JQERFRcfxcEMhh4gcBQSdu32XfYt9k32aP4AHnMNfs7UXGxXSnaTT6f7S5Z9_2aZr_fPb37so8sNnikqSpIo9D9t6VfUcSgnPrkoZnh0G6u7HzmZ0t4Rt5hiWzjHTLKkhUyvpJtM8VVhFkCNeQLA9EaduxdETIJWy5Yy8VUJ9T6yf9iElU-Rh_d5kiVANq7pb1WZ-uOeWGjwm1Uat3q1OKMUhE8B_btwHDSS_IQJAKirxJxMzdTpdAlZReV0oiKk1Mi70SGeRTr41AdxEtMBAHneNwmFuM8niedH0KrMosZgDCD14UpSEfOnFY_hwkPx875ydPGz6vhE7sOiRBFDlHg412zE100ech696BPoA6GwFSRgLH21CBLADJj7sSp-MZm2BZ-OAXZDtKA2TXNeobUBedSoI08yjF7rm9cxp0237uPc6qrV84_S2PKnamG68Vsb4j4wpNbxBFRah4nrWpins56pvVUdVWL8RBdNQzvNjZMdOFVAAs6_Ck7f7MFcMsXCNRvqBqpfkshQT2brSZwDErsDrQwasS7SJjs_DzgE4UC5dIV0oIUyCsyaZwyT8EkfWEMWA7MlxfOo8Sv2_hZcDyTQk9KzTPguSzDs-y39KFHFSykmR7izACyBC-oVtTpCgBQFcIxufRSH3H5Enuq5IL8SQiHoqEOwxAiJ4SQBkk8wcNEGONLxOJz1CjwRG1yuGxEydkPvgFonKdhN_nYV8068aIekThCbH3Yke9TfgxQ335jKoqXwy4IWpPQAXhDxn-y8Kk_r_QJZaGJKiMCtChj-H7LFsXSCTrpCluSNli8vL1gNk6ztkaGHx8piW2TtkuADZvAhZsWzNHyBD4LuQ9R4gm90gs7-C7Fa2bpDNKyPrCpmaqoUPkH2zbPW-V7Yy1vT89VjDjnv8HkTuDZr-JJBduNKG_fkUJu557fsnq06TWmY40bMfeKRnas-wMYjOWunAJDslKgdKpJc9o6y47lGxy6Yb6YEeRuXEtG2iJIqYiI7uRuXDUdGCo2_rZTMKddsgY-V6rXzWlSD8UXLswGNqSmscAzXyD_rOcWetzqqu9SHdaSqyXT9J0ma4PMUrb7LRtvWneMWeBwdW5ZceUHAii8Nze7Ba71VdSHpaDUr0VJ7Cl0rDEoexPhTxm-HyytPytMRPlT3S8AKjpiOZ4ZkHWz_2Yt7YdN_Yngsl5Majg0iP2zjzi_yLANNZ0N3UnIZVcgKVIei0LDAmtaMUqoqshzHTohudjmq0OxrdpJsto-Tg6Owz9cZPH76TIg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "A what rate of annual interest will an investment quadruple ...",
+      "link": "https://www.gauthmath.com/solution/1797872327078918/25-A-what-rate-of-annual-interest-will-an-investment-quadruple-itself-in-10-year",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gauthmath.com/solution/1797872327078918/25-A-what-rate-of-annual-interest-will-an-investment-quadruple-itself-in-10-year&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECBsQAQ",
+      "displayed_link": "https://www.gauthmath.com › Study Resources › Business",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ab94251902050462292b251109097b493.jpeg",
+      "date": "May 1, 2024",
+      "snippet": "In this case, to quadruple the investment in 10 years, the annual interest rate would be approximately 7.2% (72 divided by 10). Therefore, the ...",
+      "snippet_highlighted_words": [
+        "approximately 7.2"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 3
+          },
+          "extensions": [
+            "5.0(3)"
+          ]
+        }
+      },
+      "source": "Gauth"
+    },
+    {
+      "position": 2,
+      "title": "Compound Interest Calculator",
+      "link": "https://www.omnicalculator.com/finance/compound-interest",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omnicalculator.com/finance/compound-interest&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECCoQAQ",
+      "displayed_link": "https://www.omnicalculator.com › finance › compound...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15af6c6e9922cb815b6c02b9d0685b7406a.png",
+      "snippet": "You invest $10,000 at the annual interest rate of 5%. The interest rate is compounded monthly. What will be the value of your investment after 10 years?",
+      "snippet_highlighted_words": [
+        "annual interest rate",
+        "rate",
+        "will",
+        "investment",
+        "10 years"
+      ],
+      "source": "Omni Calculator"
+    },
+    {
+      "position": 3,
+      "title": "The Rule of 72: Definition, Usefulness, and How to Use It",
+      "link": "https://www.investopedia.com/terms/r/ruleof72.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investopedia.com/terms/r/ruleof72.asp&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCJUCEAE",
+      "displayed_link": "https://www.investopedia.com › ... › Investing Basics",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a8c33e9e5e40cdcb805a32a2d2572bbc2.png",
+      "snippet": "The Rule of 72 calculates how long your investment will need to double in value, given its annual rate of return. It is a mathematical formula.",
+      "snippet_highlighted_words": [
+        "investment will",
+        "annual rate"
+      ],
+      "source": "Investopedia"
+    },
+    {
+      "position": 4,
+      "title": "A sum of money becomes 4 times at simple interest in 10 ...",
+      "link": "https://www.quora.com/A-sum-of-money-becomes-4-times-at-simple-interest-in-10-years-What-is-the-rate-of-interest",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/A-sum-of-money-becomes-4-times-at-simple-interest-in-10-years-What-is-the-rate-of-interest&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECEUQAQ",
+      "displayed_link": "5 answers · 4 years ago",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ac97723cf1882e7356a6a9c51a4c98115.png",
+      "snippet": "At what rate of interest does a sum of money double itself in 10 years in simple interest? Sum of money doubling means principal and simple ...",
+      "snippet_highlighted_words": [
+        "what rate",
+        "interest",
+        "itself in 10 years",
+        "interest"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "When will your investment double or quadruple? Do ...",
+            "link": "https://www.quora.com/When-will-your-investment-double-or-quadruple-Do-you-know-the-rule-of-72-and-144",
+            "answer_count": 4,
+            "date": "Aug 19, 2024"
+          },
+          {
+            "title": "At what annual interest rate compounded semi-anually ...",
+            "link": "https://www.quora.com/At-what-annual-interest-rate-compounded-semi-anually-will-a-certain-amount-triple-itself-in-20-years",
+            "answer_count": 3,
+            "date": "Dec 2, 2021"
+          }
+        ]
+      },
+      "source": "Quora"
+    },
+    {
+      "position": 5,
+      "title": "Compound Interest Calculator",
+      "link": "https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCJQBEAE",
+      "displayed_link": "https://www.investor.gov › calculators › compound-inte...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ae569a2024c30103543576da837f5941a.png",
+      "snippet": "Determine how much your money can grow using the power of compound interest.",
+      "snippet_highlighted_words": [
+        "interest"
+      ],
+      "source": "Investor.gov"
+    },
+    {
+      "position": 6,
+      "title": "The Rule of 72 (with calculator) - Estimate Compound Interest",
+      "link": "http://www.moneychimp.com/features/rule72.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.moneychimp.com/features/rule72.htm&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCIsCEAE",
+      "displayed_link": "http://www.moneychimp.com › features › rule72",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a6a37e95ad129fa569131004bbe59b436.png",
+      "snippet": "The rule says that to find the number of years required to double your money at a given interest rate, you just divide the interest rate into 72.",
+      "snippet_highlighted_words": [
+        "years",
+        "interest rate",
+        "interest rate"
+      ],
+      "source": "Moneychimp"
+    },
+    {
+      "position": 7,
+      "title": "what is the interest rate necessary for an investment to ...",
+      "link": "https://homework.study.com/explanation/what-is-the-interest-rate-necessary-for-an-investment-to-quadruple-after-5-years-of-continuous-compound-interest.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homework.study.com/explanation/what-is-the-interest-rate-necessary-for-an-investment-to-quadruple-after-5-years-of-continuous-compound-interest.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCKYCEAE",
+      "displayed_link": "https://homework.study.com › ... › Compound interest",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ae1923d0176e1ed74b2a13c225e011784.png",
+      "snippet": "The interest rate required for an investment to quadruple after 5 years of continuous compound interest is 27.7%.",
+      "snippet_highlighted_words": [
+        "27.7"
+      ],
+      "source": "Homework.Study.com"
+    },
+    {
+      "position": 8,
+      "title": "At what interest rate will a sum of money triple itself in 10 ...",
+      "link": "https://brainly.com/question/38786295",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/38786295&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECGoQAQ",
+      "displayed_link": "https://brainly.com › Business › High School",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ac0e9cc7be6fd542ef23890fc5cf4cd15.png",
+      "date": "Sep 30, 2023",
+      "snippet": "So, the interest rate required for a sum of money to triple in 10 years is approximately 11.66% when compounded annually.",
+      "snippet_highlighted_words": [
+        "11.66"
+      ],
+      "missing": [
+        "quadruple"
+      ],
+      "must_include": {
+        "word": "quadruple",
+        "link": "https://www.google.com/search?num=100&sca_esv=49266cf56d93934f&hl=en&gl=us&q=what+rate+of+annual+interest+will+an+investment+%22quadruple%22+itself+in+10+years?&sa=X&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQ5t4CegQIdhAB"
+      },
+      "source": "brainly.co..."
+    },
+    {
+      "position": 9,
+      "title": "At what interest rate will money a. double itself in 10 yea",
+      "link": "https://quizlet.com/explanations/questions/at-what-interest-rate-will-money-a-double-itself-in-10-years-b-triple-itself-in-10-years-c-quadruple-itself-in-10-years-b01b482b-4f7314e8-e3af-4434-bf08-8736fcf65258",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/explanations/questions/at-what-interest-rate-will-money-a-double-itself-in-10-years-b-triple-itself-in-10-years-c-quadruple-itself-in-10-years-b01b482b-4f7314e8-e3af-4434-bf08-8736fcf65258&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCIYBEAE",
+      "displayed_link": "https://quizlet.com › explanations › questions › at-what-...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15abbee17632bd9e01cc09d5e2a624bc9b4.png",
+      "snippet": "At what interest rate will money. a. double itself in 10 years? b. triple itself in 10 years? c. quadruple itself in 10 years? Solution. Verified.",
+      "snippet_highlighted_words": [
+        "interest rate will",
+        "itself in 10 years",
+        "triple itself in 10 years",
+        "quadruple itself in 10 years"
+      ],
+      "source": "Quizlet"
+    },
+    {
+      "position": 10,
+      "title": "Solved 5. At what rate of annual interest will an investment",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/5-rate-annual-interest-investment-quadruple-12-years-6-interest-rate-compounded-monthly-eq-q86335717",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chegg.com/homework-help/questions-and-answers/5-rate-annual-interest-investment-quadruple-12-years-6-interest-rate-compounded-monthly-eq-q86335717&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCKIBEAE",
+      "displayed_link": "https://www.chegg.com › questions-and-answers › 5-rate...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a4f0c6c9d3e0dd4c2533dd3b427bd72d5.png",
+      "date": "Oct 21, 2021",
+      "snippet": "At what rate of annual interest will an investment quadruple itself in 12 years? 6. What interest rate compounded monthly is equivalent to 10% ...",
+      "snippet_highlighted_words": [
+        "what rate of annual interest will an investment quadruple itself",
+        "years",
+        "rate",
+        "10"
+      ],
+      "source": "Chegg"
+    },
+    {
+      "position": 11,
+      "title": "Find the interest rate needed for an investment of $8000 ...",
+      "link": "https://homework.study.com/explanation/find-the-interest-rate-needed-for-an-investment-of-8-000-to-quadruple-in-10-years-if-interest-is-compounded-annually.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homework.study.com/explanation/find-the-interest-rate-needed-for-an-investment-of-8-000-to-quadruple-in-10-years-if-interest-is-compounded-annually.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCMgBEAE",
+      "displayed_link": "https://homework.study.com › ... › Compound interest",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a164cab9663476d88f8091ae4caf224f8.png",
+      "snippet": "... investment of $8000 to quadruple in 10 years if interest is compounded annually ... interest rate of 5% per year, compounded annually, after 10 years.",
+      "snippet_highlighted_words": [
+        "interest rate of 5% per year"
+      ],
+      "source": "Homework.Study.com"
+    },
+    {
+      "position": 12,
+      "title": "Finding the rate of interest compounded annually to double an ...",
+      "link": "https://www.youtube.com/watch?v=4iCKZuj_XoI",
+      "displayed_link": "1.8K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIV8jx3ljX_Xg1LiR8qy1KG-kwrOX9049LnwZz17VH-kimjglMrL8icXe0gaO&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15af6977c761c4d9a5ff163b485b1f24ce4.png",
+      "snippet": "$5000 is invested for 10 years at 6% compound annual interest – how much did the investment earn? TabletClass Math•37K views · 11:51 · Go to ...",
+      "duration": "4:08",
+      "source": "YouTube · Eric Hutchinson (Hutchmath)"
+    },
+    {
+      "position": 13,
+      "title": "The Rule of 72: What It Is and How to Use It in Investing",
+      "link": "https://www.investopedia.com/ask/answers/what-is-the-rule-72/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investopedia.com/ask/answers/what-is-the-rule-72/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCIICEAE",
+      "displayed_link": "https://www.investopedia.com › Bonds › Fixed Income",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15aaaee2d452d4ddbcf002d3272a90ccd56.png",
+      "snippet": "The Rule of 72 helps an investor calculate how long it will take for an investment to double given a fixed annual rate of interest. Here's how to use it.",
+      "snippet_highlighted_words": [
+        "will",
+        "investment",
+        "annual rate",
+        "interest"
+      ],
+      "source": "Investopedia"
+    },
+    {
+      "position": 14,
+      "title": "Compound Interest II Find Time to Double, Triple, 4 Times II ...",
+      "link": "https://www.youtube.com/watch?v=jcoK65_eOL4",
+      "displayed_link": "990+ views · 8 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFAqxGuvFmwaoCW1iLoAMC7mmY6kmKSc_YpHAgde9yODOwfVVsqzx4UIp0lrz&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a5a1f72cc43170d7cb7aaf1cfff5d7604.png",
+      "snippet": "I'm going to take up how much is the time required to double the money invested at compound interest and this rule is known as the rule of 72.",
+      "duration": "10:27",
+      "key_moments": [
+        {
+          "time": "02:10",
+          "title": "Rule of 72",
+          "link": "https://www.youtube.com/watch?v=jcoK65_eOL4&t=130"
+        },
+        {
+          "time": "05:25",
+          "title": "Time Required To Triple",
+          "link": "https://www.youtube.com/watch?v=jcoK65_eOL4&t=325"
+        },
+        {
+          "time": "05:46",
+          "title": "Time Required To Triple the Money",
+          "link": "https://www.youtube.com/watch?v=jcoK65_eOL4&t=346"
+        }
+      ],
+      "missing": [
+        "rate",
+        "annual",
+        "investment"
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTVdUVk7F2skTWjJJdstHbMVsSOONSQo8gaIw",
+      "source": "YouTube · Suresh Aggarwal"
+    },
+    {
+      "position": 15,
+      "title": "Compound Interest Calculator - Calculate Investment Returns",
+      "link": "https://www.calculatestuff.com/financial/compound-interest-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculatestuff.com/financial/compound-interest-calculator&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCKkCEAE",
+      "displayed_link": "https://www.calculatestuff.com › Financial",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a7e6bf16cbcfd4b0aa718470ad57096f5.png",
+      "snippet": "The formula takes whatever amount of money you are investing today and adds it to the interest which is compounded over time.",
+      "snippet_highlighted_words": [
+        "interest"
+      ],
+      "source": "CalculateStuff.com"
+    },
+    {
+      "position": 16,
+      "title": "At what rate of annual interest will an investment quadruple",
+      "link": "https://education.eurostops.pt/?answer=en-1747900908639&update=1753056000038",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://education.eurostops.pt/%3Fanswer%3Den-1747900908639%26update%3D1753056000038&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECDEQAQ",
+      "displayed_link": "https://education.eurostops.pt › ...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a59dfa9f397f5d909f136bd5c9533d574.png",
+      "date": "May 22, 2025",
+      "snippet": "We found that an investment of $100,000 will quadruple itself in 10 years at an annual interest rate of approximately 14.87%.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 80
+          },
+          "extensions": [
+            "5.0(80)"
+          ]
+        }
+      },
+      "source": "Eurostops"
+    },
+    {
+      "position": 17,
+      "title": "A sum borrowed under compound interest doubles itself in ...",
+      "link": "https://brainly.com/question/49828590",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/49828590&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECE0QAQ",
+      "displayed_link": "https://brainly.com › Business › High School",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15afa9b230df8632fd079faf482f6616060.png",
+      "date": "Mar 29, 2024",
+      "snippet": "However, we already know the investment doubles in 10 years; this implies an annual interest rate of approximately 7.2% (since 72 divided by 10 ...",
+      "snippet_highlighted_words": [
+        "2"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 18,
+      "title": "Simple and Compound Interest",
+      "link": "https://www.onlinemath4all.com/simple-and-compound-interest.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onlinemath4all.com/simple-and-compound-interest.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECHQQAQ",
+      "displayed_link": "https://www.onlinemath4all.com › simple-and-compou...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15aa0cc6b97d8da40ccdd747e1e2f616a04.jpeg",
+      "snippet": "So, interest earned in the next 10 years also will be P. It has been explained below. So, it will take 20 years for the principal to become triple itself.",
+      "snippet_highlighted_words": [
+        "interest",
+        "10 years",
+        "will",
+        "will",
+        "years",
+        "triple itself"
+      ],
+      "source": "onlinemath4all"
+    },
+    {
+      "position": 19,
+      "title": "Simple and Compound Interest | Mathematics for the ...",
+      "link": "https://courses.lumenlearning.com/wmopen-mathforliberalarts/chapter/introduction-how-interest-is-calculated/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://courses.lumenlearning.com/wmopen-mathforliberalarts/chapter/introduction-how-interest-is-calculated/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCIQBEAE",
+      "displayed_link": "https://courses.lumenlearning.com › chapter › introduct...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ad39d2281ffcae2c89518b2b1d84ac2a9.png",
+      "snippet": "The 3% interest is an annual percentage rate (APR) – the total interest to be paid during the year. Since interest is being paid monthly, each month, we will ...",
+      "snippet_highlighted_words": [
+        "interest",
+        "annual",
+        "rate",
+        "interest",
+        "year",
+        "interest",
+        "will"
+      ],
+      "source": "Lumen Learning"
+    },
+    {
+      "position": 20,
+      "title": "What rate compounded annually triples an investment in 28 ...",
+      "link": "https://www.youtube.com/watch?v=tC5eW-lcF40",
+      "displayed_link": "1.5K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1NUrMA57S-aIXtqYJlTuyLeibGiIvFMgy0mGn2taUZHvW1NQ5mUAmztOP24xP&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a6889346d224e14c35bcef09a45892843.png",
+      "snippet": "We would need a 4% interest rate to Triple our money in 28 years.",
+      "duration": "7:05",
+      "missing": [
+        "quadruple"
+      ],
+      "must_include": {
+        "word": "quadruple",
+        "link": "https://www.google.com/search?num=100&sca_esv=49266cf56d93934f&hl=en&gl=us&q=what+rate+of+annual+interest+will+an+investment+%22quadruple%22+itself+in+10+years?&sa=X&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQ5t4CegUIygIQEg"
+      },
+      "source": "YouTube · Professor Amanda Sartor"
+    },
+    {
+      "position": 21,
+      "title": "Math-Day-12 (pdf)",
+      "link": "https://www.cliffsnotes.com/study-notes/13302743",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cliffsnotes.com/study-notes/13302743&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCJ0BEAE",
+      "displayed_link": "https://www.cliffsnotes.com › Industrial Engineering",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15af45feff6e20691b9898394609fcfe85f.png",
+      "date": "May 4, 2024",
+      "snippet": "... 32. A what rate of annual interest will an investment quadruple itself in 10 years? A. 10.87% B. 12.87% C. 14.87% D. 16.87 ...",
+      "snippet_highlighted_words": [
+        "87"
+      ],
+      "source": "CliffsNotes"
+    },
+    {
+      "position": 22,
+      "title": "[Solved] A sum of money becomes triple of itself in 10 years ...",
+      "link": "https://testbook.com/question-answer/a-sum-of-money-becomes-triple-of-itself-in-10-year--601123321e288c668cee52f6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://testbook.com/question-answer/a-sum-of-money-becomes-triple-of-itself-in-10-year--601123321e288c668cee52f6&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCMoBEAE",
+      "displayed_link": "https://testbook.com › ... › Interest › Simple Interest",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15abb0034097a0c9252f20587787bbb582f.png",
+      "snippet": "A sum of money becomes triple of itself in 10 years at the rate of simple interest, find the annual rate of interest. A. 5%. B. 8%. C. 10%. D. 20%. This ...",
+      "snippet_highlighted_words": [
+        "triple",
+        "itself in 10 years",
+        "rate",
+        "interest",
+        "annual rate",
+        "interest"
+      ],
+      "source": "Testbook"
+    },
+    {
+      "position": 23,
+      "title": "what is the interest rate necessary for an investment to ...",
+      "link": "https://www.wyzant.com/resources/answers/876686/what-is-the-interest-rate-necessary-for-an-investment-to-quadruple-after-14",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wyzant.com/resources/answers/876686/what-is-the-interest-rate-necessary-for-an-investment-to-quadruple-after-14&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCNkBEAE",
+      "displayed_link": "https://www.wyzant.com › Resources › Ask an Expert",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ad78d1964b7ce123421744b0d1b320bee.jpeg",
+      "date": "Nov 29, 2021",
+      "snippet": "what is the interest rate necessary for an investment to quadruple after 14 years of continuous compound interest.",
+      "snippet_highlighted_words": [
+        "interest rate",
+        "investment",
+        "quadruple",
+        "years",
+        "interest"
+      ],
+      "source": "Wyzant"
+    },
+    {
+      "position": 24,
+      "title": "At what rate of annual interest will an investment quadruple ...",
+      "link": "https://www.numerade.com/ask/question/at-what-rate-of-annual-interest-will-an-investment-quadruple-itself-in-12-years-a-101-b-112-c-122-d-131-22136/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.numerade.com/ask/question/at-what-rate-of-annual-interest-will-an-investment-quadruple-itself-in-12-years-a-101-b-112-c-122-d-131-22136/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCPABEAE",
+      "displayed_link": "https://www.numerade.com › ... › Physics 101 Mechanics",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ac7aadbaf01804fc7e8d7630af90c943a.png",
+      "date": "Feb 6, 2023",
+      "snippet": "The rate of annual interest at which an investment quadruples itself in 12 years is approximately 12.2%. The correct answer is C. 12.2%.",
+      "snippet_highlighted_words": [
+        "12.2"
+      ],
+      "source": "Numerade"
+    },
+    {
+      "position": 25,
+      "title": "Future Value of a Single Amount: In-Depth Explanation ...",
+      "link": "https://www.accountingcoach.com/future-value-of-a-single-amount/explanation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.accountingcoach.com/future-value-of-a-single-amount/explanation&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCPQBEAE",
+      "displayed_link": "https://www.accountingcoach.com › explanation",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a6b8156187de64f09bb61717890fef3cf.png",
+      "snippet": "[Investment Rate per year as a percent] x [Number of Years] = 72. When interest is compounded annually, a single amount will double in each of the following ...",
+      "snippet_highlighted_words": [
+        "Investment Rate",
+        "year",
+        "Years",
+        "interest",
+        "annually",
+        "will"
+      ],
+      "source": "Learn Accounting Online for Free"
+    },
+    {
+      "position": 26,
+      "title": "Chapter 4 Handout",
+      "link": "https://math.iupui.edu/~momran/m119/old/ch4h.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://math.iupui.edu/~momran/m119/old/ch4h.htm&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCIQCEAE",
+      "displayed_link": "https://math.iupui.edu › ~momran › old",
+      "snippet": "Ex10: If an amount of money was doubled in 10 years, find the interest rate of the bank. Answer: 6.93%. Ex11: In 1965 the price of a math book was $16. In 1980 ...",
+      "snippet_highlighted_words": [
+        "6.93"
+      ],
+      "source": "IU Indianapolis"
+    },
+    {
+      "position": 27,
+      "title": "Simple Interest Calculator",
+      "link": "http://www.moneychimp.com/features/simple_interest_calculator.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.moneychimp.com/features/simple_interest_calculator.htm&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCI0CEAE",
+      "displayed_link": "http://www.moneychimp.com › features › simple_interes...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a6b814863e33d21dd6a2f11e4e36208ee.png",
+      "snippet": "Simple interest means interest payments stay constant, at a fixed percentage of the original principal, and occurs when the principal doesn't change over time.",
+      "snippet_highlighted_words": [
+        "interest",
+        "interest"
+      ],
+      "source": "Moneychimp"
+    },
+    {
+      "position": 28,
+      "title": "6.4 Compound Interest - Contemporary Mathematics",
+      "link": "https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://openstax.org/books/contemporary-mathematics/pages/6-4-compound-interest&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCJYCEAE",
+      "displayed_link": "https://openstax.org › contemporary-mathematics › pages",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a3ac822129e99219e9966b5649c057231.png",
+      "date": "Mar 22, 2023",
+      "snippet": "10 . Principal = $27,500, annual interest rate = 3.75%, compounded annually, for 10 years ... If they wait 10 years, it will grow for 25 years.",
+      "snippet_highlighted_words": [
+        "10",
+        "annual interest rate",
+        "10 years",
+        "10 years",
+        "will",
+        "years"
+      ],
+      "source": "OpenStax"
+    },
+    {
+      "position": 29,
+      "title": "Solved: At 5% annual interest compounded monthly, how ...",
+      "link": "https://www.gauthmath.com/solution/1804292664709125/At-5-annual-interest-compounded-monthly-how-long-in-years-will-it-take-to-triple",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gauthmath.com/solution/1804292664709125/At-5-annual-interest-compounded-monthly-how-long-in-years-will-it-take-to-triple&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCKoCEAE",
+      "displayed_link": "https://www.gauthmath.com › Study Resources › Business",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a82985b0c22b38ded56f5651929ce3f67.jpeg",
+      "date": "Jul 11, 2024",
+      "snippet": "Answer. It will take approximately 22 years to triple your money at 5% annual interest compounded monthly. Explanation.",
+      "snippet_highlighted_words": [
+        "interest"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 2
+          },
+          "extensions": [
+            "5.0(2)"
+          ]
+        }
+      },
+      "source": "Gauth"
+    },
+    {
+      "position": 30,
+      "title": "At 10 Percent Interest, How Long Does It Take To Triple Your ...",
+      "link": "https://productivitybird.com/at-10-percent-interest-how-long-does-it-take-to-triple-your-money",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://productivitybird.com/at-10-percent-interest-how-long-does-it-take-to-triple-your-money&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCLgCEAE",
+      "displayed_link": "https://productivitybird.com › at-10-percent-interest-how...",
+      "snippet": "If your money earns an interest rate of 10 percent, it will take you 11.5 years to triple it; 115 divided by 10 equals 11.5. It's important to remember that ...",
+      "snippet_highlighted_words": [
+        "interest rate",
+        "10",
+        "will",
+        "years",
+        "triple",
+        "10"
+      ],
+      "source": "productivitybird.com"
+    },
+    {
+      "position": 31,
+      "title": "Mastering Simple and Compound Interest",
+      "link": "https://www.coursehero.com/file/231743339/Activity-1-Simple-and-Compound-Interestpdf/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coursehero.com/file/231743339/Activity-1-Simple-and-Compound-Interestpdf/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCLkCEAE",
+      "displayed_link": "https://www.coursehero.com › ... › ENGINEERIN 123",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15aa7a68005e2a9d607696dc7477dff5e0a.png",
+      "date": "Apr 23, 2024",
+      "snippet": "6.At what rate of annual interest will an investment quadruple itself in 12 years? ... annually, P5000 will amount to P20,000 after 10 years.",
+      "snippet_highlighted_words": [
+        "what rate of annual interest will an investment quadruple itself",
+        "years",
+        "will",
+        "10 years"
+      ],
+      "source": "Course Hero"
+    },
+    {
+      "position": 32,
+      "title": "[Solved] A sum of money triples itself in 15 years on simple in",
+      "link": "https://testbook.com/question-answer/a-sum-of-money-triples-itself-in-15-years-on--5f307deca855f10d0843f90f",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://testbook.com/question-answer/a-sum-of-money-triples-itself-in-15-years-on--5f307deca855f10d0843f90f&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECDIQAQ",
+      "displayed_link": "https://testbook.com › ... › Interest › Simple Interest",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ac2c88726ad4d7b10d51cc1b23a352811.png",
+      "date": "Jun 30, 2025",
+      "snippet": "A sum of money triples itself in 15 years on simple interest. In how many years will it become five times at the same rate of interest on simple interest?",
+      "snippet_highlighted_words": [
+        "itself",
+        "years",
+        "interest",
+        "years will",
+        "rate",
+        "interest",
+        "interest"
+      ],
+      "source": "Testbook"
+    },
+    {
+      "position": 33,
+      "title": "At what rate per cent will a sum of money triple itself in - 12",
+      "link": "https://www.doubtnut.com/qna/643672285",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doubtnut.com/qna/643672285&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECEkQAQ",
+      "displayed_link": "https://www.doubtnut.com › Class 7 › MATHS",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a38440f50861aee0d6b14f79b9820796c.png",
+      "snippet": "The correct Answer is:=1623%. To find the rate at which a sum of money will triple itself in 12 years, we can follow these steps:.",
+      "snippet_highlighted_words": [
+        "rate",
+        "will triple itself",
+        "years"
+      ],
+      "source": "Doubtnut"
+    },
+    {
+      "position": 34,
+      "title": "If an amount of money invested doubles itself in 10 ... - Vaia",
+      "link": "https://www.vaia.com/en-us/textbooks/math/the-calculus-with-analytic-geometry-3-edition/chapter-9/problem-15-if-an-amount-of-money-invested-doubles-itself-in-/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vaia.com/en-us/textbooks/math/the-calculus-with-analytic-geometry-3-edition/chapter-9/problem-15-if-an-amount-of-money-invested-doubles-itself-in-/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECEoQAQ",
+      "displayed_link": "https://www.vaia.com › ... › Chapter 9",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15aaa6ae9a3b65d3a6f3eeca7fb6ec27f28.png",
+      "snippet": "The formula for continuously compounded interest is given by A = P e r t where A is the amount of money after time t, P is the principal amount (initial ...",
+      "snippet_highlighted_words": [
+        "interest"
+      ],
+      "source": "vaia.com"
+    },
+    {
+      "position": 35,
+      "title": "What Is Compound Interest?",
+      "link": "https://tpfcu.com/blog/what-is-compound-interest/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tpfcu.com/blog/what-is-compound-interest/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECGUQAQ",
+      "displayed_link": "https://tpfcu.com › Blog",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a6dae8e9e101fb2f9897cb53cf523ba58.png",
+      "date": "Jan 24, 2024",
+      "snippet": "Simple interest is where you get the same amount every year on your initial investment. For example, you invest $5,000 at 7% simple interest.",
+      "snippet_highlighted_words": [
+        "interest",
+        "year",
+        "investment",
+        "interest"
+      ],
+      "source": "The People's Federal Credit Union"
+    },
+    {
+      "position": 36,
+      "title": "12 Best Compound Interest Accounts & Investments [July ...",
+      "link": "https://www.wallstreetzen.com/blog/best-compound-interest-accounts/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wallstreetzen.com/blog/best-compound-interest-accounts/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECGgQAQ",
+      "displayed_link": "https://www.wallstreetzen.com › blog › best-compound...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15aeaf33cde27c60fc5fdb161d810c1e30a.png",
+      "date": "Jun 23, 2025",
+      "snippet": "For example, a $100 investment that earns 10% each year will give you $110 after the first year, or interest of $10. In year 2, you will earn ...",
+      "snippet_highlighted_words": [
+        "investment",
+        "10",
+        "year will",
+        "year",
+        "interest",
+        "$10",
+        "year",
+        "will"
+      ],
+      "source": "WallStreetZen"
+    },
+    {
+      "position": 37,
+      "title": "6.4: Solve Simple Interest Applications",
+      "link": "https://math.libretexts.org/Bookshelves/PreAlgebra/Prealgebra_1e_(OpenStax)/06%3A_Percents/6.04%3A_Solve_Simple_Interest_Applications",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://math.libretexts.org/Bookshelves/PreAlgebra/Prealgebra_1e_(OpenStax)/06%253A_Percents/6.04%253A_Solve_Simple_Interest_Applications&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECH8QAQ",
+      "displayed_link": "https://math.libretexts.org › ... › 6: Percents",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ad1a1356d4d409d2b503ff7303e4f7c9a.png",
+      "date": "May 1, 2022",
+      "snippet": "In the simple interest formula, the rate of interest is given as an annual rate, the rate for one year. So the units of time must be in years.",
+      "snippet_highlighted_words": [
+        "interest",
+        "rate",
+        "interest",
+        "annual rate",
+        "rate",
+        "year",
+        "years"
+      ],
+      "source": "Mathematics LibreTexts"
+    },
+    {
+      "position": 38,
+      "title": "At what rate of simple interest per annum will a sum triple ...",
+      "link": "https://prepp.in/question/at-what-rate-of-simple-interest-per-annum-will-a-s-65e0826fd5a684356e97c5b1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://prepp.in/question/at-what-rate-of-simple-interest-per-annum-will-a-s-65e0826fd5a684356e97c5b1&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCIUBEAE",
+      "displayed_link": "https://prepp.in › Quantitative Aptitude › Simple Interest",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a36f1ca0e62e132705b64b4bc5b715066.png",
+      "snippet": "At what rate of simple interest per annum will a sum triple itself after 30 years? [Give your answer correct to 2 decimal places.] 6.67%. 4.75%.",
+      "snippet_highlighted_words": [
+        "what rate",
+        "interest",
+        "will",
+        "triple itself",
+        "years"
+      ],
+      "source": "Prepp"
+    },
+    {
+      "position": 39,
+      "title": "Investment Calculator",
+      "link": "https://www.calculator.net/investment-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculator.net/investment-calculator.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCJMBEAE",
+      "displayed_link": "https://www.calculator.net › financial",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a32539b83f293d7acbcd69a73983f1f89.png",
+      "snippet": "The Investment Calculator can help determine one of many different variables concerning investments with a fixed rate of return.",
+      "snippet_highlighted_words": [
+        "Investment",
+        "rate"
+      ],
+      "source": "Calculator.net"
+    },
+    {
+      "position": 40,
+      "title": "Investment Return Calculator: Growth on Stocks, Bonds & ...",
+      "link": "https://smartasset.com/investing/investment-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://smartasset.com/investing/investment-calculator&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCJwBEAE",
+      "displayed_link": "https://smartasset.com › investing › investment-calculator",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15add15a660613b949075a7f2ba74bcf1ab.png",
+      "snippet": "Our investment calculator tool shows how much the money you invest will grow over time. We use a fixed rate of return. To better personalize the results, you ...",
+      "snippet_highlighted_words": [
+        "investment",
+        "will",
+        "rate"
+      ],
+      "source": "SmartAsset"
+    },
+    {
+      "position": 41,
+      "title": "How long will it take for an investment to triple at 3 ...",
+      "link": "https://www.youtube.com/watch?v=Ml_ZmeZHye8",
+      "displayed_link": "880+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPp4FdgEjbpgncwle10UPkc_TJ2DkAGbLAASoKf1FjGrmWzgqCFgIC1HcZZkNB&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ac62cb1bd03b75230efed5755e837c1dd.png",
+      "snippet": "... years-will-it-take-an-investment-to- ... investment to triple in value if the interest rate is 3% compounded continuously? It will",
+      "duration": "2:11",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTMCyOJnORpuA8YbApgpk-IYLkf-nXtzHzJSw",
+      "source": "YouTube · Wyzant"
+    },
+    {
+      "position": 42,
+      "title": "A sum of money invested at simple interest triples itself in 8 ...",
+      "link": "https://www.doubtnut.com/qna/647366694",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doubtnut.com/qna/647366694&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCKMBEAE",
+      "displayed_link": "https://www.doubtnut.com › Class 14 › MATHS",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ae00cf68f85cdc7b207e7861f1bcb173a.png",
+      "date": "Aug 13, 2021",
+      "snippet": "Find in how many years will it become 8 times itself at the same rate? A24 years. B28 years.",
+      "snippet_highlighted_words": [
+        "years will",
+        "itself",
+        "rate",
+        "years",
+        "years"
+      ],
+      "source": "Doubtnut"
+    },
+    {
+      "position": 43,
+      "title": "Solved At what interest rate will money:a) ﻿Double itself in",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/interest-rate-money-double-10-years-b-triple-10-years-c-quadruple-10-years-q136211582",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chegg.com/homework-help/questions-and-answers/interest-rate-money-double-10-years-b-triple-10-years-c-quadruple-10-years-q136211582&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCLUBEAE",
+      "displayed_link": "https://www.chegg.com › questions-and-answers › intere...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a075c0f449f5ae976e59f71f7a33de029.png",
+      "date": "Jan 31, 2024",
+      "snippet": "Question: At what interest rate will money:a) ﻿Double itself in 10 ﻿years?b) ﻿Triple itself in 10 ﻿years?c) ﻿Quadruple itself in 10 ﻿years?",
+      "snippet_highlighted_words": [
+        "interest rate will",
+        "itself in 10",
+        "years",
+        "Triple itself in 10",
+        "years",
+        "Quadruple itself in 10",
+        "years"
+      ],
+      "missing": [
+        "annual",
+        "investment"
+      ],
+      "source": "Chegg"
+    },
+    {
+      "position": 44,
+      "title": "Forex Compounding Calculator",
+      "link": "https://www.myfxbook.com/forex-calculators/compounding-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.myfxbook.com/forex-calculators/compounding-calculator&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCLsBEAE",
+      "displayed_link": "https://www.myfxbook.com › Forex Calculators",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15acf602ce1e1c70b2f20ea35b998ce5385.png",
+      "snippet": "For example, an annual interest rate of 10% compounded for period of time of ... The interest you earn on your investment can double and triple your ...",
+      "snippet_highlighted_words": [
+        "annual interest rate",
+        "10",
+        "investment",
+        "triple"
+      ],
+      "source": "Myfxbook.com"
+    },
+    {
+      "position": 45,
+      "title": "Calculate Simple Interest - Formula",
+      "link": "https://www.math-only-math.com/calculate-simple-interest.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.math-only-math.com/calculate-simple-interest.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCMEBEAE",
+      "displayed_link": "https://www.math-only-math.com › calculate-simple-inte...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a4608aa22c634be297e8a8e15d6cbb7e2.png",
+      "snippet": "4. At what rate per cent per annum will a sum triple itself in 12 years ? Solution: Let the sum be $ P, then ...",
+      "snippet_highlighted_words": [
+        "what rate",
+        "will",
+        "triple itself",
+        "years"
+      ],
+      "source": "Math Only Math"
+    },
+    {
+      "position": 46,
+      "title": "How to Setup Triple Compound Interest - cashflownaire",
+      "link": "https://www.renegademillionaireblog.com/triple.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.renegademillionaireblog.com/triple.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCNoBEAE",
+      "displayed_link": "https://www.renegademillionaireblog.com › triple",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ac6659fd2dd2047d025daca062d5e57d4.png",
+      "date": "Aug 12, 2015",
+      "snippet": "... 10 years. This is an entirely different way of thinking about ... The fund will not provide a consistent 10.8% annual return on investment.",
+      "snippet_highlighted_words": [
+        "10 years",
+        "will",
+        "annual",
+        "investment"
+      ],
+      "source": "renegademillionaireblog.com"
+    },
+    {
+      "position": 47,
+      "title": "Understanding Simple and Compound Interest Calculations",
+      "link": "https://www.coursehero.com/file/231743349/Activity-1-Simple-and-Compound-Interest-1docx/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coursehero.com/file/231743349/Activity-1-Simple-and-Compound-Interest-1docx/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCNwBEAE",
+      "displayed_link": "https://www.coursehero.com › ... › ENGINEERIN IE 411",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a481a4c40a07c04d8315e17d875c3e690.png",
+      "date": "Apr 23, 2024",
+      "snippet": "At what rate of annual interest will an investment quadruple itself in 12 years? ... annually, P5000 will amount to P20,000 after 10 years.",
+      "snippet_highlighted_words": [
+        "what rate of annual interest will an investment quadruple itself",
+        "years",
+        "will",
+        "10 years"
+      ],
+      "source": "Course Hero"
+    },
+    {
+      "position": 48,
+      "title": "Compound Interest Calculator",
+      "link": "https://www.acorns.com/learn/investing/compound-interest-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.acorns.com/learn/investing/compound-interest-calculator/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCOcBEAE",
+      "displayed_link": "https://www.acorns.com › learn › investing › compoun...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a3ce5f7a462d9de959723c42b9e3b7bf0.png",
+      "date": "May 31, 2024",
+      "snippet": "In 10 years, with markets growing at the same average annual rate of 6%, you'd have about $179, or almost 80% more than your initial investment, ...",
+      "snippet_highlighted_words": [
+        "10 years",
+        "annual rate",
+        "investment"
+      ],
+      "source": "Acorns"
+    },
+    {
+      "position": 49,
+      "title": "At a growth (interest) rate of $10$ percent annually, how lo",
+      "link": "https://quizlet.com/explanations/questions/at-a-growth-interest-rate-of-10-percent-annually-how-long-will-it-take-for-a-sum-to-double-to-triple-select-the-year-that-is-closest-to-the--64c96c23-e76729c6-dd97-4d3a-941e-30c16ffd0d0a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/explanations/questions/at-a-growth-interest-rate-of-10-percent-annually-how-long-will-it-take-for-a-sum-to-double-to-triple-select-the-year-that-is-closest-to-the--64c96c23-e76729c6-dd97-4d3a-941e-30c16ffd0d0a&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCPMBEAE",
+      "displayed_link": "https://quizlet.com › Social Science › Economics",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a2cb9ded2302b5cb75add4f6c322afae1.png",
+      "snippet": "At a growth (interest) rate of 10 10 10 percent annually, how long will it take for a sum to double? To triple? Select the year that is closest to the correct ...",
+      "snippet_highlighted_words": [
+        "interest",
+        "rate",
+        "10 10 10",
+        "annually",
+        "will",
+        "triple",
+        "year"
+      ],
+      "source": "Quizlet"
+    },
+    {
+      "position": 50,
+      "title": "The Power of Compounding: How 1 Penny Doubled Every ...",
+      "link": "https://budgetsaresexy.com/penny-compounding-interest/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://budgetsaresexy.com/penny-compounding-interest/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCPgBEAE",
+      "displayed_link": "https://budgetsaresexy.com › penny-compounding-inter...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a5069a769027e4d7a2296ed820200a1b5.png",
+      "date": "Mar 18, 2014",
+      "snippet": "... annual interest rate. Mind you, this is not meant to ... i don't know if i will make 10 million after 31 years, but time will tell.",
+      "snippet_highlighted_words": [
+        "annual interest rate",
+        "will",
+        "10",
+        "years",
+        "will"
+      ],
+      "source": "Budgets Are Sexy"
+    },
+    {
+      "position": 51,
+      "title": "A sum of money doubles itself in 10 years on compound ...",
+      "link": "https://prepp.in/question/a-sum-of-money-doubles-itself-in-10-years-on-compo-67bb7122261389eb8c79a05a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://prepp.in/question/a-sum-of-money-doubles-itself-in-10-years-on-compo-67bb7122261389eb8c79a05a&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCPsBEAE",
+      "displayed_link": "https://prepp.in › ... › Simple and Compound Interest",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a73dc5a95c7bf6b5cdee8f9a883e91cab.png",
+      "snippet": "Solving Compound Interest Problems: Doubling and Quadrupling Time. Understanding how compound interest works is key to solving problems involving the growth ...",
+      "snippet_highlighted_words": [
+        "Interest",
+        "interest"
+      ],
+      "source": "Prepp"
+    },
+    {
+      "position": 52,
+      "title": "Rule of 72",
+      "link": "https://www.youtube.com/watch?v=91nnN2XwTMg&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "78.1K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOBezoBQ2MAyQA4cstCWvVocwlzvB8KDTPg10u8CuQzDWgkNxqm72MjD88uiOD&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15af673a941716a577fb7d8b3fef3132371.png",
+      "snippet": "... investment to double given an annual interest rate. Liquidity Ratios: https://www.youtube.com/watch?v=bmZVPks4yQg Assets, Liabilities ...",
+      "duration": "6:27",
+      "key_moments": [
+        {
+          "time": "00:01",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=91nnN2XwTMg&pp=0gcJCfwAo7VqN5tD&t=1",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ay2KYi0n1CDYwUubeXyT345w_qD4KU4tVfq7Fww_EA&s"
+        },
+        {
+          "time": "00:11",
+          "title": "How long will it take to double your investment?",
+          "link": "https://www.youtube.com/watch?v=91nnN2XwTMg&pp=0gcJCfwAo7VqN5tD&t=11",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFGZXnVxLC-QUC7-BWRfcf5_X2uN2WlvUnY9TyRlVJ0w&s"
+        },
+        {
+          "time": "00:51",
+          "title": "Exact answer formula",
+          "link": "https://www.youtube.com/watch?v=91nnN2XwTMg&pp=0gcJCfwAo7VqN5tD&t=51",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqiQAEQvHmc0Lwta5c0GFZbQ5-Rm-Hm1AsBgX5LLPd-Q&s"
+        },
+        {
+          "time": "01:50",
+          "title": "Rule of 72 (Part B)",
+          "link": "https://www.youtube.com/watch?v=91nnN2XwTMg&pp=0gcJCfwAo7VqN5tD&t=110",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXcYo3ZRecKPwNeqdKySk2eCHzarJBJZxlzpne8tBHmw&s"
+        },
+        {
+          "time": "04:10",
+          "title": "Rule of 72 conclusion",
+          "link": "https://www.youtube.com/watch?v=91nnN2XwTMg&pp=0gcJCfwAo7VqN5tD&t=250",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnuehVCsZ6c-x1xUKL-zZnFK73CicDYdMaK1TxbECo_g&s"
+        },
+        {
+          "time": "05:08",
+          "title": "Example",
+          "link": "https://www.youtube.com/watch?v=91nnN2XwTMg&pp=0gcJCfwAo7VqN5tD&t=308",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOUwCdlqGfUq3-u6Huncli8Fk13JhNZS5tS0rbFUftDA&s"
+        },
+        {
+          "time": "06:18",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=91nnN2XwTMg&pp=0gcJCfwAo7VqN5tD&t=378",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLwgIn5PdekZjHVGvj78Xt9-GCS-_6jiDfqCsM7A6lg&s"
+        }
+      ],
+      "source": "YouTube · The Organic Chemistry Tutor"
+    },
+    {
+      "position": 53,
+      "title": "Office-to-Residential Conversions in NYC: Economics and ...",
+      "link": "https://comptroller.nyc.gov/reports/office-to-residential-conversions-in-nyc-economics-and-fiscal-estimates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://comptroller.nyc.gov/reports/office-to-residential-conversions-in-nyc-economics-and-fiscal-estimates/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCIwCEAE",
+      "displayed_link": "https://comptroller.nyc.gov › reports › office-to-residenti...",
+      "date": "8 days ago",
+      "snippet": "The program exempts from the property tax for up to three years during the construction period and for between 25 and 35 years afterwards, ...",
+      "snippet_highlighted_words": [
+        "years",
+        "years"
+      ],
+      "source": "NYC.gov"
+    },
+    {
+      "position": 54,
+      "title": "The Risk Averse Investment Strategy That Is Turning The ...",
+      "link": "https://themakingofamillionaire.com/the-risk-averse-investment-strategy-that-is-turning-the-99-into-millionaires-177de9972bf8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://themakingofamillionaire.com/the-risk-averse-investment-strategy-that-is-turning-the-99-into-millionaires-177de9972bf8&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCJACEAE",
+      "displayed_link": "https://themakingofamillionaire.com › the-risk-averse-i...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15abc16f702b1cd8dd64f00c053572a56b9.png",
+      "date": "Feb 5, 2020",
+      "snippet": "... will earn slightly more in interest due to compounding interest. ... annually, rather giving yourself a discount using Triple Interest Investing.",
+      "snippet_highlighted_words": [
+        "will",
+        "interest",
+        "interest",
+        "annually",
+        "yourself",
+        "Triple Interest"
+      ],
+      "source": "Making of a Millionaire"
+    },
+    {
+      "position": 55,
+      "title": "What rate of interest compounded annually is required to ...",
+      "link": "https://math.answers.com/other-math/What_rate_of_interest_compounded_annually_is_required_to_triple_an_investment_in_10_years",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://math.answers.com/other-math/What_rate_of_interest_compounded_annually_is_required_to_triple_an_investment_in_10_years&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCI8CEAE",
+      "displayed_link": "https://math.answers.com › Math › Other Math",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a843253bfcb9289bd2fdf7b0dd48a393d.png",
+      "date": "Apr 28, 2022",
+      "snippet": "... 10^log(1+i) = 1 + ii = 10^((log(3))/12) - 1 = 0.095873So a rate of 9.5873 % (compounded annually) will triple the investment in 12 years.",
+      "snippet_highlighted_words": [
+        "10",
+        "10",
+        "rate",
+        "annually",
+        "will triple",
+        "investment",
+        "years"
+      ],
+      "source": "Answers"
+    },
+    {
+      "position": 56,
+      "title": "Unsure of how to best manage my savings, not very savvy",
+      "link": "https://www.reddit.com/r/UKPersonalFinance/comments/1m5vzvn/unsure_of_how_to_best_manage_my_savings_not_very/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/UKPersonalFinance/comments/1m5vzvn/unsure_of_how_to_best_manage_my_savings_not_very/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCJoCEAE",
+      "displayed_link": "20+ comments · 3 days ago",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ac3008701d5898b3ab1f42ed5936a0120.png",
+      "snippet": "I will check those guides on S&S and the higher interest rate link you've suggested too. I made nearly £2,000 in interest last year and now my ...",
+      "snippet_highlighted_words": [
+        "will",
+        "interest rate",
+        "interest",
+        "year"
+      ],
+      "source": "Reddit · r/UKPersonalFinance"
+    },
+    {
+      "position": 57,
+      "title": "Depressive disorder (depression)",
+      "link": "https://www.who.int/news-room/fact-sheets/detail/depression",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.who.int/news-room/fact-sheets/detail/depression&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCKcCEAE",
+      "displayed_link": "https://www.who.int › Newsroom › Fact sheets › Detail",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ae315ce5989519d8bea2b4e6a9147ed48.png",
+      "date": "Mar 31, 2023",
+      "snippet": "Depressive disorder (also known as depression) is a common mental disorder. It involves a depressed mood or loss of pleasure or interest in activities for long ...",
+      "snippet_highlighted_words": [
+        "interest"
+      ],
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "position": 58,
+      "title": "The $100 Investment That Tripled My Monthly Income",
+      "link": "https://www.aol.com/100-investment-tripled-monthly-income-140244992.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aol.com/100-investment-tripled-monthly-income-140244992.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCKgCEAE",
+      "displayed_link": "https://www.aol.com › 100-investment-tripled-monthly-...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a0fcac91b6acd13ba96c9b6244fd5d2ef.png",
+      "snippet": "Over a period of 35 years, $359 per month invested in a stock market index fund at an average return of 10% would result in a portfolio of $1,167,572. This ...",
+      "snippet_highlighted_words": [
+        "years",
+        "10"
+      ],
+      "source": "AOL.com"
+    },
+    {
+      "position": 59,
+      "title": "Find the rate at which a sum of money will triple itself in 2 ...",
+      "link": "https://askfilo.com/user-question-answers-mathematics/find-the-rate-at-which-a-sum-of-money-will-triple-itself-in-36313635393432",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://askfilo.com/user-question-answers-mathematics/find-the-rate-at-which-a-sum-of-money-will-triple-itself-in-36313635393432&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCLACEAE",
+      "displayed_link": "https://askfilo.com › CBSE › Mathematics",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15adf1c0f842b0d701cdad59b37848b4b51.png",
+      "date": "Nov 20, 2023",
+      "snippet": "Solution For Find the rate at which a sum of money will triple itself in 2 years, if the interest is compounded annually?",
+      "snippet_highlighted_words": [
+        "rate",
+        "will triple itself",
+        "years",
+        "interest",
+        "annually"
+      ],
+      "source": "Filo"
+    },
+    {
+      "position": 60,
+      "title": "Interest Compounded Continuously",
+      "link": "https://www.youtube.com/watch?v=Ln97Hd7AiDc",
+      "displayed_link": "280.8K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStKVXFZiieNwoza0Kk2AVjt7JzU8hiMDpvxhFn7X0cIE938zDQm73l0haq_pJx&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15abfaafa8daf762a6b9afb69a3b83470c9.png",
+      "snippet": "It also explains how to calculate the time it takes for your investment ... Interest Compounded Continuously. 280K views · 5 years ago ...",
+      "duration": "5:32",
+      "key_moments": [
+        {
+          "time": "00:09",
+          "title": "Example 1",
+          "link": "https://www.youtube.com/watch?v=Ln97Hd7AiDc&t=9",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQXRwZGUXbnXCziYh_Hdk8F5uQNNQGpGoD9RSbHt2wA&s"
+        },
+        {
+          "time": "00:27",
+          "title": "The formula",
+          "link": "https://www.youtube.com/watch?v=Ln97Hd7AiDc&t=27",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQRzph4KKSNLmBZm98Vty1A2VfOJVR6VfgJgWTJnMjvw&s"
+        },
+        {
+          "time": "01:10",
+          "title": "Compounding example",
+          "link": "https://www.youtube.com/watch?v=Ln97Hd7AiDc&t=70",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3o58MhYpOVO7tdNzMSD2xc56ESBl7vAGsKQ4rsjLdQ&s"
+        },
+        {
+          "time": "03:24",
+          "title": "Solving for t",
+          "link": "https://www.youtube.com/watch?v=Ln97Hd7AiDc&t=204",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItN2ZCBAlLtfCRv6JU3K-LVYYLbCUF_dj5efU5GUUzA&s"
+        },
+        {
+          "time": "04:45",
+          "title": "The Rule of 72",
+          "link": "https://www.youtube.com/watch?v=Ln97Hd7AiDc&t=285",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZyAB6J5sMHzvJpzAVpG6Y8RHPGwDLLjX8I9BvoOr1g&s"
+        },
+        {
+          "time": "05:24",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=Ln97Hd7AiDc&t=324",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjnhjdjUW2Gi6Z3F7Q_5dX0BUkjWWFuvu3UxyNt9snFQ&s"
+        }
+      ],
+      "source": "YouTube · The Organic Chemistry Tutor"
+    },
+    {
+      "position": 61,
+      "title": "Visa Signature® Flagship Travel Rewards Credit Card",
+      "link": "https://www.navyfederal.org/loans-cards/credit-cards/flagship-visa-signature.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.navyfederal.org/loans-cards/credit-cards/flagship-visa-signature.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCLsCEAE",
+      "displayed_link": "https://www.navyfederal.org › loans-cards › flagship-vis...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a262dc5716445cc96cc8531d5db8b1bff.png",
+      "snippet": "Experience a Free Year of Amazon Prime®. Pay the Amazon Prime® annual membership fee, and we'll reimburse you with a statement credit.",
+      "snippet_highlighted_words": [
+        "Year",
+        "annual"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 617
+          },
+          "extensions": [
+            "4.8(617)"
+          ]
+        }
+      },
+      "source": "Navy Federal Credit Union"
+    },
+    {
+      "position": 62,
+      "title": "Can Oracle Become the Next $1 Trillion AI Stock?",
+      "link": "https://io-fund.com/ai-stocks/oracle-stock-1t-outlook",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://io-fund.com/ai-stocks/oracle-stock-1t-outlook&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCMgCEAE",
+      "displayed_link": "https://io-fund.com › ai-stocks",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ad44dbd82e80c3d7356f787e484511c4f.png",
+      "date": "8 days ago",
+      "snippet": "... itself to lead among Microsoft, Amazon and Alphabet when it comes to cloud growth over the next few years. For the upcoming fiscal year ...",
+      "snippet_highlighted_words": [
+        "itself",
+        "years",
+        "year"
+      ],
+      "source": "IO Fund"
+    },
+    {
+      "position": 63,
+      "title": "State of the Consumer trends report 2025",
+      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCM4CEAE",
+      "displayed_link": "https://www.mckinsey.com › industries › our-insights",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a077f30c50da897737fabf9f6b28b0334.jpeg",
+      "date": "Jun 9, 2025",
+      "snippet": "McKinsey's annual State of the Consumer report looks at the data behind the biggest trends shaping global consumer behavior in 2025 and ...",
+      "snippet_highlighted_words": [
+        "annual"
+      ],
+      "source": "McKinsey & Company"
+    },
+    {
+      "position": 64,
+      "title": "Finishing the job: Launching the Pensions Commission",
+      "link": "https://www.gov.uk/government/publications/finishing-the-job-launching-the-pensions-commission/finishing-the-job-launching-the-pensions-commission",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/government/publications/finishing-the-job-launching-the-pensions-commission/finishing-the-job-launching-the-pensions-commission&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECE8QAQ",
+      "displayed_link": "https://www.gov.uk › government › publications › finis...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ad27366a2a46f4a796732846ccd9f3b7c.png",
+      "date": "4 days ago",
+      "snippet": "Total spending on pensioner support will of course continue to increase for decades to come despite increases in the State Pension age. 10. The ...",
+      "snippet_highlighted_words": [
+        "will",
+        "10"
+      ],
+      "source": "GOV.UK"
+    },
+    {
+      "position": 65,
+      "title": "How many years will it take money to triple itself if invested ...",
+      "link": "https://studyx.ai/questions/4lfqrwt/4-how-many-years-will-it-take-money-to-triple-itself-if-invested-at-8-compounded-annually",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyx.ai/questions/4lfqrwt/4-how-many-years-will-it-take-money-to-triple-itself-if-invested-at-8-compounded-annually&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECEsQAQ",
+      "displayed_link": "https://studyx.ai › Business › Finance",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a8c655647cd8d67f15a4e1b01fbe03559.png",
+      "date": "Jan 7, 2025",
+      "snippet": "How many years will it take money to triple itself if invested at 8% compounded annually? ... r = the annual interest rate (decimal) n ...",
+      "snippet_highlighted_words": [
+        "years will",
+        "triple itself",
+        "annual interest rate"
+      ],
+      "source": "StudyX"
+    },
+    {
+      "position": 66,
+      "title": "Calculating the time required to double or triple an investment",
+      "link": "https://www.youtube.com/watch?v=BluAgrzejF0",
+      "displayed_link": "8.8K+ views · 9 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4AgwlyvR41J2qFzoxF5X9bUdUPYj55qFfoXhnnnnFqujJ_KGJXq5wPQu0-ulf&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15aed5ea09d8ba02f0d7633a8d24ab3f2f4.png",
+      "snippet": "... t available. Calculating the time required to double or triple an investment. 8.8K views · 9 years ago ...more. Myhre Math MCHS. 2.86K.",
+      "duration": "4:13",
+      "key_moments": [
+        {
+          "time": "00:09",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=BluAgrzejF0&t=9",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRonSdAqBEy9IY9XtEAGOWRo8m80xRFgd0MpW_pLC6wCg&s"
+        },
+        {
+          "time": "00:25",
+          "title": "Doubling an investment",
+          "link": "https://www.youtube.com/watch?v=BluAgrzejF0&t=25",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQstjttQk-FDlPFg3JS_c0eeDj_aZVwvJVqs-x89dh3nw&s"
+        },
+        {
+          "time": "00:47",
+          "title": "Solving the equation",
+          "link": "https://www.youtube.com/watch?v=BluAgrzejF0&t=47",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPR2cR1HnIWKjFGJCSjmrWraIKVefA8E61_6g_7hpwlw&s"
+        },
+        {
+          "time": "01:19",
+          "title": "Removing the base",
+          "link": "https://www.youtube.com/watch?v=BluAgrzejF0&t=79",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrP_QD0V8rEERi4n7Ndd4lsn9Unv3C0B2j3K_wjIsQg&s"
+        },
+        {
+          "time": "02:05",
+          "title": "Calculating the time it will take to double your investment",
+          "link": "https://www.youtube.com/watch?v=BluAgrzejF0&t=125",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyisfDIwvdQ1g8I9ZFv84kVg5qTi20hSC0woAZKvg1nA&s"
+        },
+        {
+          "time": "02:30",
+          "title": "Example 2",
+          "link": "https://www.youtube.com/watch?v=BluAgrzejF0&t=150",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgaCFx91VJIIOsmveW7YOwoqUggtyJYSP_lxcpg_1Wmg&s"
+        },
+        {
+          "time": "02:41",
+          "title": "Continuously Compounded Example",
+          "link": "https://www.youtube.com/watch?v=BluAgrzejF0&t=161",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwwWGt7aJkvKRuWCfgxSmBZ4iHrXQGVDcxPW0nfNAoVQ&s"
+        },
+        {
+          "time": "02:56",
+          "title": "Using the natural log method",
+          "link": "https://www.youtube.com/watch?v=BluAgrzejF0&t=176",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuG5jM1vljRMs74PPgDxwftcWkIDq2WePfc6yclgMVw&s"
+        },
+        {
+          "time": "03:35",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=BluAgrzejF0&t=215",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTBi-ch15e0vZKZvQBvKEt-go-NEEcSqlzopXsGiyZw&s"
+        }
+      ],
+      "missing": [
+        "quadruple",
+        "itself"
+      ],
+      "source": "YouTube · Myhre Math MCHS"
+    },
+    {
+      "position": 67,
+      "title": "How did my tax withholding quadruple when my household ...",
+      "link": "https://www.reddit.com/r/tax/comments/1m6z92n/how_did_my_tax_withholding_quadruple_when_my/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/tax/comments/1m6z92n/how_did_my_tax_withholding_quadruple_when_my/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECFAQAQ",
+      "displayed_link": "20+ comments · 2 days ago",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15aa7e0948345100b26fc972fc16ba4976d.png",
+      "snippet": "... year, add in any other income you have, and calculate what the tax due will be on that amount of annual income. Then compare that projected ...",
+      "snippet_highlighted_words": [
+        "year",
+        "will",
+        "annual"
+      ],
+      "source": "Reddit · r/tax"
+    },
+    {
+      "position": 68,
+      "title": "AI Opportunities Action Plan",
+      "link": "https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECE4QAQ",
+      "displayed_link": "https://www.gov.uk › ... › AI Opportunities Action Plan",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ad3c4e6ac1a2ccaf52e87521d31277e5f.png",
+      "date": "Jan 13, 2025",
+      "snippet": "... 10-year investment commitment. Building a world class AI compute ... will be best placed to secure investment. AIGZs could introduce a ...",
+      "snippet_highlighted_words": [
+        "10",
+        "year investment",
+        "will",
+        "investment"
+      ],
+      "source": "GOV.UK"
+    },
+    {
+      "position": 69,
+      "title": "Why you may have to wait longer to claim the state pension",
+      "link": "https://www.ajbell.co.uk/articles/investmentarticles/291114/why-you-may-have-wait-longer-claim-state-pension",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ajbell.co.uk/articles/investmentarticles/291114/why-you-may-have-wait-longer-claim-state-pension&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECFIQAQ",
+      "displayed_link": "https://www.ajbell.co.uk › articles › investmentarticles",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ae0f505b72e0fcd8316cf8037184d07b4.png",
+      "date": "21 hours ago",
+      "snippet": "What will the third state pension age review look at? · Could the triple lock be under threat? · What to do if your state pension age changes.",
+      "snippet_highlighted_words": [
+        "will",
+        "triple"
+      ],
+      "source": "AJ Bell"
+    },
+    {
+      "position": 70,
+      "title": "The Electricity Affordability Crisis Is Coming",
+      "link": "https://heatmap.news/politics/electricity-price-crisis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://heatmap.news/politics/electricity-price-crisis&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECGcQAQ",
+      "displayed_link": "https://heatmap.news › politics › electricity-price-crisis",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a562e94a837b3764c101579789d49d03e.png",
+      "date": "1 day ago",
+      "snippet": "And while it's still unclear whether the Trump administration will let developers actually use the tax credits that remain on the books — ...",
+      "snippet_highlighted_words": [
+        "will"
+      ],
+      "source": "Heatmap News"
+    },
+    {
+      "position": 71,
+      "title": "Sukanya Samriddhi Yojana - Personal Banking",
+      "link": "https://sbi.co.in/web/personal-banking/investments-deposits/govt-schemes/sukanya-samriddhi-yojana",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sbi.co.in/web/personal-banking/investments-deposits/govt-schemes/sukanya-samriddhi-yojana&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECGYQAQ",
+      "displayed_link": "https://sbi.co.in › investments-deposits › govt-schemes",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a5e47954b317939ebc8826ffbbe6b489b.png",
+      "snippet": "In the latest Finance Bill, the scheme has been extended Triple exempt benefits i.e. there will be no tax on the amount invested, amount earned as interest and ...",
+      "snippet_highlighted_words": [
+        "Triple",
+        "will",
+        "interest"
+      ],
+      "source": "Sbi.co.in"
+    },
+    {
+      "position": 72,
+      "title": "NextEra Energy (NEE) Q2 2025 Earnings Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2025/07/23/nextera-energy-nee-q2-2025-earnings-transcript/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fool.com/earnings/call-transcripts/2025/07/23/nextera-energy-nee-q2-2025-earnings-transcript/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECHcQAQ",
+      "displayed_link": "https://www.fool.com › call-transcripts › 2025/07/23",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a85df63c3b97976abd77f970a619e5fba.png",
+      "date": "2 days ago",
+      "snippet": "... years, with further interest in expanding exposure. ... If state regulators approve our plan, a typical FPL residential bill will grow at an ...",
+      "snippet_highlighted_words": [
+        "years",
+        "interest",
+        "will"
+      ],
+      "source": "The Motley Fool"
+    },
+    {
+      "position": 73,
+      "title": "Cathie Wood's Five-Year Time Horizon: Brilliant Vision or Co",
+      "link": "https://www.insidermonkey.com/blog/cathie-woods-five-year-time-horizon-brilliant-vision-or-costly-mistake-2025-analysis-1575002/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.insidermonkey.com/blog/cathie-woods-five-year-time-horizon-brilliant-vision-or-costly-mistake-2025-analysis-1575002/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECHgQAQ",
+      "displayed_link": "https://www.insidermonkey.com › blog › cathie-woods-...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15afaaf23e7e99b28251d91c9c36db8fbcc.png",
+      "date": "9 hours ago",
+      "snippet": "Cathie Wood made a bold prediction in December 2022 that her investment strategies would deliver a 40% annualized return over five years.",
+      "snippet_highlighted_words": [
+        "investment",
+        "years"
+      ],
+      "source": "Insider Monkey"
+    },
+    {
+      "position": 74,
+      "title": "At what rate per cent will a sum of money triple itself in 12 ...",
+      "link": "https://www.youtube.com/watch?v=lmx332RbblM",
+      "displayed_link": "1.4K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75tUDNe785fDC2wOQw-7lAl4E7l0SdG5EHKbJMctazWtMwe9QtlJKbTu3eaeX&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a7e89d929b85b1ea851ca81a97e272c2f.png",
+      "snippet": "At what rate per cent will a sum of money triple itself in 12 years ? Class: 7 Subject: MATHS Chapter: SIMPLE INTEREST Board:ICSE You can ...",
+      "duration": "2:43",
+      "source": "YouTube · Doubtnut"
+    },
+    {
+      "position": 75,
+      "title": "Meet the Newest Growth Stock Joining the S&P 500. It's Up ...",
+      "link": "https://www.aol.com/meet-newest-growth-stock-joining-141500360.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aol.com/meet-newest-growth-stock-joining-141500360.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCIEBEAE",
+      "displayed_link": "https://www.aol.com › meet-newest-growth-stock-joinin...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a0732ca234cc0510629ebd6b559652865.png",
+      "date": "3 days ago",
+      "snippet": "... 10 years. Don't miss this second chance at a potentially lucrative ... interest rate cut by the Federal Reserve next week. Odds for a ...",
+      "snippet_highlighted_words": [
+        "10 years",
+        "interest rate"
+      ],
+      "source": "AOL.com"
+    },
+    {
+      "position": 76,
+      "title": "Best cash Isa savings rates tables 2025: Easy access and ...",
+      "link": "https://www.thisismoney.co.uk/money/saving/article-1583864/Best-savings-rates-Isas-Cash-Isa-accounts-fixed-rate-Isas.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thisismoney.co.uk/money/saving/article-1583864/Best-savings-rates-Isas-Cash-Isa-accounts-fixed-rate-Isas.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCIABEAE",
+      "displayed_link": "https://www.thisismoney.co.uk › article-1583864 › Best...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15afb89fd711d021f6c3c6d0524e834a4d9.png",
+      "snippet": "Easy access cash Isas. CASH ISAs - EASY ACCESS. Account (Minimum investment and bonus), Rate (tax-free).",
+      "snippet_highlighted_words": [
+        "investment",
+        "Rate"
+      ],
+      "source": "This is Money"
+    },
+    {
+      "position": 77,
+      "title": "Join my free masterclass to start investing...even if you feel ...",
+      "link": "https://www.tiktok.com/@nobudgetbabe/video/7530294162139155720",
+      "displayed_link": "13.4K+ views · 1 day ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTknnKSPBup8MA-1p-DqfB4X9W0EhJk1mVHGz2MfGZS94hg4r00HvHlSqaOpZ9x&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15af9c86a598b35541b3b1e43811a104c5c.png",
+      "snippet": "And right now, even Vanguard is projecting that international will likely outperform the US over the next ten years. That's why strategies ...",
+      "duration": "0:06",
+      "source": "TikTok · Nicole Victoria | Money Coach"
+    },
+    {
+      "position": 78,
+      "title": "Should I overpay my mortgage?",
+      "link": "https://www.moneysavingexpert.com/mortgages/mortgages-vs-savings/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.moneysavingexpert.com/mortgages/mortgages-vs-savings/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCJUBEAE",
+      "displayed_link": "https://www.moneysavingexpert.com › mortgages › mort...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15aa379999fe3bc158c0466f71934643dd6.png",
+      "snippet": "... interest rate on your student loan that you will on your mortgage. ... A top-performing investment will pay substantially more than 10% a year, yet ...",
+      "snippet_highlighted_words": [
+        "interest rate",
+        "will",
+        "investment will",
+        "10",
+        "year"
+      ],
+      "source": "Money Saving Expert"
+    },
+    {
+      "position": 79,
+      "title": "Time Value of Money - Present Value vs Future Value",
+      "link": "https://www.youtube.com/watch?v=cy4PiY5ERTI&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "782.8K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsZeLJeXNTL_syG_VZ1cvvH8MtWzsSPwkRyVyJEV6CYO5U8rHh0Mq_yC9oif1F&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a97490bbf800a9379d1b959eaaa9d883a.png",
+      "snippet": "This finance video tutorial provides a basic introduction into the time value of money. It explains how to calculate the present value as ...",
+      "duration": "5:14",
+      "source": "YouTube · The Organic Chemistry Tutor"
+    },
+    {
+      "position": 80,
+      "title": "Best REIT Stocks to Invest In Now",
+      "link": "https://www.morningstar.com/stocks/best-reits-buy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.morningstar.com/stocks/best-reits-buy&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCJ4BEAE",
+      "displayed_link": "https://www.morningstar.com › stocks › best-reits-buy",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a2e72160c130f2b562c2c122919a07717.png",
+      "date": "Jun 30, 2025",
+      "snippet": "REITs are interest-rate-sensitive, which means they tend to outperform ... 10 years. Long term, the best healthcare companies are well ...",
+      "snippet_highlighted_words": [
+        "interest",
+        "rate",
+        "10 years"
+      ],
+      "source": "Morningstar"
+    },
+    {
+      "position": 81,
+      "title": "Donald Trump will go to the ends of the Earth to make life ...",
+      "link": "https://www.facebook.com/senatorelizabethwarren/posts/donald-trump-will-go-to-the-ends-of-the-earth-to-make-life-easier-for-billionair/1297389225076272/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/senatorelizabethwarren/posts/donald-trump-will-go-to-the-ends-of-the-earth-to-make-life-easier-for-billionair/1297389225076272/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCKABEAE",
+      "displayed_link": "3.3K+ reactions · 1 day ago",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a9c1516d5e3aa0e4189b63a79f9da24d9.png",
+      "snippet": "... quadruple the minimum payments required… and it STILL took me TEN YEARS to pay off due to the interest rates. It's a con job. 18 hrs. 7.",
+      "snippet_highlighted_words": [
+        "quadruple",
+        "TEN YEARS",
+        "interest rates"
+      ],
+      "source": "Facebook · U.S. Senator Elizabeth Warren"
+    },
+    {
+      "position": 82,
+      "title": "Find doubling time for compound interest",
+      "link": "https://www.youtube.com/watch?v=zHRTxtFiyxc&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "65.8K+ views · 12 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqJEfXev7_SLS19YKvRUEAgBTvPPhvadmL1xacg6IWXgfG40HM4uwvwWx8Jxjf&s&ec=73015327",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a30db85936dbcd23c5c240a0db7788fdb.png",
+      "snippet": "Find doubling time for compound interest. 65K views · 12 years ago ...more. OCLPhase2. 4.7K. Subscribe. 183. Share.",
+      "duration": "4:11",
+      "key_moments": [
+        {
+          "time": "00:01",
+          "title": "How long will it take the account to double in value?",
+          "link": "https://www.youtube.com/watch?v=zHRTxtFiyxc&pp=0gcJCfwAo7VqN5tD&t=1"
+        },
+        {
+          "time": "01:21",
+          "title": "Finding the doubling time",
+          "link": "https://www.youtube.com/watch?v=zHRTxtFiyxc&pp=0gcJCfwAo7VqN5tD&t=81"
+        },
+        {
+          "time": "01:45",
+          "title": "Using the Logarithm",
+          "link": "https://www.youtube.com/watch?v=zHRTxtFiyxc&pp=0gcJCfwAo7VqN5tD&t=105"
+        }
+      ],
+      "source": "YouTube · OCLPhase2"
+    },
+    {
+      "position": 83,
+      "title": "Health Savings Account | HSA Benefits",
+      "link": "https://www.fidelity.com/go/hsa/why-hsa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fidelity.com/go/hsa/why-hsa&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCKcBEAE",
+      "displayed_link": "https://www.fidelity.com › hsa › why-hsa",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a8ca194c60a894507dd3c0c5aac981bfa.png",
+      "snippet": "Investment returns and principal value will fluctuate, so you may have a ... interest-rate-for-a-Lively-HSA-. Interest rates are subject to change ...",
+      "snippet_highlighted_words": [
+        "Investment",
+        "will",
+        "interest",
+        "rate",
+        "Interest rates"
+      ],
+      "source": "Fidelity"
+    },
+    {
+      "position": 84,
+      "title": "Memphis crime rate drops 16%, but public perception lags ...",
+      "link": "https://wreg.com/news/investigations/memphis-crime-rate-drops-16-but-public-perception-lags-behind/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wreg.com/news/investigations/memphis-crime-rate-drops-16-but-public-perception-lags-behind/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCKsBEAE",
+      "displayed_link": "https://wreg.com › news › investigations › memphis-crim...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15aaebf8aa9602a463ebf9f372d7722c2a6.png",
+      "date": "7 hours ago",
+      "snippet": "“The more that builds upon itself, we see investment coming in. We ... Man gets 5 years after committing vandalism, arson · French President ...",
+      "snippet_highlighted_words": [
+        "itself",
+        "investment",
+        "years"
+      ],
+      "source": "WREG.com"
+    },
+    {
+      "position": 85,
+      "title": "The Big, Beautiful Bill is almost law. Will it deliver?",
+      "link": "https://www.politico.com/newsletters/morning-money/2025/07/02/the-big-beautiful-bill-is-almost-law-will-it-deliver-00436895",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.politico.com/newsletters/morning-money/2025/07/02/the-big-beautiful-bill-is-almost-law-will-it-deliver-00436895&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCL4BEAE",
+      "displayed_link": "https://www.politico.com › newsletters › 2025/07/02 › t...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a3a52d4e03fb3d04842fe9fe018405059.png",
+      "date": "Jul 2, 2025",
+      "snippet": "Trump is banking that the tax breaks included in the megabill will unlock private investment and boost consumer spending, kicking off an ...",
+      "snippet_highlighted_words": [
+        "will",
+        "investment"
+      ],
+      "source": "Politico"
+    },
+    {
+      "position": 86,
+      "title": "Easy Access savings",
+      "link": "https://www.skipton.co.uk/savings/easy-access",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.skipton.co.uk/savings/easy-access&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCLwBEAE",
+      "displayed_link": "https://www.skipton.co.uk › Savings",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a2f7fb98f126e25e63c27a0bfe8b5c151.png",
+      "snippet": "How is the interest rate decided on Easy Access accounts and will they change? ... AER stands for Annual Equivalent Rate and show what the interest would ...",
+      "snippet_highlighted_words": [
+        "interest rate",
+        "will",
+        "Annual",
+        "Rate",
+        "interest"
+      ],
+      "source": "Skipton Building Society"
+    },
+    {
+      "position": 87,
+      "title": "Savings & ISAs",
+      "link": "https://www.westbrom.co.uk/savings",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.westbrom.co.uk/savings&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCL0BEAE",
+      "displayed_link": "https://www.westbrom.co.uk › savings",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15aa92a65471fec9beb7c8dd38ab1851e8c.png",
+      "snippet": "You will get a lower interest rate if you take your money out more than four times.",
+      "snippet_highlighted_words": [
+        "will",
+        "interest rate"
+      ],
+      "source": "West Brom Building Society"
+    },
+    {
+      "position": 88,
+      "title": "Reckoner unveils first leveraged triple-A tranche CLO ETF",
+      "link": "https://www.structuredcreditinvestor.com/news/clos/84154/reckoner-unveils-first-leveraged-triple-a-tranche-clo-etf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.structuredcreditinvestor.com/news/clos/84154/reckoner-unveils-first-leveraged-triple-a-tranche-clo-etf&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCMIBEAE",
+      "displayed_link": "https://www.structuredcreditinvestor.com › news › clos",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a6b8c9f92ed84cb85557e794886cc6ee8.png",
+      "date": "Jul 14, 2025",
+      "snippet": "Its floating rate profile tied to benchmark interest rates offers ... investment-grade focused ETF later in the year, the firm says.",
+      "snippet_highlighted_words": [
+        "rate",
+        "interest rates",
+        "investment",
+        "year"
+      ],
+      "source": "Structured Credit Investor"
+    },
+    {
+      "position": 89,
+      "title": "NextEra Energy (NEE) Q2 2025 Earnings Transcript",
+      "link": "https://www.mitrade.com/au/insights/news/live-news/article-8-981066-20250723",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mitrade.com/au/insights/news/live-news/article-8-981066-20250723&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCM8BEAE",
+      "displayed_link": "https://www.mitrade.com › article-8-981066-20250723",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a44a2b86a34f335698272c7041658dc9a.png",
+      "date": "2 days ago",
+      "snippet": "... years, with further interest in expanding exposure. ... If state regulators approve our plan, a typical FPL residential bill will grow at an ...",
+      "snippet_highlighted_words": [
+        "years",
+        "interest",
+        "will"
+      ],
+      "source": "Mitrade"
+    },
+    {
+      "position": 90,
+      "title": "Military Discounts & Member Offers",
+      "link": "https://www.navyfederal.org/membership/offers-discounts.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.navyfederal.org/membership/offers-discounts.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCNgBEAE",
+      "displayed_link": "https://www.navyfederal.org › membership › offers-disc...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a1ff831e841ec64dd32963cf17b384be9.png",
+      "snippet": "We're proud to offer our members special rates and discounts on all types of products and services. Learn more about current offers available to our members ...",
+      "snippet_highlighted_words": [
+        "rates"
+      ],
+      "source": "Navy Federal Credit Union"
+    },
+    {
+      "position": 91,
+      "title": "America's 25 year tax cutting & fiscal train wreck - MR Online",
+      "link": "https://mronline.org/2025/07/22/americas-25-year-tax-cutting-fiscal-train-wreck/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mronline.org/2025/07/22/americas-25-year-tax-cutting-fiscal-train-wreck/&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCNsBEAE",
+      "displayed_link": "https://mronline.org › Newswire",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15aacf2f995009555d1b31ec0a24f7d863f.jpeg",
+      "date": "3 days ago",
+      "snippet": "we believe the tax cuts will pay for themselves over a 10 year period of time. ... ten years, 2018-28, by 3%-3.5% annually. A forecast that ...",
+      "snippet_highlighted_words": [
+        "will",
+        "themselves",
+        "10 year",
+        "ten years",
+        "annually"
+      ],
+      "source": "mronline.org"
+    },
+    {
+      "position": 92,
+      "title": "Reeves says rules and red tape are 'boot on the neck' of ...",
+      "link": "https://www.theguardian.com/politics/2025/jul/15/rachel-reeves-rules-red-tape-boot-on-neck-innovation-mansion-house",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/politics/2025/jul/15/rachel-reeves-rules-red-tape-boot-on-neck-innovation-mansion-house&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCOEBEAE",
+      "displayed_link": "https://www.theguardian.com › politics › jul › rachel-re...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a10b06e435311032d4a7ee87f4f8e5404.png",
+      "date": "Jul 16, 2025",
+      "snippet": "Consumers will now have a 10-year limit on making claims, and from will see the rate of interest applied to compensation slashed from 8% from ...",
+      "snippet_highlighted_words": [
+        "will",
+        "10",
+        "year",
+        "will",
+        "rate",
+        "interest"
+      ],
+      "source": "The Guardian"
+    },
+    {
+      "position": 93,
+      "title": "Is USEG a good long term investment - Superior profit ...",
+      "link": "https://www.printweek.in/news-nationals/Is-USEG-a-good-long-term-investment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.printweek.in/news-nationals/Is-USEG-a-good-long-term-investment&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCO8BEAE",
+      "displayed_link": "https://www.printweek.in › ... › ✌️ Stock Analysis ✌️✌️",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15af4183fa4e36e72cccf5c45bced32c2e7.png",
+      "date": "6 hours ago",
+      "snippet": "【Stock Trends】✌️ From penny stocks to mid-cap rockets, we help you identify real growth stories before they go mainstream — with 2x+ ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 99,
+            "reviews": 11779
+          },
+          "extensions": [
+            "99%(11,779)"
+          ]
+        }
+      },
+      "source": "PrintWeekIndia"
+    },
+    {
+      "position": 94,
+      "title": "'Why take the risk?' Readers push back on Rachel ...",
+      "link": "https://uk.finance.yahoo.com/news/why-risk-readers-push-back-135230146.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.finance.yahoo.com/news/why-risk-readers-push-back-135230146.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCI4CEAE",
+      "displayed_link": "https://uk.finance.yahoo.com › news › why-risk-readers...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a29190054d16a2f7de6bc0b80818f64bb.png",
+      "date": "7 days ago",
+      "snippet": "Many commenters questioned the wisdom of urging people into the stock market, arguing that fixed-rate savings accounts and tax-free ISAs already ...",
+      "snippet_highlighted_words": [
+        "rate"
+      ],
+      "source": "Yahoo.co"
+    },
+    {
+      "position": 95,
+      "title": "With A 5.6% Yield, This Dividend Aristocrat Pays Monthly. ...",
+      "link": "https://www.barchart.com/story/news/33632241/with-a-5-6-yield-this-dividend-aristocrat-pays-monthly-is-it-a-buy-here",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.barchart.com/story/news/33632241/with-a-5-6-yield-this-dividend-aristocrat-pays-monthly-is-it-a-buy-here&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoFCPcBEAE",
+      "displayed_link": "https://www.barchart.com › story › news › with-a-5-6-yi...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a2c1400e95d26ebdc54dc2fdc2e6dfda7.png",
+      "date": "7 hours ago",
+      "snippet": "Investors earn interest daily, and taxes are reported annually on earned interest, aligning with standard taxable investment treatment. With ...",
+      "snippet_highlighted_words": [
+        "interest",
+        "annually",
+        "interest",
+        "investment"
+      ],
+      "source": "Barchart.com"
+    },
+    {
+      "position": 96,
+      "title": "Compare our best cash ISA rates",
+      "link": "https://www.halifax.co.uk/isas/cash-isas.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.halifax.co.uk/isas/cash-isas.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECC4QAQ",
+      "displayed_link": "https://www.halifax.co.uk › Home › ISAs",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15abfc0ae28188a770f60eb9120d71257a8.png",
+      "snippet": "Interest is paid monthly. Minimum first deposit. £1. Open for. One year. Your account will then change to an Instant ISA Saver ...",
+      "snippet_highlighted_words": [
+        "Interest",
+        "year",
+        "will"
+      ],
+      "source": "Halifax"
+    },
+    {
+      "position": 97,
+      "title": "United Rentals Is Extending Its Market Leadership",
+      "link": "https://www.morningstar.com/company-reports/1311111-united-rentals-is-extending-its-market-leadership",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.morningstar.com/company-reports/1311111-united-rentals-is-extending-its-market-leadership&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECCwQAQ",
+      "displayed_link": "https://www.morningstar.com › company-reports › 131...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ae0d40cfd1c9aee7d1e31f452b888385b.png",
+      "date": "3 days ago",
+      "snippet": "The company has delivered 10-year CAGRs of 10% for revenue, 11 ... Our stage two forecast period incorporates an estimated investment rate ...",
+      "snippet_highlighted_words": [
+        "10",
+        "year",
+        "10",
+        "investment rate"
+      ],
+      "source": "Morningstar"
+    },
+    {
+      "position": 98,
+      "title": "Nat-Gas Prices Climb On A Smaller-Than-Expected ...",
+      "link": "https://www.barchart.com/story/news/33626306/nat-gas-prices-climb-on-a-smaller-than-expected-storage-build",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.barchart.com/story/news/33626306/nat-gas-prices-climb-on-a-smaller-than-expected-storage-build&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECDAQAQ",
+      "displayed_link": "https://www.barchart.com › story › news › nat-gas-prices...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15ad6d8bca4ae0041aca1a8fc5a943eb9b7.png",
+      "date": "11 hours ago",
+      "snippet": "With guaranteed interest rates as high as 5.80% and zero market risk, FastBreak is rapidly positioning itself as a better alternative to ...",
+      "snippet_highlighted_words": [
+        "interest rates",
+        "itself"
+      ],
+      "source": "Barchart.com"
+    },
+    {
+      "position": 99,
+      "title": "Why investing matters: How to build your wealth and beat ...",
+      "link": "https://www.thisismoney.co.uk/money/investingguides/article-14934433/Why-investing-matters-build-wealth-beat-inflation.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thisismoney.co.uk/money/investingguides/article-14934433/Why-investing-matters-build-wealth-beat-inflation.html&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQFnoECCsQAQ",
+      "displayed_link": "https://www.thisismoney.co.uk › article-14934433 › W...",
+      "favicon": "https://serpapi.com/searches/68831fde28b27bed1e0b1ae0/images/9642bdb2edd8663d066afb53c905a15a721353e8ffdc64aca610f342a2e9ca7a.png",
+      "date": "23 hours ago",
+      "snippet": "Why invest instead of sticking with cash saving. After years in the doldrums, interest rates have risen sharply and it's now possible to get a ...",
+      "snippet_highlighted_words": [
+        "years",
+        "interest rates"
+      ],
+      "source": "This is Money"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Compound interest calculator",
+      "link": "https://www.google.com/search?num=100&sca_esv=49266cf56d93934f&hl=en&gl=us&q=Compound+interest+calculator&sa=X&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQ1QJ6BQjfAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Compound+interest+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "what interest rate will double money in 10 years?",
+      "link": "https://www.google.com/search?num=100&sca_esv=49266cf56d93934f&hl=en&gl=us&q=what+interest+rate+will+double+money+in+10+years%3F&sa=X&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQ1QJ6BQjgAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+interest+rate+will+double+money+in+10+years%3F"
+    },
+    {
+      "block_position": 1,
+      "query": "Rule of 72 calculator",
+      "link": "https://www.google.com/search?num=100&sca_esv=49266cf56d93934f&hl=en&gl=us&q=Rule+of+72+calculator&sa=X&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQ1QJ6BQjeAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Rule+of+72+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "What interest rate would double your money in 5 years",
+      "link": "https://www.google.com/search?num=100&sca_esv=49266cf56d93934f&hl=en&gl=us&q=What+interest+rate+would+double+your+money+in+5+years&sa=X&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQ1QJ6BQjdAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+interest+rate+would+double+your+money+in+5+years"
+    },
+    {
+      "block_position": 1,
+      "query": "Simple interest calculator",
+      "link": "https://www.google.com/search?num=100&sca_esv=49266cf56d93934f&hl=en&gl=us&q=Simple+interest+calculator&sa=X&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQ1QJ6BQjcAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Simple+interest+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Compound interest formula",
+      "link": "https://www.google.com/search?num=100&sca_esv=49266cf56d93934f&hl=en&gl=us&q=Compound+interest+formula&sa=X&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQ1QJ6BQjbAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Compound+interest+formula"
+    },
+    {
+      "block_position": 1,
+      "query": "$15,000 at 15% compounded annually for 5 years",
+      "link": "https://www.google.com/search?num=100&sca_esv=49266cf56d93934f&hl=en&gl=us&q=%2415,000+at+15%25+compounded+annually+for+5+years&sa=X&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQ1QJ6BQjaAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=%2415%2C000+at+15%25+compounded+annually+for+5+years"
+    },
+    {
+      "block_position": 1,
+      "query": "Monthly compound interest calculator",
+      "link": "https://www.google.com/search?num=100&sca_esv=49266cf56d93934f&hl=en&gl=us&q=Monthly+compound+interest+calculator&sa=X&ved=2ahUKEwjP2NrorNeOAxWAAHkGHZ-0B0gQ1QJ6BQjZAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Monthly+compound+interest+calculator"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 100 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&num=100&sca_esv=49266cf56d93934f&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&oq=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&oq=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&oq=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&oq=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&oq=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+rate+of+annual+interest+will+an+investment+quadruple+itself+in+10+years%3F&start=400"
+    }
+  }
+}

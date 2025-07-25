@@ -1,0 +1,1685 @@
+{
+  "search_metadata": {
+    "id": "6882e4b050d43ed3971ad663",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/25883b889d8367ee/6882e4b050d43ed3971ad663.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/25883b889d8367ee/6882e4b050d43ed3971ad663.json_with_pixel_position",
+    "created_at": "2025-07-25 01:58:08 UTC",
+    "processed_at": "2025-07-25 01:58:08 UTC",
+    "google_url": "https://www.google.com/search?q=illinois+court+cases&oq=illinois+court+cases&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/25883b889d8367ee/6882e4b050d43ed3971ad663.html",
+    "total_time_taken": 1.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "illinois court cases",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "illinois court cases",
+    "total_results": 149000000,
+    "time_taken_displayed": 0.41,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Can you look up Illinois court cases?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "To find Illinois court cases, you can access electronic dockets through the Clerk of the Circuit Court of Cook County's website for Cook County cases. For statewide cases, including those from other counties, you can use the re:SearchIL website which is a statewide central document repository. Additionally, the Public Access to Court Electronic Records (PACER) system is available for accessing information from federal courts.",
+          "reference_indexes": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            6
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Here's a more detailed breakdown:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Cook County Court Records:",
+              "snippet": "The Clerk of the Circuit Court of Cook County provides online access to case dockets in various divisions like Civil, Law, Chancery, and Domestic Relations/Child Support. You can search for cases on their website.",
+              "reference_indexes": [
+                1,
+                5
+              ]
+            },
+            {
+              "title": "Statewide Illinois Cases:",
+              "snippet": "The Illinois Courts (.gov) website offers the re:SearchIL system, which is a central repository for court documents and filings for the entire state.",
+              "reference_indexes": [
+                2,
+                6
+              ]
+            },
+            {
+              "title": "Federal Court Cases:",
+              "snippet": "The PACER system allows access to case and docket information from federal appellate, district, and bankruptcy courts. You'll need to create a PACER account to access this information.",
+              "reference_indexes": [
+                0,
+                3
+              ]
+            },
+            {
+              "title": "Criminal Records:",
+              "snippet": "While some criminal records are publicly accessible, others may have restrictions. The Illinois Freedom of Information Act outlines the public's right to access government records.",
+              "reference_indexes": [
+                4,
+                6,
+                7,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Public Access to Court Electronic Records | PACER",
+          "link": "https://pacer.uscourts.gov/",
+          "snippet": "Public Access to Court Electronic Records (PACER) * Search for a Case. Learn options to find case information. Search for a Case.",
+          "source": "PACER (.gov)",
+          "index": 0
+        },
+        {
+          "title": "How to get copies of your court records | Illinois Legal Aid Online",
+          "link": "https://www.illinoislegalaid.org/legal-information/how-get-copies-your-court-records#:~:text=Find%20online%20case%20information%20for%20Cook%20County%20here.",
+          "snippet": "May 5, 2023 — Find online case information for Cook County here.",
+          "source": "Illinois Legal Aid Online",
+          "index": 1
+        },
+        {
+          "title": "eFileIL - Statewide eFiling",
+          "link": "https://www.illinoiscourts.gov/eservices/efileil/#:~:text=To%20access%20the%20statewide%20central%20document%20repository:%20visit%20the%20re:SearchIL%20website.",
+          "snippet": "To access the statewide central document repository: visit the re:SearchIL website.",
+          "source": "Illinois Courts (.gov)",
+          "index": 2
+        },
+        {
+          "title": "Recently Filed Cases",
+          "link": "https://www.ilnd.uscourts.gov/RecentlyFiledCase.aspx#:~:text=Public%20Access%20to%20Court%20Electronic%20Records%20(PACER),the%20PACER%20Case%20Locator%20via%20the%20Internet.",
+          "snippet": "Public Access to Court Electronic Records (PACER) is a service that allows users to obtain case and docket information from federa...",
+          "source": "District Court for the Northern District of Illinois (.gov)",
+          "index": 3
+        },
+        {
+          "title": "Illinois Court Records | IllinoisCourtRecords.us",
+          "link": "https://illinoiscourtrecords.us/#:~:text=The%20Illinois%20Freedom%20of%20Information%20Act%2C%20first,of%20state%20government%20agencies%20at%20all%20levels.",
+          "snippet": "The Illinois Freedom of Information Act, first passed in 1989 and updated in 2010, describes citizens' right to view, review, and ...",
+          "source": "IllinoisCourtRecords.us",
+          "index": 4
+        },
+        {
+          "title": "State Courts and Cook County - Case Dockets and Filings",
+          "link": "https://library.law.northwestern.edu/dockets/State#:~:text=The%20Clerk%20of%20the%20Circuit%20Court%20of,Law%2C%20Chancery%2C%20and%20Domestic%20Relations/Child%20Support%20divisions.",
+          "snippet": "Dec 10, 2024 — The Clerk of the Circuit Court of Cook County provides electronic access to case dockets in its Civil, Law, Chancery,",
+          "source": "Pritzker Legal Research Center",
+          "index": 5
+        },
+        {
+          "title": "Illinois Public Records Online - ThePublicIndex",
+          "link": "https://illinois.thepublicindex.org/#:~:text=The%20court%20of%20Illinois%20has%20a%20database,records%20that%20are%20open%20to%20the%20public.",
+          "snippet": "The court of Illinois has a database for all 102 counties in the state where you can see case information, including criminal reco...",
+          "source": "The Public Index",
+          "index": 6
+        },
+        {
+          "title": "Expunge & Seal Criminal Records in Illinois",
+          "link": "https://www.lyonkerr.com/expungement-sealing/#:~:text=In%20Illinois%2C%20individuals%20who%20have%20been%20convicted,or%20restrict%20access%20to%20their%20criminal%20records.",
+          "snippet": "In Illinois, individuals who have been convicted or arrested for certain crimes may have the opportunity to clear or restrict acce...",
+          "source": "Lyon & Kerr",
+          "index": 7
+        },
+        {
+          "title": "Hinds County Court Records | MississippiCourtRecords.us",
+          "link": "https://mississippicourtrecords.us/hinds/#:~:text=While%20many%20court%20records%20are%20open%20to,may%20compromise%20the%20integrity%20of%20the%20record.",
+          "snippet": "While many court records are open to the public, certain records remain restricted. These include personal or private records, juv...",
+          "source": "MississippiCourtRecords.us",
+          "index": 8
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSUxVSnBXa0Z1UkZSNmExRTJaMnN3VUU1VWNHRnBYM2hhZGxkVlJVNUtUR3RRYlRSWE1sTjJSalpDV0dodmRuWktNVTlQZFd4cGMwNXlkV010WHpWSlVXdDBlR0k1TUhaeFMwVmxlblo1U0ZaUlFWVkZSalY0YkcxTGR4SVdjMDlUUTJGTGVrOURaRTlMT1hVNFVHbGhZWFZOUVJvaVFVWk5RVWRIYjB3d1dFRmpkbVJ2U25OQmR6WlZSMFpvWkU1S2RWTjNkSFpmWnciLCJmY3YiOiIzIiwiZWkiOiJzT1NDYUt6T0NkT0s5dThQaWFhdU1BIiwicWMiOiJDaFJwYkd4cGJtOXBjeUJqYjNWeWRDQmpZWE5sY3hBQWZkcnRWajgiLCJxdWVzdGlvbiI6IkNhbiB5b3UgbG9vayB1cCBJbGxpbm9pcyBjb3VydCBjYXNlcz8iLCJsayI6IkdpUmpZVzRnZVc5MUlHeHZiMnNnZFhBZ2FXeHNhVzV2YVhNZ1kyOTFjblFnWTJGelpYTSIsImJzIjoiYy1NSzRsSjFUc3hUcU13dlZjakp6ODlXS0MxUThNekp5Y3pMenl4V1NNNHZMU3BSU0U0c1RpMjJsemhnWUtRbXBaS01wallUaTFvdUZ5NDVqX3h5aFpKOHVESWtXUVZfYjN1SnUyWkc4bEt5R2JnVjVXZHotWEVwZzB6SlRjeXJoRWdWSzZUa0E2WGd6c3RJTEV1MWwxaWhaYVFpcFpTQlRXVW1za3F1QkM0ZE5GY2xGaFdsRmdNVlotWWhERTNMTDFKSUswb0ZHbnlmM1VoWFNqc0RwNVpNZEMwQ2pBQSIsImlkIjoiZmNfc09TQ2FLek9DZE9LOXU4UGlhYXVNQV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSUxVSnBXa0Z1UkZSNmExRTJaMnN3VUU1VWNHRnBYM2hhZGxkVlJVNUtUR3RRYlRSWE1sTjJSalpDV0dodmRuWktNVTlQZFd4cGMwNXlkV010WHpWSlVXdDBlR0k1TUhaeFMwVmxlblo1U0ZaUlFWVkZSalY0YkcxTGR4SVdjMDlUUTJGTGVrOURaRTlMT1hVNFVHbGhZWFZOUVJvaVFVWk5RVWRIYjB3d1dFRmpkbVJ2U25OQmR6WlZSMFpvWkU1S2RWTjNkSFpmWnciLCJmY3YiOiIzIiwiZWkiOiJzT1NDYUt6T0NkT0s5dThQaWFhdU1BIiwicWMiOiJDaFJwYkd4cGJtOXBjeUJqYjNWeWRDQmpZWE5sY3hBQWZkcnRWajgiLCJxdWVzdGlvbiI6IkNhbiB5b3UgbG9vayB1cCBJbGxpbm9pcyBjb3VydCBjYXNlcz8iLCJsayI6IkdpUmpZVzRnZVc5MUlHeHZiMnNnZFhBZ2FXeHNhVzV2YVhNZ1kyOTFjblFnWTJGelpYTSIsImJzIjoiYy1NSzRsSjFUc3hUcU13dlZjakp6ODlXS0MxUThNekp5Y3pMenl4V1NNNHZMU3BSU0U0c1RpMjJsemhnWUtRbXBaS01wallUaTFvdUZ5NDVqX3h5aFpKOHVESWtXUVZfYjN1SnUyWkc4bEt5R2JnVjVXZHotWEVwZzB6SlRjeXJoRWdWSzZUa0E2WGd6c3RJTEV1MWwxaWhaYVFpcFpTQlRXVW1za3F1QkM0ZE5GY2xGaFdsRmdNVlotWWhERTNMTDFKSUswb0ZHbnlmM1VoWFNqc0RwNVpNZEMwQ2pBQSIsImlkIjoiZmNfc09TQ2FLek9DZE9LOXU4UGlhYXVNQV8xIn0%3D"
+    },
+    {
+      "question": "How to look up court cases OK?",
+      "type": "featured_snippet",
+      "snippet": "Open the Oklahoma State Courts Network ( OSCN ) website: www.oscn.net. From the home page click on \"Court Dockets\" located at the top of the page. If you know the case number, enter it on the left side of the screen and change the name of the county and click \"Go.\"",
+      "title": "Record Searches | Canadian County, OK - Official Website",
+      "link": "https://www.canadiancounty.org/1041/Record-Search#:~:text=Open%20the%20Oklahoma%20State%20Courts,county%20and%20click%20%22Go.%22",
+      "displayed_link": "https://www.canadiancounty.org › Record-Search",
+      "source_logo": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/a664501a78ecbb1464c5c79213468827b32686f3f7fce03f343808200baf6f95.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSUxVSnBXa0Z1UkZSNmExRTJaMnN3VUU1VWNHRnBYM2hhZGxkVlJVNUtUR3RRYlRSWE1sTjJSalpDV0dodmRuWktNVTlQZFd4cGMwNXlkV010WHpWSlVXdDBlR0k1TUhaeFMwVmxlblo1U0ZaUlFWVkZSalY0YkcxTGR4SVdjMDlUUTJGTGVrOURaRTlMT1hVNFVHbGhZWFZOUVJvaVFVWk5RVWRIYjB3d1dFRmpkbVJ2U25OQmR6WlZSMFpvWkU1S2RWTjNkSFpmWnciLCJmY3YiOiIzIiwiZWkiOiJzT1NDYUt6T0NkT0s5dThQaWFhdU1BIiwicWMiOiJDaFJwYkd4cGJtOXBjeUJqYjNWeWRDQmpZWE5sY3hBQWZkcnRWajgiLCJxdWVzdGlvbiI6IkhvdyB0byBsb29rIHVwIGNvdXJ0IGNhc2VzIE9LPyIsImxrIjoiR2gxb2IzY2dkRzhnYkc5dmF5QjFjQ0JqYjNWeWRDQmpZWE5sY3lCdmF3IiwiYnMiOiJjLU1LNGxKMVRzeFRxTXd2VmNqSno4OVdLQzFROE16Snljekx6eXhXU000dkxTcFJTRTRzVGkyMmx6aGdZS1FtcFpLTXBqWVRpMW91Rnk0NWpfeHloWko4dURJa1dRVl9iM3VKdTJaRzhsS3lHYmdWNVdkei1YRXBnMHpKVGN5cmhFZ1ZLNlRrQTZYZ3pzdElMRXUxbDFpaFphUWlwWlNCVFdVbXNrcXVCQzRkTkZjbEZoV2xGZ01WWi1ZaERFM0xMMUpJSzBvRkdueWYzVWhYU2pzRHA1Wk1kQzBDakFBIiwiaWQiOiJmY19zT1NDYUt6T0NkT0s5dThQaWFhdU1BXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSUxVSnBXa0Z1UkZSNmExRTJaMnN3VUU1VWNHRnBYM2hhZGxkVlJVNUtUR3RRYlRSWE1sTjJSalpDV0dodmRuWktNVTlQZFd4cGMwNXlkV010WHpWSlVXdDBlR0k1TUhaeFMwVmxlblo1U0ZaUlFWVkZSalY0YkcxTGR4SVdjMDlUUTJGTGVrOURaRTlMT1hVNFVHbGhZWFZOUVJvaVFVWk5RVWRIYjB3d1dFRmpkbVJ2U25OQmR6WlZSMFpvWkU1S2RWTjNkSFpmWnciLCJmY3YiOiIzIiwiZWkiOiJzT1NDYUt6T0NkT0s5dThQaWFhdU1BIiwicWMiOiJDaFJwYkd4cGJtOXBjeUJqYjNWeWRDQmpZWE5sY3hBQWZkcnRWajgiLCJxdWVzdGlvbiI6IkhvdyB0byBsb29rIHVwIGNvdXJ0IGNhc2VzIE9LPyIsImxrIjoiR2gxb2IzY2dkRzhnYkc5dmF5QjFjQ0JqYjNWeWRDQmpZWE5sY3lCdmF3IiwiYnMiOiJjLU1LNGxKMVRzeFRxTXd2VmNqSno4OVdLQzFROE16Snljekx6eXhXU000dkxTcFJTRTRzVGkyMmx6aGdZS1FtcFpLTXBqWVRpMW91Rnk0NWpfeHloWko4dURJa1dRVl9iM3VKdTJaRzhsS3lHYmdWNVdkei1YRXBnMHpKVGN5cmhFZ1ZLNlRrQTZYZ3pzdElMRXUxbDFpaFphUWlwWlNCVFdVbXNrcXVCQzRkTkZjbEZoV2xGZ01WWi1ZaERFM0xMMUpJSzBvRkdueWYzVWhYU2pzRHA1Wk1kQzBDakFBIiwiaWQiOiJmY19zT1NDYUt6T0NkT0s5dThQaWFhdU1BXzEifQ%3D%3D"
+    },
+    {
+      "question": "How many courts does Illinois have?",
+      "type": "featured_snippet",
+      "snippet": "The State of Illinois is divided into 25 Judicial Circuits. Each Judicial Circuit is comprised of one or more contiguous counties. Circuit Courts, also known as trial courts, are established within each judicial circuit. View the Illinois Circuit Courts Map (PNG) for more information.",
+      "title": "Structure of the Illinois Court System - 19th Judicial Circuit Court",
+      "link": "https://www.19thcircuitcourt.state.il.us/1273/Structure-of-the-Illinois-Court-System#:~:text=The%20State%20of%20Illinois%20is,(PNG)%20for%20more%20information.",
+      "displayed_link": "https://www.19thcircuitcourt.state.il.us › Structure-of-the...",
+      "source_logo": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/a664501a78ecbb1464c5c79213468827194bb09c9d1259c2cb4c6d8a17a0604c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSUxVSnBXa0Z1UkZSNmExRTJaMnN3VUU1VWNHRnBYM2hhZGxkVlJVNUtUR3RRYlRSWE1sTjJSalpDV0dodmRuWktNVTlQZFd4cGMwNXlkV010WHpWSlVXdDBlR0k1TUhaeFMwVmxlblo1U0ZaUlFWVkZSalY0YkcxTGR4SVdjMDlUUTJGTGVrOURaRTlMT1hVNFVHbGhZWFZOUVJvaVFVWk5RVWRIYjB3d1dFRmpkbVJ2U25OQmR6WlZSMFpvWkU1S2RWTjNkSFpmWnciLCJmY3YiOiIzIiwiZWkiOiJzT1NDYUt6T0NkT0s5dThQaWFhdU1BIiwicWMiOiJDaFJwYkd4cGJtOXBjeUJqYjNWeWRDQmpZWE5sY3hBQWZkcnRWajgiLCJxdWVzdGlvbiI6IkhvdyBtYW55IGNvdXJ0cyBkb2VzIElsbGlub2lzIGhhdmU/IiwibGsiOiJHaUpvYjNjZ2JXRnVlU0JqYjNWeWRITWdaRzlsY3lCcGJHeHBibTlwY3lCb1lYWmwiLCJicyI6ImMtTUs0bEoxVHN4VHFNd3ZWY2pKejg5V0tDMVE4TXpKeWN6THp5eFdTTTR2TFNwUlNFNHNUaTIybHpoZ1lLUW1wWktNcGpZVGkxb3VGeTQ1al94eWhaSjh1RElrV1FWX2IzdUp1MlpHOGxLeUdiZ1Y1V2R6LVhFcGcwekpUY3lyaEVnVks2VGtBNlhnenN0SUxFdTFsMWloWmFRaXBaU0JUV1Vtc2txdUJDNGRORmNsRmhXbEZnTVZaLVloREUzTEwxSklLMG9GR255ZjNVaFhTanNEcDVaTWRDMENqQUEiLCJpZCI6ImZjX3NPU0NhS3pPQ2RPSzl1OFBpYWF1TUFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSUxVSnBXa0Z1UkZSNmExRTJaMnN3VUU1VWNHRnBYM2hhZGxkVlJVNUtUR3RRYlRSWE1sTjJSalpDV0dodmRuWktNVTlQZFd4cGMwNXlkV010WHpWSlVXdDBlR0k1TUhaeFMwVmxlblo1U0ZaUlFWVkZSalY0YkcxTGR4SVdjMDlUUTJGTGVrOURaRTlMT1hVNFVHbGhZWFZOUVJvaVFVWk5RVWRIYjB3d1dFRmpkbVJ2U25OQmR6WlZSMFpvWkU1S2RWTjNkSFpmWnciLCJmY3YiOiIzIiwiZWkiOiJzT1NDYUt6T0NkT0s5dThQaWFhdU1BIiwicWMiOiJDaFJwYkd4cGJtOXBjeUJqYjNWeWRDQmpZWE5sY3hBQWZkcnRWajgiLCJxdWVzdGlvbiI6IkhvdyBtYW55IGNvdXJ0cyBkb2VzIElsbGlub2lzIGhhdmU%2FIiwibGsiOiJHaUpvYjNjZ2JXRnVlU0JqYjNWeWRITWdaRzlsY3lCcGJHeHBibTlwY3lCb1lYWmwiLCJicyI6ImMtTUs0bEoxVHN4VHFNd3ZWY2pKejg5V0tDMVE4TXpKeWN6THp5eFdTTTR2TFNwUlNFNHNUaTIybHpoZ1lLUW1wWktNcGpZVGkxb3VGeTQ1al94eWhaSjh1RElrV1FWX2IzdUp1MlpHOGxLeUdiZ1Y1V2R6LVhFcGcwekpUY3lyaEVnVks2VGtBNlhnenN0SUxFdTFsMWloWmFRaXBaU0JUV1Vtc2txdUJDNGRORmNsRmhXbEZnTVZaLVloREUzTEwxSklLMG9GR255ZjNVaFhTanNEcDVaTWRDMENqQUEiLCJpZCI6ImZjX3NPU0NhS3pPQ2RPSzl1OFBpYWF1TUFfMSJ9"
+    },
+    {
+      "question": "How to look up arrests in Illinois for free?",
+      "type": "featured_snippet",
+      "snippet": "Illinois public arrest records are available on online databases maintained by local and state law enforcement agencies. To find an arrest record from an online repository maintained by the County Sheriff, visit the agency's official website and find the link titled Jail Roster or arrest log.",
+      "title": "Illinois Arrest Records | IllinoisCourtRecords.us",
+      "link": "https://illinoiscourtrecords.us/arrest-records/#:~:text=Illinois%20public%20arrest%20records%20are,Jail%20Roster%20or%20arrest%20log.",
+      "displayed_link": "https://illinoiscourtrecords.us › arrest-records",
+      "source_logo": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/a664501a78ecbb1464c5c79213468827cb27780a4345c273593b3d13f524c698.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSUxVSnBXa0Z1UkZSNmExRTJaMnN3VUU1VWNHRnBYM2hhZGxkVlJVNUtUR3RRYlRSWE1sTjJSalpDV0dodmRuWktNVTlQZFd4cGMwNXlkV010WHpWSlVXdDBlR0k1TUhaeFMwVmxlblo1U0ZaUlFWVkZSalY0YkcxTGR4SVdjMDlUUTJGTGVrOURaRTlMT1hVNFVHbGhZWFZOUVJvaVFVWk5RVWRIYjB3d1dFRmpkbVJ2U25OQmR6WlZSMFpvWkU1S2RWTjNkSFpmWnciLCJmY3YiOiIzIiwiZWkiOiJzT1NDYUt6T0NkT0s5dThQaWFhdU1BIiwicWMiOiJDaFJwYkd4cGJtOXBjeUJqYjNWeWRDQmpZWE5sY3hBQWZkcnRWajgiLCJxdWVzdGlvbiI6IkhvdyB0byBsb29rIHVwIGFycmVzdHMgaW4gSWxsaW5vaXMgZm9yIGZyZWU/IiwibGsiOiJHaXRvYjNjZ2RHOGdiRzl2YXlCMWNDQmhjbkpsYzNSeklHbHVJR2xzYkdsdWIybHpJR1p2Y2lCbWNtVmwiLCJicyI6ImMtTUs0bEoxVHN4VHFNd3ZWY2pKejg5V0tDMVE4TXpKeWN6THp5eFdTTTR2TFNwUlNFNHNUaTIybHpoZ1lLUW1wWktNcGpZVGkxb3VGeTQ1al94eWhaSjh1RElrV1FWX2IzdUp1MlpHOGxLeUdiZ1Y1V2R6LVhFcGcwekpUY3lyaEVnVks2VGtBNlhnenN0SUxFdTFsMWloWmFRaXBaU0JUV1Vtc2txdUJDNGRORmNsRmhXbEZnTVZaLVloREUzTEwxSklLMG9GR255ZjNVaFhTanNEcDVaTWRDMENqQUEiLCJpZCI6ImZjX3NPU0NhS3pPQ2RPSzl1OFBpYWF1TUFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSUxVSnBXa0Z1UkZSNmExRTJaMnN3VUU1VWNHRnBYM2hhZGxkVlJVNUtUR3RRYlRSWE1sTjJSalpDV0dodmRuWktNVTlQZFd4cGMwNXlkV010WHpWSlVXdDBlR0k1TUhaeFMwVmxlblo1U0ZaUlFWVkZSalY0YkcxTGR4SVdjMDlUUTJGTGVrOURaRTlMT1hVNFVHbGhZWFZOUVJvaVFVWk5RVWRIYjB3d1dFRmpkbVJ2U25OQmR6WlZSMFpvWkU1S2RWTjNkSFpmWnciLCJmY3YiOiIzIiwiZWkiOiJzT1NDYUt6T0NkT0s5dThQaWFhdU1BIiwicWMiOiJDaFJwYkd4cGJtOXBjeUJqYjNWeWRDQmpZWE5sY3hBQWZkcnRWajgiLCJxdWVzdGlvbiI6IkhvdyB0byBsb29rIHVwIGFycmVzdHMgaW4gSWxsaW5vaXMgZm9yIGZyZWU%2FIiwibGsiOiJHaXRvYjNjZ2RHOGdiRzl2YXlCMWNDQmhjbkpsYzNSeklHbHVJR2xzYkdsdWIybHpJR1p2Y2lCbWNtVmwiLCJicyI6ImMtTUs0bEoxVHN4VHFNd3ZWY2pKejg5V0tDMVE4TXpKeWN6THp5eFdTTTR2TFNwUlNFNHNUaTIybHpoZ1lLUW1wWktNcGpZVGkxb3VGeTQ1al94eWhaSjh1RElrV1FWX2IzdUp1MlpHOGxLeUdiZ1Y1V2R6LVhFcGcwekpUY3lyaEVnVks2VGtBNlhnenN0SUxFdTFsMWloWmFRaXBaU0JUV1Vtc2txdUJDNGRORmNsRmhXbEZnTVZaLVloREUzTEwxSklLMG9GR255ZjNVaFhTanNEcDVaTWRDMENqQUEiLCJpZCI6ImZjX3NPU0NhS3pPQ2RPSzl1OFBpYWF1TUFfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "State of Illinois Office of the Illinois Courts",
+      "link": "https://www.illinoiscourts.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.illinoiscourts.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECBUQAQ",
+      "displayed_link": "https://www.illinoiscourts.gov",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99da79add25e3287e63cee753e75bd0a7a3.png",
+      "snippet": "Find information on high-profile cases before the Illinois Supreme Court and Illinois Appellate Courts. Probation Services. Learn about Illinois' efforts to ...",
+      "snippet_highlighted_words": [
+        "high-profile cases"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Circuit Court",
+            "link": "https://www.illinoiscourts.gov/courts/circuit-court/"
+          },
+          {
+            "title": "Public",
+            "link": "https://www.illinoiscourts.gov/public/"
+          },
+          {
+            "title": "Opinions",
+            "link": "https://www.illinoiscourts.gov/top-level-opinions/"
+          },
+          {
+            "title": "Courts",
+            "link": "https://www.illinoiscourts.gov/courts/supreme-court/"
+          }
+        ]
+      },
+      "source": "Illinois Courts (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "On-line Case Information",
+      "link": "https://www.cookcountyclerkofcourt.org/online-case-information",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cookcountyclerkofcourt.org/online-case-information&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECBcQAQ",
+      "displayed_link": "https://www.cookcountyclerkofcourt.org › online-case-i...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99da60e21fa8314c2fbc0b2843dd1ada3ab.png",
+      "snippet": "This service is intended to be used as a resource to determine the general status of historical and active court cases.",
+      "snippet_highlighted_words": [
+        "historical and active court cases"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cook County Court Cases",
+            "link": "https://casesearch.cookcountyclerkofcourt.org/"
+          },
+          {
+            "title": "Civil Division",
+            "link": "https://www.cookcountyclerkofcourt.org/divisions/civil-division"
+          },
+          {
+            "title": "Criminal Division",
+            "link": "https://www.cookcountyclerkofcourt.org/divisions/criminal-division"
+          },
+          {
+            "title": "General Information",
+            "link": "https://www.cookcountyclerkofcourt.org/general-information"
+          }
+        ]
+      },
+      "source": "Clerk of the Circuit Court of Cook County"
+    },
+    {
+      "position": 3,
+      "title": "Court Records Search",
+      "link": "https://www.madisoncountyil.gov/departments/circuit_clerk/court_records_search.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.madisoncountyil.gov/departments/circuit_clerk/court_records_search.php&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECBIQAQ",
+      "displayed_link": "https://www.madisoncountyil.gov › circuit_clerk › court...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d92954bb591a5aec0747c237486b9c382.png",
+      "snippet": "Illinois Legal Aid · Immigration Records · Recent News · Small Claims Court · Traffic Tickets & Criminal Fines · Pay Traffic Fines With No Court Appearance ...",
+      "snippet_highlighted_words": [
+        "Illinois Legal Aid"
+      ],
+      "source": "Madison County, IL (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Judici Welcome Page",
+      "link": "https://www.judici.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.judici.com/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECBkQAQ",
+      "displayed_link": "https://www.judici.com",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dab42c908d98ef5049405932435230969.png",
+      "snippet": "Welcome to Judici! Public Access Search Any one of our 82 participating courts free of charge. Select Court... Adams County, IL Alexander County, IL Bond County, ...",
+      "snippet_highlighted_words": [
+        "Court"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Courts",
+            "link": "https://www.judici.com/courts/court_list.jsp"
+          },
+          {
+            "title": "Cases Filed",
+            "link": "https://www.judici.com/service/pricing.jsp?SERVICE_ID=13"
+          },
+          {
+            "title": "Criminal",
+            "link": "https://www.judici.com/service/pricing.jsp?SERVICE_ID=15"
+          },
+          {
+            "title": "Court Docket by Day/Time",
+            "link": "https://www.judici.com/service/pricing.jsp?SERVICE_ID=16"
+          }
+        ]
+      },
+      "source": "Judici Welcome Page"
+    },
+    {
+      "position": 5,
+      "title": "Lake County Portal: Welcome to the Lake County Circuit ...",
+      "link": "https://prod-portal-ecourt-lakecounty-il.journaltech.com/public-portal/?q=Home",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://prod-portal-ecourt-lakecounty-il.journaltech.com/public-portal/%3Fq%3DHome&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECDgQAQ",
+      "displayed_link": "https://prod-portal-ecourt-lakecounty-il.journaltech.com › ...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d5a4620b23042eb632f4a90981fd570a9.png",
+      "snippet": "Search Cases. This site provides access to certain civil, criminal, and traffic public records of the 19th Judicial Circuit Court of Lake County, Illinois.",
+      "snippet_highlighted_words": [
+        "Search Cases"
+      ],
+      "source": "Lake County Portal"
+    },
+    {
+      "position": 6,
+      "title": "Court Case Information - clericusmagnus.com",
+      "link": "https://www.clericusmagnus.com:8443/profoundui/start?pgm=EDOCS/WDI040CL&p1=%20MA&l1=3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clericusmagnus.com:8443/profoundui/start%3Fpgm%3DEDOCS/WDI040CL%26p1%3D%2520MA%26l1%3D3&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECDQQAQ",
+      "displayed_link": "https://www.clericusmagnus.com › profoundui › start",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dc1b3b1fc723c739d7280fdcaddfca73d.png",
+      "snippet": "Court case information can be viewed on this website. You may search for specific case information using participant name or case number.",
+      "snippet_highlighted_words": [
+        "Court case information can be viewed on this website"
+      ],
+      "source": "clericusmagnus.com"
+    },
+    {
+      "position": 7,
+      "title": "re:SearchIL",
+      "link": "http://researchil.tylerhost.net/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://researchil.tylerhost.net/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCIsBEAE",
+      "displayed_link": "http://researchil.tylerhost.net",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d4cf537ac1071179a3944af9d216a6231.png",
+      "snippet": "Search All 102 Illinois Counties for Case Information and Documents ... What does re:SearchIL mean for court clerks, the traditional custodians of court records?",
+      "snippet_highlighted_words": [
+        "Search All 102 Illinois Counties for Case Information and Documents"
+      ],
+      "source": "re:SearchIL"
+    },
+    {
+      "position": 8,
+      "title": "Court Records and Archives",
+      "link": "https://www.cookcountyil.gov/service/court-records-and-archives",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cookcountyil.gov/service/court-records-and-archives&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCN0BEAE",
+      "displayed_link": "https://www.cookcountyil.gov › service › court-records-...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99ddb812c1baf31e500a04fd1fe5078f83f.png",
+      "snippet": "This service is intended to be used as a resource to determine the general status of historical and in-process court cases.",
+      "snippet_highlighted_words": [
+        "court cases"
+      ],
+      "source": "Cook County (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "Search by Case Number",
+      "link": "https://epay.18thjudicial.org/Clerk/allsearch.do",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://epay.18thjudicial.org/Clerk/allsearch.do&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCIgCEAE",
+      "displayed_link": "https://epay.18thjudicial.org › Clerk › allsearch",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d0627ef0d54888f08aa62488f74ebdb20.png",
+      "snippet": "Search by Ticket/Complaint Number ... To see a sample of a complaint for the location of the complaint number click here. Complaint Number. Arresting Agency.",
+      "snippet_highlighted_words": [
+        "Search by Ticket/Complaint Number"
+      ],
+      "source": "18TH JUDICIAL CIRCUIT COURT CLERK DUPAGE COUNTY ILLINOIS"
+    },
+    {
+      "position": 10,
+      "title": "Access Court Records - Online Case Information",
+      "link": "https://www.circuitclerk.wincoil.gov/access-court-records/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.circuitclerk.wincoil.gov/access-court-records/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECDwQAQ",
+      "displayed_link": "https://www.circuitclerk.wincoil.gov › access-court-records",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d70162ce50d0960732a22e468b3706a14.jpeg",
+      "snippet": "Find a Case Number · Find Criminal Case Information · Find Civil Case Information · Find Party Detail · Search by Case Number · Search by Party · Search by Citation ...",
+      "snippet_highlighted_words": [
+        "Find a Case Number"
+      ],
+      "source": "Clerk of the Circuit Court of Winnebago County (.gov)"
+    },
+    {
+      "position": 11,
+      "title": "Online Court Records | Kendall County, IL",
+      "link": "https://www.kendallcountyil.gov/offices/circuit-clerk/online-court-records",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kendallcountyil.gov/offices/circuit-clerk/online-court-records&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECFIQAQ",
+      "displayed_link": "https://www.kendallcountyil.gov › offices › circuit-clerk",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99df6caf22da1837b2d618b5c465a2b8da4.png",
+      "snippet": "Court case information can be viewed on this website. You may search for specific case information using participant name or case number.",
+      "snippet_highlighted_words": [
+        "Court case information can be viewed on this website"
+      ],
+      "source": "Kendall County, IL (.gov)"
+    },
+    {
+      "position": 12,
+      "title": "The Circuit Court of Illinois",
+      "link": "https://www.illinoiscourts.gov/courts/circuit-court/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.illinoiscourts.gov/courts/circuit-court/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCIwBEAE",
+      "displayed_link": "https://www.illinoiscourts.gov › courts › circuit-court",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d6d7e51b176d35fff0fef906a1f605df4.png",
+      "snippet": "View Circuit Court listings, find a court, browse the judicial directory and more. There are 25 judicial circuits of which seven are single county circuits.",
+      "snippet_highlighted_words": [
+        "Circuit Court listings"
+      ],
+      "source": "Illinois Courts (.gov)"
+    },
+    {
+      "position": 13,
+      "title": "Circuit Court of Cook County: Home",
+      "link": "https://www.cookcountycourt.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cookcountycourt.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCL0BEAE",
+      "displayed_link": "https://www.cookcountycourt.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d0eb53633423bb8d88a4a9b01b49ca3b8.png",
+      "snippet": "Welcome to the official web site for the Circuit Court of Cook County. We are the largest judicial circuit in the State of Illinois and one of the largest ...",
+      "snippet_highlighted_words": [
+        "Circuit Court of Cook County"
+      ],
+      "source": "Circuit Court of Cook County"
+    },
+    {
+      "position": 14,
+      "title": "Clerk of the Circuit Court of Cook County: Home",
+      "link": "https://www.cookcountyclerkofcourt.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cookcountyclerkofcourt.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCN4BEAE",
+      "displayed_link": "https://www.cookcountyclerkofcourt.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d972069e3c61e90ead2ff295a3004ae22.png",
+      "snippet": "Top Services: Case Lookup, Public online case information for general status of historic and active court cases.",
+      "snippet_highlighted_words": [
+        "Case Lookup"
+      ],
+      "source": "Clerk of the Circuit Court of Cook County"
+    },
+    {
+      "position": 15,
+      "title": "United States District Court for the Northern District of Illinois",
+      "link": "https://www.ilnd.uscourts.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ilnd.uscourts.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCPABEAE",
+      "displayed_link": "https://www.ilnd.uscourts.gov",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99da70e9b7e442840a524771baabf5b2775.png",
+      "snippet": "General Order on Electronic Case Filing Written Opinions Recently Filed Cases Access to CM/ECF for the Northern District of Illinois · Daily Calendars · Jurors.",
+      "snippet_highlighted_words": [
+        "Recently Filed Cases"
+      ],
+      "source": "District Court for the Northern District of Illinois (.gov)"
+    },
+    {
+      "position": 16,
+      "title": "Court Records Search | McLean County, IL - Official Website",
+      "link": "https://www.mcleancountyil.gov/137/Court-Records-Search",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mcleancountyil.gov/137/Court-Records-Search&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCIoCEAE",
+      "displayed_link": "https://www.mcleancountyil.gov › Court-Records-Search",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99def2c81abc755a73a7687debb60b714af.png",
+      "snippet": "Search by name, case number, or name and date of birth. Full years of Circuit Clerk data are available from 1991 - present.",
+      "snippet_highlighted_words": [
+        "Search by name, case number, or name and date of birth"
+      ],
+      "source": "McLean County (.gov)"
+    },
+    {
+      "position": 17,
+      "title": "Online Court Records",
+      "link": "https://cic.countyofkane.org/pages/online-court-records.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cic.countyofkane.org/pages/online-court-records.aspx&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCJQCEAE",
+      "displayed_link": "https://cic.countyofkane.org › pages › online-court-records",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d55e34b4241984313ca0f5107ccb472f9.png",
+      "snippet": "​​​Online Court Records. You may view court cases on our website by clicking on the eServices icon on the Home page, and then on Search Court Records.",
+      "snippet_highlighted_words": [
+        "Online Court Records"
+      ],
+      "source": "Kane County Circuit Clerk"
+    },
+    {
+      "position": 18,
+      "title": "Records Lookup",
+      "link": "https://www.sangamoncountycircuitclerk.org/records/records-lookup/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sangamoncountycircuitclerk.org/records/records-lookup/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECDcQAQ",
+      "displayed_link": "https://www.sangamoncountycircuitclerk.org › records",
+      "snippet": "Search by name, search by case number, search by filing date, court schedule. To obtain a Court Schedule: Select a court date from the calendar.",
+      "snippet_highlighted_words": [
+        "Search by name, search by case number, search by filing date, court schedule"
+      ],
+      "source": "Sangamon County Circuit Clerk"
+    },
+    {
+      "position": 19,
+      "title": "Online Court Records",
+      "link": "https://tazewellcountyil.com/online-court-records/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tazewellcountyil.com/online-court-records/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECFUQAQ",
+      "displayed_link": "https://tazewellcountyil.com › online-court-records",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99df3eb4bf0731833df114b875bfc8def09.png",
+      "snippet": "Tazewell County uses Portal to access our court information. Here you can find your balance, case history, court date and more! Tazewell County Portal.",
+      "snippet_highlighted_words": [
+        "Tazewell County uses Portal to access our court information"
+      ],
+      "source": "Tazewell County Circuit Clerk"
+    },
+    {
+      "position": 20,
+      "title": "Public Access",
+      "link": "https://www.circuitclerkofwillcounty.com/public-access",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.circuitclerkofwillcounty.com/public-access&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECFcQAQ",
+      "displayed_link": "https://www.circuitclerkofwillcounty.com › public-access",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d4e0e8eecfc7cefd70c348eba5f5fb946.png",
+      "snippet": "Public can use the link below to access our free Court Case Lookup. Additionally, attorneys can use the link below to access the Availability Calendar.",
+      "snippet_highlighted_words": [
+        "free Court Case Lookup"
+      ],
+      "source": "Will County Circuit Clerk"
+    },
+    {
+      "position": 21,
+      "title": "Champaign County Circuit Clerk",
+      "link": "https://champaigncircuitclerk.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://champaigncircuitclerk.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECG0QAQ",
+      "displayed_link": "https://champaigncircuitclerk.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d6cc64187be7e343a23b0259f89d694d4.png",
+      "snippet": "The Champaign County Circuit Clerk's Office supports our Court System by providing services to both the public and to Courthouse Officials.",
+      "snippet_highlighted_words": [
+        "Court"
+      ],
+      "source": "Champaign County Circuit Clerk"
+    },
+    {
+      "position": 22,
+      "title": "19th Judicial Circuit Court, IL | Official Website",
+      "link": "https://19thcircuitcourt.state.il.us/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://19thcircuitcourt.state.il.us/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCI0BEAE",
+      "displayed_link": "https://19thcircuitcourt.state.il.us",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99de36e8b0ae4e472c42126e5cb6bb11a3a.png",
+      "snippet": "Search Court Records (Online Portal) · Campus Contacts · Court Employment ... Authorization pursuant to Illinois Supreme Court Rule 39 has been received ...",
+      "snippet_highlighted_words": [
+        "Search Court Records (Online Portal"
+      ],
+      "source": "19th Judicial Circuit Court"
+    },
+    {
+      "position": 23,
+      "title": "18TH JUDICIAL CIRCUIT COURT CLERK DUPAGE COUNTY ...",
+      "link": "https://www.18thjudicial.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.18thjudicial.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCKIBEAE",
+      "displayed_link": "https://www.18thjudicial.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d33f50e0436f479fbca922b97e5a2360a.png",
+      "snippet": "Court cases are heard at the DuPage County Courthouse, 505 N County Farm Road Wheaton. Click here for full details. The 18th Judicial Circuit prohibits all ...",
+      "snippet_highlighted_words": [
+        "Court cases are heard at the DuPage County Courthouse, 505 N County Farm Road Wheaton"
+      ],
+      "source": "18TH JUDICIAL CIRCUIT COURT CLERK DUPAGE COUNTY ILLINOIS"
+    },
+    {
+      "position": 24,
+      "title": "Circuit Clerk",
+      "link": "https://www.madisoncountyil.gov/departments/circuit_clerk/index.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.madisoncountyil.gov/departments/circuit_clerk/index.php&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCMIBEAE",
+      "displayed_link": "https://www.madisoncountyil.gov › departments › circuit...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dae7446c925f13f9fa9947a8e84fb6a7c.png",
+      "snippet": "Court case information can be viewed on this website. You may search for specific case information using participant name or case number. Court Schedule · Court ...",
+      "snippet_highlighted_words": [
+        "Court case information can be viewed on this website"
+      ],
+      "source": "Madison County, IL (.gov)"
+    },
+    {
+      "position": 25,
+      "title": "Illinois Case Law",
+      "link": "https://law.justia.com/cases/illinois/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://law.justia.com/cases/illinois/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCMgBEAE",
+      "displayed_link": "https://law.justia.com › cases › illinois",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d804769514dbbc1b62679517ec098c92c.png",
+      "snippet": "The Illinois state court system is divided into three levels. The highest court in Illinois is the Illinois Supreme Court, which consists of seven justices.",
+      "snippet_highlighted_words": [
+        "The Illinois state court system is divided into three levels"
+      ],
+      "source": "Justia Law"
+    },
+    {
+      "position": 26,
+      "title": "Vermilion County Case Search",
+      "link": "https://www.vercounty.org/circuit-clerk/case-search/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vercounty.org/circuit-clerk/case-search/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCOABEAE",
+      "displayed_link": "https://www.vercounty.org › Circuit Clerk",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dcd6d49176d79203889d1b5f091a36ec5.png",
+      "snippet": "Click the link below for the Vermilion County Online Case Search. The link may take a while to load. Online Case Search Record Search Requests",
+      "snippet_highlighted_words": [
+        "Vermilion County Online Case Search"
+      ],
+      "source": "Vermilion County"
+    },
+    {
+      "position": 27,
+      "title": "Illinois Northern District Court",
+      "link": "https://pacer.uscourts.gov/file-case/court-cmecf-lookup/court/ILNDC",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pacer.uscourts.gov/file-case/court-cmecf-lookup/court/ILNDC&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCO0BEAE",
+      "displayed_link": "https://pacer.uscourts.gov › file-case › court › ILNDC",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dd6297823d304713f1148dc52a0dc6c87.png",
+      "snippet": "The purpose of this site is to provide information about locating and filing cases in the federal courts.",
+      "snippet_highlighted_words": [
+        "locating and filing cases in the federal courts"
+      ],
+      "source": "PACER (.gov)"
+    },
+    {
+      "position": 28,
+      "title": "Courts (RC Version: 9.13.3.0) - St. Clair County",
+      "link": "https://www.co.st-clair.il.us/departments/circuit-clerk/courts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.co.st-clair.il.us/departments/circuit-clerk/courts&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCPkBEAE",
+      "displayed_link": "https://www.co.st-clair.il.us › Departments › Circuit Clerk",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99db291a345f0a08d1a047b67eb597f3c88.png",
+      "snippet": "Court Tools. Case Search (Criminal and Civil) · Court Dockets · Resident Resources · Business Resources · Attorney Resources · Service Resources.",
+      "snippet_highlighted_words": [
+        "Case Search (Criminal and Civil"
+      ],
+      "source": "St. Clair County Illinois"
+    },
+    {
+      "position": 29,
+      "title": "Public Access Terms of Use",
+      "link": "https://ipublic.il12th.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ipublic.il12th.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCP0BEAE",
+      "displayed_link": "https://ipublic.il12th.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99db2c9d94974b2b8775a2f4c6b23fa3195.jpeg",
+      "snippet": "This website contains unofficial records of the Circuit Court of the 12th Judicial Circuit, Will County, Illinois and access is being provided solely as a ...",
+      "snippet_highlighted_words": [
+        "unofficial records of the Circuit Court of the 12th Judicial Circuit, Will County, Illinois"
+      ],
+      "source": "iPublic"
+    },
+    {
+      "position": 30,
+      "title": "Court Records",
+      "link": "https://illinois17th.com/public-info/court-records",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://illinois17th.com/public-info/court-records&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCIkCEAE",
+      "displayed_link": "https://illinois17th.com › public-info › court-records",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d52ef9e9293eab85eb2468aa2b693e086.png",
+      "snippet": "Search & Payments Winnebago County Online Court Records or contact the Office of the Winnebago County Circuit Clerk at (815) 319-4500.",
+      "snippet_highlighted_words": [
+        "Search & Payments Winnebago County Online Court Records"
+      ],
+      "source": "17th Judicial Circuit Court"
+    },
+    {
+      "position": 31,
+      "title": "The Will County Circuit Court Clerk - Andrea Lynn Chasteen ...",
+      "link": "https://www.circuitclerkofwillcounty.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.circuitclerkofwillcounty.com/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCJMCEAE",
+      "displayed_link": "https://www.circuitclerkofwillcounty.com",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99de4b43ba3133e7a27d789517feb11acc3.png",
+      "snippet": "The Office of the Clerk of the Circuit Court is responsible for maintaining a record of all traffic, civil, and criminal cases filed and heard in Will County.",
+      "snippet_highlighted_words": [
+        "all traffic, civil, and criminal cases filed and heard in Will County"
+      ],
+      "source": "Will County Circuit Clerk"
+    },
+    {
+      "position": 32,
+      "title": "Illinois Court Records | IllinoisCourtRecords.us",
+      "link": "https://illinoiscourtrecords.us/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://illinoiscourtrecords.us/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCJUCEAE",
+      "displayed_link": "https://illinoiscourtrecords.us",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dfb2a853e3fc76fbe96f78dd6713fae1b.png",
+      "snippet": "Search Illinois court records. Find Illinois criminal, court, inmate, marriage, divorce, birth, death, phone, address, bankruptcy, sex offender, property, ...",
+      "snippet_highlighted_words": [
+        "Search Illinois court records"
+      ],
+      "source": "IllinoisCourtRecords.us"
+    },
+    {
+      "position": 33,
+      "title": "Erin Cartwright Weinstein Lake County, Illinois, Clerk of the ...",
+      "link": "https://www.lakecountycircuitclerk.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lakecountycircuitclerk.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCKgCEAE",
+      "displayed_link": "https://www.lakecountycircuitclerk.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99defad82bb8203b3c97dd218a26360cae4.png",
+      "snippet": "The Clerk of the Circuit Court (Clerk's Office) is, by law, the official keeper of records for all judicial matters brought into the Circuit Court of Lake ...",
+      "snippet_highlighted_words": [
+        "Court",
+        "law",
+        "records",
+        "judicial",
+        "Court"
+      ],
+      "source": "Clerk of the Circuit Court of Lake County"
+    },
+    {
+      "position": 34,
+      "title": "Participating Courts",
+      "link": "https://www.judici.com/courts/court_list.jsp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.judici.com/courts/court_list.jsp&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECDUQAQ",
+      "displayed_link": "https://www.judici.com › courts › court_list",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d8899d0b5209dafa0a973f72050153410.png",
+      "date": "Jul 14, 2025",
+      "snippet": "Attorneys and Judges can use Courtlook to search across all Judici counties, and access case file documents and judge docket notes via personalized case lists/ ...",
+      "snippet_highlighted_words": [
+        "case",
+        "case"
+      ],
+      "source": "Judici Welcome Page"
+    },
+    {
+      "position": 35,
+      "title": "McHenry County Circuit Court Clerk",
+      "link": "https://www.mchenrycircuitclerk.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mchenrycircuitclerk.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECDsQAQ",
+      "displayed_link": "https://www.mchenrycircuitclerk.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d2a8399f4d3250e20fe8341a479b18452.png",
+      "snippet": "Case lookup, make a payment, request copies, court forms, collections, order of protection, e-file documents, legal self-help.",
+      "snippet_highlighted_words": [
+        "Case lookup"
+      ],
+      "source": "McHenry County Circuit Court Clerk"
+    },
+    {
+      "position": 36,
+      "title": "Clerk of the Court of Claims",
+      "link": "https://www.ilsos.gov/departments/court_of_claims/home.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ilsos.gov/departments/court_of_claims/home.html&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECFQQAQ",
+      "displayed_link": "https://www.ilsos.gov › departments › court_of_claims",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d367b53a4b9e664e3ddf6ec50e5d56704.png",
+      "snippet": "About 8,000 cases are filed each year. The court appoints commissioners to conduct trials, take evidence, and make confidential recommendations, and the ...",
+      "snippet_highlighted_words": [
+        "About 8,000 cases are filed each year"
+      ],
+      "source": "Illinois Secretary of State (.gov)"
+    },
+    {
+      "position": 37,
+      "title": "Circuit Clerk | Peoria County, IL",
+      "link": "https://www.peoriacounty.gov/1215/Circuit-Clerk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.peoriacounty.gov/1215/Circuit-Clerk&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECFAQAQ",
+      "displayed_link": "https://www.peoriacounty.gov › Circuit-Clerk",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99db3cfc56e1c7120db4b4c7fbf8c9dd3bc.png",
+      "snippet": "Today, Drakar K. Munoz, 28, was sentenced to 30 years in the Illinois Department of Corrections for robbing and shooting a man in the summer of 2023. Read on...",
+      "snippet_highlighted_words": [
+        "Illinois"
+      ],
+      "source": "Peoria County Website (.gov)"
+    },
+    {
+      "position": 38,
+      "title": "Case Search - Illinois Commerce Commission",
+      "link": "https://www.icc.illinois.gov/docket/search/cases",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.icc.illinois.gov/docket/search/cases&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECGsQAQ",
+      "displayed_link": "https://www.icc.illinois.gov › docket › search › cases",
+      "snippet": "No information is available for this page.",
+      "source": "Illinois.gov"
+    },
+    {
+      "position": 39,
+      "title": "Circuit Clerk",
+      "link": "https://www.leecountyil.com/183/Circuit-Clerk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.leecountyil.com/183/Circuit-Clerk&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECHEQAQ",
+      "displayed_link": "https://www.leecountyil.com › Circuit-Clerk",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99de19132954d80f2ecf04ee343dfc79f38.png",
+      "snippet": "The Circuit Clerk's Office can be found on the third floor of the Lee County Courts Building, located at 309 South Galena Avenue.",
+      "snippet_highlighted_words": [
+        "309 South Galena Avenue"
+      ],
+      "source": "Lee County, IL"
+    },
+    {
+      "position": 40,
+      "title": "Structure of the Illinois Court System",
+      "link": "https://www.19thcircuitcourt.state.il.us/1273/Structure-of-the-Illinois-Court-System",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.19thcircuitcourt.state.il.us/1273/Structure-of-the-Illinois-Court-System&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECHQQAQ",
+      "displayed_link": "https://www.19thcircuitcourt.state.il.us › Structure-of-the...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d77b8dfaba0491859db0fc5abba3fbfb0.png",
+      "snippet": "The Illinois Supreme Court is the highest court in the State. Cases are normally channeled to the Supreme Court from the Appellate Court, but in cases where ...",
+      "snippet_highlighted_words": [
+        "Cases are normally channeled to the Supreme Court from the Appellate Court"
+      ],
+      "source": "19th Judicial Circuit Court"
+    },
+    {
+      "position": 41,
+      "title": "How to get copies of your court records",
+      "link": "https://www.illinoislegalaid.org/legal-information/how-get-copies-your-court-records",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.illinoislegalaid.org/legal-information/how-get-copies-your-court-records&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCIYBEAE",
+      "displayed_link": "https://www.illinoislegalaid.org › legal-information › ho...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d25bb2f74cf5f7a99d23f6a0c12b42b00.png",
+      "date": "May 5, 2023",
+      "snippet": "Ask the Circuit Clerk for copies of your court dispositions or use the public computer at the courthouse to look them up and print them out.",
+      "snippet_highlighted_words": [
+        "Ask the Circuit Clerk for copies of your court dispositions"
+      ],
+      "source": "Illinois Legal Aid Online"
+    },
+    {
+      "position": 42,
+      "title": "Public Case Access - Welcome",
+      "link": "https://caseinfo.mchenrycountyil.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://caseinfo.mchenrycountyil.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCI4BEAE",
+      "displayed_link": "https://caseinfo.mchenrycountyil.gov",
+      "snippet": "... court records from the 22nd Judicial Circuit Court of McHenry County, Illinois. The court record summaries viewed here are all public records under Illinois ...",
+      "snippet_highlighted_words": [
+        "court records",
+        "Judicial",
+        "Court",
+        "Illinois",
+        "court",
+        "records",
+        "Illinois"
+      ],
+      "source": "McHenry County (.gov)"
+    },
+    {
+      "position": 43,
+      "title": "Illinois Legal Research & Court Cases",
+      "link": "https://caselaw.findlaw.com/court/illinois",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://caselaw.findlaw.com/court/illinois&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCKEBEAE",
+      "displayed_link": "https://caselaw.findlaw.com › CASE LAW › State Courts",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d624348f1edc31c5b5b661fa70052c17d.png",
+      "snippet": "FindLaw provides resources for Illinois legal research including searchable database of the IL Cases : IL Court Opinions - IL Court Decisions.",
+      "snippet_highlighted_words": [
+        "Illinois",
+        "Cases",
+        "Court",
+        "Court Decisions"
+      ],
+      "source": "FindLaw"
+    },
+    {
+      "position": 44,
+      "title": "Court Case Information - clericusmagnus.com",
+      "link": "https://www.clericusmagnus.com:8443/profoundui/start?pgm=EDOCS/WDI040CL&p1=%20CH&l1=3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clericusmagnus.com:8443/profoundui/start%3Fpgm%3DEDOCS/WDI040CL%26p1%3D%2520CH%26l1%3D3&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCKoBEAE",
+      "displayed_link": "https://www.clericusmagnus.com › profoundui › start",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d45ef800ba2dbb51f3dcbf2f33c69ef8a.png",
+      "snippet": "Champaign County court case information may be viewed on this website. You may search for specific case information using participant name or case number.",
+      "snippet_highlighted_words": [
+        "court case",
+        "case",
+        "case"
+      ],
+      "source": "clericusmagnus.com"
+    },
+    {
+      "position": 45,
+      "title": "Kane County Circuit Clerk",
+      "link": "https://cic.countyofkane.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cic.countyofkane.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCKsBEAE",
+      "displayed_link": "https://cic.countyofkane.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d3e75b16119706fcbaeab1d42080628bd.png",
+      "snippet": "Illinois 16th Judicial Circuit ... By law, the Circuit Clerk's primary function is to establish, maintain, and keep all records of court and the court seal.",
+      "snippet_highlighted_words": [
+        "Illinois",
+        "Judicial",
+        "law",
+        "records",
+        "court",
+        "court"
+      ],
+      "source": "Kane County Circuit Clerk"
+    },
+    {
+      "position": 46,
+      "title": "Remote Court Proceedings",
+      "link": "https://www.cookcountycourt.org/about/remote-court-proceedings",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cookcountycourt.org/about/remote-court-proceedings&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCMMBEAE",
+      "displayed_link": "https://www.cookcountycourt.org › about › remote-court...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d29d453f33797302557141c01ffa7382f.png",
+      "snippet": "The Cook County Circuit Court provides computer access in the designated Remote Access Centers for litigants who can only connect to their Zoom hearings.",
+      "snippet_highlighted_words": [
+        "Court"
+      ],
+      "source": "Circuit Court of Cook County"
+    },
+    {
+      "position": 47,
+      "title": "How To Look Up A Court Case In Illinois? - CountyOffice.org",
+      "link": "https://www.youtube.com/watch?v=dIPztfS9IuA",
+      "displayed_link": "690+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVfiu76VHl9IXjOeXLVlcdppOIDHmFJm3Tb8jo--2NKEn&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d76a814535960e5f706a4c6456eec2141.png",
+      "snippet": "How To Look Up A Court Case In Illinois? In this informative video, we'll guide you through the process of looking up a court case in ...",
+      "duration": "2:21",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQCDQvYCj2aNVDJI8avf3K_a-s1R7UOTHVFIQ",
+      "source": "YouTube · County Office Law"
+    },
+    {
+      "position": 48,
+      "title": "Adams County, IL | Home",
+      "link": "https://www.adamscountyil.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.adamscountyil.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCNIBEAE",
+      "displayed_link": "https://www.adamscountyil.gov",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d96a0cae6e92b9ebb5db1542620437f75.png",
+      "snippet": "Located in west central Illinois on the banks of; AC200 AC ... Home Government Court Records Public Records GIS/Maps Floodplain Management Sitemap Webmail.",
+      "snippet_highlighted_words": [
+        "Illinois",
+        "Court Records",
+        "Records"
+      ],
+      "source": "Adams County, IL (.gov)"
+    },
+    {
+      "position": 49,
+      "title": "Oyez",
+      "link": "https://www.oyez.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oyez.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCNYBEAE",
+      "displayed_link": "https://www.oyez.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dab561e040b5684f73e88381732f53973.png",
+      "snippet": "A multimedia judicial archive of the Supreme Court of the United States.",
+      "snippet_highlighted_words": [
+        "judicial",
+        "Court"
+      ],
+      "source": "Oyez"
+    },
+    {
+      "position": 50,
+      "title": "Circuit Clerk | Departments | St. Clair (RC Version: 9.13.3.0)",
+      "link": "https://www.co.st-clair.il.us/departments/circuit-clerk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.co.st-clair.il.us/departments/circuit-clerk&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCN8BEAE",
+      "displayed_link": "https://www.co.st-clair.il.us › Departments",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d4a6ca3e50bc15bfbed36b9c05d0e7faa.png",
+      "snippet": "eFiling: Pursuant to Illinois Supreme Court Rule 9, eFiling is required on all civil case types for Attorneys and Self Represented Litigants. · Court Record ...",
+      "snippet_highlighted_words": [
+        "Illinois",
+        "Court",
+        "case",
+        "Court"
+      ],
+      "source": "St. Clair County Illinois"
+    },
+    {
+      "position": 51,
+      "title": "Where to Find Illinois Civil Court Records",
+      "link": "https://illinoiscourtrecords.us/civil-court-records/find/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://illinoiscourtrecords.us/civil-court-records/find/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCOEBEAE",
+      "displayed_link": "https://illinoiscourtrecords.us › civil-court-records › find",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dd262ca0196c3480d073fa43a8ce8c00c.png",
+      "snippet": "Illinois Civil Court records are accessible online using the electronic resources provided on various court websites. They are also accessible using third- ...",
+      "snippet_highlighted_words": [
+        "Illinois",
+        "Court records",
+        "court"
+      ],
+      "source": "IllinoisCourtRecords.us"
+    },
+    {
+      "position": 52,
+      "title": "I2File · eFiling Service to create new case and additional ...",
+      "link": "https://efileil.i2file.net/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://efileil.i2file.net/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCO4BEAE",
+      "displayed_link": "https://efileil.i2file.net",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99de7d5e5a858e8b48f95ef8dbab31c3d19.png",
+      "snippet": "Now Filing becomes easy for New Cases and Additional Documents within any participating Illinois Court Jurisdiction to Save Time, Money...",
+      "snippet_highlighted_words": [
+        "Cases",
+        "Illinois Court"
+      ],
+      "source": "I2File"
+    },
+    {
+      "position": 53,
+      "title": "Zoom Court Directory",
+      "link": "https://kanecourt.org/zoom-court",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kanecourt.org/zoom-court&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCO8BEAE",
+      "displayed_link": "https://kanecourt.org › zoom-court",
+      "snippet": "The 16th Judicial Circuit offers remote hearings via Zoom. To join as an attorney or litigant, select the \"Join Hearing\" link for your assigned courtroom.",
+      "snippet_highlighted_words": [
+        "Judicial"
+      ],
+      "source": "Kane Court Partners"
+    },
+    {
+      "position": 54,
+      "title": "State Courts and Cook County - Case Dockets and Filings",
+      "link": "https://library.law.northwestern.edu/dockets/State",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://library.law.northwestern.edu/dockets/State&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCPoBEAE",
+      "displayed_link": "https://library.law.northwestern.edu › dockets › State",
+      "date": "Dec 10, 2024",
+      "snippet": "The Clerk of the Circuit Court of Cook County provides electronic access to case dockets in its Civil, Law, Chancery, and Domestic Relations/Child Support ...",
+      "snippet_highlighted_words": [
+        "Court",
+        "case",
+        "Law"
+      ],
+      "source": "Northwestern Law Library"
+    },
+    {
+      "position": 55,
+      "title": "Clerk of the Circuit Court",
+      "link": "https://www.cookcountyil.gov/agency/clerk-circuit-court",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cookcountyil.gov/agency/clerk-circuit-court&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCPsBEAE",
+      "displayed_link": "https://www.cookcountyil.gov › agency › clerk-circuit-c...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99ddde072923bc0f2eee7d80599be7f163c.png",
+      "snippet": "All services, information and court records are provided with courtesy and cost efficiency. Mandates and Key Activities Mandated by Illinois Fine and Fee ...",
+      "snippet_highlighted_words": [
+        "court records",
+        "Illinois"
+      ],
+      "source": "Cook County (.gov)"
+    },
+    {
+      "position": 56,
+      "title": "Sangamon County Circuit Clerk Joe Roesch",
+      "link": "https://www.sangamoncountycircuitclerk.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sangamoncountycircuitclerk.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCPwBEAE",
+      "displayed_link": "https://www.sangamoncountycircuitclerk.org",
+      "snippet": "Records. With the Illinois Supreme Court mandating electronic filing, our goal for our customers is to be sure this process is completed accurately and ...",
+      "snippet_highlighted_words": [
+        "Records",
+        "Illinois",
+        "Court"
+      ],
+      "source": "Sangamon County Circuit Clerk"
+    },
+    {
+      "position": 57,
+      "title": "How Can I Access Illinois Court Records Online ...",
+      "link": "https://www.youtube.com/watch?v=WZ16c7m6-c8",
+      "displayed_link": "300+ views · 9 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdykhi09wyQbyaLJ5MERRhmASQeC9kD0dG5B6G_QiMk7re&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d87c55637039d9098cd91aefa77849517.png",
+      "snippet": "How Can I Access Illinois Court Records Online? Unlock the convenience of accessing Illinois court records online with our detailed guide!",
+      "duration": "2:56",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQi8UN0QVB_3-9a7d5KzCA4eDslcH3gRqM6Xw",
+      "source": "YouTube · County Office"
+    },
+    {
+      "position": 58,
+      "title": "Search Records Online | DuPage Co, IL",
+      "link": "https://www.dupagecounty.gov/elected_officials/recorder/search_records_online.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dupagecounty.gov/elected_officials/recorder/search_records_online.php&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCI0CEAE",
+      "displayed_link": "https://www.dupagecounty.gov › recorder › search_reco...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d9553fc480b915e33ddf8a63510ac736b.png",
+      "snippet": "18th Judicial Circuit Court · Auditor · Clerk of the Circuit Court · Coroner ... Search Records Online. Home Elected Officials Recorder Search Records Online.",
+      "snippet_highlighted_words": [
+        "Judicial",
+        "Court",
+        "Court",
+        "Records",
+        "Records"
+      ],
+      "source": "DuPage County (.gov)"
+    },
+    {
+      "position": 59,
+      "title": "How Can I Search for Specific Case Information in Illinois ...",
+      "link": "https://www.youtube.com/watch?v=MFuEcNw11NM",
+      "displayed_link": "270+ views · 9 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRT2FMU4CKwN-SDc0YnJ-8ff48aMFqxUtJYvdXwve6oUPp&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d270b632ae84c099cde517aa518dd55d2.png",
+      "snippet": "How Can I Search for Specific Case Information in Illinois Court Records? In this enlightening video, discover how you can search for ...",
+      "duration": "3:20",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQd5ox_3JwNKwhjWCfahyWz8Ne6_RXBp16Igw",
+      "source": "YouTube · County Office"
+    },
+    {
+      "position": 60,
+      "title": "Illinois Attorney Registration and Disciplinary Commission",
+      "link": "https://www.iardc.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iardc.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCJICEAE",
+      "displayed_link": "https://www.iardc.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dd930fcd51583de3e304c3471b901b16d.png",
+      "snippet": "Summaries of Supreme Court Decisions · Supreme Court Decisions · CONTACT ARDC. Preserving and Advancing the integrity of the legal profession. Lawyer Search.",
+      "snippet_highlighted_words": [
+        "Court Decisions",
+        "Court Decisions"
+      ],
+      "source": "ARDC"
+    },
+    {
+      "position": 61,
+      "title": "PacerMonitor Federal Court Case Tools",
+      "link": "https://www.pacermonitor.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pacermonitor.com/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCJYCEAE",
+      "displayed_link": "https://www.pacermonitor.com",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dfdde8ffe99153ef723ccad875feac1f3.png",
+      "snippet": "PacerMonitor is the best way to track and search Federal District and Bankruptcy Court cases. - PacerMonitor Mobile Federal and Bankruptcy Court PACER ...",
+      "snippet_highlighted_words": [
+        "Court cases",
+        "Court"
+      ],
+      "source": "PacerMonitor"
+    },
+    {
+      "position": 62,
+      "title": "Illinois Court Records and Case Search Online",
+      "link": "https://illinois.thepublicindex.org/court-records",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://illinois.thepublicindex.org/court-records&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCKQCEAE",
+      "displayed_link": "https://illinois.thepublicindex.org › court-records",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d11e3ad13507b49fedb6aeb1c6f5e5e88.png",
+      "snippet": "Illinois has an online portal system re:SearchIL to help the public look up court records in the state and a mandatory e-filing system for civil cases under the ...",
+      "snippet_highlighted_words": [
+        "Illinois",
+        "court records",
+        "cases"
+      ],
+      "source": "The Public Index"
+    },
+    {
+      "position": 63,
+      "title": "Illinois Man Sentenced to 48 months' Imprisonment for ...",
+      "link": "https://www.justice.gov/usao-edwi/pr/illinois-man-sentenced-48-months-imprisonment-investment-fraud-scheme",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justice.gov/usao-edwi/pr/illinois-man-sentenced-48-months-imprisonment-investment-fraud-scheme&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCKkCEAE",
+      "displayed_link": "https://www.justice.gov › usao-edwi › illinois-man-sent...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d1b83e50d61807df0308a46be5cb5c2a5.png",
+      "date": "1 day ago",
+      "snippet": "... Illinois and Wisconsin. According to court records, Pallek engaged in a years' long scheme during which he convinced friends, friends of ...",
+      "snippet_highlighted_words": [
+        "Illinois",
+        "court records"
+      ],
+      "source": "Department of Justice (.gov)"
+    },
+    {
+      "position": 64,
+      "title": "Lake County, Illinois",
+      "link": "https://www.lakecountyil.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lakecountyil.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCLECEAE",
+      "displayed_link": "https://www.lakecountyil.gov",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d3ae4c3308a58057f5d9658e97bf44e77.png",
+      "snippet": "Welcome to Lake County, Illinois. Jobs, Property tax info, Report a concern, Strategic Plan, Maps & records, Permits, Stay connected, County News.",
+      "snippet_highlighted_words": [
+        "Illinois",
+        "records"
+      ],
+      "source": "Lake County (.gov)"
+    },
+    {
+      "position": 65,
+      "title": "eFile Illinois",
+      "link": "https://efileil.tylertech.cloud/OfsEfsp/ui/landing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://efileil.tylertech.cloud/OfsEfsp/ui/landing&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCK4CEAE",
+      "displayed_link": "https://efileil.tylertech.cloud › OfsEfsp › landing",
+      "snippet": "For cases that utilize the Sheriff's Office for service of process, the ... Illinois Supreme Court Rule 9(d)(1). For Law Division District 1 [Calendars ...",
+      "snippet_highlighted_words": [
+        "cases",
+        "Illinois",
+        "Court",
+        "Law"
+      ],
+      "source": "tylertech.cloud"
+    },
+    {
+      "position": 66,
+      "title": "Illinois State Bar Association | The Association for Illinois ...",
+      "link": "https://www.isba.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.isba.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECDYQAQ",
+      "displayed_link": "https://www.isba.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d89cf79af4c2c1628e5b657ccddce27a2.png",
+      "snippet": "Illinois Bar Journal. ISBA's award-winning magazine. Illinois Lawyer Finder ... LIVE WEB - Get to the SharePoint Already: Using SharePoint in Law Firms.",
+      "snippet_highlighted_words": [
+        "Illinois",
+        "Illinois",
+        "Law"
+      ],
+      "source": "Illinois State Bar Association"
+    },
+    {
+      "position": 67,
+      "title": "Supreme Court keeps a pause for now on a ruling that ...",
+      "link": "https://www.nprillinois.org/2025-07-24/supreme-court-keeps-a-pause-for-now-on-a-ruling-that-weakens-the-voting-rights-act",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nprillinois.org/2025-07-24/supreme-court-keeps-a-pause-for-now-on-a-ruling-that-weakens-the-voting-rights-act&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECDkQAQ",
+      "displayed_link": "https://www.nprillinois.org › supreme-court-keeps-a-pa...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d590afcd049823aab38fc3600f63a0bc5.png",
+      "date": "7 hours ago",
+      "snippet": "Northern Illinois · Southern Illinois · Western Illinois ... case out of the 8th U.S. Circuit Court of Appeals. Justices Clarence ...",
+      "snippet_highlighted_words": [
+        "Illinois",
+        "Illinois",
+        "Illinois",
+        "case",
+        "Court"
+      ],
+      "source": "NPR Illinois"
+    },
+    {
+      "position": 68,
+      "title": "Will County Illinois - Home",
+      "link": "https://willcounty.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://willcounty.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECDoQAQ",
+      "displayed_link": "https://willcounty.gov",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99da624a68c849c16cc56c6e9f316323ad9.png",
+      "snippet": "Law and Justice · Court Records · Reporting Fraud · Alternative Courts · Reporting Crimes · Resolving Ordinance Violations.",
+      "snippet_highlighted_words": [
+        "Law",
+        "Court Records"
+      ],
+      "source": "Will County Illinois (.gov)"
+    },
+    {
+      "position": 69,
+      "title": "Court Partners - Kane County, Illinois",
+      "link": "https://kanecourt.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kanecourt.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECFYQAQ",
+      "displayed_link": "https://kanecourt.org",
+      "snippet": "Illinois 16th Judicial Circuit · 16th Judicial Circuit · Circuit Clerk · Court ... Remote Proceedings Directory & Resources; Download: Windows | Android | iOS.",
+      "snippet_highlighted_words": [
+        "Illinois",
+        "Judicial",
+        "Judicial",
+        "Court",
+        "Proceedings"
+      ],
+      "source": "Kane Court Partners"
+    },
+    {
+      "position": 70,
+      "title": "Missouri Courts Home",
+      "link": "https://www.courts.mo.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.courts.mo.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECFEQAQ",
+      "displayed_link": "https://www.courts.mo.gov",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99db762788dc44ba1515ee4b2342dbdf5a2.png",
+      "snippet": "Find public case information. eFiling logon · Electronic Filing. File electronic documents for circuit court cases or appellate court cases.",
+      "snippet_highlighted_words": [
+        "case",
+        "court cases",
+        "court cases"
+      ],
+      "source": "Missouri Courts (.gov)"
+    },
+    {
+      "position": 71,
+      "title": "iAttorney",
+      "link": "https://iattorney.il12th.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://iattorney.il12th.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECFMQAQ",
+      "displayed_link": "https://iattorney.il12th.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d1afcd7a572a5c69d5e0cfe84790115bd.jpeg",
+      "snippet": "Online Access to Will County Court Records. User ID: Password: Not an authorized user? Click here to apply. Forgot User ID and/or Password?",
+      "snippet_highlighted_words": [
+        "Court Records"
+      ],
+      "source": "iAttorney"
+    },
+    {
+      "position": 72,
+      "title": "Accessing Superior Court Records",
+      "link": "https://kingcounty.gov/en/dept/dja/courts-jails-legal-system/case-records/records-access",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kingcounty.gov/en/dept/dja/courts-jails-legal-system/case-records/records-access&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECE8QAQ",
+      "displayed_link": "https://kingcounty.gov › case-records › records-access",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dae9fe156c32655ae03758aebe859c419.png",
+      "snippet": "Many court records, including documents and audio recordings, can be accessed online via the KC Script Portal. Most public court records and court exhibits can ...",
+      "snippet_highlighted_words": [
+        "court records",
+        "court records",
+        "court"
+      ],
+      "source": "King County (.gov)"
+    },
+    {
+      "position": 73,
+      "title": "Are Illinois Court Records Public? - CountyOffice.org",
+      "link": "https://www.youtube.com/watch?v=RjhjdW86lp4",
+      "displayed_link": "20+ views · 7 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZQspF2M4s2MMwctr5Cnf8YHHfh3gcAg92dVavTpcUKXMi&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d0fa92f1e887650cb5e5a0b09d1d0c8f5.png",
+      "snippet": "Are Illinois Court Records Public? In this informative video, we delve into the accessibility of court records in Illinois.",
+      "duration": "3:23",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRqbCerh-yF_wr9RoV0Dt6hoHlFTRcw64selg",
+      "source": "YouTube · County Office"
+    },
+    {
+      "position": 74,
+      "title": "Find an Immigration Court and Access Internet-Based ...",
+      "link": "https://www.justice.gov/eoir/find-immigration-court-and-access-internet-based-hearings",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justice.gov/eoir/find-immigration-court-and-access-internet-based-hearings&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECGoQAQ",
+      "displayed_link": "https://www.justice.gov › eoir › find-immigration-court...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dac71b51b68aceb04e8015fd7b74c565e.png",
+      "snippet": "... court that is hearing your case. Respondents who do not have a ... Arizona | California | Colorado | Connecticut | Florida | Georgia | Hawaii | Illinois ...",
+      "snippet_highlighted_words": [
+        "court",
+        "case",
+        "Illinois"
+      ],
+      "source": "Department of Justice (.gov)"
+    },
+    {
+      "position": 75,
+      "title": "McLean County, IL - Official Website | Official Website",
+      "link": "https://www.mcleancountyil.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mcleancountyil.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECGwQAQ",
+      "displayed_link": "https://www.mcleancountyil.gov",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99de9499514faadb2205dbe18e87c22e7a7.png",
+      "snippet": "COURT RECORDS SEARCH Find a court document · TRANSPARENCY/FOIA Search or request records · AGENDAS & MINUTES Search agendas & minutes · ONLINE TICKET PAYMENT",
+      "snippet_highlighted_words": [
+        "COURT RECORDS",
+        "court",
+        "records"
+      ],
+      "source": "McLean County (.gov)"
+    },
+    {
+      "position": 76,
+      "title": "Illinois Legal Aid Online",
+      "link": "https://www.illinoislegalaid.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.illinoislegalaid.org/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECG4QAQ",
+      "displayed_link": "https://www.illinoislegalaid.org",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99da0d3319bcb17e9405dceb4f9cd398438.png",
+      "snippet": "Learn about Illinois law and take action with free legal forms, referrals and clear information on issues dealing with family, housing, debt, work, ...",
+      "snippet_highlighted_words": [
+        "Illinois law"
+      ],
+      "source": "Illinois Legal Aid Online"
+    },
+    {
+      "position": 77,
+      "title": "File a Complaint",
+      "link": "https://illinoisattorneygeneral.gov/File-A-Complaint/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://illinoisattorneygeneral.gov/File-A-Complaint/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECG8QAQ",
+      "displayed_link": "https://illinoisattorneygeneral.gov › File-A-Complaint",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dfe0692e8c71ed7cbbaf4ebdc78ad35bc.png",
+      "snippet": "The Workplace Rights Bureau of the Attorney General's Office investigates and litigates cases involving serious or persistent wage law violations or other ...",
+      "snippet_highlighted_words": [
+        "cases",
+        "law"
+      ],
+      "source": "Office of the Illinois Attorney General (.gov)"
+    },
+    {
+      "position": 78,
+      "title": "DC Courts Homepage | District of Columbia Courts",
+      "link": "https://www.dccourts.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dccourts.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoECHAQAQ",
+      "displayed_link": "https://www.dccourts.gov",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d39bf0c16af4d5ca6b6fedc140cceb164.png",
+      "snippet": "Search cases. Search below public information reflecting docket entries in the District of Columbia Court of Appeals and the Superior Court (including civil, ...",
+      "snippet_highlighted_words": [
+        "cases",
+        "Court",
+        "Court"
+      ],
+      "source": "District of Columbia Courts (.gov)"
+    },
+    {
+      "position": 79,
+      "title": "Lawyer Search",
+      "link": "https://www.iardc.org/Lawyer/Search",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iardc.org/Lawyer/Search&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCIUBEAE",
+      "displayed_link": "https://www.iardc.org › Lawyer › Search",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d5b4983fe58c4b8096f75f0ae4be38c7c.png",
+      "snippet": "Supreme Court Decisions · CONTACT ARDC. Lawyer Search. Home; ARDC Services; Lawyer ... Illinois Supreme Court's regulation of the practice of law in Illinois.",
+      "snippet_highlighted_words": [
+        "Court Decisions",
+        "Illinois",
+        "Court's",
+        "law",
+        "Illinois"
+      ],
+      "source": "ARDC"
+    },
+    {
+      "position": 80,
+      "title": "Search Records and Reports",
+      "link": "https://clayclerk.com/search-records/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://clayclerk.com/search-records/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCIcBEAE",
+      "displayed_link": "https://clayclerk.com › search-records",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d362718f906ab4843d9fa6594e2c2397a.png",
+      "snippet": "If you are unable to locate the desired record online or would like to make a request for records held in the custody of the Clay County Clerk of Court, please ...",
+      "snippet_highlighted_words": [
+        "records",
+        "Court"
+      ],
+      "source": "Clay County Clerk of Court"
+    },
+    {
+      "position": 81,
+      "title": "Driving Record Abstracts Driver Services",
+      "link": "https://www.ilsos.gov/departments/drivers/drivers_license/purchaseabstract.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ilsos.gov/departments/drivers/drivers_license/purchaseabstract.html&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCIgBEAE",
+      "displayed_link": "https://www.ilsos.gov › drivers_license › purchaseabstract",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d0cb6f0e460fcb64d3453debb2cbda071.png",
+      "snippet": "These records are certified and are the same record you would obtain in the postal mail or in person at one of our service facilities; or; Visit a Driver ...",
+      "snippet_highlighted_words": [
+        "records"
+      ],
+      "source": "Illinois Secretary of State (.gov)"
+    },
+    {
+      "position": 82,
+      "title": "How To Find Illinois Court Records? - CountyOffice.org",
+      "link": "https://www.youtube.com/watch?v=Bq472_8fejI",
+      "displayed_link": "190+ views · 12 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXoaHiWuku0ZYalV2P5U9p0RGMNq9vGH19Du5I2F0HC-p2&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99db9ca9f3d4c70572571b4346fe14955fc.png",
+      "snippet": "How To Find Illinois Court Records? Unlock the secrets to accessing Illinois court records with our comprehensive guide!",
+      "duration": "2:05",
+      "source": "YouTube · County Office"
+    },
+    {
+      "position": 83,
+      "title": "Welcome to Butler County Clerk of Courts",
+      "link": "https://clerkofcourts.bcohio.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://clerkofcourts.bcohio.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCJkBEAE",
+      "displayed_link": "https://clerkofcourts.bcohio.gov",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d9a32efac1c1adb2778396728bf41e6bc.png",
+      "snippet": "Below are the fundamental responsibilities of the Butler County Clerk of Courts. Legal Forms · Court Costs · Public Records Request · Title Forms.",
+      "snippet_highlighted_words": [
+        "Court",
+        "Records"
+      ],
+      "source": "Butler County Clerk of Courts (.gov)"
+    },
+    {
+      "position": 84,
+      "title": "Illinois Court Records: IllinoisPublicRecords.com",
+      "link": "https://illinoispublicrecords.com/court-records/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://illinoispublicrecords.com/court-records/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCKABEAE",
+      "displayed_link": "https://illinoispublicrecords.com › court-records",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d736235c3758efc117af0da8ecc6c4218.png",
+      "snippet": "Illinois Court Records are a collection of all of the records a court retains from criminal and civil disputes that can paint a picture of what happened in the ...",
+      "snippet_highlighted_words": [
+        "Illinois Court Records"
+      ],
+      "source": "IllinoisPublicRecords.com"
+    },
+    {
+      "position": 85,
+      "title": "Illinois General Assembly - Home Page",
+      "link": "https://ilga.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ilga.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCKMBEAE",
+      "displayed_link": "https://ilga.gov",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d172993f4ef4b65c438b933419e1cc789.png",
+      "snippet": "Floor Proceedings. Today: Not In. Next Session: 10/14/2025. Schedules Audio ... Illinois Compiled Statutes · Illinois Constitution · Advanced Search. Reports ...",
+      "snippet_highlighted_words": [
+        "Proceedings",
+        "Illinois",
+        "Illinois"
+      ],
+      "source": "Illinois General Assembly (.gov)"
+    },
+    {
+      "position": 86,
+      "title": "Feds weigh in on lawsuit challenging how Illinois maintains ...",
+      "link": "https://ipmnewsroom.org/feds-weigh-in-on-lawsuit-challenging-how-illinois-maintains-voter-registration-rolls/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ipmnewsroom.org/feds-weigh-in-on-lawsuit-challenging-how-illinois-maintains-voter-registration-rolls/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCKwBEAE",
+      "displayed_link": "https://ipmnewsroom.org › feds-weigh-in-on-lawsuit-ch...",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d79dda6d99e090513bb7e9dc01025aaac.png",
+      "date": "1 day ago",
+      "snippet": "... court for permission to intervene as a party in the case. “This case presents important questions regarding enforcement of the National ...",
+      "snippet_highlighted_words": [
+        "court",
+        "case",
+        "case"
+      ],
+      "source": "IPM Newsroom"
+    },
+    {
+      "position": 87,
+      "title": "Illinois mom wants change to state law after man accused ...",
+      "link": "https://www.cbsnews.com/chicago/news/illinois-mom-wants-change-state-law-man-accused-concealing-body-released/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbsnews.com/chicago/news/illinois-mom-wants-change-state-law-man-accused-concealing-body-released/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCK0BEAE",
+      "displayed_link": "https://www.cbsnews.com › CBS Chicago › Local News",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d354c650a66c7a56740a542d02fbe63e5.png",
+      "date": "22 hours ago",
+      "snippet": "... Judicial Circuit Court in Lake County blamed on ICE. Jennifer Bos said ICE's involvement in the case along with the knowledge that Mendoza ...",
+      "snippet_highlighted_words": [
+        "Judicial",
+        "Court",
+        "case"
+      ],
+      "source": "CBS News"
+    },
+    {
+      "position": 88,
+      "title": "McHenry County, IL | Home",
+      "link": "https://www.mchenrycountyil.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mchenrycountyil.gov/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCLEBEAE",
+      "displayed_link": "https://www.mchenrycountyil.gov",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d519c3e972d0e59e3b582fd50cdcd73cf.png",
+      "snippet": "Court Information, Employment, e-Newsletter Mailing Lists, Ethics Violation ... PUBLIC RECORDS · EMPLOYMENT · VOTING. Spotlight Image. 2025 Approved Budget. The ...",
+      "snippet_highlighted_words": [
+        "Court",
+        "RECORDS"
+      ],
+      "source": "McHenry County (.gov)"
+    },
+    {
+      "position": 89,
+      "title": "Illinois Court Records Search & Case Lookup",
+      "link": "https://unicourt.com/courts/state-illinois",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://unicourt.com/courts/state-illinois&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCLwBEAE",
+      "displayed_link": "https://unicourt.com › State Courts",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d6e9b50b8d021943af48a911205268b96.png",
+      "snippet": "Search online public court records from Illinois state courts for free. UniCourt allows you to lookup civil, family law, probate, small claims, labour, ...",
+      "snippet_highlighted_words": [
+        "court records",
+        "Illinois",
+        "law"
+      ],
+      "source": "UniCourt"
+    },
+    {
+      "position": 90,
+      "title": "How To Find Cook County, Illinois Court Records ...",
+      "link": "https://www.youtube.com/watch?v=Vl_d_rQN2c8",
+      "displayed_link": "400+ views · 12 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xidK87mS7bpm5_Nvrj2rEMieftk0De58D8yXHdB6SeXt&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d12873ecacd591824a4027c7e6b41e771.png",
+      "snippet": "How To Find Cook County, Illinois Court Records? In this informative video, discover how to find court records in Cook County, Illinois, ...",
+      "duration": "1:49",
+      "source": "YouTube · County Office"
+    },
+    {
+      "position": 91,
+      "title": "Illinois Court Records & Case Lookup - Find IL Courthouses",
+      "link": "https://recordsfinder.com/court/courthouses/il/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://recordsfinder.com/court/courthouses/il/&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCMQBEAE",
+      "displayed_link": "https://recordsfinder.com › Court Records › Courthouses",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d56c3df329d859318142de8beee498e0f.png",
+      "snippet": "Find Illinois court records online, get access to public municipal, civil, family and superior court records. State court case lookup & Illinois ...",
+      "snippet_highlighted_words": [
+        "Illinois court records"
+      ],
+      "source": "recordsfinder.com"
+    },
+    {
+      "position": 92,
+      "title": "Are All Illinois Court Records Publicly Available ...",
+      "link": "https://www.youtube.com/watch?v=uG7smOWb4wU",
+      "displayed_link": "30+ views · 9 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYNgqUWJQBGllmR9raqMJj0tUfF_wB1fJIplCopXhf9hdI&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99df84ee04a263b8c299c281f22f21ad7e0.png",
+      "snippet": "Are All Illinois Court Records Publicly Available? Have you ever wondered about the accessibility of court records in Illinois?",
+      "duration": "2:51",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTSaEiNHW7fOlcau2hFE0rnEtJcVECg6_1DKg",
+      "source": "YouTube · County Office"
+    },
+    {
+      "position": 93,
+      "title": "Illinois Court Records Lookup - IL Court Case Search",
+      "link": "https://courtcasefinder.com/illinois",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://courtcasefinder.com/illinois&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCMUBEAE",
+      "displayed_link": "https://courtcasefinder.com › illinois",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d372bb6ff8dbcda4dfa01eed670348ba4.png",
+      "snippet": "Search Illinois court records including types of courts, court cases in federal districts, trial dockets, electronic records and IL state courthouses.",
+      "snippet_highlighted_words": [
+        "Illinois court records"
+      ],
+      "source": "CourtCaseFinder.com"
+    },
+    {
+      "position": 94,
+      "title": "How Accurate Is the Information in Online Illinois Court ...",
+      "link": "https://www.youtube.com/watch?v=hK4VBjfEafA&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "20+ views · 9 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXp2uOO1aSRf7lo6VLkd2z0cDdVvAABGVRSdwxzKeZDtim&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d0db59b8d062a681f74441df2aaece8ee.png",
+      "snippet": "accessing online Illinois court records in our latest video. Learn about the sources ... such as criminal, civil, and bankruptcy cases; and ...",
+      "duration": "2:51",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcShksbJ7Zv43NCt9LXAC_z5aVi6uOYoGpS8CA",
+      "source": "YouTube · County Office"
+    },
+    {
+      "position": 95,
+      "title": "Illinois Court Case Lookup | StateRecords.org",
+      "link": "https://illinois.staterecords.org/casesearch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://illinois.staterecords.org/casesearch&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCMkBEAE",
+      "displayed_link": "https://illinois.staterecords.org › Court Records",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d2cfa8da6568079d5fd4d7f3510aff3c4.png",
+      "snippet": "Comprehensive guide on Illinois court case lookup, understanding public records, court hierarchies, conducting case searches by name or number, ...",
+      "snippet_highlighted_words": [
+        "Illinois court case"
+      ],
+      "source": "StateRecords.org"
+    },
+    {
+      "position": 96,
+      "title": "How To Find Mclean County, Illinois Court Records ...",
+      "link": "https://www.youtube.com/watch?v=1XkO77Jq-u0",
+      "displayed_link": "50+ views · 11 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7OG7qKPBMInifj0U-m8K_1uqu9YfY-2ajYTM9mmHZ-Et&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dd1841c93e5e6f7f4eefd321fee37e0b5.png",
+      "snippet": "How To Find Mclean County, Illinois Court Records? In this video, we delve into the process of accessing court records in McLean County, ...",
+      "duration": "1:50",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS9VYFBSPLHaguRnJqZDXVqJqQUTe-_2OW2cw",
+      "source": "YouTube · County Office"
+    },
+    {
+      "position": 97,
+      "title": "Illinois Court Records Online | StateRecords.org",
+      "link": "https://illinois.staterecords.org/court.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://illinois.staterecords.org/court.php&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQFnoFCNUBEAE",
+      "displayed_link": "https://illinois.staterecords.org › court",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99dc4ab0cb408b2bb8119ab9f2eabf7b795.png",
+      "snippet": "Members of the public can conduct an Illinois court record search in-person, online, or by phone call. These searches can be conducted by party name, case type ...",
+      "snippet_highlighted_words": [
+        "Illinois court",
+        "case"
+      ],
+      "source": "StateRecords.org"
+    },
+    {
+      "position": 98,
+      "title": "How Can I Access Recent Court Filings in Illinois ...",
+      "link": "https://www.youtube.com/watch?v=SBiTuxvDnzI",
+      "displayed_link": "10+ views · 9 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvcha9Jn1Id-1JQDhnQyf_Azu5eykof_4uMyGlHLvnrR7v&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99de27a0364c64d38690fac0e8930d0b83c.png",
+      "snippet": "... Illinois Courts website for state court records. Learn about the online case information service offered by the Clerk of the Circuit Court ...",
+      "duration": "2:55",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQWWIBo3t5wEqkUfUW7B8K9X3XMm9V0ay-7mg",
+      "source": "YouTube · County Office"
+    },
+    {
+      "position": 99,
+      "title": "How To Find Sangamon County, Illinois Court Records ...",
+      "link": "https://www.youtube.com/watch?v=D7WE6qLcID4",
+      "displayed_link": "80+ views · 12 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDN6NQ8bevyOean9Di6l9oUgE-OJTBG5fRYgJ7vgjH7bI&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d9660a721f1de6c706e0507ed64ba343b.png",
+      "snippet": "How To Find Sangamon County, Illinois Court Records? Unlock the key to accessing Sangamon County, Illinois court records effortlessly with ...",
+      "duration": "2:02",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT7Q_i0lP_i_KUCGgy3djcLdCn5CtZveZO8Tg",
+      "source": "YouTube · County Office"
+    },
+    {
+      "position": 100,
+      "title": "How to Find Criminal Cases in Illinois",
+      "link": "https://www.youtube.com/watch?v=TDUNo0IcCKs",
+      "displayed_link": "960+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIRWQDhX-9_R8JBpbdMlFugwNA-eUfQMaWr6-S9U42sWxO&s",
+      "favicon": "https://serpapi.com/searches/6882e4b050d43ed3971ad663/images/f4b791ea0a11b4689caa7c1456f5f99d0f0c7feb0bbc8820a2eeef35ac1381e4.png",
+      "snippet": "In this episode associate attorney Matt Wayman talks about how to find criminal case information in the state of Illinois.",
+      "duration": "2:05",
+      "source": "YouTube · The Hammer Law Firm"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Illinois Court records search by name",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Illinois+Court+records+search+by+name&sa=X&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQ1QJ6BQjGAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Illinois+Court+records+search+by+name"
+    },
+    {
+      "block_position": 1,
+      "query": "Illinois criminal case search",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Illinois+criminal+case+search&sa=X&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQ1QJ6BQjBAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Illinois+criminal+case+search"
+    },
+    {
+      "block_position": 1,
+      "query": "Cook County case search by name",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Cook+County+case+search+by+name&sa=X&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQ1QJ6BQjDAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Cook+County+case+search+by+name"
+    },
+    {
+      "block_position": 1,
+      "query": "Illinois Court date lookup",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Illinois+Court+date+lookup&sa=X&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQ1QJ6BQjIAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Illinois+Court+date+lookup"
+    },
+    {
+      "block_position": 1,
+      "query": "Cook County Court case Lookup",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Cook+County+Court+case+Lookup&sa=X&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQ1QJ6BQjHAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Cook+County+Court+case+Lookup"
+    },
+    {
+      "block_position": 1,
+      "query": "Illinois case search By name Judici",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Illinois+case+search+By+name+Judici&sa=X&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQ1QJ6BQjJAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Illinois+case+search+By+name+Judici"
+    },
+    {
+      "block_position": 1,
+      "query": "Cook County criminal case Search",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Cook+County+criminal+case+Search&sa=X&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQ1QJ6BQjEAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Cook+County+criminal+case+Search"
+    },
+    {
+      "block_position": 1,
+      "query": "Mycase Illinois public records",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Mycase+Illinois+public+records&sa=X&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQ1QJ6BQjAAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Mycase+Illinois+public+records"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=illinois+court+cases&num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&ei=sOSCaKzOCdOK9u8PiaauMA&start=100&sa=N&sstk=Ac65TH5U_GaBQetyrOlL8L-Jsf4QD5sVQuReMe8s-9WZK_uL-BdmvXclyi5G8IC0aJnuiyYIh6Ai7VMaWBv_1EpWu7zNPTn6wLZNpw&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQ8NMDegQICxAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=illinois+court+cases&num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&ei=sOSCaKzOCdOK9u8PiaauMA&start=100&sa=N&sstk=Ac65TH5U_GaBQetyrOlL8L-Jsf4QD5sVQuReMe8s-9WZK_uL-BdmvXclyi5G8IC0aJnuiyYIh6Ai7VMaWBv_1EpWu7zNPTn6wLZNpw&ved=2ahUKEwis5oOw9NaOAxVThf0HHQmTCwYQ8tMDegQICxAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=illinois+court+cases&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=illinois+court+cases&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=illinois+court+cases&start=100"
+    }
+  }
+}

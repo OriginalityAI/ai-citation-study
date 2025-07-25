@@ -25,6 +25,8 @@ RESPONSE_DIR.mkdir(parents=True, exist_ok=True)
 # Load queries
 df = pd.read_csv(QUERIES_FILE)
 
+df = df.iloc[18195:]
+
 # Prepare list for labeled results
 labeled = []
 

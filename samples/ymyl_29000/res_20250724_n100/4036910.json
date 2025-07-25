@@ -1,0 +1,665 @@
+{
+  "search_metadata": {
+    "id": "6882fa02ae678c0f2552c24f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cc8ab16015427918/6882fa02ae678c0f2552c24f.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/cc8ab16015427918/6882fa02ae678c0f2552c24f.json_with_pixel_position",
+    "created_at": "2025-07-25 03:29:06 UTC",
+    "processed_at": "2025-07-25 03:29:06 UTC",
+    "google_url": "https://www.google.com/search?q=test+antigenique+covid+nyon&oq=test+antigenique+covid+nyon&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/cc8ab16015427918/6882fa02ae678c0f2552c24f.html",
+    "total_time_taken": 1.66
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "test antigenique covid nyon",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "test antigenique covid nyon",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.pharmacieplus.ch/pharmacies/forum/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGkSG-2tWdUjE4t6C0KrJHoezhyw7AnV8QXPsYBcS7v9JnPqBrcCY6l4&s",
+      "original": "https://cms.pharmacieplus.ch/storage/pharmacies/forum/pharmacieplus-forum-pharmacie-nyon.jpg",
+      "title": "Votre pharmacieplus du forum à Nyon - pharmacie",
+      "source_name": "pharmacieplus"
+    },
+    {
+      "source": "https://www.pharmacieplus.ch/pharmacies/forum/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZbTqYGa2ikvCsXmUyJ4x1xVH80GBuII4TuLs-Li86j9pTv3DoLGM0sU&s",
+      "original": "https://www.pharmacieplus.ch/static/c37afbd2bda247cf33f7b946c544c44d/891d6/pharmacieplus-forum-pharmacie-nyon-service-sante.webp",
+      "title": "Votre pharmacieplus du forum à Nyon - pharmacie",
+      "source_name": "pharmacieplus"
+    },
+    {
+      "source": "https://www.btnx.com/covid19fr",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr06C87Ncq3wCYdbQgzUgMsPQjw5wzvDErYR9PHLg50tm37HdLn9oR9pk&s",
+      "original": "https://www.btnx.com/img/product/2010/1.%20COV-19C25-5-Box-(CAN-)BTNX-V4.0.png",
+      "title": "BTNX | Products",
+      "source_name": "BTNX"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Où acheter un test covid antigénique ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlFYVkJiRkpqZGxwaE5FUXliM051YjBWUWVVeEhhSEphWWpGWGVXSm1ZMHd4UkVGb1RpMDRZemd3WDBaTVpuUnVWVTVaWW5oeVYyRnRTemhoVEc5eGNqSkVlRmROTlRSb1NYWlZZbU4zUVhacE9DMTVjbXhDZGxKNFp4SVhRVjl4UTJGUGNYZElMVU5JZUdNNFVIRk9aV0Z2VVZrYUlrRkdUVUZIUjNKS1FVcFFaMXAwTmxsTVRrVXdUVGxqYXpFelZUZGFkMmN5YkZFIiwiZmN2IjoiMyIsImVpIjoiQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVkiLCJxYyI6IkNodDBaWE4wSUdGdWRHbG5aVzVwY1hWbElHTnZkbWxrSUc1NWIyNFFCQmdCZmNoSkp6OCIsInF1ZXN0aW9uIjoiT8O5IGFjaGV0ZXIgdW4gdGVzdCBjb3ZpZCBhbnRpZ8OpbmlxdWUgPyIsImxrIjoiR2lGdmRTQmhZMmhsZEdWeUlIUmxjM1FnWTI5MmFXUWdZVzUwYVdkbGJtbHhkV1UiLCJicyI6ImMzMlFQVzdDUUJCR1E3dFZTdVJxb2lCa0lWSEU3dEpRR0FvcVM0bGs2dFY2TUJNWnI5a2ZTOXduVFk2UUpvMXZ3dzNvV0M4UW1RaWwyNUhlLTJhX1lXOHNUTnR2NEdLREJoWFlDZ3hxQTBJMmxBT3ZEQlh0VjBVN2l6QWJfdXlqNS1CSjJsXzZMNHFlWk1SZUY5cE1CVUxuSmRrNzFFcldVaU1ZYVQta1ZScHkxTjdXa0tUWmNnNkY0c2FTRzJmRHd6Z0tnMUV1SFNFYURkcFFXVUpCRGNKYUlWN1dlVGQ4WUNzMjZiN3ZvdDBLWVZXdlFuNWxMOWt1LXBPaWNUQnlCZnI4WFpodFdkenJVT0laU3p6VHZhNmhXRUc5NFdyTEJYVW5PcW9vRGw3OFdXNU44YV81T0RnQiIsImlkIjoiZmNfQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlFYVkJiRkpqZGxwaE5FUXliM051YjBWUWVVeEhhSEphWWpGWGVXSm1ZMHd4UkVGb1RpMDRZemd3WDBaTVpuUnVWVTVaWW5oeVYyRnRTemhoVEc5eGNqSkVlRmROTlRSb1NYWlZZbU4zUVhacE9DMTVjbXhDZGxKNFp4SVhRVjl4UTJGUGNYZElMVU5JZUdNNFVIRk9aV0Z2VVZrYUlrRkdUVUZIUjNKS1FVcFFaMXAwTmxsTVRrVXdUVGxqYXpFelZUZGFkMmN5YkZFIiwiZmN2IjoiMyIsImVpIjoiQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVkiLCJxYyI6IkNodDBaWE4wSUdGdWRHbG5aVzVwY1hWbElHTnZkbWxrSUc1NWIyNFFCQmdCZmNoSkp6OCIsInF1ZXN0aW9uIjoiT8O5IGFjaGV0ZXIgdW4gdGVzdCBjb3ZpZCBhbnRpZ8OpbmlxdWUgPyIsImxrIjoiR2lGdmRTQmhZMmhsZEdWeUlIUmxjM1FnWTI5MmFXUWdZVzUwYVdkbGJtbHhkV1UiLCJicyI6ImMzMlFQVzdDUUJCR1E3dFZTdVJxb2lCa0lWSEU3dEpRR0FvcVM0bGs2dFY2TUJNWnI5a2ZTOXduVFk2UUpvMXZ3dzNvV0M4UW1RaWwyNUhlLTJhX1lXOHNUTnR2NEdLREJoWFlDZ3hxQTBJMmxBT3ZEQlh0VjBVN2l6QWJfdXlqNS1CSjJsXzZMNHFlWk1SZUY5cE1CVUxuSmRrNzFFcldVaU1ZYVQta1ZScHkxTjdXa0tUWmNnNkY0c2FTRzJmRHd6Z0tnMUV1SFNFYURkcFFXVUpCRGNKYUlWN1dlVGQ4WUNzMjZiN3ZvdDBLWVZXdlFuNWxMOWt1LXBPaWNUQnlCZnI4WFpodFdkenJVT0laU3p6VHZhNmhXRUc5NFdyTEJYVW5PcW9vRGw3OFdXNU44YV81T0RnQiIsImlkIjoiZmNfQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVlfMSJ9"
+    },
+    {
+      "question": "Est-ce que CVS propose toujours des tests COVID gratuits ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlFYVkJiRkpqZGxwaE5FUXliM051YjBWUWVVeEhhSEphWWpGWGVXSm1ZMHd4UkVGb1RpMDRZemd3WDBaTVpuUnVWVTVaWW5oeVYyRnRTemhoVEc5eGNqSkVlRmROTlRSb1NYWlZZbU4zUVhacE9DMTVjbXhDZGxKNFp4SVhRVjl4UTJGUGNYZElMVU5JZUdNNFVIRk9aV0Z2VVZrYUlrRkdUVUZIUjNKS1FVcFFaMXAwTmxsTVRrVXdUVGxqYXpFelZUZGFkMmN5YkZFIiwiZmN2IjoiMyIsImVpIjoiQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVkiLCJxYyI6IkNodDBaWE4wSUdGdWRHbG5aVzVwY1hWbElHTnZkbWxrSUc1NWIyNFFCQmdCZmNoSkp6OCIsInF1ZXN0aW9uIjoiRXN0LWNlIHF1ZSBDVlMgcHJvcG9zZSB0b3Vqb3VycyBkZXMgdGVzdHMgQ09WSUQgZ3JhdHVpdHMgPyIsImxrIjoiR2lSa2IyVnpJR04yY3lCemRHbHNiQ0JuYVhabElHWnlaV1VnWTI5MmFXUWdkR1Z6ZEhNb0FBIiwiYnMiOiJjMzJRUFc3Q1FCQkdRN3RWU3VScW9pQmtJVkhFN3RKUUdBb3FTNGxrNnRWNk1CTVpyOWtmUzl3blRZNlFKbzF2d3czb1dDOFFtUWlsMjVIZS0yYV9ZVzhzVE50djRHS0RCaFhZQ2d4cUEwSTJsQU92REJYdFYwVTdpekFiX3V5ajUtQkoybF82TDRxZVpNUmVGOXBNQlVMbkpkazcxRXJXVWlNWWFULWtWUnB5MU43V2tLVFpjZzZGNHNhU0cyZkR3emdLZzFFdUhTRWFEZHBRV1VKQkRjSmFJVjdXZVRkOFlDczI2Yjd2b3QwS1lWV3ZRbjVsTDlrdS1wT2ljVEJ5QmZyOFhaaHRXZHpyVU9JWlN6elR2YTZoV0VHOTRXckxCWFVuT3Fvb0RsNzhXVzVOOGFfNU9EZ0IiLCJpZCI6ImZjX0FfcUNhT3F3SC1DSHhjOFBxTmVhb1FZXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlFYVkJiRkpqZGxwaE5FUXliM051YjBWUWVVeEhhSEphWWpGWGVXSm1ZMHd4UkVGb1RpMDRZemd3WDBaTVpuUnVWVTVaWW5oeVYyRnRTemhoVEc5eGNqSkVlRmROTlRSb1NYWlZZbU4zUVhacE9DMTVjbXhDZGxKNFp4SVhRVjl4UTJGUGNYZElMVU5JZUdNNFVIRk9aV0Z2VVZrYUlrRkdUVUZIUjNKS1FVcFFaMXAwTmxsTVRrVXdUVGxqYXpFelZUZGFkMmN5YkZFIiwiZmN2IjoiMyIsImVpIjoiQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVkiLCJxYyI6IkNodDBaWE4wSUdGdWRHbG5aVzVwY1hWbElHTnZkbWxrSUc1NWIyNFFCQmdCZmNoSkp6OCIsInF1ZXN0aW9uIjoiRXN0LWNlIHF1ZSBDVlMgcHJvcG9zZSB0b3Vqb3VycyBkZXMgdGVzdHMgQ09WSUQgZ3JhdHVpdHMgPyIsImxrIjoiR2lSa2IyVnpJR04yY3lCemRHbHNiQ0JuYVhabElHWnlaV1VnWTI5MmFXUWdkR1Z6ZEhNb0FBIiwiYnMiOiJjMzJRUFc3Q1FCQkdRN3RWU3VScW9pQmtJVkhFN3RKUUdBb3FTNGxrNnRWNk1CTVpyOWtmUzl3blRZNlFKbzF2d3czb1dDOFFtUWlsMjVIZS0yYV9ZVzhzVE50djRHS0RCaFhZQ2d4cUEwSTJsQU92REJYdFYwVTdpekFiX3V5ajUtQkoybF82TDRxZVpNUmVGOXBNQlVMbkpkazcxRXJXVWlNWWFULWtWUnB5MU43V2tLVFpjZzZGNHNhU0cyZkR3emdLZzFFdUhTRWFEZHBRV1VKQkRjSmFJVjdXZVRkOFlDczI2Yjd2b3QwS1lWV3ZRbjVsTDlrdS1wT2ljVEJ5QmZyOFhaaHRXZHpyVU9JWlN6elR2YTZoV0VHOTRXckxCWFVuT3Fvb0RsNzhXVzVOOGFfNU9EZ0IiLCJpZCI6ImZjX0FfcUNhT3F3SC1DSHhjOFBxTmVhb1FZXzEifQ%3D%3D"
+    },
+    {
+      "question": "Où se procurer un test de covid gratuit ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlFYVkJiRkpqZGxwaE5FUXliM051YjBWUWVVeEhhSEphWWpGWGVXSm1ZMHd4UkVGb1RpMDRZemd3WDBaTVpuUnVWVTVaWW5oeVYyRnRTemhoVEc5eGNqSkVlRmROTlRSb1NYWlZZbU4zUVhacE9DMTVjbXhDZGxKNFp4SVhRVjl4UTJGUGNYZElMVU5JZUdNNFVIRk9aV0Z2VVZrYUlrRkdUVUZIUjNKS1FVcFFaMXAwTmxsTVRrVXdUVGxqYXpFelZUZGFkMmN5YkZFIiwiZmN2IjoiMyIsImVpIjoiQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVkiLCJxYyI6IkNodDBaWE4wSUdGdWRHbG5aVzVwY1hWbElHTnZkbWxrSUc1NWIyNFFCQmdCZmNoSkp6OCIsInF1ZXN0aW9uIjoiT8O5IHNlIHByb2N1cmVyIHVuIHRlc3QgZGUgY292aWQgZ3JhdHVpdCA/IiwibGsiOiJHaVJ2ZFNCelpTQndjbTlqZFhKbGNpQjBaWE4wSUdSbElHTnZkbWxrSUdkeVlYUjFhWFEiLCJicyI6ImMzMlFQVzdDUUJCR1E3dFZTdVJxb2lCa0lWSEU3dEpRR0FvcVM0bGs2dFY2TUJNWnI5a2ZTOXduVFk2UUpvMXZ3dzNvV0M4UW1RaWwyNUhlLTJhX1lXOHNUTnR2NEdLREJoWFlDZ3hxQTBJMmxBT3ZEQlh0VjBVN2l6QWJfdXlqNS1CSjJsXzZMNHFlWk1SZUY5cE1CVUxuSmRrNzFFcldVaU1ZYVQta1ZScHkxTjdXa0tUWmNnNkY0c2FTRzJmRHd6Z0tnMUV1SFNFYURkcFFXVUpCRGNKYUlWN1dlVGQ4WUNzMjZiN3ZvdDBLWVZXdlFuNWxMOWt1LXBPaWNUQnlCZnI4WFpodFdkenJVT0laU3p6VHZhNmhXRUc5NFdyTEJYVW5PcW9vRGw3OFdXNU44YV81T0RnQiIsImlkIjoiZmNfQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlFYVkJiRkpqZGxwaE5FUXliM051YjBWUWVVeEhhSEphWWpGWGVXSm1ZMHd4UkVGb1RpMDRZemd3WDBaTVpuUnVWVTVaWW5oeVYyRnRTemhoVEc5eGNqSkVlRmROTlRSb1NYWlZZbU4zUVhacE9DMTVjbXhDZGxKNFp4SVhRVjl4UTJGUGNYZElMVU5JZUdNNFVIRk9aV0Z2VVZrYUlrRkdUVUZIUjNKS1FVcFFaMXAwTmxsTVRrVXdUVGxqYXpFelZUZGFkMmN5YkZFIiwiZmN2IjoiMyIsImVpIjoiQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVkiLCJxYyI6IkNodDBaWE4wSUdGdWRHbG5aVzVwY1hWbElHTnZkbWxrSUc1NWIyNFFCQmdCZmNoSkp6OCIsInF1ZXN0aW9uIjoiT8O5IHNlIHByb2N1cmVyIHVuIHRlc3QgZGUgY292aWQgZ3JhdHVpdCA%2FIiwibGsiOiJHaVJ2ZFNCelpTQndjbTlqZFhKbGNpQjBaWE4wSUdSbElHTnZkbWxrSUdkeVlYUjFhWFEiLCJicyI6ImMzMlFQVzdDUUJCR1E3dFZTdVJxb2lCa0lWSEU3dEpRR0FvcVM0bGs2dFY2TUJNWnI5a2ZTOXduVFk2UUpvMXZ3dzNvV0M4UW1RaWwyNUhlLTJhX1lXOHNUTnR2NEdLREJoWFlDZ3hxQTBJMmxBT3ZEQlh0VjBVN2l6QWJfdXlqNS1CSjJsXzZMNHFlWk1SZUY5cE1CVUxuSmRrNzFFcldVaU1ZYVQta1ZScHkxTjdXa0tUWmNnNkY0c2FTRzJmRHd6Z0tnMUV1SFNFYURkcFFXVUpCRGNKYUlWN1dlVGQ4WUNzMjZiN3ZvdDBLWVZXdlFuNWxMOWt1LXBPaWNUQnlCZnI4WFpodFdkenJVT0laU3p6VHZhNmhXRUc5NFdyTEJYVW5PcW9vRGw3OFdXNU44YV81T0RnQiIsImlkIjoiZmNfQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVlfMSJ9"
+    },
+    {
+      "question": "Est-ce que le test Covid est gratuit en pharmacie ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlFYVkJiRkpqZGxwaE5FUXliM051YjBWUWVVeEhhSEphWWpGWGVXSm1ZMHd4UkVGb1RpMDRZemd3WDBaTVpuUnVWVTVaWW5oeVYyRnRTemhoVEc5eGNqSkVlRmROTlRSb1NYWlZZbU4zUVhacE9DMTVjbXhDZGxKNFp4SVhRVjl4UTJGUGNYZElMVU5JZUdNNFVIRk9aV0Z2VVZrYUlrRkdUVUZIUjNKS1FVcFFaMXAwTmxsTVRrVXdUVGxqYXpFelZUZGFkMmN5YkZFIiwiZmN2IjoiMyIsImVpIjoiQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVkiLCJxYyI6IkNodDBaWE4wSUdGdWRHbG5aVzVwY1hWbElHTnZkbWxrSUc1NWIyNFFCQmdCZmNoSkp6OCIsInF1ZXN0aW9uIjoiRXN0LWNlIHF1ZSBsZSB0ZXN0IENvdmlkIGVzdCBncmF0dWl0IGVuIHBoYXJtYWNpZSA/IiwibGsiOiJjNU15VEMwdVVVaE9WU2dzVFZYSVNWVW9BWFB6eXpKVEZFQ3M5S0xFa3RMTUVvWFVQSVdDak1TaTNNVGt6RlFBIiwiYnMiOiJjMzJRUFc3Q1FCQkdRN3RWU3VScW9pQmtJVkhFN3RKUUdBb3FTNGxrNnRWNk1CTVpyOWtmUzl3blRZNlFKbzF2d3czb1dDOFFtUWlsMjVIZS0yYV9ZVzhzVE50djRHS0RCaFhZQ2d4cUEwSTJsQU92REJYdFYwVTdpekFiX3V5ajUtQkoybF82TDRxZVpNUmVGOXBNQlVMbkpkazcxRXJXVWlNWWFULWtWUnB5MU43V2tLVFpjZzZGNHNhU0cyZkR3emdLZzFFdUhTRWFEZHBRV1VKQkRjSmFJVjdXZVRkOFlDczI2Yjd2b3QwS1lWV3ZRbjVsTDlrdS1wT2ljVEJ5QmZyOFhaaHRXZHpyVU9JWlN6elR2YTZoV0VHOTRXckxCWFVuT3Fvb0RsNzhXVzVOOGFfNU9EZ0IiLCJpZCI6ImZjX0FfcUNhT3F3SC1DSHhjOFBxTmVhb1FZXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlFYVkJiRkpqZGxwaE5FUXliM051YjBWUWVVeEhhSEphWWpGWGVXSm1ZMHd4UkVGb1RpMDRZemd3WDBaTVpuUnVWVTVaWW5oeVYyRnRTemhoVEc5eGNqSkVlRmROTlRSb1NYWlZZbU4zUVhacE9DMTVjbXhDZGxKNFp4SVhRVjl4UTJGUGNYZElMVU5JZUdNNFVIRk9aV0Z2VVZrYUlrRkdUVUZIUjNKS1FVcFFaMXAwTmxsTVRrVXdUVGxqYXpFelZUZGFkMmN5YkZFIiwiZmN2IjoiMyIsImVpIjoiQV9xQ2FPcXdILUNIeGM4UHFOZWFvUVkiLCJxYyI6IkNodDBaWE4wSUdGdWRHbG5aVzVwY1hWbElHTnZkbWxrSUc1NWIyNFFCQmdCZmNoSkp6OCIsInF1ZXN0aW9uIjoiRXN0LWNlIHF1ZSBsZSB0ZXN0IENvdmlkIGVzdCBncmF0dWl0IGVuIHBoYXJtYWNpZSA%2FIiwibGsiOiJjNU15VEMwdVVVaE9WU2dzVFZYSVNWVW9BWFB6eXpKVEZFQ3M5S0xFa3RMTUVvWFVQSVdDak1TaTNNVGt6RlFBIiwiYnMiOiJjMzJRUFc3Q1FCQkdRN3RWU3VScW9pQmtJVkhFN3RKUUdBb3FTNGxrNnRWNk1CTVpyOWtmUzl3blRZNlFKbzF2d3czb1dDOFFtUWlsMjVIZS0yYV9ZVzhzVE50djRHS0RCaFhZQ2d4cUEwSTJsQU92REJYdFYwVTdpekFiX3V5ajUtQkoybF82TDRxZVpNUmVGOXBNQlVMbkpkazcxRXJXVWlNWWFULWtWUnB5MU43V2tLVFpjZzZGNHNhU0cyZkR3emdLZzFFdUhTRWFEZHBRV1VKQkRjSmFJVjdXZVRkOFlDczI2Yjd2b3QwS1lWV3ZRbjVsTDlrdS1wT2ljVEJ5QmZyOFhaaHRXZHpyVU9JWlN6elR2YTZoV0VHOTRXckxCWFVuT3Fvb0RsNzhXVzVOOGFfNU9EZ0IiLCJpZCI6ImZjX0FfcUNhT3F3SC1DSHhjOFBxTmVhb1FZXzEifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "acIyF3icxZTbkrI4EIBv90XWm1kFdRx1qqi_koiIiop4Ym4oJmJUTmpQdO7-232Ofap9mk3AA87hr9nai40C6Sbd6XR_9M-_vFXg_v3bn8so2tBnQYjjuEDCkHhOAYe-YNNTgIVF6NEdXv5YepIT5Ign7WnudJDKOUwlMeesJGBtkd3fxq08ah1xbbDtOXaom7nEXLJebeqsmffjmgqWwG7u7-UGEwq04ASF_nogdhtTssNmoSQWa4W-YPtsAfjPQ_6ggezqIAD0rJJ8sjBR8-U6cLPKi6GqcW_svdpkkzFffB0quIpoTIDVqy0yh7muZMZG1vUs8ag3iAwQuoskK6mp6TlieHeQ9Hzvgu3fbfp-MD8wG5EOUP6WDpzsyN0MkBwSfI2nBYDTyCOdEPWjT4gA8UF_A2v6J2-TMSbD3q4xZtsJc8JqLQqvO_YoCjvKK49GdTFs6m2sNaPmqDPQ6k-9Ia6h5uMMFOFpSP5ImML0ChXNQvXUfcPUkotW0Sx0C7B4JQryVBrp8ZJjcwVUwfCr9KTj9lrOpli9ZIP_IA7jVNYPTHYv9C0AaszA5K4C7jnbTKekaZcBbNvnqcoNdUSALpuscoSlX5eZDVO02Z6yzG0I4vFf0yuDeEAZPSafQxAn0SlJ_TlRLEg9JUW_sQDPgKj8DyuyqkMXAmgij5w0NY0fsTu6WPAPosNEhwtNHgPQwCgGsBEn7uAKpEjDy3I2Y_TooHv5xJDG1XLMvodDlqhkN-3XVUg3_Wowkj4i1Ari2XyvPI1NeBz6dYxeKqOXzsyIpqP4jFDov_6LxoT_H8i4hw5rCsMsZORzyO7b1hky_QIZrx1rW3Latu4gM2-QobGrsLZlNW6QkQxkRhaybNsy7iBD4LuQNe8gG14h876C7Nq2rpAZ-a57gQxztfYBsm-2reb32lbCmpM-7nvYfk3eg6i4VX9U3wUNrdLCE2C0laLYnnum0o0ZiAs_et7sQtbVVvNnWGpHp3luK0UOjR7sIFoRJ1ht984DDg-r-UNwCoOc7-1CSbQr3SAIdZ_6h4XT8lfAfuuNDaOaf6sYOBiSt8n4BF5Lu7lymFat5t5YPo5mrnOsz1XPotq8vqpp7ZEzjdbLyrIcqUqcnyqTjuq1qv6r0rYPJxXTQc88qJ2N6gMDD3pdES_Ktm-LL-XpMVrRTXfjiPo8b_XWe6LoSWBUAmaJtMf2JN6qOX-HJQTURxf0GAk5im3LoQdJdKpOuVyqiY9OrYRxLeeT6LSRSvV_AFe-gG8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=acIyF3icxZTbkrI4EIBv90XWm1kFdRx1qqi_koiIiop4Ym4oJmJUTmpQdO7-232Ofap9mk3AA87hr9nai40C6Sbd6XR_9M-_vFXg_v3bn8so2tBnQYjjuEDCkHhOAYe-YNNTgIVF6NEdXv5YepIT5Ign7WnudJDKOUwlMeesJGBtkd3fxq08ah1xbbDtOXaom7nEXLJebeqsmffjmgqWwG7u7-UGEwq04ASF_nogdhtTssNmoSQWa4W-YPtsAfjPQ_6ggezqIAD0rJJ8sjBR8-U6cLPKi6GqcW_svdpkkzFffB0quIpoTIDVqy0yh7muZMZG1vUs8ag3iAwQuoskK6mp6TlieHeQ9Hzvgu3fbfp-MD8wG5EOUP6WDpzsyN0MkBwSfI2nBYDTyCOdEPWjT4gA8UF_A2v6J2-TMSbD3q4xZtsJc8JqLQqvO_YoCjvKK49GdTFs6m2sNaPmqDPQ6k-9Ia6h5uMMFOFpSP5ImML0ChXNQvXUfcPUkotW0Sx0C7B4JQryVBrp8ZJjcwVUwfCr9KTj9lrOpli9ZIP_IA7jVNYPTHYv9C0AaszA5K4C7jnbTKekaZcBbNvnqcoNdUSALpuscoSlX5eZDVO02Z6yzG0I4vFf0yuDeEAZPSafQxAn0SlJ_TlRLEg9JUW_sQDPgKj8DyuyqkMXAmgij5w0NY0fsTu6WPAPosNEhwtNHgPQwCgGsBEn7uAKpEjDy3I2Y_TooHv5xJDG1XLMvodDlqhkN-3XVUg3_Wowkj4i1Ari2XyvPI1NeBz6dYxeKqOXzsyIpqP4jFDov_6LxoT_H8i4hw5rCsMsZORzyO7b1hky_QIZrx1rW3Latu4gM2-QobGrsLZlNW6QkQxkRhaybNsy7iBD4LuQNe8gG14h876C7Nq2rpAZ-a57gQxztfYBsm-2reb32lbCmpM-7nvYfk3eg6i4VX9U3wUNrdLCE2C0laLYnnum0o0ZiAs_et7sQtbVVvNnWGpHp3luK0UOjR7sIFoRJ1ht984DDg-r-UNwCoOc7-1CSbQr3SAIdZ_6h4XT8lfAfuuNDaOaf6sYOBiSt8n4BF5Lu7lymFat5t5YPo5mrnOsz1XPotq8vqpp7ZEzjdbLyrIcqUqcnyqTjuq1qv6r0rYPJxXTQc88qJ2N6gMDD3pdES_Ktm-LL-XpMVrRTXfjiPo8b_XWe6LoSWBUAmaJtMf2JN6qOX-HJQTURxf0GAk5im3LoQdJdKpOuVyqiY9OrYRxLeeT6LSRSvV_AFe-gG8"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Centre de dépistage COVID-19 à Nyon: prenez rendez- ...",
+      "link": "https://www.onedoc.ch/fr/centre-de-depistage-covid/nyon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onedoc.ch/fr/centre-de-depistage-covid/nyon&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECBgQAQ",
+      "displayed_link": "https://www.onedoc.ch › nyon",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642623d49ac7d98568a822f78d287a1b8b2b6.png",
+      "snippet": "Trouvez rapidement un centre de dépistage COVID-19 à Nyon (professionnel de santé spécialisé en dépistage COVID-19) qui propose la prise de rendez-vous en ...",
+      "snippet_highlighted_words": [
+        "Trouvez rapidement un centre de dépistage COVID-19 à Nyon"
+      ],
+      "source": "OneDoc"
+    },
+    {
+      "position": 2,
+      "title": "Pharmacieplus Centrale Nyon | - votre-pharmacie.ch",
+      "link": "https://votre-pharmacie.ch/fr/820/nyon/pharmacieplus-centrale-nyon-pharmacie-centrale-nyon-sa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://votre-pharmacie.ch/fr/820/nyon/pharmacieplus-centrale-nyon-pharmacie-centrale-nyon-sa&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECBcQAQ",
+      "displayed_link": "https://votre-pharmacie.ch › nyon",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262b9a63b88cab3dce1dcc2007a2a822776.png",
+      "snippet": "Test PCR Covid 19. Ce test sert à détecter une infection à coronavirus. Un prélèvement nasopharyngé permet d'obtenir du matériel génétique. Le prélèvement et ...",
+      "snippet_highlighted_words": [
+        "Test",
+        "Covid",
+        "test",
+        "coronavirus"
+      ],
+      "source": "votre-pharmacie.ch"
+    },
+    {
+      "position": 3,
+      "title": "Pharmacie Centrale Nyon SA, centre de vaccination ...",
+      "link": "https://www.onedoc.ch/fr/centre-de-vaccination-covid/nyon/pcgh2/pharmacie-centrale-nyon-sa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onedoc.ch/fr/centre-de-vaccination-covid/nyon/pcgh2/pharmacie-centrale-nyon-sa&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECBoQAQ",
+      "displayed_link": "https://www.onedoc.ch › ... › Nyon",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e616426282d9c1c1939bf2d603b13732693b82ef.png",
+      "snippet": "date: Prenez rendez-vous en ligne avec Pharmacie Centrale Nyon SA, centre de vaccination COVID-19 Rue de la Morâche 9, 1260 Nyon.",
+      "snippet_highlighted_words": [
+        "Nyon",
+        "COVID",
+        "Nyon"
+      ],
+      "source": "OneDoc"
+    },
+    {
+      "position": 4,
+      "title": "Votre pharmacieplus du forum à Nyon - pharmacie",
+      "link": "https://www.pharmacieplus.ch/pharmacies/forum/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pharmacieplus.ch/pharmacies/forum/&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECBYQAQ",
+      "displayed_link": "https://www.pharmacieplus.ch › fo...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262f09a293fc783c6db9a62053b039ff0bb.png",
+      "snippet": "La pharmacieplus du forum est située à Nyon, dans le nouveau quartier de la Petite Prairie, à côté du Denner, depuis août 2015. Pratique d'accès grâce à sa ...",
+      "snippet_highlighted_words": [
+        "Nyon"
+      ],
+      "source": "pharmacieplus"
+    },
+    {
+      "position": 5,
+      "title": "GHOL – Hôpital Nyon - Nyon - TestNearMe.org",
+      "link": "https://testnearme.org/listing/ghol-hopital-nyon-nyon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://testnearme.org/listing/ghol-hopital-nyon-nyon&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECDoQAQ",
+      "displayed_link": "https://testnearme.org › COVID Test Sites Near Me",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262dc727810a4a89ffe801775cafa9f1a7e.png",
+      "snippet": "Need a COVID test in Nyon, VD? GHOL – Hôpital Nyon offers Travel, PCR COVID tests in Nyon. Get a COVID test near you now ... Instant Antigen COVID Test · Antibody ...",
+      "snippet_highlighted_words": [
+        "Instant Antigen COVID Test"
+      ],
+      "source": "testnearme.org"
+    },
+    {
+      "position": 6,
+      "title": "Trouvez votre centre Unilabs le plus proche de Nyon",
+      "link": "https://center.unilabs.ch/fr/vaud/nyon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://center.unilabs.ch/fr/vaud/nyon&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECHkQAQ",
+      "displayed_link": "https://center.unilabs.ch › ... › Vaud",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262a0f281b07b19110497e6a8083ab978ee.png",
+      "snippet": "Centres Unilabs. Ouvert maintenant De 07:00 Jusqu'à 18:00. Rue Juste Olivier 18, 1260 Nyon. Plus d'infos 022 716 21 32 Itinéraire. Voir plus ...",
+      "snippet_highlighted_words": [
+        "Rue Juste Olivier 18, 1260 Nyon"
+      ],
+      "missing": [
+        "antigenique"
+      ],
+      "must_include": {
+        "word": "antigenique",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=test+%22antigenique%22+covid+nyon&sa=X&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQ5t4CegUIggEQAQ"
+      },
+      "source": "Unilabs"
+    },
+    {
+      "position": 7,
+      "title": "Pharmacie Sun Store Nyon Combe",
+      "link": "https://www.sunstore.ch/fr/trouver-une-pharmacie/pharmacie-sun-store-nyon-combe?srsltid=AfmBOoruQO1pYNo-_x6sZCdcf4FNtZK4zezgXEgZ5Dyj_zbrAh8mhCrX",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunstore.ch/fr/trouver-une-pharmacie/pharmacie-sun-store-nyon-combe%3Fsrsltid%3DAfmBOoruQO1pYNo-_x6sZCdcf4FNtZK4zezgXEgZ5Dyj_zbrAh8mhCrX&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECDgQAQ",
+      "displayed_link": "https://www.sunstore.ch › pharma...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642623249a80c0f56e7d121793783a5bc31e2.png",
+      "snippet": "Test de fertilité · Préparation à l'accouchement · Tire-lait et biberons · Test de ... Autotests COVID-19 · Photomètres et accessoires · Moniteur de fréquence ...",
+      "snippet_highlighted_words": [
+        "Autotests COVID-19"
+      ],
+      "source": "Sun Store"
+    },
+    {
+      "position": 8,
+      "title": "Pharmacie des Saules - Nyon",
+      "link": "https://pharmonline.ch/fr/pharmacies/36-Pharmacie-des-Saules/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pharmonline.ch/fr/pharmacies/36-Pharmacie-des-Saules/&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECGsQAQ",
+      "displayed_link": "https://pharmonline.ch › pharmacies",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262e9216a7f6664e5865a0bc29c491ea422.png",
+      "snippet": "Dépistage des streptocoques. Sur rendez-vous. 20 minutes. Prix 45 CHF. Votre pharmacie effectue le test de détection rapide ...",
+      "snippet_highlighted_words": [
+        "test"
+      ],
+      "source": "pharmonline.ch"
+    },
+    {
+      "position": 9,
+      "title": "Pharmacieplus Centrale Nyon | - vostra-farmacia.ch",
+      "link": "https://vostra-farmacia.ch/it/820/nyon/pharmacieplus-centrale-nyon-pharmacie-centrale-nyon-sa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vostra-farmacia.ch/it/820/nyon/pharmacieplus-centrale-nyon-pharmacie-centrale-nyon-sa&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoFCIUBEAE",
+      "displayed_link": "https://vostra-farmacia.ch › nyon",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e616426226abd1e629cc5fd54bbdc32e5ffaea4d.png",
+      "snippet": "Test PCR Covid-19. Il test è utilizzato per rilevare un'infezione da coronavirus. Il materiale genetico viene ottenuto da un tampone nasofaringeo. Il ...",
+      "snippet_highlighted_words": [
+        "Test",
+        "Covid",
+        "test",
+        "coronavirus"
+      ],
+      "source": "vostra-farmacia.ch"
+    },
+    {
+      "position": 10,
+      "title": "Vaccination contre le Covid-19 : Consultation plus",
+      "link": "https://www.sunstore.ch/fr/cp/vaccination-contre-le-covid-19?srsltid=AfmBOorD-sLzmg49o2vNu4qSqhL43PGDPgNZJADNxZUUf6KaiNmVUjlA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunstore.ch/fr/cp/vaccination-contre-le-covid-19%3Fsrsltid%3DAfmBOorD-sLzmg49o2vNu4qSqhL43PGDPgNZJADNxZUUf6KaiNmVUjlA&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoFCJUBEAE",
+      "displayed_link": "https://www.sunstore.ch › vaccinat...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642629b3905790a50eb4ff1f59572d57a0943.png",
+      "snippet": "Protégez-vous avec la vaccination contre le Covid-19 – rapide, simple et discrète dans votre pharmacie Sun Store. ✓ Prenez rendez-vous en ligne dès ...",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "Sun Store"
+    },
+    {
+      "position": 11,
+      "title": "CENTRES DE DÉPISTAGE CoVID-19 - Vaud",
+      "link": "https://www.prometerre.ch/s3/site/1588232531_liste_centres_de_depistage_covid19_vaud_060420.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.prometerre.ch/s3/site/1588232531_liste_centres_de_depistage_covid19_vaud_060420.pdf&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECFEQAQ",
+      "displayed_link": "https://www.prometerre.ch › site › 1588232531_...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262d6f7b9e454bcb14727523cedf30a67a5.png",
+      "date": "Apr 6, 2020",
+      "snippet": "Le médecin traitant du patient est le contact prioritaire pour le dépistage CoVID-19. ... Chemin Monastier 10, 1260 Nyon. DÉPISTAGE (08h–17h).",
+      "snippet_highlighted_words": [
+        "Chemin Monastier 10, 1260 Nyon"
+      ],
+      "source": "Prométerre"
+    },
+    {
+      "position": 12,
+      "title": "Tests Covid à Morges et Nyon: avant le week-end, mieux ...",
+      "link": "https://www.lacote.ch/vaud/la-cote/nyon-district/tests-covid-a-morges-et-nyon-avant-le-week-end-mieux-vaut-sarmer-de-patience-1116847",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lacote.ch/vaud/la-cote/nyon-district/tests-covid-a-morges-et-nyon-avant-le-week-end-mieux-vaut-sarmer-de-patience-1116847&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECFMQAQ",
+      "displayed_link": "https://www.lacote.ch › nyon-district",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e616426291d00a509a516b6cce36cff4050ba17c.png",
+      "date": "Oct 7, 2021",
+      "snippet": "Tant à Nyon qu'à Morges, les centres de dépistage sont très fréquentés en fin de semaine. Mais aucune hausse significative n'est constatée.",
+      "snippet_highlighted_words": [
+        "Nyon"
+      ],
+      "source": "La Côte"
+    },
+    {
+      "position": 13,
+      "title": "Test antigénique à Nyons (26)",
+      "link": "https://www.pagesjaunes.fr/annuaire/nyons-26/test-antigenique",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pagesjaunes.fr/annuaire/nyons-26/test-antigenique&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECFQQAQ",
+      "displayed_link": "https://www.pagesjaunes.fr › test-a...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262263c48312be240641f0b772cec982ff1.png",
+      "snippet": "Pharmacie Les Antignans · Pharmacie de l'Olivier · Petitqueux Roeder Enjol · Marc Foulon · Pharmacie Fabrice Kohnen · Pharmacie Corrand Weill · Mélanie Mancip.",
+      "snippet_highlighted_words": [
+        "Pharmacie Les Antignans"
+      ],
+      "source": "Pages Jaunes"
+    },
+    {
+      "position": 14,
+      "title": "Polyanalytic SA - Votre laboratoire d'analyses médicales",
+      "link": "https://www.polyanalytic.ch/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.polyanalytic.ch/&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECGoQAQ",
+      "displayed_link": "https://www.polyanalytic.ch",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642626aab0d722d9c9759ff6c91a802beea7f.png",
+      "snippet": "Polyanalytic SA est un laboratoire d'analyse et de prise de sang à Lausanne, Vevey, Nyon et Morges ... Découvrez le test ALEX® – Allergy Explorer · La ...",
+      "snippet_highlighted_words": [
+        "Polyanalytic SA est un laboratoire d'analyse et de prise de sang à Lausanne, Vevey, Nyon"
+      ],
+      "source": "Polyanalytic"
+    },
+    {
+      "position": 15,
+      "title": "Tests rapides de dépistage de la COVID-19",
+      "link": "https://www.quebec.ca/sante/conseils-et-prevention/depistage-et-offre-de-tests-de-porteur/depistage-symptomes-allure-grippale/utilisation-tests-rapides-depistage-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quebec.ca/sante/conseils-et-prevention/depistage-et-offre-de-tests-de-porteur/depistage-symptomes-allure-grippale/utilisation-tests-rapides-depistage-covid-19&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECHIQAQ",
+      "displayed_link": "https://www.quebec.ca › sante › ut...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262cdf587089789221d0f511de66147a7b3.png",
+      "date": "Nov 29, 2024",
+      "snippet": "Les tests rapides sont utiles pour identifier rapidement les personnes infectées par le virus qui cause la COVID-19.",
+      "snippet_highlighted_words": [
+        "tests",
+        "COVID"
+      ],
+      "source": "Gouvernement du Québec"
+    },
+    {
+      "position": 16,
+      "title": "Certificat laboratoire test covid 19",
+      "link": "https://www.ghol.ch/jcms/fr/certificat-laboratoire-test-covid-19-p_64736.html?details=true",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ghol.ch/jcms/fr/certificat-laboratoire-test-covid-19-p_64736.html%3Fdetails%3Dtrue&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoFCI8BEAE",
+      "displayed_link": "https://www.ghol.ch › jcms › certifi...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642621487e0686735bb47491ad7d4ca6df0d8.jpeg",
+      "snippet": "Certificat laboratoire test covid 19. Télécharger. Nos Etablissements. Hôpital de Nyon · Hôptal de Rolle · EMS Les Jardins du Léman.",
+      "snippet_highlighted_words": [
+        "Hôpital de Nyon"
+      ],
+      "missing": [
+        "antigenique"
+      ],
+      "must_include": {
+        "word": "antigenique",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=test+%22antigenique%22+covid+nyon&sa=X&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQ5t4CegUImwEQAQ"
+      },
+      "source": "Groupement Hospitalier de l'Ouest Lémanique"
+    },
+    {
+      "position": 17,
+      "title": "Laboratoire MGD",
+      "link": "https://www.facebook.com/laboratoireMGD/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/laboratoireMGD/&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoFCJgBEAE",
+      "displayed_link": "70+ followers",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642625c1d9b5931cdd0364cbff6be956b198d.png",
+      "snippet": "Fin de la prise en charge des tests COVID-19 dès le 1er janvier 2023 – Labo MGD ... Les résultats des tests antigéniques ne seront plus délivrés en 30 minutes ...",
+      "snippet_highlighted_words": [
+        "tests COVID",
+        "tests antigéniques"
+      ],
+      "source": "Facebook · Laboratoire MGD"
+    },
+    {
+      "position": 18,
+      "title": "Plan de protection COVID - Nyon.ch",
+      "link": "https://www.nyon.ch/media/document/0/2022-01-29-plan-de-protection-covid-salles-de-sport-2.pdf?6f85d373dab4e5156e0169b807483eef",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nyon.ch/media/document/0/2022-01-29-plan-de-protection-covid-salles-de-sport-2.pdf%3F6f85d373dab4e5156e0169b807483eef&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoFCKUBEAE",
+      "displayed_link": "https://www.nyon.ch › media › document › 202...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642620813d1f4726d35ed6c679d58e0f56df5.png",
+      "date": "Jan 29, 2022",
+      "snippet": "Certificat COVID 3G valable (vacciné∙e ou guéri∙e ou test négatif PCR de moins de 72h / antigénique de moins de 24h). Sans certificat.",
+      "snippet_highlighted_words": [
+        "moins de 24h"
+      ],
+      "source": "nyon.ch"
+    },
+    {
+      "position": 19,
+      "title": "Unilabs - Neuchâtel - TestNearMe.org",
+      "link": "https://testnearme.org/listing/unilabs-neuchatel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://testnearme.org/listing/unilabs-neuchatel&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECDkQAQ",
+      "displayed_link": "https://testnearme.org › COVID Test Sites Near Me",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e616426234f1cf2eaead949828d028deae8b8ca7.png",
+      "snippet": "PCR is the gold standard of testing, offering the most accurate results. Price. CHF168.00. Turnaround. < 48 hours. Location.",
+      "source": "testnearme.org"
+    },
+    {
+      "position": 20,
+      "title": "Tests rapides du Covid-19: les pharmacies de la région ...",
+      "link": "https://www.lacote.ch/vaud/la-cote/morges-district/tests-rapides-du-covid-19-les-pharmacies-de-la-region-prises-dassaut-1025259",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lacote.ch/vaud/la-cote/morges-district/tests-rapides-du-covid-19-les-pharmacies-de-la-region-prises-dassaut-1025259&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECFIQAQ",
+      "displayed_link": "https://www.lacote.ch › la-cote › t...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262549bab9b770ca394b2be99d9faffcdc6.png",
+      "date": "Dec 30, 2020",
+      "snippet": "Aubonne, Rolle, Gimel ou encore Nyon (photo); une poignée de pharmacies de La Côte proposent des tests antigéniques. MICHEL PERRET.",
+      "snippet_highlighted_words": [
+        "une poignée de pharmacies de La Côte proposent des tests antigéniques"
+      ],
+      "source": "La Côte"
+    },
+    {
+      "position": 21,
+      "title": "Où puis-je faire un test Covid avant Noël? - Suisse",
+      "link": "https://www.blick.ch/fr/suisse/centres-et-pharmacie-satures-o-puis-je-faire-un-test-covid-avant-noel-id17087359.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blick.ch/fr/suisse/centres-et-pharmacie-satures-o-puis-je-faire-un-test-covid-avant-noel-id17087359.html&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECDsQAQ",
+      "displayed_link": "https://www.blick.ch › ... › Suisse",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642621160b147355b4879d0a85f98fab384d6.png",
+      "date": "Dec 21, 2021",
+      "snippet": "Même constat à Morges, Nyon, Vevey, Montreux, Delémont ou encore Genève. Le centre M3 de l'aéroport de Cointrin, qui teste actuellement 2000 ...",
+      "snippet_highlighted_words": [
+        "Nyon"
+      ],
+      "source": "Blick"
+    },
+    {
+      "position": 22,
+      "title": "Les Dicodeurs à Nyon",
+      "link": "https://avecvous.rts.ch/evenements/emissions/les-dicodeurs-a-nyon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://avecvous.rts.ch/evenements/emissions/les-dicodeurs-a-nyon&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECFcQAQ",
+      "displayed_link": "https://avecvous.rts.ch › emissions",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262b0d014d9a114c3d77f5cb8cae86aab28.png",
+      "snippet": "Test rapide antigénique négatif datant de moins de 48 h. Les enfants de moins de 16 ans ne doivent pas présenter de certificat COVID mais doivent porter le ...",
+      "snippet_highlighted_words": [
+        "Test rapide antigénique négatif datant de moins de 48 h"
+      ],
+      "source": "rts.ch"
+    },
+    {
+      "position": 23,
+      "title": "Ouverture de la piscine du Cossy et application des ... - Nyon.ch",
+      "link": "https://www.nyon.ch/actualites//ouverture-de-la-piscine-du-cossy-et-application-des-nouvelles-mesures-sanitaires-10634",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nyon.ch/actualites//ouverture-de-la-piscine-du-cossy-et-application-des-nouvelles-mesures-sanitaires-10634&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECFUQAQ",
+      "displayed_link": "https://www.nyon.ch › actualites",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e616426239327d710b9b8f30f31743bc552ac6bc.png",
+      "date": "Dec 21, 2021",
+      "snippet": "Pour accéder à la piscine du Cossy il s'agira donc: D'être en possession d'un certificat COVID 2G (vacciné·e ou guéri·e) valable depuis moins de ...",
+      "snippet_highlighted_words": [
+        "D'être en possession d'un certificat COVID 2G"
+      ],
+      "source": "nyon.ch"
+    },
+    {
+      "position": 24,
+      "title": "Laboratoire MGD",
+      "link": "https://www.facebook.com/laboratoireMGD/posts/face-%C3%A0-laffluence-des-demandes-et-afin-de-garantir-un-service-de-qualit%C3%A9-dans-no/362223125642193/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/laboratoireMGD/posts/face-%25C3%25A0-laffluence-des-demandes-et-afin-de-garantir-un-service-de-qualit%25C3%25A9-dans-no/362223125642193/&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECG0QAQ",
+      "displayed_link": "1 reaction · 3 years ago",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642621129df044955cfb3de2b25cb513f2eb9.png",
+      "snippet": "Les résultats des tests antigéniques ne seront plus délivrés en 30 minutes mais en 6h minimum. ... Fin de la prise en charge des tests COVID-19 ...",
+      "snippet_highlighted_words": [
+        "tests antigéniques",
+        "tests COVID"
+      ],
+      "source": "Facebook · Laboratoire MGD"
+    },
+    {
+      "position": 25,
+      "title": "Covid : Gland vaccine et dépiste - Nyon Region Télévision",
+      "link": "https://www.nrtv.ch/reportages/covid-gland-vaccine-et-depiste/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nrtv.ch/reportages/covid-gland-vaccine-et-depiste/&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECGwQAQ",
+      "displayed_link": "https://www.nrtv.ch › reportages",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642622cfeaa72e7b180862ca6876363b04cf6.png",
+      "snippet": "Le centre de vaccination situé dans les anciens bâtiments du WWF à Gland est également devenu un centre de dépistage. Visite guidée des lieux avec Jean Ra .",
+      "snippet_highlighted_words": [
+        "Le centre de vaccination situé dans les anciens bâtiments du WWF à Gland"
+      ],
+      "source": "nrtv.ch"
+    },
+    {
+      "position": 26,
+      "title": "Vaccination contre le COVID-19 : Consultation plus",
+      "link": "https://www.amavita.ch/fr/cp/vaccination-contre-le-covid-19?srsltid=AfmBOooMAF3CvgEFdY-DpC2pUmKsP04mTKIfq3A2y9izv8rjYS0bAYVZ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amavita.ch/fr/cp/vaccination-contre-le-covid-19%3Fsrsltid%3DAfmBOooMAF3CvgEFdY-DpC2pUmKsP04mTKIfq3A2y9izv8rjYS0bAYVZ&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECHMQAQ",
+      "displayed_link": "https://www.amavita.ch › vaccinati...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262856ef7ad7b7599f5f469446ac9faf5cc.png",
+      "snippet": "Faites-vous vacciner rapidement et en toute sécurité contre le COVID-19 : efficace ✓ discret ✓ vaccination à la pharmacie ✓ Prendre rendez-vous !",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Amavita"
+    },
+    {
+      "position": 27,
+      "title": "COVID-19 - NJ.gov",
+      "link": "https://www.nj.gov/health/covid-19/documents/NCOV_ch.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nj.gov/health/covid-19/documents/NCOV_ch.pdf&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECHgQAQ",
+      "displayed_link": "https://www.nj.gov › documents › NCOV_ch",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e616426276d6e47f10d7ad258843931f8dbed215.png",
+      "date": "Apr 17, 2024",
+      "snippet": "Rapid antigen tests are less sensitive than PCR tests, and therefore may return a negative result, while a more sensitive test, such as RT-PCR, ...",
+      "snippet_highlighted_words": [
+        "Rapid antigen tests are less sensitive than PCR tests"
+      ],
+      "source": "nj.gov"
+    },
+    {
+      "position": 28,
+      "title": "Des tests Covid à l'entrée des lieux culturels ?",
+      "link": "https://www.generations-plus.ch/societe/des-tests-covid-a-lentree-des-lieux-culturels-1582",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.generations-plus.ch/societe/des-tests-covid-a-lentree-des-lieux-culturels-1582&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoFCIMBEAE",
+      "displayed_link": "https://www.generations-plus.ch › ...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642620a12445e4f7289384b55bd9d970035b0.png",
+      "snippet": "Faire des tests antigéniques à l'entrée des salles de spectacle, est-ce un bon moyen pour relancer le secteur de la culture ? · Est-ce faisable en Suisse ?",
+      "snippet_highlighted_words": [
+        "Faire des tests antigéniques à l'entrée des salles de spectacle"
+      ],
+      "source": "Générations Magazine"
+    },
+    {
+      "position": 29,
+      "title": "Coronavirus",
+      "link": "https://www.24heures.ch/coronavirus/2021/06/10",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.24heures.ch/coronavirus/2021/06/10&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoFCIYBEAE",
+      "displayed_link": "https://www.24heures.ch › 2021/...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262403e74d1118104b427e86b1ca58ad8ac.png",
+      "snippet": "Pas de certificat Covid pour les immunisés sans test PCR. Les personnes guéries mais qui n'ont effectué qu'un test antigénique rapide n'obtiendront pas le ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "test",
+        "test antigénique"
+      ],
+      "source": "24 Heures"
+    },
+    {
+      "position": 30,
+      "title": "Votre pharmacieplus centrale nyon, à Nyon - pharmacie",
+      "link": "https://www.pharmacieplus.ch/pharmacies/centrale-nyon/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pharmacieplus.ch/pharmacies/centrale-nyon/&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoFCIQBEAE",
+      "displayed_link": "https://www.pharmacieplus.ch › ce...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642624c746fa375652a8b3a6536537f2b13ab.png",
+      "snippet": "Rue de la Morâche 9 1260 Nyon Itinéraire. Email. centrale.nyon@pharmacieplus.ch. Horaires. Fermée maintenant. Lu 08:00 - 18:30 Ma 08:00 - 18:30 Me 08:00 ...",
+      "snippet_highlighted_words": [
+        "Rue de la Morâche 9 1260 Nyon"
+      ],
+      "source": "pharmacieplus"
+    },
+    {
+      "position": 31,
+      "title": "Ou faire test PCr ou antigénique à Màlaga ou Torremolinos ...",
+      "link": "https://fr.tripadvisor.ch/ShowTopic-g187428-i283-k13591965-Ou_faire_test_PCr_ou_antigenique_a_Malaga_ou_Torremolinos-Andalucia.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fr.tripadvisor.ch/ShowTopic-g187428-i283-k13591965-Ou_faire_test_PCr_ou_antigenique_a_Malaga_ou_Torremolinos-Andalucia.html&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoFCJQBEAE",
+      "displayed_link": "https://fr.tripadvisor.ch › ShowTo...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262ae2032b29c135440a1b9eb7376b63375.png",
+      "snippet": "Bonjour, je voyage prochainement à Torremolinos et je souhaiterais savoir où peut-on faire le test PCr ou antigénique ? À quel prix ?",
+      "snippet_highlighted_words": [
+        "test",
+        "antigénique"
+      ],
+      "source": "tripadvisor.ch"
+    },
+    {
+      "position": 32,
+      "title": "Coronavirus",
+      "link": "https://www.24heures.ch/coronavirus/2021/06/11",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.24heures.ch/coronavirus/2021/06/11&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoFCJcBEAE",
+      "displayed_link": "https://www.24heures.ch › 2021/...",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262cf09ddaed339fac413fb862a38aabca0.png",
+      "snippet": "Pas de certificat Covid pour les immunisés sans test PCR. Les personnes guéries mais qui n'ont effectué qu'un test antigénique rapide n'obtiendront pas le ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "test",
+        "test antigénique"
+      ],
+      "source": "24 Heures"
+    },
+    {
+      "position": 33,
+      "title": "Grand Genève | Tribune de Genève",
+      "link": "https://www.tdg.ch/geneve/grand-geneve/2021/12/08",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tdg.ch/geneve/grand-geneve/2021/12/08&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoFCKIBEAE",
+      "displayed_link": "https://www.tdg.ch › 2021/12/08",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262d1ec6a7210c42429378f0499fda8ddab.png",
+      "snippet": "AboLutte contre le CovidLa Genève non vaccinée se rue sur les tests sérologiques. Depuis mardi 16 novembre, il est possible d'obtenir un pass sanitaire de 90 ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "tests"
+      ],
+      "source": "Tribune de Genève"
+    },
+    {
+      "position": 34,
+      "title": "Comment skierons-nous cet hiver hors frontières ?",
+      "link": "https://www.lefigaro.fr/voyages/montagne/comment-skierons-nous-cet-hiver-hors-frontieres-20201029",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lefigaro.fr/voyages/montagne/comment-skierons-nous-cet-hiver-hors-frontieres-20201029&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECFAQAQ",
+      "displayed_link": "https://www.lefigaro.fr › montagne",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262f8e952cfc1dae5ea098c84d2103fd3cb.png",
+      "snippet": "Après la fermeture des bars et les restrictions dans les restaurants, la principauté pyrénéenne vient d'annoncer une vaste opération de dépistage : un million d ...",
+      "source": "Le Figaro"
+    },
+    {
+      "position": 35,
+      "title": "AUFGEBOT | CONVOCATION",
+      "link": "https://www.swiss-aquatics.ch/wp-content/uploads/2021/02/Aufgebot_Convocation_Nationalmannschaft-U15-Herren_29-31.01.21_Sursee.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.swiss-aquatics.ch/wp-content/uploads/2021/02/Aufgebot_Convocation_Nationalmannschaft-U15-Herren_29-31.01.21_Sursee.pdf&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECDcQAQ",
+      "displayed_link": "https://www.swiss-aquatics.ch › uploads › 2021/02",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e61642621a56fc0c9b8706e2027fd786c7d05633.png",
+      "snippet": "· Pour la protection de tous les participants, nous exigeons des athlètes et des entraîneurs un test rapide COVID-19 (test rapide antigénique). Plus à ce ...",
+      "snippet_highlighted_words": [
+        "test",
+        "COVID",
+        "test",
+        "antigénique"
+      ],
+      "source": "Swiss Aquatics"
+    },
+    {
+      "position": 36,
+      "title": "abbott-binaxNOW-Healthcare Provider Fact Sheet",
+      "link": "https://www.fda.gov/media/141568/download",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fda.gov/media/141568/download&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECFYQAQ",
+      "displayed_link": "https://www.fda.gov › media › download",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e616426283910c0af46932b675865a08e7ffc92b.png",
+      "date": "Jan 13, 2023",
+      "snippet": "The BinaxNOW™ COVID-19 Ag Card can be used to test anterior nasal (nares) swab samples directly using a dual nares collection (swab inserted in ...",
+      "snippet_highlighted_words": [
+        "test anterior nasal (nares) swab samples"
+      ],
+      "source": "U.S. Food and Drug Administration (.gov)"
+    },
+    {
+      "position": 37,
+      "title": "Caroline Zuercher | Tribune de Genève",
+      "link": "https://www.tdg.ch/author/22934018/caroline-zuercher/2021/08/01",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tdg.ch/author/22934018/caroline-zuercher/2021/08/01&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECD0QAQ",
+      "displayed_link": "https://www.tdg.ch › 2021/08/01",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e616426207965e82f31efc22612e1c3d07e2f282.png",
+      "snippet": "Les analyses PCR effectuées avant les vacances, elles, restent payantes. Mieux vaut s'informer avant de partir sur les exigences de votre pays de destination.",
+      "source": "Tribune de Genève"
+    },
+    {
+      "position": 38,
+      "title": "Clinique Médico-Chirurgicale Nyon - Consultations de jour ...",
+      "link": "https://cmcnyon.ch/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cmcnyon.ch/&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECDYQAQ",
+      "displayed_link": "https://cmcnyon.ch",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262d16ec5ae99159b81823eef388e3ffdf5.png",
+      "snippet": "Une permanence de jour avec un espace dédié au test covid, ouverte tous les jours, week-ends et jours fériés compris. Des cabinets médicaux. Un cabinet ...",
+      "snippet_highlighted_words": [
+        "tous les jours, week-ends et jours fériés"
+      ],
+      "source": "Clinique Médico-Chirurgicale Nyon"
+    },
+    {
+      "position": 39,
+      "title": "How to perform the Abbott PANBIO™ COVID-19 Antigen ...",
+      "link": "https://www.youtube.com/watch?v=5wMgGuTMnTo&pp=0gcJCfwAo7VqN5tD",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D5wMgGuTMnTo%26pp%3D0gcJCfwAo7VqN5tD&ved=2ahUKEwiqvqDbiNeOAxXgQ_EDHairJmQQFnoECDwQAQ",
+      "displayed_link": "456.5K+ views · 3 years ago",
+      "favicon": "https://serpapi.com/searches/6882fa02ae678c0f2552c24f/images/74d34c7dd80797e50a9b7db2e6164262b8be3583a8018b239b287e7fa822b9bb.png",
+      "snippet": "Abbott Rapid Diagnostics Health Corp. Telephone: 0800-221-015 Email: tw.info@abbott.com PANBIO™ COVID-19 Antigen Self-Test Technical Support ...",
+      "snippet_highlighted_words": [
+        "Abbott Rapid Diagnostics Health Corp"
+      ],
+      "source": "YouTube · Abbott Taiwan"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 39 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=test+antigenique+covid+nyon&num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=test+antigenique+covid+nyon&oq=test+antigenique+covid+nyon&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=test+antigenique+covid+nyon&oq=test+antigenique+covid+nyon&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=test+antigenique+covid+nyon&oq=test+antigenique+covid+nyon&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=test+antigenique+covid+nyon&oq=test+antigenique+covid+nyon&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=test+antigenique+covid+nyon&oq=test+antigenique+covid+nyon&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+antigenique+covid+nyon&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+antigenique+covid+nyon&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+antigenique+covid+nyon&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+antigenique+covid+nyon&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+antigenique+covid+nyon&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+antigenique+covid+nyon&start=400"
+    }
+  }
+}

@@ -1,0 +1,1975 @@
+{
+  "search_metadata": {
+    "id": "68831202f73e4d9b1ca80320",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f0fae895fa3829a0/68831202f73e4d9b1ca80320.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/f0fae895fa3829a0/68831202f73e4d9b1ca80320.json_with_pixel_position",
+    "created_at": "2025-07-25 05:11:30 UTC",
+    "processed_at": "2025-07-25 05:11:30 UTC",
+    "google_url": "https://www.google.com/search?q=arduino+how+to+read+joystick+input&oq=arduino+how+to+read+joystick+input&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/f0fae895fa3829a0/68831202f73e4d9b1ca80320.html",
+    "total_time_taken": 4.12
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "arduino how to read joystick input",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "arduino how to read joystick input",
+    "total_results": 126000,
+    "time_taken_displayed": 0.47,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "http://exploreembedded.com/wiki/Analog_JoyStick_with_Arduino",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqT57vvzlw5_2aAWjCPYEaQaIFXWk5gK6bHHCa505SkfrhDcGdAuRYv1E&s",
+      "original": "http://exploreembedded.com/wiki/images/5/5f/0_Joystick_with_Arduino_bb.png",
+      "title": "Analog JoyStick with Arduino - Tutorials",
+      "source_name": "exploreembedded.com"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=vo7SbVhW3pE&pp=0gcJCfwAo7VqN5tD",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWCrfs_s9HN1LDu8stUYeJFTVgL_BzTVGpwq4AKD7OB-gX31I_ASRkI80&s",
+      "original": "https://i.ytimg.com/vi/vo7SbVhW3pE/maxresdefault.jpg",
+      "title": "How to Use a Joystick with Arduino (Lesson #13)",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://lastminuteengineers.com/joystick-interfacing-arduino-processing/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qh6VkQ81yP0PHN4y3FKY9C0LIkpQMx-JRWfem7NIdNH5_huxYS2DTtQ&s",
+      "original": "https://lastminuteengineers.com/wp-content/uploads/arduino/PS2-Joystick-Module-Movement-Analog-Values-on-Arduino.png",
+      "title": "In-Depth: How 2-Axis Joystick Works? Interface with Arduino ...",
+      "source_name": "Last Minute Engineers"
+    },
+    {
+      "source": "https://42bots.com/tutorials/arduino-joystick-module-example/amp/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG92gnuBmI5YzHNRaZAtLy21Gf1KMIK_u9fgIwDaZSNHH7pcO3GiOYZV8&s",
+      "original": "https://42bots.com/wp-content/uploads/2014/10/Arduino_Joystick-wiring-diagram-1280x720.png",
+      "title": "Arduino Joystick Module Example | 42 Bots",
+      "source_name": "42 Bots"
+    },
+    {
+      "source": "https://arduinogetstarted.com/tutorials/arduino-joystick",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2D-6K0nArQZ0gUTMWqSvWC-gV9PjdXbuqLmIM5zgFcbQ798gigyJ0CCo&s",
+      "original": "https://arduinogetstarted.com/images/cover/arduino-joystick.jpg",
+      "title": "Arduino - Joystick | Arduino Tutorial",
+      "source_name": "Arduino Getting Started"
+    },
+    {
+      "source": "https://forum.arduino.cc/t/usb-joystick-with-arduino/638825",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq35Q8LzOm0_d2aRvfhsypKo9Wuu24mvw60WeL2enNB1aRATLt2zJddME&s",
+      "original": "https://europe1.discourse-cdn.com/arduino/optimized/4X/5/5/8/5587d2dc68064a88192ddaa30095f5da8c658fb4_2_690x356.png",
+      "title": "USB-Joystick with Arduino - Sensors - Arduino Forum",
+      "source_name": "Arduino Forum"
+    },
+    {
+      "source": "https://curiousscientist.tech/blog/arduino-with-joysticks-part1",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjFsgWpBX6yY8r3J5c7EQqBFoa37gnJxIzEunQbTkTJEnGOyzLBbx3ms&s",
+      "original": "https://images.squarespace-cdn.com/content/v1/5f0b647e73eff4020b4ccfed/1615745744601-P67N3IGJAXEU84FR3VYM/Joystick_fritzing.JPG",
+      "title": "Arduino and joysticks - Part 1 - Introduction — Curious ...",
+      "source_name": "Curious Scientist"
+    },
+    {
+      "source": "https://docs.arduino.cc/built-in-examples/usb/JoystickMouseControl/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKucpS5Llm-AbejPd7cChtoe0mBpDbXLG5_sI40JJPIUGsxCHQ6sWW7k&s",
+      "original": "https://docs.arduino.cc/static/305f8101e43a0503ad7b480d35711be1/a6d36/circuit.png",
+      "title": "Joystick Mouse Control | Arduino Documentation",
+      "source_name": "Arduino Documentation"
+    },
+    {
+      "source": "https://arduinogetstarted.com/tutorials/arduino-joystick",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsQYIYp3k5SLEeOFphH0QWv5MsE3tMPX06r0Kw2NS0cyM8xPajiO7eus0&s",
+      "original": "https://arduinogetstarted.com/images/tutorial/arduino-joystick-wiring-diagram.jpg",
+      "title": "Arduino - Joystick | Arduino Tutorial",
+      "source_name": "Arduino Getting Started"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How do you read an analog input in Arduino?",
+      "type": "featured_snippet",
+      "snippet": "To read analog input from an analog pin in Arduino IDE, you have to use analogRead(pin) function. analogRead(pin) function reads the value from the specific analog pin. The output is an integer value between 0 and 1023 (Due to a 10-bit analog to digital converter), which is mapped between 0 and 5 volts input voltage.",
+      "title": "Analog Input Pins - STEMpedia Education",
+      "link": "https://ai.thestempedia.com/docs/evive/evive-technical-specifications/arduino-core-interface/analog-input-pins/#:~:text=To%20read%20analog%20input%20from,and%205%20volts%20input%20voltage.",
+      "displayed_link": "https://ai.thestempedia.com › docs › arduino-core-interface",
+      "source_logo": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/2dc00aa70b8a699d6a785c70d215124033b88a738e603be83dde3bb9fa13e452.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1pHSlFRakJoWldRemNXZzBWbU5MVkc5MlpIWm1abkZuTVZvMWRXcHdNalpIV0dwdlpIWkZVSGx1Y1RWTFgwUkRiblZyYUhWaWNGSlJNMjVoUjFrNU1FWm1kMjh6WWtKRU9VNXpWbmxXTWpGRGRVNDJZMkpUWmxodFFSSVhRbEpMUkdGTllraEJaR1U1TUZCRlVEZzFVMk5yVVVrYUlrRkdUVUZIUjNGamN6UnNSa1I1T0doSFpFZHFlR3hpU1dwTmRHUkdlR3Q0VTNjIiwiZmN2IjoiMyIsImVpIjoiQlJLRGFNYkhBZGU5MFBFUDg1U2NrUUkiLCJxYyI6IkNpSmhjbVIxYVc1dklHaHZkeUIwYnlCeVpXRmtJR3B2ZVhOMGFXTnJJR2x1Y0hWMEVBQjlvMklHUHciLCJxdWVzdGlvbiI6IkhvdyBkbyB5b3UgcmVhZCBhbiBhbmFsb2cgaW5wdXQgaW4gQXJkdWlubz8iLCJsayI6ImM1UFN5c2d2VjBqSlY2ak1MMVVvU2sxTVVVak1BNkxFblB4MGhjeThndElTSUttUVdKUlNtcG1YRHdBIiwiYnMiOiJjLU9LNDlMMnlDOVhTTWxYcU13dlZTaEtUVXhSU013RG9zU2NfSFNGekx5QzBoSWdxZUJZbEZLYW1aZHZMM0czekVoSFNpdURzSTVFaUE0dUp5NVprUGtsLVFySkdhbkoyUXBaLVpYRkpabEFCbGhsc2IzRTZ3QWpPU21aRER4cXVJSzRWS0ZtZ0cwclRzMHJ6aTlTS0V2TUtVMHRSbkhkcHpvak5TbVZESHhxWWU3SzRqSkNOak1sc1NSUklhMG9QMWNoRWFpbktETXhSeUUzUHktekJLZ1gyWUp6LWthR1V2b1pXRFZpYW9QYUpjQUlBQSIsImlkIjoiZmNfQlJLRGFNYkhBZGU5MFBFUDg1U2NrUUlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1pHSlFRakJoWldRemNXZzBWbU5MVkc5MlpIWm1abkZuTVZvMWRXcHdNalpIV0dwdlpIWkZVSGx1Y1RWTFgwUkRiblZyYUhWaWNGSlJNMjVoUjFrNU1FWm1kMjh6WWtKRU9VNXpWbmxXTWpGRGRVNDJZMkpUWmxodFFSSVhRbEpMUkdGTllraEJaR1U1TUZCRlVEZzFVMk5yVVVrYUlrRkdUVUZIUjNGamN6UnNSa1I1T0doSFpFZHFlR3hpU1dwTmRHUkdlR3Q0VTNjIiwiZmN2IjoiMyIsImVpIjoiQlJLRGFNYkhBZGU5MFBFUDg1U2NrUUkiLCJxYyI6IkNpSmhjbVIxYVc1dklHaHZkeUIwYnlCeVpXRmtJR3B2ZVhOMGFXTnJJR2x1Y0hWMEVBQjlvMklHUHciLCJxdWVzdGlvbiI6IkhvdyBkbyB5b3UgcmVhZCBhbiBhbmFsb2cgaW5wdXQgaW4gQXJkdWlubz8iLCJsayI6ImM1UFN5c2d2VjBqSlY2ak1MMVVvU2sxTVVVak1BNkxFblB4MGhjeThndElTSUttUVdKUlNtcG1YRHdBIiwiYnMiOiJjLU9LNDlMMnlDOVhTTWxYcU13dlZTaEtUVXhSU013RG9zU2NfSFNGekx5QzBoSWdxZUJZbEZLYW1aZHZMM0czekVoSFNpdURzSTVFaUE0dUp5NVprUGtsLVFySkdhbkoyUXBaLVpYRkpabEFCbGhsc2IzRTZ3QWpPU21aRER4cXVJSzRWS0ZtZ0cwclRzMHJ6aTlTS0V2TUtVMHRSbkhkcHpvak5TbVZESHhxWWU3SzRqSkNOak1sc1NSUklhMG9QMWNoRWFpbktETXhSeUUzUHktekJLZ1gyWUp6LWthR1V2b1pXRFZpYW9QYUpjQUlBQSIsImlkIjoiZmNfQlJLRGFNYkhBZGU5MFBFUDg1U2NrUUlfMSJ9"
+    },
+    {
+      "question": "How to check joystick inputs?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "title": "Some things to check:",
+      "link": "https://hardwaretester.com/gamepad",
+      "list": [
+        "Is the device plugged in / connected via bluetooth.",
+        "Press some buttons. On some devices, only certain buttons will wake up the gamepad API (the shapes on PS3 controllers, for instance)",
+        "Close other apps that may be using the gamepad.",
+        "Restart your web browser."
+      ],
+      "displayed_link": "https://hardwaretester.com › gamepad",
+      "source_logo": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/2dc00aa70b8a699d6a785c70d21512407ec1dcee5406eb3ecd820a7819ace0df.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1pHSlFRakJoWldRemNXZzBWbU5MVkc5MlpIWm1abkZuTVZvMWRXcHdNalpIV0dwdlpIWkZVSGx1Y1RWTFgwUkRiblZyYUhWaWNGSlJNMjVoUjFrNU1FWm1kMjh6WWtKRU9VNXpWbmxXTWpGRGRVNDJZMkpUWmxodFFSSVhRbEpMUkdGTllraEJaR1U1TUZCRlVEZzFVMk5yVVVrYUlrRkdUVUZIUjNGamN6UnNSa1I1T0doSFpFZHFlR3hpU1dwTmRHUkdlR3Q0VTNjIiwiZmN2IjoiMyIsImVpIjoiQlJLRGFNYkhBZGU5MFBFUDg1U2NrUUkiLCJxYyI6IkNpSmhjbVIxYVc1dklHaHZkeUIwYnlCeVpXRmtJR3B2ZVhOMGFXTnJJR2x1Y0hWMEVBQjlvMklHUHciLCJxdWVzdGlvbiI6IkhvdyB0byBjaGVjayBqb3lzdGljayBpbnB1dHM/IiwibGsiOiJHaHhvYjNjZ2RHOGdZMmhsWTJzZ2FtOTVjM1JwWTJzZ2FXNXdkWFJ6IiwiYnMiOiJjLU9LNDlMMnlDOVhTTWxYcU13dlZTaEtUVXhSU013RG9zU2NfSFNGekx5QzBoSWdxZUJZbEZLYW1aZHZMM0czekVoSFNpdURzSTVFaUE0dUp5NVprUGtsLVFySkdhbkoyUXBaLVpYRkpabEFCbGhsc2IzRTZ3QWpPU21aRER4cXVJSzRWS0ZtZ0cwclRzMHJ6aTlTS0V2TUtVMHRSbkhkcHpvak5TbVZESHhxWWU3SzRqSkNOak1sc1NSUklhMG9QMWNoRWFpbktETXhSeUUzUHktekJLZ1gyWUp6LWthR1V2b1pXRFZpYW9QYUpjQUlBQSIsImlkIjoiZmNfQlJLRGFNYkhBZGU5MFBFUDg1U2NrUUlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1pHSlFRakJoWldRemNXZzBWbU5MVkc5MlpIWm1abkZuTVZvMWRXcHdNalpIV0dwdlpIWkZVSGx1Y1RWTFgwUkRiblZyYUhWaWNGSlJNMjVoUjFrNU1FWm1kMjh6WWtKRU9VNXpWbmxXTWpGRGRVNDJZMkpUWmxodFFSSVhRbEpMUkdGTllraEJaR1U1TUZCRlVEZzFVMk5yVVVrYUlrRkdUVUZIUjNGamN6UnNSa1I1T0doSFpFZHFlR3hpU1dwTmRHUkdlR3Q0VTNjIiwiZmN2IjoiMyIsImVpIjoiQlJLRGFNYkhBZGU5MFBFUDg1U2NrUUkiLCJxYyI6IkNpSmhjbVIxYVc1dklHaHZkeUIwYnlCeVpXRmtJR3B2ZVhOMGFXTnJJR2x1Y0hWMEVBQjlvMklHUHciLCJxdWVzdGlvbiI6IkhvdyB0byBjaGVjayBqb3lzdGljayBpbnB1dHM%2FIiwibGsiOiJHaHhvYjNjZ2RHOGdZMmhsWTJzZ2FtOTVjM1JwWTJzZ2FXNXdkWFJ6IiwiYnMiOiJjLU9LNDlMMnlDOVhTTWxYcU13dlZTaEtUVXhSU013RG9zU2NfSFNGekx5QzBoSWdxZUJZbEZLYW1aZHZMM0czekVoSFNpdURzSTVFaUE0dUp5NVprUGtsLVFySkdhbkoyUXBaLVpYRkpabEFCbGhsc2IzRTZ3QWpPU21aRER4cXVJSzRWS0ZtZ0cwclRzMHJ6aTlTS0V2TUtVMHRSbkhkcHpvak5TbVZESHhxWWU3SzRqSkNOak1sc1NSUklhMG9QMWNoRWFpbktETXhSeUUzUHktekJLZ1gyWUp6LWthR1V2b1pXRFZpYW9QYUpjQUlBQSIsImlkIjoiZmNfQlJLRGFNYkhBZGU5MFBFUDg1U2NrUUlfMSJ9"
+    },
+    {
+      "question": "How to read sensor values in Arduino?",
+      "type": "featured_snippet",
+      "snippet": "Itself. So now this function will read uh from the rain sensor. Put it in rain sensor value. And then print it on the serial monitor. And then after uploading the code to your Arduino.",
+      "title": "How to Read and Display Data From Sensors in Arduino - YouTube",
+      "link": "https://www.youtube.com/watch?v=zF3dKpH1M9k",
+      "displayed_link": null,
+      "source_logo": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/2dc00aa70b8a699d6a785c70d2151240889fd08b2e83316de9927006a9501acb.png",
+      "next_page_token": "eyJvbnMiOiIyNjc5IiwiZmMiOiJFdUlDQ3FJQ1FVeHJkRjkyUmtWMVFUWmhSV1J5V1hCcWRVaDJjRFV6ZEdacVgyUTFRbXg2Tm1wR2JHMVlSa0paYzNacGRUaG5aRk14UTJKVlpVRjZWak5IUkhKcWFHaGpNM1V5UzJSWFRYbHRjbmxGY1ZkdkxWcHhSR1V6Ym5JeWVIaG1MVTE1Tm5kb1RHSk1Ra1ZZYTNvd2JreHNWME4wV2tNM1JHaFNWMFZsUkU5SGRuZGxaakZqZFV0cmFGSXRZblpmYkVoRVRFdDZTbms1WVdJM2FWUkZkVmx5ZHpab1JrWjRaMUJKT1dsSllqaHVYM2hGTUZoYVltczJSMUpsYlRWaE0wNWZVRkV6WW5OQk1uSmFlSFZIZFMxRFkwVkJSM0p6WVVGbmVVeFJVa2xWZFZKVk0wZGFRbUZhTmxWRFJUWjFNWEF0Y0dVelFWWktUR3MxT0d3NE9VZHRkSG80Um1WR2RucFNiMEpRYkdSTFZIUk1aR1EzUTB0RmJUUkVlVXRwZG5VMlRsRVNGMEpTUzBSaFRXSklRV1JsT1RCUVJWQTROVk5qYTFGSkdpSkJSazFCUjBkeU1IQmpWbU5RU0Uxc2FHaHhTbGxGVkZNMldYQXdWM2t4V0dwbiIsImZjdiI6IjMiLCJlaSI6IkJSS0RhTWJIQWRlOTBQRVA4NVNja1FJIiwicWMiOiJDaUpoY21SMWFXNXZJR2h2ZHlCMGJ5QnlaV0ZrSUdwdmVYTjBhV05ySUdsdWNIVjBFQUI5bzJJR1B3IiwicXVlc3Rpb24iOiJIb3cgdG8gcmVhZCBzZW5zb3IgdmFsdWVzIGluIEFyZHVpbm8/IiwibGsiOiJHaVJvYjNjZ2RHOGdjbVZoWkNCelpXNXpiM0lnZG1Gc2RXVnpJR2x1SUdGeVpIVnBibTgiLCJicyI6ImMtT0s0OUwyeUM5WFNNbFhxTXd2VlNoS1RVeFJTTXdEb3NTY19IU0Z6THlDMGhJZ3FlQllsRkthbVpkdkwzRzN6RWhIU2l1RHNJNUVpQTR1Snk1WmtQa2wtUXJKR2FuSjJRcFotWlhGSlpsQUJsaGxzYjNFNndBak9TbVpERHhxdUlLNFZLRm1nRzByVHMwcnppOVNLRXZNS1UwdFJuSGRwem9qTlNtVkRIeHFZZTdLNGpKQ05qTWxzU1JSSWEwb1AxY2hFYWluS0RNeFJ5RTNQeS16QktnWDJZSnota2FHVXZvWldEVmlhb1BhSmNBSUFBIiwiaWQiOiJmY19CUktEYU1iSEFkZTkwUEVQODVTY2tRSV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIyNjc5IiwiZmMiOiJFdUlDQ3FJQ1FVeHJkRjkyUmtWMVFUWmhSV1J5V1hCcWRVaDJjRFV6ZEdacVgyUTFRbXg2Tm1wR2JHMVlSa0paYzNacGRUaG5aRk14UTJKVlpVRjZWak5IUkhKcWFHaGpNM1V5UzJSWFRYbHRjbmxGY1ZkdkxWcHhSR1V6Ym5JeWVIaG1MVTE1Tm5kb1RHSk1Ra1ZZYTNvd2JreHNWME4wV2tNM1JHaFNWMFZsUkU5SGRuZGxaakZqZFV0cmFGSXRZblpmYkVoRVRFdDZTbms1WVdJM2FWUkZkVmx5ZHpab1JrWjRaMUJKT1dsSllqaHVYM2hGTUZoYVltczJSMUpsYlRWaE0wNWZVRkV6WW5OQk1uSmFlSFZIZFMxRFkwVkJSM0p6WVVGbmVVeFJVa2xWZFZKVk0wZGFRbUZhTmxWRFJUWjFNWEF0Y0dVelFWWktUR3MxT0d3NE9VZHRkSG80Um1WR2RucFNiMEpRYkdSTFZIUk1aR1EzUTB0RmJUUkVlVXRwZG5VMlRsRVNGMEpTUzBSaFRXSklRV1JsT1RCUVJWQTROVk5qYTFGSkdpSkJSazFCUjBkeU1IQmpWbU5RU0Uxc2FHaHhTbGxGVkZNMldYQXdWM2t4V0dwbiIsImZjdiI6IjMiLCJlaSI6IkJSS0RhTWJIQWRlOTBQRVA4NVNja1FJIiwicWMiOiJDaUpoY21SMWFXNXZJR2h2ZHlCMGJ5QnlaV0ZrSUdwdmVYTjBhV05ySUdsdWNIVjBFQUI5bzJJR1B3IiwicXVlc3Rpb24iOiJIb3cgdG8gcmVhZCBzZW5zb3IgdmFsdWVzIGluIEFyZHVpbm8%2FIiwibGsiOiJHaVJvYjNjZ2RHOGdjbVZoWkNCelpXNXpiM0lnZG1Gc2RXVnpJR2x1SUdGeVpIVnBibTgiLCJicyI6ImMtT0s0OUwyeUM5WFNNbFhxTXd2VlNoS1RVeFJTTXdEb3NTY19IU0Z6THlDMGhJZ3FlQllsRkthbVpkdkwzRzN6RWhIU2l1RHNJNUVpQTR1Snk1WmtQa2wtUXJKR2FuSjJRcFotWlhGSlpsQUJsaGxzYjNFNndBak9TbVpERHhxdUlLNFZLRm1nRzByVHMwcnppOVNLRXZNS1UwdFJuSGRwem9qTlNtVkRIeHFZZTdLNGpKQ05qTWxzU1JSSWEwb1AxY2hFYWluS0RNeFJ5RTNQeS16QktnWDJZSnota2FHVXZvWldEVmlhb1BhSmNBSUFBIiwiaWQiOiJmY19CUktEYU1iSEFkZTkwUEVQODVTY2tRSV8zIn0%3D"
+    },
+    {
+      "question": "How to read data from a serial monitor in Arduino?",
+      "type": "featured_snippet",
+      "snippet": "The condition is serial. Available equals zero the serial. Available function returns the number of bytes that are sent from the serial. Monitor.",
+      "title": "How to Read User Inputs from the Serial Monitor - YouTube",
+      "link": "https://www.youtube.com/watch?v=XishaRwUlGM",
+      "displayed_link": null,
+      "source_logo": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/2dc00aa70b8a699d6a785c70d2151240a4785dab4eeff3d242be4c522c33a596.png",
+      "next_page_token": "eyJvbnMiOiIyNjc5IiwiZmMiOiJFdUlDQ3FJQ1FVeHJkRjkyUnpaNlZWTllNbGM1ZUd0V2N6SmxTR1pLU25RelFUWm5NV1l5TFhsblVFNU1RbEZyZVROUllXUktXSEZ4VkVKV2NHcFJjbFpKT0dkTGIwRjZhRzVqVGs4dFFsZElkMUJUUzBsMlNFeElRemhGWjJaMmQxRTVZa2xJUjFObE5WRk9RMHRWZUd4VmRqSjFVRUZOY1U1M05sZGtaR0ZLY0hWS2JsQTFOazV0V2xBdFRGRlJYMm94WTFCaU9HaFFPVWx0T0ZoemRFOVVjWFpGTjNCNllWZFhjMDVsWmpodmFIYzROa0pDWlhWNWVEZHBVVU5vVTNobGNETnpZa2RrVVVSM2JWTTFVREJrTTNocVFtMVpjR0ZPU1hGNlZqTnhNMmQ2TVVOTGIyVk1iVGRHYURCWFVuVnNaMUZzYW5CalN6TmxZemwzUlRSMlVsQTNXR0pNY0V4SGMxUmFWRTVyWVRkd2IweFhRVEJsU21kNWQzRklMVmw0ZDBnME4zY1NGMEpTUzBSaFRXSklRV1JsT1RCUVJWQTROVk5qYTFGSkdpSkJSazFCUjBkeFNqVm1UblJ1V1V0elNtWkVZM0oxTUZwVVpGSm1TbGt5UkZKbiIsImZjdiI6IjMiLCJlaSI6IkJSS0RhTWJIQWRlOTBQRVA4NVNja1FJIiwicWMiOiJDaUpoY21SMWFXNXZJR2h2ZHlCMGJ5QnlaV0ZrSUdwdmVYTjBhV05ySUdsdWNIVjBFQUI5bzJJR1B3IiwicXVlc3Rpb24iOiJIb3cgdG8gcmVhZCBkYXRhIGZyb20gYSBzZXJpYWwgbW9uaXRvciBpbiBBcmR1aW5vPyIsImxrIjoiR2k5b2IzY2dkRzhnY21WaFpDQmtZWFJoSUdaeWIyMGdjMlZ5YVdGc0lHMXZibWwwYjNJZ2FXNGdZWEprZFdsdWJ3IiwiYnMiOiJjLU9LNDlMMnlDOVhTTWxYcU13dlZTaEtUVXhSU013RG9zU2NfSFNGekx5QzBoSWdxZUJZbEZLYW1aZHZMM0czekVoSFNpdURzSTVFaUE0dUp5NVprUGtsLVFySkdhbkoyUXBaLVpYRkpabEFCbGhsc2IzRTZ3QWpPU21aRER4cXVJSzRWS0ZtZ0cwclRzMHJ6aTlTS0V2TUtVMHRSbkhkcHpvak5TbVZESHhxWWU3SzRqSkNOak1sc1NSUklhMG9QMWNoRWFpbktETXhSeUUzUHktekJLZ1gyWUp6LWthR1V2b1pXRFZpYW9QYUpjQUlBQSIsImlkIjoiZmNfQlJLRGFNYkhBZGU5MFBFUDg1U2NrUUlfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIyNjc5IiwiZmMiOiJFdUlDQ3FJQ1FVeHJkRjkyUnpaNlZWTllNbGM1ZUd0V2N6SmxTR1pLU25RelFUWm5NV1l5TFhsblVFNU1RbEZyZVROUllXUktXSEZ4VkVKV2NHcFJjbFpKT0dkTGIwRjZhRzVqVGs4dFFsZElkMUJUUzBsMlNFeElRemhGWjJaMmQxRTVZa2xJUjFObE5WRk9RMHRWZUd4VmRqSjFVRUZOY1U1M05sZGtaR0ZLY0hWS2JsQTFOazV0V2xBdFRGRlJYMm94WTFCaU9HaFFPVWx0T0ZoemRFOVVjWFpGTjNCNllWZFhjMDVsWmpodmFIYzROa0pDWlhWNWVEZHBVVU5vVTNobGNETnpZa2RrVVVSM2JWTTFVREJrTTNocVFtMVpjR0ZPU1hGNlZqTnhNMmQ2TVVOTGIyVk1iVGRHYURCWFVuVnNaMUZzYW5CalN6TmxZemwzUlRSMlVsQTNXR0pNY0V4SGMxUmFWRTVyWVRkd2IweFhRVEJsU21kNWQzRklMVmw0ZDBnME4zY1NGMEpTUzBSaFRXSklRV1JsT1RCUVJWQTROVk5qYTFGSkdpSkJSazFCUjBkeFNqVm1UblJ1V1V0elNtWkVZM0oxTUZwVVpGSm1TbGt5UkZKbiIsImZjdiI6IjMiLCJlaSI6IkJSS0RhTWJIQWRlOTBQRVA4NVNja1FJIiwicWMiOiJDaUpoY21SMWFXNXZJR2h2ZHlCMGJ5QnlaV0ZrSUdwdmVYTjBhV05ySUdsdWNIVjBFQUI5bzJJR1B3IiwicXVlc3Rpb24iOiJIb3cgdG8gcmVhZCBkYXRhIGZyb20gYSBzZXJpYWwgbW9uaXRvciBpbiBBcmR1aW5vPyIsImxrIjoiR2k5b2IzY2dkRzhnY21WaFpDQmtZWFJoSUdaeWIyMGdjMlZ5YVdGc0lHMXZibWwwYjNJZ2FXNGdZWEprZFdsdWJ3IiwiYnMiOiJjLU9LNDlMMnlDOVhTTWxYcU13dlZTaEtUVXhSU013RG9zU2NfSFNGekx5QzBoSWdxZUJZbEZLYW1aZHZMM0czekVoSFNpdURzSTVFaUE0dUp5NVprUGtsLVFySkdhbkoyUXBaLVpYRkpabEFCbGhsc2IzRTZ3QWpPU21aRER4cXVJSzRWS0ZtZ0cwclRzMHJ6aTlTS0V2TUtVMHRSbkhkcHpvak5TbVZESHhxWWU3SzRqSkNOak1sc1NSUklhMG9QMWNoRWFpbktETXhSeUUzUHktekJLZ1gyWUp6LWthR1V2b1pXRFZpYW9QYUpjQUlBQSIsImlkIjoiZmNfQlJLRGFNYkhBZGU5MFBFUDg1U2NrUUlfMiJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "ybwb9nicxZRLkuI4EEC3c5FhQwOGAhoqwjGRkkWVwRSIT3XTG8IYIxt_BDaUgd2cYC7Rp-rTjCwD5frF1MQsRgSWpfwoM_Wcf_703dD79dtfzm63iW8rlSRJyoxz5ttliwcVMz6GVmXF_TiynD8cX7XDAvPVfVw4Pqk3BStWlYLtqmjU08z-4h6WdlsZkmGrMbY8qhekuTpfmLG9Ft4P67gyr4iH9_uNJhbluGyH5Qdj0Go1dYjnrFxTqq3yoGIGQgH-42Dv7OniT4Gg7C0b5H3V1ANNhQBeXjcbWuYKYUQBEOj09TGZS08Hkgzn7WNefj6Npm-5_QSmQAkcxLb3OiB0fZMG-BI-fqWIX6yk7iB35NuB5cHPp1DApecsrVRBrjTXNXMZoLp2DyfX4-86HTO9y7QmtQh-V46hQ8jETBThu7Jk4q6VyiISU7USxenN40lb4Z3vpXZveyI9ZQ_7H71qZJJqB_qhsEq-SKas-ApVnIcqGbLtFnqm4bCyUUbVK1EozXecpYeYzBgD0mH0UXmycRGz3BPg-e5SudHBd3IHozqlokI006tDf9bAok6MnUucDu9cb4dJP2nh76CbVksQJePjwhehoOuESV5BT21wFxCSxmsufelw8WokQ-EDiR_tZ5tchpgRxYgMbpxDGCS75zS0RJ8yTceCKGQgxaIXRUk2JefEUU8UzE4XHbHG0IdJAkhLZAzIFVP3WqKsvsKegsHO3nA_tRLfDYPJC6LSFP75i0f0Q5Eg6S1Cd9zv3a_smK2I7WsztEaNUF851F7cwBkhHiz-RWOy_h_IdCknyOj0rpBNP4SMjfJtK4WMXCC7l5ClbWuaSl5Bpl8g87rIS9vWqZ6DzIELZI4I5gpZvm15ryBDn4Ss9wKy0RUy_yPIrm3rCtm4ZHgXyKzUiryF7HNta_S5tiVZs7PpZQ_br9kbEEFx5preYv3JeHJvaetacHJm6Ol0aItetgp2t5uIsy9zd3mLat3dcVnYqma03LshLzo8Ke54MbLNZXHNj_HOtbyiG272u0LgR1xVzK-hiWBbigZbe6nvV-4MyGIT9G_s2GVKsBzxxtLhszh8WJjNCOH1hEdf7ZE1qlm7WmNSWh--0-mj1kRHelhgY1CbfIMkeZr5IZjbMBzc_IhaQcsN_NF-1x70DtojbZYGw5Pi8CbZU_qtVBvN8Ly-IBo2rFUdZFyxSvGgtu9oj-aAF4LIUkVV6x48iIZQiC1zbsdP6lJprhpm1arV27X6QlEKAdsdN2rrbw3MgeY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ybwb9nicxZRLkuI4EEC3c5FhQwOGAhoqwjGRkkWVwRSIT3XTG8IYIxt_BDaUgd2cYC7Rp-rTjCwD5frF1MQsRgSWpfwoM_Wcf_703dD79dtfzm63iW8rlSRJyoxz5ttliwcVMz6GVmXF_TiynD8cX7XDAvPVfVw4Pqk3BStWlYLtqmjU08z-4h6WdlsZkmGrMbY8qhekuTpfmLG9Ft4P67gyr4iH9_uNJhbluGyH5Qdj0Go1dYjnrFxTqq3yoGIGQgH-42Dv7OniT4Gg7C0b5H3V1ANNhQBeXjcbWuYKYUQBEOj09TGZS08Hkgzn7WNefj6Npm-5_QSmQAkcxLb3OiB0fZMG-BI-fqWIX6yk7iB35NuB5cHPp1DApecsrVRBrjTXNXMZoLp2DyfX4-86HTO9y7QmtQh-V46hQ8jETBThu7Jk4q6VyiISU7USxenN40lb4Z3vpXZveyI9ZQ_7H71qZJJqB_qhsEq-SKas-ApVnIcqGbLtFnqm4bCyUUbVK1EozXecpYeYzBgD0mH0UXmycRGz3BPg-e5SudHBd3IHozqlokI006tDf9bAok6MnUucDu9cb4dJP2nh76CbVksQJePjwhehoOuESV5BT21wFxCSxmsufelw8WokQ-EDiR_tZ5tchpgRxYgMbpxDGCS75zS0RJ8yTceCKGQgxaIXRUk2JefEUU8UzE4XHbHG0IdJAkhLZAzIFVP3WqKsvsKegsHO3nA_tRLfDYPJC6LSFP75i0f0Q5Eg6S1Cd9zv3a_smK2I7WsztEaNUF851F7cwBkhHiz-RWOy_h_IdCknyOj0rpBNP4SMjfJtK4WMXCC7l5ClbWuaSl5Bpl8g87rIS9vWqZ6DzIELZI4I5gpZvm15ryBDn4Ss9wKy0RUy_yPIrm3rCtm4ZHgXyKzUiryF7HNta_S5tiVZs7PpZQ_br9kbEEFx5preYv3JeHJvaetacHJm6Ol0aItetgp2t5uIsy9zd3mLat3dcVnYqma03LshLzo8Ke54MbLNZXHNj_HOtbyiG272u0LgR1xVzK-hiWBbigZbe6nvV-4MyGIT9G_s2GVKsBzxxtLhszh8WJjNCOH1hEdf7ZE1qlm7WmNSWh--0-mj1kRHelhgY1CbfIMkeZr5IZjbMBzc_IhaQcsN_NF-1x70DtojbZYGw5Pi8CbZU_qtVBvN8Ly-IBo2rFUdZFyxSvGgtu9oj-aAF4LIUkVV6x48iIZQiC1zbsdP6lJprhpm1arV27X6QlEKAdsdN2rrbw3MgeY"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Joystick | Arduino Tutorial - Arduino Getting Started",
+      "link": "https://arduinogetstarted.com/tutorials/arduino-joystick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arduinogetstarted.com/tutorials/arduino-joystick&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECBkQAQ",
+      "displayed_link": "https://arduinogetstarted.com › tutorials › arduino-joystick",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65f8c07f8a350e6f790ac4df54fd4a2e84.png",
+      "snippet": "The joystick has two parts: analog (X, Y axis) and digital (pushbutton). For the analog parts (X, Y axis), it just need to read the value from analog input pin.",
+      "snippet_highlighted_words": [
+        "read the value from analog input pin"
+      ],
+      "source": "arduinogetstarted.com"
+    },
+    {
+      "position": 2,
+      "title": "Help with Joystick Values - Sensors",
+      "link": "https://forum.arduino.cc/t/help-with-joystick-values/1153730",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/help-with-joystick-values/1153730&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECBgQAQ",
+      "displayed_link": "https://forum.arduino.cc › Other Hardware › Sensors",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b650173e28ba1528b629f4db1abe0bb71bf.png",
+      "date": "Aug 1, 2023",
+      "snippet": "I'm new to Arduinos and I've been trying to get an input from a joystick. I've got it all wired up but the values are just not right one bit.",
+      "snippet_highlighted_words": [
+        "input",
+        "joystick"
+      ],
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 3,
+      "title": "How to Use a Joystick with Arduino: Wiring and Basic Controls",
+      "link": "https://www.youtube.com/watch?v=9z5FsTzYWE4",
+      "displayed_link": "42.2K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6588767791b5d9528effded391b2c1bc43.jpeg",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65e6c04bc997d0c54a3f5bb1e1bb994d9b.png",
+      "snippet": "In this first episode I'm going to show you how it works how to wire the joystick to an Arduino Uno and then we are going to write some code together.",
+      "duration": "13:44",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Welcome",
+          "link": "https://www.youtube.com/watch?v=9z5FsTzYWE4&t=0"
+        },
+        {
+          "time": "00:38",
+          "title": "How Analog Joysticks Work",
+          "link": "https://www.youtube.com/watch?v=9z5FsTzYWE4&t=38"
+        },
+        {
+          "time": "01:54",
+          "title": "Joystick Pinout",
+          "link": "https://www.youtube.com/watch?v=9z5FsTzYWE4&t=114"
+        },
+        {
+          "time": "02:45",
+          "title": "How to Wire a Joystick to Arduino",
+          "link": "https://www.youtube.com/watch?v=9z5FsTzYWE4&t=165"
+        },
+        {
+          "time": "03:34",
+          "title": "Joystick ADC Values for X & Y Axes",
+          "link": "https://www.youtube.com/watch?v=9z5FsTzYWE4&t=214"
+        },
+        {
+          "time": "04:48",
+          "title": "Arduino Code: Reading ADC Values from the Joystick",
+          "link": "https://www.youtube.com/watch?v=9z5FsTzYWE4&t=288"
+        },
+        {
+          "time": "10:50",
+          "title": "Reading Joystick Values from Serial Monitor",
+          "link": "https://www.youtube.com/watch?v=9z5FsTzYWE4&t=650"
+        },
+        {
+          "time": "11:37",
+          "title": "Matching Joystick Movements to ADC Values",
+          "link": "https://www.youtube.com/watch?v=9z5FsTzYWE4&t=697"
+        },
+        {
+          "time": "13:10",
+          "title": "Join my Community for Live Events & Code!",
+          "link": "https://www.youtube.com/watch?v=9z5FsTzYWE4&t=790"
+        }
+      ],
+      "source": "YouTube · Rachel De Barros"
+    },
+    {
+      "position": 4,
+      "title": "HOW TO TAKE INPUTS FROM JOYSTICK.. : r/arduino",
+      "link": "https://www.reddit.com/r/arduino/comments/18r0pyh/how_to_take_inputs_from_joystick/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/arduino/comments/18r0pyh/how_to_take_inputs_from_joystick/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCJkCEAE",
+      "displayed_link": "3 comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b654c77bc4742a99d0af571b2eec70b644e.png",
+      "snippet": "For i 0 to 1000: Analog read(pin1) Analog read(pin2) Take the average and use that to determine the position. Maybe I misunderstood what you ...",
+      "snippet_highlighted_words": [
+        "read",
+        "read"
+      ],
+      "source": "Reddit · r/arduino"
+    },
+    {
+      "position": 5,
+      "title": "Reading a joystick input - Sensors",
+      "link": "https://forum.arduino.cc/t/reading-a-joystick-input/287454",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/reading-a-joystick-input/287454&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECDUQAQ",
+      "displayed_link": "https://forum.arduino.cc › Other Hardware › Sensors",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6538b0537f6790d28b3a7a233ad036a5fa.png",
+      "date": "Feb 4, 2015",
+      "snippet": "Setting an input high is the old way of doing this: pinMode(x, INPUT_PULLUP); A pullup makes sure the pin is high until it's pressed, when it goes low.",
+      "snippet_highlighted_words": [
+        "input",
+        "INPUT"
+      ],
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 6,
+      "title": "Arduino Joystick Tutorial",
+      "link": "https://www.schindlerelectronics.com/joysticks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.schindlerelectronics.com/joysticks&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCM0BEAE",
+      "displayed_link": "https://www.schindlerelectronics.com › joysticks",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6534fd94e69a0be07c59f903b14deafc08.png",
+      "snippet": "The joystick axis's are very easy to read, as they require no setup and only need the analogRead() function. The left joystick uses A3 and A2, while the right ...",
+      "snippet_highlighted_words": [
+        "The joystick axis's are very easy to read"
+      ],
+      "source": "Schindler Electronics"
+    },
+    {
+      "position": 7,
+      "title": "Joystick Mouse Control",
+      "link": "https://docs.arduino.cc/built-in-examples/usb/JoystickMouseControl/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.arduino.cc/built-in-examples/usb/JoystickMouseControl/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCOcBEAE",
+      "displayed_link": "https://docs.arduino.cc › built-in-examples › usb › Joysti...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65e54891d380c6bc3dae967246aac21d41.png",
+      "snippet": "Cursor movement from the Arduino is always relative. So every time the analog input is read, the cursor's position is updated relative to its current position.",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "input",
+        "read"
+      ],
+      "source": "Arduino Documentation"
+    },
+    {
+      "position": 8,
+      "title": "How to Use a Joystick with Arduino (Lesson #13)",
+      "link": "https://www.youtube.com/watch?v=vo7SbVhW3pE&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "101K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrWIM1NJHOpJ_k74ddXLcBrRXvupoXMqLbxiKIFnxqZ0T&s",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65a1c100ea741e3c52e6dcdd8f18860db9.png",
+      "snippet": "Learn how to use an analog joystick with an Arduino so you can control outputs like LEDs and motors. See our complete playlist of Arduino ...",
+      "duration": "11:42",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "introduction",
+          "link": "https://www.youtube.com/watch?v=vo7SbVhW3pE&pp=0gcJCfwAo7VqN5tD&t=0"
+        },
+        {
+          "time": "01:37",
+          "title": "wiring",
+          "link": "https://www.youtube.com/watch?v=vo7SbVhW3pE&pp=0gcJCfwAo7VqN5tD&t=97"
+        },
+        {
+          "time": "03:14",
+          "title": "code (read inputs)",
+          "link": "https://www.youtube.com/watch?v=vo7SbVhW3pE&pp=0gcJCfwAo7VqN5tD&t=194"
+        },
+        {
+          "time": "04:53",
+          "title": "controlling LEDs",
+          "link": "https://www.youtube.com/watch?v=vo7SbVhW3pE&pp=0gcJCfwAo7VqN5tD&t=293"
+        },
+        {
+          "time": "09:26",
+          "title": "adding a \"dead zone\"",
+          "link": "https://www.youtube.com/watch?v=vo7SbVhW3pE&pp=0gcJCfwAo7VqN5tD&t=566"
+        }
+      ],
+      "source": "YouTube · Science Buddies"
+    },
+    {
+      "position": 9,
+      "title": "Using joystick module with Arduino",
+      "link": "https://projecthub.arduino.cc/hibit/using-joystick-module-with-arduino-0ffdd4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://projecthub.arduino.cc/hibit/using-joystick-module-with-arduino-0ffdd4&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECEwQAQ",
+      "displayed_link": "https://projecthub.arduino.cc › hibit › using-joystick-m...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65d520f4f44d1bb94403c95a75081aa7a8.png",
+      "snippet": "When the stick is turned all the way in the other direction, there are 5 volts going to the pin and we read 1023. It applies for both axes (x and y). Arduino ...",
+      "snippet_highlighted_words": [
+        "read",
+        "Arduino"
+      ],
+      "source": "Arduino Project Hub"
+    },
+    {
+      "position": 10,
+      "title": "Reading values from joystick X and Y not working : r/arduino",
+      "link": "https://www.reddit.com/r/arduino/comments/m2fko9/reading_values_from_joystick_x_and_y_not_working/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/arduino/comments/m2fko9/reading_values_from_joystick_x_and_y_not_working/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECGQQAQ",
+      "displayed_link": "8 comments · 4 years ago",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b650dc40884a5741ca6692be52664908190.png",
+      "snippet": "I cannot get 0 - 1024(from memory) from my X and Y axis when using the below code. Moving the joystick changes them a little, but they hover around the same ...",
+      "snippet_highlighted_words": [
+        "joystick"
+      ],
+      "source": "Reddit · r/arduino"
+    },
+    {
+      "position": 11,
+      "title": "Getting joystick input data to Arduino - Programming",
+      "link": "https://forum.arduino.cc/t/getting-joystick-input-data-to-arduino/438616",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/getting-joystick-input-data-to-arduino/438616&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCLcBEAE",
+      "displayed_link": "https://forum.arduino.cc › Projects › Programming",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b656e6b5bd018694a8acfc1dfed4a0241c1.png",
+      "date": "Feb 17, 2017",
+      "snippet": "Hi, I have an android application which sends the joystick values from 0-1023 for X and Y axis separately. On the arduino front, ...",
+      "snippet_highlighted_words": [
+        "joystick",
+        "arduino"
+      ],
+      "missing": [
+        "read"
+      ],
+      "must_include": {
+        "word": "read",
+        "link": "https://www.google.com/search?num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&q=arduino+how+to+%22read%22+joystick+input&sa=X&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ5t4CegUIxgEQAQ"
+      },
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 12,
+      "title": "How 2-Axis Joystick Works? Interface with Arduino & ...",
+      "link": "https://lastminuteengineers.com/joystick-interfacing-arduino-processing/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lastminuteengineers.com/joystick-interfacing-arduino-processing/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCNUBEAE",
+      "displayed_link": "https://lastminuteengineers.com › joystick-interfacing-ard...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b658d7489a4b0be742ffb2aa97a78b5159e.png",
+      "snippet": "Arduino Example 1 – Reading the Joystick ... Here's a simple Arduino sketch that reads all the inputs from your joystick and displays them on your computer screen ...",
+      "snippet_highlighted_words": [
+        "reads all the inputs from your joystick"
+      ],
+      "source": "Last Minute Engineers"
+    },
+    {
+      "position": 13,
+      "title": "Rotating the input values of an analog joystick 45º",
+      "link": "https://forum.arduino.cc/t/rotating-the-input-values-of-an-analog-joystick-45/1009963",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/rotating-the-input-values-of-an-analog-joystick-45/1009963&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCO8BEAE",
+      "displayed_link": "https://forum.arduino.cc › Projects › Programming",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65a6cf2bc000a9f41dbb097f69baac08e7.png",
+      "date": "Jul 6, 2022",
+      "snippet": "I read the joystick input, remap the values to what the motor controller understands (values between -127 and 127) and use the X-axis values to ...",
+      "snippet_highlighted_words": [
+        "read the joystick input"
+      ],
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 14,
+      "title": "Using a joystick sensor on an Arduino | by Melanie Chow",
+      "link": "https://medium.com/@melaniechow/using-a-joystick-sensor-on-an-arduino-3498d7399464",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40melaniechow/using-a-joystick-sensor-on-an-arduino-3498d7399464&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIECEAE",
+      "displayed_link": "5 likes · 6 years ago",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65360b68aa57c724fa41fa78573b0cb76c.png",
+      "snippet": "The joystick is useful for reading and interpreting 2D motion through two analog variables, which represent the position of the sensor on a 2D plane.",
+      "snippet_highlighted_words": [
+        "reading and interpreting 2D motion"
+      ],
+      "source": "Medium · Melanie Chow"
+    },
+    {
+      "position": 15,
+      "title": "Ultimate Guide to Using a Joystick with Arduino: Step-by-Step ...",
+      "link": "https://www.youtube.com/watch?v=A8WIRyuB1AU",
+      "displayed_link": "11.7K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO9EZcb3U7PX_OGyECXmIaZ7RprPrbHVTRuf_vpKAPzRP7&s",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b651410a663bfdf107f137f7720cca4114a.png",
+      "snippet": "In this video I explain how to use a Joystick with Arduino. I go into the basics: joystick pins, programming in Arduino, etc.",
+      "duration": "20:48",
+      "key_moments": [
+        {
+          "time": "01:30",
+          "title": "How Potentiometer Is Used in the Joystick",
+          "link": "https://www.youtube.com/watch?v=A8WIRyuB1AU&t=90",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD6xY2skICwlWs4DltB53qepxe1M5oxKHavrEsBzD7MA&s"
+        },
+        {
+          "time": "03:01",
+          "title": "Pins",
+          "link": "https://www.youtube.com/watch?v=A8WIRyuB1AU&t=181",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKeaa_SBPRSoOgXWyKtJ5bHwIix9IcePixsTIDaQiR4g&s"
+        },
+        {
+          "time": "03:58",
+          "title": "Connect Our Joystick to Our Arduino",
+          "link": "https://www.youtube.com/watch?v=A8WIRyuB1AU&t=238",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzbbs7f_po_Jfng8OYkMnGA-oTTkcoTQrWzL5nVx8Kow&s"
+        },
+        {
+          "time": "04:41",
+          "title": "First Test of Joystick with Arduino Uno",
+          "link": "https://www.youtube.com/watch?v=A8WIRyuB1AU&t=281",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRurre3SS6Bx0Q2uObftcJFM7NUILZs3FLuGExlsvbuQ&s"
+        },
+        {
+          "time": "05:29",
+          "title": "Upload that Arduino Code",
+          "link": "https://www.youtube.com/watch?v=A8WIRyuB1AU&t=329",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAKrGoT89kfN7agP-DAstCKbHPb6uXLAO5J_w0EQSDQ&s"
+        },
+        {
+          "time": "07:31",
+          "title": "Calibrating a Joystick",
+          "link": "https://www.youtube.com/watch?v=A8WIRyuB1AU&t=451",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5IeREGFEoOBi7BguPCI6tQ2NkX0hFvGHSP2SMHn3aw&s"
+        },
+        {
+          "time": "11:06",
+          "title": "Circuit",
+          "link": "https://www.youtube.com/watch?v=A8WIRyuB1AU&t=666",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4neMGEfFBuUdwnL5o6uG8rxeQWb6bAM_If4YyEbZOgA&s"
+        },
+        {
+          "time": "11:43",
+          "title": "Install the Adafruit Neopixel Library",
+          "link": "https://www.youtube.com/watch?v=A8WIRyuB1AU&t=703",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuWSLSa1QtNHqx_y3vU_94ICRNj33XK6niMUoCe4SZQ&s"
+        },
+        {
+          "time": "12:29",
+          "title": "Code",
+          "link": "https://www.youtube.com/watch?v=A8WIRyuB1AU&t=749",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpD6GMm5XTV8VuDQ1l7BHAHkIom3VnLWT5doPG8G54HA&s"
+        },
+        {
+          "time": "18:16",
+          "title": "Example",
+          "link": "https://www.youtube.com/watch?v=A8WIRyuB1AU&t=1096",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIuxmhgSTW6ZYeddRXYqachmQNgQQfP-FjheYNv6qAeg&s"
+        }
+      ],
+      "source": "YouTube · DIY Engineers"
+    },
+    {
+      "position": 16,
+      "title": "The Joy of Joysticks: Reading Joystick Input with an Arduino",
+      "link": "https://michaelbryanross.com/joy-joysticks-reading-joystick-input-arduino/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://michaelbryanross.com/joy-joysticks-reading-joystick-input-arduino/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCKMCEAE",
+      "displayed_link": "https://michaelbryanross.com › Blog",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6501603764b356e14356be2413bf7a0c9e.png",
+      "date": "Feb 25, 2018",
+      "snippet": "The joystick breakout has five pins: 1) ground, 2) 5 volt power, 3) x pin, 4) y pin, and 5) switch pin. The x and y pins are analog, while the switch is ...",
+      "snippet_highlighted_words": [
+        "1) ground, 2) 5 volt power, 3) x pin, 4) y pin, and 5) switch pin"
+      ],
+      "source": "Michael Bryan Ross"
+    },
+    {
+      "position": 17,
+      "title": "Arduino joystick controller reading out directions - KY-023 ...",
+      "link": "https://m.youtube.com/watch?v=edYt1kQQx7c",
+      "displayed_link": "3.3K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXXnjgl3dbh9CSg1f6Y6PWOX2k5XYTDa_EVYLMo-1Nt2n&s",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65f47a45c3cf2f1d6a8e12769c96f7b735.png",
+      "snippet": "Arduino joystick controller reading out X and Y directions with the KY-023 module. These contain the x, y position and the sw state for when ...",
+      "duration": "4:41",
+      "key_moments": [
+        {
+          "time": "00:17",
+          "title": "Intro",
+          "link": "https://m.youtube.com/watch?v=edYt1kQQx7c&t=17",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSld5o1VpiAhnoMgieR5n2RcU8HS0ji92WVh3_jJc-dNQ&s"
+        },
+        {
+          "time": "00:31",
+          "title": "Joystick values",
+          "link": "https://m.youtube.com/watch?v=edYt1kQQx7c&t=31",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSzdF8J5j27JipU4XkPwcJHgaO1-dNYHBaK_mgbwJXw&s"
+        },
+        {
+          "time": "00:49",
+          "title": "Schematic and wiring",
+          "link": "https://m.youtube.com/watch?v=edYt1kQQx7c&t=49",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjAoAXFH1-bbsRTjiBS7TewgMvogaM4N3cZEPQ-53Vg&s"
+        },
+        {
+          "time": "01:00",
+          "title": "Programming",
+          "link": "https://m.youtube.com/watch?v=edYt1kQQx7c&t=60",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGOPNpcOeDlmK8EpkPlGHRG8Oiw4kRIzwLTdqQMTXUAA&s"
+        },
+        {
+          "time": "01:26",
+          "title": "Setup",
+          "link": "https://m.youtube.com/watch?v=edYt1kQQx7c&t=86",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXHjNz_RoAvpIWrypJYGXpS3eo1HEFVNad-8QzRf2acQ&s"
+        },
+        {
+          "time": "01:39",
+          "title": "Void loop",
+          "link": "https://m.youtube.com/watch?v=edYt1kQQx7c&t=99",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAewGZv1yYakYvy0No7U5wrPNoiNhH4NB-mBKhaJbWA&s"
+        },
+        {
+          "time": "02:02",
+          "title": "Explanation",
+          "link": "https://m.youtube.com/watch?v=edYt1kQQx7c&t=122",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-nY8kqqS-r8rQbrnAYAOp8zEe5CLqlgeXY4rLCkHMg&s"
+        },
+        {
+          "time": "02:40",
+          "title": "Calculating anchor points",
+          "link": "https://m.youtube.com/watch?v=edYt1kQQx7c&t=160",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaGGzL0niTnhmUs5XTIEbmRhIGeq4Q4pgMNRdzsR-qg&s"
+        },
+        {
+          "time": "03:11",
+          "title": "Checking the values",
+          "link": "https://m.youtube.com/watch?v=edYt1kQQx7c&t=191",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ583XcVQx3KzcacCx0coQtRbl4PQNjTf7xV4dYJG_SKw&s"
+        },
+        {
+          "time": "04:29",
+          "title": "Conclusion",
+          "link": "https://m.youtube.com/watch?v=edYt1kQQx7c&t=269",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfl0QKptWtjwI-UKyqfjmqayFt3QhWu4Xrwbdg8Jao3A&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSzGl7biWATDdhy70zr5O1nliCuMyuYIrkxEA",
+      "source": "YouTube · Asali"
+    },
+    {
+      "position": 18,
+      "title": "Arduino Joystick Library",
+      "link": "https://github.com/MHeironimus/ArduinoJoystickLibrary",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/MHeironimus/ArduinoJoystickLibrary&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECFAQAQ",
+      "displayed_link": "https://github.com › MHeironimus › ArduinoJoystickLib...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6524006f4dc51a09ef9c077db601601884.png",
+      "snippet": "An Arduino library that adds one or more joysticks to the list of HID devices an Arduino Leonardo or Arduino Micro can support.",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "joysticks",
+        "Arduino",
+        "Arduino"
+      ],
+      "source": "GitHub"
+    },
+    {
+      "position": 19,
+      "title": "How to control servo motor using analog joystick and Arduino",
+      "link": "https://projecthub.arduino.cc/webotricks/how-to-control-servo-motor-using-analog-joystick-and-arduino-edf9f6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://projecthub.arduino.cc/webotricks/how-to-control-servo-motor-using-analog-joystick-and-arduino-edf9f6&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECGEQAQ",
+      "displayed_link": "https://projecthub.arduino.cc › webotricks › how-to-co...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65aa95d42fb3f7530453792b0c24ceebda.png",
+      "snippet": "This project demonstrates how to control a servo motor using an analog joystick and an Arduino, allowing precise angle adjustments based on joystick movements.",
+      "snippet_highlighted_words": [
+        "joystick",
+        "Arduino",
+        "joystick"
+      ],
+      "source": "Arduino Project Hub"
+    },
+    {
+      "position": 20,
+      "title": "Create a Joystick Using the Arduino Joystick Library 2.0",
+      "link": "https://www.instructables.com/Create-a-Joystick-Using-the-Arduino-Joystick-Libra/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instructables.com/Create-a-Joystick-Using-the-Arduino-Joystick-Libra/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECHkQAQ",
+      "displayed_link": "https://www.instructables.com › Circuits › Arduino",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65c7172fce50e381c182608fc8b8b16e3a.png",
+      "snippet": "This article discusses how the Arduino Leonardo and the Arduino Micro can also appear as one or more generic Game Controllers or Joysticks.",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "Joysticks"
+      ],
+      "source": "Instructables"
+    },
+    {
+      "position": 21,
+      "title": "4.1 Reading Values from a Joystick",
+      "link": "https://docs.sunfounder.com/projects/newton-lab-kit/en/latest/cproject/ar_joystick.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.sunfounder.com/projects/newton-lab-kit/en/latest/cproject/ar_joystick.html&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCJgBEAE",
+      "displayed_link": "https://docs.sunfounder.com › projects › latest › cproject",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65d356a8f2fea0145ba47116db12cc7b64.png",
+      "snippet": "By reading the analog values from the X and Y axes, you can determine the position of the joystick. The Z-axis button allows you to detect when the joystick is ...",
+      "snippet_highlighted_words": [
+        "By reading the analog values from the X and Y axes"
+      ],
+      "source": "SunFounder"
+    },
+    {
+      "position": 22,
+      "title": "Arduino Uno Joystick input reversing - Programming",
+      "link": "https://forum.arduino.cc/t/arduino-uno-joystick-input-reversing/1091047",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/arduino-uno-joystick-input-reversing/1091047&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCKgBEAE",
+      "displayed_link": "https://forum.arduino.cc › Projects › Programming",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6562f8edef2279cf2dec1efe62efac49e2.png",
+      "date": "Feb 16, 2023",
+      "snippet": "Hi, Im new to Arduino and was just wondering if someone could help me in working out how to reverse the inputs of my servo?",
+      "snippet_highlighted_words": [
+        "how to reverse the inputs of my servo"
+      ],
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 23,
+      "title": "Joysticks: Programming Joysticks with Arduino - Meganano",
+      "link": "https://meganano.uno/arduino-programming-joysticks/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://meganano.uno/arduino-programming-joysticks/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCLYBEAE",
+      "displayed_link": "https://meganano.uno › Arduino › Arduino for Beginners",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b658e201ead35735dcfd506acbcae8713b2.png",
+      "date": "Mar 13, 2020",
+      "snippet": "You'll need to write a simple Arduino sketch to read the analog values from the joystick's X and Y axes. Here's a basic example: void setup ...",
+      "snippet_highlighted_words": [
+        "read the analog values from the joystick's X and Y axes"
+      ],
+      "source": "meganano.uno"
+    },
+    {
+      "position": 24,
+      "title": "How to connect and use an Analog Joystick with an Arduino ...",
+      "link": "https://www.youtube.com/watch?v=MlDi0vO9Evg",
+      "displayed_link": "422.6K+ views · 10 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHmRhThTUf_eH0ufjjovkLwtrOToIyjcwhN26OTqb8gQD&s",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65bb4bb49cc9a0398584a866151a27a17f.png",
+      "snippet": "Today I'm going to show you how to use one of these little joystick modules with a Nuno.",
+      "duration": "4:28",
+      "key_moments": [
+        {
+          "time": "00:11",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=MlDi0vO9Evg&t=11",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAM_ytx9Y8DvR0DnaJKhBYXh-rugS5OfBpbJD01UKcA&s"
+        },
+        {
+          "time": "00:45",
+          "title": "Making the Connections",
+          "link": "https://www.youtube.com/watch?v=MlDi0vO9Evg&t=45",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9gAKqZL2mpGYNiy_WJl3mXoq7L_E3w1uZF1a73DNVg&s"
+        },
+        {
+          "time": "01:48",
+          "title": "Programming the Joystick",
+          "link": "https://www.youtube.com/watch?v=MlDi0vO9Evg&t=108",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqxFft-srpQoQiMVarqBA-EfmVX0fkhi1u_donP8YOA&s"
+        },
+        {
+          "time": "02:30",
+          "title": "Serial Monitor",
+          "link": "https://www.youtube.com/watch?v=MlDi0vO9Evg&t=150",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbKFi_gy5dnENs9e0xiwpOBxGw5JIk_ozvO7__QxIOw&s"
+        },
+        {
+          "time": "03:03",
+          "title": "Uploading the Code to the UNO",
+          "link": "https://www.youtube.com/watch?v=MlDi0vO9Evg&t=183",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5iqCvVs0o7HfcsssQpilRc6f-EFuPCCyqLzTimnlqOQ&s"
+        },
+        {
+          "time": "03:27",
+          "title": "Testing the Joystick",
+          "link": "https://www.youtube.com/watch?v=MlDi0vO9Evg&t=207",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2rx8QVre5o80OGJ_Db_Oj4pPxnq39qdiPXXBZWReAg&s"
+        },
+        {
+          "time": "03:41",
+          "title": "Demonstration",
+          "link": "https://www.youtube.com/watch?v=MlDi0vO9Evg&t=221",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZc4orpvvZ4s0GFRQ4BRaBF4Tp5UxLjgxQ-6TS2G5yWQ&s"
+        },
+        {
+          "time": "04:06",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=MlDi0vO9Evg&t=246",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRHxpc2gUUn3Xcs_8HHu26d1DeVvOJpwhrQCWrhlvYA&s"
+        }
+      ],
+      "missing": [
+        "read"
+      ],
+      "must_include": {
+        "word": "read",
+        "link": "https://www.google.com/search?num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&q=arduino+how+to+%22read%22+joystick+input&sa=X&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ5t4CegQIMhA0"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSxpiSs1h-8qFXJfmJHwNCaG-IoXlIwE2PgsQ",
+      "source": "YouTube · Brainy-Bits"
+    },
+    {
+      "position": 25,
+      "title": "Analog JoyStick with Arduino - Tutorials",
+      "link": "http://exploreembedded.com/wiki/Analog_JoyStick_with_Arduino",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://exploreembedded.com/wiki/Analog_JoyStick_with_Arduino&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCOwBEAE",
+      "displayed_link": "http://exploreembedded.com › wiki › Analog_JoyStick...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6575bcdb9bdb31f425be05c716e418e10d.png",
+      "snippet": "The home position for the stick is at ( x,y:511,511). If the stick is moved on X axis from one end to the other, the X values will change from 0 to 1023 and ...",
+      "source": "exploreembedded.com"
+    },
+    {
+      "position": 26,
+      "title": "How do I get input reading? - General Guidance",
+      "link": "https://forum.arduino.cc/t/how-do-i-get-input-reading/125276",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/how-do-i-get-input-reading/125276&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCO0BEAE",
+      "displayed_link": "https://forum.arduino.cc › Projects › General Guidance",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65584a7d3ce31b0b3a0cbf09e069d6d997.png",
+      "date": "Oct 18, 2012",
+      "snippet": "You will need to configure the button inputs with pullup resistors enabled, i.e. use pinMode(pin, INPUT_PULLUP), not pinMode(pin, INPUT).",
+      "snippet_highlighted_words": [
+        "configure the button inputs with pullup resistors enabled"
+      ],
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 27,
+      "title": "Get Arduino Joystick Library",
+      "link": "https://medium.com/@sami.hamdiapps/get-arduino-joystick-library-adfa713e7838",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40sami.hamdiapps/get-arduino-joystick-library-adfa713e7838&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIICEAE",
+      "displayed_link": "2 years ago",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b652155a3062baa5898965c456da3cc4ca6.png",
+      "snippet": "The library provides a range of functions that make it easy to read joystick input and use it to control various aspects of your project, such ...",
+      "snippet_highlighted_words": [
+        "easy to read joystick input"
+      ],
+      "source": "Medium · Sami Hamdi"
+    },
+    {
+      "position": 28,
+      "title": "Arduino: Joysticks",
+      "link": "https://shallowsky.com/arduino/class/joystick.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shallowsky.com/arduino/class/joystick.html&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIoCEAE",
+      "displayed_link": "https://shallowsky.com › arduino › class › joystick",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65eb583183cddfc0c46b054ee3329dabb5.png",
+      "snippet": "Just like a potentiometer, you wire one side to 5v, the other to ground, then you use analogRead to read the input. You can use the same code you used for ...",
+      "snippet_highlighted_words": [
+        "Just like a potentiometer, you wire one side to 5v, the other to ground"
+      ],
+      "source": "Shallowsky.com"
+    },
+    {
+      "position": 29,
+      "title": "Using arduino to emulate a joystick or other analogue inputs",
+      "link": "https://forum.arduino.cc/t/using-arduino-to-emulate-a-joystick-or-other-analogue-inputs/1022937",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/using-arduino-to-emulate-a-joystick-or-other-analogue-inputs/1022937&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCJgCEAE",
+      "displayed_link": "https://forum.arduino.cc › Other Hardware › Sensors",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65be1bdab07d44d8d29eb3246c81cbd45e.png",
+      "date": "Aug 17, 2022",
+      "snippet": "I want to hook up a arduino to the joysticks to basically be able to record whatever inputs I make and then be able to replay them back.",
+      "snippet_highlighted_words": [
+        "arduino",
+        "joysticks",
+        "inputs"
+      ],
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 30,
+      "title": "Arduino Analog JoyStick",
+      "link": "https://www.linkedin.com/pulse/arduino-analog-joystick-muhd-harriz-ghazi-bin-muhd-johari",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pulse/arduino-analog-joystick-muhd-harriz-ghazi-bin-muhd-johari&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCKcCEAE",
+      "displayed_link": "6 reactions · 2 years ago",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b650a0eba2daad40989cfe6550b39d4d85f.png",
+      "snippet": "To detect button presses, the SW pin of the joystick is connected to a digital input pin on the Arduino. Establishing a common ground reference ...",
+      "snippet_highlighted_words": [
+        "joystick",
+        "input",
+        "Arduino"
+      ],
+      "source": "LinkedIn · MUHD HARRIZ GHAZI BIN MUHD JOHARI"
+    },
+    {
+      "position": 31,
+      "title": "Arduino and joysticks - Part 1 - Introduction",
+      "link": "https://curiousscientist.tech/blog/arduino-with-joysticks-part1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://curiousscientist.tech/blog/arduino-with-joysticks-part1&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCLMCEAE",
+      "displayed_link": "https://curiousscientist.tech › blog › arduino-with-joystic...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b656e2f4372c1c28f9170560df4f3139ea9.jpeg",
+      "date": "7 days ago",
+      "snippet": "In this video I talk about some general aspects of joysticks. I show a very basic joystick, so the results are not the best. You will see how you can read the ...",
+      "snippet_highlighted_words": [
+        "joysticks",
+        "joystick"
+      ],
+      "source": "Curious Scientist"
+    },
+    {
+      "position": 32,
+      "title": "Joystick with Arduino: How to Interface with Code Explained",
+      "link": "https://peppe8o.com/joystick-with-arduino-how-to-interface-with-code-explained/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://peppe8o.com/joystick-with-arduino-how-to-interface-with-code-explained/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCLkCEAE",
+      "displayed_link": "https://peppe8o.com › joystick-with-arduino-how-to-int...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65716ec28c45cd00c4880982621bdc4a12.png",
+      "date": "Apr 13, 2024",
+      "snippet": "In this tutorial, we interface Arduino Uno with an analog joystick using Arduino IDE programming, explaining wiring and code.",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "joystick",
+        "Arduino"
+      ],
+      "source": "peppe8o"
+    },
+    {
+      "position": 33,
+      "title": "2 Arduino's Leonardo as joystick inputs, only one inputs it's ...",
+      "link": "https://discussions.unity.com/t/2-arduinos-leonardo-as-joystick-inputs-only-one-inputs-its-axis/857665",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discussions.unity.com/t/2-arduinos-leonardo-as-joystick-inputs-only-one-inputs-its-axis/857665&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECDYQAQ",
+      "displayed_link": "https://discussions.unity.com › 2-arduinos-leonardo-as-j...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65a6c70ccda6e3f7e97db945bc4fd9251b.png",
+      "date": "Oct 5, 2021",
+      "snippet": "The Stick/x and Stick/y inputs are fine, but the Z, Rx, Ry and Rz of only one of the arduino's gets read into the new input system.",
+      "snippet_highlighted_words": [
+        "inputs",
+        "arduino's",
+        "read",
+        "input"
+      ],
+      "source": "Unity Discussions"
+    },
+    {
+      "position": 34,
+      "title": "Problem reading analog inputs with nano - Programming",
+      "link": "https://forum.arduino.cc/t/problem-reading-analog-inputs-with-nano/1184061",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/problem-reading-analog-inputs-with-nano/1184061&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECDwQAQ",
+      "displayed_link": "https://forum.arduino.cc › Projects › Programming",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6522976b96ac6d000dcc70a8faffadf44a.png",
+      "date": "Oct 31, 2023",
+      "snippet": "i am trying to read the values of the positions of a joystick module using this code: int x; int y; void setup(){ Serial.begin(9600); } ...",
+      "snippet_highlighted_words": [
+        "read",
+        "joystick"
+      ],
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 35,
+      "title": "Thumb Joystick Hookup Guide - SparkFun Learn",
+      "link": "https://learn.sparkfun.com/tutorials/thumb-joystick-hookup-guide/arduino-examples-breakout",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.sparkfun.com/tutorials/thumb-joystick-hookup-guide/arduino-examples-breakout&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECFIQAQ",
+      "displayed_link": "https://learn.sparkfun.com › arduino-examples-breakout",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65aa19aae9e7ca740e8727594501295361.png",
+      "snippet": "Here's an example Arduino sketch which sets up the microcontroller to read the inputs, and then continuously prints the values to the serial monitor.",
+      "snippet_highlighted_words": [
+        "read the inputs"
+      ],
+      "source": "SparkFun Electronics"
+    },
+    {
+      "position": 36,
+      "title": "Learn Coding with Arduino IDE – Joystick",
+      "link": "https://osoyoo.com/2017/09/26/arduino-lesson-joystick/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://osoyoo.com/2017/09/26/arduino-lesson-joystick/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECFMQAQ",
+      "displayed_link": "https://osoyoo.com › 2017/09/26 › arduino-lesson-joyst...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65c70d94af8a10e0066b9437e3e7d8e912.png",
+      "date": "Sep 26, 2017",
+      "snippet": "Use a pullup resistor on your digital input so that when it's unpressed, your input will read 1 (HIGH), and when pressed, the input will read 0 ...",
+      "snippet_highlighted_words": [
+        "Use a pullup resistor on your digital input"
+      ],
+      "source": "osoyoo.com"
+    },
+    {
+      "position": 37,
+      "title": "How to Setup PS2 Joysticks on the Arduino",
+      "link": "https://www.circuitbasics.com/how-to-setup-ps2-joysticks-on-the-arduino/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.circuitbasics.com/how-to-setup-ps2-joysticks-on-the-arduino/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECGUQAQ",
+      "displayed_link": "https://www.circuitbasics.com › how-to-setup-ps2-joysti...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b651cbdcc0051ce95b1b1a1e608cc2bafa9.png",
+      "date": "Nov 10, 2021",
+      "snippet": "In this article, we will see how to read the raw output from a PS2 joystick, then take that reading and use it to control other devices with an Arduino.",
+      "snippet_highlighted_words": [
+        "how to read the raw output from a PS2 joystick"
+      ],
+      "source": "Circuit Basics"
+    },
+    {
+      "position": 38,
+      "title": "Joystick - ESP32 Tutorial",
+      "link": "https://esp32io.com/tutorials/esp32-joystick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://esp32io.com/tutorials/esp32-joystick&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECGwQAQ",
+      "displayed_link": "https://esp32io.com › tutorials › esp32-joystick",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65e13795bfe3bb22d5e116f309bb665a76.png",
+      "snippet": "For the analog parts (X, Y axis), it just need to read the value from analog input pin by using analogRead() function.. int valueX = analogRead(A0); int ...",
+      "snippet_highlighted_words": [
+        "read the value from analog input pin by using analogRead() function"
+      ],
+      "source": "esp32io.com"
+    },
+    {
+      "position": 39,
+      "title": "Interface 2-Axis Joystick Module with Arduino",
+      "link": "https://microcontrollerslab.com/joystick-arduino-tutorial-processing/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://microcontrollerslab.com/joystick-arduino-tutorial-processing/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECHwQAQ",
+      "displayed_link": "https://microcontrollerslab.com › joystick-arduino-tutor...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65213e8137a163a4312202a82774dd111d.png",
+      "snippet": "Arduino Sketch: Reading analog/digital input from Joystick Module. Open your Arduino IDE and go to File > New to open a new file. Copy the code given below in ...",
+      "snippet_highlighted_words": [
+        "Reading analog/digital input from Joystick Module"
+      ],
+      "source": "Microcontrollers Lab"
+    },
+    {
+      "position": 40,
+      "title": "How to Use Joystick Module V2: Pinouts, Specs, and ...",
+      "link": "https://docs.cirkitdesigner.com/component/4239df01-b223-4576-8fb6-b1cf5f77bf42/joystick-module-v2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.cirkitdesigner.com/component/4239df01-b223-4576-8fb6-b1cf5f77bf42/joystick-module-v2&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIMBEAE",
+      "displayed_link": "https://docs.cirkitdesigner.com › component › joystick-m...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b653fefa77a3675640cbf4f83ba17dbbbd6.png",
+      "snippet": "Connect the +5V pin to the 5V output on your microcontroller (e.g., Arduino UNO). · Connect the GND pin to a ground pin on your microcontroller. · Connect the VRx ...",
+      "snippet_highlighted_words": [
+        "Connect the +5V pin to the 5V output on your microcontroller"
+      ],
+      "source": "Cirkit Designer"
+    },
+    {
+      "position": 41,
+      "title": "Joystick Module with Arduino – Step by Step Guide",
+      "link": "https://circuitmagic.com/arduino/joystick-module-with-arduino-step-by-step-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://circuitmagic.com/arduino/joystick-module-with-arduino-step-by-step-guide/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCI4BEAE",
+      "displayed_link": "https://circuitmagic.com › arduino › joystick-module-w...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b652ae97eefbbeadca03963ffd7ac142375.png",
+      "date": "Aug 7, 2023",
+      "snippet": "Introduction: The Joystick Module is a fun and versatile input device that allows you to control two axes (X and Y) using a joystick.",
+      "snippet_highlighted_words": [
+        "Joystick",
+        "input",
+        "joystick"
+      ],
+      "source": "Circuit Magic"
+    },
+    {
+      "position": 42,
+      "title": "How to Use the Arduino Joystick Shield v2.4 - Projects",
+      "link": "https://www.allaboutcircuits.com/projects/level-up-arduino-joystick-shield-v2.4/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allaboutcircuits.com/projects/level-up-arduino-joystick-shield-v2.4/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCJsBEAE",
+      "displayed_link": "https://www.allaboutcircuits.com › Projects",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6536d5787875adbb4c11cdcd03feaf8a9e.png",
+      "date": "Jun 17, 2015",
+      "snippet": "To read these analog values, use the AnalogRead() function. Hardware. 1 x Arduino Uno 1 x Arduino Joystick Shield v2.4. Steps: Attach your joy ...",
+      "snippet_highlighted_words": [
+        "read",
+        "Arduino",
+        "Arduino Joystick"
+      ],
+      "source": "All About Circuits"
+    },
+    {
+      "position": 43,
+      "title": "Joysticks not returning the correct values",
+      "link": "https://forum.arduino.cc/t/joysticks-not-returning-the-correct-values/1158013",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/joysticks-not-returning-the-correct-values/1158013&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCJ4BEAE",
+      "displayed_link": "https://forum.arduino.cc › Other Hardware › Sensors",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65b21e07146fad6a8987060573983b0857.png",
+      "date": "Aug 14, 2023",
+      "snippet": "... joystick. My code is quite basic and involves just reading of the joystick values. void setup(){ pinMode(A1,INPUT); pinMode(A2,INPUT); ...",
+      "snippet_highlighted_words": [
+        "joystick",
+        "reading",
+        "joystick",
+        "INPUT",
+        "INPUT"
+      ],
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 44,
+      "title": "How to connect and use an Analog Joystick with an Arduino",
+      "link": "https://videohighlight.com/v/MlDi0vO9Evg?mediaType=youtube&language=en&summaryType=default&summaryId=UlaB3-1XSbqSVGzoAhtW&aiFormatted=false",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://videohighlight.com/v/MlDi0vO9Evg%3FmediaType%3Dyoutube%26language%3Den%26summaryType%3Ddefault%26summaryId%3DUlaB3-1XSbqSVGzoAhtW%26aiFormatted%3Dfalse&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCLABEAE",
+      "displayed_link": "https://videohighlight.com › ...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65576a559bdb0dd8ad011624fe4bef16a6.png",
+      "snippet": "Set up pinMode for switch input as an input and configure digital write for ASW pen. Use serial monitor commands within a loop to read values from each axis ...",
+      "snippet_highlighted_words": [
+        "input",
+        "input",
+        "read"
+      ],
+      "source": "Video Highlight"
+    },
+    {
+      "position": 45,
+      "title": "Using a Joystick with ELRS and Arduino for Radio Control",
+      "link": "https://www.facebook.com/groups/636441730280366/posts/1338741363383729/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/636441730280366/posts/1338741363383729/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCLoBEAE",
+      "displayed_link": "7 comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65dc1f03e9be966e989c60796f9233517d.png",
+      "snippet": "A sneak peak at my current project. I'm running a script I wrote (with the help of AI) to read the joystick inputs which then sends them to ...",
+      "snippet_highlighted_words": [
+        "read",
+        "joystick inputs"
+      ],
+      "source": "Facebook · ExpressLRS - High Performance Radio Control Link"
+    },
+    {
+      "position": 46,
+      "title": "How to Use an Arduino Joystick",
+      "link": "https://polluxlabs.io/tutorials/how-to-use-an-arduino-joystick/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://polluxlabs.io/tutorials/how-to-use-an-arduino-joystick/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCMEBEAE",
+      "displayed_link": "https://polluxlabs.io › tutorials › how-to-use-an-arduino...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6588299c9f405ce4386cddae4269132c04.png",
+      "snippet": "The joystick module uses potentiometers for the x-axis and y-axis. When the joystick is moved, the resistance of the potentiometers changes, resulting in a ...",
+      "snippet_highlighted_words": [
+        "joystick",
+        "joystick"
+      ],
+      "source": "Pollux Labs"
+    },
+    {
+      "position": 47,
+      "title": "Tutorial 8 - Analog PS2 joystick with push button",
+      "link": "https://arduino-tutorials.net/tutorial/read-analog-ps2-joystick-with-push-button-on-arduino",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arduino-tutorials.net/tutorial/read-analog-ps2-joystick-with-push-button-on-arduino&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCNcBEAE",
+      "displayed_link": "https://arduino-tutorials.net › tutorial › read-analog-ps2...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6550d4ebf99b1f3fc6a64a405109fa176f.png",
+      "snippet": "The GND on the Arduino -> the GND pin of the joystick · The 5V on the Arduino -> the +5V pin of the joystick · The 12 on the Arduino -> the SW pin of the joystick ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "joystick",
+        "Arduino",
+        "joystick",
+        "Arduino",
+        "joystick"
+      ],
+      "source": "arduino-tutorials.net"
+    },
+    {
+      "position": 48,
+      "title": "Arduino uno Joystick",
+      "link": "https://projectslearner.com/learn/arduino-uno-joystick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://projectslearner.com/learn/arduino-uno-joystick&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCNgBEAE",
+      "displayed_link": "https://projectslearner.com › learn › arduino-uno-joystick",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6539b1f2359fbcb2ebe28f4ffd94b8d87c.png",
+      "snippet": "Open the serial monitor with a baud rate of 9600. Read Joystick Inputs: Continuously read the analog values from the X and Y axes of the joystick module. Detect ...",
+      "snippet_highlighted_words": [
+        "Read Joystick Inputs",
+        "read",
+        "joystick"
+      ],
+      "source": "Projectslearner"
+    },
+    {
+      "position": 49,
+      "title": "Arduino Tutorial 32: Understanding and Using Joysticks in ...",
+      "link": "https://toptechboy.com/arduino-tutorial-32-understanding-and-using-joysticks-in-a-project/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://toptechboy.com/arduino-tutorial-32-understanding-and-using-joysticks-in-a-project/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCPEBEAE",
+      "displayed_link": "https://toptechboy.com › arduino-tutorial-32-understan...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65c3c780569aac74256a66860c58884bc8.jpeg",
+      "date": "Oct 15, 2019",
+      "snippet": "The easiest way to think of a joystick is to think of it as two independent potentiometer. Moving the joystick left and right changes one ...",
+      "snippet_highlighted_words": [
+        "joystick",
+        "joystick"
+      ],
+      "source": "Top Tech Boy"
+    },
+    {
+      "position": 50,
+      "title": "wokwi-analog-joystick Reference",
+      "link": "https://docs.wokwi.com/parts/wokwi-analog-joystick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.wokwi.com/parts/wokwi-analog-joystick&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCOYBEAE",
+      "displayed_link": "https://docs.wokwi.com › parts › wokwi-analog-joystick",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65c5b057a2314d9690c6ac64cba29b776a.png",
+      "snippet": "To use the Joystick in Arduino, connect the VERT and the HORZ pins to analog pins (A0...A6), and configure these pins as input. Read the joystick position ...",
+      "snippet_highlighted_words": [
+        "Joystick",
+        "Arduino",
+        "input",
+        "Read",
+        "joystick"
+      ],
+      "source": "Wokwi"
+    },
+    {
+      "position": 51,
+      "title": "In this PART 1 of my Arduino Joystick series, learn how to ...",
+      "link": "https://www.facebook.com/RachelDeBarrosLive/videos/how-to-use-a-joystick-with-arduino-wiring-and-basic-controls/478405211547469/",
+      "displayed_link": "160+ reactions · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZQV3xOY58VPi2JtuyacTtEAP3LwA5HULeqp2BtLn8Ovcn&s",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65d8bc9cefa08c6170141fed8a685d5431.png",
+      "snippet": "In this PART 1 of my Arduino Joystick series, learn how to connect an analog joystick to an Arduino Uno. I'll guide you through the wiring ...",
+      "duration": "13:43",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRJYerhB9KWOX6KI95BoIJwIquvJ-UHuz32IA",
+      "source": "Facebook · Rachel De Barros"
+    },
+    {
+      "position": 52,
+      "title": "How to Use the Dual Axis Joystick with Arduino.",
+      "link": "https://mytectutor.com/how-to-use-the-dual-axis-joystick-with-arduino/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mytectutor.com/how-to-use-the-dual-axis-joystick-with-arduino/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCPABEAE",
+      "displayed_link": "https://mytectutor.com › Arduino",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65b42a0ecbb198d4df6496bc3584988656.png",
+      "snippet": "The components are connected as shown in the figure below. +5V pin is connected to the 5V power supply, GND pin is connected to the GND, the VRx and VRy pins ...",
+      "source": "mytectutor"
+    },
+    {
+      "position": 53,
+      "title": "Tutorials On Arduino And Joystick Interface",
+      "link": "https://www.makerguides.com/tutorials-on-arduino-and-joystick-interface/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.makerguides.com/tutorials-on-arduino-and-joystick-interface/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIcCEAE",
+      "displayed_link": "https://www.makerguides.com › Inputs & Sensors",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65c0c560fcc540e0ddb0abcfea06cc3be5.png",
+      "snippet": "Arduino UNO has six analog input pins labeled A0, A1, A2, A3, A4, and A5. Note: Though I said that the ADC would read 512 counts when the potentiometer is idle, ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "input",
+        "read"
+      ],
+      "source": "Makerguides.com"
+    },
+    {
+      "position": 54,
+      "title": "Control Arduino Using Joystick : 5 Steps",
+      "link": "https://www.instructables.com/control-arduino-using-joystick/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instructables.com/control-arduino-using-joystick/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIgCEAE",
+      "displayed_link": "https://www.instructables.com › Circuits › Arduino",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65a329114b824bb3b7139b5832ce559e4f.png",
+      "snippet": "Control Arduino Using Joystick: after about a month of have my arduino ... // wait for serial input if (Serial.available() > 0) { // read the incoming byte:",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Joystick",
+        "arduino",
+        "input",
+        "read"
+      ],
+      "source": "Instructables"
+    },
+    {
+      "position": 55,
+      "title": "Arduino Nano - Joystick - Newbiely Tutorials for Beginners",
+      "link": "https://newbiely.com/tutorials/arduino-nano/arduino-nano-joystick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://newbiely.com/tutorials/arduino-nano/arduino-nano-joystick&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIkCEAE",
+      "displayed_link": "https://newbiely.com › tutorials › arduino-nano-joystick",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b650a9a83d1ff377f2dd60b41d586a81650.png",
+      "snippet": "The joystick is composed of two components: analog (X, Y axis) and digital (pushbutton):. For the analog parts (X, Y axis), simply read the value from the ...",
+      "snippet_highlighted_words": [
+        "joystick",
+        "read"
+      ],
+      "source": "newbiely.com"
+    },
+    {
+      "position": 56,
+      "title": "Using a Joystick Module with Arduino: From Wiring to Coding",
+      "link": "https://racheldebarros.com/using-a-joystick-module-with-arduino-from-wiring-to-coding/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://racheldebarros.com/using-a-joystick-module-with-arduino-from-wiring-to-coding/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIsCEAE",
+      "displayed_link": "https://racheldebarros.com › using-a-joystick-module-w...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65d3141a5f0b63b04af8b5aa62116fb6a7.png",
+      "snippet": "The analog signals from the VRx and VRy pins are read by the analog input pins of the Arduino using the analogRead() function. The analogRead() function ...",
+      "snippet_highlighted_words": [
+        "read",
+        "input",
+        "Arduino"
+      ],
+      "source": "Rachel De Barros"
+    },
+    {
+      "position": 57,
+      "title": "Arduino Joystick Module Example - 42 Bots",
+      "link": "https://42bots.com/tutorials/arduino-joystick-module-example/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://42bots.com/tutorials/arduino-joystick-module-example/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCJoCEAE",
+      "displayed_link": "https://42bots.com › tutorials › arduino-joystick-module-...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65b60a0cb05dbd91935ba0109353c200da.png",
+      "snippet": "The Key pin is connected to ground, when the joystick is pressed down, and is floating otherwise. To get stable readings from the Key /Select pin, it needs to ...",
+      "snippet_highlighted_words": [
+        "joystick"
+      ],
+      "source": "42bots.com"
+    },
+    {
+      "position": 58,
+      "title": "Interfacing Dual Axis Joystick Module with Arduino",
+      "link": "https://circuitdigest.com/microcontroller-projects/microcontroller-interfacing-dual-axis-joystick-module-with-arduino",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://circuitdigest.com/microcontroller-projects/microcontroller-interfacing-dual-axis-joystick-module-with-arduino&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCKUCEAE",
+      "displayed_link": "https://circuitdigest.com › microcontroller-projects › mi...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b657e83f365018f2290a95b8487d2e0ed60.png",
+      "date": "Sep 5, 2022",
+      "snippet": "You can simply read the voltage output from the VRx and VRy pins using the analog pins and then calculate the position from these two values.",
+      "snippet_highlighted_words": [
+        "read"
+      ],
+      "source": "Circuit Digest"
+    },
+    {
+      "position": 59,
+      "title": "Arduino joystick - wrong values",
+      "link": "https://forum.allaboutcircuits.com/threads/arduino-joystick-wrong-values.200304/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.allaboutcircuits.com/threads/arduino-joystick-wrong-values.200304/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCKYCEAE",
+      "displayed_link": "https://forum.allaboutcircuits.com › ... › Microcontrollers",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6554c0cc135f5a7faa722fdcfeb26158ba.png",
+      "date": "Apr 16, 2024",
+      "snippet": "... INPUT); pinMode(ypin , OUTPUT); } void loop() { xval=analogRead(xpin); ... For analog read, I do not think you have to define the pin mode.",
+      "snippet_highlighted_words": [
+        "INPUT",
+        "read"
+      ],
+      "source": "All About Circuits"
+    },
+    {
+      "position": 60,
+      "title": "Using joystick module with Arduino",
+      "link": "https://www.hackster.io/hibit/using-joystick-module-with-arduino-1bb427",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hackster.io/hibit/using-joystick-module-with-arduino-1bb427&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCKQCEAE",
+      "displayed_link": "https://www.hackster.io › hibit › using-joystick-module...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6589002ecea3f95997ddccab14aff61763.png",
+      "date": "Nov 6, 2022",
+      "snippet": "Analog module have five pins. Besides the power pins (5V and GND) the module offers two analog and one digital pins. Analog inputs are used to ...",
+      "snippet_highlighted_words": [
+        "inputs"
+      ],
+      "source": "Hackster.io"
+    },
+    {
+      "position": 61,
+      "title": "Analog Joystick Interfacing with Arduino UNO.",
+      "link": "https://www.techknowskola.com/projects/analog-joystick-interfacing-with-arduino-uno.?srsltid=AfmBOopeg9qxm4-USvXxMvMaXJvzidDcbSUKDfdtwgT5wYCbmDpi2-49",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.techknowskola.com/projects/analog-joystick-interfacing-with-arduino-uno.%3Fsrsltid%3DAfmBOopeg9qxm4-USvXxMvMaXJvzidDcbSUKDfdtwgT5wYCbmDpi2-49&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCLICEAE",
+      "displayed_link": "https://www.techknowskola.com › projects › analog-joy...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65e27fb7ded74aa2e42848368a7fc0302c.png",
+      "snippet": "In setup, the Serial Monitor is started at 9600 Baud and initialized Joystick pins as input. In the loop, read the button state and stored in a variable. Print ...",
+      "snippet_highlighted_words": [
+        "Joystick",
+        "input",
+        "read"
+      ],
+      "source": "TechKnowSkola"
+    },
+    {
+      "position": 62,
+      "title": "simple Arduino Joystick to Unity via Joystick.h",
+      "link": "https://turboflip.de/simple-arduino-joystick-to-unity-via-joystick-h/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://turboflip.de/simple-arduino-joystick-to-unity-via-joystick-h/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCLoCEAE",
+      "displayed_link": "https://turboflip.de › simple-arduino-joystick-to-unity-v...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b651cfc4b6cbf530c25fc54d91f441c088d.png",
+      "date": "Apr 18, 2023",
+      "snippet": "// The joystick outputs two analog voltages (VERT and HORIZ), and one digital signal (SEL) for the pushbutton. const int VERT = 0; // analog.",
+      "snippet_highlighted_words": [
+        "joystick"
+      ],
+      "source": "TURBOFLIP"
+    },
+    {
+      "position": 63,
+      "title": "How to use an analog joystick in arduino",
+      "link": "https://ozeki.hu/p_2988-how-to-use-an-analog-joystick-in-arduino.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ozeki.hu/p_2988-how-to-use-an-analog-joystick-in-arduino.html&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCLsCEAE",
+      "displayed_link": "https://ozeki.hu › p_2988-how-to-use-an-analog-joystic...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65aebb7423756fc0644a3247442072d11e.png",
+      "snippet": "To work with an Arduino joystick, you need to connect some wires to your Arduino as the wiring diagram (Figure 1) shows it. The GND pin from the joystick needs ...",
+      "snippet_highlighted_words": [
+        "Arduino joystick",
+        "Arduino",
+        "joystick"
+      ],
+      "source": "Ozeki AI Server"
+    },
+    {
+      "position": 64,
+      "title": "Joystick library not reading potentiometer",
+      "link": "https://arduino.stackexchange.com/questions/95146/joystick-library-not-reading-potentiometer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arduino.stackexchange.com/questions/95146/joystick-library-not-reading-potentiometer&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCL0CEAE",
+      "displayed_link": "https://arduino.stackexchange.com › questions › joystic...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6512c617071860e4d8f3744e882bd9e6c2.png",
+      "date": "Dec 27, 2023",
+      "snippet": "When I load the test program I can get all the simulated controller inputs to register in windows. I can also get the value from my slide ...",
+      "snippet_highlighted_words": [
+        "inputs"
+      ],
+      "source": "Arduino Stack Exchange"
+    },
+    {
+      "position": 65,
+      "title": "Looking to program one joystick to be toggled as 2 diffrent ...",
+      "link": "https://forum.arduino.cc/t/looking-to-program-one-joystick-to-be-toggled-as-2-diffrent-inputs/1030853",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/looking-to-program-one-joystick-to-be-toggled-as-2-diffrent-inputs/1030853&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECD4QAQ",
+      "displayed_link": "https://forum.arduino.cc › Projects › General Guidance",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b657026fc5e18149eb52185fc47873091f9.png",
+      "date": "Sep 11, 2022",
+      "snippet": "Split the project into smaller pieces. Then go on finding out how to solve each piece. Reading joysticks is one, reading buttons is another.",
+      "snippet_highlighted_words": [
+        "Reading joysticks",
+        "reading"
+      ],
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 66,
+      "title": "Need Steam Deck Analog Joystick value",
+      "link": "https://steamcommunity.com/app/1675200/discussions/0/595143167557307377/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://steamcommunity.com/app/1675200/discussions/0/595143167557307377/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECD0QAQ",
+      "displayed_link": "https://steamcommunity.com › app › discussions",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b658097f3a8083f92664fec868ac9139477.png",
+      "date": "Mar 11, 2025",
+      "snippet": "You have to access the OS input API and read joysticks that way. You can do that from Python as well although I'm not sure you'd really want ...",
+      "snippet_highlighted_words": [
+        "input",
+        "read joysticks"
+      ],
+      "source": "Steam Community"
+    },
+    {
+      "position": 67,
+      "title": "Arduino code and video Dual Axis Joystick",
+      "link": "https://robojax.com/learn/arduino/?vid=robojax-dual-axis-joystick&srsltid=AfmBOop-6Y98oIzAcV36usoa1x4J9M3Z76J4HCaWBgE8d8GrjDQmRm-S",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://robojax.com/learn/arduino/%3Fvid%3Drobojax-dual-axis-joystick%26srsltid%3DAfmBOop-6Y98oIzAcV36usoa1x4J9M3Z76J4HCaWBgE8d8GrjDQmRm-S&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECEAQAQ",
+      "displayed_link": "https://robojax.com › learn › arduino › vid=robojax-du...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b657ada64840c7e14e202c6a63b330bc1f7.png",
+      "snippet": "This video is Introduction to Dual Axis Joystick for Arduino with example. /* * this is Arduino code to use Dual axis XY Joystick to read ... input pinMode ...",
+      "snippet_highlighted_words": [
+        "Joystick",
+        "Arduino",
+        "Arduino",
+        "Joystick",
+        "read",
+        "input"
+      ],
+      "source": "Robojax"
+    },
+    {
+      "position": 68,
+      "title": "Controlling Servo Movement with a Joystick Using Arduino ...",
+      "link": "https://learn.circuit.rocks/controlling-servo-movement-with-a-joystick-using-arduino-uno",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.circuit.rocks/controlling-servo-movement-with-a-joystick-using-arduino-uno&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECEcQAQ",
+      "displayed_link": "https://learn.circuit.rocks › Product Tutorials › Arduino",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65ba50332347e20cda7b965eb5eb1a6258.png",
+      "snippet": "This setup allows you to control the angle of the servo motor by moving the joystick right and left. The vertical movement is read as an analog input.",
+      "snippet_highlighted_words": [
+        "joystick",
+        "read",
+        "input"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 31357
+          },
+          "extensions": [
+            "5.0(31,357)"
+          ]
+        }
+      },
+      "source": "learn @ circuitrocks"
+    },
+    {
+      "position": 69,
+      "title": "Arduino Joystick Tutorial: Connecting Analog Joystick to ...",
+      "link": "https://www.tiktok.com/@racheldebarros/video/7388169911719234862",
+      "displayed_link": "30.8K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25sc4RsECBzpQ9SzegeMCYlv793yUyikEkPotU_V7pDeq&s",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65ac4378892928ae71250702f1f25fbda7.png",
+      "snippet": "3. **Switch Pin:** Connect the SW pin, which functions as a button, to Digital Pin 2. The joystick operates using two potentiometers that ...",
+      "duration": "13:42",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRtKxA-0eA6RnAa9Gtm0ueESdiSF2HWwLM04A",
+      "source": "TikTok · Rachel De Barros"
+    },
+    {
+      "position": 70,
+      "title": "Interfacing Joystick with Arduino - Example Project",
+      "link": "https://ai.thestempedia.com/example/interfacing-joystick-with-arduino/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ai.thestempedia.com/example/interfacing-joystick-with-arduino/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECFQQAQ",
+      "displayed_link": "https://ai.thestempedia.com › Examples",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6584b31bf76cdede19c16f84aaafe63d39.png",
+      "snippet": "We Know About The First Two Pin That Is Basic Pins Which Is Used In Every Hardware. That Is +5V And Another Is Ground. Another Three Pins Are Input And Output ...",
+      "snippet_highlighted_words": [
+        "Input"
+      ],
+      "source": "STEMpedia Education"
+    },
+    {
+      "position": 71,
+      "title": "Analog joystick with Arduino - 3D Pellet",
+      "link": "https://3dpellet.com/tutorials/arduino/interfaces/analog-joystick/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://3dpellet.com/tutorials/arduino/interfaces/analog-joystick/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECFcQAQ",
+      "displayed_link": "https://3dpellet.com › tutorials › arduino › interfaces › a...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6513fe5ae047ac091ad1d794d7b2e4642b.png",
+      "snippet": "A simple way to do this is by enabling Arduino's internal pull-up resistors. To do so, in the input pin configuration, we should use INPUT_PULLUP instead of the ...",
+      "snippet_highlighted_words": [
+        "Arduino's",
+        "input"
+      ],
+      "source": "3dpellet.com"
+    },
+    {
+      "position": 72,
+      "title": "Custom Arduino joystick controller input into Unity incorrect ...",
+      "link": "https://discussions.unity.com/t/custom-arduino-joystick-controller-input-into-unity-incorrect-values-being-read/806193",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discussions.unity.com/t/custom-arduino-joystick-controller-input-into-unity-incorrect-values-being-read/806193&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECF4QAQ",
+      "displayed_link": "https://discussions.unity.com › custom-arduino-joystick...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6548c3234c20a9e833460a17af72b88479.png",
+      "date": "Aug 26, 2020",
+      "snippet": "Custom Arduino joystick controller input into Unity incorrect values being read · All inputs seem to have a neutral value of 1.0 · Pushing each ...",
+      "snippet_highlighted_words": [
+        "Arduino joystick",
+        "input",
+        "read",
+        "inputs"
+      ],
+      "source": "Unity Discussions"
+    },
+    {
+      "position": 73,
+      "title": "4.1 Reading Values from a Joystick",
+      "link": "https://docs.sunfounder.com/projects/pico-2w-kit/en/latest/cproject/ar_joystick.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.sunfounder.com/projects/pico-2w-kit/en/latest/cproject/ar_joystick.html&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECGcQAQ",
+      "displayed_link": "https://docs.sunfounder.com › projects › latest › cproject",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65a1b76649d061bf4cefe95ad3d0370b12.png",
+      "snippet": "You can open the file 4.1_toggle_the_joyostick.ino under the path of pico-2w-kit-main/arduino/4.1_toggle_the_joyostick . · Or copy this code into Arduino IDE.",
+      "snippet_highlighted_words": [
+        "arduino",
+        "Arduino"
+      ],
+      "source": "SunFounder"
+    },
+    {
+      "position": 74,
+      "title": "How to Control Servo Motor Using Analog Joystick and ...",
+      "link": "https://maker.pro/arduino/projects/temperature-and-humidity-sensor-module-with-arduino",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://maker.pro/arduino/projects/temperature-and-humidity-sensor-module-with-arduino&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECG0QAQ",
+      "displayed_link": "https://maker.pro › arduino › projects › temperature-and...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b656354c7c4166e294d337b372c7e98ec94.png",
+      "date": "Mar 28, 2025",
+      "snippet": "Install the \"Servo by Arduino\" library. Step 3: Upload the Code. Now, upload the following Arduino code to read joystick inputs and control the ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "read joystick inputs"
+      ],
+      "source": "Maker Pro"
+    },
+    {
+      "position": 75,
+      "title": "Arduino and joysticks - Part 2 - 3-axis joystick",
+      "link": "https://curiousscientist.tech/blog/arduino-with-joysticks-part2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://curiousscientist.tech/blog/arduino-with-joysticks-part2&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECG8QAQ",
+      "displayed_link": "https://curiousscientist.tech › blog › arduino-with-joystic...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b652233e91290d72835fdacbd9a598ec893.jpeg",
+      "date": "Jul 24, 2024",
+      "snippet": "You just have to make sure that you connect them to the correct analog inputs. The LCD uses the i2C protocol, so two cables go to the A4 (SDA) ...",
+      "snippet_highlighted_words": [
+        "inputs"
+      ],
+      "source": "Curious Scientist"
+    },
+    {
+      "position": 76,
+      "title": "Dual Axis Joystick Module with Arduino - Meganano",
+      "link": "https://meganano.uno/dual-axis-joystick-module/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://meganano.uno/dual-axis-joystick-module/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECHIQAQ",
+      "displayed_link": "https://meganano.uno › ... › Arduino Projects and Guides",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6556a78f0c76aed695f49d29c3fb024038.png",
+      "date": "Feb 6, 2024",
+      "snippet": "As the joystick moves, the potentiometers divide the input voltage, producing analog output signals proportional to the joystick's position ...",
+      "snippet_highlighted_words": [
+        "joystick",
+        "input",
+        "joystick's"
+      ],
+      "source": "meganano.uno"
+    },
+    {
+      "position": 77,
+      "title": "Lab: Mouse Control With Joystick - ITP - NYU",
+      "link": "https://itp.nyu.edu/physcomp/labs/lab-mouse-control-with-joystick/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://itp.nyu.edu/physcomp/labs/lab-mouse-control-with-joystick/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoECH8QAQ",
+      "displayed_link": "https://itp.nyu.edu › physcomp › labs › lab-mouse-contr...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65ee971c332672e588bdfbf136a89b649b.png",
+      "snippet": "The Arduino has built-in pullup resistors that you can use on the digital inputs. Most microcontrollers have these. When you set the pin to be an input using ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "inputs",
+        "input"
+      ],
+      "source": "NYU"
+    },
+    {
+      "position": 78,
+      "title": "Arduino Joystick Library",
+      "link": "http://mheironimus.blogspot.com/2015/11/arduino-joystick-library.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://mheironimus.blogspot.com/2015/11/arduino-joystick-library.html&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIABEAE",
+      "displayed_link": "http://mheironimus.blogspot.com › 2015/11 › arduino-j...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b658f2b6dab333f66b716196f4a87510d0b.png",
+      "date": "Nov 19, 2015",
+      "snippet": "for each axis you have a anaog input pin A0,A1,A2,A3 where you can connect some potentiometers or hall sensor. the most arduinos have 10 bit ...",
+      "snippet_highlighted_words": [
+        "input"
+      ],
+      "source": "Blogger.com"
+    },
+    {
+      "position": 79,
+      "title": "Joystick-Arduino-RPi-Serial - Raspberry Pi Forums",
+      "link": "https://forums.raspberrypi.com/viewtopic.php?t=173341",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.raspberrypi.com/viewtopic.php%3Ft%3D173341&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIUBEAE",
+      "displayed_link": "https://forums.raspberrypi.com › Programming › Python",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b658e36339d2726a48bd8ddbe905c877d38.png",
+      "date": "Feb 2, 2017",
+      "snippet": "2)Arduino Uno connected to the RPi via USB + 1 servo and LEDs on te Arduino. ... What i am trying to do is to read button states and axis values ( ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "Arduino",
+        "read"
+      ],
+      "source": "Raspberry Pi Forums"
+    },
+    {
+      "position": 80,
+      "title": "How to use an analog joystick (KY-023) with an Arduino Uno",
+      "link": "https://mschoeffler.com/2017/01/06/how-to-use-an-analog-joystick-ky-023-with-an-arduino-uno/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mschoeffler.com/2017/01/06/how-to-use-an-analog-joystick-ky-023-with-an-arduino-uno/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIoBEAE",
+      "displayed_link": "https://mschoeffler.com › Tutorials › Arduino",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b654971957192cf062ffb21ac5a642f8684.png",
+      "date": "Jan 6, 2017",
+      "snippet": "The same applies for the y-axis. The y-axis' position can be read by connecting VRY to an analog input. In this tutorial, VRX is connected to “ ...",
+      "snippet_highlighted_words": [
+        "read",
+        "input"
+      ],
+      "source": "mschoeffler.com"
+    },
+    {
+      "position": 81,
+      "title": "How to use an Arduino joystick button with Pyfirmata",
+      "link": "https://stackoverflow.com/questions/73355502/how-to-use-an-arduino-joystick-button-with-pyfirmata",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/73355502/how-to-use-an-arduino-joystick-button-with-pyfirmata&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCJYBEAE",
+      "displayed_link": "1 answer · 2 years ago",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b658ebb26c6b8f82270e1b1b02677fb8e8a.png",
+      "snippet": "... joystick switch between them and finally do an analog read. I have ... from pyfirmata import Arduino, PWM, INPUT, OUTPUT from pyfirmata ...",
+      "snippet_highlighted_words": [
+        "joystick",
+        "read",
+        "Arduino",
+        "INPUT"
+      ],
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 82,
+      "title": "Drone Control with an Analog Joystick | STEM Activity",
+      "link": "https://www.sciencebuddies.org/stem-activities/drone-arduino-steering-joystick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencebuddies.org/stem-activities/drone-arduino-steering-joystick&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCJoBEAE",
+      "displayed_link": "https://www.sciencebuddies.org › stem-activities › drone-...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b656784442d5f8680adc99ebfe06affd433.png",
+      "snippet": "L/R to Arduino analog input A1. U/D to Arduino analog input A0. GND to breadboard ground bus. breadboard diagram for drone joystick steering circuit ...",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "input",
+        "Arduino",
+        "input",
+        "joystick"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.3,
+            "reviews": 19
+          },
+          "extensions": [
+            "4.3(19)"
+          ]
+        }
+      },
+      "source": "Science Buddies"
+    },
+    {
+      "position": 83,
+      "title": "How to use the analog joystick KY-023 with the Arduino Uno ...",
+      "link": "https://www.youtube.com/watch?v=qDq7vm-7Xs4",
+      "displayed_link": "15.1K+ views · 8 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRGQdeLz6phs04vOxdfB3zGaDk0Pt-Bswgd5oCOERrHE-&s",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b655298099a51b92e9f5a32557880964af0.png",
+      "snippet": "The Ultimate Arduino Tutorial Series: Actuators & Sensors #2: How to use the analog joystick KY-023 with the Arduino Uno The KY-023 (or ...",
+      "duration": "5:52",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Tutorial Introduction",
+          "link": "https://www.youtube.com/watch?v=qDq7vm-7Xs4&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSX7M8uEvMC7Kn-sMUKu_L2eZydiDqa7H2iZs6r1kbbw&s"
+        },
+        {
+          "time": "00:34",
+          "title": "Wiring",
+          "link": "https://www.youtube.com/watch?v=qDq7vm-7Xs4&t=34",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rnEqcNX10qhShVzsDAmAWd9TN2rux5muBote2rnLVw&s"
+        },
+        {
+          "time": "03:40",
+          "title": "Programming",
+          "link": "https://www.youtube.com/watch?v=qDq7vm-7Xs4&t=220",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShX2JBEX7NdLNBxAoP-scPSkC6ONPgZ0eg2f676xn25A&s"
+        },
+        {
+          "time": "05:01",
+          "title": "Example demonstration",
+          "link": "https://www.youtube.com/watch?v=qDq7vm-7Xs4&t=301",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbsK-pI04qRitFNoX8rIoyO0bb0F9cC1Ot78Hi6nvmw&s"
+        }
+      ],
+      "missing": [
+        "input"
+      ],
+      "must_include": {
+        "word": "input",
+        "link": "https://www.google.com/search?num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&q=arduino+how+to+read+joystick+%22input%22&sa=X&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ5t4CegQIMRAo"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTco6xF8C_uOYdJzsEfVKVG_JBo8IGghYx4NQ",
+      "source": "YouTube · Michael Schoeffler"
+    },
+    {
+      "position": 84,
+      "title": "Arduino Stepper Code – Joystick - Photo CS - WordPress.com",
+      "link": "https://photoscs.wordpress.com/2014/03/21/arduino-stepper-code-joystick/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://photoscs.wordpress.com/2014/03/21/arduino-stepper-code-joystick/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCJwBEAE",
+      "displayed_link": "https://photoscs.wordpress.com › 2014/03/21 › arduino...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65aa8210d2b9bea38fb638f591d1190020.png",
+      "date": "Mar 21, 2014",
+      "snippet": "slider.step(stepperSpeed); // request a step with our joystick driven speed. If I read analog input 27, i get values that are OK. Values are ...",
+      "snippet_highlighted_words": [
+        "joystick",
+        "read",
+        "input"
+      ],
+      "source": "WordPress.com"
+    },
+    {
+      "position": 85,
+      "title": "Arduino JoyStick Module - Geeetech Wiki",
+      "link": "https://www.geeetech.com/wiki/index.php/Arduino_JoyStick_Module?srsltid=AfmBOopOSGqIzhneswipxqo-SOtwpdVWXAPQ_nMf5KRHcGbRIYEsB29Q",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeetech.com/wiki/index.php/Arduino_JoyStick_Module%3Fsrsltid%3DAfmBOopOSGqIzhneswipxqo-SOtwpdVWXAPQ_nMf5KRHcGbRIYEsB29Q&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCKMBEAE",
+      "displayed_link": "https://www.geeetech.com › wiki › index.php › Arduino...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65839e5f8d50c34755d8bf9d3cdd2153e1.png",
+      "date": "May 4, 2012",
+      "snippet": "It can be considered as combination of potentiometers and one button. Data type of the x, y dimensions are analog input signals and z dimension ...",
+      "snippet_highlighted_words": [
+        "input"
+      ],
+      "source": "Geeetech"
+    },
+    {
+      "position": 86,
+      "title": "Arduino-Controlled Servo Positioning with Joystick Input",
+      "link": "https://docs.cirkitdesigner.com/project/published/9520b298-3669-43ce-bd20-9f8e63445484/arduino-controlled-servo-positioning-with-joystick-input",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.cirkitdesigner.com/project/published/9520b298-3669-43ce-bd20-9f8e63445484/arduino-controlled-servo-positioning-with-joystick-input&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCKsBEAE",
+      "displayed_link": "https://docs.cirkitdesigner.com › project › published › ar...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65e0121a2087390354f052a81199bfb400.png",
+      "snippet": "The control input is provided by a KY-023 Dual Axis Joystick Module. The servos' positions are determined by the X-axis of the joystick. The circuit is powered ...",
+      "snippet_highlighted_words": [
+        "input",
+        "Joystick",
+        "joystick"
+      ],
+      "source": "Cirkit Designer"
+    },
+    {
+      "position": 87,
+      "title": "Welcome to Part 2 of my Arduino Joystick series! In this tutorial ...",
+      "link": "https://www.facebook.com/RachelDeBarrosLive/videos/control-2-servos-with-a-joystick-and-arduino-wiring-code/464361706456997/",
+      "displayed_link": "80+ reactions · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJnIbwJoQjqnmvWvZtaLj1J2Yn9_DQCuRINDUG1TgBaLoo&s",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6536420b75c9009b6d1e1e9cea907d182f.png",
+      "snippet": "In this tutorial, I'll show you how to wire an analog joystick to an Arduino Uno and write a sketch to control LEDs based on joystick movements.",
+      "duration": "22:22",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRVWuHYKKK5Fj303CqYojMGDTern_u-zbPDTw",
+      "source": "Facebook · Rachel De Barros"
+    },
+    {
+      "position": 88,
+      "title": "Joystick Arduino Programming Help",
+      "link": "https://forum.arduino.cc/t/joystick-arduino-programming-help/424133",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.arduino.cc/t/joystick-arduino-programming-help/424133&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCLQBEAE",
+      "displayed_link": "https://forum.arduino.cc › Projects › Programming",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65fb4f2c1889920693bb46885ec2f856b3.png",
+      "date": "Dec 10, 2016",
+      "snippet": "Learn about reading potentiometer data, since that is what a joystick really is. ... INPUT); pinMode(y1Pin, INPUT); pinMode(xPin, INPUT); ...",
+      "snippet_highlighted_words": [
+        "reading",
+        "joystick",
+        "INPUT",
+        "INPUT",
+        "INPUT"
+      ],
+      "source": "Arduino Forum"
+    },
+    {
+      "position": 89,
+      "title": "2 axis joystick w/ select button. - adafruit industries",
+      "link": "https://forums.adafruit.com/viewtopic.php?t=125506",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.adafruit.com/viewtopic.php%3Ft%3D125506&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCLgBEAE",
+      "displayed_link": "https://forums.adafruit.com › viewtopic",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65a720a093f3f28bd399d239e0f6d195ec.png",
+      "date": "Oct 24, 2017",
+      "snippet": "We don't have anything specifically for that joystick and an Arduino. As far as an Arduino is concerned, the joystick is just two potentiometers ...",
+      "snippet_highlighted_words": [
+        "joystick",
+        "Arduino",
+        "Arduino",
+        "joystick"
+      ],
+      "source": "Adafruit Forums"
+    },
+    {
+      "position": 90,
+      "title": "Connecting old school joysticks to the Arduino and Gameduino",
+      "link": "https://vintagegamer.wordpress.com/2011/12/30/connecting-old-school-joysticks-to-the-arduino-and-gameduino/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vintagegamer.wordpress.com/2011/12/30/connecting-old-school-joysticks-to-the-arduino-and-gameduino/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCL0BEAE",
+      "displayed_link": "https://vintagegamer.wordpress.com › 2011/12/30 › co...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b658406fb8562203000de27b9f2f7cfdafc.png",
+      "date": "Dec 30, 2011",
+      "snippet": "... Read the value of the button up and print it on the serial port. ... Lastly, Joystick inputs could be used as save games or additional levels.",
+      "snippet_highlighted_words": [
+        "Read",
+        "Joystick inputs"
+      ],
+      "source": "WordPress.com"
+    },
+    {
+      "position": 91,
+      "title": "Reviving an old joystick with an Arduino Leonardo - Ido Gendel's",
+      "link": "https://www.idogendel.com/en/archives/290",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.idogendel.com/en/archives/290&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCMwBEAE",
+      "displayed_link": "https://www.idogendel.com › archives",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b650a6556b4023677cf80a713d9595ce4c6.jpeg",
+      "date": "Nov 27, 2014",
+      "snippet": "So in theory, if we connect the pin with the black wire to an Arduino's GND pin, and the rest of the pins to the Arduino's digital input pins ...",
+      "snippet_highlighted_words": [
+        "Arduino's",
+        "Arduino's",
+        "input"
+      ],
+      "source": "idogendel.com"
+    },
+    {
+      "position": 92,
+      "title": "How can I read the button state of a joystick (ARD-358) ...",
+      "link": "https://www.mathworks.com/matlabcentral/answers/484665-how-can-i-read-the-button-state-of-a-joystick-ard-358-using-arduino-with-simulink",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mathworks.com/matlabcentral/answers/484665-how-can-i-read-the-button-state-of-a-joystick-ard-358-using-arduino-with-simulink&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCMsBEAE",
+      "displayed_link": "https://www.mathworks.com › matlabcentral › answers",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b651869421539868705f302d200a4658ea5.png",
+      "date": "Oct 10, 2019",
+      "snippet": "How can I read the button state of a joystick... Learn more about #joystick, #arduino ... joystick with the block Digital Input in Simulink.",
+      "snippet_highlighted_words": [
+        "read",
+        "joystick",
+        "joystick",
+        "arduino",
+        "joystick",
+        "Input"
+      ],
+      "source": "MathWorks"
+    },
+    {
+      "position": 93,
+      "title": "Setting up joystick (throttle quadrant) with pro micro/leonardo",
+      "link": "https://forums.flightsimulator.com/t/setting-up-joystick-throttle-quadrant-with-pro-micro-leonardo/395315",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.flightsimulator.com/t/setting-up-joystick-throttle-quadrant-with-pro-micro-leonardo/395315&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCNQBEAE",
+      "displayed_link": "https://forums.flightsimulator.com › setting-up-joystick-...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b6524e162b89d600022f7193fc951ed142b.png",
+      "date": "Apr 24, 2021",
+      "snippet": "// is 0 and a 0 to the library if the button is 1. ... // input pin when not being pressed. Then when you press the switch the input pin will read ...",
+      "snippet_highlighted_words": [
+        "input",
+        "input",
+        "read"
+      ],
+      "source": "Microsoft Flight Simulator Forums"
+    },
+    {
+      "position": 94,
+      "title": "[Arduino] Analog Thumb Joystick - Billwaa's Blog",
+      "link": "https://billwaa.wordpress.com/2014/04/16/arduino-analog-thumb-joystick/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://billwaa.wordpress.com/2014/04/16/arduino-analog-thumb-joystick/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCNYBEAE",
+      "displayed_link": "https://billwaa.wordpress.com › 2014/04/16 › arduino-a...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b656e7ecfe2725d16fbb8bb4016f6f66f3f.png",
+      "date": "Apr 16, 2014",
+      "snippet": "By going to one side to another, the voltage change from 0V to 5V, or whatever your input voltage is. Same apply to pressing down on the ...",
+      "snippet_highlighted_words": [
+        "input"
+      ],
+      "source": "WordPress.com"
+    },
+    {
+      "position": 95,
+      "title": "FORTH on Arduino -3- (Funduino Joystick game shield)",
+      "link": "https://blog.jeronimus.net/2020/11/forth-on-arduino-3-funduino-joystick.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.jeronimus.net/2020/11/forth-on-arduino-3-funduino-joystick.html&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCNkBEAE",
+      "displayed_link": "https://blog.jeronimus.net › 2020/11 › forth-on-arduino-...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65b6a10ef869931054df179f1c41d75608.jpeg",
+      "date": "Nov 19, 2020",
+      "snippet": "For reading the other buttons you need to read portD. 0 2B C! \\ make all Port B pins input. FF 2A C! \\ turn on pull-up resistor for all lines.",
+      "snippet_highlighted_words": [
+        "reading",
+        "read",
+        "input"
+      ],
+      "source": "jeronimus.net"
+    },
+    {
+      "position": 96,
+      "title": "Using an Arduino with Python LESSON 16",
+      "link": "https://toptechboy.com/using-an-arduino-with-python-lesson-16-connecting-and-using-a-joystick-with-arduino/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://toptechboy.com/using-an-arduino-with-python-lesson-16-connecting-and-using-a-joystick-with-arduino/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCPMBEAE",
+      "displayed_link": "https://toptechboy.com › using-an-arduino-with-python...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b655be0ddb9135454a3f2b64e80b4dc7325.jpeg",
+      "date": "Apr 26, 2022",
+      "snippet": "In this session, we show how to read data from the joystick using the arduino. ... pinMode(potX,INPUT);. pinMode(potY,INPUT);. pinMode(potZ ...",
+      "snippet_highlighted_words": [
+        "read",
+        "joystick",
+        "arduino",
+        "INPUT",
+        "INPUT"
+      ],
+      "source": "Top Tech Boy"
+    },
+    {
+      "position": 97,
+      "title": "Using a Game Controller with Click PLC",
+      "link": "https://automationdirectinc.my.site.com/s/question/0D5PE00000DOIUH0A5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://automationdirectinc.my.site.com/s/question/0D5PE00000DOIUH0A5&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCJYCEAE",
+      "displayed_link": "https://automationdirectinc.my.site.com › question",
+      "date": "Apr 20, 2024",
+      "snippet": "From what I found online using an Arduino UNO with Host shield to read the controllers buttons and joystick locations seems to be the way to go.",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "read",
+        "joystick"
+      ],
+      "source": "Salesforce"
+    },
+    {
+      "position": 98,
+      "title": "Arduino UNO and Joystick",
+      "link": "https://www.robotique.site/tutorial/arduino-uno-and-joystick/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.robotique.site/tutorial/arduino-uno-and-joystick/&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCO4BEAE",
+      "displayed_link": "https://www.robotique.site › tutorial › arduino-uno-and-j...",
+      "favicon": "https://serpapi.com/searches/68831202f73e4d9b1ca80320/images/d7a5a428be157a05dfb922d744551b65b8b5f364a12e7da2d30df09c0aa86873.png",
+      "date": "Dec 3, 2024",
+      "snippet": "This program allows the Arduino board to read the different values of the joystick inputs and display the direction of the joystick on the I2C LCD 1602 display.",
+      "snippet_highlighted_words": [
+        "Arduino",
+        "read",
+        "joystick inputs",
+        "joystick"
+      ],
+      "source": "Robotique Site"
+    },
+    {
+      "position": 99,
+      "title": "MDEF Daphne Gerodimou",
+      "link": "https://daphnegerodimou.gitlab.io/daphne.gerodimou/term2/fab9.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://daphnegerodimou.gitlab.io/daphne.gerodimou/term2/fab9.html&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQFnoFCIkBEAE",
+      "displayed_link": "https://daphnegerodimou.gitlab.io › term2 › fab9",
+      "snippet": "The arduino code follows the same logic in reading the values of the joystick but it integrades communication with the processing code. The x, y, b are set in ...",
+      "snippet_highlighted_words": [
+        "arduino",
+        "reading",
+        "joystick"
+      ],
+      "source": "GitLab"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Arduino how to read joystick input reddit",
+      "link": "https://www.google.com/search?num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&q=Arduino+how+to+read+joystick+input+reddit&sa=X&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ1QJ6BQjMAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Arduino+how+to+read+joystick+input+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Joystick Arduino code",
+      "link": "https://www.google.com/search?num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&q=Joystick+Arduino+code&sa=X&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ1QJ6BQjKAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Joystick+Arduino+code"
+    },
+    {
+      "block_position": 1,
+      "query": "Arduino Joystick library",
+      "link": "https://www.google.com/search?num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&q=Arduino+Joystick+library&sa=X&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ1QJ6BQjLAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Arduino+Joystick+library"
+    },
+    {
+      "block_position": 1,
+      "query": "Joystick Arduino code servo",
+      "link": "https://www.google.com/search?num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&q=Joystick+Arduino+code+servo&sa=X&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ1QJ6BQjJAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Joystick+Arduino+code+servo"
+    },
+    {
+      "block_position": 1,
+      "query": "Arduino Joystick example",
+      "link": "https://www.google.com/search?num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&q=Arduino+Joystick+example&sa=X&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ1QJ6BQjHAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Arduino+Joystick+example"
+    },
+    {
+      "block_position": 1,
+      "query": "Arduino Joystick button",
+      "link": "https://www.google.com/search?num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&q=Arduino+Joystick+button&sa=X&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ1QJ6BQjEAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Arduino+Joystick+button"
+    },
+    {
+      "block_position": 1,
+      "query": "Arduino joystick projects",
+      "link": "https://www.google.com/search?num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&q=Arduino+joystick+projects&sa=X&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ1QJ6BQi-AhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Arduino+joystick+projects"
+    },
+    {
+      "block_position": 1,
+      "query": "Joystick Arduino tutorial",
+      "link": "https://www.google.com/search?num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&q=Joystick+Arduino+tutorial&sa=X&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ1QJ6BQi8AhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Joystick+Arduino+tutorial"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=arduino+how+to+read+joystick+input&num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&ei=BRKDaMbHAde90PEP85SckQI&start=100&sa=N&sstk=Ac65TH52HfKfAfdjlogc0gCb9OiFXeCBCO-eIAO-tAkQtqOUJdLarJXGifmP8fe3_kONNDBs1BwYxQ6aL9OhjP3oHBk6Hcys30qbOg&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ8NMDegQIDBAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=arduino+how+to+read+joystick+input&num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&ei=BRKDaMbHAde90PEP85SckQI&start=100&sa=N&sstk=Ac65TH52HfKfAfdjlogc0gCb9OiFXeCBCO-eIAO-tAkQtqOUJdLarJXGifmP8fe3_kONNDBs1BwYxQ6aL9OhjP3oHBk6Hcys30qbOg&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=arduino+how+to+read+joystick+input&num=100&sca_esv=d06f5a1c24924b00&hl=en&gl=us&ei=BRKDaMbHAde90PEP85SckQI&start=200&sa=N&sstk=Ac65TH52HfKfAfdjlogc0gCb9OiFXeCBCO-eIAO-tAkQtqOUJdLarJXGifmP8fe3_kONNDBs1BwYxQ6aL9OhjP3oHBk6Hcys30qbOg&ved=2ahUKEwiG3tTNn9eOAxXXHjQIHXMKJyIQ8tMDegQIDBAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=arduino+how+to+read+joystick+input&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=arduino+how+to+read+joystick+input&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=arduino+how+to+read+joystick+input&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=arduino+how+to+read+joystick+input&start=200"
+    }
+  }
+}

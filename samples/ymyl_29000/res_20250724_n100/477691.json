@@ -1,0 +1,2537 @@
+{
+  "search_metadata": {
+    "id": "6883433f73d175a3917ee76e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cb16c25f5ca253f4/6883433f73d175a3917ee76e.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/cb16c25f5ca253f4/6883433f73d175a3917ee76e.json_with_pixel_position",
+    "created_at": "2025-07-25 08:41:35 UTC",
+    "processed_at": "2025-07-25 08:41:35 UTC",
+    "google_url": "https://www.google.com/search?q=how+to+trace+crypto+wallet+address&oq=how+to+trace+crypto+wallet+address&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/cb16c25f5ca253f4/6883433f73d175a3917ee76e.html",
+    "total_time_taken": 3.29
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how to trace crypto wallet address",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how to trace crypto wallet address",
+    "total_results": 2740000,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "thumbnail": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/b5945ee29ef4b85009c7cd8876b7fe37360614c06eca02956a112f953df25a08.jpeg"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Can a crypto wallet be traced?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "Yes, cryptocurrency wallets can be traced. While they offer a degree of privacy, they are not completely anonymous, and the transactions on a blockchain are publicly recorded. This means that anyone can potentially trace the flow of funds by analyzing the blockchain's public ledger, using tools like blockchain explorers and transaction IDs.",
+          "reference_indexes": [
+            0,
+            1,
+            7
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Here's a breakdown of why and how:"
+        },
+        {
+          "type": "heading",
+          "snippet": "1. Blockchain Transparency:",
+          "reference_indexes": [
+            7,
+            11
+          ]
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Cryptocurrencies like Bitcoin and Ethereum use blockchain technology, which is essentially a public, distributed ledger."
+            },
+            {
+              "snippet": "Every transaction is recorded on this ledger, making it publicly viewable and traceable."
+            },
+            {
+              "snippet": "Anyone can access this ledger through blockchain explorers and see the history of transactions associated with a specific wallet address.",
+              "reference_indexes": [
+                5,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "2. Tracing Methods:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Blockchain Explorers:",
+              "snippet": "These platforms allow users to search and view transaction details, including wallet addresses and their transaction history.",
+              "reference_indexes": [
+                5,
+                7
+              ]
+            },
+            {
+              "title": "Transaction IDs:",
+              "snippet": "Every transaction has a unique ID that can be used to trace the flow of funds.",
+              "reference_indexes": [
+                7
+              ]
+            },
+            {
+              "title": "Address Clustering:",
+              "snippet": "Analyzing transaction patterns and identifying clusters of addresses linked to the same entity or individual, according to AML Crypto.",
+              "reference_indexes": [
+                2,
+                12,
+                13
+              ]
+            },
+            {
+              "title": "Blockchain Forensics:",
+              "snippet": "Companies like Chainalysis and Elliptic specialize in analyzing blockchain data to track transactions, identify illicit activities, and trace funds.",
+              "reference_indexes": [
+                3,
+                5
+              ]
+            },
+            {
+              "title": "KYC/AML Regulations:",
+              "snippet": "Cryptocurrency exchanges are required to collect user information (KYC) and report suspicious transactions (AML). This information can be used to link wallet addresses to real-world identities.",
+              "reference_indexes": [
+                0,
+                8
+              ]
+            },
+            {
+              "title": "Open Source Intelligence (OSINT):",
+              "snippet": "Investigators can use publicly available information (social media, forums, etc.) to link wallet addresses to individuals.",
+              "reference_indexes": [
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "3. Limitations and Privacy Enhancements:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "While transactions are traceable, it can be difficult to definitively identify the owner of a wallet without additional information.",
+              "reference_indexes": [
+                9
+              ]
+            },
+            {
+              "snippet": "Users can employ various techniques to enhance privacy, such as using new wallet addresses for each transaction, using multiple wallets, or employing coin mixing services.",
+              "reference_indexes": [
+                6,
+                9
+              ]
+            },
+            {
+              "snippet": "However, even with these measures, transactions can still be traced if the user interacts with centralized services (like exchanges) or if they publicly link their wallet address to their identity.",
+              "reference_indexes": [
+                4,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "4. Law Enforcement and Regulatory Agencies:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Government agencies like the IRS and FBI actively monitor cryptocurrency transactions and can use blockchain analysis tools to trace funds."
+            },
+            {
+              "snippet": "They can obtain information from cryptocurrency exchanges and financial institutions through legal means (subpoenas, etc.)."
+            },
+            {
+              "snippet": "Law enforcement agencies have successfully traced and recovered stolen cryptocurrency in several high-profile cases.",
+              "reference_indexes": [
+                0,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "In conclusion, while cryptocurrency transactions offer a degree of anonymity, they are not completely untraceable. Blockchain technology's transparency, coupled with advanced analysis tools and regulatory requirements, makes it possible to trace the flow of funds and potentially identify the owners of cryptocurrency wallets.",
+          "reference_indexes": [
+            0,
+            3,
+            5,
+            7,
+            9,
+            10
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Can the IRS Track Cryptocurrency? Do Exchanges Report? [2025]",
+          "link": "https://www.blockpit.io/en-us/tax-guides/can-the-irs-track-cryptocurrency#:~:text=Despite%20perceived%20anonymity%2C%20blockchain%20technology,institutions%20to%20investigate%20tax%20evasion.",
+          "snippet": "Jun 6, 2025 — Despite perceived anonymity, blockchain technology allows cryptocurrency transactions to be traced. The blockchain serv...",
+          "source": "Blockpit",
+          "index": 0
+        },
+        {
+          "title": "Stealth Address (Cryptocurrency): Meaning and Concerns",
+          "link": "https://www.investopedia.com/terms/s/stealth-address-cryptocurrency.asp#:~:text=Because%20cryptocurrency%20wallet%20addresses%20are,can%20be%20traced%20to%20you.",
+          "snippet": "Because cryptocurrency wallet addresses are publicly available, transactions can be traced to that address. If your name or other ...",
+          "source": "Investopedia",
+          "index": 1
+        },
+        {
+          "title": "Best Bitcoin & Crypto Wallet Tracker Tools - Ledger",
+          "link": "https://www.ledger.com/academy/topics/crypto/best-bitcoin-crypto-wallet-tracker-tools#:~:text=Bitcoin%20addresses%20are%20alphanumeric%20strings,interactions%20with%20other%20market%20participants.",
+          "snippet": "Mar 8, 2024 — Bitcoin addresses are alphanumeric strings that indicate the source or destination of a transaction. Each wallet consis...",
+          "source": "Ledger",
+          "index": 2
+        },
+        {
+          "title": "Can My Bitcoin Activity be Traced? - CoinFlip.tech",
+          "link": "https://coinflip.tech/blog/is-bitcoin-traceable#:~:text=Standard%20blockchain%20explorers%20like%20the,these%20stolen%20funds%20through%20exchanges.",
+          "snippet": "Aug 13, 2024 — Standard blockchain explorers like the one linked to above work well for tracing legitimate transactions, but these to...",
+          "source": "CoinFlip.tech",
+          "index": 3
+        },
+        {
+          "title": "Can Crypto Be Traced? Understanding Anonymity and ...",
+          "link": "https://guarda.com/academy/security/can-crypto-be-traced/#:~:text=2.,they%20interact%20with%20custodial%20services.",
+          "snippet": "Oct 31, 2024 — 2. Crypto Wallets and Their Role in Traceability. A crypto wallet is a digital tool that allows users to store, send,",
+          "source": "Guarda",
+          "index": 4
+        },
+        {
+          "title": "Is Bitcoin Traceable? The Truth About Privacy in Cryptocurrency",
+          "link": "https://ecos.am/en/blog/is-bitcoin-traceable-understanding-privacy-and-traceability-in-cryptocurrency/#:~:text=of%20the%20law.-,Tools%20and%20Techniques%20for%20Tracing%20Bitcoin%20Transactions,(AML)%20and%20fraud%20prevention.",
+          "snippet": "Tools and Techniques for Tracing Bitcoin Transactions Bitcoin transactions are public, and advanced tools make tracing them easier...",
+          "source": "ecos.am",
+          "index": 5
+        },
+        {
+          "title": "Protect your privacy - Bitcoin",
+          "link": "https://bitcoin.org/en/protect-your-privacy#:~:text=Use%20new%20addresses%20to%20receive,you%20should%20keep%20in%20mind.",
+          "snippet": "Use new addresses to receive payments To protect your privacy, you should use a new Bitcoin address each time you receive a new pa...",
+          "source": "Bitcoin.org",
+          "index": 6
+        },
+        {
+          "title": "Can The IRS Track Crypto? | 2025 Update - Koinly",
+          "link": "https://koinly.io/blog/can-the-irs-track-cryptocurrency/#:~:text=in%20your%20browser.-,How%20is%20cryptocurrency%20traceable?,...%20or%20does%20it?",
+          "snippet": "How is cryptocurrency traceable? For many investors, the appeal of crypto comes down to anonymity. After all, cryptocurrencies are...",
+          "source": "Koinly",
+          "index": 7
+        },
+        {
+          "title": "Can Crypto Be Traced: The Truth About Bitcoin & Blockchain ...",
+          "link": "https://flipster.io/en/blog/can-crypto-be-traced-the-truth-about-bitcoin-and-blockchain-transparency#:~:text=Even%20cryptocurrency%20businesses%2C%20like%20wallet,of%20transactions%2C%20and%20protect%20consumers.",
+          "snippet": "Even cryptocurrency businesses, like wallet providers and exchanges, use crypto tracing to adhere to AML and KYC guidelines, reduc...",
+          "source": "Flipster",
+          "index": 8
+        },
+        {
+          "title": "How to Track Crypto Wallet Address | by AML Crypto - Medium",
+          "link": "https://medium.com/@AMLCrypto/how-to-track-crypto-wallet-address-11d6b496b293#:~:text=Although%20the%20transactions%20themselves%20can,on%20common%20features%20and%20behavior.",
+          "snippet": "Sep 25, 2024 — Although the transactions themselves can be tracked, it can be extremely difficult to determine the exact owner of a c...",
+          "source": "Medium · AML Crypto",
+          "index": 9
+        },
+        {
+          "title": "Federal Charges for Buying Drugs With Cryptocurrency | IL",
+          "link": "https://www.garfinkelcriminallaw.com/chicagocriminalblog/can-you-be-federally-prosecuted-for-buying-drugs-with-cryptocurrency#:~:text=A%20common%20misconception%20about%20cryptocurrencies%20like%20Bitcoin,can%20remain%20traceable%20for%20an%20extended%20period.",
+          "snippet": "Mar 20, 2025 — A common misconception about cryptocurrencies like Bitcoin is that transactions are completely untraceable. While thos...",
+          "source": "garfinkelcriminallaw.com",
+          "index": 10
+        },
+        {
+          "title": "What is a wallet address? - Coinbase",
+          "link": "https://www.coinbase.com/learn/wallet/what-is-a-wallet-address#:~:text=Wallet%20Addresses%20and%20Blockchain%20Transparency&text=All%20transactions%20are%20recorded%20on,of%20a%20public%20wallet%20address.",
+          "snippet": "Wallet Addresses and Blockchain Transparency All transactions are recorded on the blockchain and are publicly accessible. This mea...",
+          "source": "Coinbase",
+          "index": 11
+        },
+        {
+          "title": "Introducing AMLBot Pro: Powerful Blockchain Analytics Tool (Updated)",
+          "link": "https://blog.amlbot.com/introducing-amlbot-intelligence/#:~:text=By%20identifying%20and%20clustering%20related%20addresses%2C%20AMLBot,move%20and%20who%20might%20be%20behind%20them.",
+          "snippet": "Apr 17, 2024 — By identifying and clustering related addresses, AMLBot Pro links cryptocurrency transactions to known entities, such ...",
+          "source": "AMLBot Blog",
+          "index": 12
+        },
+        {
+          "title": "Bybit Hack: Inside the $1.4B Theft",
+          "link": "https://amlcrypto.io/en/blog/event-chronology-bybit-hack#:~:text=The%20number%20of%20transactions%20and%20blockchain%20addresses,where%20intermediate%20addresses%20are%20combined%20into%20clusters.",
+          "snippet": "The number of transactions and blockchain addresses of the attackers is in the thousands. Perception of this data even in the form...",
+          "source": "AML Crypto.io",
+          "index": 13
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2FVVXhibUZUYlVkSllXSTJOMGRJYlVjeFpERm9TV3MzWmxWQmFGZG1Oamh4YWkwMGNIWjFkSFJaZUVaVk1qaEdNVGxqU21OWWFXeEZTekpzUm14S2FWaEpTblF4Ym05cFpXWktTM1IzUXpRNFpHZDBXSHBSVDJNNGR4SVhVV3RQUkdGTVluZENjMTh0Y0hSUlVEWTJRM2RyUVZFYUlrRkdUVUZIUjNGdVNITk5URzA0U1ZRNGNEaE9NV1JzT0dOdFVXSXRTbkZvTW1jIiwiZmN2IjoiMyIsImVpIjoiUWtPRGFMYndCc18tcHRRUDY2Q3drQVEiLCJxYyI6IkNpSm9iM2NnZEc4Z2RISmhZMlVnWTNKNWNIUnZJSGRoYkd4bGRDQmhaR1J5WlhOekVBQjlwbzc4UGciLCJxdWVzdGlvbiI6IkNhbiBhIGNyeXB0byB3YWxsZXQgYmUgdHJhY2VkPyIsImxrIjoiR2gxallXNGdZU0JqY25sd2RHOGdkMkZzYkdWMElHSmxJSFJ5WVdObFpBIiwiYnMiOiJjLU55NFpKelRzeFRTRlJJTHFvc0tNbFhLRV9NeVVrdFVVaEtWU2dwU2t4T1RiR1gySnBpSkM4bG00eFBFVmNPbHhISWxNcjhVb1cwekx3VWhmelNFb1h5akh5Rl9QSzhZZ3h0aVNrcFJhbkZ4ZllTZlV4R3hsS0d5YVJxNUFyaFVnUFo1cW1RazUtZnJWQmFnTnVHWGNsRzZsS3FJQnN5Q1NubXN1Q1NBSmtLRmZWMFFRNkRoWTVHa2xMaXlRanB6QlNFdEFBakFBIiwiaWQiOiJmY19Ra09EYUxid0JzXy1wdFFQNjZDd2tBUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2FVVXhibUZUYlVkSllXSTJOMGRJYlVjeFpERm9TV3MzWmxWQmFGZG1Oamh4YWkwMGNIWjFkSFJaZUVaVk1qaEdNVGxqU21OWWFXeEZTekpzUm14S2FWaEpTblF4Ym05cFpXWktTM1IzUXpRNFpHZDBXSHBSVDJNNGR4SVhVV3RQUkdGTVluZENjMTh0Y0hSUlVEWTJRM2RyUVZFYUlrRkdUVUZIUjNGdVNITk5URzA0U1ZRNGNEaE9NV1JzT0dOdFVXSXRTbkZvTW1jIiwiZmN2IjoiMyIsImVpIjoiUWtPRGFMYndCc18tcHRRUDY2Q3drQVEiLCJxYyI6IkNpSm9iM2NnZEc4Z2RISmhZMlVnWTNKNWNIUnZJSGRoYkd4bGRDQmhaR1J5WlhOekVBQjlwbzc4UGciLCJxdWVzdGlvbiI6IkNhbiBhIGNyeXB0byB3YWxsZXQgYmUgdHJhY2VkPyIsImxrIjoiR2gxallXNGdZU0JqY25sd2RHOGdkMkZzYkdWMElHSmxJSFJ5WVdObFpBIiwiYnMiOiJjLU55NFpKelRzeFRTRlJJTHFvc0tNbFhLRV9NeVVrdFVVaEtWU2dwU2t4T1RiR1gySnBpSkM4bG00eFBFVmNPbHhISWxNcjhVb1cwekx3VWhmelNFb1h5akh5Rl9QSzhZZ3h0aVNrcFJhbkZ4ZllTZlV4R3hsS0d5YVJxNUFyaFVnUFo1cW1RazUtZnJWQmFnTnVHWGNsRzZsS3FJQnN5Q1NubXN1Q1NBSmtLRmZWMFFRNkRoWTVHa2xMaXlRanB6QlNFdEFBakFBIiwiaWQiOiJmY19Ra09EYUxid0JzXy1wdFFQNjZDd2tBUV8xIn0%3D"
+    },
+    {
+      "question": "Can you find out who owns a crypto wallet address?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "No, you generally cannot see who owns a cryptocurrency wallet. Cryptocurrency wallets are pseudonymous, meaning they don't directly reveal the owner's identity. While the transaction history on the blockchain is public, the wallet addresses themselves are not directly linked to personal information."
+        },
+        {
+          "type": "heading",
+          "snippet": "Here's why:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Pseudonymity:",
+              "snippet": "Cryptocurrency wallets are identified by a long string of characters (the wallet address), not a name or other personal identifier."
+            },
+            {
+              "title": "Transparency vs. Anonymity:",
+              "snippet": "While the blockchain is transparent in the sense that all transactions are recorded and viewable, it doesn't reveal the identities of the users behind those transactions."
+            },
+            {
+              "title": "Blockchain Analysis:",
+              "snippet": "Advanced techniques can sometimes link wallet addresses to real-world identities, but this is not a simple or straightforward process. Law enforcement or regulatory bodies might be able to trace wallets through exchanges or specialized blockchain analysis firms, especially in cases involving illegal activity."
+            },
+            {
+              "title": "KYC and Centralized Exchanges:",
+              "snippet": "Centralized exchanges (like Coinbase or Binance) typically require Know Your Customer (KYC) information, which can link a wallet address to an individual's identity. However, this is only relevant when using those exchanges and not for wallets held independently."
+            },
+            {
+              "title": "Privacy Coins:",
+              "snippet": "Some cryptocurrencies (like Monero) offer enhanced privacy features that make tracing even more difficult."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "3 Ways to Verify Crypto Ownership - QCVE.org",
+          "link": "https://qcve.org/blog/verify-crypto-ownership#:~:text=It%20authenticates%20crypto%20ownership%20at,wallet%20with%20the%20company's%20books.",
+          "snippet": "Sep 5, 2024 — It authenticates crypto ownership at a low cost. It also streamlines auditors' work. Cost: The AStablish Excel plugin u...",
+          "source": "QCVE.org",
+          "index": 0
+        },
+        {
+          "title": "What is a wallet address? A guide to crypto wallet addresses - MoonPay",
+          "link": "https://www.moonpay.com/learn/cryptocurrency/what-is-a-wallet-address#:~:text=However%2C%20unlike%20a%20bank%20account,not%20directly%20reveal%20your%20identity.",
+          "snippet": "Dec 9, 2024 — However, unlike a bank account, which typically has your name associated with it, a cryptocurrency wallet address is ps...",
+          "source": "MoonPay",
+          "index": 1
+        },
+        {
+          "title": "Is Bitcoin Anonymous? Understanding Privacy in Cryptocurrency",
+          "link": "https://www.ulam.io/blog/is-cryptocurrency-anonymous#:~:text=KYC%20Data%20from%20Exchanges:%20Most%20centralized%20exchanges,link%20between%20individuals%20and%20their%20wallet%20addresses.",
+          "snippet": "Dec 30, 2024 — KYC Data from Exchanges: Most centralized exchanges require users to verify their identities through Know Your Custome...",
+          "source": "Ulam Labs",
+          "index": 2
+        },
+        {
+          "title": "Bitcoin Forensics in Las Vegas Criminal Cases",
+          "link": "https://www.rosenblumlawlv.com/bitcoin-forensics/#:~:text=Use%20of%20privacy%20coins:%20Cryptocurrencies%20like%20Monero,tracing%20the%20flow%20of%20funds%20even%20harder.",
+          "snippet": "Use of privacy coins: Cryptocurrencies like Monero or Zcash are designed to provide more privacy than Bitcoin. These coins use adv...",
+          "source": "The Rosenblum Allen Law Firm",
+          "index": 3
+        },
+        {
+          "title": "Can Crypto Be Traced? Understanding Anonymity and ...",
+          "link": "https://guarda.com/academy/security/can-crypto-be-traced/#:~:text=While%20the%20identities%20behind%20wallet,be%20traced%20with%20enough%20effort.",
+          "snippet": "Oct 31, 2024 — While the identities behind wallet addresses are not directly linked to personal information, advanced blockchain anal...",
+          "source": "Guarda",
+          "index": 4
+        },
+        {
+          "title": "Best Anonymous Crypto Wallets 2025 - No ID Required - ICO Bench",
+          "link": "https://icobench.com/wallets/anonymous/#:~:text=software%20or%20hardware.-,Anonymous%20Wallets%20for%20Crypto:%20Advantages%20&%20Disadvantages,anonymous%20options%20come%20with%20risks.",
+          "snippet": "Jun 18, 2025 — Anonymous Wallets for Crypto: Advantages & Disadvantages When it comes to privacy, anonymous wallets have the upper ha...",
+          "source": "ICOBench.com",
+          "index": 5
+        },
+        {
+          "title": "Digital Disguise: How Cryptocurrency Facilitates Money Laundering",
+          "link": "https://financialcrimeacademy.org/cryptocurrency-money-laundering/#:~:text=This%20innovation%20is%20particularly%20prevalent%20with%20privacy,details%20about%20user%20addresses%20from%20third%20parties.",
+          "snippet": "May 21, 2025 — This innovation is particularly prevalent with privacy coins like Monero, which offer a higher level of anonymous bloc...",
+          "source": "Financial Crime Academy",
+          "index": 6
+        },
+        {
+          "title": "Blockchain Anonymity: Navigating Privacy Challenges",
+          "link": "https://hedera.com/learning/distributed-ledger-technologies/blockchain-anonymity#:~:text=Solutions%20such%20as%20privacy%20coins%20have%20emerged,trace%20the%20flow%20of%20funds%20between%20users.",
+          "snippet": "Solutions such as privacy coins have emerged to provide users with more robust privacy options. These coins use advanced cryptogra...",
+          "source": "Hedera",
+          "index": 7
+        },
+        {
+          "title": "Can Trust Wallet Be Traced? - Bitget",
+          "link": "https://www.bitget.com/wiki/can-trust-wallet-be-traced#:~:text=Law%20enforcement%20or%20regulatory%20authorities,link%20transactions%20to%20an%20individual.",
+          "snippet": "May 19, 2025 — Law enforcement or regulatory authorities can potentially trace wallets within the legal framework. For instance, if a...",
+          "source": "Bitget",
+          "index": 8
+        },
+        {
+          "title": "How to trace bitcoin transactions if you are scammed.",
+          "link": "https://www.linkedin.com/pulse/how-trace-bitcoin-transactions-you-scammed-leigh-swansborough-bowman-uw1xc#:~:text=If%20Bitcoin%20is%20sent%20to%20Binance%2C%20Coinbase%2C,real%20identity%20(because%20exchanges%20require%20KYC%20verification).",
+          "snippet": "Mar 3, 2025 — If Bitcoin is sent to Binance, Coinbase, or Kraken, the transaction might be linked to a real identity (because exchang...",
+          "source": "LinkedIn",
+          "index": 9
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2FVVXhibUZUYlVkSllXSTJOMGRJYlVjeFpERm9TV3MzWmxWQmFGZG1Oamh4YWkwMGNIWjFkSFJaZUVaVk1qaEdNVGxqU21OWWFXeEZTekpzUm14S2FWaEpTblF4Ym05cFpXWktTM1IzUXpRNFpHZDBXSHBSVDJNNGR4SVhVV3RQUkdGTVluZENjMTh0Y0hSUlVEWTJRM2RyUVZFYUlrRkdUVUZIUjNGdVNITk5URzA0U1ZRNGNEaE9NV1JzT0dOdFVXSXRTbkZvTW1jIiwiZmN2IjoiMyIsImVpIjoiUWtPRGFMYndCc18tcHRRUDY2Q3drQVEiLCJxYyI6IkNpSm9iM2NnZEc4Z2RISmhZMlVnWTNKNWNIUnZJSGRoYkd4bGRDQmhaR1J5WlhOekVBQjlwbzc4UGciLCJxdWVzdGlvbiI6IkNhbiB5b3UgZmluZCBvdXQgd2hvIG93bnMgYSBjcnlwdG8gd2FsbGV0IGFkZHJlc3M/IiwibGsiOiJHakZqWVc0Z2VXOTFJR1pwYm1RZ2IzVjBJSGRvYnlCdmQyNXpJR0VnWTNKNWNIUnZJSGRoYkd4bGRDQmhaR1J5WlhOeiIsImJzIjoiYy1OeTRaSnpUc3hUU0ZSSUxxb3NLTWxYS0VfTXlVa3RVVWhLVlNncFNreE9UYkdYMkpwaUpDOGxtNHhQRVZjT2x4SElsTXI4VW9XMHpMd1VoZnpTRW9YeWpIeUZfUEs4WWd4dGlTa3BSYW5GeGZZU2ZVeEd4bEtHeWFScTVBcmhVZ1BaNXFtUWs1LWZyVkJhZ051R1hjbEc2bEtxSUJzeUNTbm1zdUNTQUprS0ZmVjBRUTZEaFk1R2tsTGl5UWpwekJTRXRBQWpBQSIsImlkIjoiZmNfUWtPRGFMYndCc18tcHRRUDY2Q3drQVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2FVVXhibUZUYlVkSllXSTJOMGRJYlVjeFpERm9TV3MzWmxWQmFGZG1Oamh4YWkwMGNIWjFkSFJaZUVaVk1qaEdNVGxqU21OWWFXeEZTekpzUm14S2FWaEpTblF4Ym05cFpXWktTM1IzUXpRNFpHZDBXSHBSVDJNNGR4SVhVV3RQUkdGTVluZENjMTh0Y0hSUlVEWTJRM2RyUVZFYUlrRkdUVUZIUjNGdVNITk5URzA0U1ZRNGNEaE9NV1JzT0dOdFVXSXRTbkZvTW1jIiwiZmN2IjoiMyIsImVpIjoiUWtPRGFMYndCc18tcHRRUDY2Q3drQVEiLCJxYyI6IkNpSm9iM2NnZEc4Z2RISmhZMlVnWTNKNWNIUnZJSGRoYkd4bGRDQmhaR1J5WlhOekVBQjlwbzc4UGciLCJxdWVzdGlvbiI6IkNhbiB5b3UgZmluZCBvdXQgd2hvIG93bnMgYSBjcnlwdG8gd2FsbGV0IGFkZHJlc3M%2FIiwibGsiOiJHakZqWVc0Z2VXOTFJR1pwYm1RZ2IzVjBJSGRvYnlCdmQyNXpJR0VnWTNKNWNIUnZJSGRoYkd4bGRDQmhaR1J5WlhOeiIsImJzIjoiYy1OeTRaSnpUc3hUU0ZSSUxxb3NLTWxYS0VfTXlVa3RVVWhLVlNncFNreE9UYkdYMkpwaUpDOGxtNHhQRVZjT2x4SElsTXI4VW9XMHpMd1VoZnpTRW9YeWpIeUZfUEs4WWd4dGlTa3BSYW5GeGZZU2ZVeEd4bEtHeWFScTVBcmhVZ1BaNXFtUWs1LWZyVkJhZ051R1hjbEc2bEtxSUJzeUNTbm1zdUNTQUprS0ZmVjBRUTZEaFk1R2tsTGl5UWpwekJTRXRBQWpBQSIsImlkIjoiZmNfUWtPRGFMYndCc18tcHRRUDY2Q3drQVFfMSJ9"
+    },
+    {
+      "question": "Can I look up a crypto wallet address?",
+      "type": "ai_overview",
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "Yes, cryptocurrency wallet addresses can be traced, though not in the same way as a bank account. Cryptocurrency transactions are recorded on a public, transparent blockchain, making them traceable to some degree. While addresses themselves don't reveal personal identities, they can be linked to other information or activities that might lead to identification."
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Here's a more detailed explanation:"
+        },
+        {
+          "type": "heading",
+          "snippet": "How tracing works:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Blockchain explorers:",
+              "snippet": "These tools allow anyone to view the transaction history of a specific address."
+            },
+            {
+              "title": "Blockchain analysis tools:",
+              "snippet": "These tools help investigators analyze transaction patterns, cluster related addresses, and potentially link them to real-world identities, especially when combined with other data."
+            },
+            {
+              "title": "Off-ramp monitoring:",
+              "snippet": "If cryptocurrency is converted to fiat currency (like USD) at a centralized exchange, that exchange may have records linking the address to an individual."
+            },
+            {
+              "title": "KYC/AML requirements:",
+              "snippet": "Centralized exchanges often require Know Your Customer (KYC) and Anti-Money Laundering (AML) information, which can be used to identify individuals associated with specific transactions."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Limitations of tracing:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Privacy-focused cryptocurrencies: Some cryptocurrencies like Monero and <<!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "nav>>Zcash are designed with enhanced privacy features that make tracing more difficult."
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "title": "Decentralized exchanges (DEXs):",
+              "snippet": "DEXs operate without intermediaries, making it harder to link transactions to specific individuals."
+            },
+            {
+              "title": "Mixing services:",
+              "snippet": "These services obfuscate the origin and destination of cryptocurrency transactions, making them harder to trace."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "In short, while cryptocurrency addresses are not inherently anonymous, their traceability depends on various factors, including the specific cryptocurrency, the way it's used, and the tools and information available to investigators."
+        }
+      ],
+      "references": [
+        {
+          "title": "Cryptocurrency - Internet Crime Complaint Center (IC3)",
+          "link": "https://www.ic3.gov/CrimeInfo/Cryptocurrency#:~:text=Cryptocurrency%20transactions%20are%20permanently%20recorded,possible%20with%20other%20financial%20systems.",
+          "snippet": "Cryptocurrency transactions are permanently recorded on publicly available distributed ledgers called blockchains. As a result, la...",
+          "source": "Internet Crime Complaint Center (IC3) (.gov)",
+          "index": 0
+        },
+        {
+          "title": "Bitcoin Address Lookup: How to Track Bitcoin Transactions Easily",
+          "link": "https://www.rockitcoin.com/blog/bitcoin-address-lookup/#:~:text=Blockchain%20Explorers:%20To%20look%20up,t%20practical%20for%20most%20people.",
+          "snippet": "Dec 3, 2024 — Blockchain Explorers: To look up an address, you need a blockchain explorer. These are websites or tools that allow use...",
+          "source": "RockItCoin",
+          "index": 1
+        },
+        {
+          "title": "How can I be traced from my bitcoin address?",
+          "link": "https://www.youtube.com/watch?v=12q61zaWOOY",
+          "snippet": "May 15, 2020 — without forensic analysis any Bitcoin address used in the transaction is very likely to be traceable. this is why Bitc...",
+          "source": "YouTube · Luno",
+          "index": 2
+        },
+        {
+          "title": "Blockchain Explorer - Bitcoin Tracker & More",
+          "link": "https://www.blockchain.com/explorer#:~:text=Blockchain%20Explorer%20%2D%20Bitcoin%20Tracker%20&%20More,Blockchain.com",
+          "snippet": "Blockchain Explorer - Bitcoin Tracker & More. Blockchain.com.",
+          "source": "Blockchain.com",
+          "index": 3
+        },
+        {
+          "title": "Protect your privacy - Bitcoin",
+          "link": "https://bitcoin.org/en/protect-your-privacy",
+          "source": "Bitcoin",
+          "index": 4
+        },
+        {
+          "title": "Understand How To Trace A Scammers Crypto Wallet",
+          "link": "https://www.digitalforensics.com/blog/software/crypto-wallet-tracing/#:~:text=Crypto%20wallets%20have%20a%20unique,from%20the%20unique%20public%20address.",
+          "snippet": "May 1, 2025 — Crypto wallets have a unique address that is public, similar to an account number. Investigators can access wallets alo...",
+          "source": "Digital Forensics Corp",
+          "index": 5
+        },
+        {
+          "title": "Can You Track People Sending Bitcoin?",
+          "link": "https://www.youtube.com/watch?v=diDqOru6LMA",
+          "snippet": "Sep 5, 2024 — I'm sorry when you buy from a KYC exchange there's that permanent record that you made that purchase. and so government...",
+          "source": "YouTube · Bitcoin University",
+          "index": 6
+        },
+        {
+          "title": "Crypto tracing | TRM Glossary",
+          "link": "https://www.trmlabs.com/glossary/crypto-tracing#:~:text=by%20bad%20actors.-,Privacy%2Dfocused%20cryptocurrencies,sender%2C%20receiver%2C%20and%20amount.",
+          "snippet": "Privacy-focused cryptocurrencies Certain cryptocurrencies are designed to enhance user privacy, making tracing significantly more ...",
+          "source": "TRM Labs",
+          "index": 7
+        },
+        {
+          "title": "How to Track Crypto Wallet Address | by AML Crypto - Medium",
+          "link": "https://medium.com/@AMLCrypto/how-to-track-crypto-wallet-address-11d6b496b293#:~:text=Modern%20blockchain%20analysis%20tools%20allow,to%20track%20bitcoin%20address%20owners.",
+          "snippet": "Sep 25, 2024 — Modern blockchain analysis tools allow not only to track crypto wallet transactions, but also to build complex connect...",
+          "source": "Medium · AML Crypto",
+          "index": 8
+        },
+        {
+          "title": "Is Bitcoin Traceable? The Truth About Privacy in Cryptocurrency",
+          "link": "https://ecos.am/en/blog/is-bitcoin-traceable-understanding-privacy-and-traceability-in-cryptocurrency/#:~:text=How%20Tracing%20Works,fiat%20currency%20at%20known%20platforms.",
+          "snippet": "How Tracing Works. Tracing starts with blockchain data. Every Bitcoin transaction is recorded on the blockchain, including sender ...",
+          "source": "ecos.am",
+          "index": 9
+        },
+        {
+          "title": "How Illicit Actors Launder Money Through Crypto Exchanges | sanctions.io",
+          "link": "https://www.sanctions.io/blog/how-illicit-actors-launder-money-through-crypto-exchanges#:~:text=Filling%20the%20Mixer:%20Next%20comes%20the%20mixer,making%20the%20transactions%20increasingly%20difficult%20to%20trace.",
+          "snippet": "Oct 25, 2024 — Filling the Mixer: Next comes the mixer usage. A mixer is a service that blends the crypto assets of multiple users in...",
+          "source": "Sanctions.io",
+          "index": 10
+        },
+        {
+          "title": "Bitcoin Forensics in Las Vegas Criminal Cases",
+          "link": "https://www.rosenblumlawlv.com/bitcoin-forensics/#:~:text=Know%20Your%20Customer%20(KYC)%20and%20Anti%2DMoney%20Laundering,collect%20user%20identification%2C%20which%20can%20assist%20investigations.",
+          "snippet": "Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations: Many cryptocurrency exchanges and platforms must implement K...",
+          "source": "The Rosenblum Allen Law Firm",
+          "index": 11
+        },
+        {
+          "title": "How Forensic Accountants Track Crypto Transactions to Uncover Fraud",
+          "link": "https://www.nsktglobal.com/usa/blog/forensic-accountants-track-crypto-fraud#:~:text=Decentralized%20Exchanges%20(DEXs):%20Unlike%20centralized%20exchanges%2C%20DEXs,information.%20This%20makes%20tracing%20transactions%20more%20complicated.",
+          "snippet": "Feb 17, 2025 — Decentralized Exchanges (DEXs): Unlike centralized exchanges, DEXs don't require users to provide personal information...",
+          "source": "NSKT Global",
+          "index": 12
+        },
+        {
+          "title": "What is a wallet address? A guide to crypto wallet addresses",
+          "link": "https://www.moonpay.com/learn/cryptocurrency/what-is-a-wallet-address#:~:text=However%2C%20unlike%20a%20bank%20account%2C%20which%20typically,it%20does%20not%20directly%20reveal%20your%20identity.",
+          "snippet": "Dec 9, 2024 — However, unlike a bank account, which typically has your name associated with it ( a wallet address ) , a cryptocurrenc...",
+          "source": "MoonPay",
+          "index": 13
+        },
+        {
+          "title": "Cryptocurrency Scam Investigations: Exposing Crypto Frauds",
+          "link": "https://www.eldoradoinsurance.com/private-investigator-industry-news/cryptocurrency-scam-investigations/#:~:text=Tracing%20Transactions%20to%20Centralized%20Exchanges%20%E2%80%93%20When,verification.%20Investigators%20request%20records%20from%20these%20platforms.",
+          "snippet": "May 8, 2025 — Tracing Transactions to Centralized Exchanges – When criminals convert crypto to fiat currency, they often use exchange...",
+          "source": "El Dorado Insurance Agency",
+          "index": 14
+        },
+        {
+          "title": "How Are Criminals Exploiting Crypto? A Deep Dive Into 2024's Top Crime Typologies",
+          "link": "https://bitquery.io/blog/criminals-exploiting-crypto-2024-top-crime-typologies#:~:text=9.%20Mixing%20Services%20and%20Privacy%20Wallets%20Mixing,aggregating%20and%20redistributing%20funds%20across%20multiple%20addresses.",
+          "snippet": "Sep 15, 2024 — 9. Mixing Services and Privacy Wallets Mixing services and privacy wallets obscure the origin and destination of crypt...",
+          "source": "Bitquery",
+          "index": 15
+        },
+        {
+          "title": "Crypto Is Not Anonymous: How Criminals Are Caught on the ... - OSL",
+          "link": "https://www.osl.com/hk-en/academy/article/crypto-is-not-anonymous-how-criminals-are-caught-on-the-blockchain#:~:text=Crypto%20Is%20Not%20Anonymous:%20How%20Criminals%20Are%20Caught%20on%20the%20Blockchain,-Mar%2019%2C%202025&text=The%20perception%20that%20cryptocurrencies%20provide,ledger%20known%20as%20the%20blockchain.",
+          "snippet": "Mar 19, 2025 — Crypto Is Not Anonymous: How Criminals Are Caught on the Blockchain. The perception that cryptocurrencies provide comp...",
+          "source": "OSL Digital Securities",
+          "index": 16
+        },
+        {
+          "title": "Effective Strategies and Tools for Tracing and Recovering Cryptocurrency",
+          "link": "https://cybersecurity.gftd.co.jp/blog/effective-strategies-and-tools-for-tracing-and-recovering-cryptocurrency#:~:text=Decentralized%20exchanges%20present%20a%20newer%20challenge%20in,the%20need%20for%20an%20intermediary%20or%20custodian.",
+          "snippet": "Apr 15, 2024 — Decentralized exchanges present a newer challenge in blockchain tracing. Unlike traditional exchanges, DEXes allow use...",
+          "source": "Gftd Japan 株式会社",
+          "index": 17
+        },
+        {
+          "title": "Sell Bitcoin with No Verification | Bitpapa",
+          "link": "https://bitpapa.com/blog/how-to/sell-bitcoin-no-verification#:~:text=As%20a%20result%2C%20they%20(%20Cryptocurrency%20exchanges,as%20government%2Dissued%20identification%20and%20proof%20of%20address.",
+          "snippet": "As a result, they ( Cryptocurrency exchanges ) often require users to complete the Know Your Customer (KYC) and Anti-Money Launder...",
+          "source": "bitpapa.com",
+          "index": 18
+        },
+        {
+          "title": "Rug-pull malicious token detection on blockchain using supervised learning with feature engineering",
+          "link": "https://dl.acm.org/doi/fullHtml/10.1145/3579375.3579385#:~:text=Decentralized%20Exchanges%20(DEXs)%20were%20introduced%20as%20platforms,hard%2Dcoded%20in%20the%20smart%20contract%20%5B%2034%5D.",
+          "snippet": "Decentralized Exchanges (DEXs) were introduced as platforms where users can exchange cryptocurrencies without central intermediari...",
+          "source": "ACM Digital Library",
+          "index": 19
+        }
+      ],
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2FVVXhibUZUYlVkSllXSTJOMGRJYlVjeFpERm9TV3MzWmxWQmFGZG1Oamh4YWkwMGNIWjFkSFJaZUVaVk1qaEdNVGxqU21OWWFXeEZTekpzUm14S2FWaEpTblF4Ym05cFpXWktTM1IzUXpRNFpHZDBXSHBSVDJNNGR4SVhVV3RQUkdGTVluZENjMTh0Y0hSUlVEWTJRM2RyUVZFYUlrRkdUVUZIUjNGdVNITk5URzA0U1ZRNGNEaE9NV1JzT0dOdFVXSXRTbkZvTW1jIiwiZmN2IjoiMyIsImVpIjoiUWtPRGFMYndCc18tcHRRUDY2Q3drQVEiLCJxYyI6IkNpSm9iM2NnZEc4Z2RISmhZMlVnWTNKNWNIUnZJSGRoYkd4bGRDQmhaR1J5WlhOekVBQjlwbzc4UGciLCJxdWVzdGlvbiI6IkNhbiBJIGxvb2sgdXAgYSBjcnlwdG8gd2FsbGV0IGFkZHJlc3M/IiwibGsiOiJHaVZqWVc0Z2FTQnNiMjlySUhWd0lHRWdZM0o1Y0hSdklIZGhiR3hsZENCaFpHUnlaWE56IiwiYnMiOiJjLU55NFpKelRzeFRTRlJJTHFvc0tNbFhLRV9NeVVrdFVVaEtWU2dwU2t4T1RiR1gySnBpSkM4bG00eFBFVmNPbHhISWxNcjhVb1cwekx3VWhmelNFb1h5akh5Rl9QSzhZZ3h0aVNrcFJhbkZ4ZllTZlV4R3hsS0d5YVJxNUFyaFVnUFo1cW1RazUtZnJWQmFnTnVHWGNsRzZsS3FJQnN5Q1NubXN1Q1NBSmtLRmZWMFFRNkRoWTVHa2xMaXlRanB6QlNFdEFBakFBIiwiaWQiOiJmY19Ra09EYUxid0JzXy1wdFFQNjZDd2tBUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2FVVXhibUZUYlVkSllXSTJOMGRJYlVjeFpERm9TV3MzWmxWQmFGZG1Oamh4YWkwMGNIWjFkSFJaZUVaVk1qaEdNVGxqU21OWWFXeEZTekpzUm14S2FWaEpTblF4Ym05cFpXWktTM1IzUXpRNFpHZDBXSHBSVDJNNGR4SVhVV3RQUkdGTVluZENjMTh0Y0hSUlVEWTJRM2RyUVZFYUlrRkdUVUZIUjNGdVNITk5URzA0U1ZRNGNEaE9NV1JzT0dOdFVXSXRTbkZvTW1jIiwiZmN2IjoiMyIsImVpIjoiUWtPRGFMYndCc18tcHRRUDY2Q3drQVEiLCJxYyI6IkNpSm9iM2NnZEc4Z2RISmhZMlVnWTNKNWNIUnZJSGRoYkd4bGRDQmhaR1J5WlhOekVBQjlwbzc4UGciLCJxdWVzdGlvbiI6IkNhbiBJIGxvb2sgdXAgYSBjcnlwdG8gd2FsbGV0IGFkZHJlc3M%2FIiwibGsiOiJHaVZqWVc0Z2FTQnNiMjlySUhWd0lHRWdZM0o1Y0hSdklIZGhiR3hsZENCaFpHUnlaWE56IiwiYnMiOiJjLU55NFpKelRzeFRTRlJJTHFvc0tNbFhLRV9NeVVrdFVVaEtWU2dwU2t4T1RiR1gySnBpSkM4bG00eFBFVmNPbHhISWxNcjhVb1cwekx3VWhmelNFb1h5akh5Rl9QSzhZZ3h0aVNrcFJhbkZ4ZllTZlV4R3hsS0d5YVJxNUFyaFVnUFo1cW1RazUtZnJWQmFnTnVHWGNsRzZsS3FJQnN5Q1NubXN1Q1NBSmtLRmZWMFFRNkRoWTVHa2xMaXlRanB6QlNFdEFBakFBIiwiaWQiOiJmY19Ra09EYUxid0JzXy1wdFFQNjZDd2tBUV8xIn0%3D"
+    },
+    {
+      "question": "Can wallet ID be traced?",
+      "type": "featured_snippet",
+      "snippet": "Transaction History: By analysing the wallet's transaction history, investigators can trace funds transferred from the victim and identify subsequent transactions. This may lead to other wallets involved in laundering the funds or spending them.",
+      "title": "Tracing Cryptocurrency Linked to Illegal Activities: A Practical ...",
+      "date": "Jan 17, 2025",
+      "link": "https://www.nexia-sabt.co.za/tracing-cryptocurrency-linked-to-illegal-activities-a-practical-guide/#:~:text=Transaction%20History%3A%20By%20analysing%20the,the%20funds%20or%20spending%20them.",
+      "displayed_link": "https://www.nexia-sabt.co.za › tracing-cryptocurrency-l...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2FVVXhibUZUYlVkSllXSTJOMGRJYlVjeFpERm9TV3MzWmxWQmFGZG1Oamh4YWkwMGNIWjFkSFJaZUVaVk1qaEdNVGxqU21OWWFXeEZTekpzUm14S2FWaEpTblF4Ym05cFpXWktTM1IzUXpRNFpHZDBXSHBSVDJNNGR4SVhVV3RQUkdGTVluZENjMTh0Y0hSUlVEWTJRM2RyUVZFYUlrRkdUVUZIUjNGdVNITk5URzA0U1ZRNGNEaE9NV1JzT0dOdFVXSXRTbkZvTW1jIiwiZmN2IjoiMyIsImVpIjoiUWtPRGFMYndCc18tcHRRUDY2Q3drQVEiLCJxYyI6IkNpSm9iM2NnZEc4Z2RISmhZMlVnWTNKNWNIUnZJSGRoYkd4bGRDQmhaR1J5WlhOekVBQjlwbzc4UGciLCJxdWVzdGlvbiI6IkNhbiB3YWxsZXQgSUQgYmUgdHJhY2VkPyIsImxrIjoiR2hkallXNGdkMkZzYkdWMElHbGtJR0psSUhSeVlXTmxaQSIsImJzIjoiYy1OeTRaSnpUc3hUU0ZSSUxxb3NLTWxYS0VfTXlVa3RVVWhLVlNncFNreE9UYkdYMkpwaUpDOGxtNHhQRVZjT2x4SElsTXI4VW9XMHpMd1VoZnpTRW9YeWpIeUZfUEs4WWd4dGlTa3BSYW5GeGZZU2ZVeEd4bEtHeWFScTVBcmhVZ1BaNXFtUWs1LWZyVkJhZ051R1hjbEc2bEtxSUJzeUNTbm1zdUNTQUprS0ZmVjBRUTZEaFk1R2tsTGl5UWpwekJTRXRBQWpBQSIsImlkIjoiZmNfUWtPRGFMYndCc18tcHRRUDY2Q3drQVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2FVVXhibUZUYlVkSllXSTJOMGRJYlVjeFpERm9TV3MzWmxWQmFGZG1Oamh4YWkwMGNIWjFkSFJaZUVaVk1qaEdNVGxqU21OWWFXeEZTekpzUm14S2FWaEpTblF4Ym05cFpXWktTM1IzUXpRNFpHZDBXSHBSVDJNNGR4SVhVV3RQUkdGTVluZENjMTh0Y0hSUlVEWTJRM2RyUVZFYUlrRkdUVUZIUjNGdVNITk5URzA0U1ZRNGNEaE9NV1JzT0dOdFVXSXRTbkZvTW1jIiwiZmN2IjoiMyIsImVpIjoiUWtPRGFMYndCc18tcHRRUDY2Q3drQVEiLCJxYyI6IkNpSm9iM2NnZEc4Z2RISmhZMlVnWTNKNWNIUnZJSGRoYkd4bGRDQmhaR1J5WlhOekVBQjlwbzc4UGciLCJxdWVzdGlvbiI6IkNhbiB3YWxsZXQgSUQgYmUgdHJhY2VkPyIsImxrIjoiR2hkallXNGdkMkZzYkdWMElHbGtJR0psSUhSeVlXTmxaQSIsImJzIjoiYy1OeTRaSnpUc3hUU0ZSSUxxb3NLTWxYS0VfTXlVa3RVVWhLVlNncFNreE9UYkdYMkpwaUpDOGxtNHhQRVZjT2x4SElsTXI4VW9XMHpMd1VoZnpTRW9YeWpIeUZfUEs4WWd4dGlTa3BSYW5GeGZZU2ZVeEd4bEtHeWFScTVBcmhVZ1BaNXFtUWs1LWZyVkJhZ051R1hjbEc2bEtxSUJzeUNTbm1zdUNTQUprS0ZmVjBRUTZEaFk1R2tsTGl5UWpwekJTRXRBQWpBQSIsImlkIjoiZmNfUWtPRGFMYndCc18tcHRRUDY2Q3drQVFfMSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "To trace a cryptocurrency wallet address, you can use blockchain explorers or dedicated crypto analytics tools. These tools allow you to view transaction history, balances, and other information associated with a specific address. While you can see transactions, blockchain addresses are pseudonymous, not anonymous, meaning real-world identities are not directly linked.",
+        "reference_indexes": [
+          0,
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Steps to Trace a Crypto Wallet Address:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "1. Identify the cryptocurrency and its blockchain:",
+            "snippet": "Different cryptocurrencies operate on different blockchains (e.g., Bitcoin on the Bitcoin blockchain, Ethereum on the Ethereum blockchain).",
+            "reference_indexes": [
+              3,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "title": "2. Choose a Blockchain Explorer:",
+            "snippet": "Select a blockchain explorer that supports the specific cryptocurrency you're interested in. Popular options include Blockchain.com, Etherscan.io, and Solscan.io.",
+            "reference_indexes": [
+              3,
+              7
+            ]
+          },
+          {
+            "title": "3. Enter the Wallet Address:",
+            "snippet": "Locate the search bar on the blockchain explorer and paste the crypto wallet address you want to investigate.",
+            "reference_indexes": [
+              3,
+              4
+            ]
+          },
+          {
+            "title": "4. Analyze the Results:",
+            "snippet": "The explorer will display all the transactions associated with that address, including the transaction amounts, dates, and status.",
+            "reference_indexes": [
+              4
+            ]
+          },
+          {
+            "title": "5. Consider using dedicated crypto analytics tools:",
+            "snippet": "Tools like Zerion can provide a more user-friendly interface for tracking multiple wallets across various blockchains.",
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Important Considerations:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Pseudonymity, not anonymity:",
+            "snippet": "While you can see transaction history, blockchain addresses are linked to pseudonyms (alphanumeric strings), not real-world identities.",
+            "reference_indexes": [
+              5
+            ]
+          },
+          {
+            "title": "KYC/AML compliance:",
+            "snippet": "Cryptocurrency exchanges often comply with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations, which may involve collecting user data and wallet information.",
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "title": "Public information:",
+            "snippet": "Blockchain explorers only display publicly available information on the blockchain.",
+            "reference_indexes": [
+              5
+            ]
+          },
+          {
+            "title": "Investigative tools:",
+            "snippet": "For more in-depth investigations, you might need to consult with specialists in cryptocurrency forensics or blockchain analysis, according to Nexia SAB&T.",
+            "reference_indexes": [
+              2,
+              6
+            ]
+          }
+        ]
+      }
+    ],
+    "thumbnail": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/873bb73d441420e815c3d0981d4459ea6a11b0b0c6a77461.jpeg",
+    "references": [
+      {
+        "title": "Best Bitcoin & Crypto Wallet Tracker Tools - Ledger",
+        "link": "https://www.ledger.com/academy/topics/crypto/best-bitcoin-crypto-wallet-tracker-tools#:~:text=Use%20a%20Tool%20for%20Tracking,histories%20associated%20with%20that%20wallet.",
+        "snippet": "Mar 8, 2024 — Use a Tool for Tracking Bitcoin Wallets. Most individuals rely on blockchain explorers or specialized crypto analytics ...",
+        "source": "Ledger",
+        "index": 0
+      },
+      {
+        "title": "Crypto Wallet Tracker & Portfolio Tracking - Zerion",
+        "link": "https://zerion.io/crypto-wallet-tracker#:~:text=Is%20there%20a%20way%20to,input%20or%20extra%20effort%20needed.",
+        "snippet": "Is there a way to track a crypto wallet? Yes, Zerion makes it easy to track any crypto wallet across 40+ blockchains. Simply conne...",
+        "source": "Zerion",
+        "index": 1
+      },
+      {
+        "title": "How to Track Crypto Wallet Address | by AML Crypto - Medium",
+        "link": "https://medium.com/@AMLCrypto/how-to-track-crypto-wallet-address-11d6b496b293#:~:text=Cryptocurrency%20exchanges%20play%20a%20key,blockchain%2C%20and%20track%20their%20activity.",
+        "snippet": "Sep 25, 2024 — Cryptocurrency exchanges play a key role in how to track bitcoin wallet address and transactions, as they are required...",
+        "source": "Medium · AML Crypto",
+        "index": 2
+      },
+      {
+        "title": "Tracing Cryptocurrency Transactions using Blockchain Explorers",
+        "link": "https://osintia.com/tracing-cryptocurrency-transactions-using-blockchain-explorers/#:~:text=4.%20Step%2Dby%2DStep%20Guide%20to%20Tracing%20Transactions%20Step,or%20wallet%20address%20into%20the%20search%20bar.",
+        "snippet": "4. Step-by-Step Guide to Tracing Transactions Step 1: Select a Blockchain Explorer Choose an explorer that supports the blockchain...",
+        "source": "OSINTIA",
+        "index": 3
+      },
+      {
+        "title": "Bitcoin Address Lookup: How to Track Bitcoin Transactions Easily",
+        "link": "https://www.rockitcoin.com/blog/bitcoin-address-lookup/",
+        "snippet": "Dec 3, 2024 — Here's how you can perform a Bitcoin address lookup easily using a blockchain explorer. * Access a Blockchain Explorer...",
+        "source": "RockItCoin",
+        "index": 4
+      },
+      {
+        "title": "Can My Bitcoin Activity be Traced?",
+        "link": "https://coinflip.tech/blog/is-bitcoin-traceable#:~:text=You%20can%20go%20on%20a%20blockchain%20explorer,This%20makes%20bitcoin%20pseudonymous%20rather%20than%20anonymous.",
+        "snippet": "Aug 13, 2024 — You can go on a blockchain explorer right now, type in your wallet's public address, and see every transaction you hav...",
+        "source": "coinflip.tech",
+        "index": 5
+      },
+      {
+        "title": "How to Find Lost Bitcoin Wallet Address",
+        "link": "https://www.bitget.com/wiki/how-to-find-lost-bitcoin-wallet-address",
+        "snippet": "Apr 26, 2025 — Steps to Locate a Lost Bitcoin Wallet Address 1. Search Through Old Devices and Backups Check Old Devices 2. Utilize W...",
+        "source": "Bitget",
+        "index": 6
+      },
+      {
+        "title": "What is a Crypto Wallet Address & How to Use It? - 101 Crypto",
+        "link": "https://crypto.101blockchains.com/crypto-wallet-address/#:~:text=You%20can%20use%20tools%20such%20as%20blockchain,and%20BitRef%20to%20verify%20crypto%20wallet%20addresses.",
+        "snippet": "Jul 8, 2025 — You can use tools such as blockchain explorers for individual protocols to check wallet addresses. Some of the most pop...",
+        "source": "101 Blockchains",
+        "index": 7
+      },
+      {
+        "title": "Are Bitcoin Transfers Traceable?",
+        "link": "https://www.sdm.co/blog/are-bitcoin-transfers-traceable#:~:text=The%20truth%20is%20that%20Bitcoin%2C%20like%20other,enforcement%20authorities%20can%20refer%20to%20when%20needed.",
+        "snippet": "The truth is that Bitcoin, like other cryptocurrencies, is built on the blockchain, which is a public ledger. Therefore, Bitcoin a...",
+        "source": "Secure Digital Markets",
+        "index": 8
+      },
+      {
+        "title": "What is a transaction hash/hash ID?",
+        "link": "https://help.coinbase.com/en-au/coinbase/getting-started/crypto-education/what-is-a-transaction-hash-hash-id#:~:text=For%20example%2C%20BTC%20operates%20on%20the%20bitcoin,)%20block%20explorer%20to%20view%20those%20transactions.",
+        "snippet": "For example, BTC operates on the bitcoin blockchain so you have to use a bitcoin block explorer to view those transactions. ETH (",
+        "source": "Coinbase",
+        "index": 9
+      },
+      {
+        "title": "What is a transaction hash/hash ID?",
+        "link": "https://help.coinbase.com/en-gb/coinbase/getting-started/crypto-education/what-is-a-transaction-hash-hash-id#:~:text=Each%20cryptocurrency%20runs%20on%20a%20specific%20network%2C,and%20an%20Ethereum%20block%20explorer%20for%20ETH.",
+        "snippet": "Each cryptocurrency runs on a specific network, known as a blockchain. When looking up a transaction hash, use the correct block e...",
+        "source": "Coinbase",
+        "index": 10
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Blockchain Explorer - Bitcoin Tracker & More | Blockchain.com",
+      "link": "https://www.blockchain.com/explorer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blockchain.com/explorer&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECCgQAQ",
+      "displayed_link": "https://www.blockchain.com › explorer",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789e22648ddd5b9bd7bc9e842cb98bfe3fb.png",
+      "snippet": "The most popular and trusted Bitcoin block explorer and crypto transaction search engine.",
+      "snippet_highlighted_words": [
+        "Bitcoin block explorer"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "BTC Mempool",
+            "link": "https://www.blockchain.com/btc/unconfirmed-transactions"
+          },
+          {
+            "title": "Total Hash Rate (TH/s)",
+            "link": "https://www.blockchain.com/charts/hash-rate"
+          },
+          {
+            "title": "Confirmed Transactions Per Day",
+            "link": "https://www.blockchain.com/charts/n-transactions"
+          },
+          {
+            "title": "Bitcoin",
+            "link": "https://www.blockchain.com/prices/btc"
+          }
+        ]
+      },
+      "source": "Blockchain.com"
+    },
+    {
+      "position": 2,
+      "title": "Blockonomics: Bitcoin Address | Wallet Lookup",
+      "link": "https://www.blockonomics.co/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blockonomics.co/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECBcQAQ",
+      "displayed_link": "https://www.blockonomics.co",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78994c4a97e0565b3cdbe4f0ef01eefeacd.png",
+      "snippet": "Check Bitcoin addresses, lookup transactions. Monitor wallet balances using xpub with our block explorer. No signup required, free to use!",
+      "snippet_highlighted_words": [
+        "Check Bitcoin addresses"
+      ],
+      "source": "Blockonomics"
+    },
+    {
+      "position": 3,
+      "title": "Check Crypto Address - Validate Wallet",
+      "link": "https://checkcryptoaddress.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://checkcryptoaddress.com/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCK0CEAE",
+      "displayed_link": "https://checkcryptoaddress.com",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789d68df45d8edf9f271745ed289a0781a7.png",
+      "snippet": "To validate a cryptocurrency wallet address, there are several online tools and services available, such as CheckCryptoAddress.com.",
+      "snippet_highlighted_words": [
+        "there are several online tools and services available"
+      ],
+      "source": "Check Crypto Address"
+    },
+    {
+      "position": 4,
+      "title": "Bitcoin address lookup - wallet check | Track Bitcoin balance",
+      "link": "https://www.cointracker.io/wallet/bitcoin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cointracker.io/wallet/bitcoin&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJQCEAE",
+      "displayed_link": "https://www.cointracker.io › wallet › bitcoin",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78997d7c6ddc179020ce9beb8a63572bd89.png",
+      "snippet": "Performing a Bitcoin address lookup allows you to verify the funds in any of your crypto wallets. CoinTracker's wallet balance checkers are free to use.",
+      "snippet_highlighted_words": [
+        "Performing a Bitcoin address lookup"
+      ],
+      "source": "CoinTracker"
+    },
+    {
+      "position": 5,
+      "title": "Best Bitcoin & Crypto Wallet Tracker Tools",
+      "link": "https://www.ledger.com/academy/topics/crypto/best-bitcoin-crypto-wallet-tracker-tools",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ledger.com/academy/topics/crypto/best-bitcoin-crypto-wallet-tracker-tools&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECEcQAQ",
+      "displayed_link": "https://www.ledger.com › academy › topics › best-bitcoi...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789161b8069df97bea98b531c80f8a8f431.png",
+      "date": "Mar 8, 2024",
+      "snippet": "One straightforward method is using a btc address lookup, which allows you to quickly trace and verify transactions across the blockchain. But ...",
+      "snippet_highlighted_words": [
+        "using a btc address lookup"
+      ],
+      "source": "Ledger"
+    },
+    {
+      "position": 6,
+      "title": "Understand How To Trace A Scammers Crypto Wallet",
+      "link": "https://www.digitalforensics.com/blog/software/crypto-wallet-tracing/?srsltid=AfmBOooLmfsOoCvTxAT466lSC9hgaaTmWfyb064sNQcDAmWmFIiyJFid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.digitalforensics.com/blog/software/crypto-wallet-tracing/%3Fsrsltid%3DAfmBOooLmfsOoCvTxAT466lSC9hgaaTmWfyb064sNQcDAmWmFIiyJFid&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCKUBEAE",
+      "displayed_link": "https://www.digitalforensics.com › blog › software › cr...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7893301dd08227c816a893014010fc47b8d.png",
+      "date": "May 1, 2025",
+      "snippet": "Crypto wallet tracing refers to the process of monitoring, analyzing, and tracing the transaction history of a blockchain-based wallet.",
+      "snippet_highlighted_words": [
+        "Crypto wallet tracing",
+        "tracing",
+        "blockchain",
+        "wallet"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What is Crypto Wallet Tracing?",
+            "link": "https://www.digitalforensics.com/blog/software/crypto-wallet-tracing/#What_is_Crypto_Wallet_Tracing"
+          },
+          {
+            "title": "How Crypto Wallet Tracing...",
+            "link": "https://www.digitalforensics.com/blog/software/crypto-wallet-tracing/#How_Crypto_Wallet_Tracing_Helps_Scam_Victims"
+          },
+          {
+            "title": "Romance scams",
+            "link": "https://www.digitalforensics.com/blog/software/crypto-wallet-tracing/#Romance_scams"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 1387
+          },
+          "extensions": [
+            "5.0(1,387)"
+          ]
+        }
+      },
+      "source": "Digital Forensics Corp"
+    },
+    {
+      "position": 7,
+      "title": "How to Track Crypto Wallets: A Complete Guide",
+      "link": "https://zerion.io/blog/how-to-track-crypto-wallets-a-complete-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zerion.io/blog/how-to-track-crypto-wallets-a-complete-guide/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCPYBEAE",
+      "displayed_link": "https://zerion.io › blog › how-to-track-crypto-wallets-a-...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789a7547deeacd309a8584cd3083e038c98.png",
+      "date": "Feb 20, 2025",
+      "snippet": "1. Manual Tracking via Blockchain Explorers. Blockchain explorers like Etherscan, BscScan, and Polygonscan let you manually enter a wallet ...",
+      "snippet_highlighted_words": [
+        "Tracking",
+        "Blockchain",
+        "Blockchain",
+        "wallet"
+      ],
+      "source": "Zerion"
+    },
+    {
+      "position": 8,
+      "title": "How to Track Crypto Wallet Address | by AML Crypto",
+      "link": "https://medium.com/@AMLCrypto/how-to-track-crypto-wallet-address-11d6b496b293",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40AMLCrypto/how-to-track-crypto-wallet-address-11d6b496b293&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCLkCEAE",
+      "displayed_link": "10 months ago",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789d68f1182a8e498118212266833ee7ab1.png",
+      "snippet": "In this article, we will analyze in detail what a cryptocurrency wallet is, whether it can be tracked, and how our tools will help you solve this problem.",
+      "snippet_highlighted_words": [
+        "whether it can be tracked"
+      ],
+      "source": "Medium · AML Crypto"
+    },
+    {
+      "position": 9,
+      "title": "Is it possible to trace the owner of a cryptocurrency wallet ...",
+      "link": "https://www.quora.com/Is-it-possible-to-trace-the-owner-of-a-cryptocurrency-wallet-address-back-to-an-individual-or-organization-If-so-how-can-it-be-done",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Is-it-possible-to-trace-the-owner-of-a-cryptocurrency-wallet-address-back-to-an-individual-or-organization-If-so-how-can-it-be-done&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECEoQAQ",
+      "displayed_link": "5 answers · 1 year ago",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789b8622941d4d35a73976698a9da4de46f.png",
+      "snippet": "A Bitcoin wallet owner can be tracked if their address is linked to their identity through a KYC exchange or public activity. Law enforcement ...",
+      "snippet_highlighted_words": [
+        "Bitcoin wallet",
+        "address"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 10,
+      "title": "Crypto tracing | TRM Glossary",
+      "link": "https://www.trmlabs.com/glossary/crypto-tracing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.trmlabs.com/glossary/crypto-tracing&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECHcQAQ",
+      "displayed_link": "https://www.trmlabs.com › glossary › crypto-tracing",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7894b7dd6d79c9956bca2050f3b5deca6f8.png",
+      "snippet": "Crypto tracing, also known as blockchain tracing, is the process of tracking and analyzing cryptocurrency transactions to trace the movement of funds across ...",
+      "snippet_highlighted_words": [
+        "is the process of tracking and analyzing cryptocurrency transactions"
+      ],
+      "source": "TRM Labs"
+    },
+    {
+      "position": 11,
+      "title": "Crypto Wallet Tracker & Portfolio Tracking",
+      "link": "https://zerion.io/crypto-wallet-tracker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zerion.io/crypto-wallet-tracker&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCKsBEAE",
+      "displayed_link": "https://zerion.io › crypto-wallet-tracker",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789deddefc478a7b818624462fb7f429a72.png",
+      "snippet": "With Zerion, you can track multiple EVMwallets by simply entering their addresses in the search field. After that, you can save this wallet address into your ...",
+      "snippet_highlighted_words": [
+        "track multiple EVMwallets by simply entering their addresses in the search field"
+      ],
+      "source": "Zerion"
+    },
+    {
+      "position": 12,
+      "title": "How to Track Crypto Wallet Address Activities: A Beginner's ...",
+      "link": "https://blog.millionero.com/blog/how-to-track-crypto-wallet-address-activities-a-beginners-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.millionero.com/blog/how-to-track-crypto-wallet-address-activities-a-beginners-guide/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCNsBEAE",
+      "displayed_link": "https://blog.millionero.com › blog › how-to-track-crypt...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789996706553bba84351a52c980967c9c34.png",
+      "date": "May 22, 2024",
+      "snippet": "– Go to the explorer: Open your preferred blockchain explorer in your web browser. – Enter the address: Find the search bar on the explorer's ...",
+      "snippet_highlighted_words": [
+        "Enter the address"
+      ],
+      "source": "Millionero"
+    },
+    {
+      "position": 13,
+      "title": "How to Trace Bitcoin Address Owners",
+      "link": "https://coinpaper.com/3436/how-to-trace-bitcoin-address-owners-the-path-to-identity-tracking",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinpaper.com/3436/how-to-trace-bitcoin-address-owners-the-path-to-identity-tracking&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCPUBEAE",
+      "displayed_link": "https://coinpaper.com › how-to-trace-bitcoin-address-ow...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789f036df90bf741cac866a30c6b18b4879.png",
+      "date": "Feb 23, 2024",
+      "snippet": "To monitor the activity of a Bitcoin address, one can use a blockchain explorer to check BTC address owner balance and past transactions. Some ...",
+      "snippet_highlighted_words": [
+        "use a blockchain explorer"
+      ],
+      "source": "Coinpaper"
+    },
+    {
+      "position": 14,
+      "title": "Bitcoin Address Lookup: How to Track Bitcoin Transactions ...",
+      "link": "https://www.rockitcoin.com/blog/bitcoin-address-lookup/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rockitcoin.com/blog/bitcoin-address-lookup/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJACEAE",
+      "displayed_link": "https://www.rockitcoin.com › blog › bitcoin-address-lo...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789a47cb6fa87ce3612c4a5eaca5aee2d03.png",
+      "date": "Dec 3, 2024",
+      "snippet": "Step-by-Step Guide to Look Up a Bitcoin Address · 1. Access a Blockchain Explorer · 2. Enter the Bitcoin Address · 3. View the Results.",
+      "snippet_highlighted_words": [
+        "1. Access a Blockchain Explorer"
+      ],
+      "source": "RockItCoin"
+    },
+    {
+      "position": 15,
+      "title": "How to Track Bitcoin Transactions | How to Find Lost Bitcoin ...",
+      "link": "https://www.youtube.com/watch?v=I_VO4b3eq7w&pp=0gcJCfwAo7VqN5tD",
+      "displayed_link": "1.7K+ views · 6 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDM_u9r0CohI1rytayQDGpe4x8DbiIedCmCm1d9toKabWZ&s",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789e26a600a73d5bddc3066e06d371f697b.png",
+      "snippet": "How to Trace Bitcoin Transactions (and avoid yours being traced) ... Why Does My Bitcoin Wallet Address Keep Changing? Bitcoin Wallets ...",
+      "duration": "10:10",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSS4xrQewEQx-036-N2bm1o4ox0T4d80petFQ",
+      "source": "YouTube · Ryan Matta"
+    },
+    {
+      "position": 16,
+      "title": "Bitcoin Tracking for Law Enforcement: A Guide to Crypto ...",
+      "link": "https://www.acfcs.org/acfcs-contributor-report-bitcoin-tracking-for-law-enforcement",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.acfcs.org/acfcs-contributor-report-bitcoin-tracking-for-law-enforcement&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCL0CEAE",
+      "displayed_link": "https://www.acfcs.org › acfcs-contributor-report-bitcoin-t...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7893e73d8457f9384ce9c2e34e87344f36b.png",
+      "date": "Jul 22, 2024",
+      "snippet": "In this article, we'll cover the basics of how Bitcoin transactions work, explore manual tracking techniques, and highlight tools that can simplify your ...",
+      "snippet_highlighted_words": [
+        "manual tracking techniques"
+      ],
+      "source": "Association of Certified Financial Crime Specialists"
+    },
+    {
+      "position": 17,
+      "title": "Transaction Check",
+      "link": "https://bitcoinmat.org/Transaction_Check",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitcoinmat.org/Transaction_Check&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECEEQAQ",
+      "displayed_link": "https://bitcoinmat.org › Transaction_Check",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789c692775522ca884669742d8b0200afb6.png",
+      "snippet": "To view the contents of all transactions for a specific crypto address, select the WALLET option and enter the crypto wallet address in the search field. WALLET ...",
+      "snippet_highlighted_words": [
+        "select the WALLET option and enter the crypto wallet address in the search field"
+      ],
+      "source": "BITCOINMAT"
+    },
+    {
+      "position": 18,
+      "title": "Tracing Cryptocurrency Linked to Illegal Activities",
+      "link": "https://www.nexia-sabt.co.za/tracing-cryptocurrency-linked-to-illegal-activities-a-practical-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nexia-sabt.co.za/tracing-cryptocurrency-linked-to-illegal-activities-a-practical-guide/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECGMQAQ",
+      "displayed_link": "https://www.nexia-sabt.co.za › tracing-cryptocurrency-l...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78982a856b0fac40493e60b5416fe373feb.png",
+      "date": "Jan 17, 2025",
+      "snippet": "Wallet Address: The first step is to secure the wallet address provided to the victim by the offender. This address is crucial for tracing any ...",
+      "snippet_highlighted_words": [
+        "Wallet Address"
+      ],
+      "source": "Nexia SAB&T"
+    },
+    {
+      "position": 19,
+      "title": "Can cryptocurrency be traced? (2025)",
+      "link": "https://coinledger.io/learn/can-cryptocurrency-be-traced",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinledger.io/learn/can-cryptocurrency-be-traced&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCIcBEAE",
+      "displayed_link": "https://coinledger.io › learn › can-cryptocurrency-be-tr...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7895b1933566b7e384aa1303bf1e56d5ea6.png",
+      "snippet": "IP tracking: Wallet addresses can be tracked from IP addresses from app logins or node activity. Off-chain metadata: Emails, leaked wallet addresses, or social ...",
+      "snippet_highlighted_words": [
+        "Wallet addresses can be tracked from IP addresses"
+      ],
+      "source": "CoinLedger"
+    },
+    {
+      "position": 20,
+      "title": "Is there a way to locate the IP address of a wallet?",
+      "link": "https://forum.cardano.org/t/is-there-a-way-to-locate-the-ip-address-of-a-wallet/125163",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.cardano.org/t/is-there-a-way-to-locate-the-ip-address-of-a-wallet/125163&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJIBEAE",
+      "displayed_link": "https://forum.cardano.org › English › Report a Scam",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7890eaf6f32b2f53542ee56fda8d70a9a34.png",
+      "date": "Dec 13, 2023",
+      "snippet": "The only way to trace the hacker is to get the IP address from which he accessed the wallet. However, I know that the wallet does not collect IP addresses.",
+      "snippet_highlighted_words": [
+        "get the IP address from which he accessed the wallet"
+      ],
+      "source": "Cardano Forum"
+    },
+    {
+      "position": 21,
+      "title": "How to Track Crypto Wallets and Why It Matters",
+      "link": "https://www.coingecko.com/learn/crypto-wallet-tracking",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coingecko.com/learn/crypto-wallet-tracking&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCLABEAE",
+      "displayed_link": "https://www.coingecko.com › crypto-wallet-tracking",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78967c07e6d4186134dcaf494bcc8199a72.png",
+      "date": "Sep 11, 2023",
+      "snippet": "Wallet tracking can be done using blockchain explorers or special applications to screen or stalk the selected wallet. Dedicated wallet trackers ...",
+      "snippet_highlighted_words": [
+        "Wallet tracking can be done using blockchain explorers or special applications"
+      ],
+      "source": "CoinGecko"
+    },
+    {
+      "position": 22,
+      "title": "BTCScan: Bitcoin Blockchain Explorer",
+      "link": "https://btcscan.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://btcscan.org/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMEBEAE",
+      "displayed_link": "https://btcscan.org",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7892f919dc646a4b2003d54b7bfb4f29113.png",
+      "snippet": "Real-time blockchain data. With the BTC block explorer, you can search blocks, addresses, and transactions on the Bitcoin blockchain.",
+      "snippet_highlighted_words": [
+        "search blocks, addresses, and transactions"
+      ],
+      "source": "btcscan.org"
+    },
+    {
+      "position": 23,
+      "title": "How to Trace a Cryptocurrency Wallet Address ...",
+      "link": "https://www.youtube.com/watch?v=fKN8eJ4cUSc",
+      "displayed_link": "260+ views · 5 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTitA_O1lsMDTsfQ3U2Ma6dNHpfaworeVBEDpahmwQYQWMb&s",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7894f5a762a2180def5ea2dcaad904dea03.png",
+      "snippet": "Tracing a cryptocurrency wallet address involves several steps and tools so let's break it down.",
+      "duration": "3:42",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQvyqqi6cTNF_ZY_NVTL5fE6Y4IU8q62GICYA",
+      "source": "YouTube · CryptoBasics360"
+    },
+    {
+      "position": 24,
+      "title": "How and where to view crypto transaction histories",
+      "link": "https://cointelegraph.com/news/how-and-where-to-view-crypto-transaction-histories",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cointelegraph.com/news/how-and-where-to-view-crypto-transaction-histories&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCN8BEAE",
+      "displayed_link": "https://cointelegraph.com › news › how-and-where-to-v...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7899152c905cebec68f2c6247ad28a1f80a.png",
+      "date": "Dec 10, 2024",
+      "snippet": "Visit the explorer. Enter a wallet address, TxID or block hash into the search field. Review the transaction details or export them if needed.",
+      "snippet_highlighted_words": [
+        "Enter a wallet address, TxID or block hash into the search field"
+      ],
+      "source": "Cointelegraph"
+    },
+    {
+      "position": 25,
+      "title": "Is it possible to trace a Bitcoin wallet? If so, what methods ...",
+      "link": "https://www.quora.com/Is-it-possible-to-trace-a-Bitcoin-wallet-If-so-what-methods-do-people-use-to-hide-their-transactions-from-being-tracked",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Is-it-possible-to-trace-a-Bitcoin-wallet-If-so-what-methods-do-people-use-to-hide-their-transactions-from-being-tracked&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCPsBEAE",
+      "displayed_link": "3 answers · 8 months ago",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78904cfacbd3943ce3ec182dbe7de258dca.png",
+      "snippet": "Yes, wallets are traceable on the public blockchain by transaction history. People hide their activity using privacy tools like mixers (e.g., ...",
+      "snippet_highlighted_words": [
+        "wallets are traceable on the public blockchain by transaction history"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 26,
+      "title": "How to Trace Bitcoin Address Owner?",
+      "link": "https://coinpaper.com/1565/how-to-trace-bitcoin-address-owner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinpaper.com/1565/how-to-trace-bitcoin-address-owner&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCPoBEAE",
+      "displayed_link": "https://coinpaper.com › how-to-trace-bitcoin-address-ow...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7895f05522bc41768e6fe48116e6a646fe8.png",
+      "date": "Dec 22, 2024",
+      "snippet": "By using a blockchain explorer, you can input the address and quickly retrieve all relevant details about that wallet.",
+      "snippet_highlighted_words": [
+        "By using a blockchain explorer, you can input the address"
+      ],
+      "source": "Coinpaper"
+    },
+    {
+      "position": 27,
+      "title": "Crypto Wallet Addresses: What They Are and How to ...",
+      "link": "https://www.bitpay.com/blog/crypto-wallet-addresses",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bitpay.com/blog/crypto-wallet-addresses&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJMCEAE",
+      "displayed_link": "https://www.bitpay.com › blog › crypto-wallet-addresses",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7891dfd594db27c262fe44fcbe735f75653.jpeg",
+      "date": "Oct 21, 2024",
+      "snippet": "A few taps in your wallet app's settings menu should reveal your address when needed. Many even let you generate a QR code for easier sharing.",
+      "snippet_highlighted_words": [
+        "wallet",
+        "address"
+      ],
+      "missing": [
+        "trace"
+      ],
+      "must_include": {
+        "word": "trace",
+        "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=how+to+%22trace%22+crypto+wallet+address&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQ5t4CegUIoAIQAQ"
+      },
+      "source": "BitPay"
+    },
+    {
+      "position": 28,
+      "title": "Crypto Portfolio Tracker Trusted by 1 Million People ...",
+      "link": "https://coinstats.app/portfolio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinstats.app/portfolio&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJYCEAE",
+      "displayed_link": "https://coinstats.app › portfolio",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789295deb1d8da98e15eaa68497bed42761.png",
+      "snippet": "You can connect your wallet: By inputting your wallet address. Go to the Portfolio Tracker page, click Connect Wallet, search for the wallet you want to connect ...",
+      "snippet_highlighted_words": [
+        "Go to the Portfolio Tracker page, click Connect Wallet"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 9367
+          },
+          "extensions": [
+            "4.8(9,367)"
+          ]
+        }
+      },
+      "source": "CoinStats"
+    },
+    {
+      "position": 29,
+      "title": "Cryptocurrency - Internet Crime Complaint Center (IC3)",
+      "link": "https://www.ic3.gov/CrimeInfo/Cryptocurrency",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ic3.gov/CrimeInfo/Cryptocurrency&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCK4CEAE",
+      "displayed_link": "https://www.ic3.gov › CrimeInfo › Cryptocurrency",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7897f5e9c6160b7ef0a7c816bf74c15831b.png",
+      "snippet": "Wallet Address: Wallet addresses vary in length depending on the cryptocurrency: Bitcoin addresses are usually 26-63 characters long and can start with ...",
+      "snippet_highlighted_words": [
+        "Wallet addresses vary in length depending on the cryptocurrency"
+      ],
+      "source": "Internet Crime Complaint Center (IC3) (.gov)"
+    },
+    {
+      "position": 30,
+      "title": "Tokenview: Blockchain Explorer - Block Explorer - API for ...",
+      "link": "https://tokenview.io/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tokenview.io/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCLQCEAE",
+      "displayed_link": "https://tokenview.io",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789f785221d1e94bd33867706b62a9ba1de.png",
+      "snippet": "The tokenview blockchain explorer is the blockchain search engine enables to lookup transaction data, wallet address, blockchain news and blockchain api service",
+      "snippet_highlighted_words": [
+        "lookup transaction data, wallet address"
+      ],
+      "source": "Tokenview"
+    },
+    {
+      "position": 31,
+      "title": "Your crypto addresses",
+      "link": "https://help.coinbase.com/en/coinbase/getting-started/crypto-education/where-is-my-crypto-address",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.coinbase.com/en/coinbase/getting-started/crypto-education/where-is-my-crypto-address&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMoCEAE",
+      "displayed_link": "https://help.coinbase.com › where-is-my-crypto-address",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789ef07d121dd3ab5abfc23eaa073424506.png",
+      "snippet": "You can find your unique crypto wallet addresses on web or the Coinbase mobile app. You can also use your unique wallet addresses to find your transaction ...",
+      "snippet_highlighted_words": [
+        "You can find your unique crypto wallet addresses on web or the Coinbase mobile app"
+      ],
+      "source": "Coinbase Help"
+    },
+    {
+      "position": 32,
+      "title": "How do I search for a cryptocurrency transaction",
+      "link": "https://support.bitcoin.com/en/articles/3542910-how-do-i-search-for-a-cryptocurrency-transaction",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.bitcoin.com/en/articles/3542910-how-do-i-search-for-a-cryptocurrency-transaction&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMsCEAE",
+      "displayed_link": "https://support.bitcoin.com › articles › 3542910-how-d...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7897326b10a64fcabb4521218e150f19d13.png",
+      "snippet": "From the Bitcoin.com Wallet app's home screen, tap on the \"Wallets\" icon. · Choose the wallet containing the transaction you're looking for (e.g., “My BTC Wallet ...",
+      "snippet_highlighted_words": [
+        "Choose the wallet containing the transaction you're looking for"
+      ],
+      "source": "Bitcoin.com"
+    },
+    {
+      "position": 33,
+      "title": "How do I trace a bitcoin transaction to find its location in ...",
+      "link": "https://bitcoin.stackexchange.com/questions/29457/how-do-i-trace-a-bitcoin-transaction-to-find-its-location-in-the-world",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitcoin.stackexchange.com/questions/29457/how-do-i-trace-a-bitcoin-transaction-to-find-its-location-in-the-world&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECEkQAQ",
+      "displayed_link": "https://bitcoin.stackexchange.com › questions › how-do...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789e10101ee1377c76dd2762187b96a014f.png",
+      "date": "Jul 14, 2014",
+      "snippet": "Is it possible to use a program, or manual-method, to trace/track a bitcoin transaction to find the recipients IP address or which area in in world they are in?",
+      "snippet_highlighted_words": [
+        "trace",
+        "bitcoin",
+        "address"
+      ],
+      "source": "Bitcoin Stack Exchange"
+    },
+    {
+      "position": 34,
+      "title": "Best online tool for tracing wallets linked to a spend?",
+      "link": "https://www.reddit.com/r/Bitcoin/comments/1b61ef3/best_online_tool_for_tracing_wallets_linked_to_a/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Bitcoin/comments/1b61ef3/best_online_tool_for_tracing_wallets_linked_to_a/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECGEQAQ",
+      "displayed_link": "3 comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7891cd24c1884f5246d15f7c56b70f74ef2.png",
+      "snippet": "We're looking for online tools to trace where it is in hopes of seeing it reach and exchange. The last hope is that we can see it reach an exchange in time to ...",
+      "snippet_highlighted_words": [
+        "online tools to trace where it is"
+      ],
+      "source": "Reddit · r/Bitcoin"
+    },
+    {
+      "position": 35,
+      "title": "Track & Monitor Base Blockchain Wallets",
+      "link": "https://coinstats.app/base/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinstats.app/base/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECF8QAQ",
+      "displayed_link": "https://coinstats.app › base",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789d004ad8c2373fd33a9d4a498668fa888.png",
+      "snippet": "Go to the Portfolio Tracker page, click Connect Wallet, search for the wallet you want to connect, input the wallet address, and click Connect. That's it! By ...",
+      "snippet_highlighted_words": [
+        "Go to the Portfolio Tracker page, click Connect Wallet"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 101090
+          },
+          "extensions": [
+            "4.5(101,090)"
+          ]
+        }
+      },
+      "source": "CoinStats"
+    },
+    {
+      "position": 36,
+      "title": "How to Track Ethereum Wallets and Crypto Addresses",
+      "link": "https://www.ledger.com/academy/topics/crypto/ethereum-wallet-tracker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ledger.com/academy/topics/crypto/ethereum-wallet-tracker&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECHgQAQ",
+      "displayed_link": "https://www.ledger.com › crypto › ethereum-wallet-tracker",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789066bbcc919475acdf087c2e1db21cdd0.png",
+      "date": "Jun 28, 2024",
+      "snippet": "To track Ethereum wallets you'll need a tracker tool such as blockchain explorer or data analytics platform.",
+      "snippet_highlighted_words": [
+        "tracker tool"
+      ],
+      "source": "Ledger"
+    },
+    {
+      "position": 37,
+      "title": "Protect your privacy",
+      "link": "https://bitcoin.org/en/protect-your-privacy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitcoin.org/en/protect-your-privacy&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCIgBEAE",
+      "displayed_link": "https://bitcoin.org › protect-your-privacy",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7891c5c5ef33cc2d2037e763fa2c2213eca.png",
+      "snippet": "Because the Bitcoin network is a peer-to-peer network, it is possible to listen for transactions' relays and log their IP addresses. Full node clients relay all ...",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "addresses"
+      ],
+      "source": "Bitcoin.org"
+    },
+    {
+      "position": 38,
+      "title": "How to find my crypto wallet address",
+      "link": "https://www.youtube.com/watch?v=A4pilkTxZr8",
+      "displayed_link": "7.8K+ views · 6 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJsTQ3_7ZMqbtkDnR6uYrZ2jM59Za_8Uqif0tSFgVFQ8w6&s",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789e863891018336d7a8d69c67b32bdd82e.png",
+      "snippet": "Let's talk about what a wallet address is and why it's different depending on the blockchain. We'll also share two very important security tips.",
+      "duration": "2:21",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Wallet Address",
+          "link": "https://www.youtube.com/watch?v=A4pilkTxZr8&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6PIidaS1F1fGRLZEQp_oC3zNv0rfWMhshQF12DBJcZw&s"
+        },
+        {
+          "time": "00:58",
+          "title": "Find my wallet address",
+          "link": "https://www.youtube.com/watch?v=A4pilkTxZr8&t=58",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1Cn76VtVuTM08sp6VXoR0C3ysyqf3onH9a5xkJjtOg&s"
+        },
+        {
+          "time": "01:24",
+          "title": "Send crypto wallet address tips",
+          "link": "https://www.youtube.com/watch?v=A4pilkTxZr8&t=84",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgW91K8zWtfzqbax8dl4wTB2XNSCuNc7eHCo8cFrN7pw&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS1_aGMftjdBbiSjew6dRbLa7KSLfSiAwCP2A",
+      "source": "YouTube · Zengo Wallet"
+    },
+    {
+      "position": 39,
+      "title": "BitRef : Check Bitcoin Address Balance (Wallet Lookup)",
+      "link": "https://bitref.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitref.com/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJQBEAE",
+      "displayed_link": "https://bitref.com",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789386fbaceaac26c55373bb4d8e2053309.png",
+      "snippet": "BitRef helps you check the current balance of any Bitcoin address. You can also view any unconfirmed (pending) incoming or outgoing transactions.",
+      "snippet_highlighted_words": [
+        "BitRef helps you check the current balance of any Bitcoin address"
+      ],
+      "source": "BitRef"
+    },
+    {
+      "position": 40,
+      "title": "BlockExplorer: Search",
+      "link": "https://blockexplorer.one/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blockexplorer.one/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCKIBEAE",
+      "displayed_link": "https://blockexplorer.one",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789c9e3dd980356be2428f0d438a28032af.png",
+      "snippet": "Explore Bitcoin, Ethereum, Bitcoin Cash, Litecoin, DogeCoin Dash, Ethereum Classic, Binance, Smart Chain, ZCash, XRP.",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "Ethereum",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "source": "BlockExplorer"
+    },
+    {
+      "position": 41,
+      "title": "MetaSleuth | Crypto Tracking and Investigation Platform",
+      "link": "https://metasleuth.io/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://metasleuth.io/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCKoBEAE",
+      "displayed_link": "https://metasleuth.io",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7891da9362db9e256cbb98ee6b2e1b34bea.png",
+      "snippet": "... Bitcoin. Ethereum ... In-depth investigation and forensic analysis capabilities. Over 300M Address Labels. many address labels mark. Easy Tracking for Everyone ...",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "Ethereum",
+        "Address",
+        "address",
+        "Tracking"
+      ],
+      "source": "MetaSleuth"
+    },
+    {
+      "position": 42,
+      "title": "How To Trace Bitcoin Address From an Exchange",
+      "link": "https://bitkan.com/learn/how-to-trace-bitcoin-address-from-an-exchange-15650",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitkan.com/learn/how-to-trace-bitcoin-address-from-an-exchange-15650&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCKwBEAE",
+      "displayed_link": "https://bitkan.com › learn › how-to-trace-bitcoin-address...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78955d2f06f5718bf39ba1640460352f371.png",
+      "date": "May 30, 2023",
+      "snippet": "A Bitcoin address by itself is not traceable, as there is no identifying information stored directly on the blockchain.",
+      "snippet_highlighted_words": [
+        "Bitcoin address",
+        "blockchain"
+      ],
+      "source": "BitKan.com"
+    },
+    {
+      "position": 43,
+      "title": "Crypto Wallet Screening and Monitoring | Elliptic Lens",
+      "link": "https://www.elliptic.co/platform/lens",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.elliptic.co/platform/lens&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMABEAE",
+      "displayed_link": "https://www.elliptic.co › platform › lens",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7891ca1ddb94173f31b82eaece4d78d86b1.png",
+      "snippet": "Instantly identify whether a crypto address or wallet is controlled by a specific crypto exchange, sanctioned entity, darknet market, or any of 70+ entity ...",
+      "snippet_highlighted_words": [
+        "crypto address",
+        "wallet",
+        "crypto"
+      ],
+      "source": "Elliptic"
+    },
+    {
+      "position": 44,
+      "title": "CoinTracking: The Crypto Tax Calculator & Portfolio Tracker",
+      "link": "https://cointracking.info/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cointracking.info/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMcBEAE",
+      "displayed_link": "https://cointracking.info",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789c16a12c7c23b443bc847a6d9d4b5303c.png",
+      "snippet": "CoinTracking: The Leading Portfolio Tracker & Tax Calculator ✓ Easy tax reports ✓ Simple imports from 300+ exchanges & blockchains ➤ Get now for FREE!",
+      "source": "CoinTracking"
+    },
+    {
+      "position": 45,
+      "title": "Ultimate Guide to Tracking Bitcoin and Crypto Wallets 2024",
+      "link": "https://nowpayments.io/blog/ultimate-guide-to-tracking-bitcoin-and-crypto-wallets-2024",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nowpayments.io/blog/ultimate-guide-to-tracking-bitcoin-and-crypto-wallets-2024&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCNwBEAE",
+      "displayed_link": "https://nowpayments.io › Home › Crypto",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78966b2278b71633c446a432814946fce54.png",
+      "date": "Aug 27, 2024",
+      "snippet": "With tools like a crypto wallet tracker and BTC wallet tracker, you can easily track crypto wallet addresses and monitor your transactions.",
+      "snippet_highlighted_words": [
+        "crypto wallet",
+        "wallet",
+        "crypto wallet addresses"
+      ],
+      "source": "NOWPayments"
+    },
+    {
+      "position": 46,
+      "title": "Bitcoin explorer",
+      "link": "https://bitaps.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitaps.com/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCNoBEAE",
+      "displayed_link": "https://bitaps.com",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789713324ab4063bebbae310fe5bd96e2d4.png",
+      "snippet": "bitaps.com provides Bitcoin explorer web service allowing to track transactions, blocks and address balances. Bitcoin tools, payment processing and open ...",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "address",
+        "Bitcoin"
+      ],
+      "source": "Bitaps"
+    },
+    {
+      "position": 47,
+      "title": "Can hardware wallets be traced back to the owner? : r/Bitcoin",
+      "link": "https://www.reddit.com/r/Bitcoin/comments/11uizwh/can_hardware_wallets_be_traced_back_to_the_owner/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Bitcoin/comments/11uizwh/can_hardware_wallets_be_traced_back_to_the_owner/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCPABEAE",
+      "displayed_link": "10+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789c51f04ddc8d878e5de73abf25e935bd5.png",
+      "snippet": "No. The only thing that they would know is who bought and hardware wallet. But they have no ways of knowing the Bitcoin addresses of those wallets.",
+      "snippet_highlighted_words": [
+        "wallet",
+        "Bitcoin addresses"
+      ],
+      "source": "Reddit · r/Bitcoin"
+    },
+    {
+      "position": 48,
+      "title": "How can I be traced from my bitcoin address?",
+      "link": "https://www.youtube.com/watch?v=12q61zaWOOY",
+      "displayed_link": "57.3K+ views · 5 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJLH9ypjGmT2Fua8cBc4ELbSNoZQ8z_W3E6o7GGY9qBq8&s",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789854a08cde0fe0116fd7388b31d4328db.png",
+      "snippet": "... tracing you Subscribe to #lunoTV- https://www.youtube.com/channel/UCdKv... Watch These Videos Again What is dusting attack in crypto ...",
+      "duration": "2:24",
+      "key_moments": [
+        {
+          "time": "00:25",
+          "title": "Bitcoin transactions are pseudo-anonymous",
+          "link": "https://www.youtube.com/watch?v=12q61zaWOOY&t=25",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tv0a9sxQlyVG0X6m76F2Ft_hl1gFosllSeGzmvLsuA&s"
+        },
+        {
+          "time": "00:35",
+          "title": "Bitcoin addresses",
+          "link": "https://www.youtube.com/watch?v=12q61zaWOOY&t=35",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0Xdc682Y4NvY-lC63ubq404SNL0XbcZsz0YjfM3xJg&s"
+        },
+        {
+          "time": "00:45",
+          "title": "Bitcoin address as an email ✉️",
+          "link": "https://www.youtube.com/watch?v=12q61zaWOOY&t=45",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ9n6PLeATf-ZYxWd4U6j7YzCnepDYDQD3GxBoZeHaAA&s"
+        },
+        {
+          "time": "01:39",
+          "title": "Merchants are unlikely to bother tracing you",
+          "link": "https://www.youtube.com/watch?v=12q61zaWOOY&t=99",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3QLhvzGwudn3k-753qUgTahKyTpx4dDcpgEpHwAWXA&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT1RZZ2Gk15jbJhxux62OADTxQbmlT1kbfvlg",
+      "source": "YouTube · Luno"
+    },
+    {
+      "position": 49,
+      "title": "Addresses & transaction history",
+      "link": "https://trezor.io/guides/trezor-suite/trezor-suite-desktop/addresses-transaction-history?srsltid=AfmBOoqCJ26fP1hXQDtLHNG1eMaH_8L7oo3awjhEEOWG4vxXNMPVEXdA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://trezor.io/guides/trezor-suite/trezor-suite-desktop/addresses-transaction-history%3Fsrsltid%3DAfmBOoqCJ26fP1hXQDtLHNG1eMaH_8L7oo3awjhEEOWG4vxXNMPVEXdA&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCPkBEAE",
+      "displayed_link": "https://trezor.io › trezor-suite › trezor-suite-desktop › a...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789d76656552c031d81bb63b8773ffb7925.png",
+      "snippet": "In public blockchains, such as Bitcoin, it is possible to see all transactions that have been made on a particular address by looking into a blockchain explorer ...",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "address",
+        "blockchain"
+      ],
+      "source": "Trezor"
+    },
+    {
+      "position": 50,
+      "title": "Blockchain Explorers: Your Ultimate Guide",
+      "link": "https://koinly.io/blog/blockchain-explorers/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://koinly.io/blog/blockchain-explorers/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECEIQAQ",
+      "displayed_link": "https://koinly.io › blog › blockchain-explorers",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789daabcdd9381b9050e0aedcf35dafb56d.png",
+      "snippet": "You can track Bitcoin transactions using a Bitcoin blockchain explorer like Blockchain.com. Just find the wallet address or transaction ID you're interested in ...",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "Bitcoin blockchain",
+        "Blockchain",
+        "wallet address"
+      ],
+      "source": "Koinly"
+    },
+    {
+      "position": 51,
+      "title": "Address: bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+      "link": "https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCIsCEAE",
+      "displayed_link": "https://www.blockchain.com › btc › address",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78985526c43ab684f5a04bfe62c169a005b.png",
+      "snippet": "Blockchain.com: Crypto Wallet. Blockchain. Get the App. View · Transactions ... Explore top crypto assets. btc. Bitcoin. BTC. yfi. Yearn.finance. YFI. fil.",
+      "snippet_highlighted_words": [
+        "Blockchain",
+        "Crypto Wallet",
+        "Blockchain",
+        "crypto",
+        "Bitcoin"
+      ],
+      "source": "Blockchain.com"
+    },
+    {
+      "position": 52,
+      "title": "Your crypto addresses",
+      "link": "https://help.coinbase.com/en-au/coinbase/getting-started/crypto-education/where-is-my-crypto-address",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://help.coinbase.com/en-au/coinbase/getting-started/crypto-education/where-is-my-crypto-address&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCIoCEAE",
+      "displayed_link": "https://help.coinbase.com › where-is-my-crypto-address",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789ec3586ef78a4b3a5376b2dc1c255ca73.png",
+      "snippet": "Web browser · Sign in to your Coinbase account. · Go to Crypto addresses. This lives on your profile page, which can also be accessed by selecting your profile ...",
+      "snippet_highlighted_words": [
+        "Crypto addresses"
+      ],
+      "source": "Coinbase Help"
+    },
+    {
+      "position": 53,
+      "title": "What is a wallet address? A guide to crypto wallet addresses",
+      "link": "https://www.moonpay.com/learn/cryptocurrency/what-is-a-wallet-address",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.moonpay.com/learn/cryptocurrency/what-is-a-wallet-address&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJECEAE",
+      "displayed_link": "https://www.moonpay.com › learn › cryptocurrency",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789c8e5913163a7f6a90681575e9a9cb279.png",
+      "date": "Dec 9, 2024",
+      "snippet": "This is generally practiced in the name of privacy, security, and anonymity, since a rotating address can make it more difficult to trace ...",
+      "snippet_highlighted_words": [
+        "address",
+        "trace"
+      ],
+      "source": "MoonPay"
+    },
+    {
+      "position": 54,
+      "title": "Is Bitcoin Anonymous? Understanding Privacy in ...",
+      "link": "https://www.ulam.io/blog/is-cryptocurrency-anonymous",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ulam.io/blog/is-cryptocurrency-anonymous&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJICEAE",
+      "displayed_link": "https://www.ulam.io › is-cryptocurrency-anonymous",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7897de3ca2f0de6fb338cd0dbec06866a09.png",
+      "date": "Dec 30, 2024",
+      "snippet": "This makes Bitcoin pseudonymous - your transactions are tied to a wallet address instead of your real name, but they can still be traced back to ...",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "wallet address"
+      ],
+      "source": "Ulam Labs"
+    },
+    {
+      "position": 55,
+      "title": "Understanding IP address tracing via Bitcoin Transaction",
+      "link": "https://bitcoin.stackexchange.com/questions/56682/understanding-ip-address-tracing-via-bitcoin-transaction",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitcoin.stackexchange.com/questions/56682/understanding-ip-address-tracing-via-bitcoin-transaction&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJUCEAE",
+      "displayed_link": "https://bitcoin.stackexchange.com › questions › underst...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78913a0d6e1a91ae0b11c15595bb4eb0caf.png",
+      "date": "Jul 15, 2017",
+      "snippet": "If an entity runs a large amount of relay nodes on the network, they could figure out which of their nodes was the first to see a ...",
+      "source": "Bitcoin Stack Exchange"
+    },
+    {
+      "position": 56,
+      "title": "Bitcoin Wallet Lookup & Transaction Tracker Guide - GoldRush",
+      "link": "https://goldrush.dev/guides/comprehensive-guide-to-bitcoin-wallet-lookup-and-transaction-tracking/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://goldrush.dev/guides/comprehensive-guide-to-bitcoin-wallet-lookup-and-transaction-tracking/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJ8CEAE",
+      "displayed_link": "https://goldrush.dev › guides › comprehensive-guide-to-...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789acb92bf98b1db2188e9d353949e98dd9.png",
+      "snippet": "Yes, you can manually look up Bitcoin addresses on blockchain explorers like mempool.space or Blockchair, but an API provides a more automated and scalable ...",
+      "snippet_highlighted_words": [
+        "Bitcoin addresses",
+        "blockchain"
+      ],
+      "source": "goldrush.dev"
+    },
+    {
+      "position": 57,
+      "title": "Best Tools for Tracking Top Crypto Wallets",
+      "link": "https://certik.com/resources/blog/best-tools-for-tracking-top-crypto-wallets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://certik.com/resources/blog/best-tools-for-tracking-top-crypto-wallets&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCK8CEAE",
+      "displayed_link": "https://certik.com › resources › blog › best-tools-for-trac...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789579a09d34d1910d1c1af2a5004f67c03.png",
+      "date": "Apr 18, 2023",
+      "snippet": "In this blog post, we'll discuss four of the best tools for tracking and analyzing large and important crypto wallet addresses.",
+      "snippet_highlighted_words": [
+        "tracking",
+        "crypto wallet addresses"
+      ],
+      "source": "CertiK"
+    },
+    {
+      "position": 58,
+      "title": "How to Trace Bitcoin Address Owner?",
+      "link": "https://watcher.guru/news/how-to-trace-bitcoin-address-owner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://watcher.guru/news/how-to-trace-bitcoin-address-owner&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCLACEAE",
+      "displayed_link": "https://watcher.guru › news › how-to-trace-bitcoin-addr...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789ffb7d973edc82c5e0dcf48ed8db7f749.jpeg",
+      "date": "Sep 27, 2023",
+      "snippet": "While it is not possible to directly link a Bitcoin address to an IP address, further investigation and correlation of multiple transactions ...",
+      "snippet_highlighted_words": [
+        "Bitcoin address",
+        "address"
+      ],
+      "source": "Watcher Guru"
+    },
+    {
+      "position": 59,
+      "title": "Tracing crypto-currency transactions for suspected “illegal” ...",
+      "link": "https://fintechacademy.cs.hku.hk/wp-content/uploads/2021/09/Prof-SM-Yiu-Tracing-crypto-currency-transactions-for-suspected-%E2%80%9Cillegal%E2%80%9D-activities.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fintechacademy.cs.hku.hk/wp-content/uploads/2021/09/Prof-SM-Yiu-Tracing-crypto-currency-transactions-for-suspected-%25E2%2580%259Cillegal%25E2%2580%259D-activities.pdf&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCLsCEAE",
+      "displayed_link": "https://fintechacademy.cs.hku.hk › 2021/09 › Pr...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7892601552706b03371165f620e28f6c364.png",
+      "snippet": "Original design of bitcoin: (i) recommended NOT to reuse address! Jaume Barelo, “User privacy in the public bitcoin blockchain”, 2007. Remark: Just looking ...",
+      "snippet_highlighted_words": [
+        "bitcoin",
+        "address",
+        "bitcoin blockchain"
+      ],
+      "source": "The University of Hong Kong (HKU)"
+    },
+    {
+      "position": 60,
+      "title": "How to Track Bitcoin Transactions on Blockchain",
+      "link": "https://cryptomus.com/blog/how-to-track-transactions-on-the-blockchain?srsltid=AfmBOoqbE2zf4Ah6GxaNECuAecsw2KOsFmK0qOhDYhNjXvCHPVEcTVTA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cryptomus.com/blog/how-to-track-transactions-on-the-blockchain%3Fsrsltid%3DAfmBOoqbE2zf4Ah6GxaNECuAecsw2KOsFmK0qOhDYhNjXvCHPVEcTVTA&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCLwCEAE",
+      "displayed_link": "https://cryptomus.com › blog › how-to-track-transactio...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789dd7f4b57ca43db5838b6d346ea403c44.png",
+      "date": "Jul 24, 2024",
+      "snippet": "You can trace Bitcoin transactions by inputting a Bitcoin address or a transaction ID into blockchain explorers. Here is how the process works.",
+      "snippet_highlighted_words": [
+        "trace Bitcoin",
+        "Bitcoin address",
+        "blockchain"
+      ],
+      "source": "Cryptomus"
+    },
+    {
+      "position": 61,
+      "title": "US Government Entity on Arkham",
+      "link": "https://intel.arkm.com/explorer/entity/usg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://intel.arkm.com/explorer/entity/usg&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMgCEAE",
+      "displayed_link": "https://intel.arkm.com › explorer › entity › usg",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7896c8394cae154d189ebd24f37e48e3c55.png",
+      "source": "Arkham Intelligence"
+    },
+    {
+      "position": 62,
+      "title": "What are the steps to track a bitcoin wallet address?",
+      "link": "https://www.bydfi.com/en/questions/what-are-the-steps-to-track-a-bitcoin-wallet-address",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bydfi.com/en/questions/what-are-the-steps-to-track-a-bitcoin-wallet-address&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMkCEAE",
+      "displayed_link": "https://www.bydfi.com › questions › what-are-the-steps-t...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78921145e41ca3c9368e399dfeb5b2da520.png",
+      "snippet": "Then, you can use a blockchain explorer like Blockchair or Blockchain.com to search for the address and view its transaction history. These explorers provide ...",
+      "snippet_highlighted_words": [
+        "blockchain",
+        "Blockchain",
+        "address"
+      ],
+      "source": "BYDFi"
+    },
+    {
+      "position": 63,
+      "title": "Blockchain Facts: What Is It, How It Works, and How It Can ...",
+      "link": "https://www.investopedia.com/terms/b/blockchain.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investopedia.com/terms/b/blockchain.asp&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCNUCEAE",
+      "displayed_link": "https://www.investopedia.com › ... › Blockchain",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789eb6afba9f5e8623fc4432c2ef81169bf.png",
+      "snippet": "Of course, the records stored in the Bitcoin blockchain (as well as most others) are encrypted. This means that only the person assigned an address can reveal ...",
+      "snippet_highlighted_words": [
+        "Bitcoin blockchain",
+        "address"
+      ],
+      "source": "Investopedia"
+    },
+    {
+      "position": 64,
+      "title": "Crypto Scam Tracker - DFPI - CA.gov",
+      "link": "https://dfpi.ca.gov/consumers/crypto/crypto-scam-tracker/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dfpi.ca.gov/consumers/crypto/crypto-scam-tracker/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCNkCEAE",
+      "displayed_link": "https://dfpi.ca.gov › Consumers › Crypto",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7899058df6bd31aaf41b6f5c9bea5d26ec1.png",
+      "date": "Jul 1, 2025",
+      "snippet": "The resident reported the following wallet address to be associated with the scam: 1HTnTLQyyL2fjPxpzhah6afjKKCsnVuhz6. Investment Group Scam",
+      "snippet_highlighted_words": [
+        "wallet address"
+      ],
+      "source": "The Department of Financial Protection and Innovation (.gov)"
+    },
+    {
+      "position": 65,
+      "title": "Bitcoin Wallet Address Lookup | Overview",
+      "link": "https://tokenview.io/en/learn/bitcoin-wallet-address-lookup.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tokenview.io/en/learn/bitcoin-wallet-address-lookup.html&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECF0QAQ",
+      "displayed_link": "https://tokenview.io › learn › bitcoin-wallet-address-look...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789d88170ea0dcf016f6b98791db9ed5bfb.png",
+      "snippet": "Enhanced Transparency and Auditability: Transparency inherent to the Bitcoin Blockchain enables any person to track down wallet addresses and transactions ...",
+      "snippet_highlighted_words": [
+        "Bitcoin Blockchain",
+        "track down wallet addresses"
+      ],
+      "source": "Tokenview"
+    },
+    {
+      "position": 66,
+      "title": "Ethereum (ETH) Blockchain Explorer",
+      "link": "https://etherscan.io/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://etherscan.io/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECF4QAQ",
+      "displayed_link": "https://etherscan.io",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789be910c34cb8e135591159f101f8752fa.png",
+      "snippet": "Etherscan allows you to explore and search the Ethereum blockchain for transactions, addresses, tokens, prices and other activities taking place on Ethereum ...",
+      "snippet_highlighted_words": [
+        "Ethereum blockchain",
+        "addresses",
+        "Ethereum"
+      ],
+      "source": "etherscan.io"
+    },
+    {
+      "position": 67,
+      "title": "How to Track the Owner of a Crypto Wallet? - X-Ray Contact",
+      "link": "https://x-ray.contact/blog/how-to-track-the-owner-of-a-crypto-wallet/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x-ray.contact/blog/how-to-track-the-owner-of-a-crypto-wallet/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECGQQAQ",
+      "displayed_link": "https://x-ray.contact › blog › how-to-track-the-owner-o...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789f76f1a8211a9b64988574a5ef0aa0fd9.png",
+      "snippet": "Use Additional OSINT Methods for Tracing Crypto Wallet Address · Use search engines like Google to find any references to the Bitcoin address with the keyword ...",
+      "snippet_highlighted_words": [
+        "Tracing Crypto Wallet Address"
+      ],
+      "source": "x-ray.contact"
+    },
+    {
+      "position": 68,
+      "title": "Whale Alert: Home",
+      "link": "https://whale-alert.io/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://whale-alert.io/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECGIQAQ",
+      "displayed_link": "https://whale-alert.io",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7898f23952bfa89aef462e18e08dedb720a.png",
+      "snippet": "Monitor crypto market trends and large transactions with Whale Alert. Set personalized alerts, view live price updates and analyze crypto data through ...",
+      "snippet_highlighted_words": [
+        "crypto",
+        "crypto"
+      ],
+      "source": "Whale Alert"
+    },
+    {
+      "position": 69,
+      "title": "How to Find and Track Smart Money Wallets in Crypto",
+      "link": "https://www.nansen.ai/guides/how-to-find-and-track-smart-money-wallets-in-crypto",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nansen.ai/guides/how-to-find-and-track-smart-money-wallets-in-crypto&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECGAQAQ",
+      "displayed_link": "https://www.nansen.ai › guides › how-to-find-and-track...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789f5fec1b76492e2718a3c235a8e30fe7a.png",
+      "date": "Apr 4, 2024",
+      "snippet": "Input the conditions you want and it automatically identifies Ethereum addresses that meet them, labeling them accordingly. The list created is ...",
+      "snippet_highlighted_words": [
+        "Ethereum addresses"
+      ],
+      "source": "Nansen"
+    },
+    {
+      "position": 70,
+      "title": "CoinTracker: Crypto tax software to save you time and money",
+      "link": "https://www.cointracker.io/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cointracker.io/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECHsQAQ",
+      "displayed_link": "https://www.cointracker.io",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7892dacfe6edec80623d73f8623d70373b4.png",
+      "snippet": "#1 cryptocurrency tax software and portfolio tracking app. Join 3 million ... wallet lookup · Blog · Crypto tax guide · Crypto glossary · Help center. Company.",
+      "snippet_highlighted_words": [
+        "cryptocurrency",
+        "tracking",
+        "wallet",
+        "Crypto",
+        "Crypto"
+      ],
+      "source": "CoinTracker"
+    },
+    {
+      "position": 71,
+      "title": "Transformative Approaches to Wallet Address Tracking",
+      "link": "https://edgewrapper.com/track-and-transact-with-confidence-how-edgewrapper-is-transforming-wallet-address-tracking-for-modern-enterprises/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://edgewrapper.com/track-and-transact-with-confidence-how-edgewrapper-is-transforming-wallet-address-tracking-for-modern-enterprises/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECHoQAQ",
+      "displayed_link": "https://edgewrapper.com › Blockchain",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78971012a0f41c162ad7ff7c0c02544cf6c.png",
+      "date": "Sep 3, 2024",
+      "snippet": "Track crypto wallet address activities: Step-by-step guide with eDgeWrapper · 1. Choose Your Blockchain Explorer · 2. Search for the Wallet ...",
+      "snippet_highlighted_words": [
+        "crypto wallet address",
+        "Blockchain",
+        "Wallet"
+      ],
+      "source": "eDgeWrapper"
+    },
+    {
+      "position": 72,
+      "title": "What are the best tools to trace a bitcoin wallet address?",
+      "link": "http://www.bydfi.com/en/questions/what-are-the-best-tools-to-trace-a-bitcoin-wallet-address",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.bydfi.com/en/questions/what-are-the-best-tools-to-trace-a-bitcoin-wallet-address&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECHkQAQ",
+      "displayed_link": "http://www.bydfi.com › questions › what-are-the-best-to...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78910ed48be63cf23a4c629a607c10652ac.png",
+      "date": "Jul 13, 2021",
+      "snippet": "One popular option is blockchain explorers like Blockchair or Blockstream. These platforms allow you to search for specific wallet addresses and ...",
+      "snippet_highlighted_words": [
+        "blockchain",
+        "wallet addresses"
+      ],
+      "source": "BYDFi"
+    },
+    {
+      "position": 73,
+      "title": "Bitcoin Address Lookup, Checker and Scam Reports ...",
+      "link": "https://www.bitcoinwhoswho.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bitcoinwhoswho.com/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCIkBEAE",
+      "displayed_link": "https://www.bitcoinwhoswho.com",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789d5990ccc5a6af3deb554d52654c3719b.png",
+      "snippet": "Bitcoin Address Lookup Search and Alerts. View and research bitcoin ownership, transactions and balance checker by name, bitcoin address, url or keyword.",
+      "snippet_highlighted_words": [
+        "Bitcoin Address",
+        "bitcoin",
+        "bitcoin address"
+      ],
+      "source": "Bitcoin Who's Who"
+    },
+    {
+      "position": 74,
+      "title": "Blockchain Transaction Tracker - Bitcoin Explorer & More",
+      "link": "https://cryptomus.com/explorer?srsltid=AfmBOopEv30_n-rn1f1sHflhsMWNlsUTHkV7d3Ddw-iH26rOLx76p993",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cryptomus.com/explorer%3Fsrsltid%3DAfmBOopEv30_n-rn1f1sHflhsMWNlsUTHkV7d3Ddw-iH26rOLx76p993&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJABEAE",
+      "displayed_link": "https://cryptomus.com › explorer",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789276099e2bf20d085bead7886b932bf70.png",
+      "snippet": "... Bitcoin blockchain transactions effortlessly to stay informed about your crypto ... Crypto Explorer:Real-time Blockchain Transaction Tracking with Cryptomus.",
+      "snippet_highlighted_words": [
+        "Bitcoin blockchain",
+        "crypto",
+        "Crypto",
+        "Blockchain",
+        "Tracking",
+        "Cryptomus"
+      ],
+      "source": "Cryptomus"
+    },
+    {
+      "position": 75,
+      "title": "Find my crypto wallet address - How to find my wallet address ...",
+      "link": "https://www.youtube.com/watch?v=5-1yIUBaC4k",
+      "displayed_link": "3.7K+ views · 5 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJHaAjHJ675WdkgJK5yxBQkajEtGoy3K7Yi78E1uzEnZmd&s",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78905c2c2a1d690b8d42224298da20d58cd.png",
+      "snippet": "Learn how to set up your free Crypto Wallet address and to share it. This is the second step if you want to get crypto and send crypto - the ...",
+      "duration": "4:32",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Crypto wallet address",
+          "link": "https://www.youtube.com/watch?v=5-1yIUBaC4k&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrk1F-SBzgPYbYcTcS1jF-7zSGxSZuPcnpjRPMqwvqw&s"
+        },
+        {
+          "time": "00:25",
+          "title": "Bitcoin wallet address",
+          "link": "https://www.youtube.com/watch?v=5-1yIUBaC4k&t=25",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGR5aZmhLX0vwg0y6zhdRkbcLjtP7znGVe9AFDp5-wPg&s"
+        },
+        {
+          "time": "02:24",
+          "title": "Ethereum wallet address",
+          "link": "https://www.youtube.com/watch?v=5-1yIUBaC4k&t=144",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEAyZvfDybt2Db97OozgY17Og9CZSG_4_OwF6QCDsHJg&s"
+        },
+        {
+          "time": "03:17",
+          "title": "USDT (Tether) wallet address",
+          "link": "https://www.youtube.com/watch?v=5-1yIUBaC4k&t=197",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeW3lQVHBlemFwLT5AUyaFYRrtWgeD4j_xP78vCMtNg&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSXUuviPrnbD25zFyFN32JCYPVA8ePNgThpGQ",
+      "source": "YouTube · Zengo Wallet"
+    },
+    {
+      "position": 76,
+      "title": "How to Track Crypto Wallet Address Activities and Why It ...",
+      "link": "https://kolo.in/blog/how-to-track-crypto-wallet-address-activities-and-why-it-matters",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kolo.in/blog/how-to-track-crypto-wallet-address-activities-and-why-it-matters&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJUBEAE",
+      "displayed_link": "https://kolo.in › blog › how-to-track-crypto-wallet-addr...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789ad53e5afac2330c395a49bae68300aa8.png",
+      "snippet": "To track wallets, you can use tools like blockchain explorers, crypto portfolio trackers, and crypto wallet trackers. Understanding wallet addresses and how ...",
+      "snippet_highlighted_words": [
+        "wallets",
+        "blockchain",
+        "crypto",
+        "crypto wallet",
+        "wallet addresses"
+      ],
+      "source": "Kolo Crypto Card"
+    },
+    {
+      "position": 77,
+      "title": "Stealth Address (Cryptocurrency): Meaning and Concerns",
+      "link": "https://www.investopedia.com/terms/s/stealth-address-cryptocurrency.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investopedia.com/terms/s/stealth-address-cryptocurrency.asp&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJMBEAE",
+      "displayed_link": "https://www.investopedia.com › terms › stealth-address-...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789aca132b7d6d2aa414384f59f916836e9.png",
+      "snippet": "Because cryptocurrency wallet addresses are publicly available, transactions can be traced to that address. If your name or other information is somehow ...",
+      "snippet_highlighted_words": [
+        "cryptocurrency wallet addresses",
+        "address"
+      ],
+      "source": "Investopedia"
+    },
+    {
+      "position": 78,
+      "title": "Ethereum explorer — Ethplorer. ETH, ERC20 tokens explore ...",
+      "link": "https://ethplorer.io/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ethplorer.io/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCJEBEAE",
+      "displayed_link": "https://ethplorer.io",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789fbfe11e4527ab31a1c410ee95afb7a2e.png",
+      "snippet": "Use the Custom Search engine feature to lookup tokens, addresses, names, tags and more;. Features on Ethplorer include the ability to: Tag and note any ...",
+      "snippet_highlighted_words": [
+        "addresses"
+      ],
+      "source": "Ethplorer"
+    },
+    {
+      "position": 79,
+      "title": "Can You Track Bitcoin Transactions?",
+      "link": "https://www.chainalysis.com/blog/is-bitcoin-traceable/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chainalysis.com/blog/is-bitcoin-traceable/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCKQBEAE",
+      "displayed_link": "https://www.chainalysis.com › blog › is-bitcoin-traceable",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7894923b8f632c10dca494032a45b15954c.png",
+      "date": "Apr 11, 2022",
+      "snippet": "Every user is pseudonymous. Nothing ties a user to a transaction except a bitcoin address – a cryptographically generated string of characters ...",
+      "snippet_highlighted_words": [
+        "bitcoin address",
+        "cryptographically"
+      ],
+      "source": "Chainalysis"
+    },
+    {
+      "position": 80,
+      "title": "How to Trace a Bitcoin Transaction using a Bitcoin receiving ...",
+      "link": "https://www.youtube.com/watch?v=y22XE9fKNws",
+      "displayed_link": "76.3K+ views · 7 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3wdYVfzpi4m9ORnlid7aKzT525FGM3fwC-fqnfbpAxfO&s",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789b82998ce319a79217d8b0c9b9d499af8.png",
+      "snippet": "The Crypto Dad shows you how to trace a Bitcoin transaction ... Why Does My Bitcoin Wallet Address Keep Changing? Bitcoin Wallets ...",
+      "duration": "13:01",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=y22XE9fKNws&t=0"
+        },
+        {
+          "time": "00:51",
+          "title": "How to trace a bitcoin transaction",
+          "link": "https://www.youtube.com/watch?v=y22XE9fKNws&t=51"
+        },
+        {
+          "time": "01:20",
+          "title": "Sending Bitcoin to your own wallet",
+          "link": "https://www.youtube.com/watch?v=y22XE9fKNws&t=80"
+        },
+        {
+          "time": "03:30",
+          "title": "Demonstration",
+          "link": "https://www.youtube.com/watch?v=y22XE9fKNws&t=210"
+        },
+        {
+          "time": "04:44",
+          "title": "Scan Receiving Address QR Code",
+          "link": "https://www.youtube.com/watch?v=y22XE9fKNws&t=284"
+        },
+        {
+          "time": "05:03",
+          "title": "Sending the transaction",
+          "link": "https://www.youtube.com/watch?v=y22XE9fKNws&t=303"
+        },
+        {
+          "time": "05:49",
+          "title": "Sending a Receive Request",
+          "link": "https://www.youtube.com/watch?v=y22XE9fKNws&t=349"
+        },
+        {
+          "time": "08:34",
+          "title": "Checking Bitcoin Balance in Electrum",
+          "link": "https://www.youtube.com/watch?v=y22XE9fKNws&t=514"
+        },
+        {
+          "time": "08:47",
+          "title": "Checking your Bitcoin Balance",
+          "link": "https://www.youtube.com/watch?v=y22XE9fKNws&t=527"
+        },
+        {
+          "time": "11:34",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=y22XE9fKNws&t=694"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT1X4WfTP1OyUzks2gJCssBxjYo210Sc3leTw",
+      "source": "YouTube · The CryptoDad"
+    },
+    {
+      "position": 81,
+      "title": "Blockchain",
+      "link": "https://en.wikipedia.org/wiki/Blockchain",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Blockchain&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCKkBEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Blockchain",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7894a81a28505ef45ff3c6425f68c36e37b.png",
+      "snippet": "The bitcoin design has inspired other applications and blockchains that are readable by the public and are widely used by cryptocurrencies. The blockchain may ...",
+      "snippet_highlighted_words": [
+        "bitcoin",
+        "cryptocurrencies",
+        "blockchain"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 82,
+      "title": "Where to track cryptocurrency transactions?",
+      "link": "https://www.bitstamp.net/learn/blockchain/where-to-track-cryptocurrency-transactions/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bitstamp.net/learn/blockchain/where-to-track-cryptocurrency-transactions/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCKgBEAE",
+      "displayed_link": "https://www.bitstamp.net › ... › Blockchain technology",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789269c3b1065b48e269fdcf89b244fdffc.png",
+      "date": "Aug 5, 2022",
+      "snippet": "Tracking transactions · btcscan.org/. Ethereum · etherscan.io. Litecoin · live.blockcypher.com/ltc/. Bitcoin Cash · explorer.bitcoin.com/bch. Solana.",
+      "snippet_highlighted_words": [
+        "Tracking",
+        "Ethereum",
+        "Bitcoin",
+        "bitcoin"
+      ],
+      "source": "Bitstamp"
+    },
+    {
+      "position": 83,
+      "title": "Ways to Find Complete Bitcoin Transaction History from ...",
+      "link": "https://coinomize.biz/blog/bitcoin-transaction-tracking",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinomize.biz/blog/bitcoin-transaction-tracking&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMYBEAE",
+      "displayed_link": "https://coinomize.biz › blog › bitcoin-transaction-tracking",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78989ce8211488ac33ab0d733b2645d30ff.png",
+      "date": "Jun 18, 2025",
+      "snippet": "Bitcoin transactions are traced primarily by following the movement of bitcoins from one address to another on the blockchain. The process of ...",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "address",
+        "blockchain"
+      ],
+      "source": "Coinomize.biz"
+    },
+    {
+      "position": 84,
+      "title": "BSCTrace - BNB Smart Chain (BSC) Blockchain Explorer",
+      "link": "https://bsctrace.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bsctrace.com/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMQBEAE",
+      "displayed_link": "https://bsctrace.com",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789a877c5953daf032e2ba7a90ac04c86f5.png",
+      "snippet": "BSCTrace is a blockchain explorer and analytics platform for BNB Smart Chain. It enables users to explore blocks, transactions and addresses on BSC.",
+      "snippet_highlighted_words": [
+        "blockchain",
+        "addresses"
+      ],
+      "source": "BSCTrace"
+    },
+    {
+      "position": 85,
+      "title": "What Is Blockchain? | IBM",
+      "link": "https://www.ibm.com/think/topics/blockchain",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ibm.com/think/topics/blockchain&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCL8BEAE",
+      "displayed_link": "https://www.ibm.com › think › topics › blockchain",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7891566b6c39b9b0021fa330012e205d57a.png",
+      "snippet": "Blockchain is a shared, immutable digital ledger, enabling the recording of transactions and the tracking of assets within a business network.",
+      "snippet_highlighted_words": [
+        "Blockchain",
+        "tracking"
+      ],
+      "source": "IBM"
+    },
+    {
+      "position": 86,
+      "title": "Tracking Blockchain Transactions With Wallet Addresses",
+      "link": "https://blog.millionero.com/blog/tracking-blockchain-transactions-with-wallet-addresses/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.millionero.com/blog/tracking-blockchain-transactions-with-wallet-addresses/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMIBEAE",
+      "displayed_link": "https://blog.millionero.com › blog › tracking-blockchai...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7899873327223b424da802ac0c7847b9ca3.png",
+      "date": "Mar 11, 2024",
+      "snippet": "Etherscan allows users to search and track individual transactions by inputting transaction hashes or wallet addresses. Users can monitor wallet ...",
+      "snippet_highlighted_words": [
+        "wallet addresses",
+        "wallet"
+      ],
+      "source": "Millionero"
+    },
+    {
+      "position": 87,
+      "title": "How To Track a Bitcoin Transaction: Can You Trace ...",
+      "link": "https://bitkan.com/learn/how-to-track-a-bitcoin-transaction-can-you-trace-the-path-of-bitcoin-transactions-16855",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitkan.com/learn/how-to-track-a-bitcoin-transaction-can-you-trace-the-path-of-bitcoin-transactions-16855&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMMBEAE",
+      "displayed_link": "https://bitkan.com › learn › how-to-track-a-bitcoin-transa...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7894a90b0f89143cd75a9ac16a0252728a2.png",
+      "date": "Jun 27, 2023",
+      "snippet": "By analyzing the blockchain and linking addresses to individuals or entities, it is possible to track the flow of Bitcoin transactions. How to ...",
+      "snippet_highlighted_words": [
+        "blockchain",
+        "addresses",
+        "Bitcoin"
+      ],
+      "source": "BitKan.com"
+    },
+    {
+      "position": 88,
+      "title": "How to track your BTC transactions",
+      "link": "https://proton.me/support/wallet-track-btc-transactions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proton.me/support/wallet-track-btc-transactions&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCMUBEAE",
+      "displayed_link": "https://proton.me › ... › How to transact with bitcoin",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7897a5566077670ba6b45ec559c9ea6ea62.png",
+      "snippet": "From your Wallet home screen, select the transaction you want to view. · This will open a new window with that transaction's details. Scroll down and select ' ...",
+      "snippet_highlighted_words": [
+        "Wallet"
+      ],
+      "source": "Proton"
+    },
+    {
+      "position": 89,
+      "title": "Bitcoin",
+      "link": "https://en.wikipedia.org/wiki/Bitcoin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Bitcoin&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCN4BEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Bitcoin",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789e8389bfd7a521cec69b3a1d82e70a635.png",
+      "snippet": "Bitcoin (abbreviation: BTC; sign: ₿) is the first decentralized cryptocurrency. Based on a free-market ideology, bitcoin was invented in 2008 when an ...",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "cryptocurrency",
+        "bitcoin"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 90,
+      "title": "Mentor senior falls victim to multimillion dollar crypto scam",
+      "link": "https://www.cleveland19.com/2025/07/22/mentor-senior-falls-victim-multimillion-dollar-crypto-scam/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cleveland19.com/2025/07/22/mentor-senior-falls-victim-multimillion-dollar-crypto-scam/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCN0BEAE",
+      "displayed_link": "https://www.cleveland19.com › 2025/07/22 › mentor-s...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789af150d74b34862453448b1858c3901f3.png",
+      "date": "3 days ago",
+      "snippet": "... wallet addresses and the date and time you sent the money. Those critical details will help investigators begin tracing process. Copyright ...",
+      "snippet_highlighted_words": [
+        "wallet addresses",
+        "tracing"
+      ],
+      "source": "Cleveland 19 News"
+    },
+    {
+      "position": 91,
+      "title": "How to Find Your Crypto.com Wallet Address (Desktop ...",
+      "link": "https://www.youtube.com/watch?v=ti_4xcMy0-Y",
+      "displayed_link": "22K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6ULNUnEqOA923jjIAESkgqUEEVn05M_XSK5lwsr_dM1v&s",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7892a0105126d5593d3aabd83ac8dc22c04.png",
+      "snippet": "Unlock the gateway to your crypto transactions with our comprehensive guide on finding your Crypto.com wallet address!",
+      "duration": "6:31",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSuq9sIeqyLDXU0oBbaeG_NAGd1TzRIlao2GQ",
+      "source": "YouTube · Every Bit Helps"
+    },
+    {
+      "position": 92,
+      "title": "A Bitcoin wallet that stayed inactive for over 14 years has ...",
+      "link": "https://www.instagram.com/p/DMhW0eVvlgU/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DMhW0eVvlgU/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCOABEAE",
+      "displayed_link": "10+ likes · 1 hour ago",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789b9548b967a18f5c58470e7683c4026a3.png",
+      "snippet": "Up to 25% of any recovered funds will be awarded to those who help trace and retrieve the stolen crypto, with a potential reward pool of up to ...",
+      "snippet_highlighted_words": [
+        "trace",
+        "crypto"
+      ],
+      "source": "Instagram · cryptoding"
+    },
+    {
+      "position": 93,
+      "title": "Cryptocurrency Investment Fraud",
+      "link": "https://www.fbi.gov/how-we-can-help-you/victim-services/national-crimes-and-victim-resources/cryptocurrency-investment-fraud",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fbi.gov/how-we-can-help-you/victim-services/national-crimes-and-victim-resources/cryptocurrency-investment-fraud&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCOwBEAE",
+      "displayed_link": "https://www.fbi.gov › victim-services › cryptocurrency-...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df7896b46589965e72c52d5ab703e7b3945f4.png",
+      "snippet": "... cryptocurrency wallet), the name and address of the receiving financial institution, and receiving cryptocurrency addresses. If you believe you or someone ...",
+      "snippet_highlighted_words": [
+        "cryptocurrency wallet",
+        "address",
+        "cryptocurrency addresses"
+      ],
+      "source": "FBI (.gov)"
+    },
+    {
+      "position": 94,
+      "title": "Kraken Wallet Customer Support (Quick~support)",
+      "link": "https://s3-ap-southeast-2.amazonaws.com/ehq-production-australia/616e4c61c349f2669cd0e4093aa665ab954065f1/original/1753384648/a2c21e6a2a00a27ef234ed213c4a6ddc_FG64W34CV.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://s3-ap-southeast-2.amazonaws.com/ehq-production-australia/616e4c61c349f2669cd0e4093aa665ab954065f1/original/1753384648/a2c21e6a2a00a27ef234ed213c4a6ddc_FG64W34CV.pdf&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCPgBEAE",
+      "displayed_link": "https://s3-ap-southeast-2.amazonaws.com › origi...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78916e4b600e1994129b290e13f97c929d9.png",
+      "date": "13 hours ago",
+      "snippet": "For all other wallet-related concerns, such as incorrect wallet address usage, failed ... Most crypto wallet transactions are irreversible ...",
+      "snippet_highlighted_words": [
+        "wallet",
+        "wallet address",
+        "crypto wallet"
+      ],
+      "source": "Amazon.com"
+    },
+    {
+      "position": 95,
+      "title": "Reporting Bitcoin Investment Scam In Philippines",
+      "link": "https://www.respicio.ph/commentaries/reporting-bitcoin-investment-scam-in-philippines",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.respicio.ph/commentaries/reporting-bitcoin-investment-scam-in-philippines&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCPcBEAE",
+      "displayed_link": "https://www.respicio.ph › commentaries › reporting-bitc...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789ee781b9de2e58ad4a1b8ae167765feed.png",
+      "date": "1 day ago",
+      "snippet": "Transaction Records: Bitcoin wallet addresses, transaction hashes (from blockchain explorers like Blockchain.com), bank statements if fiat was ...",
+      "snippet_highlighted_words": [
+        "Bitcoin wallet addresses",
+        "blockchain",
+        "Blockchain"
+      ],
+      "source": "Respicio & Co. Law Firm"
+    },
+    {
+      "position": 96,
+      "title": "2025 Crypto Crime Mid-Year Update",
+      "link": "https://www.chainalysis.com/blog/2025-crypto-crime-mid-year-update/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chainalysis.com/blog/2025-crypto-crime-mid-year-update/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoFCKMCEAE",
+      "displayed_link": "https://www.chainalysis.com › blog › 2025-crypto-crim...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789efa1dcca011bde8dc77aea8f13e9fc57.png",
+      "date": "Jul 17, 2025",
+      "snippet": "Personal wallets: The underdocumented frontier for crypto crime. Chainalysis has developed new methodologies to identify and trace theft ...",
+      "snippet_highlighted_words": [
+        "wallets",
+        "crypto",
+        "trace"
+      ],
+      "source": "Chainalysis"
+    },
+    {
+      "position": 97,
+      "title": "Telegram's crypto wallet launches in the US",
+      "link": "https://techcrunch.com/2025/07/22/telegrams-crypto-wallet-launches-in-the-us/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://techcrunch.com/2025/07/22/telegrams-crypto-wallet-launches-in-the-us/&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECEgQAQ",
+      "displayed_link": "https://techcrunch.com › 2025/07/22 › telegrams-crypt...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df78993ea5bad9cfdba6b6dbc1128b04ac4ab.jpeg",
+      "date": "3 days ago",
+      "snippet": "“The attacker address was funded with 1ETH [Ethereum] Tornado Cash and later bridged a portion of the stolen funds from Solana to Ethereum,” the ...",
+      "snippet_highlighted_words": [
+        "address",
+        "Ethereum",
+        "Ethereum"
+      ],
+      "source": "TechCrunch"
+    },
+    {
+      "position": 98,
+      "title": "Trezor Suite App (Official) | Desktop & Web Crypto ...",
+      "link": "https://trezor.io/trezor-suite?srsltid=AfmBOorh-tUG64DZCBi35TAp2WNNQJPXmPSvbNRNf2PdDEwwXtCyb0X8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://trezor.io/trezor-suite%3Fsrsltid%3DAfmBOorh-tUG64DZCBi35TAp2WNNQJPXmPSvbNRNf2PdDEwwXtCyb0X8&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECEMQAQ",
+      "displayed_link": "https://trezor.io › trezor-suite",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789807993dbeb7bf0524efee45c04950daa.png",
+      "snippet": "The all-in-one app for Bitcoin & digital assets. Buy, sell, send, and receive coins in the most secure crypto ecosystem.",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "crypto"
+      ],
+      "source": "Trezor"
+    },
+    {
+      "position": 99,
+      "title": "Where can I find my Bitcoin address?",
+      "link": "https://support.bitcoin.com/en/articles/3542817-where-can-i-find-my-bitcoin-address",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.bitcoin.com/en/articles/3542817-where-can-i-find-my-bitcoin-address&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQFnoECEYQAQ",
+      "displayed_link": "https://support.bitcoin.com › articles › 3542817-where-...",
+      "favicon": "https://serpapi.com/searches/6883433f73d175a3917ee76e/images/160a237d2c5067951e4242c6703df789052a5e154cb3d6e7ba9621db2741f0b1.png",
+      "snippet": "Alternatively, you can find the addresses for your Bitcoin (BTC) or other cryptocurrency wallets by tapping on the \"Receive ...",
+      "snippet_highlighted_words": [
+        "addresses",
+        "Bitcoin",
+        "cryptocurrency wallets"
+      ],
+      "source": "Bitcoin.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Blockchain.com",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpXliXOWeyF3oM7ocj_yHgp8vsy7veQlm7lKV&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Blockchain.com&stick=H4sIAAAAAAAAAOMwVOLSz9U3iDdMS87N-sXIsIGF4RULDxeS4CsWXi5uENfQwCIpz6gCLl1eZFyYVfiKhZ-LVz9d39AwI7nKsMikPAchkl1VaJ5uUR6PEMnKSc_NyTXNQ4gUZphWmpkYlCCryTA1Mi6pQDLZpNDUtDg5C0mkKj27vDDLYBErn1NOfnJ2ckZiZp5ecn7uLTZJht2LOn6yuO433GhpvHGT2OPt7L_c_9amzVi5iEMsIDW_ICdVITGnOF-hODWxKDlDIS2_aAUHIwDViIctCQEAAA&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQs9oBKAB6BQjbAhAK",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Blockchain.com&stick=H4sIAAAAAAAAAOMwVOLSz9U3iDdMS87N-sXIsIGF4RULDxeS4CsWXi5uENfQwCIpz6gCLl1eZFyYVfiKhZ-LVz9d39AwI7nKsMikPAchkl1VaJ5uUR6PEMnKSc_NyTXNQ4gUZphWmpkYlCCryTA1Mi6pQDLZpNDUtDg5C0mkKj27vDDLYBErn1NOfnJ2ckZiZp5ecn7uLTZJht2LOn6yuO433GhpvHGT2OPt7L_c_9amzVi5iEMsIDW_ICdVITGnOF-hODWxKDlDIS2_aAUHIwDViIctCQEAAA"
+        },
+        {
+          "name": "Ethereum",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYah3dpL5fcqETCLH-_-KUVrchljf5Vt915GBVXp7wmkgwemV5cq2T&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Ethereum&stick=H4sIAAAAAAAAAOMwVOLWz9U3MDSwSMozqvjFyLCBheEVCw8XF0g03jAtOTfrFQsvF7IiuHR5kXFhVuErFn4uXv10fUPDjOQqwyKT8hyESHZVoXm6RXk8QiQrJz03J9c0DyFSmGFaaWZiUIKsJsPUyLikAslkk0JT0-LkLCSRqvTs8sIsg0WsHK4lGalFqaW5t9gkGXYv6vjJ4rrfcKOl8cZNYo-3s_9y_1ubNmPlIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjAAz753XBAEAAA&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQs9oBKAB6BQjbAhAP",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Ethereum&stick=H4sIAAAAAAAAAOMwVOLWz9U3MDSwSMozqvjFyLCBheEVCw8XF0g03jAtOTfrFQsvF7IiuHR5kXFhVuErFn4uXv10fUPDjOQqwyKT8hyESHZVoXm6RXk8QiQrJz03J9c0DyFSmGFaaWZiUIKsJsPUyLikAslkk0JT0-LkLCSRqvTs8sIsg0WsHK4lGalFqaW5t9gkGXYv6vjJ4rrfcKOl8cZNYo-3s_9y_1ubNmPlIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjAAz753XBAEAAA"
+        },
+        {
+          "name": "Coinbase",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNb50sY-Kjt-4VB7tW4ZwUNfl8EEYVj6iwdKh8&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Coinbase&stick=H4sIAAAAAAAAAOMwVOLSz9U3KC8yLswq_MXIsIGF4RULDxdYMN4wLTk36xULLxc3iGtoYJGUZ1QBl4boecXCz8Wrn65vaJiRXGVYZFKegxDJrio0T7coj0eIZOWk5-bkmuYhRAozTCvNTAxKkNVkmBoZl1QgmWxSaGpanJyFJFKVnl1emGWwiJXDOT8zLymxOPUWmyTD7kUdP1lc9xtutDTeuEns8Xb2X-5_a9NmrFzEIRaQml-Qk6qQmFOcr1CcmliUnKGQll-0goMRAMH0W6oDAQAA&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQs9oBKAB6BQjbAhAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Coinbase&stick=H4sIAAAAAAAAAOMwVOLSz9U3KC8yLswq_MXIsIGF4RULDxdYMN4wLTk36xULLxc3iGtoYJGUZ1QBl4boecXCz8Wrn65vaJiRXGVYZFKegxDJrio0T7coj0eIZOWk5-bkmuYhRAozTCvNTAxKkNVkmBoZl1QgmWxSaGpanJyFJFKVnl1emGWwiJXDOT8zLymxOPUWmyTD7kUdP1lc9xtutDTeuEns8Xb2X-5_a9NmrFzEIRaQml-Qk6qQmFOcr1CcmliUnKGQll-0goMRAMH0W6oDAQAA"
+        },
+        {
+          "name": "Binance",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnmu7bBwz3FBjrlkNYzzRmokKinvaaHn4Il4_M&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Binance&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMxIrjIsMinP-cXIsIGF4RULDxeXfq6-QbxhWnJu1isWXi5uENfQwCIpz6gCLl1eZFyYVfiKhZ8L1RSESHZVoXm6RXk8QiQrJz03J9c0DyFSmGFaaWZiUIKsJsPUyLikAslkk0JT0-LkLCSRqvTs8sIsg0Ws7E6ZeYl5yam32CQZdi_q-Mniut9wo6Xxxk1ij7ez_3L_W5s2Y-UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAIZ1srYFAQAA&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQs9oBKAB6BQjbAhAZ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Binance&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMxIrjIsMinP-cXIsIGF4RULDxeXfq6-QbxhWnJu1isWXi5uENfQwCIpz6gCLl1eZFyYVfiKhZ8L1RSESHZVoXm6RXk8QiQrJz03J9c0DyFSmGFaaWZiUIKsJsPUyLikAslkk0JT0-LkLCSRqvTs8sIsg0Ws7E6ZeYl5yam32CQZdi_q-Mniut9wo6Xxxk1ij7ez_3L_W5s2Y-UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAIZ1srYFAQAA"
+        },
+        {
+          "name": "Trust",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqnrrmG6lK4z0YkHY8m0e3iMfgs5OND74ZRwuEkxzTe1SltviofmZk&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Trust+Wallet&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMyuKjRPtyiP_8XIsIGF4RULDxeXfq6-QbxhWnJu1isWXi5uENfQwCIpz6gCLl1eZFyYVfiKhZ8LYkpGcpVhkUl5DkIEZi5CJCsnPTcn1zQPIVKYYVppZmJQgqwmw9TIuKQCyWSTQlPT4uQsJJGq9OzywiyDRaw8IUWlxSUK4Yk5Oaklt9gkGXYv6vjJ4rrfcKOl8cZNYo-3s_9y_1ubNmPlIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjACXBI9-CgEAAA&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQs9oBKAB6BQjbAhAe",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Trust+Wallet&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMyuKjRPtyiP_8XIsIGF4RULDxeXfq6-QbxhWnJu1isWXi5uENfQwCIpz6gCLl1eZFyYVfiKhZ8LYkpGcpVhkUl5DkIEZi5CJCsnPTcn1zQPIVKYYVppZmJQgqwmw9TIuKQCyWSTQlPT4uQsJJGq9OzywiyDRaw8IUWlxSUK4Yk5Oaklt9gkGXYv6vjJ4rrfcKOl8cZNYo-3s_9y_1ubNmPlIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjACXBI9-CgEAAA"
+        },
+        {
+          "name": "MetaMask",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LJU-4JQqkEc0HDmtupdKmipuy4apqatS7vEn&s=0",
+          "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=MetaMask&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMzKSc_NyTXN-8XIsIGF4RULDxeXfq6-QbxhWnJu1isWXi5uENfQwCIpz6gCLl1eZFyYVfiKhZ8LYkpGcpVhkUl5DkIku6rQPN2iPB4hArMJIVKYYVppZmJQgqwmw9TIuKQCyWSTQlPT4uQsJJGq9OzywiyDRawcvqklib6Jxdm32CQZdi_q-Mniut9wo6Xxxk1ij7ez_3L_W5s2Y-UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAD68tb0GAQAA&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQs9oBKAB6BQjbAhAj",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=MetaMask&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMzKSc_NyTXN-8XIsIGF4RULDxeXfq6-QbxhWnJu1isWXi5uENfQwCIpz6gCLl1eZFyYVfiKhZ8LYkpGcpVhkUl5DkIku6rQPN2iPB4hArMJIVKYYVppZmJQgqwmw9TIuKQCyWSTQlPT4uQsJJGq9OzywiyDRawcvqklib6Jxdm32CQZdi_q-Mniut9wo6Xxxk1ij7ez_3L_W5s2Y-UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAD68tb0GAQAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "How to trace crypto wallet address reddit",
+      "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=How+to+trace+crypto+wallet+address+reddit&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQ1QJ6BQjpAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+trace+crypto+wallet+address+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Blockchain explorer",
+      "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Blockchain+explorer&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQ1QJ6BQjrAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Blockchain+explorer"
+    },
+    {
+      "block_position": 1,
+      "query": "Track crypto wallet address free",
+      "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Track+crypto+wallet+address+free&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQ1QJ6BQjoAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Track+crypto+wallet+address+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Blockchain wallet address",
+      "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Blockchain+wallet+address&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQ1QJ6BQjkAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Blockchain+wallet+address"
+    },
+    {
+      "block_position": 1,
+      "query": "Bitcoin transaction tracker",
+      "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Bitcoin+transaction+tracker&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQ1QJ6BQjsAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Bitcoin+transaction+tracker"
+    },
+    {
+      "block_position": 1,
+      "query": "Crypto wallet checker",
+      "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Crypto+wallet+checker&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQ1QJ6BQjqAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Crypto+wallet+checker"
+    },
+    {
+      "block_position": 1,
+      "query": "Check wallet address balance",
+      "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Check+wallet+address+balance&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQ1QJ6BQjlAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Check+wallet+address+balance"
+    },
+    {
+      "block_position": 1,
+      "query": "Wallet address checker",
+      "link": "https://www.google.com/search?num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&q=Wallet+address+checker&sa=X&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQ1QJ6BQjnAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Wallet+address+checker"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+to+trace+crypto+wallet+address&num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&ei=QkODaLbwBs_-ptQP66CwkAQ&start=100&sa=N&sstk=Ac65TH6IK8ri5SFKN4ob1S7DudHJjrwUG_yy2KLlnLiOvSqy92IBpPKUUCc1Tv8fyWWmCrOfFXci2Ud5QIDjVJQxEoN-L4leeGcOMw&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQ8NMDegQICBAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+to+trace+crypto+wallet+address&num=100&sca_esv=d590ad2ae697755e&gl=us&hl=en&ei=QkODaLbwBs_-ptQP66CwkAQ&start=100&sa=N&sstk=Ac65TH6IK8ri5SFKN4ob1S7DudHJjrwUG_yy2KLlnLiOvSqy92IBpPKUUCc1Tv8fyWWmCrOfFXci2Ud5QIDjVJQxEoN-L4leeGcOMw&ved=2ahUKEwi2mZ7IzteOAxVPv4kEHWsQDEIQ8tMDegQICBAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+trace+crypto+wallet+address&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+trace+crypto+wallet+address&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+to+trace+crypto+wallet+address&start=100"
+    }
+  }
+}

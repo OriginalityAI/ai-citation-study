@@ -1,0 +1,582 @@
+{
+  "search_metadata": {
+    "id": "6882e1fd333617a08f8e3475",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a84f3d623a6a3ff3/6882e1fd333617a08f8e3475.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/a84f3d623a6a3ff3/6882e1fd333617a08f8e3475.json_with_pixel_position",
+    "created_at": "2025-07-25 01:46:37 UTC",
+    "processed_at": "2025-07-25 01:46:37 UTC",
+    "google_url": "https://www.google.com/search?q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&oq=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a84f3d623a6a3ff3/6882e1fd333617a08f8e3475.html",
+    "total_time_taken": 1.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "three process p1, p2 and p3 arrive at time zero. the total time spent by the process in the system is 10ms, 20ms, and 30ms respectively. they spent first 20% of their execution time in doing i/o and the rest 80% in cpu processing. what is the percentage utilization of cpu using fcfs scheduling algorithm?",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "three process p1, p2 and p3 arrive at time zero. the total time spent by the process in the system is 10ms, 20ms, and 30ms respectively. they spent first 20% of their execution time in doing i/o and the rest 80% in cpu processing. what is the percentage utilization of cpu using fcfs scheduling algorithm?",
+    "total_results": 20,
+    "time_taken_displayed": 0.48,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "questions_and_answers": [
+    {
+      "link": "https://gateoverflow.in/366172/applied-grand-test-2",
+      "source": "GATE Overflow for GATE CSE",
+      "question": "Three processes P1, P2 and P3 arrive at time zero. The total time spent by the process in the system is 10ms, 20ms, and 30ms respectively. They spent the first 20% of their execution time doing I/O and the rest 80% in CPU processing. What is the percentage utilization of CPU using FCFS scheduling algorithm?",
+      "answer": "@LRU Process Execution time I/O time CPU time P1 10 2 8 P2 20 4 16 P3 30 6 24 | P1 | P2 | P3 | 0 2 10 26 50 Since all the processes will first do I/O and then CPU processing, process P1 spends first 20% i.e. 2ms in doing I/O .. So CPU is not utilized for the first 2ms… Then P1 spends next 80% i.e. 8ms on processing. By the time P1 finishes with CPU processing P2 has finished its I/O (4ms) and then it gets turn for CPU processing which it does for 16ms and similarly P3 does processing for next 24ms…. Total time = 50ms … CPU utilized for 48ms (starting from 2 and ending at 50) …. Therefore utilization = (48/50)*100 = 96% ..",
+      "votes": 4
+    },
+    {
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/q1-three-process-p1-p2-p3-arrive-time-zero-total-time-spent-process-system-10ms-20ms-30ms--q116786680",
+      "source": "Chegg",
+      "question": "Q1. Three process P1, P2 and P3 arrive at time zero. The total time spent by the process in the system is 10ms, 20ms, and 30ms respectively. They spent first 20% of their execution time in doing I/O and the rest 80% in CPU processing. What is the percentage utilization of CPU using FCFS scheduling algorithm?Q2. Three process p1, P2 and P3 arrive at time",
+      "answer": "Solution: Q1. To calculate the percentage utilization of the CPU using the FCFS (First-Come, First-S...",
+      "votes": 1
+    },
+    {
+      "link": "https://www.classace.io/answers/3-processes-p1p2p3-arrive-at-a-time-zero-their-total-execution-time-is-10ms15ms-and-20ms-respectively-they-spent-first-20-of-their-execution-time-in-doing-io-next-60-in-cpu-processing-and-the-last-20-",
+      "source": "Class Ace",
+      "question": "3 processes p1,p2,p3 arrive at a time zero. their total execution time is 10ms,15ms and 20ms respectively. they spent first 20% of their execution time in doing i/o, next 60% in cpu processing and the last 20% again doing i/o. for what % of time was the cpu free? use round robin algorithm with time quantum 5ms",
+      "answer": "Let's analyze the processes and their I/O and CPU usage in detail. ### Processes - **p1**: Total execution time = 10 ms - **p2**: Total execution time = 15 ms - **p3**: Total execution time = 20 ms ### Breakdown of Execution Time All processes spend time in two I/O operations and one CPU operation: 1. **I/O Time**: 20% of execution time 2. **CPU Time**: 60% of execution time 3. **I/O Time**: 20% of execution time Calculating for each process: #### For p1: 1. **I/O Time (20%)**: \\(10 \\times 0.20 = 2\\) ms 2. **CPU Time (60%)**: \\(10 \\times 0.60 = 6\\) ms 3. **I/O Time (20%)**: \\(10 \\times 0.20 = 2\\) ms - **Total Time = 2 + 6 + 2 = 10 ms** #### For p2: 1. **I/O Time (20%)**: \\(15 \\times 0.20 = 3\\) ms 2. **CPU Time (60%)**: \\(15 \\times 0.60 = 9\\) ms 3. **I/O Time (20%)**: \\(15 \\times 0.20 = 3\\) ms - **Total Time = 3 + 9 + 3 = 15 ms** #### For p3: 1. **I/O Time (20%)**: \\(20 \\times 0.20 = 4\\) ms 2. **CPU Time (60%)**: \\(20 \\times 0.60 = 12\\) ms 3. **I/O Time (20%)**: \\(20 \\times 0.20 …",
+      "votes": 0
+    },
+    {
+      "link": "https://www.bartleby.com/questions-and-answers/three-processes-p1-p2-and-p3-arrive-at-time-zero.-the-total-time-spent-by-the-process-in-the-system-/57a632ca-223b-43c7-b1cc-4c423f4e1d76",
+      "source": "Bartleby.com",
+      "question": "Three processes P1, P2, and P3 arrive at time zero. The total time spent by the process in the system is 10ms, 20ms, and 30ms respectively. They spent the first 20% of their execution time doing 1/0 and the rest 80% in CPU processing. What is the AVERAGE WAITING TIME of the CPU using the FCFS, SJF, and RR scheduling algorithms? Process Execution time 1/0 time CPU time P1 10 8 P2 20 4. 16 P3 30 6. 24 2.",
+      "answer": "Given that, There are three processes P1, P2 and P3. Each process contains the values of execution…",
+      "votes": 0
+    }
+  ],
+  "ai_overview": {
+    "page_token": "UJSo6nicxZTbcuI4EECf90OGF4eLuWRIqqgpSTaMuRtCEvJCCSOEwbdYBse87b_MV-3XbMsG4kySrWztwwowUkt9Ufdx__nLsb3dX3_82kRRIG7L5TiOS9z3ucNKlu-WqUg8q7z2HRFamx_cae1FYeO0mFdIDq1awRKtSoHZrcW-Q2h_uuwMmfMciXFzvajbaFZI1VuLJRVsC9ZftqK8KMNj962mwaIkSswrjbbjSl974KE1L1UrarM0KlMXDqD_PPR3Egy_HkHIzAv5BwdTsTxuol1eeFY0BtIa7BttmMzk4csw0GVJZhwths117jKXk6A8zZt-TC2aGtcRIW8iya-MTPUUMX5zkex-vwU7euP09wF2cD4iE5Hiazqs1KM0Mya6z61LPD8RYlqRmJwb721igriLRgFumh_spmPGJ8NQm4G78opDrSvlZQh_ajkUsvLk7qbit82uNWhH7bveeHBzPZxYTdKuPyIVJxN-lTJliQtUIg_Vdf9oiYWuLtR5qV_C6oUoLFM5za6XXlsKsIEmn6UnG6_bei7FxDhnQ36w5cfZ2jzAenemb42I9ojuswqcdHenbIOsk0l1hPv0NDWkokk4JGcOleOQflMHHRB0ofy63pHBExn_Jb06iscC6JnLuYZkJAbqpPWXREGQJ1DMVxbwCRBDfnFdN0y8wwjPicOTgZHFT-BJzhryhejBkskFYM8JGqC7GGEtTs1hG2VI4_NxmAE9JuqfXzEySMUxvA-HPFGpt8E_VyFz-tkAkj5AaOpuJlp8HNW4F2F3FEb1CdXaQyOsnRHy3eW_aEzW_wOZtNCDpjDJQ8Y_hozjfNs6QWaeIZO1g7alZ23rDWTzV8jIbNdZDG8W2itkPAfZNA9Zvm1Nz7VIIyHoq5C130A2uUDmfAbZpW1dIJsW-7szZJYUG-8g-2Lban-tbaWssezvbQ_bb_k7EBcPy30SDIdJb9r4fmzM9zXXodPnyZwDiGs3ug1CH2b26hZXu1GyKjy3ok3ImAJyiwmhBOqVElQV6q2UoKbQMLQPTKGREtkuU44s9EtKtGFK5EfUyYQiYF6kLJNUfjZje-lSJCJirmILRa244kqppk9pvAYzJWSgbEXgwklSu8nJ2toORQSnv1Ubir-WO3aosBdm7SPb9zK_4GLl2x5X7LKfmpQOwWKkNFM92LeC_TkiOFhS4g3cBIJJI2WhBa4oZwoYdewjTU2DN6m1lwrK2loLRVgbtto7ck0d7od2tHF_FFwn9FsVWi8W2TQY0YC3B95PZ9_cht0GE7V79jS26g5xhpVtkc7QjuLRT-0hIFrtRqeOivVtMRQ3tdp17267Tfrqw3hFZzryl0_-tk8ak-4qnq6ieVjhY69odl-eqN8k2v0y5rNH5pnazl9v7qYT_NCzcee6-nj0lpuHedVIAxOtXuV42DWK9uwlLrih1YJ3pL5DQ2iSBWHRBROHFqvTWkWtqnW2pFS9bhZcHiVBS63-Dcok428",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UJSo6nicxZTbcuI4EECf90OGF4eLuWRIqqgpSTaMuRtCEvJCCSOEwbdYBse87b_MV-3XbMsG4kySrWztwwowUkt9Ufdx__nLsb3dX3_82kRRIG7L5TiOS9z3ucNKlu-WqUg8q7z2HRFamx_cae1FYeO0mFdIDq1awRKtSoHZrcW-Q2h_uuwMmfMciXFzvajbaFZI1VuLJRVsC9ZftqK8KMNj962mwaIkSswrjbbjSl974KE1L1UrarM0KlMXDqD_PPR3Egy_HkHIzAv5BwdTsTxuol1eeFY0BtIa7BttmMzk4csw0GVJZhwths117jKXk6A8zZt-TC2aGtcRIW8iya-MTPUUMX5zkex-vwU7euP09wF2cD4iE5Hiazqs1KM0Mya6z61LPD8RYlqRmJwb721igriLRgFumh_spmPGJ8NQm4G78opDrSvlZQh_ajkUsvLk7qbit82uNWhH7bveeHBzPZxYTdKuPyIVJxN-lTJliQtUIg_Vdf9oiYWuLtR5qV_C6oUoLFM5za6XXlsKsIEmn6UnG6_bei7FxDhnQ36w5cfZ2jzAenemb42I9ojuswqcdHenbIOsk0l1hPv0NDWkokk4JGcOleOQflMHHRB0ofy63pHBExn_Jb06iscC6JnLuYZkJAbqpPWXREGQJ1DMVxbwCRBDfnFdN0y8wwjPicOTgZHFT-BJzhryhejBkskFYM8JGqC7GGEtTs1hG2VI4_NxmAE9JuqfXzEySMUxvA-HPFGpt8E_VyFz-tkAkj5AaOpuJlp8HNW4F2F3FEb1CdXaQyOsnRHy3eW_aEzW_wOZtNCDpjDJQ8Y_hozjfNs6QWaeIZO1g7alZ23rDWTzV8jIbNdZDG8W2itkPAfZNA9Zvm1Nz7VIIyHoq5C130A2uUDmfAbZpW1dIJsW-7szZJYUG-8g-2Lban-tbaWssezvbQ_bb_k7EBcPy30SDIdJb9r4fmzM9zXXodPnyZwDiGs3ug1CH2b26hZXu1GyKjy3ok3ImAJyiwmhBOqVElQV6q2UoKbQMLQPTKGREtkuU44s9EtKtGFK5EfUyYQiYF6kLJNUfjZje-lSJCJirmILRa244kqppk9pvAYzJWSgbEXgwklSu8nJ2toORQSnv1Ubir-WO3aosBdm7SPb9zK_4GLl2x5X7LKfmpQOwWKkNFM92LeC_TkiOFhS4g3cBIJJI2WhBa4oZwoYdewjTU2DN6m1lwrK2loLRVgbtto7ck0d7od2tHF_FFwn9FsVWi8W2TQY0YC3B95PZ9_cht0GE7V79jS26g5xhpVtkc7QjuLRT-0hIFrtRqeOivVtMRQ3tdp17267Tfrqw3hFZzryl0_-tk8ak-4qnq6ieVjhY69odl-eqN8k2v0y5rNH5pnazl9v7qYT_NCzcee6-nj0lpuHedVIAxOtXuV42DWK9uwlLrih1YJ3pL5DQ2iSBWHRBROHFqvTWkWtqnW2pFS9bhZcHiVBS63-Dcok428"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Operating System: Applied Grand Test 2",
+      "link": "https://gateoverflow.in/366172/applied-grand-test-2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gateoverflow.in/366172/applied-grand-test-2&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECBkQAQ",
+      "displayed_link": "https://gateoverflow.in › applied-grand-test-2",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e8e7f9bb86da5b287b8a8bcb74b110a641.png",
+      "date": "Nov 24, 2021",
+      "snippet": "Three processes P1, P2 and P3 arrive at time zero. The total time spent by the process in the system is 10ms, 20ms, and 30ms respectively.",
+      "snippet_highlighted_words": [
+        "Three processes P1",
+        "P2",
+        "P3 arrive",
+        "time zero",
+        "total time spent",
+        "process",
+        "system",
+        "10ms",
+        "20ms",
+        "30ms respectively"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Three process P1, P2 and P3 arrive at time zero. Their ...",
+            "link": "https://gateoverflow.in/424024/three-process-arrive-their-execution-respectively-execution-processing-percentage-algorithm",
+            "answer_count": 1,
+            "date": "Mar 10, 2024"
+          },
+          {
+            "title": "OS handout - Operating System - GATE Overflow",
+            "link": "https://gateoverflow.in/407675/os-handout",
+            "answer_count": 1,
+            "date": "Jul 25, 2023"
+          }
+        ]
+      },
+      "source": "GATE Overflow for GATE CSE"
+    },
+    {
+      "position": 2,
+      "title": "Solved Q1. Three process P1, P2 and P3 arrive at time zero.",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/q1-three-process-p1-p2-p3-arrive-time-zero-total-time-spent-process-system-10ms-20ms-30ms--q116786680",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chegg.com/homework-help/questions-and-answers/q1-three-process-p1-p2-p3-arrive-time-zero-total-time-spent-process-system-10ms-20ms-30ms--q116786680&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECCAQAQ",
+      "displayed_link": "https://www.chegg.com › questions-and-answers › q1-thr...",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e83204fe0380ed7e1a2e5466092ecf1237.png",
+      "date": "Jun 27, 2023",
+      "snippet": "Q2. Three process p1, P2 and P3 arrive at time zero. Their total execution time is 10ms, 15ms, and 20ms respectively. They spent first 20% ...",
+      "snippet_highlighted_words": [
+        "Three process p1",
+        "P2",
+        "P3 arrive",
+        "time zero",
+        "Their total execution time",
+        "10ms",
+        "20ms respectively",
+        "They spent first 20"
+      ],
+      "source": "Chegg"
+    },
+    {
+      "position": 3,
+      "title": "Solved Questions based on CPU Scheduling",
+      "link": "https://dextutor.com/solved-questions-based-on-cpu-scheduling/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dextutor.com/solved-questions-based-on-cpu-scheduling/&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECD4QAQ",
+      "displayed_link": "https://dextutor.com › solved-questions-based-on-cpu-s...",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e8915da1aafcdc8da9f0cefa50481f73d2.jpeg",
+      "snippet": "Q1. Three process P1, P2 and P3 arrive at time zero. The total time spent by the process in the system is 10ms, 20ms, and 30ms respectively. They spent first ...",
+      "source": "Dextutor"
+    },
+    {
+      "position": 4,
+      "title": "Solved Three process P1, P2 and P3 arrive at time zero. The",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/three-process-p1-p2-p3-arrive-time-zero-total-time-spent-process-system-10ms-20ms-30ms-res-q90827404",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chegg.com/homework-help/questions-and-answers/three-process-p1-p2-p3-arrive-time-zero-total-time-spent-process-system-10ms-20ms-30ms-res-q90827404&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECCEQAQ",
+      "displayed_link": "https://www.chegg.com › questions-and-answers › three-...",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e8105263b0e575fa6333906cb9037f273a.png",
+      "snippet": "Three process P1, P2 and P3 arrive at time zero. The total time spent by the process in the system is 10ms, 20ms, and 30ms respectively. They spent first 20% of ...",
+      "snippet_highlighted_words": [
+        "Three process P1",
+        "P2",
+        "P3 arrive",
+        "time zero",
+        "total time spent",
+        "process",
+        "system",
+        "10ms",
+        "20ms",
+        "30ms respectively",
+        "They spent first 20"
+      ],
+      "source": "Chegg"
+    },
+    {
+      "position": 5,
+      "title": "Three process P1, P2 and P3 arrive at time zero. Their total ...",
+      "link": "https://gateoverflow.in/424024/three-process-arrive-their-execution-respectively-execution-processing-percentage-algorithm?show=424346",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gateoverflow.in/424024/three-process-arrive-their-execution-respectively-execution-processing-percentage-algorithm%3Fshow%3D424346&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECB0QAQ",
+      "displayed_link": "https://gateoverflow.in › three-process-arrive-their-execu...",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e89d32cc749f11a7a0ecc422b60864aa9b.png",
+      "date": "Mar 10, 2024",
+      "snippet": "Three process P1, P2 and P3 arrive at time zero. Their total execution time is 10ms, 20ms, and 30ms respectively. They spent first 20% of their execution time ...",
+      "snippet_highlighted_words": [
+        "Three process P1",
+        "P2",
+        "P3 arrive",
+        "time zero",
+        "Their total execution time",
+        "10ms",
+        "20ms",
+        "30ms respectively",
+        "They spent first 20",
+        "their"
+      ],
+      "source": "GATE Overflow for GATE CSE"
+    },
+    {
+      "position": 6,
+      "title": "3 processes p1,p2,p3 arrive at a time zero. their total ...",
+      "link": "https://www.classace.io/answers/3-processes-p1p2p3-arrive-at-a-time-zero-their-total-execution-time-is-10ms15ms-and-20ms-respectively-they-spent-first-20-of-their-execution-time-in-doing-io-next-60-in-cpu-processing-and-the-last-20-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.classace.io/answers/3-processes-p1p2p3-arrive-at-a-time-zero-their-total-execution-time-is-10ms15ms-and-20ms-respectively-they-spent-first-20-of-their-execution-time-in-doing-io-next-60-in-cpu-processing-and-the-last-20-&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECD8QAQ",
+      "displayed_link": "https://www.classace.io › answers › 3-processes-p1p2p3...",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e8e41be6d11520a99e440e9bdaf2032b79.png",
+      "date": "Aug 29, 2024",
+      "snippet": "3 processes p1,p2,p3 arrive at a time zero. their total execution time is 10ms,15ms and 20ms respectively. they spent first 20% of their execution time in ...",
+      "snippet_highlighted_words": [
+        "3 processes p1",
+        "p2",
+        "p3 arrive",
+        "time zero",
+        "their total execution time",
+        "10ms",
+        "20ms respectively",
+        "they spent first 20",
+        "their"
+      ],
+      "source": "Class Ace"
+    },
+    {
+      "position": 7,
+      "title": "SOLUTION: Scheduling ques",
+      "link": "https://www.studypool.com/documents/6845062/scheduling-ques-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.studypool.com/documents/6845062/scheduling-ques-&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECEIQAQ",
+      "displayed_link": "https://www.studypool.com › documents › scheduling-...",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e8bd8fc6f23c511375bc6fc450d73c242a.png",
+      "snippet": "Q1. Three process P1, P2 and P3 arrive at time zero. The total time spent by the process in the system is 10ms, 20ms, and 30ms respectively. They spent first ...",
+      "source": "Studypool"
+    },
+    {
+      "position": 8,
+      "title": "Three processes P1, P2, and P3 arrive at time zero. The ...",
+      "link": "https://www.bartleby.com/questions-and-answers/three-processes-p1-p2-and-p3-arrive-at-time-zero.-the-total-time-spent-by-the-process-in-the-system-/57a632ca-223b-43c7-b1cc-4c423f4e1d76",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bartleby.com/questions-and-answers/three-processes-p1-p2-and-p3-arrive-at-time-zero.-the-total-time-spent-by-the-process-in-the-system-/57a632ca-223b-43c7-b1cc-4c423f4e1d76&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECDAQAQ",
+      "displayed_link": "https://www.bartleby.com › questions-and-answers › thr...",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e832adbefb7976c1983f37fa85b3708e28.png",
+      "date": "May 16, 2022",
+      "snippet": "Three processes P1, P2, and P3 arrive at time zero. The total time spent by the process in the system is 10ms, 20ms, and 30ms respectively.",
+      "snippet_highlighted_words": [
+        "Three processes P1",
+        "P2",
+        "P3 arrive",
+        "time zero",
+        "total time spent",
+        "process",
+        "system",
+        "10ms",
+        "20ms",
+        "30ms respectively"
+      ],
+      "source": "Bartleby.com"
+    },
+    {
+      "position": 9,
+      "title": "Process Execution Time I/O Time CPU Time P1 10 2 8 P2 ...",
+      "link": "https://pt.scribd.com/document/526355062/Process-Scheduling",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pt.scribd.com/document/526355062/Process-Scheduling&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECCoQAQ",
+      "displayed_link": "https://pt.scribd.com › document",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e8630abf23f9769164b4934c81b7e3cac2.png",
+      "snippet": "Q1. Three process P1, P2 and P3 arrive at time zero. The total time spent by the process in the system is 10ms, 20ms, and 30ms respectively. They spent first 20 ...",
+      "snippet_highlighted_words": [
+        "Three process P1",
+        "P2",
+        "P3 arrive",
+        "time zero",
+        "total time spent",
+        "process",
+        "system",
+        "10ms",
+        "20ms",
+        "30ms respectively",
+        "They spent first 20"
+      ],
+      "source": "Scribd"
+    },
+    {
+      "position": 10,
+      "title": "GATE | GATE-CS-2006 | Question 65",
+      "link": "https://www.geeksforgeeks.org/questions/gate-gate-cs-2006-question-65/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/questions/gate-gate-cs-2006-question-65/&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECCgQAQ",
+      "displayed_link": "https://www.geeksforgeeks.org › questions › gate-gate-...",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e8376c11cb3ee8a8ecadaa03b9a8e05fe3.png",
+      "date": "Jan 13, 2025",
+      "snippet": "Each process spends the first 20% of execution time doing I/O, the next 70% of time doing computation, and the last 10% of time doing I/O again.",
+      "snippet_highlighted_words": [
+        "process spends",
+        "first 20",
+        "execution time doing",
+        "O",
+        "time doing",
+        "time doing",
+        "O"
+      ],
+      "missing": [
+        "rest"
+      ],
+      "must_include": {
+        "word": "rest",
+        "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=three+process+p1,+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms,+20ms,+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i/o+and+the+%22rest%22+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm?&sa=X&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQ5t4CegQIORAB"
+      },
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 11,
+      "title": "CPU Scheduling Numerical Practice Set - Unsolved Questions",
+      "link": "https://www.studocu.com/in/document/birla-institute-of-technology-mesra/operating-system/cpu-scheduling-numerical-practice-set/118754586",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.studocu.com/in/document/birla-institute-of-technology-mesra/operating-system/cpu-scheduling-numerical-practice-set/118754586&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECDwQAQ",
+      "displayed_link": "https://www.studocu.com › ... › Operating System",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e824248e63b63aa7bf11fa179d6cc938a3.png",
+      "snippet": "Q1. Three process P1, P2 and P3 arrive at time zero. The total time spent by the process in the system is 10ms, 20ms, and. 30ms respectively. They spent ...",
+      "snippet_highlighted_words": [
+        "Three process P1",
+        "P2",
+        "P3 arrive",
+        "time zero",
+        "total time spent",
+        "process",
+        "system",
+        "10ms",
+        "20ms",
+        "30ms respectively",
+        "They spent"
+      ],
+      "source": "Studocu"
+    },
+    {
+      "position": 12,
+      "title": "q1 three processes p1 p2 and p3 arrive at time zero the ...",
+      "link": "https://www.numerade.com/ask/question/q1-three-processes-p1-p2-and-p3-arrive-at-time-zero-the-total-time-spent-by-each-process-in-the-system-is-10ms-20ms-and-30ms-respectively-they-spend-the-first-20-of-their-execution-time-doin-59554/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.numerade.com/ask/question/q1-three-processes-p1-p2-and-p3-arrive-at-time-zero-the-total-time-spent-by-each-process-in-the-system-is-10ms-20ms-and-30ms-respectively-they-spend-the-first-20-of-their-execution-time-doin-59554/&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECEYQAQ",
+      "displayed_link": "https://www.numerade.com › Ask our Educators › AP CS",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e8c4b0c9cb8fb65d8f95c8f67008923082.png",
+      "date": "Sep 16, 2023",
+      "snippet": "Q1. Three processes P1, P2, and P3 arrive at time zero. The total time spent by each process in the system is 10ms, 20ms, and 30ms respectively ...",
+      "missing": [
+        "rest"
+      ],
+      "must_include": {
+        "word": "rest",
+        "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=three+process+p1,+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms,+20ms,+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i/o+and+the+%22rest%22+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm?&sa=X&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQ5t4CegQIWxAB"
+      },
+      "source": "Numerade"
+    },
+    {
+      "position": 13,
+      "title": "[Solved] Consider the 3 processes, P1, P2 and P3 shown ...",
+      "link": "https://testbook.com/question-answer/consider-the-3-processes-p1-p2-and-p3-shown-in-t--60924a31533c9c1c36bb160b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://testbook.com/question-answer/consider-the-3-processes-p1-p2-and-p3-shown-in-t--60924a31533c9c1c36bb160b&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECEcQAQ",
+      "displayed_link": "https://testbook.com › ... › Process Scheduling",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e864e510c51ea206a94b3a7ad8d29e0445.png",
+      "date": "Jan 8, 2025",
+      "snippet": "P1 arrives at time 0 → executed first → finishes at time 5; P2 arrives at time 1 → executed next → finishes at time 5 + 7 = 12; P3 arrives ...",
+      "snippet_highlighted_words": [
+        "P1 arrives",
+        "time 0",
+        "executed first",
+        "time",
+        "P2 arrives",
+        "time",
+        "executed",
+        "time",
+        "P3 arrives"
+      ],
+      "missing": [
+        "30ms",
+        "rest"
+      ],
+      "source": "Testbook"
+    },
+    {
+      "position": 14,
+      "title": "tt | PDF | Scheduling (Computing) | Algorithms And Data Structures",
+      "link": "https://www.scribd.com/document/823952889/tt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/823952889/tt&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECEQQAQ",
+      "displayed_link": "https://www.scribd.com › document",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e81ec87a9a1a6100a639b259b608b46e4c.png",
+      "snippet": "Three process P1, P2 and P3 arrive at time zero. The total time spent by the process in the system is 10ms, 20ms, and 30ms respectively. They spent first 20 ...",
+      "snippet_highlighted_words": [
+        "Three process P1",
+        "P2",
+        "P3 arrive",
+        "time zero",
+        "total time spent",
+        "process",
+        "system",
+        "10ms",
+        "20ms",
+        "30ms respectively",
+        "They spent first 20"
+      ],
+      "source": "Scribd"
+    },
+    {
+      "position": 15,
+      "title": "COMP 3500 - M3 Flashcards",
+      "link": "https://quizlet.com/406869563/comp-3500-m3-flash-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/406869563/comp-3500-m3-flash-cards/&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECEMQAQ",
+      "displayed_link": "https://quizlet.com › Science › Computer Science",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e82d4e5834c174a5511e1bd9bd7eb4cfb4.png",
+      "snippet": "The table below shows the CPU burst lengths and arrival time for three process P1, P2, and P3. We assume that the operating system is using Shortest Job First ...",
+      "snippet_highlighted_words": [
+        "CPU",
+        "arrival time",
+        "three process P1",
+        "P2",
+        "P3",
+        "We",
+        "system",
+        "First"
+      ],
+      "missing": [
+        "total",
+        "10ms,",
+        "rest",
+        "80%",
+        "percentage"
+      ],
+      "source": "Quizlet"
+    },
+    {
+      "position": 16,
+      "title": "[FREE] Consider three processes, all arriving at time zero, ...",
+      "link": "https://brainly.com/question/34475181",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/34475181&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECCQQAQ",
+      "displayed_link": "https://brainly.com › Engineering › College",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e84c36156413f95aab4e4bcd9cb1b38006.png",
+      "date": "Jul 6, 2023",
+      "snippet": "In this scenario, we have three processes with total execution times of 10, 20, and 30 units. Each process spends the first 20% of its execution ...",
+      "snippet_highlighted_words": [
+        "we",
+        "three processes",
+        "total execution times",
+        "process spends",
+        "first 20",
+        "execution"
+      ],
+      "source": "Brainly"
+    },
+    {
+      "position": 17,
+      "title": "GATE CSE 2006",
+      "link": "https://www.youtube.com/watch?v=QTp0Zt9m-x4",
+      "displayed_link": "3.9K+ views · 3 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXz83At6Pj1e4YAgUGNRC-6h96_tvRi5A_J4RIzexYwCcU&s",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e818d7fdc11e8b2952836d49480a533536.png",
+      "snippet": "The given question is consider three processes all arrived at zero at the time.",
+      "duration": "7:54",
+      "missing": [
+        "10ms,",
+        "30ms",
+        "rest",
+        "80%"
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcThKiYH7X3XvUECQEEeEwA0pAgd91iFv_Izog",
+      "source": "YouTube · GATE Insights Version: CSE"
+    },
+    {
+      "position": 18,
+      "title": "COMP 3500 Module 3 Flashcards",
+      "link": "https://quizlet.com/300068802/comp-3500-module-3-flash-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/300068802/comp-3500-module-3-flash-cards/&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECCIQAQ",
+      "displayed_link": "https://quizlet.com › Science › Computer Science",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e8516dd10566c0d07bb24d4143a11e42ab.png",
+      "snippet": "The table below shows the CPU burst lengths and arrival time for three process P1, P2, and P3. We assume that the operating system is using Shortest Job First ...",
+      "snippet_highlighted_words": [
+        "CPU",
+        "arrival time",
+        "three process P1",
+        "P2",
+        "P3",
+        "We",
+        "system",
+        "First"
+      ],
+      "source": "Quizlet"
+    },
+    {
+      "position": 19,
+      "title": "Consider three processes P1, P2, and P3, all ready to run ...",
+      "link": "https://brainly.com/question/43922484",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/43922484&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECCMQAQ",
+      "displayed_link": "https://brainly.com › ... › High School",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e8a3940265da11328f3863a948806b6c08.png",
+      "date": "Dec 3, 2023",
+      "snippet": "Consider three processes P1, P2, and P3, all ready to run at time = 0. Each process has two CPU bursts, separated by a single I/O burst.",
+      "snippet_highlighted_words": [
+        "three processes P1",
+        "P2",
+        "P3",
+        "run",
+        "time",
+        "0",
+        "process",
+        "CPU",
+        "O"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 20,
+      "title": "d) Consider three processes, P1, P2, and P3, all arriving at ...",
+      "link": "https://www.numerade.com/ask/question/i-need-this-question-answered-please-thank-you-consider-three-processes-p1-p2-and-p3-all-arriving-at-time-zero-with-a-total-execution-time-of-10-20-and-30-units-respectively-each-process-spe-30853/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.numerade.com/ask/question/i-need-this-question-answered-please-thank-you-consider-three-processes-p1-p2-and-p3-all-arriving-at-time-zero-with-a-total-execution-time-of-10-20-and-30-units-respectively-each-process-spe-30853/&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQFnoECEUQAQ",
+      "displayed_link": "https://www.numerade.com › Ask our Educators › AP CS",
+      "favicon": "https://serpapi.com/searches/6882e1fd333617a08f8e3475/images/9d58a8e17d7bf0f61942c232d585a9e833b56c38e20418b422d78ae502eda2da.png",
+      "date": "Sep 10, 2023",
+      "snippet": "d) Consider three processes, P1, P2, and P3, all arriving at time zero, with total execution time of 10, 20 and 30 units respectively. Each ...",
+      "snippet_highlighted_words": [
+        "three processes",
+        "P1",
+        "P2",
+        "P3",
+        "arriving",
+        "time zero",
+        "total execution time",
+        "20",
+        "respectively"
+      ],
+      "source": "Numerade"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Consider 4 processes P1, P2, P3, P4 having arrival time 0, 1 2 3",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=Consider+4+processes+P1,+P2,+P3,+P4+having+arrival+time+0,+1+2+3&sa=X&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Consider+4+processes+P1%2C+P2%2C+P3%2C+P4+having+arrival+time+0%2C+1+2+3"
+    },
+    {
+      "block_position": 1,
+      "query": "The process P1, P2 P3",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=The+process+P1,+P2+P3&sa=X&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=The+process+P1%2C+P2+P3"
+    },
+    {
+      "block_position": 1,
+      "query": "CPU scheduling algorithms problems with solutions PDF",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=CPU+scheduling+algorithms+problems+with+solutions+PDF&sa=X&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=CPU+scheduling+algorithms+problems+with+solutions+PDF"
+    },
+    {
+      "block_position": 1,
+      "query": "Consider the following set of processes P1, P2, P3 and P4",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=Consider+the+following+set+of+processes+P1,+P2,+P3+and+P4&sa=X&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Consider+the+following+set+of+processes+P1%2C+P2%2C+P3+and+P4"
+    },
+    {
+      "block_position": 1,
+      "query": "The processes P1, P2, P3 shown in the table arrive at the same time",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=The+processes+P1,+P2,+P3+shown+in+the+table+arrive+at+the+same+time&sa=X&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=The+processes+P1%2C+P2%2C+P3+shown+in+the+table+arrive+at+the+same+time"
+    },
+    {
+      "block_position": 1,
+      "query": "There are three projects P1 P2 P3",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=There+are+three+projects+P1+P2+P3&sa=X&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=There+are+three+projects+P1+P2+P3"
+    },
+    {
+      "block_position": 1,
+      "query": "Process scheduling algorithms are used by a CPU to optimally schedule the running processes",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=Process+scheduling+algorithms+are+used+by+a+CPU+to+optimally+schedule+the+running+processes&sa=X&ved=2ahUKEwi0kpDn8daOAxXXkmoFHfE_HlEQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Process+scheduling+algorithms+are+used+by+a+CPU+to+optimally+schedule+the+running+processes"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 20 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=three+process+p1,+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms,+20ms,+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i/o+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&oq=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&oq=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&oq=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&oq=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&oq=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=three+process+p1%2C+p2+and+p3+arrive+at+time+zero.+the+total+time+spent+by+the+process+in+the+system+is+10ms%2C+20ms%2C+and+30ms+respectively.+they+spent+first+20%25+of+their+execution+time+in+doing+i%2Fo+and+the+rest+80%25+in+cpu+processing.+what+is+the+percentage+utilization+of+cpu+using+fcfs+scheduling+algorithm%3F&start=400"
+    }
+  }
+}

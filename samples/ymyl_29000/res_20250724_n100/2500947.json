@@ -1,0 +1,745 @@
+{
+  "search_metadata": {
+    "id": "6883080aeeabd3bf28417a17",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aa74508d6d968eb6/6883080aeeabd3bf28417a17.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/aa74508d6d968eb6/6883080aeeabd3bf28417a17.json_with_pixel_position",
+    "created_at": "2025-07-25 04:28:58 UTC",
+    "processed_at": "2025-07-25 04:28:58 UTC",
+    "google_url": "https://www.google.com/search?q=test+salivaire+covid+yverdon&oq=test+salivaire+covid+yverdon&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/aa74508d6d968eb6/6883080aeeabd3bf28417a17.html",
+    "total_time_taken": 3.21
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "test salivaire covid yverdon",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "test salivaire covid yverdon",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.ehnv.ch/actualites-et-reportages/des-tests-pcr-par-prelevement-salivaire",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCm7VkjyNbjpuEfLc5wFNxafdijH0qKqznAxl-u38GaFNNudCO6c0_r0&s",
+      "original": "https://www.ehnv.ch/sites/default/files/inline-images/Drive-in-ehnv.jpg",
+      "title": "Des tests PCR par prélèvement salivaire | Établissements ...",
+      "source_name": "eHnv"
+    },
+    {
+      "source": "https://www.ehnv.ch/actualites-et-reportages/un-centre-de-test-du-covid-19-walk-lhopital-dyverdon-les-bains",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTC0BwzTvTEA2bSAlNonjelnR3QWWdQZ1lIHnsxLEss3P2YDpOJyOELE&s",
+      "original": "https://www.ehnv.ch/sites/default/files/inline-images/eHnv%20-%20Drive%20Covid%204.jpg",
+      "title": "Un centre de test du COVID-19 « walk-in » à l'hôpital d ...",
+      "source_name": "Etablissements Hospitaliers du Nord Vaudois"
+    },
+    {
+      "source": "https://www.ehnv.ch/actualites-et-reportages/le-centre-de-test-de-lhopital-dyverdon-les-bains-augmente-sa-capacite",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTKwIXblJLHSGL_7XEZyEi3D4VLX4x1eref8cKqYsWxXiN5n-MLlUXLOQ&s",
+      "original": "https://www.ehnv.ch/sites/default/files/inline-images/Drive-in-eHnv.jpg",
+      "title": "Le centre de test de l'hôpital d'Yverdon-les-Bains augmente ...",
+      "source_name": "Etablissements Hospitaliers du Nord Vaudois"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Où peut-on acheter des tests salivaires Covid-19 ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIwWmtWMDU2U0hOb1ZGTktkM013VW0xMlJIcHJjR0k0WVRBeFFYRjNSMGhpYlhSd1UwSk9kRGhOYVRKdlZGbEtUamhoV210Mk0yUkJZM2RtZW05NGIybHJTWFpQZUcxR1NqZFNhbE41VkcxSlltRlBPRUpTZVhsbWR4SVhSRUZwUkdGT00xQkhiMm96TUZCRlVHdGZOa015VVZFYUlrRkdUVUZIUjI5amVIVXRSa2RRYWtnMFUzcG9jVkpmZFc1U05UWkJMVVZsYzFFIiwiZmN2IjoiMyIsImVpIjoiREFpRGFOM1BHb2ozMFBFUGtfNkMyUVEiLCJxYyI6IkNoeDBaWE4wSUhOaGJHbDJZV2x5WlNCamIzWnBaQ0I1ZG1WeVpHOXVFQVI5eUVrblB3IiwicXVlc3Rpb24iOiJPw7kgcGV1dC1vbiBhY2hldGVyIGRlcyB0ZXN0cyBzYWxpdmFpcmVzIENvdmlkLTE5ID8iLCJsayI6IkdpNXZkU0J3WlhWMElHOXVJR0ZqYUdWMFpYSWdaR1Z6SUhSbGMzUWdjMkZzYVhaaGFYSmxJR052ZG1sa0lERTUiLCJicyI6ImMtUEs0akwyUDd4VG9TQzF0RVEzUDA4aE1Ua2p0U1MxU0NFbHRWaWhKTFc0cEZpaE9ERW5zeXd4c3dnbzRKeGZscG1pYTJpcFlDX3hYTXpJUUVvdnZ4U3NVUUdMUm9RLWhXU1FOZ1ZEU3k1N0xobVFYV2xnMFp4VWlEb2tRejlrR2NsSVNlVmpLSUViNE11bENqS2dPRldob0NnX3ViUUlhRjlwSHBJeENqNkpaWWs1UUpNdXlSa3BTc2tEblllc0ZNbXNISkE2TGxjdS1jRFN4THdVaGRTMHROVGtrbElNNC13bDlxZ1p5VXZKRnVKUUJUWk1nQkVBIiwiaWQiOiJmY19EQWlEYU4zUEdvajMwUEVQa182QzJRUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIwWmtWMDU2U0hOb1ZGTktkM013VW0xMlJIcHJjR0k0WVRBeFFYRjNSMGhpYlhSd1UwSk9kRGhOYVRKdlZGbEtUamhoV210Mk0yUkJZM2RtZW05NGIybHJTWFpQZUcxR1NqZFNhbE41VkcxSlltRlBPRUpTZVhsbWR4SVhSRUZwUkdGT00xQkhiMm96TUZCRlVHdGZOa015VVZFYUlrRkdUVUZIUjI5amVIVXRSa2RRYWtnMFUzcG9jVkpmZFc1U05UWkJMVVZsYzFFIiwiZmN2IjoiMyIsImVpIjoiREFpRGFOM1BHb2ozMFBFUGtfNkMyUVEiLCJxYyI6IkNoeDBaWE4wSUhOaGJHbDJZV2x5WlNCamIzWnBaQ0I1ZG1WeVpHOXVFQVI5eUVrblB3IiwicXVlc3Rpb24iOiJPw7kgcGV1dC1vbiBhY2hldGVyIGRlcyB0ZXN0cyBzYWxpdmFpcmVzIENvdmlkLTE5ID8iLCJsayI6IkdpNXZkU0J3WlhWMElHOXVJR0ZqYUdWMFpYSWdaR1Z6SUhSbGMzUWdjMkZzYVhaaGFYSmxJR052ZG1sa0lERTUiLCJicyI6ImMtUEs0akwyUDd4VG9TQzF0RVEzUDA4aE1Ua2p0U1MxU0NFbHRWaWhKTFc0cEZpaE9ERW5zeXd4c3dnbzRKeGZscG1pYTJpcFlDX3hYTXpJUUVvdnZ4U3NVUUdMUm9RLWhXU1FOZ1ZEU3k1N0xobVFYV2xnMFp4VWlEb2tRejlrR2NsSVNlVmpLSUViNE11bENqS2dPRldob0NnX3ViUUlhRjlwSHBJeENqNkpaWWs1UUpNdXlSa3BTc2tEblllc0ZNbXNISkE2TGxjdS1jRFN4THdVaGRTMHROVGtrbElNNC13bDlxZ1p5VXZKRnVKUUJUWk1nQkVBIiwiaWQiOiJmY19EQWlEYU4zUEdvajMwUEVQa182QzJRUV8xIn0%3D"
+    },
+    {
+      "question": "Où faire le test Covid-19 ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIwWmtWMDU2U0hOb1ZGTktkM013VW0xMlJIcHJjR0k0WVRBeFFYRjNSMGhpYlhSd1UwSk9kRGhOYVRKdlZGbEtUamhoV210Mk0yUkJZM2RtZW05NGIybHJTWFpQZUcxR1NqZFNhbE41VkcxSlltRlBPRUpTZVhsbWR4SVhSRUZwUkdGT00xQkhiMm96TUZCRlVHdGZOa015VVZFYUlrRkdUVUZIUjI5amVIVXRSa2RRYWtnMFUzcG9jVkpmZFc1U05UWkJMVVZsYzFFIiwiZmN2IjoiMyIsImVpIjoiREFpRGFOM1BHb2ozMFBFUGtfNkMyUVEiLCJxYyI6IkNoeDBaWE4wSUhOaGJHbDJZV2x5WlNCamIzWnBaQ0I1ZG1WeVpHOXVFQVI5eUVrblB3IiwicXVlc3Rpb24iOiJPw7kgZmFpcmUgbGUgdGVzdCBDb3ZpZC0xOSA/IiwibGsiOiJHaHB2dzdrZ1ptRnBjbVVnYkdVZ2RHVnpkQ0JqYjNacFpDQXhPUSIsImJzIjoiYy1QSzRqTDJQN3hUb1NDMXRFUTNQMDhoTVRranRTUzFTQ0VsdFZpaEpMVzRwRmloT0RFbnN5d3hzd2dvNEp4ZmxwbWlhMmlwWUNfeFhNeklRRW92dnhTc1VRR0xSb1EtaFdTUU5nVkRTeTU3TGhtUVhXbGcwWnhVaURva1F6OWtHY2xJU2VWaktJRWI0TXVsQ2pLZ09GV2hvQ2dfdWJRSWFGOXBIcEl4Q2o2SlpZazVRSk11eVJrcFNza0RuWWVzRk1tc0hKQTZMbGN1LWNEU3hMd1VoZFMwdE5Ua2tsSU00LXdsOXFnWnlVdkpGdUpRQlRaTWdCRUEiLCJpZCI6ImZjX0RBaURhTjNQR29qMzBQRVBrXzZDMlFRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIwWmtWMDU2U0hOb1ZGTktkM013VW0xMlJIcHJjR0k0WVRBeFFYRjNSMGhpYlhSd1UwSk9kRGhOYVRKdlZGbEtUamhoV210Mk0yUkJZM2RtZW05NGIybHJTWFpQZUcxR1NqZFNhbE41VkcxSlltRlBPRUpTZVhsbWR4SVhSRUZwUkdGT00xQkhiMm96TUZCRlVHdGZOa015VVZFYUlrRkdUVUZIUjI5amVIVXRSa2RRYWtnMFUzcG9jVkpmZFc1U05UWkJMVVZsYzFFIiwiZmN2IjoiMyIsImVpIjoiREFpRGFOM1BHb2ozMFBFUGtfNkMyUVEiLCJxYyI6IkNoeDBaWE4wSUhOaGJHbDJZV2x5WlNCamIzWnBaQ0I1ZG1WeVpHOXVFQVI5eUVrblB3IiwicXVlc3Rpb24iOiJPw7kgZmFpcmUgbGUgdGVzdCBDb3ZpZC0xOSA%2FIiwibGsiOiJHaHB2dzdrZ1ptRnBjbVVnYkdVZ2RHVnpkQ0JqYjNacFpDQXhPUSIsImJzIjoiYy1QSzRqTDJQN3hUb1NDMXRFUTNQMDhoTVRranRTUzFTQ0VsdFZpaEpMVzRwRmloT0RFbnN5d3hzd2dvNEp4ZmxwbWlhMmlwWUNfeFhNeklRRW92dnhTc1VRR0xSb1EtaFdTUU5nVkRTeTU3TGhtUVhXbGcwWnhVaURva1F6OWtHY2xJU2VWaktJRWI0TXVsQ2pLZ09GV2hvQ2dfdWJRSWFGOXBIcEl4Q2o2SlpZazVRSk11eVJrcFNza0RuWWVzRk1tc0hKQTZMbGN1LWNEU3hMd1VoZFMwdE5Ua2tsSU00LXdsOXFnWnlVdkpGdUpRQlRaTWdCRUEiLCJpZCI6ImZjX0RBaURhTjNQR29qMzBQRVBrXzZDMlFRXzEifQ%3D%3D"
+    },
+    {
+      "question": "Où se procurer un test Covid Laval ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIwWmtWMDU2U0hOb1ZGTktkM013VW0xMlJIcHJjR0k0WVRBeFFYRjNSMGhpYlhSd1UwSk9kRGhOYVRKdlZGbEtUamhoV210Mk0yUkJZM2RtZW05NGIybHJTWFpQZUcxR1NqZFNhbE41VkcxSlltRlBPRUpTZVhsbWR4SVhSRUZwUkdGT00xQkhiMm96TUZCRlVHdGZOa015VVZFYUlrRkdUVUZIUjI5amVIVXRSa2RRYWtnMFUzcG9jVkpmZFc1U05UWkJMVVZsYzFFIiwiZmN2IjoiMyIsImVpIjoiREFpRGFOM1BHb2ozMFBFUGtfNkMyUVEiLCJxYyI6IkNoeDBaWE4wSUhOaGJHbDJZV2x5WlNCamIzWnBaQ0I1ZG1WeVpHOXVFQVI5eUVrblB3IiwicXVlc3Rpb24iOiJPw7kgc2UgcHJvY3VyZXIgdW4gdGVzdCBDb3ZpZCBMYXZhbCA/IiwibGsiOiJHaDl2ZFNCelpTQndjbTlqZFhKbGNpQjBaWE4wSUdOdmRtbGtJR3hoZG1GcyIsImJzIjoiYy1QSzRqTDJQN3hUb1NDMXRFUTNQMDhoTVRranRTUzFTQ0VsdFZpaEpMVzRwRmloT0RFbnN5d3hzd2dvNEp4ZmxwbWlhMmlwWUNfeFhNeklRRW92dnhTc1VRR0xSb1EtaFdTUU5nVkRTeTU3TGhtUVhXbGcwWnhVaURva1F6OWtHY2xJU2VWaktJRWI0TXVsQ2pLZ09GV2hvQ2dfdWJRSWFGOXBIcEl4Q2o2SlpZazVRSk11eVJrcFNza0RuWWVzRk1tc0hKQTZMbGN1LWNEU3hMd1VoZFMwdE5Ua2tsSU00LXdsOXFnWnlVdkpGdUpRQlRaTWdCRUEiLCJpZCI6ImZjX0RBaURhTjNQR29qMzBQRVBrXzZDMlFRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIwWmtWMDU2U0hOb1ZGTktkM013VW0xMlJIcHJjR0k0WVRBeFFYRjNSMGhpYlhSd1UwSk9kRGhOYVRKdlZGbEtUamhoV210Mk0yUkJZM2RtZW05NGIybHJTWFpQZUcxR1NqZFNhbE41VkcxSlltRlBPRUpTZVhsbWR4SVhSRUZwUkdGT00xQkhiMm96TUZCRlVHdGZOa015VVZFYUlrRkdUVUZIUjI5amVIVXRSa2RRYWtnMFUzcG9jVkpmZFc1U05UWkJMVVZsYzFFIiwiZmN2IjoiMyIsImVpIjoiREFpRGFOM1BHb2ozMFBFUGtfNkMyUVEiLCJxYyI6IkNoeDBaWE4wSUhOaGJHbDJZV2x5WlNCamIzWnBaQ0I1ZG1WeVpHOXVFQVI5eUVrblB3IiwicXVlc3Rpb24iOiJPw7kgc2UgcHJvY3VyZXIgdW4gdGVzdCBDb3ZpZCBMYXZhbCA%2FIiwibGsiOiJHaDl2ZFNCelpTQndjbTlqZFhKbGNpQjBaWE4wSUdOdmRtbGtJR3hoZG1GcyIsImJzIjoiYy1QSzRqTDJQN3hUb1NDMXRFUTNQMDhoTVRranRTUzFTQ0VsdFZpaEpMVzRwRmloT0RFbnN5d3hzd2dvNEp4ZmxwbWlhMmlwWUNfeFhNeklRRW92dnhTc1VRR0xSb1EtaFdTUU5nVkRTeTU3TGhtUVhXbGcwWnhVaURva1F6OWtHY2xJU2VWaktJRWI0TXVsQ2pLZ09GV2hvQ2dfdWJRSWFGOXBIcEl4Q2o2SlpZazVRSk11eVJrcFNza0RuWWVzRk1tc0hKQTZMbGN1LWNEU3hMd1VoZFMwdE5Ua2tsSU00LXdsOXFnWnlVdkpGdUpRQlRaTWdCRUEiLCJpZCI6ImZjX0RBaURhTjNQR29qMzBQRVBrXzZDMlFRXzEifQ%3D%3D"
+    },
+    {
+      "question": "Quand effectuer un test Covid ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIwWmtWMDU2U0hOb1ZGTktkM013VW0xMlJIcHJjR0k0WVRBeFFYRjNSMGhpYlhSd1UwSk9kRGhOYVRKdlZGbEtUamhoV210Mk0yUkJZM2RtZW05NGIybHJTWFpQZUcxR1NqZFNhbE41VkcxSlltRlBPRUpTZVhsbWR4SVhSRUZwUkdGT00xQkhiMm96TUZCRlVHdGZOa015VVZFYUlrRkdUVUZIUjI5amVIVXRSa2RRYWtnMFUzcG9jVkpmZFc1U05UWkJMVVZsYzFFIiwiZmN2IjoiMyIsImVpIjoiREFpRGFOM1BHb2ozMFBFUGtfNkMyUVEiLCJxYyI6IkNoeDBaWE4wSUhOaGJHbDJZV2x5WlNCamIzWnBaQ0I1ZG1WeVpHOXVFQVI5eUVrblB3IiwicXVlc3Rpb24iOiJRdWFuZCBlZmZlY3R1ZXIgdW4gdGVzdCBDb3ZpZCA/IiwibGsiOiJHaDF4ZFdGdVpDQmxabVpsWTNSMVpYSWdkVzRnZEdWemRDQmpiM1pwWkEiLCJicyI6ImMtUEs0akwyUDd4VG9TQzF0RVEzUDA4aE1Ua2p0U1MxU0NFbHRWaWhKTFc0cEZpaE9ERW5zeXd4c3dnbzRKeGZscG1pYTJpcFlDX3hYTXpJUUVvdnZ4U3NVUUdMUm9RLWhXU1FOZ1ZEU3k1N0xobVFYV2xnMFp4VWlEb2tRejlrR2NsSVNlVmpLSUViNE11bENqS2dPRldob0NnX3ViUUlhRjlwSHBJeENqNkpaWWs1UUpNdXlSa3BTc2tEblllc0ZNbXNISkE2TGxjdS1jRFN4THdVaGRTMHROVGtrbElNNC13bDlxZ1p5VXZKRnVKUUJUWk1nQkVBIiwiaWQiOiJmY19EQWlEYU4zUEdvajMwUEVQa182QzJRUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFIwWmtWMDU2U0hOb1ZGTktkM013VW0xMlJIcHJjR0k0WVRBeFFYRjNSMGhpYlhSd1UwSk9kRGhOYVRKdlZGbEtUamhoV210Mk0yUkJZM2RtZW05NGIybHJTWFpQZUcxR1NqZFNhbE41VkcxSlltRlBPRUpTZVhsbWR4SVhSRUZwUkdGT00xQkhiMm96TUZCRlVHdGZOa015VVZFYUlrRkdUVUZIUjI5amVIVXRSa2RRYWtnMFUzcG9jVkpmZFc1U05UWkJMVVZsYzFFIiwiZmN2IjoiMyIsImVpIjoiREFpRGFOM1BHb2ozMFBFUGtfNkMyUVEiLCJxYyI6IkNoeDBaWE4wSUhOaGJHbDJZV2x5WlNCamIzWnBaQ0I1ZG1WeVpHOXVFQVI5eUVrblB3IiwicXVlc3Rpb24iOiJRdWFuZCBlZmZlY3R1ZXIgdW4gdGVzdCBDb3ZpZCA%2FIiwibGsiOiJHaDF4ZFdGdVpDQmxabVpsWTNSMVpYSWdkVzRnZEdWemRDQmpiM1pwWkEiLCJicyI6ImMtUEs0akwyUDd4VG9TQzF0RVEzUDA4aE1Ua2p0U1MxU0NFbHRWaWhKTFc0cEZpaE9ERW5zeXd4c3dnbzRKeGZscG1pYTJpcFlDX3hYTXpJUUVvdnZ4U3NVUUdMUm9RLWhXU1FOZ1ZEU3k1N0xobVFYV2xnMFp4VWlEb2tRejlrR2NsSVNlVmpLSUViNE11bENqS2dPRldob0NnX3ViUUlhRjlwSHBJeENqNkpaWWs1UUpNdXlSa3BTc2tEblllc0ZNbXNISkE2TGxjdS1jRFN4THdVaGRTMHROVGtrbElNNC13bDlxZ1p5VXZKRnVKUUJUWk1nQkVBIiwiaWQiOiJmY19EQWlEYU4zUEdvajMwUEVQa182QzJRUV8xIn0%3D"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Des tests PCR par prélèvement salivaire - Yverdon-les-Bains",
+    "link": "https://www.ehnv.ch/actualites-et-reportages/des-tests-pcr-par-prelevement-salivaire#:~:text=Le%20centre%20de%20test%20PCR,coton%20tige%20dans%20le%20nez).",
+    "displayed_link": "https://www.ehnv.ch › actualites-et-reportages › des-test...",
+    "date": "Jun 24, 2021",
+    "snippet": "Le centre de test PCR COVID de l'hôpital d'Yverdon-les-Bains propose désormais des tests PCR par prélèvement naso-pharyngé ou salivaire. Le prélèvement salivaire est une alternative au frottis naso-pharyngé (coton tige dans le nez).",
+    "snippet_highlighted_words": [
+      "Le centre de test PCR COVID de l'hôpital d'Yverdon-les-Bains propose désormais des tests PCR par prélèvement naso-pharyngé ou salivaire"
+    ],
+    "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/ab5f14b30f54d5b1321dab257c422c7c164eda6372a08734.png",
+    "source": "Établissements hospitaliers du Nord vaudois"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Centre de dépistage COVID-19 à Yverdon-les-Bains",
+      "link": "https://www.onedoc.ch/fr/centre-de-depistage-covid/yverdon-les-bains",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onedoc.ch/fr/centre-de-depistage-covid/yverdon-les-bains&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECBUQAQ",
+      "displayed_link": "https://www.onedoc.ch › yverdon-...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49ae33019b84537a2cf20f1186e7181d53.png",
+      "snippet": "Aucun centre de dépistage COVID-19 correspondant à ces critères ne peut être réservé en ligne dans cette zone pour le moment. Parlez de OneDoc à votre ...",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "OneDoc"
+    },
+    {
+      "position": 2,
+      "title": "Centre de dépistage COVID-19 à Essertines-sur-Yverdon",
+      "link": "https://www.onedoc.ch/fr/centre-de-depistage-covid/essertines-sur-yverdon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onedoc.ch/fr/centre-de-depistage-covid/essertines-sur-yverdon&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECBkQAQ",
+      "displayed_link": "https://www.onedoc.ch › essertines...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f494d810d2738f387d60c3ff40c93c761dd.png",
+      "snippet": "Prenez rendez-vous en ligne aujourd'hui chez un centre de dépistage COVID-19 dans les environs de Essertines-sur-Yverdon · LaboMGD Lausanne St-François · Sun ...",
+      "snippet_highlighted_words": [
+        "Prenez rendez-vous en ligne aujourd'hui chez un centre de dépistage COVID-19"
+      ],
+      "source": "OneDoc"
+    },
+    {
+      "position": 3,
+      "title": "Etablissements hospitaliers du Nord vaudois - EHNV - Le centre ...",
+      "link": "https://m.facebook.com/hopitauxnordvaudois/photos/le-centre-de-test-pcr-covid-de-lh%C3%B4pital-dyverdon-les-bains-propose-d%C3%A9sormais-des/940747700038257/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.facebook.com/hopitauxnordvaudois/photos/le-centre-de-test-pcr-covid-de-lh%25C3%25B4pital-dyverdon-les-bains-propose-d%25C3%25A9sormais-des/940747700038257/&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECCIQAQ",
+      "displayed_link": "https://m.facebook.com › hopitauxnordvaudois › photos",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f499f87cc96dd86749f7701b2faeceb3411.png",
+      "snippet": "Le centre de test PCR COVID de l'hôpital d'Yverdon-les- Bains propose désormais des tests PCR par prélèvement naso-pharyngé ou salivaire. Le prélèvement ...",
+      "snippet_highlighted_words": [
+        "propose désormais des tests PCR par prélèvement naso-pharyngé ou salivaire"
+      ],
+      "source": "Facebook"
+    },
+    {
+      "position": 4,
+      "title": "Pharmacie Centrale Emery SA - Yverdon-les-Bains",
+      "link": "https://www.pharmonline.ch/fr/pharmacies/66-Pharmacie-Centrale-Emery-SA/72-Vaccinazione-Covid-19?custom_locale=1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pharmonline.ch/fr/pharmacies/66-Pharmacie-Centrale-Emery-SA/72-Vaccinazione-Covid-19%3Fcustom_locale%3D1&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECBYQAQ",
+      "displayed_link": "https://www.pharmonline.ch › 72-V...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f496cf431217f1db6af8c049b0d52d9c56f.png",
+      "snippet": "Horaires · Lundi 08:00 - 18:30 · Mardi 08:00 - 18:30 · Mercredi 08:00 - 18:30 · Jeudi 08:00 - 18:30 · Vendredi 08:00 - 18:30 · Samedi 08:00 - 17:00 · Dimanche Fermé.",
+      "source": "pharmonline.ch"
+    },
+    {
+      "position": 5,
+      "title": "Proxilab – Analyses médicales à Yverdon-les-Bains|Suisse",
+      "link": "https://www.proxilab.ch/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.proxilab.ch/&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECBgQAQ",
+      "displayed_link": "https://www.proxilab.ch",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f4994e733f5352536d7f1b3ef5bab9e7102.png",
+      "snippet": "Proxilab SA - Votre laboratoire d'analyses médicales à Yverdon-les-Bains pour vos prises de sang et test sérologique.",
+      "snippet_highlighted_words": [
+        "Yverdon",
+        "test"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Nous contacter",
+            "link": "https://www.proxilab.ch/Contact"
+          },
+          {
+            "title": "L'équipe",
+            "link": "https://www.proxilab.ch/Proxilab/L%C3%A9quipe"
+          },
+          {
+            "title": "Offres d'emploi",
+            "link": "https://www.proxilab.ch/News/Offres-demploi"
+          },
+          {
+            "title": "Centres de prélèvements",
+            "link": "https://www.proxilab.ch/Contact/Centres-de-pr%C3%A9l%C3%A8vements"
+          }
+        ]
+      },
+      "source": "Proxilab"
+    },
+    {
+      "position": 6,
+      "title": "Covid-19 : le centre de test de l'hôpital d'Yverdon-les-Bains ...",
+      "link": "https://www.ehnv.ch/actualites-et-reportages/covid-19-le-centre-de-test-de-lhopital-dyverdon-les-bains-double-sa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ehnv.ch/actualites-et-reportages/covid-19-le-centre-de-test-de-lhopital-dyverdon-les-bains-double-sa&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECGMQAQ",
+      "displayed_link": "https://www.ehnv.ch › covid-19-le...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49dd8d424820d3e8c0b6a2f3eb86c9370d.png",
+      "date": "Jul 3, 2020",
+      "snippet": "Selon les critères de l'OFSP, le test sans consultation médicale pour les personnes symptomatiques est gratuit. En cas de difficultés ...",
+      "snippet_highlighted_words": [
+        "le test sans consultation médicale pour les personnes symptomatiques est gratuit"
+      ],
+      "source": "Établissements hospitaliers du Nord vaudois"
+    },
+    {
+      "position": 7,
+      "title": "FAQ - Questions fréquentes COVID-19",
+      "link": "https://www.cpma.ch/news/Detail?id=23ce0b22-2e19-4309-a039-1016b6e78d2b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cpma.ch/news/Detail%3Fid%3D23ce0b22-2e19-4309-a039-1016b6e78d2b&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECHsQAQ",
+      "displayed_link": "https://www.cpma.ch › ... › Detail",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49f5576616416865a215a3a1b41911e31a.png",
+      "snippet": "Nos centres de prélèvements en Suisse romande effectuent différents tests de dépistage du COVID-19. Genève · Vaud (Riviera & Lausanne) · Yverdon-les-Bains ...",
+      "snippet_highlighted_words": [
+        "tests",
+        "COVID",
+        "Yverdon"
+      ],
+      "source": "CPMA Lausanne"
+    },
+    {
+      "position": 8,
+      "title": "Tests COVID-19",
+      "link": "https://www.svph.ch/fr/4126/tests-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.svph.ch/fr/4126/tests-covid-19&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECC4QAQ",
+      "displayed_link": "https://www.svph.ch › tests-covid-19",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f4904ec11f35caabdc7a849ef405c759e9b.png",
+      "date": "Dec 1, 2020",
+      "snippet": "Test rapide et PCR sur rendez-vous téléphonique. - Pharmacie Metro ... Yverdon-les-Bains. - Pharmacie Centrale Emery SA, rue du Lac 27 ...",
+      "snippet_highlighted_words": [
+        "Test rapide et PCR sur rendez-vous téléphonique"
+      ],
+      "source": "Société vaudoise de pharmacie"
+    },
+    {
+      "position": 9,
+      "title": "L'hôpital d'Yverdon ouvre un drive-in de dépistage du ...",
+      "link": "https://www.journalcossonay.ch/2020/05/05/lhopital-dyverdon-ouvre-un-drive-in-de-depistage-du-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.journalcossonay.ch/2020/05/05/lhopital-dyverdon-ouvre-un-drive-in-de-depistage-du-covid-19/&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCIEBEAE",
+      "displayed_link": "https://www.journalcossonay.ch › ...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f4910fcaae1cdc206d83dca5b7ee1a1b9cb.png",
+      "date": "May 5, 2020",
+      "snippet": "Depuis jeudi 30 avril, un dispositif de dépistage du COVID-19 sous forme de drive-in est ouvert à l'hôpital d'Yverdon-les-Bains: une ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Yverdon"
+      ],
+      "source": "Journal de Cossonay"
+    },
+    {
+      "position": 10,
+      "title": "Yverdon ouvre le premier drive-in Covid de Suisse romande",
+      "link": "https://www.heidi.news/sante/l-hopital-d-yverdon-les-bains-ouvre-le-premier-drive-in-de-suisse-romande",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.heidi.news/sante/l-hopital-d-yverdon-les-bains-ouvre-le-premier-drive-in-de-suisse-romande&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCJ8BEAE",
+      "displayed_link": "https://www.heidi.news › sante › l-...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f490e57f45d9b9b67047541f02abac8792e.png",
+      "date": "Apr 30, 2020",
+      "snippet": "Dès ce jeudi 30 avril, il est possible d'aller se faire tester pour Covid-19 en quelques minutes, sans ordonnance et sans quitter son volant ...",
+      "snippet_highlighted_words": [
+        "Covid"
+      ],
+      "source": "Heidi.news"
+    },
+    {
+      "position": 11,
+      "title": "Tests PCR, le grand écart entre Neuchâtel et Yverdon",
+      "link": "https://www.20min.ch/fr/story/tests-pcr-le-grand-ecart-entre-neuchatel-et-yverdon-359102533514",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.20min.ch/fr/story/tests-pcr-le-grand-ecart-entre-neuchatel-et-yverdon-359102533514&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECC0QAQ",
+      "displayed_link": "https://www.20min.ch › ... › Vaud",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f4915945ec3359740da507fa8bf29c77f06.png",
+      "date": "Jan 19, 2022",
+      "snippet": "Cas contacts, Noé et Lya, deux jeunes adultes d'une même fratrie, se sont fait tester la semaine dernière. Noé est allé à Neuchâtel le mardi ...",
+      "source": "20 Minuten"
+    },
+    {
+      "position": 12,
+      "title": "Dépistage du Covid-19 - Un nouveau test salivaire contrôlé par ...",
+      "link": "https://www.24heures.ch/un-nouveau-test-salivaire-controle-par-videoconference-210827282568",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.24heures.ch/un-nouveau-test-salivaire-controle-par-videoconference-210827282568&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECEgQAQ",
+      "displayed_link": "https://www.24heures.ch › un-nou...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f492069581e4ad5399333da79d26e099cec.png",
+      "snippet": "Il s'agit d'un prélèvement salivaire réalisé chez soi et contrôlé à distance. Cette solution est proposée depuis vendredi dernier par le laboratoire Swiss ...",
+      "snippet_highlighted_words": [
+        "prélèvement salivaire réalisé chez soi et contrôlé à distance"
+      ],
+      "source": "24 Heures"
+    },
+    {
+      "position": 13,
+      "title": "Un drive-in de dépistage à l'hôpital d'Yverdon",
+      "link": "https://www.lematin.ch/story/un-drive-in-de-depistage-a-l-hopital-d-yverdon-773298969808",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lematin.ch/story/un-drive-in-de-depistage-a-l-hopital-d-yverdon-773298969808&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECGEQAQ",
+      "displayed_link": "https://www.lematin.ch › Suisse",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f494bfa57a46e488c208698cfbe339b2bfa.png",
+      "date": "Apr 30, 2020",
+      "snippet": "Pour le patient, le test coûte 120 francs. Il est remboursé par l'assurance maladie de base. Si l'hôpital d'Yverdon est le premier à se lancer ...",
+      "snippet_highlighted_words": [
+        "le test coûte 120 francs"
+      ],
+      "source": "Le Matin"
+    },
+    {
+      "position": 14,
+      "title": "Communiqué de presse",
+      "link": "https://www.yverdon-les-bains.ch/fileadmin/user_upload/Comm_presse_Creation_d_un_drive-in_de_depistage_a_l_hopital_d_Yverdon-les-Bains.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yverdon-les-bains.ch/fileadmin/user_upload/Comm_presse_Creation_d_un_drive-in_de_depistage_a_l_hopital_d_Yverdon-les-Bains.pdf&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECGIQAQ",
+      "displayed_link": "https://www.yverdon-les-bains.ch › user_upload",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f4935d8497bcee52b04862493e794b3929c.png",
+      "date": "Apr 30, 2020",
+      "snippet": "Dès le jeudi 30 avril, un nouveau dispositif de test du COVID-19 sous forme de drive-in sera ouvert à l'hôpital d'Yverdon-les-Bains : une ...",
+      "snippet_highlighted_words": [
+        "test",
+        "COVID",
+        "Yverdon"
+      ],
+      "source": "Commune d'Yverdon-les-Bains"
+    },
+    {
+      "position": 15,
+      "title": "Le drive-in Covid effectuera 200 tests supplémentaires par ...",
+      "link": "https://www.laregion.ch/le-drive-in-covid-effectuera-200-tests-supplementaires-par-jour-des-demain/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.laregion.ch/le-drive-in-covid-effectuera-200-tests-supplementaires-par-jour-des-demain/&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCJYBEAE",
+      "displayed_link": "https://www.laregion.ch › le-drive-i...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49a56f55040b8ae448ad81783383d1f846.png",
+      "date": "Nov 5, 2020",
+      "snippet": "Concrètement, le centre de dépistage de l'hôpital d'Yverdon-les-Bains testera les patients toutes les deux minutes dès demain. Jusqu'à aujourd' ...",
+      "snippet_highlighted_words": [
+        "Yverdon"
+      ],
+      "source": "La Région"
+    },
+    {
+      "position": 16,
+      "title": "Hôpital d'Yverdon: forte hausse aux drive et walk-in de ...",
+      "link": "https://www.swissinfo.ch/fre/h%C3%B4pital-d-yverdon-forte-hausse-aux-drive-et-walk-in-de-d%C3%A9pistage-du-covid-19/45907798",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.swissinfo.ch/fre/h%25C3%25B4pital-d-yverdon-forte-hausse-aux-drive-et-walk-in-de-d%25C3%25A9pistage-du-covid-19/45907798&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECHwQAQ",
+      "displayed_link": "https://www.swissinfo.ch › fre › h...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49ec1bef049999a2b97d7c027378b6ee97.png",
+      "date": "Jul 16, 2020",
+      "snippet": "« Le nombre est passé de 80 à 150 en moyenne par jour, avec des pics au-delà de 200. Un jour on a eu 242 tests effectués en une seule journée ...",
+      "snippet_highlighted_words": [
+        "tests"
+      ],
+      "source": "SWI swissinfo.ch"
+    },
+    {
+      "position": 17,
+      "title": "Un drive-in qui diagnostique le coronavirus à Yverdon",
+      "link": "https://www.canalalpha.ch/play/le-journal/topic/18909/un-drive-in-qui-diagnostique-le-coronavirus-a-yverdon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.canalalpha.ch/play/le-journal/topic/18909/un-drive-in-qui-diagnostique-le-coronavirus-a-yverdon&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCJoBEAE",
+      "displayed_link": "https://www.canalalpha.ch › topic",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49534a7fd5c01789e7c0961aab5b86a4d5.png",
+      "date": "Apr 30, 2020",
+      "snippet": "Le test de dépistage dure moins de cinq minutes et coûte CHF 120, à charge de l'assurance maladie. Ce drive-in est le premier en Suisse romande.",
+      "snippet_highlighted_words": [
+        "test"
+      ],
+      "source": "canalalpha.ch"
+    },
+    {
+      "position": 18,
+      "title": "Hôpital d'Yverdon: forte hausse aux drive et walk-in de ...",
+      "link": "https://www.rtn.ch/rtn/Actualite/Suisse/Hopital-d-Yverdon-forte-hausse-aux-drive-et-walk-in-de-depistage-du-Covid-19.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rtn.ch/rtn/Actualite/Suisse/Hopital-d-Yverdon-forte-hausse-aux-drive-et-walk-in-de-depistage-du-Covid-19.html&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCKEBEAE",
+      "displayed_link": "https://www.rtn.ch › rtn › Suisse",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49faf996b470d95f4be4021ebe71c2329d.png",
+      "date": "Jul 16, 2020",
+      "snippet": "Pour rappel, il existe treize centres de tests Covid-19 dans le canton de Vaud, dont les drive-in d'Yverdon mais aussi de Payerne (HIB) et de l' ...",
+      "snippet_highlighted_words": [
+        "tests Covid",
+        "Yverdon"
+      ],
+      "source": "Radio RTN"
+    },
+    {
+      "position": 19,
+      "title": "Le premier drive-in romand de dépistage au Covid-19 ...",
+      "link": "https://www.rts.ch/audio-podcast/2020/audio/le-premier-drive-in-romand-de-depistage-au-covid-19-ouvre-ses-portes-a-yverdon-les-bains-vd-25122664.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rts.ch/audio-podcast/2020/audio/le-premier-drive-in-romand-de-depistage-au-covid-19-ouvre-ses-portes-a-yverdon-les-bains-vd-25122664.html&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECH8QAQ",
+      "displayed_link": "https://www.rts.ch › audio › le-pre...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49d0457d593e13de0a20cbb6e7eb001802.png",
+      "date": "Apr 30, 2020",
+      "snippet": "Le premier drive-in romand de dépistage au Covid-19 ouvre ses portes à Yverdon-les-Bains (VD) · Partager · Télécharger.",
+      "snippet_highlighted_words": [
+        "Covid",
+        "Yverdon"
+      ],
+      "source": "rts.ch"
+    },
+    {
+      "position": 20,
+      "title": "CENTRES DE DÉPISTAGE CoVID-19 - Vaud",
+      "link": "https://www.prometerre.ch/s3/site/1588232531_liste_centres_de_depistage_covid19_vaud_060420.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.prometerre.ch/s3/site/1588232531_liste_centres_de_depistage_covid19_vaud_060420.pdf&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECEYQAQ",
+      "displayed_link": "https://www.prometerre.ch › site › 1588232531_...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f492a6b52ad6bb8eac4800c7dab9472acc1.png",
+      "date": "Apr 6, 2020",
+      "snippet": "▫ eHnv - Yverdon-les-Bains. Rue d'Entremonts 11, 1400 Yverdon-les-Bains. DÉPISTAGE (08h–18h). 024 424 43 10. URGENCES (Nocturne). 024 424 44 44.",
+      "snippet_highlighted_words": [
+        "Yverdon",
+        "Yverdon"
+      ],
+      "source": "Prométerre"
+    },
+    {
+      "position": 21,
+      "title": "Unilabs Yverdon-les-Bains",
+      "link": "https://center.unilabs.ch/fr/vaud/cheseaux-noreaz/unilabs-yverdon-les-bains-788",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://center.unilabs.ch/fr/vaud/cheseaux-noreaz/unilabs-yverdon-les-bains-788&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECEwQAQ",
+      "displayed_link": "https://center.unilabs.ch › vaud › u...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49619d0d3d51cc8994c7736cad7f11792f.png",
+      "snippet": "Fermé actuellement. Ouvre demain à 07:30. Lundi: 07:30-11:30; Mardi: 07:30-11:30; Mercredi: 07:30-11:30; Jeudi: 07:30-11:30; Vendredi: 07:30-11:30 ...",
+      "source": "Unilabs"
+    },
+    {
+      "position": 22,
+      "title": "Un drive-in de dépistage à l'hôpital d'Yverdon",
+      "link": "https://www.20min.ch/fr/story/un-drive-in-de-depistage-a-l-hopital-d-yverdon-681137630512",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.20min.ch/fr/story/un-drive-in-de-depistage-a-l-hopital-d-yverdon-681137630512&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECGUQAQ",
+      "displayed_link": "https://www.20min.ch › ... › Suisse",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f495f75e844bbbbc2d85b252f6cd60511b8.png",
+      "date": "Apr 30, 2020",
+      "snippet": "Ouvert sept jours sur sept, le drive-in yverdonnois peut accueillir jusqu'à 100 voitures par jour. Le test coûte 120 francs, remboursé par l' ...",
+      "snippet_highlighted_words": [
+        "Ouvert sept jours sur sept"
+      ],
+      "source": "20 Min"
+    },
+    {
+      "position": 23,
+      "title": "[YVERDON] La hausse des passages au drive-in ...",
+      "link": "https://www.facebook.com/nouvelliste/videos/yverdon-la-hausse-des-passages-au-drive-in-de-d%C3%A9pistage-du-coronavirus-est-signi/297965134689023/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/nouvelliste/videos/yverdon-la-hausse-des-passages-au-drive-in-de-d%25C3%25A9pistage-du-coronavirus-est-signi/297965134689023/&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECC8QAQ",
+      "displayed_link": "20+ reactions · 5 years ago",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f492c063f7ca0472369411abd758d56b287.png",
+      "snippet": "[YVERDON] La hausse des passages au drive-in de dépistage du coronavirus est significative.",
+      "snippet_highlighted_words": [
+        "YVERDON",
+        "coronavirus"
+      ],
+      "source": "Facebook · Le Nouvelliste"
+    },
+    {
+      "position": 24,
+      "title": "Le premier drive-in romand de dépistage du coronavirus ...",
+      "link": "https://www.rts.ch/play/tv/12h45/video/le-premier-drive-in-romand-de-depistage-du-coronavirus-peut-accueillir-100-patients-par-jour-a-yverdon-les-bains?urn=urn:rts:video:11291656",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rts.ch/play/tv/12h45/video/le-premier-drive-in-romand-de-depistage-du-coronavirus-peut-accueillir-100-patients-par-jour-a-yverdon-les-bains%3Furn%3Durn:rts:video:11291656&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECGAQAQ",
+      "displayed_link": "https://www.rts.ch › play › video › le-premier-drive-in-r...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f499c59c07899f3128e54cc025f412b4f9e.png",
+      "snippet": "Le premier drive-in romand de dépistage du coronavirus peut accueillir 100 patients par jour à Yverdon-les-Bains. · Derniers épisodes · Les ...",
+      "snippet_highlighted_words": [
+        "peut accueillir 100 patients par jour à Yverdon-les-Bains"
+      ],
+      "source": "rts.ch"
+    },
+    {
+      "position": 25,
+      "title": "Un drive-in de dépistage à l'hôpital d'Yverdon",
+      "link": "https://www.swissinfo.ch/fre/un-drive-in-de-d%C3%A9pistage-%C3%A0-l-h%C3%B4pital-d-yverdon/45727902",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.swissinfo.ch/fre/un-drive-in-de-d%25C3%25A9pistage-%25C3%25A0-l-h%25C3%25B4pital-d-yverdon/45727902&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECGcQAQ",
+      "displayed_link": "https://www.swissinfo.ch › fre › u...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49dc827f97fc4c48131568d957005e6bc1.png",
+      "date": "Apr 30, 2020",
+      "snippet": "Pour le patient, le test coûte 120 francs. Il est remboursé par l'assurance maladie de base. Si l'hôpital d'Yverdon est le premier à se lancer ...",
+      "snippet_highlighted_words": [
+        "le test coûte 120 francs"
+      ],
+      "source": "SWI swissinfo.ch"
+    },
+    {
+      "position": 26,
+      "title": "Centre de dépistage COVID-19 : prenez rendez-vous en ...",
+      "link": "https://www.doctolib.fr/centre-depistage-covid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doctolib.fr/centre-depistage-covid&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECH0QAQ",
+      "displayed_link": "https://www.doctolib.fr › centre-d...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f4909ab51fa3c724bb2d1de57ce782c814f.png",
+      "snippet": "Pas de rendez-vous réservable en ligne pour ce soignant. Appelez le 04 78 91 45 09 pour prendre un rendez-vous. Cabinet de kinésithérapie - CKBO Bron l' ...",
+      "source": "Doctolib"
+    },
+    {
+      "position": 27,
+      "title": "Un premier drive-in de dépistage ouvre en Suisse romande",
+      "link": "https://www.letemps.ch/suisse/vaud/un-premier-drivein-depistage-ouvre-suisse-romande?srsltid=AfmBOorp_y6aSnpMMsSwr8HADwKVNljzpZk9a0FNnExCdLifq_3G-kCC",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.letemps.ch/suisse/vaud/un-premier-drivein-depistage-ouvre-suisse-romande%3Fsrsltid%3DAfmBOorp_y6aSnpMMsSwr8HADwKVNljzpZk9a0FNnExCdLifq_3G-kCC&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECH4QAQ",
+      "displayed_link": "https://www.letemps.ch › vaud › u...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49a8631223ca8d8e6ad21f92e091052dac.png",
+      "date": "Apr 30, 2020",
+      "snippet": "Il est désormais possible de savoir si l'on est atteint par le coronavirus en moins de cinq minutes, sans sortir de sa voiture.",
+      "snippet_highlighted_words": [
+        "coronavirus"
+      ],
+      "source": "Le Temps"
+    },
+    {
+      "position": 28,
+      "title": "Coronavirus: le premier drive-in de dépistage de Suisse ...",
+      "link": "https://www.lenouvelliste.ch/suisse/coronavirus-le-premier-drive-in-de-depistage-de-suisse-romande-ouvert-a-lhopital-dyverdon-les-bains-933188",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lenouvelliste.ch/suisse/coronavirus-le-premier-drive-in-de-depistage-de-suisse-romande-ouvert-a-lhopital-dyverdon-les-bains-933188&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCIABEAE",
+      "displayed_link": "https://www.lenouvelliste.ch › suisse",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49cd8a5f9e7398caee3061f48e7bea08db.png",
+      "date": "Apr 30, 2020",
+      "snippet": "Première en Suisse romande, un drive-in de dépistage du Covid-19 a ouvert, hier, à l'hôpital d'Yverdon-les-Bains. Il permet aux personnes ...",
+      "snippet_highlighted_words": [
+        "un drive-in de dépistage du Covid-19 a ouvert, hier, à l'hôpital d'Yverdon-les-Bains"
+      ],
+      "source": "Le Nouvelliste"
+    },
+    {
+      "position": 29,
+      "title": "Dépistage du coronavirus: quand, où et comment? - Suisse",
+      "link": "https://www.rts.ch/info/suisse/11620831-depistage-du-coronavirus-quand-ou-et-comment.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rts.ch/info/suisse/11620831-depistage-du-coronavirus-quand-ou-et-comment.html&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCIIBEAE",
+      "displayed_link": "https://www.rts.ch › ... › Suisse",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f494e26b4bc7ab6696da57f2859fe4cbd79.png",
+      "date": "Sep 21, 2020",
+      "snippet": "Finalement, dans le canton de Vaud, la situation est assez variée : le test de dépistage peut se faire en cabinet médical ou aux urgences, ou ...",
+      "snippet_highlighted_words": [
+        "test"
+      ],
+      "source": "rts.ch"
+    },
+    {
+      "position": 30,
+      "title": "Avant les vacances scolaires, c'est la ruée sur les tests",
+      "link": "https://www.tdg.ch/avant-les-vacances-scolaires-cest-la-ruee-sur-les-tests-607020595040",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tdg.ch/avant-les-vacances-scolaires-cest-la-ruee-sur-les-tests-607020595040&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCJIBEAE",
+      "displayed_link": "https://www.tdg.ch › Suisse",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49129ecea0c165e8b16d1ffd3167819c96.png",
+      "date": "Jun 9, 2021",
+      "snippet": "À l'approche des vacances d'été, les demandes de tests (ici à Yverdon-les-Bains le 4 novembre dernier) sont en très forte augmentation.",
+      "snippet_highlighted_words": [
+        "tests",
+        "Yverdon"
+      ],
+      "source": "Tribune de Genève"
+    },
+    {
+      "position": 31,
+      "title": "Dentiste Yverdon-les-Bains | Cabinet dentaire Proxident à ...",
+      "link": "https://proxident.ch/dentiste-yverdon/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proxident.ch/dentiste-yverdon/&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCJwBEAE",
+      "displayed_link": "https://proxident.ch › dentiste-yver...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f492713508504d31e0ba2e81ffce055bbcd.png",
+      "snippet": "Rendez-vous dans notre cabinet dentaire à Yverdon avec nos dentistes et orthodontistes pour tous vos soins dentaires ou urgence dentaire.",
+      "snippet_highlighted_words": [
+        "Yverdon"
+      ],
+      "source": "proxident.ch"
+    },
+    {
+      "position": 32,
+      "title": "Test Covid-19 | Ihre Apotheke | - votre-pharmacie.ch",
+      "link": "https://votre-pharmacie.ch/fr/test-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://votre-pharmacie.ch/fr/test-covid-19&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCJsBEAE",
+      "displayed_link": "https://votre-pharmacie.ch › test-c...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f4961f8e010864c61d57e1e1f418d08db7c.png",
+      "snippet": "Depuis le 1er janvier 2023, les pharmacies peuvent uniquement proposer des tests COVID en tant que prestations à la charge de la clientèle. Tests PCR; Tests ...",
+      "snippet_highlighted_words": [
+        "tests COVID",
+        "Tests",
+        "Tests"
+      ],
+      "source": "votre-pharmacie.ch"
+    },
+    {
+      "position": 33,
+      "title": "Yverdon passe au diagnostic rapide sur un «drive-in",
+      "link": "https://www.24heures.ch/yverdon-passe-au-diagnostic-rapide-sur-un-drive-in-702493064235",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.24heures.ch/yverdon-passe-au-diagnostic-rapide-sur-un-drive-in-702493064235&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCJ0BEAE",
+      "displayed_link": "https://www.24heures.ch › yverdo...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f4973f3b7a174734a1b72f677236c30db25.png",
+      "date": "May 1, 2020",
+      "snippet": "Les Établissements hospitaliers du Nord vaudois (EHNV) ont ouvert jeudi à Yverdon un «drive-in», mais destiné aux patients potentiellement ...",
+      "snippet_highlighted_words": [
+        "Yverdon"
+      ],
+      "source": "24 Heures"
+    },
+    {
+      "position": 34,
+      "title": "_________________________...",
+      "link": "https://heig-vd.ch/docs/default-source/doc-a-propos/r%C3%A9glementation/heig-vd_2021-12-20_covid_plan-protection-d%C3%A8s-20-d%C3%A9cembre-2021.pdf?sfvrsn=1ed741e5_2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://heig-vd.ch/docs/default-source/doc-a-propos/r%25C3%25A9glementation/heig-vd_2021-12-20_covid_plan-protection-d%25C3%25A8s-20-d%25C3%25A9cembre-2021.pdf%3Fsfvrsn%3D1ed741e5_2&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoFCKABEAE",
+      "displayed_link": "https://heig-vd.ch › doc-a-propos › réglementation",
+      "date": "Dec 20, 2021",
+      "snippet": "1400 Yverdon-les-Bains. Site de Champs-. Lovats. Rue des Champs ... du vaccin contre le Covid-19 ou ayant participé à un test salivaire.",
+      "snippet_highlighted_words": [
+        "Yverdon",
+        "Covid",
+        "test salivaire"
+      ],
+      "source": "HEIG-VD"
+    },
+    {
+      "position": 35,
+      "title": "Consultation VIH-IST anonyme (VISTA)",
+      "link": "https://www.unisante.ch/fr/consultations-medicales/consultations/consultation-vih-ist-anonyme-vista",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unisante.ch/fr/consultations-medicales/consultations/consultation-vih-ist-anonyme-vista&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECEcQAQ",
+      "displayed_link": "https://www.unisante.ch › consulta...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49192aa1c717f9104e82581c1fcf7c164f.png",
+      "snippet": "Coût. Consultation CHF 80.– / Gratuite pour les moins de 25 ans. Test rapide VIH CHF 20.– / CHF 12.– pour les moins de 25 ans. Tests standards VIH, syphilis, ...",
+      "snippet_highlighted_words": [
+        "Test",
+        "Tests"
+      ],
+      "source": "Unisanté"
+    },
+    {
+      "position": 36,
+      "title": "Dépistage COVID-19 test PCR (prélèvement naso-pharyngé)",
+      "link": "https://www.doctolib.fr/depistage-covid-19-pcr-prelevement-naso-pharynge",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.doctolib.fr/depistage-covid-19-pcr-prelevement-naso-pharynge&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECEUQAQ",
+      "displayed_link": "https://www.doctolib.fr › depistag...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49bd658f17e5e0686937bbb23f035a9ab0.png",
+      "snippet": "Prenez rendez-vous en ligne avec Dépistage COVID-19 test PCR (prélèvement naso-pharyngé) ou des soignants proposant des services de Dépistage COVID-19 test ...",
+      "snippet_highlighted_words": [
+        "Prenez rendez-vous en ligne avec Dépistage COVID-19 test PCR"
+      ],
+      "source": "Doctolib"
+    },
+    {
+      "position": 37,
+      "title": "Suisse | Tribune de Genève",
+      "link": "https://www.tdg.ch/suisse/2021/08/04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tdg.ch/suisse/2021/08/04&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECEQQAQ",
+      "displayed_link": "https://www.tdg.ch › 2021/08/04",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49b0a47309eb860db4f888121f932fc611.png",
+      "snippet": "Dépistage du Covid-19Un nouveau test salivaire contrôlé par vidéoconférence. Un laboratoire fribourgeois propose au patient d'effectuer seul le prélèvement ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "test salivaire"
+      ],
+      "source": "Tribune de Genève"
+    },
+    {
+      "position": 38,
+      "title": "Pas de flambée au collège Numa-Droz de La Chaux-de-Fonds",
+      "link": "https://www.bluewin.ch/fr/infos/suisse/pas-de-flamb-e-au-coll-ge-numa-droz-de-la-chaux-de-fonds-609144.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bluewin.ch/fr/infos/suisse/pas-de-flamb-e-au-coll-ge-numa-droz-de-la-chaux-de-fonds-609144.html&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECEkQAQ",
+      "displayed_link": "https://www.bluewin.ch › suisse",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f499787ab1b74b7fd316cd43b72bf52ae7e.png",
+      "snippet": "Les tests salivaires PCR, gratuits, ont été effectués par des infirmières scolaires et des étudiants de la Haute Ecole Arc Santé (archives).",
+      "snippet_highlighted_words": [
+        "tests salivaires PCR, gratuits"
+      ],
+      "source": "bluewin E-Mail"
+    },
+    {
+      "position": 39,
+      "title": "Journal du 24 juin 2021 - Radar vaudois",
+      "link": "https://latele.ch/emissions/radar-vaudois/radar-vaudois-s-2021-e-120?t=665",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://latele.ch/emissions/radar-vaudois/radar-vaudois-s-2021-e-120%3Ft%3D665&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECCsQAQ",
+      "displayed_link": "https://latele.ch › emissions › radar...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49f0e9270531bd5953c5e8d0f9e2baae03.png",
+      "snippet": "... Yverdon-les-Bains propose des tests covid par prélèvement salivaire. Plus confortable et plus simple, notamment pour les enfants, il offre un résultat dans ...",
+      "snippet_highlighted_words": [
+        "Yverdon-les-Bains propose des tests covid par prélèvement salivaire"
+      ],
+      "source": "La Télé"
+    },
+    {
+      "position": 40,
+      "title": "eHnv, Yverdon-les-Bains",
+      "link": "https://ehnv.agenda.ch/fr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ehnv.agenda.ch/fr&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECCwQAQ",
+      "displayed_link": "https://ehnv.agenda.ch › ...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49ac6f6d54d8842fb255ee9158b4028d64.png",
+      "snippet": "Test respiratoire Helicobacter pylori. Cette prestation est réalisée au centre de prélèvement situé au 1er étage du bâtiment principal de l'Hôpital. Pour ...",
+      "snippet_highlighted_words": [
+        "Test"
+      ],
+      "source": "agenda.ch"
+    },
+    {
+      "position": 41,
+      "title": "COVID-19 : Dépistage et autres analyses",
+      "link": "https://www.biron.com/fr/laboratoire/covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.biron.com/fr/laboratoire/covid-19/&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECCkQAQ",
+      "displayed_link": "https://www.biron.com › laboratoire",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f49bd7dc11f37e68198b535b6d835b14712.png",
+      "snippet": "COVID-19 : Apprenez-en davantage sur le test de dépistage et les autres analyses pour la COVID-19 offerts par Biron.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "test",
+        "COVID"
+      ],
+      "source": "Biron"
+    },
+    {
+      "position": 42,
+      "title": "Dépistage | Centre Yverdonnois de Gastroentérologie et ...",
+      "link": "https://www.cygnemed.ch/services-1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cygnemed.ch/services-1&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECCoQAQ",
+      "displayed_link": "https://www.cygnemed.ch › service...",
+      "snippet": "Votre médecin traitant vous a-t-il informé(e) sur les modalités de dépistage précoce du cancer colo-rectal ? Votre médecin traitant vous a conseillé la ...",
+      "source": "Centre Yverdonnois de Gastroentérologie et Endoscopies"
+    },
+    {
+      "position": 43,
+      "title": "pharmacieplus de la gare | - votre-pharmacie.ch",
+      "link": "https://votre-pharmacie.ch/fr/1164/yverdon-les-bains/pharmacieplus-de-la-gare-yverdon-les-bains-sa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://votre-pharmacie.ch/fr/1164/yverdon-les-bains/pharmacieplus-de-la-gare-yverdon-les-bains-sa&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQFnoECGYQAQ",
+      "displayed_link": "https://votre-pharmacie.ch › phar...",
+      "favicon": "https://serpapi.com/searches/6883080aeeabd3bf28417a17/images/2a25884df3f57697bacd40149f213f4950361bd5917caa2a160011d8d48911ca.png",
+      "snippet": "pharmacieplus de la gare. avenue de la Gare 10, 1400 Yverdon-les-Bains ... Test rapide COVID-19. Ce test permet de détecter les infections aiguës et ...",
+      "snippet_highlighted_words": [
+        "Yverdon",
+        "Test",
+        "COVID",
+        "test"
+      ],
+      "missing": [
+        "salivaire"
+      ],
+      "must_include": {
+        "word": "salivaire",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=test+%22salivaire%22+covid+yverdon&sa=X&ved=2ahUKEwjdhb-MlteOAxWIOzQIHRO_IEsQ5t4CegQIcxAB"
+      },
+      "source": "votre-pharmacie.ch"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 44 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=test+salivaire+covid+yverdon&num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=test+salivaire+covid+yverdon&oq=test+salivaire+covid+yverdon&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=test+salivaire+covid+yverdon&oq=test+salivaire+covid+yverdon&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=test+salivaire+covid+yverdon&oq=test+salivaire+covid+yverdon&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=test+salivaire+covid+yverdon&oq=test+salivaire+covid+yverdon&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=test+salivaire+covid+yverdon&oq=test+salivaire+covid+yverdon&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+salivaire+covid+yverdon&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+salivaire+covid+yverdon&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+salivaire+covid+yverdon&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+salivaire+covid+yverdon&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+salivaire+covid+yverdon&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+salivaire+covid+yverdon&start=400"
+    }
+  }
+}

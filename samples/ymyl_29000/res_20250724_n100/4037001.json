@@ -1,0 +1,495 @@
+{
+  "search_metadata": {
+    "id": "6882e7f7ae39f3f7836c1a24",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6565751c2ff2c17e/6882e7f7ae39f3f7836c1a24.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6565751c2ff2c17e/6882e7f7ae39f3f7836c1a24.json_with_pixel_position",
+    "created_at": "2025-07-25 02:12:07 UTC",
+    "processed_at": "2025-07-25 02:12:07 UTC",
+    "google_url": "https://www.google.com/search?q=test+covid+estavayer+le+lac&oq=test+covid+estavayer+le+lac&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6565751c2ff2c17e/6882e7f7ae39f3f7836c1a24.html",
+    "total_time_taken": 5.05
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "test covid estavayer le lac",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "test covid estavayer le lac",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Où se procurer un test Covid Laval ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGFtbEpUMkZRUmxrM1ZpMHpabFZMU1V0VFJIRXpkVlJFT1hrMVJtVkZSREIzYVdGaWVGVmxTVTV5Vmw5SFFra3pkMk0zUlZkdU0wbFdValJ3VUVKUVIydDFXbXRvVkZNM1ZFVXlPVVJRWDE5RFNtMDNVVWRPY0hreFFSSVhMVTlsUTJGUVNGaExjMjE2Y0hSUlVHMW1OMnAxUVhjYUlrRkdUVUZIUjNGeFIxQnBRWGxIZWpVdGVEQk5RemxaUVhCeUxVNDNSMk5PWldjIiwiZmN2IjoiMyIsImVpIjoiLU9lQ2FQSFhLc216cHRRUG1mN2p1QXciLCJxYyI6IkNodDBaWE4wSUdOdmRtbGtJR1Z6ZEdGMllYbGxjaUJzWlNCc1lXTVFCSDNJU1NjXyIsInF1ZXN0aW9uIjoiT8O5IHNlIHByb2N1cmVyIHVuIHRlc3QgQ292aWQgTGF2YWwgPyIsImxrIjoiR2g5dmRTQnpaU0J3Y205amRYSmxjaUIwWlhOMElHTnZkbWxrSUd4aGRtRnMiLCJicyI6ImMyV1B2VTRDUVJTRnRaMktra3dRampFbU5pU3lNU1pVVzJDRDBkRFJUOVpMZG5TWmlfTkg4TTFzYkh3RGU5X0JSMkFHMXFDaHVzMTN2bk9QZUJTWHM4OTNPTUxLY2hVc1dRUURUODVqd2xFXzRVRkYxYURzZnZXTGN6bmc4QV9kY2RXT2F6SW5Yc1h0aEpkTE1oNU9SZFlXVGlOeWNGQ1IzdEJRU3p0bFhOc3ltMF92a3ZfN3ZyaVIxeld2NFJrdkpsMjl3Q2IxMVNuWnB0YmExeHgtRzNQODZrUk14VVZlc0tMZ2gyeWdxcHI4MFlxeS03RXBCdklzLVRLSVAtQmhneWhGTDZzV1Nsdkt2eDRFdzlFNE9YNmVpNTZVZklUc194bU5PNmRiIiwiaWQiOiJmY18tT2VDYVBIWEtzbXpwdFFQbWY3anVBd18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGFtbEpUMkZRUmxrM1ZpMHpabFZMU1V0VFJIRXpkVlJFT1hrMVJtVkZSREIzYVdGaWVGVmxTVTV5Vmw5SFFra3pkMk0zUlZkdU0wbFdValJ3VUVKUVIydDFXbXRvVkZNM1ZFVXlPVVJRWDE5RFNtMDNVVWRPY0hreFFSSVhMVTlsUTJGUVNGaExjMjE2Y0hSUlVHMW1OMnAxUVhjYUlrRkdUVUZIUjNGeFIxQnBRWGxIZWpVdGVEQk5RemxaUVhCeUxVNDNSMk5PWldjIiwiZmN2IjoiMyIsImVpIjoiLU9lQ2FQSFhLc216cHRRUG1mN2p1QXciLCJxYyI6IkNodDBaWE4wSUdOdmRtbGtJR1Z6ZEdGMllYbGxjaUJzWlNCc1lXTVFCSDNJU1NjXyIsInF1ZXN0aW9uIjoiT8O5IHNlIHByb2N1cmVyIHVuIHRlc3QgQ292aWQgTGF2YWwgPyIsImxrIjoiR2g5dmRTQnpaU0J3Y205amRYSmxjaUIwWlhOMElHTnZkbWxrSUd4aGRtRnMiLCJicyI6ImMyV1B2VTRDUVJTRnRaMktra3dRampFbU5pU3lNU1pVVzJDRDBkRFJUOVpMZG5TWmlfTkg4TTFzYkh3RGU5X0JSMkFHMXFDaHVzMTN2bk9QZUJTWHM4OTNPTUxLY2hVc1dRUURUODVqd2xFXzRVRkYxYURzZnZXTGN6bmc4QV9kY2RXT2F6SW5Yc1h0aEpkTE1oNU9SZFlXVGlOeWNGQ1IzdEJRU3p0bFhOc3ltMF92a3ZfN3ZyaVIxeld2NFJrdkpsMjl3Q2IxMVNuWnB0YmExeHgtRzNQODZrUk14VVZlc0tMZ2gyeWdxcHI4MFlxeS03RXBCdklzLVRLSVAtQmhneWhGTDZzV1Nsdkt2eDRFdzlFNE9YNmVpNTZVZklUc194bU5PNmRiIiwiaWQiOiJmY18tT2VDYVBIWEtzbXpwdFFQbWY3anVBd18xIn0%3D"
+    },
+    {
+      "question": "Comment savoir si vous avez le covid sans test COVID ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGFtbEpUMkZRUmxrM1ZpMHpabFZMU1V0VFJIRXpkVlJFT1hrMVJtVkZSREIzYVdGaWVGVmxTVTV5Vmw5SFFra3pkMk0zUlZkdU0wbFdValJ3VUVKUVIydDFXbXRvVkZNM1ZFVXlPVVJRWDE5RFNtMDNVVWRPY0hreFFSSVhMVTlsUTJGUVNGaExjMjE2Y0hSUlVHMW1OMnAxUVhjYUlrRkdUVUZIUjNGeFIxQnBRWGxIZWpVdGVEQk5RemxaUVhCeUxVNDNSMk5PWldjIiwiZmN2IjoiMyIsImVpIjoiLU9lQ2FQSFhLc216cHRRUG1mN2p1QXciLCJxYyI6IkNodDBaWE4wSUdOdmRtbGtJR1Z6ZEdGMllYbGxjaUJzWlNCc1lXTVFCSDNJU1NjXyIsInF1ZXN0aW9uIjoiQ29tbWVudCBzYXZvaXIgc2kgdm91cyBhdmV6IGxlIGNvdmlkIHNhbnMgdGVzdCBDT1ZJRCA/IiwibGsiOiJjNU15eU1ndlZ5akpWOGpPQTlLWmFRcVYtYVVLR1lsbHFRckotV1daS1FybG1TVVotYVVsVUY1SmFuR0pCZ01BIiwiYnMiOiJjMldQdlU0Q1FSU0Z0WjJLa2t3UWpqRW1OaVN5TVNaVVcyQ0QwZERSVDlaTGRuU1ppX05IOE0xc2JId0RlOV9CUjJBRzFxQ2h1czEzdm5PUGVCU1hzODkzT01MS2NoVXNXUVFEVDg1andsRV80VUZGMWFEc2Z2V0xjem5nOEFfZGNkV09hekluWHNYdGhKZExNaDVPUmRZV1RpTnljRkNSM3RCUVN6dGxYTnN5bTBfdmt2Xzd2cmlSMXpXdjRSa3ZKbDI5d0NiMTFTblpwdGJhMXh4LUczUDg2a1JNeFVWZXNLTGdoMnlncXByODBZcXktN0VwQnZJcy1US0lQLUJoZ3loRkw2c1dTbHZLdng0RXc5RTRPWDZlaTU2VWZJVHNfeG1OTzZkYiIsImlkIjoiZmNfLU9lQ2FQSFhLc216cHRRUG1mN2p1QXdfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGFtbEpUMkZRUmxrM1ZpMHpabFZMU1V0VFJIRXpkVlJFT1hrMVJtVkZSREIzYVdGaWVGVmxTVTV5Vmw5SFFra3pkMk0zUlZkdU0wbFdValJ3VUVKUVIydDFXbXRvVkZNM1ZFVXlPVVJRWDE5RFNtMDNVVWRPY0hreFFSSVhMVTlsUTJGUVNGaExjMjE2Y0hSUlVHMW1OMnAxUVhjYUlrRkdUVUZIUjNGeFIxQnBRWGxIZWpVdGVEQk5RemxaUVhCeUxVNDNSMk5PWldjIiwiZmN2IjoiMyIsImVpIjoiLU9lQ2FQSFhLc216cHRRUG1mN2p1QXciLCJxYyI6IkNodDBaWE4wSUdOdmRtbGtJR1Z6ZEdGMllYbGxjaUJzWlNCc1lXTVFCSDNJU1NjXyIsInF1ZXN0aW9uIjoiQ29tbWVudCBzYXZvaXIgc2kgdm91cyBhdmV6IGxlIGNvdmlkIHNhbnMgdGVzdCBDT1ZJRCA%2FIiwibGsiOiJjNU15eU1ndlZ5akpWOGpPQTlLWmFRcVYtYVVLR1lsbHFRckotV1daS1FybG1TVVotYVVsVUY1SmFuR0pCZ01BIiwiYnMiOiJjMldQdlU0Q1FSU0Z0WjJLa2t3UWpqRW1OaVN5TVNaVVcyQ0QwZERSVDlaTGRuU1ppX05IOE0xc2JId0RlOV9CUjJBRzFxQ2h1czEzdm5PUGVCU1hzODkzT01MS2NoVXNXUVFEVDg1andsRV80VUZGMWFEc2Z2V0xjem5nOEFfZGNkV09hekluWHNYdGhKZExNaDVPUmRZV1RpTnljRkNSM3RCUVN6dGxYTnN5bTBfdmt2Xzd2cmlSMXpXdjRSa3ZKbDI5d0NiMTFTblpwdGJhMXh4LUczUDg2a1JNeFVWZXNLTGdoMnlncXByODBZcXktN0VwQnZJcy1US0lQLUJoZ3loRkw2c1dTbHZLdng0RXc5RTRPWDZlaTU2VWZJVHNfeG1OTzZkYiIsImlkIjoiZmNfLU9lQ2FQSFhLc216cHRRUG1mN2p1QXdfMSJ9"
+    },
+    {
+      "question": "Où peut-on acheter un test Covid ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGFtbEpUMkZRUmxrM1ZpMHpabFZMU1V0VFJIRXpkVlJFT1hrMVJtVkZSREIzYVdGaWVGVmxTVTV5Vmw5SFFra3pkMk0zUlZkdU0wbFdValJ3VUVKUVIydDFXbXRvVkZNM1ZFVXlPVVJRWDE5RFNtMDNVVWRPY0hreFFSSVhMVTlsUTJGUVNGaExjMjE2Y0hSUlVHMW1OMnAxUVhjYUlrRkdUVUZIUjNGeFIxQnBRWGxIZWpVdGVEQk5RemxaUVhCeUxVNDNSMk5PWldjIiwiZmN2IjoiMyIsImVpIjoiLU9lQ2FQSFhLc216cHRRUG1mN2p1QXciLCJxYyI6IkNodDBaWE4wSUdOdmRtbGtJR1Z6ZEdGMllYbGxjaUJzWlNCc1lXTVFCSDNJU1NjXyIsInF1ZXN0aW9uIjoiT8O5IHBldXQtb24gYWNoZXRlciB1biB0ZXN0IENvdmlkID8iLCJsayI6IkdoMXZkU0J3WlhWMElHOXVJR0ZqYUdWMFpYSWdkR1Z6ZENCamIzWnBaQSIsImJzIjoiYzJXUHZVNENRUlNGdFoyS2trd1FqakVtTmlTeU1TWlVXMkNEMGREUlQ5WkxkblNaaV9OSDhNMXNiSHdEZTlfQlIyQUcxcUNodXMxM3ZuT1BlQlNYczg5M09NTEtjaFVzV1FRRFQ4NWp3bEVfNFVGRjFhRHNmdldMY3puZzhBX2RjZFdPYXpJblhzWHRoSmRMTWg1T1JkWVdUaU55Y0ZDUjN0QlFTenRsWE5zeW0wX3Zrdl83dnJpUjF6V3Y0Umt2SmwyOXdDYjExU25acHRiYTF4eC1HM1A4NmtSTXhVVmVzS0xnaDJ5Z3FwcjgwWXF5LTdFcEJ2SXMtVEtJUC1CaGd5aEZMNnNXU2x2S3Z4NEV3OUU0T1g2ZWk1NlVmSVRzX3htTk82ZGIiLCJpZCI6ImZjXy1PZUNhUEhYS3NtenB0UVBtZjdqdUF3XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGFtbEpUMkZRUmxrM1ZpMHpabFZMU1V0VFJIRXpkVlJFT1hrMVJtVkZSREIzYVdGaWVGVmxTVTV5Vmw5SFFra3pkMk0zUlZkdU0wbFdValJ3VUVKUVIydDFXbXRvVkZNM1ZFVXlPVVJRWDE5RFNtMDNVVWRPY0hreFFSSVhMVTlsUTJGUVNGaExjMjE2Y0hSUlVHMW1OMnAxUVhjYUlrRkdUVUZIUjNGeFIxQnBRWGxIZWpVdGVEQk5RemxaUVhCeUxVNDNSMk5PWldjIiwiZmN2IjoiMyIsImVpIjoiLU9lQ2FQSFhLc216cHRRUG1mN2p1QXciLCJxYyI6IkNodDBaWE4wSUdOdmRtbGtJR1Z6ZEdGMllYbGxjaUJzWlNCc1lXTVFCSDNJU1NjXyIsInF1ZXN0aW9uIjoiT8O5IHBldXQtb24gYWNoZXRlciB1biB0ZXN0IENvdmlkID8iLCJsayI6IkdoMXZkU0J3WlhWMElHOXVJR0ZqYUdWMFpYSWdkR1Z6ZENCamIzWnBaQSIsImJzIjoiYzJXUHZVNENRUlNGdFoyS2trd1FqakVtTmlTeU1TWlVXMkNEMGREUlQ5WkxkblNaaV9OSDhNMXNiSHdEZTlfQlIyQUcxcUNodXMxM3ZuT1BlQlNYczg5M09NTEtjaFVzV1FRRFQ4NWp3bEVfNFVGRjFhRHNmdldMY3puZzhBX2RjZFdPYXpJblhzWHRoSmRMTWg1T1JkWVdUaU55Y0ZDUjN0QlFTenRsWE5zeW0wX3Zrdl83dnJpUjF6V3Y0Umt2SmwyOXdDYjExU25acHRiYTF4eC1HM1A4NmtSTXhVVmVzS0xnaDJ5Z3FwcjgwWXF5LTdFcEJ2SXMtVEtJUC1CaGd5aEZMNnNXU2x2S3Z4NEV3OUU0T1g2ZWk1NlVmSVRzX3htTk82ZGIiLCJpZCI6ImZjXy1PZUNhUEhYS3NtenB0UVBtZjdqdUF3XzEifQ%3D%3D"
+    },
+    {
+      "question": "Où faire le test Covid-19 ?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGFtbEpUMkZRUmxrM1ZpMHpabFZMU1V0VFJIRXpkVlJFT1hrMVJtVkZSREIzYVdGaWVGVmxTVTV5Vmw5SFFra3pkMk0zUlZkdU0wbFdValJ3VUVKUVIydDFXbXRvVkZNM1ZFVXlPVVJRWDE5RFNtMDNVVWRPY0hreFFSSVhMVTlsUTJGUVNGaExjMjE2Y0hSUlVHMW1OMnAxUVhjYUlrRkdUVUZIUjNGeFIxQnBRWGxIZWpVdGVEQk5RemxaUVhCeUxVNDNSMk5PWldjIiwiZmN2IjoiMyIsImVpIjoiLU9lQ2FQSFhLc216cHRRUG1mN2p1QXciLCJxYyI6IkNodDBaWE4wSUdOdmRtbGtJR1Z6ZEdGMllYbGxjaUJzWlNCc1lXTVFCSDNJU1NjXyIsInF1ZXN0aW9uIjoiT8O5IGZhaXJlIGxlIHRlc3QgQ292aWQtMTkgPyIsImxrIjoiR2hwdnc3a2dabUZwY21VZ2JHVWdkR1Z6ZENCamIzWnBaQ0F4T1EiLCJicyI6ImMyV1B2VTRDUVJTRnRaMktra3dRampFbU5pU3lNU1pVVzJDRDBkRFJUOVpMZG5TWmlfTkg4TTFzYkh3RGU5X0JSMkFHMXFDaHVzMTN2bk9QZUJTWHM4OTNPTUxLY2hVc1dRUURUODVqd2xFXzRVRkYxYURzZnZXTGN6bmc4QV9kY2RXT2F6SW5Yc1h0aEpkTE1oNU9SZFlXVGlOeWNGQ1IzdEJRU3p0bFhOc3ltMF92a3ZfN3ZyaVIxeld2NFJrdkpsMjl3Q2IxMVNuWnB0YmExeHgtRzNQODZrUk14VVZlc0tMZ2gyeWdxcHI4MFlxeS03RXBCdklzLVRLSVAtQmhneWhGTDZzV1Nsdkt2eDRFdzlFNE9YNmVpNTZVZklUc194bU5PNmRiIiwiaWQiOiJmY18tT2VDYVBIWEtzbXpwdFFQbWY3anVBd18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGFtbEpUMkZRUmxrM1ZpMHpabFZMU1V0VFJIRXpkVlJFT1hrMVJtVkZSREIzYVdGaWVGVmxTVTV5Vmw5SFFra3pkMk0zUlZkdU0wbFdValJ3VUVKUVIydDFXbXRvVkZNM1ZFVXlPVVJRWDE5RFNtMDNVVWRPY0hreFFSSVhMVTlsUTJGUVNGaExjMjE2Y0hSUlVHMW1OMnAxUVhjYUlrRkdUVUZIUjNGeFIxQnBRWGxIZWpVdGVEQk5RemxaUVhCeUxVNDNSMk5PWldjIiwiZmN2IjoiMyIsImVpIjoiLU9lQ2FQSFhLc216cHRRUG1mN2p1QXciLCJxYyI6IkNodDBaWE4wSUdOdmRtbGtJR1Z6ZEdGMllYbGxjaUJzWlNCc1lXTVFCSDNJU1NjXyIsInF1ZXN0aW9uIjoiT8O5IGZhaXJlIGxlIHRlc3QgQ292aWQtMTkgPyIsImxrIjoiR2hwdnc3a2dabUZwY21VZ2JHVWdkR1Z6ZENCamIzWnBaQ0F4T1EiLCJicyI6ImMyV1B2VTRDUVJTRnRaMktra3dRampFbU5pU3lNU1pVVzJDRDBkRFJUOVpMZG5TWmlfTkg4TTFzYkh3RGU5X0JSMkFHMXFDaHVzMTN2bk9QZUJTWHM4OTNPTUxLY2hVc1dRUURUODVqd2xFXzRVRkYxYURzZnZXTGN6bmc4QV9kY2RXT2F6SW5Yc1h0aEpkTE1oNU9SZFlXVGlOeWNGQ1IzdEJRU3p0bFhOc3ltMF92a3ZfN3ZyaVIxeld2NFJrdkpsMjl3Q2IxMVNuWnB0YmExeHgtRzNQODZrUk14VVZlc0tMZ2gyeWdxcHI4MFlxeS03RXBCdklzLVRLSVAtQmhneWhGTDZzV1Nsdkt2eDRFdzlFNE9YNmVpNTZVZklUc194bU5PNmRiIiwiaWQiOiJmY18tT2VDYVBIWEtzbXpwdFFQbWY3anVBd18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Centre de dépistage COVID-19 à Estavayer-le-Lac",
+      "link": "https://www.onedoc.ch/fr/centre-de-depistage-covid/estavayer-le-lac",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onedoc.ch/fr/centre-de-depistage-covid/estavayer-le-lac&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECBQQAQ",
+      "displayed_link": "https://www.onedoc.ch › estavayer...",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4b5901d71c4f0b77ee63903e10d9a42a7.png",
+      "snippet": "Prenez rendez-vous en ligne aujourd'hui chez un centre de dépistage COVID-19 dans les environs de Estavayer-le-Lac · LaboMGD Neuchâtel · Pharmacie Dr Hagendorf.",
+      "snippet_highlighted_words": [
+        "Prenez rendez-vous en ligne aujourd'hui chez un centre de dépistage COVID-19"
+      ],
+      "source": "OneDoc"
+    },
+    {
+      "position": 2,
+      "title": "Votre pharmacieplus du camus à Estavayer-le-lac",
+      "link": "https://www.pharmacieplus.ch/pharmacies/camus/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pharmacieplus.ch/pharmacies/camus/&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECBoQAQ",
+      "displayed_link": "https://www.pharmacieplus.ch › ca...",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb46b5f423a3130c7a3e06e7b1c6b12418e.png",
+      "snippet": "Dans notre pharmacie, vous serez accueillis par une équipe dynamique, formée de personnes qualifiées à l'écoute de vos problèmes de santé ou autres.",
+      "source": "pharmacieplus"
+    },
+    {
+      "position": 3,
+      "title": "Test sérologique Covid-19 à Estavayer-le-Lac: prenez rendez- ...",
+      "link": "https://www.onedoc.ch/fr/test-serologique-covid-19/estavayer-le-lac",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onedoc.ch/fr/test-serologique-covid-19/estavayer-le-lac&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECBgQAQ",
+      "displayed_link": "https://www.onedoc.ch › estavayer...",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb49bd4eebca9b3ad582716ea687d830d89.png",
+      "snippet": "Test sérologique Covid-19 dans les environs de Estavayer-le-Lac: prenez rendez-vous en ligne aujourd'hui ; Pharmacieplus du Hêtre · Prestations de santé en ...",
+      "snippet_highlighted_words": [
+        "Test sérologique Covid-19 dans les environs de Estavayer-le-Lac"
+      ],
+      "source": "OneDoc"
+    },
+    {
+      "position": 4,
+      "title": "Dépistage COVID-19 - HIB",
+      "link": "https://hopital-broye.ch/depistage",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hopital-broye.ch/depistage&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECBMQAQ",
+      "displayed_link": "https://hopital-broye.ch › depistage",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb46941dce8c29c23ad62bfe615b20f9f2a.png",
+      "snippet": "Site d'Estavayer-le-Lac · Urgences 24h/24h. Pôle-femme-mère-enfant. Retour. Pôle ... Dépistage COVID-19. A propos de l'HIB. A propos · Plan du site · Conditions d ...",
+      "snippet_highlighted_words": [
+        "Estavayer-le-Lac",
+        "COVID"
+      ],
+      "source": "hopital-broye.ch"
+    },
+    {
+      "position": 5,
+      "title": "Pharmacieplus du Camus SA | - votre-pharmacie.ch",
+      "link": "https://votre-pharmacie.ch/fr/302/estavayer-le-lac/pharmacieplus-du-camus-sa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://votre-pharmacie.ch/fr/302/estavayer-le-lac/pharmacieplus-du-camus-sa&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECBcQAQ",
+      "displayed_link": "https://votre-pharmacie.ch › phar...",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4aeb5b2ff611733fe79b9754a4de7775e.png",
+      "snippet": "La consultation en pharmacie dure en général 15 minutes. L'examen se fait à domicile et l'échantillon est ensuite envoyé à un laboratoire pour analyse. ... Le ...",
+      "source": "votre-pharmacie.ch"
+    },
+    {
+      "position": 6,
+      "title": "COVID-19 Test to Treat Locations Map",
+      "link": "https://healthdata.gov/National/COVID-19-Test-to-Treat-Locations-Map/y2ki-fzzb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://healthdata.gov/National/COVID-19-Test-to-Treat-Locations-Map/y2ki-fzzb&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECD0QAQ",
+      "displayed_link": "https://healthdata.gov › National › COVID-19-Test-to-Tr...",
+      "snippet": "Data Information and Disclaimers The locations displayed above have received an order of Paxlovid or Lagevrio (molnupiravir) in the last two months and/or ...",
+      "missing": [
+        "estavayer",
+        "lac"
+      ],
+      "source": "HealthData.gov"
+    },
+    {
+      "position": 7,
+      "title": "Estavayer",
+      "link": "https://www.estavayer.ch/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.estavayer.ch/&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECHYQAQ",
+      "displayed_link": "https://www.estavayer.ch",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb409fd5194b8e2ad413eca67c15cd59883.png",
+      "snippet": "Commune d'Estavayer. Rue de l'Hôtel de Ville 11. Case postale 623. CH-1470 Estavayer-le-lac 026 664 80 00 commune@estavayer.ch. Horaires de l'Administration ...",
+      "snippet_highlighted_words": [
+        "Estavayer-le-lac"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Musée d'Estavayer-le-Lac",
+            "link": "https://www.estavayer.ch/culture-loisirs-sports/musee-des-grenouilles"
+          },
+          {
+            "title": "La roseraie d'Estavayer-le-Lac",
+            "link": "https://www.estavayer.ch/services-techniques-et-infrastructures/espaces-verts/roseraie"
+          },
+          {
+            "title": "Demain Estavayer",
+            "link": "https://www.estavayer.ch/demain"
+          }
+        ]
+      },
+      "source": "Commune d'Estavayer"
+    },
+    {
+      "position": 8,
+      "title": "Un nouveau centre de test ouvre lundi à Romont",
+      "link": "https://www.laliberte.ch/articles/regions/un-nouveau-centre-de-test-ouvre-lundi-a-romont-692329?srsltid=AfmBOooc8SqGnSqR5wDqItCWXxwSSMfLsQRjxtef8uwyhV5MLORdlNZ9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.laliberte.ch/articles/regions/un-nouveau-centre-de-test-ouvre-lundi-a-romont-692329%3Fsrsltid%3DAfmBOooc8SqGnSqR5wDqItCWXxwSSMfLsQRjxtef8uwyhV5MLORdlNZ9&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECDkQAQ",
+      "displayed_link": "https://www.laliberte.ch › regions",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb427e42787338f04839dd566aab6cd3268.png",
+      "date": "Oct 1, 2021",
+      "snippet": "Un nouveau centre de dépistage Covid-19 va ouvrir dès lundi à Romont. Mise en place par la préfecture de la Glâne, l'infrastructure doit ...",
+      "snippet_highlighted_words": [
+        "Un nouveau centre de dépistage Covid-19 va ouvrir dès lundi à Romont"
+      ],
+      "source": "La Liberté"
+    },
+    {
+      "position": 9,
+      "title": "Site d'Estavayer-le-Lac - HIB",
+      "link": "https://hopital-broye.ch/site-estavayer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hopital-broye.ch/site-estavayer&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECFkQAQ",
+      "displayed_link": "https://hopital-broye.ch › site-estava...",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4614e0a116dd4d85529570a00d686a295.png",
+      "snippet": "Le site d'Estavayer-le-Lac accueille également un centre de réabilitation (CTR) de 47 lits et divers cabinets de consultations médicales. Contact.",
+      "snippet_highlighted_words": [
+        "Estavayer-le-Lac"
+      ],
+      "source": "hopital-broye.ch"
+    },
+    {
+      "position": 10,
+      "title": "Les Dicodeurs à Estavayer-le-Lac",
+      "link": "https://avecvous.rts.ch/evenements/emissions/les-dicodeurs-a-estavayer-le-lac",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://avecvous.rts.ch/evenements/emissions/les-dicodeurs-a-estavayer-le-lac&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECGcQAQ",
+      "displayed_link": "https://avecvous.rts.ch › emissions",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4e5b6188a665d141c41c1c5bbba0c9072.png",
+      "date": "Nov 29, 2021",
+      "snippet": "Test rapide antigénique négatif datant de moins de 48 h. Les enfants de moins de 16 ans ne doivent pas présenter de certificat COVID mais ...",
+      "snippet_highlighted_words": [
+        "Test rapide antigénique négatif datant de moins de 48 h"
+      ],
+      "source": "rts.ch"
+    },
+    {
+      "position": 11,
+      "title": "Point de service local",
+      "link": "https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/point-service-local",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/point-service-local&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECHsQAQ",
+      "displayed_link": "https://www.quebec.ca › sante › p...",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4d4400ffdb5768f52df612bb9e3e21b9b.png",
+      "date": "Oct 7, 2024",
+      "snippet": "L'offre systématique de tests rapides est terminée pour le moment. Les tests rapides pourraient ne plus être disponibles dans certains ...",
+      "snippet_highlighted_words": [
+        "L'offre systématique de tests rapides est terminée pour le moment"
+      ],
+      "source": "Gouvernement du Québec"
+    },
+    {
+      "position": 12,
+      "title": "Il n'y aura pas de jazz et de swing à Estavayer-le-Lac à la mi- ...",
+      "link": "https://m.facebook.com/story.php?story_fbid=1190725799721350&id=100063518231872",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.facebook.com/story.php%3Fstory_fbid%3D1190725799721350%26id%3D100063518231872&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECDgQAQ",
+      "displayed_link": "https://m.facebook.com › story",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4b6478de0125367a6c47b7af4cbfa9bc6.png",
+      "snippet": "Elle fonctionne comme un test Covid ou à l'aide d'une application pour smartphone. L'EPFZ met au point une serviette hygiénique qui détecte les maladies.",
+      "snippet_highlighted_words": [
+        "test Covid"
+      ],
+      "source": "Facebook"
+    },
+    {
+      "position": 13,
+      "title": "Estavayer: la «Crèche aux cinq sens», un évangile en trois ...",
+      "link": "https://www.cath.ch/tag/togo,estavayer-le-lac/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cath.ch/tag/togo,estavayer-le-lac/&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECFsQAQ",
+      "displayed_link": "https://www.cath.ch › tag › togo,e...",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4ea53679d8b433a3a7278f7990ab536ca.jpeg",
+      "snippet": "Inscrite dans «l'itinéraire des crèches», à Estavayer-le-Lac (FR), la «Crèche aux cinq sens » accueille les visiteurs à la Chapelle de l'hôpital, ...",
+      "snippet_highlighted_words": [
+        "Estavayer-le-Lac"
+      ],
+      "source": "Cath.ch"
+    },
+    {
+      "position": 14,
+      "title": "Swiss Sailing League | 2K Event at estavayer is starting. You can ...",
+      "link": "https://www.instagram.com/p/DJv9WFftC8Q/?hl=bg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DJv9WFftC8Q/%3Fhl%3Dbg&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECFgQAQ",
+      "displayed_link": "https://www.instagram.com › ...",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4c23e67c9d40f7f08308ffc2d21cb42af.png",
+      "snippet": "Saturday great sailing from late afternoon until 19h, on Sunday the whole day. Interesting races with up to 10 knots of wind. The host 'Cercle de la Voile ...",
+      "source": "Instagram"
+    },
+    {
+      "position": 15,
+      "title": "Suisse romande | 24 heures",
+      "link": "https://www.24heures.ch/suisse/suisse-romande/2021/02/01",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.24heures.ch/suisse/suisse-romande/2021/02/01&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECGYQAQ",
+      "displayed_link": "https://www.24heures.ch › suisse",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4d580678624f7db7679187e8e37732581.png",
+      "snippet": "La Suisse mal classée pour sa gestion de la crise du Covid-19 ... Un centre mobile de test Covid-19 en Nouvelle-Zélande, le pays du ... Estavayer-le-Lac (FR)Le TF ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "test Covid",
+        "Estavayer-le-Lac"
+      ],
+      "source": "24 Heures"
+    },
+    {
+      "position": 16,
+      "title": "1 cours particuliers de management (gestion des affaires) à ...",
+      "link": "https://www.apprentus.ch/cours-management-gestion-affaires/estavayer-le-lac",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apprentus.ch/cours-management-gestion-affaires/estavayer-le-lac&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECGgQAQ",
+      "displayed_link": "https://www.apprentus.ch › estava...",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4291c904d56fb4c2a1a3571a2b526c0b3.png",
+      "snippet": "Que vous soyez enfant, adulte, débutant ou professionnel, grâce à leurs cours particuliers à domicile ou à Estavayer‑le‑Lac, vous profitez d'un accompagnement ...",
+      "snippet_highlighted_words": [
+        "Estavayer",
+        "Lac"
+      ],
+      "source": "apprentus.ch"
+    },
+    {
+      "position": 17,
+      "title": "Test",
+      "link": "https://www.michigan.gov/coronavirus/contain-covid/test",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.michigan.gov/coronavirus/contain-covid/test&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECGkQAQ",
+      "displayed_link": "https://www.michigan.gov › coronavirus › contain-covid",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb474abeff82e3bd77d72aa81ff8404bf7a.png",
+      "snippet": "Get Tested Today At No Cost. Anyone with signs or symptoms of COVID-19 should get tested, even those who are fully vaccinated or have already had COVID-19.",
+      "snippet_highlighted_words": [
+        "Get Tested Today At No Cost"
+      ],
+      "missing": [
+        "estavayer",
+        "lac"
+      ],
+      "source": "State of Michigan (.gov)"
+    },
+    {
+      "position": 18,
+      "title": "protection civils - bourg",
+      "link": "http://www.cheyres-chables.ch/usr_files/Documents/Pdf/dsas_vaccination%20covid-19_communication%20officielle.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.cheyres-chables.ch/usr_files/Documents/Pdf/dsas_vaccination%2520covid-19_communication%2520officielle.pdf&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECHwQAQ",
+      "displayed_link": "http://www.cheyres-chables.ch › Documents › Pdf",
+      "snippet": "... COVID-19, attendez avant de vous faire vacciner et faites un test. O. O. L'équipe ... Estavayer-le-Lac. La Prillaz. Chemin des Autriciens. 1470 Estavayer-le-Lac.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "test",
+        "Estavayer-le-Lac",
+        "Estavayer-le-Lac"
+      ],
+      "source": "Cheyres-Châbles"
+    },
+    {
+      "position": 19,
+      "title": "Festival d'été - Rescapé, le Swing fera danser Estavayer en juillet",
+      "link": "https://www.24heures.ch/rescape-le-swing-fera-danser-estavayer-en-juillet-128040639794",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.24heures.ch/rescape-le-swing-fera-danser-estavayer-en-juillet-128040639794&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECHoQAQ",
+      "displayed_link": "https://www.24heures.ch › rescape...",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb48469895f7e76b722885a0e765b82bb54.png",
+      "snippet": "Si nécessaire, les organisateurs se réservent le droit de demander un test Covid valable ou un certificat d'immunité. «Le déroulement de cette édition sera ...",
+      "snippet_highlighted_words": [
+        "test Covid"
+      ],
+      "source": "24 Heures"
+    },
+    {
+      "position": 20,
+      "title": "Table chronologique",
+      "link": "https://www.fr.ch/document/443256",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fr.ch/document/443256&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECFcQAQ",
+      "displayed_link": "https://www.fr.ch › document",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4734f61ce83805e8fcddf542ff65a6896.png",
+      "snippet": "– Voir aussi sous Coronavirus (COVID-19). Commission d'enquête parlementaire. Voir sous Pisci- culture d'Estavayer-le-Lac. Communautés régionales de transport ...",
+      "snippet_highlighted_words": [
+        "Coronavirus",
+        "COVID",
+        "Estavayer-le-Lac"
+      ],
+      "source": "Etat de Fribourg"
+    },
+    {
+      "position": 21,
+      "title": "2qeopjwk9rsn7.xml",
+      "link": "https://www.tdg.ch/sitemaps/2qeopjwk9rsn7.xml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tdg.ch/sitemaps/2qeopjwk9rsn7.xml&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECFoQAQ",
+      "displayed_link": "https://www.tdg.ch › sitemaps",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4099736efe25f8cba9512394608a6777d.png",
+      "snippet": "... estavayer-le-lac-584642486519</loc><lastmod>2021 ... covid-19-258589969012</loc><lastmod>2021-10-18T16 ... test-covid-des-centres-cassent-les-prix ...",
+      "snippet_highlighted_words": [
+        "estavayer-le-lac",
+        "covid",
+        "test",
+        "covid"
+      ],
+      "source": "Tribune de Genève"
+    },
+    {
+      "position": 22,
+      "title": "COVID-19: Get Tested",
+      "link": "https://www.dhs.wisconsin.gov/covid-19/testing.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dhs.wisconsin.gov/covid-19/testing.htm&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECDoQAQ",
+      "displayed_link": "https://www.dhs.wisconsin.gov › covid-19 › testing",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4454015379db501b14ed05afe33d3a497.png",
+      "date": "Mar 11, 2025",
+      "snippet": "COVID-19 testing can help you know if you have COVID-19 so you can decide what to do next to protect yourself and others.",
+      "snippet_highlighted_words": [
+        "COVID-19 testing can help you know if you have COVID-19"
+      ],
+      "missing": [
+        "estavayer",
+        "lac"
+      ],
+      "source": "Wisconsin Department of Health Services (.gov)"
+    },
+    {
+      "position": 23,
+      "title": "Centre de Santé La Corbière: Home",
+      "link": "https://www.lacorbiere.ch/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lacorbiere.ch/&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECDcQAQ",
+      "displayed_link": "https://www.lacorbiere.ch",
+      "snippet": "Situé dans la région d'Estavayer le Lac, dans un cadre magnifique, le Centre de santé La Corbière existe depuis 1993 et compte aujourd'hui une équipe de ...",
+      "snippet_highlighted_words": [
+        "Estavayer le Lac"
+      ],
+      "source": "Centre de Santé La Corbière"
+    },
+    {
+      "position": 24,
+      "title": "Le Temps: actualités et informations en Suisse et dans le Monde",
+      "link": "https://www.letemps.ch/?srsltid=AfmBOoqoiRxu39uIPTgsR23U4Umkkj82vTHtkiu3D7KLo1IaKsJXBz1l",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.letemps.ch/%3Fsrsltid%3DAfmBOoqoiRxu39uIPTgsR23U4Umkkj82vTHtkiu3D7KLo1IaKsJXBz1l&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECDYQAQ",
+      "displayed_link": "https://www.letemps.ch",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb46d89a711c798ae40a2803f1c03a07d2b.png",
+      "snippet": "Retrouvez sur LeTemps.ch les informations en continu, enquêtes, analyses, dossiers spéciaux, opinions, graphiques, podcasts et vidéos.",
+      "source": "Le Temps"
+    },
+    {
+      "position": 25,
+      "title": "COVID-19 LAC DPH Testing Guidelines",
+      "link": "http://publichealth.lacounty.gov/acd/ncorona2019/testing/guidelines/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://publichealth.lacounty.gov/acd/ncorona2019/testing/guidelines/&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECDUQAQ",
+      "displayed_link": "http://publichealth.lacounty.gov › acd › ncorona2019",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb49c2f575e4f4032fea9e3ab6e797eb492.png",
+      "snippet": "Added a recommendation for close contacts who had a positive COVID-19 viral test within the past 31-90 days to receive diagnostic testing with an antigen test.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "test",
+        "test"
+      ],
+      "missing": [
+        "estavayer"
+      ],
+      "must_include": {
+        "word": "estavayer",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=test+covid+%22estavayer%22+le+lac&sa=X&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQ5t4CegQIPxAB"
+      },
+      "source": "LA County Department of Public Health (.gov)"
+    },
+    {
+      "position": 26,
+      "title": "Coronavirus - COVID-19",
+      "link": "https://santesaglac.gouv.qc.ca/conseils-sante/maladies-infectieuses/coronavirus-covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://santesaglac.gouv.qc.ca/conseils-sante/maladies-infectieuses/coronavirus-covid-19/&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECDsQAQ",
+      "displayed_link": "https://santesaglac.gouv.qc.ca › co...",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4cb3cbf99461bd911db95b263dc11471f.png",
+      "snippet": "Si vous faites partie de la clientèle prioritaire et que vous désirez prendre rendez-vous pour obtenir un test de dépistage, téléphonez au 1 877 644-4545 ou ...",
+      "snippet_highlighted_words": [
+        "téléphonez au 1 877 644-4545"
+      ],
+      "missing": [
+        "estavayer"
+      ],
+      "must_include": {
+        "word": "estavayer",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=test+covid+%22estavayer%22+le+lac&sa=X&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQ5t4CegQITxAB"
+      },
+      "source": "CIUSSS du Saguenay−Lac-Saint-Jean"
+    },
+    {
+      "position": 27,
+      "title": "COVID-19 testing and vaccinations | USAGov",
+      "link": "https://www.usa.gov/covid-tests-vaccinations",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usa.gov/covid-tests-vaccinations&ved=2ahUKEwjxs-rA99aOAxXJmYkEHRn_GMcQFnoECFMQAQ",
+      "displayed_link": "https://www.usa.gov › Health",
+      "favicon": "https://serpapi.com/searches/6882e7f7ae39f3f7836c1a24/images/e229d2251cc923af8297efd3fa89dfb4de753e4a45ac1ab19d1a7dae1bef2fa9.png",
+      "date": "Jun 6, 2025",
+      "snippet": "See where to get tested for COVID-19 and where to get a COVID-19 vaccination or booster. Find vaccination help if you have a disability.",
+      "snippet_highlighted_words": [
+        "where to get tested for COVID-19"
+      ],
+      "missing": [
+        "estavayer",
+        "lac"
+      ],
+      "source": "USA.gov"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 27 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=test+covid+estavayer+le+lac&num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=test+covid+estavayer+le+lac&oq=test+covid+estavayer+le+lac&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=test+covid+estavayer+le+lac&oq=test+covid+estavayer+le+lac&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=test+covid+estavayer+le+lac&oq=test+covid+estavayer+le+lac&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=test+covid+estavayer+le+lac&oq=test+covid+estavayer+le+lac&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=test+covid+estavayer+le+lac&oq=test+covid+estavayer+le+lac&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+covid+estavayer+le+lac&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+covid+estavayer+le+lac&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+covid+estavayer+le+lac&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+covid+estavayer+le+lac&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+covid+estavayer+le+lac&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=test+covid+estavayer+le+lac&start=400"
+    }
+  }
+}

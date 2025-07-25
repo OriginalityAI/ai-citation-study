@@ -1,0 +1,872 @@
+{
+  "search_metadata": {
+    "id": "6882cfc8ff596ec9b51e12a8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ab66cf2103efbfbb/6882cfc8ff596ec9b51e12a8.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ab66cf2103efbfbb/6882cfc8ff596ec9b51e12a8.json_with_pixel_position",
+    "created_at": "2025-07-25 00:28:56 UTC",
+    "processed_at": "2025-07-25 00:28:56 UTC",
+    "google_url": "https://www.google.com/search?q=north+lan+council+tax&oq=north+lan+council+tax&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ab66cf2103efbfbb/6882cfc8ff596ec9b51e12a8.html",
+    "total_time_taken": 5.24
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "north lan council tax",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "north lan council tax",
+    "total_results": 48,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Which is more expensive, council tax A or D?",
+      "type": "featured_snippet",
+      "snippet": "Council Tax bands in Southwark",
+      "table": [
+        [
+          "Band",
+          "Property value on 1 April 1991",
+          "Total charge"
+        ],
+        [
+          "A",
+          "up to £40,000",
+          "£1,251.93"
+        ],
+        [
+          "B",
+          "£40,001-£52,000",
+          "£1,460.59"
+        ],
+        [
+          "C",
+          "£52,001-£68,000",
+          "£1,669.24"
+        ],
+        [
+          "D",
+          "£68,001-£88,000",
+          "£1,877.90"
+        ]
+      ],
+      "formatted": [
+        {
+          "band": "A",
+          "property_value_on_1_april_1991": "up to £40,000",
+          "total_charge": "£1,251.93"
+        },
+        {
+          "band": "B",
+          "property_value_on_1_april_1991": "£40,001-£52,000",
+          "total_charge": "£1,460.59"
+        },
+        {
+          "band": "C",
+          "property_value_on_1_april_1991": "£52,001-£68,000",
+          "total_charge": "£1,669.24"
+        },
+        {
+          "band": "D",
+          "property_value_on_1_april_1991": "£68,001-£88,000",
+          "total_charge": "£1,877.90"
+        }
+      ],
+      "title": "Bands and charges - Council Tax - Southwark Council",
+      "link": "https://www.southwark.gov.uk/council-tax/how-much/bands-and-charges",
+      "displayed_link": "https://www.southwark.gov.uk › council-tax › how-much",
+      "source_logo": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/fd2df5f615389997a285e1f018d6070d9640503dfb7075fe604f54bc943f9e91.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWN6SnJka2MzUzNWQlZtSm1OV3ByUlVobmExa3dYMGhsUm1ob2FXMXdiM0Z4TjJaelZURkxXVW81Y1ZOQ1JVSjNjWGRFTVhWSFJHMWxNWEJDZEZkd1RVUmFRazVaWjI5emRVcFpTa296VVVwc01XaDNZWE4xZWpKTlVSSVhlazB0UTJGS2FVZEpVSGxSZUdNNFVITjBlVzUxVVc4YUlrRkdUVUZIUjNCVWVVMUtja2d0WWtGemNFSm1kRlpXTTFGWk5VMXVUR05GYjJjIiwiZmN2IjoiMyIsImVpIjoiek0tQ2FKaUdJUHlReGM4UHN0eW51UW8iLCJxYyI6IkNoVnViM0owYUNCc1lXNGdZMjkxYm1OcGJDQjBZWGdRQUgyc2NXUV8iLCJxdWVzdGlvbiI6IldoaWNoIGlzIG1vcmUgZXhwZW5zaXZlLCBjb3VuY2lsIHRheCBBIG9yIEQ/IiwibGsiOiJHaXAzYUdsamFDQnBjeUJ0YjNKbElHVjRjR1Z1YzJsMlpTQmpiM1Z1WTJsc0lIUmhlQ0JoSUc5eUlHUSIsImJzIjoiYzMzT3ZRckNNQlNHWVZ3ek9UalV1QnhVRUxWVFpxR0lnb3QwY2VqZ0lER05KSmdtSlVsdEw4UXI4TkwwUnJULWdJSzZQLV81RHRxZ01CR1NDWkFPTW1NNThDcm4yc2tERDRHWlFqT3B3Tk1LcG1Bc3pLUGcwaUloSHBYZms0LUMxa1dLMW1pY0NGTmJYdkVzOTdDekp2dUFVc09LR2Etb1RxUGd2Q1ZEUENqX0YtN0pVWXg2OVhGYmFBZXhzVjdBa21wcTkwN0kyMS16UnhJRnB3WHA0Mjc1a3ZvdTFadDhIa2NUaEJOQmZiMnRES1BxZlRVS2ptdlN3ZTN5RjJnMnJnIiwiaWQiOiJmY196TS1DYUppR0lQeVF4YzhQc3R5bnVRb18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWN6SnJka2MzUzNWQlZtSm1OV3ByUlVobmExa3dYMGhsUm1ob2FXMXdiM0Z4TjJaelZURkxXVW81Y1ZOQ1JVSjNjWGRFTVhWSFJHMWxNWEJDZEZkd1RVUmFRazVaWjI5emRVcFpTa296VVVwc01XaDNZWE4xZWpKTlVSSVhlazB0UTJGS2FVZEpVSGxSZUdNNFVITjBlVzUxVVc4YUlrRkdUVUZIUjNCVWVVMUtja2d0WWtGemNFSm1kRlpXTTFGWk5VMXVUR05GYjJjIiwiZmN2IjoiMyIsImVpIjoiek0tQ2FKaUdJUHlReGM4UHN0eW51UW8iLCJxYyI6IkNoVnViM0owYUNCc1lXNGdZMjkxYm1OcGJDQjBZWGdRQUgyc2NXUV8iLCJxdWVzdGlvbiI6IldoaWNoIGlzIG1vcmUgZXhwZW5zaXZlLCBjb3VuY2lsIHRheCBBIG9yIEQ%2FIiwibGsiOiJHaXAzYUdsamFDQnBjeUJ0YjNKbElHVjRjR1Z1YzJsMlpTQmpiM1Z1WTJsc0lIUmhlQ0JoSUc5eUlHUSIsImJzIjoiYzMzT3ZRckNNQlNHWVZ3ek9UalV1QnhVRUxWVFpxR0lnb3QwY2VqZ0lER05KSmdtSlVsdEw4UXI4TkwwUnJULWdJSzZQLV81RHRxZ01CR1NDWkFPTW1NNThDcm4yc2tERDRHWlFqT3B3Tk1LcG1Bc3pLUGcwaUloSHBYZms0LUMxa1dLMW1pY0NGTmJYdkVzOTdDekp2dUFVc09LR2Etb1RxUGd2Q1ZEUENqX0YtN0pVWXg2OVhGYmFBZXhzVjdBa21wcTkwN0kyMS16UnhJRnB3WHA0Mjc1a3ZvdTFadDhIa2NUaEJOQmZiMnRES1BxZlRVS2ptdlN3ZTN5RjJnMnJnIiwiaWQiOiJmY196TS1DYUppR0lQeVF4YzhQc3R5bnVRb18xIn0%3D"
+    },
+    {
+      "question": "Who is exempt from council tax in Scotland?",
+      "type": "featured_snippet",
+      "snippet": "You may be able to get a discount, a reduction or an exemption on your Council Tax bill if: you're a student. you have a disability. you're on a low income.",
+      "title": "Council Tax discounts, exemptions and reductions - mygov.scot",
+      "date": "May 22, 2025",
+      "link": "https://www.mygov.scot/council-tax/discounts-exemptions-and-reductions#:~:text=You%20may%20be%20able%20to,re%20on%20a%20low%20income",
+      "displayed_link": "https://www.mygov.scot › council-tax › discounts-exemp...",
+      "source_logo": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/fd2df5f615389997a285e1f018d6070d0c278523a9861a248751785b96396992.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWN6SnJka2MzUzNWQlZtSm1OV3ByUlVobmExa3dYMGhsUm1ob2FXMXdiM0Z4TjJaelZURkxXVW81Y1ZOQ1JVSjNjWGRFTVhWSFJHMWxNWEJDZEZkd1RVUmFRazVaWjI5emRVcFpTa296VVVwc01XaDNZWE4xZWpKTlVSSVhlazB0UTJGS2FVZEpVSGxSZUdNNFVITjBlVzUxVVc4YUlrRkdUVUZIUjNCVWVVMUtja2d0WWtGemNFSm1kRlpXTTFGWk5VMXVUR05GYjJjIiwiZmN2IjoiMyIsImVpIjoiek0tQ2FKaUdJUHlReGM4UHN0eW51UW8iLCJxYyI6IkNoVnViM0owYUNCc1lXNGdZMjkxYm1OcGJDQjBZWGdRQUgyc2NXUV8iLCJxdWVzdGlvbiI6IldobyBpcyBleGVtcHQgZnJvbSBjb3VuY2lsIHRheCBpbiBTY290bGFuZD8iLCJsayI6IkdpZDNhRzhnYVhNZ1pYaGxiWEIwSUdaeWIyMGdZMjkxYm1OcGJDQjBZWGdnYzJOdmRHeGhibVEiLCJicyI6ImMzM092UXJDTUJTR1lWd3pPVGpVdUJ4VUVMVlRacUdJZ290MGNlamdJREdOSkpnbUpVbHRMOFFyOE5MMFJyVC1nSUs2UC1fNUR0cWdNQkdTQ1pBT01tTTU4Q3JuMnNrREQ0R1pRak9wd05NS3BtQXN6S1BnMGlJaEhwWGZrNC1DMWtXSzFtaWNDRk5iWHZFczk3Q3pKdnVBVXNPS0dhLW9UcVBndkNWRFBDal9GLTdKVVl4NjlYRmJhQWV4c1Y3QWttcHE5MDdJMjEtelJ4SUZwd1hwNDI3NWt2b3UxWnQ4SGtjVGhCTkJmYjJ0REtQcWZUVUtqbXZTd2UzeUYyZzJyZyIsImlkIjoiZmNfek0tQ2FKaUdJUHlReGM4UHN0eW51UW9fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWN6SnJka2MzUzNWQlZtSm1OV3ByUlVobmExa3dYMGhsUm1ob2FXMXdiM0Z4TjJaelZURkxXVW81Y1ZOQ1JVSjNjWGRFTVhWSFJHMWxNWEJDZEZkd1RVUmFRazVaWjI5emRVcFpTa296VVVwc01XaDNZWE4xZWpKTlVSSVhlazB0UTJGS2FVZEpVSGxSZUdNNFVITjBlVzUxVVc4YUlrRkdUVUZIUjNCVWVVMUtja2d0WWtGemNFSm1kRlpXTTFGWk5VMXVUR05GYjJjIiwiZmN2IjoiMyIsImVpIjoiek0tQ2FKaUdJUHlReGM4UHN0eW51UW8iLCJxYyI6IkNoVnViM0owYUNCc1lXNGdZMjkxYm1OcGJDQjBZWGdRQUgyc2NXUV8iLCJxdWVzdGlvbiI6IldobyBpcyBleGVtcHQgZnJvbSBjb3VuY2lsIHRheCBpbiBTY290bGFuZD8iLCJsayI6IkdpZDNhRzhnYVhNZ1pYaGxiWEIwSUdaeWIyMGdZMjkxYm1OcGJDQjBZWGdnYzJOdmRHeGhibVEiLCJicyI6ImMzM092UXJDTUJTR1lWd3pPVGpVdUJ4VUVMVlRacUdJZ290MGNlamdJREdOSkpnbUpVbHRMOFFyOE5MMFJyVC1nSUs2UC1fNUR0cWdNQkdTQ1pBT01tTTU4Q3JuMnNrREQ0R1pRak9wd05NS3BtQXN6S1BnMGlJaEhwWGZrNC1DMWtXSzFtaWNDRk5iWHZFczk3Q3pKdnVBVXNPS0dhLW9UcVBndkNWRFBDal9GLTdKVVl4NjlYRmJhQWV4c1Y3QWttcHE5MDdJMjEtelJ4SUZwd1hwNDI3NWt2b3UxWnQ4SGtjVGhCTkJmYjJ0REtQcWZUVUtqbXZTd2UzeUYyZzJyZyIsImlkIjoiZmNfek0tQ2FKaUdJUHlReGM4UHN0eW51UW9fMSJ9"
+    },
+    {
+      "question": "Who runs North Lanarkshire Council?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "table": [
+        [
+          "North Lanarkshire Council"
+        ],
+        [
+          "Coat of arms"
+        ],
+        [
+          "Council logo"
+        ],
+        [
+          "Leadership"
+        ],
+        [
+          "Provost",
+          "Kenneth Duffy, Labour since 25 August 2022"
+        ]
+      ],
+      "formatted": {
+        "leadership": [
+          {
+            "coat_of_arms": "Provost",
+            "north_lanarkshire_council": "Kenneth Duffy, Labour since 25 August 2022"
+          }
+        ]
+      },
+      "title": "North Lanarkshire Council - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/North_Lanarkshire_Council",
+      "displayed_link": "https://en.wikipedia.org › wiki › North_Lanarkshire_Cou...",
+      "source_logo": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/fd2df5f615389997a285e1f018d6070d4b196989e40d96e421acb76ac8072e30.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWN6SnJka2MzUzNWQlZtSm1OV3ByUlVobmExa3dYMGhsUm1ob2FXMXdiM0Z4TjJaelZURkxXVW81Y1ZOQ1JVSjNjWGRFTVhWSFJHMWxNWEJDZEZkd1RVUmFRazVaWjI5emRVcFpTa296VVVwc01XaDNZWE4xZWpKTlVSSVhlazB0UTJGS2FVZEpVSGxSZUdNNFVITjBlVzUxVVc4YUlrRkdUVUZIUjNCVWVVMUtja2d0WWtGemNFSm1kRlpXTTFGWk5VMXVUR05GYjJjIiwiZmN2IjoiMyIsImVpIjoiek0tQ2FKaUdJUHlReGM4UHN0eW51UW8iLCJxYyI6IkNoVnViM0owYUNCc1lXNGdZMjkxYm1OcGJDQjBZWGdRQUgyc2NXUV8iLCJxdWVzdGlvbiI6IldobyBydW5zIE5vcnRoIExhbmFya3NoaXJlIENvdW5jaWw/IiwibGsiOiJHaUozYUc4Z2NuVnVjeUJ1YjNKMGFDQnNZVzVoY210emFHbHlaU0JqYjNWdVkybHMiLCJicyI6ImMzM092UXJDTUJTR1lWd3pPVGpVdUJ4VUVMVlRacUdJZ290MGNlamdJREdOSkpnbUpVbHRMOFFyOE5MMFJyVC1nSUs2UC1fNUR0cWdNQkdTQ1pBT01tTTU4Q3JuMnNrREQ0R1pRak9wd05NS3BtQXN6S1BnMGlJaEhwWGZrNC1DMWtXSzFtaWNDRk5iWHZFczk3Q3pKdnVBVXNPS0dhLW9UcVBndkNWRFBDal9GLTdKVVl4NjlYRmJhQWV4c1Y3QWttcHE5MDdJMjEtelJ4SUZwd1hwNDI3NWt2b3UxWnQ4SGtjVGhCTkJmYjJ0REtQcWZUVUtqbXZTd2UzeUYyZzJyZyIsImlkIjoiZmNfek0tQ2FKaUdJUHlReGM4UHN0eW51UW9fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWN6SnJka2MzUzNWQlZtSm1OV3ByUlVobmExa3dYMGhsUm1ob2FXMXdiM0Z4TjJaelZURkxXVW81Y1ZOQ1JVSjNjWGRFTVhWSFJHMWxNWEJDZEZkd1RVUmFRazVaWjI5emRVcFpTa296VVVwc01XaDNZWE4xZWpKTlVSSVhlazB0UTJGS2FVZEpVSGxSZUdNNFVITjBlVzUxVVc4YUlrRkdUVUZIUjNCVWVVMUtja2d0WWtGemNFSm1kRlpXTTFGWk5VMXVUR05GYjJjIiwiZmN2IjoiMyIsImVpIjoiek0tQ2FKaUdJUHlReGM4UHN0eW51UW8iLCJxYyI6IkNoVnViM0owYUNCc1lXNGdZMjkxYm1OcGJDQjBZWGdRQUgyc2NXUV8iLCJxdWVzdGlvbiI6IldobyBydW5zIE5vcnRoIExhbmFya3NoaXJlIENvdW5jaWw%2FIiwibGsiOiJHaUozYUc4Z2NuVnVjeUJ1YjNKMGFDQnNZVzVoY210emFHbHlaU0JqYjNWdVkybHMiLCJicyI6ImMzM092UXJDTUJTR1lWd3pPVGpVdUJ4VUVMVlRacUdJZ290MGNlamdJREdOSkpnbUpVbHRMOFFyOE5MMFJyVC1nSUs2UC1fNUR0cWdNQkdTQ1pBT01tTTU4Q3JuMnNrREQ0R1pRak9wd05NS3BtQXN6S1BnMGlJaEhwWGZrNC1DMWtXSzFtaWNDRk5iWHZFczk3Q3pKdnVBVXNPS0dhLW9UcVBndkNWRFBDal9GLTdKVVl4NjlYRmJhQWV4c1Y3QWttcHE5MDdJMjEtelJ4SUZwd1hwNDI3NWt2b3UxWnQ4SGtjVGhCTkJmYjJ0REtQcWZUVUtqbXZTd2UzeUYyZzJyZyIsImlkIjoiZmNfek0tQ2FKaUdJUHlReGM4UHN0eW51UW9fMSJ9"
+    },
+    {
+      "question": "What is local council tax?",
+      "type": "featured_snippet",
+      "snippet": "Council tax is a system of local taxation collected by local councils - it's a tax on domestic property. Some property is exempt from council tax. Some people don't have to pay council tax and some people get a discount.",
+      "title": "Check how council tax works and if you have to pay - Citizens Advice",
+      "link": "https://www.citizensadvice.org.uk/housing/council-tax/paying-council-tax/#:~:text=Council%20tax%20is%20a%20system,some%20people%20get%20a%20discount.",
+      "displayed_link": "https://www.citizensadvice.org.uk › housing › paying-co...",
+      "source_logo": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/fd2df5f615389997a285e1f018d6070dfd7ed52ce9aaa8f03e81aa26f55b1094.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWN6SnJka2MzUzNWQlZtSm1OV3ByUlVobmExa3dYMGhsUm1ob2FXMXdiM0Z4TjJaelZURkxXVW81Y1ZOQ1JVSjNjWGRFTVhWSFJHMWxNWEJDZEZkd1RVUmFRazVaWjI5emRVcFpTa296VVVwc01XaDNZWE4xZWpKTlVSSVhlazB0UTJGS2FVZEpVSGxSZUdNNFVITjBlVzUxVVc4YUlrRkdUVUZIUjNCVWVVMUtja2d0WWtGemNFSm1kRlpXTTFGWk5VMXVUR05GYjJjIiwiZmN2IjoiMyIsImVpIjoiek0tQ2FKaUdJUHlReGM4UHN0eW51UW8iLCJxYyI6IkNoVnViM0owYUNCc1lXNGdZMjkxYm1OcGJDQjBZWGdRQUgyc2NXUV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgbG9jYWwgY291bmNpbCB0YXg/IiwibGsiOiJHaGwzYUdGMElHbHpJR3h2WTJGc0lHTnZkVzVqYVd3Z2RHRjQiLCJicyI6ImMzM092UXJDTUJTR1lWd3pPVGpVdUJ4VUVMVlRacUdJZ290MGNlamdJREdOSkpnbUpVbHRMOFFyOE5MMFJyVC1nSUs2UC1fNUR0cWdNQkdTQ1pBT01tTTU4Q3JuMnNrREQ0R1pRak9wd05NS3BtQXN6S1BnMGlJaEhwWGZrNC1DMWtXSzFtaWNDRk5iWHZFczk3Q3pKdnVBVXNPS0dhLW9UcVBndkNWRFBDal9GLTdKVVl4NjlYRmJhQWV4c1Y3QWttcHE5MDdJMjEtelJ4SUZwd1hwNDI3NWt2b3UxWnQ4SGtjVGhCTkJmYjJ0REtQcWZUVUtqbXZTd2UzeUYyZzJyZyIsImlkIjoiZmNfek0tQ2FKaUdJUHlReGM4UHN0eW51UW9fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWN6SnJka2MzUzNWQlZtSm1OV3ByUlVobmExa3dYMGhsUm1ob2FXMXdiM0Z4TjJaelZURkxXVW81Y1ZOQ1JVSjNjWGRFTVhWSFJHMWxNWEJDZEZkd1RVUmFRazVaWjI5emRVcFpTa296VVVwc01XaDNZWE4xZWpKTlVSSVhlazB0UTJGS2FVZEpVSGxSZUdNNFVITjBlVzUxVVc4YUlrRkdUVUZIUjNCVWVVMUtja2d0WWtGemNFSm1kRlpXTTFGWk5VMXVUR05GYjJjIiwiZmN2IjoiMyIsImVpIjoiek0tQ2FKaUdJUHlReGM4UHN0eW51UW8iLCJxYyI6IkNoVnViM0owYUNCc1lXNGdZMjkxYm1OcGJDQjBZWGdRQUgyc2NXUV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgbG9jYWwgY291bmNpbCB0YXg%2FIiwibGsiOiJHaGwzYUdGMElHbHpJR3h2WTJGc0lHTnZkVzVqYVd3Z2RHRjQiLCJicyI6ImMzM092UXJDTUJTR1lWd3pPVGpVdUJ4VUVMVlRacUdJZ290MGNlamdJREdOSkpnbUpVbHRMOFFyOE5MMFJyVC1nSUs2UC1fNUR0cWdNQkdTQ1pBT01tTTU4Q3JuMnNrREQ0R1pRak9wd05NS3BtQXN6S1BnMGlJaEhwWGZrNC1DMWtXSzFtaWNDRk5iWHZFczk3Q3pKdnVBVXNPS0dhLW9UcVBndkNWRFBDal9GLTdKVVl4NjlYRmJhQWV4c1Y3QWttcHE5MDdJMjEtelJ4SUZwd1hwNDI3NWt2b3UxWnQ4SGtjVGhCTkJmYjJ0REtQcWZUVUtqbXZTd2UzeUYyZzJyZyIsImlkIjoiZmNfek0tQ2FKaUdJUHlReGM4UHN0eW51UW9fMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Council tax",
+      "link": "https://www.northlanarkshire.gov.uk/council-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.northlanarkshire.gov.uk/council-tax&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECBgQAQ",
+      "displayed_link": "https://www.northlanarkshire.gov.uk › council-tax",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40e2462535facedaf3348ee01e0b900a6c.png",
+      "date": "Mar 4, 2025",
+      "snippet": "Pay your council tax, view your online account, discounts and exemptions, change of address , housing benefit, council tax, bands, ...",
+      "snippet_highlighted_words": [
+        "Pay your council tax"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Pay your council tax",
+            "link": "https://www.northlanarkshire.gov.uk/council-tax/pay-your-council-tax"
+          },
+          {
+            "title": "View your online account",
+            "link": "https://www.northlanarkshire.gov.uk/council-tax/view-and-manage-your-council-tax-account-online"
+          },
+          {
+            "title": "Council tax bands, charges...",
+            "link": "https://www.northlanarkshire.gov.uk/council-tax/council-tax-bands-charges-and-appeals"
+          }
+        ]
+      },
+      "source": "North Lanarkshire Council"
+    },
+    {
+      "position": 2,
+      "title": "Pay your council tax",
+      "link": "https://www.northlanarkshire.gov.uk/council-tax/pay-your-council-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.northlanarkshire.gov.uk/council-tax/pay-your-council-tax&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECBIQAQ",
+      "displayed_link": "https://www.northlanarkshire.gov.uk › council-tax › pa...",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40c55507a3ffeb9defbb9fe97458a3a431.png",
+      "date": "Jun 17, 2025",
+      "snippet": "Learn about the different ways you can pay your council including online, direct debit, by post and in person.",
+      "snippet_highlighted_words": [
+        "Learn about the different ways you can pay your council"
+      ],
+      "source": "North Lanarkshire Council"
+    },
+    {
+      "position": 3,
+      "title": "Pay your Council Tax: search result - ...",
+      "link": "https://www.gov.uk/pay-council-tax/north-lanarkshire",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/pay-council-tax/north-lanarkshire&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECBUQAQ",
+      "displayed_link": "https://www.gov.uk › ... › Council Tax",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40d34d309cdb467996a5d40118cdae9438.png",
+      "snippet": "Pay your Council Tax. We've matched the postcode to North Lanarkshire Council. Search for a different postcode. You can get information on their website.",
+      "snippet_highlighted_words": [
+        "Pay your Council Tax"
+      ],
+      "source": "GOV.UK"
+    },
+    {
+      "position": 4,
+      "title": "Apply for Council Tax Reduction: search result - ...",
+      "link": "https://www.gov.uk/apply-council-tax-reduction/north-lanarkshire",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/apply-council-tax-reduction/north-lanarkshire&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECBEQAQ",
+      "displayed_link": "https://www.gov.uk › north-lanarkshire",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d4036875c5fb798291439888e7e4564c759.png",
+      "snippet": "Apply for Council Tax Reduction. We've matched the postcode to North Lanarkshire Council. You can get information on their website.",
+      "snippet_highlighted_words": [
+        "Apply for Council Tax Reduction"
+      ],
+      "source": "GOV.UK"
+    },
+    {
+      "position": 5,
+      "title": "North Lanarkshire Council | Online Bill Payment Service",
+      "link": "https://ip.e-paycapita.com/AIP/itemSelectionPage.do?link=showItemSelectionPage&siteId=190&languageCode=EN&source=AIP",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ip.e-paycapita.com/AIP/itemSelectionPage.do%3Flink%3DshowItemSelectionPage%26siteId%3D190%26languageCode%3DEN%26source%3DAIP&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECDcQAQ",
+      "displayed_link": "https://ip.e-paycapita.com › AIP › itemSelectionPage › la...",
+      "snippet": "Welcome to the North Lanarkshire Council 24 hour secure Internet payments service. You may make a variety of payments using this secure site with most major ...",
+      "snippet_highlighted_words": [
+        "24 hour secure Internet payments service"
+      ],
+      "source": "e-paycapita.com"
+    },
+    {
+      "position": 6,
+      "title": "North Lanarkshire Council",
+      "link": "https://www.mygov.scot/organisations/north-lanarkshire-council",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mygov.scot/organisations/north-lanarkshire-council&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCJkBEAE",
+      "displayed_link": "https://www.mygov.scot › Organisations",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40ee6e3cd42e7a4078046bd1fbb1cf2fdf.png",
+      "snippet": "Check school holidays and find out about local services including housing, council tax and benefits. Thanks for your feedback. Was this page ...",
+      "snippet_highlighted_words": [
+        "council tax"
+      ],
+      "source": "mygov.scot"
+    },
+    {
+      "position": 7,
+      "title": "Today the council set its budget for 25/26 and decided on no ...",
+      "link": "https://www.facebook.com/nlcpeople/videos/council-budget-202526/1051723256999706/",
+      "displayed_link": "70+ reactions · 5 months ago",
+      "thumbnail": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d407a8d862e9f2cdd28bfc6617eea919785.jpeg",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40f0f22813b740cdf984db396a4ee22d50.png",
+      "snippet": "And yet residents in North Lanarkshire paid the fifth lowest council tax out of all Scotland's 32 councils. ... More than half the homes in North ...",
+      "duration": "3:11",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRrm5GjQoIB52z8NH3RGXTBMtu-4CnFwzxIQQ",
+      "source": "Facebook · North Lanarkshire Council"
+    },
+    {
+      "position": 8,
+      "title": "South Lanarkshire Council",
+      "link": "https://www.southlanarkshire.gov.uk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.southlanarkshire.gov.uk/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECHEQAQ",
+      "displayed_link": "https://www.southlanarkshire.gov.uk",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40016121dd687b531d31e73ef784b4a2b0.png",
+      "snippet": "How to pay Council Tax · Recycling centre bookings · School holidays · myaccount ... South Lanarkshire Council. Almada Street, Hamilton, South Lanarkshire ...",
+      "snippet_highlighted_words": [
+        "How to pay Council Tax"
+      ],
+      "source": "South Lanarkshire Council"
+    },
+    {
+      "position": 9,
+      "title": "Paying Council Tax",
+      "link": "https://www.mygov.scot/council-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mygov.scot/council-tax&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCIoBEAE",
+      "displayed_link": "https://www.mygov.scot › Housing and local services",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d4023c5f6409040ade7e7ddb4c0b80d9e3c.png",
+      "date": "May 22, 2025",
+      "snippet": "How Council Tax works in Scotland, who must pay and when you can get a discount or an exemption.",
+      "snippet_highlighted_words": [
+        "How Council Tax works in Scotland"
+      ],
+      "source": "mygov.scot"
+    },
+    {
+      "position": 10,
+      "title": "How to pay Council Tax",
+      "link": "https://www.southlanarkshire.gov.uk/info/200180/how_to_pay/1651/how_to_pay_council_tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.southlanarkshire.gov.uk/info/200180/how_to_pay/1651/how_to_pay_council_tax&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCKQBEAE",
+      "displayed_link": "https://www.southlanarkshire.gov.uk › info › how_to_p...",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d409a574aef06a3d84de4ce13241356cd51.png",
+      "snippet": "Payments must reach your Council Tax account by the 1st of the month. Contact our 24-hour payments call centre on 0303 123 1005 to make a payment.",
+      "snippet_highlighted_words": [
+        "Contact our 24-hour payments call centre on 0303 123 1005"
+      ],
+      "source": "South Lanarkshire Council"
+    },
+    {
+      "position": 11,
+      "title": "SC Department of Employment and Workforce: Home",
+      "link": "https://dew.sc.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dew.sc.gov/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECDQQAQ",
+      "displayed_link": "https://dew.sc.gov",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d403a5b145513548d15785f3bbd47b712a5.png",
+      "snippet": "The SC Department of Employment and Workforce is here to help you move from unemployment to reemployment. Our goal is to match job seekers with employers.",
+      "source": "SC Department of Employment and Workforce (.gov)"
+    },
+    {
+      "position": 12,
+      "title": "North Lanarkshire Council",
+      "link": "https://www.thenationalcareline.org/CareDirectory/Details/341",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thenationalcareline.org/CareDirectory/Details/341&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECFgQAQ",
+      "displayed_link": "https://www.thenationalcareline.org › Details",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40b054252342cedb075e2edba90fbddcdb.png",
+      "snippet": "... Tax rates & allowances The Money and Pensions Service. Care options. Sheltered ... North Lanarkshire Council. T. 0800 678 1166 01698 403200. W. https://www ...",
+      "snippet_highlighted_words": [
+        "Tax rates & allowances"
+      ],
+      "source": "The National Careline"
+    },
+    {
+      "position": 13,
+      "title": "North Lanarkshire increases council tax by 10%",
+      "link": "https://news.stv.tv/west-central/north-lanarkshire-increases-council-tax-by-10",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.stv.tv/west-central/north-lanarkshire-increases-council-tax-by-10&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECHAQAQ",
+      "displayed_link": "https://news.stv.tv › Glasgow & West",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d401e5b3118166c8d4d1c8aec71a34a5152.png",
+      "date": "Feb 21, 2025",
+      "snippet": "The increase voted through by councillors in North Lanarkshire means that people in Band D households will pay £323.59 more a year and those in Band A will pay ...",
+      "snippet_highlighted_words": [
+        "people in Band D households will pay £323.59 more a year"
+      ],
+      "source": "STV News"
+    },
+    {
+      "position": 14,
+      "title": "North Lanarkshire finance chief lays out plans for improved ...",
+      "link": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/north-lanarkshire-finance-chief-lays-34691582",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dailyrecord.co.uk/in-your-area/lanarkshire/north-lanarkshire-finance-chief-lays-34691582&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECHIQAQ",
+      "displayed_link": "https://www.dailyrecord.co.uk › in-your-area › north-la...",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d406e00428299e4c81cac48cfa73518fbc5.jpeg",
+      "date": "Feb 17, 2025",
+      "snippet": "North Lanarkshire finance chief lays out plans for improved facilities but confirms 10% council tax rise. Labour's Councillor Andrew Duffy- ...",
+      "snippet_highlighted_words": [
+        "confirms 10% council tax rise"
+      ],
+      "source": "Daily Record"
+    },
+    {
+      "position": 15,
+      "title": "Go Radio - X",
+      "link": "https://x.com/thisisgoradio/status/1892626663558558089",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/thisisgoradio/status/1892626663558558089&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCIkBEAE",
+      "displayed_link": "5 months ago",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d408424354638be6103b18431ff2efb10ea.png",
+      "snippet": "North Lanarkshire Council have confirmed a council tax rise of 10%. The council had a forecast £13.6m budget gap to bridge for the next year ...",
+      "snippet_highlighted_words": [
+        "council tax rise of 10"
+      ],
+      "source": "X · thisisgoradio"
+    },
+    {
+      "position": 16,
+      "title": "https://espws.necsws.com/ords/pwslive/call_initial...",
+      "link": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAR&la=LBKUT&language=ENG&options=CT",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv%3Fservice%3DCAR%26la%3DLBKUT%26language%3DENG%26options%3DCT&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCI0BEAE",
+      "displayed_link": "https://espws.necsws.com › ords › pwslive › call_initial_a...",
+      "snippet": "No information is available for this page.",
+      "source": "NEC Software Solutions"
+    },
+    {
+      "position": 17,
+      "title": "National Academies: Home",
+      "link": "https://www.nationalacademies.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nationalacademies.org/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCJsBEAE",
+      "displayed_link": "https://www.nationalacademies.org",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40d592c5e0a1e8cfb171818a5aad36f7c5.png",
+      "snippet": "Welcome to the home of the National Academies of Sciences, Engineering, and Medicine (NASEM)",
+      "source": "National Academies"
+    },
+    {
+      "position": 18,
+      "title": "North Lanarkshire authority considering huge council tax ...",
+      "link": "https://www.glasgowlive.co.uk/news/glasgow-news/north-lanarkshire-authority-considering-huge-30963112",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.glasgowlive.co.uk/news/glasgow-news/north-lanarkshire-authority-considering-huge-30963112&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCLcBEAE",
+      "displayed_link": "https://www.glasgowlive.co.uk › ... › Lanarkshire",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40e86ffb059531c0295854740ae305f5e3.jpeg",
+      "date": "Feb 8, 2025",
+      "snippet": "North Lanarkshire council is considering a massive council tax rise of up to 11% in a bid to plug a funding black hole.",
+      "snippet_highlighted_words": [
+        "massive council tax rise of up to 11"
+      ],
+      "source": "Glasgow Live"
+    },
+    {
+      "position": 19,
+      "title": "Jobs | North Lanarkshire Council",
+      "link": "https://myjobscotland.gov.uk/councils/north-lanarkshire-council/jobs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myjobscotland.gov.uk/councils/north-lanarkshire-council/jobs&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECD8QAQ",
+      "displayed_link": "https://myjobscotland.gov.uk › councils › jobs",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40e1f4cfd622529913a1fd413f828f4271.png",
+      "snippet": "Jobs ; School Crossing Patroller (Part-time) (Term Time) - NLA08309. Various locations in North Lanarkshire ML1 1AB · £13.22 - £13.73 per hour pro rata ; Trainee ...",
+      "snippet_highlighted_words": [
+        "North Lanarkshire"
+      ],
+      "source": "MyJobScotland"
+    },
+    {
+      "position": 20,
+      "title": "Strathclyde Pension Fund: SPFO Home Page",
+      "link": "https://www.spfo.org.uk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.spfo.org.uk/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECEwQAQ",
+      "displayed_link": "https://www.spfo.org.uk",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40465b2a29e7e2265b46fc96d2a032b015.png",
+      "snippet": "Your Pension Account, Members, Employers, Investments, How do I increase my benefits?, Preparing for retirement, Member Forms, Climate Change, FAQs",
+      "source": "Strathclyde Pension Fund"
+    },
+    {
+      "position": 21,
+      "title": "North Lanarkshire Council",
+      "link": "https://www.facebook.com/nlcpeople/?locale=fr_FR",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/nlcpeople/%3Flocale%3Dfr_FR&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECFcQAQ",
+      "displayed_link": "73K+ followers",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d4099b6015d078bf5123cd47f10cb4b6dcc.png",
+      "snippet": "Welcome to North Lanarkshire Council's official Facebook Page. We are dedicated to serving your communities. Follow us to stay updated on the latest news, ...",
+      "snippet_highlighted_words": [
+        "North Lanarkshire Council's"
+      ],
+      "source": "Facebook · North Lanarkshire Council"
+    },
+    {
+      "position": 22,
+      "title": "Council tax rises in Scotland - North Lanarkshire confirms ...",
+      "link": "https://uk.news.yahoo.com/council-tax-rises-scotland-north-170307956.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.news.yahoo.com/council-tax-rises-scotland-north-170307956.html&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECGcQAQ",
+      "displayed_link": "https://uk.news.yahoo.com › council-tax-rises-scotland-...",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d4027b68719975f8aea727102d52e52e351.png",
+      "date": "Feb 20, 2025",
+      "snippet": "North Lanarkshire has confirmed a 10 per cent council tax rise. The authority met on Thursday afternoon to vote on the hike.",
+      "snippet_highlighted_words": [
+        "10 per cent council tax rise"
+      ],
+      "source": "Yahoo News UK"
+    },
+    {
+      "position": 23,
+      "title": "Lanarkshire – Scottish Assessors Association Sites",
+      "link": "https://www.saa.gov.uk/lanarkshire/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.saa.gov.uk/lanarkshire/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECG8QAQ",
+      "displayed_link": "https://www.saa.gov.uk › lanarkshire",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d400090f3257a4173921ffb766833eed812.png",
+      "date": "Feb 20, 2017",
+      "snippet": "Welcome to the Lanarkshire section of the Scottish Assessors website. Search below for Rateable Values and Council Tax Bands.",
+      "snippet_highlighted_words": [
+        "Search below for Rateable Values and Council Tax Bands"
+      ],
+      "source": "Scottish Assessors Association"
+    },
+    {
+      "position": 24,
+      "title": "Glasgow and North Lanarkshire vote to freeze council tax",
+      "link": "https://www.bbc.co.uk/news/articles/c89n5vg1zx7o",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.co.uk/news/articles/c89n5vg1zx7o&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECHMQAQ",
+      "displayed_link": "https://www.bbc.co.uk › news › articles",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d4033c72d9cef27faf60d8c3f68e667e8f3.png",
+      "date": "Feb 15, 2024",
+      "snippet": "Glasgow City Council and North Lanarkshire Council have voted to freeze council tax for the coming year.",
+      "snippet_highlighted_words": [
+        "North Lanarkshire",
+        "council tax"
+      ],
+      "source": "BBC"
+    },
+    {
+      "position": 25,
+      "title": "National Records of Scotland (NRS)",
+      "link": "https://www.nrscotland.gov.uk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nrscotland.gov.uk/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCIIBEAE",
+      "displayed_link": "https://www.nrscotland.gov.uk",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d407473678b005a31d9ba9d1313a096234c.png",
+      "snippet": "Welcome to National Records of Scotland. We collect, preserve and publish information about Scotland's people and history, to inform current and future ...",
+      "source": "National Records of Scotland"
+    },
+    {
+      "position": 26,
+      "title": "West Lancashire Borough Council: Home",
+      "link": "https://www.westlancs.gov.uk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.westlancs.gov.uk/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCIABEAE",
+      "displayed_link": "https://www.westlancs.gov.uk",
+      "snippet": "Book a council house repair · Pay council tax or housing rent · Missed bin or new bin request · Help and Support over Christmas · Christmas opening hours.",
+      "snippet_highlighted_words": [
+        "Pay council tax"
+      ],
+      "source": "West Lancashire Borough Council"
+    },
+    {
+      "position": 27,
+      "title": "Online is the quickest, easiest way to reach us to with any ...",
+      "link": "https://www.facebook.com/nlcpeople/videos/online-is-the-quickest-easiest-way-to-reach-us-to-with-any-questions-or-issues-y/191006312406387/?locale=ps_AF",
+      "displayed_link": "2 reactions · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlxEI52pdKPW4QZZgGWi0dVPHpx583dYeXjotugE5SxmI&s",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40b94f810adff0b50fe970a9cf69558ccf.png",
+      "snippet": "On our new website you can: Pay your council tax, Report a missed bin, Request waste services, Pay for school lunches, And much more.",
+      "duration": "0:14",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS_8EO2aDoOGsDwTUX7wrz36FlvsS3ZHN_2Kg",
+      "source": "Facebook · North Lanarkshire Council"
+    },
+    {
+      "position": 28,
+      "title": "Isle of Man",
+      "link": "https://en.wikipedia.org/wiki/Isle_of_Man",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Isle_of_Man&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCI4BEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › Isle_of_Man",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d4052f03f1f04a4d84cd9c6d34644cec81e.png",
+      "snippet": "The Isle of Man has no capital gains tax, wealth tax, stamp duty, or inheritance tax and a top rate of income tax of 22% (as of April 2024). A tax ...",
+      "snippet_highlighted_words": [
+        "tax",
+        "tax",
+        "tax",
+        "tax",
+        "tax"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 29,
+      "title": "Gold flat as easing trade tensions offset support from weak ...",
+      "link": "https://uk.finance.yahoo.com/news/gold-flat-easing-trade-tensions-020343902.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.finance.yahoo.com/news/gold-flat-easing-trade-tensions-020343902.html&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCJEBEAE",
+      "displayed_link": "https://uk.finance.yahoo.com › news › gold-flat-easing-...",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d4092702b7f7c202ef97b743e9ad4ff2937.png",
+      "date": "22 hours ago",
+      "snippet": "Surrey council plots 'pointless' second homes tax raid on 76 people. The ...",
+      "snippet_highlighted_words": [
+        "council",
+        "tax"
+      ],
+      "source": "Yahoo.co"
+    },
+    {
+      "position": 30,
+      "title": "North Lanarkshire confirms 10% council tax rise dubbed ' ...",
+      "link": "https://www.glasgowlive.co.uk/news/glasgow-news/north-lanarkshire-confirms-10-council-31048561",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.glasgowlive.co.uk/news/glasgow-news/north-lanarkshire-confirms-10-council-31048561&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCJIBEAE",
+      "displayed_link": "https://www.glasgowlive.co.uk › ... › Lanarkshire",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d408d36b4990ca7916b84e89f67aa535e9c.jpeg",
+      "date": "Feb 20, 2025",
+      "snippet": "Our community members are treated to special offers, promotions and adverts from us and our partners. You can check out at any time.",
+      "source": "Glasgow Live"
+    },
+    {
+      "position": 31,
+      "title": "City of Lancaster, PA: Home",
+      "link": "https://www.cityoflancasterpa.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cityoflancasterpa.gov/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCJoBEAE",
+      "displayed_link": "https://www.cityoflancasterpa.gov",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40f9f7ad9f1f5ff6602b6b9c326c211747.png",
+      "snippet": "Services: Pay Utility & Real Estate Tax Bills, Trash & Recycling, Short Term Rentals & Homestays, Permits and Licensing",
+      "snippet_highlighted_words": [
+        "Pay Utility & Real Estate Tax Bills"
+      ],
+      "source": "City of Lancaster, PA (.gov)"
+    },
+    {
+      "position": 32,
+      "title": "North Lanarkshire Council budget update on your council tax",
+      "link": "https://www.glasgowworld.com/business/north-lanarkshire-council-budget-update-on-your-council-tax-3152307",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.glasgowworld.com/business/north-lanarkshire-council-budget-update-on-your-council-tax-3152307&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCKUBEAE",
+      "displayed_link": "https://www.glasgowworld.com › business › north-lanark...",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40fa7c9f10c3a7eac832d7d173c14d17a3.png",
+      "date": "Mar 2, 2021",
+      "snippet": "A key detail however was quickly confirmed before the presses rolled - that council tax will be frozen this year.",
+      "snippet_highlighted_words": [
+        "council tax will be frozen this year"
+      ],
+      "source": "GlasgowWorld"
+    },
+    {
+      "position": 33,
+      "title": "North Lanarkshire Council Approves Historic Council Tax Hike",
+      "link": "https://lanarkshiretelegraph.com/2025/02/21/north-lanarkshire-council-approves-historic-council-tax-hike/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lanarkshiretelegraph.com/2025/02/21/north-lanarkshire-council-approves-historic-council-tax-hike/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCLYBEAE",
+      "displayed_link": "https://lanarkshiretelegraph.com › 2025/02/21 › north-l...",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40a884ad533cc3b5c0377c63edd1a0f480.png",
+      "date": "Feb 21, 2025",
+      "snippet": "North Lanarkshire and Scottish Borders councils have voted for a whopping 10% increase, while Fife has opted for an 8.2% rise. In Edinburgh, ...",
+      "snippet_highlighted_words": [
+        "10% increase"
+      ],
+      "source": "lanarkshiretelegraph.com"
+    },
+    {
+      "position": 34,
+      "title": "Money blog: BT and EE customers facing outages; 25 ...",
+      "link": "https://news.sky.com/story/money-latest-consumer-personal-finance-blog-sky-news-13040934",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.sky.com/story/money-latest-consumer-personal-finance-blog-sky-news-13040934&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCLwBEAE",
+      "displayed_link": "https://news.sky.com › story › money-latest-consumer-...",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40aa19df243beedce3dcd910d47e2046cb.png",
+      "date": "2 days ago",
+      "snippet": "The account charges a £2 monthly fee, but allows holders to earn up to £15 per month in cashback on bills such as council tax, prepaid TV ...",
+      "snippet_highlighted_words": [
+        "council tax"
+      ],
+      "source": "Sky News"
+    },
+    {
+      "position": 35,
+      "title": "Minnesota Department of Employment and Economic ...",
+      "link": "https://mn.gov/deed/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mn.gov/deed/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECEoQAQ",
+      "displayed_link": "https://mn.gov › deed",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d406db02d1a52cfa8b03a1b6b784ad70328.png",
+      "snippet": "Welcome to the website for the Minnesota Department of Employment and Economic Development (DEED)",
+      "source": "mn.gov"
+    },
+    {
+      "position": 36,
+      "title": "North Lanarkshire Council",
+      "link": "https://www.foi.scot/north-lanarkshire-council",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foi.scot/north-lanarkshire-council&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECEsQAQ",
+      "displayed_link": "https://www.foi.scot › north-lanarkshire-council",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d407df5a56600b3870648410e98a4285991.png",
+      "snippet": "North Lanarkshire Council, Civic Centre Windmillhill Street Motherwell ML1 1AB, 01698 403200, foirequest@northlan.gov.uk, View website.",
+      "snippet_highlighted_words": [
+        "North Lanarkshire Council"
+      ],
+      "source": "Scottish Information Commissioner"
+    },
+    {
+      "position": 37,
+      "title": "City of Medford: Home",
+      "link": "https://www.medfordma.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medfordma.org/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECFEQAQ",
+      "displayed_link": "https://www.medfordma.org",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40b8d17863117395642f117ed5c9da485d.jpeg",
+      "snippet": "Medford is home to more than 300 acres of open spaces of all sizes and types, vibrant small business districts, a strong and supportive network of non-profit ...",
+      "source": "City of Medford, MA"
+    },
+    {
+      "position": 38,
+      "title": "Search our Records and Documents",
+      "link": "https://www.hcdistrictclerk.com/edocs/public/search.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hcdistrictclerk.com/edocs/public/search.aspx&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECFAQAQ",
+      "displayed_link": "https://www.hcdistrictclerk.com › edocs › public › search",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d4001c453dc20c2c4f748291a2b6a58544a.png",
+      "snippet": "All public case information is still available to everyone, once they login, and can be viewed FREE of charge.",
+      "source": "Harris County District Clerk"
+    },
+    {
+      "position": 39,
+      "title": "Fort Worth Independent School District: Home",
+      "link": "https://www.fwisd.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fwisd.org/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECFUQAQ",
+      "displayed_link": "https://www.fwisd.org",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40514b2ce79b92b7880bf44389d65df5c7.png",
+      "snippet": "... North Side(opens in new window/tab) · Paschal(opens in new window/tab) ... Tax Rates Toggle Tax Rates Section. Adopted Tax Rates · Tax Rate Notices · Business ...",
+      "snippet_highlighted_words": [
+        "North",
+        "Tax",
+        "Tax",
+        "Tax",
+        "Tax"
+      ],
+      "source": "Fort Worth Independent School District"
+    },
+    {
+      "position": 40,
+      "title": "Pay your Council Tax",
+      "link": "https://my.northtyneside.gov.uk/category/106/pay-your-council-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my.northtyneside.gov.uk/category/106/pay-your-council-tax&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECFYQAQ",
+      "displayed_link": "https://my.northtyneside.gov.uk › ... › Council Tax",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40b125f2e5cca535974ed4fbe998fb6569.png",
+      "snippet": "Pay your Council Tax bill. Pay council tax. You can also pay: by calling 0345 200 0107 and choosing option 2 — have your Council Tax account number to hand ...",
+      "snippet_highlighted_words": [
+        "Pay your Council Tax bill"
+      ],
+      "source": "North Tyneside Council"
+    },
+    {
+      "position": 41,
+      "title": "Apply Now",
+      "link": "https://www.fwisd.org/departments/talent-management/apply-now",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fwisd.org/departments/talent-management/apply-now&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECGUQAQ",
+      "displayed_link": "https://www.fwisd.org › departments › talent-management",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d4060ab0a9184ea7d32150c5e95bc9f82e8.png",
+      "snippet": "North Side(opens in new window/tab) · Paschal(opens in new window/tab) ... Tax Rates Toggle Tax Rates Section. Adopted Tax Rates · Tax Rate Notices · Business ...",
+      "snippet_highlighted_words": [
+        "North",
+        "Tax",
+        "Tax",
+        "Tax",
+        "Tax"
+      ],
+      "source": "Fort Worth Independent School District"
+    },
+    {
+      "position": 42,
+      "title": "Jobs, employment and volunteering",
+      "link": "https://www.lancashire.gov.uk/jobs/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lancashire.gov.uk/jobs/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECGYQAQ",
+      "displayed_link": "https://www.lancashire.gov.uk › jobs",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40005e0d5bb479428b4cc09fa76413a1bc.png",
+      "snippet": "Includes teacher vacancies, council jobs, volunteering and other routes into employment.",
+      "snippet_highlighted_words": [
+        "council"
+      ],
+      "source": "Lancashire County Council"
+    },
+    {
+      "position": 43,
+      "title": "PlanSA",
+      "link": "https://plan.sa.gov.au/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://plan.sa.gov.au/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECG4QAQ",
+      "displayed_link": "https://plan.sa.gov.au",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d407ee817609e4587573dd272272c584598.png",
+      "snippet": "PlanSA is the online platform for South Australia's planning and development system, where you can submit and manage your development application, check the ...",
+      "source": "PlanSA"
+    },
+    {
+      "position": 44,
+      "title": "APD - Agency for Persons with Disabilities - State of Florida",
+      "link": "https://apd.myflorida.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apd.myflorida.com/&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoFCIEBEAE",
+      "displayed_link": "https://apd.myflorida.com",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d4041c9b8f03af4fa5c7528142f8b4607e5.png",
+      "snippet": "Antant sou Apwentman Siplemantè pou Founisè iBudget lan ak Egzijans yo sou Salè Minimòm lan FAQ yo - PDF ... tax-free while maintaining the important benefits ...",
+      "snippet_highlighted_words": [
+        "lan",
+        "lan",
+        "tax"
+      ],
+      "source": "APD - Agency for Persons with Disabilities"
+    },
+    {
+      "position": 45,
+      "title": "Pay your Council Tax",
+      "link": "https://www.northyorks.gov.uk/council-tax/pay-your-council-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.northyorks.gov.uk/council-tax/pay-your-council-tax&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECDkQAQ",
+      "displayed_link": "https://www.northyorks.gov.uk › council-tax › pay-you...",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d402ffb4f0037509baaabcd0fdd520c1e16.png",
+      "snippet": "Pay Council Tax by Direct Debit. If you prefer never having to worry about making or missing payments, join 215,000 (70%) other residents of North Yorkshire ...",
+      "snippet_highlighted_words": [
+        "Council Tax",
+        "North"
+      ],
+      "source": "North Yorkshire Council"
+    },
+    {
+      "position": 46,
+      "title": "Jobs | South Lanarkshire",
+      "link": "https://myjobscotland.gov.uk/councils/south-lanarkshire/jobs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myjobscotland.gov.uk/councils/south-lanarkshire/jobs&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECDoQAQ",
+      "displayed_link": "https://myjobscotland.gov.uk › councils › jobs",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d409d5eb767ce31eb67878fc5e37e51f911.png",
+      "snippet": "COMM ENT 1948 - G1 Council Officer - Council Headquarters (600269) - 433505. Almada Street ML3 0AA · £14.18 - £14.49 per hour ; COMM ENT 1965 - G3 Technical ...",
+      "snippet_highlighted_words": [
+        "Council",
+        "Council"
+      ],
+      "source": "MyJobScotland"
+    },
+    {
+      "position": 47,
+      "title": "Council Tax",
+      "link": "https://my.northtyneside.gov.uk/category/99/council-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my.northtyneside.gov.uk/category/99/council-tax&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECDgQAQ",
+      "displayed_link": "https://my.northtyneside.gov.uk › category › council-tax",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d40f71fa33d0f677491fe1b7003e2c52983.png",
+      "snippet": "Make a payment, reductions in your bill, problems paying, Council Tax bands.",
+      "snippet_highlighted_words": [
+        "Council Tax"
+      ],
+      "source": "North Tyneside Council"
+    },
+    {
+      "position": 48,
+      "title": "North Lanarkshire council writes off almost £500000 in debts",
+      "link": "https://news.stv.tv/west-central/north-lanarkshire-council-writes-off-almost-500000-in-debts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.stv.tv/west-central/north-lanarkshire-council-writes-off-almost-500000-in-debts&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQFnoECDUQAQ",
+      "displayed_link": "https://news.stv.tv › Glasgow & West",
+      "favicon": "https://serpapi.com/searches/6882cfc8ff596ec9b51e12a8/images/05070fbc1ecd2cfc32f904e301ca3d407b689a06feac5417075dd3c7ca4072ae.png",
+      "date": "Aug 29, 2024",
+      "snippet": "The most common reasons for debt being written off include death of the debtor, liquidation, disappearance or the amount in question being too ...",
+      "source": "STV News"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "North Lanarkshire council tax band checker",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=North+Lanarkshire+council+tax+band+checker&sa=X&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQ1QJ6BQipARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=North+Lanarkshire+council+tax+band+checker"
+    },
+    {
+      "block_position": 1,
+      "query": "North Lanarkshire council tax bands",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=North+Lanarkshire+council+tax+bands&sa=X&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQ1QJ6BQiqARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=North+Lanarkshire+council+tax+bands"
+    },
+    {
+      "block_position": 1,
+      "query": "North Lanarkshire council tax change of circumstances",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=North+Lanarkshire+council+tax+change+of+circumstances&sa=X&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQ1QJ6BQizARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=North+Lanarkshire+council+tax+change+of+circumstances"
+    },
+    {
+      "block_position": 1,
+      "query": "North Lanarkshire council tax online",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=North+Lanarkshire+council+tax+online&sa=X&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQ1QJ6BQiyARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=North+Lanarkshire+council+tax+online"
+    },
+    {
+      "block_position": 1,
+      "query": "North Lanarkshire council telephone number",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=North+Lanarkshire+council+telephone+number&sa=X&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQ1QJ6BQirARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=North+Lanarkshire+council+telephone+number"
+    },
+    {
+      "block_position": 1,
+      "query": "North Lanarkshire council tax office",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=North+Lanarkshire+council+tax+office&sa=X&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQ1QJ6BQi0ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=North+Lanarkshire+council+tax+office"
+    },
+    {
+      "block_position": 1,
+      "query": "North Lanarkshire council tax login",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=North+Lanarkshire+council+tax+login&sa=X&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQ1QJ6BQixARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=North+Lanarkshire+council+tax+login"
+    },
+    {
+      "block_position": 1,
+      "query": "North Lanarkshire council tax address",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=North+Lanarkshire+council+tax+address&sa=X&ved=2ahUKEwiYnIq64NaOAxV8SPEDHTLuKacQ1QJ6BQisARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=North+Lanarkshire+council+tax+address"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 48 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=north+lan+council+tax&num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=north+lan+council+tax&oq=north+lan+council+tax&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=north+lan+council+tax&oq=north+lan+council+tax&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=north+lan+council+tax&oq=north+lan+council+tax&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=north+lan+council+tax&oq=north+lan+council+tax&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=north+lan+council+tax&oq=north+lan+council+tax&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=north+lan+council+tax&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=north+lan+council+tax&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=north+lan+council+tax&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=north+lan+council+tax&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=north+lan+council+tax&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=north+lan+council+tax&start=400"
+    }
+  }
+}

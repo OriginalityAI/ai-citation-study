@@ -1,0 +1,926 @@
+{
+  "search_metadata": {
+    "id": "6883030a17bdbfb258c2bdf9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/61d9bfd4ec3ad0a7/6883030a17bdbfb258c2bdf9.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/61d9bfd4ec3ad0a7/6883030a17bdbfb258c2bdf9.json_with_pixel_position",
+    "created_at": "2025-07-25 04:07:38 UTC",
+    "processed_at": "2025-07-25 04:07:38 UTC",
+    "google_url": "https://www.google.com/search?q=covid+testing+warwick+qld&oq=covid+testing+warwick+qld&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/61d9bfd4ec3ad0a7/6883030a17bdbfb258c2bdf9.html",
+    "total_time_taken": 3.82
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "covid testing warwick qld",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "covid testing warwick qld",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.darlingdowns.health.qld.gov.au/about-us/our-stories/news/warwicks-covid-19-testing-team-reflect-on-mateship-and-giving-back",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyye7IhGNnB6oza8egothdrvJOa-iMIDwGIeYcWruMfoTt_HFusi1byWE&s",
+      "original": "https://www.darlingdowns.health.qld.gov.au/__data/assets/image/0019/105049/20221005_warwicktesting.png",
+      "title": "Warwick's COVID-19 testing team reflect on mateship and ...",
+      "source_name": "Darling Downs Health - Queensland Health"
+    },
+    {
+      "source": "https://ihealthlabs.com/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4VUZajlI0jp7YusGOTmaEWAzSewVoPDATBYlURHffl31MaQ9DvXwjOII&s",
+      "original": "https://ihealthlabs.com/cdn/shop/files/3-in-1_5bf45f42-a104-43de-b9a6-457d5a217f05.png?v=1719444879",
+      "title": "iHealth Labs – iHealth Labs Inc",
+      "source_name": "ihealthlabs.com"
+    },
+    {
+      "source": "https://ihealthlabs.com/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUg31Ioedr4nVK3DzphkY7ryqb3u1CHMwO20JYvBu2EbqiXaR9LNFs_A&s",
+      "original": "https://ihealthlabs.com/cdn/shop/files/NOBG1.png?v=1721237988",
+      "title": "iHealth Labs – iHealth Labs Inc",
+      "source_name": "ihealthlabs.com"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Are COVID tests free in QLD?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1NGcHVZVTkyT0V0algzUnBWMDlxZUV4TVUwOXNRVFp1ZG5SbUxXaHpSbW95YldwdlVsRmlNMlpMYURJMFUyUnVPV05vYUVzM1VWQlZOR3BJTlc0MFkwRk5VbE5rTld3NWMxVm9SVkZNTm5waGVqSkRYM2hrV2tSUFFSSVhSRkZQUkdGTlZHSktkbFJ1ZDA0MFVIcDFOMll5UVRBYUlrRkdUVUZIUjNGdk5WbHBUbW96VjBwR1ZWZDBSMGhmU2t0R015MUhUV3h1YjBFIiwiZmN2IjoiMyIsImVpIjoiRFFPRGFNVGJKdlRud040UHp1N2YyQTAiLCJxYyI6IkNobGpiM1pwWkNCMFpYTjBhVzVuSUhkaGNuZHBZMnNnY1d4a0VBQVlBWDA5OGpBXyIsInF1ZXN0aW9uIjoiQXJlIENPVklEIHRlc3RzIGZyZWUgaW4gUUxEPyIsImxrIjoiR2h0aGNtVWdZMjkyYVdRZ2RHVnpkSE1nWm5KbFpTQnBiaUJ4YkdRIiwiYnMiOiJjLU55NEpKeExFcFZjUFlQODNSUktFa3RMaWxXU0N0S1RWWEl6Rk1JOUhHeGw1aFpZQ1FySlowSVZKS2NYNWFaZ3Fha01DZUZLNFJMTFR3ak5VOGhzMWdoczBTaEpEOWZJU2V4SkJYSUFLdFZTTXN2Z3BodUxfSEcxMGhkU3JXY2dHS3dQVnoyWExJZS1lVWdpZlRVRW9WRWhRRG5JSWdTbU1NMnh4aEpTMGxtSUtzcFNDNkNxQUU1cTRyTEVtUkFUbjVldWtKS3ZrSmxmcWxDZVNMWVRvV1N4T3hVb0hLRW54VVMwMHBTaXhSU0t3cnlpMHVMVXUwbFRxWWJXVWxaWk9EWGp3Z1FOUDBDakFBIiwiaWQiOiJmY19EUU9EYU1UYkp2VG53TjRQenU3ZjJBMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1NGcHVZVTkyT0V0algzUnBWMDlxZUV4TVUwOXNRVFp1ZG5SbUxXaHpSbW95YldwdlVsRmlNMlpMYURJMFUyUnVPV05vYUVzM1VWQlZOR3BJTlc0MFkwRk5VbE5rTld3NWMxVm9SVkZNTm5waGVqSkRYM2hrV2tSUFFSSVhSRkZQUkdGTlZHSktkbFJ1ZDA0MFVIcDFOMll5UVRBYUlrRkdUVUZIUjNGdk5WbHBUbW96VjBwR1ZWZDBSMGhmU2t0R015MUhUV3h1YjBFIiwiZmN2IjoiMyIsImVpIjoiRFFPRGFNVGJKdlRud040UHp1N2YyQTAiLCJxYyI6IkNobGpiM1pwWkNCMFpYTjBhVzVuSUhkaGNuZHBZMnNnY1d4a0VBQVlBWDA5OGpBXyIsInF1ZXN0aW9uIjoiQXJlIENPVklEIHRlc3RzIGZyZWUgaW4gUUxEPyIsImxrIjoiR2h0aGNtVWdZMjkyYVdRZ2RHVnpkSE1nWm5KbFpTQnBiaUJ4YkdRIiwiYnMiOiJjLU55NEpKeExFcFZjUFlQODNSUktFa3RMaWxXU0N0S1RWWEl6Rk1JOUhHeGw1aFpZQ1FySlowSVZKS2NYNWFaZ3Fha01DZUZLNFJMTFR3ak5VOGhzMWdoczBTaEpEOWZJU2V4SkJYSUFLdFZTTXN2Z3BodUxfSEcxMGhkU3JXY2dHS3dQVnoyWExJZS1lVWdpZlRVRW9WRWhRRG5JSWdTbU1NMnh4aEpTMGxtSUtzcFNDNkNxQUU1cTRyTEVtUkFUbjVldWtKS3ZrSmxmcWxDZVNMWVRvV1N4T3hVb0hLRW54VVMwMHBTaXhSU0t3cnlpMHVMVXUwbFRxWWJXVWxaWk9EWGp3Z1FOUDBDakFBIiwiaWQiOiJmY19EUU9EYU1UYkp2VG53TjRQenU3ZjJBMF8xIn0%3D"
+    },
+    {
+      "question": "When is it too late to test for COVID?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1NGcHVZVTkyT0V0algzUnBWMDlxZUV4TVUwOXNRVFp1ZG5SbUxXaHpSbW95YldwdlVsRmlNMlpMYURJMFUyUnVPV05vYUVzM1VWQlZOR3BJTlc0MFkwRk5VbE5rTld3NWMxVm9SVkZNTm5waGVqSkRYM2hrV2tSUFFSSVhSRkZQUkdGTlZHSktkbFJ1ZDA0MFVIcDFOMll5UVRBYUlrRkdUVUZIUjNGdk5WbHBUbW96VjBwR1ZWZDBSMGhmU2t0R015MUhUV3h1YjBFIiwiZmN2IjoiMyIsImVpIjoiRFFPRGFNVGJKdlRud040UHp1N2YyQTAiLCJxYyI6IkNobGpiM1pwWkNCMFpYTjBhVzVuSUhkaGNuZHBZMnNnY1d4a0VBQVlBWDA5OGpBXyIsInF1ZXN0aW9uIjoiV2hlbiBpcyBpdCB0b28gbGF0ZSB0byB0ZXN0IGZvciBDT1ZJRD8iLCJsayI6IkdpVjNhR1Z1SUdseklHbDBJSFJ2YnlCc1lYUmxJSFJ2SUhSbGMzUWdabTl5SUdOdmRtbGsiLCJicyI6ImMtTnk0Skp4TEVwVmNQWVA4M1JSS0VrdExpbFdTQ3RLVFZYSXpGTUk5SEd4bDVoWllDUXJKWjBJVkpLY1g1YVpncWFrTUNlRks0UkxMVHdqTlU4aHMxZ2hzMFNoSkQ5ZklTZXhKQlhJQUt0VlNNc3ZncGh1TF9IRzEwaGRTcldjZ0dLd1BWejJYTEllLWVVZ2lmVFVFb1ZFaFFEbklJZ1NtTU0yeHhoSlMwbG1JS3NwU0M2Q3FBRTVxNHJMRW1SQVRuNWV1a0pLdmtKbGZxbENlU0xZVG9XU3hPeFVvSEtFbnhVUzAwcFNpeFJTS3dyeWkwdUxVdTBsVHFZYldVbFpaT0RYandnUU5QMENqQUEiLCJpZCI6ImZjX0RRT0RhTVRiSnZUbndONFB6dTdmMkEwXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1NGcHVZVTkyT0V0algzUnBWMDlxZUV4TVUwOXNRVFp1ZG5SbUxXaHpSbW95YldwdlVsRmlNMlpMYURJMFUyUnVPV05vYUVzM1VWQlZOR3BJTlc0MFkwRk5VbE5rTld3NWMxVm9SVkZNTm5waGVqSkRYM2hrV2tSUFFSSVhSRkZQUkdGTlZHSktkbFJ1ZDA0MFVIcDFOMll5UVRBYUlrRkdUVUZIUjNGdk5WbHBUbW96VjBwR1ZWZDBSMGhmU2t0R015MUhUV3h1YjBFIiwiZmN2IjoiMyIsImVpIjoiRFFPRGFNVGJKdlRud040UHp1N2YyQTAiLCJxYyI6IkNobGpiM1pwWkNCMFpYTjBhVzVuSUhkaGNuZHBZMnNnY1d4a0VBQVlBWDA5OGpBXyIsInF1ZXN0aW9uIjoiV2hlbiBpcyBpdCB0b28gbGF0ZSB0byB0ZXN0IGZvciBDT1ZJRD8iLCJsayI6IkdpVjNhR1Z1SUdseklHbDBJSFJ2YnlCc1lYUmxJSFJ2SUhSbGMzUWdabTl5SUdOdmRtbGsiLCJicyI6ImMtTnk0Skp4TEVwVmNQWVA4M1JSS0VrdExpbFdTQ3RLVFZYSXpGTUk5SEd4bDVoWllDUXJKWjBJVkpLY1g1YVpncWFrTUNlRks0UkxMVHdqTlU4aHMxZ2hzMFNoSkQ5ZklTZXhKQlhJQUt0VlNNc3ZncGh1TF9IRzEwaGRTcldjZ0dLd1BWejJYTEllLWVVZ2lmVFVFb1ZFaFFEbklJZ1NtTU0yeHhoSlMwbG1JS3NwU0M2Q3FBRTVxNHJMRW1SQVRuNWV1a0pLdmtKbGZxbENlU0xZVG9XU3hPeFVvSEtFbnhVUzAwcFNpeFJTS3dyeWkwdUxVdTBsVHFZYldVbFpaT0RYandnUU5QMENqQUEiLCJpZCI6ImZjX0RRT0RhTVRiSnZUbndONFB6dTdmMkEwXzEifQ%3D%3D"
+    },
+    {
+      "question": "How to get a PCR test in QLD?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1NGcHVZVTkyT0V0algzUnBWMDlxZUV4TVUwOXNRVFp1ZG5SbUxXaHpSbW95YldwdlVsRmlNMlpMYURJMFUyUnVPV05vYUVzM1VWQlZOR3BJTlc0MFkwRk5VbE5rTld3NWMxVm9SVkZNTm5waGVqSkRYM2hrV2tSUFFSSVhSRkZQUkdGTlZHSktkbFJ1ZDA0MFVIcDFOMll5UVRBYUlrRkdUVUZIUjNGdk5WbHBUbW96VjBwR1ZWZDBSMGhmU2t0R015MUhUV3h1YjBFIiwiZmN2IjoiMyIsImVpIjoiRFFPRGFNVGJKdlRud040UHp1N2YyQTAiLCJxYyI6IkNobGpiM1pwWkNCMFpYTjBhVzVuSUhkaGNuZHBZMnNnY1d4a0VBQVlBWDA5OGpBXyIsInF1ZXN0aW9uIjoiSG93IHRvIGdldCBhIFBDUiB0ZXN0IGluIFFMRD8iLCJsayI6IkdobG9iM2NnZEc4Z1oyVjBJR0VnY0dOeUlIUmxjM1FnY1d4ayIsImJzIjoiYy1OeTRKSnhMRXBWY1BZUDgzUlJLRWt0TGlsV1NDdEtUVlhJekZNSTlIR3hsNWhaWUNRckpaMElWSktjWDVhWmdxYWtNQ2VGSzRSTExUd2pOVThoczFnaHMwU2hKRDlmSVNleEpCWElBS3RWU01zdmdwaHVMX0hHMTBoZFNyV2NnR0t3UFZ6MlhMSWUtZVVnaWZUVUVvVkVoUURuSUlnU21NTTJ4eGhKUzBsbUlLc3BTQzZDcUFFNXE0ckxFbVJBVG41ZXVrSkt2a0psZnFsQ2VTTFlUb1dTeE94VW9IS0VueFVTMDBwU2l4UlNLd3J5aTB1TFV1MGxUcVliV1VsWlpPRFhqd2dRTlAwQ2pBQSIsImlkIjoiZmNfRFFPRGFNVGJKdlRud040UHp1N2YyQTBfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1NGcHVZVTkyT0V0algzUnBWMDlxZUV4TVUwOXNRVFp1ZG5SbUxXaHpSbW95YldwdlVsRmlNMlpMYURJMFUyUnVPV05vYUVzM1VWQlZOR3BJTlc0MFkwRk5VbE5rTld3NWMxVm9SVkZNTm5waGVqSkRYM2hrV2tSUFFSSVhSRkZQUkdGTlZHSktkbFJ1ZDA0MFVIcDFOMll5UVRBYUlrRkdUVUZIUjNGdk5WbHBUbW96VjBwR1ZWZDBSMGhmU2t0R015MUhUV3h1YjBFIiwiZmN2IjoiMyIsImVpIjoiRFFPRGFNVGJKdlRud040UHp1N2YyQTAiLCJxYyI6IkNobGpiM1pwWkNCMFpYTjBhVzVuSUhkaGNuZHBZMnNnY1d4a0VBQVlBWDA5OGpBXyIsInF1ZXN0aW9uIjoiSG93IHRvIGdldCBhIFBDUiB0ZXN0IGluIFFMRD8iLCJsayI6IkdobG9iM2NnZEc4Z1oyVjBJR0VnY0dOeUlIUmxjM1FnY1d4ayIsImJzIjoiYy1OeTRKSnhMRXBWY1BZUDgzUlJLRWt0TGlsV1NDdEtUVlhJekZNSTlIR3hsNWhaWUNRckpaMElWSktjWDVhWmdxYWtNQ2VGSzRSTExUd2pOVThoczFnaHMwU2hKRDlmSVNleEpCWElBS3RWU01zdmdwaHVMX0hHMTBoZFNyV2NnR0t3UFZ6MlhMSWUtZVVnaWZUVUVvVkVoUURuSUlnU21NTTJ4eGhKUzBsbUlLc3BTQzZDcUFFNXE0ckxFbVJBVG41ZXVrSkt2a0psZnFsQ2VTTFlUb1dTeE94VW9IS0VueFVTMDBwU2l4UlNLd3J5aTB1TFV1MGxUcVliV1VsWlpPRFhqd2dRTlAwQ2pBQSIsImlkIjoiZmNfRFFPRGFNVGJKdlRud040UHp1N2YyQTBfMSJ9"
+    },
+    {
+      "question": "How long do you wait to take a COVID test after exposure?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1NGcHVZVTkyT0V0algzUnBWMDlxZUV4TVUwOXNRVFp1ZG5SbUxXaHpSbW95YldwdlVsRmlNMlpMYURJMFUyUnVPV05vYUVzM1VWQlZOR3BJTlc0MFkwRk5VbE5rTld3NWMxVm9SVkZNTm5waGVqSkRYM2hrV2tSUFFSSVhSRkZQUkdGTlZHSktkbFJ1ZDA0MFVIcDFOMll5UVRBYUlrRkdUVUZIUjNGdk5WbHBUbW96VjBwR1ZWZDBSMGhmU2t0R015MUhUV3h1YjBFIiwiZmN2IjoiMyIsImVpIjoiRFFPRGFNVGJKdlRud040UHp1N2YyQTAiLCJxYyI6IkNobGpiM1pwWkNCMFpYTjBhVzVuSUhkaGNuZHBZMnNnY1d4a0VBQVlBWDA5OGpBXyIsInF1ZXN0aW9uIjoiSG93IGxvbmcgZG8geW91IHdhaXQgdG8gdGFrZSBhIENPVklEIHRlc3QgYWZ0ZXIgZXhwb3N1cmU/IiwibGsiOiJjd1hCMFEyQUlCUUR3RDM4NmhpdTh5SlZpTVlhS0lMYmU3ZXNXUU9YN2dOSi1OUXhvaGdXSENjUjJQU1dCTE1ac1pzVm5JOWFyX3dCIiwiYnMiOiJjLU55NEpKeExFcFZjUFlQODNSUktFa3RMaWxXU0N0S1RWWEl6Rk1JOUhHeGw1aFpZQ1FySlowSVZKS2NYNWFaZ3Fha01DZUZLNFJMTFR3ak5VOGhzMWdoczBTaEpEOWZJU2V4SkJYSUFLdFZTTXN2Z3BodUxfSEcxMGhkU3JXY2dHS3dQVnoyWExJZS1lVWdpZlRVRW9WRWhRRG5JSWdTbU1NMnh4aEpTMGxtSUtzcFNDNkNxQUU1cTRyTEVtUkFUbjVldWtKS3ZrSmxmcWxDZVNMWVRvV1N4T3hVb0hLRW54VVMwMHBTaXhSU0t3cnlpMHVMVXUwbFRxWWJXVWxaWk9EWGp3Z1FOUDBDakFBIiwiaWQiOiJmY19EUU9EYU1UYkp2VG53TjRQenU3ZjJBMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR1NGcHVZVTkyT0V0algzUnBWMDlxZUV4TVUwOXNRVFp1ZG5SbUxXaHpSbW95YldwdlVsRmlNMlpMYURJMFUyUnVPV05vYUVzM1VWQlZOR3BJTlc0MFkwRk5VbE5rTld3NWMxVm9SVkZNTm5waGVqSkRYM2hrV2tSUFFSSVhSRkZQUkdGTlZHSktkbFJ1ZDA0MFVIcDFOMll5UVRBYUlrRkdUVUZIUjNGdk5WbHBUbW96VjBwR1ZWZDBSMGhmU2t0R015MUhUV3h1YjBFIiwiZmN2IjoiMyIsImVpIjoiRFFPRGFNVGJKdlRud040UHp1N2YyQTAiLCJxYyI6IkNobGpiM1pwWkNCMFpYTjBhVzVuSUhkaGNuZHBZMnNnY1d4a0VBQVlBWDA5OGpBXyIsInF1ZXN0aW9uIjoiSG93IGxvbmcgZG8geW91IHdhaXQgdG8gdGFrZSBhIENPVklEIHRlc3QgYWZ0ZXIgZXhwb3N1cmU%2FIiwibGsiOiJjd1hCMFEyQUlCUUR3RDM4NmhpdTh5SlZpTVlhS0lMYmU3ZXNXUU9YN2dOSi1OUXhvaGdXSENjUjJQU1dCTE1ac1pzVm5JOWFyX3dCIiwiYnMiOiJjLU55NEpKeExFcFZjUFlQODNSUktFa3RMaWxXU0N0S1RWWEl6Rk1JOUhHeGw1aFpZQ1FySlowSVZKS2NYNWFaZ3Fha01DZUZLNFJMTFR3ak5VOGhzMWdoczBTaEpEOWZJU2V4SkJYSUFLdFZTTXN2Z3BodUxfSEcxMGhkU3JXY2dHS3dQVnoyWExJZS1lVWdpZlRVRW9WRWhRRG5JSWdTbU1NMnh4aEpTMGxtSUtzcFNDNkNxQUU1cTRyTEVtUkFUbjVldWtKS3ZrSmxmcWxDZVNMWVRvV1N4T3hVb0hLRW54VVMwMHBTaXhSU0t3cnlpMHVMVXUwbFRxWWJXVWxaWk9EWGp3Z1FOUDBDakFBIiwiaWQiOiJmY19EUU9EYU1UYkp2VG53TjRQenU3ZjJBMF8xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Get tested for COVID-19 | Health and wellbeing",
+      "link": "https://www.qld.gov.au/health/conditions/all/prevention/covid-19/testing-and-monitoring/get-tested-for-covid-19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.qld.gov.au/health/conditions/all/prevention/covid-19/testing-and-monitoring/get-tested-for-covid-19&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECBgQAQ",
+      "displayed_link": "https://www.qld.gov.au › all › testing-and-monitoring",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425869d3c1ba02b0d0e9ccda2d91e412a33e8.png",
+      "date": "Jan 1, 2025",
+      "snippet": "The COVID-19 testing process, types of tests, and when to get tested.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "testing",
+        "tests",
+        "tested"
+      ],
+      "missing": [
+        "warwick"
+      ],
+      "must_include": {
+        "word": "warwick",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=covid+testing+%22warwick%22+qld&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ5t4CegQIMhAB"
+      },
+      "source": "Queensland Government"
+    },
+    {
+      "position": 2,
+      "title": "Warwick Respiratory Clinic",
+      "link": "https://qfinder2.health.qld.gov.au/HealthServiceProvider/Index/ed870358-ac98-ea11-8101-00505601056d",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://qfinder2.health.qld.gov.au/HealthServiceProvider/Index/ed870358-ac98-ea11-8101-00505601056d&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECBQQAQ",
+      "displayed_link": "https://qfinder2.health.qld.gov.au › Index",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb0414258699a232cfa482200550566dd2b4c93023.png",
+      "snippet": "The purpose of the respiratory clinic is to assess, test and treat people with mild-to-moderate respiratory conditions, including COVID-19, influenza and ...",
+      "snippet_highlighted_words": [
+        "to assess, test and treat people with mild-to-moderate respiratory conditions"
+      ],
+      "source": "Queensland Health"
+    },
+    {
+      "position": 3,
+      "title": "COVID testing clinic open at Warwick Showgrounds",
+      "link": "https://www.sdrc.qld.gov.au/council/alerts-news-notices/2021-news/2021-november/covid-testing-clinic-open-at-warwick-showgrounds",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sdrc.qld.gov.au/council/alerts-news-notices/2021-news/2021-november/covid-testing-clinic-open-at-warwick-showgrounds&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECBoQAQ",
+      "displayed_link": "https://www.sdrc.qld.gov.au › ... › 2021 News",
+      "date": "Nov 10, 2021",
+      "snippet": "Use the Check In Qld app. Get tested if you are unwell and remain in isolation until a negative result is received. Stay at home when sick.",
+      "snippet_highlighted_words": [
+        "Get tested if you are unwell"
+      ],
+      "source": "Southern Downs Regional Council"
+    },
+    {
+      "position": 4,
+      "title": "Warwick's COVID-19 testing team reflect on mateship and ...",
+      "link": "https://www.darlingdowns.health.qld.gov.au/about-us/our-stories/news/warwicks-covid-19-testing-team-reflect-on-mateship-and-giving-back",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.darlingdowns.health.qld.gov.au/about-us/our-stories/news/warwicks-covid-19-testing-team-reflect-on-mateship-and-giving-back&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECBUQAQ",
+      "displayed_link": "https://www.darlingdowns.health.qld.gov.au › news › wa...",
+      "thumbnail": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425867eb6474cbfe69c66747352ab7a802a0a.jpeg",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425868bf7e48ca5a712ebe1a8f37469008453.png",
+      "date": "Oct 5, 2022",
+      "snippet": "COVID-19 swabbing at Warwick Hospital stopped at the start of September when all Darling Downs Health testing sites closed. But as the response ...",
+      "snippet_highlighted_words": [
+        "COVID-19 swabbing at Warwick Hospital stopped at the start of September"
+      ],
+      "source": "Darling Downs Health"
+    },
+    {
+      "position": 5,
+      "title": "⚠️ COVID-19 testing at Warwick Hospital ⬇️ Tomorrow ...",
+      "link": "https://www.facebook.com/darlingdownshealth/posts/%EF%B8%8F-covid-19-testing-at-warwick-hospital-%EF%B8%8Ftomorrow-were-open-for-covid-19-testing-/1239933386439794/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/darlingdownshealth/posts/%25EF%25B8%258F-covid-19-testing-at-warwick-hospital-%25EF%25B8%258Ftomorrow-were-open-for-covid-19-testing-/1239933386439794/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECBcQAQ",
+      "displayed_link": "10+ reactions · 4 years ago",
+      "thumbnail": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586a8063f19ad61e4798a175fa4b0a3517b.jpeg",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586d3d184dcabfb58a45c94eb438b6923a9.png",
+      "snippet": "We're open for COVID-19 testing at our Warwick Hospital drive-through pop-up clinic. Open 8am to 4pm. Enter near McCarthy House, as shown on our map.",
+      "snippet_highlighted_words": [
+        "Warwick Hospital drive-through pop-up clinic"
+      ],
+      "source": "Facebook · Darling Downs Health"
+    },
+    {
+      "position": 6,
+      "title": "Priceline Pharmacy Warwick - Book an Appointment Online",
+      "link": "https://healthengine.com.au/pharmacy/qld/warwick/priceline-pharmacy-warwick/s52320",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://healthengine.com.au/pharmacy/qld/warwick/priceline-pharmacy-warwick/s52320&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECDkQAQ",
+      "displayed_link": "https://healthengine.com.au › ... › Warwick, 4370",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425866fbf056ef5659463862a9ddc8fad0f82.jpeg",
+      "snippet": "Covid-19 And Flu Vaccinations, Vaccinations, Sleep Services, Medication Management, Health Checks, Beauty Services, Covid-19 Testing, Weight Management, Hearing ...",
+      "snippet_highlighted_words": [
+        "Covid-19 Testing"
+      ],
+      "source": "Healthengine"
+    },
+    {
+      "position": 7,
+      "title": "COVID-19 Vaccines",
+      "link": "https://conmed.com.au/covid-19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://conmed.com.au/covid-19/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECGAQAQ",
+      "displayed_link": "https://conmed.com.au › covid-19",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586bede3c237ca6470cc0697e8327697b2c.png",
+      "snippet": "We have implemented a Fever Clinic at 67 Guy Street, Warwick. · This is only for patients who are experiencing COVID-19 symptoms. · To make an appointment call ...",
+      "snippet_highlighted_words": [
+        "67 Guy Street, Warwick"
+      ],
+      "missing": [
+        "testing"
+      ],
+      "must_include": {
+        "word": "testing",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=covid+%22testing%22+warwick+qld&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ5t4CegQIbhAB"
+      },
+      "source": "Condamine Medical Centre"
+    },
+    {
+      "position": 8,
+      "title": "QML Warwick - Zable Health™ Healthcare Made Easy",
+      "link": "https://zable.com.au/clinic/qml-warwick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zable.com.au/clinic/qml-warwick&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCK0BEAE",
+      "displayed_link": "https://zable.com.au › clinic › qml-warwick",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586a01edb3a5c9be8374b5f12cba67cb9eb.png",
+      "snippet": "- Coronavirus (COVID-19): Our clinic provides COVID-19 testing to help identify and manage the spread of the virus. - Drug Analysis (Hair): We offer hair ...",
+      "snippet_highlighted_words": [
+        "Our clinic provides COVID-19 testing"
+      ],
+      "source": "zable.com.au"
+    },
+    {
+      "position": 9,
+      "title": "*At-home Rapid Antigen Tests for COVID-19 are available ...",
+      "link": "https://www.facebook.com/wfspharmacies/posts/at-home-rapid-antigen-tests-for-covid-19-are-available-now-at-the-warwick-friend/5157764624267793/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/wfspharmacies/posts/at-home-rapid-antigen-tests-for-covid-19-are-available-now-at-the-warwick-friend/5157764624267793/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECD8QAQ",
+      "displayed_link": "10+ reactions · 3 years ago",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586740f99d2b46b91c15ac8311f3de478a0.png",
+      "snippet": "At-home Rapid Antigen Tests for COVID-19 are available now at The Warwick Friendly Society Pharmacies.*",
+      "snippet_highlighted_words": [
+        "available now at The Warwick Friendly Society Pharmacies"
+      ],
+      "source": "Facebook · Warwick Friendly Society Pharmacies"
+    },
+    {
+      "position": 10,
+      "title": "Warwick",
+      "link": "https://www.snp.com.au/our-locations/TO261/Warwick/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.snp.com.au/our-locations/TO261/Warwick/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECHQQAQ",
+      "displayed_link": "https://www.snp.com.au › our-locations › Warwick",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425867c61c61194ebb755b003ecf21ff44951.png",
+      "snippet": "Warwick QLD 4370. Phone (07) 4661 3633 · Book appointment. View all location details. Directions. Friendly Society Health Centre. 53 Wood Street. Warwick QLD ...",
+      "snippet_highlighted_words": [
+        "Warwick QLD",
+        "Warwick QLD"
+      ],
+      "source": "Sullivan Nicolaides Pathology"
+    },
+    {
+      "position": 11,
+      "title": "COVID Tests and Treatment at 2790 Post Road, Warwick, RI",
+      "link": "https://www.cvs.com/minuteclinic/clinic-locator/covid-19-testing/warwick-covid-689.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cvs.com/minuteclinic/clinic-locator/covid-19-testing/warwick-covid-689.html&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCKYBEAE",
+      "displayed_link": "https://www.cvs.com › ... › Warwick COVID-19 Testing",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425869a8060a0d0f4f64dbd5660ed6d58c89c.png",
+      "snippet": "2790 Post Road, Warwick, RI CVS Health is offering lab testing for COVID-19 - limited appointments now available to patients who qualify.",
+      "snippet_highlighted_words": [
+        "Warwick",
+        "testing",
+        "COVID"
+      ],
+      "missing": [
+        "qld"
+      ],
+      "must_include": {
+        "word": "qld",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=covid+testing+warwick+%22qld%22&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ5t4CegUIvwEQAQ"
+      },
+      "source": "CVS"
+    },
+    {
+      "position": 12,
+      "title": "Warwick Medical Centre | GP and Skin Clinic",
+      "link": "https://warwickmedicalcentre.com.au/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://warwickmedicalcentre.com.au/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCKQBEAE",
+      "displayed_link": "https://warwickmedicalcentre.com.au",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586a468bbd751f2e26695570b2cd9306702.png",
+      "snippet": "We can provide the required tests and vaccinations for travel to most destinations. So don't wait until the last minute - come see us today and we'll help ...",
+      "snippet_highlighted_words": [
+        "tests"
+      ],
+      "source": "Warwick Medical Centre and Skin Clinic"
+    },
+    {
+      "position": 13,
+      "title": "Testing for COVID-19",
+      "link": "https://www.health.gov.au/topics/covid-19/testing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.gov.au/topics/covid-19/testing&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECD4QAQ",
+      "displayed_link": "https://www.health.gov.au › topics › covid-19 › testing",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb0414258613390af4d288a1d29b153dc0c64fadc4.png",
+      "date": "Mar 13, 2025",
+      "snippet": "You should test if you have been exposed to COVID-19 or have symptoms compatible with COVID-19, and are at high risk of severe disease.",
+      "snippet_highlighted_words": [
+        "test",
+        "COVID",
+        "COVID"
+      ],
+      "missing": [
+        "warwick"
+      ],
+      "must_include": {
+        "word": "warwick",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=covid+testing+%22warwick%22+qld&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ5t4CegQIUhAB"
+      },
+      "source": "Australian Government Department of Health, Disability and Ageing"
+    },
+    {
+      "position": 14,
+      "title": "Book a COVID-19 vaccination appointment",
+      "link": "https://www.qld.gov.au/health/conditions/all/prevention/covid-19/covid-19-vaccine/book",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.qld.gov.au/health/conditions/all/prevention/covid-19/covid-19-vaccine/book&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECFcQAQ",
+      "displayed_link": "https://www.qld.gov.au › covid-19 › covid-19-vaccine",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425865899753f08a515aacd9bd6b26461145d.png",
+      "date": "Nov 17, 2023",
+      "snippet": "You can book your COVID-19 vaccine appointment through a GP or pharmacy. Allow around 15 mins for your appointment.",
+      "snippet_highlighted_words": [
+        "COVID"
+      ],
+      "source": "Queensland Government"
+    },
+    {
+      "position": 15,
+      "title": "COVID-19 vaccine clinic in Yamanto, QLD 4305",
+      "link": "https://www.healthdirect.gov.au/australian-health-services/search/yamanto-4305-qld/covid-19-testing-clinics/1575161000168105",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthdirect.gov.au/australian-health-services/search/yamanto-4305-qld/covid-19-testing-clinics/1575161000168105&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECG8QAQ",
+      "displayed_link": "https://www.healthdirect.gov.au › search › covid-19-tes...",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb0414258637ac1eacc0ab811bb20618a77e68d470.png",
+      "snippet": "... COVID-19 vaccine clinic. 0.8km away. Closed • Opens 9am tomorrow. Address: SHOP 10, 488 WARWICK ROAD, YAMANTO, QLD 4305. No fees. View details. View details for ...",
+      "snippet_highlighted_words": [
+        "488 WARWICK ROAD, YAMANTO, QLD 4305"
+      ],
+      "source": "Healthdirect"
+    },
+    {
+      "position": 16,
+      "title": "QML Pathology - Pathology diagnostics & testing services in ...",
+      "link": "https://www.qml.com.au/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.qml.com.au/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECH0QAQ",
+      "displayed_link": "https://www.qml.com.au",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425866058ba637d50b9e424bdc40b8c89600b.png",
+      "snippet": "QML Pathology is your trusted partner in diagnostics. From routine tests to specialised screenings, we deliver excellence in pathology services.",
+      "snippet_highlighted_words": [
+        "tests"
+      ],
+      "source": "QML Pathology"
+    },
+    {
+      "position": 17,
+      "title": "COVID-19 vax clinic at Warwick Town Hall",
+      "link": "https://www.sdrc.qld.gov.au/council/alerts-news-notices/2021-news/2021-november/covid-19-vax-clinic-at-warwick-town-hall",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sdrc.qld.gov.au/council/alerts-news-notices/2021-news/2021-november/covid-19-vax-clinic-at-warwick-town-hall&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCJkBEAE",
+      "displayed_link": "https://www.sdrc.qld.gov.au › ... › 2021 News",
+      "date": "Nov 11, 2021",
+      "snippet": "Darling Downs Health will return to Warwick to provide doses of the COVID-19 Pfizer vaccinations at a pop-up clinic at Warwick Town Hall.",
+      "snippet_highlighted_words": [
+        "Warwick",
+        "COVID",
+        "Warwick"
+      ],
+      "source": "Southern Downs Regional Council"
+    },
+    {
+      "position": 18,
+      "title": "How to get tested for COVID in Warwick - regional media",
+      "link": "https://www.newsregionalmedia.com.au/news/testing-times-everything-you-need-to-know-about-getting-tested-for-covid-in-warwick/news-story/b4ec41367b6092658ef726e4668bedb0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newsregionalmedia.com.au/news/testing-times-everything-you-need-to-know-about-getting-tested-for-covid-in-warwick/news-story/b4ec41367b6092658ef726e4668bedb0&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCKkBEAE",
+      "displayed_link": "https://www.newsregionalmedia.com.au › ... › Warwick",
+      "date": "Mar 31, 2021",
+      "snippet": "Queensland Health advises waiting 36 to 48 hours before calling Pathology Queensland on 1800 472 847 to follow up on your result. CASE AND TEST ...",
+      "snippet_highlighted_words": [
+        "Queensland Health advises waiting 36 to 48 hours"
+      ],
+      "source": "newsregionalmedia.com.au"
+    },
+    {
+      "position": 19,
+      "title": "Drive-in COVID-19 test sites open at region's hospitals",
+      "link": "https://warwicktoday.com.au/news/2021-01-06/drive-in-covid-19-test-sites-open-at-regions-hospitals/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://warwicktoday.com.au/news/2021-01-06/drive-in-covid-19-test-sites-open-at-regions-hospitals/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCLABEAE",
+      "displayed_link": "https://warwicktoday.com.au › News",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586bb2ff98899c619ce0d6714433b36875c.png",
+      "date": "Jan 6, 2021",
+      "snippet": "Queensland Health has opened pop-up drive-in testing sites at both Warwick and Stanthorpe Hospitals until Friday of this week, following […] ...",
+      "snippet_highlighted_words": [
+        "Queensland",
+        "testing",
+        "Warwick"
+      ],
+      "source": "Warwick Today"
+    },
+    {
+      "position": 20,
+      "title": "Warwick",
+      "link": "https://www.qldxray.com.au/locations/warwick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.qldxray.com.au/locations/warwick&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCMEBEAE",
+      "displayed_link": "https://www.qldxray.com.au › locations › warwick",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586f339d53719203d372d66b698953afd51.png",
+      "snippet": "COVID-19 Information for Patients. Book your appointment online. It's easy to book an appointment online with Queensland X-Ray. Book now. Referrers Expand ...",
+      "snippet_highlighted_words": [
+        "Book your appointment online"
+      ],
+      "source": "Queensland X-Ray"
+    },
+    {
+      "position": 21,
+      "title": "1859369 Coronavirus Cases and 749 Active in Queensland",
+      "link": "https://covidlive.com.au/qld",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://covidlive.com.au/qld&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECD0QAQ",
+      "displayed_link": "https://covidlive.com.au › qld",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb0414258666c3c7dd4a5fc469d28a708cc43288c5.png",
+      "snippet": "Live tracking of coronavirus cases, active, tests, deaths, ICU, hospitalisations and vaccinations in Queensland.",
+      "snippet_highlighted_words": [
+        "Live tracking of coronavirus cases, active, tests"
+      ],
+      "source": "COVID Live"
+    },
+    {
+      "position": 22,
+      "title": "Covid case in Warwick: Unvaccinated First Nations ...",
+      "link": "https://www.couriermail.com.au/news/queensland/warwick/covid-case-in-warwick-unvaccinated-first-nations-resident-tests-positive/news-story/31f4d8ed6e717d9bf6c5aa7884243506",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.couriermail.com.au/news/queensland/warwick/covid-case-in-warwick-unvaccinated-first-nations-resident-tests-positive/news-story/31f4d8ed6e717d9bf6c5aa7884243506&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECDoQAQ",
+      "displayed_link": "https://www.couriermail.com.au › ... › Warwick",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586f9b4b892506ea41481fa32c827fbd454.png",
+      "date": "Nov 10, 2021",
+      "snippet": "An unvaccinated Indigenous resident has tested positive for Covid in Warwick in the past 24 hours, putting the region on high alert.",
+      "snippet_highlighted_words": [
+        "An unvaccinated Indigenous resident has tested positive for Covid in Warwick"
+      ],
+      "source": "The Courier Mail"
+    },
+    {
+      "position": 23,
+      "title": "COVID-19 fragments found in Queensland wastewater ...",
+      "link": "https://www.abc.net.au/news/2021-01-05/coronavirus-queensland-virus-detected-in-wastewater-covid19/13017948",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.abc.net.au/news/2021-01-05/coronavirus-queensland-virus-detected-in-wastewater-covid19/13017948&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECFUQAQ",
+      "displayed_link": "https://www.abc.net.au › news › coronavirus-queenslan...",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586cef7c15a218523c2bca37bb0e85d046b.png",
+      "date": "Jan 5, 2021",
+      "snippet": "Chief Health Officer Dr Jeannette Young said routine wastewater tests collected on December 29 and 30 returned positive results in Warwick, ...",
+      "snippet_highlighted_words": [
+        "tests",
+        "Warwick"
+      ],
+      "source": "Australian Broadcasting Corporation"
+    },
+    {
+      "position": 24,
+      "title": "Blood Tests Near You",
+      "link": "https://www.clinicallabs.com.au/location/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clinicallabs.com.au/location/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECFkQAQ",
+      "displayed_link": "https://www.clinicallabs.com.au › location",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb0414258620fa9f4b218339ca3d5b3f1d3aa31430.jpeg",
+      "snippet": "QLD Testing · Testing for Travel · Pregnancy Testing · Diabetes Testing · Cardiac ... Workplace COVID-19 Testing · Drug & Alcohol Testing · Immunity Screening.",
+      "snippet_highlighted_words": [
+        "Workplace COVID-19 Testing"
+      ],
+      "source": "Australian Clinical Labs"
+    },
+    {
+      "position": 25,
+      "title": "Warwick medical experts' advice for fighting Covid spike",
+      "link": "https://www.couriermail.com.au/news/queensland/warwick/warwick-medical-experts-advice-for-fighting-covid-spike-as-region-nears-70-cases/news-story/a348fbdaf98d33128ab5a02961e1f020",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.couriermail.com.au/news/queensland/warwick/warwick-medical-experts-advice-for-fighting-covid-spike-as-region-nears-70-cases/news-story/a348fbdaf98d33128ab5a02961e1f020&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECHEQAQ",
+      "displayed_link": "https://www.couriermail.com.au › ... › Warwick",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425862753aac82c70d28b73fccdcf8ed92e30.png",
+      "date": "Jan 4, 2022",
+      "snippet": "From vaccine and testing advice to everyday precautions, these are the vital steps that top Warwick GPs are urging the community to follow ...",
+      "snippet_highlighted_words": [
+        "testing",
+        "Warwick"
+      ],
+      "source": "The Courier Mail"
+    },
+    {
+      "position": 26,
+      "title": "Mater Pathology collection centres",
+      "link": "https://www.mater.org.au/health-services/our-services/mater-pathology/collection-centres",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mater.org.au/health-services/our-services/mater-pathology/collection-centres&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECHUQAQ",
+      "displayed_link": "https://www.mater.org.au › health-services › our-services",
+      "snippet": "Please Note: COVID-19 testing is not available at this clinic. Located inside Grow Medical within the Canossa Hospital Grounds.",
+      "snippet_highlighted_words": [
+        "COVID-19 testing is not available at this clinic"
+      ],
+      "source": "mater.org.au"
+    },
+    {
+      "position": 27,
+      "title": "Warwick Discount Drug Store (QLD)",
+      "link": "https://www.healthdirect.gov.au/australian-health-services/healthcare-service/warwick-4370-qld/warwick-discount-drug-store-qld/covid-19-vaccine-clinic/c6f439e1-8426-4f39-a483-8befd525c01c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthdirect.gov.au/australian-health-services/healthcare-service/warwick-4370-qld/warwick-discount-drug-store-qld/covid-19-vaccine-clinic/c6f439e1-8426-4f39-a483-8befd525c01c&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCIwBEAE",
+      "displayed_link": "https://www.healthdirect.gov.au › covid-19-vaccine-clinic",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425865b7a8cf576b260a12ae1665a45f6e8dc.png",
+      "snippet": "Address: Shop 21A, Grafton Street WARWICK QLD 4370 Get directions in Google Maps Phone: 07 4661 1036 Notice an error? Suggest an edit",
+      "snippet_highlighted_words": [
+        "Shop 21A, Grafton Street WARWICK QLD 4370"
+      ],
+      "missing": [
+        "testing"
+      ],
+      "must_include": {
+        "word": "testing",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=covid+%22testing%22+warwick+qld&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ5t4CegUInAEQAQ"
+      },
+      "source": "Healthdirect"
+    },
+    {
+      "position": 28,
+      "title": "TerryWhite Chemmart - Book A Service",
+      "link": "https://bookings.terrywhitechemmart.com.au/corporate/Terry%20White%20Group/search?specialty=COVID-19%20Testing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bookings.terrywhitechemmart.com.au/corporate/Terry%2520White%2520Group/search%3Fspecialty%3DCOVID-19%2520Testing&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCIoBEAE",
+      "displayed_link": "https://bookings.terrywhitechemmart.com.au › search",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb0414258641f17c63d2c6082aee32647ba207b60f.png",
+      "snippet": "Service. Baby Clinic, Beauty Services, COVID-19 Testing, COVID-19 Vaccinations, COVID-19 and Flu Vaccinations, Ear Piercing, Flu Vaccinations, General Practice ...",
+      "snippet_highlighted_words": [
+        "COVID-19 Testing"
+      ],
+      "source": "TerryWhite Chemmart"
+    },
+    {
+      "position": 29,
+      "title": "Cancer Council: Cancer information and support",
+      "link": "https://www.cancer.org.au/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cancer.org.au/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCI4BEAE",
+      "displayed_link": "https://www.cancer.org.au",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586ca722525002742e80eb935fa8ac627d9.png",
+      "snippet": "Find evidence based cancer information on prevention, research, treatment and support provided by Australia's peak independent cancer authority.",
+      "source": "Cancer Council"
+    },
+    {
+      "position": 30,
+      "title": "Baillie Henderson Hospital has reopened its doors for COVID ...",
+      "link": "https://www.facebook.com/7NEWSToowoomba/videos/baillie-henderson-hospital-has-reopened-its-doors-for-covid-testing/846171992835962/",
+      "displayed_link": "10+ reactions · 4 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFj4otcCm2_vyfRzc211eCQiEj9_jzBnNPK6iT9hfGimCZ&s",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586fe1e30d4b28b1f1a4616fb6a7a06c876.png",
+      "snippet": "Baillie Henderson Hospital has reopened its doors for COVID testing, as more coronavirus hotspots pop up in Victoria and New South Wales.",
+      "duration": "1:28",
+      "source": "Facebook · 7NEWS Toowoomba"
+    },
+    {
+      "position": 31,
+      "title": "Dementia Australia: Home",
+      "link": "https://www.dementia.org.au/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dementia.org.au/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCKgBEAE",
+      "displayed_link": "https://www.dementia.org.au",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586689b5638c32b3c642ae5d98925232055.png",
+      "snippet": "Dementia is a brain condition. It's not a normal part of ageing. Learn more about dementia, its symptoms, diagnosis, treatment, and available support.",
+      "source": "Dementia Australia"
+    },
+    {
+      "position": 32,
+      "title": "Flu Vaccine Service",
+      "link": "https://terrywhitechemmart.com.au/health-services/flu-vaccinations?srsltid=AfmBOoo_yZlhvFrJk0SjqFCvvtM3mguRoqA7NLfuI4tiOOmmJKJEpVR9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://terrywhitechemmart.com.au/health-services/flu-vaccinations%3Fsrsltid%3DAfmBOoo_yZlhvFrJk0SjqFCvvtM3mguRoqA7NLfuI4tiOOmmJKJEpVR9&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCKMBEAE",
+      "displayed_link": "https://terrywhitechemmart.com.au › flu-vaccinations",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586a4271f5ad46dd2efef163c4081b21b2f.png",
+      "snippet": "Our recommendation is test for COVID-19 according to your state or territory if you receive a negative result, speak to your pharmacist for the best advice ...",
+      "snippet_highlighted_words": [
+        "test",
+        "COVID"
+      ],
+      "source": "TerryWhite Chemmart"
+    },
+    {
+      "position": 33,
+      "title": "Warwick Historian Tests DeepMind's New AI Model",
+      "link": "https://www.miragenews.com/warwick-historian-tests-deepminds-new-ai-model-1501846/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.miragenews.com/warwick-historian-tests-deepminds-new-ai-model-1501846/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCLEBEAE",
+      "displayed_link": "https://www.miragenews.com › warwick-historian-tests-...",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425866b040cd876bd8563eb311897047b3f76.png",
+      "date": "2 days ago",
+      "snippet": "A University of Warwick epigraphy expert has collaborated with Google DeepMind to evaluate 'Aeneas', an AI model that reimagines Roman ...",
+      "snippet_highlighted_words": [
+        "Warwick"
+      ],
+      "source": "Mirage News"
+    },
+    {
+      "position": 34,
+      "title": "Western Diagnostic Pathology - Pathology diagnostics ...",
+      "link": "https://www.wdp.com.au/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wdp.com.au/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCKwBEAE",
+      "displayed_link": "https://www.wdp.com.au",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586aaa1c46667f5d986b5ded56f5ab25fcf.png",
+      "snippet": "Your trusted partner in pathology diagnostics. WDP provides clear answers through precision pathology guiding your health with expertise and care.",
+      "snippet_highlighted_words": [
+        "WDP provides clear answers through precision pathology"
+      ],
+      "source": "Western Diagnostic Pathology"
+    },
+    {
+      "position": 35,
+      "title": "Testing positive for COVID-19",
+      "link": "https://www.health.gov.au/topics/covid-19/testing-positive",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.health.gov.au/topics/covid-19/testing-positive&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCNYBEAE",
+      "displayed_link": "https://www.health.gov.au › topics › testing-positive",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586edf7969686abed15cecc58cb71783de0.png",
+      "date": "Mar 13, 2025",
+      "snippet": "Anyone diagnosed with COVID-19 can pass the virus onto others. Find out how to manage symptoms and protect those around you if you test positive for COVID-19.",
+      "snippet_highlighted_words": [
+        "COVID",
+        "test",
+        "COVID"
+      ],
+      "missing": [
+        "warwick"
+      ],
+      "must_include": {
+        "word": "warwick",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=covid+testing+%22warwick%22+qld&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ5t4CegUI7AEQAQ"
+      },
+      "source": "Australian Government Department of Health, Disability and Ageing"
+    },
+    {
+      "position": 36,
+      "title": "Services Australia",
+      "link": "https://www.servicesaustralia.gov.au/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.servicesaustralia.gov.au/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCNEBEAE",
+      "displayed_link": "https://www.servicesaustralia.gov.au",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425863438565245373e666ed41751fb1dcc02.png",
+      "snippet": "Log in to access HPOS, Business Hub, Aged Care Provider Portal and a range of other government online services. Centrelink Business Online.",
+      "source": "Services Australia"
+    },
+    {
+      "position": 37,
+      "title": "Rapid and PCR Covid-19 Testing Services",
+      "link": "https://www.carewellurgentcare.com/urgent-care-services/urgent-care-testing/covid-testing/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.carewellurgentcare.com/urgent-care-services/urgent-care-testing/covid-testing/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECDwQAQ",
+      "displayed_link": "https://www.carewellurgentcare.com › urgent-care-testing",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425863ac23fa4d8e7422e7dea7e4c6173efed.png",
+      "snippet": "CareWell Urgent Care is your source to ensuring a safe workspace. We provide PCR, rapid antigen, and antibody testing for Covid-19.",
+      "snippet_highlighted_words": [
+        "CareWell Urgent Care"
+      ],
+      "source": "CareWell Urgent Care"
+    },
+    {
+      "position": 38,
+      "title": "Clinical Labs Pathology - Australian Clinical Labs",
+      "link": "https://www.clinicallabs.com.au/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clinicallabs.com.au/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECDsQAQ",
+      "displayed_link": "https://www.clinicallabs.com.au",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586f00f8edba3dd1a8abd7b1131aa799e03.jpeg",
+      "snippet": "QLD Testing · Testing ... For details on Clinical Labs' Respiratory Multiplex PCR testing panels and available Long COVID investigative tests, CLICK HERE.",
+      "snippet_highlighted_words": [
+        "QLD Testing",
+        "Testing",
+        "testing",
+        "COVID",
+        "tests"
+      ],
+      "source": "Australian Clinical Labs"
+    },
+    {
+      "position": 39,
+      "title": "Queensland X-Ray | Medical Imaging Experts & Radiologists ...",
+      "link": "https://www.qldxray.com.au/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.qldxray.com.au/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECDgQAQ",
+      "displayed_link": "https://www.qldxray.com.au",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425866ed06fefe00cd1e200316b1e91b594f5.png",
+      "snippet": "COVID-19 Information for Patients. Book your appointment online. It's easy to book an appointment online with Queensland X-Ray. Book now. Referrers Expand ...",
+      "snippet_highlighted_words": [
+        "Book your appointment online"
+      ],
+      "source": "Queensland X-Ray"
+    },
+    {
+      "position": 40,
+      "title": "History of film",
+      "link": "https://en.wikipedia.org/wiki/History_of_film",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/History_of_film&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCMABEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › History_of_film",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb0414258646f08262c9ff5e654654be397b34c9c3.png",
+      "snippet": "The history of film chronicles the development of a visual art form created using film technologies that began in the late 19th century.",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 41,
+      "title": "Home | Connect Allied Health Hub | Physiotherapy",
+      "link": "https://www.connectalliedhealthhub.com.au/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.connectalliedhealthhub.com.au/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECFQQAQ",
+      "displayed_link": "https://www.connectalliedhealthhub.com.au",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586557872c6d76809082d451b07c2d6cec2.png",
+      "snippet": "Covid-19: How we are caring for you · Contact Us · Proudly serving the ... 22 Palmerin Street, Warwick QLD 4370. Toowoomba. 3/131a Herries St, Toowoomba ...",
+      "snippet_highlighted_words": [
+        "Covid",
+        "Warwick QLD"
+      ],
+      "source": "Connect Allied Health Hub"
+    },
+    {
+      "position": 42,
+      "title": "Jurassic World: Rebirth | HOYTS Cinemas",
+      "link": "https://www.hoyts.com.au/movies/jurassic-world-rebirth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hoyts.com.au/movies/jurassic-world-rebirth&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECFYQAQ",
+      "displayed_link": "https://www.hoyts.com.au › movies › jurassic-world-rebi...",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425861d11033b4b2fc7c43b9f64744bbe8de8.png",
+      "snippet": "QLD; SA; VIC; WA. Maximum number of cinemas selected. Bankstown. Blacktown ... Warwick. Which Cinema would you like to host? * Please select. Please select, 10 ...",
+      "snippet_highlighted_words": [
+        "QLD",
+        "Warwick"
+      ],
+      "source": "Hoyts"
+    },
+    {
+      "position": 43,
+      "title": "Positive COVID-19 results in Warwick, Stanthorpe",
+      "link": "https://www.newsregionalmedia.com.au/news/positive-covid19-results-in-warwick-stanthorpe/news-story/96b59bcb153c1ddb373f6f7e78d3921a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newsregionalmedia.com.au/news/positive-covid19-results-in-warwick-stanthorpe/news-story/96b59bcb153c1ddb373f6f7e78d3921a&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECFoQAQ",
+      "displayed_link": "https://www.newsregionalmedia.com.au › ... › Warwick",
+      "date": "Jan 5, 2021",
+      "snippet": "... COVID-19 found in sewage at treatment plants in Warwick and Stanthorpe. Queensland Chief Health Officer Dr Jeanette young said the positive test ...",
+      "snippet_highlighted_words": [
+        "COVID",
+        "Warwick",
+        "Queensland",
+        "test"
+      ],
+      "source": "newsregionalmedia.com.au"
+    },
+    {
+      "position": 44,
+      "title": "Find a pathology collection centre near you",
+      "link": "https://www.qml.com.au/locations",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.qml.com.au/locations&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECFgQAQ",
+      "displayed_link": "https://www.qml.com.au › locations",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425860437befd44b653b16b65fc6de6dfbcac.png",
+      "snippet": "Important Update: From 1 July, Medicare funding cuts will be in place for Vitamin B12 and Urine tests. Click here to learn how this may impact you. Learn more.",
+      "snippet_highlighted_words": [
+        "tests"
+      ],
+      "source": "QML Pathology"
+    },
+    {
+      "position": 45,
+      "title": "Roig Aren Archives",
+      "link": "https://www.coliseum-online.com/tag/roig-aren/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coliseum-online.com/tag/roig-aren/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECHIQAQ",
+      "displayed_link": "https://www.coliseum-online.com › tag › roig-aren",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586d7b3aa1faf768f0b96b7e7bd0cf939f3.png",
+      "date": "2 days ago",
+      "snippet": "Alastair Warwick · Albania · Albanian Football Federation · Albany ... COVID-19 testing · COVID-Safe Guidelines · Cox Architecture · Cox Business ...",
+      "snippet_highlighted_words": [
+        "Warwick",
+        "COVID",
+        "testing",
+        "COVID"
+      ],
+      "source": "Coliseum Global Sports Venue Alliance"
+    },
+    {
+      "position": 46,
+      "title": "Three decades of PMs, fashion icons and the odd person ...",
+      "link": "https://www.afr.com/companies/media-and-marketing/three-decades-of-pms-fashion-icons-and-the-odd-person-headed-for-jail-20250701-p5mbj9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.afr.com/companies/media-and-marketing/three-decades-of-pms-fashion-icons-and-the-odd-person-headed-for-jail-20250701-p5mbj9&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECHAQAQ",
+      "displayed_link": "https://www.afr.com › Companies › Media & Marketing",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425863888b5b024b3c33127b7bfb467187704.png",
+      "date": "4 days ago",
+      "snippet": "Kain Warwick in November 2021, marking the arrival of crypto ... COVID-19. Morrison became the first PM to refuse to be photographed ...",
+      "snippet_highlighted_words": [
+        "Warwick",
+        "COVID"
+      ],
+      "source": "AFR"
+    },
+    {
+      "position": 47,
+      "title": "Our Services",
+      "link": "https://www.warwickdoctors.com.au/our-services/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.warwickdoctors.com.au/our-services/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECHYQAQ",
+      "displayed_link": "https://www.warwickdoctors.com.au › our-services",
+      "snippet": "Our female doctors provide sensitive and discreet women's sexual and reproductive health support. Gynaecological exams, cervical cancer tests, birth control ...",
+      "snippet_highlighted_words": [
+        "tests"
+      ],
+      "source": "Warwick Doctors"
+    },
+    {
+      "position": 48,
+      "title": "Services – Condamine Medical Centre",
+      "link": "https://conmed.com.au/services/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://conmed.com.au/services/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoECHMQAQ",
+      "displayed_link": "https://conmed.com.au › services",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425869908ecb4e4aae567d623c8f03486d63e.png",
+      "snippet": "Spirometry tests how well your lungs work by measuring how much air you ... mRNA vaccines (Pfizer or Moderna) are preferred as COVID-19 booster doses.",
+      "snippet_highlighted_words": [
+        "tests",
+        "COVID"
+      ],
+      "source": "Condamine Medical Centre"
+    },
+    {
+      "position": 49,
+      "title": "Andy Anson Archives",
+      "link": "https://www.coliseum-online.com/tag/andy-anson/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coliseum-online.com/tag/andy-anson/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCIsBEAE",
+      "displayed_link": "https://www.coliseum-online.com › tag › andy-anson",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586d8fc9cdd8c1e9a28020d23fac6ff4c47.png",
+      "date": "2 days ago",
+      "snippet": "Alastair Warwick · Albania · Albanian Football Federation · Albany ... COVID-19 testing · COVID-Safe Guidelines · Cox Architecture · Cox Business ...",
+      "snippet_highlighted_words": [
+        "Warwick",
+        "COVID",
+        "testing",
+        "COVID"
+      ],
+      "source": "Coliseum Global Sports Venue Alliance"
+    },
+    {
+      "position": 50,
+      "title": "Nottingham Leads AI Breakthrough in Ancient Inscriptions",
+      "link": "https://www.miragenews.com/nottingham-leads-ai-breakthrough-in-ancient-1501858/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.miragenews.com/nottingham-leads-ai-breakthrough-in-ancient-1501858/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCJoBEAE",
+      "displayed_link": "https://www.miragenews.com › nottingham-leads-ai-bre...",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425868fdb2c5aa178563777cd1f40e2fbd4f6.png",
+      "date": "2 days ago",
+      "snippet": "Google DeepMind co-developed Aeneas with the University of Nottingham, and in partnership with researchers at the Universities of Warwick, ...",
+      "snippet_highlighted_words": [
+        "Warwick"
+      ],
+      "source": "Mirage News"
+    },
+    {
+      "position": 51,
+      "title": "The Chronicle | The Chronicle",
+      "link": "https://www.thechronicle.com.au/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thechronicle.com.au/&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCJgBEAE",
+      "displayed_link": "https://www.thechronicle.com.au",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb041425860ed51f472f954dce99d0819ef10d899f.png",
+      "snippet": "Latest Toowoomba and Queensland News.",
+      "snippet_highlighted_words": [
+        "Queensland"
+      ],
+      "source": "The Chronicle | The Chronicle"
+    },
+    {
+      "position": 52,
+      "title": "Education | Latest School News & Industry Updates in ...",
+      "link": "https://www.ntnews.com.au/education",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ntnews.com.au/education&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQFnoFCI0BEAE",
+      "displayed_link": "https://www.ntnews.com.au › Education",
+      "favicon": "https://serpapi.com/searches/6883030a17bdbfb258c2bdf9/images/c14d5398577d235bbde02bcb04142586d040c29a35929a77da60a2d3375e3245.png",
+      "snippet": "A Warwick childcare centre has reportedly had two educators and a child test positive for Covid ... QLD News · Survivors speak out: Vile hazing rituals of Qld ...",
+      "snippet_highlighted_words": [
+        "Warwick",
+        "test",
+        "Covid",
+        "QLD",
+        "Qld"
+      ],
+      "source": "NT News"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Where to get COVID test",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Where+to+get+COVID+test&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ1QJ6BQjOARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Where+to+get+COVID+test"
+    },
+    {
+      "block_position": 1,
+      "query": "Where to get free COVID tests",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Where+to+get+free+COVID+tests&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ1QJ6BQjSARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Where+to+get+free+COVID+tests"
+    },
+    {
+      "block_position": 1,
+      "query": "Pensioner COVID test kits",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Pensioner+COVID+test+kits&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ1QJ6BQjTARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Pensioner+COVID+test+kits"
+    },
+    {
+      "block_position": 1,
+      "query": "COVID testing kits",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=COVID+testing+kits&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ1QJ6BQjUARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=COVID+testing+kits"
+    },
+    {
+      "block_position": 1,
+      "query": "Free RATs test near me",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Free+RATs+test+near+me&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ1QJ6BQjZARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Free+RATs+test+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "COVID tests still free",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=COVID+tests+still+free&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ1QJ6BQjYARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=COVID+tests+still+free"
+    },
+    {
+      "block_position": 1,
+      "query": "COVID-19 antigen test",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=COVID-19+antigen+test&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ1QJ6BQjVARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=COVID-19+antigen+test"
+    },
+    {
+      "block_position": 1,
+      "query": "Rapid COVID test",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&q=Rapid+COVID+test&sa=X&ved=2ahUKEwiEltuqkdeOAxX0M9AFHU73F9sQ1QJ6BQjQARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Rapid+COVID+test"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 52 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=covid+testing+warwick+qld&num=100&sca_esv=0e7e332804e82cc8&hl=en&gl=us&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=covid+testing+warwick+qld&oq=covid+testing+warwick+qld&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=covid+testing+warwick+qld&oq=covid+testing+warwick+qld&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=covid+testing+warwick+qld&oq=covid+testing+warwick+qld&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=covid+testing+warwick+qld&oq=covid+testing+warwick+qld&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=covid+testing+warwick+qld&oq=covid+testing+warwick+qld&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+testing+warwick+qld&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+testing+warwick+qld&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+testing+warwick+qld&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+testing+warwick+qld&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+testing+warwick+qld&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=covid+testing+warwick+qld&start=400"
+    }
+  }
+}

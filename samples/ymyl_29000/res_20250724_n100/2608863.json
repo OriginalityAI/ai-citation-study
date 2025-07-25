@@ -1,0 +1,1763 @@
+{
+  "search_metadata": {
+    "id": "6882e022e3e176d5b3c33d24",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/15d84fd78b9c127c/6882e022e3e176d5b3c33d24.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/15d84fd78b9c127c/6882e022e3e176d5b3c33d24.json_with_pixel_position",
+    "created_at": "2025-07-25 01:38:42 UTC",
+    "processed_at": "2025-07-25 01:38:42 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+the+tax+rate+on+a+monetary+gift&oq=what+is+the+tax+rate+on+a+monetary+gift&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/15d84fd78b9c127c/6882e022e3e176d5b3c33d24.html",
+    "total_time_taken": 9.25
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is the tax rate on a monetary gift",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "what is the tax rate on a monetary gift",
+    "total_results": 6480000,
+    "time_taken_displayed": 0.53,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How much tax will I pay on a $100,000 gift?",
+      "type": "featured_snippet",
+      "snippet": "Federal gift tax rates",
+      "table": [
+        [
+          "Taxable amount exceeding annual gift limit",
+          "Gift tax rate"
+        ],
+        [
+          "$60,001 — 80,000",
+          "26%"
+        ],
+        [
+          "$80,001 — 100,000",
+          "38%"
+        ],
+        [
+          "$100,001 — 150,000",
+          "30%"
+        ],
+        [
+          "$150,001 — 250,000",
+          "32%"
+        ]
+      ],
+      "formatted": [
+        {
+          "taxable_amount_exceeding_annual_gift_limit": "$60,001 — 80,000",
+          "gift_tax_rate": "26%"
+        },
+        {
+          "taxable_amount_exceeding_annual_gift_limit": "$80,001 — 100,000",
+          "gift_tax_rate": "38%"
+        },
+        {
+          "taxable_amount_exceeding_annual_gift_limit": "$100,001 — 150,000",
+          "gift_tax_rate": "30%"
+        },
+        {
+          "taxable_amount_exceeding_annual_gift_limit": "$150,001 — 250,000",
+          "gift_tax_rate": "32%"
+        }
+      ],
+      "title": "Gift tax, how it works and the limits - Jackson Hewitt",
+      "link": "https://www.jacksonhewitt.com/tax-help/tax-tips-topics/filing-your-taxes/what-is-a-gift-tax-gift-tax-limit-and-exemptions/",
+      "displayed_link": "https://www.jacksonhewitt.com › filing-your-taxes › wha...",
+      "source_logo": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/0db21add4aa76627d229c412df3501b7e6fa0513d748b90a77f6ca18f92f021b.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGNtaE1TVWRHY1ZoR2VUSlFiblJVTm1WNmJXSlVTVTFxYzIxNFdHVjJPRlYwTVhaWlRITlpjMDFJZEVSbFUwUnhVV3BQVVZKRlpXcERlWEF5Y0VKNldYcENVWEUxTmxJek5VTjBlamt3TTNoTlZVMVRTVTlKYkRZeFp4SVhTMlZEUTJGT1NFdENTMkZTZDJKclVEQlBabWwxUVUwYUlrRkdUVUZIUjI5V1FXRkNTV1JuU1VWaFJEUTJhMWRGWlhoclIzQTRjVFZRUkdjIiwiZmN2IjoiMyIsImVpIjoiS2VDQ2FOSEtCS2FSd2JrUDBPZml1QU0iLCJxYyI6IkNpZDNhR0YwSUdseklIUm9aU0IwWVhnZ2NtRjBaU0J2YmlCaElHMXZibVYwWVhKNUlHZHBablFRQUgwYURTY18iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIHRheCB3aWxsIEkgcGF5IG9uIGEgJDEwMCwwMDAgZ2lmdD8iLCJsayI6ImM1UFN6TWd2VjhndFRjNVFLRW1zVUNqUHpNbFJ5RlFvU0t4VXlNOVRTRlJRTVRRQUFZWDB6TFFTQUEiLCJicyI6ImM2M1FzVTdETUJRRlVHWDFnQmlqVEhmb0FDcURNYTBFTEZrWUdrWTZNREc0d2FtZmxOaVY0eERNaFBnRk5uNkEzOFFKQlZFQkVnT3JmYy0xMzJNM2JMcXdQWnF1MVBEeUhqM1ZOUXBzWklBMWtKZ2NjMzdFT2NlYUtwLW5qNG1ZWm9mNm02QmQ4UUhZaHMwdWJPelQ4azdCMnpFVmtXcEJWVHgycWxRVWJ5UWFhNVNYTG16ZmVUNFE4LXprMXNiaUh5bjlSdGtETzd2VzBvTmFlSzFRWEMzaHVscWhzbTRNa0ZtUElneWRsV3lvRG1oVXMxS3V6ZE9uUFhHZW5mWmZQTG4yejU2OUpLejQzT1o3cUpRR3dYWWpqWF9kQVhGMVh0dk9ENk1OdGR2cERBUVg4eng5WFlyTGJLSF9xVzhfZVFNIiwiaWQiOiJmY19LZUNDYU5IS0JLYVJ3YmtQME9maXVBTV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGNtaE1TVWRHY1ZoR2VUSlFiblJVTm1WNmJXSlVTVTFxYzIxNFdHVjJPRlYwTVhaWlRITlpjMDFJZEVSbFUwUnhVV3BQVVZKRlpXcERlWEF5Y0VKNldYcENVWEUxTmxJek5VTjBlamt3TTNoTlZVMVRTVTlKYkRZeFp4SVhTMlZEUTJGT1NFdENTMkZTZDJKclVEQlBabWwxUVUwYUlrRkdUVUZIUjI5V1FXRkNTV1JuU1VWaFJEUTJhMWRGWlhoclIzQTRjVFZRUkdjIiwiZmN2IjoiMyIsImVpIjoiS2VDQ2FOSEtCS2FSd2JrUDBPZml1QU0iLCJxYyI6IkNpZDNhR0YwSUdseklIUm9aU0IwWVhnZ2NtRjBaU0J2YmlCaElHMXZibVYwWVhKNUlHZHBablFRQUgwYURTY18iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIHRheCB3aWxsIEkgcGF5IG9uIGEgJDEwMCwwMDAgZ2lmdD8iLCJsayI6ImM1UFN6TWd2VjhndFRjNVFLRW1zVUNqUHpNbFJ5RlFvU0t4VXlNOVRTRlJRTVRRQUFZWDB6TFFTQUEiLCJicyI6ImM2M1FzVTdETUJRRlVHWDFnQmlqVEhmb0FDcURNYTBFTEZrWUdrWTZNREc0d2FtZmxOaVY0eERNaFBnRk5uNkEzOFFKQlZFQkVnT3JmYy0xMzJNM2JMcXdQWnF1MVBEeUhqM1ZOUXBzWklBMWtKZ2NjMzdFT2NlYUtwLW5qNG1ZWm9mNm02QmQ4UUhZaHMwdWJPelQ4azdCMnpFVmtXcEJWVHgycWxRVWJ5UWFhNVNYTG16ZmVUNFE4LXprMXNiaUh5bjlSdGtETzd2VzBvTmFlSzFRWEMzaHVscWhzbTRNa0ZtUElneWRsV3lvRG1oVXMxS3V6ZE9uUFhHZW5mWmZQTG4yejU2OUpLejQzT1o3cUpRR3dYWWpqWF9kQVhGMVh0dk9ENk1OdGR2cERBUVg4eng5WFlyTGJLSF9xVzhfZVFNIiwiaWQiOiJmY19LZUNDYU5IS0JLYVJ3YmtQME9maXVBTV8xIn0%3D"
+    },
+    {
+      "question": "Do I have to pay taxes if I receive a monetary gift?",
+      "type": "featured_snippet",
+      "snippet": "Do I have to report gifted money as income? No, you do not have to report money you receive as a gift as income. Any gift may be taxable, but the recipient of the gift does not have to pay the gift tax. The person who gives you the gift needs to file a gift tax return if it's more than the $17,000 annual exclusion.",
+      "title": "Do I Have to Pay Taxes on a Gift? | Gift Tax Calculator - TaxAct",
+      "link": "https://www.taxact.com/tax-resources/tax-calculators/gift-tax-calculator#:~:text=Do%20I%20have%20to%20report,than%20the%20%2417%2C000%20annual%20exclusion.",
+      "displayed_link": "https://www.taxact.com › tax-resources › gift-tax-calculat...",
+      "source_logo": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/0db21add4aa76627d229c412df3501b7fab379844ed11b6a53fdc940129a0334.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGNtaE1TVWRHY1ZoR2VUSlFiblJVTm1WNmJXSlVTVTFxYzIxNFdHVjJPRlYwTVhaWlRITlpjMDFJZEVSbFUwUnhVV3BQVVZKRlpXcERlWEF5Y0VKNldYcENVWEUxTmxJek5VTjBlamt3TTNoTlZVMVRTVTlKYkRZeFp4SVhTMlZEUTJGT1NFdENTMkZTZDJKclVEQlBabWwxUVUwYUlrRkdUVUZIUjI5V1FXRkNTV1JuU1VWaFJEUTJhMWRGWlhoclIzQTRjVFZRUkdjIiwiZmN2IjoiMyIsImVpIjoiS2VDQ2FOSEtCS2FSd2JrUDBPZml1QU0iLCJxYyI6IkNpZDNhR0YwSUdseklIUm9aU0IwWVhnZ2NtRjBaU0J2YmlCaElHMXZibVYwWVhKNUlHZHBablFRQUgwYURTY18iLCJxdWVzdGlvbiI6IkRvIEkgaGF2ZSB0byBwYXkgdGF4ZXMgaWYgSSByZWNlaXZlIGEgbW9uZXRhcnkgZ2lmdD8iLCJsayI6ImM1TXlUc2xYeUZUSVNDeExWU2pKVnloSXJGUW9TYXhJTFZiSVRBTUtGNlVtcDJZQ1pSSVZjdlB6VWtzU2l5b1YwalBUU2dBIiwiYnMiOiJjNjNRc1U3RE1CUUZVR1gxZ0JpalRIZm9BQ3FETWEwRUxGa1lHa1k2TURHNHdhbWZsTmlWNHhETWhQZ0ZObjZBMzhRSkJWRUJFZ09yZmMtMTMyTTNiTHF3UFpxdTFQRHlIajNWTlFwc1pJQTFrSmdjYzM3RU9jZWFLcC1uajRtWVpvZjZtNkJkOFFIWWhzMHViT3pUOGs3QjJ6RVZrV3BCVlR4MnFsUVVieVFhYTVTWExtemZlVDRROC16azFzYmlIeW45UnRrRE83dlcwb05hZUsxUVhDM2h1bHFoc200TWtGbVBJZ3lkbFd5b0RtaFVzMUt1emRPblBYR2VuZlpmUExuMno1NjlKS3o0M09aN3FKUUd3WFlqalhfZEFYRjFYdHZPRDZNTnRkdnBEQVFYOHp4OVhZckxiS0hfcVc4X2VRTSIsImlkIjoiZmNfS2VDQ2FOSEtCS2FSd2JrUDBPZml1QU1fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGNtaE1TVWRHY1ZoR2VUSlFiblJVTm1WNmJXSlVTVTFxYzIxNFdHVjJPRlYwTVhaWlRITlpjMDFJZEVSbFUwUnhVV3BQVVZKRlpXcERlWEF5Y0VKNldYcENVWEUxTmxJek5VTjBlamt3TTNoTlZVMVRTVTlKYkRZeFp4SVhTMlZEUTJGT1NFdENTMkZTZDJKclVEQlBabWwxUVUwYUlrRkdUVUZIUjI5V1FXRkNTV1JuU1VWaFJEUTJhMWRGWlhoclIzQTRjVFZRUkdjIiwiZmN2IjoiMyIsImVpIjoiS2VDQ2FOSEtCS2FSd2JrUDBPZml1QU0iLCJxYyI6IkNpZDNhR0YwSUdseklIUm9aU0IwWVhnZ2NtRjBaU0J2YmlCaElHMXZibVYwWVhKNUlHZHBablFRQUgwYURTY18iLCJxdWVzdGlvbiI6IkRvIEkgaGF2ZSB0byBwYXkgdGF4ZXMgaWYgSSByZWNlaXZlIGEgbW9uZXRhcnkgZ2lmdD8iLCJsayI6ImM1TXlUc2xYeUZUSVNDeExWU2pKVnloSXJGUW9TYXhJTFZiSVRBTUtGNlVtcDJZQ1pSSVZjdlB6VWtzU2l5b1YwalBUU2dBIiwiYnMiOiJjNjNRc1U3RE1CUUZVR1gxZ0JpalRIZm9BQ3FETWEwRUxGa1lHa1k2TURHNHdhbWZsTmlWNHhETWhQZ0ZObjZBMzhRSkJWRUJFZ09yZmMtMTMyTTNiTHF3UFpxdTFQRHlIajNWTlFwc1pJQTFrSmdjYzM3RU9jZWFLcC1uajRtWVpvZjZtNkJkOFFIWWhzMHViT3pUOGs3QjJ6RVZrV3BCVlR4MnFsUVVieVFhYTVTWExtemZlVDRROC16azFzYmlIeW45UnRrRE83dlcwb05hZUsxUVhDM2h1bHFoc200TWtGbVBJZ3lkbFd5b0RtaFVzMUt1emRPblBYR2VuZlpmUExuMno1NjlKS3o0M09aN3FKUUd3WFlqalhfZEFYRjFYdHZPRDZNTnRkdnBEQVFYOHp4OVhZckxiS0hfcVc4X2VRTSIsImlkIjoiZmNfS2VDQ2FOSEtCS2FSd2JrUDBPZml1QU1fMSJ9"
+    },
+    {
+      "question": "What is the IRS rule for gifting money to family members?",
+      "type": "featured_snippet",
+      "snippet": "The annual gift tax exclusion is $19,000 in 2025. Since this amount is per person, married couples have a total gift tax limit of $38,000. This is the maximum you can give a single person without having to report it to the IRS.",
+      "title": "Gift Tax: 2025 Exemptions and Limits - NerdWallet",
+      "date": "Jul 3, 2025",
+      "link": "https://www.nerdwallet.com/article/taxes/gift-tax-rate#:~:text=The%20annual%20gift%20tax%20exclusion%20is%20%2419%2C000%20in%202025.,report%20it%20to%20the%20IRS.",
+      "displayed_link": "https://www.nerdwallet.com › Taxes",
+      "source_logo": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/0db21add4aa76627d229c412df3501b7aa8b6aeb22a75eefde05c73869cfa136.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGNtaE1TVWRHY1ZoR2VUSlFiblJVTm1WNmJXSlVTVTFxYzIxNFdHVjJPRlYwTVhaWlRITlpjMDFJZEVSbFUwUnhVV3BQVVZKRlpXcERlWEF5Y0VKNldYcENVWEUxTmxJek5VTjBlamt3TTNoTlZVMVRTVTlKYkRZeFp4SVhTMlZEUTJGT1NFdENTMkZTZDJKclVEQlBabWwxUVUwYUlrRkdUVUZIUjI5V1FXRkNTV1JuU1VWaFJEUTJhMWRGWlhoclIzQTRjVFZRUkdjIiwiZmN2IjoiMyIsImVpIjoiS2VDQ2FOSEtCS2FSd2JrUDBPZml1QU0iLCJxYyI6IkNpZDNhR0YwSUdseklIUm9aU0IwWVhnZ2NtRjBaU0J2YmlCaElHMXZibVYwWVhKNUlHZHBablFRQUgwYURTY18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIElSUyBydWxlIGZvciBnaWZ0aW5nIG1vbmV5IHRvIGZhbWlseSBtZW1iZXJzPyIsImxrIjoiY3dYQjBRbkFJQXdGd0QzOGVtTzRqb1ZFSHhnRFNVcHgtOTYxX3ExUllLS1dnSkdJZHd2VUE1TmFQQlBtUnk3S29jTzRMMHpza2NnZiIsImJzIjoiYzYzUXNVN0RNQlFGVUdYMWdCaWpUSGZvQUNxRE1hMEVMRmtZR2tZNk1ERzR3YW1mbE5pVjR4RE1oUGdGTm42QTM4UUpCVkVCRWdPcmZjLTEzMk0zYkxxd1BacXUxUER5SGozVk5RcHNaSUExa0pnY2MzN0VPY2VhS3Atbmo0bVlab2Y2bTZCZDhRSFloczB1Yk96VDhrN0IyekVWa1dwQlZUeDJxbFFVYnlRYWE1U1hMbXpmZVQ0UTgtemsxc2JpSHluOVJ0a0RPN3ZXMG9OYWVLMVFYQzNodWxxaHNtNE1rRm1QSWd5ZGxXeW9EbWhVczFLdXpkT25QWEdlbmZaZlBMbjJ6NTY5Skt6NDNPWjdxSlFHd1hZampYX2RBWEYxWHR2T0Q2TU50ZHZwREFRWDh6eDlYWXJMYktIX3FXOF9lUU0iLCJpZCI6ImZjX0tlQ0NhTkhLQkthUndia1AwT2ZpdUFNXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGNtaE1TVWRHY1ZoR2VUSlFiblJVTm1WNmJXSlVTVTFxYzIxNFdHVjJPRlYwTVhaWlRITlpjMDFJZEVSbFUwUnhVV3BQVVZKRlpXcERlWEF5Y0VKNldYcENVWEUxTmxJek5VTjBlamt3TTNoTlZVMVRTVTlKYkRZeFp4SVhTMlZEUTJGT1NFdENTMkZTZDJKclVEQlBabWwxUVUwYUlrRkdUVUZIUjI5V1FXRkNTV1JuU1VWaFJEUTJhMWRGWlhoclIzQTRjVFZRUkdjIiwiZmN2IjoiMyIsImVpIjoiS2VDQ2FOSEtCS2FSd2JrUDBPZml1QU0iLCJxYyI6IkNpZDNhR0YwSUdseklIUm9aU0IwWVhnZ2NtRjBaU0J2YmlCaElHMXZibVYwWVhKNUlHZHBablFRQUgwYURTY18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIElSUyBydWxlIGZvciBnaWZ0aW5nIG1vbmV5IHRvIGZhbWlseSBtZW1iZXJzPyIsImxrIjoiY3dYQjBRbkFJQXdGd0QzOGVtTzRqb1ZFSHhnRFNVcHgtOTYxX3ExUllLS1dnSkdJZHd2VUE1TmFQQlBtUnk3S29jTzRMMHpza2NnZiIsImJzIjoiYzYzUXNVN0RNQlFGVUdYMWdCaWpUSGZvQUNxRE1hMEVMRmtZR2tZNk1ERzR3YW1mbE5pVjR4RE1oUGdGTm42QTM4UUpCVkVCRWdPcmZjLTEzMk0zYkxxd1BacXUxUER5SGozVk5RcHNaSUExa0pnY2MzN0VPY2VhS3Atbmo0bVlab2Y2bTZCZDhRSFloczB1Yk96VDhrN0IyekVWa1dwQlZUeDJxbFFVYnlRYWE1U1hMbXpmZVQ0UTgtemsxc2JpSHluOVJ0a0RPN3ZXMG9OYWVLMVFYQzNodWxxaHNtNE1rRm1QSWd5ZGxXeW9EbWhVczFLdXpkT25QWEdlbmZaZlBMbjJ6NTY5Skt6NDNPWjdxSlFHd1hZampYX2RBWEYxWHR2T0Q2TU50ZHZwREFRWDh6eDlYWXJMYktIX3FXOF9lUU0iLCJpZCI6ImZjX0tlQ0NhTkhLQkthUndia1AwT2ZpdUFNXzEifQ%3D%3D"
+    },
+    {
+      "question": "How much money can you gift a family member without paying taxes in 2025?",
+      "type": "featured_snippet",
+      "snippet": "Gift tax limit 2025 Individuals can give up to $19,000 to any number of people in 2025 without triggering gift tax reporting requirements. Married couples can effectively double this amount to $38,000 per recipient.",
+      "title": "$19,000",
+      "date": "Jul 15, 2025",
+      "link": "https://www.kiplinger.com/taxes/gift-tax-exclusion#:~:text=Gift%20tax%20limit%202025&text=Individuals%20can%20give%20up%20to,amount%20to%20%2438%2C000%20per%20recipient.",
+      "displayed_link": "https://www.kiplinger.com › Taxes",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGNtaE1TVWRHY1ZoR2VUSlFiblJVTm1WNmJXSlVTVTFxYzIxNFdHVjJPRlYwTVhaWlRITlpjMDFJZEVSbFUwUnhVV3BQVVZKRlpXcERlWEF5Y0VKNldYcENVWEUxTmxJek5VTjBlamt3TTNoTlZVMVRTVTlKYkRZeFp4SVhTMlZEUTJGT1NFdENTMkZTZDJKclVEQlBabWwxUVUwYUlrRkdUVUZIUjI5V1FXRkNTV1JuU1VWaFJEUTJhMWRGWlhoclIzQTRjVFZRUkdjIiwiZmN2IjoiMyIsImVpIjoiS2VDQ2FOSEtCS2FSd2JrUDBPZml1QU0iLCJxYyI6IkNpZDNhR0YwSUdseklIUm9aU0IwWVhnZ2NtRjBaU0J2YmlCaElHMXZibVYwWVhKNUlHZHBablFRQUgwYURTY18iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIG1vbmV5IGNhbiB5b3UgZ2lmdCBhIGZhbWlseSBtZW1iZXIgd2l0aG91dCBwYXlpbmcgdGF4ZXMgaW4gMjAyNT8iLCJsayI6ImN3WEIwUW1BTUF3RndEMzhlaU5Jd1IxY0k1YlVCa3dpbWxLenZYZkwzbjFDUi0xUU4wNVVNcVFQbk5JQ2hFWXFWMEpaRDM0d0picVB3RTBwZGlMbzR4ZGlLR3ZaZmciLCJicyI6ImM2M1FzVTdETUJRRlVHWDFnQmlqVEhmb0FDcURNYTBFTEZrWUdrWTZNREc0d2FtZmxOaVY0eERNaFBnRk5uNkEzOFFKQlZFQkVnT3JmYy0xMzJNM2JMcXdQWnF1MVBEeUhqM1ZOUXBzWklBMWtKZ2NjMzdFT2NlYUtwLW5qNG1ZWm9mNm02QmQ4UUhZaHMwdWJPelQ4azdCMnpFVmtXcEJWVHgycWxRVWJ5UWFhNVNYTG16ZmVUNFE4LXprMXNiaUh5bjlSdGtETzd2VzBvTmFlSzFRWEMzaHVscWhzbTRNa0ZtUElneWRsV3lvRG1oVXMxS3V6ZE9uUFhHZW5mWmZQTG4yejU2OUpLejQzT1o3cUpRR3dYWWpqWF9kQVhGMVh0dk9ENk1OdGR2cERBUVg4eng5WFlyTGJLSF9xVzhfZVFNIiwiaWQiOiJmY19LZUNDYU5IS0JLYVJ3YmtQME9maXVBTV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSGNtaE1TVWRHY1ZoR2VUSlFiblJVTm1WNmJXSlVTVTFxYzIxNFdHVjJPRlYwTVhaWlRITlpjMDFJZEVSbFUwUnhVV3BQVVZKRlpXcERlWEF5Y0VKNldYcENVWEUxTmxJek5VTjBlamt3TTNoTlZVMVRTVTlKYkRZeFp4SVhTMlZEUTJGT1NFdENTMkZTZDJKclVEQlBabWwxUVUwYUlrRkdUVUZIUjI5V1FXRkNTV1JuU1VWaFJEUTJhMWRGWlhoclIzQTRjVFZRUkdjIiwiZmN2IjoiMyIsImVpIjoiS2VDQ2FOSEtCS2FSd2JrUDBPZml1QU0iLCJxYyI6IkNpZDNhR0YwSUdseklIUm9aU0IwWVhnZ2NtRjBaU0J2YmlCaElHMXZibVYwWVhKNUlHZHBablFRQUgwYURTY18iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIG1vbmV5IGNhbiB5b3UgZ2lmdCBhIGZhbWlseSBtZW1iZXIgd2l0aG91dCBwYXlpbmcgdGF4ZXMgaW4gMjAyNT8iLCJsayI6ImN3WEIwUW1BTUF3RndEMzhlaU5Jd1IxY0k1YlVCa3dpbWxLenZYZkwzbjFDUi0xUU4wNVVNcVFQbk5JQ2hFWXFWMEpaRDM0d0picVB3RTBwZGlMbzR4ZGlLR3ZaZmciLCJicyI6ImM2M1FzVTdETUJRRlVHWDFnQmlqVEhmb0FDcURNYTBFTEZrWUdrWTZNREc0d2FtZmxOaVY0eERNaFBnRk5uNkEzOFFKQlZFQkVnT3JmYy0xMzJNM2JMcXdQWnF1MVBEeUhqM1ZOUXBzWklBMWtKZ2NjMzdFT2NlYUtwLW5qNG1ZWm9mNm02QmQ4UUhZaHMwdWJPelQ4azdCMnpFVmtXcEJWVHgycWxRVWJ5UWFhNVNYTG16ZmVUNFE4LXprMXNiaUh5bjlSdGtETzd2VzBvTmFlSzFRWEMzaHVscWhzbTRNa0ZtUElneWRsV3lvRG1oVXMxS3V6ZE9uUFhHZW5mWmZQTG4yejU2OUpLejQzT1o3cUpRR3dYWWpqWF9kQVhGMVh0dk9ENk1OdGR2cERBUVg4eng5WFlyTGJLSF9xVzhfZVFNIiwiaWQiOiJmY19LZUNDYU5IS0JLYVJ3YmtQME9maXVBTV8xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "0MOhgHicxZTbkrI4EMdv90XWG0cFpRydKmorCah8HBQPM7o3FCJG5aQEReZuX2GfYZ9qn2YTFAdn_Kpmay82CiRNuvPv5Ef_8Ze_Db2_f_lzkyR78tJopGlax1GEfbfuREHDJlnoNNaRT2Jn8xv2xSOpbHzRDSvZSWxVHCJyFXcrqi5CtjFQoWqP06U34obr7RHoldxdtJY2cXc0-nlHGlaD3rxfWxId1EndDevD3YjTpDccO4t6k-M79WHDDugE8J-b_MUC6aUiAMyyET-YmJvZdBN4ZWPhqOgsGn2v9GhnxibfmgJuQzTDwDI661Iyt5nUeVIOPc8jmhKWAUJ3Ssoj5eJ6VQzvErnk90ns8G7Rz43GgWVFJkC1j-1w8hVZmAGSI1zYERgA4Eo1ZGKsfI0JEcABGO5hx3zwNm8zPDZiaUaXa6wwPWuusYzpg2_EhJ08mna5aCD1BDJxFuGmG07WPyINwNfpYskJ_hI85Uw55AYVKUPV1t4dYsm8xS_qWh3yN6Ig28rJJY08bWaAChg_0vixtePb3srlLVaK3WA_6ETp1e9Ex15B3xogaQ5e707Au8ajtv4lsAygZl-7CnM0EQamvKA9THWYMvXBbEUFyHKfiUcQ3xQw_3REKD3MQYYgzdX18wwYUVSkaRZJFUrgNUWF_aEgKyb0IIAL5ONMVy76Eb2jwoN9ECodumxAsccI6GCaAiileTi4BRekYTGd9ig9JlCLTwzpzCyn9HsIy0Tlq-mPTuGu9X7-ipL0FSG5DXhHGtXO85QYXaPfAvug-epP9aFaIBQFy39RmJz_BzIWQaVFYVyGDD-G7L5sXSEzC8jY2dGyJV_K1h1kiw_I0MzrW0bXkj4gwyXIJmXIymVrcgcZAt-FrHcH2fgGmf8zyG5l6wbZpKZ6BWQOM-tfIPtm2ep9r2zlrLmXx30NO-7wZxB7i3EIICef2q2jV6tpmdFu7vZTs6bO8ZO1DpIXe-U_WdvVC2z-SLJV5SCmGzupbkk12bjVxD5XYztxq1FYtatBFLqJHWdVvF0nlcCPI5GzBYfs-vhkZJEkaPshN2t1rVVTmkuHE9BGyOWX59bqcO6bE3vbnY_jZiq5Q8P_faOEtcQ6mS0109R1Jzqfs2eHjwM8D9-1jDv0011Q62ZvjhE0u2-D_mDvkPVgulO48UA4dpfSmyq_x89rfQ7UZmeARrqpT4NcFRFrz6PhWD8ehqlQCWJHpEQIHjBoSagQx7ZcchJdwW5xfJMX3KVt8-1OJcBJthcF4R-rzn81",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0MOhgHicxZTbkrI4EMdv90XWG0cFpRydKmorCah8HBQPM7o3FCJG5aQEReZuX2GfYZ9qn2YTFAdn_Kpmay82CiRNuvPv5Ef_8Ze_Db2_f_lzkyR78tJopGlax1GEfbfuREHDJlnoNNaRT2Jn8xv2xSOpbHzRDSvZSWxVHCJyFXcrqi5CtjFQoWqP06U34obr7RHoldxdtJY2cXc0-nlHGlaD3rxfWxId1EndDevD3YjTpDccO4t6k-M79WHDDugE8J-b_MUC6aUiAMyyET-YmJvZdBN4ZWPhqOgsGn2v9GhnxibfmgJuQzTDwDI661Iyt5nUeVIOPc8jmhKWAUJ3Ssoj5eJ6VQzvErnk90ns8G7Rz43GgWVFJkC1j-1w8hVZmAGSI1zYERgA4Eo1ZGKsfI0JEcABGO5hx3zwNm8zPDZiaUaXa6wwPWuusYzpg2_EhJ08mna5aCD1BDJxFuGmG07WPyINwNfpYskJ_hI85Uw55AYVKUPV1t4dYsm8xS_qWh3yN6Ig28rJJY08bWaAChg_0vixtePb3srlLVaK3WA_6ETp1e9Ex15B3xogaQ5e707Au8ajtv4lsAygZl-7CnM0EQamvKA9THWYMvXBbEUFyHKfiUcQ3xQw_3REKD3MQYYgzdX18wwYUVSkaRZJFUrgNUWF_aEgKyb0IIAL5ONMVy76Eb2jwoN9ECodumxAsccI6GCaAiileTi4BRekYTGd9ig9JlCLTwzpzCyn9HsIy0Tlq-mPTuGu9X7-ipL0FSG5DXhHGtXO85QYXaPfAvug-epP9aFaIBQFy39RmJz_BzIWQaVFYVyGDD-G7L5sXSEzC8jY2dGyJV_K1h1kiw_I0MzrW0bXkj4gwyXIJmXIymVrcgcZAt-FrHcH2fgGmf8zyG5l6wbZpKZ6BWQOM-tfIPtm2ep9r2zlrLmXx30NO-7wZxB7i3EIICef2q2jV6tpmdFu7vZTs6bO8ZO1DpIXe-U_WdvVC2z-SLJV5SCmGzupbkk12bjVxD5XYztxq1FYtatBFLqJHWdVvF0nlcCPI5GzBYfs-vhkZJEkaPshN2t1rVVTmkuHE9BGyOWX59bqcO6bE3vbnY_jZiq5Q8P_faOEtcQ6mS0109R1Jzqfs2eHjwM8D9-1jDv0011Q62ZvjhE0u2-D_mDvkPVgulO48UA4dpfSmyq_x89rfQ7UZmeARrqpT4NcFRFrz6PhWD8ehqlQCWJHpEQIHjBoSagQx7ZcchJdwW5xfJMX3KVt8-1OJcBJthcF4R-rzn81"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Gift Tax: 2025 Exemptions and Limits",
+      "link": "https://www.nerdwallet.com/article/taxes/gift-tax-rate",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nerdwallet.com/article/taxes/gift-tax-rate&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECBUQAQ",
+      "displayed_link": "https://www.nerdwallet.com › Taxes",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991666ee485c013a27f738ada35291b0eac.png",
+      "date": "Jul 3, 2025",
+      "snippet": "What is the gift tax rate? ; up to $10,000. 18% ; $10,001 to $20,000. 20% ; $20,001 to $40,000. 22% ; $40,001 to $60,000. 24%.",
+      "snippet_highlighted_words": [
+        "up to $10,000. 18"
+      ],
+      "source": "NerdWallet"
+    },
+    {
+      "position": 2,
+      "title": "Gift Tax, Explained: 2024 and 2025 Exemptions and Rates",
+      "link": "https://smartasset.com/estate-planning/gift-tax-explained-2021-exemption-and-rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://smartasset.com/estate-planning/gift-tax-explained-2021-exemption-and-rates&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECBQQAQ",
+      "displayed_link": "https://smartasset.com › ... › Estate Planning › Gift Tax",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79914f089141f9d480750eb8473c6bcbf637.png",
+      "date": "May 2, 2025",
+      "snippet": "Like federal income tax, gift tax rates are marginal, with the top rate reaching 40%. The larger a gift is, the more a person will potentially ...",
+      "snippet_highlighted_words": [
+        "gift tax rates are marginal, with the top rate reaching 40"
+      ],
+      "source": "SmartAsset"
+    },
+    {
+      "position": 3,
+      "title": "Frequently asked questions on gift taxes",
+      "link": "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCIoCEAE",
+      "displayed_link": "https://www.irs.gov › small-businesses-self-employed › f...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79912fd401b7951962a349acb0818210833f.png",
+      "date": "Oct 29, 2024",
+      "snippet": "The general rule is that any gift is a taxable gift. However, there are many exceptions to this rule. Generally, the following gifts are not taxable gifts.",
+      "snippet_highlighted_words": [
+        "gift",
+        "taxable gift",
+        "gifts",
+        "gifts"
+      ],
+      "source": "IRS (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Do I Have to Pay Taxes on a Gift? | Gift Tax Calculator",
+      "link": "https://www.taxact.com/tax-resources/tax-calculators/gift-tax-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxact.com/tax-resources/tax-calculators/gift-tax-calculator&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCO4BEAE",
+      "displayed_link": "https://www.taxact.com › tax-resources › gift-tax-calculat...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799116111554b717ae0578f1dc38509e5585.png",
+      "snippet": "The gift tax rate fluctuates from 18-40%, depending on the size of the gift. For instance, if you give someone a gift worth between $20,000 and $40,000, the ...",
+      "snippet_highlighted_words": [
+        "18-40%, depending on the size of the gift"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Capital Gains Tax Calculator",
+            "link": "https://www.taxact.com/tax-resources/tax-calculators/capital-gains-calculator"
+          },
+          {
+            "title": "When Does Capital Gains Tax...",
+            "link": "https://blog.taxact.com/capital-gains-tax-apply/"
+          },
+          {
+            "title": "Family Loans",
+            "link": "https://blog.taxact.com/family-loans-lend-my-kids-money/"
+          }
+        ]
+      },
+      "source": "TaxAct"
+    },
+    {
+      "position": 5,
+      "title": "What is the gift tax in North Carolina? How much can I gift ...",
+      "link": "https://www.carolinafep.com/faqs/what-is-the-gift-tax-how-much-can-i-gift-without-being-subject-to-gift-tax-how-much-can-i-gi.cfm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.carolinafep.com/faqs/what-is-the-gift-tax-how-much-can-i-gift-without-being-subject-to-gift-tax-how-much-can-i-gi.cfm&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECDEQAQ",
+      "displayed_link": "https://www.carolinafep.com › faqs › what-is-the-gift-ta...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991f09a5d5f46988b4ebac2b0d23f9daddb.png",
+      "snippet": "Any gifts made in excess of the lifetime gift tax exclusion amount will be taxed at a 40% tax rate. (Be sure to read below for how the lifetime gift tax ...",
+      "snippet_highlighted_words": [
+        "gifts",
+        "gift",
+        "tax rate",
+        "gift"
+      ],
+      "source": "Carolina Family Estate Planning"
+    },
+    {
+      "position": 6,
+      "title": "Gift tax: what is it & how does it work?",
+      "link": "https://www.empower.com/the-currency/money/gift-tax-explained",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.empower.com/the-currency/money/gift-tax-explained&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECH8QAQ",
+      "displayed_link": "https://www.empower.com › money › gift-tax-explained",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991e08e9a2a667bc6c0a18b9c0e4ae22bbc.png",
+      "snippet": "Q: What is the gift tax rate? A: The gift tax rates range from 18% to 40%, depending on the amount by which your gifts exceed the exemptions. Q ...",
+      "snippet_highlighted_words": [
+        "18% to 40"
+      ],
+      "source": "Empower"
+    },
+    {
+      "position": 7,
+      "title": "Gift Tax: 2025 Limit, How It Works And Who Has To Pay",
+      "link": "https://www.bankrate.com/taxes/gift-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bankrate.com/taxes/gift-tax/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCKQCEAE",
+      "displayed_link": "https://www.bankrate.com › taxes › gift-tax",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79918fcd74a861a12bd51938bc7a3f236c0c.png",
+      "date": "Jun 13, 2025",
+      "snippet": "After giving out money or property exceeding the lifetime threshold, your gift tax rate will be between 18 percent and 40 percent, depending on ...",
+      "snippet_highlighted_words": [
+        "between 18 percent and 40 percent"
+      ],
+      "source": "Bankrate"
+    },
+    {
+      "position": 8,
+      "title": "Gift tax, how it works and the limits",
+      "link": "https://www.jacksonhewitt.com/tax-help/tax-tips-topics/filing-your-taxes/what-is-a-gift-tax-gift-tax-limit-and-exemptions/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jacksonhewitt.com/tax-help/tax-tips-topics/filing-your-taxes/what-is-a-gift-tax-gift-tax-limit-and-exemptions/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECDMQAQ",
+      "displayed_link": "https://www.jacksonhewitt.com › filing-your-taxes › wha...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991f5ab3287bb2cfc4dd4f230018c824512.png",
+      "date": "Jun 5, 2025",
+      "snippet": "Federal gift tax rates ; Taxable amount exceeding annual gift limit. Gift tax rate ; $0 — 10,000. 18% ; $10,001 — 20,000. 20% ; $20,001 — 40,000. 22 ...",
+      "snippet_highlighted_words": [
+        "18"
+      ],
+      "source": "Jackson Hewitt"
+    },
+    {
+      "position": 9,
+      "title": "5 Things to Know About the Gift Tax",
+      "link": "https://www.invest529.com/blog/5-things-to-know-about-the-gift-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.invest529.com/blog/5-things-to-know-about-the-gift-tax/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECGMQAQ",
+      "displayed_link": "https://www.invest529.com › blog › 5-things-to-know-...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79918f5cac4a8081f2b71105aa278295a6d3.png",
+      "date": "Jan 2, 2025",
+      "snippet": "The current exclusion limit of $13.99 million applies to both gift and estate taxes. This limit is set through 2025, but it's possible that ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "taxes"
+      ],
+      "source": "Invest529"
+    },
+    {
+      "position": 10,
+      "title": "2025 Federal & State Estate and Gift Tax Cheat Sheet",
+      "link": "https://www.wealthspire.com/guides-whitepapers/federal-state-estate-gift-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wealthspire.com/guides-whitepapers/federal-state-estate-gift-tax/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCIEBEAE",
+      "displayed_link": "https://www.wealthspire.com › guides-whitepapers › fede...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991bd2bf897a76d75d1363f1dbf6cde94a0.png",
+      "snippet": "Rate: 40%; Gift and GST Tax Annual Exclusion Amount: $19,000 per donee; Gift Tax Exclusions for medical and educational expenses paid directly to provider ...",
+      "snippet_highlighted_words": [
+        "Rate: 40"
+      ],
+      "source": "Wealthspire"
+    },
+    {
+      "position": 11,
+      "title": "2024-25 Gift Tax Rules and Exclusions",
+      "link": "https://www.hrblock.com/tax-center/income/other-income/do-i-have-to-pay-taxes-on-a-gift/?srsltid=AfmBOooTu6sN_7vf80acWjKNsCnVlj8V7kLe2bRw1BteS-xEsWj_GYxt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hrblock.com/tax-center/income/other-income/do-i-have-to-pay-taxes-on-a-gift/%3Fsrsltid%3DAfmBOooTu6sN_7vf80acWjKNsCnVlj8V7kLe2bRw1BteS-xEsWj_GYxt&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCLgBEAE",
+      "displayed_link": "https://www.hrblock.com › income › other-income › do-...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79919f8be2fa6f7130b6f9c39fe1cdd4cf8b.png",
+      "snippet": "How much tax you'll pay on a gift depends on how much over the lifetime exclusion the gift is. Generally, the gift tax rate ranges from 18% to 40%. Here's how ...",
+      "snippet_highlighted_words": [
+        "18% to 40"
+      ],
+      "source": "H&R Block"
+    },
+    {
+      "position": 12,
+      "title": "Gift tax | Internal Revenue Service",
+      "link": "https://www.irs.gov/businesses/small-businesses-self-employed/gift-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.irs.gov/businesses/small-businesses-self-employed/gift-tax&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCOwBEAE",
+      "displayed_link": "https://www.irs.gov › small-businesses-self-employed › g...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799161ad0f005af9c555b8d93ea0b421dafd.png",
+      "snippet": "The gift tax is a tax on the transfer of property by one individual to another while receiving nothing, or less than full value, in return.",
+      "snippet_highlighted_words": [
+        "gift tax",
+        "tax"
+      ],
+      "source": "IRS (.gov)"
+    },
+    {
+      "position": 13,
+      "title": "What's the 2025 Gift Tax Limit?",
+      "link": "https://www.becu.org/blog/whats-the-2025-gift-tax-limit",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.becu.org/blog/whats-the-2025-gift-tax-limit&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCIsCEAE",
+      "displayed_link": "https://www.becu.org › blog › whats-the-2025-gift-tax-...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79916650ae630a99b8f3af7d01ec35ac9bfd.png",
+      "date": "Feb 14, 2025",
+      "snippet": "In the U.S., you can gift up to $19,000 to anyone you wish in 2025 — and neither of you will pay taxes on the gift, in most cases.",
+      "snippet_highlighted_words": [
+        "gift",
+        "taxes",
+        "gift"
+      ],
+      "source": "BECU"
+    },
+    {
+      "position": 14,
+      "title": "The Gift Tax - TurboTax Tax Tips & Videos - Intuit",
+      "link": "https://turbotax.intuit.com/tax-tips/estates/the-gift-tax/L1sFpFeXV",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://turbotax.intuit.com/tax-tips/estates/the-gift-tax/L1sFpFeXV&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCKUCEAE",
+      "displayed_link": "https://turbotax.intuit.com › ... › Estates",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799180228a82dbcc1336685beea459d2dc0b.png",
+      "date": "Feb 19, 2025",
+      "snippet": "But most gifts are not subject to the gift tax. For instance, you can give up to the annual exclusion amount ($18,000 in 2024, $19,000 in 2025) ...",
+      "snippet_highlighted_words": [
+        "gifts",
+        "gift tax",
+        "amount"
+      ],
+      "source": "TurboTax"
+    },
+    {
+      "position": 15,
+      "title": "Everything You Need To Know About Tax-Free Family Gifting",
+      "link": "https://www.bairdwealth.com/insights/wealth-management-perspectives/2022/06/everything-you-need-to-know-about-tax-free-gifting/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bairdwealth.com/insights/wealth-management-perspectives/2022/06/everything-you-need-to-know-about-tax-free-gifting/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCMECEAE",
+      "displayed_link": "https://www.bairdwealth.com › insights › 2022/06 › ever...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79914171755b52d38ec1101b5f49a2db7658.png",
+      "date": "Feb 25, 2025",
+      "snippet": "The annual gift exemption is per “gifter,” which means married couples can gift up to $38,000 per recipient per-year without incurring gift tax.",
+      "snippet_highlighted_words": [
+        "gift",
+        "gift",
+        "gift tax"
+      ],
+      "missing": [
+        "rate"
+      ],
+      "must_include": {
+        "word": "rate",
+        "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=what+is+the+tax+%22rate%22+on+a+monetary+gift&sa=X&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ5t4CegUI1AIQAQ"
+      },
+      "source": "Baird Wealth"
+    },
+    {
+      "position": 16,
+      "title": "Gift Tax: What It Is and How It Works",
+      "link": "https://www.investopedia.com/terms/g/gifttax.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investopedia.com/terms/g/gifttax.asp&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECC0QAQ",
+      "displayed_link": "https://www.investopedia.com › ... › Income Categories",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991e09afe9a2038081bccc7a1e89cec0b05.png",
+      "date": "Oct 29, 2024",
+      "snippet": "The gift tax is a federal levy that applies when the lifetime gift tax exclusion amount has been exceeded. For tax year 2025, that limit is $13 ...",
+      "source": "Investopedia"
+    },
+    {
+      "position": 17,
+      "title": "How Much Money Can You Gift Tax-Free? (2024)",
+      "link": "https://www.westernunion.com/blog/en/us/how-much-money-can-gift-tax-free/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.westernunion.com/blog/en/us/how-much-money-can-gift-tax-free/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECEkQAQ",
+      "displayed_link": "https://www.westernunion.com › Country › United States",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79918ba375e3b8f4a58127d3b8356e56e9f8.png",
+      "date": "Aug 29, 2024",
+      "snippet": "What is the gift tax rate? The gift tax rate in the United States ranges from 18% to 40%, depending on the amount. The gift tax applies only ...",
+      "snippet_highlighted_words": [
+        "18% to 40"
+      ],
+      "source": "Western Union"
+    },
+    {
+      "position": 18,
+      "title": "The gift tax rate: What you need to know",
+      "link": "https://www.unbiased.com/discover/taxes/the-gift-tax-rate-what-you-need-to-know",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unbiased.com/discover/taxes/the-gift-tax-rate-what-you-need-to-know&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECGAQAQ",
+      "displayed_link": "https://www.unbiased.com › discover › taxes › the-gift-...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991d93fda6737648243a9e6db8c3d283d23.png",
+      "date": "Nov 27, 2024",
+      "snippet": "Gift tax is based on a series of tax brackets, just like regular income tax. Rates range between 18 percent and 40 percent.",
+      "snippet_highlighted_words": [
+        "between 18 percent and 40 percent"
+      ],
+      "source": "Unbiased US"
+    },
+    {
+      "position": 19,
+      "title": "The Gift Tax Made Simple - TurboTax Tax Tips & Videos - Intuit",
+      "link": "https://turbotax.intuit.com/tax-tips/estates/the-gift-tax-made-simple/L5tGWVC8N",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://turbotax.intuit.com/tax-tips/estates/the-gift-tax-made-simple/L5tGWVC8N&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECHsQAQ",
+      "displayed_link": "https://turbotax.intuit.com › ... › Estates",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991a64a5750f98b1144e36de1b27ac5c9f0.png",
+      "date": "Feb 18, 2025",
+      "snippet": "The gift tax rate currently ranges up to 40%, with anything gifted over the lifetime exclusion limit being taxed at 40%. Who pays the gift tax?",
+      "snippet_highlighted_words": [
+        "up to 40"
+      ],
+      "source": "TurboTax"
+    },
+    {
+      "position": 20,
+      "title": "Gift Tax Explained: What Is It And How Does It Work?",
+      "link": "https://districtcapitalmanagement.com/gift-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://districtcapitalmanagement.com/gift-tax/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCJgBEAE",
+      "displayed_link": "https://districtcapitalmanagement.com › Money 101",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991be6948fb151a7aa4f640e2859025b5b7.png",
+      "date": "Dec 20, 2024",
+      "snippet": "Gift Tax Rates Explained ; $0 – $10,000, 18% ; $10,001 – $20,000, 20% ; $20,001 – $40,000, 22% ; $40,001 – $60,000, 24% ; $60,001 – $80,000, 26%.",
+      "snippet_highlighted_words": [
+        "18"
+      ],
+      "source": "District Capital Management"
+    },
+    {
+      "position": 21,
+      "title": "What Is the Gift Tax?",
+      "link": "https://www.floridafa.com/What-Is-the-Gift-Tax.c1285.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.floridafa.com/What-Is-the-Gift-Tax.c1285.htm&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCJcBEAE",
+      "displayed_link": "https://www.floridafa.com › What-Is-the-Gift-Tax.c128...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799199be40432206953f22a6524893efdac1.png",
+      "snippet": "For 2025, the gift tax exclusion is $19,000 (up from $18,000 for 2024). The exclusion amount is indexed annually for inflation. A separate exclusion is applied ...",
+      "snippet_highlighted_words": [
+        "gift tax",
+        "amount"
+      ],
+      "source": "Florida Financial Advisor"
+    },
+    {
+      "position": 22,
+      "title": "Gifting Money to Family Members",
+      "link": "https://www.portebrown.com/newsblog-archive/what-are-the-tax-implications-of-gifting-money-to-family-members",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.portebrown.com/newsblog-archive/what-are-the-tax-implications-of-gifting-money-to-family-members&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCLYBEAE",
+      "displayed_link": "https://www.portebrown.com › newsblog-archive › wha...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991c01dd7357b937243b1ed439dcfe26dc4.png",
+      "snippet": "Generally, a person receiving a gift from their family does not have to pay gift tax until a donation exceeds $18,000 (this amount increases to $19,000 in 2025) ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "gift tax",
+        "amount"
+      ],
+      "missing": [
+        "rate"
+      ],
+      "must_include": {
+        "word": "rate",
+        "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=what+is+the+tax+%22rate%22+on+a+monetary+gift&sa=X&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ5t4CegUIzAEQAQ"
+      },
+      "source": "Porte Brown LLC"
+    },
+    {
+      "position": 23,
+      "title": "What Is the Gift Tax?",
+      "link": "https://www.cnb.com/personal-banking/insights/what-is-gift-tax.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnb.com/personal-banking/insights/what-is-gift-tax.html&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCM8BEAE",
+      "displayed_link": "https://www.cnb.com › personal-banking › insights › w...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991683d804474294e7b44d06ba42353d4d4.png",
+      "snippet": "Similar to federal income tax, gift tax rates are marginal, starting at 18%, with the top rate at 40%. The percentage an individual pays is adjusted based on ...",
+      "snippet_highlighted_words": [
+        "gift tax rates are marginal, starting at 18%, with the top rate at 40"
+      ],
+      "source": "City National Bank"
+    },
+    {
+      "position": 24,
+      "title": "Taxation of Gifts, Prizes, and Awards to Employees Policy",
+      "link": "https://compliance.gwu.edu/taxation-gifts-prizes-and-awards-employees",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://compliance.gwu.edu/taxation-gifts-prizes-and-awards-employees&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCPUBEAE",
+      "displayed_link": "https://compliance.gwu.edu › taxation-gifts-prizes-and-a...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79915939dbbd961abcb60b4fe8e19978dfff.png",
+      "snippet": "A non-cash gift, prize or award valued at more than $100 is taxable beginning with the first dollar and must be processed through Payroll Services.",
+      "snippet_highlighted_words": [
+        "gift",
+        "taxable"
+      ],
+      "source": "The George Washington University"
+    },
+    {
+      "position": 25,
+      "title": "Inheritance and gift tax rates",
+      "link": "https://taxsummaries.pwc.com/quick-charts/inheritance-and-gift-tax-rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxsummaries.pwc.com/quick-charts/inheritance-and-gift-tax-rates&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCIYCEAE",
+      "displayed_link": "https://taxsummaries.pwc.com › quick-charts › inheritanc...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79917792936e17f5dc1c52d87941573ae943.jpeg",
+      "snippet": "Gift tax rates vary based on the region where the gift is registered and range between 3% and 7%. Bermuda (Last reviewed 31 January 2025), NA, NA. Bolivia (Last ...",
+      "snippet_highlighted_words": [
+        "between 3% and 7"
+      ],
+      "source": "PwC"
+    },
+    {
+      "position": 26,
+      "title": "Gift Tax 101: What You Need to Know",
+      "link": "https://www.czepigalaw.com/blog/gift-tax-101-what-you-need-to-know/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.czepigalaw.com/blog/gift-tax-101-what-you-need-to-know/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCIkCEAE",
+      "displayed_link": "https://www.czepigalaw.com › blog › gift-tax-101-what...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991f2081aa5335f346f59c859c420cb398c.png",
+      "snippet": "The federal government imposes a gift tax that is currently 40%. And if you live in Connecticut, your gift may also be subject to the one-and-only state-level ...",
+      "snippet_highlighted_words": [
+        "currently 40"
+      ],
+      "source": "Czepiga Daly Pope & Perri"
+    },
+    {
+      "position": 27,
+      "title": "The Estate and Gift Tax: An Overview",
+      "link": "https://www.congress.gov/crs-product/R48183",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.congress.gov/crs-product/R48183&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCI4CEAE",
+      "displayed_link": "https://www.congress.gov › crs-product",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799123f32cb42b815c25737656fffddd0810.png",
+      "date": "Jul 14, 2025",
+      "snippet": "To illustrate, consider a 50% tax rate. Assuming the annual and lifetime exemptions are already used, to provide a gift of $1 million costs $1. ...",
+      "source": "Congress.gov"
+    },
+    {
+      "position": 28,
+      "title": "Federal Gift Tax and How it Applies to You",
+      "link": "https://estatelawatlanta.com/blog/understanding-the-federal-gift-tax-exemption-and-how-it-applies-to-you/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://estatelawatlanta.com/blog/understanding-the-federal-gift-tax-exemption-and-how-it-applies-to-you/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCKMCEAE",
+      "displayed_link": "https://estatelawatlanta.com › blog › understanding-the-...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991b24f7f538903bbeeebc33c8b680f9fdb.png",
+      "snippet": "Currently, the federal gift tax rate is 40%; however, this tax does not apply to gifts up to $16,000, per person.",
+      "snippet_highlighted_words": [
+        "40"
+      ],
+      "source": "Siedentopf Law"
+    },
+    {
+      "position": 29,
+      "title": "Taxes on gift money. : r/IRS",
+      "link": "https://www.reddit.com/r/IRS/comments/17s41r6/taxes_on_gift_money/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/IRS/comments/17s41r6/taxes_on_gift_money/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCLMCEAE",
+      "displayed_link": "6 comments · 1 year ago",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79919cef9b57e1e2981563578873f567bc1a.png",
+      "snippet": "Assuming this was in 2023, the first $17,000 is always tax free, so the giver would report a gift of $233,000. There is a lifetime max, as of ...",
+      "snippet_highlighted_words": [
+        "first $17,000 is always tax free"
+      ],
+      "source": "Reddit · r/IRS"
+    },
+    {
+      "position": 30,
+      "title": "Gift Tax: How it Works and Exclusions for 2024-2025",
+      "link": "https://www.taxslayer.com/blog/gifts-inheritances-tax-deductible/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxslayer.com/blog/gifts-inheritances-tax-deductible/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCMACEAE",
+      "displayed_link": "https://www.taxslayer.com › blog › gifts-inheritances-ta...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991786976080bd26521d5e82143722c8e23.png",
+      "date": "Jan 12, 2025",
+      "snippet": "This tax is between 18% and 40%. It is triggered when the total value of gifts given to a single recipient exceeds the donor's annual exclusion amount.",
+      "snippet_highlighted_words": [
+        "between 18% and 40"
+      ],
+      "source": "TaxSlayer®️"
+    },
+    {
+      "position": 31,
+      "title": "How much you can gift tax-free is set to be cut in half. Are ...",
+      "link": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/ideas-and-insights/how-much-you-can-gift-tax-free-is-set-to-be-cut-in-half-are-you-ready",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/ideas-and-insights/how-much-you-can-gift-tax-free-is-set-to-be-cut-in-half-are-you-ready&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCL4CEAE",
+      "displayed_link": "https://privatebank.jpmorgan.com › ... › Ideas & Insights",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79917afa1a2e873aecc51d8ce5731c9e504c.png",
+      "date": "Jan 13, 2025",
+      "snippet": "In 2025, you can transfer up to $13.99 million free of taxes during your lifetime and after your death ($27.98 million for married couples).",
+      "snippet_highlighted_words": [
+        "taxes"
+      ],
+      "source": "J.P. Morgan Private Bank"
+    },
+    {
+      "position": 32,
+      "title": "How to give financial gifts to loved ones",
+      "link": "https://www.fidelity.com/viewpoints/personal-finance/giving-money",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fidelity.com/viewpoints/personal-finance/giving-money&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECC8QAQ",
+      "displayed_link": "https://www.fidelity.com › viewpoints › giving-money",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991a0fabdec3a62dfff237f386208097843.png",
+      "snippet": "Not all gifts are treated equally. If you gift cash, generally there are no income tax consequences for the recipient, though there could be gift and estate tax ...",
+      "snippet_highlighted_words": [
+        "no income tax consequences for the recipient"
+      ],
+      "source": "Fidelity"
+    },
+    {
+      "position": 33,
+      "title": "Gift Tax Exclusion 2025: How It Works, Limits, and Who Pays",
+      "link": "https://www.kiplinger.com/taxes/gift-tax-exclusion",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kiplinger.com/taxes/gift-tax-exclusion&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECC4QAQ",
+      "displayed_link": "https://www.kiplinger.com › Taxes",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79915de9e24f9592ffbb2b582d07a004e2b5.png",
+      "date": "Jul 15, 2025",
+      "snippet": "The gift tax, a federal tax ranging from 18% to 40%, applies to gifts individuals make throughout the year. Subscribe to Kiplinger's Personal ...",
+      "snippet_highlighted_words": [
+        "18% to 40"
+      ],
+      "source": "Kiplinger"
+    },
+    {
+      "position": 34,
+      "title": "Gift Tax | TaxEDU Glossary",
+      "link": "https://taxfoundation.org/taxedu/glossary/gift-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://taxfoundation.org/taxedu/glossary/gift-tax/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECEsQAQ",
+      "displayed_link": "https://taxfoundation.org › Education › Glossary",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799136cfed4a645e8098e17f1f76494f5011.png",
+      "snippet": "Once the gift reaches the threshold, the donor will be taxed at a rate ranging from 18 to 40 percent. Taxes are only owed once the donor has exceeded a ...",
+      "snippet_highlighted_words": [
+        "18 to 40 percent"
+      ],
+      "source": "Tax Foundation"
+    },
+    {
+      "position": 35,
+      "title": "How Inheritance Tax works: thresholds, rules and allowances",
+      "link": "https://www.gov.uk/inheritance-tax/gifts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/inheritance-tax/gifts&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECEgQAQ",
+      "displayed_link": "https://www.gov.uk › ... › Death and bereavement",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991f0ed11d0851d378d298eeccd4070943f.png",
+      "snippet": "Gifts given in the 3 years before your death are taxed at 40%. Gifts given 3 to 7 years before your death are taxed on a sliding scale known as 'taper relief'.",
+      "snippet_highlighted_words": [
+        "Gifts given in the 3 years before your death are taxed at 40"
+      ],
+      "source": "GOV.UK"
+    },
+    {
+      "position": 36,
+      "title": "A Brief Guide to the IRS Gift Tax",
+      "link": "https://www.carsonthorncpa.com/news/brief-guide-irs-gift-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.carsonthorncpa.com/news/brief-guide-irs-gift-tax&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECF8QAQ",
+      "displayed_link": "https://www.carsonthorncpa.com › news › brief-guide-i...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991e6d7854b8e5a654a0b32a5d7c6c8f2d4.png",
+      "snippet": "The federal gift tax rate ranges from 18% to 40%, depending on the total value of the gifts you've given above your lifetime exemption limit. Most taxpayers ...",
+      "snippet_highlighted_words": [
+        "18% to 40"
+      ],
+      "source": "C. E. Thorn, CPA, PLLC"
+    },
+    {
+      "position": 37,
+      "title": "The Estate Tax and Lifetime Gifting",
+      "link": "https://www.schwab.com/learn/story/estate-tax-and-lifetime-gifting",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.schwab.com/learn/story/estate-tax-and-lifetime-gifting&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECGUQAQ",
+      "displayed_link": "https://www.schwab.com › learn › story › estate-tax-an...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991b26a22b7cb0465ea76e3ee04ae656063.png",
+      "snippet": "In 2025, you can give any number of people up to $19,000 each in a single year without incurring a taxable gift ($38,000 for spouses \"splitting\" gifts)—up from ...",
+      "snippet_highlighted_words": [
+        "taxable gift",
+        "gifts"
+      ],
+      "source": "Charles Schwab"
+    },
+    {
+      "position": 38,
+      "title": "Are cash gifts taxable?",
+      "link": "https://www.gosimpletax.com/blog/are-cash-gifts-taxable/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gosimpletax.com/blog/are-cash-gifts-taxable/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECH0QAQ",
+      "displayed_link": "https://www.gosimpletax.com › blog › are-cash-gifts-ta...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79919400afbdd94ad81a7e721d953505160f.png",
+      "date": "Nov 20, 2024",
+      "snippet": "Cash gifts are not covered by Capital Gains Tax, but personal possessions and assets may be if they're sold or given away and they're above a certain value.",
+      "snippet_highlighted_words": [
+        "gifts",
+        "Tax"
+      ],
+      "source": "GoSimpleTax"
+    },
+    {
+      "position": 39,
+      "title": "What Is the Gift Tax Limit?",
+      "link": "https://www.ramseysolutions.com/taxes/what-is-the-gift-tax?srsltid=AfmBOoqUiB-ro5FEYaYJUNMv6PhV6k7H1DsJpHVPOqqSfPW_7bfReTo1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ramseysolutions.com/taxes/what-is-the-gift-tax%3Fsrsltid%3DAfmBOoqUiB-ro5FEYaYJUNMv6PhV6k7H1DsJpHVPOqqSfPW_7bfReTo1&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECHwQAQ",
+      "displayed_link": "https://www.ramseysolutions.com › ... › Personal Taxes",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991768c572b762287ea227219c6cbae3440.png",
+      "date": "Apr 17, 2025",
+      "snippet": "If you do owe taxes on your gift giving, the gift tax rate can be anywhere between 18% and 40%, depending on the amount you're giving. It seems ...",
+      "snippet_highlighted_words": [
+        "anywhere between 18% and 40"
+      ],
+      "source": "Ramsey Solutions"
+    },
+    {
+      "position": 40,
+      "title": "Can I “gift” $18000 to a family member in 2024 if I already ...",
+      "link": "https://www.reddit.com/r/Debt/comments/1g8d7ti/can_i_gift_18000_to_a_family_member_in_2024_if_i/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Debt/comments/1g8d7ti/can_i_gift_18000_to_a_family_member_in_2024_if_i/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCJ4BEAE",
+      "displayed_link": "60+ comments · 9 months ago",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991c77ba1cad395250a70116ec04a64e714.png",
+      "snippet": "For the recipient, gifts from U.S. private citizens are neither taxable nor reported as income. You may be thinking of cash transactions, which ...",
+      "snippet_highlighted_words": [
+        "gifts",
+        "taxable"
+      ],
+      "source": "Reddit · r/Debt"
+    },
+    {
+      "position": 41,
+      "title": "What is the gift tax on $50000?",
+      "link": "https://www.quora.com/What-is-the-gift-tax-on-50000",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-is-the-gift-tax-on-50000&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCJ8BEAE",
+      "displayed_link": "1 answer · 3 years ago",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799190959bce697d3cf0d7ae553ebcc77f77.png",
+      "snippet": "There are a few exceptions where a gift is received by a relative as defined by Indian Income tax Act then such persons(relatives) are not ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "tax"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 42,
+      "title": "Gift Tax Rate Calculator: Simplify Your Estate Planning",
+      "link": "https://lawyerinathensal.com/gift-tax-rate-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lawyerinathensal.com/gift-tax-rate-calculator/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCJsBEAE",
+      "displayed_link": "https://lawyerinathensal.com › gift-tax-rate-calculator",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799156c2866cb3f97b658a80180ce470762e.png",
+      "date": "Mar 12, 2024",
+      "snippet": "Gift tax is a tax imposed by the government on transfers of assets, money, or property from one person to another without receiving fair ...",
+      "snippet_highlighted_words": [
+        "Gift tax",
+        "tax"
+      ],
+      "source": "Daniel S. Pickens Law"
+    },
+    {
+      "position": 43,
+      "title": "Foreign Gift Tax: Reporting Rules & Exemptions Explained",
+      "link": "https://www.greenbacktaxservices.com/knowledge-center/foreign-gift-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.greenbacktaxservices.com/knowledge-center/foreign-gift-tax/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCLsBEAE",
+      "displayed_link": "https://www.greenbacktaxservices.com › foreign-gift-tax",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991a695030d3d137a8c3a541d9baeeb57c7.png",
+      "date": "May 15, 2025",
+      "snippet": "Foreign gifts are not taxed in the US, but they must be reported if they exceed IRS thresholds. · Gifts from non-US persons exceeding $100,000 ...",
+      "snippet_highlighted_words": [
+        "gifts",
+        "taxed",
+        "Gifts"
+      ],
+      "source": "Greenback Expat Tax Services"
+    },
+    {
+      "position": 44,
+      "title": "How to Know When to Pay Gift Taxes",
+      "link": "https://www.sbwhlaw.com/library/when-do-you-pay-gift-taxes-.cfm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sbwhlaw.com/library/when-do-you-pay-gift-taxes-.cfm&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCLUBEAE",
+      "displayed_link": "https://www.sbwhlaw.com › library › when-do-you-pay...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799102a24955b7e5f3f39b212edd87b0f08a.png",
+      "snippet": "Spouses can give an unlimited amount of money to each other under the gift tax marital deduction rules, and there are no gift tax forms to be filed or any gift ...",
+      "snippet_highlighted_words": [
+        "amount",
+        "gift tax",
+        "gift tax",
+        "gift"
+      ],
+      "source": "Skeeters, Bennett, Wilson & Humphrey"
+    },
+    {
+      "position": 45,
+      "title": "Do I Have to Pay Taxes on a Gift?",
+      "link": "https://www.findlaw.com/tax/federal-taxes/do-i-have-to-pay-taxes-on-a-gift.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.findlaw.com/tax/federal-taxes/do-i-have-to-pay-taxes-on-a-gift.html&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCNIBEAE",
+      "displayed_link": "https://www.findlaw.com › ... › Federal Tax Laws",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991e8dbecdcf0bfeb7059eff74b4f92f4a6.png",
+      "date": "Mar 5, 2025",
+      "snippet": "The gift tax rate varies from between 18% to 40% depending on the value of the property. The annual gift tax exclusion resets each year ...",
+      "snippet_highlighted_words": [
+        "gift tax rate",
+        "gift"
+      ],
+      "source": "FindLaw"
+    },
+    {
+      "position": 46,
+      "title": "Understanding the gift tax | Empathy",
+      "link": "https://www.empathy.com/taxes/understanding-the-gift-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.empathy.com/taxes/understanding-the-gift-tax&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCNUBEAE",
+      "displayed_link": "https://www.empathy.com › taxes › understanding-the-...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991dad0a33d0615a568529fc1908f604d5f.png",
+      "snippet": "The gift tax is not really a tax on gifts. · Gifts under a certain annual threshold ($15K in 2021) to any given person are not taxed. · Any gift to a given person ...",
+      "snippet_highlighted_words": [
+        "gift tax",
+        "tax",
+        "gifts",
+        "Gifts",
+        "taxed",
+        "gift"
+      ],
+      "source": "empathy.com"
+    },
+    {
+      "position": 47,
+      "title": "Official Guide To The Rules On Gifting",
+      "link": "https://www.useorigin.com/resources/blog/official-guide-to-the-rules-on-gifting",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.useorigin.com/resources/blog/official-guide-to-the-rules-on-gifting&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCNcBEAE",
+      "displayed_link": "https://www.useorigin.com › resources › blog › official...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991044dabfdb52ecca7b1da385791fe9710.png",
+      "date": "Aug 29, 2024",
+      "snippet": "Gifts do not affect income tax for either the donor or the recipient. Gift taxes are considered a transfer tax rather than an income tax. The ...",
+      "snippet_highlighted_words": [
+        "Gifts",
+        "tax",
+        "Gift taxes",
+        "tax",
+        "tax"
+      ],
+      "source": "Origin Financial"
+    },
+    {
+      "position": 48,
+      "title": "What are the U.S. gift tax rules for citizens, residents, and ...",
+      "link": "https://walk-law.com/us-gift-tax-rules/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://walk-law.com/us-gift-tax-rules/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCPABEAE",
+      "displayed_link": "https://walk-law.com › us-gift-tax-rules",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79911545c131047635a68b0bd68e5c74bf72.png",
+      "snippet": "US citizens and residents are subject to a maximum rate of 40% with exemption of $5 million indexed for inflation. Nonresidents are subject to the same tax ...",
+      "snippet_highlighted_words": [
+        "rate",
+        "tax"
+      ],
+      "source": "walk-law.com"
+    },
+    {
+      "position": 49,
+      "title": "Gift Tax Explained: What Counts as a Gift & How to Give One…",
+      "link": "https://kahnlitwin.com/blogs/tax-blog/your-guide-to-gift-tax-what-constitutes-a-gift-and-how-to-make-one",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kahnlitwin.com/blogs/tax-blog/your-guide-to-gift-tax-what-constitutes-a-gift-and-how-to-make-one&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCPEBEAE",
+      "displayed_link": "https://kahnlitwin.com › blogs › tax-blog › your-guide-...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991e9845bb2d24fb29efb01bca261a4126e.png",
+      "date": "May 20, 2025",
+      "snippet": "Gift tax rates range from 18% to 40% once your lifetime exemption is used up. What Is the Gift Tax? The gift tax applies when you transfer ...",
+      "snippet_highlighted_words": [
+        "Gift tax rates",
+        "Gift",
+        "gift"
+      ],
+      "source": "kahnlitwin.com"
+    },
+    {
+      "position": 50,
+      "title": "I Want to Give My Grandchild $15000. Is It Taxable?",
+      "link": "https://www.aarp.org/money/personal-finance/gifting-grandchildren-money/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aarp.org/money/personal-finance/gifting-grandchildren-money/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCIwCEAE",
+      "displayed_link": "https://www.aarp.org › gifting-grandchildren-money",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79918f9907b2f2b03910f69f7757707f74d8.png",
+      "date": "Dec 5, 2024",
+      "snippet": "What are gift taxes? ... Congress enacted the first gift tax in 1924. In a nutshell, it allows the IRS to tax the transfer of money or property ...",
+      "snippet_highlighted_words": [
+        "gift taxes",
+        "gift tax",
+        "tax"
+      ],
+      "source": "AARP"
+    },
+    {
+      "position": 51,
+      "title": "Tax consequences of employer gifts to employees",
+      "link": "https://www.thetaxadviser.com/issues/2024/apr/tax-consequences-of-employer-gifts-to-employees/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thetaxadviser.com/issues/2024/apr/tax-consequences-of-employer-gifts-to-employees/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCIcCEAE",
+      "displayed_link": "https://www.thetaxadviser.com › Magazines",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799160b89507b7b1cb73bc45761c5165132a.png",
+      "date": "Apr 1, 2024",
+      "snippet": "102(c), any amount transferred by an employer to or for the benefit of an employee is not excluded from the employee's gross income unless ...",
+      "snippet_highlighted_words": [
+        "amount"
+      ],
+      "source": "The Tax Adviser"
+    },
+    {
+      "position": 52,
+      "title": "A Guide to Gifting Money to Your Children",
+      "link": "https://www.cnb.com/personal-banking/insights/gifting-money-to-children.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnb.com/personal-banking/insights/gifting-money-to-children.html&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCIgCEAE",
+      "displayed_link": "https://www.cnb.com › personal-banking › insights › gi...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79917a2b7ee457f03673b1943beb1d151498.png",
+      "snippet": "You can gift up to the annual exclusion amount per child ($18,000 in 2024) without triggering gift tax. For larger gifts, use the lifetime exemption and file ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "amount",
+        "gift tax",
+        "gifts"
+      ],
+      "source": "City National Bank"
+    },
+    {
+      "position": 53,
+      "title": "Gifting Money to Adult Children: Give Now or Later",
+      "link": "https://www.usbank.com/financialiq/plan-your-future/trusts-and-estates/gifting-money-to-children-give-now-or-later.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usbank.com/financialiq/plan-your-future/trusts-and-estates/gifting-money-to-children-give-now-or-later.html&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCI0CEAE",
+      "displayed_link": "https://www.usbank.com › ... › Trusts and estates",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79914a348079e3412c5b3b95bed4c0a76cf1.png",
+      "snippet": "A married couple filing jointly may give up to $38,000 to any individual. Larger gifts may also sidestep tax liabilities if you're willing to have them count ...",
+      "snippet_highlighted_words": [
+        "gifts",
+        "tax"
+      ],
+      "source": "U.S. Bank"
+    },
+    {
+      "position": 54,
+      "title": "What Is the Gift Tax?",
+      "link": "https://www.wisconsinadvisors.com/What-Is-the-Gift-Tax.c1285.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wisconsinadvisors.com/What-Is-the-Gift-Tax.c1285.htm&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCKICEAE",
+      "displayed_link": "https://www.wisconsinadvisors.com › What-Is-the-Gift-T...",
+      "snippet": "In theory, any gift is taxable, but there are several notable exceptions. For example, gifts of tuition or medical expenses that you pay directly to a medical ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "taxable",
+        "gifts"
+      ],
+      "source": "Wisconsin Advisors"
+    },
+    {
+      "position": 55,
+      "title": "Filing a gift tax return | Paying taxes",
+      "link": "https://www.government.nl/topics/paying-taxes/filing-a-gift-tax-return",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.government.nl/topics/paying-taxes/filing-a-gift-tax-return&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCKECEAE",
+      "displayed_link": "https://www.government.nl › topics › filing-a-gift-tax-r...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991883951abc434174194023e95ad4bd3f5.png",
+      "snippet": "For example, you will need to file a gift tax return if the gift exceeds a certain amount. ... Have you received a cash gift from someone who lives outside the ...",
+      "snippet_highlighted_words": [
+        "gift tax",
+        "gift",
+        "amount",
+        "gift"
+      ],
+      "source": "Government.nl"
+    },
+    {
+      "position": 56,
+      "title": "Gift Tax – How it Works and Who Pays",
+      "link": "https://www.ktllp.cpa/tax-tip-tuesday-march-26/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ktllp.cpa/tax-tip-tuesday-march-26/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCKwCEAE",
+      "displayed_link": "https://www.ktllp.cpa › KT Insights",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799115ab4a14c3ecbdab49047d22ce4853de.png",
+      "date": "Mar 26, 2024",
+      "snippet": "We often get questions from our clients about gifting and the potential tax implications. A gift of money or property is not deductible on ...",
+      "snippet_highlighted_words": [
+        "gifting",
+        "tax",
+        "gift"
+      ],
+      "source": "Ketel Thorstenson - CPA"
+    },
+    {
+      "position": 57,
+      "title": "OTA Paper 100: The Federal Gift Tax",
+      "link": "https://home.treasury.gov/system/files/131/wp-100.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://home.treasury.gov/system/files/131/wp-100.pdf&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCK0CEAE",
+      "displayed_link": "https://home.treasury.gov › system › files",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991d1747950522a24ca48a5fd40a8e8979f.png",
+      "author": "by D Joulfaian",
+      "snippet": "In other words, transfers in a given year are taxable if they exceed the annual exclusion and when cumulative lifetime taxable gifts exceed. $50,000. 3. Page 9 ...",
+      "snippet_highlighted_words": [
+        "taxable",
+        "taxable gifts"
+      ],
+      "source": "U.S. Department of the Treasury (.gov)"
+    },
+    {
+      "position": 58,
+      "title": "Do I Pay Tax On Gifts From Family Overseas?",
+      "link": "https://elgonfa.com/blog/overseas-gift-tax-reporting-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://elgonfa.com/blog/overseas-gift-tax-reporting-guide/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCKsCEAE",
+      "displayed_link": "https://elgonfa.com › overseas-gift-tax-reporting-guide",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991c86f796425c59785676a27bfa9f19897.png",
+      "date": "Nov 20, 2024",
+      "snippet": "The gift recipient is usually not taxed as part of the US gifting tax code. Under some special arrangements, they may agree to pay the tax. This ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "taxed",
+        "gifting tax",
+        "tax"
+      ],
+      "source": "Elgon Financial Advisors"
+    },
+    {
+      "position": 59,
+      "title": "Gifts and loans - Income tax",
+      "link": "https://www.litrg.org.uk/tax-nic/income-tax/working-out-what-taxable/gifts-and-loans",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.litrg.org.uk/tax-nic/income-tax/working-out-what-taxable/gifts-and-loans&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCL0CEAE",
+      "displayed_link": "https://www.litrg.org.uk › working-out-what-taxable › gi...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799134b368ad5fc8de1fded9e607cca4257d.png",
+      "snippet": "You do not pay tax on a cash gift, but you may have to pay tax on any income that the cash gift generates.",
+      "snippet_highlighted_words": [
+        "tax",
+        "gift",
+        "tax",
+        "gift"
+      ],
+      "source": "Low Incomes Tax Reform Group"
+    },
+    {
+      "position": 60,
+      "title": "How to Avoid Gift Tax: Top 7 Strategies",
+      "link": "https://www.legalzoom.com/articles/how-to-avoid-gift-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.legalzoom.com/articles/how-to-avoid-gift-tax&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCL8CEAE",
+      "displayed_link": "https://www.legalzoom.com › ... › Getting Legal Help",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991258baa9679f6e6ac46cf63708dc27bb4.png",
+      "date": "Oct 28, 2024",
+      "snippet": "That means couples can exchange any amount of gifts without needing to file or pay the tax. The IRS has doubled the annual limit for a couple up ...",
+      "snippet_highlighted_words": [
+        "amount",
+        "gifts",
+        "tax"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 21536
+          },
+          "extensions": [
+            "4.5(21,536)"
+          ]
+        }
+      },
+      "source": "LegalZoom"
+    },
+    {
+      "position": 61,
+      "title": "Gifting: 7 mistakes that could cost you",
+      "link": "https://www.comerica.com/insights/wealth-management/wealth-preservation/gifting-mistakes.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.comerica.com/insights/wealth-management/wealth-preservation/gifting-mistakes.html&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCMMCEAE",
+      "displayed_link": "https://www.comerica.com › wealth-preservation › gifti...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79910e98d1251ffe3e5e1aa471a591075aee.png",
+      "snippet": "Additionally, the tax code includes an unlimited marital exemption. Gifts made to your spouse are exempt from gift taxes. However, this exemption only applies ...",
+      "snippet_highlighted_words": [
+        "tax",
+        "Gifts",
+        "gift taxes"
+      ],
+      "source": "Comerica Bank"
+    },
+    {
+      "position": 62,
+      "title": "What is the IRS Gift Tax Limit for 2023?",
+      "link": "https://www.getearlybird.io/blog/gift-tax-limit-2021",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.getearlybird.io/blog/gift-tax-limit-2021&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCMICEAE",
+      "displayed_link": "https://www.getearlybird.io › blog › gift-tax-limit-2021",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79913b1113c1410cf28793708f76f1110c2d.png",
+      "date": "Mar 21, 2024",
+      "snippet": "Translation: if you give somebody a monetary gift, the so-called gift tax means you might end up owing a nominal fee to the IRS. But it's ...",
+      "snippet_highlighted_words": [
+        "monetary gift",
+        "gift tax"
+      ],
+      "source": "Get EarlyBird"
+    },
+    {
+      "position": 63,
+      "title": "Understanding the Taxability of Employee Non-Cash ...",
+      "link": "https://controller.ucsf.edu/how-to-guides/payroll/understanding-taxability-employee-non-cash-awards-gifts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://controller.ucsf.edu/how-to-guides/payroll/understanding-taxability-employee-non-cash-awards-gifts&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCLwCEAE",
+      "displayed_link": "https://controller.ucsf.edu › how-to-guides › payroll › u...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991f153614756da5ef3e16d1bfc038667a4.png",
+      "snippet": "Summary of Tax Treatment ; Retirement, Tangible Personal Property. $400. Under limit, not taxable ; Retirement · Nonnegotiable* Gift Card or Gift Certificate for ...",
+      "snippet_highlighted_words": [
+        "taxable",
+        "Gift",
+        "Gift"
+      ],
+      "source": "UCSF Controller's Office"
+    },
+    {
+      "position": 64,
+      "title": "Report A Cash Gift On Taxes | H&R ...",
+      "link": "https://www.hrblock.com/tax-center/income/other-income/report-a-cash-gift-on-taxes/?srsltid=AfmBOook_ywgIQurnUgNkPPT9CtCKeyJVsqcImgQbpF0jYBZ4tW21NCG",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hrblock.com/tax-center/income/other-income/report-a-cash-gift-on-taxes/%3Fsrsltid%3DAfmBOook_ywgIQurnUgNkPPT9CtCKeyJVsqcImgQbpF0jYBZ4tW21NCG&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECDAQAQ",
+      "displayed_link": "https://www.hrblock.com › income › other-income › rep...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991c85374d4c6bc8b996eaacd149c17ca2d.png",
+      "snippet": "Essentially, gifts are neither taxable nor deductible on your tax return. Also, a monetary gift has to be substantial for IRS purposes — In order for the giver ...",
+      "snippet_highlighted_words": [
+        "gifts",
+        "taxable",
+        "monetary gift"
+      ],
+      "source": "H&R Block"
+    },
+    {
+      "position": 65,
+      "title": "What is a Gift Tax (Rates, Limits, How It Works) - Carry",
+      "link": "https://carry.com/learn/gift-tax-explained",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://carry.com/learn/gift-tax-explained&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECDIQAQ",
+      "displayed_link": "https://carry.com › learn › gift-tax-explained",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991c22c58d931110a209026812cddc684ce.png",
+      "date": "Jun 20, 2025",
+      "snippet": "The gift tax rates range from 18% to 40% depending on the value of the taxable gifts. The gift tax rates are progressive, meaning that the rate ...",
+      "snippet_highlighted_words": [
+        "gift tax rates",
+        "taxable gifts",
+        "gift tax rates"
+      ],
+      "source": "carry.com"
+    },
+    {
+      "position": 66,
+      "title": "Gifts, Prizes & Awards - Financial Services",
+      "link": "https://financialservices.wustl.edu/wfin-topic/tax-topics/gifts-prizes-awards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://financialservices.wustl.edu/wfin-topic/tax-topics/gifts-prizes-awards/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECEoQAQ",
+      "displayed_link": "https://financialservices.wustl.edu › ... › Tax Topics",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799132c27fd6a36b343574bd105a4b32684e.png",
+      "snippet": "The exact amount will depend on the employee's personal payroll tax withholding elections. For this example, assume a 25% withholding rate and that $25 will be ...",
+      "snippet_highlighted_words": [
+        "amount",
+        "tax",
+        "rate"
+      ],
+      "source": "WashU"
+    },
+    {
+      "position": 67,
+      "title": "Explaining Gift Tax: Exemptions and Rates",
+      "link": "https://jgcg.com/explaining-gift-tax-exemptions-and-rates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jgcg.com/explaining-gift-tax-exemptions-and-rates/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECEYQAQ",
+      "displayed_link": "https://jgcg.com › Business & Estate Law Blog",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991ea6210713f679a8bce96f0c047744ed2.png",
+      "snippet": "As with income taxes, gift taxes use a progressive system, which breaks the taxable value of gifts into tranches. As of 2024, gift tax rates range from 18 to 40 ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "taxable",
+        "gifts",
+        "gift tax rates"
+      ],
+      "source": "Jones Gregg Creehan & Gerace"
+    },
+    {
+      "position": 68,
+      "title": "Gifting assets in estate planning",
+      "link": "https://extension.umn.edu/transfer-and-estate-planning/gifting-assets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://extension.umn.edu/transfer-and-estate-planning/gifting-assets&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECEcQAQ",
+      "displayed_link": "https://extension.umn.edu › transfer-and-estate-planning",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991116ec800b1fb2b01dfe0d2335cc15f74.png",
+      "snippet": "Virtually anything you own can be gifted to others. The IRS allows you to give away a certain amount of property without any gift tax or gift tax reporting.",
+      "snippet_highlighted_words": [
+        "amount",
+        "gift tax",
+        "gift tax"
+      ],
+      "source": "Minnesota Extension"
+    },
+    {
+      "position": 69,
+      "title": "Gift tax calculator",
+      "link": "https://www.vero.fi/en/individuals/property/gifts/gift-tax-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vero.fi/en/individuals/property/gifts/gift-tax-calculator/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECEwQAQ",
+      "displayed_link": "https://www.vero.fi › individuals › property › gifts › gi...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79919c82fe9a66f82c24932224bcddb9e5e6.png",
+      "snippet": "The amount of gift tax is affected by the fair market value of the gift and the tax bracket of the recipient. The bracket is determined by how the donor is ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "gift",
+        "tax bracket"
+      ],
+      "source": "Vero.fi"
+    },
+    {
+      "position": 70,
+      "title": "Gift tax in real estate: How it works",
+      "link": "https://www.rocketmortgage.com/learn/real-estate-gift-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rocketmortgage.com/learn/real-estate-gift-tax&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECE0QAQ",
+      "displayed_link": "https://www.rocketmortgage.com › learn › real-estate-gi...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79919419f087d6b0729d2fe9d660238999f4.png",
+      "date": "May 22, 2025",
+      "snippet": "For example, assume you give $40,150 in taxable gifts beyond the lifetime exemption. For the first $10,000 of those gifts, you're taxed 18%, ...",
+      "snippet_highlighted_words": [
+        "taxable gifts",
+        "gifts"
+      ],
+      "source": "Rocket Mortgage"
+    },
+    {
+      "position": 71,
+      "title": "GIFTING ASSETS PRIOR TO DEATH",
+      "link": "https://farmoffice.osu.edu/sites/aglaw/files/site-library/LawBulletins/PlanningForFutureSeries/6_Gifting.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://farmoffice.osu.edu/sites/aglaw/files/site-library/LawBulletins/PlanningForFutureSeries/6_Gifting.pdf&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECGEQAQ",
+      "displayed_link": "https://farmoffice.osu.edu › site-library › 6_Gifting",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799124d951f8e3580dea943b49ea662ff5cb.png",
+      "snippet": "The amount of a gift that exceeds the $16,000 annual exclusion can reduce the giver's lifetime estate tax exemption by that amount when they die. If not ...",
+      "snippet_highlighted_words": [
+        "amount",
+        "gift",
+        "tax",
+        "amount"
+      ],
+      "source": "The Ohio State University"
+    },
+    {
+      "position": 72,
+      "title": "A Tax on Giving – Understanding the Gift Tax Rules - McLean",
+      "link": "https://www.mcleanam.com/understanding-gift-tax-rules/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mcleanam.com/understanding-gift-tax-rules/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECGIQAQ",
+      "displayed_link": "https://www.mcleanam.com › Retirement Insights",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991df8891c1d3b4411c51a3dd4f6f11f21b.png",
+      "snippet": "As you can see, the gift tax is rarely applied. But when it is, it's painful. So it's important to take steps to avoid it. For someone in the top income tax ...",
+      "snippet_highlighted_words": [
+        "gift tax",
+        "tax"
+      ],
+      "source": "mcleanam.com"
+    },
+    {
+      "position": 73,
+      "title": "Gifts and exemptions from Inheritance Tax",
+      "link": "https://www.moneyhelper.org.uk/en/family-and-care/death-and-bereavement/gifts-and-exemptions-from-inheritance-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.moneyhelper.org.uk/en/family-and-care/death-and-bereavement/gifts-and-exemptions-from-inheritance-tax&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECGYQAQ",
+      "displayed_link": "https://www.moneyhelper.org.uk › family-and-care › gi...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799187424356d1a658daf74ed63b62d7340f.png",
+      "snippet": "If there's Inheritance Tax (IHT) to pay, it's charged at 40% on gifts given in the three years before you die. Gifts made three to seven years before your death ...",
+      "snippet_highlighted_words": [
+        "Tax",
+        "gifts",
+        "Gifts"
+      ],
+      "source": "MoneyHelper"
+    },
+    {
+      "position": 74,
+      "title": "When a Gift May Not Be a Gift",
+      "link": "https://wilsonlawgroup.com/when-a-gift-may-not-be-a-gift/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wilsonlawgroup.com/when-a-gift-may-not-be-a-gift/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECGQQAQ",
+      "displayed_link": "https://wilsonlawgroup.com › Estate Planning",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991d48286f9426df5d5c763a823446bb504.png",
+      "snippet": "Gifts that do not exceed the annual exclusion amount ($16,000 in 2022) to any one recipient in any given year. What Else Should I Know about the Gift Tax? When ...",
+      "snippet_highlighted_words": [
+        "Gifts",
+        "amount",
+        "Gift Tax"
+      ],
+      "source": "Wilson Law Group, LLC"
+    },
+    {
+      "position": 75,
+      "title": "What Is the Gift Tax?",
+      "link": "https://www.experian.com/blogs/ask-experian/what-is-the-gift-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.experian.com/blogs/ask-experian/what-is-the-gift-tax/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECGcQAQ",
+      "displayed_link": "https://www.experian.com › ... › Personal finance › Taxes",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991dded730db4cb3c33f7d36a2518d57c4d.png",
+      "date": "Jan 19, 2024",
+      "snippet": "Instead, any amount above the $18,000 exclusion limit simply reduces your lifetime exemption amount, which is a staggering $13.61 million in ...",
+      "snippet_highlighted_words": [
+        "amount",
+        "amount"
+      ],
+      "source": "Experian"
+    },
+    {
+      "position": 76,
+      "title": "What Should I Know About the Gift Tax in Ohio? - Krause Law",
+      "link": "https://www.thekrausefirm.com/blogs/how-does-the-gift-tax-work-in-ohio/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thekrausefirm.com/blogs/how-does-the-gift-tax-work-in-ohio/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECHoQAQ",
+      "displayed_link": "https://www.thekrausefirm.com › Blogs",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991abf3ddfc9915293a05cc3b22fc286f61.png",
+      "snippet": "Additionally, the lifetime exemption is now at$13.61 million. Essentially, this means in your lifetime, you can gift up to this amount without being taxed on ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "amount",
+        "taxed"
+      ],
+      "source": "thekrausefirm.com"
+    },
+    {
+      "position": 77,
+      "title": "Tis the Season of Gifting",
+      "link": "https://logankatz.com/article/season-of-giving-tax-accounting/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://logankatz.com/article/season-of-giving-tax-accounting/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECH4QAQ",
+      "displayed_link": "https://logankatz.com › season-of-giving-tax-accounting",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799189b1c1f78b86180db443d329485e9ca3.png",
+      "snippet": "20.05% on the first $200 donated; and · 40.16% on amounts over the first $200 donated; and · 44.16% to the extent that income is taxed at the highest tax bracket ...",
+      "snippet_highlighted_words": [
+        "tax bracket"
+      ],
+      "source": "Logan Katz LLP"
+    },
+    {
+      "position": 78,
+      "title": "What are the tax implications for giving large sums ...",
+      "link": "https://www.quora.com/What-are-the-tax-implications-for-giving-large-sums-of-money-as-gifts-Is-there-a-limit-to-how-much-money-can-be-given-without-tax-consequences-What-measures-are-in-place-to-prevent-people-from-giving-large-sums-of",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-are-the-tax-implications-for-giving-large-sums-of-money-as-gifts-Is-there-a-limit-to-how-much-money-can-be-given-without-tax-consequences-What-measures-are-in-place-to-prevent-people-from-giving-large-sums-of&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCIIBEAE",
+      "displayed_link": "3 answers · 1 year ago",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79919f8026a1ff7ead03e4e816d4230e4e4b.png",
+      "snippet": "The gift is not taxable however the income received/earned from that gift is taxable in the hands of the donor and not receiver. If Someone is ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "taxable",
+        "gift",
+        "taxable"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 79,
+      "title": "Gift Tax Limit 2025 | Calculation, Filing, and How to Avoid ...",
+      "link": "https://www.financestrategists.com/tax/tax-planning/gift-tax/gift-tax-limit/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.financestrategists.com/tax/tax-planning/gift-tax/gift-tax-limit/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCIABEAE",
+      "displayed_link": "https://www.financestrategists.com › ... › Gift Tax",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79914c27d94a59fef2074d68eb76095baf01.png",
+      "date": "Jan 28, 2025",
+      "snippet": "The rate ranges from 18% to 40%. How do I avoid the gift tax? Stay within the annual exclusion limit of ...",
+      "snippet_highlighted_words": [
+        "rate",
+        "gift tax"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.4,
+            "reviews": 11
+          },
+          "extensions": [
+            "4.4(11)"
+          ]
+        }
+      },
+      "source": "Finance Strategists"
+    },
+    {
+      "position": 80,
+      "title": "German Gift Tax",
+      "link": "https://www.german-probate-lawyer.com/publications/detail/german-gift-tax-4250.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.german-probate-lawyer.com/publications/detail/german-gift-tax-4250.html&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCJoBEAE",
+      "displayed_link": "https://www.german-probate-lawyer.com › detail › ger...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799109a0687855c2f5f2b651d500f6869e4d.png",
+      "date": "Jun 5, 2025",
+      "snippet": "... tax rate is to be applied to the total taxable acquisition. Example: A parent gives to his child a cash amount of € 600,000. The first ...",
+      "snippet_highlighted_words": [
+        "tax rate",
+        "taxable"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 90
+          },
+          "extensions": [
+            "4.9(90)"
+          ]
+        }
+      },
+      "source": "german-probate-lawyer.com"
+    },
+    {
+      "position": 81,
+      "title": "Your Guide to the Gift Tax",
+      "link": "https://www.policygenius.com/taxes/guide-to-gift-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.policygenius.com/taxes/guide-to-gift-tax/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCJYBEAE",
+      "displayed_link": "https://www.policygenius.com › taxes › guide-to-gift-tax",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991ef7a6e9079825ba9026e84b1565e7202.png",
+      "date": "Jan 2, 2024",
+      "snippet": "If you do have to pay tax, the gift tax rates range from 18% to 40% and there are marginal tax brackets, just like with the federal income tax.",
+      "snippet_highlighted_words": [
+        "gift tax rates"
+      ],
+      "source": "Policygenius"
+    },
+    {
+      "position": 82,
+      "title": "The Gift Tax: What you need to know",
+      "link": "https://www.pbmares.com/wp-content/uploads/2020/07/PBMares-Whitepaper-The-Gift-Tax-CT-1243.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pbmares.com/wp-content/uploads/2020/07/PBMares-Whitepaper-The-Gift-Tax-CT-1243.pdf&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCJwBEAE",
+      "displayed_link": "https://www.pbmares.com › uploads › 2020/07",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991ed62a7f7639a6f4fd1597770b444a243.png",
+      "snippet": "If you did not gift the $15 million and instead opted to give. $15 million in bequests through your will, that money would be part of your taxable estate for ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "taxable"
+      ],
+      "source": "PBMares"
+    },
+    {
+      "position": 83,
+      "title": "A Tax on Giving – Understanding the Rules of the Gift Tax",
+      "link": "https://retirementresearcher.com/a-tax-on-giving-understanding-the-rules-of-the-gift-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://retirementresearcher.com/a-tax-on-giving-understanding-the-rules-of-the-gift-tax/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCJkBEAE",
+      "displayed_link": "https://retirementresearcher.com › a-tax-on-giving-under...",
+      "snippet": "As you can see, the gift tax is rarely applied. But when it is, it's painful. So it's important to take steps to avoid it. For someone in the top income tax ...",
+      "snippet_highlighted_words": [
+        "gift tax",
+        "tax"
+      ],
+      "source": "Retirement Researcher"
+    },
+    {
+      "position": 84,
+      "title": "I Want to Give Each of My Children $50000. How Can ...",
+      "link": "https://smartasset.com/estate-planning/give-children-each-50k-avoid-taxes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://smartasset.com/estate-planning/give-children-each-50k-avoid-taxes&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCLMBEAE",
+      "displayed_link": "https://smartasset.com › ... › Estate Planning › Gift Tax",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799166d3f4f6fcede6cbee915132d66b8842.png",
+      "date": "Jan 25, 2024",
+      "snippet": "The federal gift tax applies to any payments you make without getting something of comparable value in return. Taxable gifts can consist of cash ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "Taxable gifts"
+      ],
+      "source": "SmartAsset"
+    },
+    {
+      "position": 85,
+      "title": "The Tax Implications of Employee Gifts: An Easy Guide for ...",
+      "link": "https://www.ongoody.com/blog/employee-gift-tax-guide-for-employers?srsltid=AfmBOoqu7EQRjbEajtTstll0XuEhgZ3t-7z034gd2ID0hcRpXe5ING4A",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ongoody.com/blog/employee-gift-tax-guide-for-employers%3Fsrsltid%3DAfmBOoqu7EQRjbEajtTstll0XuEhgZ3t-7z034gd2ID0hcRpXe5ING4A&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCLcBEAE",
+      "displayed_link": "https://www.ongoody.com › blog › employee-gift-tax-...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991eafb132455edd9b12992506e7a4456e1.png",
+      "snippet": "It's not cash. Cash gifts and bonuses are virtually always considered taxable income, no matter the amount. 2. It's not a gift card. Like cash, gift cards ...",
+      "snippet_highlighted_words": [
+        "gifts",
+        "taxable",
+        "gift",
+        "gift"
+      ],
+      "source": "ongoody.com"
+    },
+    {
+      "position": 86,
+      "title": "Understanding Federal Estate and Gift Taxes",
+      "link": "https://www.cbo.gov/publication/57272",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbo.gov/publication/57272&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCLkBEAE",
+      "displayed_link": "https://www.cbo.gov › publication",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79917f3661212ada19f4204cad711565da9b.png",
+      "date": "Jun 9, 2021",
+      "snippet": "Estate and gift taxes are a linked set of federal taxes that apply to transfers of wealth. In 2021, estates face a 40 percent tax rate on their ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "tax rate"
+      ],
+      "source": "Congressional Budget Office (.gov)"
+    },
+    {
+      "position": 87,
+      "title": "Tax Implications of Gifting Large Sums of Money",
+      "link": "https://rosentaxlaw.com/gifting-large-sums-of-money/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rosentaxlaw.com/gifting-large-sums-of-money/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCLQBEAE",
+      "displayed_link": "https://rosentaxlaw.com › gifting-large-sums-of-money",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991234ad97846f02a52adbaf50d9fcc61bd.png",
+      "date": "Dec 6, 2024",
+      "snippet": "While the recipient of a cash gift does not have to pay tax on the gift itself, there are scenarios where the gift could impact their tax ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "tax",
+        "gift",
+        "gift",
+        "tax"
+      ],
+      "source": "Rosen & Associates Tax Law"
+    },
+    {
+      "position": 88,
+      "title": "Gift Tax: Definition, Special Considerations and Examples",
+      "link": "https://fincent.com/glossary/gift-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fincent.com/glossary/gift-tax&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCLoBEAE",
+      "displayed_link": "https://fincent.com › glossary › gift-tax",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79913221457e4cabda29b4471d828232e764.png",
+      "snippet": "Key Takeaways · Those who give money or property to another person are subject to the gift tax, which is a federal tax. · Depending on the value of the present, ...",
+      "snippet_highlighted_words": [
+        "gift tax",
+        "tax"
+      ],
+      "source": "Fincent"
+    },
+    {
+      "position": 89,
+      "title": "Mysteries of the IRS Gift Tax: Who Foots the Bill and At ...",
+      "link": "https://www.cpanerds.com/blog/tax-tips/unwrapping-the-mysteries-of-gift-tax-who-foots-the-bill-and-at-what-rate/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cpanerds.com/blog/tax-tips/unwrapping-the-mysteries-of-gift-tax-who-foots-the-bill-and-at-what-rate/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCNABEAE",
+      "displayed_link": "https://www.cpanerds.com › blog › tax-tips › unwrappin...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991297117c772fdada97b6e430ea0f6a07a.png",
+      "date": "Oct 23, 2023",
+      "snippet": "Tax rates for gifts vary between 18% and 40%. Typically, the individual giving the gift bears the tax responsibility, not the recipient. When in ...",
+      "snippet_highlighted_words": [
+        "Tax rates",
+        "gifts",
+        "gift"
+      ],
+      "source": "CPA Nerds"
+    },
+    {
+      "position": 90,
+      "title": "When You Make Cash Gifts To Your Children, Who Pays ...",
+      "link": "https://www.greenbushfinancial.com/all-blogs/when-you-make-gifts-to-your-kids-who-pays-the-tax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.greenbushfinancial.com/all-blogs/when-you-make-gifts-to-your-kids-who-pays-the-tax&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCNYBEAE",
+      "displayed_link": "https://www.greenbushfinancial.com › all-blogs › when-...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79919e00505458b0a755bad2f818e8adb101.png",
+      "date": "Jan 8, 2025",
+      "snippet": "Filing A Gift Tax Return ... If you keep your gifts below $19,000 per year to any one person, it's not a taxable event, and there is nothing that ...",
+      "snippet_highlighted_words": [
+        "Gift",
+        "gifts",
+        "taxable"
+      ],
+      "source": "Greenbush Financial Group"
+    },
+    {
+      "position": 91,
+      "title": "How to use gifting to reduce your tax liability",
+      "link": "https://www.wipfli.com/insights/articles/tax-how-to-use-gifting-to-reduce-your-tax-liability",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wipfli.com/insights/articles/tax-how-to-use-gifting-to-reduce-your-tax-liability&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCNQBEAE",
+      "displayed_link": "https://www.wipfli.com › insights › articles › tax-how-t...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991cc5d97acbf3fee28a244904d53adaf05.png",
+      "date": "Nov 18, 2021",
+      "snippet": "It also increases the charitable deduction from an adjusted gross income cap of 60% to 100% for some contributions by taxpayers who itemize. It ...",
+      "source": "Wipfli"
+    },
+    {
+      "position": 92,
+      "title": "Understanding the Rules on Gifting Money to Family: Limits ...",
+      "link": "https://www.taxfyle.com/blog/gifting-money-to-family-limits-exemptions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxfyle.com/blog/gifting-money-to-family-limits-exemptions&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCNMBEAE",
+      "displayed_link": "https://www.taxfyle.com › blog › gifting-money-to-fam...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991c08da63a9fb0051088845fdfc3929e6b.png",
+      "date": "Apr 24, 2025",
+      "snippet": "The first $19,000 is covered by the annual gift tax exclusion. The remaining $11,000 is considered a taxable gift, but instead of paying tax now ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "taxable gift"
+      ],
+      "source": "Taxfyle"
+    },
+    {
+      "position": 93,
+      "title": "What is the Gift Tax?",
+      "link": "https://venturiprivatewealth.com/what-is-the-gift-tax/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://venturiprivatewealth.com/what-is-the-gift-tax/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCNEBEAE",
+      "displayed_link": "https://venturiprivatewealth.com › what-is-the-gift-tax",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991b57f7898a0c3785af4a4fc2e1a7cc9f8.png",
+      "date": "Nov 29, 2023",
+      "snippet": "The gift tax rate is 40% – the same as estate tax. The unified credit is what ties the two together. The amount of the unified credit is first ...",
+      "snippet_highlighted_words": [
+        "gift tax rate"
+      ],
+      "source": "Venturi Private Wealth"
+    },
+    {
+      "position": 94,
+      "title": "A tax professional's guide to taxable gifts",
+      "link": "https://www.becker.com/blog/cpe/a-tax-professionals-guide-to-taxable-gifts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.becker.com/blog/cpe/a-tax-professionals-guide-to-taxable-gifts&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCOoBEAE",
+      "displayed_link": "https://www.becker.com › blog › cpe › a-tax-profession...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79912b5918ce19b8cca0bccedfc244113657.png",
+      "date": "Sep 30, 2024",
+      "snippet": "Gift tax rate schedule. Like the individual income tax, the gift tax is a progressive tax where the rates rise as the tax base increases. The ...",
+      "snippet_highlighted_words": [
+        "Gift tax rate",
+        "gift"
+      ],
+      "source": "Becker CPA"
+    },
+    {
+      "position": 95,
+      "title": "What Is The Federal Gift Tax Rate? - CountyOffice.org",
+      "link": "https://www.youtube.com/watch?v=Ycvz0-EzVDc",
+      "displayed_link": "30+ views · 7 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAfT2wi_9PtmZB8CUwzGhoJ3BJMm1GL3Q4fJDWmV_NCGb&s",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991a5c21cfe7ee994e7b3d3b3e65f376622.png",
+      "snippet": "What Is The Federal Gift Tax Rate? When planning to give gifts ... Gift Tax Explained - Do You Pay Taxes On Gifted Money? Nguyen CPAs ...",
+      "duration": "3:16",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQBe47yDF44o0s7HzYvkyOOtf_-8-zTJOF4DA",
+      "source": "YouTube · County Office Law"
+    },
+    {
+      "position": 96,
+      "title": "Gift Tax Limit 2022 & 2023 - Study Finance",
+      "link": "https://studyfinance.com/gift-tax-limit/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyfinance.com/gift-tax-limit/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCO0BEAE",
+      "displayed_link": "https://studyfinance.com › Sustainable Investing",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799184f996c74b1a7f40ac74b839bac28ae2.png",
+      "date": "May 29, 2025",
+      "snippet": "The tax rate starts at 18% and goes up to 40%. 4. Who pays the gift tax? The donor is responsible for paying the gift tax and not the receiver.",
+      "snippet_highlighted_words": [
+        "tax rate",
+        "gift",
+        "gift"
+      ],
+      "source": "studyfinance.com"
+    },
+    {
+      "position": 97,
+      "title": "Tax on gifts and inheritances",
+      "link": "https://community.ato.gov.au/s/article/a079s0000009GnFAAU/tax-on-gifts-and-inheritances",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.ato.gov.au/s/article/a079s0000009GnFAAU/tax-on-gifts-and-inheritances&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCOsBEAE",
+      "displayed_link": "https://community.ato.gov.au › article › tax-on-gifts-an...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b7991715a62dfa85ac5b37e285b694e715bae.png",
+      "date": "Aug 15, 2024",
+      "snippet": "No, gift money does not form part of your assessable income and you don't have to declare it, regardless of the amount. We understand family or ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "amount"
+      ],
+      "source": "ATO"
+    },
+    {
+      "position": 98,
+      "title": "when gifts are assessable income - Tax Technical",
+      "link": "https://www.taxtechnical.ird.govt.nz/interpretation-statements/2023/is-23-11",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxtechnical.ird.govt.nz/interpretation-statements/2023/is-23-11&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoFCO8BEAE",
+      "displayed_link": "https://www.taxtechnical.ird.govt.nz › interpretation-stat...",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b79919239959cc60f8b71e137ffe8abc2f1f0.png",
+      "date": "Dec 6, 2023",
+      "snippet": "A gift is not usually subject to income tax. This interpretation statement considers the circumstances in which a gift is subject to income tax in the ...",
+      "snippet_highlighted_words": [
+        "gift",
+        "tax",
+        "gift",
+        "tax"
+      ],
+      "source": "IRD"
+    },
+    {
+      "position": 99,
+      "title": "How Does the Gift Tax Work in Florida?",
+      "link": "https://jowanna.com/blog/how-does-the-gift-tax-work-in-florida/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jowanna.com/blog/how-does-the-gift-tax-work-in-florida/&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQFnoECCwQAQ",
+      "displayed_link": "https://jowanna.com › Blog",
+      "favicon": "https://serpapi.com/searches/6882e022e3e176d5b3c33d24/images/ccd270a2764ac33a0edaed4cac3b799106a6014e433e0aaf40be301334bd01bd.png",
+      "snippet": "Generally, any time you give a substantial monetary gift or an asset of high value, you must report it on your taxes. This is so the Internal Revenue Service ( ...",
+      "snippet_highlighted_words": [
+        "monetary gift",
+        "taxes"
+      ],
+      "source": "The Law Offices of Matthew J. Jowanna, P.A."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Gift tax calculator",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=Gift+tax+calculator&sa=X&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ1QJ6BQjEAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Gift+tax+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Rules on gifting money to family",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=Rules+on+gifting+money+to+family&sa=X&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ1QJ6BQjbAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Rules+on+gifting+money+to+family"
+    },
+    {
+      "block_position": 1,
+      "query": "How to avoid gift tax",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=How+to+avoid+gift+tax&sa=X&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ1QJ6BQjVAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+avoid+gift+tax"
+    },
+    {
+      "block_position": 1,
+      "query": "how much money can a person receive as a gift without being taxed?",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=how+much+money+can+a+person+receive+as+a+gift+without+being+taxed%3F&sa=X&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ1QJ6BQjcAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=how+much+money+can+a+person+receive+as+a+gift+without+being+taxed%3F"
+    },
+    {
+      "block_position": 1,
+      "query": "Do I pay tax on gift money from parents",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=Do+I+pay+tax+on+gift+money+from+parents&sa=X&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ1QJ6BQjZAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Do+I+pay+tax+on+gift+money+from+parents"
+    },
+    {
+      "block_position": 1,
+      "query": "Is a cash gift considered income",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=Is+a+cash+gift+considered+income&sa=X&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ1QJ6BQjaAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Is+a+cash+gift+considered+income"
+    },
+    {
+      "block_position": 1,
+      "query": "Lifetime gift tax exemption",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=Lifetime+gift+tax+exemption&sa=X&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ1QJ6BQjdAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Lifetime+gift+tax+exemption"
+    },
+    {
+      "block_position": 1,
+      "query": "Gift tax rate table",
+      "link": "https://www.google.com/search?num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&q=Gift+tax+rate+table&sa=X&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ1QJ6BQjJAhAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Gift+tax+rate+table"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Solved: Gift Tax Rate Confusion",
+      "link": "https://ttlc.intuit.com/community/taxes/discussion/gift-tax-rate-confusion/00/3646561",
+      "date": "3 months ago",
+      "source": "TurboTax",
+      "answers": [
+        {
+          "snippet": "If your gift exceeds the yearly limit ($18,000 per individual) imposed by the gift tax rules, then you will need to complete a Form 709 gift tax ...",
+          "link": "https://ttlc.intuit.com/community/taxes/discussion/gift-tax-rate-confusion/00/3646561"
+        }
+      ]
+    },
+    {
+      "title": "How does gift tax work?",
+      "link": "https://www.reddit.com/r/tax/comments/1kjht9p/how_does_gift_tax_work/",
+      "date": "2 months ago",
+      "extensions": [
+        "r/tax",
+        "10+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "snippet": "Gift tax, if any, is paid by the giver, not the receiver. You don't have to do anything other ...",
+          "link": "https://www.reddit.com/r/tax/comments/1kjht9p/how_does_gift_tax_work/mrmumnb/",
+          "extensions": [
+            "12 votes",
+            "2 months ago"
+          ]
+        },
+        {
+          "snippet": "Each person can send you 19k per year. If your parents and in laws are both married that means ...",
+          "link": "https://www.reddit.com/r/tax/comments/1kjht9p/how_does_gift_tax_work/mrmuwbh/",
+          "extensions": [
+            "12 votes",
+            "2 months ago"
+          ]
+        },
+        {
+          "snippet": "I know the donation limit is 19k. It's a reporting exclusion, not a limit. Gifts up ...",
+          "link": "https://www.reddit.com/r/tax/comments/1kjht9p/how_does_gift_tax_work/mrmv05h/",
+          "extensions": [
+            "6 votes",
+            "2 months ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cash Gift made to Son and his family",
+      "link": "https://ttlc.intuit.com/community/taxes/discussion/cash-gift-made-to-son-and-his-family/00/3562819",
+      "date": "4 months ago",
+      "source": "TurboTax Support",
+      "answers": [
+        {
+          "snippet": "Gifts received are not taxable to the person who received the gift, and are not entered on a tax return. If your gift exceeds the yearly limit ...",
+          "link": "https://ttlc.intuit.com/community/taxes/discussion/cash-gift-made-to-son-and-his-family/00/3562819"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+the+tax+rate+on+a+monetary+gift&num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&ei=KeCCaNHKBKaRwbkP0OfiuAM&start=100&sa=N&sstk=Ac65TH4vXBYZ4_A_wOxkqQkmcoQwBC-bFsJgz9uvuO5OjuvnksdbvozE49rsN2q6Mby4MNwLcTKhcn0UHuEvAWvu3kpEBo3-wLkgHQ&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ8NMDegQIDBAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+the+tax+rate+on+a+monetary+gift&num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&ei=KeCCaNHKBKaRwbkP0OfiuAM&start=100&sa=N&sstk=Ac65TH4vXBYZ4_A_wOxkqQkmcoQwBC-bFsJgz9uvuO5OjuvnksdbvozE49rsN2q6Mby4MNwLcTKhcn0UHuEvAWvu3kpEBo3-wLkgHQ&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=what+is+the+tax+rate+on+a+monetary+gift&num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&ei=KeCCaNHKBKaRwbkP0OfiuAM&start=200&sa=N&sstk=Ac65TH4vXBYZ4_A_wOxkqQkmcoQwBC-bFsJgz9uvuO5OjuvnksdbvozE49rsN2q6Mby4MNwLcTKhcn0UHuEvAWvu3kpEBo3-wLkgHQ&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=what+is+the+tax+rate+on+a+monetary+gift&num=100&sca_esv=e4a301214ebaa168&gl=us&hl=en&ei=KeCCaNHKBKaRwbkP0OfiuAM&start=300&sa=N&sstk=Ac65TH4vXBYZ4_A_wOxkqQkmcoQwBC-bFsJgz9uvuO5OjuvnksdbvozE49rsN2q6Mby4MNwLcTKhcn0UHuEvAWvu3kpEBo3-wLkgHQ&ved=2ahUKEwiRg6uH8NaOAxWmSDABHdCzGDcQ8tMDegQIDBAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+is+the+tax+rate+on+a+monetary+gift&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+is+the+tax+rate+on+a+monetary+gift&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+is+the+tax+rate+on+a+monetary+gift&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+is+the+tax+rate+on+a+monetary+gift&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=what+is+the+tax+rate+on+a+monetary+gift&start=300"
+    }
+  }
+}

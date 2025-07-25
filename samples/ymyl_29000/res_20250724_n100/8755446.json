@@ -1,0 +1,1203 @@
+{
+  "search_metadata": {
+    "id": "6882e3b2b9dbc45c4f9ed4ca",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d44b18f8a1000802/6882e3b2b9dbc45c4f9ed4ca.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/d44b18f8a1000802/6882e3b2b9dbc45c4f9ed4ca.json_with_pixel_position",
+    "created_at": "2025-07-25 01:53:54 UTC",
+    "processed_at": "2025-07-25 01:53:54 UTC",
+    "google_url": "https://www.google.com/search?q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&oq=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&hl=en&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d44b18f8a1000802/6882e3b2b9dbc45c4f9ed4ca.html",
+    "total_time_taken": 11.15
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "which of the following is a correct syntax to pass a function pointer as an argument",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "which of the following is a correct syntax to pass a function pointer as an argument",
+    "total_results": 55,
+    "time_taken_displayed": 0.35,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "questions_and_answers": [
+    {
+      "link": "https://stackoverflow.com/questions/9410/how-do-you-pass-a-function-as-a-parameter-in-c",
+      "source": "Stack Overflow",
+      "question": "I want to create a function that performs a function passed by parameter on a set of data. How do you pass a function as a parameter in C?",
+      "answer": "Declaration A prototype for a function which takes a function parameter looks like the following: void func ( void (*f)(int) ); This states that the parameter f will be a pointer to a function which has a void return type and which takes a single int parameter. The following function (print) is an example of a function which could be passed to func as a parameter because it is the proper type: void print ( int x ) { printf(\"%d \", x); } Function Call When calling a function with a function parameter, the value passed must be a pointer to a function. Use the function's name (without parentheses) for this: func(print); would call func, passing the print function to it. Function Body As with any parameter, func can now use the parameter's name in the function body to access the value of the parameter. Let's say that func will apply the function it is passed to the numbers 0-4. Consider, first, what the loop would look like to call print directly: for ( int ctr = 0 ; ctr < 5 ; ct…",
+      "votes": 984
+    },
+    {
+      "link": "https://stackoverflow.com/questions/28746744/passing-capturing-lambda-as-function-pointer",
+      "source": "Stack Overflow",
+      "question": "Is it possible to pass a lambda function as a function pointer? If so, I must be doing something incorrectly because I am getting a compile error. Consider the following example using DecisionFn = bool(*)(); class Decide { public: Decide(DecisionFn dec) : _dec{dec} {} private: DecisionFn _dec; }; int main() { int x = 5; Decide greaterThanThree{ [x](){ return x > 3; } }; return 0; } When I try to compile this, I get the following compilation error: In function 'int main()': 17:31: error: the value of 'x' is not usable in a constant expression 16:9: note: 'int x' is not const 17:53: error: no matching function for call to 'Decide::Decide(<brace-enclosed initializer list>)' 17:53: note: candidates are: 9:5: note: Decide::Decide(DecisionFn) 9:5: note: no known conversion for argument 1 from 'main()::<lambda()>' to 'DecisionFn {aka bool (*)()}' 6:7: note: constexpr Decide::Decide(const Decide&) 6:7: note: no known conversion for argument 1 from 'main()::<lambda()>' to 'const Decide&' 6:7: note: constexpr Decide::Decide(Decide&&) 6:7: note: no known conversion for argument 1 from 'main()::<lambda()>' to 'Decide&&' That's one heck of an error message to digest, but I think what I'm getting out of it is that the lambda cannot be treated as a constexpr so therefore I cannot pass it as a function pointer? I've tried making x constexpr as well, but that doesn't seem to help.",
+      "answer": "A lambda can only be converted to a function pointer if it does not capture, from the draft C++11 standard section 5.1.2 [expr.prim.lambda] says (emphasis mine): The closure type for a lambda-expression with no lambda-capture has a public non-virtual non-explicit const conversion function to pointer to function having the same parameter and return types as the closure type’s function call operator. The value returned by this conversion function shall be the address of a function that, when invoked, has the same effect as invoking the closure type’s function call operator. Note, cppreference also covers this in their section on Lambda functions. So the following alternatives would work: typedef bool(*DecisionFn)(int); Decide greaterThanThree{ []( int x ){ return x > 3; } }; and so would this: typedef bool(*DecisionFn)(); Decide greaterThanThree{ [](){ return true ; } }; and as 5gon12eder points out, you can also use std::function, but note that std::function is heavy weight, so…",
+      "votes": 333
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How to pass a function pointer as an argument?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "title": "Passing A Function Pointer In C As Function Argument",
+      "link": "https://unstop.com/blog/function-pointers-in-c",
+      "list": [
+        "Define the Function: First, create the function you want to pass as an argument.",
+        "Declare the Function with a Function Pointer Parameter: Next, define a function that takes a function pointer as a parameter."
+      ],
+      "displayed_link": "https://unstop.com › blog",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaR2VtcGlSM1ZYWkRaUE0wSmpSSEZzWW1WMFdVazJiV3BGZGs1VGRIaHNPRUZ4YkZKbldteEhhMDlIVVRaa2RVeElkVkJPVWt0cGRFZHRjM1U1WnpSWFVWcFVRVEJhVFVnM2J6aExiMmQzUkZsa1pFZDRNMFZ1UzBGT1p4SVdkazlQUTJGUGRUZERVSEZQZDJKclVERkpSSEJMUVJvaVFVWk5RVWRIY1hVekxVWlZiMkpaYkcxblJVbzRVWGhMV2pOVE1XOTFXblpPZHciLCJmY3YiOiIzIiwiZWkiOiJ2T09DYU91N0NQcU93YmtQMUlEcEtBIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5pVE1BVUxXRkUtbG9JZEpZNENCUTByc3dEUTNzM2JTT3dTTk1DU1I5Q2NkYkJFY0FQQmFhM2VHZG9wUmdkTVVhajlFYm80WXhVVVpURmZRWjhLcU1hLWU3Rmx1c3I5ckM4IiwicXVlc3Rpb24iOiJIb3cgdG8gcGFzcyBhIGZ1bmN0aW9uIHBvaW50ZXIgYXMgYW4gYXJndW1lbnQ/IiwibGsiOiJHaTFvYjNjZ2RHOGdjR0Z6Y3lCaElHWjFibU4wYVc5dUlIQnZhVzUwWlhJZ1lYTWdZVzRnWVhKbmRXMWxiblEiLCJicyI6ImM2V1FNVzdDUUJCRjVYYXJkQmczVEllRUJKRjhBSXlnZ0lyUVVZLU03VjBKNzFpN3N6SS1BaVUzU01WbGFEZ1Mza1RFa1VnUlJEdWFfLWJORnpzeFdWRU5URkNodFlDUU81MnlJZzBWS2MyWkFXeW5HdEFVcnN3MEotRjFFTDlIWV9sTVNDekZjQ3VSUVZsZ21ZRnROT01CS0g4SUp1RmxGUGVqM2dQd095S09nWmh2cFVxbEQzdFVUdnM5MVVvWG5vMVFZOU5wZFFKLTFsa200V2NRejZKcF9WX1FueFJ4RHNTSDcyNUgwSkM3VjNFWGJuY3RHNWV5TTlsWEhkMnZQenlsWVFHVm9jSmdXYmFua19EVWl6ZlJXcjVLVFg5VDM0SWIiLCJpZCI6ImZjX3ZPT0NhT3U3Q1BxT3dia1AxSURwS0FfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaR2VtcGlSM1ZYWkRaUE0wSmpSSEZzWW1WMFdVazJiV3BGZGs1VGRIaHNPRUZ4YkZKbldteEhhMDlIVVRaa2RVeElkVkJPVWt0cGRFZHRjM1U1WnpSWFVWcFVRVEJhVFVnM2J6aExiMmQzUkZsa1pFZDRNMFZ1UzBGT1p4SVdkazlQUTJGUGRUZERVSEZQZDJKclVERkpSSEJMUVJvaVFVWk5RVWRIY1hVekxVWlZiMkpaYkcxblJVbzRVWGhMV2pOVE1XOTFXblpPZHciLCJmY3YiOiIzIiwiZWkiOiJ2T09DYU91N0NQcU93YmtQMUlEcEtBIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5pVE1BVUxXRkUtbG9JZEpZNENCUTByc3dEUTNzM2JTT3dTTk1DU1I5Q2NkYkJFY0FQQmFhM2VHZG9wUmdkTVVhajlFYm80WXhVVVpURmZRWjhLcU1hLWU3Rmx1c3I5ckM4IiwicXVlc3Rpb24iOiJIb3cgdG8gcGFzcyBhIGZ1bmN0aW9uIHBvaW50ZXIgYXMgYW4gYXJndW1lbnQ%2FIiwibGsiOiJHaTFvYjNjZ2RHOGdjR0Z6Y3lCaElHWjFibU4wYVc5dUlIQnZhVzUwWlhJZ1lYTWdZVzRnWVhKbmRXMWxiblEiLCJicyI6ImM2V1FNVzdDUUJCRjVYYXJkQmczVEllRUJKRjhBSXlnZ0lyUVVZLU03VjBKNzFpN3N6SS1BaVUzU01WbGFEZ1Mza1RFa1VnUlJEdWFfLWJORnpzeFdWRU5URkNodFlDUU81MnlJZzBWS2MyWkFXeW5HdEFVcnN3MEotRjFFTDlIWV9sTVNDekZjQ3VSUVZsZ21ZRnROT01CS0g4SUp1RmxGUGVqM2dQd095S09nWmh2cFVxbEQzdFVUdnM5MVVvWG5vMVFZOU5wZFFKLTFsa200V2NRejZKcF9WX1FueFJ4RHNTSDcyNUgwSkM3VjNFWGJuY3RHNWV5TTlsWEhkMnZQenlsWVFHVm9jSmdXYmFua19EVWl6ZlJXcjVLVFg5VDM0SWIiLCJpZCI6ImZjX3ZPT0NhT3U3Q1BxT3dia1AxSURwS0FfMSJ9"
+    },
+    {
+      "question": "What is the syntax of function pointer?",
+      "type": "featured_snippet",
+      "snippet": "Syntax of Function Pointer in C This is the basic syntax to declare a function pointer in C programming: return_type (*pointer_name)(parameter_list); return_type: return type of the function the pointer will point to. pointer_name: name of the function pointer.",
+      "title": "Function Pointers in C Language (With Examples) - WsCube Tech",
+      "date": "May 28, 2025",
+      "link": "https://www.wscubetech.com/resources/c-programming/function-pointers#:~:text=channel%20(function).-,Syntax%20of%20Function%20Pointer%20in%20C,name%20of%20the%20function%20pointer",
+      "displayed_link": "https://www.wscubetech.com › resources › c-programming",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaR2VtcGlSM1ZYWkRaUE0wSmpSSEZzWW1WMFdVazJiV3BGZGs1VGRIaHNPRUZ4YkZKbldteEhhMDlIVVRaa2RVeElkVkJPVWt0cGRFZHRjM1U1WnpSWFVWcFVRVEJhVFVnM2J6aExiMmQzUkZsa1pFZDRNMFZ1UzBGT1p4SVdkazlQUTJGUGRUZERVSEZQZDJKclVERkpSSEJMUVJvaVFVWk5RVWRIY1hVekxVWlZiMkpaYkcxblJVbzRVWGhMV2pOVE1XOTFXblpPZHciLCJmY3YiOiIzIiwiZWkiOiJ2T09DYU91N0NQcU93YmtQMUlEcEtBIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5pVE1BVUxXRkUtbG9JZEpZNENCUTByc3dEUTNzM2JTT3dTTk1DU1I5Q2NkYkJFY0FQQmFhM2VHZG9wUmdkTVVhajlFYm80WXhVVVpURmZRWjhLcU1hLWU3Rmx1c3I5ckM4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzeW50YXggb2YgZnVuY3Rpb24gcG9pbnRlcj8iLCJsayI6IkdoZG1kVzVqZEdsdmJpQndiMmx1ZEdWeUlITjViblJoZUEiLCJicyI6ImM2V1FNVzdDUUJCRjVYYXJkQmczVEllRUJKRjhBSXlnZ0lyUVVZLU03VjBKNzFpN3N6SS1BaVUzU01WbGFEZ1Mza1RFa1VnUlJEdWFfLWJORnpzeFdWRU5URkNodFlDUU81MnlJZzBWS2MyWkFXeW5HdEFVcnN3MEotRjFFTDlIWV9sTVNDekZjQ3VSUVZsZ21ZRnROT01CS0g4SUp1RmxGUGVqM2dQd095S09nWmh2cFVxbEQzdFVUdnM5MVVvWG5vMVFZOU5wZFFKLTFsa200V2NRejZKcF9WX1FueFJ4RHNTSDcyNUgwSkM3VjNFWGJuY3RHNWV5TTlsWEhkMnZQenlsWVFHVm9jSmdXYmFua19EVWl6ZlJXcjVLVFg5VDM0SWIiLCJpZCI6ImZjX3ZPT0NhT3U3Q1BxT3dia1AxSURwS0FfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaR2VtcGlSM1ZYWkRaUE0wSmpSSEZzWW1WMFdVazJiV3BGZGs1VGRIaHNPRUZ4YkZKbldteEhhMDlIVVRaa2RVeElkVkJPVWt0cGRFZHRjM1U1WnpSWFVWcFVRVEJhVFVnM2J6aExiMmQzUkZsa1pFZDRNMFZ1UzBGT1p4SVdkazlQUTJGUGRUZERVSEZQZDJKclVERkpSSEJMUVJvaVFVWk5RVWRIY1hVekxVWlZiMkpaYkcxblJVbzRVWGhMV2pOVE1XOTFXblpPZHciLCJmY3YiOiIzIiwiZWkiOiJ2T09DYU91N0NQcU93YmtQMUlEcEtBIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5pVE1BVUxXRkUtbG9JZEpZNENCUTByc3dEUTNzM2JTT3dTTk1DU1I5Q2NkYkJFY0FQQmFhM2VHZG9wUmdkTVVhajlFYm80WXhVVVpURmZRWjhLcU1hLWU3Rmx1c3I5ckM4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzeW50YXggb2YgZnVuY3Rpb24gcG9pbnRlcj8iLCJsayI6IkdoZG1kVzVqZEdsdmJpQndiMmx1ZEdWeUlITjViblJoZUEiLCJicyI6ImM2V1FNVzdDUUJCRjVYYXJkQmczVEllRUJKRjhBSXlnZ0lyUVVZLU03VjBKNzFpN3N6SS1BaVUzU01WbGFEZ1Mza1RFa1VnUlJEdWFfLWJORnpzeFdWRU5URkNodFlDUU81MnlJZzBWS2MyWkFXeW5HdEFVcnN3MEotRjFFTDlIWV9sTVNDekZjQ3VSUVZsZ21ZRnROT01CS0g4SUp1RmxGUGVqM2dQd095S09nWmh2cFVxbEQzdFVUdnM5MVVvWG5vMVFZOU5wZFFKLTFsa200V2NRejZKcF9WX1FueFJ4RHNTSDcyNUgwSkM3VjNFWGJuY3RHNWV5TTlsWEhkMnZQenlsWVFHVm9jSmdXYmFua19EVWl6ZlJXcjVLVFg5VDM0SWIiLCJpZCI6ImZjX3ZPT0NhT3U3Q1BxT3dia1AxSURwS0FfMSJ9"
+    },
+    {
+      "question": "Which of the following is a way to pass an argument to a function?",
+      "type": "featured_snippet",
+      "snippet": null,
+      "title": "Passing Arguments to Functions in C",
+      "date": "Feb 27, 2024",
+      "link": "https://www.linkedin.com/pulse/passing-arguments-functions-c-yamil-garcia-5k3hc",
+      "list": [
+        "Passing by Value. Passing an argument by value means passing a copy of the argument's value to the function. ... ",
+        "Passing by Reference. ... ",
+        "Passing by Pointers. ... ",
+        "Passing Structures. ... ",
+        "Passing Arrays of Structures. ... ",
+        "Function Pointers."
+      ],
+      "displayed_link": "https://www.linkedin.com › pulse › passing-arguments-f...",
+      "source_logo": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/f9980797944de6133853d00e962aba77e6b450d2670fea63fe69a717e8e629bc.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaR2VtcGlSM1ZYWkRaUE0wSmpSSEZzWW1WMFdVazJiV3BGZGs1VGRIaHNPRUZ4YkZKbldteEhhMDlIVVRaa2RVeElkVkJPVWt0cGRFZHRjM1U1WnpSWFVWcFVRVEJhVFVnM2J6aExiMmQzUkZsa1pFZDRNMFZ1UzBGT1p4SVdkazlQUTJGUGRUZERVSEZQZDJKclVERkpSSEJMUVJvaVFVWk5RVWRIY1hVekxVWlZiMkpaYkcxblJVbzRVWGhMV2pOVE1XOTFXblpPZHciLCJmY3YiOiIzIiwiZWkiOiJ2T09DYU91N0NQcU93YmtQMUlEcEtBIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5pVE1BVUxXRkUtbG9JZEpZNENCUTByc3dEUTNzM2JTT3dTTk1DU1I5Q2NkYkJFY0FQQmFhM2VHZG9wUmdkTVVhajlFYm80WXhVVVpURmZRWjhLcU1hLWU3Rmx1c3I5ckM4IiwicXVlc3Rpb24iOiJXaGljaCBvZiB0aGUgZm9sbG93aW5nIGlzIGEgd2F5IHRvIHBhc3MgYW4gYXJndW1lbnQgdG8gYSBmdW5jdGlvbj8iLCJsayI6ImN4WEkwUTNBSUFnRndEMzY5U2JwTHNTSWtGaG9GRVBjM3ZiejdycFR0QWljRVZMQjNydW5Xb05PRUpJMnd2SFNfRFRhZXFyRkh3UmVWa0xkRGciLCJicyI6ImM2V1FNVzdDUUJCRjVYYXJkQmczVEllRUJKRjhBSXlnZ0lyUVVZLU03VjBKNzFpN3N6SS1BaVUzU01WbGFEZ1Mza1RFa1VnUlJEdWFfLWJORnpzeFdWRU5URkNodFlDUU81MnlJZzBWS2MyWkFXeW5HdEFVcnN3MEotRjFFTDlIWV9sTVNDekZjQ3VSUVZsZ21ZRnROT01CS0g4SUp1RmxGUGVqM2dQd095S09nWmh2cFVxbEQzdFVUdnM5MVVvWG5vMVFZOU5wZFFKLTFsa200V2NRejZKcF9WX1FueFJ4RHNTSDcyNUgwSkM3VjNFWGJuY3RHNWV5TTlsWEhkMnZQenlsWVFHVm9jSmdXYmFua19EVWl6ZlJXcjVLVFg5VDM0SWIiLCJpZCI6ImZjX3ZPT0NhT3U3Q1BxT3dia1AxSURwS0FfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaR2VtcGlSM1ZYWkRaUE0wSmpSSEZzWW1WMFdVazJiV3BGZGs1VGRIaHNPRUZ4YkZKbldteEhhMDlIVVRaa2RVeElkVkJPVWt0cGRFZHRjM1U1WnpSWFVWcFVRVEJhVFVnM2J6aExiMmQzUkZsa1pFZDRNMFZ1UzBGT1p4SVdkazlQUTJGUGRUZERVSEZQZDJKclVERkpSSEJMUVJvaVFVWk5RVWRIY1hVekxVWlZiMkpaYkcxblJVbzRVWGhMV2pOVE1XOTFXblpPZHciLCJmY3YiOiIzIiwiZWkiOiJ2T09DYU91N0NQcU93YmtQMUlEcEtBIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5pVE1BVUxXRkUtbG9JZEpZNENCUTByc3dEUTNzM2JTT3dTTk1DU1I5Q2NkYkJFY0FQQmFhM2VHZG9wUmdkTVVhajlFYm80WXhVVVpURmZRWjhLcU1hLWU3Rmx1c3I5ckM4IiwicXVlc3Rpb24iOiJXaGljaCBvZiB0aGUgZm9sbG93aW5nIGlzIGEgd2F5IHRvIHBhc3MgYW4gYXJndW1lbnQgdG8gYSBmdW5jdGlvbj8iLCJsayI6ImN4WEkwUTNBSUFnRndEMzY5U2JwTHNTSWtGaG9GRVBjM3ZiejdycFR0QWljRVZMQjNydW5Xb05PRUpJMnd2SFNfRFRhZXFyRkh3UmVWa0xkRGciLCJicyI6ImM2V1FNVzdDUUJCRjVYYXJkQmczVEllRUJKRjhBSXlnZ0lyUVVZLU03VjBKNzFpN3N6SS1BaVUzU01WbGFEZ1Mza1RFa1VnUlJEdWFfLWJORnpzeFdWRU5URkNodFlDUU81MnlJZzBWS2MyWkFXeW5HdEFVcnN3MEotRjFFTDlIWV9sTVNDekZjQ3VSUVZsZ21ZRnROT01CS0g4SUp1RmxGUGVqM2dQd095S09nWmh2cFVxbEQzdFVUdnM5MVVvWG5vMVFZOU5wZFFKLTFsa200V2NRejZKcF9WX1FueFJ4RHNTSDcyNUgwSkM3VjNFWGJuY3RHNWV5TTlsWEhkMnZQenlsWVFHVm9jSmdXYmFua19EVWl6ZlJXcjVLVFg5VDM0SWIiLCJpZCI6ImZjX3ZPT0NhT3U3Q1BxT3dia1AxSURwS0FfMSJ9"
+    },
+    {
+      "question": "How do you pass a pointer to structure as a function argument in C programming?",
+      "type": "featured_snippet",
+      "snippet": "Function declaration to accept structure pointer Following is the syntax of the function declaration that accepts structure pointer. returnType functionName(struct tagName *); returnType is the return type of the function functionName . If the function is not returning anything then set it to void .",
+      "title": "Passing structure pointer to function - C Programming - dyclassroom",
+      "link": "https://dyclassroom.com/c/c-passing-structure-pointer-to-function#:~:text=Function%20declaration%20to%20accept%20structure,then%20set%20it%20to%20void%20.",
+      "displayed_link": "https://dyclassroom.com › c-passing-structure-pointer-to-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzfAzBPdTT1xZwSQJjL5mmLoxg5MPQD3RyLPDK5p7&s",
+      "source_logo": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/f9980797944de6133853d00e962aba77358c3558286818229fe3d66849d3c653.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaR2VtcGlSM1ZYWkRaUE0wSmpSSEZzWW1WMFdVazJiV3BGZGs1VGRIaHNPRUZ4YkZKbldteEhhMDlIVVRaa2RVeElkVkJPVWt0cGRFZHRjM1U1WnpSWFVWcFVRVEJhVFVnM2J6aExiMmQzUkZsa1pFZDRNMFZ1UzBGT1p4SVdkazlQUTJGUGRUZERVSEZQZDJKclVERkpSSEJMUVJvaVFVWk5RVWRIY1hVekxVWlZiMkpaYkcxblJVbzRVWGhMV2pOVE1XOTFXblpPZHciLCJmY3YiOiIzIiwiZWkiOiJ2T09DYU91N0NQcU93YmtQMUlEcEtBIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5pVE1BVUxXRkUtbG9JZEpZNENCUTByc3dEUTNzM2JTT3dTTk1DU1I5Q2NkYkJFY0FQQmFhM2VHZG9wUmdkTVVhajlFYm80WXhVVVpURmZRWjhLcU1hLWU3Rmx1c3I5ckM4IiwicXVlc3Rpb24iOiJIb3cgZG8geW91IHBhc3MgYSBwb2ludGVyIHRvIHN0cnVjdHVyZSBhcyBhIGZ1bmN0aW9uIGFyZ3VtZW50IGluIEMgcHJvZ3JhbW1pbmc/IiwibGsiOiJjeFhKeVEyQU1Bd0V3RDU0YlVYMFlJVWstQkZ2NUVPSTdoSHpuZU84LWVBaVhoYTJSRUN3cVpiZGtVU2tWOHZ5RHZsbmxMVlVHc1Juclc0Sk5UUnM1M1JaUzIxLSIsImJzIjoiYzZXUU1XN0NRQkJGNVhhcmRCZzNUSWVFQkpGOEFJeWdnSXJRVVktTTdWMEo3MWk3c3pJLUFpVTNTTVZsYURnUzNrVEVrVWdSUkR1YV8tYk5GenN4V1ZFTlRGQ2h0WUNRTzUyeUlnMFZLYzJaQVd5bkd0QVVyc3cwSi1GMUVMOUhZX2xNU0N6RmNDdVJRVmxnbVlGdE5PTUJLSDhJSnVGbEZQZWozZ1B3T3lLT2daaHZwVXFsRDN0VVR2czkxVW9Ybm8xUVk5TnBkUUotMWxrbTRXY1F6NkpwX1ZfUW54UnhEc1NINzI1SDBKQzdWM0VYYm5jdEc1ZXlNOWxYSGQydlB6eWxZUUdWb2NKZ1diYW5rX0RVaXpmUldyNUtUWDlUMzRJYiIsImlkIjoiZmNfdk9PQ2FPdTdDUHFPd2JrUDFJRHBLQV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaR2VtcGlSM1ZYWkRaUE0wSmpSSEZzWW1WMFdVazJiV3BGZGs1VGRIaHNPRUZ4YkZKbldteEhhMDlIVVRaa2RVeElkVkJPVWt0cGRFZHRjM1U1WnpSWFVWcFVRVEJhVFVnM2J6aExiMmQzUkZsa1pFZDRNMFZ1UzBGT1p4SVdkazlQUTJGUGRUZERVSEZQZDJKclVERkpSSEJMUVJvaVFVWk5RVWRIY1hVekxVWlZiMkpaYkcxblJVbzRVWGhMV2pOVE1XOTFXblpPZHciLCJmY3YiOiIzIiwiZWkiOiJ2T09DYU91N0NQcU93YmtQMUlEcEtBIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5pVE1BVUxXRkUtbG9JZEpZNENCUTByc3dEUTNzM2JTT3dTTk1DU1I5Q2NkYkJFY0FQQmFhM2VHZG9wUmdkTVVhajlFYm80WXhVVVpURmZRWjhLcU1hLWU3Rmx1c3I5ckM4IiwicXVlc3Rpb24iOiJIb3cgZG8geW91IHBhc3MgYSBwb2ludGVyIHRvIHN0cnVjdHVyZSBhcyBhIGZ1bmN0aW9uIGFyZ3VtZW50IGluIEMgcHJvZ3JhbW1pbmc%2FIiwibGsiOiJjeFhKeVEyQU1Bd0V3RDU0YlVYMFlJVWstQkZ2NUVPSTdoSHpuZU84LWVBaVhoYTJSRUN3cVpiZGtVU2tWOHZ5RHZsbmxMVlVHc1Juclc0Sk5UUnM1M1JaUzIxLSIsImJzIjoiYzZXUU1XN0NRQkJGNVhhcmRCZzNUSWVFQkpGOEFJeWdnSXJRVVktTTdWMEo3MWk3c3pJLUFpVTNTTVZsYURnUzNrVEVrVWdSUkR1YV8tYk5GenN4V1ZFTlRGQ2h0WUNRTzUyeUlnMFZLYzJaQVd5bkd0QVVyc3cwSi1GMUVMOUhZX2xNU0N6RmNDdVJRVmxnbVlGdE5PTUJLSDhJSnVGbEZQZWozZ1B3T3lLT2daaHZwVXFsRDN0VVR2czkxVW9Ybm8xUVk5TnBkUUotMWxrbTRXY1F6NkpwX1ZfUW54UnhEc1NINzI1SDBKQzdWM0VYYm5jdEc1ZXlNOWxYSGQydlB6eWxZUUdWb2NKZ1diYW5rX0RVaXpmUldyNUtUWDlUMzRJYiIsImlkIjoiZmNfdk9PQ2FPdTdDUHFPd2JrUDFJRHBLQV8xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "1OV-1XicxZXbkrI4EIBv90WWG_5R8PCPThW1lQRUPCE6Ojo3FsYQHI5DUMa523fZZ9mH2KfZAOrgHLZmay82CqQ76U6n89H8_oe3C9y_fvnTSZKI3VWraZpWaBhSj1Rw6Fctdgxw1Q49FmPnN-opeyY4nkIC4XhQ6gJmiiSQnXIwDGQZ-1s0eTbSjTuRdTUaACG3VtYbi5En7vzliVXXVX5zf62rXKiwCgkqxtNEGqoPNMarSk2SWxWjavl8AvjPTfuggfwaIADMspJ-MjFXZ9NN4JaVZ0N9lHnj43qHd-bZ5EvTwUVEcwrW45Zd2sxlJjeelV0vc4-mSjWA0FUkZUkvTE8Rw6uNFPt7F6xxtej7xv3AckQmQDdv6cD5ipmbHtJCetYj0AOAqDfIpFT_6BMiQH1gRLBlfjKatzmdjmN1zperbik_a6m6iflDrsYsO3l035bCntppsBleBU47mNn9cAjg4n61kRreBvzImcLsAhUrQ_Vz-IrZWpPX8qoyrED5QhTMUjkrtpFvO1NAHUy_Sk_R3oY1Wkqxfs5G9oOjMC1k88Bl90yfDZC6BIurE3BP2ea6bpF2DcChderqmaGJKDC1Fe9Rnn5T4zZ8dp-vqWmZDUVZ_Jf0aiCdME5PZqBBkObRdfPzz4jiQZoFKeYbC_AEiJ79YVPTTehCAFfIo8eRXsSP-B2dLbIXYsBFkgmdXB6B-xRANc3dwR0okIbn6bzH6THB8PyKoVGm1lL-PgRlovLVRv98CsWiXzVO0icI9btG67UdoqP36EcRcEx9MLM3i3qvS08Ihf7mXxQm_P9AlnkY8KIwLUNGP4fsumydIDPPkGVnx8uWVpStK8hWb5ChudvlZWutvkFGS5DNypCVy9bsCjIEvgtZ5wqy6QUy7yvILmXrAtnsZuieIcO51QfIvlm2Ot8rWzlrpHhc17D9E30Potam62jFvGF9kUSLn7G9fCTLR4n8bGzMH2vbT-6iOORI7rZ3sNZPjlvhWUmdHXbE0BYTh4j8C-yF6S6g4o6JlojDOCY4Efn3NbFexCQUI4tlA_Y-wMkuDMQo3AUJiUWLawPRiuneJ0Ei-F4cKpLVHB_6ulVLVki2akYNxiDthz3MnhtRNNfxPnl5xIOn8S6ezoOZvHyJ_H3b3GJ7W186vW5bHTSXJrl9oAaR7U1__0yWRq_jxKtRc9FqpISM68fWqzwG287jwZmok7hpzibO880WS-nUhnRfm7jNPtJHQ-04OuRRMWXsTkbd2mTz0AGCb20ZUWTBj7HCOWq4YMwLicCwtSbsoEjkltTrtZbUIK0axi3Bp8kxUlp_AxcslOc",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1OV-1XicxZXbkrI4EIBv90WWG_5R8PCPThW1lQRUPCE6Ojo3FsYQHI5DUMa523fZZ9mH2KfZAOrgHLZmay82CqQ76U6n89H8_oe3C9y_fvnTSZKI3VWraZpWaBhSj1Rw6Fctdgxw1Q49FmPnN-opeyY4nkIC4XhQ6gJmiiSQnXIwDGQZ-1s0eTbSjTuRdTUaACG3VtYbi5En7vzliVXXVX5zf62rXKiwCgkqxtNEGqoPNMarSk2SWxWjavl8AvjPTfuggfwaIADMspJ-MjFXZ9NN4JaVZ0N9lHnj43qHd-bZ5EvTwUVEcwrW45Zd2sxlJjeelV0vc4-mSjWA0FUkZUkvTE8Rw6uNFPt7F6xxtej7xv3AckQmQDdv6cD5ipmbHtJCetYj0AOAqDfIpFT_6BMiQH1gRLBlfjKatzmdjmN1zperbik_a6m6iflDrsYsO3l035bCntppsBleBU47mNn9cAjg4n61kRreBvzImcLsAhUrQ_Vz-IrZWpPX8qoyrED5QhTMUjkrtpFvO1NAHUy_Sk_R3oY1Wkqxfs5G9oOjMC1k88Bl90yfDZC6BIurE3BP2ea6bpF2DcChderqmaGJKDC1Fe9Rnn5T4zZ8dp-vqWmZDUVZ_Jf0aiCdME5PZqBBkObRdfPzz4jiQZoFKeYbC_AEiJ79YVPTTehCAFfIo8eRXsSP-B2dLbIXYsBFkgmdXB6B-xRANc3dwR0okIbn6bzH6THB8PyKoVGm1lL-PgRlovLVRv98CsWiXzVO0icI9btG67UdoqP36EcRcEx9MLM3i3qvS08Ihf7mXxQm_P9AlnkY8KIwLUNGP4fsumydIDPPkGVnx8uWVpStK8hWb5ChudvlZWutvkFGS5DNypCVy9bsCjIEvgtZ5wqy6QUy7yvILmXrAtnsZuieIcO51QfIvlm2Ot8rWzlrpHhc17D9E30Potam62jFvGF9kUSLn7G9fCTLR4n8bGzMH2vbT-6iOORI7rZ3sNZPjlvhWUmdHXbE0BYTh4j8C-yF6S6g4o6JlojDOCY4Efn3NbFexCQUI4tlA_Y-wMkuDMQo3AUJiUWLawPRiuneJ0Ei-F4cKpLVHB_6ulVLVki2akYNxiDthz3MnhtRNNfxPnl5xIOn8S6ezoOZvHyJ_H3b3GJ7W186vW5bHTSXJrl9oAaR7U1__0yWRq_jxKtRc9FqpISM68fWqzwG287jwZmok7hpzibO880WS-nUhnRfm7jNPtJHQ-04OuRRMWXsTkbd2mTz0AGCb20ZUWTBj7HCOWq4YMwLicCwtSbsoEjkltTrtZbUIK0axi3Bp8kxUlp_AxcslOc"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Which of the following is a correct syntax to pass a Function ...",
+      "link": "https://www.sarthaks.com/2410785/which-of-the-following-is-a-correct-syntax-to-pass-a-function-pointer-as-an-argument",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sarthaks.com/2410785/which-of-the-following-is-a-correct-syntax-to-pass-a-function-pointer-as-an-argument&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECBYQAQ",
+      "displayed_link": "https://www.sarthaks.com › which-of-the-following-is-a...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695908f2d130b05d683d3434e5fa5dcaf1478.png",
+      "date": "Feb 19, 2022",
+      "snippet": "Which of the following is a correct syntax to pass a Function Pointer as an argument? (a) void pass(int (*fptr)(int, float, char)){} (b) ...",
+      "snippet_highlighted_words": [
+        "void pass(int (*fptr)(int, float, char"
+      ],
+      "source": "Sarthaks eConnect"
+    },
+    {
+      "position": 2,
+      "title": "Solved Screen. 17 Which of the following is a correct syntax",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/screen-17-following-correct-syntax-pass-function-pointer-argument-ans-void-pass-int-fptr-v-q83039867",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chegg.com/homework-help/questions-and-answers/screen-17-following-correct-syntax-pass-function-pointer-argument-ans-void-pass-int-fptr-v-q83039867&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECBkQAQ",
+      "displayed_link": "https://www.chegg.com › questions-and-answers › screen...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590b7e68e15354b28681f140c2319b7a589.png",
+      "date": "Aug 12, 2021",
+      "snippet": "Question: Screen. 17 Which of the following is a correct syntax to pass a Function Pointer as an argument? ans. void pass(int (*fptr)){} ...",
+      "snippet_highlighted_words": [
+        "void pass(int (*fptr"
+      ],
+      "source": "Chegg"
+    },
+    {
+      "position": 3,
+      "title": "Pointers to Functions - C Programming Questions and ...",
+      "link": "https://www.sanfoundry.com/c-quiz-pointers-to-functions/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sanfoundry.com/c-quiz-pointers-to-functions/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECDQQAQ",
+      "displayed_link": "https://www.sanfoundry.com › c-quiz-pointers-to-functi...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590d858bbb659fdb256b6e3b95e1317e060.jpeg",
+      "snippet": "Which of the following is a correct syntax to pass a Function Pointer as an argument? a) void pass(int (*fptr)(int, float, char)){} b) void pass(*fptr(int ...",
+      "snippet_highlighted_words": [
+        "void pass(int (*fptr)(int, float, char"
+      ],
+      "source": "Sanfoundry"
+    },
+    {
+      "position": 4,
+      "title": "Correct syntax use function pointers in C",
+      "link": "https://stackoverflow.com/questions/77872915/correct-syntax-use-function-pointers-in-c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stackoverflow.com/questions/77872915/correct-syntax-use-function-pointers-in-c&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECDYQAQ",
+      "displayed_link": "5 answers · 1 year ago",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590492f3d95cd36ad63fb47c78df1ca36f2.png",
+      "snippet": "To pass a function pointer to a function is relatively easy. Given some function pointer: int (*fptr) (int, double);.",
+      "snippet_highlighted_words": [
+        "int (*fptr) (int, double"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Function pointer as an argument - Stack Overflow",
+            "link": "https://stackoverflow.com/questions/1789807/function-pointer-as-an-argument",
+            "answer_count": 5,
+            "date": "Nov 24, 2009"
+          },
+          {
+            "title": "What is the correct syntax for declaring a function ...",
+            "link": "https://stackoverflow.com/questions/18547021/what-is-the-correct-syntax-for-declaring-a-function-pointer-with-generic-class-p",
+            "answer_count": 3,
+            "date": "Aug 31, 2013"
+          }
+        ]
+      },
+      "source": "Stack Overflow"
+    },
+    {
+      "position": 5,
+      "title": "Function Pointer in C",
+      "link": "https://www.geeksforgeeks.org/c/function-pointer-in-c/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/c/function-pointer-in-c/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECGQQAQ",
+      "displayed_link": "https://www.geeksforgeeks.org › function-pointer-in-c",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff7505666959063b627e22888052161b7a990ddf6b987.png",
+      "date": "May 1, 2025",
+      "snippet": "A function pointer is a type of pointer that stores the address of a function, allowing functions to be passed as arguments and invoked dynamically.",
+      "snippet_highlighted_words": [
+        "function pointer",
+        "arguments"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 6,
+      "title": "Which of the following is the correct syntax to safely pass a ...",
+      "link": "https://brainly.com/question/30616308",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brainly.com/question/30616308&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCLoBEAE",
+      "displayed_link": "https://brainly.com › ... › High School",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590e2fb95408ab37e8ec3a161a5c9700ab9.png",
+      "date": "Feb 8, 2023",
+      "snippet": "Which of the following is the correct syntax to safely pass a pointer to a function? A. myfun(const int * const ptr)",
+      "snippet_highlighted_words": [
+        "myfun(const int * const ptr"
+      ],
+      "source": "brainly.co..."
+    },
+    {
+      "position": 7,
+      "title": "Function Pointer in C - Scaler Topics",
+      "link": "https://www.scaler.com/topics/c/function-pointer-in-c/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scaler.com/topics/c/function-pointer-in-c/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECDMQAQ",
+      "displayed_link": "https://www.scaler.com › topics › function-pointer-in-c",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590886ef2b9394fd26e32220182950c1037.png",
+      "snippet": "To pass pointers in the function, we simply declare the function parameter as pointer type. When functions have their pointer type arguments, the changes made ...",
+      "snippet_highlighted_words": [
+        "declare the function parameter as pointer type"
+      ],
+      "source": "Scaler"
+    },
+    {
+      "position": 8,
+      "title": "C Programming: Passing Pointers to Functions",
+      "link": "https://www.tutorialspoint.com/cprogramming/c_passing_pointers_to_functions.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tutorialspoint.com/cprogramming/c_passing_pointers_to_functions.htm&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECEkQAQ",
+      "displayed_link": "https://www.tutorialspoint.com › cprogramming › c_pa...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590b6532adaf3521ae22c9972060e90b0ce.png",
+      "snippet": "A pointer can be passed to a function, just like any other argument is passed. A function in C can be called in two ways −. Call by Value · Call by Reference.",
+      "snippet_highlighted_words": [
+        "pointer",
+        "function",
+        "argument",
+        "function"
+      ],
+      "source": "Tutorials Point"
+    },
+    {
+      "position": 9,
+      "title": "Which of the following is a correct syntax to pass a Function",
+      "link": "https://interviewmania.com/discussion/39994-c-programming-c-pointers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://interviewmania.com/discussion/39994-c-programming-c-pointers&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECGEQAQ",
+      "displayed_link": "https://interviewmania.com › discussion › 39994-c-pro...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590182c065abd7a214ac55f2d964c47b696.png",
+      "snippet": "Which of the following is a correct syntax to pass a Function Pointer as an argument? void pass(*fptr){}; void pass(int (*fptr)){}; void ...",
+      "snippet_highlighted_words": [
+        "pass(*fptr"
+      ],
+      "source": "Interview Mania"
+    },
+    {
+      "position": 10,
+      "title": "Passing a Function as a Parameter in C++",
+      "link": "https://www.geeksforgeeks.org/cpp/passing-a-function-as-a-parameter-in-cpp/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/cpp/passing-a-function-as-a-parameter-in-cpp/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCIEBEAE",
+      "displayed_link": "https://www.geeksforgeeks.org › cpp › passing-a-functi...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590f0b3f4d72ac9728d082647096e88551e.png",
+      "date": "Jan 20, 2021",
+      "snippet": "Function that is passed as argument is called callback. In C++, there are two ways to pass a function as a parameter.",
+      "snippet_highlighted_words": [
+        "Function",
+        "argument",
+        "pass a function"
+      ],
+      "source": "GeeksforGeeks"
+    },
+    {
+      "position": 11,
+      "title": "How can you pass a pointer to a function in C?",
+      "link": "https://www.quora.com/How-can-you-pass-a-pointer-to-a-function-in-C",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/How-can-you-pass-a-pointer-to-a-function-in-C&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCKEBEAE",
+      "displayed_link": "2 answers · 2 years ago",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff7505666959000cbcf77e79ea31fc490a200f05ebca2.png",
+      "snippet": "Pointers are nothing but variables. So you'll pass pointer to a function the same way you pass a variable. Lets take this code, ...",
+      "snippet_highlighted_words": [
+        "Pointers",
+        "pass pointer",
+        "function",
+        "pass"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What is the correct syntax for a function with ...",
+            "link": "https://www.quora.com/What-is-the-correct-syntax-for-a-function-with-arguments-in-C",
+            "answer_count": 2,
+            "date": "Sep 12, 2020"
+          },
+          {
+            "title": "What is the correct syntax for a function with ...",
+            "link": "https://www.quora.com/What-is-the-correct-syntax-for-a-function-with-arguments",
+            "answer_count": 3,
+            "date": "Dec 23, 2019"
+          }
+        ]
+      },
+      "source": "Quora"
+    },
+    {
+      "position": 12,
+      "title": "Passing Pointers to Functions -- C++ Pointers Tutorial [7]",
+      "link": "https://www.youtube.com/watch?v=7dB24QH532g",
+      "displayed_link": "4.2K+ views · 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWbq2cvGOGMrnVYr1oo0A3_4Bg5OHPrzbz68mPMKsnick&s",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695906f8934a891565c3c12c0c36b40028c86.png",
+      "snippet": "Let's learn how you can use pointers as function parameters. We'll see how you can pass pointers by value and by reference.",
+      "duration": "19:22",
+      "key_moments": [
+        {
+          "time": "01:29",
+          "title": "Pass a memory address to a function",
+          "link": "https://www.youtube.com/watch?v=7dB24QH532g&t=89",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVfNSFeRusbIioPORd3hXSfNhBMhIYAmv3iIE8DY1gUg&s"
+        },
+        {
+          "time": "08:37",
+          "title": "Dereferencing the pointer",
+          "link": "https://www.youtube.com/watch?v=7dB24QH532g&t=517",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCanPWuGwLNP4KtmHHApf_MypQiFGiUNWz5GL81COZqg&s"
+        },
+        {
+          "time": "09:09",
+          "title": "Pass two pointer variables as arguments to this function",
+          "link": "https://www.youtube.com/watch?v=7dB24QH532g&t=549",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkaafay5FsgMImyXyPwntVa3nUy8M6680IYZXNKaMVdw&s"
+        },
+        {
+          "time": "10:20",
+          "title": "Overwrite the contents of the first pointer variable argument",
+          "link": "https://www.youtube.com/watch?v=7dB24QH532g&t=620",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIgDTeBMZBIO--zpGhKaKPQhG3mow5o2TyKiVUiQPkQ&s"
+        },
+        {
+          "time": "12:06",
+          "title": "Create a couple of pointers",
+          "link": "https://www.youtube.com/watch?v=7dB24QH532g&t=726",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIx015p0eH8WgCRrW7J4T82KHT6HRNRcAc-UNYbrnNg&s"
+        },
+        {
+          "time": "14:12",
+          "title": "Swapping the contents of x pointer and y pointer",
+          "link": "https://www.youtube.com/watch?v=7dB24QH532g&t=852",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRByIAQ-brjSc-z2l60n7haKRB6fzOlg31AZpRvEbfaQ&s"
+        }
+      ],
+      "missing": [
+        "syntax"
+      ],
+      "must_include": {
+        "word": "syntax",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=which+of+the+following+is+a+correct+%22syntax%22+to+pass+a+function+pointer+as+an+argument&sa=X&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQ5t4CegUI1QEQLQ"
+      },
+      "source": "YouTube · Professor Hank Stalica"
+    },
+    {
+      "position": 13,
+      "title": "Function Pointers In C Simplified With Detailed Code ...",
+      "link": "https://unstop.com/blog/function-pointers-in-c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://unstop.com/blog/function-pointers-in-c&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCLgBEAE",
+      "displayed_link": "https://unstop.com › blog",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695902e17a75ad07a7f30966027ed0c5a1262.png",
+      "snippet": "Below are the steps involved in passing a function pointer in C as an argument to a function: Define the Function: First, create the function you want to ...",
+      "snippet_highlighted_words": [
+        "Below",
+        "passing a function pointer",
+        "argument"
+      ],
+      "source": "Unstop"
+    },
+    {
+      "position": 14,
+      "title": "How to pass a pointer to a function in C++",
+      "link": "https://www.educative.io/answers/how-to-pass-a-pointer-to-a-function-in-cpp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.educative.io/answers/how-to-pass-a-pointer-to-a-function-in-cpp&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCL0BEAE",
+      "displayed_link": "https://www.educative.io › answers › how-to-pass-a-poin...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695909f91d88c3e858d38f21efb54890656f7.png",
+      "snippet": "A pointer is a variable that stores the address of an object stored in memory. In this answer, we'll see how to pass a pointer to a function in C++.",
+      "snippet_highlighted_words": [
+        "how to pass a pointer to a function in C"
+      ],
+      "source": "Educative"
+    },
+    {
+      "position": 15,
+      "title": "Function Pointers in C and C++",
+      "link": "https://www.cprogramming.com/tutorial/function-pointers.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cprogramming.com/tutorial/function-pointers.html&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECDAQAQ",
+      "displayed_link": "https://www.cprogramming.com › tutorial › function-poi...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695903236f950f74523ecc9597f00d9750203.png",
+      "snippet": "Function Pointer Syntax ... You can write flexible functions and libraries that allow the programmer to choose behavior by passing function pointers as arguments ...",
+      "snippet_highlighted_words": [
+        "Function Pointer Syntax",
+        "passing function pointers",
+        "arguments"
+      ],
+      "source": "C programming.com"
+    },
+    {
+      "position": 16,
+      "title": "Pass by reference (C++ only)",
+      "link": "https://www.ibm.com/docs/en/zos/2.4.0?topic=calls-pass-by-reference-c-only",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ibm.com/docs/en/zos/2.4.0%3Ftopic%3Dcalls-pass-by-reference-c-only&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECEcQAQ",
+      "displayed_link": "https://www.ibm.com › docs › zos › topic=calls-pass-by...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff7505666959093b41fa4b0010b2054921dd80e1315d1.png",
+      "snippet": "Pass-by-reference means to pass the reference of an argument in the calling function to the corresponding formal parameter of the called function.",
+      "snippet_highlighted_words": [
+        "Pass-by-reference"
+      ],
+      "source": "IBM"
+    },
+    {
+      "position": 17,
+      "title": "Function Pointer in C – Master Syntax & Use Cases Fast!",
+      "link": "https://www.upgrad.com/tutorials/software-engineering/c-tutorial/function-pointer-in-c/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.upgrad.com/tutorials/software-engineering/c-tutorial/function-pointer-in-c/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECE0QAQ",
+      "displayed_link": "https://www.upgrad.com › Tutorials › Software & Tech",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff7505666959088f5436c1c56db72eb5694169f5d8c97.png",
+      "date": "Feb 14, 2025",
+      "snippet": "Function pointers in C allow functions to be passed as arguments to other functions, returned as values from functions, and even stored in data ...",
+      "snippet_highlighted_words": [
+        "Function pointers",
+        "arguments"
+      ],
+      "source": "upGrad"
+    },
+    {
+      "position": 18,
+      "title": "Why can we pass functions as a parameter to other ...",
+      "link": "https://www.reddit.com/r/cprogramming/comments/1jcwk8h/why_can_we_pass_functions_as_a_parameter_to_other/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/cprogramming/comments/1jcwk8h/why_can_we_pass_functions_as_a_parameter_to_other/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECGkQAQ",
+      "displayed_link": "20+ comments · 4 months ago",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590eb577fc0db08378722ecd1ac671b73a9.png",
+      "snippet": "Because the parameter to another_function() called function is declared as a pointer, we have to use the pointer dereference operator to use, ...",
+      "snippet_highlighted_words": [
+        "function",
+        "pointer",
+        "pointer"
+      ],
+      "source": "Reddit · r/cprogramming"
+    },
+    {
+      "position": 19,
+      "title": "Passing Arguments by Value/Pointer/Reference",
+      "link": "https://codefinity.com/courses/v2/b7943689-5d01-4a22-a024-0d29968dd8ac/1a501801-d88a-4518-b0cb-f884c8ab1704/134f49e4-c7d5-4f84-afad-4c355a85e23b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://codefinity.com/courses/v2/b7943689-5d01-4a22-a024-0d29968dd8ac/1a501801-d88a-4518-b0cb-f884c8ab1704/134f49e4-c7d5-4f84-afad-4c355a85e23b&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECGYQAQ",
+      "displayed_link": "https://codefinity.com › courses",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590d971f849e9b520d49a117288905d9a75.png",
+      "snippet": "Passing a variable by pointer in C++ as a function argument involves passing the memory address of the variable rather than its actual value.",
+      "snippet_highlighted_words": [
+        "Passing",
+        "pointer",
+        "function argument",
+        "passing"
+      ],
+      "source": "Codefinity"
+    },
+    {
+      "position": 20,
+      "title": "Lecture 14 Function Pointers",
+      "link": "https://www.cs.cmu.edu/~guna/15-123S11/Lectures/Lecture14.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.cmu.edu/~guna/15-123S11/Lectures/Lecture14.pdf&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECH8QAQ",
+      "displayed_link": "https://www.cs.cmu.edu › ~guna › Lectures › Lect...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695905a94d935172bfd771e4df84c75f2bd0c.png",
+      "snippet": "Functions with variable number of arguments. • Introduction to function pointers. • Example of passing a function pointer to a function (qsort).",
+      "snippet_highlighted_words": [
+        "arguments",
+        "function pointers",
+        "passing a function pointer"
+      ],
+      "source": "CMU School of Computer Science"
+    },
+    {
+      "position": 21,
+      "title": "C Pass Addresses and Pointers to Functions",
+      "link": "https://www.programiz.com/c-programming/c-pointer-functions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.programiz.com/c-programming/c-pointer-functions&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCIIBEAE",
+      "displayed_link": "https://www.programiz.com › c-pointer-functions",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590166c40ee6671da33ba5a77fe91c37706.png",
+      "snippet": "In this tutorial, you'll learn to pass addresses as arguments to the functions with the help of examples. This technique is known as call by reference.",
+      "snippet_highlighted_words": [
+        "pass addresses as arguments"
+      ],
+      "source": "Programiz"
+    },
+    {
+      "position": 22,
+      "title": "function pointers: trying to pass a func - C++ Forum",
+      "link": "https://cplusplus.com/forum/general/241781/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cplusplus.com/forum/general/241781/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCJEBEAE",
+      "displayed_link": "https://cplusplus.com › forum › general",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590893c6135c2417acba57305c7ef81cedf.png",
+      "date": "Aug 30, 2018",
+      "snippet": "Please help me to understand how to solve these errors and make a function passed as a parameter to simpson() where I need the 4th parameter to ...",
+      "snippet_highlighted_words": [
+        "these",
+        "function"
+      ],
+      "source": "CPlusPlus"
+    },
+    {
+      "position": 23,
+      "title": "Arrow function expressions - JavaScript - MDN Web Docs",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCJ8BEAE",
+      "displayed_link": "https://developer.mozilla.org › ... › Reference › Functions",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695904da035840c5b97121a3f4e4ab198ea28.png",
+      "date": "Jul 8, 2025",
+      "snippet": "An arrow function expression is a compact alternative to a traditional function expression, with some semantic differences and deliberate limitations in usage.",
+      "snippet_highlighted_words": [
+        "function",
+        "function"
+      ],
+      "source": "MDN Web Docs"
+    },
+    {
+      "position": 24,
+      "title": "Does c allow you to pass arguments to a function one by ...",
+      "link": "https://www.reddit.com/r/C_Programming/comments/vzm3sl/does_c_allow_you_to_pass_arguments_to_a_function/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/C_Programming/comments/vzm3sl/does_c_allow_you_to_pass_arguments_to_a_function/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCJ0BEAE",
+      "displayed_link": "20+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff7505666959076fdf7ccdfedfd0fa3e45c6b3e151502.png",
+      "snippet": "C does not support this at the language level. Of course a C function could return a function pointer, and the function to which it points ...",
+      "source": "Reddit · r/C_Programming"
+    },
+    {
+      "position": 25,
+      "title": "JavaScript Arrow Function",
+      "link": "https://www.w3schools.com/js/js_arrow_function.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3schools.com/js/js_arrow_function.asp&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCKABEAE",
+      "displayed_link": "https://www.w3schools.com › js_arrow_function",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590764c4a36aa00ad3554a5306ef1e2cb04.png",
+      "snippet": "Arrow functions were introduced in ES6. Arrow functions allow us to write shorter function syntax: let myFunction = (a, b) => a * b;",
+      "snippet_highlighted_words": [
+        "myFunction = (a, b) => a * b"
+      ],
+      "source": "W3Schools"
+    },
+    {
+      "position": 26,
+      "title": "Computer Science Quiz Questions Flashcards",
+      "link": "https://quizlet.com/109125294/computer-science-quiz-questions-flash-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/109125294/computer-science-quiz-questions-flash-cards/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCLcBEAE",
+      "displayed_link": "https://quizlet.com › Science › Computer Science",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695907694720fa2e6de1e755299847699e9d7.png",
+      "snippet": "c) One way to pass a pointer to a function is to use a nonconstant pointer to nonconstant data. d) It is dangerous to pass a non-pointer into a pointer argument ...",
+      "snippet_highlighted_words": [
+        "pass",
+        "pointer",
+        "function",
+        "pointer",
+        "pass",
+        "pointer",
+        "pointer argument"
+      ],
+      "source": "Quizlet"
+    },
+    {
+      "position": 27,
+      "title": "C/C++ : Passing a Function as Argument to another Function ...",
+      "link": "https://www.youtube.com/watch?v=67vTjgbT56Q",
+      "displayed_link": "39.1K+ views · 8 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiS5wldx3c0oCxkFD2gHH3H4uzQ6WLkP-BdcefCcZjLMKH&s",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695908c711dbfb5125326753fc3dac39cd5e0.png",
+      "snippet": "C/C++ : Passing a Function as Argument to another Function | Pointers to function ... Pass By Value, Pass By Reference, and Pass By Pointer, C++.",
+      "duration": "9:27",
+      "key_moments": [
+        {
+          "time": "00:56",
+          "title": "Passing a function as argument to another function",
+          "link": "https://www.youtube.com/watch?v=67vTjgbT56Q&t=56",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0XO05S9rJ_KNvi1E1BDR4wXCGQGD-SvcidpSHiA5LQ&s"
+        },
+        {
+          "time": "01:50",
+          "title": "Function pointers",
+          "link": "https://www.youtube.com/watch?v=67vTjgbT56Q&t=110",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRerx2-hxH-ZDMeNHWF4wq7gM3SgQlyLfc1BhZjYS6xhg&s"
+        },
+        {
+          "time": "02:13",
+          "title": "How to create a function pointer",
+          "link": "https://www.youtube.com/watch?v=67vTjgbT56Q&t=133",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7H75NktSOaP82MmKsKZwDCCAJfzaQihrnTzQ3fKkpg&s"
+        },
+        {
+          "time": "02:56",
+          "title": "Parameter list of the function",
+          "link": "https://www.youtube.com/watch?v=67vTjgbT56Q&t=176",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWkDbg26ccqP1G9z0uGRqSMedMQE-_EkXPuIQRBiEEqg&s"
+        },
+        {
+          "time": "03:52",
+          "title": "Using a pointer to call the function",
+          "link": "https://www.youtube.com/watch?v=67vTjgbT56Q&t=232",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsyGWUvQGI69NgKQcOlzN5ggc4Rpcn4Tmkow_LbnXnvg&s"
+        },
+        {
+          "time": "04:55",
+          "title": "Passing functions as arguments",
+          "link": "https://www.youtube.com/watch?v=67vTjgbT56Q&t=295",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9p5mvrCpdm9NR3fEVXlDDVM6uQ5WiF9CBB2ZqUzBog&s"
+        },
+        {
+          "time": "07:31",
+          "title": "Calling a function",
+          "link": "https://www.youtube.com/watch?v=67vTjgbT56Q&t=451",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9FRbm4463kzWeWIzyHHSNZ1J4iOemXbM7UVB1i3MPag&s"
+        },
+        {
+          "time": "08:30",
+          "title": "Running the program",
+          "link": "https://www.youtube.com/watch?v=67vTjgbT56Q&t=510",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKQGAA4Gpc8I8UBQt3ZhxNfQgSJ6WBYioxCo5s6HLxQ&s"
+        },
+        {
+          "time": "08:48",
+          "title": "Function overloads",
+          "link": "https://www.youtube.com/watch?v=67vTjgbT56Q&t=528",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2kLZ8emoeo0pL1oPQUM6gSn7sWA_rhAQ2gV7TInZRw&s"
+        },
+        {
+          "time": "09:12",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=67vTjgbT56Q&t=552",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQceyzsNRLVCquFJIOwFvgyofggCDFuLH-RhMV0kbsCpg&s"
+        }
+      ],
+      "missing": [
+        "syntax"
+      ],
+      "must_include": {
+        "word": "syntax",
+        "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=which+of+the+following+is+a+correct+%22syntax%22+to+pass+a+function+pointer+as+an+argument&sa=X&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQ5t4CegUI1gEQOQ"
+      },
+      "source": "YouTube · The Pentamollis Project"
+    },
+    {
+      "position": 28,
+      "title": "Google C++ Style Guide",
+      "link": "https://google.github.io/styleguide/cppguide.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://google.github.io/styleguide/cppguide.html&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCLsBEAE",
+      "displayed_link": "https://google.github.io › styleguide › cppguide",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff7505666959051a9bccb1d9ab3e4c41401097a230135.png",
+      "snippet": "The goal of this guide is to manage this complexity by describing in detail the dos and don'ts of writing C++ code.",
+      "source": "GitHub"
+    },
+    {
+      "position": 29,
+      "title": "Effective Go",
+      "link": "https://go.dev/doc/effective_go",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://go.dev/doc/effective_go&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCLwBEAE",
+      "displayed_link": "https://go.dev › doc › effective_go",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695901aa0d77fb1ff35c7a1bb1b22c59ec3f2.png",
+      "snippet": "In particular, if you pass an array to a function, it will receive a copy of the array, not a pointer to it. The size of an array is part of its type. The types ...",
+      "snippet_highlighted_words": [
+        "pass",
+        "function",
+        "pointer"
+      ],
+      "source": "The Go Programming Language"
+    },
+    {
+      "position": 30,
+      "title": "C syntax",
+      "link": "https://en.wikipedia.org/wiki/C_syntax",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/C_syntax&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCMsBEAE",
+      "displayed_link": "https://en.wikipedia.org › wiki › C_syntax",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590c579bc0cbb4cfcce19e701460ca0ad29.png",
+      "snippet": "C syntax is the form that text must have in order to be C programming language code. The language syntax rules are designed to allow for code that is terse, ...",
+      "snippet_highlighted_words": [
+        "syntax",
+        "syntax"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 31,
+      "title": "C Function Parameters",
+      "link": "https://www.w3schools.com/c/c_functions_parameters.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3schools.com/c/c_functions_parameters.php&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECEwQAQ",
+      "displayed_link": "https://www.w3schools.com › c_functions_parameters",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590f19c2dba58feb8ecd35b498a443de13d.png",
+      "snippet": "When a parameter is passed to the function, it is called an argument. So, from the example above: name is a parameter, while Liam , Jenny and Anja are arguments ...",
+      "snippet_highlighted_words": [
+        "function",
+        "argument",
+        "arguments"
+      ],
+      "source": "W3Schools"
+    },
+    {
+      "position": 32,
+      "title": "C++ Core Guidelines",
+      "link": "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECGUQAQ",
+      "displayed_link": "https://isocpp.github.io › CppCoreGuidelines › CppCore...",
+      "date": "Jul 8, 2025",
+      "snippet": "Passing the number of elements as an argument is better (and far more common) than just passing the pointer and relying on some (unstated) ...",
+      "snippet_highlighted_words": [
+        "Passing",
+        "argument",
+        "passing",
+        "pointer"
+      ],
+      "source": "GitHub Pages"
+    },
+    {
+      "position": 33,
+      "title": "Glossary — Python 3.13.5 documentation",
+      "link": "https://docs.python.org/3/glossary.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.python.org/3/glossary.html&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECEgQAQ",
+      "displayed_link": "https://docs.python.org › glossary",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590f005197ccb9c78a411d7e3b68bf1f791.png",
+      "snippet": "When an iterable object is passed as an argument to the built-in function iter() , it returns an iterator for the object. This iterator is good for one pass ...",
+      "snippet_highlighted_words": [
+        "argument",
+        "function",
+        "pass"
+      ],
+      "source": "Python documentation"
+    },
+    {
+      "position": 34,
+      "title": "std::unique_ptr",
+      "link": "https://en.cppreference.com/w/cpp/memory/unique_ptr.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.cppreference.com/w/cpp/memory/unique_ptr.html&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECEoQAQ",
+      "displayed_link": "https://en.cppreference.com › cpp › memory › unique_ptr",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff7505666959070032d672613b1f2f5a9e996ed237ad0.png",
+      "date": "Apr 8, 2025",
+      "snippet": "std::unique_ptr is a smart pointer that owns (is responsible for) and manages another object via a pointer and subsequently disposes of that object.",
+      "snippet_highlighted_words": [
+        "pointer",
+        "pointer"
+      ],
+      "source": "cppreference.com"
+    },
+    {
+      "position": 35,
+      "title": "How to pass function pointer as parameter in C?",
+      "link": "https://codeforwin.org/c-programming/pass-function-pointer-as-parameter-another-function-c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://codeforwin.org/c-programming/pass-function-pointer-as-parameter-another-function-c&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECE4QAQ",
+      "displayed_link": "https://codeforwin.org › c-programming › pass-function-...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff7505666959032714dcf8cb5b54f04c90642d5564698.png",
+      "date": "Dec 25, 2017",
+      "snippet": "Declare a function pointer with function prototype it can point. · Initialize function pointer by storing reference of a function. · Finally ...",
+      "snippet_highlighted_words": [
+        "Declare a function pointer with function prototype it can point"
+      ],
+      "source": "Codeforwin"
+    },
+    {
+      "position": 36,
+      "title": "Solved C++ can pass arguments to a function using? pass by",
+      "link": "https://www.chegg.com/homework-help/questions-and-answers/c-pass-arguments-function-using-pass-evil-pass-reference-pointer-arguments-o-pass-referenc-q99147601",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chegg.com/homework-help/questions-and-answers/c-pass-arguments-function-using-pass-evil-pass-reference-pointer-arguments-o-pass-referenc-q99147601&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECEsQAQ",
+      "displayed_link": "https://www.chegg.com › questions-and-answers › c-pass...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590052ff34d4093327ef7b33e9d1bb4e3bb.png",
+      "date": "Jun 11, 2022",
+      "snippet": "Answer: Correct options are : pass by value , pass by reference with pointer argument. , Pass by reference with reference argument.",
+      "snippet_highlighted_words": [
+        "pass by reference with pointer argument"
+      ],
+      "source": "Chegg"
+    },
+    {
+      "position": 37,
+      "title": "Zig Language Reference",
+      "link": "https://ziglang.org/documentation/master/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ziglang.org/documentation/master/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECGMQAQ",
+      "displayed_link": "https://ziglang.org › documentation › master",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590711947519a96f55ec2e57ab084c636a1.png",
+      "snippet": "Zig is a general-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+      "source": "Zig Programming Language"
+    },
+    {
+      "position": 38,
+      "title": "Passing Pointers to Functions in C++",
+      "link": "https://www.tutorialspoint.com/cplusplus/cpp_passing_pointers_to_functions.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tutorialspoint.com/cplusplus/cpp_passing_pointers_to_functions.htm&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECGIQAQ",
+      "displayed_link": "https://www.tutorialspoint.com › cplusplus › cpp_passin...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695903aa06cb491a302fe1f7b27c412cb0efe.png",
+      "snippet": "C++ allows you to pass a pointer to a function. To do so, simply declare the function parameter as a pointer type.",
+      "snippet_highlighted_words": [
+        "declare the function parameter as a pointer type"
+      ],
+      "source": "Tutorials Point"
+    },
+    {
+      "position": 39,
+      "title": "FA1.2.docx - QUESTION 1 Which of the following is true...",
+      "link": "https://www.coursehero.com/file/120315874/FA12docx/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coursehero.com/file/120315874/FA12docx/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECGgQAQ",
+      "displayed_link": "https://www.coursehero.com › ... › FA › FA 1",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590f8131bec8de9692e61549bf99cd5336e.png",
+      "date": "Dec 1, 2021",
+      "snippet": "Which of the following is true about this pointer? It is passed as a hidden argument to all function calls It is passed as a hidden argument ...",
+      "snippet_highlighted_words": [
+        "Which of the following",
+        "pointer",
+        "argument",
+        "function",
+        "argument"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 11
+          },
+          "extensions": [
+            "5.0(11)"
+          ]
+        }
+      },
+      "source": "Course Hero"
+    },
+    {
+      "position": 40,
+      "title": "The Go Programming Language Specification",
+      "link": "https://go.dev/ref/spec",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://go.dev/ref/spec&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECHoQAQ",
+      "displayed_link": "https://go.dev › ref › spec",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590eb3e6657e5ebfa1dba27c88186e001b5.png",
+      "date": "Dec 30, 2024",
+      "snippet": "Composite types—array, struct, pointer, function, interface, slice, map, and channel types—may be constructed using type literals.",
+      "snippet_highlighted_words": [
+        "pointer",
+        "function"
+      ],
+      "source": "The Go Programming Language"
+    },
+    {
+      "position": 41,
+      "title": "Functions and directives - Core concepts",
+      "link": "https://tailwindcss.com/docs/functions-and-directives",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tailwindcss.com/docs/functions-and-directives&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCIABEAE",
+      "displayed_link": "https://tailwindcss.com › docs › functions-and-directives",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695901a4f36e646cb5383fb300a4c495f176f.png",
+      "snippet": "Tailwind provides the following build-time functions to make working with colors and the spacing scale easier. --alpha(). Use the --alpha() function to adjust ...",
+      "snippet_highlighted_words": [
+        "following",
+        "function"
+      ],
+      "source": "Tailwind CSS"
+    },
+    {
+      "position": 42,
+      "title": "References and Borrowing - The Rust Programming ...",
+      "link": "https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCIMBEAE",
+      "displayed_link": "https://doc.rust-lang.org › book › ch04-02-references-a...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590a57a7e9046926f25a50bb8db389ca907.png",
+      "snippet": "First, notice that all the tuple code in the variable declaration and the function return value is gone. Second, note that we pass &s1 into calculate_length and ...",
+      "snippet_highlighted_words": [
+        "function",
+        "pass"
+      ],
+      "source": "Rust Programming Language"
+    },
+    {
+      "position": 43,
+      "title": "Parsing Protobuf Like Never Before",
+      "link": "https://mcyoung.xyz/2025/07/16/hyperpb/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mcyoung.xyz/2025/07/16/hyperpb/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCIQBEAE",
+      "displayed_link": "https://mcyoung.xyz › 2025/07/16 › hyperpb",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695908cf5c89c4bc7c9e2557242c581f7cc92.png",
+      "date": "Jul 16, 2025",
+      "snippet": "A function pointer that gets called to parse the field. The next ... Unfortunately, these can't be merged due to a compiler bug, as documented in ...",
+      "snippet_highlighted_words": [
+        "function pointer",
+        "these"
+      ],
+      "source": "mcyoung"
+    },
+    {
+      "position": 44,
+      "title": "padding - CSS - MDN Web Docs",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.mozilla.org/en-US/docs/Web/CSS/padding&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECH4QAQ",
+      "displayed_link": "https://developer.mozilla.org › Web › CSS",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff7505666959062b35c3b3b7139fad99ee236d7de424f.png",
+      "date": "Jul 14, 2025",
+      "snippet": "The padding CSS shorthand property sets the padding area on all four sides of an element at once.",
+      "source": "MDN Web Docs"
+    },
+    {
+      "position": 45,
+      "title": "Pass by pointer",
+      "link": "https://www.ibm.com/docs/SSLTBW_2.4.0/com.ibm.zos.v2r4.cbclx01/pass_by_pointer.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ibm.com/docs/SSLTBW_2.4.0/com.ibm.zos.v2r4.cbclx01/pass_by_pointer.htm&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCJMBEAE",
+      "displayed_link": "https://www.ibm.com › docs › SSLTBW_2.4.0 › pass_...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590ecf631d19d7fcaf1e6477abf748cef6b.png",
+      "snippet": "The called function can modify the value of the variable to which the pointer argument points. The following example shows how arguments are passed by pointer:",
+      "snippet_highlighted_words": [
+        "function",
+        "pointer argument",
+        "following",
+        "arguments",
+        "pointer"
+      ],
+      "source": "IBM"
+    },
+    {
+      "position": 46,
+      "title": "Navigation with Compose | Jetpack Compose",
+      "link": "https://developer.android.com/develop/ui/compose/navigation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.android.com/develop/ui/compose/navigation&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCJkBEAE",
+      "displayed_link": "https://developer.android.com › ... › Core areas › UI",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590e93cc327061aa3cc6e60b88a9acf851a.png",
+      "snippet": "Navigate with arguments. For information on passing arguments between composable destinations, see the Compose section of Design your navigation graph. Retrieve ...",
+      "snippet_highlighted_words": [
+        "arguments",
+        "passing arguments"
+      ],
+      "source": "Android Developers"
+    },
+    {
+      "position": 47,
+      "title": "API — Flask Documentation (3.1.x)",
+      "link": "https://flask.palletsprojects.com/en/stable/api/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://flask.palletsprojects.com/en/stable/api/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCJsBEAE",
+      "displayed_link": "https://flask.palletsprojects.com › stable › api",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590e9b00098d9d41e35fd1620608dfcafd1.png",
+      "snippet": "Additionally, you may pass optional keyword arguments that will then be passed to the application's test_client_class constructor. ... Return a sync function that ...",
+      "snippet_highlighted_words": [
+        "pass",
+        "arguments",
+        "function"
+      ],
+      "source": "Flask"
+    },
+    {
+      "position": 48,
+      "title": "Event Handling",
+      "link": "https://vuejs.org/guide/essentials/event-handling",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vuejs.org/guide/essentials/event-handling&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCJoBEAE",
+      "displayed_link": "https://vuejs.org › guide › essentials › event-handling",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695900dacaaa02eb2d76e06b95134647fe677.png",
+      "snippet": "This allows us to pass the method custom arguments instead of the native event: ... function --> <button @click=\"(event) => warn('Form cannot be submitted ...",
+      "snippet_highlighted_words": [
+        "pass",
+        "arguments",
+        "function"
+      ],
+      "source": "Vue.js"
+    },
+    {
+      "position": 49,
+      "title": "C++ Functions Flashcards",
+      "link": "https://quizlet.com/au/417353919/c-functions-flash-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://quizlet.com/au/417353919/c-functions-flash-cards/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCJwBEAE",
+      "displayed_link": "https://quizlet.com › c-functions-flash-cards",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590930d70c933d9cfc5624a07d035ac5ab0.png",
+      "snippet": "... argument logically (use pass by reference and dereference the pointer argument). ... Which of the following function pointer assignments are wrong? int foo ...",
+      "snippet_highlighted_words": [
+        "argument",
+        "pass",
+        "argument",
+        "Which of the following function pointer"
+      ],
+      "source": "Quizlet"
+    },
+    {
+      "position": 50,
+      "title": "Git - git-merge Documentation",
+      "link": "https://git-scm.com/docs/git-merge",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://git-scm.com/docs/git-merge&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCLYBEAE",
+      "displayed_link": "https://git-scm.com › docs › git-merge",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590999240c1a79f37f7cc1a8722f81cff76.png",
+      "snippet": "With --ff , when possible resolve the merge as a fast-forward (only update the branch pointer to match the merged branch; do not create a merge commit).",
+      "snippet_highlighted_words": [
+        "pointer"
+      ],
+      "source": "Git"
+    },
+    {
+      "position": 51,
+      "title": "file_get_contents - Manual",
+      "link": "https://www.php.net/manual/en/function.file-get-contents.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.php.net/manual/en/function.file-get-contents.php&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCKwBEAE",
+      "displayed_link": "https://www.php.net › function.file-get-contents.php",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff750566695903a5757438773ef2f2667cbc579f4444b.png",
+      "snippet": "This function is similar to file(), except that file_get_contents() returns the file in a string, starting at the specified offset up to length bytes.",
+      "snippet_highlighted_words": [
+        "function"
+      ],
+      "source": "PHP"
+    },
+    {
+      "position": 52,
+      "title": "Function Pointer as Argument in C",
+      "link": "https://prepinsta.com/c-programming-language-tutorial/function-pointer-as-argument/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://prepinsta.com/c-programming-language-tutorial/function-pointer-as-argument/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECDUQAQ",
+      "displayed_link": "https://prepinsta.com › All about C Language",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590a7bec2e7a59615d1ba06b1e93884b08f.png",
+      "snippet": "The function itself cannot be passed as an argument to another function.However, by utilising a function pointer, we can pass the reference to a function as a ...",
+      "snippet_highlighted_words": [
+        "argument",
+        "function pointer",
+        "pass"
+      ],
+      "source": "PrepInsta"
+    },
+    {
+      "position": 53,
+      "title": "pickle — Python object serialization",
+      "link": "https://docs.python.org/3/library/pickle.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.python.org/3/library/pickle.html&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECDEQAQ",
+      "displayed_link": "https://docs.python.org › library › pickle",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff7505666959048678b9f943528ccf459d38e26ca070a.png",
+      "snippet": "... pointer sharing); however it means that non-Python programs may not be ... A reduction function takes a single argument of the associated class and ...",
+      "snippet_highlighted_words": [
+        "pointer",
+        "function",
+        "argument"
+      ],
+      "source": "Python documentation"
+    },
+    {
+      "position": 54,
+      "title": "C Sharp (programming language)",
+      "link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/C_Sharp_(programming_language)&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoECDIQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › C_Sharp_(programmi...",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590da8013cf6ed3a9709ea4616cea7a125b.png",
+      "snippet": "C# has support for strongly-typed function pointers via the keyword delegate . ... The syntax for handling exceptions is the following: try { // something } ...",
+      "snippet_highlighted_words": [
+        "function pointers",
+        "syntax",
+        "following"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 55,
+      "title": "mcyoung",
+      "link": "https://mcyoung.xyz/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mcyoung.xyz/&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQFnoFCLkBEAE",
+      "displayed_link": "https://mcyoung.xyz",
+      "favicon": "https://serpapi.com/searches/6882e3b2b9dbc45c4f9ed4ca/images/72317957301bb87e568ff75056669590090f8b96412df6cdc3c374b93b65d9f5.png",
+      "snippet": "A function pointer that gets called to parse the field. The next field(s) to ... Unfortunately, these can't be merged due to a compiler bug, as documented in vm/ ...",
+      "snippet_highlighted_words": [
+        "function pointer",
+        "these"
+      ],
+      "source": "mcyoung"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Which of the following function uses void * and pointer to function as argument",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=Which+of+the+following+function+uses+void+*+and+pointer+to+function+as+argument&sa=X&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQ1QJ6BQjfARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Which+of+the+following+function+uses+void+%2A+and+pointer+to+function+as+argument"
+    },
+    {
+      "block_position": 1,
+      "query": "What is a function pointer in programming and how is it used",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=What+is+a+function+pointer+in+programming+and+how+is+it+used&sa=X&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQ1QJ6BQjeARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=What+is+a+function+pointer+in+programming+and+how+is+it+used"
+    },
+    {
+      "block_position": 1,
+      "query": "Which of the following is an incorrect syntax for pointer to structure",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=Which+of+the+following+is+an+incorrect+syntax+for+pointer+to+structure&sa=X&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQ1QJ6BQjdARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Which+of+the+following+is+an+incorrect+syntax+for+pointer+to+structure"
+    },
+    {
+      "block_position": 1,
+      "query": "Which of the following is not possible in C",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=Which+of+the+following+is+not+possible+in+C&sa=X&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQ1QJ6BQjbARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Which+of+the+following+is+not+possible+in+C"
+    },
+    {
+      "block_position": 1,
+      "query": "Which function is not called in the following C program",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=Which+function+is+not+called+in+the+following+C+program&sa=X&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQ1QJ6BQjaARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Which+function+is+not+called+in+the+following+C+program"
+    },
+    {
+      "block_position": 1,
+      "query": "How to call a function without using the function name to send parameters",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=How+to+call+a+function+without+using+the+function+name+to+send+parameters&sa=X&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQ1QJ6BQjcARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=How+to+call+a+function+without+using+the+function+name+to+send+parameters"
+    },
+    {
+      "block_position": 1,
+      "query": "Function pointer as argument in C",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=Function+pointer+as+argument+in+C&sa=X&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQ1QJ6BQjZARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Function+pointer+as+argument+in+C"
+    },
+    {
+      "block_position": 1,
+      "query": "Pointers in C Quiz",
+      "link": "https://www.google.com/search?num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&q=Pointers+in+C+Quiz&sa=X&ved=2ahUKEwjrida789aOAxV6RzABHVRAGgUQ1QJ6BQjYARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=Pointers+in+C+Quiz"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Pass a function or pass a function pointer in C? [closed]",
+      "link": "https://stackoverflow.com/questions/59987314/pass-a-function-or-pass-a-function-pointer-in-c",
+      "date": "5 years ago",
+      "extensions": [
+        "5 answers"
+      ],
+      "source": "Stack Overflow",
+      "answers": [
+        {
+          "snippet": "My code examples · snippet 1: \"passing without a pointer, receiving without a pointer\" #include <stdio. · snippet 2: \"pas...",
+          "link": "https://stackoverflow.com/questions/59987314/pass-a-function-or-pass-a-function-pointer-in-c"
+        }
+      ]
+    },
+    {
+      "title": "How can you pass a pointer to a function in C?",
+      "link": "https://www.quora.com/How-can-you-pass-a-pointer-to-a-function-in-C",
+      "date": "2 years ago",
+      "extensions": [
+        "2 answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "snippet": "[code]#include %3Cstdio.h%3E int function_to_be_pointed_at(int input_val) { return input_val * 2; } int do_calc_using_function_pointer(int (*func_pointer)(in ...",
+          "link": "https://www.quora.com/How-can-you-pass-a-pointer-to-a-function-in-C?top_ans=1477743690449059",
+          "extensions": [
+            "Top answer",
+            "a year ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What is the correct syntax for a function with arguments in C++?",
+      "link": "https://www.quora.com/What-is-the-correct-syntax-for-a-function-with-arguments-in-C",
+      "date": "4 years ago",
+      "extensions": [
+        "2 answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "snippet": "%3CreturnType%3E %3CfunName%3E ([%3Cargument%3E]) { //statement }",
+          "link": "https://www.quora.com/What-is-the-correct-syntax-for-a-function-with-arguments-in-C?top_ans=1477743643147626",
+          "extensions": [
+            "Top answer",
+            "2 votes",
+            "2 years ago"
+          ]
+        },
+        {
+          "snippet": "A function generally requires 3 things: 1. Return-type (int,char or void, etc) 2. function ...",
+          "link": "https://www.quora.com/What-is-the-correct-syntax-for-a-function-with-arguments-in-C?top_ans=238700520",
+          "extensions": [
+            "4 years ago"
+          ]
+        },
+        {
+          "snippet": "In the function module: %3Creturn data type%3E Function_name (arguments) { local declaration ...",
+          "link": "https://www.quora.com/What-is-the-correct-syntax-for-a-function-with-arguments-in-C?top_ans=187866020",
+          "extensions": [
+            "5 years ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 55 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&num=100&sca_esv=0e7e332804e82cc8&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&oq=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&oq=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&hl=en&gl=us&num=100&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&oq=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&hl=en&gl=us&num=100&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&oq=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&hl=en&gl=us&num=100&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&oq=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&hl=en&gl=us&num=100&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=100&q=which+of+the+following+is+a+correct+syntax+to+pass+a+function+pointer+as+an+argument&start=400"
+    }
+  }
+}
