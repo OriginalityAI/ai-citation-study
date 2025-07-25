@@ -5,7 +5,7 @@ from collections import defaultdict
 from urllib.parse import urlparse, parse_qsl, urlencode
 
 # === Configuration ===
-FOLDER_PATH = "samples/ymyl_1000/res_20250718_n100"
+FOLDER_PATH = "samples/ymyl_29000/res_20250723_n100"
 URLS_POOL_CSV = "_urls_pool.csv"
 RESPONSES_CSV = "_responses.csv"
 
