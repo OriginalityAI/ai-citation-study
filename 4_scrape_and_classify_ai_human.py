@@ -1,3 +1,4 @@
+import json
 import csv
 import html
 import os
@@ -42,6 +43,7 @@ def normalize_text(text):
 def classify_batch(batch, writer_cls):
     contents = [item['content'] for item in batch]
     urls = [item['url'] for item in batch]
+
     try:
         headers = {
             "X-OAI-API-KEY": API_KEY,
@@ -56,32 +58,40 @@ def classify_batch(batch, writer_cls):
             "check_readability": False,
             "check_grammar": False
         }
+
         response = requests.post(API_URL, json=payload, headers=headers, timeout=60)
         response.raise_for_status()
         data = response.json()
 
-        for url, result in zip(urls, data['results']):
+        for i, (url, sent_content) in enumerate(zip(urls, contents)):
+            key = str(i)
+            result = data.get(key)
+            if not result:
+                print(f"[!] Missing result for index {key}, skipping {url}")
+                continue
+
             ai_info = result.get("ai", {})
             classification = ai_info.get("classification", {})
             confidence_data = ai_info.get("confidence", {})
 
             if not classification or not confidence_data:
-                print(f"[!] Incomplete result for {url}")
+                print(f"[!] Incomplete classification for {url}")
                 continue
 
             is_ai = classification.get("AI", 0) > classification.get("Original", 0)
             label = "AI" if is_ai else "Human"
-            confidence = confidence_data.get("AI" if is_ai else "Original", None) * 100
+            confidence = confidence_data.get("AI" if is_ai else "Original", 0) * 100
 
-            if confidence is not None:
-                writer_cls.writerow({
-                    "url": url,
-                    "ai_class": label,
-                    "confidence": confidence
-                })
-                print(f"[✓] {label} ({confidence:.1f}%) — {url}")
+            writer_cls.writerow({
+                "url": url,
+                "ai_class": label,
+                "confidence": round(confidence, 2)
+            })
+            print(f"[✓] {label} ({round(confidence, 1)}%) — {url}")
+
     except Exception as e:
         print(f"[X] Batch classification failed: {e}")
+        print(json.dumps(data if 'data' in locals() else {}, indent=2))
 
 # === Classifier Thread ===
 def classifier_thread_fn():
