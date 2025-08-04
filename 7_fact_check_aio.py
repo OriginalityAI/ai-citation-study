@@ -85,14 +85,18 @@ for i, query_id in enumerate(aio_query_ids):
         fact_res = fact_check(human_readable_aio)
 
         for i, fact_obj in fact_res['results']['facts'].items():
-            t = int(str(fact_obj['truthfulness']).replace('%', '').strip())
-            if t < 50:
-                print(f"⚠️ {t}% truth \nFact: {fact_obj['fact']}\nExplanation: {fact_obj['explanation']}")
+            try:
+                t = int(str(fact_obj['truthfulness']).replace('%', '').strip())
+                if t < 50:
+                    print(f"\n⚠️ {t}% truth \nFact: {fact_obj['fact']}\nExplanation: {fact_obj['explanation']}\n\n")
+            except Exception as e:
+                print(f'\n❗️ Oops, failed to read t! {e}\n')
 
         with open(OUTPUT_DIR / f'facts_{query_id}.json', "w", encoding="utf-8") as jf:
             json.dump(fact_res, jf, indent=2)
 
         elapsed = time.time() - start_time
+        print(type(i), i, elapsed, len(aio_query_ids))
         eta_time = elapsed / (i+1) * (len(aio_query_ids) - (i+1))
 
-        print(f"[{i+1}/{len(aio_query_ids)}] Fact checked AIO {query_id}. ⏱️ Elapsed: {elapsed:.2f} sec. ETA: {eta_time}")
+        print(f"[{i+1}/{len(aio_query_ids)}] Fact checked AIO {query_id}. ⏱️ Elapsed: {elapsed:.2f}s. ETA: {(eta_time / 60 / 60):.2f}h")
