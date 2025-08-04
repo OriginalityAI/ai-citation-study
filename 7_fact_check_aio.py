@@ -75,30 +75,33 @@ def fact_check(content):
 start_time = time.time()
 
 for query_idx, query_id in enumerate(aio_query_ids, 1):
-    with open(SAMPLE_DIR / f'{query_id}.json', 'r') as f:
-        data = json.load(f)
-        query = data['search_parameters']['q']
-        text_blocks = data['ai_overview']['text_blocks']
-        
-        human_readable_aio = f'Question: {query}\n\nAnswer: {flatten_text_blocks(text_blocks)}'
+    try:
+        with open(SAMPLE_DIR / f'{query_id}.json', 'r') as f:
+            data = json.load(f)
+            query = data['search_parameters']['q']
+            text_blocks = data['ai_overview']['text_blocks']
+            
+            human_readable_aio = f'Question: {query}\n\nAnswer: {flatten_text_blocks(text_blocks)}'
 
-        fact_res = fact_check(human_readable_aio)
+            fact_res = fact_check(human_readable_aio)
 
-        if not fact_res:
-            print(f"[{query_idx}/{len(aio_query_ids)}] ❗️ Empty response for AIO {query_id}.")
+            if not fact_res:
+                print(f"[{query_idx}/{len(aio_query_ids)}] ❗️ Empty response for {query_id}.")
 
-        for i, fact_obj in fact_res['results']['facts'].items():
-            try:
-                t = int(str(fact_obj['truthfulness']).replace('%', '').strip())
-                if t < 50:
-                    print(f"\n⚠️ {t}% truth \nFact: {fact_obj['fact']}\nExplanation: {fact_obj['explanation']}\n")
-            except Exception as e:
-                print(f'❗️ Oops, failed to read t! {e}')
+            for i, fact_obj in fact_res['results']['facts'].items():
+                try:
+                    t = int(str(fact_obj['truthfulness']).replace('%', '').strip())
+                    if t < 50:
+                        print(f"\n⚠️ {t}% truth \nFact: {fact_obj['fact']}\nExplanation: {fact_obj['explanation']}\n")
+                except Exception as e:
+                    print(f'❗️ Oops, failed to read t! {e}')
 
-        with open(OUTPUT_DIR / f'facts_{query_id}.json', "w", encoding="utf-8") as jf:
-            json.dump(fact_res, jf, indent=2)
+            with open(OUTPUT_DIR / f'facts_{query_id}.json', "w", encoding="utf-8") as jf:
+                json.dump(fact_res, jf, indent=2)
 
-        elapsed = time.time() - start_time
-        eta_time = elapsed / query_idx * (len(aio_query_ids) - query_idx)
+            elapsed = time.time() - start_time
+            eta_time = elapsed / query_idx * (len(aio_query_ids) - query_idx)
 
-        print(f"[{query_idx}/{len(aio_query_ids)}] Fact checked AIO {query_id}. ⏱️ Elapsed: {elapsed:.2f}s. ETA: {(eta_time / 60 / 60):.2f}h")
+            print(f"[{query_idx}/{len(aio_query_ids)}] Fact checked {query_id}. ⏱️ Elapsed: {elapsed:.2f}s. ETA: {(eta_time / 60 / 60):.2f}h")
+    except Exception as e:
+        print(f"[{query_idx}/{len(aio_query_ids)}] ❗️ Unexpected error for {query_id}. Error: {e}")
