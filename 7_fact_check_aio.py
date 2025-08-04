@@ -85,7 +85,7 @@ for i, query_id in enumerate(aio_query_ids):
         fact_res = fact_check(human_readable_aio)
 
         with open(OUTPUT_DIR / f'facts_{query_id}.json', "w", encoding="utf-8") as jf:
-            json.dump(data, jf, indent=2)
+            json.dump(fact_res, jf, indent=2)
 
         elapsed = time.time() - start_time
         eta_time = elapsed / (i+1) * (len(aio_query_ids) - (i+1))
