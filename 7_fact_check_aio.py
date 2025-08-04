@@ -84,6 +84,11 @@ for i, query_id in enumerate(aio_query_ids):
 
         fact_res = fact_check(human_readable_aio)
 
+        for i, fact_obj in fact_res['results']['facts'].items():
+            t = int(str(fact_obj['truthfulness']).replace('%', '').strip())
+            if t < 50:
+                print(f"⚠️ {t}% truth \nFact: {fact_obj['fact']}\nExplanation: {fact_obj['explanation']}")
+
         with open(OUTPUT_DIR / f'facts_{query_id}.json', "w", encoding="utf-8") as jf:
             json.dump(fact_res, jf, indent=2)
 
