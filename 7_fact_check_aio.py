@@ -74,7 +74,7 @@ def fact_check(content):
 
 start_time = time.time()
 
-for i, query_id in enumerate(aio_query_ids):
+for query_idx, query_id in enumerate(aio_query_ids, 1):
     with open(SAMPLE_DIR / f'{query_id}.json', 'r') as f:
         data = json.load(f)
         query = data['search_parameters']['q']
@@ -96,7 +96,6 @@ for i, query_id in enumerate(aio_query_ids):
             json.dump(fact_res, jf, indent=2)
 
         elapsed = time.time() - start_time
-        print(type(i), i, elapsed, len(aio_query_ids))
-        eta_time = elapsed / (i+1) * (len(aio_query_ids) - (i+1))
+        eta_time = elapsed / query_idx * (len(aio_query_ids) - query_idx)
 
-        print(f"[{i+1}/{len(aio_query_ids)}] Fact checked AIO {query_id}. ⏱️ Elapsed: {elapsed:.2f}s. ETA: {(eta_time / 60 / 60):.2f}h")
+        print(f"[{query_idx}/{len(aio_query_ids)}] Fact checked AIO {query_id}. ⏱️ Elapsed: {elapsed:.2f}s. ETA: {(eta_time / 60 / 60):.2f}h")
