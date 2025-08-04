@@ -11,6 +11,7 @@ API_KEY = os.getenv("ORIGINALITY_API_KEY")
 
 SAMPLE_DIR = Path('samples/ymyl_29000/res_20250723_n100')
 OUTPUT_DIR = SAMPLE_DIR / 'fact_results'
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 aio_query_ids = pd.read_csv(SAMPLE_DIR / '_responses.csv')['query_id']
 
@@ -88,5 +89,5 @@ for i, query_id in enumerate(aio_query_ids):
 
         elapsed = time.time() - start_time
         eta_time = elapsed / (i+1) * (len(aio_query_ids) - (i+1))
-        
+
         print(f"[{i+1}/{len(aio_query_ids)}] Fact checked AIO {query_id}. ⏱️ Elapsed: {elapsed:.2f} sec. ETA: {eta_time}")
