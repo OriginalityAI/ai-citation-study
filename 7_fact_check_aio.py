@@ -84,13 +84,16 @@ for query_idx, query_id in enumerate(aio_query_ids, 1):
 
         fact_res = fact_check(human_readable_aio)
 
+        if not fact_res:
+            print(f"[{query_idx}/{len(aio_query_ids)}] ❗️ Empty response for AIO {query_id}.")
+
         for i, fact_obj in fact_res['results']['facts'].items():
             try:
                 t = int(str(fact_obj['truthfulness']).replace('%', '').strip())
                 if t < 50:
-                    print(f"\n⚠️ {t}% truth \nFact: {fact_obj['fact']}\nExplanation: {fact_obj['explanation']}\n\n")
+                    print(f"\n⚠️ {t}% truth \nFact: {fact_obj['fact']}\nExplanation: {fact_obj['explanation']}\n")
             except Exception as e:
-                print(f'\n❗️ Oops, failed to read t! {e}\n')
+                print(f'❗️ Oops, failed to read t! {e}')
 
         with open(OUTPUT_DIR / f'facts_{query_id}.json', "w", encoding="utf-8") as jf:
             json.dump(fact_res, jf, indent=2)
