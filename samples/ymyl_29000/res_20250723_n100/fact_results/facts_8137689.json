@@ -1,0 +1,99 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461123,
+      "id": "2i6a4v1lhkupom57",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/2i6a4v1lhkupom57",
+      "content": "Question: how effective are covid home tests Answer: At-home COVID tests, specifically antigen tests, are generally accurate when detecting positive results, especially when symptoms are present. However, they are less sensitive at detecting asymptomatic infections. Repeat testing is recommended after a negative result, particularly for those with symptoms or potential exposure, to minimize the risk of false negatives. Here&#039;s a more detailed breakdown:: - Positive Results are Generally Accurate: Antigen tests, which are commonly used in at-home tests, are reliable in detecting positive cases, especially when symptoms are present. - Sensitivity Varies: At-home tests are less sensitive in detecting early infections or asymptomatic cases. A study in Microbiology Spectrum found that they detected about half of asymptomatic cases compared to almost 90% of symptomatic cases. - Repeat Testing Recommended: The FDA recommends repeating at-home antigen tests after a negative result, especially if symptoms persist or exposure is suspected, to reduce the chance of a false negative. - Symptomatic vs. Asymptomatic: At-home tests are more effective when someone is experiencing symptoms. - Molecular Tests More Sensitive: PCR tests (often done in labs) are generally more sensitive and can detect lower levels of the virus, including early in the infection and in asymptomatic individuals.",
+      "formattedContent": "Question: how effective are covid home tests\n\nAnswer: At-home COVID tests, specifically antigen tests, are generally accurate when detecting positive results, especially when symptoms are present. However, they are less sensitive at detecting asymptomatic infections. Repeat testing is recommended after a negative result, particularly for those with symptoms or potential exposure, to minimize the risk of false negatives.\nHere's a more detailed breakdown::\n- Positive Results are Generally Accurate: Antigen tests, which are commonly used in at-home tests, are reliable in detecting positive cases, especially when symptoms are present.\n- Sensitivity Varies: At-home tests are less sensitive in detecting early infections or asymptomatic cases. A study in Microbiology Spectrum found that they detected about half of asymptomatic cases compared to almost 90% of symptomatic cases.\n- Repeat Testing Recommended: The FDA recommends repeating at-home antigen tests after a negative result, especially if symptoms persist or exposure is suspected, to reduce the chance of a false negative.\n- Symptomatic vs. Asymptomatic: At-home tests are more effective when someone is experiencing symptoms.\n- Molecular Tests More Sensitive: PCR tests (often done in labs) are generally more sensitive and can detect lower levels of the virus, including early in the infection and in asymptomatic individuals."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "At-home COVID tests, specifically antigen tests, are generally accurate when detecting positive results, especially when symptoms are present.",
+        "truthfulness": "90%",
+        "explanation": "Multiple studies show that rapid antigen tests used at home have high specificity (around 99% or higher), meaning positive results are generally reliable, especially in symptomatic individuals. Sensitivity varies but is higher in symptomatic cases, with some studies reporting sensitivities around 80-90% in symptomatic patients. This supports the claim that positive results are generally accurate when symptoms are present.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12036026/",
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html",
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician"
+        ]
+      },
+      "1": {
+        "fact": "They are less sensitive at detecting asymptomatic infections.",
+        "truthfulness": "90%",
+        "explanation": "Studies indicate that antigen tests have lower sensitivity in asymptomatic individuals compared to symptomatic ones. For example, one study found detection of about half of asymptomatic cases versus nearly 90% of symptomatic cases. This confirms that antigen tests are less sensitive for asymptomatic infections.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12036026/",
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html"
+        ]
+      },
+      "2": {
+        "fact": "Repeat testing is recommended after a negative result, particularly for those with symptoms or potential exposure, to minimize the risk of false negatives.",
+        "truthfulness": "100%",
+        "explanation": "The FDA and health authorities recommend repeat testing after a negative antigen test if symptoms persist or exposure is suspected, to reduce false negatives due to lower sensitivity of antigen tests, especially early in infection.",
+        "links": []
+      },
+      "3": {
+        "fact": "Positive Results are Generally Accurate: Antigen tests, which are commonly used in at-home tests, are reliable in detecting positive cases, especially when symptoms are present.",
+        "truthfulness": "90%",
+        "explanation": "This repeats the earlier claim about high specificity and reliability of positive antigen test results in symptomatic individuals, supported by multiple studies.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12036026/",
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html"
+        ]
+      },
+      "4": {
+        "fact": "Sensitivity Varies: At-home tests are less sensitive in detecting early infections or asymptomatic cases. A study in Microbiology Spectrum found that they detected about half of asymptomatic cases compared to almost 90% of symptomatic cases.",
+        "truthfulness": "90%",
+        "explanation": "While the exact study from Microbiology Spectrum is not directly cited in the search results, the general finding that antigen tests detect about half of asymptomatic cases compared to a much higher percentage in symptomatic cases is consistent with the broader literature and data from other studies.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12036026/",
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html"
+        ]
+      },
+      "5": {
+        "fact": "Repeat Testing Recommended: The FDA recommends repeating at-home antigen tests after a negative result, especially if symptoms persist or exposure is suspected, to reduce the chance of a false negative.",
+        "truthfulness": "100%",
+        "explanation": "This is consistent with official FDA guidance and public health recommendations to repeat antigen testing after a negative result if symptoms continue or exposure is likely.",
+        "links": []
+      },
+      "6": {
+        "fact": "Symptomatic vs. Asymptomatic: At-home tests are more effective when someone is experiencing symptoms.",
+        "truthfulness": "95%",
+        "explanation": "Antigen tests have higher sensitivity in symptomatic individuals, making them more effective in this group compared to asymptomatic individuals, as supported by multiple studies.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12036026/",
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html"
+        ]
+      },
+      "7": {
+        "fact": "Molecular Tests More Sensitive: PCR tests (often done in labs) are generally more sensitive and can detect lower levels of the virus, including early in the infection and in asymptomatic individuals.",
+        "truthfulness": "100%",
+        "explanation": "PCR tests are the gold standard for COVID-19 detection due to their high sensitivity, capable of detecting low viral loads and early infections, including in asymptomatic cases.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

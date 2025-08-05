@@ -1,0 +1,110 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461213,
+      "id": "nk213xj8w0drgvzm",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/nk213xj8w0drgvzm",
+      "content": "Question: covid vaccine pro/con Answer: Pros of COVID-19 Vaccines - Reduced risk of severe illness, hospitalization, and death: Vaccines significantly reduce the risk of developing severe COVID-19 infection, requiring hospitalization, or dying from the virus. - Protection against new variants: While vaccine effectiveness may vary slightly against different variants, vaccines provide a level of protection against emerging strains. - Reduced transmission: By preventing infection or reducing its severity, vaccines help limit the spread of the virus to others. - Long-lasting immunity: Most vaccines provide durable immunity for several months to years. - Safety and efficacy: COVID-19 vaccines have undergone rigorous testing and are generally considered safe and effective. Cons of COVID-19 Vaccines - Mild side effects: Most people experience mild side effects after vaccination, such as pain, redness, swelling, fatigue, or headache. These typically resolve within a few days. - Rare but serious adverse events: Very rare but serious adverse events, such as allergic reactions or myocarditis (inflammation of the heart muscle), have been reported. However, these events are extremely uncommon. - Vaccine hesitancy: Some people may be hesitant to get vaccinated due to concerns about safety, efficacy, or personal beliefs. - Need for boosters: Depending on the vaccine type and the length of time since the initial vaccination, booster shots may be necessary to maintain optimal protection. - Limited effectiveness in immunocompromised individuals: Vaccines may be less effective in people with weakened immune systems.",
+      "formattedContent": "Question: covid vaccine pro/con\n\nAnswer: Pros of COVID-19 Vaccines\n- Reduced risk of severe illness, hospitalization, and death: Vaccines significantly reduce the risk of developing severe COVID-19 infection, requiring hospitalization, or dying from the virus.\n- Protection against new variants: While vaccine effectiveness may vary slightly against different variants, vaccines provide a level of protection against emerging strains.\n- Reduced transmission: By preventing infection or reducing its severity, vaccines help limit the spread of the virus to others.\n- Long-lasting immunity: Most vaccines provide durable immunity for several months to years.\n- Safety and efficacy: COVID-19 vaccines have undergone rigorous testing and are generally considered safe and effective.\nCons of COVID-19 Vaccines\n- Mild side effects: Most people experience mild side effects after vaccination, such as pain, redness, swelling, fatigue, or headache. These typically resolve within a few days.\n- Rare but serious adverse events: Very rare but serious adverse events, such as allergic reactions or myocarditis (inflammation of the heart muscle), have been reported. However, these events are extremely uncommon.\n- Vaccine hesitancy: Some people may be hesitant to get vaccinated due to concerns about safety, efficacy, or personal beliefs.\n- Need for boosters: Depending on the vaccine type and the length of time since the initial vaccination, booster shots may be necessary to maintain optimal protection.\n- Limited effectiveness in immunocompromised individuals: Vaccines may be less effective in people with weakened immune systems."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Vaccines significantly reduce the risk of developing severe COVID-19 infection, requiring hospitalization, or dying from the virus.",
+        "truthfulness": "95%",
+        "explanation": "COVID-19 vaccines have been shown to reduce the risk of severe illness, hospitalization, and death. Interim estimates from 2024-2025 show vaccine effectiveness against hospitalization ranging from 40% to 46% in various adult populations, supporting significant protection compared to unvaccinated individuals. Vaccination averted approximately 68,000 hospitalizations during the 2023-24 respiratory season, confirming this benefit.",
+        "links": [
+          "https://pubmed.ncbi.nlm.nih.gov/40014628/",
+          "https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a1.htm"
+        ]
+      },
+      "1": {
+        "fact": "While vaccine effectiveness may vary slightly against different variants, vaccines provide a level of protection against emerging strains.",
+        "truthfulness": "90%",
+        "explanation": "The 2024-2025 COVID-19 vaccines were updated to target Omicron JN.1 and related sublineages and are expected to work well against new predominant strains and variants. Although breakthrough infections can occur, vaccines still provide protection, especially against severe disease.",
+        "links": [
+          "https://www.yalemedicine.org/news/covid-19-vaccine-comparison",
+          "https://pubmed.ncbi.nlm.nih.gov/40014628/"
+        ]
+      },
+      "2": {
+        "fact": "By preventing infection or reducing its severity, vaccines help limit the spread of the virus to others.",
+        "truthfulness": "80%",
+        "explanation": "Vaccines reduce the severity of infection and can reduce transmission by lowering viral load and duration of infectiousness, though they do not completely prevent infection or transmission. This is consistent with current understanding of COVID-19 vaccine impact on transmission.",
+        "links": []
+      },
+      "3": {
+        "fact": "Most vaccines provide durable immunity for several months to years.",
+        "truthfulness": "70%",
+        "explanation": "COVID-19 vaccine immunity wanes over time, often within months, which is why booster doses are recommended to maintain protection. Durable immunity lasting years is not yet conclusively established; current data support immunity lasting several months with boosters restoring protection.",
+        "links": [
+          "https://www.yalemedicine.org/news/covid-19-vaccine-comparison"
+        ]
+      },
+      "4": {
+        "fact": "COVID-19 vaccines have undergone rigorous testing and are generally considered safe and effective.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 vaccines authorized for use have undergone extensive clinical trials and regulatory review to establish safety and efficacy. They are widely considered safe and effective by health authorities.",
+        "links": [
+          "https://www.yalemedicine.org/news/covid-19-vaccine-comparison"
+        ]
+      },
+      "5": {
+        "fact": "Most people experience mild side effects after vaccination, such as pain, redness, swelling, fatigue, or headache. These typically resolve within a few days.",
+        "truthfulness": "100%",
+        "explanation": "Common side effects of COVID-19 vaccines are mild and transient, including local reactions and systemic symptoms like fatigue and headache, resolving within days.",
+        "links": []
+      },
+      "6": {
+        "fact": "Very rare but serious adverse events, such as allergic reactions or myocarditis (inflammation of the heart muscle), have been reported. However, these events are extremely uncommon.",
+        "truthfulness": "100%",
+        "explanation": "Serious adverse events like anaphylaxis and myocarditis have been reported but are very rare compared to the number of doses administered. The benefits of vaccination outweigh these rare risks.",
+        "links": []
+      },
+      "7": {
+        "fact": "Some people may be hesitant to get vaccinated due to concerns about safety, efficacy, or personal beliefs.",
+        "truthfulness": "100%",
+        "explanation": "Vaccine hesitancy is a documented phenomenon influenced by safety concerns, misinformation, and personal beliefs.",
+        "links": []
+      },
+      "8": {
+        "fact": "Depending on the vaccine type and the length of time since the initial vaccination, booster shots may be necessary to maintain optimal protection.",
+        "truthfulness": "100%",
+        "explanation": "Booster doses are recommended to maintain or restore vaccine effectiveness as immunity wanes over time.",
+        "links": [
+          "https://www.yalemedicine.org/news/covid-19-vaccine-comparison",
+          "https://pubmed.ncbi.nlm.nih.gov/40014628/"
+        ]
+      },
+      "9": {
+        "fact": "Vaccines may be less effective in people with weakened immune systems.",
+        "truthfulness": "95%",
+        "explanation": "Immunocompromised individuals often have reduced vaccine effectiveness, as shown by lower vaccine effectiveness estimates in this group, though vaccination still provides some protection.",
+        "links": [
+          "https://pubmed.ncbi.nlm.nih.gov/40014628/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

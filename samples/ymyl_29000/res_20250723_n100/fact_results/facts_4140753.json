@@ -1,0 +1,72 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36462568,
+      "id": "ydmts3ruzba0hwil",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/ydmts3ruzba0hwil",
+      "content": "Question: what does the covid vaccine actually do Answer: COVID-19 vaccines work by teaching your body how to recognize and fight the virus that causes COVID-19. They do this by introducing a weakened or inactive form of the virus, or a piece of its genetic code, into your body. This allows your immune system to develop antibodies against the virus, without you getting sick. If you are later exposed to the live virus, your body will be better equipped to fight it off, reducing your risk of severe illness, hospitalization, and death.",
+      "formattedContent": "Question: what does the covid vaccine actually do\n\nAnswer: COVID-19 vaccines work by teaching your body how to recognize and fight the virus that causes COVID-19. They do this by introducing a weakened or inactive form of the virus, or a piece of its genetic code, into your body.\nThis allows your immune system to develop antibodies against the virus, without you getting sick. If you are later exposed to the live virus, your body will be better equipped to fight it off, reducing your risk of severe illness, hospitalization, and death."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "COVID-19 vaccines work by teaching your body how to recognize and fight the virus that causes COVID-19.",
+        "truthfulness": 100,
+        "explanation": "COVID-19 vaccines stimulate the immune system to recognize and respond to the SARS-CoV-2 virus, primarily by teaching the body to recognize the spike protein, enabling it to fight the virus upon exposure.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/how-they-work.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/different-types-of-covid-19-vaccines/art-20506465"
+        ]
+      },
+      "1": {
+        "fact": "They do this by introducing a weakened or inactive form of the virus, or a piece of its genetic code, into your body.",
+        "truthfulness": 70,
+        "explanation": "Some COVID-19 vaccines (like inactivated virus vaccines) introduce a weakened or inactive virus, but many widely used vaccines (such as mRNA vaccines like Pfizer and Moderna) introduce only a piece of the virus's genetic code (mRNA) that encodes the spike protein, not the whole virus. Protein subunit vaccines introduce pieces of the virus protein, not the whole virus. Thus, the claim is partially true but oversimplified and not universally accurate for all COVID-19 vaccines.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/how-they-work.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/different-types-of-covid-19-vaccines/art-20506465",
+          "https://en.wikipedia.org/wiki/COVID-19_vaccine"
+        ]
+      },
+      "2": {
+        "fact": "This allows your immune system to develop antibodies against the virus, without you getting sick.",
+        "truthfulness": 100,
+        "explanation": "Vaccines stimulate the immune system to produce antibodies and other immune responses without causing the disease itself, thereby providing immunity without illness.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/how-they-work.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/different-types-of-covid-19-vaccines/art-20506465"
+        ]
+      },
+      "3": {
+        "fact": "If you are later exposed to the live virus, your body will be better equipped to fight it off, reducing your risk of severe illness, hospitalization, and death.",
+        "truthfulness": 100,
+        "explanation": "COVID-19 vaccines prepare the immune system to respond quickly and effectively to the live virus, significantly reducing the risk of severe illness, hospitalization, and death upon exposure.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/how-they-work.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/different-types-of-covid-19-vaccines/art-20506465"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

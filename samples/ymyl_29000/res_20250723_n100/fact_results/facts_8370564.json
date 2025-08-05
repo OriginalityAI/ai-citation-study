@@ -1,0 +1,78 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36473120,
+      "id": "81ugwnajfpy5qd2r",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/81ugwnajfpy5qd2r",
+      "content": "Question: new pfizer drug for covid Answer: Pfizer&#039;s main drug for treating COVID-19 is Paxlovid, an oral antiviral pill. It&#039;s designed to be taken at home by individuals at high risk for severe illness from COVID-19, within the first five days of symptom onset. The FDA has granted full approval for adults with mild-to-moderate COVID-19 at high risk of severe disease, hospitalization, and death, according to Yale Medicine. Initially, it was authorized for emergency use for those 12 and older who weigh at least 88 pounds. The medication is now transitioning from government distribution to commercial availability.",
+      "formattedContent": "Question: new pfizer drug for covid\n\nAnswer: Pfizer's main drug for treating COVID-19 is Paxlovid, an oral antiviral pill. It's designed to be taken at home by individuals at high risk for severe illness from COVID-19, within the first five days of symptom onset. The FDA has granted full approval for adults with mild-to-moderate COVID-19 at high risk of severe disease, hospitalization, and death, according to Yale Medicine. Initially, it was authorized for emergency use for those 12 and older who weigh at least 88 pounds. The medication is now transitioning from government distribution to commercial availability."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Pfizer's main drug for treating COVID-19 is Paxlovid, an oral antiviral pill.",
+        "truthfulness": 100,
+        "explanation": "Paxlovid is Pfizer's primary oral antiviral treatment for COVID-19, authorized and approved for use in treating mild-to-moderate COVID-19 in high-risk patients.",
+        "links": [
+          "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-paxlovidtm-receives-fda-approval-adult-patients",
+          "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-oral-antiviral-treatment-covid-19"
+        ]
+      },
+      "1": {
+        "fact": "It's designed to be taken at home by individuals at high risk for severe illness from COVID-19, within the first five days of symptom onset.",
+        "truthfulness": 100,
+        "explanation": "Paxlovid is prescribed for at-home use for patients at high risk of severe COVID-19 and must be started within five days of symptom onset to be effective.",
+        "links": [
+          "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-oral-antiviral-treatment-covid-19",
+          "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-paxlovidtm-receives-fda-approval-adult-patients"
+        ]
+      },
+      "2": {
+        "fact": "The FDA has granted full approval for adults with mild-to-moderate COVID-19 at high risk of severe disease, hospitalization, and death, according to Yale Medicine.",
+        "truthfulness": 100,
+        "explanation": "The FDA granted full approval of Paxlovid in May 2023 for adults with mild-to-moderate COVID-19 who are at high risk of progression to severe disease, consistent with the information from Yale Medicine.",
+        "links": [
+          "https://www.yalemedicine.org/news/13-things-to-know-paxlovid-covid-19",
+          "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-paxlovidtm-receives-fda-approval-adult-patients"
+        ]
+      },
+      "3": {
+        "fact": "Initially, it was authorized for emergency use for those 12 and older who weigh at least 88 pounds.",
+        "truthfulness": 100,
+        "explanation": "Paxlovid received Emergency Use Authorization (EUA) in December 2021 for patients 12 years and older weighing at least 40 kilograms (about 88 pounds).",
+        "links": [
+          "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-oral-antiviral-treatment-covid-19"
+        ]
+      },
+      "4": {
+        "fact": "The medication is now transitioning from government distribution to commercial availability.",
+        "truthfulness": 100,
+        "explanation": "Pfizer amended its supply agreement with the U.S. government to transition Paxlovid from government distribution under EUA to commercial availability starting January 1, 2024.",
+        "links": [
+          "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-amends-us-government-paxlovid-supply-agreement-and"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

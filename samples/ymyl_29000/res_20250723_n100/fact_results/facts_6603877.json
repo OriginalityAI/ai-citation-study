@@ -1,0 +1,87 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36472018,
+      "id": "3tfr8ikonsywzabc",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/3tfr8ikonsywzabc",
+      "content": "Question: how many boxes for st depression Answer: For significant ST-segment depression on an ECG, the most common criterion is 1 millimeter (mm) or more of horizontal or downsloping depression measured at the J point (the junction between the QRS complex and the ST segment) in at least two contiguous (adjacent) leads. This applies to limb leads and precordial leads (V1-V6), although some leads may have higher thresholds. Here&#039;s a more detailed breakdown:: - General Threshold: A horizontal or downsloping ST depression of 1 mm or more is generally considered significant in most leads. - Lead-Specific Thresholds: Some leads, like V2 and V3, may have higher thresholds for men and women, as indicated by some search results. For example, in leads V2-V3, some guidelines suggest 0.2 mV (2 mm) for men over 40 and 0.25 mV (2.5 mm) for men under 40, according to search results. For women, the threshold might be 0.15 mV (1.5 mm) in V2-V3. - Contiguous Leads: The ST depression needs to be seen in at least two adjacent leads on the ECG tracing. - Baseline Stability: The ST segment depression needs to be assessed with baseline stability, meaning the tracing is not affected by artifacts or other distortions. - Upsloping vs. Downsloping: While horizontal or downsloping ST depression is more concerning, upsloping ST depression is often considered non-specific for myocardial ischemia.",
+      "formattedContent": "Question: how many boxes for st depression\n\nAnswer: For significant ST-segment depression on an ECG, the most common criterion is 1 millimeter (mm) or more of horizontal or downsloping depression measured at the J point (the junction between the QRS complex and the ST segment) in at least two contiguous (adjacent) leads. This applies to limb leads and precordial leads (V1-V6), although some leads may have higher thresholds.\nHere's a more detailed breakdown::\n- General Threshold: A horizontal or downsloping ST depression of 1 mm or more is generally considered significant in most leads.\n- Lead-Specific Thresholds: Some leads, like V2 and V3, may have higher thresholds for men and women, as indicated by some search results. For example, in leads V2-V3, some guidelines suggest 0.2 mV (2 mm) for men over 40 and 0.25 mV (2.5 mm) for men under 40, according to search results. For women, the threshold might be 0.15 mV (1.5 mm) in V2-V3.\n- Contiguous Leads: The ST depression needs to be seen in at least two adjacent leads on the ECG tracing.\n- Baseline Stability: The ST segment depression needs to be assessed with baseline stability, meaning the tracing is not affected by artifacts or other distortions.\n- Upsloping vs. Downsloping: While horizontal or downsloping ST depression is more concerning, upsloping ST depression is often considered non-specific for myocardial ischemia."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "For significant ST-segment depression on an ECG, the most common criterion is 1 millimeter (mm) or more of horizontal or downsloping depression measured at the J point (the junction between the QRS complex and the ST segment) in at least two contiguous (adjacent) leads.",
+        "truthfulness": "90%",
+        "explanation": "The general threshold for significant ST depression is commonly accepted as \u22651 mm (0.1 mV) horizontal or downsloping depression at the J point in at least two contiguous leads. This is supported by AHA/ACCF/HRS recommendations and clinical guidelines, although some sources note that \u22650.5 mm can be significant in certain contexts. The 1 mm threshold is widely used for clinical significance in ischemia detection.",
+        "links": [
+          "https://www.ahajournals.org/doi/10.1161/circulationaha.108.191098",
+          "https://litfl.com/st-segment-ecg-library/"
+        ]
+      },
+      "1": {
+        "fact": "This applies to limb leads and precordial leads (V1-V6), although some leads may have higher thresholds.",
+        "truthfulness": "95%",
+        "explanation": "ST depression criteria apply to both limb and precordial leads. However, leads V2 and V3 have been noted to have different thresholds based on sex and age, with higher cutoffs for men, as some guidelines suggest.",
+        "links": [
+          "https://litfl.com/myocardial-ischaemia-ecg-library/",
+          "https://www.ahajournals.org/doi/10.1161/circulationaha.108.191098"
+        ]
+      },
+      "2": {
+        "fact": "In leads V2-V3, some guidelines suggest 0.2 mV (2 mm) for men over 40 and 0.25 mV (2.5 mm) for men under 40, according to search results. For women, the threshold might be 0.15 mV (1.5 mm) in V2-V3.",
+        "truthfulness": "80%",
+        "explanation": "Some ECG interpretation guidelines, including those from the AHA/ACCF, specify higher thresholds for ST depression in leads V2 and V3, differentiated by sex and age. For example, men under 40 may have a higher threshold (around 2.5 mm), men over 40 around 2 mm, and women around 1.5 mm. This is consistent with clinical practice but exact values can vary slightly between sources.",
+        "links": [
+          "https://www.ahajournals.org/doi/10.1161/circulationaha.108.191098"
+        ]
+      },
+      "3": {
+        "fact": "The ST depression needs to be seen in at least two adjacent leads on the ECG tracing.",
+        "truthfulness": "100%",
+        "explanation": "The requirement for ST depression to be present in at least two contiguous leads is a standard criterion for diagnosing ischemia on ECG, as isolated lead changes are less specific.",
+        "links": [
+          "https://www.ahajournals.org/doi/10.1161/circulationaha.108.191098",
+          "https://litfl.com/st-segment-ecg-library/"
+        ]
+      },
+      "4": {
+        "fact": "The ST segment depression needs to be assessed with baseline stability, meaning the tracing is not affected by artifacts or other distortions.",
+        "truthfulness": "90%",
+        "explanation": "Accurate assessment of ST depression requires a stable baseline without artifacts or distortions, as these can mimic or obscure true ST changes. This is a standard practice in ECG interpretation.",
+        "links": [
+          "https://www.ahajournals.org/doi/10.1161/01.HYP.0000054980.69529.14"
+        ]
+      },
+      "5": {
+        "fact": "While horizontal or downsloping ST depression is more concerning, upsloping ST depression is often considered non-specific for myocardial ischemia.",
+        "truthfulness": "95%",
+        "explanation": "Horizontal and downsloping ST depression are more specific indicators of myocardial ischemia, whereas upsloping ST depression is generally less specific and often considered non-diagnostic for ischemia.",
+        "links": [
+          "https://litfl.com/st-segment-ecg-library/",
+          "https://litfl.com/myocardial-ischaemia-ecg-library/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

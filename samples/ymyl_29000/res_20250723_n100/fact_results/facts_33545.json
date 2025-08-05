@@ -1,0 +1,55 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36462640,
+      "id": "4yvcnlqa7u3fwt5s",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/4yvcnlqa7u3fwt5s",
+      "content": "Question: a company has the following budget information: sales: $118,800; cogs: $48,500; depreciation expense: $1,500; interest expense: $250; other expenses: $41,880. if the company budgets 40% for income tax expense, the amount of budgeted income tax expense will be $. Answer: The budgeted income tax expense is $10,668. This is calculated by first determining the Earnings Before Tax (EBT) by subtracting total expenses from sales, then multiplying the EBT by the budgeted income tax rate of 40%. Here&#039;s the breakdown:: - Calculate Total Expenses: - Calculate Earnings Before Tax (EBT): - Calculate Budgeted Income Tax Expense:",
+      "formattedContent": "Question: a company has the following budget information: sales: $118,800; cogs: $48,500; depreciation expense: $1,500; interest expense: $250; other expenses: $41,880. if the company budgets 40% for income tax expense, the amount of budgeted income tax expense will be $.\n\nAnswer: The budgeted income tax expense is $10,668. This is calculated by first determining the Earnings Before Tax (EBT) by subtracting total expenses from sales, then multiplying the EBT by the budgeted income tax rate of 40%.\nHere's the breakdown::\n- Calculate Total Expenses:\n- Calculate Earnings Before Tax (EBT):\n- Calculate Budgeted Income Tax Expense:"
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The budgeted income tax expense is $10,668.",
+        "truthfulness": "100%",
+        "explanation": "The budgeted income tax expense is correctly calculated by first determining Earnings Before Tax (EBT) and then applying the 40% tax rate. EBT is sales ($118,800) minus total expenses (COGS $48,500 + depreciation $1,500 + interest $250 + other expenses $41,880 = $92,130). EBT = $118,800 - $92,130 = $26,670. Income tax expense = 40% of $26,670 = $10,668, which matches the stated amount.",
+        "links": [
+          "https://www.indeed.com/career-advice/career-development/income-tax-expense",
+          "https://www.superfastcpa.com/how-to-calculate-income-tax-expense-for-a-business/",
+          "https://www.indeed.com/career-advice/career-development/budget-income-statement"
+        ]
+      },
+      "1": {
+        "fact": "This is calculated by first determining the Earnings Before Tax (EBT) by subtracting total expenses from sales, then multiplying the EBT by the budgeted income tax rate of 40%.",
+        "truthfulness": "100%",
+        "explanation": "The standard method to calculate income tax expense is to subtract all expenses from sales to get Earnings Before Tax (EBT), then multiply EBT by the tax rate. This approach is consistent with accounting principles and tax calculation methods.",
+        "links": [
+          "https://www.indeed.com/career-advice/career-development/income-tax-expense",
+          "https://www.superfastcpa.com/how-to-calculate-income-tax-expense-for-a-business/",
+          "https://www.indeed.com/career-advice/career-development/budget-income-statement"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

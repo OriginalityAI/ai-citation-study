@@ -1,0 +1,72 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36460582,
+      "id": "xhrgkfuwloi3mqy0",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/xhrgkfuwloi3mqy0",
+      "content": "Question: how much is tax title &amp; license in louisiana Answer: In Louisiana, the cost of tax, title, and license for a vehicle includes state and local sales tax, a title transfer fee, and an annual registration fee. The state sales tax is 4.45%, and local sales tax can range from 1% to 6%, with the total potentially reaching up to 10.45% depending on the location. The title transfer fee is $68.50, and the annual registration fee varies, typically between $20 and $80, but can be higher depending on the vehicle&#039;s value. Here&#039;s a more detailed breakdown:: - Sales Tax: - Title Transfer Fee: $68.50. - Registration Fee: Varies based on vehicle value, but generally between $20 and $80. - License Plate Fee: Assessed at 0.1% of the vehicle&#039;s value per year, with a minimum base of $10,000, and increases in increments. - Other Fees:",
+      "formattedContent": "Question: how much is tax title & license in louisiana\n\nAnswer: In Louisiana, the cost of tax, title, and license for a vehicle includes state and local sales tax, a title transfer fee, and an annual registration fee. The state sales tax is 4.45%, and local sales tax can range from 1% to 6%, with the total potentially reaching up to 10.45% depending on the location. The title transfer fee is $68.50, and the annual registration fee varies, typically between $20 and $80, but can be higher depending on the vehicle's value.\nHere's a more detailed breakdown::\n- Sales Tax:\n- Title Transfer Fee: $68.50.\n- Registration Fee: Varies based on vehicle value, but generally between $20 and $80.\n- License Plate Fee: Assessed at 0.1% of the vehicle's value per year, with a minimum base of $10,000, and increases in increments.\n- Other Fees:"
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The state sales tax is 4.45%, and local sales tax can range from 1% to 6%, with the total potentially reaching up to 10.45% depending on the location.",
+        "truthfulness": "90%",
+        "explanation": "Louisiana's state sales tax rate is approximately 4.45%, and local sales taxes vary, which can bring the total sales tax rate up to around 10.45% depending on the locality. This aligns with general knowledge about Louisiana sales tax rates, though exact local rates vary by parish and municipality.",
+        "links": []
+      },
+      "1": {
+        "fact": "The title transfer fee is $68.50.",
+        "truthfulness": "100%",
+        "explanation": "The Louisiana Department of Motor Vehicles charges a title fee of $68.50 for vehicle title transfers, as confirmed by the Louisiana DMV fee schedules.",
+        "links": [
+          "https://howtolouisiana.com/la-omv-calculating-taxes-fees-penalties/"
+        ]
+      },
+      "2": {
+        "fact": "The annual registration fee varies, typically between $20 and $80, but can be higher depending on the vehicle's value.",
+        "truthfulness": "95%",
+        "explanation": "Registration fees in Louisiana generally range from $20 to $80 depending on the vehicle type and value, with some heavier or commercial vehicles paying more. This range is consistent with official fee schedules.",
+        "links": [
+          "https://howtolouisiana.com/la-omv-calculating-taxes-fees-penalties/",
+          "https://www.fhwa.dot.gov/ohim/hwytaxes/mv103.pdf"
+        ]
+      },
+      "3": {
+        "fact": "License Plate Fee: Assessed at 0.1% of the vehicle's value per year, with a minimum base of $10,000, and increases in increments.",
+        "truthfulness": "0%",
+        "explanation": "There is no evidence that Louisiana charges a license plate fee assessed at 0.1% of vehicle value with a $10,000 minimum. Louisiana registration fees are generally flat or based on vehicle weight, not a percentage of value. This claim appears inaccurate or confused with other tax types.",
+        "links": []
+      },
+      "4": {
+        "fact": "Other Fees: (implied additional fees exist)",
+        "truthfulness": "100%",
+        "explanation": "Additional fees such as plate transfer fees ($3), documentation fees, and other minor charges are common in Louisiana vehicle registration and title processes.",
+        "links": [
+          "https://www.caranddriver.com/research/a31550807/louisiana-car-sales-tax/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

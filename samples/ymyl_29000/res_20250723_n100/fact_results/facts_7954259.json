@@ -1,0 +1,83 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36457598,
+      "id": "bfg8m3u1il29oj4a",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/bfg8m3u1il29oj4a",
+      "content": "Question: diabetes with hypertension icd 10 Answer: The International Classification of Diseases, 10th Edition (ICD-10) codes for diabetes with hypertension are: Type 2 Diabetes with Hypertension:: - E11.59: Type 2 diabetes mellitus with other circulatory complications Type 1 Diabetes with Hypertension:: - E10.69: Type 1 diabetes mellitus with other specified complications Hypertension Secondary to Diabetes:: - I15.2: Hypertension secondary to endocrine disorders (including diabetes) Note:: - If the hypertension is a complication of diabetes, it should be coded as E11.59 or E10.69, respectively. - If the hypertension is not related to diabetes, it should be coded separately as I10 (essential hypertension). - If the diabetes and hypertension are both present but there is no evidence of a causal relationship, they should be coded separately as E11.9 (type 2 diabetes) and I10 (hypertension).",
+      "formattedContent": "Question: diabetes with hypertension icd 10\n\nAnswer: The International Classification of Diseases, 10th Edition (ICD-10) codes for diabetes with hypertension are:\nType 2 Diabetes with Hypertension::\n- E11.59: Type 2 diabetes mellitus with other circulatory complications\nType 1 Diabetes with Hypertension::\n- E10.69: Type 1 diabetes mellitus with other specified complications\nHypertension Secondary to Diabetes::\n- I15.2: Hypertension secondary to endocrine disorders (including diabetes)\nNote::\n- If the hypertension is a complication of diabetes, it should be coded as E11.59 or E10.69, respectively.\n- If the hypertension is not related to diabetes, it should be coded separately as I10 (essential hypertension).\n- If the diabetes and hypertension are both present but there is no evidence of a causal relationship, they should be coded separately as E11.9 (type 2 diabetes) and I10 (hypertension)."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "E11.59: Type 2 diabetes mellitus with other circulatory complications",
+        "truthfulness": "90%",
+        "explanation": "E11.59 is a valid ICD-10-CM code for Type 2 diabetes mellitus with other circulatory complications, which can include hypertension if documented as a complication. However, hypertension is not automatically assumed to be a complication of diabetes unless explicitly documented by the provider.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/E11",
+          "https://www.aapc.com/discuss/threads/dm-with-htn.182264/"
+        ]
+      },
+      "1": {
+        "fact": "E10.69: Type 1 diabetes mellitus with other specified complications",
+        "truthfulness": "90%",
+        "explanation": "E10.69 is a valid ICD-10-CM code for Type 1 diabetes mellitus with other specified complications, which can include hypertension if documented as a complication. Similar to Type 2, the causal relationship must be documented by the provider.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/E11",
+          "https://www.aapc.com/discuss/threads/dm-with-htn.182264/"
+        ]
+      },
+      "2": {
+        "fact": "I15.2: Hypertension secondary to endocrine disorders (including diabetes)",
+        "truthfulness": "100%",
+        "explanation": "I15.2 is the correct ICD-10-CM code for hypertension secondary to endocrine disorders, which includes diabetes as a possible cause.",
+        "links": []
+      },
+      "3": {
+        "fact": "If the hypertension is a complication of diabetes, it should be coded as E11.59 or E10.69, respectively.",
+        "truthfulness": "85%",
+        "explanation": "This is generally correct, but coding guidelines emphasize that the causal relationship must be explicitly documented by the provider. Without such documentation, hypertension and diabetes should be coded separately.",
+        "links": [
+          "https://www.aapc.com/discuss/threads/dm-with-htn.182264/"
+        ]
+      },
+      "4": {
+        "fact": "If the hypertension is not related to diabetes, it should be coded separately as I10 (essential hypertension).",
+        "truthfulness": "100%",
+        "explanation": "When hypertension is not documented as related to diabetes, it should be coded separately as I10 for essential hypertension.",
+        "links": [
+          "https://www.aapc.com/discuss/threads/dm-with-htn.182264/"
+        ]
+      },
+      "5": {
+        "fact": "If the diabetes and hypertension are both present but there is no evidence of a causal relationship, they should be coded separately as E11.9 (type 2 diabetes) and I10 (hypertension).",
+        "truthfulness": "100%",
+        "explanation": "This aligns with official coding guidance that without documented causal relationship, diabetes and hypertension are coded separately using E11.9 and I10 respectively.",
+        "links": [
+          "https://www.aapc.com/discuss/threads/dm-with-htn.182264/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464106,
+      "id": "39vngbyu27maekrd",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/39vngbyu27maekrd",
+      "content": "Question: taking tylenol after covid vaccine Answer: Yes, it&#039;s generally fine to take Tylenol (acetaminophen) after receiving the COVID-19 vaccine to help manage potential side effects like fever or pain, according to the National Foundation for Infectious Diseases. However, it&#039;s not recommended to take it beforehand to try to prevent side effects. It&#039;s always a good idea to consult with your doctor or pharmacist for personalized advice, especially if you have any underlying health conditions or are taking other medications.",
+      "formattedContent": "Question: taking tylenol after covid vaccine\n\nAnswer: Yes, it's generally fine to take Tylenol (acetaminophen) after receiving the COVID-19 vaccine to help manage potential side effects like fever or pain, according to the National Foundation for Infectious Diseases. However, it's not recommended to take it beforehand to try to prevent side effects. It's always a good idea to consult with your doctor or pharmacist for personalized advice, especially if you have any underlying health conditions or are taking other medications."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "It's generally fine to take Tylenol (acetaminophen) after receiving the COVID-19 vaccine to help manage potential side effects like fever or pain, according to the National Foundation for Infectious Diseases.",
+        "truthfulness": 100,
+        "explanation": "Multiple sources confirm that taking acetaminophen (Tylenol) after COVID-19 vaccination to relieve side effects such as fever or pain is generally safe and does not interfere with vaccine efficacy. Clinical trial evidence and expert recommendations support this practice.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/avoid-pain-relievers-before-covid-19-vaccine",
+          "https://www.wesleyan.edu/healthservices/pdfdocuments/covidaftercareweb.pdf",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10759157/"
+        ]
+      },
+      "1": {
+        "fact": "However, it's not recommended to take it beforehand to try to prevent side effects.",
+        "truthfulness": 100,
+        "explanation": "Health authorities including the CDC and Advisory Committee on Immunization Practices recommend avoiding OTC pain relievers like acetaminophen before vaccination because of the possibility that they might weaken the immune response. This is a precaution due to limited research on pre-vaccination use.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/avoid-pain-relievers-before-covid-19-vaccine",
+          "https://medlineplus.gov/ency/patientinstructions/000983.htm"
+        ]
+      },
+      "2": {
+        "fact": "It's always a good idea to consult with your doctor or pharmacist for personalized advice, especially if you have any underlying health conditions or are taking other medications.",
+        "truthfulness": 100,
+        "explanation": "Medical guidance universally supports consulting healthcare professionals before taking medications, particularly for individuals with underlying health conditions or those on other drugs, to avoid adverse effects or interactions.",
+        "links": [
+          "https://www.wesleyan.edu/healthservices/pdfdocuments/covidaftercareweb.pdf",
+          "https://www.goodrx.com/conditions/covid-19/avoid-pain-relievers-before-covid-19-vaccine"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

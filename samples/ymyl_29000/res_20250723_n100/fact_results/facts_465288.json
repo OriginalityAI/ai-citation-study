@@ -1,0 +1,55 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36460743,
+      "id": "0o1zwk45arvgmlte",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/0o1zwk45arvgmlte",
+      "content": "Question: how long can diarrhea last with covid Answer: Diarrhea associated with COVID-19 typically lasts for 3 to 5 days. However, in some cases, it can persist for longer periods, up to 14 days or even longer in severe cases.",
+      "formattedContent": "Question: how long can diarrhea last with covid\n\nAnswer: Diarrhea associated with COVID-19 typically lasts for 3 to 5 days. However, in some cases, it can persist for longer periods, up to 14 days or even longer in severe cases."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Diarrhea associated with COVID-19 typically lasts for 3 to 5 days.",
+        "truthfulness": "90%",
+        "explanation": "Multiple sources report that diarrhea duration in COVID-19 patients averages around 3 to 5 days. For example, a study cited by Healthline found an average duration of 5 days, and a review article reported a median duration of 4 days. Another source states acute diarrhea generally lasts about 3 to 5 days. These findings support the claim with minor variation in exact average duration.",
+        "links": [
+          "https://www.uwcsim.org/sites/default/files/CoVID%20and%20diarrhea%20review.pdf",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7443214/",
+          "https://www.healthline.com/health/covid-diarrhea-color",
+          "https://cdhf.ca/en/diarrhea-as-a-symptom-of-the-coronavirus-covid-19/"
+        ]
+      },
+      "1": {
+        "fact": "In some cases, it can persist for longer periods, up to 14 days or even longer in severe cases.",
+        "truthfulness": "70%",
+        "explanation": "While the typical duration is around 3 to 5 days, some studies indicate diarrhea can last longer. One study noted diarrhea occurred only in patients with symptoms lasting more than 10 days, suggesting persistence beyond a week is possible. However, explicit evidence for diarrhea lasting up to 14 days or longer is less directly documented in the sources. The claim is plausible but less strongly supported by the cited literature.",
+        "links": [
+          "https://www.uwcsim.org/sites/default/files/CoVID%20and%20diarrhea%20review.pdf",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7443214/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

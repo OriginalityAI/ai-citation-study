@@ -1,0 +1,88 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36468718,
+      "id": "snfz6v3boy7cxagq",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/snfz6v3boy7cxagq",
+      "content": "Question: covid periode d&#039;incubation Answer: The incubation period for COVID-19 is the time between exposure to the virus and the onset of symptoms. It typically ranges from 2 to 14 days, with an average of 5-6 days. However, the incubation period can vary depending on factors such as:: - Variant of the virus: Some variants, such as Omicron, have a shorter incubation period. - Age and health of the individual: Younger and healthier individuals may have a shorter incubation period. - Viral load: Individuals exposed to higher viral loads may develop symptoms sooner. It&#039;s important to note that some people may be infected with COVID-19 without developing any symptoms. These asymptomatic cases can still spread the virus to others.",
+      "formattedContent": "Question: covid periode d'incubation\n\nAnswer: The incubation period for COVID-19 is the time between exposure to the virus and the onset of symptoms. It typically ranges from 2 to 14 days, with an average of 5-6 days.\nHowever, the incubation period can vary depending on factors such as::\n- Variant of the virus: Some variants, such as Omicron, have a shorter incubation period.\n- Age and health of the individual: Younger and healthier individuals may have a shorter incubation period.\n- Viral load: Individuals exposed to higher viral loads may develop symptoms sooner.\nIt's important to note that some people may be infected with COVID-19 without developing any symptoms. These asymptomatic cases can still spread the virus to others."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The incubation period for COVID-19 is the time between exposure to the virus and the onset of symptoms.",
+        "truthfulness": "100%",
+        "explanation": "This is the standard definition of the incubation period for infectious diseases, including COVID-19, as confirmed by multiple sources.",
+        "links": [
+          "https://ada.com/covid/covid-19-incubation-period/",
+          "https://www.pfizer.com/news/articles/why_the_covid_19_incubation_period_changes_and_how_that_can_affect_us"
+        ]
+      },
+      "1": {
+        "fact": "It typically ranges from 2 to 14 days, with an average of 5-6 days.",
+        "truthfulness": "95%",
+        "explanation": "The incubation period for COVID-19 is generally between 2 and 14 days, with median or average estimates around 5 to 6 days. Different studies report averages from about 5 to 6.5 days, and the 2-14 day range is widely accepted for quarantine guidelines.",
+        "links": [
+          "https://ada.com/covid/covid-19-incubation-period/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7081172/",
+          "https://www.cdc.gov/covid/hcp/clinical-care/covid19-presentation.html",
+          "https://www.webmd.com/covid/coronavirus-incubation-period"
+        ]
+      },
+      "2": {
+        "fact": "The incubation period can vary depending on factors such as: Variant of the virus: Some variants, such as Omicron, have a shorter incubation period.",
+        "truthfulness": "100%",
+        "explanation": "Studies show that variants like Omicron have shorter incubation periods (around 3-4 days) compared to earlier strains (4-6 days). This is supported by CDC and Pfizer data.",
+        "links": [
+          "https://www.cdc.gov/covid/hcp/clinical-care/covid19-presentation.html",
+          "https://www.webmd.com/covid/coronavirus-incubation-period",
+          "https://www.pfizer.com/news/articles/why_the_covid_19_incubation_period_changes_and_how_that_can_affect_us"
+        ]
+      },
+      "3": {
+        "fact": "The incubation period can vary depending on factors such as: Age and health of the individual: Younger and healthier individuals may have a shorter incubation period.",
+        "truthfulness": "Uncertain (Insufficient evidence)",
+        "explanation": "While immune response can influence disease progression, there is limited direct evidence that younger and healthier individuals consistently have shorter incubation periods. Most sources emphasize viral load and variant type as key factors, but do not conclusively link age and health status to incubation duration.",
+        "links": []
+      },
+      "4": {
+        "fact": "The incubation period can vary depending on factors such as: Viral load: Individuals exposed to higher viral loads may develop symptoms sooner.",
+        "truthfulness": "High (around 90%)",
+        "explanation": "Research indicates that the infecting dose or viral load can influence how quickly the virus replicates and symptoms appear, supporting the claim that higher viral loads may shorten incubation periods.",
+        "links": [
+          "https://ada.com/covid/covid-19-incubation-period/"
+        ]
+      },
+      "5": {
+        "fact": "Some people may be infected with COVID-19 without developing any symptoms. These asymptomatic cases can still spread the virus to others.",
+        "truthfulness": "100%",
+        "explanation": "It is well established that asymptomatic infections occur and that asymptomatic individuals can transmit SARS-CoV-2 to others.",
+        "links": [
+          "https://ada.com/covid/covid-19-incubation-period/",
+          "https://www.cdc.gov/covid/hcp/clinical-care/covid19-presentation.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

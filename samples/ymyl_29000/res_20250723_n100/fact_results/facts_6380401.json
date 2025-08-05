@@ -1,0 +1,102 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36470709,
+      "id": "7owavrm4djc65xl3",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/7owavrm4djc65xl3",
+      "content": "Question: covid 19 pcr test accuracy Answer: Polymerase Chain Reaction (PCR) tests are highly accurate for detecting COVID-19. Sensitivity:: - PCR tests can detect very low levels of the virus, with a sensitivity of around 95-99%. This means that if a person has COVID-19, the test is likely to detect it. Specificity:: - PCR tests are also very specific, with a specificity of around 99-100%. This means that if a person does not have COVID-19, the test is unlikely to give a false positive result. Factors Affecting Accuracy:: - The quality of the sample collected - The technical skills of the person performing the test - The type of PCR test used Overall: PCR tests are considered the gold standard for diagnosing COVID-19 due to their high accuracy. However, it&#039;s important to note that no test is perfect, and there may be rare cases where a PCR test can miss an infection or give a false positive result.",
+      "formattedContent": "Question: covid 19 pcr test accuracy\n\nAnswer: Polymerase Chain Reaction (PCR) tests are highly accurate for detecting COVID-19.\nSensitivity::\n- PCR tests can detect very low levels of the virus, with a sensitivity of around 95-99%. This means that if a person has COVID-19, the test is likely to detect it.\nSpecificity::\n- PCR tests are also very specific, with a specificity of around 99-100%. This means that if a person does not have COVID-19, the test is unlikely to give a false positive result.\nFactors Affecting Accuracy::\n- The quality of the sample collected\n- The technical skills of the person performing the test\n- The type of PCR test used\nOverall: PCR tests are considered the gold standard for diagnosing COVID-19 due to their high accuracy. However, it's important to note that no test is perfect, and there may be rare cases where a PCR test can miss an infection or give a false positive result."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Polymerase Chain Reaction (PCR) tests are highly accurate for detecting COVID-19.",
+        "truthfulness": "95%",
+        "explanation": "PCR tests have very high analytic sensitivity and specificity, often near 100% under ideal conditions, making them highly accurate for detecting SARS-CoV-2 RNA. However, clinical sensitivity can be lower (around 80%) due to biological and pre-analytic factors.",
+        "links": [
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8083455/"
+        ]
+      },
+      "1": {
+        "fact": "PCR tests can detect very low levels of the virus, with a sensitivity of around 95-99%.",
+        "truthfulness": "85%",
+        "explanation": "Analytical sensitivity of PCR tests is near 100% for detecting viral RNA copies (500-5000 copies/mL), but clinical sensitivity (ability to detect infection in patients) is lower, around 80%, due to factors like sample quality and timing of testing.",
+        "links": [
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests"
+        ]
+      },
+      "2": {
+        "fact": "If a person has COVID-19, the test is likely to detect it.",
+        "truthfulness": "80%",
+        "explanation": "PCR tests are likely to detect infection, but clinical sensitivity varies and can be around 80%, meaning some infected individuals may test negative due to timing, sample collection, or viral load.",
+        "links": [
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests"
+        ]
+      },
+      "3": {
+        "fact": "PCR tests are also very specific, with a specificity of around 99-100%.",
+        "truthfulness": "90%",
+        "explanation": "PCR tests have very high analytical specificity near 100%, but false positives can occur due to contamination or high cycle threshold values, especially in low prevalence settings, so specificity is close to but not always exactly 100%.",
+        "links": [
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8083455/"
+        ]
+      },
+      "4": {
+        "fact": "If a person does not have COVID-19, the test is unlikely to give a false positive result.",
+        "truthfulness": "90%",
+        "explanation": "False positives are rare but possible, mainly due to contamination or technical issues; thus, PCR tests are unlikely but not impossible to give false positives.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8083455/"
+        ]
+      },
+      "5": {
+        "fact": "Factors Affecting Accuracy: The quality of the sample collected, The technical skills of the person performing the test, The type of PCR test used",
+        "truthfulness": "100%",
+        "explanation": "These factors are well recognized as affecting the clinical accuracy of PCR tests, influencing sensitivity and specificity in real-world settings.",
+        "links": [
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests"
+        ]
+      },
+      "6": {
+        "fact": "PCR tests are considered the gold standard for diagnosing COVID-19 due to their high accuracy.",
+        "truthfulness": "100%",
+        "explanation": "PCR tests are widely accepted as the reference standard for SARS-CoV-2 detection because of their high analytic sensitivity and specificity.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8083455/"
+        ]
+      },
+      "7": {
+        "fact": "No test is perfect, and there may be rare cases where a PCR test can miss an infection or give a false positive result.",
+        "truthfulness": "100%",
+        "explanation": "It is acknowledged that PCR tests can have false negatives due to timing, sample issues, or low viral load, and false positives due to contamination or high cycle threshold values.",
+        "links": [
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8083455/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

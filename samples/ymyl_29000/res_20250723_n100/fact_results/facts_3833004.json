@@ -1,0 +1,86 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461288,
+      "id": "3y0b9incw52ktjma",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/3y0b9incw52ktjma",
+      "content": "Question: pfizer covid vaccine cpt codes Answer: The Pfizer COVID-19 vaccine is reported with specific CPT codes based on the patient&#039;s age and dosage. For patients 6 months through 11 years, code 91321 is used. For patients 12 years and older, code 91322 is used. These codes represent the vaccine product itself. In addition to the vaccine code, administration of the vaccine is reported with code 90480. For example, if a 10-year-old receives the Pfizer vaccine, the claim would include:: - 91321: (Pfizer COVID-19 vaccine, 25 mcg/0.25 mL dosage) - 90480: (administration) If a 15-year-old receives the Pfizer vaccine, the claim would include:: - 91322: (Pfizer COVID-19 vaccine, 50 mcg/0.5 mL dosage) - 90480: (administration)",
+      "formattedContent": "Question: pfizer covid vaccine cpt codes\n\nAnswer: The Pfizer COVID-19 vaccine is reported with specific CPT codes based on the patient's age and dosage. For patients 6 months through 11 years, code 91321 is used. For patients 12 years and older, code 91322 is used. These codes represent the vaccine product itself. In addition to the vaccine code, administration of the vaccine is reported with code 90480.\nFor example, if a 10-year-old receives the Pfizer vaccine, the claim would include::\n- 91321: (Pfizer COVID-19 vaccine, 25 mcg/0.25 mL dosage)\n- 90480: (administration)\nIf a 15-year-old receives the Pfizer vaccine, the claim would include::\n- 91322: (Pfizer COVID-19 vaccine, 50 mcg/0.5 mL dosage)\n- 90480: (administration)"
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "For patients 6 months through 11 years, code 91321 is used.",
+        "truthfulness": "0%",
+        "explanation": "The CPT code 91321 is not used for patients 6 months through 11 years for the Pfizer COVID-19 vaccine. According to the 2024-2025 COVID-19 vaccine codes, 91321 corresponds to a Moderna vaccine product (25 mcg/0.25 mL dosage) for ages 6 months to 11 years, not Pfizer. Pfizer codes for children 6 months to 4 years and 5 to 11 years are 91318 and 91319 respectively, with different dosages and volumes.",
+        "links": [
+          "https://www.ama-assn.org/practice-management/cpt/covid-19-cpt-vaccine-and-immunization-codes",
+          "https://health.wyo.gov/wp-content/uploads/2024/09/2024-2025-COVID-19-Vaccine-Cheat-Sheet.pdf"
+        ]
+      },
+      "1": {
+        "fact": "For patients 12 years and older, code 91322 is used.",
+        "truthfulness": "0%",
+        "explanation": "CPT code 91322 is assigned to a Moderna COVID-19 vaccine product (50 mcg/0.5 mL dosage), not Pfizer. The Pfizer vaccine for 12 years and older uses CPT code 91320 (30 mcg/0.3 mL dosage).",
+        "links": [
+          "https://www.ama-assn.org/practice-management/cpt/covid-19-cpt-vaccine-and-immunization-codes",
+          "https://health.wyo.gov/wp-content/uploads/2024/09/2024-2025-COVID-19-Vaccine-Cheat-Sheet.pdf"
+        ]
+      },
+      "2": {
+        "fact": "These codes represent the vaccine product itself.",
+        "truthfulness": "100%",
+        "explanation": "CPT codes such as 91318, 91319, 91320, 91321, and 91322 represent specific COVID-19 vaccine products, indicating the vaccine formulation and dosage.",
+        "links": [
+          "https://www.ama-assn.org/practice-management/cpt/covid-19-cpt-vaccine-and-immunization-codes"
+        ]
+      },
+      "3": {
+        "fact": "In addition to the vaccine code, administration of the vaccine is reported with code 90480.",
+        "truthfulness": "100%",
+        "explanation": "CPT code 90480 is used to report the administration of the COVID-19 vaccine, separate from the vaccine product code.",
+        "links": [
+          "https://www.ama-assn.org/practice-management/cpt/covid-19-cpt-vaccine-and-immunization-codes",
+          "https://maseniorcare.org/member-resources/e-news-updates/billing-information-updated-covid-19-vaccines-2024-2025-season"
+        ]
+      },
+      "4": {
+        "fact": "If a 10-year-old receives the Pfizer vaccine, the claim would include: 91321 (Pfizer COVID-19 vaccine, 25 mcg/0.25 mL dosage) and 90480 (administration).",
+        "truthfulness": "0%",
+        "explanation": "For a 10-year-old receiving the Pfizer vaccine, the correct CPT code is 91319 (Pfizer, 10 mcg/0.3 mL dosage) for ages 5-11 years, not 91321. Code 91321 corresponds to Moderna vaccine for ages 6 months to 11 years.",
+        "links": [
+          "https://health.wyo.gov/wp-content/uploads/2024/09/2024-2025-COVID-19-Vaccine-Cheat-Sheet.pdf"
+        ]
+      },
+      "5": {
+        "fact": "If a 15-year-old receives the Pfizer vaccine, the claim would include: 91322 (Pfizer COVID-19 vaccine, 50 mcg/0.5 mL dosage) and 90480 (administration).",
+        "truthfulness": "0%",
+        "explanation": "For a 15-year-old receiving the Pfizer vaccine, the correct CPT code is 91320 (Pfizer, 30 mcg/0.3 mL dosage) for ages 12 years and older. Code 91322 corresponds to Moderna vaccine for ages 12 years and older.",
+        "links": [
+          "https://health.wyo.gov/wp-content/uploads/2024/09/2024-2025-COVID-19-Vaccine-Cheat-Sheet.pdf"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36471882,
+      "id": "leg2ko1rpnj3fxc0",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/leg2ko1rpnj3fxc0",
+      "content": "Question: covid survival rate % Answer: The survival rate for COVID-19 varies significantly depending on factors such as age, underlying health conditions, and access to healthcare. According to the Centers for Disease Control and Prevention (CDC), as of December 2022, the overall survival rate for COVID-19 in the United States was around 98%. However, this rate is much lower for older adults and individuals with underlying conditions. Here are some estimated survival rates based on age:: - 0-19 years: 99.9% - 20-49 years: 99.7% - 50-69 years: 97.9% - 70-84 years: 89.4% - 85 years and older: 69.2% It&#039;s important to note that these are just estimates, and the actual survival rate may vary depending on the specific circumstances. Factors that can improve survival rates include early diagnosis, prompt treatment, and access to intensive care when necessary. Additionally, it&#039;s crucial to stay informed about the latest updates on COVID-19 and follow public health recommendations to protect yourself and others.",
+      "formattedContent": "Question: covid survival rate %\n\nAnswer: The survival rate for COVID-19 varies significantly depending on factors such as age, underlying health conditions, and access to healthcare.\nAccording to the Centers for Disease Control and Prevention (CDC), as of December 2022, the overall survival rate for COVID-19 in the United States was around 98%. However, this rate is much lower for older adults and individuals with underlying conditions.\nHere are some estimated survival rates based on age::\n- 0-19 years: 99.9%\n- 20-49 years: 99.7%\n- 50-69 years: 97.9%\n- 70-84 years: 89.4%\n- 85 years and older: 69.2%\nIt's important to note that these are just estimates, and the actual survival rate may vary depending on the specific circumstances. Factors that can improve survival rates include early diagnosis, prompt treatment, and access to intensive care when necessary.\nAdditionally, it's crucial to stay informed about the latest updates on COVID-19 and follow public health recommendations to protect yourself and others."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The survival rate for COVID-19 varies significantly depending on factors such as age, underlying health conditions, and access to healthcare.",
+        "truthfulness": "100%",
+        "explanation": "It is well established by health authorities including the CDC that COVID-19 survival rates vary widely based on age, comorbidities, and healthcare access.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance/underlying-conditions.html"
+        ]
+      },
+      "1": {
+        "fact": "According to the Centers for Disease Control and Prevention (CDC), as of December 2022, the overall survival rate for COVID-19 in the United States was around 98%.",
+        "truthfulness": "Approximately 95-98%",
+        "explanation": "CDC data on COVID-19 mortality rates indicate that the overall case fatality rate (CFR) has varied over time and by population, but an approximate survival rate of around 98% is consistent with estimates for the general population, especially considering underreporting of mild cases. Exact survival rates are not explicitly stated as 98% in the CDC sources but can be inferred from mortality data.",
+        "links": [
+          "https://www.cdc.gov/nchs/pressroom/sosmap/covid19_mortality/Provisional_COVD19.htm",
+          "https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance/underlying-conditions.html"
+        ]
+      },
+      "2": {
+        "fact": "Here are some estimated survival rates based on age: 0-19 years: 99.9%, 20-49 years: 99.7%, 50-69 years: 97.9%, 70-84 years: 89.4%, 85 years and older: 69.2%",
+        "truthfulness": "Approximately accurate but not directly from CDC",
+        "explanation": "These age-stratified survival rates align broadly with known COVID-19 mortality risk patterns, where younger age groups have very high survival rates and older adults have lower survival rates. However, the exact percentages cited are not directly found in the CDC provisional mortality data or official CDC publications but are consistent with estimates from epidemiological studies and CDC risk assessments.",
+        "links": []
+      },
+      "3": {
+        "fact": "Factors that can improve survival rates include early diagnosis, prompt treatment, and access to intensive care when necessary.",
+        "truthfulness": "100%",
+        "explanation": "Medical consensus and CDC guidance confirm that early diagnosis, timely treatment, and access to appropriate medical care including intensive care improve COVID-19 outcomes.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance/therapeutic-options.html"
+        ]
+      },
+      "4": {
+        "fact": "It\u2019s crucial to stay informed about the latest updates on COVID-19 and follow public health recommendations to protect yourself and others.",
+        "truthfulness": "100%",
+        "explanation": "Public health authorities including the CDC emphasize the importance of staying updated on COVID-19 information and following recommended preventive measures.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/index.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

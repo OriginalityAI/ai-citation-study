@@ -1,0 +1,76 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36459708,
+      "id": "x0hiufojdva7wpn1",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/x0hiufojdva7wpn1",
+      "content": "Question: aseptic meningitis due to aids icd 10 cm code Answer: The ICD-10-CM code for aseptic meningitis due to AIDS is B20, followed by G03.0. First, code B20 (Human immunodeficiency virus [HIV] disease) is used to indicate the underlying HIV/AIDS condition. Then, code G03.0 (Nonpyogenic meningitis) is used to specify the aseptic meningitis manifestation. Explanation:: - B20: Human immunodeficiency virus [HIV] disease: This code signifies the presence of HIV infection and AIDS. - G03.0: Nonpyogenic meningitis: This code specifically denotes aseptic meningitis, which is often caused by viral infections, including those associated with HIV/AIDS. Important Considerations:: - Code First Note: The ICD-10-CM guidelines require that the underlying condition (B20) be coded first, followed by the manifestation (G03.0). - Excludes1 Note: There is an Excludes1 note under B20 that indicates if the meningitis is bacterial, it should not be coded with B20.",
+      "formattedContent": "Question: aseptic meningitis due to aids icd 10 cm code\n\nAnswer: The ICD-10-CM code for aseptic meningitis due to AIDS is B20, followed by G03.0. First, code B20 (Human immunodeficiency virus [HIV] disease) is used to indicate the underlying HIV/AIDS condition. Then, code G03.0 (Nonpyogenic meningitis) is used to specify the aseptic meningitis manifestation.\nExplanation::\n- B20: Human immunodeficiency virus [HIV] disease: This code signifies the presence of HIV infection and AIDS.\n- G03.0: Nonpyogenic meningitis: This code specifically denotes aseptic meningitis, which is often caused by viral infections, including those associated with HIV/AIDS.\nImportant Considerations::\n- Code First Note: The ICD-10-CM guidelines require that the underlying condition (B20) be coded first, followed by the manifestation (G03.0).\n- Excludes1 Note: There is an Excludes1 note under B20 that indicates if the meningitis is bacterial, it should not be coded with B20."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The ICD-10-CM code for aseptic meningitis due to AIDS is B20, followed by G03.0.",
+        "truthfulness": "90%",
+        "explanation": "Code B20 is used for HIV disease, including AIDS, and G03.0 is for nonpyogenic (aseptic) meningitis. According to ICD-10-CM coding guidelines, the underlying condition (B20) is coded first, followed by the manifestation (G03.0). This aligns with standard coding practice for manifestations of HIV disease. However, official coding manuals or CMS guidelines should be consulted for confirmation, as some sources do not explicitly list this combination.",
+        "links": [
+          "https://www.cdc.gov/nchs/icd/icd10cm.htm",
+          "https://www.aapc.com/blog/48294-icd-10-coding-for-hiv-related-conditions/"
+        ]
+      },
+      "1": {
+        "fact": "B20: Human immunodeficiency virus [HIV] disease: This code signifies the presence of HIV infection and AIDS.",
+        "truthfulness": "100%",
+        "explanation": "ICD-10-CM code B20 is officially designated for HIV disease, which includes AIDS and related conditions.",
+        "links": [
+          "https://www.cdc.gov/nchs/icd/icd10cm.htm"
+        ]
+      },
+      "2": {
+        "fact": "G03.0: Nonpyogenic meningitis: This code specifically denotes aseptic meningitis, which is often caused by viral infections, including those associated with HIV/AIDS.",
+        "truthfulness": "100%",
+        "explanation": "ICD-10-CM code G03.0 is defined as nonpyogenic meningitis, which is synonymous with aseptic meningitis, commonly viral in origin and can be associated with HIV/AIDS.",
+        "links": [
+          "https://www.cdc.gov/nchs/icd/icd10cm.htm"
+        ]
+      },
+      "3": {
+        "fact": "Code First Note: The ICD-10-CM guidelines require that the underlying condition (B20) be coded first, followed by the manifestation (G03.0).",
+        "truthfulness": "100%",
+        "explanation": "ICD-10-CM coding guidelines specify that when coding manifestations of HIV disease, the underlying HIV condition (B20) is coded first, followed by the manifestation code such as G03.0 for aseptic meningitis.",
+        "links": [
+          "https://www.cdc.gov/nchs/icd/icd10cm.htm"
+        ]
+      },
+      "4": {
+        "fact": "Excludes1 Note: There is an Excludes1 note under B20 that indicates if the meningitis is bacterial, it should not be coded with B20.",
+        "truthfulness": "100%",
+        "explanation": "The Excludes1 note under B20 excludes bacterial meningitis from being coded with B20, meaning bacterial meningitis should be coded separately and not as a manifestation of HIV disease.",
+        "links": [
+          "https://www.cdc.gov/nchs/icd/icd10cm.htm"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

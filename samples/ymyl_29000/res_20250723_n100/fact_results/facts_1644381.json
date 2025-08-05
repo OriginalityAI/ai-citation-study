@@ -1,0 +1,73 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36473115,
+      "id": "bk5zxui0yq9rjgpm",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/bk5zxui0yq9rjgpm",
+      "content": "Question: barium swallow vs fluoroscopy Answer: Yes, a fluoroscopy and a barium swallow are essentially the same procedure. A barium swallow is a medical imaging test that uses a contrast agent called barium to visualize the upper gastrointestinal (GI) tract, including the esophagus, stomach, and part of the small intestine. Fluoroscopy is a real-time imaging technique that allows the doctor to observe the movement of the barium through the GI tract as the patient swallows. Therefore, a fluoroscopy is a type of barium swallow that provides dynamic imaging of the upper GI tract.",
+      "formattedContent": "Question: barium swallow vs fluoroscopy\n\nAnswer: Yes, a fluoroscopy and a barium swallow are essentially the same procedure.\nA barium swallow is a medical imaging test that uses a contrast agent called barium to visualize the upper gastrointestinal (GI) tract, including the esophagus, stomach, and part of the small intestine. Fluoroscopy is a real-time imaging technique that allows the doctor to observe the movement of the barium through the GI tract as the patient swallows.\nTherefore, a fluoroscopy is a type of barium swallow that provides dynamic imaging of the upper GI tract."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "a fluoroscopy and a barium swallow are essentially the same procedure",
+        "truthfulness": 80,
+        "explanation": "A barium swallow is a specific type of fluoroscopy procedure that uses barium as a contrast agent to visualize the upper GI tract. Fluoroscopy itself is a broader imaging technique that provides real-time X-ray imaging. Thus, a barium swallow is performed using fluoroscopy, but fluoroscopy is not limited to barium swallow procedures. They are related but not exactly the same procedure.",
+        "links": [
+          "https://www.chop.edu/treatments/barium-swallow",
+          "https://my.clevelandclinic.org/health/diagnostics/22766-esophagram",
+          "https://www.radiologyinfo.org/en/info/modbariumswallow"
+        ]
+      },
+      "1": {
+        "fact": "A barium swallow is a medical imaging test that uses a contrast agent called barium to visualize the upper gastrointestinal (GI) tract, including the esophagus, stomach, and part of the small intestine.",
+        "truthfulness": 95,
+        "explanation": "A barium swallow test uses barium as a contrast agent to visualize the esophagus and sometimes the stomach and upper small intestine. It is primarily focused on the upper GI tract. This is consistent with descriptions from multiple sources.",
+        "links": [
+          "https://www.chop.edu/treatments/barium-swallow",
+          "https://my.clevelandclinic.org/health/diagnostics/22766-esophagram",
+          "https://www.radiologyinfo.org/en/info/uppergi"
+        ]
+      },
+      "2": {
+        "fact": "Fluoroscopy is a real-time imaging technique that allows the doctor to observe the movement of the barium through the GI tract as the patient swallows.",
+        "truthfulness": 100,
+        "explanation": "Fluoroscopy is a real-time X-ray imaging technique that allows visualization of moving structures, such as barium moving through the GI tract during swallowing.",
+        "links": [
+          "https://my.clevelandclinic.org/health/diagnostics/22766-esophagram",
+          "https://www.radiologyinfo.org/en/info/modbariumswallow"
+        ]
+      },
+      "3": {
+        "fact": "Therefore, a fluoroscopy is a type of barium swallow that provides dynamic imaging of the upper GI tract.",
+        "truthfulness": 0,
+        "explanation": "This claim reverses the relationship. Fluoroscopy is the imaging technique, and a barium swallow is a procedure that uses fluoroscopy with barium contrast. Thus, a barium swallow is a type of fluoroscopy exam, not the other way around.",
+        "links": [
+          "https://www.chop.edu/treatments/barium-swallow",
+          "https://my.clevelandclinic.org/health/diagnostics/22766-esophagram"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

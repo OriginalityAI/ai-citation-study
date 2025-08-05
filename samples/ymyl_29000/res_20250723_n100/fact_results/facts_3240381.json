@@ -1,0 +1,92 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36470027,
+      "id": "qkotxlea15w3nv8g",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/qkotxlea15w3nv8g",
+      "content": "Question: can you give blood if you take medication Answer: Yes, in most cases, you can donate blood if you take medication. However, there are some exceptions:: - Medications that affect blood clotting: Anticoagulants (blood thinners) and antiplatelet medications can interfere with blood clotting and may make it unsafe to donate. - Medications that suppress the immune system: Immunosuppressants can increase the risk of transmitting infections through blood donation. - Medications for certain medical conditions: Medications for conditions such as cancer, active infections, and heart disease may also disqualify you from donating. It&#039;s important to disclose all medications you are taking to the blood donation center. They will review your medical history and determine if you are eligible to donate. In general, most common medications, such as antibiotics, birth control pills, and pain relievers, do not prevent blood donation. However, it&#039;s always best to consult with your healthcare provider or the blood donation center for specific guidance.",
+      "formattedContent": "Question: can you give blood if you take medication\n\nAnswer: Yes, in most cases, you can donate blood if you take medication. However, there are some exceptions::\n- Medications that affect blood clotting: Anticoagulants (blood thinners) and antiplatelet medications can interfere with blood clotting and may make it unsafe to donate.\n- Medications that suppress the immune system: Immunosuppressants can increase the risk of transmitting infections through blood donation.\n- Medications for certain medical conditions: Medications for conditions such as cancer, active infections, and heart disease may also disqualify you from donating.\nIt's important to disclose all medications you are taking to the blood donation center. They will review your medical history and determine if you are eligible to donate.\nIn general, most common medications, such as antibiotics, birth control pills, and pain relievers, do not prevent blood donation. However, it's always best to consult with your healthcare provider or the blood donation center for specific guidance."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Yes, in most cases, you can donate blood if you take medication.",
+        "truthfulness": "95%",
+        "explanation": "Most medications do not disqualify a person from donating blood, although some specific medications and conditions require deferral or waiting periods. This is supported by guidelines from the American Red Cross and other blood donation organizations indicating that common medications generally do not prevent donation[1][5].",
+        "links": [
+          "https://rapidpass.redcrossblood.org/iCASIMobileConfig/External/Files/SOPs/MedicationDeferralList.pdf",
+          "https://www.redcrossblood.org/donate-blood/how-to-donate/eligibility-requirements.html"
+        ]
+      },
+      "1": {
+        "fact": "Medications that affect blood clotting: Anticoagulants (blood thinners) and antiplatelet medications can interfere with blood clotting and may make it unsafe to donate.",
+        "truthfulness": "100%",
+        "explanation": "Anticoagulants and antiplatelet agents affect blood clotting and can increase the risk of bleeding or bruising during donation. Blood donation centers often defer donors taking these medications or restrict the type of donation (e.g., platelet donation). This is confirmed by the American Red Cross and Blood Assurance medication deferral lists[1][2].",
+        "links": [
+          "https://rapidpass.redcrossblood.org/iCASIMobileConfig/External/Files/SOPs/MedicationDeferralList.pdf",
+          "https://www.bloodassurance.org/medication-deferral-list"
+        ]
+      },
+      "2": {
+        "fact": "Medications that suppress the immune system: Immunosuppressants can increase the risk of transmitting infections through blood donation.",
+        "truthfulness": "85%",
+        "explanation": "Immunosuppressive medications may affect donor eligibility because they can increase infection risk or affect the safety of the blood supply. While the exact risk of transmission depends on the medication and condition, blood centers often defer donors on immunosuppressants or require evaluation. This is consistent with general blood donation guidelines, though specific immunosuppressants are not always explicitly listed in the provided sources[1][3].",
+        "links": []
+      },
+      "3": {
+        "fact": "Medications for certain medical conditions: Medications for conditions such as cancer, active infections, and heart disease may also disqualify you from donating.",
+        "truthfulness": "90%",
+        "explanation": "Certain medical conditions and their treatments, including cancer therapies and active infections, can disqualify donors temporarily or permanently. Heart disease medications may also affect eligibility depending on the condition's severity. This aligns with general blood donation eligibility criteria, though specific medication lists vary[1][3].",
+        "links": []
+      },
+      "4": {
+        "fact": "It's important to disclose all medications you are taking to the blood donation center. They will review your medical history and determine if you are eligible to donate.",
+        "truthfulness": "100%",
+        "explanation": "Blood donation centers require full disclosure of medications and medical history to ensure donor and recipient safety. Eligibility is assessed on a case-by-case basis by trained staff, as supported by all major blood donation organizations[1][5].",
+        "links": [
+          "https://rapidpass.redcrossblood.org/iCASIMobileConfig/External/Files/SOPs/MedicationDeferralList.pdf",
+          "https://www.redcrossblood.org/donate-blood/how-to-donate/eligibility-requirements.html"
+        ]
+      },
+      "5": {
+        "fact": "In general, most common medications, such as antibiotics, birth control pills, and pain relievers, do not prevent blood donation.",
+        "truthfulness": "90%",
+        "explanation": "Most common medications like birth control pills and pain relievers do not disqualify donors. Antibiotics may require a waiting period (e.g., 24 hours after the last dose) depending on the infection being treated. This is consistent with guidelines from Blood Assurance and other sources[2][3].",
+        "links": [
+          "https://www.bloodassurance.org/medication-deferral-list",
+          "https://communitypharmacy.com/2025/01/national-blood-donor-month-how-your-health-and-medications-can-impact-your-donation/"
+        ]
+      },
+      "6": {
+        "fact": "However, it's always best to consult with your healthcare provider or the blood donation center for specific guidance.",
+        "truthfulness": "100%",
+        "explanation": "Because eligibility depends on individual health status and specific medications, consulting healthcare providers or blood donation centers is recommended to ensure safe donation[1][5].",
+        "links": [
+          "https://rapidpass.redcrossblood.org/iCASIMobileConfig/External/Files/SOPs/MedicationDeferralList.pdf",
+          "https://www.redcrossblood.org/donate-blood/how-to-donate/eligibility-requirements.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461077,
+      "id": "1ho3dm4yztjlar8s",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/1ho3dm4yztjlar8s",
+      "content": "Question: cbc diagnosis code icd 10 Answer: The ICD-10 diagnosis code for a complete blood count (CBC) is:: - Z13.0 - Encounter for screening for diseases of the blood and blood-forming organs This code is used when a CBC is performed as a routine screening test, without a specific diagnosis in mind. If an abnormal CBC result is found, the appropriate diagnosis code for the specific abnormality should be used. For example, if anemia is detected, the code D64.9 (Anemia, unspecified) may be used. Other possible ICD-10 codes that may be associated with a CBC include:: - Z13.228 - Encounter for screening for newborn - R79.9 - Abnormal finding of blood chemistry, unspecified - D70.9 - Neutropenia, unspecified - D72.819 - Decreased white blood cell count, unspecified",
+      "formattedContent": "Question: cbc diagnosis code icd 10\n\nAnswer: The ICD-10 diagnosis code for a complete blood count (CBC) is::\n- Z13.0 - Encounter for screening for diseases of the blood and blood-forming organs\nThis code is used when a CBC is performed as a routine screening test, without a specific diagnosis in mind.\nIf an abnormal CBC result is found, the appropriate diagnosis code for the specific abnormality should be used. For example, if anemia is detected, the code D64.9 (Anemia, unspecified) may be used.\nOther possible ICD-10 codes that may be associated with a CBC include::\n- Z13.228 - Encounter for screening for newborn\n- R79.9 - Abnormal finding of blood chemistry, unspecified\n- D70.9 - Neutropenia, unspecified\n- D72.819 - Decreased white blood cell count, unspecified"
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The ICD-10 diagnosis code for a complete blood count (CBC) is:: - Z13.0 - Encounter for screening for diseases of the blood and blood-forming organs",
+        "truthfulness": "100%",
+        "explanation": "Z13.0 is the correct ICD-10 code used for encounters for screening for diseases of the blood and blood-forming organs, which applies when a CBC is performed as a routine screening test without a specific diagnosis.",
+        "links": [
+          "https://icdcodes.ai/diagnosis/complete-blood-count-with-diff/documentation"
+        ]
+      },
+      "1": {
+        "fact": "This code is used when a CBC is performed as a routine screening test, without a specific diagnosis in mind.",
+        "truthfulness": "100%",
+        "explanation": "Z13.0 is specifically designated for preventive screenings without suspected pathology, such as routine CBC screening.",
+        "links": [
+          "https://icdcodes.ai/diagnosis/complete-blood-count-with-diff/documentation"
+        ]
+      },
+      "2": {
+        "fact": "If an abnormal CBC result is found, the appropriate diagnosis code for the specific abnormality should be used.",
+        "truthfulness": "100%",
+        "explanation": "When a CBC reveals abnormalities, coding guidelines recommend using the specific diagnosis code for the abnormality rather than the screening code.",
+        "links": [
+          "https://icdcodes.ai/diagnosis/complete-blood-count-with-diff/documentation"
+        ]
+      },
+      "3": {
+        "fact": "If anemia is detected, the code D64.9 (Anemia, unspecified) may be used.",
+        "truthfulness": "100%",
+        "explanation": "D64.9 is the ICD-10 code for unspecified anemia and is appropriate when anemia is identified but not further specified.",
+        "links": [
+          "https://icdcodes.ai/diagnosis/complete-blood-count-with-diff/documentation"
+        ]
+      },
+      "4": {
+        "fact": "Other possible ICD-10 codes that may be associated with a CBC include:: - Z13.228 - Encounter for screening for newborn - R79.9 - Abnormal finding of blood chemistry, unspecified - D70.9 - Neutropenia, unspecified - D72.819 - Decreased white blood cell count, unspecified",
+        "truthfulness": "Partially true (about Z13.228, R79.9, D70.9); False (about D72.819)",
+        "explanation": "Z13.228 is a valid code for screening of newborns, which may include CBC screening. R79.9 is used for abnormal blood chemistry findings, which can be related to CBC abnormalities. D70.9 is the correct code for unspecified neutropenia. However, D72.819 is not a valid ICD-10 code; the correct code for decreased white blood cell count is D72.8 (Other specified disorders of white blood cells).",
+        "links": [
+          "https://icdcodes.ai/diagnosis/complete-blood-count-with-diff/documentation",
+          "https://www.icd10data.com/ICD10CM/Codes/D50-D89/D70-D77/D72-/D72.8"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

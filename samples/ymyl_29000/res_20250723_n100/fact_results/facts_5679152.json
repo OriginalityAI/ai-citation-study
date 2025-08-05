@@ -1,0 +1,72 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36462192,
+      "id": "p2dnylxwvk0jbgm5",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/p2dnylxwvk0jbgm5",
+      "content": "Question: what is performance status in cancer Answer: In cancer, performance status (PS) is a measure of a patient&#039;s ability to perform daily activities and overall physical function. It&#039;s a crucial factor in treatment decisions and prognosis, with higher scores indicating better physical functioning. It&#039;s often assessed using scales like the ECOG/WHO or Karnofsky Performance Status (KPS). Elaboration:: - What it measures: Performance status reflects how well a patient can care for themselves, perform daily tasks, and engage in physical activities.",
+      "formattedContent": "Question: what is performance status in cancer\n\nAnswer: In cancer, performance status (PS) is a measure of a patient's ability to perform daily activities and overall physical function. It's a crucial factor in treatment decisions and prognosis, with higher scores indicating better physical functioning. It's often assessed using scales like the ECOG/WHO or Karnofsky Performance Status (KPS).\nElaboration::\n- What it measures: Performance status reflects how well a patient can care for themselves, perform daily tasks, and engage in physical activities."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "In cancer, performance status (PS) is a measure of a patient's ability to perform daily activities and overall physical function.",
+        "truthfulness": "100%",
+        "explanation": "Performance status in oncology is defined as a measure of a cancer patient's general well-being and ability to perform activities of daily living and physical functions, as supported by multiple sources including Wikipedia and JAMA Oncology.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Performance_status",
+          "https://jamanetwork.com/journals/jamaoncology/fullarticle/2432463"
+        ]
+      },
+      "1": {
+        "fact": "It's a crucial factor in treatment decisions and prognosis, with higher scores indicating better physical functioning.",
+        "truthfulness": "100%",
+        "explanation": "Performance status is a central factor in cancer care, influencing prognosis and treatment decisions. Higher performance status scores correspond to better physical functioning, as noted in clinical guidelines and oncology literature.",
+        "links": [
+          "https://jamanetwork.com/journals/jamaoncology/fullarticle/2432463",
+          "https://en.wikipedia.org/wiki/Performance_status"
+        ]
+      },
+      "2": {
+        "fact": "It's often assessed using scales like the ECOG/WHO or Karnofsky Performance Status (KPS).",
+        "truthfulness": "100%",
+        "explanation": "The most commonly used scales to assess performance status in cancer patients are the ECOG (Eastern Cooperative Oncology Group)/WHO scale and the Karnofsky Performance Status scale, as confirmed by multiple authoritative sources.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Performance_status",
+          "https://ecog-acrin.org/resources/ecog-performance-status/",
+          "https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/how-to-join-a-clinical-trial/who-can-take-part-in-a-clinical-trial"
+        ]
+      },
+      "3": {
+        "fact": "Performance status reflects how well a patient can care for themselves, perform daily tasks, and engage in physical activities.",
+        "truthfulness": "100%",
+        "explanation": "Performance status measures a patient's ability to care for themselves, perform activities of daily living, and engage in physical activities such as walking and working, as described in the ECOG scale and oncology literature.",
+        "links": [
+          "https://ecog-acrin.org/resources/ecog-performance-status/",
+          "https://jamanetwork.com/journals/jamaoncology/fullarticle/2432463"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

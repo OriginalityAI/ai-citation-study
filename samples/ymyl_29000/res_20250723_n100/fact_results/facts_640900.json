@@ -1,0 +1,89 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36457493,
+      "id": "3nc1qr7vh6txjbmy",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/3nc1qr7vh6txjbmy",
+      "content": "Question: meaning of negative covid test Answer: A negative COVID-19 test result indicates that the test did not detect the presence of the SARS-CoV-2 virus in the sample tested. This does not necessarily mean that the individual is not infected with COVID-19, as the test may have limitations in detecting the virus, especially if the individual has a low viral load or is in the early stages of infection. It is important to note that:: - The sensitivity of the test used may vary. - The test may not be accurate if the sample is not collected or handled properly. - The individual may have been infected recently and the virus has not yet reached detectable levels. If symptoms of COVID-19 develop after a negative test, it is recommended to consult a healthcare professional for further evaluation and testing.",
+      "formattedContent": "Question: meaning of negative covid test\n\nAnswer: A negative COVID-19 test result indicates that the test did not detect the presence of the SARS-CoV-2 virus in the sample tested. This does not necessarily mean that the individual is not infected with COVID-19, as the test may have limitations in detecting the virus, especially if the individual has a low viral load or is in the early stages of infection.\nIt is important to note that::\n- The sensitivity of the test used may vary.\n- The test may not be accurate if the sample is not collected or handled properly.\n- The individual may have been infected recently and the virus has not yet reached detectable levels.\nIf symptoms of COVID-19 develop after a negative test, it is recommended to consult a healthcare professional for further evaluation and testing."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "A negative COVID-19 test result indicates that the test did not detect the presence of the SARS-CoV-2 virus in the sample tested.",
+        "truthfulness": "100%",
+        "explanation": "A negative test result means the virus was not detected in the sample, which is the standard interpretation of a negative COVID-19 test result.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test",
+          "https://www.unmc.edu/healthsecurity/transmission/2024/01/23/you-can-still-be-contagious-with-covid-if-you-have-a-negative-test-heres-why/"
+        ]
+      },
+      "1": {
+        "fact": "This does not necessarily mean that the individual is not infected with COVID-19, as the test may have limitations in detecting the virus, especially if the individual has a low viral load or is in the early stages of infection.",
+        "truthfulness": "100%",
+        "explanation": "Tests, especially rapid antigen tests, can produce false negatives if the viral load is low or if the test is taken early in the infection before the virus reaches detectable levels.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test",
+          "https://www.unmc.edu/healthsecurity/transmission/2024/01/23/you-can-still-be-contagious-with-covid-if-you-have-a-negative-test-heres-why/",
+          "https://www.healthline.com/health/how-accurate-are-rapid-covid-tests"
+        ]
+      },
+      "2": {
+        "fact": "The sensitivity of the test used may vary.",
+        "truthfulness": "100%",
+        "explanation": "Different COVID-19 tests have varying sensitivity, with rapid antigen tests generally less sensitive than PCR tests, affecting their ability to detect the virus.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test",
+          "https://www.healthline.com/health/how-accurate-are-rapid-covid-tests"
+        ]
+      },
+      "3": {
+        "fact": "The test may not be accurate if the sample is not collected or handled properly.",
+        "truthfulness": "100%",
+        "explanation": "Improper sample collection or handling can lead to inaccurate test results, including false negatives.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test"
+        ]
+      },
+      "4": {
+        "fact": "The individual may have been infected recently and the virus has not yet reached detectable levels.",
+        "truthfulness": "100%",
+        "explanation": "If the test is taken too soon after infection, the viral load may be below the detection threshold, resulting in a negative test despite infection.",
+        "links": [
+          "https://www.unmc.edu/healthsecurity/transmission/2024/01/23/you-can-still-be-contagious-with-covid-if-you-have-a-negative-test-heres-why/",
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test"
+        ]
+      },
+      "5": {
+        "fact": "If symptoms of COVID-19 develop after a negative test, it is recommended to consult a healthcare professional for further evaluation and testing.",
+        "truthfulness": "100%",
+        "explanation": "Medical guidance recommends follow-up testing or consultation if symptoms develop despite a negative test, due to the possibility of false negatives.",
+        "links": [
+          "https://www.healthline.com/health/how-accurate-are-rapid-covid-tests",
+          "https://www.uchealth.org/today/how-when-to-use-rapid-at-home-covid-19-tests/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

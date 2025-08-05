@@ -1,0 +1,70 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36465267,
+      "id": "inhg519osd4xaf6j",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/inhg519osd4xaf6j",
+      "content": "Question: covid monoclonal antibodies treatment Answer: Monoclonal antibodies are a type of medical treatment for COVID-19. They are lab-made versions of antibodies that help the body fight off the virus. Specifically, they are authorized for treating mild-to-moderate COVID-19 in adults and children who are at high risk of developing severe illness or needing hospitalization, according to the Centers for Medicare &amp; Medicaid Services (CMS). They can also be used for post-exposure prophylaxis (prevention).",
+      "formattedContent": "Question: covid monoclonal antibodies treatment\n\nAnswer: Monoclonal antibodies are a type of medical treatment for COVID-19. They are lab-made versions of antibodies that help the body fight off the virus. Specifically, they are authorized for treating mild-to-moderate COVID-19 in adults and children who are at high risk of developing severe illness or needing hospitalization, according to the Centers for Medicare & Medicaid Services (CMS). They can also be used for post-exposure prophylaxis (prevention)."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Monoclonal antibodies are a type of medical treatment for COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "Monoclonal antibodies (mAbs) are laboratory-made proteins that mimic the immune system's ability to fight off harmful pathogens such as viruses, including SARS-CoV-2, the virus that causes COVID-19. They have been authorized and used as treatments for COVID-19.",
+        "links": [
+          "https://pubmed.ncbi.nlm.nih.gov/40402009/",
+          "https://www.cms.gov/monoclonal",
+          "https://www.idsociety.org/practice-guideline/covid-19-guideline-treatment-and-management/"
+        ]
+      },
+      "1": {
+        "fact": "They are lab-made versions of antibodies that help the body fight off the virus.",
+        "truthfulness": "100%",
+        "explanation": "Monoclonal antibodies are produced in the lab to specifically target the SARS-CoV-2 virus, neutralizing it and helping the immune system to fight the infection.",
+        "links": [
+          "https://pubmed.ncbi.nlm.nih.gov/40402009/",
+          "https://www.cms.gov/monoclonal"
+        ]
+      },
+      "2": {
+        "fact": "They are authorized for treating mild-to-moderate COVID-19 in adults and children who are at high risk of developing severe illness or needing hospitalization, according to the Centers for Medicare & Medicaid Services (CMS).",
+        "truthfulness": "100%",
+        "explanation": "The FDA has authorized monoclonal antibody therapies for treatment of mild-to-moderate COVID-19 in adults and pediatric patients who have tested positive and are at high risk for progression to severe disease or hospitalization. CMS continues to pay for these treatments under Part B preventive vaccine benefit.",
+        "links": [
+          "https://www.cms.gov/monoclonal"
+        ]
+      },
+      "3": {
+        "fact": "They can also be used for post-exposure prophylaxis (prevention).",
+        "truthfulness": "100%",
+        "explanation": "Certain monoclonal antibody therapies have been authorized for post-exposure prophylaxis to prevent COVID-19 infection in high-risk individuals after exposure to the virus.",
+        "links": [
+          "https://www.cms.gov/monoclonal"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

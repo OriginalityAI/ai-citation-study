@@ -1,0 +1,55 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36469254,
+      "id": "o4lkhwj81c96b0uy",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/o4lkhwj81c96b0uy",
+      "content": "Question: what are the symptoms of flu Answer: The common symptoms of the flu include:: - Fever or chills - Cough - Sore throat - Runny or stuffy nose - Body aches and pains - Headache - Fatigue - Nausea and vomiting (especially in children) Some people may also experience: Diarrhea, Chest pain, Shortness of breath, and Confusion or dizziness.",
+      "formattedContent": "Question: what are the symptoms of flu\n\nAnswer: The common symptoms of the flu include::\n- Fever or chills\n- Cough\n- Sore throat\n- Runny or stuffy nose\n- Body aches and pains\n- Headache\n- Fatigue\n- Nausea and vomiting (especially in children)\nSome people may also experience:\nDiarrhea, Chest pain, Shortness of breath, and Confusion or dizziness."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The common symptoms of the flu include: Fever or chills, Cough, Sore throat, Runny or stuffy nose, Body aches and pains, Headache, Fatigue, Nausea and vomiting (especially in children)",
+        "truthfulness": "100%",
+        "explanation": "The listed symptoms match those described by authoritative sources such as the CDC, Wikipedia, Healthdirect, and Better Health Channel. Fever or chills, cough, sore throat, runny or stuffy nose, body aches, headache, fatigue, and nausea/vomiting especially in children are all commonly reported flu symptoms.",
+        "links": [
+          "https://www.cdc.gov/flu/signs-symptoms/index.html",
+          "https://en.wikipedia.org/wiki/Influenza",
+          "https://www.healthdirect.gov.au/flu",
+          "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/flu-influenza"
+        ]
+      },
+      "1": {
+        "fact": "Some people may also experience: Diarrhea, Chest pain, Shortness of breath, and Confusion or dizziness.",
+        "truthfulness": "85%",
+        "explanation": "Diarrhea is noted as a possible symptom, especially in children, by CDC and Wikipedia. Confusion is mentioned as a symptom in Wikipedia and CDC (as part of severe symptoms or complications). Chest pain and shortness of breath are not typical primary flu symptoms but can occur as signs of complications such as pneumonia, which is a known serious flu complication. Thus, while these symptoms can be associated with flu complications, they are not common initial symptoms.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Influenza",
+          "https://www.cdc.gov/flu/signs-symptoms/index.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

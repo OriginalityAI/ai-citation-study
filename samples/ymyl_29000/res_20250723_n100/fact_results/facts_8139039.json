@@ -1,0 +1,91 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36457967,
+      "id": "lo5t3mfn8g6xph09",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/lo5t3mfn8g6xph09",
+      "content": "Question: how many calories in french bread Answer: The calorie content of French bread varies depending on the size and type of bread. Here are some general estimates:: - 1 slice (medium): 185 calories - 1 slice (large): 277 calories - 1 small baguette (6 inches): 210 calories - 1 large baguette (12 inches): 900 calories Note that these are just estimates, and actual calorie content may vary depending on factors such as: Brand, Ingredients, Baking method, and Thickness of slices. If you want to know the exact calorie content of a specific French bread, consult the nutrition label or contact the manufacturer.",
+      "formattedContent": "Question: how many calories in french bread\n\nAnswer: The calorie content of French bread varies depending on the size and type of bread. Here are some general estimates::\n- 1 slice (medium): 185 calories\n- 1 slice (large): 277 calories\n- 1 small baguette (6 inches): 210 calories\n- 1 large baguette (12 inches): 900 calories\nNote that these are just estimates, and actual calorie content may vary depending on factors such as:\nBrand, Ingredients, Baking method, and Thickness of slices.\nIf you want to know the exact calorie content of a specific French bread, consult the nutrition label or contact the manufacturer."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "1 slice (medium): 185 calories",
+        "truthfulness": 95,
+        "explanation": "According to FoodStruct, a medium slice of French bread (59 g) contains approximately 188 calories, which closely matches the claim of 185 calories per medium slice.",
+        "links": [
+          "https://foodstruct.com/food/french-bread"
+        ]
+      },
+      "1": {
+        "fact": "1 slice (large): 277 calories",
+        "truthfulness": 95,
+        "explanation": "FoodStruct lists a large slice (88 g) of French bread as having 281 calories, which is very close to the claim of 277 calories for a large slice.",
+        "links": [
+          "https://foodstruct.com/food/french-bread"
+        ]
+      },
+      "2": {
+        "fact": "1 small baguette (6 inches): 210 calories",
+        "truthfulness": 70,
+        "explanation": "No direct data was found for a 6-inch baguette specifically, but given that 100 g of French bread has about 319 calories and a small baguette of 6 inches likely weighs around 65-70 g, 210 calories is a reasonable estimate though not directly confirmed.",
+        "links": [
+          "https://foodstruct.com/food/french-bread"
+        ]
+      },
+      "3": {
+        "fact": "1 large baguette (12 inches): 900 calories",
+        "truthfulness": 80,
+        "explanation": "A 12-inch baguette typically weighs around 250-300 g. At approximately 319 calories per 100 g, this would yield roughly 800-950 calories, so 900 calories is a plausible estimate though exact weight and recipe variations affect this.",
+        "links": [
+          "https://foodstruct.com/food/french-bread"
+        ]
+      },
+      "4": {
+        "fact": "The calorie content of French bread varies depending on the size and type of bread.",
+        "truthfulness": 100,
+        "explanation": "Calorie content varies with size, type, ingredients, and preparation method, as supported by the variation in calories per slice and bread type in the sources.",
+        "links": [
+          "https://foodstruct.com/food/french-bread",
+          "https://bakecrafters.com/product/4069"
+        ]
+      },
+      "5": {
+        "fact": "Actual calorie content may vary depending on factors such as: Brand, Ingredients, Baking method, and Thickness of slices.",
+        "truthfulness": 100,
+        "explanation": "Different brands and recipes, as well as slice thickness, affect calorie content, which is consistent with the nutritional variations seen in the sources.",
+        "links": [
+          "https://foodstruct.com/food/french-bread",
+          "https://bakecrafters.com/product/4069"
+        ]
+      },
+      "6": {
+        "fact": "If you want to know the exact calorie content of a specific French bread, consult the nutrition label or contact the manufacturer.",
+        "truthfulness": 100,
+        "explanation": "This is standard advice for accurate nutritional information and is supported by the presence of nutrition labels and manufacturer contact info in the sources.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

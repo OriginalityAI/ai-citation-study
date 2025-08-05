@@ -1,0 +1,105 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36471028,
+      "id": "vsnqx87ob1z9d6ce",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/vsnqx87ob1z9d6ce",
+      "content": "Question: what is txn in crypto Answer: In the context of cryptocurrency, TXNs is an abbreviation for &quot;transactions&quot;. These are records of digital asset transfers between different addresses on a blockchain network. Each transaction is cryptographically secured and added to a block on the blockchain, becoming a permanent part of the distributed ledger. Here&#039;s a more detailed explanation:: - Transactions (TXNs): They represent the core activity on a blockchain, involving the movement of cryptocurrencies or other digital assets from one user&#039;s address to another. - Decentralized Nature: Unlike traditional financial systems, cryptocurrency transactions are decentralized, meaning they are not controlled by a central authority. - Blockchain Recording: Each transaction is recorded on the blockchain, a distributed and immutable ledger that provides transparency and security. - Verification and Confirmation: Transactions are verified by network participants (miners or validators) and then added to a block, which is then linked to the previous block, creating a chain. - Transaction Hash: Each transaction is assigned a unique identifier called a transaction hash (or TXID) which allows users to track and verify the transaction on a block explorer.",
+      "formattedContent": "Question: what is txn in crypto\n\nAnswer: In the context of cryptocurrency, TXNs is an abbreviation for \"transactions\". These are records of digital asset transfers between different addresses on a blockchain network. Each transaction is cryptographically secured and added to a block on the blockchain, becoming a permanent part of the distributed ledger.\nHere's a more detailed explanation::\n- Transactions (TXNs): They represent the core activity on a blockchain, involving the movement of cryptocurrencies or other digital assets from one user's address to another.\n- Decentralized Nature: Unlike traditional financial systems, cryptocurrency transactions are decentralized, meaning they are not controlled by a central authority.\n- Blockchain Recording: Each transaction is recorded on the blockchain, a distributed and immutable ledger that provides transparency and security.\n- Verification and Confirmation: Transactions are verified by network participants (miners or validators) and then added to a block, which is then linked to the previous block, creating a chain.\n- Transaction Hash: Each transaction is assigned a unique identifier called a transaction hash (or TXID) which allows users to track and verify the transaction on a block explorer."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "In the context of cryptocurrency, TXNs is an abbreviation for \"transactions\".",
+        "truthfulness": 100,
+        "explanation": "TXN is a common abbreviation for 'transaction' in cryptocurrency contexts, referring to the transfer or record of digital asset movements on a blockchain.",
+        "links": [
+          "https://www.web3labs.com/blockchain-explained-what-is-a-blockchain-transaction",
+          "https://www.kraken.com/learn/how-do-cryptocurrency-transactions-work"
+        ]
+      },
+      "1": {
+        "fact": "These are records of digital asset transfers between different addresses on a blockchain network.",
+        "truthfulness": 100,
+        "explanation": "Transactions on a blockchain record the transfer of cryptocurrencies or digital assets from one address to another, forming the core data entries on the blockchain ledger.",
+        "links": [
+          "https://www.web3labs.com/blockchain-explained-what-is-a-blockchain-transaction",
+          "https://www.kraken.com/learn/how-do-cryptocurrency-transactions-work"
+        ]
+      },
+      "2": {
+        "fact": "Each transaction is cryptographically secured and added to a block on the blockchain, becoming a permanent part of the distributed ledger.",
+        "truthfulness": 100,
+        "explanation": "Transactions are cryptographically signed and verified before being grouped into blocks, which are then added to the blockchain, making the transaction data immutable and permanent.",
+        "links": [
+          "https://www.rba.gov.au/education/resources/explainers/cryptocurrencies.html",
+          "https://www.kraken.com/learn/how-do-cryptocurrency-transactions-work"
+        ]
+      },
+      "3": {
+        "fact": "Transactions (TXNs): They represent the core activity on a blockchain, involving the movement of cryptocurrencies or other digital assets from one user's address to another.",
+        "truthfulness": 100,
+        "explanation": "The primary function of blockchain transactions is to record the transfer of digital assets between users, which is the fundamental activity on blockchain networks.",
+        "links": [
+          "https://www.web3labs.com/blockchain-explained-what-is-a-blockchain-transaction",
+          "https://www.kraken.com/learn/how-do-cryptocurrency-transactions-work"
+        ]
+      },
+      "4": {
+        "fact": "Unlike traditional financial systems, cryptocurrency transactions are decentralized, meaning they are not controlled by a central authority.",
+        "truthfulness": 100,
+        "explanation": "Blockchain networks operate in a decentralized manner where no single entity controls the ledger; transactions are validated by distributed participants (nodes, miners, or validators).",
+        "links": [
+          "https://www.kraken.com/learn/how-do-cryptocurrency-transactions-work"
+        ]
+      },
+      "5": {
+        "fact": "Each transaction is recorded on the blockchain, a distributed and immutable ledger that provides transparency and security.",
+        "truthfulness": 100,
+        "explanation": "The blockchain acts as a distributed ledger where transactions are permanently recorded and cannot be altered, ensuring transparency and security.",
+        "links": [
+          "https://www.kraken.com/learn/how-do-cryptocurrency-transactions-work",
+          "https://www.rba.gov.au/education/resources/explainers/cryptocurrencies.html"
+        ]
+      },
+      "6": {
+        "fact": "Transactions are verified by network participants (miners or validators) and then added to a block, which is then linked to the previous block, creating a chain.",
+        "truthfulness": 100,
+        "explanation": "Transactions must be validated by miners or validators through consensus mechanisms before being included in a block, which is cryptographically linked to the previous block, forming the blockchain.",
+        "links": [
+          "https://www.rba.gov.au/education/resources/explainers/cryptocurrencies.html",
+          "https://www.kraken.com/learn/how-do-cryptocurrency-transactions-work"
+        ]
+      },
+      "7": {
+        "fact": "Each transaction is assigned a unique identifier called a transaction hash (or TXID) which allows users to track and verify the transaction on a block explorer.",
+        "truthfulness": 100,
+        "explanation": "Every blockchain transaction has a unique transaction hash (TXID) that serves as an identifier, enabling users to look up and verify transaction details on blockchain explorers.",
+        "links": [
+          "https://www.web3labs.com/blockchain-explained-what-is-a-blockchain-transaction"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

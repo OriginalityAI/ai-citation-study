@@ -1,0 +1,62 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461773,
+      "id": "g4jol9xa7kz3cu2n",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/g4jol9xa7kz3cu2n",
+      "content": "Question: how many days before symptoms contagious covid Answer: People with COVID-19 are generally contagious from 1-2 days before the onset of symptoms until at least 8-10 days after symptoms appear. The highest viral load and greatest risk of transmission occur during the first few days of illness, typically when symptoms are most severe. However, some people may remain contagious for longer periods, especially if they have a weakened immune system or underlying health conditions.",
+      "formattedContent": "Question: how many days before symptoms contagious covid\n\nAnswer: People with COVID-19 are generally contagious from 1-2 days before the onset of symptoms until at least 8-10 days after symptoms appear.\nThe highest viral load and greatest risk of transmission occur during the first few days of illness, typically when symptoms are most severe. However, some people may remain contagious for longer periods, especially if they have a weakened immune system or underlying health conditions."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "People with COVID-19 are generally contagious from 1-2 days before the onset of symptoms until at least 8-10 days after symptoms appear.",
+        "truthfulness": "95%",
+        "explanation": "According to the CDC, people with COVID-19 can be infectious from 1\u20132 days before and up to 8\u201310 days after symptoms begin, with the majority of transmission occurring early in the infection period[4]. Other sources also support contagiousness starting 1-3 days before symptoms[1][3].",
+        "links": [
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html",
+          "https://www.webmd.com/covid/coronavirus-incubation-period",
+          "https://www.goodrx.com/conditions/covid-19/covid-most-contagious-when"
+        ]
+      },
+      "1": {
+        "fact": "The highest viral load and greatest risk of transmission occur during the first few days of illness, typically when symptoms are most severe.",
+        "truthfulness": "90%",
+        "explanation": "Research indicates that the highest viral load and greatest contagiousness occur in the early days of symptoms, often 1-2 days before and shortly after symptom onset[1][4]. This period corresponds to when symptoms are often most severe, though severity can vary.",
+        "links": [
+          "https://www.webmd.com/covid/coronavirus-incubation-period",
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+        ]
+      },
+      "2": {
+        "fact": "Some people may remain contagious for longer periods, especially if they have a weakened immune system or underlying health conditions.",
+        "truthfulness": "85%",
+        "explanation": "While most people are contagious for about 8-10 days after symptom onset, immunocompromised individuals or those with certain health conditions may shed virus longer and remain contagious beyond this period[3]. This is consistent with clinical observations though exact durations vary.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-most-contagious-when"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

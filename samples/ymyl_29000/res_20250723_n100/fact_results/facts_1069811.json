@@ -1,0 +1,65 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36472015,
+      "id": "01esf8r5opzqcn9m",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/01esf8r5opzqcn9m",
+      "content": "Question: what are the worst cancers Answer: The deadliest cancers, based on mortality rates, are: Men: Lung and bronchus, Prostate, Colon and rectum, Pancreatic, and Liver and intrahepatic bile duct. Women: lung and bronchus, breast, colon and rectum, pancreatic, and ovarian. These cancers are considered the worst because they have: High mortality rates, Aggressive growth, Limited treatment options, and Often diagnosed at later stages when the cancer is more advanced. It&#039;s important to note that cancer mortality rates can vary depending on factors such as age, race, and access to healthcare.",
+      "formattedContent": "Question: what are the worst cancers\n\nAnswer: \nThe deadliest cancers, based on mortality rates, are:\nMen: Lung and bronchus, Prostate, Colon and rectum, Pancreatic, and Liver and intrahepatic bile duct.\nWomen: lung and bronchus, breast, colon and rectum, pancreatic, and ovarian.\nThese cancers are considered the worst because they have:\nHigh mortality rates, Aggressive growth, Limited treatment options, and Often diagnosed at later stages when the cancer is more advanced.\nIt's important to note that cancer mortality rates can vary depending on factors such as age, race, and access to healthcare."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The deadliest cancers, based on mortality rates, are: Men: Lung and bronchus, Prostate, Colon and rectum, Pancreatic, and Liver and intrahepatic bile duct.",
+        "truthfulness": "100%",
+        "explanation": "According to the American Cancer Society's 2025 data, the top five deadliest cancers in men by mortality are lung and bronchus, prostate, colon and rectum, pancreatic, and liver and intrahepatic bile duct cancers, matching the claim exactly.",
+        "links": [
+          "https://seer.cancer.gov/statfacts/html/common.html",
+          "https://www.unitypoint.org/news-and-articles/most-dangerous-cancers-in-men-and-women"
+        ]
+      },
+      "1": {
+        "fact": "The deadliest cancers, based on mortality rates, are: Women: lung and bronchus, breast, colon and rectum, pancreatic, and ovarian.",
+        "truthfulness": "Approximately 90%",
+        "explanation": "The deadliest cancers in women include lung and bronchus, breast, colon and rectum, and pancreatic cancers as stated. Ovarian cancer is often listed among the more deadly cancers but is not always in the top five by mortality; some sources prioritize ovarian cancer over liver cancer or others. The main four cancers listed are correct, and ovarian cancer is commonly considered among the worst but may vary slightly by source.",
+        "links": [
+          "https://seer.cancer.gov/statfacts/html/common.html",
+          "https://www.rheumatologyadvisor.com/news/cancer-statistics-for-2025/"
+        ]
+      },
+      "2": {
+        "fact": "These cancers are considered the worst because they have: High mortality rates, Aggressive growth, Limited treatment options, and Often diagnosed at later stages when the cancer is more advanced.",
+        "truthfulness": "100%",
+        "explanation": "The cancers listed are known for high mortality rates, aggressive behavior, limited effective treatments, and late-stage diagnosis, which contribute to their severity and poor prognosis.",
+        "links": []
+      },
+      "3": {
+        "fact": "Cancer mortality rates can vary depending on factors such as age, race, and access to healthcare.",
+        "truthfulness": "100%",
+        "explanation": "It is well established in oncology research that cancer mortality rates vary by demographic factors including age, race, and healthcare access, affecting outcomes and survival rates.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

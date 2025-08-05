@@ -1,0 +1,73 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464579,
+      "id": "v41qphfnagtwr97i",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/v41qphfnagtwr97i",
+      "content": "Question: what is the incubation period of covid 19 Answer: The incubation period of COVID-19, the time between exposure to the virus and the onset of symptoms, is typically between 2 and 14 days. However, it can range from 1 to 24 days. The average incubation period is around 5-6 days. Most people develop symptoms within 11 days of exposure.",
+      "formattedContent": "Question: what is the incubation period of covid 19\n\nAnswer: The incubation period of COVID-19, the time between exposure to the virus and the onset of symptoms, is typically between 2 and 14 days. However, it can range from 1 to 24 days.\nThe average incubation period is around 5-6 days. Most people develop symptoms within 11 days of exposure."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The incubation period of COVID-19, the time between exposure to the virus and the onset of symptoms, is typically between 2 and 14 days.",
+        "truthfulness": "100%",
+        "explanation": "Multiple authoritative sources, including CDC and peer-reviewed studies, confirm that the typical incubation period for COVID-19 ranges from 2 to 14 days after exposure[1][2][4].",
+        "links": [
+          "https://ada.com/covid/covid-19-incubation-period/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7081172/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7869687/"
+        ]
+      },
+      "1": {
+        "fact": "However, it can range from 1 to 24 days.",
+        "truthfulness": "60%",
+        "explanation": "While the typical range is 2 to 14 days, some rare cases have reported incubation periods shorter than 2 days or longer than 14 days, but 24 days is an outlier and not widely supported by large studies. Most research cites the upper bound around 14 days, with very few exceptions beyond that[2][4].",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7081172/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7869687/"
+        ]
+      },
+      "2": {
+        "fact": "The average incubation period is around 5-6 days.",
+        "truthfulness": "95%",
+        "explanation": "Studies estimate the median or mean incubation period to be approximately 5 days, with some estimates around 5 to 6 days, consistent across multiple analyses[1][2][4].",
+        "links": [
+          "https://ada.com/covid/covid-19-incubation-period/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7081172/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7869687/"
+        ]
+      },
+      "3": {
+        "fact": "Most people develop symptoms within 11 days of exposure.",
+        "truthfulness": "90%",
+        "explanation": "Research indicates that the vast majority of cases develop symptoms within 11 days, with the 97.5th percentile of incubation period estimates around 11 days, supporting this claim[2][4].",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7081172/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7869687/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

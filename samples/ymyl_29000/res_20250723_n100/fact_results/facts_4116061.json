@@ -1,0 +1,87 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461334,
+      "id": "28iprzbackg3lw54",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/28iprzbackg3lw54",
+      "content": "Question: vldl cholesterol calculation Answer: Calculation of Very Low-Density Lipoprotein (VLDL) Cholesterol VLDL cholesterol is a type of fat that travels in the bloodstream and can contribute to cardiovascular disease. It is not directly measured but can be estimated using the following formula: VLDL cholesterol (mg/dL) = Triglyceride level (mg/dL) / 5 Example: If your triglyceride level is 150 mg/dL, then your estimated VLDL cholesterol would be: VLDL cholesterol = 150 mg/dL / 5 = 30 mg/dL Note:: - This formula is only accurate for individuals with triglyceride levels below 400 mg/dL. - If your triglyceride levels are higher, a different formula may be used. - It is important to consult with a healthcare professional for accurate VLDL cholesterol measurement and interpretation.",
+      "formattedContent": "Question: vldl cholesterol calculation\n\nAnswer: Calculation of Very Low-Density Lipoprotein (VLDL) Cholesterol\nVLDL cholesterol is a type of fat that travels in the bloodstream and can contribute to cardiovascular disease. It is not directly measured but can be estimated using the following formula:\nVLDL cholesterol (mg/dL) = Triglyceride level (mg/dL) / 5\nExample:\nIf your triglyceride level is 150 mg/dL, then your estimated VLDL cholesterol would be:\nVLDL cholesterol = 150 mg/dL / 5 = 30 mg/dL\nNote::\n- This formula is only accurate for individuals with triglyceride levels below 400 mg/dL.\n- If your triglyceride levels are higher, a different formula may be used.\n- It is important to consult with a healthcare professional for accurate VLDL cholesterol measurement and interpretation."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "VLDL cholesterol is a type of fat that travels in the bloodstream and can contribute to cardiovascular disease.",
+        "truthfulness": 100,
+        "explanation": "VLDL (Very Low-Density Lipoprotein) cholesterol is a lipoprotein that carries triglycerides in the blood and is considered a type of 'bad' cholesterol because it can contribute to plaque buildup in arteries, increasing cardiovascular disease risk.",
+        "links": [
+          "https://my.clevelandclinic.org/health/articles/24540-vldl-cholesterol",
+          "https://www.mdapp.co/vldl-cholesterol-calculator-452/"
+        ]
+      },
+      "1": {
+        "fact": "It is not directly measured but can be estimated using the following formula: VLDL cholesterol (mg/dL) = Triglyceride level (mg/dL) / 5",
+        "truthfulness": 100,
+        "explanation": "VLDL cholesterol is typically not measured directly in standard lipid panels. Instead, it is estimated by dividing the triglyceride level by 5, a widely accepted formula known as Friedewald's equation, valid for triglyceride levels below 400 mg/dL.",
+        "links": [
+          "https://www.acko.com/calculators/vldl-calculator/",
+          "https://www.omnicalculator.com/health/vldl",
+          "https://www.healthcentral.com/condition/high-cholesterol/vldl-cholesterol",
+          "https://my.clevelandclinic.org/health/articles/24540-vldl-cholesterol"
+        ]
+      },
+      "2": {
+        "fact": "Example: If your triglyceride level is 150 mg/dL, then your estimated VLDL cholesterol would be: VLDL cholesterol = 150 mg/dL / 5 = 30 mg/dL",
+        "truthfulness": 100,
+        "explanation": "Using the formula VLDL = Triglycerides / 5, a triglyceride level of 150 mg/dL results in an estimated VLDL cholesterol of 30 mg/dL, which is a correct calculation.",
+        "links": [
+          "https://www.acko.com/calculators/vldl-calculator/",
+          "https://www.omnicalculator.com/health/vldl"
+        ]
+      },
+      "3": {
+        "fact": "This formula is only accurate for individuals with triglyceride levels below 400 mg/dL.",
+        "truthfulness": 100,
+        "explanation": "The Friedewald formula for estimating VLDL cholesterol is valid only when triglyceride levels are below 400 mg/dL; above this level, the estimation becomes unreliable and alternative methods are recommended.",
+        "links": [
+          "https://www.omnicalculator.com/health/vldl",
+          "https://www.healthcentral.com/condition/high-cholesterol/vldl-cholesterol"
+        ]
+      },
+      "4": {
+        "fact": "If your triglyceride levels are higher, a different formula may be used.",
+        "truthfulness": 100,
+        "explanation": "For triglyceride levels above 400 mg/dL, other formulas such as those developed by Wilson et al. are used to estimate VLDL cholesterol more accurately, as the standard formula loses accuracy.",
+        "links": [
+          "https://www.omnicalculator.com/health/vldl"
+        ]
+      },
+      "5": {
+        "fact": "It is important to consult with a healthcare professional for accurate VLDL cholesterol measurement and interpretation.",
+        "truthfulness": 100,
+        "explanation": "Because VLDL cholesterol estimation depends on triglyceride levels and other factors, and because high levels may require alternative calculations or direct measurement, consulting a healthcare professional is essential for accurate assessment and interpretation.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

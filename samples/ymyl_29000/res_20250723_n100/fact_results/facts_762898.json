@@ -1,0 +1,62 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36458740,
+      "id": "grvnwe7ho85kjb6y",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/grvnwe7ho85kjb6y",
+      "content": "Question: pfizer covid vaccine-side effects Answer: Common side effects of the Pfizer COVID-19 vaccine include pain, redness, or swelling at the injection site, fatigue, headache, muscle pain, joint pain, chills, and fever, according to the Centers for Disease Control and Prevention | CDC (.gov). Some individuals may also experience nausea or vomiting. These side effects are typically mild to moderate and resolve within a few days.",
+      "formattedContent": "Question: pfizer covid vaccine-side effects\n\nAnswer: Common side effects of the Pfizer COVID-19 vaccine include pain, redness, or swelling at the injection site, fatigue, headache, muscle pain, joint pain, chills, and fever, according to the Centers for Disease Control and Prevention | CDC (.gov). Some individuals may also experience nausea or vomiting. These side effects are typically mild to moderate and resolve within a few days."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Common side effects of the Pfizer COVID-19 vaccine include pain, redness, or swelling at the injection site, fatigue, headache, muscle pain, joint pain, chills, and fever, according to the Centers for Disease Control and Prevention | CDC (.gov).",
+        "truthfulness": "100%",
+        "explanation": "The CDC lists these as common side effects of mRNA COVID-19 vaccines including Pfizer-BioNTech: pain, soreness, redness at injection site, fatigue, headache, muscle pain, joint pain, chills, and fever. These are typically mild and resolve quickly.",
+        "links": [
+          "https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html",
+          "https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/info-by-product/pfizer/reactogenicity.html",
+          "https://www.cdc.gov/vaccines/covid-19/eui/downloads/pfizer-caregiver.pdf"
+        ]
+      },
+      "1": {
+        "fact": "Some individuals may also experience nausea or vomiting.",
+        "truthfulness": "90%",
+        "explanation": "Nausea and vomiting are reported side effects more commonly associated with Moderna vaccine but are also listed for Pfizer in some CDC documents. While less common for Pfizer, nausea/vomiting can occur.",
+        "links": [
+          "https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html"
+        ]
+      },
+      "2": {
+        "fact": "These side effects are typically mild to moderate and resolve within a few days.",
+        "truthfulness": "100%",
+        "explanation": "CDC data and Pfizer clinical trial reports indicate that most systemic and local side effects are mild to moderate in severity and generally resolve within 1 to 4 days after vaccination.",
+        "links": [
+          "https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/info-by-product/pfizer/reactogenicity.html",
+          "https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

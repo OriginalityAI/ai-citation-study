@@ -1,0 +1,92 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36462485,
+      "id": "ruaj21izv46q8wfl",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/ruaj21izv46q8wfl",
+      "content": "Question: covid and gastrointestinal symptoms Answer: Gastrointestinal (GI) symptoms are common in COVID-19 infection. These symptoms can include: Diarrhea, Nausea, Vomiting, Abdominal pain, and Loss of appetite. GI symptoms can occur in up to 50% of COVID-19 patients. They may appear early in the course of the infection, or they may develop later. GI symptoms can also be a sign of long COVID, which is the ongoing symptoms that some people experience after recovering from COVID-19. It is important to note that GI symptoms can also be caused by other conditions, such as food poisoning or gastroenteritis. If you experience GI symptoms, it is recommended to seek medical attention to determine the underlying cause.",
+      "formattedContent": "Question: covid and gastrointestinal symptoms\n\nAnswer: Gastrointestinal (GI) symptoms are common in COVID-19 infection. These symptoms can include: Diarrhea, Nausea, Vomiting, Abdominal pain, and Loss of appetite.\nGI symptoms can occur in up to 50% of COVID-19 patients. They may appear early in the course of the infection, or they may develop later. GI symptoms can also be a sign of long COVID, which is the ongoing symptoms that some people experience after recovering from COVID-19.\nIt is important to note that GI symptoms can also be caused by other conditions, such as food poisoning or gastroenteritis. If you experience GI symptoms, it is recommended to seek medical attention to determine the underlying cause."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Gastrointestinal (GI) symptoms are common in COVID-19 infection.",
+        "truthfulness": "90%",
+        "explanation": "Multiple studies report that GI symptoms occur in a significant portion of COVID-19 patients, with prevalence estimates ranging from about 16% to as high as 50% in some cohorts, indicating that GI symptoms are indeed common though prevalence varies by study and population.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10167716/",
+          "https://www.ccjm.org/content/early/2021/02/17/ccjm.87a.ccc049",
+          "https://ejim.springeropen.com/articles/10.1186/s43162-022-00132-w"
+        ]
+      },
+      "1": {
+        "fact": "These symptoms can include: Diarrhea, Nausea, Vomiting, Abdominal pain, and Loss of appetite.",
+        "truthfulness": "100%",
+        "explanation": "Studies consistently identify diarrhea, nausea, vomiting, abdominal pain, and loss of appetite as common GI symptoms in COVID-19 patients.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10167716/",
+          "https://www.ccjm.org/content/early/2021/02/17/ccjm.87a.ccc049",
+          "https://ejim.springeropen.com/articles/10.1186/s43162-022-00132-w"
+        ]
+      },
+      "2": {
+        "fact": "GI symptoms can occur in up to 50% of COVID-19 patients.",
+        "truthfulness": "80%",
+        "explanation": "Some studies report GI symptom prevalence as high as 50%, especially when including loss of appetite (anorexia) as a GI symptom; however, many studies report lower prevalence rates (16%-34%), so 'up to 50%' is accurate as an upper bound but not typical.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10167716/",
+          "https://www.ccjm.org/content/early/2021/02/17/ccjm.87a.ccc049"
+        ]
+      },
+      "3": {
+        "fact": "They may appear early in the course of the infection, or they may develop later.",
+        "truthfulness": "90%",
+        "explanation": "GI symptoms have been reported both at presentation and during the course of COVID-19 infection, indicating they can appear early or later.",
+        "links": [
+          "https://www.ccjm.org/content/early/2021/02/17/ccjm.87a.ccc049"
+        ]
+      },
+      "4": {
+        "fact": "GI symptoms can also be a sign of long COVID, which is the ongoing symptoms that some people experience after recovering from COVID-19.",
+        "truthfulness": "90%",
+        "explanation": "Prolonged GI symptoms such as nausea, vomiting, diarrhea, abdominal pain, and loss of appetite have been documented in long COVID survivors, though prevalence is lower than during acute infection.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8171196/"
+        ]
+      },
+      "5": {
+        "fact": "It is important to note that GI symptoms can also be caused by other conditions, such as food poisoning or gastroenteritis.",
+        "truthfulness": "100%",
+        "explanation": "GI symptoms are nonspecific and can result from many causes including infections like food poisoning and gastroenteritis, not only COVID-19.",
+        "links": []
+      },
+      "6": {
+        "fact": "If you experience GI symptoms, it is recommended to seek medical attention to determine the underlying cause.",
+        "truthfulness": "100%",
+        "explanation": "Medical evaluation is advised to identify the cause of GI symptoms, especially during the COVID-19 pandemic, to ensure appropriate diagnosis and treatment.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461972,
+      "id": "wnlzokiuq437fp8r",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/wnlzokiuq437fp8r",
+      "content": "Question: is the covid booster the same as the vaccine Answer: No, the COVID-19 booster shot is not the same as the initial vaccine series. The booster shot is an additional dose of the COVID-19 vaccine that is given after the completion of the primary vaccination series (two doses for most vaccines). The booster is designed to:: - Boost immunity levels that may have waned over time - Provide broader protection against emerging variants of the virus The booster shot may use the same vaccine as the primary series or a different one, depending on the individual&#039;s vaccination history and eligibility.",
+      "formattedContent": "Question: is the covid booster the same as the vaccine\n\nAnswer: No, the COVID-19 booster shot is not the same as the initial vaccine series.\nThe booster shot is an additional dose of the COVID-19 vaccine that is given after the completion of the primary vaccination series (two doses for most vaccines). The booster is designed to::\n- Boost immunity levels that may have waned over time\n- Provide broader protection against emerging variants of the virus\nThe booster shot may use the same vaccine as the primary series or a different one, depending on the individual's vaccination history and eligibility."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "No, the COVID-19 booster shot is not the same as the initial vaccine series.",
+        "truthfulness": "100%",
+        "explanation": "The booster shot is an additional dose given after the primary vaccination series, designed to enhance or restore immunity that may have decreased over time, thus it is distinct from the initial vaccine series.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10267329/",
+          "https://www.va.gov/health/docs/COVID-19-Vaccine-Booster-8-Important-Facts.pdf"
+        ]
+      },
+      "1": {
+        "fact": "The booster shot is an additional dose of the COVID-19 vaccine that is given after the completion of the primary vaccination series (two doses for most vaccines).",
+        "truthfulness": "100%",
+        "explanation": "Most COVID-19 vaccines require a primary series of two doses, after which a booster dose is given to maintain or increase immunity. The timing varies by vaccine type and individual circumstances.",
+        "links": [
+          "https://www.va.gov/health/docs/COVID-19-Vaccine-Booster-8-Important-Facts.pdf",
+          "https://www.health.gov.au/sites/default/files/2023-11/covid-19-vaccines-the-difference-between-the-third-dose-and-a-booster-dose-easy-read.pdf"
+        ]
+      },
+      "2": {
+        "fact": "The booster is designed to boost immunity levels that may have waned over time.",
+        "truthfulness": "100%",
+        "explanation": "Studies show that immunity from the initial vaccine series can decrease over time, and booster doses help restore antibody levels and immune protection.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10267329/",
+          "https://www.yalemedicine.org/news/covid-19-vaccine-comparison"
+        ]
+      },
+      "3": {
+        "fact": "The booster is designed to provide broader protection against emerging variants of the virus.",
+        "truthfulness": "90%",
+        "explanation": "Booster doses can enhance immune response and may provide improved protection against some variants, though the degree of broader protection can vary depending on the vaccine formulation and circulating variants.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10267329/"
+        ]
+      },
+      "4": {
+        "fact": "The booster shot may use the same vaccine as the primary series or a different one, depending on the individual's vaccination history and eligibility.",
+        "truthfulness": "100%",
+        "explanation": "Heterologous (mix-and-match) booster dosing is authorized and practiced, allowing individuals to receive a different vaccine brand for their booster than their primary series, based on eligibility and availability.",
+        "links": [
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Vaccine-Booster-QA.aspx",
+          "https://www.va.gov/health/docs/COVID-19-Vaccine-Booster-8-Important-Facts.pdf"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

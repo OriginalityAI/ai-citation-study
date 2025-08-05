@@ -1,0 +1,145 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36465061,
+      "id": "pcguql7bnje3as0f",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/pcguql7bnje3as0f",
+      "content": "Question: calculation of interest on loan Answer: To calculate interest on a loan, you need the principal amount, the interest rate, and the loan term. Simple interest is calculated by multiplying these three factors together. For more complex loans like amortized loans, a more involved calculation is needed. Here&#039;s a breakdown: 1. Simple Interest:: - Formula: Simple Interest (SI) = Principal (P) * Rate (R) * Time (T) - Example: For a $10,000 loan at 5% interest for 3 years: 2. Amortized Loans (e.g., mortgages):: - Periodic Rate: Divide the annual interest rate by the number of payment periods per year (e.g., 12 for monthly payments). - Monthly Payment: A more complex formula is used to calculate the total monthly payment, which includes both principal and interest. - Interest Allocation: With each payment, a portion goes towards interest and the rest towards the principal. The interest portion is calculated based on the outstanding principal balance. - Example: For a mortgage, the interest portion of your payment will be higher at the beginning of the loan term and decrease over time as the principal balance is reduced. 3. Compound Interest (e.g., credit cards):: - Interest is calculated not only on the principal but also on the accumulated interest from previous periods. - This leads to exponential growth of interest charges over time, especially with high interest rates. Key things to remember:: - Principal: The initial amount borrowed. - Interest Rate: The percentage charged for borrowing the money. - Loan Term: The duration of the loan (usually in years). - Annual Percentage Rate (APR): Includes the interest rate and other fees associated with the loan. Understanding these concepts and calculations will help you better understand the cost of borrowing and make informed financial decisions.",
+      "formattedContent": "Question: calculation of interest on loan\n\nAnswer: To calculate interest on a loan, you need the principal amount, the interest rate, and the loan term. Simple interest is calculated by multiplying these three factors together. For more complex loans like amortized loans, a more involved calculation is needed.\nHere's a breakdown:\n1. Simple Interest::\n- Formula: Simple Interest (SI) = Principal (P) * Rate (R) * Time (T)\n- Example: For a $10,000 loan at 5% interest for 3 years:\n2. Amortized Loans (e.g., mortgages)::\n- Periodic Rate: Divide the annual interest rate by the number of payment periods per year (e.g., 12 for monthly payments).\n- Monthly Payment: A more complex formula is used to calculate the total monthly payment, which includes both principal and interest.\n- Interest Allocation: With each payment, a portion goes towards interest and the rest towards the principal. The interest portion is calculated based on the outstanding principal balance.\n- Example: For a mortgage, the interest portion of your payment will be higher at the beginning of the loan term and decrease over time as the principal balance is reduced.\n3. Compound Interest (e.g., credit cards)::\n- Interest is calculated not only on the principal but also on the accumulated interest from previous periods.\n- This leads to exponential growth of interest charges over time, especially with high interest rates.\nKey things to remember::\n- Principal: The initial amount borrowed.\n- Interest Rate: The percentage charged for borrowing the money.\n- Loan Term: The duration of the loan (usually in years).\n- Annual Percentage Rate (APR): Includes the interest rate and other fees associated with the loan.\nUnderstanding these concepts and calculations will help you better understand the cost of borrowing and make informed financial decisions."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "To calculate interest on a loan, you need the principal amount, the interest rate, and the loan term.",
+        "truthfulness": "100%",
+        "explanation": "Calculating interest requires these three components: principal (the initial amount), interest rate, and time period, as confirmed by multiple sources on simple interest calculation.",
+        "links": [
+          "https://byjus.com/maths/simple-interest/",
+          "https://www.calculator.net/simple-interest-calculator.html",
+          "https://www.cuemath.com/commercial-math/simple-interest/"
+        ]
+      },
+      "1": {
+        "fact": "Simple interest is calculated by multiplying these three factors together.",
+        "truthfulness": "100%",
+        "explanation": "Simple interest formula is SI = P \u00d7 R \u00d7 T (with R as a decimal or divided by 100 if in percentage), which involves multiplying principal, rate, and time.",
+        "links": [
+          "https://byjus.com/maths/simple-interest/",
+          "https://www.calculator.net/simple-interest-calculator.html",
+          "https://www.cuemath.com/commercial-math/simple-interest/"
+        ]
+      },
+      "2": {
+        "fact": "Simple Interest (SI) = Principal (P) * Rate (R) * Time (T)",
+        "truthfulness": "100%",
+        "explanation": "This is the standard formula for simple interest, where rate is expressed as a decimal or percentage divided by 100.",
+        "links": [
+          "https://byjus.com/maths/simple-interest/",
+          "https://www.cuemath.com/commercial-math/simple-interest/"
+        ]
+      },
+      "3": {
+        "fact": "For a $10,000 loan at 5% interest for 3 years:",
+        "truthfulness": "Incomplete claim",
+        "explanation": "The example is incomplete as it does not provide the calculated interest or total amount, but the parameters are valid for simple interest calculation.",
+        "links": []
+      },
+      "4": {
+        "fact": "For amortized loans (e.g., mortgages), periodic rate is the annual interest rate divided by the number of payment periods per year (e.g., 12 for monthly payments).",
+        "truthfulness": "100%",
+        "explanation": "Amortized loans use periodic interest rates calculated by dividing the annual rate by the number of payment periods, such as monthly payments.",
+        "links": []
+      },
+      "5": {
+        "fact": "Monthly Payment: A more complex formula is used to calculate the total monthly payment, which includes both principal and interest.",
+        "truthfulness": "100%",
+        "explanation": "Amortized loan payments are calculated using formulas that combine principal and interest components, typically involving amortization schedules.",
+        "links": []
+      },
+      "6": {
+        "fact": "Interest Allocation: With each payment, a portion goes towards interest and the rest towards the principal. The interest portion is calculated based on the outstanding principal balance.",
+        "truthfulness": "100%",
+        "explanation": "In amortized loans, each payment covers interest on the remaining principal and reduces the principal balance accordingly.",
+        "links": []
+      },
+      "7": {
+        "fact": "For a mortgage, the interest portion of your payment will be higher at the beginning of the loan term and decrease over time as the principal balance is reduced.",
+        "truthfulness": "100%",
+        "explanation": "This is a standard characteristic of amortized loans where early payments are mostly interest, decreasing as principal is paid down.",
+        "links": []
+      },
+      "8": {
+        "fact": "Compound Interest (e.g., credit cards): Interest is calculated not only on the principal but also on the accumulated interest from previous periods.",
+        "truthfulness": "100%",
+        "explanation": "Compound interest involves interest on both principal and previously accrued interest, leading to exponential growth.",
+        "links": []
+      },
+      "9": {
+        "fact": "This leads to exponential growth of interest charges over time, especially with high interest rates.",
+        "truthfulness": "100%",
+        "explanation": "Compound interest causes interest to grow exponentially, particularly noticeable with high rates or long periods.",
+        "links": []
+      },
+      "10": {
+        "fact": "Principal: The initial amount borrowed.",
+        "truthfulness": "100%",
+        "explanation": "Principal is defined as the original amount of money borrowed or invested.",
+        "links": [
+          "https://byjus.com/maths/simple-interest/",
+          "https://www.cuemath.com/commercial-math/simple-interest/"
+        ]
+      },
+      "11": {
+        "fact": "Interest Rate: The percentage charged for borrowing the money.",
+        "truthfulness": "100%",
+        "explanation": "Interest rate is the percentage charged on the principal for borrowing funds.",
+        "links": [
+          "https://byjus.com/maths/simple-interest/",
+          "https://www.cuemath.com/commercial-math/simple-interest/"
+        ]
+      },
+      "12": {
+        "fact": "Loan Term: The duration of the loan (usually in years).",
+        "truthfulness": "100%",
+        "explanation": "Loan term refers to the length of time over which the loan is to be repaid, commonly expressed in years.",
+        "links": [
+          "https://byjus.com/maths/simple-interest/",
+          "https://www.cuemath.com/commercial-math/simple-interest/"
+        ]
+      },
+      "13": {
+        "fact": "Annual Percentage Rate (APR): Includes the interest rate and other fees associated with the loan.",
+        "truthfulness": "100%",
+        "explanation": "APR represents the annual cost of borrowing including interest and other fees, providing a more comprehensive cost measure.",
+        "links": []
+      },
+      "14": {
+        "fact": "Understanding these concepts and calculations will help you better understand the cost of borrowing and make informed financial decisions.",
+        "truthfulness": "Subjective but reasonable",
+        "explanation": "Knowledge of loan interest calculations aids in financial literacy and decision-making, though this is a general statement rather than a factual claim.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

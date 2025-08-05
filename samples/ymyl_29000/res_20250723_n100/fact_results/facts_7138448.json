@@ -1,0 +1,80 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36460421,
+      "id": "vlg4ixkzphc7ws8d",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/vlg4ixkzphc7ws8d",
+      "content": "Question: treatment of dysentery Answer: Dysentery treatment depends on the cause but often includes antibiotics and supportive care like rehydration. For bacterial dysentery, antibiotics like ciprofloxacin, azithromycin, or metronidazole may be prescribed. If caused by a parasite (amoebic dysentery), metronidazole or tinidazole is typically used. Rehydration with oral or intravenous fluids is crucial to prevent dehydration. Detailed Treatment:: - Severe Cases: In severe cases with complications like dehydration or significant blood loss, hospitalization and potentially blood transfusions may be required.",
+      "formattedContent": "Question: treatment of dysentery\n\nAnswer: Dysentery treatment depends on the cause but often includes antibiotics and supportive care like rehydration. For bacterial dysentery, antibiotics like ciprofloxacin, azithromycin, or metronidazole may be prescribed. If caused by a parasite (amoebic dysentery), metronidazole or tinidazole is typically used. Rehydration with oral or intravenous fluids is crucial to prevent dehydration.\nDetailed Treatment::\n- Severe Cases: In severe cases with complications like dehydration or significant blood loss, hospitalization and potentially blood transfusions may be required."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Dysentery treatment depends on the cause but often includes antibiotics and supportive care like rehydration.",
+        "truthfulness": 100,
+        "explanation": "Treatment of dysentery varies based on whether it is bacterial or amoebic, and typically involves antibiotics for bacterial causes and supportive care such as rehydration to prevent dehydration.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6021764/",
+          "https://www.nhs.uk/conditions/dysentery/",
+          "https://my.clevelandclinic.org/health/drugs/23567-dysentery"
+        ]
+      },
+      "1": {
+        "fact": "For bacterial dysentery, antibiotics like ciprofloxacin, azithromycin, or metronidazole may be prescribed.",
+        "truthfulness": 90,
+        "explanation": "Ciprofloxacin is recommended as first-line treatment for bacterial dysentery (shigellosis) by WHO guidelines. Azithromycin is considered a second-line therapy. Metronidazole is not typically used for bacterial dysentery but rather for amoebic dysentery.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6021764/",
+          "https://www.nhs.uk/conditions/dysentery/"
+        ]
+      },
+      "2": {
+        "fact": "If caused by a parasite (amoebic dysentery), metronidazole or tinidazole is typically used.",
+        "truthfulness": 100,
+        "explanation": "Amoebic dysentery caused by Entamoeba histolytica is treated with metronidazole or tinidazole as standard therapy.",
+        "links": [
+          "https://my.clevelandclinic.org/health/drugs/23567-dysentery",
+          "https://www.nhs.uk/conditions/dysentery/"
+        ]
+      },
+      "3": {
+        "fact": "Rehydration with oral or intravenous fluids is crucial to prevent dehydration.",
+        "truthfulness": 100,
+        "explanation": "Rehydration, preferably oral rehydration therapy, is the first step in treating diarrheal illnesses including dysentery to prevent dehydration. Intravenous fluids are used if oral rehydration is not feasible.",
+        "links": [
+          "https://www.aafp.org/pubs/afp/issues/2014/0201/p180.html",
+          "https://my.clevelandclinic.org/health/drugs/23567-dysentery"
+        ]
+      },
+      "4": {
+        "fact": "In severe cases with complications like dehydration or significant blood loss, hospitalization and potentially blood transfusions may be required.",
+        "truthfulness": 100,
+        "explanation": "Severe dysentery cases with complications such as dehydration or significant blood loss may require hospital admission and, in rare cases, blood transfusions.",
+        "links": [
+          "https://my.clevelandclinic.org/health/drugs/23567-dysentery"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

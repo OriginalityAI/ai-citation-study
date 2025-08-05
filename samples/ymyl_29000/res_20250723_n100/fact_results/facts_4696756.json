@@ -1,0 +1,98 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36463271,
+      "id": "s6z25mxtge10blvp",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/s6z25mxtge10blvp",
+      "content": "Question: athlete\u2019s foot can be treated by using antifungal medication which functions to Answer: Antifungal medications used to treat athlete&#039;s foot function by inhibiting or killing the fungus that causes the infection. Specifically, these medications:: - Disrupt fungal cell walls: They interfere with the synthesis of essential components of the fungal cell wall, leading to its weakening and eventual destruction. - Inhibit fungal enzyme activity: They block enzymes that are crucial for fungal growth and metabolism, preventing the fungus from multiplying and spreading. - Alter fungal membrane function: They alter the permeability of the fungal cell membrane, allowing harmful substances to enter and disrupting cellular processes. Examples of antifungal medications commonly used for athlete&#039;s foot include: clotrimazole, miconazole, terbinafine, and tolnaftate. These medications can be applied topically (as creams, ointments, or sprays) or taken orally. The choice of medication and its administration method depends on the severity of the infection and the individual patient&#039;s preferences.",
+      "formattedContent": "Question: athlete\u2019s foot can be treated by using antifungal medication which functions to\n\nAnswer: Antifungal medications used to treat athlete's foot function by inhibiting or killing the fungus that causes the infection.\nSpecifically, these medications::\n- Disrupt fungal cell walls: They interfere with the synthesis of essential components of the fungal cell wall, leading to its weakening and eventual destruction.\n- Inhibit fungal enzyme activity: They block enzymes that are crucial for fungal growth and metabolism, preventing the fungus from multiplying and spreading.\n- Alter fungal membrane function: They alter the permeability of the fungal cell membrane, allowing harmful substances to enter and disrupting cellular processes.\nExamples of antifungal medications commonly used for athlete's foot include: clotrimazole, miconazole, terbinafine, and tolnaftate.\nThese medications can be applied topically (as creams, ointments, or sprays) or taken orally. The choice of medication and its administration method depends on the severity of the infection and the individual patient's preferences."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Antifungal medications used to treat athlete's foot function by inhibiting or killing the fungus that causes the infection.",
+        "truthfulness": 100,
+        "explanation": "Antifungal medications act by inhibiting fungal growth or killing fungi responsible for infections such as athlete's foot, which is caused by dermatophyte fungi.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Topical_antifungal",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC88922/"
+        ]
+      },
+      "1": {
+        "fact": "These medications disrupt fungal cell walls: They interfere with the synthesis of essential components of the fungal cell wall, leading to its weakening and eventual destruction.",
+        "truthfulness": 70,
+        "explanation": "Most antifungal drugs primarily target the fungal cell membrane rather than the cell wall. The main target is ergosterol synthesis in the fungal cell membrane, not the cell wall. Some antifungals affect cell wall synthesis (e.g., echinocandins), but common topical antifungals for athlete's foot (azoles, allylamines) mainly disrupt membrane function.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Topical_antifungal",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC88922/"
+        ]
+      },
+      "2": {
+        "fact": "These medications inhibit fungal enzyme activity: They block enzymes that are crucial for fungal growth and metabolism, preventing the fungus from multiplying and spreading.",
+        "truthfulness": 100,
+        "explanation": "Azole antifungals inhibit lanosterol 14\u03b1-demethylase, an enzyme essential for ergosterol synthesis, thereby blocking fungal growth and reproduction.",
+        "links": [
+          "https://go.drugbank.com/drugs/DB00257",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC88922/"
+        ]
+      },
+      "3": {
+        "fact": "These medications alter fungal membrane function: They alter the permeability of the fungal cell membrane, allowing harmful substances to enter and disrupting cellular processes.",
+        "truthfulness": 100,
+        "explanation": "By inhibiting ergosterol synthesis, antifungals disrupt fungal cell membrane integrity and permeability, leading to leakage of cellular contents and fungal cell death.",
+        "links": [
+          "https://go.drugbank.com/drugs/DB00257",
+          "https://en.wikipedia.org/wiki/Topical_antifungal"
+        ]
+      },
+      "4": {
+        "fact": "Examples of antifungal medications commonly used for athlete's foot include: clotrimazole, miconazole, terbinafine, and tolnaftate.",
+        "truthfulness": 100,
+        "explanation": "Clotrimazole, miconazole, terbinafine, and tolnaftate are well-established topical antifungal agents used to treat athlete's foot.",
+        "links": [
+          "https://go.drugbank.com/drugs/DB00257",
+          "https://go.drugbank.com/drugs/DB00525",
+          "https://en.wikipedia.org/wiki/Topical_antifungal"
+        ]
+      },
+      "5": {
+        "fact": "These medications can be applied topically (as creams, ointments, or sprays) or taken orally.",
+        "truthfulness": 100,
+        "explanation": "Antifungal treatments for athlete's foot are available in topical forms such as creams, ointments, and sprays; oral antifungals are used for more severe or resistant cases.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Topical_antifungal",
+          "https://go.drugbank.com/drugs/DB00257"
+        ]
+      },
+      "6": {
+        "fact": "The choice of medication and its administration method depends on the severity of the infection and the individual patient's preferences.",
+        "truthfulness": 100,
+        "explanation": "Treatment choice varies based on infection severity, location, patient factors, and preferences; mild cases often use topical agents, while severe or extensive infections may require oral therapy.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Topical_antifungal"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

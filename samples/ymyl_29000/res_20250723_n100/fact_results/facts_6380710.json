@@ -1,0 +1,62 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36458199,
+      "id": "mzsbda9qpxg4u3eh",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/mzsbda9qpxg4u3eh",
+      "content": "Question: covid breadthrough Answer: A COVID-19 breakthrough infection is defined as a SARS-CoV-2 infection that occurs in a fully vaccinated individual, meaning 14 days after receiving all recommended doses of an authorized vaccine. These infections are relatively common, particularly with the Omicron variant, and can be attributed to factors like vaccine effectiveness, individual characteristics, and the virus itself. While breakthrough infections can occur, they are often less severe, with fewer hospitalizations and less morbidity, according to BMC Infectious Diseases.",
+      "formattedContent": "Question: covid breadthrough\n\nAnswer: A COVID-19 breakthrough infection is defined as a SARS-CoV-2 infection that occurs in a fully vaccinated individual, meaning 14 days after receiving all recommended doses of an authorized vaccine. These infections are relatively common, particularly with the Omicron variant, and can be attributed to factors like vaccine effectiveness, individual characteristics, and the virus itself. While breakthrough infections can occur, they are often less severe, with fewer hospitalizations and less morbidity, according to BMC Infectious Diseases."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "A COVID-19 breakthrough infection is defined as a SARS-CoV-2 infection that occurs in a fully vaccinated individual, meaning 14 days after receiving all recommended doses of an authorized vaccine.",
+        "truthfulness": 100,
+        "explanation": "The CDC defines a vaccine breakthrough case as someone who tests positive for COVID-19 14 days or more after being up-to-date with their vaccines, which means having received all recommended doses including boosters if applicable. This matches the definition given in the claim.",
+        "links": [
+          "https://healthjournalism.org/glossary-terms/breakthrough-infection/",
+          "https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-breakthrough-covid-infections"
+        ]
+      },
+      "1": {
+        "fact": "These infections are relatively common, particularly with the Omicron variant, and can be attributed to factors like vaccine effectiveness, individual characteristics, and the virus itself.",
+        "truthfulness": 90,
+        "explanation": "Breakthrough infections have become more common over time, especially with the Omicron variant, due to factors such as waning vaccine effectiveness and viral mutations. Individual factors also influence susceptibility. While the exact attribution to these factors is complex, the statement aligns with current understanding.",
+        "links": [
+          "https://healthjournalism.org/glossary-terms/breakthrough-infection/",
+          "https://www.nature.com/articles/s41591-022-02138-x"
+        ]
+      },
+      "2": {
+        "fact": "While breakthrough infections can occur, they are often less severe, with fewer hospitalizations and less morbidity, according to BMC Infectious Diseases.",
+        "truthfulness": 95,
+        "explanation": "Studies show that breakthrough infections generally result in less severe disease, with lower rates of hospitalization and morbidity compared to infections in unvaccinated individuals. This is supported by CDC data and research including that cited by BMC Infectious Diseases.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9146933/",
+          "https://healthjournalism.org/glossary-terms/breakthrough-infection/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

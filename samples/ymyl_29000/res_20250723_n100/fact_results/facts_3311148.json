@@ -1,0 +1,59 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36457622,
+      "id": "8jmunhwtc5e079gl",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/8jmunhwtc5e079gl",
+      "content": "Question: covid kids Answer: COVID-19 in children often presents with fever and cough, but many experience sore throat and runny nose according to the CDC. Management focuses on symptom relief, like hydration and fever reduction, and ensuring adequate rest. It&#039;s also helpful to consider using a humidifier to ease nasal congestion.",
+      "formattedContent": "Question: covid kids\n\nAnswer: COVID-19 in children often presents with fever and cough, but many experience sore throat and runny nose according to the CDC. Management focuses on symptom relief, like hydration and fever reduction, and ensuring adequate rest. It's also helpful to consider using a humidifier to ease nasal congestion."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "COVID-19 in children often presents with fever and cough, but many experience sore throat and runny nose according to the CDC.",
+        "truthfulness": "100%",
+        "explanation": "The CDC states that common symptoms of COVID-19 in children include fever, cough, sore throat, and congestion or runny nose among others. This aligns exactly with the claim made in the paragraph.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://www.cdc.gov/covid/hcp/clinical-care/for-pediatric-hcp.html"
+        ]
+      },
+      "1": {
+        "fact": "Management focuses on symptom relief, like hydration and fever reduction, and ensuring adequate rest.",
+        "truthfulness": "100%",
+        "explanation": "Standard management of mild COVID-19 in children involves supportive care such as hydration, fever control, and rest, as recommended by health authorities including the CDC and Mayo Clinic.",
+        "links": [
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-in-babies-and-children/art-20484405",
+          "https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance/clinical-care.html"
+        ]
+      },
+      "2": {
+        "fact": "It\u2019s also helpful to consider using a humidifier to ease nasal congestion.",
+        "truthfulness": "90%",
+        "explanation": "While not explicitly stated in the CDC or Mayo Clinic sources, using a humidifier is a commonly recommended home remedy to relieve nasal congestion in respiratory illnesses, including COVID-19, especially in children. This is consistent with general clinical advice for symptom relief.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

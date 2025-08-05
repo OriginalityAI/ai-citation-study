@@ -1,0 +1,84 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36457337,
+      "id": "puvjfx7380gcym1r",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/puvjfx7380gcym1r",
+      "content": "Question: how long does the covid-19 vaccine last Answer: The duration of protection provided by COVID-19 vaccines varies depending on the type of vaccine, the individual&#039;s immune system, and other factors. According to the Centers for Disease Control and Prevention (CDC), the following is a general guideline for the duration of protection:: - Primary Series of mRNA Vaccines (Pfizer or Moderna): Protection against severe illness, hospitalization, and death lasts for at least 6 months after the second dose. - Booster Dose: A booster dose administered 6 months after the primary series can extend protection for an additional 6-9 months. - Novavax Protein Vaccine: Protection lasts for at least 6 months after the second dose. - Johnson &amp; Johnson Janssen Vaccine: Protection lasts for at least 3 months after the single dose. A booster dose is recommended 2 months after the initial dose to extend protection. It&#039;s important to note that these are just estimates, and the actual duration of protection may be shorter or longer for some individuals. The CDC recommends staying up-to-date with COVID-19 vaccinations to maintain optimal protection. Additionally, new variants of the virus may emerge that can partially evade the protection provided by existing vaccines. Therefore, it&#039;s crucial to stay informed about vaccination recommendations and follow them accordingly.",
+      "formattedContent": "Question: how long does the covid-19 vaccine last\n\nAnswer: The duration of protection provided by COVID-19 vaccines varies depending on the type of vaccine, the individual's immune system, and other factors.\nAccording to the Centers for Disease Control and Prevention (CDC), the following is a general guideline for the duration of protection::\n- Primary Series of mRNA Vaccines (Pfizer or Moderna): Protection against severe illness, hospitalization, and death lasts for at least 6 months after the second dose.\n- Booster Dose: A booster dose administered 6 months after the primary series can extend protection for an additional 6-9 months.\n- Novavax Protein Vaccine: Protection lasts for at least 6 months after the second dose.\n- Johnson & Johnson Janssen Vaccine: Protection lasts for at least 3 months after the single dose. A booster dose is recommended 2 months after the initial dose to extend protection.\nIt's important to note that these are just estimates, and the actual duration of protection may be shorter or longer for some individuals. The CDC recommends staying up-to-date with COVID-19 vaccinations to maintain optimal protection.\nAdditionally, new variants of the virus may emerge that can partially evade the protection provided by existing vaccines. Therefore, it's crucial to stay informed about vaccination recommendations and follow them accordingly."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Primary Series of mRNA Vaccines (Pfizer or Moderna): Protection against severe illness, hospitalization, and death lasts for at least 6 months after the second dose.",
+        "truthfulness": "90%",
+        "explanation": "CDC guidance indicates that protection from COVID-19 vaccines decreases over time, and booster doses are recommended about 6 months after the primary series to maintain protection. While exact duration can vary, 6 months is a reasonable estimate for the primary series protection before a booster is advised.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/stay-up-to-date.html",
+          "https://www.cdc.gov/vaccines/covid-19/eui/downloads/pfizer-hcp.pdf"
+        ]
+      },
+      "1": {
+        "fact": "Booster Dose: A booster dose administered 6 months after the primary series can extend protection for an additional 6-9 months.",
+        "truthfulness": "70%",
+        "explanation": "CDC recommends booster doses approximately 6 months after the primary series to extend protection, but the exact duration of extended protection (6-9 months) is not definitively established and may vary with new variants and individual factors.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/stay-up-to-date.html",
+          "https://www.cdc.gov/vaccines/covid-19/eui/downloads/pfizer-hcp.pdf"
+        ]
+      },
+      "2": {
+        "fact": "Novavax Protein Vaccine: Protection lasts for at least 6 months after the second dose.",
+        "truthfulness": "85%",
+        "explanation": "CDC recommends a multi-dose initial series for Novavax and booster doses 6 months after the primary series, implying protection lasts at least 6 months, though specific duration data is less detailed compared to mRNA vaccines.",
+        "links": [
+          "https://www.cdc.gov/acip/downloads/slides-2025-04-15-16/05-Panagiotakopoulos-COVID-508.pdf",
+          "https://www.cdc.gov/vaccines/covid-19/clinical-considerations/interim-considerations-us.html#immunocompromised"
+        ]
+      },
+      "3": {
+        "fact": "Johnson & Johnson Janssen Vaccine: Protection lasts for at least 3 months after the single dose. A booster dose is recommended 2 months after the initial dose to extend protection.",
+        "truthfulness": "80%",
+        "explanation": "CDC recommends a booster dose for J&J vaccine recipients as early as 2 months after the initial dose to enhance protection, but specific duration of protection after the single dose is less clearly defined; 3 months is a reasonable estimate based on available guidance.",
+        "links": []
+      },
+      "4": {
+        "fact": "The CDC recommends staying up-to-date with COVID-19 vaccinations to maintain optimal protection.",
+        "truthfulness": "100%",
+        "explanation": "CDC explicitly recommends staying up-to-date with COVID-19 vaccinations, including receiving booster doses as recommended, to maintain protection against severe illness.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/stay-up-to-date.html"
+        ]
+      },
+      "5": {
+        "fact": "New variants of the virus may emerge that can partially evade the protection provided by existing vaccines.",
+        "truthfulness": "100%",
+        "explanation": "It is well documented that SARS-CoV-2 variants can partially evade immunity from vaccines, which is why vaccine formulations are updated and booster doses recommended.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/stay-up-to-date.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

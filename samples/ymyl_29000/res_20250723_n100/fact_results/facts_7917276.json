@@ -1,0 +1,74 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36462879,
+      "id": "51cpbi87knehzqs3",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/51cpbi87knehzqs3",
+      "content": "Question: covid still contagious after 8 days Answer: Yes, it&#039;s possible to still be contagious after 8 days of COVID-19, though it depends on individual factors and the severity of the illness. While most people are no longer contagious after 8-10 days of symptom onset, some individuals may remain infectious for longer. The Centers for Disease Control and Prevention (CDC) advises that infectiousness can last from 1-2 days before symptoms appear and up to 8-10 days after. Factors like the initial severity of symptoms and individual immune response can affect the duration of contagiousness.",
+      "formattedContent": "Question: covid still contagious after 8 days\n\nAnswer: Yes, it's possible to still be contagious after 8 days of COVID-19, though it depends on individual factors and the severity of the illness. While most people are no longer contagious after 8-10 days of symptom onset, some individuals may remain infectious for longer. The Centers for Disease Control and Prevention (CDC) advises that infectiousness can last from 1-2 days before symptoms appear and up to 8-10 days after. Factors like the initial severity of symptoms and individual immune response can affect the duration of contagiousness."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Yes, it's possible to still be contagious after 8 days of COVID-19, though it depends on individual factors and the severity of the illness.",
+        "truthfulness": "95%",
+        "explanation": "Most people are contagious for about 5 to 10 days after symptom onset, but some individuals, especially those with severe illness or weakened immune systems, may remain contagious for longer periods. This is supported by multiple sources including GoodRx and Yale New Haven Health, which note variability depending on individual factors and illness severity.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-most-contagious-when",
+          "https://www.ynhhs.org/articles/how-long-am-i-contagious",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7547320/",
+          "https://doh.wa.gov/emergencies/covid-19/prevent-spreading-respiratory-viruses"
+        ]
+      },
+      "1": {
+        "fact": "While most people are no longer contagious after 8-10 days of symptom onset, some individuals may remain infectious for longer.",
+        "truthfulness": "100%",
+        "explanation": "Evidence from virus culture and contact tracing studies indicates that people with mild-to-moderate COVID-19 are highly unlikely to be infectious beyond 10 days after symptom onset. However, those with severe illness or immunocompromised status may remain infectious for 20 days or more.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7547320/",
+          "https://doh.wa.gov/emergencies/covid-19/prevent-spreading-respiratory-viruses"
+        ]
+      },
+      "2": {
+        "fact": "The Centers for Disease Control and Prevention (CDC) advises that infectiousness can last from 1-2 days before symptoms appear and up to 8-10 days after.",
+        "truthfulness": "100%",
+        "explanation": "CDC guidance states that people can be contagious 1 to 2 days before symptom onset and remain contagious for 5 to 10 days after symptoms begin, consistent with the claim.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-most-contagious-when",
+          "https://doh.wa.gov/emergencies/covid-19/prevent-spreading-respiratory-viruses"
+        ]
+      },
+      "3": {
+        "fact": "Factors like the initial severity of symptoms and individual immune response can affect the duration of contagiousness.",
+        "truthfulness": "100%",
+        "explanation": "Studies and health sources confirm that severity of illness and immune status influence how long a person remains contagious, with severe or immunocompromised patients potentially infectious for longer periods.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7547320/",
+          "https://www.ynhhs.org/articles/how-long-am-i-contagious",
+          "https://doh.wa.gov/emergencies/covid-19/prevent-spreading-respiratory-viruses"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

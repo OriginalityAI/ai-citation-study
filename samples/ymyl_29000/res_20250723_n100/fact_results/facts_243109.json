@@ -1,0 +1,81 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36459267,
+      "id": "ogvrtnkaiw95cb2u",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/ogvrtnkaiw95cb2u",
+      "content": "Question: covid symptoms on kids Answer: Common Symptoms of COVID-19 in Children:: Fever, Cough, Runny nose, Sore throat, Headache, Fatigue, Muscle pain, and Congestion. Less Common Symptoms: Nausea, Vomiting, Diarrhea, Loss of taste or smell, Pink eye, and Seizures (rare). Symptoms in Infants and Young Children: Fever, Irritability, Lethargy, Decreased appetite, Vomiting, and Diarrhea. Note: Some children may experience no symptoms or only mild symptoms. It&#039;s important to monitor your child&#039;s health and seek medical attention if they develop any concerning symptoms.",
+      "formattedContent": "Question: covid symptoms on kids\n\nAnswer: Common Symptoms of COVID-19 in Children::\nFever, Cough, Runny nose, Sore throat, Headache, Fatigue, Muscle pain, and Congestion.\nLess Common Symptoms:\nNausea, Vomiting, Diarrhea, Loss of taste or smell, Pink eye, and Seizures (rare).\nSymptoms in Infants and Young Children:\nFever, Irritability, Lethargy, Decreased appetite, Vomiting, and Diarrhea.\nNote: Some children may experience no symptoms or only mild symptoms. It's important to monitor your child's health and seek medical attention if they develop any concerning symptoms."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Common Symptoms of COVID-19 in Children:: Fever, Cough, Runny nose, Sore throat, Headache, Fatigue, Muscle pain, and Congestion.",
+        "truthfulness": 100,
+        "explanation": "The CDC lists fever, cough, runny nose, sore throat, headache, fatigue, muscle or body aches, and congestion as common symptoms of COVID-19 in people including children. Mayo Clinic and Seattle Children's Hospital also confirm these as common symptoms in children.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-in-babies-and-children/art-20484405",
+          "https://www.seattlechildrens.org/conditions/a-z/covid-19-diagnosed-or-suspected/"
+        ]
+      },
+      "1": {
+        "fact": "Less Common Symptoms: Nausea, Vomiting, Diarrhea, Loss of taste or smell, Pink eye, and Seizures (rare).",
+        "truthfulness": 90,
+        "explanation": "Nausea, vomiting, diarrhea, and loss of taste or smell are recognized less common symptoms by the CDC. Pink eye (conjunctivitis) is mentioned as a symptom in MIS-C cases by Mayo Clinic and Children's Colorado. Seizures are rare and not commonly listed in general COVID-19 symptoms but can occur in severe or MIS-C cases, though this is less well documented.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-in-babies-and-children/art-20484405",
+          "https://www.childrenscolorado.org/just-ask-childrens/articles/coronavirus-and-flu-symptoms/"
+        ]
+      },
+      "2": {
+        "fact": "Symptoms in Infants and Young Children: Fever, Irritability, Lethargy, Decreased appetite, Vomiting, and Diarrhea.",
+        "truthfulness": 100,
+        "explanation": "Mayo Clinic specifically notes that infants and young children with COVID-19 may show symptoms such as fever, irritability, lethargy, decreased appetite, vomiting, and diarrhea, consistent with the claim.",
+        "links": [
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-in-babies-and-children/art-20484405"
+        ]
+      },
+      "3": {
+        "fact": "Some children may experience no symptoms or only mild symptoms.",
+        "truthfulness": 100,
+        "explanation": "It is well established by CDC and Mayo Clinic that many children infected with COVID-19 may be asymptomatic or have only mild symptoms.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-in-babies-and-children/art-20484405"
+        ]
+      },
+      "4": {
+        "fact": "It's important to monitor your child's health and seek medical attention if they develop any concerning symptoms.",
+        "truthfulness": 100,
+        "explanation": "Health authorities including CDC and Mayo Clinic recommend monitoring children with COVID-19 symptoms and seeking medical care if symptoms worsen or emergency warning signs appear.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-in-babies-and-children/art-20484405"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

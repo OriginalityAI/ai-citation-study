@@ -1,0 +1,94 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461464,
+      "id": "6kynlam04e7gwhcb",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/6kynlam04e7gwhcb",
+      "content": "Question: brash syndrome icd 10 Answer: The International Classification of Diseases, 10th Edition (ICD-10) does not have a specific code for BRASH (Bradycardia, Renal Failure, Atrioventricular Blockade, Shock, and Hyperkalemia) syndrome. However, the following ICD-10 codes may be used to describe the individual components of BRASH syndrome:: - Bradycardia: I45.1 (Sinus bradycardia) - Renal failure: N19 (Unspecified kidney failure) - Atrioventricular blockade: I46 (Second-degree atrioventricular block) - Shock: R57 (Hypovolemic shock) - Hyperkalemia: E83.1 (Hyperkalemia) It is important to note that BRASH syndrome is a rare and complex condition, and the specific ICD-10 codes used may vary depending on the underlying cause and clinical presentation.",
+      "formattedContent": "Question: brash syndrome icd 10\n\nAnswer: The International Classification of Diseases, 10th Edition (ICD-10) does not have a specific code for BRASH (Bradycardia, Renal Failure, Atrioventricular Blockade, Shock, and Hyperkalemia) syndrome.\nHowever, the following ICD-10 codes may be used to describe the individual components of BRASH syndrome::\n- Bradycardia: I45.1 (Sinus bradycardia)\n- Renal failure: N19 (Unspecified kidney failure)\n- Atrioventricular blockade: I46 (Second-degree atrioventricular block)\n- Shock: R57 (Hypovolemic shock)\n- Hyperkalemia: E83.1 (Hyperkalemia)\nIt is important to note that BRASH syndrome is a rare and complex condition, and the specific ICD-10 codes used may vary depending on the underlying cause and clinical presentation."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The International Classification of Diseases, 10th Edition (ICD-10) does not have a specific code for BRASH (Bradycardia, Renal Failure, Atrioventricular Blockade, Shock, and Hyperkalemia) syndrome.",
+        "truthfulness": "100%",
+        "explanation": "BRASH syndrome is a recently described clinical syndrome and is not assigned a unique ICD-10 code. Instead, coding is done using individual component codes.",
+        "links": [
+          "https://www.emra.org/emresident/article/brash-syndrome",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7075507/"
+        ]
+      },
+      "1": {
+        "fact": "Bradycardia: I45.1 (Sinus bradycardia)",
+        "truthfulness": "100%",
+        "explanation": "ICD-10 code I45.1 corresponds to sinus bradycardia, which is a type of bradycardia relevant to BRASH syndrome.",
+        "links": [
+          "https://icd.codes/icd10cm/I45.1"
+        ]
+      },
+      "2": {
+        "fact": "Renal failure: N19 (Unspecified kidney failure)",
+        "truthfulness": "Mostly true (90%)",
+        "explanation": "N19 is the ICD-10 code for unspecified kidney failure, which can be used to code renal failure in BRASH syndrome. However, acute kidney failure is more specifically coded as N17.9 for unspecified acute kidney failure.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/N17.9",
+          "https://icd.codes/icd10cm/N19"
+        ]
+      },
+      "3": {
+        "fact": "Atrioventricular blockade: I46 (Second-degree atrioventricular block)",
+        "truthfulness": "False (0%)",
+        "explanation": "ICD-10 code I46 corresponds to cardiac arrest, not second-degree atrioventricular block. The correct codes for atrioventricular block are in the I44 category, e.g., I44.1 for second-degree AV block.",
+        "links": [
+          "https://icd.codes/icd10cm/I44"
+        ]
+      },
+      "4": {
+        "fact": "Shock: R57 (Hypovolemic shock)",
+        "truthfulness": "Partially true (70%)",
+        "explanation": "R57 is the category for shock, but R57.0 specifically codes hypovolemic shock. BRASH syndrome shock may not always be hypovolemic; unspecified shock is coded as R57.9. Thus, R57 can be used but should be specified based on clinical context.",
+        "links": [
+          "https://icd.codes/icd10cm/R57"
+        ]
+      },
+      "5": {
+        "fact": "Hyperkalemia: E83.1 (Hyperkalemia)",
+        "truthfulness": "100%",
+        "explanation": "E83.1 is the ICD-10 code for hyperkalemia, which is a key component of BRASH syndrome.",
+        "links": [
+          "https://icd.codes/icd10cm/E83.1"
+        ]
+      },
+      "6": {
+        "fact": "BRASH syndrome is a rare and complex condition, and the specific ICD-10 codes used may vary depending on the underlying cause and clinical presentation.",
+        "truthfulness": "100%",
+        "explanation": "BRASH syndrome is a recently recognized and complex syndrome involving multiple interacting pathologies; coding depends on clinical details and underlying causes.",
+        "links": [
+          "https://www.emra.org/emresident/article/brash-syndrome",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7075507/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36463702,
+      "id": "67de9gqlzowkvm8t",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/67de9gqlzowkvm8t",
+      "content": "Question: prostate cancer abbreviated Answer: The abbreviation for prostate cancer is PCa. PCa stands for: Prostate Cancer and Prostate Carcinoma.",
+      "formattedContent": "Question: prostate cancer abbreviated\n\nAnswer: The abbreviation for prostate cancer is PCa.\nPCa stands for: Prostate Cancer and Prostate Carcinoma."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The abbreviation for prostate cancer is PCa.",
+        "truthfulness": 100,
+        "explanation": "The abbreviation 'PCa' is widely used in scientific literature and clinical contexts to denote prostate cancer, as confirmed by multiple authoritative sources including peer-reviewed articles and cancer-related resources.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11497500/",
+          "https://www.nature.com/articles/s41598-021-98410-0",
+          "https://www.cancertherapyadvisor.com/cch/prostate-cancer-biomarker-testing-psa-ctdna-sncrna-hox/",
+          "https://connect.mayoclinic.org/discussion/prostate-cancer-related-abbreviations-what-acronym-would-you-add/"
+        ]
+      },
+      "1": {
+        "fact": "PCa stands for: Prostate Cancer and Prostate Carcinoma.",
+        "truthfulness": 90,
+        "explanation": "PCa is primarily used as an abbreviation for 'Prostate Cancer' in the literature. While 'Prostate Carcinoma' is a synonym for prostate cancer and could logically be abbreviated as PCa, explicit references to PCa standing for 'Prostate Carcinoma' are less common. However, since carcinoma is a type of cancer, the abbreviation is reasonably used for both terms.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11497500/",
+          "https://www.nature.com/articles/s41598-021-98410-0",
+          "https://connect.mayoclinic.org/discussion/prostate-cancer-related-abbreviations-what-acronym-would-you-add/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

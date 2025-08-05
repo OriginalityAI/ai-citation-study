@@ -1,0 +1,65 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36468202,
+      "id": "ce2oq78ua96vlrpn",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/ce2oq78ua96vlrpn",
+      "content": "Question: covid-19 and temperature Answer: Fever is a common symptom of COVID-19. The temperature may range from slightly elevated (99.5\u00b0F or 37.5\u00b0C) to high (over 100.4\u00b0F or 38\u00b0C). Fever is often present early in the course of the infection and can last for several days.",
+      "formattedContent": "Question: covid-19 and temperature\n\nAnswer: Fever is a common symptom of COVID-19. The temperature may range from slightly elevated (99.5\u00b0F or 37.5\u00b0C) to high (over 100.4\u00b0F or 38\u00b0C). Fever is often present early in the course of the infection and can last for several days."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Fever is a common symptom of COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "Multiple authoritative sources confirm that fever is a common symptom of COVID-19, including the CDC and medical knowledge teams from Ada and Healthline.",
+        "links": [
+          "https://ada.com/covid/covid-19-fever-range/",
+          "https://www.medicinenet.com/what_is_considered_to_be_fever_for_covid-19/article.htm",
+          "https://www.healthline.com/health/infection/coronavirus-temperature-range"
+        ]
+      },
+      "1": {
+        "fact": "The temperature may range from slightly elevated (99.5\u00b0F or 37.5\u00b0C) to high (over 100.4\u00b0F or 38\u00b0C).",
+        "truthfulness": "90%",
+        "explanation": "A fever is generally defined as a body temperature of 100.4\u00b0F (38\u00b0C) or higher. Temperatures slightly elevated around 99.5\u00b0F (37.5\u00b0C) are not typically classified as fever but can be considered low-grade or borderline. For children, 99.5\u00b0F orally may be considered a fever threshold, but for adults, fever starts at 100.4\u00b0F. Thus, the range given is mostly accurate but slightly imprecise regarding the lower bound.",
+        "links": [
+          "https://ada.com/covid/covid-19-fever-range/",
+          "https://www.medicinenet.com/what_is_considered_to_be_fever_for_covid-19/article.htm",
+          "https://www.healthline.com/health/infection/coronavirus-temperature-range"
+        ]
+      },
+      "2": {
+        "fact": "Fever is often present early in the course of the infection and can last for several days.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 symptoms, including fever, typically appear 2 to 14 days after exposure and fever can persist for several days during the infection. This is consistent with clinical observations and guidance from medical sources.",
+        "links": [
+          "https://www.medicinenet.com/what_is_considered_to_be_fever_for_covid-19/article.htm",
+          "https://ada.com/covid/covid-19-fever-range/",
+          "https://www.healthline.com/health/infection/coronavirus-temperature-range"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

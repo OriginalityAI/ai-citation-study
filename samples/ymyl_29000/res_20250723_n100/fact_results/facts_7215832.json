@@ -1,0 +1,73 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36470396,
+      "id": "on2k7fajdypm1wvb",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/on2k7fajdypm1wvb",
+      "content": "Question: what level cholesterol is considered high Answer: According to the American Heart Association, the following cholesterol levels are considered high:: - Total cholesterol: 240 mg/dL or higher - LDL (low-density lipoprotein) cholesterol: - HDL (high-density lipoprotein) cholesterol: Less than 40 mg/dL It&#039;s important to note that these levels may vary slightly depending on factors such as age, gender, and health conditions. If you have any concerns about your cholesterol levels, it&#039;s recommended to consult with a healthcare professional.",
+      "formattedContent": "Question: what level cholesterol is considered high\n\nAnswer: According to the American Heart Association, the following cholesterol levels are considered high::\n- Total cholesterol: 240 mg/dL or higher\n- LDL (low-density lipoprotein) cholesterol:\n- HDL (high-density lipoprotein) cholesterol: Less than 40 mg/dL\nIt's important to note that these levels may vary slightly depending on factors such as age, gender, and health conditions. If you have any concerns about your cholesterol levels, it's recommended to consult with a healthcare professional."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "According to the American Heart Association, the following cholesterol levels are considered high:: - Total cholesterol: 240 mg/dL or higher",
+        "truthfulness": "100%",
+        "explanation": "The American Heart Association (AHA) defines high total cholesterol as 240 mg/dL or higher, which is consistent with widely accepted clinical guidelines.",
+        "links": [
+          "https://www.heart.org/en/health-topics/cholesterol/prevention-and-treatment-of-high-cholesterol-hyperlipidemia"
+        ]
+      },
+      "1": {
+        "fact": "According to the American Heart Association, the following cholesterol levels are considered high:: - LDL (low-density lipoprotein) cholesterol:",
+        "truthfulness": "Incomplete/Unclear",
+        "explanation": "The claim is incomplete as it does not specify the LDL cholesterol level considered high. According to AHA, LDL cholesterol levels of 160 mg/dL or higher are generally considered high, but treatment thresholds depend on individual risk factors.",
+        "links": [
+          "https://www.heart.org/en/health-topics/cholesterol/prevention-and-treatment-of-high-cholesterol-hyperlipidemia"
+        ]
+      },
+      "2": {
+        "fact": "According to the American Heart Association, the following cholesterol levels are considered high:: - HDL (high-density lipoprotein) cholesterol: Less than 40 mg/dL",
+        "truthfulness": "100%",
+        "explanation": "The AHA considers HDL cholesterol less than 40 mg/dL as a risk factor for heart disease, indicating low (bad) HDL levels.",
+        "links": [
+          "https://www.heart.org/en/health-topics/cholesterol/prevention-and-treatment-of-high-cholesterol-hyperlipidemia"
+        ]
+      },
+      "3": {
+        "fact": "These levels may vary slightly depending on factors such as age, gender, and health conditions.",
+        "truthfulness": "100%",
+        "explanation": "Cholesterol level interpretations can vary based on individual factors including age, gender, and overall health, which is acknowledged by health authorities.",
+        "links": [
+          "https://www.heart.org/en/health-topics/cholesterol/prevention-and-treatment-of-high-cholesterol-hyperlipidemia"
+        ]
+      },
+      "4": {
+        "fact": "If you have any concerns about your cholesterol levels, it\u2019s recommended to consult with a healthcare professional.",
+        "truthfulness": "100%",
+        "explanation": "Consulting a healthcare professional for cholesterol concerns is standard medical advice to ensure proper diagnosis and treatment.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

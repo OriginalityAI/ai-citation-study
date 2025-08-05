@@ -1,0 +1,85 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461126,
+      "id": "vdzm59l0n3g14xtq",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/vdzm59l0n3g14xtq",
+      "content": "Question: cdc recommendations on quarantine for covid Answer: The current CDC guidelines for COVID-19 recommend staying home and away from others until at least 24 hours after symptoms are improving overall and you have not had a fever (and are not using fever-reducing medication). It&#039;s important to note that this is a minimum, and some people may need to isolate for longer. Additionally, the guidance encourages added precautions for five days after the initial stay-at-home period, such as enhanced hygiene, masking, and physical distancing. Key points from the updated CDC guidance:: - Stay home and away from others: Until at least 24 hours after symptoms are improving overall and you have no fever (and are not using fever-reducing medication). - Enhanced precautions: For the next five days, take additional steps to prevent spread, including: - Consider length of illness: The duration of isolation may vary depending on the length and severity of symptoms.",
+      "formattedContent": "Question: cdc recommendations on quarantine for covid\n\nAnswer: The current CDC guidelines for COVID-19 recommend staying home and away from others until at least 24 hours after symptoms are improving overall and you have not had a fever (and are not using fever-reducing medication). It's important to note that this is a minimum, and some people may need to isolate for longer. Additionally, the guidance encourages added precautions for five days after the initial stay-at-home period, such as enhanced hygiene, masking, and physical distancing.\nKey points from the updated CDC guidance::\n- Stay home and away from others: Until at least 24 hours after symptoms are improving overall and you have no fever (and are not using fever-reducing medication).\n- Enhanced precautions: For the next five days, take additional steps to prevent spread, including:\n- Consider length of illness: The duration of isolation may vary depending on the length and severity of symptoms."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The current CDC guidelines for COVID-19 recommend staying home and away from others until at least 24 hours after symptoms are improving overall and you have not had a fever (and are not using fever-reducing medication).",
+        "truthfulness": "100%",
+        "explanation": "CDC guidance states that people with COVID-19 should stay away from others until at least 24 hours after both symptoms are improving overall and they have not had a fever without the use of fever-reducing medication.",
+        "links": [
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html",
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx"
+        ]
+      },
+      "1": {
+        "fact": "It's important to note that this is a minimum, and some people may need to isolate for longer.",
+        "truthfulness": "100%",
+        "explanation": "CDC guidance notes that the duration of isolation may vary depending on the length and severity of symptoms, and some patients, especially those with severe illness or immunocompromised status, may need to isolate longer.",
+        "links": [
+          "https://www.cdc.gov/covid/hcp/infection-control/index.html"
+        ]
+      },
+      "2": {
+        "fact": "Additionally, the guidance encourages added precautions for five days after the initial stay-at-home period, such as enhanced hygiene, masking, and physical distancing.",
+        "truthfulness": "100%",
+        "explanation": "CDC recommends that after the initial isolation period, people should take additional precautions for five days, including hygiene measures, mask use, and physical distancing to prevent spread.",
+        "links": [
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html",
+          "https://www.cdc.gov/covid/prevention/index.html"
+        ]
+      },
+      "3": {
+        "fact": "Stay home and away from others: Until at least 24 hours after symptoms are improving overall and you have no fever (and are not using fever-reducing medication).",
+        "truthfulness": "100%",
+        "explanation": "This restates the CDC's core isolation recommendation for COVID-19 cases, consistent with official guidance.",
+        "links": [
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+        ]
+      },
+      "4": {
+        "fact": "Enhanced precautions: For the next five days, take additional steps to prevent spread, including:",
+        "truthfulness": "100%",
+        "explanation": "CDC advises that after isolation, individuals should continue precautions such as masking and hygiene for five days to reduce transmission risk.",
+        "links": [
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+        ]
+      },
+      "5": {
+        "fact": "Consider length of illness: The duration of isolation may vary depending on the length and severity of symptoms.",
+        "truthfulness": "100%",
+        "explanation": "CDC guidance specifies that isolation duration depends on symptom severity and patient condition, with longer isolation for severe or immunocompromised cases.",
+        "links": [
+          "https://www.cdc.gov/covid/hcp/infection-control/index.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

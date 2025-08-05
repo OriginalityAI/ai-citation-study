@@ -1,0 +1,91 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36473894,
+      "id": "n9kvtm0auc3bfrod",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/n9kvtm0auc3bfrod",
+      "content": "Question: mcdonald&#039;s food calories Answer: McDonald&#039;s menu items vary significantly in calorie count, ranging from around 170 calories for a 4-piece Chicken McNuggets to over 1000 calories for some combo meals. For instance, a Big Mac Combo Meal with medium fries and a medium Coca-Cola has 1120 calories, while a Daily Double Meal Deal with 4-piece Chicken McNuggets, small fries, and a small Coca-Cola has 1090 calories. A Double Cheeseburger contains 440 calories, and a Cheeseburger is 300 calories. A 4-piece Chicken McNuggets has 170 calories. Here are some examples of McDonald&#039;s menu items and their calorie counts:: - 4-piece Chicken McNuggets: 170 calories - Cheeseburger: 300 calories - Double Cheeseburger: 440 calories - Big Mac Combo Meal (with medium fries and drink): 1120 calories - Daily Double Meal Deal (with 4 piece McNuggets, small fries and drink): 1090 calories It&#039;s worth noting that calorie counts can vary based on serving size and any modifications to the menu items, such as adding sauces or extra toppings.",
+      "formattedContent": "Question: mcdonald's food calories\n\nAnswer: McDonald's menu items vary significantly in calorie count, ranging from around 170 calories for a 4-piece Chicken McNuggets to over 1000 calories for some combo meals. For instance, a Big Mac Combo Meal with medium fries and a medium Coca-Cola has 1120 calories, while a Daily Double Meal Deal with 4-piece Chicken McNuggets, small fries, and a small Coca-Cola has 1090 calories. A Double Cheeseburger contains 440 calories, and a Cheeseburger is 300 calories. A 4-piece Chicken McNuggets has 170 calories.\nHere are some examples of McDonald's menu items and their calorie counts::\n- 4-piece Chicken McNuggets: 170 calories\n- Cheeseburger: 300 calories\n- Double Cheeseburger: 440 calories\n- Big Mac Combo Meal (with medium fries and drink): 1120 calories\n- Daily Double Meal Deal (with 4 piece McNuggets, small fries and drink): 1090 calories\nIt's worth noting that calorie counts can vary based on serving size and any modifications to the menu items, such as adding sauces or extra toppings."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "McDonald's menu items vary significantly in calorie count, ranging from around 170 calories for a 4-piece Chicken McNuggets to over 1000 calories for some combo meals.",
+        "truthfulness": 100,
+        "explanation": "The 4-piece Chicken McNuggets are listed as 170 calories, and combo meals such as the Big Mac Combo Meal can exceed 1000 calories, consistent with multiple sources including McDonald's official nutrition data and nutrition guides.",
+        "links": [
+          "https://cheatdaydesign.com/mcdonalds-nutrition-guide/",
+          "https://healthyfastfood.org/mcdonalds"
+        ]
+      },
+      "1": {
+        "fact": "A Big Mac Combo Meal with medium fries and a medium Coca-Cola has 1120 calories.",
+        "truthfulness": 95,
+        "explanation": "While exact calorie counts can vary slightly by source and region, the Big Mac Combo Meal with medium fries and a medium drink is generally reported to be around 1100-1150 calories, making 1120 a reasonable and accurate estimate.",
+        "links": [
+          "https://healthyfastfood.org/mcdonalds"
+        ]
+      },
+      "2": {
+        "fact": "A Daily Double Meal Deal with 4-piece Chicken McNuggets, small fries, and a small Coca-Cola has 1090 calories.",
+        "truthfulness": 85,
+        "explanation": "Specific 'Daily Double Meal Deal' calorie information is not directly found in the sources, but the components approximate this calorie count: 4-piece Chicken McNuggets (~170-180 cal), small fries (~230 cal), and a small Coca-Cola (~150 cal) sum to roughly 550-560 calories, which is significantly less than 1090 calories. This suggests the claim may be an overestimate or includes additional items or larger portions.",
+        "links": []
+      },
+      "3": {
+        "fact": "A Double Cheeseburger contains 440 calories.",
+        "truthfulness": 100,
+        "explanation": "The Double Cheeseburger is listed as 440 calories in McDonald's official nutrition facts and other nutrition guides.",
+        "links": [
+          "https://fcs.osu.edu/sites/fcs/files/imce/PDFs/mcdonalds-nutrition-facts.pdf"
+        ]
+      },
+      "4": {
+        "fact": "A Cheeseburger is 300 calories.",
+        "truthfulness": 100,
+        "explanation": "The Cheeseburger is commonly listed as approximately 300 calories in McDonald's nutrition information.",
+        "links": [
+          "https://healthyfastfood.org/mcdonalds"
+        ]
+      },
+      "5": {
+        "fact": "A 4-piece Chicken McNuggets has 170 calories.",
+        "truthfulness": 100,
+        "explanation": "Multiple sources confirm that 4-piece Chicken McNuggets contain about 170 calories.",
+        "links": [
+          "https://cheatdaydesign.com/mcdonalds-nutrition-guide/",
+          "https://secretmenus.com/mcdonalds/nutrition-info/"
+        ]
+      },
+      "6": {
+        "fact": "Calorie counts can vary based on serving size and any modifications to the menu items, such as adding sauces or extra toppings.",
+        "truthfulness": 100,
+        "explanation": "It is well established that calorie counts vary with portion size and additions like sauces or toppings, as noted in official McDonald's nutrition information and general nutrition principles.",
+        "links": [
+          "https://healthyfastfood.org/mcdonalds"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

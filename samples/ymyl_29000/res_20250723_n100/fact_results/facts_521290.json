@@ -1,0 +1,85 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36467124,
+      "id": "j6d0yuhvtmcge7r8",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/j6d0yuhvtmcge7r8",
+      "content": "Question: is inflation compounded Answer: Yes, inflation is generally considered a compounding factor, meaning that each year&#039;s price increases are calculated on top of the previous year&#039;s increased prices. This is similar to how compound interest works, where interest is earned on both the initial principal and accumulated interest. Here&#039;s why:: - Prices don&#039;t reset: When inflation occurs, it doesn&#039;t just temporarily raise prices for a year. The higher prices become the new baseline for the following year. - Compounding effect: Imagine an item costing $100 today. If inflation is 5% this year, it will cost $105. Next year, if inflation remains at 5%, it will be 5% of $105, not $100, resulting in a price of $110.25. - Impact over time: Even seemingly small annual inflation rates, when compounded over several years, can significantly erode purchasing power, according to the FREOPP. - Different from a simple average: If inflation were not compounded, the price increases would simply be averaged over the period, not built on top of each other.",
+      "formattedContent": "Question: is inflation compounded\n\nAnswer: Yes, inflation is generally considered a compounding factor, meaning that each year's price increases are calculated on top of the previous year's increased prices. This is similar to how compound interest works, where interest is earned on both the initial principal and accumulated interest.\nHere's why::\n- Prices don't reset: When inflation occurs, it doesn't just temporarily raise prices for a year. The higher prices become the new baseline for the following year.\n- Compounding effect: Imagine an item costing $100 today. If inflation is 5% this year, it will cost $105. Next year, if inflation remains at 5%, it will be 5% of $105, not $100, resulting in a price of $110.25.\n- Impact over time: Even seemingly small annual inflation rates, when compounded over several years, can significantly erode purchasing power, according to the FREOPP.\n- Different from a simple average: If inflation were not compounded, the price increases would simply be averaged over the period, not built on top of each other."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "inflation is generally considered a compounding factor, meaning that each year's price increases are calculated on top of the previous year's increased prices",
+        "truthfulness": "100%",
+        "explanation": "Inflation is indeed a compound factor where price increases build upon the previous year's prices, similar to compound interest. This is supported by multiple sources explaining that inflation leads to exponential price increases over time rather than simple additive increases[2][3].",
+        "links": [
+          "https://www.moneywiseglobal.com/module/cashflow-and-compounding/compounding/compounding-and-inflation/",
+          "https://www.fe.training/free-resources/project-finance/modelling-inflation/"
+        ]
+      },
+      "1": {
+        "fact": "This is similar to how compound interest works, where interest is earned on both the initial principal and accumulated interest",
+        "truthfulness": "100%",
+        "explanation": "The analogy between inflation compounding and compound interest is accurate. Both involve exponential growth where increases are calculated on the new total, not just the original amount[3].",
+        "links": [
+          "https://www.fe.training/free-resources/project-finance/modelling-inflation/"
+        ]
+      },
+      "2": {
+        "fact": "Prices don't reset: When inflation occurs, it doesn't just temporarily raise prices for a year. The higher prices become the new baseline for the following year",
+        "truthfulness": "100%",
+        "explanation": "Inflation causes prices to increase and these higher prices form the new baseline for subsequent inflation calculations, confirming that inflation effects accumulate over time rather than resetting annually[3].",
+        "links": [
+          "https://www.fe.training/free-resources/project-finance/modelling-inflation/"
+        ]
+      },
+      "3": {
+        "fact": "Imagine an item costing $100 today. If inflation is 5% this year, it will cost $105. Next year, if inflation remains at 5%, it will be 5% of $105, not $100, resulting in a price of $110.25",
+        "truthfulness": "100%",
+        "explanation": "This example correctly illustrates the compounding effect of inflation, where the second year's inflation is applied to the already increased price, resulting in $110.25 after two years at 5% inflation[3].",
+        "links": [
+          "https://www.fe.training/free-resources/project-finance/modelling-inflation/"
+        ]
+      },
+      "4": {
+        "fact": "Even seemingly small annual inflation rates, when compounded over several years, can significantly erode purchasing power, according to the FREOPP",
+        "truthfulness": "100%",
+        "explanation": "The Federal Reserve Economic Opportunity and Poverty Project (FREOPP) highlights that compounded inflation over time disproportionately affects purchasing power, especially for low-income groups, confirming the significant long-term impact of inflation compounding[4].",
+        "links": [
+          "https://freopp.org/whitepapers/inflations-compounding-impact-on-the-poor/"
+        ]
+      },
+      "5": {
+        "fact": "If inflation were not compounded, the price increases would simply be averaged over the period, not built on top of each other",
+        "truthfulness": "100%",
+        "explanation": "Without compounding, inflation would be a simple average increase each year, which does not reflect reality. Inflation compounds because each year's price increase is based on the previous year's higher prices, leading to exponential growth rather than linear[2][3].",
+        "links": [
+          "https://www.moneywiseglobal.com/module/cashflow-and-compounding/compounding/compounding-and-inflation/",
+          "https://www.fe.training/free-resources/project-finance/modelling-inflation/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

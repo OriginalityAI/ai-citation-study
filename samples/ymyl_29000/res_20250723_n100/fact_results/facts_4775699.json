@@ -1,0 +1,81 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36459429,
+      "id": "2rlinw8kqmgxb431",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/2rlinw8kqmgxb431",
+      "content": "Question: can the covid vaccine give you covid Answer: No, the COVID-19 vaccines do not give you COVID-19. The vaccines contain either an inactive virus or a protein fragment that teaches your body how to recognize and fight the virus. They do not contain the live virus that causes COVID-19. However, it is possible to become infected with COVID-19 after receiving the vaccine, as the vaccines do not provide 100% protection. This is because it takes time for the body to build up immunity after vaccination, and it is possible to be exposed to the virus during this window.",
+      "formattedContent": "Question: can the covid vaccine give you covid\n\nAnswer: No, the COVID-19 vaccines do not give you COVID-19.\nThe vaccines contain either an inactive virus or a protein fragment that teaches your body how to recognize and fight the virus. They do not contain the live virus that causes COVID-19.\nHowever, it is possible to become infected with COVID-19 after receiving the vaccine, as the vaccines do not provide 100% protection. This is because it takes time for the body to build up immunity after vaccination, and it is possible to be exposed to the virus during this window."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "No, the COVID-19 vaccines do not give you COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 vaccines do not contain the live virus that causes COVID-19 and therefore cannot cause the disease. They work by teaching the immune system to recognize and fight the virus without causing infection.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/how-they-work.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/different-types-of-covid-19-vaccines/art-20506465",
+          "https://en.wikipedia.org/wiki/COVID-19_vaccine"
+        ]
+      },
+      "1": {
+        "fact": "The vaccines contain either an inactive virus or a protein fragment that teaches your body how to recognize and fight the virus.",
+        "truthfulness": "90%",
+        "explanation": "Most COVID-19 vaccines do not contain an inactive whole virus but rather use mRNA or protein subunits (such as spike protein fragments) to stimulate the immune response. Some vaccines use viral vectors but not live virus capable of causing COVID-19. The claim is broadly correct in that vaccines contain components that teach the immune system to recognize the virus, but not all contain inactive virus.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/how-they-work.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/different-types-of-covid-19-vaccines/art-20506465"
+        ]
+      },
+      "2": {
+        "fact": "They do not contain the live virus that causes COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 vaccines authorized for use do not contain live SARS-CoV-2 virus, so they cannot cause COVID-19 infection.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/how-they-work.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/different-types-of-covid-19-vaccines/art-20506465"
+        ]
+      },
+      "3": {
+        "fact": "However, it is possible to become infected with COVID-19 after receiving the vaccine, as the vaccines do not provide 100% protection.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 vaccines significantly reduce the risk of infection but do not provide complete (100%) protection, so breakthrough infections can occur.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/how-they-work.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/different-types-of-covid-19-vaccines/art-20506465"
+        ]
+      },
+      "4": {
+        "fact": "This is because it takes time for the body to build up immunity after vaccination, and it is possible to be exposed to the virus during this window.",
+        "truthfulness": "100%",
+        "explanation": "Immunity develops over days to weeks after vaccination, so exposure to the virus shortly before or after vaccination can lead to infection before full protection is established.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/how-they-work.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/different-types-of-covid-19-vaccines/art-20506465"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

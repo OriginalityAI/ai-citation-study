@@ -1,0 +1,93 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36459889,
+      "id": "zmetxqnc96ygbikw",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/zmetxqnc96ygbikw",
+      "content": "Question: how do you know when you are covid free Answer: You are considered COVID-free when you test negative on a COVID-19 test. Additionally, it&#039;s recommended to follow CDC guidelines, which generally suggest that after a positive test, you should isolate for at least 5 days and can end isolation if your symptoms are improving and you are fever-free for 24 hours without medication. After ending isolation, you should wear a mask around others for 5 additional days. If you test positive again after ending isolation, you may need to re-isolate according to the CDC. Here&#039;s a more detailed breakdown:: - Testing: If you&#039;ve had symptoms or been exposed, get tested. A negative test result indicates you are likely COVID-free. - Symptom Resolution: If you&#039;ve tested positive, it&#039;s crucial to monitor your symptoms. You can end isolation after 5 days if your symptoms are improving and you have been fever-free for 24 hours without medication. - Continued Precautions: After ending isolation, follow CDC guidelines by wearing a mask around others for an additional 5 days.",
+      "formattedContent": "Question: how do you know when you are covid free\n\nAnswer: You are considered COVID-free when you test negative on a COVID-19 test. Additionally, it's recommended to follow CDC guidelines, which generally suggest that after a positive test, you should isolate for at least 5 days and can end isolation if your symptoms are improving and you are fever-free for 24 hours without medication. After ending isolation, you should wear a mask around others for 5 additional days. If you test positive again after ending isolation, you may need to re-isolate according to the CDC.\nHere's a more detailed breakdown::\n- Testing: If you've had symptoms or been exposed, get tested. A negative test result indicates you are likely COVID-free.\n- Symptom Resolution: If you've tested positive, it's crucial to monitor your symptoms. You can end isolation after 5 days if your symptoms are improving and you have been fever-free for 24 hours without medication.\n- Continued Precautions: After ending isolation, follow CDC guidelines by wearing a mask around others for an additional 5 days."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "You are considered COVID-free when you test negative on a COVID-19 test.",
+        "truthfulness": "90%",
+        "explanation": "A negative COVID-19 test generally indicates that a person is not currently infected and is likely COVID-free. However, timing of the test relative to exposure or symptoms can affect accuracy, so a single negative test is not always definitive.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html"
+        ]
+      },
+      "1": {
+        "fact": "CDC guidelines generally suggest that after a positive test, you should isolate for at least 5 days and can end isolation if your symptoms are improving and you are fever-free for 24 hours without medication.",
+        "truthfulness": "100%",
+        "explanation": "CDC guidance recommends isolating for at least 5 days after a positive COVID-19 test and ending isolation if symptoms are improving and the person has been fever-free for 24 hours without the use of fever-reducing medication.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/your-health/isolation.html",
+          "https://www.nj.gov/health/covid-19/information/prevention-recommendations/"
+        ]
+      },
+      "2": {
+        "fact": "After ending isolation, you should wear a mask around others for 5 additional days.",
+        "truthfulness": "100%",
+        "explanation": "CDC recommends wearing a mask around others for 5 days after ending isolation to reduce the risk of spreading the virus.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/your-health/isolation.html",
+          "https://www.nj.gov/health/covid-19/information/prevention-recommendations/"
+        ]
+      },
+      "3": {
+        "fact": "If you test positive again after ending isolation, you may need to re-isolate according to the CDC.",
+        "truthfulness": "80%",
+        "explanation": "CDC guidance suggests that if symptoms recur or a person tests positive again after ending isolation, they may need to re-isolate, but this depends on clinical judgment and specific circumstances.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/your-health/isolation.html"
+        ]
+      },
+      "4": {
+        "fact": "If you\u2019ve had symptoms or been exposed, get tested. A negative test result indicates you are likely COVID-free.",
+        "truthfulness": "90%",
+        "explanation": "Testing is recommended after symptoms or exposure. A negative test generally indicates no current infection, but false negatives can occur, especially if testing is done too early.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html"
+        ]
+      },
+      "5": {
+        "fact": "You can end isolation after 5 days if your symptoms are improving and you have been fever-free for 24 hours without medication.",
+        "truthfulness": "100%",
+        "explanation": "This aligns with CDC isolation guidance for COVID-19 positive individuals.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/your-health/isolation.html"
+        ]
+      },
+      "6": {
+        "fact": "After ending isolation, follow CDC guidelines by wearing a mask around others for an additional 5 days.",
+        "truthfulness": "100%",
+        "explanation": "CDC recommends continued mask use for 5 days after isolation to prevent transmission.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/your-health/isolation.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

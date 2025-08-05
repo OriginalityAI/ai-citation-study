@@ -1,0 +1,90 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36463417,
+      "id": "qjfbldz5voapt8ki",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/qjfbldz5voapt8ki",
+      "content": "Question: blood pressure equation formula Answer: Blood pressure is determined by the formula: Blood Pressure = Cardiac Output x Total Peripheral Resistance. Cardiac output refers to the amount of blood the heart pumps per minute, while total peripheral resistance is the resistance to blood flow offered by the blood vessels. Here&#039;s a more detailed breakdown:: - Cardiac Output (CO): This is the volume of blood pumped by the heart per minute. It&#039;s calculated by multiplying the heart rate (HR) by the stroke volume (SV), which is the amount of blood ejected with each heartbeat: CO = HR x SV. - Total Peripheral Resistance (TPR): This is the resistance that blood vessels offer to the flow of blood. It&#039;s influenced by the diameter of the blood vessels and the viscosity of the blood. - Mean Arterial Pressure (MAP): While not directly part of the main formula, MAP is a clinically relevant value derived from systolic and diastolic blood pressure. It represents the average arterial pressure during a single cardiac cycle. A common formula to estimate MAP is: MAP = (2 * Diastolic Pressure + Systolic Pressure) / 3 or MAP = Diastolic Pressure + 1/3 (Systolic Pressure - Diastolic Pressure).",
+      "formattedContent": "Question: blood pressure equation formula\n\nAnswer: Blood pressure is determined by the formula: Blood Pressure = Cardiac Output x Total Peripheral Resistance. Cardiac output refers to the amount of blood the heart pumps per minute, while total peripheral resistance is the resistance to blood flow offered by the blood vessels.\nHere's a more detailed breakdown::\n- Cardiac Output (CO): This is the volume of blood pumped by the heart per minute. It's calculated by multiplying the heart rate (HR) by the stroke volume (SV), which is the amount of blood ejected with each heartbeat: CO = HR x SV.\n- Total Peripheral Resistance (TPR): This is the resistance that blood vessels offer to the flow of blood. It's influenced by the diameter of the blood vessels and the viscosity of the blood.\n- Mean Arterial Pressure (MAP): While not directly part of the main formula, MAP is a clinically relevant value derived from systolic and diastolic blood pressure. It represents the average arterial pressure during a single cardiac cycle. A common formula to estimate MAP is: MAP = (2 * Diastolic Pressure + Systolic Pressure) / 3 or MAP = Diastolic Pressure + 1/3 (Systolic Pressure - Diastolic Pressure)."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Blood pressure is determined by the formula: Blood Pressure = Cardiac Output x Total Peripheral Resistance.",
+        "truthfulness": "100%",
+        "explanation": "This is a well-established physiological relationship where blood pressure (BP) is the product of cardiac output (CO) and total peripheral resistance (TPR). This formula is fundamental in cardiovascular physiology and is supported by multiple sources including academic literature and physiology textbooks.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4444041/",
+          "https://courses.lumenlearning.com/suny-ap2/chapter/blood-flow-blood-pressure-and-resistance-no-content/"
+        ]
+      },
+      "1": {
+        "fact": "Cardiac output refers to the amount of blood the heart pumps per minute.",
+        "truthfulness": "100%",
+        "explanation": "Cardiac output is defined as the volume of blood the heart pumps per minute, a standard definition in cardiovascular physiology.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4444041/"
+        ]
+      },
+      "2": {
+        "fact": "Cardiac Output (CO) is calculated by multiplying the heart rate (HR) by the stroke volume (SV), which is the amount of blood ejected with each heartbeat: CO = HR x SV.",
+        "truthfulness": "100%",
+        "explanation": "This is the standard formula for cardiac output, where heart rate (beats per minute) multiplied by stroke volume (blood volume per beat) gives cardiac output in volume per minute.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4444041/"
+        ]
+      },
+      "3": {
+        "fact": "Total Peripheral Resistance (TPR) is the resistance that blood vessels offer to the flow of blood.",
+        "truthfulness": "100%",
+        "explanation": "TPR is defined as the resistance to blood flow offered by the systemic blood vessels, primarily influenced by vessel diameter and blood viscosity.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4444041/",
+          "https://courses.lumenlearning.com/suny-ap2/chapter/blood-flow-blood-pressure-and-resistance-no-content/"
+        ]
+      },
+      "4": {
+        "fact": "TPR is influenced by the diameter of the blood vessels and the viscosity of the blood.",
+        "truthfulness": "100%",
+        "explanation": "Vessel diameter and blood viscosity are key factors affecting TPR; smaller vessel radius increases resistance dramatically, and higher viscosity also increases resistance.",
+        "links": [
+          "https://courses.lumenlearning.com/suny-ap2/chapter/blood-flow-blood-pressure-and-resistance-no-content/",
+          "https://www.youtube.com/watch?v=VMJfiDsOgc8"
+        ]
+      },
+      "5": {
+        "fact": "Mean Arterial Pressure (MAP) is a clinically relevant value derived from systolic and diastolic blood pressure.",
+        "truthfulness": "100%",
+        "explanation": "MAP represents the average arterial pressure during a cardiac cycle and is commonly calculated from systolic and diastolic pressures.",
+        "links": []
+      },
+      "6": {
+        "fact": "A common formula to estimate MAP is: MAP = (2 * Diastolic Pressure + Systolic Pressure) / 3 or MAP = Diastolic Pressure + 1/3 (Systolic Pressure - Diastolic Pressure).",
+        "truthfulness": "100%",
+        "explanation": "These formulas are widely used clinical approximations for MAP, reflecting the longer duration of diastole compared to systole in the cardiac cycle.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

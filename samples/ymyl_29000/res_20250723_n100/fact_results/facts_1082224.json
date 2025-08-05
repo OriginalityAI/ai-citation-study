@@ -1,0 +1,70 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36471762,
+      "id": "9b1cy6v3gqslmne7",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/9b1cy6v3gqslmne7",
+      "content": "Question: which disease have been eradicated Answer: Smallpox is the only disease that has been completely eradicated worldwide. It was declared eradicated by the World Health Organization (WHO) in 1980. Smallpox is a highly contagious viral disease that can cause severe illness and death. Through a global vaccination campaign, the disease was eliminated from all parts of the world, with the last case occurring in 1977.",
+      "formattedContent": "Question: which disease have been eradicated\n\nAnswer: Smallpox is the only disease that has been completely eradicated worldwide. It was declared eradicated by the World Health Organization (WHO) in 1980. Smallpox is a highly contagious viral disease that can cause severe illness and death. Through a global vaccination campaign, the disease was eliminated from all parts of the world, with the last case occurring in 1977."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Smallpox is the only disease that has been completely eradicated worldwide.",
+        "truthfulness": "95%",
+        "explanation": "Smallpox was declared eradicated worldwide by the WHO in 1980, making it the first and only human disease to be eradicated globally. However, rinderpest, a disease affecting cattle, was also declared eradicated in 2011, so smallpox is the only human disease eradicated worldwide.",
+        "links": [
+          "https://ourworldindata.org/eradication-of-diseases",
+          "https://en.wikipedia.org/wiki/Eradication_of_infectious_diseases"
+        ]
+      },
+      "1": {
+        "fact": "It was declared eradicated by the World Health Organization (WHO) in 1980.",
+        "truthfulness": "100%",
+        "explanation": "The WHO officially declared smallpox eradicated in 1980 after a successful global vaccination campaign.",
+        "links": [
+          "https://ourworldindata.org/eradication-of-diseases",
+          "https://en.wikipedia.org/wiki/Eradication_of_infectious_diseases"
+        ]
+      },
+      "2": {
+        "fact": "Smallpox is a highly contagious viral disease that can cause severe illness and death.",
+        "truthfulness": "100%",
+        "explanation": "Smallpox is caused by the variola virus, is highly contagious, and historically caused severe illness and high mortality rates.",
+        "links": [
+          "https://ourworldindata.org/eradication-of-diseases"
+        ]
+      },
+      "3": {
+        "fact": "Through a global vaccination campaign, the disease was eliminated from all parts of the world, with the last case occurring in 1977.",
+        "truthfulness": "100%",
+        "explanation": "The global smallpox eradication campaign led to the last naturally occurring case in 1977, followed by the 1980 WHO declaration of eradication.",
+        "links": [
+          "https://ourworldindata.org/eradication-of-diseases",
+          "https://en.wikipedia.org/wiki/Eradication_of_infectious_diseases"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36466154,
+      "id": "3l8rk0zcm94efu6i",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/3l8rk0zcm94efu6i",
+      "content": "Question: should i contact my doctor if i have covid Answer: Yes, it is recommended to seek medical attention if you have COVID-19, especially if you experience the following symptoms:: - Severe symptoms: Difficulty breathing, chest pain, bluish lips or face, confusion, or inability to wake up. - Underlying medical conditions: Heart disease, lung disease, diabetes, cancer, or a weakened immune system. - Age: Older adults and children under 5 are at higher risk of complications. Early medical intervention can provide timely treatment, such as antiviral medications and monoclonal antibody therapy, which can help reduce the severity of the illness and prevent hospitalization. Additionally, a healthcare professional can monitor your condition and provide guidance on managing your symptoms at home.",
+      "formattedContent": "Question: should i contact my doctor if i have covid\n\nAnswer: Yes, it is recommended to seek medical attention if you have COVID-19, especially if you experience the following symptoms::\n- Severe symptoms: Difficulty breathing, chest pain, bluish lips or face, confusion, or inability to wake up.\n- Underlying medical conditions: Heart disease, lung disease, diabetes, cancer, or a weakened immune system.\n- Age: Older adults and children under 5 are at higher risk of complications.\nEarly medical intervention can provide timely treatment, such as antiviral medications and monoclonal antibody therapy, which can help reduce the severity of the illness and prevent hospitalization. Additionally, a healthcare professional can monitor your condition and provide guidance on managing your symptoms at home."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Yes, it is recommended to seek medical attention if you have COVID-19, especially if you experience the following symptoms:: - Severe symptoms: Difficulty breathing, chest pain, bluish lips or face, confusion, or inability to wake up.",
+        "truthfulness": 100,
+        "explanation": "Health authorities including the CDC, NHS, and LVHN recommend seeking emergency medical care if you have COVID-19 and experience severe symptoms such as difficulty breathing, chest pain, bluish lips or face, confusion, or inability to wake up.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://www.nhs.uk/conditions/covid-19/covid-19-symptoms-and-what-to-do/",
+          "https://www.lvhn.org/news/emergency-care-when-diagnosed-covid-19-your-questions-answered"
+        ]
+      },
+      "1": {
+        "fact": "Underlying medical conditions: Heart disease, lung disease, diabetes, cancer, or a weakened immune system.",
+        "truthfulness": 100,
+        "explanation": "People with underlying medical conditions such as heart disease, lung disease, diabetes, cancer, or weakened immune systems are at higher risk for severe COVID-19 and are advised to seek medical care promptly.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://www.nhs.uk/conditions/covid-19/covid-19-symptoms-and-what-to-do/"
+        ]
+      },
+      "2": {
+        "fact": "Age: Older adults and children under 5 are at higher risk of complications.",
+        "truthfulness": 95,
+        "explanation": "Older adults are well recognized as higher risk for COVID-19 complications. Children under 5 are also considered at higher risk, especially infants, though risk varies. This aligns with guidance from health authorities.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://www.nhs.uk/conditions/covid-19/covid-19-symptoms-and-what-to-do/"
+        ]
+      },
+      "3": {
+        "fact": "Early medical intervention can provide timely treatment, such as antiviral medications and monoclonal antibody therapy, which can help reduce the severity of the illness and prevent hospitalization.",
+        "truthfulness": 100,
+        "explanation": "Early treatment with antiviral medications and monoclonal antibodies is recommended for people at risk of severe COVID-19 to reduce illness severity and hospitalization risk, according to CDC and other health sources.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/therapeutic-options.html"
+        ]
+      },
+      "4": {
+        "fact": "Additionally, a healthcare professional can monitor your condition and provide guidance on managing your symptoms at home.",
+        "truthfulness": 100,
+        "explanation": "Healthcare professionals can provide monitoring and advice for managing COVID-19 symptoms at home, including virtual visits, which is widely recommended to reduce unnecessary ER visits.",
+        "links": [
+          "https://www.lvhn.org/news/emergency-care-when-diagnosed-covid-19-your-questions-answered"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

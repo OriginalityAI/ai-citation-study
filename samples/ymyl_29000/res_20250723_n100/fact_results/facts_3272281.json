@@ -1,0 +1,54 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36465009,
+      "id": "q48wbunpa2ldk607",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/q48wbunpa2ldk607",
+      "content": "Question: chronic kidney injury icd 10 Answer: The ICD-10 codes for chronic kidney injury (CKD) are:: - N18.0: CKD, stage 1 - N18.1: CKD, stage 2 - N18.2: CKD, stage 3 - N18.30: CKD, stage 3a - N18.31: CKD, stage 3b - N18.4: CKD, stage 4 - N18.5: CKD, stage 5 (end-stage renal disease) - N18.9: Unspecified CKD Note: The specific code used will depend on the stage of CKD and any other associated conditions.",
+      "formattedContent": "Question: chronic kidney injury icd 10\n\nAnswer: The ICD-10 codes for chronic kidney injury (CKD) are::\n- N18.0: CKD, stage 1\n- N18.1: CKD, stage 2\n- N18.2: CKD, stage 3\n- N18.30: CKD, stage 3a\n- N18.31: CKD, stage 3b\n- N18.4: CKD, stage 4\n- N18.5: CKD, stage 5 (end-stage renal disease)\n- N18.9: Unspecified CKD\nNote: The specific code used will depend on the stage of CKD and any other associated conditions."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The ICD-10 codes for chronic kidney injury (CKD) are:: - N18.0: CKD, stage 1 - N18.1: CKD, stage 2 - N18.2: CKD, stage 3 - N18.30: CKD, stage 3a - N18.31: CKD, stage 3b - N18.4: CKD, stage 4 - N18.5: CKD, stage 5 (end-stage renal disease) - N18.9: Unspecified CKD",
+        "truthfulness": "70%",
+        "explanation": "The ICD-10 codes for chronic kidney disease (CKD) stages are mostly correct but contain some inaccuracies. According to authoritative sources, the correct codes are: N18.1 for stage 1, N18.2 for stage 2, N18.30 for stage 3 unspecified, N18.31 for stage 3a, N18.32 for stage 3b (not N18.31 again), N18.4 for stage 4, N18.5 for stage 5 (severe CKD), and N18.9 for unspecified CKD. Additionally, N18.6 is used for end-stage renal disease (ESRD) requiring dialysis, not N18.5. The claim incorrectly labels N18.5 as ESRD, which is inaccurate. N18.0 is not a valid code for CKD stage 1; the correct code is N18.1. Therefore, the list has errors in code assignments and missing codes for ESRD and stage 3b.",
+        "links": [
+          "https://hiacode.com/blog/education/chronic-kidney-disease-coding",
+          "https://www.bcbsil.com/docs/provider/il/claims/submission/CKD-coding.pdf",
+          "https://www.aapc.com/codes/icd-10-codes/N18"
+        ]
+      },
+      "1": {
+        "fact": "The specific code used will depend on the stage of CKD and any other associated conditions.",
+        "truthfulness": "100%",
+        "explanation": "This is accurate. ICD-10 coding for CKD depends on the documented stage of the disease and any associated conditions such as diabetic or hypertensive CKD, which require additional codes.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/N18",
+          "https://hiacode.com/blog/education/chronic-kidney-disease-coding"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

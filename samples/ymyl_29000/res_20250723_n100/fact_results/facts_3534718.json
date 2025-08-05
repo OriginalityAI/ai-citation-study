@@ -1,0 +1,95 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461760,
+      "id": "f70gubq6c8an5pte",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/f70gubq6c8an5pte",
+      "content": "Question: how long till i test negative for covid Answer: The time it takes to test negative for COVID-19 depends on several factors, including:: - Severity of infection: Individuals with milder infections may test negative sooner than those with more severe infections. - Type of test: PCR tests are more sensitive than antigen tests and may detect the virus for a longer period. - Follow-up testing: It is recommended to repeat testing after a few days if the initial test is positive, even if symptoms have improved. Generally, most people with COVID-19 will test negative on an antigen test:: - 5-7 days after symptom onset if they have mild infection - 10-12 days after symptom onset if they have a moderate infection For PCR tests, it may take longer to test negative:: - Up to 20 days after symptom onset for mild infections - Up to 30 days after symptom onset for severe infections It is important to note that even after testing negative, it is possible to still be contagious for a short period. Therefore, it is recommended to continue wearing a mask and practice social distancing until symptoms have completely resolved and it has been at least 10 days since symptom onset.",
+      "formattedContent": "Question: how long till i test negative for covid\n\nAnswer: The time it takes to test negative for COVID-19 depends on several factors, including::\n- Severity of infection: Individuals with milder infections may test negative sooner than those with more severe infections.\n- Type of test: PCR tests are more sensitive than antigen tests and may detect the virus for a longer period.\n- Follow-up testing: It is recommended to repeat testing after a few days if the initial test is positive, even if symptoms have improved.\nGenerally, most people with COVID-19 will test negative on an antigen test::\n- 5-7 days after symptom onset if they have mild infection\n- 10-12 days after symptom onset if they have a moderate infection\nFor PCR tests, it may take longer to test negative::\n- Up to 20 days after symptom onset for mild infections\n- Up to 30 days after symptom onset for severe infections\nIt is important to note that even after testing negative, it is possible to still be contagious for a short period. Therefore, it is recommended to continue wearing a mask and practice social distancing until symptoms have completely resolved and it has been at least 10 days since symptom onset."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The time it takes to test negative for COVID-19 depends on several factors, including: Severity of infection: Individuals with milder infections may test negative sooner than those with more severe infections.",
+        "truthfulness": 90,
+        "explanation": "Severity of infection can influence viral load and duration of detectable virus, with milder cases often clearing virus faster, though individual variation exists.",
+        "links": [
+          "https://www.bu.edu/articles/2022/is-5-days-of-covid-isolation-enough/",
+          "https://www.gavi.org/vaccineswork/how-long-after-i-get-covid-19-will-i-test-negative"
+        ]
+      },
+      "1": {
+        "fact": "Type of test: PCR tests are more sensitive than antigen tests and may detect the virus for a longer period.",
+        "truthfulness": 100,
+        "explanation": "PCR tests detect viral RNA at lower levels and can remain positive longer than antigen tests, which detect viral proteins and generally turn negative sooner.",
+        "links": [
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/understanding-home-otc-covid-19-antigen-diagnostic-test-results",
+          "https://www.goodrx.com/conditions/covid-19/when-is-the-best-time-to-get-tested-for-covid"
+        ]
+      },
+      "2": {
+        "fact": "It is recommended to repeat testing after a few days if the initial test is positive, even if symptoms have improved.",
+        "truthfulness": 80,
+        "explanation": "Guidance generally recommends repeat testing after initial positive tests to confirm clearance, especially with antigen tests, but exact timing varies; some sources emphasize repeat testing after negative results rather than positive.",
+        "links": [
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/understanding-home-otc-covid-19-antigen-diagnostic-test-results",
+          "https://www.cdc.gov/covid/testing/index.html"
+        ]
+      },
+      "3": {
+        "fact": "Generally, most people with COVID-19 will test negative on an antigen test: 5-7 days after symptom onset if they have mild infection; 10-12 days after symptom onset if they have a moderate infection.",
+        "truthfulness": 70,
+        "explanation": "Antigen tests often become negative within about 5-10 days after symptom onset in mild cases; 10-12 days for moderate cases is plausible but less precisely established. Some studies show variability, and CDC guidance focuses on isolation duration rather than exact test negativity timing.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/when-is-the-best-time-to-get-tested-for-covid",
+          "https://www.bu.edu/articles/2022/is-5-days-of-covid-isolation-enough/"
+        ]
+      },
+      "4": {
+        "fact": "For PCR tests, it may take longer to test negative: Up to 20 days after symptom onset for mild infections; Up to 30 days after symptom onset for severe infections.",
+        "truthfulness": 90,
+        "explanation": "PCR tests can remain positive for weeks after symptom onset, including 20-30 days or longer, especially in severe cases, due to detection of non-infectious viral RNA fragments.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/when-is-the-best-time-to-get-tested-for-covid",
+          "https://www.gavi.org/vaccineswork/how-long-after-i-get-covid-19-will-i-test-negative"
+        ]
+      },
+      "5": {
+        "fact": "Even after testing negative, it is possible to still be contagious for a short period.",
+        "truthfulness": 60,
+        "explanation": "Generally, a negative antigen test correlates with low contagiousness, but rare cases of transmission after negative tests exist; however, most guidelines consider negative antigen tests as a good proxy for non-infectiousness.",
+        "links": []
+      },
+      "6": {
+        "fact": "It is recommended to continue wearing a mask and practice social distancing until symptoms have completely resolved and it has been at least 10 days since symptom onset.",
+        "truthfulness": 95,
+        "explanation": "CDC and WHO recommend isolation for at least 10 days from symptom onset and mask use until symptoms resolve; this aligns with current public health guidance.",
+        "links": [
+          "https://www.gavi.org/vaccineswork/how-long-after-i-get-covid-19-will-i-test-negative",
+          "https://www.cdc.gov/covid/testing/index.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

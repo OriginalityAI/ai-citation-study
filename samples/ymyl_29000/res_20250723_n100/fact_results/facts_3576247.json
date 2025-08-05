@@ -1,0 +1,76 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464630,
+      "id": "mlzwur1xj098po5h",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/mlzwur1xj098po5h",
+      "content": "Question: infectious period covid Answer: The infectious period for COVID-19 is generally considered to be from 2 days before the onset of symptoms until 10 days after symptoms appear. However, this period can vary depending on factors such as:: - Viral load: Individuals with higher viral loads may be infectious for a longer period. - Vaccination status: Vaccinated individuals may have a shorter infectious period. - Underlying medical conditions: Individuals with underlying medical conditions may be infectious for a longer period. It is important to note that asymptomatic individuals can also transmit the virus. Therefore, it is crucial to follow public health guidelines such as wearing masks, social distancing, and getting vaccinated to reduce the risk of transmission.",
+      "formattedContent": "Question: infectious period covid\n\nAnswer: The infectious period for COVID-19 is generally considered to be from 2 days before the onset of symptoms until 10 days after symptoms appear. However, this period can vary depending on factors such as::\n- Viral load: Individuals with higher viral loads may be infectious for a longer period.\n- Vaccination status: Vaccinated individuals may have a shorter infectious period.\n- Underlying medical conditions: Individuals with underlying medical conditions may be infectious for a longer period.\nIt is important to note that asymptomatic individuals can also transmit the virus. Therefore, it is crucial to follow public health guidelines such as wearing masks, social distancing, and getting vaccinated to reduce the risk of transmission."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The infectious period for COVID-19 is generally considered to be from 2 days before the onset of symptoms until 10 days after symptoms appear.",
+        "truthfulness": 95,
+        "explanation": "The infectious period typically starts about 1-2 days before symptoms appear and lasts up to 10 days after symptom onset for most individuals with mild to moderate illness. This is supported by evidence that people are contagious 1-2 days before symptoms and remain so for about 7-10 days after symptoms begin. Some sources note the contagious period as 5-10 days, with the highest contagiousness in the first 5-7 days. The 2 days before symptom onset and 10 days after is a widely accepted guideline for isolation and infectiousness duration.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-most-contagious-when",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7547320/"
+        ]
+      },
+      "1": {
+        "fact": "Individuals with higher viral loads may be infectious for a longer period.",
+        "truthfulness": 90,
+        "explanation": "Higher viral loads generally correlate with greater infectiousness and potentially longer periods of contagiousness, although exact duration can vary. Viral load influences how much virus is shed and thus the risk of transmission. This is consistent with scientific understanding of viral dynamics in COVID-19.",
+        "links": []
+      },
+      "2": {
+        "fact": "Vaccinated individuals may have a shorter infectious period.",
+        "truthfulness": 85,
+        "explanation": "Vaccination has been shown to reduce viral load and duration of viral shedding in breakthrough infections, which likely shortens the infectious period. While exact durations vary by variant and individual factors, vaccination generally reduces infectiousness duration.",
+        "links": []
+      },
+      "3": {
+        "fact": "Individuals with underlying medical conditions may be infectious for a longer period.",
+        "truthfulness": 80,
+        "explanation": "People with underlying medical conditions or immunocompromised status may shed virus longer and thus be infectious for extended periods compared to healthy individuals. This is recognized in clinical guidelines, though the exact extension varies case by case.",
+        "links": []
+      },
+      "4": {
+        "fact": "Asymptomatic individuals can also transmit the virus.",
+        "truthfulness": 100,
+        "explanation": "It is well established that asymptomatic individuals can transmit SARS-CoV-2, contributing to the spread of COVID-19. Both asymptomatic and presymptomatic transmission are documented phenomena.",
+        "links": [
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963"
+        ]
+      },
+      "5": {
+        "fact": "It is crucial to follow public health guidelines such as wearing masks, social distancing, and getting vaccinated to reduce the risk of transmission.",
+        "truthfulness": 100,
+        "explanation": "Public health authorities worldwide recommend these measures to reduce COVID-19 transmission. Masking, distancing, and vaccination have been shown to lower infection risk and community spread.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

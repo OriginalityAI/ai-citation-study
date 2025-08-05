@@ -1,0 +1,72 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36460629,
+      "id": "olbms7a30i5f2c1q",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/olbms7a30i5f2c1q",
+      "content": "Question: family history of esophageal cancer icd 10 Answer: The ICD-10 code for family history of esophageal cancer is Z84.89. Here are some other related codes:: - Z80.0: Family history of malignant neoplasm of digestive organs - Z80.9: Family history of malignant neoplasm, unspecified - Z85.01: Personal history of malignant neoplasm of esophagus - Z84.89: Family history of other specified conditions",
+      "formattedContent": "Question: family history of esophageal cancer icd 10\n\nAnswer: The ICD-10 code for family history of esophageal cancer is Z84.89.\nHere are some other related codes::\n- Z80.0: Family history of malignant neoplasm of digestive organs\n- Z80.9: Family history of malignant neoplasm, unspecified\n- Z85.01: Personal history of malignant neoplasm of esophagus\n- Z84.89: Family history of other specified conditions"
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The ICD-10 code for family history of esophageal cancer is Z84.89.",
+        "truthfulness": 0,
+        "explanation": "The code Z84.89 corresponds to 'Family history of other specified conditions' and is not specific to esophageal cancer. The more appropriate code for family history of malignant neoplasm of digestive organs, which includes esophageal cancer, is Z80.0.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/Z80.0"
+        ]
+      },
+      "1": {
+        "fact": "Z80.0: Family history of malignant neoplasm of digestive organs",
+        "truthfulness": 100,
+        "explanation": "Z80.0 is the correct ICD-10 code for family history of malignant neoplasm of digestive organs, which includes esophageal cancer.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/Z80.0"
+        ]
+      },
+      "2": {
+        "fact": "Z80.9: Family history of malignant neoplasm, unspecified",
+        "truthfulness": 100,
+        "explanation": "Z80.9 is the ICD-10 code for family history of malignant neoplasm, unspecified.",
+        "links": []
+      },
+      "3": {
+        "fact": "Z85.01: Personal history of malignant neoplasm of esophagus",
+        "truthfulness": 100,
+        "explanation": "Z85.01 is the ICD-10 code for personal history of malignant neoplasm of the esophagus.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/Z85.01",
+          "https://icdlist.com/icd-10/Z85.01"
+        ]
+      },
+      "4": {
+        "fact": "Z84.89: Family history of other specified conditions",
+        "truthfulness": 100,
+        "explanation": "Z84.89 is a valid ICD-10 code for family history of other specified conditions, but it is not specific to esophageal cancer.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36459200,
+      "id": "j9v1ndomsltwqu5b",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/j9v1ndomsltwqu5b",
+      "content": "Question: current interest rates for savings bonds Answer: The current interest rate for Series I Savings Bonds is 3.98%. This rate includes a fixed rate of 1.10% and an inflation rate that is adjusted every six months, according to TreasuryDirect. For Series EE Savings Bonds, the current interest rate is 2.70%. This is a fixed rate for bonds issued from May 1, 2025, to October 31, 2025, according to TreasuryDirect. Series I Savings Bonds:: - Composite Rate: 3.98% (fixed rate of 1.10% + semiannual inflation rate). - Fixed Rate: 1.10% (this rate remains the same for the life of the bond). - Inflation Rate: Changes every six months, based on the Consumer Price Index (CPI). - Can be cashed in after 1 year: (but you lose 3 months of interest if cashed before 5 years). Series EE Savings Bonds:: - Fixed Rate: 2.70%. - Interest-bearing life: 30 years. - Original maturity: 20 years.",
+      "formattedContent": "Question: current interest rates for savings bonds\n\nAnswer: The current interest rate for Series I Savings Bonds is 3.98%. This rate includes a fixed rate of 1.10% and an inflation rate that is adjusted every six months, according to TreasuryDirect. For Series EE Savings Bonds, the current interest rate is 2.70%. This is a fixed rate for bonds issued from May 1, 2025, to October 31, 2025, according to TreasuryDirect.\nSeries I Savings Bonds::\n- Composite Rate: 3.98% (fixed rate of 1.10% + semiannual inflation rate).\n- Fixed Rate: 1.10% (this rate remains the same for the life of the bond).\n- Inflation Rate: Changes every six months, based on the Consumer Price Index (CPI).\n- Can be cashed in after 1 year: (but you lose 3 months of interest if cashed before 5 years).\nSeries EE Savings Bonds::\n- Fixed Rate: 2.70%.\n- Interest-bearing life: 30 years.\n- Original maturity: 20 years."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The current interest rate for Series I Savings Bonds is 3.98%.",
+        "truthfulness": "100%",
+        "explanation": "The composite rate for Series I Savings Bonds issued from May 2025 through October 2025 is confirmed to be 3.98% by TreasuryDirect and other reliable sources.",
+        "links": [
+          "https://www.usinflationcalculator.com/inflation/rates-for-series-i-bonds/",
+          "https://www.treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/"
+        ]
+      },
+      "1": {
+        "fact": "This rate includes a fixed rate of 1.10% and an inflation rate that is adjusted every six months, according to TreasuryDirect.",
+        "truthfulness": "100%",
+        "explanation": "The 3.98% composite rate is composed of a fixed rate of 1.10% plus a semiannual inflation rate that is adjusted every six months based on the Consumer Price Index (CPI).",
+        "links": [
+          "https://www.usinflationcalculator.com/inflation/rates-for-series-i-bonds/",
+          "https://www.treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/"
+        ]
+      },
+      "2": {
+        "fact": "For Series EE Savings Bonds, the current interest rate is 2.70%. This is a fixed rate for bonds issued from May 1, 2025, to October 31, 2025, according to TreasuryDirect.",
+        "truthfulness": "100%",
+        "explanation": "The fixed rate for Series EE Savings Bonds issued from May 1, 2025, to October 31, 2025, is 2.70%, as stated by TreasuryDirect.",
+        "links": [
+          "https://www.treasurydirect.gov/indiv/research/indepth/eeseries.htm"
+        ]
+      },
+      "3": {
+        "fact": "Series I Savings Bonds: Composite Rate: 3.98% (fixed rate of 1.10% + semiannual inflation rate).",
+        "truthfulness": "100%",
+        "explanation": "The composite rate of 3.98% for Series I Savings Bonds is calculated from the fixed rate of 1.10% plus the semiannual inflation rate, consistent with TreasuryDirect's formula.",
+        "links": [
+          "https://www.treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/"
+        ]
+      },
+      "4": {
+        "fact": "Series I Savings Bonds: Fixed Rate: 1.10% (this rate remains the same for the life of the bond).",
+        "truthfulness": "100%",
+        "explanation": "The fixed rate of 1.10% for Series I Savings Bonds remains constant for the life of the bond, as confirmed by TreasuryDirect.",
+        "links": [
+          "https://www.usinflationcalculator.com/inflation/rates-for-series-i-bonds/"
+        ]
+      },
+      "5": {
+        "fact": "Series I Savings Bonds: Inflation Rate: Changes every six months, based on the Consumer Price Index (CPI).",
+        "truthfulness": "100%",
+        "explanation": "The inflation rate component of Series I Savings Bonds is adjusted every six months based on changes in the Consumer Price Index for All Urban Consumers (CPI-U).",
+        "links": [
+          "https://www.treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/"
+        ]
+      },
+      "6": {
+        "fact": "Series I Savings Bonds: Can be cashed in after 1 year: (but you lose 3 months of interest if cashed before 5 years).",
+        "truthfulness": "100%",
+        "explanation": "Series I Savings Bonds can be redeemed after 12 months, but if cashed before 5 years, the last 3 months of interest are forfeited, as stated by TreasuryDirect.",
+        "links": [
+          "https://www.usinflationcalculator.com/inflation/rates-for-series-i-bonds/"
+        ]
+      },
+      "7": {
+        "fact": "Series EE Savings Bonds: Fixed Rate: 2.70%.",
+        "truthfulness": "100%",
+        "explanation": "The fixed interest rate for Series EE Savings Bonds issued from May 1, 2025, to October 31, 2025, is 2.70%, according to TreasuryDirect.",
+        "links": [
+          "https://www.treasurydirect.gov/indiv/research/indepth/eeseries.htm"
+        ]
+      },
+      "8": {
+        "fact": "Series EE Savings Bonds: Interest-bearing life: 30 years.",
+        "truthfulness": "100%",
+        "explanation": "Series EE Savings Bonds earn interest for up to 30 years, as confirmed by official TreasuryDirect information.",
+        "links": [
+          "https://www.treasurydirect.gov/indiv/research/indepth/eeseries.htm"
+        ]
+      },
+      "9": {
+        "fact": "Series EE Savings Bonds: Original maturity: 20 years.",
+        "truthfulness": "100%",
+        "explanation": "Series EE Savings Bonds have an original maturity of 20 years, after which the U.S. Treasury guarantees the bond will double in value if held to maturity.",
+        "links": [
+          "https://www.treasurydirect.gov/indiv/research/indepth/eeseries.htm"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

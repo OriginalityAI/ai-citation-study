@@ -1,0 +1,54 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36471290,
+      "id": "edugm03vsaq5n18h",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/edugm03vsaq5n18h",
+      "content": "Question: how long from exposure to symptoms of covid Answer: Symptoms of COVID-19 typically appear between 2 and 14 days after exposure to the virus. The CDC says this incubation period can vary, with some people experiencing mild symptoms initially that may progress to more severe illness.",
+      "formattedContent": "Question: how long from exposure to symptoms of covid\n\nAnswer: Symptoms of COVID-19 typically appear between 2 and 14 days after exposure to the virus. The CDC says this incubation period can vary, with some people experiencing mild symptoms initially that may progress to more severe illness."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Symptoms of COVID-19 typically appear between 2 and 14 days after exposure to the virus.",
+        "truthfulness": "100%",
+        "explanation": "The CDC and multiple health sources confirm that the incubation period for COVID-19 ranges from 2 to 14 days after exposure, with an average around 5 days. This range has been the basis for quarantine guidelines worldwide.",
+        "links": [
+          "https://ada.com/covid/covid-19-incubation-period/",
+          "https://www.healthline.com/health/coronavirus-incubation-period",
+          "https://www.cdc.gov/covid/hcp/clinical-care/covid19-presentation.html"
+        ]
+      },
+      "1": {
+        "fact": "The CDC says this incubation period can vary, with some people experiencing mild symptoms initially that may progress to more severe illness.",
+        "truthfulness": "100%",
+        "explanation": "The CDC acknowledges variability in the incubation period and symptom severity. Some individuals may start with mild symptoms that worsen over time, reflecting the clinical progression of COVID-19.",
+        "links": [
+          "https://www.cdc.gov/covid/hcp/clinical-care/covid19-presentation.html",
+          "https://ada.com/covid/covid-19-incubation-period/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

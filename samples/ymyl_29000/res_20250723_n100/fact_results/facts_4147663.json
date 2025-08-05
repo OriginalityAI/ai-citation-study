@@ -1,0 +1,75 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36458979,
+      "id": "5zrnmwdsxqhj2v0y",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/5zrnmwdsxqhj2v0y",
+      "content": "Question: what&#039;s the most accurate covid test Answer: The most accurate COVID-19 test is the polymerase chain reaction (PCR) test. It is a laboratory-based test that detects the virus&#039;s genetic material (RNA) in a sample collected from the nose or throat. PCR tests have a sensitivity of over 99%, meaning they correctly identify almost all infected individuals. Other COVID-19 tests, such as rapid antigen tests, are less accurate but provide faster results. They are typically used for screening purposes and may not detect all infected individuals, especially if viral loads are low.",
+      "formattedContent": "Question: what's the most accurate covid test\n\nAnswer: The most accurate COVID-19 test is the polymerase chain reaction (PCR) test. It is a laboratory-based test that detects the virus's genetic material (RNA) in a sample collected from the nose or throat. PCR tests have a sensitivity of over 99%, meaning they correctly identify almost all infected individuals.\nOther COVID-19 tests, such as rapid antigen tests, are less accurate but provide faster results. They are typically used for screening purposes and may not detect all infected individuals, especially if viral loads are low."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The most accurate COVID-19 test is the polymerase chain reaction (PCR) test.",
+        "truthfulness": "100%",
+        "explanation": "PCR tests are widely recognized as the most accurate COVID-19 tests because they detect the virus's genetic material with high sensitivity and specificity, making them the gold standard for diagnosis.",
+        "links": [
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/home-covid-19-diagnostic-tests-frequently-asked-questions"
+        ]
+      },
+      "1": {
+        "fact": "It is a laboratory-based test that detects the virus's genetic material (RNA) in a sample collected from the nose or throat.",
+        "truthfulness": "100%",
+        "explanation": "PCR tests detect SARS-CoV-2 RNA from samples typically collected via nasal or throat swabs and require laboratory processing.",
+        "links": [
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/home-covid-19-diagnostic-tests-frequently-asked-questions"
+        ]
+      },
+      "2": {
+        "fact": "PCR tests have a sensitivity of over 99%, meaning they correctly identify almost all infected individuals.",
+        "truthfulness": "Approximately 99%",
+        "explanation": "PCR tests generally have very high sensitivity, often reported above 95% and close to 99%, making them highly reliable in detecting infected individuals.",
+        "links": []
+      },
+      "3": {
+        "fact": "Other COVID-19 tests, such as rapid antigen tests, are less accurate but provide faster results.",
+        "truthfulness": "100%",
+        "explanation": "Rapid antigen tests are less sensitive than PCR tests but offer quicker results, often within 15 minutes, making them useful for screening.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test",
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants"
+        ]
+      },
+      "4": {
+        "fact": "They are typically used for screening purposes and may not detect all infected individuals, especially if viral loads are low.",
+        "truthfulness": "100%",
+        "explanation": "Rapid antigen tests have lower sensitivity, especially in cases with low viral load, leading to possible false negatives; thus, they are mainly used for screening rather than definitive diagnosis.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test",
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/home-covid-19-diagnostic-tests-frequently-asked-questions"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36463808,
+      "id": "vkeip459lx0on7yw",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/vkeip459lx0on7yw",
+      "content": "Question: does covid always have a fever Answer: No, fever is not always present with COVID-19. While fever is a common symptom, some people may not experience it. Other symptoms of COVID-19 can include cough, shortness of breath, fatigue, headache, muscle aches, and loss of taste or smell.",
+      "formattedContent": "Question: does covid always have a fever\n\nAnswer: No, fever is not always present with COVID-19. While fever is a common symptom, some people may not experience it. Other symptoms of COVID-19 can include cough, shortness of breath, fatigue, headache, muscle aches, and loss of taste or smell."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "No, fever is not always present with COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "Studies show that fever is a common but not universal symptom of COVID-19. For example, a cohort study found fever prevalence was low (9.1%) among hospitalized patients, indicating many infected individuals do not have fever[1]. Other sources also confirm fever is common but not always present[2][4].",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10960947/",
+          "https://ada.com/covid/covid-19-fever-range/",
+          "https://www.cdc.gov/mmwr/volumes/69/wr/mm6928a2.htm"
+        ]
+      },
+      "1": {
+        "fact": "While fever is a common symptom, some people may not experience it.",
+        "truthfulness": "100%",
+        "explanation": "Fever is frequently reported but not universal. For example, a CDC study found that nearly all symptomatic patients reported fever, cough, or shortness of breath, but not all had fever specifically[4]. Another study showed fever was present in only 9.1% of hospitalized patients[1].",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10960947/",
+          "https://www.cdc.gov/mmwr/volumes/69/wr/mm6928a2.htm"
+        ]
+      },
+      "2": {
+        "fact": "Other symptoms of COVID-19 can include cough, shortness of breath, fatigue, headache, muscle aches, and loss of taste or smell.",
+        "truthfulness": "100%",
+        "explanation": "These symptoms are well documented as common COVID-19 symptoms by multiple health authorities and studies. The CDC lists cough, shortness of breath, fatigue, headache, muscle aches, and loss of taste or smell among typical symptoms[4]. Other sources also confirm these as common symptoms[2].",
+        "links": [
+          "https://ada.com/covid/covid-19-fever-range/",
+          "https://www.cdc.gov/mmwr/volumes/69/wr/mm6928a2.htm"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

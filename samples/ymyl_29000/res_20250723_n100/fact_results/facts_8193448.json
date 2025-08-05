@@ -1,0 +1,53 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36463299,
+      "id": "9y6x412oavielzwf",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/9y6x412oavielzwf",
+      "content": "Question: is congestion symptom of covid Answer: Yes, congestion or a runny nose is listed as a possible symptom of COVID-19, according to the CDC. Other common symptoms include fever, cough, sore throat, and fatigue.",
+      "formattedContent": "Question: is congestion symptom of covid\n\nAnswer: Yes, congestion or a runny nose is listed as a possible symptom of COVID-19, according to the CDC. Other common symptoms include fever, cough, sore throat, and fatigue."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "congestion or a runny nose is listed as a possible symptom of COVID-19, according to the CDC",
+        "truthfulness": "100%",
+        "explanation": "The CDC lists congestion or runny nose as possible symptoms of COVID-19 along with other symptoms such as fever, cough, sore throat, and fatigue.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://umc.ua.edu/2020/07/cdc-adds-to-covid-19-symptoms/"
+        ]
+      },
+      "1": {
+        "fact": "Other common symptoms include fever, cough, sore throat, and fatigue",
+        "truthfulness": "100%",
+        "explanation": "The CDC and Mayo Clinic both list fever, cough, sore throat, and fatigue as common symptoms of COVID-19.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

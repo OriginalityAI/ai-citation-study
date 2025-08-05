@@ -1,0 +1,92 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36469914,
+      "id": "d12rn4q6jbglpu9h",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/d12rn4q6jbglpu9h",
+      "content": "Question: malaria symptoms Answer: Malaria, a mosquito-borne infectious disease, presents with various symptoms, including: Classic Symptoms:: - Fever (typically high, with chills and sweats) - Headache - Muscle aches - Fatigue - Nausea and vomiting Other Possible Symptoms:: - Joint pain - Diarrhea - Cough - Sore throat - Confusion or disorientation - Seizures (in severe cases) - Jaundice (yellowing of the skin and eyes) Onset and Progression: Symptoms typically appear 7-14 days after being bitten by an infected mosquito. The disease may present in cycles, with fever and chills recurring every few days. In severe cases, symptoms can worsen rapidly and lead to complications such as organ failure and death. Note: It&#039;s important to seek medical attention if you experience any of these symptoms, especially if you have recently traveled to a malaria-endemic area. Early diagnosis and treatment with antimalarial medications are crucial for successful management of malaria.",
+      "formattedContent": "Question: malaria symptoms\n\nAnswer: Malaria, a mosquito-borne infectious disease, presents with various symptoms, including:\nClassic Symptoms::\n- Fever (typically high, with chills and sweats)\n- Headache\n- Muscle aches\n- Fatigue\n- Nausea and vomiting\nOther Possible Symptoms::\n- Joint pain\n- Diarrhea\n- Cough\n- Sore throat\n- Confusion or disorientation\n- Seizures (in severe cases)\n- Jaundice (yellowing of the skin and eyes)\nOnset and Progression:\nSymptoms typically appear 7-14 days after being bitten by an infected mosquito. The disease may present in cycles, with fever and chills recurring every few days. In severe cases, symptoms can worsen rapidly and lead to complications such as organ failure and death.\nNote: It's important to seek medical attention if you experience any of these symptoms, especially if you have recently traveled to a malaria-endemic area. Early diagnosis and treatment with antimalarial medications are crucial for successful management of malaria."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Malaria, a mosquito-borne infectious disease, presents with various symptoms, including: Classic Symptoms:: - Fever (typically high, with chills and sweats) - Headache - Muscle aches - Fatigue - Nausea and vomiting",
+        "truthfulness": "100%",
+        "explanation": "Malaria is caused by parasites transmitted through mosquito bites and commonly presents with fever, chills, sweats, headache, muscle aches, fatigue, nausea, and vomiting as initial symptoms, as supported by multiple authoritative sources including the CDC, Mayo Clinic, and Colorado Department of Public Health[1][2][5].",
+        "links": [
+          "https://cdphe.colorado.gov/dcphr/communicable-disease-manual/malaria",
+          "https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184",
+          "https://www.cdc.gov/malaria/hcp/clinical-features/index.html"
+        ]
+      },
+      "1": {
+        "fact": "Other Possible Symptoms:: - Joint pain - Diarrhea - Cough - Sore throat - Confusion or disorientation - Seizures (in severe cases) - Jaundice (yellowing of the skin and eyes)",
+        "truthfulness": "95%",
+        "explanation": "Additional symptoms such as joint pain, diarrhea, cough, confusion or disorientation, seizures in severe cases, and jaundice are documented in clinical descriptions of malaria. Joint pain and diarrhea are noted by Mayo Clinic; confusion, seizures, and jaundice are recognized signs of severe malaria by the Colorado Department of Public Health and Cleveland Clinic[1][2][4]. Sore throat is less commonly emphasized but may occur. Overall, these symptoms are consistent with clinical presentations of malaria.",
+        "links": [
+          "https://cdphe.colorado.gov/dcphr/communicable-disease-manual/malaria",
+          "https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184",
+          "https://my.clevelandclinic.org/health/diseases/15014-malaria"
+        ]
+      },
+      "2": {
+        "fact": "Symptoms typically appear 7-14 days after being bitten by an infected mosquito.",
+        "truthfulness": "90%",
+        "explanation": "Symptoms usually begin within 7 to 14 days after infection, though onset can vary depending on the Plasmodium species and individual factors. Some sources note symptoms can appear as early as 6-7 days or be delayed for months or even up to a year in some cases[2][3][4]. The 7-14 day range is a widely accepted typical incubation period.",
+        "links": [
+          "https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184",
+          "https://www.aafp.org/pubs/afp/issues/2022/0900/malaria.html",
+          "https://my.clevelandclinic.org/health/diseases/15014-malaria"
+        ]
+      },
+      "3": {
+        "fact": "The disease may present in cycles, with fever and chills recurring every few days.",
+        "truthfulness": "100%",
+        "explanation": "Malaria is known for its cyclical fever pattern, where fever and chills recur every 48 to 72 hours depending on the Plasmodium species involved. This cyclical pattern is a classic hallmark of malaria attacks[2].",
+        "links": [
+          "https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184"
+        ]
+      },
+      "4": {
+        "fact": "In severe cases, symptoms can worsen rapidly and lead to complications such as organ failure and death.",
+        "truthfulness": "100%",
+        "explanation": "Severe malaria can progress quickly to life-threatening complications including organ failure, severe anemia, cerebral malaria (neurological symptoms), and death if untreated. This is well documented by CDC, Cleveland Clinic, and other health authorities[1][4][5].",
+        "links": [
+          "https://cdphe.colorado.gov/dcphr/communicable-disease-manual/malaria",
+          "https://my.clevelandclinic.org/health/diseases/15014-malaria",
+          "https://www.cdc.gov/malaria/hcp/clinical-features/index.html"
+        ]
+      },
+      "5": {
+        "fact": "It's important to seek medical attention if you experience any of these symptoms, especially if you have recently traveled to a malaria-endemic area. Early diagnosis and treatment with antimalarial medications are crucial for successful management of malaria.",
+        "truthfulness": "100%",
+        "explanation": "Prompt medical evaluation and treatment are critical for malaria, particularly for travelers returning from endemic areas. Early diagnosis and use of antimalarial drugs improve outcomes and reduce risk of severe disease[2][4].",
+        "links": [
+          "https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184",
+          "https://my.clevelandclinic.org/health/diseases/15014-malaria"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

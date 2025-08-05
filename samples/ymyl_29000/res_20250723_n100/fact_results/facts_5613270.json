@@ -1,0 +1,151 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36460154,
+      "id": "7b8svxp63ywdue4g",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/7b8svxp63ywdue4g",
+      "content": "Question: type of radiation therapy Answer: Radiation therapy, used to treat cancer and other conditions, can be broadly categorized into two main types: external beam radiation therapy and internal radiation therapy. External beam radiation therapy delivers radiation from a machine outside the body, while internal radiation therapy involves placing radioactive material inside the body. External Beam Radiation Therapy (EBRT):: - 3D Conformal Radiation Therapy (3D-CRT): Uses 3D images to precisely target the tumor, aiming radiation from multiple angles. - Intensity-Modulated Radiation Therapy (IMRT): Delivers varying intensities of radiation to the tumor, minimizing exposure to surrounding healthy tissue. - Image-Guided Radiation Therapy (IGRT): Uses imaging during treatment to precisely target the radiation, often with daily scans. - Stereotactic Radiosurgery (SRS) / Stereotactic Body Radiation Therapy (SBRT): Delivers high doses of radiation to a very specific area, often in a single session (SRS) or a few sessions (SBRT). - Proton Therapy: Uses protons instead of X-rays to target tumors, potentially minimizing damage to surrounding healthy tissue. - Total Body Irradiation (TBI): A type of EBRT that irradiates the entire body, often in preparation for stem cell transplant. - Volumetric Modulated Arc Therapy (VMAT): A form of IMRT that uses a rotating arc to deliver radiation, allowing for faster treatment times. - Surface Guided Radiation Therapy (SGRT): Uses cameras to track a patient&#039;s skin surface during treatment, enhancing precision and potentially eliminating the need for skin tattoos. - MRI-guided Radiation Therapy: Combines MRI with a linear accelerator to provide real-time imaging during treatment, allowing for adjustments based on tumor movement or changes. Internal Radiation Therapy (Brachytherapy):: - Interstitial Brachytherapy: Radioactive sources are placed directly into the tumor tissue. - Intracavitary Brachytherapy: Radioactive sources are placed into a body cavity, like the uterus or vagina. - Intraluminal Radiation Therapy: Radioactive sources are placed within a hollow organ, like the esophagus or trachea. - Systemic Radiation Therapy: Radioactive material is administered intravenously or orally, targeting cancer cells throughout the body.",
+      "formattedContent": "Question: type of radiation therapy\n\nAnswer: Radiation therapy, used to treat cancer and other conditions, can be broadly categorized into two main types: external beam radiation therapy and internal radiation therapy. External beam radiation therapy delivers radiation from a machine outside the body, while internal radiation therapy involves placing radioactive material inside the body.\nExternal Beam Radiation Therapy (EBRT)::\n- 3D Conformal Radiation Therapy (3D-CRT): Uses 3D images to precisely target the tumor, aiming radiation from multiple angles.\n- Intensity-Modulated Radiation Therapy (IMRT): Delivers varying intensities of radiation to the tumor, minimizing exposure to surrounding healthy tissue.\n- Image-Guided Radiation Therapy (IGRT): Uses imaging during treatment to precisely target the radiation, often with daily scans.\n- Stereotactic Radiosurgery (SRS) / Stereotactic Body Radiation Therapy (SBRT): Delivers high doses of radiation to a very specific area, often in a single session (SRS) or a few sessions (SBRT).\n- Proton Therapy: Uses protons instead of X-rays to target tumors, potentially minimizing damage to surrounding healthy tissue.\n- Total Body Irradiation (TBI): A type of EBRT that irradiates the entire body, often in preparation for stem cell transplant.\n- Volumetric Modulated Arc Therapy (VMAT): A form of IMRT that uses a rotating arc to deliver radiation, allowing for faster treatment times.\n- Surface Guided Radiation Therapy (SGRT): Uses cameras to track a patient's skin surface during treatment, enhancing precision and potentially eliminating the need for skin tattoos.\n- MRI-guided Radiation Therapy: Combines MRI with a linear accelerator to provide real-time imaging during treatment, allowing for adjustments based on tumor movement or changes.\nInternal Radiation Therapy (Brachytherapy)::\n- Interstitial Brachytherapy: Radioactive sources are placed directly into the tumor tissue.\n- Intracavitary Brachytherapy: Radioactive sources are placed into a body cavity, like the uterus or vagina.\n- Intraluminal Radiation Therapy: Radioactive sources are placed within a hollow organ, like the esophagus or trachea.\n- Systemic Radiation Therapy: Radioactive material is administered intravenously or orally, targeting cancer cells throughout the body."
+    },
+    "credits": {
+      "used": 4
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Radiation therapy, used to treat cancer and other conditions, can be broadly categorized into two main types: external beam radiation therapy and internal radiation therapy.",
+        "truthfulness": 100,
+        "explanation": "Multiple authoritative sources confirm that radiation therapy is broadly divided into external beam radiation therapy (EBRT) and internal radiation therapy (brachytherapy).",
+        "links": [
+          "https://www.fredhutch.org/en/patient-care/treatments/radiation-oncology/radiation-treatment-types.html",
+          "https://www.pennmedicine.org/treatments/radiation-therapy",
+          "https://my.clevelandclinic.org/health/treatments/17637-radiation-therapy"
+        ]
+      },
+      "1": {
+        "fact": "External beam radiation therapy delivers radiation from a machine outside the body, while internal radiation therapy involves placing radioactive material inside the body.",
+        "truthfulness": 100,
+        "explanation": "External beam radiation therapy uses machines outside the body to direct radiation beams, whereas internal radiation therapy (brachytherapy) involves placing radioactive sources inside or near the tumor.",
+        "links": [
+          "https://www.fredhutch.org/en/patient-care/treatments/radiation-oncology/radiation-treatment-types.html",
+          "https://www.pennmedicine.org/treatments/radiation-therapy",
+          "https://my.clevelandclinic.org/health/treatments/17637-radiation-therapy"
+        ]
+      },
+      "2": {
+        "fact": "3D Conformal Radiation Therapy (3D-CRT): Uses 3D images to precisely target the tumor, aiming radiation from multiple angles.",
+        "truthfulness": 100,
+        "explanation": "3D-CRT uses three-dimensional imaging to target tumors from multiple angles, improving precision and sparing healthy tissue.",
+        "links": [
+          "https://www.fredhutch.org/en/patient-care/treatments/radiation-oncology/radiation-treatment-types.html"
+        ]
+      },
+      "3": {
+        "fact": "Intensity-Modulated Radiation Therapy (IMRT): Delivers varying intensities of radiation to the tumor, minimizing exposure to surrounding healthy tissue.",
+        "truthfulness": 100,
+        "explanation": "IMRT modulates radiation intensity to conform to the tumor shape, reducing dose to healthy tissues.",
+        "links": [
+          "https://www.fredhutch.org/en/patient-care/treatments/radiation-oncology/radiation-treatment-types.html",
+          "https://health.ucsd.edu/care/cancer/treatments/radiation-therapy-radiosurgery/types/"
+        ]
+      },
+      "4": {
+        "fact": "Image-Guided Radiation Therapy (IGRT): Uses imaging during treatment to precisely target the radiation, often with daily scans.",
+        "truthfulness": 100,
+        "explanation": "IGRT incorporates imaging during radiation delivery to improve targeting accuracy, often with daily imaging.",
+        "links": []
+      },
+      "5": {
+        "fact": "Stereotactic Radiosurgery (SRS) / Stereotactic Body Radiation Therapy (SBRT): Delivers high doses of radiation to a very specific area, often in a single session (SRS) or a few sessions (SBRT).",
+        "truthfulness": 100,
+        "explanation": "SRS delivers a single high-dose radiation session, typically for brain tumors, while SBRT delivers a few high-dose sessions to body tumors with high precision.",
+        "links": [
+          "https://www.fredhutch.org/en/patient-care/treatments/radiation-oncology/radiation-treatment-types.html",
+          "https://www.pennmedicine.org/treatments/radiation-therapy",
+          "https://my.clevelandclinic.org/health/treatments/17637-radiation-therapy"
+        ]
+      },
+      "6": {
+        "fact": "Proton Therapy: Uses protons instead of X-rays to target tumors, potentially minimizing damage to surrounding healthy tissue.",
+        "truthfulness": 100,
+        "explanation": "Proton therapy uses charged protons to deliver radiation with precision, reducing exposure to adjacent healthy tissue compared to conventional X-rays.",
+        "links": [
+          "https://www.fredhutch.org/en/patient-care/treatments/radiation-oncology/radiation-treatment-types.html",
+          "https://www.pennmedicine.org/treatments/radiation-therapy"
+        ]
+      },
+      "7": {
+        "fact": "Total Body Irradiation (TBI): A type of EBRT that irradiates the entire body, often in preparation for stem cell transplant.",
+        "truthfulness": 100,
+        "explanation": "TBI is an external beam radiation therapy that treats the whole body, commonly used before bone marrow or stem cell transplantation.",
+        "links": [
+          "https://www.fredhutch.org/en/patient-care/treatments/radiation-oncology/radiation-treatment-types.html"
+        ]
+      },
+      "8": {
+        "fact": "Volumetric Modulated Arc Therapy (VMAT): A form of IMRT that uses a rotating arc to deliver radiation, allowing for faster treatment times.",
+        "truthfulness": 100,
+        "explanation": "VMAT is an advanced IMRT technique delivering radiation via a rotating gantry, enabling faster and precise treatment.",
+        "links": []
+      },
+      "9": {
+        "fact": "Surface Guided Radiation Therapy (SGRT): Uses cameras to track a patient's skin surface during treatment, enhancing precision and potentially eliminating the need for skin tattoos.",
+        "truthfulness": 100,
+        "explanation": "SGRT employs surface imaging cameras to monitor patient positioning in real time, improving accuracy and potentially avoiding permanent skin marks.",
+        "links": []
+      },
+      "10": {
+        "fact": "MRI-guided Radiation Therapy: Combines MRI with a linear accelerator to provide real-time imaging during treatment, allowing for adjustments based on tumor movement or changes.",
+        "truthfulness": 100,
+        "explanation": "MRI-guided radiation therapy integrates MRI imaging with radiation delivery to adapt treatment in real time based on tumor and organ motion.",
+        "links": []
+      },
+      "11": {
+        "fact": "Interstitial Brachytherapy: Radioactive sources are placed directly into the tumor tissue.",
+        "truthfulness": 100,
+        "explanation": "Interstitial brachytherapy involves implanting radioactive sources directly into tumor tissue for localized radiation.",
+        "links": [
+          "https://www.pennmedicine.org/treatments/radiation-therapy"
+        ]
+      },
+      "12": {
+        "fact": "Intracavitary Brachytherapy: Radioactive sources are placed into a body cavity, like the uterus or vagina.",
+        "truthfulness": 100,
+        "explanation": "Intracavitary brachytherapy places radioactive material inside body cavities such as the uterus or vagina to treat cancers in those areas.",
+        "links": [
+          "https://www.pennmedicine.org/treatments/radiation-therapy"
+        ]
+      },
+      "13": {
+        "fact": "Intraluminal Radiation Therapy: Radioactive sources are placed within a hollow organ, like the esophagus or trachea.",
+        "truthfulness": 100,
+        "explanation": "Intraluminal radiation therapy involves placing radioactive sources inside hollow organs to treat tumors within those lumens.",
+        "links": []
+      },
+      "14": {
+        "fact": "Systemic Radiation Therapy: Radioactive material is administered intravenously or orally, targeting cancer cells throughout the body.",
+        "truthfulness": 100,
+        "explanation": "Systemic radiation therapy delivers radioactive substances via the bloodstream or orally to target cancer cells body-wide.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

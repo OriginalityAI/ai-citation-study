@@ -1,0 +1,95 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36469025,
+      "id": "hl5koc6qpe83t709",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/hl5koc6qpe83t709",
+      "content": "Question: otc covid test reliability Answer: Yes, OTC (over-the-counter) COVID-19 tests are generally accurate, particularly when used by individuals with symptoms, according to Harvard Health and the FDA. They are designed to detect an active COVID-19 infection. However, these tests, which are typically antigen tests, are less sensitive than molecular tests like PCR and may not detect the virus as early in an infection or in individuals without symptoms. Here&#039;s a more detailed breakdown:: - Accuracy with Symptoms: At-home COVID tests are more effective at detecting the virus when individuals are experiencing symptoms. A study found that BinaxNow COVID tests detected nearly 90% of COVID cases when people had symptoms. - Lower Sensitivity for Asymptomatic Cases: OTC tests are less accurate at detecting asymptomatic infections. They may only detect about half of asymptomatic cases. - Antigen vs. Molecular Tests: Antigen tests, like most OTC tests, are generally less sensitive than molecular tests (like PCR). This means they are more likely to produce a false negative result, especially early in an infection or in asymptomatic individuals. - Importance of Repeat Testing: The FDA recommends repeat testing following a negative result on an antigen test, especially if symptoms persist or if there is a high level of suspicion for COVID-19. - Follow Instructions Carefully: It&#039;s crucial to follow the instructions provided with the specific at-home test kit carefully to ensure accurate results.",
+      "formattedContent": "Question: otc covid test reliability\n\nAnswer: Yes, OTC (over-the-counter) COVID-19 tests are generally accurate, particularly when used by individuals with symptoms, according to Harvard Health and the FDA. They are designed to detect an active COVID-19 infection. However, these tests, which are typically antigen tests, are less sensitive than molecular tests like PCR and may not detect the virus as early in an infection or in individuals without symptoms.\nHere's a more detailed breakdown::\n- Accuracy with Symptoms: At-home COVID tests are more effective at detecting the virus when individuals are experiencing symptoms. A study found that BinaxNow COVID tests detected nearly 90% of COVID cases when people had symptoms.\n- Lower Sensitivity for Asymptomatic Cases: OTC tests are less accurate at detecting asymptomatic infections. They may only detect about half of asymptomatic cases.\n- Antigen vs. Molecular Tests: Antigen tests, like most OTC tests, are generally less sensitive than molecular tests (like PCR). This means they are more likely to produce a false negative result, especially early in an infection or in asymptomatic individuals.\n- Importance of Repeat Testing: The FDA recommends repeat testing following a negative result on an antigen test, especially if symptoms persist or if there is a high level of suspicion for COVID-19.\n- Follow Instructions Carefully: It's crucial to follow the instructions provided with the specific at-home test kit carefully to ensure accurate results."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "OTC (over-the-counter) COVID-19 tests are generally accurate, particularly when used by individuals with symptoms, according to Harvard Health and the FDA.",
+        "truthfulness": "95%",
+        "explanation": "Harvard Health states that at-home COVID tests are more effective at detecting the virus when individuals have symptoms, and the FDA supports the use of OTC antigen tests for detecting active infection. Accuracy is higher in symptomatic individuals compared to asymptomatic ones.",
+        "links": [
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants",
+          "https://www.uchealth.org/today/how-when-to-use-rapid-at-home-covid-19-tests/"
+        ]
+      },
+      "1": {
+        "fact": "These tests, which are typically antigen tests, are less sensitive than molecular tests like PCR and may not detect the virus as early in an infection or in individuals without symptoms.",
+        "truthfulness": "100%",
+        "explanation": "OTC COVID-19 tests are mostly rapid antigen tests, which are less sensitive than molecular PCR tests. PCR tests detect viral RNA and are more accurate, especially early in infection or in asymptomatic cases.",
+        "links": [
+          "https://www.amp.org/about/newsroom/amp-blog-content/the-covid-19-testing-conundrum-what-consumers-should-know-about-the-different-types-of-tests/",
+          "https://www.uchealth.org/today/how-when-to-use-rapid-at-home-covid-19-tests/",
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants"
+        ]
+      },
+      "2": {
+        "fact": "A study found that BinaxNow COVID tests detected nearly 90% of COVID cases when people had symptoms.",
+        "truthfulness": "Approximately 90%",
+        "explanation": "Studies and reports indicate that BinaxNow antigen tests have about 85-90% sensitivity in symptomatic individuals, consistent with the claim that they detect nearly 90% of cases when symptoms are present.",
+        "links": [
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants",
+          "https://www.uchealth.org/today/how-when-to-use-rapid-at-home-covid-19-tests/"
+        ]
+      },
+      "3": {
+        "fact": "OTC tests are less accurate at detecting asymptomatic infections. They may only detect about half of asymptomatic cases.",
+        "truthfulness": "About 50%",
+        "explanation": "Antigen tests have significantly lower sensitivity in asymptomatic individuals, often detecting roughly 40-60% of infections, supporting the claim that they may detect about half of asymptomatic cases.",
+        "links": [
+          "https://www.uchealth.org/today/how-when-to-use-rapid-at-home-covid-19-tests/",
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants"
+        ]
+      },
+      "4": {
+        "fact": "Antigen tests, like most OTC tests, are generally less sensitive than molecular tests (like PCR). This means they are more likely to produce a false negative result, especially early in an infection or in asymptomatic individuals.",
+        "truthfulness": "100%",
+        "explanation": "Antigen tests detect viral proteins and have lower sensitivity compared to PCR tests that detect viral RNA, leading to higher false negative rates, particularly early in infection or in asymptomatic cases.",
+        "links": [
+          "https://www.amp.org/about/newsroom/amp-blog-content/the-covid-19-testing-conundrum-what-consumers-should-know-about-the-different-types-of-tests/",
+          "https://www.uchealth.org/today/how-when-to-use-rapid-at-home-covid-19-tests/"
+        ]
+      },
+      "5": {
+        "fact": "The FDA recommends repeat testing following a negative result on an antigen test, especially if symptoms persist or if there is a high level of suspicion for COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "The FDA advises that if an antigen test is negative but symptoms persist or exposure is suspected, repeat testing or confirmatory PCR testing is recommended to reduce false negatives.",
+        "links": []
+      },
+      "6": {
+        "fact": "It\u2019s crucial to follow the instructions provided with the specific at-home test kit carefully to ensure accurate results.",
+        "truthfulness": "100%",
+        "explanation": "Proper sample collection and following test instructions are essential for accurate results; incorrect swabbing or misuse can lead to false negatives or invalid results.",
+        "links": [
+          "https://www.uchealth.org/today/how-when-to-use-rapid-at-home-covid-19-tests/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

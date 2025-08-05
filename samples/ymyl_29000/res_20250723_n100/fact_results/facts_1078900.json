@@ -1,0 +1,60 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36459369,
+      "id": "0so2qrx8hlf5d349",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/0so2qrx8hlf5d349",
+      "content": "Question: when are covid symptoms contagious Answer: People with COVID-19 can be contagious from 1-2 days before symptoms start, and remain contagious for up to 8-10 days after symptoms begin, according to the CDC. Transmission is most likely in the early stages of illness.",
+      "formattedContent": "Question: when are covid symptoms contagious\n\nAnswer: People with COVID-19 can be contagious from 1-2 days before symptoms start, and remain contagious for up to 8-10 days after symptoms begin, according to the CDC. Transmission is most likely in the early stages of illness."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "People with COVID-19 can be contagious from 1-2 days before symptoms start",
+        "truthfulness": "100%",
+        "explanation": "According to GoodRx, people are contagious and can spread the virus 1 to 2 days before they even realize they\u2019re sick, which corresponds to the period before symptoms start.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-most-contagious-when"
+        ]
+      },
+      "1": {
+        "fact": "People with COVID-19 remain contagious for up to 8-10 days after symptoms begin",
+        "truthfulness": "100%",
+        "explanation": "The CDC guidance states that people with mild to moderate COVID-19 should isolate for at least 5 days and wear a mask through day 10, indicating contagiousness can last up to 10 days after symptom onset. GoodRx also notes contagiousness can last 5 to 10 days after infection.",
+        "links": [
+          "https://archive.cdc.gov/www_cdc_gov/coronavirus/2019-ncov/hcp/duration-isolation.html",
+          "https://www.goodrx.com/conditions/covid-19/covid-most-contagious-when"
+        ]
+      },
+      "2": {
+        "fact": "Transmission is most likely in the early stages of illness",
+        "truthfulness": "100%",
+        "explanation": "GoodRx highlights that people are most contagious in the first 5 to 7 days after infection, which corresponds to the early stages of illness.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-most-contagious-when"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36469121,
+      "id": "daplcxmrzioshgyu",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/daplcxmrzioshgyu",
+      "content": "Question: covid micro clotting Answer: COVID-19 can lead to abnormal blood clotting, including the formation of microclots in small blood vessels. These microclots, particularly those containing fibrin, have been observed in individuals with long COVID. The presence of spike protein, found in the virus and some vaccines, can also contribute to the formation of these microclots. Here&#039;s a more detailed explanation:: - Microclots and COVID-19: Some individuals with COVID-19 develop abnormal blood clots, including microclots, which can occur in various parts of the body, including the lungs. - Long COVID and Microclots: Studies have shown a higher prevalence of microclots in individuals with long COVID compared to controls. - Fibrin and Amyloidogenic Microclots: These microclots are often fibrinaloid, meaning they contain fibrin, and they can also have an amyloidogenic nature. - Spike Protein&#039;s Role: The spike protein, a component of the virus and some vaccines, can induce the formation of these microclots in normal plasma. - Disseminated Intravascular Coagulation: Microclots, including those with fibrin, have been linked to disseminated intravascular coagulation and mortality in severe COVID-19 cases.",
+      "formattedContent": "Question: covid micro clotting\n\nAnswer: COVID-19 can lead to abnormal blood clotting, including the formation of microclots in small blood vessels. These microclots, particularly those containing fibrin, have been observed in individuals with long COVID. The presence of spike protein, found in the virus and some vaccines, can also contribute to the formation of these microclots.\nHere's a more detailed explanation::\n- Microclots and COVID-19: Some individuals with COVID-19 develop abnormal blood clots, including microclots, which can occur in various parts of the body, including the lungs.\n- Long COVID and Microclots: Studies have shown a higher prevalence of microclots in individuals with long COVID compared to controls.\n- Fibrin and Amyloidogenic Microclots: These microclots are often fibrinaloid, meaning they contain fibrin, and they can also have an amyloidogenic nature.\n- Spike Protein's Role: The spike protein, a component of the virus and some vaccines, can induce the formation of these microclots in normal plasma.\n- Disseminated Intravascular Coagulation: Microclots, including those with fibrin, have been linked to disseminated intravascular coagulation and mortality in severe COVID-19 cases."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "COVID-19 can lead to abnormal blood clotting, including the formation of microclots in small blood vessels.",
+        "truthfulness": "100%",
+        "explanation": "Multiple studies have confirmed that COVID-19 infection can cause abnormal blood clotting, including microclots in various parts of the body such as small blood vessels and lungs.",
+        "links": [
+          "https://gladstone.org/news/discovery-how-blood-clots-harm-brain-and-body-covid-19-points-new-therapy",
+          "https://pubs.acs.org/doi/10.1021/cbmi.3c00126"
+        ]
+      },
+      "1": {
+        "fact": "These microclots, particularly those containing fibrin, have been observed in individuals with long COVID.",
+        "truthfulness": "100%",
+        "explanation": "Research has shown that microclots rich in fibrin are present in the blood plasma of individuals with long COVID, and these microclots are associated with persistent symptoms.",
+        "links": [
+          "https://pubs.acs.org/doi/10.1021/cbmi.3c00126",
+          "https://www.gavi.org/vaccineswork/bad-blood-uncertainty-around-microclots-and-long-covid",
+          "https://www.technologynetworks.com/immunology/articles/how-long-covid-research-could-change-the-way-we-think-about-blood-microclots-393265"
+        ]
+      },
+      "2": {
+        "fact": "The presence of spike protein, found in the virus and some vaccines, can also contribute to the formation of these microclots.",
+        "truthfulness": "Partially true (about virus spike protein); misleading regarding vaccines",
+        "explanation": "Studies have demonstrated that the SARS-CoV-2 spike protein from the virus can induce formation of abnormal fibrin microclots. However, the spike protein produced by mRNA vaccines has not been shown to cause excessive clotting or blood-based disorders at a population level. The rare clotting events linked to adenoviral vector vaccines are distinct and extremely rare, and those vaccines are no longer used in the U.S.",
+        "links": [
+          "https://gladstone.org/news/discovery-how-blood-clots-harm-brain-and-body-covid-19-points-new-therapy",
+          "https://www.gavi.org/vaccineswork/bad-blood-uncertainty-around-microclots-and-long-covid"
+        ]
+      },
+      "3": {
+        "fact": "Some individuals with COVID-19 develop abnormal blood clots, including microclots, which can occur in various parts of the body, including the lungs.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 is known to cause abnormal clotting in multiple organs, including the lungs, contributing to disease severity.",
+        "links": [
+          "https://gladstone.org/news/discovery-how-blood-clots-harm-brain-and-body-covid-19-points-new-therapy"
+        ]
+      },
+      "4": {
+        "fact": "Studies have shown a higher prevalence of microclots in individuals with long COVID compared to controls.",
+        "truthfulness": "100%",
+        "explanation": "Research using advanced imaging techniques has found significantly more microclots and platelet aggregates in long COVID patients compared to healthy controls.",
+        "links": [
+          "https://pubs.acs.org/doi/10.1021/cbmi.3c00126"
+        ]
+      },
+      "5": {
+        "fact": "These microclots are often fibrinaloid, meaning they contain fibrin, and they can also have an amyloidogenic nature.",
+        "truthfulness": "100%",
+        "explanation": "Microclots in COVID-19 patients have been characterized as fibrinaloid (containing fibrin) and amyloidogenic, indicating abnormal protein structures that may contribute to inflammation and clot persistence.",
+        "links": [
+          "https://www.gavi.org/vaccineswork/bad-blood-uncertainty-around-microclots-and-long-covid"
+        ]
+      },
+      "6": {
+        "fact": "The spike protein, a component of the virus and some vaccines, can induce the formation of these microclots in normal plasma.",
+        "truthfulness": "Partially true",
+        "explanation": "The spike protein from the virus has been shown in vitro to induce amyloid clotting in plasma samples. However, the spike protein produced by mRNA vaccines has not been demonstrated to cause such clotting in vivo or at a population level.",
+        "links": [
+          "https://www.gavi.org/vaccineswork/bad-blood-uncertainty-around-microclots-and-long-covid",
+          "https://gladstone.org/news/discovery-how-blood-clots-harm-brain-and-body-covid-19-points-new-therapy"
+        ]
+      },
+      "7": {
+        "fact": "Microclots, including those with fibrin, have been linked to disseminated intravascular coagulation and mortality in severe COVID-19 cases.",
+        "truthfulness": "100%",
+        "explanation": "Severe COVID-19 cases often involve disseminated intravascular coagulation (DIC), a condition characterized by widespread clotting including fibrin microclots, which is associated with increased mortality.",
+        "links": [
+          "https://gladstone.org/news/discovery-how-blood-clots-harm-brain-and-body-covid-19-points-new-therapy"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

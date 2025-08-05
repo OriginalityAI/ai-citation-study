@@ -1,0 +1,70 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464918,
+      "id": "3aqc1ml952gtnxyi",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/3aqc1ml952gtnxyi",
+      "content": "Question: a common adverse effect of medications used to treat high cholesterol is Answer: A common adverse effect of medications used to treat high cholesterol, known as statins, is muscle pain or weakness. Other potential side effects include:: - Headache - Nausea - Diarrhea - Constipation - Joint pain - Increased blood sugar levels - Liver problems (rare) It&#039;s important to note that these side effects are usually mild and temporary. However, if they persist or worsen, it&#039;s essential to consult with your healthcare provider. They may adjust your dosage or switch you to a different medication.",
+      "formattedContent": "Question: a common adverse effect of medications used to treat high cholesterol is\n\nAnswer: A common adverse effect of medications used to treat high cholesterol, known as statins, is muscle pain or weakness. Other potential side effects include::\n- Headache\n- Nausea\n- Diarrhea\n- Constipation\n- Joint pain\n- Increased blood sugar levels\n- Liver problems (rare)\nIt's important to note that these side effects are usually mild and temporary. However, if they persist or worsen, it's essential to consult with your healthcare provider. They may adjust your dosage or switch you to a different medication."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "A common adverse effect of medications used to treat high cholesterol, known as statins, is muscle pain or weakness.",
+        "truthfulness": "100%",
+        "explanation": "Muscle pain or weakness (myalgia) is widely recognized as a common side effect of statins, reported by multiple authoritative sources including WebMD and the NHS.",
+        "links": [
+          "https://www.webmd.com/cholesterol-management/side-effects-of-statin-drugs",
+          "https://www.nhs.uk/medicines/statins/side-effects/"
+        ]
+      },
+      "1": {
+        "fact": "Other potential side effects include: Headache, Nausea, Diarrhea, Constipation, Joint pain, Increased blood sugar levels, Liver problems (rare).",
+        "truthfulness": "95%",
+        "explanation": "Headache, nausea, diarrhea, constipation, and liver problems are commonly listed side effects of statins. Increased blood sugar levels are also noted as a possible side effect, though less common. Joint pain is less frequently mentioned but can be related to muscle or musculoskeletal symptoms. Overall, these side effects are consistent with information from NHS and WebMD.",
+        "links": [
+          "https://www.webmd.com/cholesterol-management/side-effects-of-statin-drugs",
+          "https://www.nhs.uk/medicines/statins/side-effects/"
+        ]
+      },
+      "2": {
+        "fact": "These side effects are usually mild and temporary.",
+        "truthfulness": "100%",
+        "explanation": "Most people tolerate statins well, and side effects such as muscle pain, headache, and digestive issues are generally mild and temporary according to NHS and WebMD.",
+        "links": [
+          "https://www.nhs.uk/medicines/statins/side-effects/",
+          "https://www.webmd.com/cholesterol-management/side-effects-of-statin-drugs"
+        ]
+      },
+      "3": {
+        "fact": "If side effects persist or worsen, it\u2019s essential to consult with your healthcare provider who may adjust your dosage or switch you to a different medication.",
+        "truthfulness": "100%",
+        "explanation": "Medical guidance from NHS advises patients experiencing persistent or severe side effects to consult their doctor, who may adjust the dose or change the statin prescribed.",
+        "links": [
+          "https://www.nhs.uk/medicines/statins/side-effects/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

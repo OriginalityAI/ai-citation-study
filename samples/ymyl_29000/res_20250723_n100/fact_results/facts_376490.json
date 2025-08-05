@@ -1,0 +1,64 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36473854,
+      "id": "15gyh7rkwcaivd9p",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/15gyh7rkwcaivd9p",
+      "content": "Question: fluorimax 5000 ingredients Answer: FluoriMax 5000 is a prescription toothpaste containing the following ingredients: Active Ingredients: Sodium Fluoride (1.1%) and Potassium Nitrate (5%). Inactive Ingredients:: water, glycerin, sorbitol, hydrated silica, xylitol, sodium lauryl sulfate, potassium phosphate monobasic, titanium dioxide, flavors, and sodium saccharin. Note: The exact composition of the flavors and other inactive ingredients may vary depending on the specific formulation of FluoriMax 5000.",
+      "formattedContent": "Question: fluorimax 5000 ingredients\n\nAnswer: FluoriMax 5000 is a prescription toothpaste containing the following ingredients:\nActive Ingredients: Sodium Fluoride (1.1%) and Potassium Nitrate (5%).\nInactive Ingredients::\nwater, glycerin, sorbitol, hydrated silica, xylitol, sodium lauryl sulfate, potassium phosphate monobasic, titanium dioxide, flavors, and sodium saccharin.\nNote: The exact composition of the flavors and other inactive ingredients may vary depending on the specific formulation of FluoriMax 5000."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "FluoriMax 5000 is a prescription toothpaste containing the following ingredients: Active Ingredients: Sodium Fluoride (1.1%) and Potassium Nitrate (5%).",
+        "truthfulness": "100%",
+        "explanation": "The active ingredients Sodium Fluoride at 1.1% and Potassium Nitrate at 5% are confirmed by the FDA DailyMed label for FluoriMax 5000 Sensitive toothpaste and the safety data sheet from Elevate Oral Care, which lists these concentrations explicitly for the prescription product FluoriMax 5000 Sensitive[4][5].",
+        "links": [
+          "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d9f232c0-d154-536b-e053-2995a90af37d",
+          "https://www.elevateoralcare.com/site/images/FM5000_SDS_KNO3_052019.pdf"
+        ]
+      },
+      "1": {
+        "fact": "Inactive Ingredients: water, glycerin, sorbitol, hydrated silica, xylitol, sodium lauryl sulfate, potassium phosphate monobasic, titanium dioxide, flavors, and sodium saccharin.",
+        "truthfulness": "100%",
+        "explanation": "The inactive ingredients listed match those found in the FDA DailyMed label and the Elevate Oral Care Safety Data Sheet, which include water (deionized water), glycerin, sorbitol, hydrated silica, xylitol, sodium lauryl sulfate, potassium phosphate monobasic, titanium dioxide, flavors (vanilla mint), and sodium saccharin. PEG 400 or PEG-600 is also present but was not mentioned in the claim, which does not affect the accuracy of the listed ingredients[1][2][4][5].",
+        "links": [
+          "https://fda.report/DailyMed/81c2c9f2-1a2e-474e-b150-4e336f213699",
+          "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d9f232c0-d154-536b-e053-2995a90af37d",
+          "https://www.elevateoralcare.com/SSP%20Applications/NetSuite%20Inc.%20-%20SCA%202023.1.0/Development/pdf/AD-17.pdf",
+          "https://www.elevateoralcare.com/site/images/FM5000_SDS_KNO3_052019.pdf"
+        ]
+      },
+      "2": {
+        "fact": "The exact composition of the flavors and other inactive ingredients may vary depending on the specific formulation of FluoriMax 5000.",
+        "truthfulness": "100%",
+        "explanation": "The Safety Data Sheet and product information indicate that exact concentrations of some ingredients, including flavors, are withheld as trade secrets and may vary. This is a common practice in toothpaste formulations and is explicitly stated in the safety data sheet[1][5].",
+        "links": [
+          "https://www.elevateoralcare.com/SSP%20Applications/NetSuite%20Inc.%20-%20SCA%202023.1.0/Development/pdf/AD-17.pdf",
+          "https://www.elevateoralcare.com/site/images/FM5000_SDS_KNO3_052019.pdf"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

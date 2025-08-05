@@ -1,0 +1,87 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461735,
+      "id": "h59scefkgawob0xd",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/h59scefkgawob0xd",
+      "content": "Question: prostate cancer with bone metastasis icd 10 Answer: The ICD-10 codes for prostate cancer with bone metastasis are:: - C61: Malignant neoplasm of prostate - C79.51: Secondary malignant neoplasm of bone Explanation:: - C61: This code represents the primary site of the cancer, which is the prostate. - C79.51: This code indicates that the cancer has metastasized (spread) to the bone. Example: If a patient has prostate cancer that has spread to the femur, the ICD-10 codes would be C61 and C79.51. Note:: - Additional codes may be necessary to specify the exact location and type of bone metastasis. - It is important to consult with a healthcare professional for accurate diagnosis and coding.",
+      "formattedContent": "Question: prostate cancer with bone metastasis icd 10\n\nAnswer: The ICD-10 codes for prostate cancer with bone metastasis are::\n- C61: Malignant neoplasm of prostate\n- C79.51: Secondary malignant neoplasm of bone\nExplanation::\n- C61: This code represents the primary site of the cancer, which is the prostate.\n- C79.51: This code indicates that the cancer has metastasized (spread) to the bone.\nExample:\nIf a patient has prostate cancer that has spread to the femur, the ICD-10 codes would be C61 and C79.51.\nNote::\n- Additional codes may be necessary to specify the exact location and type of bone metastasis.\n- It is important to consult with a healthcare professional for accurate diagnosis and coding."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The ICD-10 codes for prostate cancer with bone metastasis are:: - C61: Malignant neoplasm of prostate - C79.51: Secondary malignant neoplasm of bone",
+        "truthfulness": "100%",
+        "explanation": "The ICD-10 code C61 correctly represents malignant neoplasm of the prostate, and C79.51 is the correct code for secondary malignant neoplasm of bone, which includes bone metastasis from prostate cancer. This coding is confirmed by multiple authoritative sources including icdcodes.ai and AAPC.",
+        "links": [
+          "https://icdcodes.ai/diagnosis/prostate-cancer-metastatic-to-bone/documentation",
+          "https://icdcodes.ai/diagnosis/prostate-cancer-with-metastasis/documentation",
+          "https://www.aapc.com/codes/icd-10-codes/C79.5"
+        ]
+      },
+      "1": {
+        "fact": "C61: This code represents the primary site of the cancer, which is the prostate.",
+        "truthfulness": "100%",
+        "explanation": "ICD-10 code C61 is specifically assigned to malignant neoplasm of the prostate, indicating the primary cancer site.",
+        "links": [
+          "https://icdcodes.ai/diagnosis/prostate-cancer-metastatic-to-bone/documentation",
+          "https://icdcodes.ai/diagnosis/prostate-cancer-with-metastasis/documentation"
+        ]
+      },
+      "2": {
+        "fact": "C79.51: This code indicates that the cancer has metastasized (spread) to the bone.",
+        "truthfulness": "100%",
+        "explanation": "ICD-10 code C79.51 is designated for secondary malignant neoplasm of bone, which means metastasis to bone from a primary cancer such as prostate cancer.",
+        "links": [
+          "https://icdcodes.ai/diagnosis/prostate-cancer-metastatic-to-bone/documentation",
+          "https://www.aapc.com/codes/icd-10-codes/C79.5"
+        ]
+      },
+      "3": {
+        "fact": "If a patient has prostate cancer that has spread to the femur, the ICD-10 codes would be C61 and C79.51.",
+        "truthfulness": "100%",
+        "explanation": "Since the femur is a bone, metastasis there is coded as secondary malignant neoplasm of bone (C79.51) along with the primary prostate cancer code (C61).",
+        "links": [
+          "https://icdcodes.ai/diagnosis/prostate-cancer-metastatic-to-bone/documentation",
+          "https://icdcodes.ai/diagnosis/prostate-cancer-with-metastasis/documentation"
+        ]
+      },
+      "4": {
+        "fact": "Additional codes may be necessary to specify the exact location and type of bone metastasis.",
+        "truthfulness": "90%",
+        "explanation": "While C79.51 covers secondary malignant neoplasm of bone generally, some coding guidelines recommend additional codes to specify exact sites or related conditions, but this depends on clinical documentation and coding standards.",
+        "links": [
+          "https://icdcodes.ai/diagnosis/prostate-cancer-metastatic-to-bone/documentation",
+          "https://icdcodes.ai/diagnosis/prostate-cancer-with-metastasis/documentation"
+        ]
+      },
+      "5": {
+        "fact": "It is important to consult with a healthcare professional for accurate diagnosis and coding.",
+        "truthfulness": "100%",
+        "explanation": "Accurate medical coding requires clinical documentation and professional judgment; therefore, consultation with healthcare professionals is essential.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

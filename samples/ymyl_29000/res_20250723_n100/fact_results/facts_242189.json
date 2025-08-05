@@ -1,0 +1,74 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36469909,
+      "id": "1fbo3c07ezlink48",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/1fbo3c07ezlink48",
+      "content": "Question: covid affect taste Answer: Yes, COVID-19 can affect taste. Loss of taste, known as anosmia, is a common symptom of the virus. It occurs when the virus damages or inflames the olfactory nerve, which is responsible for sending smell signals to the brain. This can lead to an inability to detect or perceive flavors properly.",
+      "formattedContent": "Question: covid affect taste\n\nAnswer: Yes, COVID-19 can affect taste. Loss of taste, known as anosmia, is a common symptom of the virus. It occurs when the virus damages or inflames the olfactory nerve, which is responsible for sending smell signals to the brain. This can lead to an inability to detect or perceive flavors properly."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Yes, COVID-19 can affect taste.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 is well-documented to cause loss or alteration of taste as a common symptom, supported by multiple medical sources.",
+        "links": [
+          "https://ada.com/covid/covid-19-symptom-loss-of-taste-and-smell/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7833280/",
+          "https://www.mayoclinichealthsystem.org/hometown-health/featured-topic/q-and-a-covid-19-and-loss-of-smell-taste"
+        ]
+      },
+      "1": {
+        "fact": "Loss of taste, known as anosmia, is a common symptom of the virus.",
+        "truthfulness": "50%",
+        "explanation": "Loss of taste is a common symptom, but anosmia specifically refers to loss of smell, not taste. The correct term for loss of taste is ageusia. The paragraph incorrectly equates loss of taste with anosmia.",
+        "links": [
+          "https://ada.com/covid/covid-19-symptom-loss-of-taste-and-smell/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7833280/",
+          "https://www.mayoclinichealthsystem.org/hometown-health/featured-topic/q-and-a-covid-19-and-loss-of-smell-taste"
+        ]
+      },
+      "2": {
+        "fact": "It occurs when the virus damages or inflames the olfactory nerve, which is responsible for sending smell signals to the brain.",
+        "truthfulness": "Partially true (about smell loss), but incomplete and not fully established for taste loss",
+        "explanation": "Loss of smell (anosmia) in COVID-19 is believed to be caused by damage to the olfactory system, including possible effects on the olfactory nerve or supporting cells. However, the exact mechanism is not fully understood. Loss of taste may involve other mechanisms such as damage to ACE2 receptors in the oral cavity. Thus, attributing taste loss solely to olfactory nerve damage is inaccurate.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7833280/",
+          "https://ada.com/covid/covid-19-symptom-loss-of-taste-and-smell/",
+          "https://www.mayoclinichealthsystem.org/hometown-health/featured-topic/q-and-a-covid-19-and-loss-of-smell-taste"
+        ]
+      },
+      "3": {
+        "fact": "This can lead to an inability to detect or perceive flavors properly.",
+        "truthfulness": "100%",
+        "explanation": "Loss of smell and/or taste can impair flavor perception because flavor is a combination of taste and smell senses working together.",
+        "links": [
+          "https://ada.com/covid/covid-19-symptom-loss-of-taste-and-smell/",
+          "https://www.mayoclinichealthsystem.org/hometown-health/featured-topic/q-and-a-covid-19-and-loss-of-smell-taste"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

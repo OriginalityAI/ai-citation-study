@@ -1,0 +1,34 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36459989,
+      "id": "phgs2xq7m6fin598",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/phgs2xq7m6fin598",
+      "content": "Question: home loan calculation formula Answer: The primary formula for calculating a monthly mortgage payment is: M = P [ i(1 + i)^n ] / [ (1 + i)^n \u2013, where M is the monthly payment, P is the principal loan amount, i is the monthly interest rate, and n is the number of payments (loan term in months). Here&#039;s a breakdown of the formula and how to use it: Components of the Formula:: - M (Monthly Payment): This is the fixed amount you&#039;ll pay each month, including principal and interest. - P (Principal): This is the initial amount of the loan, the money you borrowed. - i (Monthly Interest Rate): This is the annual interest rate divided by 12. For example, a 5% annual interest rate would be 0.05/12 = 0.004167 monthly. - n (Number of Payments): This is the total number of months you&#039;ll be making payments. For a 30-year mortgage, it would be 30 * 12 = 360. How to Calculate:: - Calculate the Monthly Interest Rate: Divide the annual interest rate by 12. - Calculate (1 + i)^n: Raise (1 + monthly interest rate) to the power of the total number of payments. - Calculate [i(1 + i)^n]: Multiply the result from step 2 by the monthly interest rate. - Calculate [(1 + i)^n -: Subtract 1 from the result of step 2. - Divide the result of step 3 by the result of step 4: This gives you the value within the square brackets in the main formula. - Multiply by the Principal (P): Finally, multiply the result from step 5 by your loan&#039;s principal amount. Example:: Let&#039;s say you have a $250,000 loan with a 5% annual interest rate and a 30-year term:: - Monthly interest rate: 0.05 / 12 = 0.004167 - (1 + 0.004167)^360 = 4.4677 - 0.004167 * 4.4677 = 0.018615 - 4.4677 - 1 = 3.4677 - 0.018615 / 3.4677 = 0.005368 - $250,000 * 0.005368 = $1,342.00 (approximately) Therefore, your estimated monthly payment would be around $1,342. Important Notes:: - This formula calculates the principal and interest portion of your mortgage payment. It does not include other costs like property taxes, homeowners insurance, or PMI (if applicable). - Many online mortgage calculators are available that can perform these calculations and also factor in other costs, providing a more comprehensive estimate of your monthly payment.",
+      "formattedContent": "Question: home loan calculation formula\n\nAnswer: The primary formula for calculating a monthly mortgage payment is: M = P [ i(1 + i)^n ] / [ (1 + i)^n \u2013, where M is the monthly payment, P is the principal loan amount, i is the monthly interest rate, and n is the number of payments (loan term in months).\nHere's a breakdown of the formula and how to use it:\nComponents of the Formula::\n- M (Monthly Payment): This is the fixed amount you'll pay each month, including principal and interest.\n- P (Principal): This is the initial amount of the loan, the money you borrowed.\n- i (Monthly Interest Rate): This is the annual interest rate divided by 12. For example, a 5% annual interest rate would be 0.05/12 = 0.004167 monthly.\n- n (Number of Payments): This is the total number of months you'll be making payments. For a 30-year mortgage, it would be 30 * 12 = 360.\nHow to Calculate::\n- Calculate the Monthly Interest Rate: Divide the annual interest rate by 12.\n- Calculate (1 + i)^n: Raise (1 + monthly interest rate) to the power of the total number of payments.\n- Calculate [i(1 + i)^n]: Multiply the result from step 2 by the monthly interest rate.\n- Calculate [(1 + i)^n -: Subtract 1 from the result of step 2.\n- Divide the result of step 3 by the result of step 4: This gives you the value within the square brackets in the main formula.\n- Multiply by the Principal (P): Finally, multiply the result from step 5 by your loan's principal amount.\nExample::\nLet's say you have a $250,000 loan with a 5% annual interest rate and a 30-year term::\n- Monthly interest rate: 0.05 / 12 = 0.004167\n- (1 + 0.004167)^360 = 4.4677\n- 0.004167 * 4.4677 = 0.018615\n- 4.4677 - 1 = 3.4677\n- 0.018615 / 3.4677 = 0.005368\n- $250,000 * 0.005368 = $1,342.00 (approximately)\nTherefore, your estimated monthly payment would be around $1,342.\nImportant Notes::\n- This formula calculates the principal and interest portion of your mortgage payment. It does not include other costs like property taxes, homeowners insurance, or PMI (if applicable).\n- Many online mortgage calculators are available that can perform these calculations and also factor in other costs, providing a more comprehensive estimate of your monthly payment."
+    },
+    "credits": {
+      "used": 4
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {},
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

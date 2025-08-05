@@ -1,0 +1,68 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464660,
+      "id": "9jzpnxr8m64ewgvh",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/9jzpnxr8m64ewgvh",
+      "content": "Question: covid 19 and job loss Answer: The COVID-19 pandemic led to a significant loss of jobs in the United States. Total nonfarm employment fell by 1.4 million in March 2020 and a further 20.5 million in April, creating a 22 million job deficit compared to pre-pandemic levels, according to the Center on Budget and Policy Priorities. While there were job gains in most months following the initial drop, it took time to recover the lost ground. State and local government employment also declined, with elementary and secondary education experiencing the largest job losses.",
+      "formattedContent": "Question: covid 19 and job loss\n\nAnswer: The COVID-19 pandemic led to a significant loss of jobs in the United States. Total nonfarm employment fell by 1.4 million in March 2020 and a further 20.5 million in April, creating a 22 million job deficit compared to pre-pandemic levels, according to the Center on Budget and Policy Priorities. While there were job gains in most months following the initial drop, it took time to recover the lost ground. State and local government employment also declined, with elementary and secondary education experiencing the largest job losses."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The COVID-19 pandemic led to a significant loss of jobs in the United States.",
+        "truthfulness": "100%",
+        "explanation": "Multiple sources confirm that the COVID-19 pandemic caused a sharp and significant loss of jobs in the U.S., with millions of jobs lost in a very short period.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7661819/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7753373/",
+          "https://cew.georgetown.edu/cew-reports/jobtracker/"
+        ]
+      },
+      "1": {
+        "fact": "Total nonfarm employment fell by 1.4 million in March 2020 and a further 20.5 million in April, creating a 22 million job deficit compared to pre-pandemic levels, according to the Center on Budget and Policy Priorities.",
+        "truthfulness": "Approximately 95%",
+        "explanation": "The total job loss of about 22 million in March and April 2020 is supported by sources, though exact monthly breakdowns vary slightly. One source states about 22 million jobs lost in March and April combined, with about 15% of payroll jobs lost. The 1.4 million loss in March and 20.5 million in April is consistent with the overall figure but the exact monthly split is less commonly detailed. The Center on Budget and Policy Priorities is cited in the original claim but not directly in the search results; however, the job loss magnitude is corroborated by Georgetown University and academic sources.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7661819/",
+          "https://cew.georgetown.edu/cew-reports/jobtracker/"
+        ]
+      },
+      "2": {
+        "fact": "While there were job gains in most months following the initial drop, it took time to recover the lost ground.",
+        "truthfulness": "100%",
+        "explanation": "Sources confirm that after the initial massive job losses, there were job gains in subsequent months, but full recovery took years, with the pre-pandemic employment level only surpassed in mid-2022.",
+        "links": [
+          "https://www.statista.com/chart/24363/number-of-jobs-lost-since-february-2020/"
+        ]
+      },
+      "3": {
+        "fact": "State and local government employment also declined, with elementary and secondary education experiencing the largest job losses.",
+        "truthfulness": "High but not directly confirmed in the provided search results",
+        "explanation": "While the search results confirm overall job losses including in government sectors, specific mention of state and local government employment decline and elementary and secondary education having the largest job losses is consistent with broader labor market analyses but not explicitly detailed in the provided sources. This claim aligns with known impacts on education employment during the pandemic.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

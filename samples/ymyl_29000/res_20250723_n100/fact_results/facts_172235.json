@@ -1,0 +1,69 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36465218,
+      "id": "8m6cx0horstqn2wi",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/8m6cx0horstqn2wi",
+      "content": "Question: can you get booster shot after covid Answer: Yes, it is recommended to get an updated COVID-19 booster at least 2 months after your last COVID-19 shot, or 3 months after having COVID-19. This updated vaccine helps your immune system recognize the currently circulating COVID-19 strains. According to the CDC, you should get the updated vaccine when it is available to you to reduce your risk of symptomatic infection.",
+      "formattedContent": "Question: can you get booster shot after covid\n\nAnswer: Yes, it is recommended to get an updated COVID-19 booster at least 2 months after your last COVID-19 shot, or 3 months after having COVID-19. This updated vaccine helps your immune system recognize the currently circulating COVID-19 strains. According to the CDC, you should get the updated vaccine when it is available to you to reduce your risk of symptomatic infection."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "it is recommended to get an updated COVID-19 booster at least 2 months after your last COVID-19 shot",
+        "truthfulness": "100%",
+        "explanation": "CDC guidance for the 2024-2025 COVID-19 vaccine recommends a minimum interval of 2 months after the last COVID-19 vaccine dose before receiving an additional dose, especially for immunocompromised individuals and booster doses[2][4].",
+        "links": [
+          "https://www.cdc.gov/mmwr/volumes/73/wr/mm7349a2.htm",
+          "https://www.cdc.gov/covid/media/pdfs/2025/04/pfizer-HCP.pdf"
+        ]
+      },
+      "1": {
+        "fact": "it is recommended to get an updated COVID-19 booster at least 3 months after having COVID-19",
+        "truthfulness": "Approximately 90%",
+        "explanation": "While the exact timing can vary, CDC guidance generally recommends waiting about 3 months after a COVID-19 infection before getting a booster to optimize immune response and avoid overlap with natural immunity. This is consistent with clinical guidance to space vaccination and infection by about 3 months, though specific intervals may vary by individual risk and vaccine formulation[2].",
+        "links": [
+          "https://www.cdc.gov/mmwr/volumes/73/wr/mm7349a2.htm"
+        ]
+      },
+      "2": {
+        "fact": "This updated vaccine helps your immune system recognize the currently circulating COVID-19 strains",
+        "truthfulness": "100%",
+        "explanation": "The FDA and CDC have updated COVID-19 vaccines to include components targeting currently circulating SARS-CoV-2 variants (e.g., the 2025-2026 monovalent JN.1-lineage vaccine) to improve immune recognition and protection against prevalent strains[1].",
+        "links": [
+          "https://www.fda.gov/vaccines-blood-biologics/industry-biologics/covid-19-vaccines-2025-2026-formula-use-united-states-beginning-fall-2025"
+        ]
+      },
+      "3": {
+        "fact": "According to the CDC, you should get the updated vaccine when it is available to you to reduce your risk of symptomatic infection",
+        "truthfulness": "100%",
+        "explanation": "CDC recommends receiving the updated COVID-19 vaccine as soon as it is available to reduce the risk of symptomatic infection and severe outcomes, especially for those at higher risk[2][3].",
+        "links": [
+          "https://www.cdc.gov/mmwr/volumes/73/wr/mm7349a2.htm",
+          "https://www.cdc.gov/acip/downloads/slides-2025-04-15-16/05-Panagiotakopoulos-COVID-508.pdf"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

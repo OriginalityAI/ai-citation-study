@@ -1,0 +1,85 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36462155,
+      "id": "m1yu4zkndfxslg9o",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/m1yu4zkndfxslg9o",
+      "content": "Question: what is a covid-19 test Answer: A COVID-19 test is a diagnostic tool used to detect an active SARS-CoV-2 infection. There are two main types of COVID-19 tests: molecular tests (like PCR) and antigen tests (rapid tests). Molecular tests, which are highly accurate, detect the virus&#039;s genetic material, while antigen tests detect viral proteins. Both types of tests help identify individuals who may be contagious and need to take precautions, like isolation, to prevent further spread.",
+      "formattedContent": "Question: what is a covid-19 test\n\nAnswer: A COVID-19 test is a diagnostic tool used to detect an active SARS-CoV-2 infection. There are two main types of COVID-19 tests: molecular tests (like PCR) and antigen tests (rapid tests). Molecular tests, which are highly accurate, detect the virus's genetic material, while antigen tests detect viral proteins. Both types of tests help identify individuals who may be contagious and need to take precautions, like isolation, to prevent further spread."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "A COVID-19 test is a diagnostic tool used to detect an active SARS-CoV-2 infection.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 tests are designed to diagnose current infection with SARS-CoV-2, the virus that causes COVID-19, distinguishing them from antibody tests that detect past infection.",
+        "links": [
+          "https://www.yalemedicine.org/news/which-covid-test-is-accurate",
+          "https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics"
+        ]
+      },
+      "1": {
+        "fact": "There are two main types of COVID-19 tests: molecular tests (like PCR) and antigen tests (rapid tests).",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 diagnostic tests are primarily categorized into molecular tests, such as PCR, which detect viral genetic material, and antigen tests, which detect viral proteins. Antibody tests are separate and detect past infection.",
+        "links": [
+          "https://www.yalemedicine.org/news/which-covid-test-is-accurate",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/expert-answers/covid-antibody-tests/faq-20484429",
+          "https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics"
+        ]
+      },
+      "2": {
+        "fact": "Molecular tests, which are highly accurate, detect the virus's genetic material.",
+        "truthfulness": "100%",
+        "explanation": "Molecular tests, including PCR and other nucleic acid amplification tests (NAATs), detect viral RNA and are considered the most sensitive and specific diagnostic tests for COVID-19.",
+        "links": [
+          "https://www.yalemedicine.org/news/which-covid-test-is-accurate",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9248776/",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/expert-answers/covid-antibody-tests/faq-20484429",
+          "https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics"
+        ]
+      },
+      "3": {
+        "fact": "Antigen tests detect viral proteins.",
+        "truthfulness": "100%",
+        "explanation": "Antigen tests identify specific proteins (antigens) from the virus and provide rapid results, though they are generally less sensitive than molecular tests.",
+        "links": [
+          "https://www.yalemedicine.org/news/which-covid-test-is-accurate",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9248776/",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/expert-answers/covid-antibody-tests/faq-20484429",
+          "https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics"
+        ]
+      },
+      "4": {
+        "fact": "Both types of tests help identify individuals who may be contagious and need to take precautions, like isolation, to prevent further spread.",
+        "truthfulness": "100%",
+        "explanation": "Both molecular and antigen tests are used to detect active infection, which helps identify contagious individuals who should isolate to reduce transmission.",
+        "links": [
+          "https://www.yalemedicine.org/news/which-covid-test-is-accurate",
+          "https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

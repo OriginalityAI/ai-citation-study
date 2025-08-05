@@ -1,0 +1,56 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36468325,
+      "id": "fl5s6thzvwu8072c",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/fl5s6thzvwu8072c",
+      "content": "Question: vaccin covid non arn Answer: The Novavax COVID-19 vaccine is a non-RNA based vaccine. It uses a recombinant protein subunit technology to produce a safe and effective immune response against the virus.",
+      "formattedContent": "Question: vaccin covid non arn\n\nAnswer: The Novavax COVID-19 vaccine is a non-RNA based vaccine. It uses a recombinant protein subunit technology to produce a safe and effective immune response against the virus."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The Novavax COVID-19 vaccine is a non-RNA based vaccine.",
+        "truthfulness": "100%",
+        "explanation": "The Novavax vaccine is a protein subunit vaccine, not an mRNA vaccine. It does not use RNA technology but instead delivers the spike protein directly to the body to stimulate an immune response.",
+        "links": [
+          "https://www.nebraskamed.com/COVID/moths-and-tree-bark-how-the-novavax-vaccine-works",
+          "https://www.hackensackmeridianhealth.org/en/healthu/2022/08/09/novavax-vaccine-how-its-different-and-how-it-works",
+          "https://www.cdc.gov/covid/vaccines/how-they-work.html"
+        ]
+      },
+      "1": {
+        "fact": "It uses a recombinant protein subunit technology to produce a safe and effective immune response against the virus.",
+        "truthfulness": "100%",
+        "explanation": "Novavax uses recombinant protein subunit technology, where the spike protein is produced outside the body (in insect cells) and then delivered as a nanoparticle with an adjuvant to stimulate immunity. This method has been shown to be safe and effective in clinical trials.",
+        "links": [
+          "https://www.nebraskamed.com/COVID/moths-and-tree-bark-how-the-novavax-vaccine-works",
+          "https://www.hackensackmeridianhealth.org/en/healthu/2022/08/09/novavax-vaccine-how-its-different-and-how-it-works",
+          "https://www.cdc.gov/covid/vaccines/how-they-work.html",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9525112/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

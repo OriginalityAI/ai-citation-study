@@ -1,0 +1,70 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36460402,
+      "id": "48673k0qavbuz2ns",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/48673k0qavbuz2ns",
+      "content": "Question: endocarditis and covid-19 Answer: COVID-19 can potentially increase the risk of developing endocarditis, even in individuals without pre-existing risk factors. If a patient with COVID-19 experiences persistent fever or signs of septic embolism, endocarditis should be considered as a potential complication. Symptoms of endocarditis can include fever, chills, fatigue, muscle aches, rash, and shortness of breath. Treatment typically involves antibiotics, and in some cases, surgery may be necessary.",
+      "formattedContent": "Question: endocarditis and covid-19\n\nAnswer: COVID-19 can potentially increase the risk of developing endocarditis, even in individuals without pre-existing risk factors. If a patient with COVID-19 experiences persistent fever or signs of septic embolism, endocarditis should be considered as a potential complication. Symptoms of endocarditis can include fever, chills, fatigue, muscle aches, rash, and shortness of breath. Treatment typically involves antibiotics, and in some cases, surgery may be necessary."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "COVID-19 can potentially increase the risk of developing endocarditis, even in individuals without pre-existing risk factors.",
+        "truthfulness": "90%",
+        "explanation": "Studies indicate that COVID-19 is associated with an increased risk of endocarditis, particularly in patients with opioid or cocaine use disorders, but also potentially in those without traditional risk factors. One study concludes that COVID-19 infection may increase the rate of endocarditis in patients with or without risk factors, suggesting a broader risk beyond pre-existing conditions[1][3].",
+        "links": [
+          "https://www.nature.com/articles/s41380-022-01903-1",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10466469/"
+        ]
+      },
+      "1": {
+        "fact": "If a patient with COVID-19 experiences persistent fever or signs of septic embolism, endocarditis should be considered as a potential complication.",
+        "truthfulness": "100%",
+        "explanation": "Clinical recommendations from recent research emphasize considering endocarditis as a complication in COVID-19 patients who have persistent fever or evidence of septic embolism on imaging, highlighting the need for vigilance in such cases[3].",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10466469/"
+        ]
+      },
+      "2": {
+        "fact": "Symptoms of endocarditis can include fever, chills, fatigue, muscle aches, rash, and shortness of breath.",
+        "truthfulness": "100%",
+        "explanation": "These symptoms are consistent with the known clinical presentation of infective endocarditis, which typically includes fever, chills, fatigue, and other systemic signs. Rash and shortness of breath can also occur depending on embolic phenomena or heart failure[3][4].",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10466469/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8882249/"
+        ]
+      },
+      "3": {
+        "fact": "Treatment typically involves antibiotics, and in some cases, surgery may be necessary.",
+        "truthfulness": "100%",
+        "explanation": "Standard treatment for infective endocarditis involves prolonged antibiotic therapy, and surgery may be required in cases of severe valve damage, persistent infection, or complications such as heart failure[3][4].",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10466469/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8882249/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

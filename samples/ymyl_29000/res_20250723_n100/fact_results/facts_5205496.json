@@ -1,0 +1,100 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36471238,
+      "id": "nu1lymof4rxap327",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/nu1lymof4rxap327",
+      "content": "Question: list of ppp loan recipients by name Answer: To find a specific PPP loan recipient, you can search the SBA&#039;s public data portal. The SBA also provides a simple search tool that allows you to search for loan recipients by name or other criteria. To find PPP loan recipients:: - Go to the SBA&#039;s PPP Loan Data Search: Navigate to the SBA&#039;s PPP data portal. - Search by name: Enter the name of the borrower you&#039;re interested in. - Browse the results: The search results will display information about the PPP loans received by that borrower, including the loan amount, lender, and other details. Additional resources for finding PPP loan data:: - ProPublica: ProPublica offers a search tool where you can search for PPP loans by zip code or other criteria. - Skip: Skip provides a PPP loan search tool where you can search for PPP loans by recipient name, location, and other details. - The Accountability Project: The Accountability Project offers a dataset with detailed information about PPP loan recipients.",
+      "formattedContent": "Question: list of ppp loan recipients by name\n\nAnswer: To find a specific PPP loan recipient, you can search the SBA's public data portal. The SBA also provides a simple search tool that allows you to search for loan recipients by name or other criteria.\nTo find PPP loan recipients::\n- Go to the SBA's PPP Loan Data Search: Navigate to the SBA's PPP data portal.\n- Search by name: Enter the name of the borrower you're interested in.\n- Browse the results: The search results will display information about the PPP loans received by that borrower, including the loan amount, lender, and other details.\nAdditional resources for finding PPP loan data::\n- ProPublica: ProPublica offers a search tool where you can search for PPP loans by zip code or other criteria.\n- Skip: Skip provides a PPP loan search tool where you can search for PPP loans by recipient name, location, and other details.\n- The Accountability Project: The Accountability Project offers a dataset with detailed information about PPP loan recipients."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "To find a specific PPP loan recipient, you can search the SBA's public data portal.",
+        "truthfulness": "100%",
+        "explanation": "The U.S. Small Business Administration (SBA) maintains and provides access to PPP loan data, including a public data portal where loan recipients can be searched.",
+        "links": [
+          "https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data"
+        ]
+      },
+      "1": {
+        "fact": "The SBA also provides a simple search tool that allows you to search for loan recipients by name or other criteria.",
+        "truthfulness": "100%",
+        "explanation": "The SBA offers downloadable PPP loan data and search tools that allow searching by borrower name and other criteria such as loan amount, lender, and location.",
+        "links": [
+          "https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data",
+          "https://pppdata.us/all-data"
+        ]
+      },
+      "2": {
+        "fact": "To find PPP loan recipients: Go to the SBA's PPP Loan Data Search: Navigate to the SBA's PPP data portal.",
+        "truthfulness": "100%",
+        "explanation": "The SBA's PPP data portal is the official source for PPP loan data and is publicly accessible for searching loan recipients.",
+        "links": [
+          "https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data"
+        ]
+      },
+      "3": {
+        "fact": "Search by name: Enter the name of the borrower you're interested in.",
+        "truthfulness": "100%",
+        "explanation": "The SBA and other third-party tools allow searching PPP loan data by borrower name.",
+        "links": [
+          "https://pppdata.us/all-data",
+          "https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data"
+        ]
+      },
+      "4": {
+        "fact": "The search results will display information about the PPP loans received by that borrower, including the loan amount, lender, and other details.",
+        "truthfulness": "100%",
+        "explanation": "PPP loan data includes borrower name, loan amount, lender, and other relevant details, which are displayed in search results.",
+        "links": [
+          "https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data",
+          "https://pppdata.us/all-data"
+        ]
+      },
+      "5": {
+        "fact": "ProPublica offers a search tool where you can search for PPP loans by zip code or other criteria.",
+        "truthfulness": "100%",
+        "explanation": "ProPublica provides a publicly accessible PPP loan search tool that allows filtering by zip code and other criteria.",
+        "links": [
+          "https://projects.propublica.org/coronavirus/bailouts/"
+        ]
+      },
+      "6": {
+        "fact": "Skip provides a PPP loan search tool where you can search for PPP loans by recipient name, location, and other details.",
+        "truthfulness": "Uncertain",
+        "explanation": "There is no widely recognized or official PPP loan search tool named 'Skip' known from authoritative sources. This claim could not be verified with available data.",
+        "links": []
+      },
+      "7": {
+        "fact": "The Accountability Project offers a dataset with detailed information about PPP loan recipients.",
+        "truthfulness": "100%",
+        "explanation": "The Accountability Project is known for providing datasets and investigative resources related to PPP loan recipients.",
+        "links": [
+          "https://accountabilityproject.org/ppp-loan-data"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36473415,
+      "id": "a3fmjw8t2lireg67",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/a3fmjw8t2lireg67",
+      "content": "Question: icd 10 influenza Answer: The ICD-10-CM code for influenza varies depending on whether the influenza virus is identified and the presence of other manifestations. Common codes include J10 for influenza due to other identified influenza virus and J11 for influenza due to unidentified influenza virus. Within those categories, more specific codes are used based on whether pneumonia or other respiratory, gastrointestinal, or other manifestations are present. Here&#039;s a more detailed breakdown: J10: Influenza due to other identified influenza virus - J10.0: Influenza with pneumonia - J10.1: Influenza with other respiratory manifestations - J10.2: Influenza with gastrointestinal manifestations - J10.8: Influenza with other manifestations J11: Influenza due to unidentified influenza virus - J11.0: Influenza with pneumonia - J11.1: Influenza with other respiratory manifestations - J11.2: Influenza with gastrointestinal manifestations - J11.8: Influenza with other manifestations Other relevant codes:: - J09.X2: Influenza due to identified novel influenza A virus with other respiratory manifestations",
+      "formattedContent": "Question: icd 10 influenza\n\nAnswer: The ICD-10-CM code for influenza varies depending on whether the influenza virus is identified and the presence of other manifestations. Common codes include J10 for influenza due to other identified influenza virus and J11 for influenza due to unidentified influenza virus. Within those categories, more specific codes are used based on whether pneumonia or other respiratory, gastrointestinal, or other manifestations are present.\nHere's a more detailed breakdown:\nJ10: Influenza due to other identified influenza virus\n- J10.0: Influenza with pneumonia\n- J10.1: Influenza with other respiratory manifestations\n- J10.2: Influenza with gastrointestinal manifestations\n- J10.8: Influenza with other manifestations\nJ11: Influenza due to unidentified influenza virus\n- J11.0: Influenza with pneumonia\n- J11.1: Influenza with other respiratory manifestations\n- J11.2: Influenza with gastrointestinal manifestations\n- J11.8: Influenza with other manifestations\nOther relevant codes::\n- J09.X2: Influenza due to identified novel influenza A virus with other respiratory manifestations"
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The ICD-10-CM code for influenza varies depending on whether the influenza virus is identified and the presence of other manifestations.",
+        "truthfulness": "100%",
+        "explanation": "ICD-10-CM codes for influenza are categorized based on whether the influenza virus is identified or not, and further subdivided by the presence of manifestations such as pneumonia or other respiratory or gastrointestinal symptoms, as shown in the official ICD-10 classification and coding guidelines.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes-range/J00-J99/J09-J18/",
+          "https://icd.who.int/browse10/2019/en"
+        ]
+      },
+      "1": {
+        "fact": "Common codes include J10 for influenza due to other identified influenza virus and J11 for influenza due to unidentified influenza virus.",
+        "truthfulness": "100%",
+        "explanation": "The ICD-10-CM classification lists J10 for influenza due to other identified influenza virus and J11 for influenza due to unidentified influenza virus, consistent with the official WHO ICD-10 browser and AAPC coding resources.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes-range/J00-J99/J09-J18/",
+          "https://icd.who.int/browse10/2019/en"
+        ]
+      },
+      "2": {
+        "fact": "Within those categories, more specific codes are used based on whether pneumonia or other respiratory, gastrointestinal, or other manifestations are present.",
+        "truthfulness": "100%",
+        "explanation": "The ICD-10-CM codes for influenza include subcategories that specify the presence of pneumonia, other respiratory manifestations, gastrointestinal manifestations, or other manifestations, as detailed in the coding guidelines and classification.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes-range/J00-J99/J09-J18/",
+          "https://icd.who.int/browse10/2019/en"
+        ]
+      },
+      "3": {
+        "fact": "J10: Influenza due to other identified influenza virus - J10.0: Influenza with pneumonia - J10.1: Influenza with other respiratory manifestations - J10.2: Influenza with gastrointestinal manifestations - J10.8: Influenza with other manifestations",
+        "truthfulness": "90%",
+        "explanation": "The general structure of J10 codes corresponds to influenza due to other identified influenza virus with subdivisions for pneumonia and other manifestations. However, the official ICD-10-CM codes use a fifth character format (e.g., J10.0 is not a valid code; the correct code for influenza with pneumonia is J10.00 or J10.01 depending on the virus type). The provided subcodes (J10.0, J10.1, etc.) are simplified and do not exactly match the official coding format, which includes more detailed fifth characters.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/J10.01",
+          "https://icd.who.int/browse10/2019/en"
+        ]
+      },
+      "4": {
+        "fact": "J11: Influenza due to unidentified influenza virus - J11.0: Influenza with pneumonia - J11.1: Influenza with other respiratory manifestations - J11.2: Influenza with gastrointestinal manifestations - J11.8: Influenza with other manifestations",
+        "truthfulness": "90%",
+        "explanation": "Similar to J10, the J11 category covers influenza due to unidentified influenza virus with subcategories for pneumonia and other manifestations. However, the exact subcode format in ICD-10-CM includes more detailed fifth characters (e.g., J11.00, J11.01) rather than the simplified form given. The concept is accurate but the code formatting is not precise.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes-range/J00-J99/J09-J18/",
+          "https://icd.who.int/browse10/2019/en"
+        ]
+      },
+      "5": {
+        "fact": "Other relevant codes: J09.X2: Influenza due to identified novel influenza A virus with other respiratory manifestations",
+        "truthfulness": "95%",
+        "explanation": "J09 codes cover influenza due to certain identified influenza viruses, including novel influenza A viruses. The placeholder 'X' is used in the code structure (e.g., J09.X2) to allow for further specificity. This matches the ICD-10-CM coding conventions where 'X' is a placeholder character. The exact code J09.X2 corresponds to influenza due to identified novel influenza A virus with other respiratory manifestations.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes-range/J00-J99/J09-J18/",
+          "https://www.cms.gov/files/document/fy-2024-icd-10-cm-coding-guidelines-updated-02/01/2024.pdf"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

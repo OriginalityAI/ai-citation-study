@@ -1,0 +1,62 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464573,
+      "id": "gh9lbtusp2rc1ax8",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/gh9lbtusp2rc1ax8",
+      "content": "Question: getting covid vaccine after having covid Answer: It&#039;s generally recommended to wait at least 3 months after having COVID-19 before getting an updated COVID-19 vaccine. The Centers for Disease Control and Prevention (CDC) says you should also get an updated COVID-19 vaccine at least 2 months after your last COVID-19 shot. This is because both natural infection and vaccination can provide some level of protection, and waiting allows your body&#039;s immune response to natural infection to wane somewhat before introducing the vaccine.",
+      "formattedContent": "Question: getting covid vaccine after having covid\n\nAnswer: It's generally recommended to wait at least 3 months after having COVID-19 before getting an updated COVID-19 vaccine. The Centers for Disease Control and Prevention (CDC) says you should also get an updated COVID-19 vaccine at least 2 months after your last COVID-19 shot. This is because both natural infection and vaccination can provide some level of protection, and waiting allows your body's immune response to natural infection to wane somewhat before introducing the vaccine."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "It's generally recommended to wait at least 3 months after having COVID-19 before getting an updated COVID-19 vaccine.",
+        "truthfulness": "95%",
+        "explanation": "The CDC suggests that people who recently had COVID-19 may consider delaying their updated COVID-19 vaccine dose by about 3 months to maximize immune response and because natural infection provides some protection. This is consistent with CDC guidance as of mid-2025, which states a 3-month wait is reasonable but not mandatory for everyone, especially those at higher risk who may get vaccinated sooner.",
+        "links": [
+          "https://www.cdc.gov/covid/vaccines/getting-your-covid-19-vaccine.html",
+          "https://www.ama-assn.org/delivering-care/public-health/cdc-covid-19-vaccine-guidelines-when-new-covid-vaccine-coming-out"
+        ]
+      },
+      "1": {
+        "fact": "The Centers for Disease Control and Prevention (CDC) says you should also get an updated COVID-19 vaccine at least 2 months after your last COVID-19 shot.",
+        "truthfulness": "100%",
+        "explanation": "CDC recommendations for the 2024\u20132025 COVID-19 vaccine include a minimum interval of 2 months between doses for certain groups, including immunocompromised persons and for additional doses after the initial series. This 2-month minimum interval is a current standard for spacing vaccine doses.",
+        "links": [
+          "https://www.cdc.gov/mmwr/volumes/73/wr/mm7349a2.htm",
+          "https://www.cdc.gov/acip/downloads/slides-2025-04-15-16/05-Panagiotakopoulos-COVID-508.pdf"
+        ]
+      },
+      "2": {
+        "fact": "This is because both natural infection and vaccination can provide some level of protection, and waiting allows your body's immune response to natural infection to wane somewhat before introducing the vaccine.",
+        "truthfulness": "90%",
+        "explanation": "Natural infection and vaccination both induce immune protection. The rationale for waiting is to allow the immune response from natural infection to decline somewhat so that vaccination can effectively boost immunity. This is a recognized immunological principle and is reflected in CDC guidance suggesting a delay after infection before vaccination to optimize immune response.",
+        "links": [
+          "https://www.ama-assn.org/delivering-care/public-health/cdc-covid-19-vaccine-guidelines-when-new-covid-vaccine-coming-out",
+          "https://www.cdc.gov/covid/vaccines/getting-your-covid-19-vaccine.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461418,
+      "id": "qogt0nzap48lvj6e",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/qogt0nzap48lvj6e",
+      "content": "Question: viral pneumonia from covid Answer: COVID-19 can lead to viral pneumonia as a complication. This occurs when the SARS-CoV-2 virus infects the lungs, causing inflammation and fluid buildup, similar to other forms of viral pneumonia. Symptoms of COVID-19 pneumonia can include fever, cough, and shortness of breath. Treatment may involve antiviral medications like remdesivir or Paxlovid\u2122, according to the Cleveland Clinic.",
+      "formattedContent": "Question: viral pneumonia from covid\n\nAnswer: COVID-19 can lead to viral pneumonia as a complication. This occurs when the SARS-CoV-2 virus infects the lungs, causing inflammation and fluid buildup, similar to other forms of viral pneumonia. Symptoms of COVID-19 pneumonia can include fever, cough, and shortness of breath. Treatment may involve antiviral medications like remdesivir or Paxlovid\u2122, according to the Cleveland Clinic."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "COVID-19 can lead to viral pneumonia as a complication.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 pneumonia is a well-documented complication of SARS-CoV-2 infection, occurring in about 15% of cases and causing severe lung inflammation and damage.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9885718/",
+          "https://ada.com/covid/covid-19-symptoms-and-pneumonia/",
+          "https://my.clevelandclinic.org/health/diseases/24002-covid-pneumonia"
+        ]
+      },
+      "1": {
+        "fact": "This occurs when the SARS-CoV-2 virus infects the lungs, causing inflammation and fluid buildup, similar to other forms of viral pneumonia.",
+        "truthfulness": "100%",
+        "explanation": "SARS-CoV-2 infects lung epithelial cells, leading to inflammation and fluid accumulation in the alveoli, which impairs oxygen exchange, consistent with viral pneumonia pathology.",
+        "links": [
+          "https://ada.com/covid/covid-19-symptoms-and-pneumonia/",
+          "https://my.clevelandclinic.org/health/diseases/24002-covid-pneumonia",
+          "https://www.lung.org/blog/pneumonia-day-during-covid"
+        ]
+      },
+      "2": {
+        "fact": "Symptoms of COVID-19 pneumonia can include fever, cough, and shortness of breath.",
+        "truthfulness": "100%",
+        "explanation": "Common symptoms of COVID-19 pneumonia include fever, cough, and worsening shortness of breath, which are typical signs of lung infection and inflammation.",
+        "links": [
+          "https://my.clevelandclinic.org/health/diseases/24002-covid-pneumonia",
+          "https://ada.com/covid/covid-19-symptoms-and-pneumonia/"
+        ]
+      },
+      "3": {
+        "fact": "Treatment may involve antiviral medications like remdesivir or Paxlovid\u2122, according to the Cleveland Clinic.",
+        "truthfulness": "100%",
+        "explanation": "Antiviral treatments such as remdesivir and Paxlovid\u2122 are recommended options for managing COVID-19, including cases complicated by pneumonia, as per Cleveland Clinic guidance.",
+        "links": [
+          "https://my.clevelandclinic.org/health/diseases/24002-covid-pneumonia"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464361,
+      "id": "3sumr9nxotpcvikf",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/3sumr9nxotpcvikf",
+      "content": "Question: how many calories in cooked jasmine rice Answer: The calorie content of cooked jasmine rice varies depending on the brand, cooking method, and serving size. According to the USDA National Nutrient Database, one cup (195 grams) of cooked jasmine rice contains approximately 205 calories. Other sources may provide slightly different values, such as: 170 calories per 100 grams, 230 calories per cup, and 210 calories per cup. It&#039;s important to note that these are just estimates, and the actual calorie content may vary. If you&#039;re concerned about calorie intake, it&#039;s best to consult with a registered dietitian or nutritionist for personalized advice.",
+      "formattedContent": "Question: how many calories in cooked jasmine rice\n\nAnswer: The calorie content of cooked jasmine rice varies depending on the brand, cooking method, and serving size.\nAccording to the USDA National Nutrient Database, one cup (195 grams) of cooked jasmine rice contains approximately 205 calories. Other sources may provide slightly different values, such as:\n170 calories per 100 grams, 230 calories per cup, and 210 calories per cup.\nIt's important to note that these are just estimates, and the actual calorie content may vary. If you're concerned about calorie intake, it's best to consult with a registered dietitian or nutritionist for personalized advice."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "According to the USDA National Nutrient Database, one cup (195 grams) of cooked jasmine rice contains approximately 205 calories.",
+        "truthfulness": 90,
+        "explanation": "The USDA database lists cooked jasmine rice calories close to this value, though exact serving weights and calorie counts vary slightly. For example, one source lists 213 calories per 158g cooked cup, another 181 calories per cup, and another 305 calories per 236g cup. The 205-calorie figure for 195g is a reasonable average estimate.",
+        "links": [
+          "https://www.carbmanager.com/food-detail/nl:41ee74461f9799b1fbd20e5f8706533a/jasmine-rice",
+          "https://livelytable.com/rice/types/jasmine-rice-healthy/"
+        ]
+      },
+      "1": {
+        "fact": "The calorie content of cooked jasmine rice varies depending on the brand, cooking method, and serving size.",
+        "truthfulness": 100,
+        "explanation": "Calorie content varies due to differences in rice brand, cooking water absorption, and portion size, as shown by the range of calories per cup (from about 181 to 305 calories) in different sources.",
+        "links": [
+          "https://www.carbmanager.com/food-detail/nl:41ee74461f9799b1fbd20e5f8706533a/jasmine-rice",
+          "https://www.snapcalorie.com/nutrition/cooked_jasmine_rice_nutrition.html",
+          "https://livelytable.com/rice/types/jasmine-rice-healthy/"
+        ]
+      },
+      "2": {
+        "fact": "Other sources may provide slightly different values, such as: 170 calories per 100 grams, 230 calories per cup, and 210 calories per cup.",
+        "truthfulness": 80,
+        "explanation": "The exact values vary among sources; for example, 213 calories per 158g cup (about 135 calories per 100g) and 305 calories per 236g cup (about 129 calories per 100g) are reported. The claim of 170 calories per 100g is somewhat lower than these sources, and 230 or 210 calories per cup fall within the range of reported values depending on cup weight. These differences reflect variability in measurement and rice preparation.",
+        "links": [
+          "https://www.carbmanager.com/food-detail/nl:41ee74461f9799b1fbd20e5f8706533a/jasmine-rice",
+          "https://www.snapcalorie.com/nutrition/cooked_jasmine_rice_nutrition.html"
+        ]
+      },
+      "3": {
+        "fact": "It\u2019s important to note that these are just estimates, and the actual calorie content may vary.",
+        "truthfulness": 100,
+        "explanation": "Calorie counts for cooked foods like rice depend on factors such as water content, cooking method, and rice variety, so estimates naturally vary.",
+        "links": []
+      },
+      "4": {
+        "fact": "If you\u2019re concerned about calorie intake, it\u2019s best to consult with a registered dietitian or nutritionist for personalized advice.",
+        "truthfulness": 100,
+        "explanation": "Personalized dietary advice from qualified professionals is recommended for accurate calorie management and nutrition planning.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

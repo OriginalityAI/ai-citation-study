@@ -1,0 +1,126 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464786,
+      "id": "ns7ekywbh3zda9ip",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/ns7ekywbh3zda9ip",
+      "content": "Question: in home covid test reliability Answer: Home COVID-19 tests, also known as rapid antigen tests, are generally reliable but may have limitations. Accuracy:: - Studies show that most home tests have an accuracy rate of around 80-90% for detecting active COVID-19 infections. - However, accuracy can vary depending on factors such as: False Negatives:: - A potential concern is false negatives, where the test returns a negative result even when the individual is infected. - This can occur if the viral load is low or the test is not performed correctly. - False negatives are more likely to occur in the early stages of infection or in people with mild symptoms. False Positives:: - False positives, where the test returns a positive result despite the individual not being infected, are less common. - They may occur due to contamination or improper use of the test. New Variants:: - Most home tests are designed to detect the original SARS-CoV-2 virus and may not be as accurate against newer variants. - Manufacturers are updating their tests to ensure effectiveness against emerging variants. Conclusion: Home COVID-19 tests can be a reliable way to screen for active infections, but it&#039;s important to note their limitations. If you test positive or have symptoms, it&#039;s recommended to confirm the result with a healthcare professional and follow their guidance.",
+      "formattedContent": "Question: in home covid test reliability\n\nAnswer: Home COVID-19 tests, also known as rapid antigen tests, are generally reliable but may have limitations.\nAccuracy::\n- Studies show that most home tests have an accuracy rate of around 80-90% for detecting active COVID-19 infections.\n- However, accuracy can vary depending on factors such as:\nFalse Negatives::\n- A potential concern is false negatives, where the test returns a negative result even when the individual is infected.\n- This can occur if the viral load is low or the test is not performed correctly.\n- False negatives are more likely to occur in the early stages of infection or in people with mild symptoms.\nFalse Positives::\n- False positives, where the test returns a positive result despite the individual not being infected, are less common.\n- They may occur due to contamination or improper use of the test.\nNew Variants::\n- Most home tests are designed to detect the original SARS-CoV-2 virus and may not be as accurate against newer variants.\n- Manufacturers are updating their tests to ensure effectiveness against emerging variants.\nConclusion:\nHome COVID-19 tests can be a reliable way to screen for active infections, but it's important to note their limitations. If you test positive or have symptoms, it's recommended to confirm the result with a healthcare professional and follow their guidance."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Home COVID-19 tests, also known as rapid antigen tests, are generally reliable but may have limitations.",
+        "truthfulness": "95%",
+        "explanation": "Home COVID-19 tests (rapid antigen tests) are generally reliable for detecting active infections but have limitations such as false negatives and some variability in accuracy depending on use and timing.",
+        "links": [
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician",
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants"
+        ]
+      },
+      "1": {
+        "fact": "Studies show that most home tests have an accuracy rate of around 80-90% for detecting active COVID-19 infections.",
+        "truthfulness": "90%",
+        "explanation": "A study reported sensitivity (accuracy in detecting positives) of self-administered rapid antigen tests around 83.9%, which aligns with the 80-90% range mentioned. Specificity (accuracy in identifying negatives) was very high (~99.8%).",
+        "links": [
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician"
+        ]
+      },
+      "2": {
+        "fact": "A potential concern is false negatives, where the test returns a negative result even when the individual is infected.",
+        "truthfulness": "100%",
+        "explanation": "False negatives are a known limitation of rapid antigen tests, especially if viral load is low or the test is not performed correctly.",
+        "links": [
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician",
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants"
+        ]
+      },
+      "3": {
+        "fact": "This can occur if the viral load is low or the test is not performed correctly.",
+        "truthfulness": "100%",
+        "explanation": "False negatives are more likely when viral load is low (early or late in infection) or if sampling is inadequate or test instructions are not followed properly.",
+        "links": [
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician",
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants"
+        ]
+      },
+      "4": {
+        "fact": "False negatives are more likely to occur in the early stages of infection or in people with mild symptoms.",
+        "truthfulness": "90%",
+        "explanation": "False negatives are more common early in infection when viral load may be below detection threshold, and in mild or asymptomatic cases, though exact rates vary.",
+        "links": [
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician"
+        ]
+      },
+      "5": {
+        "fact": "False positives, where the test returns a positive result despite the individual not being infected, are less common.",
+        "truthfulness": "95%",
+        "explanation": "False positives with rapid antigen tests are rare but can occur due to contamination or user error.",
+        "links": [
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician",
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants"
+        ]
+      },
+      "6": {
+        "fact": "They may occur due to contamination or improper use of the test.",
+        "truthfulness": "95%",
+        "explanation": "False positives can result from sample contamination or incorrect test procedure, though these are uncommon.",
+        "links": [
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician"
+        ]
+      },
+      "7": {
+        "fact": "Most home tests are designed to detect the original SARS-CoV-2 virus and may not be as accurate against newer variants.",
+        "truthfulness": "80%",
+        "explanation": "At-home antigen tests target viral proteins that have remained fairly conserved, so they generally still detect newer variants, but some concerns exist about reduced sensitivity with certain variants. Manufacturers update tests as needed.",
+        "links": [
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants"
+        ]
+      },
+      "8": {
+        "fact": "Manufacturers are updating their tests to ensure effectiveness against emerging variants.",
+        "truthfulness": "90%",
+        "explanation": "Manufacturers monitor variants and update tests to maintain effectiveness, though updates may lag behind variant emergence.",
+        "links": [
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants"
+        ]
+      },
+      "9": {
+        "fact": "Home COVID-19 tests can be a reliable way to screen for active infections, but it's important to note their limitations.",
+        "truthfulness": "100%",
+        "explanation": "Home tests are useful for screening but have limitations such as false negatives and should be used with awareness of these constraints.",
+        "links": [
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician",
+          "https://www.health.harvard.edu/diseases-and-conditions/covid-tests-do-at-home-tests-work-on-newer-variants"
+        ]
+      },
+      "10": {
+        "fact": "If you test positive or have symptoms, it's recommended to confirm the result with a healthcare professional and follow their guidance.",
+        "truthfulness": "100%",
+        "explanation": "Confirmatory testing and medical advice are recommended after a positive home test or if symptoms are present, to ensure accurate diagnosis and appropriate care.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36469272,
+      "id": "t5dhakwn0m7xo64f",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/t5dhakwn0m7xo64f",
+      "content": "Question: sars-covid 2 Answer: SARS-CoV-2 is the virus that causes COVID-19, a respiratory disease. It is a type of coronavirus that originated in Wuhan, China in late 2019. The virus spreads through respiratory droplets when an infected person coughs, sneezes, or talks. It can also spread through contaminated surfaces or objects.",
+      "formattedContent": "Question: sars-covid 2\n\nAnswer: SARS-CoV-2 is the virus that causes COVID-19, a respiratory disease. It is a type of coronavirus that originated in Wuhan, China in late 2019. The virus spreads through respiratory droplets when an infected person coughs, sneezes, or talks. It can also spread through contaminated surfaces or objects."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "SARS-CoV-2 is the virus that causes COVID-19, a respiratory disease.",
+        "truthfulness": "100%",
+        "explanation": "SARS-CoV-2 is the virus responsible for COVID-19, which primarily affects the respiratory system, causing symptoms ranging from mild respiratory illness to severe respiratory failure.",
+        "links": [
+          "https://www.nature.com/articles/s41579-020-00459-7",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963"
+        ]
+      },
+      "1": {
+        "fact": "It is a type of coronavirus that originated in Wuhan, China in late 2019.",
+        "truthfulness": "100%",
+        "explanation": "SARS-CoV-2 is a coronavirus that was first identified in Wuhan, China, in late 2019, marking the beginning of the COVID-19 pandemic.",
+        "links": [
+          "https://en.wikipedia.org/wiki/SARS-CoV-2",
+          "https://www.nature.com/articles/s41579-020-00459-7"
+        ]
+      },
+      "2": {
+        "fact": "The virus spreads through respiratory droplets when an infected person coughs, sneezes, or talks.",
+        "truthfulness": "100%",
+        "explanation": "SARS-CoV-2 primarily spreads via respiratory droplets expelled when an infected person coughs, sneezes, or talks, facilitating transmission to others.",
+        "links": [
+          "https://www.nature.com/articles/s41579-020-00459-7",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963"
+        ]
+      },
+      "3": {
+        "fact": "It can also spread through contaminated surfaces or objects.",
+        "truthfulness": "80%",
+        "explanation": "While SARS-CoV-2 can spread via contaminated surfaces (fomites), this is considered a less common transmission route compared to respiratory droplets. Surface transmission is possible but not the primary mode.",
+        "links": [
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

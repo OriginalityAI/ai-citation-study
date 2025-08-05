@@ -1,0 +1,73 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36458052,
+      "id": "zhfm37u2tb1dreg9",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/zhfm37u2tb1dreg9",
+      "content": "Question: how long after symptoms start covid test Answer: If you have COVID-19 symptoms, you should test immediately. If the first test is negative, it&#039;s recommended to test again per the instructions. For those exposed to COVID-19 but without symptoms, testing should be done at least 5 days after the exposure. Multiple negative tests may be needed to rule out infection, especially with antigen tests.",
+      "formattedContent": "Question: how long after symptoms start covid test\n\nAnswer: If you have COVID-19 symptoms, you should test immediately. If the first test is negative, it's recommended to test again per the instructions. For those exposed to COVID-19 but without symptoms, testing should be done at least 5 days after the exposure. Multiple negative tests may be needed to rule out infection, especially with antigen tests."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "If you have COVID-19 symptoms, you should test immediately.",
+        "truthfulness": "100%",
+        "explanation": "CDC guidance and multiple authoritative sources recommend testing immediately upon symptom onset to detect COVID-19 infection as early as possible.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/when-is-the-best-time-to-get-tested-for-covid",
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/understanding-home-otc-covid-19-antigen-diagnostic-test-results"
+        ]
+      },
+      "1": {
+        "fact": "If the first test is negative, it's recommended to test again per the instructions.",
+        "truthfulness": "100%",
+        "explanation": "If symptoms are present but the first test is negative, retesting after 48 hours is recommended to reduce false negatives, especially with antigen tests.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/when-is-the-best-time-to-get-tested-for-covid",
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/understanding-home-otc-covid-19-antigen-diagnostic-test-results",
+          "https://www.uchicagomedicine.org/forefront/coronavirus-disease-covid-19/2023/october/covid-testing-when-to-test"
+        ]
+      },
+      "2": {
+        "fact": "For those exposed to COVID-19 but without symptoms, testing should be done at least 5 days after the exposure.",
+        "truthfulness": "100%",
+        "explanation": "CDC and FDA guidance recommend waiting at least 5 full days after exposure before testing if asymptomatic, to improve test accuracy and reduce false negatives.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/when-is-the-best-time-to-get-tested-for-covid",
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/understanding-home-otc-covid-19-antigen-diagnostic-test-results"
+        ]
+      },
+      "3": {
+        "fact": "Multiple negative tests may be needed to rule out infection, especially with antigen tests.",
+        "truthfulness": "100%",
+        "explanation": "Because antigen tests are less sensitive than PCR tests, multiple negative tests spaced 48 hours apart are recommended to confidently rule out infection.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/when-is-the-best-time-to-get-tested-for-covid",
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/understanding-home-otc-covid-19-antigen-diagnostic-test-results",
+          "https://www.uchicagomedicine.org/forefront/coronavirus-disease-covid-19/2023/october/covid-testing-when-to-test"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

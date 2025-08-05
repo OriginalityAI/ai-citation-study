@@ -1,0 +1,70 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464486,
+      "id": "wz15yn62uojtx7eb",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/wz15yn62uojtx7eb",
+      "content": "Question: what are the odds of dying from covid 19 Answer: The chances of dying from COVID-19 vary significantly depending on factors such as age, underlying health conditions, and access to healthcare. According to the Centers for Disease Control and Prevention (CDC), as of December 2022, the overall case fatality rate (CFR) for COVID-19 in the United States is around 1.1%. However, this rate varies widely by age group:: - 0-49 years: Less than 0.1% - 50-64 years: 1.0% - 65-74 years: 3.6% - 75-84 years: 10.5% - 85 years and older: 26.4% Individuals with underlying health conditions such as heart disease, lung disease, diabetes, and obesity are also at a higher risk of severe illness and death from COVID-19. It&#039;s important to note that these are just estimates, and the actual risk may vary depending on the specific circumstances. Additionally, the CFR has fluctuated over time as the virus has evolved and treatments have improved.",
+      "formattedContent": "Question: what are the odds of dying from covid 19\n\nAnswer: The chances of dying from COVID-19 vary significantly depending on factors such as age, underlying health conditions, and access to healthcare.\nAccording to the Centers for Disease Control and Prevention (CDC), as of December 2022, the overall case fatality rate (CFR) for COVID-19 in the United States is around 1.1%. However, this rate varies widely by age group::\n- 0-49 years: Less than 0.1%\n- 50-64 years: 1.0%\n- 65-74 years: 3.6%\n- 75-84 years: 10.5%\n- 85 years and older: 26.4%\nIndividuals with underlying health conditions such as heart disease, lung disease, diabetes, and obesity are also at a higher risk of severe illness and death from COVID-19.\nIt's important to note that these are just estimates, and the actual risk may vary depending on the specific circumstances. Additionally, the CFR has fluctuated over time as the virus has evolved and treatments have improved."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "According to the Centers for Disease Control and Prevention (CDC), as of December 2022, the overall case fatality rate (CFR) for COVID-19 in the United States is around 1.1%.",
+        "truthfulness": 90,
+        "explanation": "The CDC and other sources report that the overall case fatality rate (CFR) for COVID-19 has varied over time and by location. While exact CFR values fluctuate due to factors like testing rates and reporting, an approximate CFR around 1% to 1.1% for the U.S. during earlier phases of the pandemic is consistent with estimates. However, more recent data suggest that the CFR has generally decreased due to improved treatments and vaccination, so the 1.1% figure as of December 2022 is plausible but may be slightly outdated.",
+        "links": [
+          "https://ourworldindata.org/mortality-risk-covid",
+          "https://abcnews.go.com/Health/300-people-us-dying-covid-week/story?id=122068959"
+        ]
+      },
+      "1": {
+        "fact": "The case fatality rate varies widely by age group: 0-49 years: Less than 0.1%, 50-64 years: 1.0%, 65-74 years: 3.6%, 75-84 years: 10.5%, 85 years and older: 26.4%.",
+        "truthfulness": 85,
+        "explanation": "It is well established that COVID-19 mortality risk increases significantly with age. The specific percentages given align broadly with early pandemic CDC data and other epidemiological studies showing very low CFR in younger populations and sharply increasing CFR in older age groups. However, exact percentages can vary by source and over time due to changes in variants, vaccination rates, and treatments. The high CFR for the oldest age group (26.4%) is consistent with early pandemic data but may be lower in more recent analyses.",
+        "links": [
+          "https://ourworldindata.org/mortality-risk-covid",
+          "https://abcnews.go.com/Health/300-people-us-dying-covid-week/story?id=122068959"
+        ]
+      },
+      "2": {
+        "fact": "Individuals with underlying health conditions such as heart disease, lung disease, diabetes, and obesity are also at a higher risk of severe illness and death from COVID-19.",
+        "truthfulness": 100,
+        "explanation": "Multiple authoritative sources including the CDC confirm that underlying health conditions like heart disease, lung disease, diabetes, and obesity significantly increase the risk of severe COVID-19 outcomes and death.",
+        "links": [
+          "https://abcnews.go.com/Health/300-people-us-dying-covid-week/story?id=122068959"
+        ]
+      },
+      "3": {
+        "fact": "The case fatality rate has fluctuated over time as the virus has evolved and treatments have improved.",
+        "truthfulness": 100,
+        "explanation": "It is well documented that the CFR for COVID-19 has changed over time due to factors such as the emergence of new variants, increased vaccination coverage, improved clinical treatments, and better healthcare access.",
+        "links": [
+          "https://ourworldindata.org/mortality-risk-covid",
+          "https://www.bu.edu/sph/news/articles/2025/covid-19-in-2025-a-constant-threat-but-a-manageable-one/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

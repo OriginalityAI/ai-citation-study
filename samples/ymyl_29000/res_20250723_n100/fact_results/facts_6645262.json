@@ -1,0 +1,61 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36459795,
+      "id": "741ixkuwtampg29r",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/741ixkuwtampg29r",
+      "content": "Question: infants with covid 19 Answer: Infants are susceptible to COVID-19 and those under 6 months old face the highest risk of hospitalization among pediatric groups. Symptoms in infants may include fever, difficulty swallowing, bluish skin/lips/nail beds, confusion, trouble staying awake, chest pain, vomiting, or diarrhea. Severe symptoms can include dehydration, especially in babies under 3 months with fewer than three wet diapers in 24 hours, according to the Mayo Clinic.",
+      "formattedContent": "Question: infants with covid 19\n\nAnswer: Infants are susceptible to COVID-19 and those under 6 months old face the highest risk of hospitalization among pediatric groups. Symptoms in infants may include fever, difficulty swallowing, bluish skin/lips/nail beds, confusion, trouble staying awake, chest pain, vomiting, or diarrhea. Severe symptoms can include dehydration, especially in babies under 3 months with fewer than three wet diapers in 24 hours, according to the Mayo Clinic."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Infants are susceptible to COVID-19 and those under 6 months old face the highest risk of hospitalization among pediatric groups.",
+        "truthfulness": 90,
+        "explanation": "Infants, especially those under 1 year old, are at higher risk of serious illness and hospitalization compared to older children. Studies indicate that neonates and infants under 6 months can be hospitalized more frequently, though the illness is often mild. The highest risk within pediatric groups is generally noted in the youngest infants, including those under 6 months, but exact comparative hospitalization rates among all pediatric age groups vary. This is supported by Mayo Clinic and a 2023 study noting mild illness but frequent hospitalization for observation in infants under 6 months.",
+        "links": [
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-in-babies-and-children/art-20484405",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10169195/"
+        ]
+      },
+      "1": {
+        "fact": "Symptoms in infants may include fever, difficulty swallowing, bluish skin/lips/nail beds, confusion, trouble staying awake, chest pain, vomiting, or diarrhea.",
+        "truthfulness": 85,
+        "explanation": "Common symptoms in infants with COVID-19 include fever, cough, vomiting, and diarrhea. Difficulty swallowing, bluish skin/lips/nail beds (cyanosis), confusion, trouble staying awake, and chest pain are more severe symptoms that can occur but are less commonly reported specifically for COVID-19 in infants. Mayo Clinic and Cleveland Clinic list fever, cough, vomiting, diarrhea, and fatigue as common symptoms. Difficulty swallowing and cyanosis are signs of severe illness and warrant urgent care but are not frequently listed as typical COVID-19 symptoms in infants.",
+        "links": [
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-in-babies-and-children/art-20484405",
+          "https://my.clevelandclinic.org/health/diseases/covid-in-children"
+        ]
+      },
+      "2": {
+        "fact": "Severe symptoms can include dehydration, especially in babies under 3 months with fewer than three wet diapers in 24 hours, according to the Mayo Clinic.",
+        "truthfulness": 95,
+        "explanation": "Dehydration is a recognized severe symptom in infants with COVID-19 or other illnesses, particularly in babies under 3 months. The Mayo Clinic specifically notes that fewer than three wet diapers in 24 hours is a sign of dehydration and a reason to seek medical care. This is consistent with general pediatric guidance for infant dehydration and illness severity.",
+        "links": [
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-in-babies-and-children/art-20484405"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

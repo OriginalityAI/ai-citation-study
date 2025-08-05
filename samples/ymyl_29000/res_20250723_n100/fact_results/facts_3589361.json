@@ -1,0 +1,60 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36460159,
+      "id": "19wtl4gfmcinorp7",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/19wtl4gfmcinorp7",
+      "content": "Question: is cancer the biggest killer Answer: No, cancer is not the leading cause of death globally. According to the World Health Organization (WHO), heart disease is the leading cause of death, followed by stroke and chronic respiratory diseases. In the United States, cancer is the second leading cause of death, after heart disease.",
+      "formattedContent": "Question: is cancer the biggest killer\n\nAnswer: No, cancer is not the leading cause of death globally. According to the World Health Organization (WHO), heart disease is the leading cause of death, followed by stroke and chronic respiratory diseases.\nIn the United States, cancer is the second leading cause of death, after heart disease."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "No, cancer is not the leading cause of death globally.",
+        "truthfulness": "100%",
+        "explanation": "According to the World Health Organization and other authoritative sources, ischemic heart disease is the leading cause of death globally, not cancer. Cancer ranks as the second leading cause of death worldwide.",
+        "links": [
+          "https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death",
+          "https://ourworldindata.org/causes-of-death"
+        ]
+      },
+      "1": {
+        "fact": "According to the World Health Organization (WHO), heart disease is the leading cause of death, followed by stroke and chronic respiratory diseases.",
+        "truthfulness": "100%",
+        "explanation": "WHO data confirms ischemic heart disease as the top cause of death globally, responsible for 13% of deaths. Stroke and chronic respiratory diseases are also among the leading causes of death worldwide.",
+        "links": [
+          "https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death",
+          "https://ourworldindata.org/causes-of-death",
+          "https://www.navigator-insurance.com/blog/top-ten-killer-diseases-in-2025-explained/"
+        ]
+      },
+      "2": {
+        "fact": "In the United States, cancer is the second leading cause of death, after heart disease.",
+        "truthfulness": "100%",
+        "explanation": "In the United States, heart disease is the leading cause of death, with cancer as the second leading cause, consistent with global trends reported by health authorities.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

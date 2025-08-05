@@ -1,0 +1,58 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36469203,
+      "id": "whj59ovktb0mpeus",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/whj59ovktb0mpeus",
+      "content": "Question: how many people died every year from the flu Answer: Globally, between 290,000 and 650,000 people die from flu-related causes each year, according to the World Health Organization. The severity of the flu and its impact vary annually. Older adults, young children, pregnant individuals, and those with certain underlying health conditions are at higher risk according to Verywell Health.",
+      "formattedContent": "Question: how many people died every year from the flu\n\nAnswer: Globally, between 290,000 and 650,000 people die from flu-related causes each year, according to the World Health Organization. The severity of the flu and its impact vary annually. Older adults, young children, pregnant individuals, and those with certain underlying health conditions are at higher risk according to Verywell Health."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Globally, between 290,000 and 650,000 people die from flu-related causes each year, according to the World Health Organization.",
+        "truthfulness": "100%",
+        "explanation": "The World Health Organization estimates that there are between 290,000 and 650,000 respiratory deaths annually due to influenza worldwide, which aligns exactly with the claim.",
+        "links": [
+          "https://www.who.int/news-room/feature-stories/detail/the-burden-of-influenza"
+        ]
+      },
+      "1": {
+        "fact": "The severity of the flu and its impact vary annually.",
+        "truthfulness": "100%",
+        "explanation": "Influenza severity and impact vary each year due to factors such as circulating strains, population immunity, and vaccination coverage, as supported by multiple sources discussing annual variation.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6815659/",
+          "https://www.who.int/news-room/feature-stories/detail/the-burden-of-influenza"
+        ]
+      },
+      "2": {
+        "fact": "Older adults, young children, pregnant individuals, and those with certain underlying health conditions are at higher risk according to Verywell Health.",
+        "truthfulness": "100%",
+        "explanation": "It is well established that older adults, young children, pregnant people, and individuals with underlying health conditions have higher risk of severe influenza outcomes, consistent with medical consensus and sources like Verywell Health.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

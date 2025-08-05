@@ -1,0 +1,72 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464552,
+      "id": "ew86t3x154hubaqv",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/ew86t3x154hubaqv",
+      "content": "Question: covid infections Answer: COVID-19, caused by the SARS-CoV-2 virus, is a contagious respiratory illness. Common symptoms include fever, cough, fatigue, and loss of taste or smell. More serious symptoms, requiring immediate medical attention, include difficulty breathing and chest pain. Vaccination, physical distancing, and wearing masks are recommended preventative measures.",
+      "formattedContent": "Question: covid infections\n\nAnswer: COVID-19, caused by the SARS-CoV-2 virus, is a contagious respiratory illness. Common symptoms include fever, cough, fatigue, and loss of taste or smell. More serious symptoms, requiring immediate medical attention, include difficulty breathing and chest pain. Vaccination, physical distancing, and wearing masks are recommended preventative measures."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "COVID-19, caused by the SARS-CoV-2 virus, is a contagious respiratory illness.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 is caused by the SARS-CoV-2 virus and is a contagious respiratory illness, as confirmed by multiple authoritative sources including the CDC and Mayo Clinic.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/your-health/about-covid-19.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963"
+        ]
+      },
+      "1": {
+        "fact": "Common symptoms include fever, cough, fatigue, and loss of taste or smell.",
+        "truthfulness": "100%",
+        "explanation": "Common symptoms of COVID-19 include fever or chills, cough, fatigue, and new loss of taste or smell, as listed by the CDC, Mayo Clinic, and NHS.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+          "https://www.nhs.uk/conditions/covid-19/covid-19-symptoms-and-what-to-do/"
+        ]
+      },
+      "2": {
+        "fact": "More serious symptoms, requiring immediate medical attention, include difficulty breathing and chest pain.",
+        "truthfulness": "100%",
+        "explanation": "Serious symptoms that require urgent medical care include trouble breathing and persistent pain or pressure in the chest, as stated by the CDC and other health authorities.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963"
+        ]
+      },
+      "3": {
+        "fact": "Vaccination, physical distancing, and wearing masks are recommended preventative measures.",
+        "truthfulness": "100%",
+        "explanation": "Preventative measures recommended to reduce COVID-19 transmission include vaccination, physical distancing, and wearing masks, as advised by the CDC and state health departments.",
+        "links": [
+          "https://coronavirus.health.ny.gov/prevention-symptoms",
+          "https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

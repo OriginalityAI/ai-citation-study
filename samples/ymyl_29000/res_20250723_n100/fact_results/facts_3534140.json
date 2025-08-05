@@ -1,0 +1,51 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36471992,
+      "id": "b076ya51w9uolfjs",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/b076ya51w9uolfjs",
+      "content": "Question: how long before covid am i contagious Answer: People with COVID-19 can be contagious from 1-2 days before symptoms start, and remain contagious for up to 8-10 days after symptoms begin, according to the CDC. The majority of transmission occurs during this period.",
+      "formattedContent": "Question: how long before covid am i contagious\n\nAnswer: People with COVID-19 can be contagious from 1-2 days before symptoms start, and remain contagious for up to 8-10 days after symptoms begin, according to the CDC. The majority of transmission occurs during this period."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "People with COVID-19 can be contagious from 1-2 days before symptoms start, and remain contagious for up to 8-10 days after symptoms begin, according to the CDC.",
+        "truthfulness": "100%",
+        "explanation": "The CDC states that people with COVID-19 can be infectious from 1\u20132 days before symptoms begin and up to 8\u201310 days after symptoms start. This period is when the majority of transmission occurs, consistent with the claim.",
+        "links": [
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+        ]
+      },
+      "1": {
+        "fact": "The majority of transmission occurs during this period.",
+        "truthfulness": "100%",
+        "explanation": "According to the CDC, the majority of COVID-19 transmission happens during the early period of infection, particularly in the 1\u20132 days before symptoms start and within the first few days after symptom onset.",
+        "links": [
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

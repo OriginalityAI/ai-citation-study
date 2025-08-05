@@ -1,0 +1,97 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36460436,
+      "id": "czinmdw8bkfaxylo",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/czinmdw8bkfaxylo",
+      "content": "Question: covid 19 antigen Answer: COVID-19 antigen tests, often referred to as rapid tests, detect proteins (antigens) from the SARS-CoV-2 virus. They are quick and relatively inexpensive, providing results within 5-30 minutes, but are less sensitive than molecular tests like PCR. At-home antigen tests are authorized for serial testing, meaning multiple tests are needed over a period of time, especially if symptoms are present or if the initial test is negative. Here&#039;s a more detailed explanation:: - What they detect: COVID-19 rapid antigen tests look for specific proteins (antigens) on the surface of the SARS-CoV-2 virus. - How they work: These tests are lateral flow assays, meaning the sample is applied to a test strip, and if the virus is present, it will bind to antibodies on the strip and produce a visible result, usually within 5-30 minutes. - Sensitivity: While rapid and convenient, antigen tests are generally less sensitive than PCR tests, meaning they may not detect the virus as reliably, especially early in an infection or in people without symptoms. - Serial testing: Because of their lower sensitivity, it is recommended to perform multiple antigen tests over several days, especially if you have symptoms or a negative result. - When to use: At-home antigen tests are useful for quickly assessing whether you might have COVID-19, especially if you have symptoms or have been exposed.",
+      "formattedContent": "Question: covid 19 antigen\n\nAnswer: COVID-19 antigen tests, often referred to as rapid tests, detect proteins (antigens) from the SARS-CoV-2 virus. They are quick and relatively inexpensive, providing results within 5-30 minutes, but are less sensitive than molecular tests like PCR. At-home antigen tests are authorized for serial testing, meaning multiple tests are needed over a period of time, especially if symptoms are present or if the initial test is negative.\nHere's a more detailed explanation::\n- What they detect: COVID-19 rapid antigen tests look for specific proteins (antigens) on the surface of the SARS-CoV-2 virus.\n- How they work: These tests are lateral flow assays, meaning the sample is applied to a test strip, and if the virus is present, it will bind to antibodies on the strip and produce a visible result, usually within 5-30 minutes.\n- Sensitivity: While rapid and convenient, antigen tests are generally less sensitive than PCR tests, meaning they may not detect the virus as reliably, especially early in an infection or in people without symptoms.\n- Serial testing: Because of their lower sensitivity, it is recommended to perform multiple antigen tests over several days, especially if you have symptoms or a negative result.\n- When to use: At-home antigen tests are useful for quickly assessing whether you might have COVID-19, especially if you have symptoms or have been exposed."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "COVID-19 antigen tests, often referred to as rapid tests, detect proteins (antigens) from the SARS-CoV-2 virus.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 antigen tests detect specific proteins (antigens) on the surface of the SARS-CoV-2 virus, which is the basis for their function as rapid diagnostic tools.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12036026/",
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html"
+        ]
+      },
+      "1": {
+        "fact": "They are quick and relatively inexpensive, providing results within 5-30 minutes, but are less sensitive than molecular tests like PCR.",
+        "truthfulness": "100%",
+        "explanation": "Rapid antigen tests provide results typically within 5 to 30 minutes and are less expensive than molecular PCR tests. However, their sensitivity is lower, meaning they are less reliable at detecting the virus, especially in early infection or low viral load cases.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12036026/",
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html",
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test"
+        ]
+      },
+      "2": {
+        "fact": "At-home antigen tests are authorized for serial testing, meaning multiple tests are needed over a period of time, especially if symptoms are present or if the initial test is negative.",
+        "truthfulness": "100%",
+        "explanation": "Due to lower sensitivity, at-home antigen tests are recommended to be used serially (multiple tests over several days) to improve detection accuracy, particularly if symptoms develop or the first test is negative.",
+        "links": []
+      },
+      "3": {
+        "fact": "COVID-19 rapid antigen tests look for specific proteins (antigens) on the surface of the SARS-CoV-2 virus.",
+        "truthfulness": "100%",
+        "explanation": "The tests target viral proteins (antigens) present on the virus surface to detect infection.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12036026/"
+        ]
+      },
+      "4": {
+        "fact": "These tests are lateral flow assays, meaning the sample is applied to a test strip, and if the virus is present, it will bind to antibodies on the strip and produce a visible result, usually within 5-30 minutes.",
+        "truthfulness": "100%",
+        "explanation": "Rapid antigen tests commonly use lateral flow immunoassay technology where viral antigens bind to antibodies on a test strip, producing a visible line within minutes.",
+        "links": []
+      },
+      "5": {
+        "fact": "While rapid and convenient, antigen tests are generally less sensitive than PCR tests, meaning they may not detect the virus as reliably, especially early in an infection or in people without symptoms.",
+        "truthfulness": "100%",
+        "explanation": "Studies show antigen tests have sensitivities around 59-70%, lower than PCR tests, and are less reliable in early infection or asymptomatic cases due to lower viral loads.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12036026/",
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html"
+        ]
+      },
+      "6": {
+        "fact": "Because of their lower sensitivity, it is recommended to perform multiple antigen tests over several days, especially if you have symptoms or a negative result.",
+        "truthfulness": "100%",
+        "explanation": "Serial testing improves detection accuracy by compensating for the lower sensitivity of single antigen tests, especially when symptoms are present or initial tests are negative.",
+        "links": []
+      },
+      "7": {
+        "fact": "At-home antigen tests are useful for quickly assessing whether you might have COVID-19, especially if you have symptoms or have been exposed.",
+        "truthfulness": "100%",
+        "explanation": "At-home antigen tests provide rapid results and are practical for quick assessment of infection status, particularly after exposure or when symptomatic.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

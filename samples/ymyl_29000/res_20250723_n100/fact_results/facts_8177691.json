@@ -1,0 +1,160 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461668,
+      "id": "1pv35zy24strcnux",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/1pv35zy24strcnux",
+      "content": "Question: inaccuracy of covid tests Answer: The accuracy of COVID-19 tests varies depending on the type of test and the individual being tested. Antigen Tests (Rapid Tests):: - Positive results are generally reliable. - Negative results may not be accurate, especially if the person is in the early stages of infection or has a low viral load. - Accuracy can range from 50% to 90% depending on the test and the person being tested. Molecular Tests (PCR Tests):: - Considered the gold standard for COVID-19 diagnosis. - Highly accurate, with a sensitivity of over 99%. - Can detect very low levels of virus. Factors Affecting Accuracy:: - Viral load: Higher viral loads lead to more accurate test results. - Test timing: Tests performed early in the infection may have lower accuracy. - Sample quality: Poor quality samples can affect test results. - Variant type: Some variants may be more difficult to detect than others. Additional Considerations:: - Home tests may be less accurate than tests performed in a healthcare setting. - Follow the instructions on the test kit carefully for the best results. - If you test positive on an antigen test, it is recommended to confirm the result with a molecular test. - If you test negative on an antigen test but have symptoms of COVID-19, consider getting tested again with a molecular test.",
+      "formattedContent": "Question: inaccuracy of covid tests\n\nAnswer: The accuracy of COVID-19 tests varies depending on the type of test and the individual being tested.\nAntigen Tests (Rapid Tests)::\n- Positive results are generally reliable.\n- Negative results may not be accurate, especially if the person is in the early stages of infection or has a low viral load.\n- Accuracy can range from 50% to 90% depending on the test and the person being tested.\nMolecular Tests (PCR Tests)::\n- Considered the gold standard for COVID-19 diagnosis.\n- Highly accurate, with a sensitivity of over 99%.\n- Can detect very low levels of virus.\nFactors Affecting Accuracy::\n- Viral load: Higher viral loads lead to more accurate test results.\n- Test timing: Tests performed early in the infection may have lower accuracy.\n- Sample quality: Poor quality samples can affect test results.\n- Variant type: Some variants may be more difficult to detect than others.\nAdditional Considerations::\n- Home tests may be less accurate than tests performed in a healthcare setting.\n- Follow the instructions on the test kit carefully for the best results.\n- If you test positive on an antigen test, it is recommended to confirm the result with a molecular test.\n- If you test negative on an antigen test but have symptoms of COVID-19, consider getting tested again with a molecular test."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The accuracy of COVID-19 tests varies depending on the type of test and the individual being tested.",
+        "truthfulness": "100%",
+        "explanation": "The accuracy of COVID-19 tests indeed varies by test type (antigen vs molecular) and individual factors such as viral load and timing of the test relative to infection onset.",
+        "links": [
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html",
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician",
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests"
+        ]
+      },
+      "1": {
+        "fact": "Antigen Tests (Rapid Tests): Positive results are generally reliable.",
+        "truthfulness": "99%",
+        "explanation": "Rapid antigen tests have very high specificity (around 99% or higher), meaning positive results are very likely true positives, making positive results generally reliable.",
+        "links": [
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html",
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test"
+        ]
+      },
+      "2": {
+        "fact": "Antigen Tests (Rapid Tests): Negative results may not be accurate, especially if the person is in the early stages of infection or has a low viral load.",
+        "truthfulness": "95%",
+        "explanation": "Rapid antigen tests have moderate sensitivity (~69%), so false negatives are common, especially early in infection or with low viral load, making negative results less reliable in these contexts.",
+        "links": [
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html",
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test"
+        ]
+      },
+      "3": {
+        "fact": "Antigen Tests (Rapid Tests): Accuracy can range from 50% to 90% depending on the test and the person being tested.",
+        "truthfulness": "90%",
+        "explanation": "Sensitivity of rapid antigen tests varies widely by brand and patient factors, generally ranging from about 65% to 83%, which supports the stated range of 50% to 90%.",
+        "links": [
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html",
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test"
+        ]
+      },
+      "4": {
+        "fact": "Molecular Tests (PCR Tests): Considered the gold standard for COVID-19 diagnosis.",
+        "truthfulness": "100%",
+        "explanation": "PCR tests are widely regarded as the gold standard due to their high sensitivity and ability to detect low viral loads.",
+        "links": [
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests"
+        ]
+      },
+      "5": {
+        "fact": "Molecular Tests (PCR Tests): Highly accurate, with a sensitivity of over 99%.",
+        "truthfulness": "Partially true (about 80% clinical sensitivity, near 100% analytic sensitivity)",
+        "explanation": "Analytic sensitivity of PCR tests approaches 100% at certain viral RNA levels, but clinical sensitivity is closer to 80% due to biological and pre-analytic factors.",
+        "links": [
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests"
+        ]
+      },
+      "6": {
+        "fact": "Molecular Tests (PCR Tests): Can detect very low levels of virus.",
+        "truthfulness": "100%",
+        "explanation": "PCR tests can detect viral RNA at very low concentrations (500-5000 copies/mL), enabling early and sensitive detection.",
+        "links": [
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests"
+        ]
+      },
+      "7": {
+        "fact": "Factors Affecting Accuracy: Viral load: Higher viral loads lead to more accurate test results.",
+        "truthfulness": "100%",
+        "explanation": "Higher viral loads increase the likelihood of detection by both antigen and molecular tests, improving accuracy.",
+        "links": [
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html",
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests"
+        ]
+      },
+      "8": {
+        "fact": "Factors Affecting Accuracy: Test timing: Tests performed early in the infection may have lower accuracy.",
+        "truthfulness": "100%",
+        "explanation": "Testing too early can result in false negatives due to insufficient viral replication, reducing test sensitivity.",
+        "links": [
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html",
+          "https://www.cap.org/member-resources/articles/how-good-are-covid-19-sars-cov-2-diagnostic-pcr-tests"
+        ]
+      },
+      "9": {
+        "fact": "Factors Affecting Accuracy: Sample quality: Poor quality samples can affect test results.",
+        "truthfulness": "100%",
+        "explanation": "Improper sample collection or handling can reduce viral material in the sample, leading to inaccurate results.",
+        "links": [
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician"
+        ]
+      },
+      "10": {
+        "fact": "Factors Affecting Accuracy: Variant type: Some variants may be more difficult to detect than others.",
+        "truthfulness": "Likely true but less documented in search results",
+        "explanation": "Some SARS-CoV-2 variants may affect test performance due to mutations in target regions, though this is less emphasized in the provided sources.",
+        "links": []
+      },
+      "11": {
+        "fact": "Home tests may be less accurate than tests performed in a healthcare setting.",
+        "truthfulness": "Mostly true",
+        "explanation": "Home antigen tests have similar sensitivity and specificity to clinician-administered tests, but user error and sampling issues can reduce accuracy.",
+        "links": [
+          "https://www.cidrap.umn.edu/covid-19/researchers-report-covid-home-tests-accurate-same-tests-given-clinician"
+        ]
+      },
+      "12": {
+        "fact": "Follow the instructions on the test kit carefully for the best results.",
+        "truthfulness": "100%",
+        "explanation": "Proper test use is critical to ensure accuracy and reduce false results.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/covid-19-rapid-test"
+        ]
+      },
+      "13": {
+        "fact": "If you test positive on an antigen test, it is recommended to confirm the result with a molecular test.",
+        "truthfulness": "Generally recommended but not always required",
+        "explanation": "Due to high specificity, positive antigen tests are usually reliable, but confirmation with PCR is often advised especially in low prevalence settings or for clinical decisions.",
+        "links": [
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html"
+        ]
+      },
+      "14": {
+        "fact": "If you test negative on an antigen test but have symptoms of COVID-19, consider getting tested again with a molecular test.",
+        "truthfulness": "100%",
+        "explanation": "Because antigen tests can miss infections, especially early or with low viral load, follow-up PCR testing is recommended if symptoms persist.",
+        "links": [
+          "https://www.aafp.org/pubs/afp/issues/2023/0400/cochrane-poc-rapid-antigen-tests-for-diagnosis-of-covid-19.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

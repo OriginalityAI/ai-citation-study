@@ -1,0 +1,81 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36462720,
+      "id": "0xzo695m3hkpntuj",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/0xzo695m3hkpntuj",
+      "content": "Question: is there a covid blood test Answer: Yes, there are blood tests available to diagnose COVID-19. - PCR (polymerase chain reaction) test: This test detects the virus&#039;s genetic material (RNA) in a blood sample. - Antibody test: This test detects antibodies, which are proteins produced by the body in response to an infection. An antibody test can indicate if a person has been infected with COVID-19 in the past. It&#039;s important to note that the PCR test is more accurate at diagnosing an active COVID-19 infection, while the antibody test is better at determining if a person has had the virus previously.",
+      "formattedContent": "Question: is there a covid blood test\n\nAnswer: Yes, there are blood tests available to diagnose COVID-19.\n- PCR (polymerase chain reaction) test: This test detects the virus's genetic material (RNA) in a blood sample.\n- Antibody test: This test detects antibodies, which are proteins produced by the body in response to an infection. An antibody test can indicate if a person has been infected with COVID-19 in the past.\nIt's important to note that the PCR test is more accurate at diagnosing an active COVID-19 infection, while the antibody test is better at determining if a person has had the virus previously."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Yes, there are blood tests available to diagnose COVID-19.",
+        "truthfulness": 60,
+        "explanation": "Blood tests for COVID-19 primarily include antibody tests that detect past infection by identifying antibodies in blood. However, molecular tests like PCR typically use respiratory samples (nasal or throat swabs) rather than blood to detect active infection. PCR testing of blood is not standard practice for diagnosing active COVID-19 infection.",
+        "links": [
+          "https://www.mayoclinic.org/tests-procedures/covid-19-diagnostic-test/about/pac-20488900",
+          "https://www.yalemedicine.org/news/which-covid-test-is-accurate"
+        ]
+      },
+      "1": {
+        "fact": "PCR (polymerase chain reaction) test: This test detects the virus's genetic material (RNA) in a blood sample.",
+        "truthfulness": 10,
+        "explanation": "PCR tests detect viral RNA but are almost exclusively performed on respiratory specimens (e.g., nasal or throat swabs), not blood samples. PCR testing of blood for COVID-19 is not a standard or widely used diagnostic method.",
+        "links": [
+          "https://www.mayoclinic.org/tests-procedures/covid-19-diagnostic-test/about/pac-20488900",
+          "https://www.yalemedicine.org/news/which-covid-test-is-accurate"
+        ]
+      },
+      "2": {
+        "fact": "Antibody test: This test detects antibodies, which are proteins produced by the body in response to an infection.",
+        "truthfulness": 100,
+        "explanation": "Antibody tests detect antibodies in blood, which are proteins produced by the immune system in response to infection, including SARS-CoV-2.",
+        "links": [
+          "https://www.aruplab.com/news/4-21-2020/How-Accurate-Are-COVID-19-Tests",
+          "https://www.cochrane.org/evidence/CD013652_what-diagnostic-accuracy-antibody-tests-detection-infection-covid-19-virus"
+        ]
+      },
+      "3": {
+        "fact": "An antibody test can indicate if a person has been infected with COVID-19 in the past.",
+        "truthfulness": 100,
+        "explanation": "Antibody tests are used to determine if a person has had a past infection with COVID-19 by detecting antibodies developed after infection.",
+        "links": [
+          "https://www.aruplab.com/news/4-21-2020/How-Accurate-Are-COVID-19-Tests",
+          "https://www.cochrane.org/evidence/CD013652_what-diagnostic-accuracy-antibody-tests-detection-infection-covid-19-virus"
+        ]
+      },
+      "4": {
+        "fact": "PCR test is more accurate at diagnosing an active COVID-19 infection, while the antibody test is better at determining if a person has had the virus previously.",
+        "truthfulness": 100,
+        "explanation": "PCR tests detect active infection by identifying viral RNA and are considered the gold standard for diagnosing current COVID-19 infection. Antibody tests detect immune response and are used to assess past infection, not active disease.",
+        "links": [
+          "https://www.mayoclinic.org/tests-procedures/covid-19-diagnostic-test/about/pac-20488900",
+          "https://www.yalemedicine.org/news/which-covid-test-is-accurate",
+          "https://www.aruplab.com/news/4-21-2020/How-Accurate-Are-COVID-19-Tests"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36467155,
+      "id": "g4ju65qdpknf1ctl",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/g4ju65qdpknf1ctl",
+      "content": "Question: personal history tonsil cancer icd 10 Answer: The ICD-10 code for personal history of tonsil cancer is Z85.21. Explanation:: - Z85: Personal history of malignant neoplasm - .21: Specifies that the neoplasm (cancer) is of the tonsil Additional Codes:: - If the patient has had multiple tonsil cancers, the code Z85.22 (personal history of malignant neoplasm of nasal cavities, middle ear, and accessory sinuses) may be used. - If the patient has had a benign tonsil tumor, the code Z86.018 (personal history of other benign neoplasm) may be used. - If the patient has had a history of other types of head and neck cancer, the appropriate ICD-10 codes for those cancers may also be used. Example: A patient has a personal history of squamous cell carcinoma of the right tonsil. The ICD-10 code to document this would be Z85.21.",
+      "formattedContent": "Question: personal history tonsil cancer icd 10\n\nAnswer: The ICD-10 code for personal history of tonsil cancer is Z85.21.\nExplanation::\n- Z85: Personal history of malignant neoplasm\n- .21: Specifies that the neoplasm (cancer) is of the tonsil\nAdditional Codes::\n- If the patient has had multiple tonsil cancers, the code Z85.22 (personal history of malignant neoplasm of nasal cavities, middle ear, and accessory sinuses) may be used.\n- If the patient has had a benign tonsil tumor, the code Z86.018 (personal history of other benign neoplasm) may be used.\n- If the patient has had a history of other types of head and neck cancer, the appropriate ICD-10 codes for those cancers may also be used.\nExample:\nA patient has a personal history of squamous cell carcinoma of the right tonsil. The ICD-10 code to document this would be Z85.21."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The ICD-10 code for personal history of tonsil cancer is Z85.21.",
+        "truthfulness": "0%",
+        "explanation": "Z85.21 is the ICD-10 code for personal history of malignant neoplasm of larynx, not tonsil. The correct code for personal history of malignant neoplasm of tonsil is Z85.818 according to ICD-10 coding guidelines for head and neck cancers.",
+        "links": [
+          "https://icdlist.com/icd-10/Z85.21",
+          "https://icdcodes.ai/diagnosis/history-of-throat-cancer/documentation"
+        ]
+      },
+      "1": {
+        "fact": "Z85: Personal history of malignant neoplasm",
+        "truthfulness": "100%",
+        "explanation": "The ICD-10 category Z85 is used to indicate a personal history of malignant neoplasm, meaning the patient had cancer in the past but is not currently undergoing active treatment.",
+        "links": [
+          "https://www.mdclarity.com/icd-codes/z85"
+        ]
+      },
+      "2": {
+        "fact": ".21: Specifies that the neoplasm (cancer) is of the tonsil",
+        "truthfulness": "0%",
+        "explanation": "The subcode .21 under Z85 corresponds to personal history of malignant neoplasm of the larynx, not the tonsil. Tonsil cancer history is coded under Z85.818 (personal history of malignant neoplasm of other sites of lip, oral cavity, and pharynx).",
+        "links": [
+          "https://icdlist.com/icd-10/Z85.21",
+          "https://icdcodes.ai/diagnosis/history-of-throat-cancer/documentation"
+        ]
+      },
+      "3": {
+        "fact": "If the patient has had multiple tonsil cancers, the code Z85.22 (personal history of malignant neoplasm of nasal cavities, middle ear, and accessory sinuses) may be used.",
+        "truthfulness": "0%",
+        "explanation": "Z85.22 is the code for personal history of malignant neoplasm of the trachea, bronchus, and lung, or other respiratory sites, not for multiple tonsil cancers. Also, nasal cavities, middle ear, and accessory sinuses have different codes (e.g., Z85.22 is not correct for these). There is no indication that multiple tonsil cancers are coded under Z85.22.",
+        "links": []
+      },
+      "4": {
+        "fact": "If the patient has had a benign tonsil tumor, the code Z86.018 (personal history of other benign neoplasm) may be used.",
+        "truthfulness": "Likely 100%",
+        "explanation": "Z86.018 is used for personal history of other benign neoplasms, which would include benign tumors of the tonsil if documented as such.",
+        "links": []
+      },
+      "5": {
+        "fact": "If the patient has had a history of other types of head and neck cancer, the appropriate ICD-10 codes for those cancers may also be used.",
+        "truthfulness": "100%",
+        "explanation": "ICD-10 coding guidelines recommend using the specific codes for personal history of malignant neoplasms of the respective head and neck sites as appropriate.",
+        "links": []
+      },
+      "6": {
+        "fact": "A patient has a personal history of squamous cell carcinoma of the right tonsil. The ICD-10 code to document this would be Z85.21.",
+        "truthfulness": "0%",
+        "explanation": "Z85.21 is for personal history of malignant neoplasm of larynx, not tonsil. The correct code for personal history of tonsil cancer is Z85.818.",
+        "links": [
+          "https://icdlist.com/icd-10/Z85.21",
+          "https://icdcodes.ai/diagnosis/history-of-throat-cancer/documentation"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

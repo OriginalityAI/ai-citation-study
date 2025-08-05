@@ -1,0 +1,92 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36462631,
+      "id": "054ye1h7ftmgwrpv",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/054ye1h7ftmgwrpv",
+      "content": "Question: can hysterectomy cause cancer Answer: No, a hysterectomy itself does not cause cancer. However, there are some potential cancer risks associated with certain types of hysterectomy:: - Ovarian cancer: If the ovaries are not removed during the hysterectomy, there is still a risk of developing ovarian cancer. This risk is lower than in women who have not had a hysterectomy. - Cervical cancer: If the cervix is not removed, there is a small risk of developing cervical cancer. This risk is higher if the woman had a history of cervical dysplasia or HPV infection. - Vaginal cancer: This is a rare risk, but it can occur if the vaginal walls are damaged during the surgery or if the woman had a previous history of vaginal cancer. It&#039;s important to note that these risks are generally low and depend on factors such as the type of hysterectomy performed, the woman&#039;s age, and her overall health. Regular follow-up with a healthcare provider after a hysterectomy is recommended to monitor for any potential cancer risks.",
+      "formattedContent": "Question: can hysterectomy cause cancer\n\nAnswer: No, a hysterectomy itself does not cause cancer. However, there are some potential cancer risks associated with certain types of hysterectomy::\n- Ovarian cancer: If the ovaries are not removed during the hysterectomy, there is still a risk of developing ovarian cancer. This risk is lower than in women who have not had a hysterectomy.\n- Cervical cancer: If the cervix is not removed, there is a small risk of developing cervical cancer. This risk is higher if the woman had a history of cervical dysplasia or HPV infection.\n- Vaginal cancer: This is a rare risk, but it can occur if the vaginal walls are damaged during the surgery or if the woman had a previous history of vaginal cancer.\nIt's important to note that these risks are generally low and depend on factors such as the type of hysterectomy performed, the woman's age, and her overall health. Regular follow-up with a healthcare provider after a hysterectomy is recommended to monitor for any potential cancer risks."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "No, a hysterectomy itself does not cause cancer.",
+        "truthfulness": "90%",
+        "explanation": "A hysterectomy does not directly cause cancer. However, some studies suggest an increased risk of certain cancers, such as kidney cancer and breast cancer, after hysterectomy, possibly due to underlying factors or hormonal changes rather than the surgery itself. Thus, the statement is mostly true but incomplete without noting these associations.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC3834077/",
+          "https://academic.oup.com/jnci/article/115/6/662/7048674"
+        ]
+      },
+      "1": {
+        "fact": "If the ovaries are not removed during the hysterectomy, there is still a risk of developing ovarian cancer.",
+        "truthfulness": "100%",
+        "explanation": "If ovaries are preserved during hysterectomy, the risk of ovarian cancer remains because the ovaries are still present and can develop cancer. Removal of ovaries reduces this risk.",
+        "links": [
+          "https://www.obermair.info/latest-news/blog/is-there-still-a-risk-of-cancer-after-a-hysterectomy/"
+        ]
+      },
+      "2": {
+        "fact": "This risk is lower than in women who have not had a hysterectomy.",
+        "truthfulness": "Uncertain",
+        "explanation": "Recent studies show mixed results regarding ovarian cancer risk after hysterectomy. Some older studies suggested reduced risk, but newer data do not consistently confirm this. Therefore, it is unclear if ovarian cancer risk is definitively lower in women with hysterectomy but preserved ovaries.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6792101/"
+        ]
+      },
+      "3": {
+        "fact": "If the cervix is not removed, there is a small risk of developing cervical cancer.",
+        "truthfulness": "100%",
+        "explanation": "If the cervix remains after a subtotal or supracervical hysterectomy, there is a small risk of cervical cancer, especially if there is a history of cervical dysplasia or HPV infection.",
+        "links": []
+      },
+      "4": {
+        "fact": "This risk is higher if the woman had a history of cervical dysplasia or HPV infection.",
+        "truthfulness": "100%",
+        "explanation": "A history of cervical dysplasia or HPV infection increases the risk of cervical cancer, so retaining the cervix after hysterectomy maintains this risk.",
+        "links": []
+      },
+      "5": {
+        "fact": "Vaginal cancer: This is a rare risk, but it can occur if the vaginal walls are damaged during the surgery or if the woman had a previous history of vaginal cancer.",
+        "truthfulness": "Mostly true",
+        "explanation": "Vaginal cancer is rare. Damage to vaginal walls during surgery or prior history of vaginal cancer may increase risk, but this is uncommon and not well quantified in literature.",
+        "links": []
+      },
+      "6": {
+        "fact": "These risks are generally low and depend on factors such as the type of hysterectomy performed, the woman's age, and her overall health.",
+        "truthfulness": "100%",
+        "explanation": "Cancer risks after hysterectomy vary based on surgery type, patient age, and health status, with overall risks generally low.",
+        "links": [
+          "https://www.obermair.info/latest-news/blog/is-there-still-a-risk-of-cancer-after-a-hysterectomy/"
+        ]
+      },
+      "7": {
+        "fact": "Regular follow-up with a healthcare provider after a hysterectomy is recommended to monitor for any potential cancer risks.",
+        "truthfulness": "100%",
+        "explanation": "Post-hysterectomy follow-up is standard medical advice to monitor for any complications or cancer risks, especially if parts of reproductive organs remain.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

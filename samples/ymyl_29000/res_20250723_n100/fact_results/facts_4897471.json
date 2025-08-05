@@ -1,0 +1,80 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36460797,
+      "id": "9lch1poyb4sqmn0z",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/9lch1poyb4sqmn0z",
+      "content": "Question: does covid vaccine have the virus in it Answer: No, the COVID-19 vaccines do not contain the live virus that causes COVID-19. Most COVID-19 vaccines use either:: - mRNA technology: These vaccines introduce genetic instructions (mRNA) into the body, which then produces a harmless protein fragment (spike protein) that resembles the virus. - Viral vector technology: These vaccines use a weakened or inactivated virus (vector) to deliver the spike protein into the body. Neither of these methods involves using the live virus.",
+      "formattedContent": "Question: does covid vaccine have the virus in it\n\nAnswer: No, the COVID-19 vaccines do not contain the live virus that causes COVID-19.\nMost COVID-19 vaccines use either::\n- mRNA technology: These vaccines introduce genetic instructions (mRNA) into the body, which then produces a harmless protein fragment (spike protein) that resembles the virus.\n- Viral vector technology: These vaccines use a weakened or inactivated virus (vector) to deliver the spike protein into the body.\nNeither of these methods involves using the live virus."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "No, the COVID-19 vaccines do not contain the live virus that causes COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 vaccines authorized for use do not contain live SARS-CoV-2 virus. Instead, they use mRNA or viral vector technology to induce immunity without introducing live virus.",
+        "links": [
+          "https://portal.ct.gov/-/media/coronavirus/community_resources/vaccinations/print-materials/fact-sheets/ingredients_english.pdf",
+          "https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccine-ingredients/ingredients-by-vaccine/covid-19-vaccines-ingredients",
+          "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/pfizer-biontech.html",
+          "https://www.fda.gov/media/144638/download"
+        ]
+      },
+      "1": {
+        "fact": "Most COVID-19 vaccines use either mRNA technology or viral vector technology.",
+        "truthfulness": "100%",
+        "explanation": "Authorized COVID-19 vaccines primarily use mRNA technology (e.g., Pfizer-BioNTech, Moderna) or viral vector technology (e.g., Johnson & Johnson). These are the main platforms used to deliver the spike protein antigen.",
+        "links": [
+          "https://portal.ct.gov/-/media/coronavirus/community_resources/vaccinations/print-materials/ingredients_english.pdf",
+          "https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccine-ingredients/ingredients-by-vaccine/covid-19-vaccines-ingredients"
+        ]
+      },
+      "2": {
+        "fact": "mRNA vaccines introduce genetic instructions (mRNA) into the body, which then produces a harmless protein fragment (spike protein) that resembles the virus.",
+        "truthfulness": "100%",
+        "explanation": "mRNA vaccines contain messenger RNA encoding the SARS-CoV-2 spike protein. The body's cells use this mRNA to produce the spike protein, which triggers an immune response without causing disease.",
+        "links": [
+          "https://portal.ct.gov/-/media/coronavirus/community_resources/vaccinations/print-materials/ingredients_english.pdf",
+          "https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccine-ingredients/ingredients-by-vaccine/covid-19-vaccines-ingredients",
+          "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/pfizer-biontech.html"
+        ]
+      },
+      "3": {
+        "fact": "Viral vector vaccines use a weakened or inactivated virus (vector) to deliver the spike protein into the body.",
+        "truthfulness": "100%",
+        "explanation": "Viral vector vaccines use a harmless virus (vector) that has been modified to carry the gene for the SARS-CoV-2 spike protein. This vector virus cannot replicate or cause COVID-19 but delivers the spike protein gene to cells to stimulate immunity.",
+        "links": []
+      },
+      "4": {
+        "fact": "Neither of these methods involves using the live virus.",
+        "truthfulness": "100%",
+        "explanation": "Both mRNA and viral vector COVID-19 vaccines do not contain live SARS-CoV-2 virus, so they cannot cause COVID-19 infection.",
+        "links": [
+          "https://portal.ct.gov/-/media/coronavirus/community_resources/vaccinations/print-materials/ingredients_english.pdf",
+          "https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccine-ingredients/ingredients-by-vaccine/covid-19-vaccines-ingredients"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

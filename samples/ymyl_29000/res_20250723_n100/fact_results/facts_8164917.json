@@ -1,0 +1,88 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36459751,
+      "id": "u2nvspjlw0ma4r87",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/u2nvspjlw0ma4r87",
+      "content": "Question: i have symptoms of covid but test negative Answer: It is possible to have COVID-19 symptoms and test negative. Here are some reasons why this might happen:: - Early infection: The virus may not be detectable in the sample taken during the test if you are in the early stages of infection. - False negative test: Rapid antigen tests can sometimes give false negative results. - Other underlying condition: Symptoms that overlap with COVID-19, such as the flu or a common cold, may be causing your symptoms. - Low viral load: If your viral load is low, the test may not be sensitive enough to detect the virus. If you have COVID-19 symptoms and test negative, it is recommended to:: - Continue to monitor your symptoms: Pay attention to changes in your condition and seek medical attention if your symptoms worsen or persist. - Isolate yourself: Stay home and avoid contact with others to prevent spreading the virus if you have COVID-19. - Get tested again: Consider getting tested again after a few days if your symptoms do not improve. - Consult a healthcare professional: Talk to your doctor about your symptoms and any concerns you may have. They can help you determine the best course of action.",
+      "formattedContent": "Question: i have symptoms of covid but test negative\n\nAnswer: It is possible to have COVID-19 symptoms and test negative. Here are some reasons why this might happen::\n- Early infection: The virus may not be detectable in the sample taken during the test if you are in the early stages of infection.\n- False negative test: Rapid antigen tests can sometimes give false negative results.\n- Other underlying condition: Symptoms that overlap with COVID-19, such as the flu or a common cold, may be causing your symptoms.\n- Low viral load: If your viral load is low, the test may not be sensitive enough to detect the virus.\nIf you have COVID-19 symptoms and test negative, it is recommended to::\n- Continue to monitor your symptoms: Pay attention to changes in your condition and seek medical attention if your symptoms worsen or persist.\n- Isolate yourself: Stay home and avoid contact with others to prevent spreading the virus if you have COVID-19.\n- Get tested again: Consider getting tested again after a few days if your symptoms do not improve.\n- Consult a healthcare professional: Talk to your doctor about your symptoms and any concerns you may have. They can help you determine the best course of action."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "It is possible to have COVID-19 symptoms and test negative.",
+        "truthfulness": "100%",
+        "explanation": "False negative COVID-19 test results are common and can occur even when a person is infected and symptomatic, due to various factors such as timing of the test and test sensitivity.",
+        "links": [
+          "https://oregonhealthnews.oregon.gov/the-science-behind-false-negative-covid-19-tests/",
+          "https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-covid-19-testing"
+        ]
+      },
+      "1": {
+        "fact": "Early infection: The virus may not be detectable in the sample taken during the test if you are in the early stages of infection.",
+        "truthfulness": "100%",
+        "explanation": "During early infection, viral load may be too low in the sampled area (e.g., nose) for detection, leading to false negative results.",
+        "links": [
+          "https://oregonhealthnews.oregon.gov/the-science-behind-false-negative-covid-19-tests/",
+          "https://www.ama-assn.org/delivering-care/public-health/what-doctors-wish-patients-knew-about-covid-19-testing",
+          "https://www.uchealth.com/en/media-room/videos/reasons-for-a-false-positive-or-false-negative-covid-19-test-result"
+        ]
+      },
+      "2": {
+        "fact": "False negative test: Rapid antigen tests can sometimes give false negative results.",
+        "truthfulness": "100%",
+        "explanation": "Rapid antigen tests are less sensitive than PCR tests and can yield false negatives, especially early in infection or with low viral loads.",
+        "links": [
+          "https://oregonhealthnews.oregon.gov/the-science-behind-false-negative-covid-19-tests/",
+          "https://www.uchealth.com/en/media-room/videos/reasons-for-a-false-positive-or-false-negative-covid-19-test-result",
+          "https://www.healthvermont.gov/sites/default/files/document/FDA%20Reduce%20your%20false%20negative%20test%20results.pdf"
+        ]
+      },
+      "3": {
+        "fact": "Other underlying condition: Symptoms that overlap with COVID-19, such as the flu or a common cold, may be causing your symptoms.",
+        "truthfulness": "100%",
+        "explanation": "Many respiratory illnesses share symptoms with COVID-19, so symptoms may be caused by other infections like influenza or common cold viruses.",
+        "links": []
+      },
+      "4": {
+        "fact": "Low viral load: If your viral load is low, the test may not be sensitive enough to detect the virus.",
+        "truthfulness": "100%",
+        "explanation": "Low viral load in the sampled area can cause false negative results because the virus quantity is below the test's detection threshold.",
+        "links": [
+          "https://www.uchealth.com/en/media-room/videos/reasons-for-a-false-positive-or-false-negative-covid-19-test-result",
+          "https://oregonhealthnews.oregon.gov/the-science-behind-false-negative-covid-19-tests/"
+        ]
+      },
+      "5": {
+        "fact": "If you have COVID-19 symptoms and test negative, it is recommended to continue to monitor your symptoms, isolate yourself, get tested again, and consult a healthcare professional.",
+        "truthfulness": "100%",
+        "explanation": "Public health guidance recommends monitoring symptoms, isolating to prevent spread, retesting after a few days if symptoms persist, and consulting a healthcare provider for proper diagnosis and care.",
+        "links": [
+          "https://www.healthvermont.gov/sites/default/files/document/FDA%20Reduce%20your%20false%20negative%20test%20results.pdf",
+          "https://oregonhealthnews.oregon.gov/the-science-behind-false-negative-covid-19-tests/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

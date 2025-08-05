@@ -1,0 +1,114 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464382,
+      "id": "z16hslmkn7qtofr4",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/z16hslmkn7qtofr4",
+      "content": "Question: when to come out of isolation after covid Answer: You can end isolation after COVID-19 at least 5 days after symptom onset if you have been fever-free for at least 24 hours without fever-reducing medication, and other symptoms are improving. You should also wear a high-quality mask around others through day 10. Here&#039;s a more detailed breakdown:: - Symptom onset: Day 0 is the first day you experience symptoms. - Fever: You must be fever-free for at least 24 hours without taking fever-reducing medication. - Other symptoms: Other symptoms should be improving. - Masking: Wear a high-quality mask around others through day 10. - Test-based strategy: A test-based strategy can be used to determine if you can remove your mask sooner. - Reoccurrence: If symptoms worsen or return, you should restart the isolation period at day 0.",
+      "formattedContent": "Question: when to come out of isolation after covid\n\nAnswer: You can end isolation after COVID-19 at least 5 days after symptom onset if you have been fever-free for at least 24 hours without fever-reducing medication, and other symptoms are improving. You should also wear a high-quality mask around others through day 10.\nHere's a more detailed breakdown::\n- Symptom onset: Day 0 is the first day you experience symptoms.\n- Fever: You must be fever-free for at least 24 hours without taking fever-reducing medication.\n- Other symptoms: Other symptoms should be improving.\n- Masking: Wear a high-quality mask around others through day 10.\n- Test-based strategy: A test-based strategy can be used to determine if you can remove your mask sooner.\n- Reoccurrence: If symptoms worsen or return, you should restart the isolation period at day 0."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "You can end isolation after COVID-19 at least 5 days after symptom onset if you have been fever-free for at least 24 hours without fever-reducing medication, and other symptoms are improving.",
+        "truthfulness": "100%",
+        "explanation": "CDC and state health department guidance recommend ending isolation at least 5 days after symptom onset if the person has been fever-free for 24 hours without fever-reducing medication and other symptoms are improving[1][2][4][5].",
+        "links": [
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx",
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html",
+          "https://www.nj.gov/health/covid-19/information/prevention-recommendations/",
+          "https://www.nyc.gov/site/doh/covid/covid-19-whensick.page"
+        ]
+      },
+      "1": {
+        "fact": "You should also wear a high-quality mask around others through day 10.",
+        "truthfulness": "100%",
+        "explanation": "CDC and state guidance recommend wearing a high-quality mask around others through day 10 after symptom onset to reduce transmission risk[1][2][4].",
+        "links": [
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx",
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html",
+          "https://www.nj.gov/health/covid-19/information/prevention-recommendations/"
+        ]
+      },
+      "2": {
+        "fact": "Symptom onset: Day 0 is the first day you experience symptoms.",
+        "truthfulness": "100%",
+        "explanation": "CDC guidance counts day 0 as the day symptoms begin for isolation timing[1][3].",
+        "links": [
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx",
+          "https://www.cdc.gov/covid/hcp/infection-control/index.html"
+        ]
+      },
+      "3": {
+        "fact": "Fever: You must be fever-free for at least 24 hours without taking fever-reducing medication.",
+        "truthfulness": "100%",
+        "explanation": "CDC and state health guidance require being fever-free for 24 hours without fever-reducing medication before ending isolation[1][2][4][5].",
+        "links": [
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx",
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html",
+          "https://www.nj.gov/health/covid-19/information/prevention-recommendations/",
+          "https://www.nyc.gov/site/doh/covid/covid-19-whensick.page"
+        ]
+      },
+      "4": {
+        "fact": "Other symptoms: Other symptoms should be improving.",
+        "truthfulness": "100%",
+        "explanation": "Guidance states that other COVID-19 symptoms should be improving before ending isolation[1][2][4][5].",
+        "links": [
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx",
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html",
+          "https://www.nj.gov/health/covid-19/information/prevention-recommendations/",
+          "https://www.nyc.gov/site/doh/covid/covid-19-whensick.page"
+        ]
+      },
+      "5": {
+        "fact": "Masking: Wear a high-quality mask around others through day 10.",
+        "truthfulness": "100%",
+        "explanation": "Wearing a high-quality mask through day 10 after symptom onset is recommended to reduce transmission risk[1][2][4].",
+        "links": [
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx",
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html",
+          "https://www.nj.gov/health/covid-19/information/prevention-recommendations/"
+        ]
+      },
+      "6": {
+        "fact": "Test-based strategy: A test-based strategy can be used to determine if you can remove your mask sooner.",
+        "truthfulness": "80%",
+        "explanation": "CDC previously recommended a test-based strategy to end isolation or masking earlier, but current guidance emphasizes symptom and time-based strategies; test-based strategies may be used in some cases but are not universally recommended for ending isolation or masking sooner[1][2].",
+        "links": [
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx",
+          "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+        ]
+      },
+      "7": {
+        "fact": "Reoccurrence: If symptoms worsen or return, you should restart the isolation period at day 0.",
+        "truthfulness": "100%",
+        "explanation": "CDC guidance advises restarting isolation if symptoms worsen or return after ending isolation[1].",
+        "links": [
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

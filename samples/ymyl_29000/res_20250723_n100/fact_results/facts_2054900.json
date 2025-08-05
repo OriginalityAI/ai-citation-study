@@ -1,0 +1,61 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464810,
+      "id": "4602rilsmkfexqv3",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/4602rilsmkfexqv3",
+      "content": "Question: is pulmonary hypertension a rare disease Answer: Yes, pulmonary hypertension (PH) is considered a rare disease. It affects an estimated 15-50 cases per million people worldwide. Pulmonary arterial hypertension (PAH), a specific type of PH, is even rarer, with an incidence of around 5-10 cases per million.",
+      "formattedContent": "Question: is pulmonary hypertension a rare disease\n\nAnswer: Yes, pulmonary hypertension (PH) is considered a rare disease. It affects an estimated 15-50 cases per million people worldwide. Pulmonary arterial hypertension (PAH), a specific type of PH, is even rarer, with an incidence of around 5-10 cases per million."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "pulmonary hypertension (PH) is considered a rare disease",
+        "truthfulness": "70%",
+        "explanation": "Pulmonary hypertension (PH) overall affects about 1% to 3% of the population, which is higher than typical rare disease thresholds. However, pulmonary arterial hypertension (PAH), a specific subtype of PH, is rare with prevalence estimates around 15 to 30 cases per million. Thus, PH as a whole is not strictly rare, but PAH is considered rare.",
+        "links": [
+          "https://www.jacc.org/doi/10.1016/j.jacasi.2022.04.008",
+          "https://pubmed.ncbi.nlm.nih.gov/26975810/"
+        ]
+      },
+      "1": {
+        "fact": "It affects an estimated 15-50 cases per million people worldwide",
+        "truthfulness": "30%",
+        "explanation": "The prevalence of pulmonary arterial hypertension (PAH) is generally reported as 15 to 30 cases per million, not 15 to 50. For PH overall, prevalence is higher (about 1% to 3% of the population). The 15-50 per million figure overestimates the upper bound for PAH prevalence.",
+        "links": [
+          "https://www.jacc.org/doi/10.1016/j.jacasi.2022.04.008",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9052982/"
+        ]
+      },
+      "2": {
+        "fact": "Pulmonary arterial hypertension (PAH), a specific type of PH, is even rarer, with an incidence of around 5-10 cases per million",
+        "truthfulness": "60%",
+        "explanation": "Reported incidence of PAH varies by study and location, ranging approximately from 0.008 to 1.4 cases per 100,000 person-years (which translates roughly to 0.08 to 14 per million per year). The 5-10 per million incidence estimate is within this range but on the higher side. Incidence estimates vary widely depending on population and methodology.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9052982/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

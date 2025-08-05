@@ -1,0 +1,127 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36465924,
+      "id": "0j9s8ydqu1relic5",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/0j9s8ydqu1relic5",
+      "content": "Question: what is a pcr test for covid-19 Answer: A polymerase chain reaction (PCR) test is a laboratory test used to detect the presence of the SARS-CoV-2 virus, which causes COVID-19. How it works:: - A sample is taken from the patient, usually a nasal swab or saliva. - The sample is analyzed in a laboratory using a technique called PCR. - PCR amplifies (makes copies of) specific genetic material from the virus. - If the virus is present, the amplified genetic material is detected, and the test result is positive. Purpose: PCR tests are highly accurate and are considered the gold standard for diagnosing COVID-19. They are used to:: - Confirm an active COVID-19 infection - Monitor treatment effectiveness - Identify individuals who may be contagious and need to isolate Note:: PCR tests can take several hours to complete. It is important to follow the instructions of your healthcare provider regarding when and how to receive a PCR test.",
+      "formattedContent": "Question: what is a pcr test for covid-19\n\nAnswer: A polymerase chain reaction (PCR) test is a laboratory test used to detect the presence of the SARS-CoV-2 virus, which causes COVID-19.\nHow it works::\n- A sample is taken from the patient, usually a nasal swab or saliva.\n- The sample is analyzed in a laboratory using a technique called PCR.\n- PCR amplifies (makes copies of) specific genetic material from the virus.\n- If the virus is present, the amplified genetic material is detected, and the test result is positive.\nPurpose:\nPCR tests are highly accurate and are considered the gold standard for diagnosing COVID-19. They are used to::\n- Confirm an active COVID-19 infection\n- Monitor treatment effectiveness\n- Identify individuals who may be contagious and need to isolate\nNote::\nPCR tests can take several hours to complete. It is important to follow the instructions of your healthcare provider regarding when and how to receive a PCR test."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "A polymerase chain reaction (PCR) test is a laboratory test used to detect the presence of the SARS-CoV-2 virus, which causes COVID-19.",
+        "truthfulness": 100,
+        "explanation": "PCR tests detect the genetic material of SARS-CoV-2, the virus causing COVID-19, by amplifying viral RNA after converting it to DNA, confirming the presence of the virus in a sample.",
+        "links": [
+          "https://www.genome.gov/about-genomics/fact-sheets/Understanding-COVID-19-PCR-Testing",
+          "https://my.clevelandclinic.org/health/diagnostics/21462-covid-19-and-pcr-testing"
+        ]
+      },
+      "1": {
+        "fact": "A sample is taken from the patient, usually a nasal swab or saliva.",
+        "truthfulness": 100,
+        "explanation": "Samples for COVID-19 PCR testing are commonly collected via nasal swabs or saliva, which contain viral RNA if the person is infected.",
+        "links": [
+          "https://www.genome.gov/about-genomics/fact-sheets/Understanding-COVID-19-PCR-Testing",
+          "https://www.pfizer.com/news/articles/understanding_covid_19_testing_methods"
+        ]
+      },
+      "2": {
+        "fact": "The sample is analyzed in a laboratory using a technique called PCR.",
+        "truthfulness": 100,
+        "explanation": "PCR is a laboratory technique used to amplify specific genetic sequences, allowing detection of viral genetic material in the sample.",
+        "links": [
+          "https://www.genome.gov/about-genomics/fact-sheets/Understanding-COVID-19-PCR-Testing",
+          "https://my.clevelandclinic.org/health/diagnostics/21462-covid-19-and-pcr-testing"
+        ]
+      },
+      "3": {
+        "fact": "PCR amplifies (makes copies of) specific genetic material from the virus.",
+        "truthfulness": 100,
+        "explanation": "PCR amplifies specific viral genetic sequences by making millions of copies, enabling detection even when viral RNA is present in very small amounts.",
+        "links": [
+          "https://www.genome.gov/about-genomics/fact-sheets/Understanding-COVID-19-PCR-Testing",
+          "https://my.clevelandclinic.org/health/diagnostics/21462-covid-19-and-pcr-testing"
+        ]
+      },
+      "4": {
+        "fact": "If the virus is present, the amplified genetic material is detected, and the test result is positive.",
+        "truthfulness": 100,
+        "explanation": "Detection of amplified viral genetic material indicates the presence of SARS-CoV-2, resulting in a positive PCR test.",
+        "links": [
+          "https://www.genome.gov/about-genomics/fact-sheets/Understanding-COVID-19-PCR-Testing",
+          "https://www.pfizer.com/news/articles/understanding_covid_19_testing_methods"
+        ]
+      },
+      "5": {
+        "fact": "PCR tests are highly accurate and are considered the gold standard for diagnosing COVID-19.",
+        "truthfulness": 100,
+        "explanation": "PCR tests are highly sensitive and specific, making them the gold standard for COVID-19 diagnosis due to their ability to detect low levels of viral RNA.",
+        "links": [
+          "https://www.pfizer.com/news/articles/understanding_covid_19_testing_methods",
+          "https://my.clevelandclinic.org/health/diagnostics/21462-covid-19-and-pcr-testing"
+        ]
+      },
+      "6": {
+        "fact": "They are used to confirm an active COVID-19 infection.",
+        "truthfulness": 100,
+        "explanation": "PCR tests detect viral RNA indicating an active infection, thus confirming if a person currently has COVID-19.",
+        "links": [
+          "https://www.pfizer.com/news/articles/understanding_covid_19_testing_methods"
+        ]
+      },
+      "7": {
+        "fact": "They are used to monitor treatment effectiveness.",
+        "truthfulness": 70,
+        "explanation": "While PCR tests can detect viral RNA, they do not quantify viral load precisely enough to reliably monitor treatment effectiveness; other methods or repeated testing may be needed.",
+        "links": [
+          "https://www.pfizer.com/news/articles/understanding_covid_19_testing_methods"
+        ]
+      },
+      "8": {
+        "fact": "They are used to identify individuals who may be contagious and need to isolate.",
+        "truthfulness": 80,
+        "explanation": "PCR tests detect viral RNA but cannot definitively determine contagiousness; clinical symptoms and other factors are needed to assess if a person is infectious.",
+        "links": [
+          "https://www.pfizer.com/news/articles/understanding_covid_19_testing_methods"
+        ]
+      },
+      "9": {
+        "fact": "PCR tests can take several hours to complete.",
+        "truthfulness": 100,
+        "explanation": "PCR testing involves multiple cycles of amplification and analysis, typically requiring several hours to yield results.",
+        "links": [
+          "https://my.clevelandclinic.org/health/diagnostics/21462-covid-19-and-pcr-testing"
+        ]
+      },
+      "10": {
+        "fact": "It is important to follow the instructions of your healthcare provider regarding when and how to receive a PCR test.",
+        "truthfulness": 100,
+        "explanation": "Proper timing and sample collection are critical for accurate PCR test results, so following healthcare provider instructions is essential.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

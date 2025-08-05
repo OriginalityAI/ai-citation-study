@@ -1,0 +1,66 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36470759,
+      "id": "gql8hk7uc1sa2df5",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/gql8hk7uc1sa2df5",
+      "content": "Question: icd 10 diagnosis code for body aches Answer: The primary ICD-10 code for general body aches is M79.10, which is for &quot;Myalgia, unspecified site&quot;. If the body aches are specifically located in the limbs, M79.609 (Pain in unspecified limb) or a more specific code within M79.6 (e.g., M79.629 for pain in unspecified arm) might be appropriate. If the body aches are chronic, G89.29 (Other chronic pain) or G89.4 (Chronic pain syndrome) could be used. Additionally, R52 (Pain, unspecified) can be used for pain that is not otherwise specified.",
+      "formattedContent": "Question: icd 10 diagnosis code for body aches\n\nAnswer: The primary ICD-10 code for general body aches is M79.10, which is for \"Myalgia, unspecified site\". If the body aches are specifically located in the limbs, M79.609 (Pain in unspecified limb) or a more specific code within M79.6 (e.g., M79.629 for pain in unspecified arm) might be appropriate. If the body aches are chronic, G89.29 (Other chronic pain) or G89.4 (Chronic pain syndrome) could be used. Additionally, R52 (Pain, unspecified) can be used for pain that is not otherwise specified."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The primary ICD-10 code for general body aches is M79.10, which is for \"Myalgia, unspecified site\".",
+        "truthfulness": "100%",
+        "explanation": "ICD-10 code M79.10 is officially designated for unspecified myalgia (muscle pain) and is used when the site of muscle pain is not specified, making it appropriate for general body aches without a specific location.",
+        "links": [
+          "https://www.mdclarity.com/icd-codes/m79-10",
+          "https://www.aapc.com/codes/icd-10-codes/M79.1"
+        ]
+      },
+      "1": {
+        "fact": "If the body aches are specifically located in the limbs, M79.609 (Pain in unspecified limb) or a more specific code within M79.6 (e.g., M79.629 for pain in unspecified arm) might be appropriate.",
+        "truthfulness": "100%",
+        "explanation": "The ICD-10 category M79.6 covers pain in limbs, with M79.609 for pain in unspecified limb and more specific codes like M79.629 for pain in unspecified arm, making these codes suitable for limb-specific body aches.",
+        "links": []
+      },
+      "2": {
+        "fact": "If the body aches are chronic, G89.29 (Other chronic pain) or G89.4 (Chronic pain syndrome) could be used.",
+        "truthfulness": "100%",
+        "explanation": "Codes G89.29 and G89.4 are used for chronic pain conditions, including other chronic pain and chronic pain syndrome, respectively, which are appropriate for chronic body aches.",
+        "links": [
+          "https://www.carepatron.com/icd/body-aches"
+        ]
+      },
+      "3": {
+        "fact": "Additionally, R52 (Pain, unspecified) can be used for pain that is not otherwise specified.",
+        "truthfulness": "100%",
+        "explanation": "ICD-10 code R52 is designated for unspecified pain and can be used when the pain is generalized or not otherwise classified, making it applicable for unspecified body aches.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/R52"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

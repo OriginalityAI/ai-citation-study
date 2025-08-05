@@ -1,0 +1,69 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36468609,
+      "id": "sfxj3a594openb2u",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/sfxj3a594openb2u",
+      "content": "Question: tested positive for covid 19 Answer: If you&#039;ve tested positive for COVID-19, it&#039;s recommended to isolate (stay home and away from others) for at least 5 full days to prevent spreading the virus. This is true even if you&#039;ve been vaccinated or previously had COVID-19. It&#039;s also a good idea to repeat the test 48 hours after a negative result on an antigen test. The U.S. Food and Drug Administration (.gov) encourages reporting your test results, whether positive or negative, when using at-home tests, according to the FDA.",
+      "formattedContent": "Question: tested positive for covid 19\n\nAnswer: If you've tested positive for COVID-19, it's recommended to isolate (stay home and away from others) for at least 5 full days to prevent spreading the virus. This is true even if you've been vaccinated or previously had COVID-19. It's also a good idea to repeat the test 48 hours after a negative result on an antigen test. The U.S. Food and Drug Administration (.gov) encourages reporting your test results, whether positive or negative, when using at-home tests, according to the FDA."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "If you&#039;ve tested positive for COVID-19, it&#039;s recommended to isolate (stay home and away from others) for at least 5 full days to prevent spreading the virus.",
+        "truthfulness": "90%",
+        "explanation": "CDC and other health authorities recommend isolating for at least 5 days after a positive COVID-19 test to reduce transmission risk. Some guidance emphasizes staying home until fever-free for 24 hours and symptoms improve, with masking for 10 days. The 5-day isolation is a common baseline, but additional precautions may be advised depending on symptoms and setting.",
+        "links": [
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx",
+          "https://www.cdc.gov/covid/hcp/infection-control/index.html",
+          "https://www.nyc.gov/site/doh/covid/covid-19-whensick.page"
+        ]
+      },
+      "1": {
+        "fact": "This is true even if you&#039;ve been vaccinated or previously had COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "CDC guidance states that isolation is recommended regardless of vaccination status or previous infection to prevent spreading the virus.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/your-health/isolation.html"
+        ]
+      },
+      "2": {
+        "fact": "It&#039;s also a good idea to repeat the test 48 hours after a negative result on an antigen test.",
+        "truthfulness": "Uncertain",
+        "explanation": "While repeat testing after a negative antigen test can be recommended in some contexts to confirm results, official guidance varies. The CDC suggests repeat testing if symptoms persist or exposure is suspected, but a strict 48-hour repeat after a negative antigen test is not universally mandated.",
+        "links": [
+          "https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html"
+        ]
+      },
+      "3": {
+        "fact": "The U.S. Food and Drug Administration (.gov) encourages reporting your test results, whether positive or negative, when using at-home tests, according to the FDA.",
+        "truthfulness": "100%",
+        "explanation": "The FDA encourages users of at-home COVID-19 tests to report their results to help public health monitoring, regardless of whether the result is positive or negative.",
+        "links": [
+          "https://www.fda.gov/consumers/consumer-updates/covid-19-home-tests-what-you-need-know"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

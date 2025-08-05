@@ -1,0 +1,61 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36457571,
+      "id": "8pov6a2jycngfskb",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/8pov6a2jycngfskb",
+      "content": "Question: covid vaccine omicron Answer: The updated COVID-19 vaccines for the 2024-2025 season are designed to target the JN.1 lineage of the Omicron variant, providing better protection against currently circulating strains. These updated vaccines replace the original mRNA shots from Pfizer and Moderna, which were effective against the initial SARS-CoV-2 virus. The bivalent vaccines, introduced in 2022, were an earlier attempt to address the evolving virus, but the 2024-2025 vaccines are more closely tailored to current variants.",
+      "formattedContent": "Question: covid vaccine omicron\n\nAnswer: The updated COVID-19 vaccines for the 2024-2025 season are designed to target the JN.1 lineage of the Omicron variant, providing better protection against currently circulating strains. These updated vaccines replace the original mRNA shots from Pfizer and Moderna, which were effective against the initial SARS-CoV-2 virus. The bivalent vaccines, introduced in 2022, were an earlier attempt to address the evolving virus, but the 2024-2025 vaccines are more closely tailored to current variants."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The updated COVID-19 vaccines for the 2024-2025 season are designed to target the JN.1 lineage of the Omicron variant, providing better protection against currently circulating strains.",
+        "truthfulness": 90,
+        "explanation": "The 2024-2025 updated mRNA COVID-19 vaccines were authorized to include a monovalent component targeting the Omicron variant KP.2 strain, which is a sublineage of JN.1, as the preferred strain if feasible. The FDA initially advised a monovalent JN.1 vaccine but later specified KP.2 as preferred for 2024-2025. This indicates the vaccines are designed to target JN.1 lineage-related variants to better protect against circulating strains, though KP.2 is the more precise target within JN.1 lineage for 2024-2025 vaccines[3][4].",
+        "links": [
+          "https://www.fda.gov/news-events/press-announcements/fda-approves-and-authorizes-updated-mrna-covid-19-vaccines-better-protect-against-currently",
+          "https://ir.novavax.com/press-releases/2024-08-30-Novavax-2024-2025-Formula-COVID-19-Vaccine-Now-Authorized-and-Recommended-for-Use-in-the-U-S"
+        ]
+      },
+      "1": {
+        "fact": "These updated vaccines replace the original mRNA shots from Pfizer and Moderna, which were effective against the initial SARS-CoV-2 virus.",
+        "truthfulness": 100,
+        "explanation": "The original Pfizer and Moderna mRNA vaccines targeted the ancestral SARS-CoV-2 strain and were effective against the initial virus. Updated vaccines for subsequent seasons, including 2024-2025, are designed to replace or supplement these original vaccines to better match circulating variants[3].",
+        "links": [
+          "https://www.fda.gov/news-events/press-announcements/fda-approves-and-authorizes-updated-mrna-covid-19-vaccines-better-protect-against-currently"
+        ]
+      },
+      "2": {
+        "fact": "The bivalent vaccines, introduced in 2022, were an earlier attempt to address the evolving virus, but the 2024-2025 vaccines are more closely tailored to current variants.",
+        "truthfulness": 100,
+        "explanation": "Bivalent vaccines introduced in 2022 combined the original strain and an Omicron variant component to address virus evolution. The 2024-2025 vaccines are monovalent and specifically target more recent Omicron sublineages (JN.1/KP.2), thus are more closely tailored to currently circulating variants[3][4].",
+        "links": [
+          "https://www.fda.gov/news-events/press-announcements/fda-approves-and-authorizes-updated-mrna-covid-19-vaccines-better-protect-against-currently",
+          "https://ir.novavax.com/press-releases/2024-08-30-Novavax-2024-2025-Formula-COVID-19-Vaccine-Now-Authorized-and-Recommended-for-Use-in-the-U-S"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

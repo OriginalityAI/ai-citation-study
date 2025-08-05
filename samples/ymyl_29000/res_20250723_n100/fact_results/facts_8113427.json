@@ -1,0 +1,63 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36458505,
+      "id": "1b92ghstqpwxrouy",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/1b92ghstqpwxrouy",
+      "content": "Question: has the covid vaccine been fda approved Answer: Yes, the COVID-19 vaccines have been approved by the Food and Drug Administration (FDA). The FDA granted full approval to the Pfizer-BioNTech and Moderna mRNA vaccines in December 2021. The agency continues to closely monitor the safety and effectiveness of these vaccines.",
+      "formattedContent": "Question: has the covid vaccine been fda approved\n\nAnswer: Yes, the COVID-19 vaccines have been approved by the Food and Drug Administration (FDA). The FDA granted full approval to the Pfizer-BioNTech and Moderna mRNA vaccines in December 2021. The agency continues to closely monitor the safety and effectiveness of these vaccines."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Yes, the COVID-19 vaccines have been approved by the Food and Drug Administration (FDA).",
+        "truthfulness": "100%",
+        "explanation": "The FDA has granted full approval to several COVID-19 vaccines, including Pfizer-BioNTech, Moderna, and Novavax vaccines, confirming that COVID-19 vaccines have been approved by the FDA.",
+        "links": [
+          "https://www.goodrx.com/conditions/covid-19/fda-covid-19-vaccine-approval-updates",
+          "https://ir.novavax.com/press-releases/2025-05-19-U-S-FDA-Approves-BLA-for-Novavaxs-COVID-19-Vaccine",
+          "https://investors.modernatx.com/news/news-details/2025/Moderna-Receives-Full-U-S--FDA-Approval-for-COVID-19-Vaccine-Spikevax-in-Children-Aged-6-Months-Through-11-Years-at-Increased-Risk-for-COVID-19-Disease/default.aspx"
+        ]
+      },
+      "1": {
+        "fact": "The FDA granted full approval to the Pfizer-BioNTech and Moderna mRNA vaccines in December 2021.",
+        "truthfulness": "Approximately 95%",
+        "explanation": "The Pfizer-BioNTech COVID-19 vaccine (Comirnaty) received full FDA approval in August 2021 for individuals 16 years and older, and Moderna's vaccine (Spikevax) received full approval in January 2022. The exact month for Moderna's full approval is January 2022, not December 2021. Therefore, the claim is mostly accurate but slightly off on the Moderna approval date.",
+        "links": [
+          "https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine",
+          "https://www.fda.gov/news-events/press-announcements/fda-approves-second-covid-19-vaccine"
+        ]
+      },
+      "2": {
+        "fact": "The agency continues to closely monitor the safety and effectiveness of these vaccines.",
+        "truthfulness": "100%",
+        "explanation": "The FDA continues to monitor the safety and effectiveness of COVID-19 vaccines, including updated formulations and new approvals, as part of its ongoing regulatory responsibilities.",
+        "links": [
+          "https://www.fda.gov/vaccines-blood-biologics/industry-biologics/covid-19-vaccines-2025-2026-formula-use-united-states-beginning-fall-2025",
+          "https://www.goodrx.com/conditions/covid-19/fda-covid-19-vaccine-approval-updates"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461239,
+      "id": "cgjbokpwh8mf0sa4",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/cgjbokpwh8mf0sa4",
+      "content": "Question: covid 19 ab testing Answer: COVID-19 Antibody Test Purpose: To determine if a person has developed antibodies against the SARS-CoV-2 virus, the virus that causes COVID-19. Procedure:: - A blood sample is taken from the arm or finger. - The sample is analyzed in a laboratory to detect antibodies. Types of Tests:: - Serological tests: Detect antibodies that the body has produced in response to a previous infection. - Rapid antigen tests: Detect the virus itself rather than antibodies. Results:: - Positive: Indicates that the person has been infected with COVID-19 in the past and has developed antibodies. - Negative: Indicates that the person has not been infected with COVID-19 or has not developed detectable antibodies. Interpretation:: - A positive result does not necessarily mean that the person is currently infected with COVID-19. Antibodies can remain in the body for several months after infection. - A negative result may indicate that the person has not been infected, but it is possible to be infected without developing detectable antibodies. Considerations:: - The test may not be accurate if the person is recently infected or has a weakened immune system. - It is important to consult with a healthcare professional to interpret the results and discuss any follow-up actions.",
+      "formattedContent": "Question: covid 19 ab testing\n\nAnswer: COVID-19 Antibody Test\nPurpose: To determine if a person has developed antibodies against the SARS-CoV-2 virus, the virus that causes COVID-19.\nProcedure::\n- A blood sample is taken from the arm or finger.\n- The sample is analyzed in a laboratory to detect antibodies.\nTypes of Tests::\n- Serological tests: Detect antibodies that the body has produced in response to a previous infection.\n- Rapid antigen tests: Detect the virus itself rather than antibodies.\nResults::\n- Positive: Indicates that the person has been infected with COVID-19 in the past and has developed antibodies.\n- Negative: Indicates that the person has not been infected with COVID-19 or has not developed detectable antibodies.\nInterpretation::\n- A positive result does not necessarily mean that the person is currently infected with COVID-19. Antibodies can remain in the body for several months after infection.\n- A negative result may indicate that the person has not been infected, but it is possible to be infected without developing detectable antibodies.\nConsiderations::\n- The test may not be accurate if the person is recently infected or has a weakened immune system.\n- It is important to consult with a healthcare professional to interpret the results and discuss any follow-up actions."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "COVID-19 Antibody Test Purpose: To determine if a person has developed antibodies against the SARS-CoV-2 virus, the virus that causes COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "COVID-19 antibody tests are designed to detect antibodies produced in response to SARS-CoV-2 infection, confirming past infection rather than current infection.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9783055/",
+          "https://pubmed.ncbi.nlm.nih.gov/36394900/"
+        ]
+      },
+      "1": {
+        "fact": "Procedure: A blood sample is taken from the arm or finger. The sample is analyzed in a laboratory to detect antibodies.",
+        "truthfulness": "100%",
+        "explanation": "Antibody tests typically require a blood sample, which can be collected via venipuncture (arm) or finger prick, and the sample is analyzed to detect antibodies in a lab setting.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9783055/",
+          "https://www.ucsf.edu/news/2020/04/417276/testing-tests-covid-19-antibody-assays-scrutinized-accuracy-ucsf-uc-berkeley"
+        ]
+      },
+      "2": {
+        "fact": "Types of Tests: Serological tests detect antibodies that the body has produced in response to a previous infection. Rapid antigen tests detect the virus itself rather than antibodies.",
+        "truthfulness": "100%",
+        "explanation": "Serological tests detect antibodies indicating past infection, while rapid antigen tests detect viral proteins indicating current infection.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9783055/",
+          "https://pubmed.ncbi.nlm.nih.gov/36394900/"
+        ]
+      },
+      "3": {
+        "fact": "Results: Positive indicates that the person has been infected with COVID-19 in the past and has developed antibodies. Negative indicates that the person has not been infected with COVID-19 or has not developed detectable antibodies.",
+        "truthfulness": "95%",
+        "explanation": "A positive antibody test generally indicates past infection and antibody development. A negative result may mean no infection or antibody levels below detection. However, false negatives can occur, especially early after infection or in immunocompromised individuals.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9783055/",
+          "https://pubmed.ncbi.nlm.nih.gov/36394900/",
+          "https://www.aruplab.com/news/4-21-2020/How-Accurate-Are-COVID-19-Tests"
+        ]
+      },
+      "4": {
+        "fact": "Interpretation: A positive result does not necessarily mean that the person is currently infected with COVID-19. Antibodies can remain in the body for several months after infection.",
+        "truthfulness": "100%",
+        "explanation": "Antibody presence indicates past infection; it does not confirm current infection. Antibodies can persist for months post-infection.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9783055/",
+          "https://pubmed.ncbi.nlm.nih.gov/36394900/"
+        ]
+      },
+      "5": {
+        "fact": "Interpretation: A negative result may indicate that the person has not been infected, but it is possible to be infected without developing detectable antibodies.",
+        "truthfulness": "95%",
+        "explanation": "Some infected individuals may not develop detectable antibodies or may be tested too early for antibodies to be present, leading to false negatives.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9783055/",
+          "https://www.aruplab.com/news/4-21-2020/How-Accurate-Are-COVID-19-Tests"
+        ]
+      },
+      "6": {
+        "fact": "Considerations: The test may not be accurate if the person is recently infected or has a weakened immune system.",
+        "truthfulness": "100%",
+        "explanation": "Antibody tests have lower sensitivity early after infection before antibodies develop and may be less reliable in immunocompromised individuals.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9783055/",
+          "https://pubmed.ncbi.nlm.nih.gov/36394900/"
+        ]
+      },
+      "7": {
+        "fact": "Considerations: It is important to consult with a healthcare professional to interpret the results and discuss any follow-up actions.",
+        "truthfulness": "100%",
+        "explanation": "Professional interpretation is essential due to complexities in test accuracy, timing, and individual health status.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

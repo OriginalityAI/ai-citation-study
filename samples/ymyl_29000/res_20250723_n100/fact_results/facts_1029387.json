@@ -1,0 +1,65 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36459896,
+      "id": "uk6j3cng05b7yxda",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/uk6j3cng05b7yxda",
+      "content": "Question: vaccines that eradicated diseases Answer: Vaccines have successfully eradicated two major infectious diseases:: - Smallpox: Eradicated globally in 1980. - Polio: Nearly eradicated worldwide, with only a few cases remaining in Afghanistan and Pakistan. Other diseases that have been significantly reduced or eliminated in many parts of the world due to vaccination include: Measles, Mumps, Rubella, Chickenpox, Diphtheria, Tetanus, Pertussis (whooping cough), and Hepatitis B.",
+      "formattedContent": "Question: vaccines that eradicated diseases\n\nAnswer: Vaccines have successfully eradicated two major infectious diseases::\n- Smallpox: Eradicated globally in 1980.\n- Polio: Nearly eradicated worldwide, with only a few cases remaining in Afghanistan and Pakistan.\nOther diseases that have been significantly reduced or eliminated in many parts of the world due to vaccination include:\nMeasles, Mumps, Rubella, Chickenpox, Diphtheria, Tetanus, Pertussis (whooping cough), and Hepatitis B."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Vaccines have successfully eradicated two major infectious diseases:: - Smallpox: Eradicated globally in 1980.",
+        "truthfulness": 100,
+        "explanation": "Smallpox is the only human disease that has been officially eradicated globally, with the World Health Organization declaring its eradication in 1980. No cases have been reported since 1977.",
+        "links": [
+          "https://www.makatimed.net.ph/blogs/8-diseases-almost-eradicated-from-existence-thanks-to-vaccines/",
+          "https://www.cdc.gov/mmwr/preview/mmwrhtml/00056803.htm",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8903967/",
+          "https://www.who.int/news-room/spotlight/history-of-vaccination/a-brief-history-of-vaccination"
+        ]
+      },
+      "1": {
+        "fact": "Polio: Nearly eradicated worldwide, with only a few cases remaining in Afghanistan and Pakistan.",
+        "truthfulness": 95,
+        "explanation": "Polio has not been fully eradicated but is close, with endemic transmission now limited to a few countries, primarily Afghanistan and Pakistan. Global vaccination efforts have drastically reduced cases worldwide.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8903967/",
+          "https://www.who.int/news-room/spotlight/history-of-vaccination/a-brief-history-of-vaccination"
+        ]
+      },
+      "2": {
+        "fact": "Other diseases that have been significantly reduced or eliminated in many parts of the world due to vaccination include: Measles, Mumps, Rubella, Chickenpox, Diphtheria, Tetanus, Pertussis (whooping cough), and Hepatitis B.",
+        "truthfulness": 100,
+        "explanation": "Vaccination programs have led to significant reductions or elimination of these diseases in many regions. Measles, mumps, rubella, chickenpox, diphtheria, tetanus, pertussis, and hepatitis B have all seen dramatic declines in incidence due to widespread immunization.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8903967/",
+          "https://www.cdc.gov/mmwr/preview/mmwrhtml/00056803.htm",
+          "https://www.who.int/news-room/spotlight/history-of-vaccination/a-brief-history-of-vaccination"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

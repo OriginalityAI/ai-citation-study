@@ -1,0 +1,79 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36468967,
+      "id": "atfld5mho7wvpr3x",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/atfld5mho7wvpr3x",
+      "content": "Question: what to expect when sick with covid Answer: If you have COVID-19, you can expect a range of symptoms, similar to a cold or flu, but some may experience more severe illness. Common symptoms include fever or chills, a new, continuous cough, and a loss or change in sense of smell or taste. Other possible symptoms include shortness of breath, fatigue, body aches, headache, sore throat, runny nose, loss of appetite, diarrhea, and nausea or vomiting. Most people recover within a few weeks, but some may experience longer-lasting symptoms. Seek prompt medical attention if you have risk factors for severe illness or experience emergency warning signs like trouble breathing.",
+      "formattedContent": "Question: what to expect when sick with covid\n\nAnswer: If you have COVID-19, you can expect a range of symptoms, similar to a cold or flu, but some may experience more severe illness. Common symptoms include fever or chills, a new, continuous cough, and a loss or change in sense of smell or taste. Other possible symptoms include shortness of breath, fatigue, body aches, headache, sore throat, runny nose, loss of appetite, diarrhea, and nausea or vomiting. Most people recover within a few weeks, but some may experience longer-lasting symptoms. Seek prompt medical attention if you have risk factors for severe illness or experience emergency warning signs like trouble breathing."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "If you have COVID-19, you can expect a range of symptoms, similar to a cold or flu, but some may experience more severe illness.",
+        "truthfulness": 100,
+        "explanation": "COVID-19 symptoms range from mild to severe and can resemble cold or flu symptoms. Some individuals do experience more severe illness, consistent with CDC and public health guidance.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://dph.georgia.gov/covid-19"
+        ]
+      },
+      "1": {
+        "fact": "Common symptoms include fever or chills, a new, continuous cough, and a loss or change in sense of smell or taste.",
+        "truthfulness": 100,
+        "explanation": "CDC lists fever or chills, cough, and new loss of taste or smell as common symptoms of COVID-19.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://coronavirus.health.ny.gov/prevention-symptoms"
+        ]
+      },
+      "2": {
+        "fact": "Other possible symptoms include shortness of breath, fatigue, body aches, headache, sore throat, runny nose, loss of appetite, diarrhea, and nausea or vomiting.",
+        "truthfulness": 95,
+        "explanation": "CDC and other health departments list shortness of breath, fatigue, muscle or body aches, headache, sore throat, runny nose or congestion, nausea or vomiting, and diarrhea as possible symptoms. Loss of appetite is less commonly listed but can occur as part of illness.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://coronavirus.health.ny.gov/prevention-symptoms"
+        ]
+      },
+      "3": {
+        "fact": "Most people recover within a few weeks, but some may experience longer-lasting symptoms.",
+        "truthfulness": 100,
+        "explanation": "Most COVID-19 patients recover within weeks, but some develop 'Long COVID' with symptoms lasting months or longer.",
+        "links": [
+          "https://dph.georgia.gov/covid-19"
+        ]
+      },
+      "4": {
+        "fact": "Seek prompt medical attention if you have risk factors for severe illness or experience emergency warning signs like trouble breathing.",
+        "truthfulness": 100,
+        "explanation": "Health authorities advise seeking immediate care if emergency warning signs such as trouble breathing occur, especially for those at higher risk of severe illness.",
+        "links": [
+          "https://www.cdc.gov/covid/signs-symptoms/index.html",
+          "https://coronavirus.health.ny.gov/prevention-symptoms"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36465169,
+      "id": "ug2a98eoih0zj7cr",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/ug2a98eoih0zj7cr",
+      "content": "Question: what type of covid tests are there? Answer: There are two main types of COVID-19 tests: diagnostic tests and antibody tests. Diagnostic tests, like PCR and antigen tests, determine if you have a current infection, while antibody tests detect past infections by identifying antibodies in your blood. Here&#039;s a more detailed breakdown: 1. Diagnostic Tests:: - Molecular Tests (PCR): These tests detect the virus&#039;s genetic material (RNA) and are highly accurate. - Antigen Tests (Rapid Tests): These tests detect specific proteins (antigens) from the virus and are faster but may be less sensitive than PCR tests. 2. Antibody Tests:: - Antibody Tests: These tests detect antibodies in your blood, indicating past infection. They are not used to diagnose current infections.",
+      "formattedContent": "Question: what type of covid tests are there?\n\nAnswer: \nThere are two main types of COVID-19 tests: diagnostic tests and antibody tests. Diagnostic tests, like PCR and antigen tests, determine if you have a current infection, while antibody tests detect past infections by identifying antibodies in your blood.\nHere's a more detailed breakdown:\n1. Diagnostic Tests::\n- Molecular Tests (PCR): These tests detect the virus's genetic material (RNA) and are highly accurate.\n- Antigen Tests (Rapid Tests): These tests detect specific proteins (antigens) from the virus and are faster but may be less sensitive than PCR tests.\n2. Antibody Tests::\n- Antibody Tests: These tests detect antibodies in your blood, indicating past infection. They are not used to diagnose current infections."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "There are two main types of COVID-19 tests: diagnostic tests and antibody tests.",
+        "truthfulness": "100%",
+        "explanation": "Authoritative sources including the FDA and SummaCare confirm that COVID-19 tests are broadly categorized into diagnostic tests, which detect current infection, and antibody tests, which detect past infection.",
+        "links": [
+          "https://www.summacare.com/blog/entries/2020/09/covid19-tests-diagnostic-vs-antibody",
+          "https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics"
+        ]
+      },
+      "1": {
+        "fact": "Diagnostic tests, like PCR and antigen tests, determine if you have a current infection.",
+        "truthfulness": "100%",
+        "explanation": "Diagnostic tests include molecular tests such as PCR and antigen tests, both designed to detect active infection by identifying viral RNA or proteins respectively.",
+        "links": [
+          "https://www.summacare.com/blog/entries/2020/09/covid19-tests-diagnostic-vs-antibody",
+          "https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/expert-answers/covid-antibody-tests/faq-20484429"
+        ]
+      },
+      "2": {
+        "fact": "Antibody tests detect past infections by identifying antibodies in your blood.",
+        "truthfulness": "100%",
+        "explanation": "Antibody (serology) tests detect antibodies produced by the immune system after infection, indicating prior exposure to SARS-CoV-2, but they do not diagnose current infection.",
+        "links": [
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/antibody-serology-testing-covid-19-information-patients-and-consumers",
+          "https://www.summacare.com/blog/entries/2020/09/covid19-tests-diagnostic-vs-antibody"
+        ]
+      },
+      "3": {
+        "fact": "Molecular Tests (PCR): These tests detect the virus's genetic material (RNA) and are highly accurate.",
+        "truthfulness": "100%",
+        "explanation": "PCR tests detect viral RNA using nucleic acid amplification techniques and are considered the most accurate diagnostic tests for COVID-19.",
+        "links": [
+          "https://www.summacare.com/blog/entries/2020/09/covid19-tests-diagnostic-vs-antibody",
+          "https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/expert-answers/covid-antibody-tests/faq-20484429"
+        ]
+      },
+      "4": {
+        "fact": "Antigen Tests (Rapid Tests): These tests detect specific proteins (antigens) from the virus and are faster but may be less sensitive than PCR tests.",
+        "truthfulness": "100%",
+        "explanation": "Antigen tests detect viral proteins and provide faster results but have lower sensitivity compared to PCR tests, leading to a higher chance of false negatives.",
+        "links": [
+          "https://www.summacare.com/blog/entries/2020/09/covid19-tests-diagnostic-vs-antibody",
+          "https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics",
+          "https://www.mayoclinic.org/diseases-conditions/coronavirus/expert-answers/covid-antibody-tests/faq-20484429"
+        ]
+      },
+      "5": {
+        "fact": "Antibody Tests: These tests detect antibodies in your blood, indicating past infection. They are not used to diagnose current infections.",
+        "truthfulness": "100%",
+        "explanation": "Antibody tests identify immune response markers indicating past infection and are not suitable for diagnosing active COVID-19 infection.",
+        "links": [
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/antibody-serology-testing-covid-19-information-patients-and-consumers",
+          "https://www.summacare.com/blog/entries/2020/09/covid19-tests-diagnostic-vs-antibody"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

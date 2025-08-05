@@ -1,0 +1,85 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36462427,
+      "id": "enmj1ug85lqcz762",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/enmj1ug85lqcz762",
+      "content": "Question: treasury bonds interest rates today Answer: Today, July 23, 2025, interest rates on Treasury bonds vary depending on the specific bond&#039;s maturity date. For example, the 10-year Treasury note is yielding around 4.37%. Shorter-term bonds, like the 2-year note, are yielding around 3.85%. Longer-term bonds, such as the 30-year bond, are yielding approximately 4.94%. These yields can fluctuate slightly throughout the day. Here&#039;s a more detailed breakdown:: - 2-Year Treasury Note: Yielding around 3.85%. - 5-Year Treasury Note: Yielding around 3.91%. - 10-Year Treasury Note: Yielding around 4.37%. - 30-Year Treasury Bond: Yielding around 4.94%. It&#039;s worth noting that these are just snapshots in time, and the actual rates can change throughout the day. For the most up-to-date information, it&#039;s best to consult financial websites like MarketWatch, Bloomberg, or TreasuryDirect.",
+      "formattedContent": "Question: treasury bonds interest rates today\n\nAnswer: Today, July 23, 2025, interest rates on Treasury bonds vary depending on the specific bond's maturity date. For example, the 10-year Treasury note is yielding around 4.37%. Shorter-term bonds, like the 2-year note, are yielding around 3.85%. Longer-term bonds, such as the 30-year bond, are yielding approximately 4.94%. These yields can fluctuate slightly throughout the day.\nHere's a more detailed breakdown::\n- 2-Year Treasury Note: Yielding around 3.85%.\n- 5-Year Treasury Note: Yielding around 3.91%.\n- 10-Year Treasury Note: Yielding around 4.37%.\n- 30-Year Treasury Bond: Yielding around 4.94%.\nIt's worth noting that these are just snapshots in time, and the actual rates can change throughout the day. For the most up-to-date information, it's best to consult financial websites like MarketWatch, Bloomberg, or TreasuryDirect."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Today, July 23, 2025, interest rates on Treasury bonds vary depending on the specific bond's maturity date.",
+        "truthfulness": "100%",
+        "explanation": "Treasury bond yields do vary by maturity date, which is a standard characteristic of bond markets. This is consistent with all sources showing different yields for 2-year, 5-year, 10-year, and 30-year bonds.",
+        "links": []
+      },
+      "1": {
+        "fact": "The 10-year Treasury note is yielding around 4.37%.",
+        "truthfulness": "Approximately 90%",
+        "explanation": "The 10-year Treasury yield was about 4.37% on July 31, 2025, according to FRED data, which is close to the stated date of July 23, 2025. However, by August 4-5, 2025, the yield had decreased to about 4.20%, indicating some fluctuation around that time.",
+        "links": [
+          "https://fred.stlouisfed.org/series/DGS10",
+          "https://tradingeconomics.com/united-states/government-bond-yield"
+        ]
+      },
+      "2": {
+        "fact": "Shorter-term bonds, like the 2-year note, are yielding around 3.85%.",
+        "truthfulness": "About 85%",
+        "explanation": "The 2-year Treasury yield was approximately 3.69% on August 5, 2025, slightly lower than 3.85%. The yield fluctuates daily, so 3.85% is a reasonable approximate figure for late July 2025 but slightly higher than the most recent data.",
+        "links": [
+          "https://tradingeconomics.com/united-states/2-year-note-yield"
+        ]
+      },
+      "3": {
+        "fact": "Longer-term bonds, such as the 30-year bond, are yielding approximately 4.94%.",
+        "truthfulness": "Unverifiable with provided data",
+        "explanation": "The search results do not provide explicit data for the 30-year Treasury bond yield on or around July 23, 2025, so this claim cannot be directly verified or refuted based on the available information.",
+        "links": []
+      },
+      "4": {
+        "fact": "Here's a more detailed breakdown: 2-Year Treasury Note: Yielding around 3.85%. 5-Year Treasury Note: Yielding around 3.91%. 10-Year Treasury Note: Yielding around 4.37%. 30-Year Treasury Bond: Yielding around 4.94%.",
+        "truthfulness": "Partially true",
+        "explanation": "The 2-year and 10-year yields are close to the stated values but slightly off compared to the most recent data (3.69% for 2-year and 4.20% for 10-year as of early August 2025). The 5-year yield is not explicitly confirmed in the search results, and the 30-year yield is not available in the provided data. Thus, the breakdown is a reasonable approximation but not fully accurate.",
+        "links": [
+          "https://tradingeconomics.com/united-states/2-year-note-yield",
+          "https://fred.stlouisfed.org/series/DGS10"
+        ]
+      },
+      "5": {
+        "fact": "These yields can fluctuate slightly throughout the day.",
+        "truthfulness": "100%",
+        "explanation": "Treasury bond yields fluctuate continuously during trading hours due to market supply and demand dynamics.",
+        "links": []
+      },
+      "6": {
+        "fact": "For the most up-to-date information, it's best to consult financial websites like MarketWatch, Bloomberg, or TreasuryDirect.",
+        "truthfulness": "100%",
+        "explanation": "MarketWatch, Bloomberg, and TreasuryDirect are reputable sources for current Treasury bond yield data.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

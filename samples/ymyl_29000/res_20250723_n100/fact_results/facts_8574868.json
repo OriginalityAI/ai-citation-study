@@ -1,0 +1,77 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464891,
+      "id": "gokjubaiv0p5t8nz",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/gokjubaiv0p5t8nz",
+      "content": "Question: sinovac covid-19 vaccine Answer: The Sinovac COVID-19 vaccine, also known as CoronaVac, is a whole inactivated virus vaccine developed by the Chinese company Sinovac Biotech. It is not recommended for individuals under 18 years of age, those with a history of anaphylaxis to any vaccine component, those with acute PCR-confirmed COVID-19, or anyone with a body temperature over 38.5\u00b0C, according to the World Health Organization (WHO).",
+      "formattedContent": "Question: sinovac covid-19 vaccine\n\nAnswer: The Sinovac COVID-19 vaccine, also known as CoronaVac, is a whole inactivated virus vaccine developed by the Chinese company Sinovac Biotech. It is not recommended for individuals under 18 years of age, those with a history of anaphylaxis to any vaccine component, those with acute PCR-confirmed COVID-19, or anyone with a body temperature over 38.5\u00b0C, according to the World Health Organization (WHO)."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The Sinovac COVID-19 vaccine, also known as CoronaVac, is a whole inactivated virus vaccine developed by the Chinese company Sinovac Biotech.",
+        "truthfulness": "100%",
+        "explanation": "CoronaVac is an inactivated vaccine developed by Sinovac Biotech, a China-based pharmaceutical company. It uses a dead version of the SARS-CoV-2 virus to trigger an immune response without causing disease.",
+        "links": [
+          "https://www.sinovac.com/en-us/news/id-2934",
+          "https://www.medicalnewstoday.com/articles/sinovac-covid-19-vaccine-what-are-the-side-effects",
+          "https://www.who.int/news-room/feature-stories/detail/the-sinovac-covid-19-vaccine-what-you-need-to-know"
+        ]
+      },
+      "1": {
+        "fact": "It is not recommended for individuals under 18 years of age",
+        "truthfulness": "100%",
+        "explanation": "WHO and other health authorities recommend the Sinovac vaccine for adults aged 18 years and above. There is no recommendation for use in individuals under 18.",
+        "links": [
+          "https://www.sinovac.com/en-us/news/id-2934",
+          "https://www.medicalnewstoday.com/articles/sinovac-covid-19-vaccine-what-are-the-side-effects",
+          "https://www.who.int/news-room/feature-stories/detail/the-sinovac-covid-19-vaccine-what-you-need-to-know"
+        ]
+      },
+      "2": {
+        "fact": "It is not recommended for those with a history of anaphylaxis to any vaccine component",
+        "truthfulness": "100%",
+        "explanation": "Standard vaccine guidance, including WHO recommendations, contraindicates vaccination in individuals with a history of severe allergic reactions (anaphylaxis) to any component of the vaccine.",
+        "links": []
+      },
+      "3": {
+        "fact": "It is not recommended for those with acute PCR-confirmed COVID-19",
+        "truthfulness": "100%",
+        "explanation": "WHO recommends delaying vaccination for individuals with acute COVID-19 infection until recovery, as vaccination during active infection is not advised.",
+        "links": [
+          "https://www.who.int/news-room/feature-stories/detail/the-sinovac-covid-19-vaccine-what-you-need-to-know"
+        ]
+      },
+      "4": {
+        "fact": "It is not recommended for anyone with a body temperature over 38.5\u00b0C, according to the World Health Organization (WHO).",
+        "truthfulness": "Uncertain",
+        "explanation": "While it is common practice to defer vaccination in individuals with acute febrile illness, specific WHO guidance on a temperature cutoff of 38.5\u00b0C for Sinovac vaccination is not explicitly stated in the available WHO documents. This may be a general precaution rather than a strict WHO recommendation.",
+        "links": [
+          "https://www.who.int/news-room/feature-stories/detail/the-sinovac-covid-19-vaccine-what-you-need-to-know"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

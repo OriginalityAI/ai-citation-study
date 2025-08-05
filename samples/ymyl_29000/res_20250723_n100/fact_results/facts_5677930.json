@@ -1,0 +1,106 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36462578,
+      "id": "bfunq7k6cp5gj92l",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/bfunq7k6cp5gj92l",
+      "content": "Question: what is covid treatment Answer: The treatment for COVID-19 depends on the severity of the infection and the patient&#039;s risk factors. Medications:: - Antivirals: These medications can help reduce the severity and duration of the illness. Examples include remdesivir (for hospitalized patients) and molnupiravir and paxlovid (for mild to moderate cases at home). - Monoclonal antibodies: These antibodies can help prevent serious illness in high-risk patients who have recently been infected. Other treatments:: - Oxygen therapy: For patients with moderate to severe symptoms who have difficulty breathing. - Intubation and mechanical ventilation: For critically ill patients who cannot breathe on their own. - Hospitalization: For patients who require close monitoring and medical care. - Vaccines: Vaccination is the best way to prevent severe illness from COVID-19. Supportive care:: - Rest: Get plenty of sleep. - Hydration: Drink plenty of fluids. - Over-the-counter pain relievers: Such as ibuprofen or acetaminophen. - Cough suppressants: If needed. It&#039;s important to consult with a healthcare professional for proper diagnosis and treatment recommendations.",
+      "formattedContent": "Question: what is covid treatment\n\nAnswer: The treatment for COVID-19 depends on the severity of the infection and the patient's risk factors.\nMedications::\n- Antivirals: These medications can help reduce the severity and duration of the illness. Examples include remdesivir (for hospitalized patients) and molnupiravir and paxlovid (for mild to moderate cases at home).\n- Monoclonal antibodies: These antibodies can help prevent serious illness in high-risk patients who have recently been infected.\nOther treatments::\n- Oxygen therapy: For patients with moderate to severe symptoms who have difficulty breathing.\n- Intubation and mechanical ventilation: For critically ill patients who cannot breathe on their own.\n- Hospitalization: For patients who require close monitoring and medical care.\n- Vaccines: Vaccination is the best way to prevent severe illness from COVID-19.\nSupportive care::\n- Rest: Get plenty of sleep.\n- Hydration: Drink plenty of fluids.\n- Over-the-counter pain relievers: Such as ibuprofen or acetaminophen.\n- Cough suppressants: If needed.\nIt's important to consult with a healthcare professional for proper diagnosis and treatment recommendations."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The treatment for COVID-19 depends on the severity of the infection and the patient's risk factors.",
+        "truthfulness": 100,
+        "explanation": "COVID-19 treatment guidelines emphasize that treatment decisions are based on disease severity and patient risk factors such as age, vaccination status, and comorbidities, as outlined by CDC and IDSA.",
+        "links": [
+          "https://www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment.html",
+          "https://www.idsociety.org/practice-guideline/covid-19-guideline-treatment-and-management/"
+        ]
+      },
+      "1": {
+        "fact": "Antivirals: These medications can help reduce the severity and duration of the illness. Examples include remdesivir (for hospitalized patients) and molnupiravir and paxlovid (for mild to moderate cases at home).",
+        "truthfulness": 100,
+        "explanation": "Antiviral medications such as remdesivir are recommended for hospitalized patients, while molnupiravir and nirmatrelvir/ritonavir (Paxlovid) are authorized for mild to moderate COVID-19 in outpatients at risk of progression.",
+        "links": [
+          "https://www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment.html",
+          "https://www.idsociety.org/practice-guideline/covid-19-guideline-treatment-and-management/"
+        ]
+      },
+      "2": {
+        "fact": "Monoclonal antibodies: These antibodies can help prevent serious illness in high-risk patients who have recently been infected.",
+        "truthfulness": 90,
+        "explanation": "Monoclonal antibodies have been used to prevent progression to severe disease in high-risk patients early in infection; however, their effectiveness depends on circulating variants and availability. Recent guidelines still include monoclonal antibodies as an option for certain patients.",
+        "links": [
+          "https://pubmed.ncbi.nlm.nih.gov/40402009/",
+          "https://www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment.html"
+        ]
+      },
+      "3": {
+        "fact": "Oxygen therapy: For patients with moderate to severe symptoms who have difficulty breathing.",
+        "truthfulness": 100,
+        "explanation": "Oxygen therapy is standard care for COVID-19 patients with hypoxia or respiratory distress, as recommended by WHO and clinical guidelines.",
+        "links": [
+          "https://www.who.int/publications/i/item/B09467"
+        ]
+      },
+      "4": {
+        "fact": "Intubation and mechanical ventilation: For critically ill patients who cannot breathe on their own.",
+        "truthfulness": 100,
+        "explanation": "Mechanical ventilation is used for critically ill COVID-19 patients with respiratory failure who cannot maintain adequate oxygenation.",
+        "links": [
+          "https://www.who.int/publications/i/item/B09467"
+        ]
+      },
+      "5": {
+        "fact": "Hospitalization: For patients who require close monitoring and medical care.",
+        "truthfulness": 100,
+        "explanation": "Hospitalization is indicated for patients with severe COVID-19 or those needing close monitoring and advanced medical interventions.",
+        "links": [
+          "https://www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment.html"
+        ]
+      },
+      "6": {
+        "fact": "Vaccines: Vaccination is the best way to prevent severe illness from COVID-19.",
+        "truthfulness": 100,
+        "explanation": "Vaccination is widely recognized as the most effective method to prevent severe COVID-19 illness, hospitalization, and death.",
+        "links": [
+          "https://www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment.html"
+        ]
+      },
+      "7": {
+        "fact": "Supportive care: Rest, hydration, over-the-counter pain relievers such as ibuprofen or acetaminophen, and cough suppressants if needed.",
+        "truthfulness": 100,
+        "explanation": "Supportive care including rest, hydration, and symptomatic treatment with OTC medications is recommended for mild COVID-19 cases.",
+        "links": []
+      },
+      "8": {
+        "fact": "It's important to consult with a healthcare professional for proper diagnosis and treatment recommendations.",
+        "truthfulness": 100,
+        "explanation": "Consultation with healthcare professionals is essential for accurate diagnosis and appropriate treatment planning.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36468987,
+      "id": "uo3h06bvitpkjyg5",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/uo3h06bvitpkjyg5",
+      "content": "Question: what is the standard measure of energy in radiation treatment? Answer: In radiation treatment, the standard measure of energy deposited in tissue is the gray (Gy), which represents the amount of energy (joules) absorbed per kilogram of tissue. It&#039;s the international (SI) unit for absorbed dose. Historically, the rad was used, but it has been largely replaced by the gray (1 Gy = 100 rad). Here&#039;s a more detailed breakdown:: - Absorbed Dose: Radiation treatment aims to deliver a specific amount of energy to a tumor or targeted area while minimizing damage to surrounding healthy tissue. The absorbed dose quantifies this energy deposition. - Gray (Gy): The gray is defined as one joule of energy absorbed per kilogram of tissue (1 Gy = 1 J/kg). - Centigray (cGy): In clinical settings, you might also encounter the centigray (cGy), which is one hundredth of a gray (1 cGy = 0.01 Gy). - Historical Context: The rad (radiation absorbed dose) was the earlier unit for absorbed dose, but the gray has become the standard, though the rad is still sometimes used, particularly in the US.",
+      "formattedContent": "Question: what is the standard measure of energy in radiation treatment?\n\nAnswer: In radiation treatment, the standard measure of energy deposited in tissue is the gray (Gy), which represents the amount of energy (joules) absorbed per kilogram of tissue. It's the international (SI) unit for absorbed dose. Historically, the rad was used, but it has been largely replaced by the gray (1 Gy = 100 rad).\nHere's a more detailed breakdown::\n- Absorbed Dose: Radiation treatment aims to deliver a specific amount of energy to a tumor or targeted area while minimizing damage to surrounding healthy tissue. The absorbed dose quantifies this energy deposition.\n- Gray (Gy): The gray is defined as one joule of energy absorbed per kilogram of tissue (1 Gy = 1 J/kg).\n- Centigray (cGy): In clinical settings, you might also encounter the centigray (cGy), which is one hundredth of a gray (1 cGy = 0.01 Gy).\n- Historical Context: The rad (radiation absorbed dose) was the earlier unit for absorbed dose, but the gray has become the standard, though the rad is still sometimes used, particularly in the US."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "In radiation treatment, the standard measure of energy deposited in tissue is the gray (Gy), which represents the amount of energy (joules) absorbed per kilogram of tissue.",
+        "truthfulness": "100%",
+        "explanation": "The gray (Gy) is the SI unit of absorbed radiation dose, defined as the absorption of one joule of radiation energy per kilogram of matter, and is the standard measure used in radiation treatment to quantify energy deposited in tissue.",
+        "links": [
+          "https://www.numberanalytics.com/blog/ultimate-guide-to-gray-in-radiation-safety",
+          "https://en.wikipedia.org/wiki/Gray_(unit)",
+          "https://www.steris-ast.com/resources/techtips/radiation-units-defined",
+          "https://radiopaedia.org/articles/gray-si-unit?lang=us"
+        ]
+      },
+      "1": {
+        "fact": "It's the international (SI) unit for absorbed dose.",
+        "truthfulness": "100%",
+        "explanation": "The gray is the International System of Units (SI) unit for absorbed dose, officially adopted in 1975 to replace the rad.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Gray_(unit)",
+          "https://www.numberanalytics.com/blog/ultimate-guide-to-gray-in-radiation-safety",
+          "https://radiopaedia.org/articles/gray-si-unit?lang=us"
+        ]
+      },
+      "2": {
+        "fact": "Historically, the rad was used, but it has been largely replaced by the gray (1 Gy = 100 rad).",
+        "truthfulness": "100%",
+        "explanation": "The rad was the earlier unit for absorbed dose, defined as 100 ergs per gram, and has been largely replaced by the gray, where 1 Gy equals 100 rad.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Gray_(unit)",
+          "https://www.steris-ast.com/resources/techtips/radiation-units-defined",
+          "https://www.numberanalytics.com/blog/ultimate-guide-to-gray-in-radiation-safety"
+        ]
+      },
+      "3": {
+        "fact": "Absorbed Dose: Radiation treatment aims to deliver a specific amount of energy to a tumor or targeted area while minimizing damage to surrounding healthy tissue. The absorbed dose quantifies this energy deposition.",
+        "truthfulness": "100%",
+        "explanation": "In radiation therapy, the absorbed dose measures the amount of energy deposited in tissue, which is critical for targeting tumors while sparing healthy tissue.",
+        "links": [
+          "https://www.steris-ast.com/resources/techtips/radiation-units-defined",
+          "https://radiopaedia.org/articles/gray-si-unit?lang=us"
+        ]
+      },
+      "4": {
+        "fact": "Gray (Gy): The gray is defined as one joule of energy absorbed per kilogram of tissue (1 Gy = 1 J/kg).",
+        "truthfulness": "100%",
+        "explanation": "By definition, 1 gray equals the absorption of 1 joule of radiation energy per kilogram of matter.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Gray_(unit)",
+          "https://www.numberanalytics.com/blog/ultimate-guide-to-gray-in-radiation-safety",
+          "https://www.steris-ast.com/resources/techtips/radiation-units-defined",
+          "https://radiopaedia.org/articles/gray-si-unit?lang=us"
+        ]
+      },
+      "5": {
+        "fact": "Centigray (cGy): In clinical settings, you might also encounter the centigray (cGy), which is one hundredth of a gray (1 cGy = 0.01 Gy).",
+        "truthfulness": "100%",
+        "explanation": "The centigray (cGy) is commonly used in clinical radiation therapy and equals 0.01 gray.",
+        "links": []
+      },
+      "6": {
+        "fact": "The rad (radiation absorbed dose) was the earlier unit for absorbed dose, but the gray has become the standard, though the rad is still sometimes used, particularly in the US.",
+        "truthfulness": "100%",
+        "explanation": "The rad was the previous unit for absorbed dose but has been replaced by the gray internationally; however, the rad is still occasionally used in the US.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Gray_(unit)",
+          "https://www.numberanalytics.com/blog/ultimate-guide-to-gray-in-radiation-safety"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

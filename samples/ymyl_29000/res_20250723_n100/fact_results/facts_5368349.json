@@ -1,0 +1,91 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36465790,
+      "id": "81ngc9os7v5yetr0",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/81ngc9os7v5yetr0",
+      "content": "Question: pfizer vaccine symptoms Answer: Effects of the Pfizer-BioNTech COVID-19 Vaccine Common Side Effects:: - Pain, redness, swelling, or tenderness at the injection site - Headache - Fatigue - Muscle or joint pain - Fever - Chills - Nausea Rare but Serious Side Effects:: - Allergic reactions (anaphylaxis) - Myocarditis (inflammation of the heart muscle) - Pericarditis (inflammation of the lining of the heart) - Blood clots with low platelet count (thrombocytopenia with thrombosis syndrome, or TTS) Additional Information:: - Most side effects are mild and resolve within a few days. - The risk of serious side effects is very low. - The benefits of vaccination far outweigh the risks. - It is important to report any side effects to your healthcare provider. Note: This information is based on current scientific knowledge and may be updated as more information becomes available. Please consult with a healthcare professional for personalized medical advice.",
+      "formattedContent": "Question: pfizer vaccine symptoms\n\nAnswer: Effects of the Pfizer-BioNTech COVID-19 Vaccine\nCommon Side Effects::\n- Pain, redness, swelling, or tenderness at the injection site\n- Headache\n- Fatigue\n- Muscle or joint pain\n- Fever\n- Chills\n- Nausea\nRare but Serious Side Effects::\n- Allergic reactions (anaphylaxis)\n- Myocarditis (inflammation of the heart muscle)\n- Pericarditis (inflammation of the lining of the heart)\n- Blood clots with low platelet count (thrombocytopenia with thrombosis syndrome, or TTS)\nAdditional Information::\n- Most side effects are mild and resolve within a few days.\n- The risk of serious side effects is very low.\n- The benefits of vaccination far outweigh the risks.\n- It is important to report any side effects to your healthcare provider.\nNote: This information is based on current scientific knowledge and may be updated as more information becomes available. Please consult with a healthcare professional for personalized medical advice."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Common Side Effects:: - Pain, redness, swelling, or tenderness at the injection site - Headache - Fatigue - Muscle or joint pain - Fever - Chills - Nausea",
+        "truthfulness": "100%",
+        "explanation": "These common side effects are consistently reported by authoritative sources including the CDC and FDA fact sheets for the Pfizer-BioNTech COVID-19 vaccine. Injection site pain, redness, swelling, headache, fatigue, muscle and joint pain, fever, chills, and nausea are well-documented mild side effects that typically resolve within a few days.",
+        "links": [
+          "https://www.cdc.gov/covid/media/pdfs/2025/04/pfizer-HCP.pdf",
+          "https://www.fda.gov/media/167212/download",
+          "https://www.cdc.gov/vaccines/covid-19/eui/downloads/pfizer-caregiver.pdf",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10363686/"
+        ]
+      },
+      "1": {
+        "fact": "Rare but Serious Side Effects:: - Allergic reactions (anaphylaxis) - Myocarditis (inflammation of the heart muscle) - Pericarditis (inflammation of the lining of the heart) - Blood clots with low platelet count (thrombocytopenia with thrombosis syndrome, or TTS)",
+        "truthfulness": "90%",
+        "explanation": "Severe allergic reactions including anaphylaxis, myocarditis, and pericarditis are recognized rare but serious side effects of the Pfizer-BioNTech vaccine, especially myocarditis and pericarditis in younger males after the second dose. However, blood clots with low platelet count (TTS) are extremely rare and more commonly associated with adenovirus vector vaccines (e.g., Johnson & Johnson), with very limited evidence linking TTS to mRNA vaccines like Pfizer's. Thus, the inclusion of TTS as a known serious side effect of Pfizer vaccine is less certain and not strongly supported.",
+        "links": [
+          "https://www.cdc.gov/covid/media/pdfs/2025/04/pfizer-HCP.pdf",
+          "https://www.fda.gov/media/167212/download"
+        ]
+      },
+      "2": {
+        "fact": "Most side effects are mild and resolve within a few days.",
+        "truthfulness": "100%",
+        "explanation": "Clinical data and CDC guidance confirm that the majority of side effects from the Pfizer-BioNTech vaccine are mild and transient, typically resolving within a few days after vaccination.",
+        "links": [
+          "https://www.cdc.gov/vaccines/covid-19/eui/downloads/pfizer-caregiver.pdf",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10363686/"
+        ]
+      },
+      "3": {
+        "fact": "The risk of serious side effects is very low.",
+        "truthfulness": "100%",
+        "explanation": "Serious adverse events such as anaphylaxis, myocarditis, and pericarditis are rare, and the overall risk of serious side effects from the Pfizer vaccine is very low according to CDC and FDA data.",
+        "links": [
+          "https://www.cdc.gov/covid/media/pdfs/2025/04/pfizer-HCP.pdf",
+          "https://www.fda.gov/media/167212/download"
+        ]
+      },
+      "4": {
+        "fact": "The benefits of vaccination far outweigh the risks.",
+        "truthfulness": "100%",
+        "explanation": "Public health authorities including the CDC and WHO emphasize that the benefits of COVID-19 vaccination, including prevention of severe disease, hospitalization, and death, far outweigh the rare risks of side effects.",
+        "links": []
+      },
+      "5": {
+        "fact": "It is important to report any side effects to your healthcare provider.",
+        "truthfulness": "100%",
+        "explanation": "Reporting side effects to healthcare providers and vaccine safety monitoring systems (e.g., VAERS in the US) is standard public health guidance to ensure ongoing vaccine safety surveillance.",
+        "links": []
+      },
+      "6": {
+        "fact": "Note: This information is based on current scientific knowledge and may be updated as more information becomes available.",
+        "truthfulness": "100%",
+        "explanation": "Vaccine safety data and recommendations are continuously updated as new evidence emerges, which is standard practice in public health.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

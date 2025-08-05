@@ -1,0 +1,61 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36458914,
+      "id": "pq4lbno1sx79r3zk",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/pq4lbno1sx79r3zk",
+      "content": "Question: is it ok to take ibuprofen after covid vaccine Answer: It is generally recommended to avoid taking ibuprofen or other non-steroidal anti-inflammatory drugs (NSAIDs) before or after receiving a COVID-19 vaccine. Ibuprofen can interfere with the immune system&#039;s response to the vaccine, potentially reducing its effectiveness. It is advisable to consult with a healthcare professional before taking any medications, including ibuprofen, after receiving a COVID-19 vaccine. They can provide personalized guidance based on your individual circumstances.",
+      "formattedContent": "Question: is it ok to take ibuprofen after covid vaccine\n\nAnswer: It is generally recommended to avoid taking ibuprofen or other non-steroidal anti-inflammatory drugs (NSAIDs) before or after receiving a COVID-19 vaccine.\nIbuprofen can interfere with the immune system's response to the vaccine, potentially reducing its effectiveness. It is advisable to consult with a healthcare professional before taking any medications, including ibuprofen, after receiving a COVID-19 vaccine. They can provide personalized guidance based on your individual circumstances."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "It is generally recommended to avoid taking ibuprofen or other non-steroidal anti-inflammatory drugs (NSAIDs) before or after receiving a COVID-19 vaccine.",
+        "truthfulness": "40%",
+        "explanation": "Current evidence and public health guidance do not generally recommend avoiding ibuprofen or NSAIDs after COVID-19 vaccination. Clinical trials allowed use of these medications for symptom relief without showing reduced vaccine efficacy. However, taking NSAIDs just before vaccination to prevent side effects is sometimes not recommended due to older studies suggesting possible immune response interference. Thus, the blanket statement to avoid ibuprofen before or after vaccination is not fully supported.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10518289/",
+          "https://www.haleonhealthpartner.com/en-us/pain-relief/brands/advil/covid19/",
+          "https://www.drugs.com/medical-answers/you-ibuprofen-after-covid-booster-vaccine-3572220/"
+        ]
+      },
+      "1": {
+        "fact": "Ibuprofen can interfere with the immune system's response to the vaccine, potentially reducing its effectiveness.",
+        "truthfulness": "30%",
+        "explanation": "There is limited and inconclusive evidence that taking ibuprofen or other NSAIDs after vaccination reduces immune response or vaccine effectiveness. Clinical trials of COVID-19 vaccines allowed use of ibuprofen for side effect management and still showed high efficacy. Some older studies suggested that taking NSAIDs before vaccination might affect immune response, but this is not well established for post-vaccination use.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10518289/",
+          "https://www.haleonhealthpartner.com/en-us/pain-relief/brands/advil/covid19/",
+          "https://www.drugs.com/medical-answers/you-ibuprofen-after-covid-booster-vaccine-3572220/"
+        ]
+      },
+      "2": {
+        "fact": "It is advisable to consult with a healthcare professional before taking any medications, including ibuprofen, after receiving a COVID-19 vaccine.",
+        "truthfulness": "100%",
+        "explanation": "Consulting a healthcare professional before taking any medication after vaccination is a standard and prudent recommendation to ensure personalized and safe care.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

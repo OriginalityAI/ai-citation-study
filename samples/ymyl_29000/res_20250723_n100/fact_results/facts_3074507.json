@@ -1,0 +1,107 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36472253,
+      "id": "uybxwth1favo9d3n",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/uybxwth1favo9d3n",
+      "content": "Question: 127/81 blood pressure Answer: A blood pressure reading of 127/81 is considered elevated blood pressure, also known as hypertension. According to the American Heart Association (AHA) guidelines, normal blood pressure is defined as:: - Systolic (top number) less than 120 mmHg - Diastolic (bottom number) less than 80 mmHg In this case, the systolic pressure (127) is slightly elevated above the normal range, while the diastolic pressure (81) is within the normal range. Recommendation:: It is recommended to consult with a healthcare professional to discuss this blood pressure reading. They may recommend lifestyle changes, such as: Eating a healthy diet low in sodium, Engaging in regular physical activity, Maintaining a healthy weight, and Quitting smoking. In some cases, medication may also be prescribed to lower blood pressure. It is important to note that high blood pressure can increase the risk of heart disease, stroke, and other health problems. Early detection and treatment are crucial for managing this condition effectively.",
+      "formattedContent": "Question: 127/81 blood pressure\n\nAnswer: \nA blood pressure reading of 127/81 is considered elevated blood pressure, also known as hypertension.\nAccording to the American Heart Association (AHA) guidelines, normal blood pressure is defined as::\n- Systolic (top number) less than 120 mmHg\n- Diastolic (bottom number) less than 80 mmHg\nIn this case, the systolic pressure (127) is slightly elevated above the normal range, while the diastolic pressure (81) is within the normal range.\nRecommendation::\nIt is recommended to consult with a healthcare professional to discuss this blood pressure reading. They may recommend lifestyle changes, such as:\nEating a healthy diet low in sodium, Engaging in regular physical activity, Maintaining a healthy weight, and Quitting smoking.\nIn some cases, medication may also be prescribed to lower blood pressure. It is important to note that high blood pressure can increase the risk of heart disease, stroke, and other health problems. Early detection and treatment are crucial for managing this condition effectively."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "A blood pressure reading of 127/81 is considered elevated blood pressure, also known as hypertension.",
+        "truthfulness": "50%",
+        "explanation": "According to the 2017 American Heart Association (AHA) guidelines, elevated blood pressure is defined as systolic between 120-129 mmHg and diastolic less than 80 mmHg. Hypertension is defined as 130/80 mmHg or higher. Therefore, a reading of 127/81 has an elevated systolic but a diastolic slightly above normal, which may be considered elevated blood pressure but not hypertension by strict AHA definitions. The diastolic of 81 mmHg is just above the normal threshold of less than 80 mmHg, so it may be considered stage 1 hypertension depending on interpretation. The claim conflates elevated blood pressure with hypertension, which are distinct categories in the guidelines[1][2].",
+        "links": [
+          "https://www.health.harvard.edu/heart-health/reading-the-new-blood-pressure-guidelines",
+          "https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html"
+        ]
+      },
+      "1": {
+        "fact": "According to the American Heart Association (AHA) guidelines, normal blood pressure is defined as: Systolic (top number) less than 120 mmHg, Diastolic (bottom number) less than 80 mmHg.",
+        "truthfulness": "100%",
+        "explanation": "The AHA defines normal blood pressure as systolic less than 120 mmHg and diastolic less than 80 mmHg, consistent with the claim[1][2].",
+        "links": [
+          "https://www.health.harvard.edu/heart-health/reading-the-new-blood-pressure-guidelines",
+          "https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html"
+        ]
+      },
+      "2": {
+        "fact": "In this case, the systolic pressure (127) is slightly elevated above the normal range, while the diastolic pressure (81) is within the normal range.",
+        "truthfulness": "50%",
+        "explanation": "The systolic pressure of 127 mmHg is indeed elevated above the normal threshold of less than 120 mmHg. However, the diastolic pressure of 81 mmHg is slightly above the normal threshold of less than 80 mmHg, so it is not within the normal range but rather in the elevated or stage 1 hypertension range depending on guidelines. Thus, the claim is partially inaccurate regarding the diastolic value[1][2].",
+        "links": [
+          "https://www.health.harvard.edu/heart-health/reading-the-new-blood-pressure-guidelines",
+          "https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html"
+        ]
+      },
+      "3": {
+        "fact": "It is recommended to consult with a healthcare professional to discuss this blood pressure reading.",
+        "truthfulness": "100%",
+        "explanation": "Medical guidelines recommend consulting a healthcare professional for blood pressure readings in the elevated or hypertensive range to assess cardiovascular risk and consider lifestyle or medical interventions[1][2].",
+        "links": [
+          "https://www.health.harvard.edu/heart-health/reading-the-new-blood-pressure-guidelines",
+          "https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html"
+        ]
+      },
+      "4": {
+        "fact": "They may recommend lifestyle changes, such as: Eating a healthy diet low in sodium, Engaging in regular physical activity, Maintaining a healthy weight, and Quitting smoking.",
+        "truthfulness": "100%",
+        "explanation": "Lifestyle modifications including a low-sodium diet, regular exercise, weight management, and smoking cessation are standard recommendations for managing elevated blood pressure and hypertension[1][2].",
+        "links": [
+          "https://www.health.harvard.edu/heart-health/reading-the-new-blood-pressure-guidelines",
+          "https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html"
+        ]
+      },
+      "5": {
+        "fact": "In some cases, medication may also be prescribed to lower blood pressure.",
+        "truthfulness": "100%",
+        "explanation": "Medication is often prescribed when lifestyle changes are insufficient or when blood pressure is in the hypertensive range with additional cardiovascular risk factors[1][2].",
+        "links": [
+          "https://www.health.harvard.edu/heart-health/reading-the-new-blood-pressure-guidelines",
+          "https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html"
+        ]
+      },
+      "6": {
+        "fact": "It is important to note that high blood pressure can increase the risk of heart disease, stroke, and other health problems.",
+        "truthfulness": "100%",
+        "explanation": "High blood pressure is a well-established risk factor for cardiovascular diseases including heart attack, stroke, and other complications[1][2].",
+        "links": [
+          "https://www.health.harvard.edu/heart-health/reading-the-new-blood-pressure-guidelines",
+          "https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html"
+        ]
+      },
+      "7": {
+        "fact": "Early detection and treatment are crucial for managing this condition effectively.",
+        "truthfulness": "100%",
+        "explanation": "Early diagnosis and management of elevated blood pressure or hypertension reduce the risk of cardiovascular events and improve outcomes[1][2].",
+        "links": [
+          "https://www.health.harvard.edu/heart-health/reading-the-new-blood-pressure-guidelines",
+          "https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

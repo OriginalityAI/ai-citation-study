@@ -1,0 +1,114 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36458116,
+      "id": "pejs4nahf90m63vk",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/pejs4nahf90m63vk",
+      "content": "Question: icd10 code for heart attack Answer: The primary ICD-10-CM code for a heart attack (myocardial infarction) is I21. Within this category, further codes specify the type and location of the infarction. For example, I21.3 is for ST elevation myocardial infarction (STEMI) of unspecified site, while I21.4 is for non-ST elevation myocardial infarction (NSTEMI). Subsequent myocardial infarctions within 4 weeks of a previous one are coded under I22. Here&#039;s a more detailed breakdown:: - I21: This is the main category for acute myocardial infarction. - I21.3: STEMI (ST elevation) myocardial infarction of unspecified site. - I21.4: NSTEMI (non-ST elevation) myocardial infarction. - I22: Subsequent myocardial infarction (within 4 weeks of a previous one). - I21.A1: Myocardial infarction type 2. - I21.A9: Other myocardial infarction type. - I21.9: Acute myocardial infarction, unspecified. When coding, it&#039;s crucial to be as specific as possible, indicating whether it&#039;s STEMI or NSTEMI and the location of the infarction, if documented. Additionally, if it&#039;s a subsequent infarction, the I22 codes should be used in conjunction with the initial I21 code.",
+      "formattedContent": "Question: icd10 code for heart attack\n\nAnswer: The primary ICD-10-CM code for a heart attack (myocardial infarction) is I21. Within this category, further codes specify the type and location of the infarction. For example, I21.3 is for ST elevation myocardial infarction (STEMI) of unspecified site, while I21.4 is for non-ST elevation myocardial infarction (NSTEMI). Subsequent myocardial infarctions within 4 weeks of a previous one are coded under I22.\nHere's a more detailed breakdown::\n- I21: This is the main category for acute myocardial infarction.\n- I21.3: STEMI (ST elevation) myocardial infarction of unspecified site.\n- I21.4: NSTEMI (non-ST elevation) myocardial infarction.\n- I22: Subsequent myocardial infarction (within 4 weeks of a previous one).\n- I21.A1: Myocardial infarction type 2.\n- I21.A9: Other myocardial infarction type.\n- I21.9: Acute myocardial infarction, unspecified.\nWhen coding, it's crucial to be as specific as possible, indicating whether it's STEMI or NSTEMI and the location of the infarction, if documented. Additionally, if it's a subsequent infarction, the I22 codes should be used in conjunction with the initial I21 code."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The primary ICD-10-CM code for a heart attack (myocardial infarction) is I21.",
+        "truthfulness": "100%",
+        "explanation": "ICD-10 code I21 is the main category for acute myocardial infarction, which corresponds to a heart attack, as confirmed by multiple authoritative sources including AAPC and WHO ICD-10 listings.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/I21",
+          "https://icd.who.int/browse10/2019/en"
+        ]
+      },
+      "1": {
+        "fact": "I21.3 is for ST elevation myocardial infarction (STEMI) of unspecified site.",
+        "truthfulness": "100%",
+        "explanation": "I21.3 is defined as acute transmural myocardial infarction of unspecified site, which corresponds to STEMI of unspecified site according to ICD-10 coding conventions.",
+        "links": [
+          "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/10/codelist/myocardial-infarction-icd10/"
+        ]
+      },
+      "2": {
+        "fact": "I21.4 is for non-ST elevation myocardial infarction (NSTEMI).",
+        "truthfulness": "100%",
+        "explanation": "I21.4 is coded as acute subendocardial myocardial infarction, which corresponds to NSTEMI in clinical practice.",
+        "links": [
+          "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/10/codelist/myocardial-infarction-icd10/"
+        ]
+      },
+      "3": {
+        "fact": "Subsequent myocardial infarctions within 4 weeks of a previous one are coded under I22.",
+        "truthfulness": "100%",
+        "explanation": "I22 is the ICD-10 code category for subsequent myocardial infarction occurring within 4 weeks of a previous infarction, as per WHO ICD-10 classification.",
+        "links": [
+          "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/10/codelist/myocardial-infarction-icd10/",
+          "https://icd.who.int/browse10/2019/en"
+        ]
+      },
+      "4": {
+        "fact": "I21: This is the main category for acute myocardial infarction.",
+        "truthfulness": "100%",
+        "explanation": "I21 is the main ICD-10 category for acute myocardial infarction, covering various types and locations of heart attack.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/I21"
+        ]
+      },
+      "5": {
+        "fact": "I21.A1: Myocardial infarction type 2.",
+        "truthfulness": "Uncertain",
+        "explanation": "The code I21.A1 is not widely documented in the provided sources or standard ICD-10-CM references. Type 2 myocardial infarction is recognized clinically but may be coded differently depending on the coding system version or country. This specific code requires verification from an official ICD-10-CM 2024 or later manual.",
+        "links": []
+      },
+      "6": {
+        "fact": "I21.A9: Other myocardial infarction type.",
+        "truthfulness": "Uncertain",
+        "explanation": "Similar to I21.A1, the code I21.A9 is not found in the standard ICD-10-CM references provided. It may represent a newer or less common subcategory, but authoritative confirmation is lacking in the search results.",
+        "links": []
+      },
+      "7": {
+        "fact": "I21.9: Acute myocardial infarction, unspecified.",
+        "truthfulness": "100%",
+        "explanation": "I21.9 is the ICD-10 code for acute myocardial infarction, unspecified, as confirmed by AAPC and other coding references.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/I21.9"
+        ]
+      },
+      "8": {
+        "fact": "When coding, it\u2019s crucial to be as specific as possible, indicating whether it\u2019s STEMI or NSTEMI and the location of the infarction, if documented.",
+        "truthfulness": "100%",
+        "explanation": "Accurate ICD-10 coding guidelines emphasize specificity, including infarction type (STEMI vs NSTEMI) and anatomical location, to ensure precise diagnosis and billing.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/I21"
+        ]
+      },
+      "9": {
+        "fact": "If it\u2019s a subsequent infarction, the I22 codes should be used in conjunction with the initial I21 code.",
+        "truthfulness": "Partially true",
+        "explanation": "I22 codes are used for subsequent myocardial infarctions within 4 weeks of a previous one. However, coding guidelines typically instruct to use I22 codes alone for subsequent infarctions rather than in conjunction with I21. The initial infarction is coded with I21, and subsequent infarctions with I22, not both simultaneously.",
+        "links": [
+          "https://www.aapc.com/codes/icd-10-codes/I21",
+          "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/10/codelist/myocardial-infarction-icd10/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

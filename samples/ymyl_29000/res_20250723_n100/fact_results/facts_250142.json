@@ -1,0 +1,81 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36459911,
+      "id": "wecdiylz948ur6xg",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/wecdiylz948ur6xg",
+      "content": "Question: cryptococcus neoformans morfologia Answer: Cryptococcus neoformans, a pathogenic yeast, exhibits diverse morphologies, including yeast, pseudohyphae, and titan cells, with the yeast form being the most common in clinical samples. These morphotypes are associated with different stages of infection and virulence. Understanding these morphological variations is crucial for comprehending its pathogenesis and developing effective treatments. Elaboration:: - Yeast Form: The typical yeast form of C. neoformans is a spherical, budding cell, typically 5-10 \u03bcm in diameter, often surrounded by a polysaccharide capsule. This is the most prevalent form in both environmental and clinical settings. - Pseudohyphae: These are elongated, linked yeast cells that do not fully separate after division. They are less commonly observed in clinical samples but may be a strategy to avoid predators. - Titan Cells: These are unusually large, often polyploid cells (ranging from 10 to 100 \u03bcm in diameter) with a thick cell wall and a large vacuole. They are produced during infection, particularly in the lungs, and are thought to be more resistant to phagocytosis and antifungal drugs. - Morphological Switching: C. neoformans can switch between these forms, and the factors that trigger these transitions are still being investigated. The RAM signaling pathway and the transcription factor Znf2 are known to play a role in regulating these transitions. - Significance of Morphology: Different morphotypes exhibit varying levels of virulence and impact host-pathogen interactions. Titan cell formation, for instance, has been linked to reduced phagocytosis by macrophages and increased resistance to antifungal drugs.",
+      "formattedContent": "Question: cryptococcus neoformans morfologia\n\nAnswer: Cryptococcus neoformans, a pathogenic yeast, exhibits diverse morphologies, including yeast, pseudohyphae, and titan cells, with the yeast form being the most common in clinical samples. These morphotypes are associated with different stages of infection and virulence. Understanding these morphological variations is crucial for comprehending its pathogenesis and developing effective treatments.\nElaboration::\n- Yeast Form: The typical yeast form of C. neoformans is a spherical, budding cell, typically 5-10 \u03bcm in diameter, often surrounded by a polysaccharide capsule. This is the most prevalent form in both environmental and clinical settings.\n- Pseudohyphae: These are elongated, linked yeast cells that do not fully separate after division. They are less commonly observed in clinical samples but may be a strategy to avoid predators.\n- Titan Cells: These are unusually large, often polyploid cells (ranging from 10 to 100 \u03bcm in diameter) with a thick cell wall and a large vacuole. They are produced during infection, particularly in the lungs, and are thought to be more resistant to phagocytosis and antifungal drugs.\n- Morphological Switching: C. neoformans can switch between these forms, and the factors that trigger these transitions are still being investigated. The RAM signaling pathway and the transcription factor Znf2 are known to play a role in regulating these transitions.\n- Significance of Morphology: Different morphotypes exhibit varying levels of virulence and impact host-pathogen interactions. Titan cell formation, for instance, has been linked to reduced phagocytosis by macrophages and increased resistance to antifungal drugs."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Cryptococcus neoformans, a pathogenic yeast, exhibits diverse morphologies, including yeast, pseudohyphae, and titan cells, with the yeast form being the most common in clinical samples.",
+        "truthfulness": 95,
+        "explanation": "Cryptococcus neoformans typically grows as a yeast and can exhibit three morphotypes: yeast, pseudohyphae, and hyphae. Enlarged yeast cells (titan cells) are also characterized. The yeast form is the most common in clinical and environmental settings. Pseudohyphae and hyphae forms are less common and often related to mating or environmental stimuli. Titan cells are large yeast cells produced during infection. This is supported by multiple sources including a 2015 study and Wikipedia.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4577057/",
+          "https://en.wikipedia.org/wiki/Cryptococcus_neoformans"
+        ]
+      },
+      "1": {
+        "fact": "The typical yeast form of C. neoformans is a spherical, budding cell, typically 5-10 \u03bcm in diameter, often surrounded by a polysaccharide capsule.",
+        "truthfulness": 90,
+        "explanation": "C. neoformans yeast cells are spherical or oval, measuring approximately 4-6 \u03bcm in diameter, surrounded by a polysaccharide capsule that can be up to 30 \u03bcm thick. The size range 5-10 \u03bcm is slightly broader than some sources but generally consistent. The capsule is a key identifying feature.",
+        "links": [
+          "https://microbiologyinfo.com/cryptococcus-neoformans/",
+          "https://en.wikipedia.org/wiki/Cryptococcus_neoformans"
+        ]
+      },
+      "2": {
+        "fact": "Pseudohyphae: These are elongated, linked yeast cells that do not fully separate after division. They are less commonly observed in clinical samples but may be a strategy to avoid predators.",
+        "truthfulness": 85,
+        "explanation": "C. neoformans can form pseudohyphae or hyphae, which are elongated chains of cells. These forms are less common in clinical samples and are often associated with mating or environmental stimuli. The idea that pseudohyphae may help avoid predators is plausible but less directly documented in the provided sources.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4577057/"
+        ]
+      },
+      "3": {
+        "fact": "Titan Cells: These are unusually large, often polyploid cells (ranging from 10 to 100 \u03bcm in diameter) with a thick cell wall and a large vacuole. They are produced during infection, particularly in the lungs, and are thought to be more resistant to phagocytosis and antifungal drugs.",
+        "truthfulness": 95,
+        "explanation": "Titan cells are enlarged yeast cells produced during infection, especially in the lungs. They can range from 10 to 100 \u03bcm, have thick cell walls, and are polyploid. They exhibit increased resistance to phagocytosis and antifungal drugs, contributing to virulence.",
+        "links": []
+      },
+      "4": {
+        "fact": "Morphological Switching: C. neoformans can switch between these forms, and the factors that trigger these transitions are still being investigated. The RAM signaling pathway and the transcription factor Znf2 are known to play a role in regulating these transitions.",
+        "truthfulness": 90,
+        "explanation": "C. neoformans can switch morphologies between yeast and hyphal forms. The zinc-finger transcription factor Znf2 is a key regulator of hyphal growth. The RAM signaling pathway is implicated in morphological regulation, though details are still under study.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4577057/"
+        ]
+      },
+      "5": {
+        "fact": "Different morphotypes exhibit varying levels of virulence and impact host-pathogen interactions. Titan cell formation, for instance, has been linked to reduced phagocytosis by macrophages and increased resistance to antifungal drugs.",
+        "truthfulness": 95,
+        "explanation": "Different morphologies of C. neoformans have different virulence properties. Titan cells are associated with reduced phagocytosis and increased drug resistance, affecting host-pathogen dynamics.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

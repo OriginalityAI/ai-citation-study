@@ -1,0 +1,50 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461179,
+      "id": "ehq2mvy5isu6ot8w",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/ehq2mvy5isu6ot8w",
+      "content": "Question: calories in agave syrup Answer: Agave syrup contains approximately 21 calories per teaspoon (5 grams). Here are the nutritional facts for agave syrup per 100 grams:: - Calories: 310 - Carbohydrates: 80 grams - Sugar: 70 grams - Fat: 0 grams - Protein: 0 grams - Sodium: 0 milligrams - Potassium: 100 milligrams",
+      "formattedContent": "Question: calories in agave syrup\n\nAnswer: Agave syrup contains approximately 21 calories per teaspoon (5 grams).\nHere are the nutritional facts for agave syrup per 100 grams::\n- Calories: 310\n- Carbohydrates: 80 grams\n- Sugar: 70 grams\n- Fat: 0 grams\n- Protein: 0 grams\n- Sodium: 0 milligrams\n- Potassium: 100 milligrams"
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Agave syrup contains approximately 21 calories per teaspoon (5 grams).",
+        "truthfulness": 95,
+        "explanation": "Multiple sources confirm that agave syrup contains about 20-21 calories per teaspoon. Medical News Today states 21 calories per teaspoon, and MyNetDiary lists 20 calories per teaspoon for Blue Agave Syrup, which is consistent with the claim.",
+        "links": [
+          "https://www.medicalnewstoday.com/articles/317167",
+          "https://www.mynetdiary.com/food/calories-in-blue-agave-syrup-by-o-organics-teaspoon-21651805-0.html"
+        ]
+      },
+      "1": {
+        "fact": "Nutritional facts for agave syrup per 100 grams: Calories: 310, Carbohydrates: 80 grams, Sugar: 70 grams, Fat: 0 grams, Protein: 0 grams, Sodium: 0 milligrams, Potassium: 100 milligrams",
+        "truthfulness": 85,
+        "explanation": "While exact values vary slightly by source and brand, agave syrup generally contains around 300-310 calories per 100 grams and about 70-80 grams of carbohydrates, mostly sugars. Fat and protein are negligible or zero. Sodium is typically very low or zero. Potassium content around 100 mg per 100 grams is plausible but less commonly reported and may vary. The values given align well with typical nutritional data for agave syrup.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

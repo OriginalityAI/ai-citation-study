@@ -1,0 +1,74 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36463265,
+      "id": "0mehs3ujxc4bzknp",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/0mehs3ujxc4bzknp",
+      "content": "Question: runny nose covid Answer: A runny nose is a common symptom of COVID-19 infection. It occurs when the virus causes inflammation in the nasal passages, leading to increased mucus production. Other symptoms of COVID-19 that may accompany a runny nose include: Fever, Cough, Sore throat, Fatigue, Headache, Body aches, and Loss of taste or smell. It&#039;s important to note that a runny nose can also be a symptom of other conditions, such as allergies or the common cold. If you have a runny nose and any other symptoms, it&#039;s recommended to consult a healthcare professional to determine the underlying cause.",
+      "formattedContent": "Question: runny nose covid\n\nAnswer: \nA runny nose is a common symptom of COVID-19 infection. It occurs when the virus causes inflammation in the nasal passages, leading to increased mucus production.\nOther symptoms of COVID-19 that may accompany a runny nose include:\nFever, Cough, Sore throat, Fatigue, Headache, Body aches, and Loss of taste or smell.\nIt's important to note that a runny nose can also be a symptom of other conditions, such as allergies or the common cold. If you have a runny nose and any other symptoms, it's recommended to consult a healthcare professional to determine the underlying cause."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "A runny nose is a common symptom of COVID-19 infection.",
+        "truthfulness": 85,
+        "explanation": "Runny nose is frequently reported among COVID-19 patients, though it is not among the most predictive symptoms for COVID-19 diagnosis. Studies show runny nose was the most reported symptom in some cohorts (16.9%) and frequently reported in confirmed COVID-19 cases (72.6%), but it is less specific and less predictive compared to symptoms like loss of taste or smell, fever, and cough.",
+        "links": [
+          "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/predictive-role-of-symptoms-in-covid19-diagnostic-models-a-longitudinal-insight/247655C45FAAD5CEA8EB55A992A963BB",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8511678/"
+        ]
+      },
+      "1": {
+        "fact": "It occurs when the virus causes inflammation in the nasal passages, leading to increased mucus production.",
+        "truthfulness": 90,
+        "explanation": "COVID-19 can cause inflammation in the nasal mucosa, which leads to increased mucus secretion and symptoms such as runny nose and post nasal drip. This mechanism is consistent with viral upper respiratory infections in general.",
+        "links": [
+          "https://ada.com/covid/post-nasal-drip-and-covid-19/"
+        ]
+      },
+      "2": {
+        "fact": "Other symptoms of COVID-19 that may accompany a runny nose include: Fever, Cough, Sore throat, Fatigue, Headache, Body aches, and Loss of taste or smell.",
+        "truthfulness": 95,
+        "explanation": "These symptoms are well-documented as common COVID-19 symptoms. Fever, cough, sore throat, fatigue, headache, body aches, and loss of taste or smell are frequently reported in COVID-19 patients and often occur together with nasal symptoms.",
+        "links": [
+          "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/predictive-role-of-symptoms-in-covid19-diagnostic-models-a-longitudinal-insight/247655C45FAAD5CEA8EB55A992A963BB",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8511678/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8936101/"
+        ]
+      },
+      "3": {
+        "fact": "A runny nose can also be a symptom of other conditions, such as allergies or the common cold.",
+        "truthfulness": 100,
+        "explanation": "Runny nose is a nonspecific symptom that occurs in many conditions including allergies, common cold, and other upper respiratory infections, not just COVID-19.",
+        "links": []
+      },
+      "4": {
+        "fact": "If you have a runny nose and any other symptoms, it\u2019s recommended to consult a healthcare professional to determine the underlying cause.",
+        "truthfulness": 100,
+        "explanation": "Medical guidance generally recommends consulting a healthcare professional when experiencing symptoms that could indicate COVID-19 or other illnesses, to ensure proper diagnosis and treatment.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

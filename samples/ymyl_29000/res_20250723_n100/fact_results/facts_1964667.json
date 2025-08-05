@@ -1,0 +1,78 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36464949,
+      "id": "wqdol0c5x1pazjne",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/wqdol0c5x1pazjne",
+      "content": "Question: guillain barre covid-19 Answer: Guillain-Barr\u00e9 syndrome (GBS) has been reported in association with both COVID-19 infection and vaccination. The main symptoms include weakness and tingling in the extremities, which can spread to the upper body and potentially lead to paralysis. GBS symptoms typically appear about 19 days after the onset of COVID-19 infection. While GBS is a potential complication, it&#039;s important to note that most individuals who contract COVID-19 do not develop GBS. Specific treatments like plasma exchange and immunoglobulin therapy can help relieve symptoms, and physical therapy is also often needed, according to a medical facts site.",
+      "formattedContent": "Question: guillain barre covid-19\n\nAnswer: Guillain-Barr\u00e9 syndrome (GBS) has been reported in association with both COVID-19 infection and vaccination. The main symptoms include weakness and tingling in the extremities, which can spread to the upper body and potentially lead to paralysis. GBS symptoms typically appear about 19 days after the onset of COVID-19 infection. While GBS is a potential complication, it's important to note that most individuals who contract COVID-19 do not develop GBS. Specific treatments like plasma exchange and immunoglobulin therapy can help relieve symptoms, and physical therapy is also often needed, according to a medical facts site."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Guillain-Barr\u00e9 syndrome (GBS) has been reported in association with both COVID-19 infection and vaccination.",
+        "truthfulness": 90,
+        "explanation": "GBS has been reported in association with COVID-19 infection in multiple case reports and series. While the association with COVID-19 vaccination is also reported in some sources, the search results primarily confirm the link with infection. The vaccination link is less emphasized in the provided sources but is recognized in broader medical literature.",
+        "links": [
+          "https://www.neurology.org/doi/10.1212/NXI.0000000000000741",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8382418/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9842533/"
+        ]
+      },
+      "1": {
+        "fact": "The main symptoms include weakness and tingling in the extremities, which can spread to the upper body and potentially lead to paralysis.",
+        "truthfulness": 100,
+        "explanation": "GBS symptoms typically include weakness and tingling (paresthesias) in the extremities, often ascending from lower to upper body, and can progress to paralysis. This is consistent with clinical descriptions in the sources.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8382418/",
+          "https://shmabstracts.org/abstract/striking-a-nerve-a-case-of-post-covid-induced-guillain-barre-syndrome/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9842533/"
+        ]
+      },
+      "2": {
+        "fact": "GBS symptoms typically appear about 19 days after the onset of COVID-19 infection.",
+        "truthfulness": 100,
+        "explanation": "A systematic review cited in the sources found that GBS symptoms began on average 19 days after COVID-19 symptom onset.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9842533/"
+        ]
+      },
+      "3": {
+        "fact": "While GBS is a potential complication, most individuals who contract COVID-19 do not develop GBS.",
+        "truthfulness": 100,
+        "explanation": "GBS is a rare complication of COVID-19. The vast majority of COVID-19 patients do not develop GBS, as supported by the rarity of reported cases relative to total infections.",
+        "links": []
+      },
+      "4": {
+        "fact": "Specific treatments like plasma exchange and immunoglobulin therapy can help relieve symptoms, and physical therapy is also often needed.",
+        "truthfulness": 100,
+        "explanation": "Standard treatments for GBS include intravenous immunoglobulin (IVIG) and plasma exchange, which are effective in relieving symptoms. Physical therapy is commonly required for recovery.",
+        "links": [
+          "https://www.neurology.org/doi/10.1212/NXI.0000000000000741",
+          "https://shmabstracts.org/abstract/striking-a-nerve-a-case-of-post-covid-induced-guillain-barre-syndrome/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36465134,
+      "id": "b218hdozg75uie6a",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/b218hdozg75uie6a",
+      "content": "Question: chances of getting covid if fully vacinated Answer: While fully vaccinated individuals can still contract COVID-19, the vaccines significantly reduce the likelihood of infection and greatly lessen the severity of illness if breakthrough infections occur. Vaccinated individuals are much less likely to experience severe symptoms, hospitalization, or death compared to the unvaccinated. Key points about breakthrough infections:: - Vaccines are not 100% effective: No vaccine provides complete protection against any virus, including COVID-19. - Breakthrough infections are possible: Fully vaccinated individuals can still contract the virus. - Reduced severity: Vaccinated individuals are far less likely to have severe symptoms, need hospitalization, or die from COVID-19 if they experience a breakthrough infection, according to Piedmont Healthcare and the Centers for Disease Control and Prevention | CDC (.gov). - Mild symptoms: Vaccinated individuals with breakthrough infections may experience mild symptoms like fever, fatigue, sore throat, and cough, says Piedmont Healthcare.",
+      "formattedContent": "Question: chances of getting covid if fully vacinated\n\nAnswer: While fully vaccinated individuals can still contract COVID-19, the vaccines significantly reduce the likelihood of infection and greatly lessen the severity of illness if breakthrough infections occur. Vaccinated individuals are much less likely to experience severe symptoms, hospitalization, or death compared to the unvaccinated.\nKey points about breakthrough infections::\n- Vaccines are not 100% effective: No vaccine provides complete protection against any virus, including COVID-19.\n- Breakthrough infections are possible: Fully vaccinated individuals can still contract the virus.\n- Reduced severity: Vaccinated individuals are far less likely to have severe symptoms, need hospitalization, or die from COVID-19 if they experience a breakthrough infection, according to Piedmont Healthcare and the Centers for Disease Control and Prevention | CDC (.gov).\n- Mild symptoms: Vaccinated individuals with breakthrough infections may experience mild symptoms like fever, fatigue, sore throat, and cough, says Piedmont Healthcare."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "While fully vaccinated individuals can still contract COVID-19, the vaccines significantly reduce the likelihood of infection and greatly lessen the severity of illness if breakthrough infections occur.",
+        "truthfulness": "95%",
+        "explanation": "COVID-19 vaccines are not 100% effective, so breakthrough infections can occur. However, vaccines significantly reduce the risk of infection and are especially effective at preventing severe illness, hospitalization, and death. Recent data from the 2024-2025 vaccine effectiveness studies show moderate protection against infection and stronger protection against severe outcomes, supporting this claim.",
+        "links": [
+          "https://www.cdc.gov/acip/downloads/slides-2025-04-15-16/04-Link-Gelles-COVID-508.pdf",
+          "https://pubmed.ncbi.nlm.nih.gov/40014628/",
+          "https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a1.htm"
+        ]
+      },
+      "1": {
+        "fact": "Vaccinated individuals are much less likely to experience severe symptoms, hospitalization, or death compared to the unvaccinated.",
+        "truthfulness": "100%",
+        "explanation": "Multiple studies and CDC data confirm that vaccination greatly reduces the risk of severe COVID-19 outcomes including hospitalization and death compared to unvaccinated individuals.",
+        "links": [
+          "https://pubmed.ncbi.nlm.nih.gov/40014628/",
+          "https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a1.htm"
+        ]
+      },
+      "2": {
+        "fact": "Vaccines are not 100% effective: No vaccine provides complete protection against any virus, including COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "It is well established that no vaccine offers complete protection against infection. COVID-19 vaccines reduce risk but do not eliminate it.",
+        "links": [
+          "https://www.yalemedicine.org/news/covid-19-vaccine-comparison"
+        ]
+      },
+      "3": {
+        "fact": "Breakthrough infections are possible: Fully vaccinated individuals can still contract the virus.",
+        "truthfulness": "100%",
+        "explanation": "Breakthrough infections occur because vaccines do not provide sterilizing immunity. This is a recognized and documented phenomenon.",
+        "links": [
+          "https://www.yalemedicine.org/news/covid-19-vaccine-comparison"
+        ]
+      },
+      "4": {
+        "fact": "Reduced severity: Vaccinated individuals are far less likely to have severe symptoms, need hospitalization, or die from COVID-19 if they experience a breakthrough infection, according to Piedmont Healthcare and the Centers for Disease Control and Prevention | CDC (.gov).",
+        "truthfulness": "100%",
+        "explanation": "CDC data and healthcare sources confirm that vaccination reduces severity of illness in breakthrough cases, lowering rates of hospitalization and death.",
+        "links": [
+          "https://pubmed.ncbi.nlm.nih.gov/40014628/",
+          "https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a1.htm"
+        ]
+      },
+      "5": {
+        "fact": "Mild symptoms: Vaccinated individuals with breakthrough infections may experience mild symptoms like fever, fatigue, sore throat, and cough, says Piedmont Healthcare.",
+        "truthfulness": "90%",
+        "explanation": "Breakthrough infections in vaccinated people often result in milder symptoms compared to unvaccinated cases. Common symptoms include fever, fatigue, sore throat, and cough, consistent with clinical observations.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

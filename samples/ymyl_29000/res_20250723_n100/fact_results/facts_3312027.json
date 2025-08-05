@@ -1,0 +1,76 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36456979,
+      "id": "cs08j7k13zgrqntu",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/cs08j7k13zgrqntu",
+      "content": "Question: covid when to retest Answer: If you have COVID-19 symptoms, test immediately. If the initial test is negative, follow the test instructions for retesting. If you were exposed to someone with COVID-19 but don&#039;t have symptoms, wait at least 5 days after exposure before testing. Some tests, particularly NAAT tests, can remain positive for up to 90 days, so a positive result after that period may indicate a reinfection. If you have questions or concerns about testing, consult a healthcare provider.",
+      "formattedContent": "Question: covid when to retest\n\nAnswer: If you have COVID-19 symptoms, test immediately. If the initial test is negative, follow the test instructions for retesting. If you were exposed to someone with COVID-19 but don't have symptoms, wait at least 5 days after exposure before testing. Some tests, particularly NAAT tests, can remain positive for up to 90 days, so a positive result after that period may indicate a reinfection. If you have questions or concerns about testing, consult a healthcare provider."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "If you have COVID-19 symptoms, test immediately.",
+        "truthfulness": 100,
+        "explanation": "CDC and FDA guidance recommend testing immediately if you have COVID-19 symptoms to confirm infection and take appropriate precautions.",
+        "links": [
+          "https://www.cdc.gov/covid/testing/index.html",
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/home-covid-19-diagnostic-tests-frequently-asked-questions"
+        ]
+      },
+      "1": {
+        "fact": "If the initial test is negative, follow the test instructions for retesting.",
+        "truthfulness": 100,
+        "explanation": "The FDA recommends repeat testing after a negative antigen test result, especially if symptoms are present, to reduce false negatives. The number and timing of retests depend on symptoms and test type.",
+        "links": [
+          "https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/home-covid-19-diagnostic-tests-frequently-asked-questions",
+          "https://www.cdc.gov/covid/testing/index.html"
+        ]
+      },
+      "2": {
+        "fact": "If you were exposed to someone with COVID-19 but don't have symptoms, wait at least 5 days after exposure before testing.",
+        "truthfulness": 90,
+        "explanation": "CDC guidance suggests testing at least 5 days after exposure if asymptomatic to detect infection, as viral load may not be detectable immediately after exposure. Some sources recommend testing sooner and repeating tests, but 5 days is a common recommendation.",
+        "links": [
+          "https://www.cdc.gov/covid/testing/index.html",
+          "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx"
+        ]
+      },
+      "3": {
+        "fact": "Some tests, particularly NAAT tests, can remain positive for up to 90 days, so a positive result after that period may indicate a reinfection.",
+        "truthfulness": 100,
+        "explanation": "NAAT (nucleic acid amplification tests) can detect viral RNA remnants for up to 90 days after infection, leading to prolonged positive results. A positive test after 90 days is more likely to represent reinfection.",
+        "links": [
+          "https://www.cdc.gov/covid/testing/index.html"
+        ]
+      },
+      "4": {
+        "fact": "If you have questions or concerns about testing, consult a healthcare provider.",
+        "truthfulness": 100,
+        "explanation": "Consulting a healthcare provider is standard advice for personalized guidance on COVID-19 testing and management.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

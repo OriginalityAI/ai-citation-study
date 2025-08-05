@@ -1,0 +1,90 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461378,
+      "id": "prctena63fq8kl4s",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/prctena63fq8kl4s",
+      "content": "Question: before a desired gene can be spliced into a bacterial plasmid cloning vector, the gene must first be Answer: Before a desired gene can be spliced into a bacterial plasmid cloning vector, it must first be cut with a restriction enzyme to create specific ends that can be joined to the vector. Here&#039;s a more detailed explanation:: - 1. Restriction Enzyme Digestion: The first step involves using a restriction enzyme to precisely cut the gene from its source DNA. Restriction enzymes recognize specific DNA sequences and cut the DNA at those sites, creating DNA fragments with &quot;sticky ends&quot; or &quot;blunt ends&quot;. - 2. Preparing the Vector: The cloning vector (usually a plasmid) also needs to be cut with the same restriction enzyme to create compatible ends. This allows the gene to be inserted into the plasmid. - 3. Joining the Fragments: The cut gene fragment and the cut plasmid are then mixed together. The complementary ends of the DNA fragments will naturally anneal (stick together). - 4. Ligation: Finally, DNA ligase is used to covalently bond the gene to the plasmid, creating a recombinant DNA molecule. This process allows the gene to be inserted into the plasmid and then introduced into a bacterial cell where it can be replicated and expressed.",
+      "formattedContent": "Question: before a desired gene can be spliced into a bacterial plasmid cloning vector, the gene must first be\n\nAnswer: Before a desired gene can be spliced into a bacterial plasmid cloning vector, it must first be cut with a restriction enzyme to create specific ends that can be joined to the vector.\nHere's a more detailed explanation::\n- 1. Restriction Enzyme Digestion: The first step involves using a restriction enzyme to precisely cut the gene from its source DNA. Restriction enzymes recognize specific DNA sequences and cut the DNA at those sites, creating DNA fragments with \"sticky ends\" or \"blunt ends\".\n- 2. Preparing the Vector: The cloning vector (usually a plasmid) also needs to be cut with the same restriction enzyme to create compatible ends. This allows the gene to be inserted into the plasmid.\n- 3. Joining the Fragments: The cut gene fragment and the cut plasmid are then mixed together. The complementary ends of the DNA fragments will naturally anneal (stick together).\n- 4. Ligation: Finally, DNA ligase is used to covalently bond the gene to the plasmid, creating a recombinant DNA molecule.\nThis process allows the gene to be inserted into the plasmid and then introduced into a bacterial cell where it can be replicated and expressed."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Before a desired gene can be spliced into a bacterial plasmid cloning vector, it must first be cut with a restriction enzyme to create specific ends that can be joined to the vector.",
+        "truthfulness": 100,
+        "explanation": "Restriction enzymes are used to cut both the gene of interest and the plasmid vector at specific recognition sites, creating compatible ends (sticky or blunt) that allow the gene to be inserted into the plasmid. This is a fundamental step in molecular cloning confirmed by multiple sources.",
+        "links": [
+          "https://www.thermofisher.com/us/en/home/life-science/cloning/restriction-enzyme-digestion-and-ligation.html",
+          "https://blog.addgene.org/plasmids-101-restriction-cloning",
+          "https://www.neb.com/en-us/applications/cloning-and-synthetic-biology/dna-preparation/restriction-enzyme-digestion"
+        ]
+      },
+      "1": {
+        "fact": "Restriction enzymes recognize specific DNA sequences and cut the DNA at those sites, creating DNA fragments with \"sticky ends\" or \"blunt ends\".",
+        "truthfulness": 100,
+        "explanation": "Restriction enzymes cut double-stranded DNA at specific recognition sequences, producing either sticky (overhanging) or blunt ends, which are essential for subsequent ligation steps.",
+        "links": [
+          "https://www.thermofisher.com/us/en/home/life-science/cloning/restriction-enzyme-digestion-and-ligation.html",
+          "https://blog.addgene.org/plasmids-101-restriction-cloning"
+        ]
+      },
+      "2": {
+        "fact": "The cloning vector (usually a plasmid) also needs to be cut with the same restriction enzyme to create compatible ends.",
+        "truthfulness": 100,
+        "explanation": "To ensure the gene insert can be ligated into the plasmid, the plasmid vector is cut with the same restriction enzyme(s) to generate compatible ends that match those on the gene fragment.",
+        "links": [
+          "https://blog.addgene.org/plasmids-101-restriction-cloning",
+          "https://barricklab.org/twiki/bin/view/Lab/ProtocolsRestrictionEnzymeCloning"
+        ]
+      },
+      "3": {
+        "fact": "The cut gene fragment and the cut plasmid are then mixed together. The complementary ends of the DNA fragments will naturally anneal (stick together).",
+        "truthfulness": 100,
+        "explanation": "After digestion, the complementary sticky ends of the gene fragment and plasmid vector anneal through base pairing, facilitating their joining before ligation.",
+        "links": [
+          "https://blog.addgene.org/plasmids-101-restriction-cloning",
+          "https://www.thermofisher.com/us/en/home/life-science/cloning/restriction-enzyme-digestion-and-ligation.html"
+        ]
+      },
+      "4": {
+        "fact": "DNA ligase is used to covalently bond the gene to the plasmid, creating a recombinant DNA molecule.",
+        "truthfulness": 100,
+        "explanation": "DNA ligase catalyzes the formation of phosphodiester bonds between the annealed DNA fragments, stabilizing the recombinant plasmid for replication and expression.",
+        "links": [
+          "https://blog.addgene.org/plasmids-101-restriction-cloning",
+          "https://www.thermofisher.com/us/en/home/life-science/cloning/restriction-enzyme-digestion-and-ligation.html"
+        ]
+      },
+      "5": {
+        "fact": "This process allows the gene to be inserted into the plasmid and then introduced into a bacterial cell where it can be replicated and expressed.",
+        "truthfulness": 100,
+        "explanation": "Once the recombinant plasmid is formed, it can be introduced into bacterial cells (transformation), where it replicates and the gene can be expressed, a standard practice in molecular cloning.",
+        "links": [
+          "https://blog.addgene.org/plasmids-101-restriction-cloning",
+          "https://barricklab.org/twiki/bin/view/Lab/ProtocolsRestrictionEnzymeCloning"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

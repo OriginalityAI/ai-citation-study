@@ -1,0 +1,87 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36471358,
+      "id": "qyder74x0cwulkj8",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/qyder74x0cwulkj8",
+      "content": "Question: what are the side effects of the covid shot Answer: The most common side effects of COVID-19 vaccines include: Mild:: - Pain, redness, swelling at the injection site - Fatigue - Headache - Muscle aches - Joint pain - Fever - Chills Rare:: - Allergic reactions (anaphylaxis) - Myocarditis (inflammation of the heart muscle) - Pericarditis (inflammation of the lining around the heart) - Blood clots with thrombocytopenia syndrome (rare but serious condition) It&#039;s important to note that these side effects are generally mild and resolve within a few days. Most people experience only one or two of them. If you experience any severe or concerning symptoms, seek medical attention immediately.",
+      "formattedContent": "Question: what are the side effects of the covid shot\n\nAnswer: The most common side effects of COVID-19 vaccines include:\nMild::\n- Pain, redness, swelling at the injection site\n- Fatigue\n- Headache\n- Muscle aches\n- Joint pain\n- Fever\n- Chills\nRare::\n- Allergic reactions (anaphylaxis)\n- Myocarditis (inflammation of the heart muscle)\n- Pericarditis (inflammation of the lining around the heart)\n- Blood clots with thrombocytopenia syndrome (rare but serious condition)\nIt's important to note that these side effects are generally mild and resolve within a few days. Most people experience only one or two of them. If you experience any severe or concerning symptoms, seek medical attention immediately."
+    },
+    "credits": {
+      "used": 2
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "The most common side effects of COVID-19 vaccines include: Mild:: - Pain, redness, swelling at the injection site - Fatigue - Headache - Muscle aches - Joint pain - Fever - Chills",
+        "truthfulness": "100%",
+        "explanation": "The CDC, Canadian government, New Zealand health sources, and a scientific review all confirm that the most common side effects of COVID-19 vaccines are mild and include pain, redness, swelling at the injection site, fatigue, headache, muscle aches, joint pain, fever, and chills.",
+        "links": [
+          "https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html",
+          "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/safety-side-effects.html",
+          "https://info.health.nz/immunisations/vaccines-aotearoa/covid-19-vaccines/covid-19-vaccine-side-effects-and-reactions",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10507236/"
+        ]
+      },
+      "1": {
+        "fact": "Rare:: - Allergic reactions (anaphylaxis)",
+        "truthfulness": "100%",
+        "explanation": "Severe allergic reactions such as anaphylaxis are rare but recognized side effects of COVID-19 vaccines, requiring immediate medical treatment with epinephrine.",
+        "links": [
+          "https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10507236/"
+        ]
+      },
+      "2": {
+        "fact": "Rare:: - Myocarditis (inflammation of the heart muscle) - Pericarditis (inflammation of the lining around the heart)",
+        "truthfulness": "100%",
+        "explanation": "Myocarditis and pericarditis have been reported as rare side effects, particularly after mRNA COVID-19 vaccines, mostly in younger males, and are recognized by health authorities.",
+        "links": []
+      },
+      "3": {
+        "fact": "Rare:: - Blood clots with thrombocytopenia syndrome (rare but serious condition)",
+        "truthfulness": "100%",
+        "explanation": "Blood clots with thrombocytopenia syndrome (TTS) are rare but serious side effects associated mainly with viral vector vaccines such as AstraZeneca and Johnson & Johnson, which are no longer recommended in some countries.",
+        "links": [
+          "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/safety-side-effects.html"
+        ]
+      },
+      "4": {
+        "fact": "These side effects are generally mild and resolve within a few days. Most people experience only one or two of them.",
+        "truthfulness": "100%",
+        "explanation": "Health authorities report that most side effects are mild, transient, and resolve within a few days, with most individuals experiencing only one or two symptoms.",
+        "links": [
+          "https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html",
+          "https://info.health.nz/immunisations/vaccines-aotearoa/covid-19-vaccines/covid-19-vaccine-side-effects-and-reactions"
+        ]
+      },
+      "5": {
+        "fact": "If you experience any severe or concerning symptoms, seek medical attention immediately.",
+        "truthfulness": "100%",
+        "explanation": "Health authorities universally recommend seeking immediate medical attention if severe or concerning symptoms occur after vaccination, such as signs of anaphylaxis, myocarditis, or blood clots.",
+        "links": [
+          "https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html",
+          "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/safety-side-effects.html"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

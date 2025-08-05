@@ -1,0 +1,62 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36463397,
+      "id": "v8zsmaujqoix6dg4",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/v8zsmaujqoix6dg4",
+      "content": "Question: do you sneeze with covid-19 Answer: Yes, sneezing is a common symptom of COVID-19. When an infected person sneezes, they release tiny droplets containing the virus into the air. These droplets can be inhaled by others or land on surfaces that can be touched.",
+      "formattedContent": "Question: do you sneeze with covid-19\n\nAnswer: Yes, sneezing is a common symptom of COVID-19. When an infected person sneezes, they release tiny droplets containing the virus into the air. These droplets can be inhaled by others or land on surfaces that can be touched."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "sneezing is a common symptom of COVID-19",
+        "truthfulness": 80,
+        "explanation": "Sneezing is reported as a symptom of COVID-19 but its prevalence varies across studies. A meta-analysis found sneezing prevalence around 27% among COVID-19 patients, indicating it is relatively common but not among the most frequent symptoms. Another study reported sneezing prevalence at about 14.7%, which is less common than fever or cough but still notable. Thus, sneezing can be considered a common symptom but less frequent than others like fever or cough[1][2].",
+        "links": [
+          "https://link.springer.com/article/10.1007/s00405-021-06900-8",
+          "https://pubmed.ncbi.nlm.nih.gov/33242148/"
+        ]
+      },
+      "1": {
+        "fact": "When an infected person sneezes, they release tiny droplets containing the virus into the air",
+        "truthfulness": 100,
+        "explanation": "It is well established that respiratory viruses including SARS-CoV-2 (the virus causing COVID-19) are transmitted via respiratory droplets expelled during sneezing, coughing, or talking. These droplets can contain viral particles and are a primary mode of transmission[1][2].",
+        "links": [
+          "https://link.springer.com/article/10.1007/s00405-021-06900-8",
+          "https://pubmed.ncbi.nlm.nih.gov/33242148/"
+        ]
+      },
+      "2": {
+        "fact": "These droplets can be inhaled by others or land on surfaces that can be touched",
+        "truthfulness": 100,
+        "explanation": "Transmission of COVID-19 occurs through inhalation of respiratory droplets and contact with contaminated surfaces (fomites). Droplets expelled by sneezing can settle on surfaces, which others may touch and then infect themselves by touching their face[1][2].",
+        "links": [
+          "https://link.springer.com/article/10.1007/s00405-021-06900-8",
+          "https://pubmed.ncbi.nlm.nih.gov/33242148/"
+        ]
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36465185,
+      "id": "wyxq1bas9gdomu8n",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/wyxq1bas9gdomu8n",
+      "content": "Question: antibody test for covid 19 Answer: COVID-19 Antibody Test An antibody test, also known as a serology test, detects the presence of antibodies against the SARS-CoV-2 virus, the virus that causes COVID-19. Purpose:: - To determine if a person has been infected with COVID-19 in the past, even if they did not have symptoms. - To assess the level of immunity to COVID-19 after vaccination or natural infection. Types of Antibody Tests:: - IgG antibody test: Detects antibodies that provide long-term protection against reinfection. - IgM antibody test: Detects antibodies that indicate a recent infection within the past few weeks. Procedure:: - A blood sample is taken and analyzed in a laboratory. Results:: - Positive: Indicates that the person has been infected with COVID-19 in the past and has developed antibodies. - Negative: Indicates that the person has not been infected with COVID-19 or does not have detectable antibodies at the time of testing. Limitations:: - Antibody tests may not detect antibodies in people who have recently been infected or have a very low level of antibodies. - A positive result does not necessarily mean that a person is currently immune to COVID-19. Interpretation and Follow-up:: - Discuss the results with a healthcare provider to understand their implications. - Vaccination or additional measures may be recommended based on the test results. Note: It is important to consult with a healthcare professional for personalized medical advice and interpretation of test results.",
+      "formattedContent": "Question: antibody test for covid 19\n\nAnswer: COVID-19 Antibody Test\nAn antibody test, also known as a serology test, detects the presence of antibodies against the SARS-CoV-2 virus, the virus that causes COVID-19.\nPurpose::\n- To determine if a person has been infected with COVID-19 in the past, even if they did not have symptoms.\n- To assess the level of immunity to COVID-19 after vaccination or natural infection.\nTypes of Antibody Tests::\n- IgG antibody test: Detects antibodies that provide long-term protection against reinfection.\n- IgM antibody test: Detects antibodies that indicate a recent infection within the past few weeks.\nProcedure::\n- A blood sample is taken and analyzed in a laboratory.\nResults::\n- Positive: Indicates that the person has been infected with COVID-19 in the past and has developed antibodies.\n- Negative: Indicates that the person has not been infected with COVID-19 or does not have detectable antibodies at the time of testing.\nLimitations::\n- Antibody tests may not detect antibodies in people who have recently been infected or have a very low level of antibodies.\n- A positive result does not necessarily mean that a person is currently immune to COVID-19.\nInterpretation and Follow-up::\n- Discuss the results with a healthcare provider to understand their implications.\n- Vaccination or additional measures may be recommended based on the test results.\nNote: It is important to consult with a healthcare professional for personalized medical advice and interpretation of test results."
+    },
+    "credits": {
+      "used": 3
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "An antibody test, also known as a serology test, detects the presence of antibodies against the SARS-CoV-2 virus, the virus that causes COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "Antibody tests, or serology tests, detect antibodies specific to SARS-CoV-2, confirming past infection or immune response to the virus.",
+        "links": [
+          "https://www.uwmedicine.org/coronavirus/antibodytest",
+          "https://www.cochrane.org/evidence/CD013652_what-diagnostic-accuracy-antibody-tests-detection-infection-covid-19-virus"
+        ]
+      },
+      "1": {
+        "fact": "Purpose: To determine if a person has been infected with COVID-19 in the past, even if they did not have symptoms.",
+        "truthfulness": "100%",
+        "explanation": "Antibody tests are used to identify previous infection, including asymptomatic cases, by detecting antibodies developed after infection.",
+        "links": [
+          "https://www.uwmedicine.org/coronavirus/antibodytest",
+          "https://www.cochrane.org/evidence/CD013652_what-diagnostic-accuracy-antibody-tests-detection-infection-covid-19-virus"
+        ]
+      },
+      "2": {
+        "fact": "Purpose: To assess the level of immunity to COVID-19 after vaccination or natural infection.",
+        "truthfulness": "80%",
+        "explanation": "Antibody tests can indicate prior immune response but do not definitively measure protective immunity or its duration; a positive antibody test does not guarantee immunity.",
+        "links": [
+          "https://www.uwmedicine.org/coronavirus/antibodytest"
+        ]
+      },
+      "3": {
+        "fact": "Types of Antibody Tests: IgG antibody test detects antibodies that provide long-term protection against reinfection.",
+        "truthfulness": "90%",
+        "explanation": "IgG antibodies typically develop later and persist longer, often associated with longer-term immune response, but the extent and duration of protection against reinfection remain under study.",
+        "links": [
+          "https://www.cochrane.org/evidence/CD013652_what-diagnostic-accuracy-antibody-tests-detection-infection-covid-19-virus"
+        ]
+      },
+      "4": {
+        "fact": "Types of Antibody Tests: IgM antibody test detects antibodies that indicate a recent infection within the past few weeks.",
+        "truthfulness": "90%",
+        "explanation": "IgM antibodies usually appear earlier in infection and indicate recent exposure, but timing and interpretation can vary.",
+        "links": [
+          "https://www.cochrane.org/evidence/CD013652_what-diagnostic-accuracy-antibody-tests-detection-infection-covid-19-virus"
+        ]
+      },
+      "5": {
+        "fact": "Procedure: A blood sample is taken and analyzed in a laboratory.",
+        "truthfulness": "100%",
+        "explanation": "Antibody testing requires a blood sample, which is analyzed in a lab to detect antibodies.",
+        "links": [
+          "https://www.uwmedicine.org/coronavirus/antibodytest"
+        ]
+      },
+      "6": {
+        "fact": "Results: Positive indicates that the person has been infected with COVID-19 in the past and has developed antibodies.",
+        "truthfulness": "95%",
+        "explanation": "A positive antibody test generally indicates past infection, but false positives can occur, especially in low prevalence settings.",
+        "links": [
+          "https://www.uwmedicine.org/coronavirus/antibodytest",
+          "https://www.aruplab.com/news/4-21-2020/How-Accurate-Are-COVID-19-Tests"
+        ]
+      },
+      "7": {
+        "fact": "Results: Negative indicates that the person has not been infected with COVID-19 or does not have detectable antibodies at the time of testing.",
+        "truthfulness": "95%",
+        "explanation": "A negative result may mean no prior infection or that antibody levels are too low to detect, especially if tested too soon after infection.",
+        "links": [
+          "https://www.uwmedicine.org/coronavirus/antibodytest",
+          "https://www.cochrane.org/evidence/CD013652_what-diagnostic-accuracy-antibody-tests-detection-infection-covid-19-virus"
+        ]
+      },
+      "8": {
+        "fact": "Limitations: Antibody tests may not detect antibodies in people who have recently been infected or have a very low level of antibodies.",
+        "truthfulness": "100%",
+        "explanation": "Antibody tests have limited sensitivity early after infection and may miss low antibody levels, leading to false negatives.",
+        "links": [
+          "https://www.uwmedicine.org/coronavirus/antibodytest",
+          "https://www.cochrane.org/evidence/CD013652_what-diagnostic-accuracy-antibody-tests-detection-infection-covid-19-virus"
+        ]
+      },
+      "9": {
+        "fact": "Limitations: A positive result does not necessarily mean that a person is currently immune to COVID-19.",
+        "truthfulness": "100%",
+        "explanation": "Presence of antibodies does not guarantee immunity or protection from reinfection; immunity duration and effectiveness vary.",
+        "links": [
+          "https://www.uwmedicine.org/coronavirus/antibodytest"
+        ]
+      },
+      "10": {
+        "fact": "Interpretation and Follow-up: Discuss the results with a healthcare provider to understand their implications.",
+        "truthfulness": "100%",
+        "explanation": "Professional medical advice is recommended to interpret antibody test results accurately and guide subsequent actions.",
+        "links": []
+      },
+      "11": {
+        "fact": "Interpretation and Follow-up: Vaccination or additional measures may be recommended based on the test results.",
+        "truthfulness": "100%",
+        "explanation": "Healthcare providers may recommend vaccination or other measures regardless of antibody test results, depending on individual risk and guidelines.",
+        "links": []
+      },
+      "12": {
+        "fact": "Note: It is important to consult with a healthcare professional for personalized medical advice and interpretation of test results.",
+        "truthfulness": "100%",
+        "explanation": "Consulting healthcare professionals ensures appropriate understanding and use of antibody test results.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}

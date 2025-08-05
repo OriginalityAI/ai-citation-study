@@ -1,0 +1,47 @@
+{
+  "results": {
+    "properties": {
+      "privateID": 36461617,
+      "id": "36capz2y9f1wrevm",
+      "title": "AIO Fact Check",
+      "excludedUrls": [
+        "https://example.com"
+      ],
+      "publicLink": "https://app.originality.ai/share/36capz2y9f1wrevm",
+      "content": "Question: if laura has a school loan of $420, a car loan of $300 and rent of $550, what must she budget just to pay those expenses? Answer: Laura needs to budget at least $1,270 to cover her school loan, car loan, and rent. This is calculated by adding the cost of each expense: $420 (school loan) + $300 (car loan) + $550 (rent) = $1,270.",
+      "formattedContent": "Question: if laura has a school loan of $420, a car loan of $300 and rent of $550, what must she budget just to pay those expenses?\n\nAnswer: Laura needs to budget at least $1,270 to cover her school loan, car loan, and rent. This is calculated by adding the cost of each expense: $420 (school loan) + $300 (car loan) + $550 (rent) = $1,270."
+    },
+    "credits": {
+      "used": 1
+    },
+    "ai": {
+      "error": "not selected"
+    },
+    "plagiarism": {
+      "error": "not selected"
+    },
+    "facts": {
+      "0": {
+        "fact": "Laura needs to budget at least $1,270 to cover her school loan, car loan, and rent.",
+        "truthfulness": "100%",
+        "explanation": "The total amount Laura needs to budget is the sum of her school loan ($420), car loan ($300), and rent ($550), which adds up to $1,270. This is a straightforward arithmetic calculation.",
+        "links": []
+      },
+      "1": {
+        "fact": "This is calculated by adding the cost of each expense: $420 (school loan) + $300 (car loan) + $550 (rent) = $1,270.",
+        "truthfulness": "100%",
+        "explanation": "The calculation is correct: 420 + 300 + 550 equals 1,270, confirming the total budget needed for these expenses.",
+        "links": []
+      }
+    },
+    "readability": {
+      "error": "not selected"
+    },
+    "grammarSpelling": {
+      "error": "not selected"
+    },
+    "contentOptimizer": {
+      "error": "not selected"
+    }
+  }
+}
