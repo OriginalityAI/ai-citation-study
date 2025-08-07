@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-FACT_RESULTS_DIR = Path("fact_results")
+FACT_RESULTS_DIR = Path("samples/ymyl_29000/res_20250723_n100/fact_results")
 
 all_facts = []
 

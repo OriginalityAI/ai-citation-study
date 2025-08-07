@@ -108,3 +108,5 @@ Query: pfizer covid vaccine cpt codes
 Fact link: https://app.originality.ai/share/3y0b9incw52ktjma
 Error: passes Moderna vaccine code as Pfizer one
 Error level: AIO
+
+(skip until #54 if going to continue `python read_fact_check.py`)
