@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "message": "Fact checking completed successfully",
+  "data": {
+    "results": [
+      {
+        "claim": "average divorce is at the 8 years of marriage mark.",
+        "classification": "True",
+        "confidence": 1.0,
+        "explanation": "Multiple sources confirm that the average length of a first marriage that ends in divorce is about 8 years, with median durations around 7.8 to 7.9 years for men and women respectively.",
+        "sources": [
+          {
+            "title": "Divorce Statistics: From the Interesting to the Surprising",
+            "url": "https://www.goldbergjones-or.com/divorce/interesting-divorce-statistics/",
+            "date": "2023-10-19"
+          },
+          {
+            "title": "Divorce Statistics: Over 115 Studies, Facts and Rates ...",
+            "url": "https://www.wf-lawyers.com/divorce-statistics-and-facts/",
+            "date": "2024-06-18"
+          }
+        ],
+        "rewrite": null
+      },
+      {
+        "claim": "grass is blue.",
+        "classification": "False",
+        "confidence": 1.0,
+        "explanation": "Grass is naturally green or can have shades like blue-green, yellow-green, or reddish, but it is not blue; blue-green tint occurs in some species like Kentucky bluegrass but grass is not purely blue.",
+        "sources": [
+          {
+            "title": "Different Colors of Grass and What they Mean",
+            "url": "https://lawngevitycharlotte.com/different-colors-of-grass-and-what-they-mean/",
+            "date": "2023-09-18"
+          },
+          {
+            "title": "What Color Should My Grass Be? - Lawn",
+            "url": "https://www.milorganite.com/blog/Lawn/what-color-should-my-grass-be",
+            "date": "2022-03-12"
+          }
+        ],
+        "rewrite": "Grass is typically green, but some species like Kentucky bluegrass may have a blue-green tint under certain conditions."
+      },
+      {
+        "claim": "sun is hotter than lava.",
+        "classification": "True",
+        "confidence": 1.0,
+        "explanation": "The Sun's surface temperature is about 5,500 °C and its core reaches approximately 15 million °C, while lava temperatures range from about 650 to 1,600 °C, making the Sun significantly hotter than lava.",
+        "sources": [
+          {
+            "title": "How Hot Is the Sun? Sun Temperature",
+            "url": "https://sciencenotes.org/how-hot-is-the-sun-sun-temperature/",
+            "date": "2023-12-13"
+          },
+          {
+            "title": "What is the Temperature of Lava? - Universe Today",
+            "url": "https://www.universetoday.com/articles/temperature-of-lava",
+            "date": "2009-03-25"
+          }
+        ],
+        "rewrite": null
+      }
+    ]
+  }
+}
