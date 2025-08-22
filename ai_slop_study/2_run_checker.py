@@ -5,13 +5,10 @@ Run FEVER 1k binary sample through your fact checker API with:
 - line-by-line JSONL output
 - resume logic (skip already-processed fever_id)
 - full fact-checker response saved
+- retries on non-200 with exponential backoff
 
 Requires:
   pip install python-dotenv tqdm requests
-Inputs:
-  - fever_binary_1k.csv  (columns: fever_id, claim, classification)
-Outputs:
-  - checker_results.jsonl (one JSON object per line)
 """
 
 import os
@@ -31,14 +28,15 @@ INPUT_CSV = Path("fever_binary_1k.csv")
 OUTPUT_JSONL = Path("checker_results.jsonl")
 
 API_URL = "http://54.152.224.7/api/v1/scan"
-MAX_RETRIES = 3
-BACKOFF_BASE = 1.5
-TIMEOUT = 30         # seconds
+MAX_RETRIES = 5            # total attempts = MAX_RETRIES (including first try)
+BACKOFF_BASE = 1.7         # exponential base
+BACKOFF_JITTER = 0.4       # uniform(0, BACKOFF_JITTER) seconds
+MAX_BACKOFF = 60           # cap sleep seconds
+TIMEOUT = 30               # per-request timeout
 SEED = 42
 # ----------------------------
 
 def load_done_ids(path: Path) -> set[int]:
-    """Collect already-written fever_ids for resume."""
     done = set()
     if path.exists():
         with path.open("r", encoding="utf-8") as f:
@@ -52,7 +50,6 @@ def load_done_ids(path: Path) -> set[int]:
                     if isinstance(fid, int):
                         done.add(fid)
                 except Exception:
-                    # ignore malformed lines
                     continue
     return done
 
@@ -62,14 +59,31 @@ def try_parse_json(text: str) -> Optional[Dict[str, Any]]:
     except Exception:
         return None
 
+def _sleep_with_backoff(attempt: int, retry_after: Optional[str] = None):
+    # If server told us how long to wait, respect it
+    if retry_after:
+        try:
+            secs = float(retry_after)
+            time.sleep(min(secs, MAX_BACKOFF))
+            return
+        except Exception:
+            pass
+    # Otherwise exponential backoff + jitter
+    base = (BACKOFF_BASE ** max(1, attempt))
+    jitter = random.uniform(0, BACKOFF_JITTER)
+    time.sleep(min(base + jitter, MAX_BACKOFF))
+
 def call_checker(api_key: str, claim: str) -> Dict[str, Any]:
     """
     Call the checker API with retries.
-    Returns a dict containing:
-      - status_code
-      - elapsed_sec
-      - checker_response (dict)  if JSON body
-      - checker_raw      (str)   if non-JSON body
+    Retries on ANY non-200 or network error using exponential backoff.
+    Returns:
+      - status_code (int or None)
+      - elapsed_sec (float)
+      - retries (int)
+      - checker_response (dict) if JSON
+      - checker_raw (str) if non-JSON
+      - error (str) on total failure
     """
     headers = {
         "Content-Type": "application/json",
@@ -78,50 +92,57 @@ def call_checker(api_key: str, claim: str) -> Dict[str, Any]:
     payload = {"content": claim}
 
     random.seed(SEED)
-    attempt = 0
     start = time.time()
+    last_status = None
     last_err = None
 
-    while attempt < MAX_RETRIES:
+    for attempt in range(1, MAX_RETRIES + 1):
         try:
             resp = requests.post(API_URL, json=payload, headers=headers, timeout=TIMEOUT)
-            elapsed = time.time() - start
+            last_status = resp.status_code
 
+            if resp.status_code == 200:
+                out: Dict[str, Any] = {
+                    "status_code": resp.status_code,
+                    "elapsed_sec": round(time.time() - start, 3),
+                    "retries": attempt - 1,
+                }
+                try:
+                    out["checker_response"] = resp.json()
+                except ValueError:
+                    out["checker_raw"] = resp.text
+                return out
+
+            # Non-200: backoff then retry (unless this was the last attempt)
+            if attempt < MAX_RETRIES:
+                _sleep_with_backoff(attempt, resp.headers.get("Retry-After"))
+                continue
+
+            # Give back the last non-200
             out: Dict[str, Any] = {
                 "status_code": resp.status_code,
-                "elapsed_sec": round(elapsed, 3),
+                "elapsed_sec": round(time.time() - start, 3),
+                "retries": attempt - 1,
             }
-
-            # Prefer exact JSON as returned by the API
-            body_json = None
-            # First: try .json() (more robust with correct headers)
             try:
-                body_json = resp.json()
+                out["checker_response"] = resp.json()
             except ValueError:
-                # Fallback: try manual parse
-                body_json = try_parse_json(resp.text)
-
-            if isinstance(body_json, dict):
-                out["checker_response"] = body_json  # full response JSON
-            else:
-                out["checker_raw"] = resp.text       # raw body if not JSON
-
+                out["checker_raw"] = resp.text
             return out
 
         except requests.RequestException as e:
             last_err = repr(e)
-            attempt += 1
-            sleep_s = (BACKOFF_BASE ** attempt) + random.uniform(0, 0.25)
-            time.sleep(sleep_s)
-
-    return {
-        "status_code": None,
-        "elapsed_sec": round(time.time() - start, 3),
-        "error": last_err or "unknown_error",
-    }
+            if attempt < MAX_RETRIES:
+                _sleep_with_backoff(attempt)
+                continue
+            return {
+                "status_code": None,
+                "elapsed_sec": round(time.time() - start, 3),
+                "retries": attempt - 1,
+                "error": last_err or "unknown_error",
+            }
 
 def main():
-    # Load env / API key
     load_dotenv()
     api_key = os.getenv("ORIGINALITY_API_KEY")
     if not api_key:
@@ -130,10 +151,8 @@ def main():
     if not INPUT_CSV.exists():
         raise FileNotFoundError(f"Missing input CSV: {INPUT_CSV.resolve()}")
 
-    # Resume set
     done_ids = load_done_ids(OUTPUT_JSONL)
 
-    # Read all rows (for progress bar + ordering)
     rows = []
     with INPUT_CSV.open("r", encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f)
@@ -145,31 +164,23 @@ def main():
             rows.append({
                 "fever_id": fid,
                 "claim": r["claim"],
-                "gold": r.get("classification"),  # "true"/"false"
+                "gold": r.get("classification"),
             })
 
-    # Filter those not yet processed
     to_run = [r for r in rows if r["fever_id"] not in done_ids]
     if not to_run:
         print(f"All {len(rows)} items already processed. Nothing to do.")
         return
 
-    # Append results line-by-line
     with OUTPUT_JSONL.open("a", encoding="utf-8") as out_f:
         for r in tqdm(to_run, total=len(to_run), desc="Checking claims"):
-            fid = r["fever_id"]
-            claim = r["claim"]
-
-            result = call_checker(api_key, claim)
-
+            result = call_checker(api_key, r["claim"])
             record = {
-                "fever_id": fid,
-                "claim": claim,
+                "fever_id": r["fever_id"],
+                "claim": r["claim"],
                 "gold": r["gold"],
-                # "api_url": API_URL,
-                **result,  # includes status_code, elapsed_sec, and checker_response or checker_raw
+                **result,
             }
-
             out_f.write(json.dumps(record, ensure_ascii=False) + "\n")
             out_f.flush()
 
