@@ -10,7 +10,7 @@ API_KEY = os.getenv("ORIGINALITY_API_KEY")
 url = "http://54.152.224.7/api/v1/scan"
 
 payload = {
-    "content": "average divorce is at the 8 years of marriage mark. grass is blue. sun is hotter than lava. I like porridge with bananas."
+    "content": "The Eighth Doctor has only ever aired on FX."
 }
 
 headers = {
