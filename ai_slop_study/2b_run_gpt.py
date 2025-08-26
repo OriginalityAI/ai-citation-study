@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 import openai  # client = openai.OpenAI(...)
 
 INPUT_CSV = Path("fever_binary_1k.csv")
-MODELS = ["gpt-4o", "gpt-5"]    # hardcoded models
+MODELS = ["gpt-5"]    # hardcoded models
 DELAY_SEC = 0.5                 # 500 ms between requests
 
 SYSTEM_MSG = (
@@ -63,7 +63,7 @@ def run_for_model(client, model: str):
                     model=model,
                     instructions=SYSTEM_MSG,
                     input=[{"role": "user", "content": USER_TMPL.format(claim=claim)}],
-                    temperature=0,
+                    # temperature=0,
                 )
                 # Keep EXACT raw text; collapse newlines to a single line
                 raw_text = resp.output_text if hasattr(resp, "output_text") else str(resp)
