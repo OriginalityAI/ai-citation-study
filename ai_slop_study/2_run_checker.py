@@ -80,10 +80,7 @@ def main():
     with INPUT_CSV.open("r", encoding="utf-8", newline="") as f:
         r = csv.DictReader(f)
         for row in r:
-            try:
-                fid = int(row["fever_id"])
-            except Exception:
-                continue
+            fid = int(row["fever_id"])
             rows.append({"fever_id": fid, "claim": row["claim"], "gold": row.get("classification")})
 
     # Filter to those not yet successfully processed
