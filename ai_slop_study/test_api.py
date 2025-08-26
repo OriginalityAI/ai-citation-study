@@ -10,7 +10,7 @@ API_KEY = os.getenv("ORIGINALITY_API_KEY")
 url = "http://54.152.224.7/api/v1/scan"
 
 payload = {
-    "content": "The Eighth Doctor has only ever aired on FX."
+    "content": "The Little Prince (2015 film) is incapable of being a film."
 }
 
 headers = {

@@ -51,7 +51,7 @@ with open(INFILE, "r", encoding="utf-8") as f:
 
         # only evaluate binary rows
         if gold not in {"true", "false"} or pred not in {"true", "false"}:
-            print(obj.get('fever_id'), gold, pred)
+            print(f"{obj.get('fever_id')},{obj.get('claim')},{gold},{pred}")
             skipped += 1
             continue
 
