@@ -1,0 +1,25 @@
+2025-08-27 11:47:16 | INFO     | Logger initialized (level=INFO, to_file=1)
+2025-08-27 11:47:16 | INFO     | Loading environment (.env)
+2025-08-27 11:47:16 | INFO     | Base directory: /Users/rustemkakimov/Code/MITACS/ouroboros/samples/ymyl_29000/res_20250723_n100
+2025-08-27 11:47:16 | INFO     | Loading classified CSV: /Users/rustemkakimov/Code/MITACS/ouroboros/samples/ymyl_29000/res_20250723_n100/__classified_urls.csv (14.3MB)
+2025-08-27 11:47:16 | INFO     | Loaded 167856 classified rows in 0s
+2025-08-27 11:47:16 | INFO     | Loading scraped content CSV (this may be large): /Users/rustemkakimov/Code/MITACS/ouroboros/samples/ymyl_29000/res_20250723_n100/_scraped.csv (781.0MB)
+2025-08-27 11:47:23 | INFO     | Built scraped map of 173526 URLs in 7s
+2025-08-27 11:47:23 | INFO     | Deduplicating URLs (keep first occurrence)
+2025-08-27 11:47:23 | INFO     | Deduped: 167856 -> 167856 unique URLs
+2025-08-27 11:47:23 | INFO     | Resume scan: parsing previously completed URLs from /Users/rustemkakimov/Code/MITACS/ouroboros/ai_slop_study/serp_fc_results.jsonl (2.0MB)
+2025-08-27 11:47:23 | INFO     | Resume scan: found 185 completed URLs
+2025-08-27 11:47:23 | INFO     | Resume state: 185 already done, 167671 queued for processing
+2025-08-27 11:47:23 | INFO     | Opening output JSONL for append: /Users/rustemkakimov/Code/MITACS/ouroboros/ai_slop_study/serp_fc_results.jsonl
+2025-08-27 11:47:23 | INFO     | (1/167671) Submitting to checker | url=http://jnsjkzx.com/a/jkzs/2024/1015/3197.html | chars=1414 | class=Human
+2025-08-27 11:47:43 | WARNING  | Checker: non-200 status=500 on attempt 1
+2025-08-27 11:47:43 | WARNING  | Checker: backing off for 2s (cap=300s)
+2025-08-27 11:47:45 | WARNING  | Checker: retry attempt 2
+2025-08-27 11:48:05 | WARNING  | Checker: non-200 status=500 on attempt 2
+2025-08-27 11:48:05 | WARNING  | Checker: backing off for 4s (cap=300s)
+2025-08-27 11:48:09 | WARNING  | Checker: retry attempt 3
+2025-08-27 11:48:26 | WARNING  | Checker: non-200 status=500 on attempt 3
+2025-08-27 11:48:26 | WARNING  | Checker: backing off for 8s (cap=300s)
+2025-08-27 11:48:34 | WARNING  | Checker: retry attempt 4
+2025-08-27 11:48:51 | WARNING  | Checker: non-200 status=500 on attempt 4
+2025-08-27 11:48:51 | WARNING  | Checker: backing off for 16s (cap=300s)
