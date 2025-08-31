@@ -25,8 +25,8 @@ LOG_PATH       = HERE / "serp_fc.log"
 
 # ---------- API / Runtime Config ----------
 API_URL     = "http://54.152.224.7/api/v1/scan"
-TIMEOUT_S   = 600          # 10 minutes per request
-MAX_RETRIES = 100          # retry non-200 with 2,4,8,... backoff
+TIMEOUT_S   = 120          # 2 minutes per request
+MAX_RETRIES = 1            # retry non-200 with 2,4,8,... backoff
 MAX_SLEEP   = 300          # cap a single backoff sleep to 5 min
 MIN_CONTENT_CHARS = 50     # consider pages with less as too short
 
