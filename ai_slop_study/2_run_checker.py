@@ -7,8 +7,9 @@ import requests
 from dotenv import load_dotenv
 
 INPUT_CSV = Path("fever_binary_1k.csv")
-OUTPUT_JSONL = Path("checker_results.jsonl")
+OUTPUT_JSONL = Path("scifact_checker_results.jsonl")
 
+ID_LABEL = 'fever_id'
 API_URL = "http://54.152.224.7/api/v1/scan"
 TIMEOUT = 300              # seconds
 MAX_RETRIES = 20           # total attempts per claim
@@ -24,8 +25,8 @@ def load_done_ids(path: Path) -> set:
                     obj = json.loads(line)
                 except Exception:
                     continue
-                if obj.get("status_code") == 200 and isinstance(obj.get("fever_id"), int):
-                    done.add(obj["fever_id"])
+                if obj.get("status_code") == 200 and isinstance(obj.get(ID_LABEL), int):
+                    done.add(obj[ID_LABEL])
     return done
 
 def call_checker(api_key: str, claim: str):
@@ -80,11 +81,11 @@ def main():
     with INPUT_CSV.open("r", encoding="utf-8", newline="") as f:
         r = csv.DictReader(f)
         for row in r:
-            fid = int(row["fever_id"])
-            rows.append({"fever_id": fid, "claim": row["claim"], "gold": row.get("classification")})
+            fid = int(row[ID_LABEL])
+            rows.append({ID_LABEL: fid, "claim": row["claim"], "gold": row.get("classification")})
 
     # Filter to those not yet successfully processed
-    to_run = [r for r in rows if r["fever_id"] not in done_ids]
+    to_run = [r for r in rows if r[ID_LABEL] not in done_ids]
     total = len(to_run)
     if total == 0:
         print(f"All {len(rows)} items already processed successfully. Nothing to do.")
@@ -95,7 +96,7 @@ def main():
             result = call_checker(api_key, r["claim"])
             status = result.get("status_code")
             print(f"({idx} / {total}) fever_id={r['fever_id']} status={status}")
-            record = {"fever_id": r["fever_id"], "claim": r["claim"], "gold": r["gold"], **result}
+            record = {ID_LABEL: r[ID_LABEL], "claim": r["claim"], "gold": r["gold"], **result}
             out_f.write(json.dumps(record, ensure_ascii=False) + "\n")
             out_f.flush()
 
