@@ -6,10 +6,10 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-INPUT_CSV = Path("fever_binary_1k.csv")
+INPUT_CSV = Path("scifact/scifact_693.csv")
 OUTPUT_JSONL = Path("scifact_checker_results.jsonl")
 
-ID_LABEL = 'fever_id'
+ID_LABEL = 'scifact_id'
 API_URL = "http://54.152.224.7/api/v1/scan"
 TIMEOUT = 300              # seconds
 MAX_RETRIES = 20           # total attempts per claim
@@ -95,7 +95,7 @@ def main():
         for idx, r in enumerate(to_run, start=1):
             result = call_checker(api_key, r["claim"])
             status = result.get("status_code")
-            print(f"({idx} / {total}) fever_id={r['fever_id']} status={status}")
+            print(f"({idx} / {total}) fever_id={r[ID_LABEL]} status={status}")
             record = {ID_LABEL: r[ID_LABEL], "claim": r["claim"], "gold": r["gold"], **result}
             out_f.write(json.dumps(record, ensure_ascii=False) + "\n")
             out_f.flush()
