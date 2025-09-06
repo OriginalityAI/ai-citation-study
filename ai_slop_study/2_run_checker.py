@@ -6,8 +6,8 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-INPUT_CSV = Path("scifact/scifact_693.csv")
-OUTPUT_JSONL = Path("scifact_checker_results.jsonl")
+INPUT_CSV = Path("averitec/averitec_3018.csv")
+OUTPUT_JSONL = Path("averitec_checker_results.jsonl")
 
 ID_LABEL = 'scifact_id'
 API_URL = "http://54.152.224.7/api/v1/scan"
