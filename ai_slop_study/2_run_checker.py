@@ -6,8 +6,8 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-INPUT_CSV = Path("_claim_datasets/averitec_3018.csv")
-OUTPUT_JSONL = Path("_results/averitec_3018/averitec_checker_results.jsonl")
+INPUT_CSV = Path("_claim_datasets/averitec_3017.csv")
+OUTPUT_JSONL = Path("_results/averitec_3017/averitec_checker_results.jsonl")
 
 ID_LABEL = 'averitec_id'
 API_URL = "http://54.152.224.7/api/v1/scan"
