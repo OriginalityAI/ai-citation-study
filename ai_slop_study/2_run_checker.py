@@ -6,10 +6,10 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-INPUT_CSV = Path("averitec/averitec_3018.csv")
-OUTPUT_JSONL = Path("averitec_checker_results.jsonl")
+INPUT_CSV = Path("_claim_datasets/averitec_3018.csv")
+OUTPUT_JSONL = Path("_results/averitec_3018/averitec_checker_results.jsonl")
 
-ID_LABEL = 'scifact_id'
+ID_LABEL = 'averitec_id'
 API_URL = "http://54.152.224.7/api/v1/scan"
 TIMEOUT = 300              # seconds
 MAX_RETRIES = 20           # total attempts per claim
@@ -81,7 +81,7 @@ def main():
     with INPUT_CSV.open("r", encoding="utf-8", newline="") as f:
         r = csv.DictReader(f)
         for row in r:
-            fid = int(row[ID_LABEL])
+            fid = row[ID_LABEL]
             rows.append({ID_LABEL: fid, "claim": row["claim"], "gold": row.get("classification")})
 
     # Filter to those not yet successfully processed
