@@ -25,7 +25,7 @@ def load_done_ids(path: Path) -> set:
                     obj = json.loads(line)
                 except Exception:
                     continue
-                if obj.get("status_code") == 200 and isinstance(obj.get(ID_LABEL), int):
+                if obj.get("status_code") == 200 and obj.get(ID_LABEL):
                     done.add(obj[ID_LABEL])
     return done
 
