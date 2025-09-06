@@ -7,7 +7,9 @@ from pathlib import Path
 from dotenv import load_dotenv
 import openai  # client = openai.OpenAI(...)
 
-INPUT_CSV = Path("fever_binary_1k.csv")
+INPUT_CSV = Path("_claim_datasets/scifact_693.csv")
+OUT_PATH = Path("_results/scifact_693")
+ID_LABEL = 'scifact_id'
 MODELS = ["gpt-5"]    # hardcoded models
 DELAY_SEC = 0.5                 # 500 ms between requests
 
@@ -28,28 +30,28 @@ def load_done_ids(out_path: Path) -> set[int]:
             for line in f:
                 try:
                     obj = json.loads(line)
-                    if obj.get("status") == "ok" and isinstance(obj.get("fever_id"), int):
-                        done.add(obj["fever_id"])
+                    if obj.get("status") == "ok" and isinstance(obj.get(ID_LABEL), int):
+                        done.add(obj[ID_LABEL])
                 except Exception:
                     pass
     return done
 
 def run_for_model(client, model: str):
-    out_file = Path(f"gpt_results_raw_{safe_model_filename(model)}.jsonl")
+    out_file = OUT_PATH / Path(f"gpt_results_raw_{safe_model_filename(model)}.jsonl")
 
     # Load rows
     rows = []
     with INPUT_CSV.open("r", encoding="utf-8", newline="") as f:
         for r in csv.DictReader(f):
             try:
-                fid = int(r["fever_id"])
+                fid = int(r[ID_LABEL])
             except Exception:
                 continue
-            rows.append({"fever_id": fid, "claim": r["claim"], "gold": r.get("classification")})
+            rows.append({ID_LABEL: fid, "claim": r["claim"], "gold": r.get("classification")})
 
     # Resume
     done = load_done_ids(out_file)
-    to_run = [r for r in rows if r["fever_id"] not in done]
+    to_run = [r for r in rows if r[ID_LABEL] not in done]
     total = len(to_run)
     if total == 0:
         print(f"[{model}] All {len(rows)} items already processed successfully. Nothing to do.")
@@ -57,20 +59,20 @@ def run_for_model(client, model: str):
 
     with out_file.open("a", encoding="utf-8") as out_f:
         for i, r in enumerate(to_run, 1):
-            fid, claim = r["fever_id"], r["claim"]
+            fid, claim = r[ID_LABEL], r["claim"]
             try:
                 resp = client.responses.create(
                     model=model,
                     instructions=SYSTEM_MSG,
                     input=[{"role": "user", "content": USER_TMPL.format(claim=claim)}],
-                    # temperature=0,
+                    # temperature=0 if model != 'gpt-5' else None,
                 )
                 # Keep EXACT raw text; collapse newlines to a single line
                 raw_text = resp.output_text if hasattr(resp, "output_text") else str(resp)
                 one_line = raw_text.replace("\r", " ").replace("\n", " ").strip()
 
                 record = {
-                    "fever_id": fid,
+                    ID_LABEL: fid,
                     "claim": claim,
                     "gold": r["gold"],
                     "model": model,
@@ -80,7 +82,7 @@ def run_for_model(client, model: str):
                 print(f"[{model}] ({i} / {total}) id={fid} status=ok")
             except Exception as e:
                 record = {
-                    "fever_id": fid,
+                    ID_LABEL: fid,
                     "claim": claim,
                     "gold": r["gold"],
                     "model": model,
