@@ -7,10 +7,10 @@ from pathlib import Path
 from dotenv import load_dotenv
 import openai  # client = openai.OpenAI(...)
 
-INPUT_CSV = Path("_claim_datasets/scifact_693.csv")
-OUT_PATH = Path("_results/scifact_693")
-ID_LABEL = 'scifact_id'
-MODELS = ["gpt-4o"]    # hardcoded models
+INPUT_CSV = Path("_claim_datasets/averitec_3017.csv")
+OUT_PATH = Path("_results/averitec_3017")
+ID_LABEL = 'averitec_id'
+MODELS = ["gpt-4o", "gpt-5"]    # hardcoded models
 DELAY_SEC = 0.5                 # 500 ms between requests
 
 SYSTEM_MSG = (
@@ -30,7 +30,7 @@ def load_done_ids(out_path: Path) -> set[int]:
             for line in f:
                 try:
                     obj = json.loads(line)
-                    if obj.get("status") == "ok" and isinstance(obj.get(ID_LABEL), int):
+                    if obj.get("status") == "ok" and obj.get(ID_LABEL):
                         done.add(obj[ID_LABEL])
                 except Exception:
                     pass
@@ -44,7 +44,7 @@ def run_for_model(client, model: str):
     with INPUT_CSV.open("r", encoding="utf-8", newline="") as f:
         for r in csv.DictReader(f):
             try:
-                fid = int(r[ID_LABEL])
+                fid = r[ID_LABEL]
             except Exception:
                 continue
             rows.append({ID_LABEL: fid, "claim": r["claim"], "gold": r.get("classification")})
