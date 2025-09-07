@@ -71,6 +71,8 @@ def run_for_model(client, model: str):
                 raw_text = resp.output_text if hasattr(resp, "output_text") else str(resp)
                 one_line = raw_text.replace("\r", " ").replace("\n", " ").strip()
 
+                print(one_line)
+
                 record = {
                     ID_LABEL: fid,
                     "claim": claim,
