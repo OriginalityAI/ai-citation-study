@@ -10,7 +10,7 @@ import openai  # client = openai.OpenAI(...)
 INPUT_CSV = Path("_claim_datasets/scifact_693.csv")
 OUT_PATH = Path("_results/scifact_693")
 ID_LABEL = 'scifact_id'
-MODELS = ["gpt-5"]    # hardcoded models
+MODELS = ["gpt-4o"]    # hardcoded models
 DELAY_SEC = 0.5                 # 500 ms between requests
 
 SYSTEM_MSG = (
@@ -65,7 +65,7 @@ def run_for_model(client, model: str):
                     model=model,
                     instructions=SYSTEM_MSG,
                     input=[{"role": "user", "content": USER_TMPL.format(claim=claim)}],
-                    # temperature=0 if model != 'gpt-5' else None,
+                    temperature=0 if model != 'gpt-5' else None,
                 )
                 # Keep EXACT raw text; collapse newlines to a single line
                 raw_text = resp.output_text if hasattr(resp, "output_text") else str(resp)
