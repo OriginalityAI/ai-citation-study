@@ -8,6 +8,7 @@ import os
 import csv
 import json
 import time
+import random
 import logging
 from pathlib import Path
 from typing import Set, List, Dict, Any
@@ -20,6 +21,7 @@ HERE = Path(__file__).resolve().parent
 BASE = (HERE / "../samples/ymyl_29000/res_20250723_n100").resolve()
 CLASSIFIED_CSV = BASE / "__classified_urls.csv"
 SCRAPED_CSV    = BASE / "_scraped.csv"
+ALPHA_OUTPUT_JSONL   = HERE / "serp_fc_results_alpha.jsonl"
 OUTPUT_JSONL   = HERE / "serp_fc_results.jsonl"
 LOG_PATH       = HERE / "serp_fc.log"
 
@@ -258,8 +260,10 @@ def main():
     LOGGER.info("Deduped: %d -> %d unique URLs", len(rows), len(deduped))
 
     # Resume
-    done = load_done_urls(OUTPUT_JSONL)
+    done = load_done_urls(OUTPUT_JSONL) | load_done_urls(ALPHA_OUTPUT_JSONL)
     to_run = [r for r in deduped if r["url"] not in done]
+    random.shuffle(to_run)
+    
     total = len(to_run)
     LOGGER.info("Resume state: %d already done, %d queued for processing", len(done), total)
     if total == 0:
