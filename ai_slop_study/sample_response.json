@@ -1,65 +1,89 @@
 {
-  "success": true,
-  "message": "Fact checking completed successfully",
-  "data": {
-    "results": [
-      {
-        "claim": "average divorce is at the 8 years of marriage mark.",
-        "classification": "True",
-        "confidence": 1.0,
-        "explanation": "Multiple sources confirm that the average length of a first marriage that ends in divorce is about 8 years, with median durations around 7.8 to 7.9 years for men and women respectively.",
-        "sources": [
-          {
-            "title": "Divorce Statistics: From the Interesting to the Surprising",
-            "url": "https://www.goldbergjones-or.com/divorce/interesting-divorce-statistics/",
-            "date": "2023-10-19"
-          },
-          {
-            "title": "Divorce Statistics: Over 115 Studies, Facts and Rates ...",
-            "url": "https://www.wf-lawyers.com/divorce-statistics-and-facts/",
-            "date": "2024-06-18"
-          }
-        ],
-        "rewrite": null
-      },
-      {
-        "claim": "grass is blue.",
-        "classification": "False",
-        "confidence": 1.0,
-        "explanation": "Grass is naturally green or can have shades like blue-green, yellow-green, or reddish, but it is not blue; blue-green tint occurs in some species like Kentucky bluegrass but grass is not purely blue.",
-        "sources": [
-          {
-            "title": "Different Colors of Grass and What they Mean",
-            "url": "https://lawngevitycharlotte.com/different-colors-of-grass-and-what-they-mean/",
-            "date": "2023-09-18"
-          },
-          {
-            "title": "What Color Should My Grass Be? - Lawn",
-            "url": "https://www.milorganite.com/blog/Lawn/what-color-should-my-grass-be",
-            "date": "2022-03-12"
-          }
-        ],
-        "rewrite": "Grass is typically green, but some species like Kentucky bluegrass may have a blue-green tint under certain conditions."
-      },
-      {
-        "claim": "sun is hotter than lava.",
-        "classification": "True",
-        "confidence": 1.0,
-        "explanation": "The Sun's surface temperature is about 5,500 °C and its core reaches approximately 15 million °C, while lava temperatures range from about 650 to 1,600 °C, making the Sun significantly hotter than lava.",
-        "sources": [
-          {
-            "title": "How Hot Is the Sun? Sun Temperature",
-            "url": "https://sciencenotes.org/how-hot-is-the-sun-sun-temperature/",
-            "date": "2023-12-13"
-          },
-          {
-            "title": "What is the Temperature of Lava? - Universe Today",
-            "url": "https://www.universetoday.com/articles/temperature-of-lava",
-            "date": "2009-03-25"
-          }
-        ],
-        "rewrite": null
-      }
-    ]
+  "url": "https://www.recipal.com/ingredients/12690-nutrition-facts-calories-protein-carbs-fat-farro",
+  "ai_class": "Human",
+  "confidence": "99.39",
+  "content_chars": 2121,
+  "status_code": 200,
+  "elapsed_sec": 16.49,
+  "retries": 0,
+  "checker_response": {
+    "success": true,
+    "message": "Fact checking completed successfully",
+    "data": {
+      "results": [
+        {
+          "claim": "Nutrition Facts Serving Size Quantity Units 100 grams 1/4 cup gram oz lb kg teaspoon tablespoon fl oz cup pint quart gallon ml liter Nutrition Facts Farro Serving size 100 grams ( 100 g) Amount Per Serving Calories 356 % Daily Value* Total Fat 1g 1% Saturated Fat 0g 0% Trans Fat 0g Polyunsaturated Fat -g Monounsaturated Fat -g Cholesterol 0mg 0% Sodium 0mg 0% Total Carbohydrate 73g 27% Dietary Fiber (per old FDA rule) 7g 27% Dietary Fiber 7g 24% Total Sugars 0g Includes 0g Added Sugars 0% Sugar Alcohol 0g Protein 13g Vitamin D 0mcg 0% Calcium 40mg 3% Iron 4.4mg 25% Potassium 480mg 10% Vitamin A 0mcg 0% Vitamin C 0mg 0% Vitamin E -mg -% Vitamin K -mcg -% Thiamin -mg -% Riboflavin -mg -% Niacin -mg -% Vitamin B6 -mg -% Folate -mcg DFE -% Vitamin B12 -mcg -% Pantothenic Acid -mg -% Phosphorus -mg -% Magnesium -mg -% Zinc -mg -% Selenium -mcg -% Copper -mg -% Manganese -mg -% * The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet.",
+          "classification": "False",
+          "confidence": 0.95,
+          "explanation": "The nutritional values given (356 calories, 1g fat, 73g carbs, 13g protein per 100g) do not align with multiple sources that report farro has about 133-140 calories, 0.5-1g fat, 29-41g carbs, and 6-8g protein per 100g or 1/4 cup dry serving.",
+          "sources": [
+            {
+              "title": "Health Benefits of Farro - WebMD",
+              "url": "https://www.webmd.com/diet/health-benefits-farro",
+              "date": "2024-09-29"
+            },
+            {
+              "title": "Calories in FARRO (100g) & Nutrition Facts - Lilbite",
+              "url": "https://lilbite.app/food/farro",
+              "date": "2025-07-10"
+            },
+            {
+              "title": "Farro by Raley's nutrition facts and analysis. - Nutrition Value",
+              "url": "https://www.nutritionvalue.org/Farro_by_Raley's_1682262_nutritional_value.html",
+              "date": null
+            }
+          ],
+          "rewrite": "Nutrition Facts Serving Size Quantity Units 100 grams 1/4 cup gram oz lb kg teaspoon tablespoon fl oz cup pint quart gallon ml liter Nutrition Facts Farro Serving size 100 grams ( 100 g) Amount Per Serving Calories 140 % Daily Value* Total Fat 1g 1% Saturated Fat 0g 0% Trans Fat 0g Polyunsaturated Fat -g Monounsaturated Fat -g Cholesterol 0mg 0% Sodium 25mg 1% Total Carbohydrate 30g 10% Dietary Fiber 3g 12% Total Sugars 0g Includes 0g Added Sugars 0% Sugar Alcohol 0g Protein 6g Vitamin D 0mcg 0% Calcium 40mg 3% Iron 4.4mg 25% Potassium 480mg 10% Vitamin A 0mcg 0% Vitamin C 0mg 0% Vitamin E -mg -% Vitamin K -mcg -% Thiamin -mg -% Riboflavin -mg -% Niacin -mg -% Vitamin B6 -mg -% Folate -mcg DFE -% Vitamin B12 -mcg -% Pantothenic Acid -mg -% Phosphorus -mg -% Magnesium -mg -% Zinc -mg -% Selenium -mcg -% Copper -mg -% Manganese -mg -% * The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet."
+        },
+        {
+          "claim": "2,000 calories a day is used for general nutrition advice.",
+          "classification": "True",
+          "confidence": 1.0,
+          "explanation": "2,000 calories a day is commonly used as a general guide for nutrition advice and labeling purposes by authoritative sources such as the FDA and NIH.",
+          "sources": [
+            {
+              "title": "How Many Calories Should You Eat per Day to Lose Weight?",
+              "url": "https://www.healthline.com/nutrition/how-many-calories-per-day",
+              "date": "2020-10-16"
+            },
+            {
+              "title": "How Many Calories Should You Eat in a Day? | Atlantic Health System",
+              "url": "https://ahs.atlantichealth.org/about-us/stay-connected/news/content-central/2023/how-many-calories.html",
+              "date": "2023-09-26"
+            }
+          ],
+          "rewrite": null
+        },
+        {
+          "claim": "Nutrition Facts Serving Size Quantity Units 100 grams 1/4 cup gram oz lb kg teaspoon tablespoon fl oz cup pint quart gallon ml liter Ingredient info Brand: In Harvest Data source: Data source link Data source attachment: none specified Ingredient statement: none specified (844) 732-4725 @recipalco @recipal facebook.com/recipal Company About Blog Pricing Legal Affiliates Resources FAQ Contact Video Tutorials API Products Nutrition Label Software Inventory Hire a Labeling Expert Label Printing Copyright © 2011-2025 ReciPal, LLC.",
+          "classification": "True",
+          "confidence": 1.0,
+          "explanation": "ReciPal LLC was founded in 2011 and provides FDA-compliant nutrition fact labels, recipe costing, and inventory management software, as described on their official website and supported by multiple sources including their about page and blog. The brand 'In Harvest' is mentioned as a brand example in the context of ingredient info, consistent with typical label data fields, and the contact and copyright details match those publicly associated with ReciPal LLC.",
+          "sources": [
+            {
+              "title": "About Us - ReciPal",
+              "url": "https://www.recipal.com/about",
+              "date": null
+            },
+            {
+              "title": "Lev Berlin articles - ReciPal Blog",
+              "url": "https://www.recipal.com/blog/author/lev-berlin",
+              "date": "2023-09-20"
+            },
+            {
+              "title": "A cheaper (and totally legal) way to do nutrition labels - The Counter",
+              "url": "https://thecounter.org/nutrition-labels-meet-recipal/",
+              "date": "2015-03-09"
+            },
+            {
+              "title": "About Us - ReciPal",
+              "url": "https://www.recipal.com/about",
+              "date": null
+            }
+          ],
+          "rewrite": null
+        }
+      ]
+    }
   }
 }

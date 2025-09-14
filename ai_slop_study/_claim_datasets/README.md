@@ -21,3 +21,6 @@ SERP Progress log
 
 4.  2025-09-13 16:15:10 | INFO | Progress: 3283/153543 | ok=3272, fail=11, no_text=0 | elapsed=22h 3m 55s | eta=1009h 54m 12s
     2025-09-13 16:15:10 | INFO | (3284/153543) Submitting to checker | url=https://www.msmunify.com/study-in-australia/student-visa | chars=5000 | class=Human
+
+5.  2025-09-14 19:18:28 | INFO | Progress: 3191/150271 | ok=3155, fail=36, no_text=0 | elapsed=26h 41m 37s | eta=1230h 21m 39s
+    2025-09-14 19:18:28 | INFO | (3192/150271) Submitting to checker | url=https://my.clevelandclinic.org/health/diseases/21859-anosmia-loss-of-sense-of-smell | chars=5000 | class=Human
