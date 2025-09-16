@@ -24,3 +24,6 @@ SERP Progress log
 
 5.  2025-09-14 19:18:28 | INFO | Progress: 3191/150271 | ok=3155, fail=36, no_text=0 | elapsed=26h 41m 37s | eta=1230h 21m 39s
     2025-09-14 19:18:28 | INFO | (3192/150271) Submitting to checker | url=https://my.clevelandclinic.org/health/diseases/21859-anosmia-loss-of-sense-of-smell | chars=5000 | class=Human
+
+6.  2025-09-15 21:27:22 | INFO | Progress: 2860/147116 | ok=2852, fail=8, no_text=0 | elapsed=26h 7m 12s | eta=1317h 28m 1s
+    2025-09-15 21:27:22 | INFO | (2861/147116) Submitting to checker | url=https://www.sandstonecare.com/blog/generational-trauma | chars=5000 | class=Human

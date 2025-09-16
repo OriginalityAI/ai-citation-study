@@ -63042,3 +63042,397 @@
 2025-09-14 19:18:28 | INFO     | (3191/150271) Completed: 200 OK | url=https://www.centurymedicaldental.com/high-blood-pressure-understanding-blood-pressure-bp-readings | elapsed=32.488s | retries=0
 2025-09-14 19:18:28 | INFO     | Progress: 3191/150271 | ok=3155, fail=36, no_text=0 | elapsed=26h 41m 37s | eta=1230h 21m 39s
 2025-09-14 19:18:28 | INFO     | (3192/150271) Submitting to checker | url=https://my.clevelandclinic.org/health/diseases/21859-anosmia-loss-of-sense-of-smell | chars=5000 | class=Human
+2025-09-14 19:20:02 | INFO     | Logger initialized (level=INFO, to_file=1)
+2025-09-14 19:20:02 | INFO     | Loading environment (.env)
+2025-09-14 19:20:02 | INFO     | Base directory: /Users/rustemkakimov/Code/MITACS/ouroboros/samples/ymyl_29000/res_20250723_n100
+2025-09-14 19:20:02 | INFO     | Loading classified CSV: /Users/rustemkakimov/Code/MITACS/ouroboros/samples/ymyl_29000/res_20250723_n100/__classified_urls.csv (14.3MB)
+2025-09-14 19:20:02 | INFO     | Loaded 167856 classified rows in 0s
+2025-09-14 19:20:02 | INFO     | Loading scraped content CSV (this may be large): /Users/rustemkakimov/Code/MITACS/ouroboros/samples/ymyl_29000/res_20250723_n100/_scraped.csv (781.0MB)
+2025-09-14 19:20:09 | INFO     | Built scraped map of 173526 URLs in 7s
+2025-09-14 19:20:09 | INFO     | Deduplicating URLs (keep first occurrence)
+2025-09-14 19:20:09 | INFO     | Deduped: 167856 -> 167856 unique URLs
+2025-09-14 19:20:09 | INFO     | Resume scan: parsing previously completed URLs from /Users/rustemkakimov/Code/MITACS/ouroboros/ai_slop_study/serp_fc_results.jsonl (187.7MB)
+2025-09-14 19:20:10 | INFO     | Resume scan: found 16795 completed URLs
+2025-09-14 19:20:10 | INFO     | Resume scan: parsing previously completed URLs from /Users/rustemkakimov/Code/MITACS/ouroboros/ai_slop_study/serp_fc_results_alpha.jsonl (48.5MB)
+2025-09-14 19:20:10 | INFO     | Resume scan: found 3945 completed URLs
+2025-09-14 19:20:10 | INFO     | Resume state: 20740 already done, 147116 queued for processing
+2025-09-14 19:20:10 | INFO     | Opening output JSONL for append: /Users/rustemkakimov/Code/MITACS/ouroboros/ai_slop_study/serp_fc_results.jsonl
+2025-09-14 19:20:10 | INFO     | (1/147116) Submitting to checker | url=https://www.texasattorneygeneral.gov/child-support/families-and-parenting/parenting-time-overview/parenting-time-schedule | chars=3579 | class=Human
+2025-09-14 19:20:39 | INFO     | (1/147116) Completed: 200 OK | url=https://www.texasattorneygeneral.gov/child-support/families-and-parenting/parenting-time-overview/parenting-time-schedule | elapsed=28.229s | retries=0
+2025-09-14 19:20:39 | INFO     | Progress: 1/147116 | ok=1, fail=0, no_text=0 | elapsed=28s | eta=1153h 40m 38s
+2025-09-14 19:20:39 | INFO     | (2/147116) Submitting to checker | url=https://www.keytruda.com/non-small-cell-lung-cancer/treatment-options | chars=5000 | class=Human
+2025-09-14 19:21:17 | INFO     | (2/147116) Completed: 200 OK | url=https://www.keytruda.com/non-small-cell-lung-cancer/treatment-options | elapsed=38.6s | retries=0
+2025-09-14 19:21:17 | INFO     | Progress: 2/147116 | ok=2, fail=0, no_text=0 | elapsed=1m 7s | eta=1365h 33m 43s
+2025-09-14 19:21:17 | INFO     | (3/147116) Submitting to checker | url=https://www.reddit.com/r/1200isplenty/comments/eu9pqe/a_whole_french_baguette_is_roughly_1000_calories | chars=2443 | class=Human
+2025-09-14 19:21:30 | INFO     | (3/147116) Completed: 200 OK | url=https://www.reddit.com/r/1200isplenty/comments/eu9pqe/a_whole_french_baguette_is_roughly_1000_calories | elapsed=12.964s | retries=0
+2025-09-14 19:21:30 | INFO     | Progress: 3/147116 | ok=3, fail=0, no_text=0 | elapsed=1m 20s | eta=1086h 58m 36s
+2025-09-14 19:21:30 | INFO     | (4/147116) Submitting to checker | url=https://www.peacecorpsconnect.org/a-little-relief-public-service-loan-forgiveness | chars=4964 | class=Human
+2025-09-14 19:22:02 | INFO     | (4/147116) Completed: 200 OK | url=https://www.peacecorpsconnect.org/a-little-relief-public-service-loan-forgiveness | elapsed=31.373s | retries=0
+2025-09-14 19:22:02 | INFO     | Progress: 4/147116 | ok=4, fail=0, no_text=0 | elapsed=1m 51s | eta=1135h 45m 4s
+2025-09-14 19:22:02 | INFO     | (5/147116) Submitting to checker | url=https://www.dcu.org/plan/retirement/how-much-can-i-save-with-my-401-k.html | chars=5000 | class=Human
+2025-09-14 19:22:22 | INFO     | (5/147116) Completed: 200 OK | url=https://www.dcu.org/plan/retirement/how-much-can-i-save-with-my-401-k.html | elapsed=20.142s | retries=0
+2025-09-14 19:22:22 | INFO     | Progress: 5/147116 | ok=5, fail=0, no_text=0 | elapsed=2m 11s | eta=1073h 13m 53s
+2025-09-14 19:22:22 | INFO     | (6/147116) Submitting to checker | url=https://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia | chars=1959 | class=Human
+2025-09-14 19:22:33 | INFO     | (6/147116) Completed: 200 OK | url=https://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia | elapsed=11.329s | retries=0
+2025-09-14 19:22:33 | INFO     | Progress: 6/147116 | ok=6, fail=0, no_text=0 | elapsed=2m 23s | eta=971h 31m 5s
+2025-09-14 19:22:33 | INFO     | (7/147116) Submitting to checker | url=https://healthnewshub.org/6-causes-of-low-blood-pressure | chars=5000 | class=Human
+2025-09-14 19:23:01 | INFO     | (7/147116) Completed: 200 OK | url=https://healthnewshub.org/6-causes-of-low-blood-pressure | elapsed=27.98s | retries=0
+2025-09-14 19:23:01 | INFO     | Progress: 7/147116 | ok=7, fail=0, no_text=0 | elapsed=2m 51s | eta=996h 4m 29s
+2025-09-14 19:23:01 | INFO     | (8/147116) Submitting to checker | url=https://imahealth.org/how-to-stop-the-10-deadliest-cancers | chars=5000 | class=Human
+2025-09-14 19:23:21 | INFO     | (8/147116) Completed: 200 OK | url=https://imahealth.org/how-to-stop-the-10-deadliest-cancers | elapsed=19.669s | retries=0
+2025-09-14 19:23:21 | INFO     | Progress: 8/147116 | ok=8, fail=0, no_text=0 | elapsed=3m 10s | eta=972h 2m 14s
+2025-09-14 19:23:21 | INFO     | (9/147116) Submitting to checker | url=https://www.mymyelomateam.com/resources/itchy-skin-and-multiple-myeloma | chars=5000 | class=AI
+2025-09-14 19:23:48 | INFO     | (9/147116) Completed: 200 OK | url=https://www.mymyelomateam.com/resources/itchy-skin-and-multiple-myeloma | elapsed=27.441s | retries=0
+2025-09-14 19:23:48 | INFO     | Progress: 9/147116 | ok=9, fail=0, no_text=0 | elapsed=3m 38s | eta=988h 37m 28s
+2025-09-14 19:23:48 | INFO     | (10/147116) Submitting to checker | url=https://www.childrenshospital.org/programs/cerebral-palsy-and-spasticity-center | chars=5000 | class=Human
+2025-09-14 19:24:05 | INFO     | (10/147116) Completed: 200 OK | url=https://www.childrenshospital.org/programs/cerebral-palsy-and-spasticity-center | elapsed=17.186s | retries=0
+2025-09-14 19:24:05 | INFO     | Progress: 10/147116 | ok=10, fail=0, no_text=0 | elapsed=3m 55s | eta=959h 59m 16s
+2025-09-14 19:24:05 | INFO     | (11/147116) Submitting to checker | url=https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1296569/full | chars=5000 | class=AI
+2025-09-14 19:24:23 | INFO     | (11/147116) Completed: 200 OK | url=https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1296569/full | elapsed=18.054s | retries=0
+2025-09-14 19:24:23 | INFO     | Progress: 11/147116 | ok=11, fail=0, no_text=0 | elapsed=4m 13s | eta=939h 46m 51s
+2025-09-14 19:24:23 | INFO     | (12/147116) Submitting to checker | url=https://my.clevelandclinic.org/health/diseases/9385-low-blood-pressure-orthostatic-hypotension | chars=5000 | class=Human
+2025-09-14 19:25:02 | INFO     | (12/147116) Completed: 200 OK | url=https://my.clevelandclinic.org/health/diseases/9385-low-blood-pressure-orthostatic-hypotension | elapsed=39.132s | retries=0
+2025-09-14 19:25:02 | INFO     | Progress: 12/147116 | ok=12, fail=0, no_text=0 | elapsed=4m 52s | eta=994h 43m 30s
+2025-09-14 19:25:02 | INFO     | (13/147116) Submitting to checker | url=https://www.upmc.com/locations/hospitals/magee/services/magee-womens-cancers/breast-cancer-program/types-of-breast-cancer/lobular-carcinoma | chars=4999 | class=Human
+2025-09-14 19:25:19 | INFO     | (13/147116) Completed: 200 OK | url=https://www.upmc.com/locations/hospitals/magee/services/magee-womens-cancers/breast-cancer-program/types-of-breast-cancer/lobular-carcinoma | elapsed=16.573s | retries=0
+2025-09-14 19:25:19 | INFO     | Progress: 13/147116 | ok=13, fail=0, no_text=0 | elapsed=5m 9s | eta=970h 17m 47s
+2025-09-14 19:25:19 | INFO     | (14/147116) Submitting to checker | url=https://studycorgi.com/communication-anxiety-and-treatment-methods | chars=5000 | class=Human
+2025-09-14 19:25:35 | INFO     | (14/147116) Completed: 200 OK | url=https://studycorgi.com/communication-anxiety-and-treatment-methods | elapsed=15.75s | retries=0
+2025-09-14 19:25:35 | INFO     | Progress: 14/147116 | ok=14, fail=0, no_text=0 | elapsed=5m 24s | eta=946h 57m 42s
+2025-09-14 19:25:35 | INFO     | (15/147116) Submitting to checker | url=https://unicare-clinic.com/mycoplasma-hominis-bali | chars=5000 | class=AI
+2025-09-14 19:25:53 | INFO     | (15/147116) Completed: 200 OK | url=https://unicare-clinic.com/mycoplasma-hominis-bali | elapsed=18.132s | retries=0
+2025-09-14 19:25:53 | INFO     | Progress: 15/147116 | ok=15, fail=0, no_text=0 | elapsed=5m 43s | eta=933h 13m 23s
+2025-09-14 19:25:53 | INFO     | (16/147116) Submitting to checker | url=https://www.logansportmemorial.org/blog/how-to-care-for-diabetic-foot-ulcers-and-prevent-infection | chars=4968 | class=Human
+2025-09-14 19:26:20 | INFO     | (16/147116) Completed: 200 OK | url=https://www.logansportmemorial.org/blog/how-to-care-for-diabetic-foot-ulcers-and-prevent-infection | elapsed=27.492s | retries=0
+2025-09-14 19:26:20 | INFO     | Progress: 16/147116 | ok=16, fail=0, no_text=0 | elapsed=6m 10s | eta=945h 6m 11s
+2025-09-14 19:26:20 | INFO     | (17/147116) Submitting to checker | url=https://www.studocu.com/en-us/messages/question/4423690/knowledge-deficit-nursing-diagnoses-regarding-pneumonia | chars=4998 | class=Human
+2025-09-14 19:26:39 | INFO     | (17/147116) Completed: 200 OK | url=https://www.studocu.com/en-us/messages/question/4423690/knowledge-deficit-nursing-diagnoses-regarding-pneumonia | elapsed=18.776s | retries=0
+2025-09-14 19:26:39 | INFO     | Progress: 17/147116 | ok=17, fail=0, no_text=0 | elapsed=6m 29s | eta=934h 38m 9s
+2025-09-14 19:26:39 | INFO     | (18/147116) Submitting to checker | url=https://vitamindwiki.com/gallbladder+removal+and+vitamin+d+deficiency | chars=4998 | class=Human
+2025-09-14 19:26:58 | INFO     | (18/147116) Completed: 200 OK | url=https://vitamindwiki.com/gallbladder+removal+and+vitamin+d+deficiency | elapsed=19.129s | retries=0
+2025-09-14 19:26:58 | INFO     | Progress: 18/147116 | ok=18, fail=0, no_text=0 | elapsed=6m 48s | eta=926h 8m 2s
+2025-09-14 19:26:58 | INFO     | (19/147116) Submitting to checker | url=https://www.monistat.com/vaginal-health-blog-articles/diagnosing-and-treating-yeast-infections-home | chars=3634 | class=Human
+2025-09-14 19:27:15 | INFO     | (19/147116) Completed: 200 OK | url=https://www.monistat.com/vaginal-health-blog-articles/diagnosing-and-treating-yeast-infections-home | elapsed=16.407s | retries=0
+2025-09-14 19:27:15 | INFO     | Progress: 19/147116 | ok=19, fail=0, no_text=0 | elapsed=7m 4s | eta=912h 40m 16s
+2025-09-14 19:27:15 | INFO     | (20/147116) Submitting to checker | url=https://pcri.org/glossary | chars=4999 | class=Human
+2025-09-14 19:27:39 | INFO     | (20/147116) Completed: 200 OK | url=https://pcri.org/glossary | elapsed=24.578s | retries=0
+2025-09-14 19:27:39 | INFO     | Progress: 20/147116 | ok=20, fail=0, no_text=0 | elapsed=7m 29s | eta=917h 14m 50s
+2025-09-14 19:27:39 | INFO     | (21/147116) Submitting to checker | url=https://www.mayoclinic.org/diseases-conditions/constipation/in-depth/laxatives/art-20045906 | chars=4999 | class=Human
+2025-09-14 19:28:18 | INFO     | (21/147116) Completed: 200 OK | url=https://www.mayoclinic.org/diseases-conditions/constipation/in-depth/laxatives/art-20045906 | elapsed=39.053s | retries=0
+2025-09-14 19:28:18 | INFO     | Progress: 21/147116 | ok=21, fail=0, no_text=0 | elapsed=8m 8s | eta=949h 33m 5s
+2025-09-14 19:28:18 | INFO     | (22/147116) Submitting to checker | url=https://www.theyarethefuture.co.uk/panic-attacks-in-children-how-to-help | chars=5000 | class=Human
+2025-09-14 19:28:45 | INFO     | (22/147116) Completed: 200 OK | url=https://www.theyarethefuture.co.uk/panic-attacks-in-children-how-to-help | elapsed=27.042s | retries=0
+2025-09-14 19:28:45 | INFO     | Progress: 22/147116 | ok=22, fail=0, no_text=0 | elapsed=8m 35s | eta=956h 36m 38s
+2025-09-14 19:28:45 | INFO     | (23/147116) Submitting to checker | url=https://www.ibsclinics.co.uk/how-to-heal-sibo | chars=5000 | class=AI
+2025-09-14 19:29:14 | INFO     | (23/147116) Completed: 200 OK | url=https://www.ibsclinics.co.uk/how-to-heal-sibo | elapsed=29.027s | retries=0
+2025-09-14 19:29:14 | INFO     | Progress: 23/147116 | ok=23, fail=0, no_text=0 | elapsed=9m 4s | eta=966h 34m 46s
+2025-09-14 19:29:14 | INFO     | (24/147116) Submitting to checker | url=https://www.sciencedirect.com/science/article/pii/s2405844023072493 | chars=777 | class=Human
+2025-09-14 19:29:32 | INFO     | (24/147116) Completed: 200 OK | url=https://www.sciencedirect.com/science/article/pii/s2405844023072493 | elapsed=17.573s | retries=0
+2025-09-14 19:29:32 | INFO     | Progress: 24/147116 | ok=24, fail=0, no_text=0 | elapsed=9m 22s | eta=956h 13m 0s
+2025-09-14 19:29:32 | INFO     | (25/147116) Submitting to checker | url=https://bilodeaucanadataxidermy.com/en/products/montage-lion | chars=3121 | class=Human
+2025-09-14 19:30:27 | INFO     | (25/147116) Completed: 200 OK | url=https://bilodeaucanadataxidermy.com/en/products/montage-lion | elapsed=55.028s | retries=0
+2025-09-14 19:30:27 | INFO     | Progress: 25/147116 | ok=25, fail=0, no_text=0 | elapsed=10m 17s | eta=1007h 53m 56s
+2025-09-14 19:30:27 | INFO     | (26/147116) Submitting to checker | url=https://pmc.ncbi.nlm.nih.gov/articles/pmc4480523 | chars=4903 | class=Human
+2025-09-14 19:30:52 | INFO     | (26/147116) Completed: 200 OK | url=https://pmc.ncbi.nlm.nih.gov/articles/pmc4480523 | elapsed=24.516s | retries=0
+2025-09-14 19:30:52 | INFO     | Progress: 26/147116 | ok=26, fail=0, no_text=0 | elapsed=10m 41s | eta=1007h 39m 20s
+2025-09-14 19:30:52 | INFO     | (27/147116) Submitting to checker | url=https://blog.assurances.gov.gh/form/mexico-immigration-form-by-air.html | chars=4992 | class=Human
+2025-09-14 19:31:20 | INFO     | (27/147116) Completed: 200 OK | url=https://blog.assurances.gov.gh/form/mexico-immigration-form-by-air.html | elapsed=28.631s | retries=0
+2025-09-14 19:31:20 | INFO     | Progress: 27/147116 | ok=27, fail=0, no_text=0 | elapsed=11m 10s | eta=1013h 39m 24s
+2025-09-14 19:31:20 | INFO     | (28/147116) Submitting to checker | url=https://www.qlabs-inc.com/pcr-testing-for-infectious-disease | chars=4560 | class=Human
+2025-09-14 19:31:38 | INFO     | (28/147116) Completed: 200 OK | url=https://www.qlabs-inc.com/pcr-testing-for-infectious-disease | elapsed=17.286s | retries=0
+2025-09-14 19:31:38 | INFO     | Progress: 28/147116 | ok=28, fail=0, no_text=0 | elapsed=11m 27s | eta=1002h 40m 32s
+2025-09-14 19:31:38 | INFO     | (29/147116) Submitting to checker | url=https://www.coinbase.com | chars=5000 | class=Human
+2025-09-14 19:31:58 | INFO     | (29/147116) Completed: 200 OK | url=https://www.coinbase.com | elapsed=20.424s | retries=0
+2025-09-14 19:31:58 | INFO     | Progress: 29/147116 | ok=29, fail=0, no_text=0 | elapsed=11m 48s | eta=996h 52m 18s
+2025-09-14 19:31:58 | INFO     | (30/147116) Submitting to checker | url=https://www.pbgc.gov/prac/interest/historical-applicable-mid-term-rates | chars=5000 | class=Human
+2025-09-14 19:32:21 | INFO     | (30/147116) Completed: 200 OK | url=https://www.pbgc.gov/prac/interest/historical-applicable-mid-term-rates | elapsed=23.107s | retries=0
+2025-09-14 19:32:21 | INFO     | Progress: 30/147116 | ok=30, fail=0, no_text=0 | elapsed=12m 11s | eta=995h 6m 37s
+2025-09-14 19:32:21 | INFO     | (31/147116) Submitting to checker | url=https://www.altru.org/health-library/conditions/proctitis | chars=5000 | class=Human
+2025-09-14 19:32:44 | INFO     | (31/147116) Completed: 200 OK | url=https://www.altru.org/health-library/conditions/proctitis | elapsed=23.344s | retries=0
+2025-09-14 19:32:44 | INFO     | Progress: 31/147116 | ok=31, fail=0, no_text=0 | elapsed=12m 34s | eta=993h 46m 18s
+2025-09-14 19:32:44 | INFO     | (32/147116) Submitting to checker | url=https://es.scribd.com/document/307828697/aprende-a-bajar-de-peso-saludablemente-con-la-dieta-de-la-papaya | chars=3423 | class=Human
+2025-09-14 19:32:56 | INFO     | (32/147116) Completed: 200 OK | url=https://es.scribd.com/document/307828697/aprende-a-bajar-de-peso-saludablemente-con-la-dieta-de-la-papaya | elapsed=11.47s | retries=0
+2025-09-14 19:32:56 | INFO     | Progress: 32/147116 | ok=32, fail=0, no_text=0 | elapsed=12m 45s | eta=977h 21m 21s
+2025-09-14 19:32:56 | INFO     | (33/147116) Submitting to checker | url=https://www.mayoclinic.org/drugs-supplements/influenza-a-virus-vaccine-h1n1-inactivated-intramuscular-route/description/drg-20073171 | chars=4990 | class=Human
+2025-09-14 19:33:13 | INFO     | (33/147116) Completed: 200 OK | url=https://www.mayoclinic.org/drugs-supplements/influenza-a-virus-vaccine-h1n1-inactivated-intramuscular-route/description/drg-20073171 | elapsed=17.193s | retries=0
+2025-09-14 19:33:13 | INFO     | Progress: 33/147116 | ok=33, fail=0, no_text=0 | elapsed=13m 3s | eta=969h 1m 11s
+2025-09-14 19:33:13 | INFO     | (34/147116) Submitting to checker | url=https://littlehoneystraws.com/the-science-behind-honey-and-diabetes-myths-vs-facts | chars=5000 | class=AI
+2025-09-14 19:33:44 | INFO     | (34/147116) Completed: 200 OK | url=https://littlehoneystraws.com/the-science-behind-honey-and-diabetes-myths-vs-facts | elapsed=31.067s | retries=0
+2025-09-14 19:33:44 | INFO     | Progress: 34/147116 | ok=34, fail=0, no_text=0 | elapsed=13m 34s | eta=977h 50m 43s
+2025-09-14 19:33:44 | INFO     | (35/147116) Submitting to checker | url=https://www.guysandstthomas.nhs.uk/health-information/postural-hypotension | chars=4999 | class=Human
+2025-09-14 19:34:13 | INFO     | (35/147116) Completed: 200 OK | url=https://www.guysandstthomas.nhs.uk/health-information/postural-hypotension | elapsed=28.846s | retries=0
+2025-09-14 19:34:13 | INFO     | Progress: 35/147116 | ok=35, fail=0, no_text=0 | elapsed=14m 3s | eta=983h 34m 28s
+2025-09-14 19:34:13 | INFO     | (36/147116) Submitting to checker | url=https://www.trackitt.com/usa-discussion-forums/i485-eb/1921596847/documents-for-aos-interview-what-to-bring | chars=4921 | class=Human
+2025-09-14 19:34:32 | INFO     | (36/147116) Completed: 200 OK | url=https://www.trackitt.com/usa-discussion-forums/i485-eb/1921596847/documents-for-aos-interview-what-to-bring | elapsed=19.048s | retries=0
+2025-09-14 19:34:32 | INFO     | Progress: 36/147116 | ok=36, fail=0, no_text=0 | elapsed=14m 22s | eta=977h 51m 53s
+2025-09-14 19:34:32 | INFO     | (37/147116) Submitting to checker | url=https://www.icliniq.com/qa/chest-pain/what-are-the-causes-of-chest-pain-and-high-blood-pressure | chars=4589 | class=Human
+2025-09-14 19:35:04 | INFO     | (37/147116) Completed: 200 OK | url=https://www.icliniq.com/qa/chest-pain/what-are-the-causes-of-chest-pain-and-high-blood-pressure | elapsed=32.252s | retries=0
+2025-09-14 19:35:04 | INFO     | Progress: 37/147116 | ok=37, fail=0, no_text=0 | elapsed=14m 54s | eta=987h 2m 36s
+2025-09-14 19:35:04 | INFO     | (38/147116) Submitting to checker | url=https://www.thekids.org.au/news--events/news-and-events-nav/2019/march/whats-the-difference-between-anxiety | chars=5000 | class=Human
+2025-09-14 19:35:25 | INFO     | (38/147116) Completed: 200 OK | url=https://www.thekids.org.au/news--events/news-and-events-nav/2019/march/whats-the-difference-between-anxiety | elapsed=20.88s | retries=0
+2025-09-14 19:35:25 | INFO     | Progress: 38/147116 | ok=38, fail=0, no_text=0 | elapsed=15m 15s | eta=983h 30m 43s
+2025-09-14 19:35:25 | INFO     | (39/147116) Submitting to checker | url=https://www.actuaries.asn.au/research-analysis/mortality-in-first-eight-months-of-2024-2-higher-than-predicted | chars=5000 | class=Human
+2025-09-14 19:35:51 | INFO     | (39/147116) Completed: 200 OK | url=https://www.actuaries.asn.au/research-analysis/mortality-in-first-eight-months-of-2024-2-higher-than-predicted | elapsed=26.275s | retries=0
+2025-09-14 19:35:51 | INFO     | Progress: 39/147116 | ok=39, fail=0, no_text=0 | elapsed=15m 41s | eta=985h 48m 53s
+2025-09-14 19:35:51 | INFO     | (40/147116) Submitting to checker | url=https://waterloocatholics.org/how-a-previous-marriage-may-affect-your-decision-to-become-catholic | chars=5000 | class=Human
+2025-09-14 19:36:12 | INFO     | (40/147116) Completed: 200 OK | url=https://waterloocatholics.org/how-a-previous-marriage-may-affect-your-decision-to-become-catholic | elapsed=20.793s | retries=0
+2025-09-14 19:36:12 | INFO     | Progress: 40/147116 | ok=40, fail=0, no_text=0 | elapsed=16m 2s | eta=982h 24m 5s
+2025-09-14 19:36:12 | INFO     | (41/147116) Submitting to checker | url=https://www.onlymyhealth.com/home-remedies-to-lower-high-cholesterol-1681218195 | chars=5000 | class=Human
+2025-09-14 19:36:34 | INFO     | (41/147116) Completed: 200 OK | url=https://www.onlymyhealth.com/home-remedies-to-lower-high-cholesterol-1681218195 | elapsed=21.548s | retries=0
+2025-09-14 19:36:34 | INFO     | Progress: 41/147116 | ok=41, fail=0, no_text=0 | elapsed=16m 23s | eta=979h 54m 23s
+2025-09-14 19:36:34 | INFO     | (42/147116) Submitting to checker | url=https://cathe.com/forum/threads/working-out-after-total-hip-replacement.307737 | chars=4959 | class=Human
+2025-09-14 19:36:53 | INFO     | (42/147116) Completed: 200 OK | url=https://cathe.com/forum/threads/working-out-after-total-hip-replacement.307737 | elapsed=19.147s | retries=0
+2025-09-14 19:36:53 | INFO     | Progress: 42/147116 | ok=42, fail=0, no_text=0 | elapsed=16m 43s | eta=975h 11m 39s
+2025-09-14 19:36:53 | INFO     | (43/147116) Submitting to checker | url=https://www.akc.org/expert-advice/health/benadryl-for-dogs | chars=5000 | class=Human
+2025-09-14 19:37:21 | INFO     | (43/147116) Completed: 200 OK | url=https://www.akc.org/expert-advice/health/benadryl-for-dogs | elapsed=27.853s | retries=0
+2025-09-14 19:37:21 | INFO     | Progress: 43/147116 | ok=43, fail=0, no_text=0 | elapsed=17m 10s | eta=978h 58m 24s
+2025-09-14 19:37:21 | INFO     | (44/147116) Submitting to checker | url=https://carecloud.com/icd-10-codes/i25 | chars=5000 | class=Human
+2025-09-14 19:37:44 | INFO     | (44/147116) Completed: 200 OK | url=https://carecloud.com/icd-10-codes/i25 | elapsed=23.24s | retries=0
+2025-09-14 19:37:44 | INFO     | Progress: 44/147116 | ok=44, fail=0, no_text=0 | elapsed=17m 34s | eta=978h 18m 11s
+2025-09-14 19:37:44 | INFO     | (45/147116) Submitting to checker | url=https://clearpassage.com/womens-health/how-to-tell-if-you-suffer-from-c-section-adhesions | chars=4998 | class=Human
+2025-09-14 19:38:16 | INFO     | (45/147116) Completed: 200 OK | url=https://clearpassage.com/womens-health/how-to-tell-if-you-suffer-from-c-section-adhesions | elapsed=32.386s | retries=0
+2025-09-14 19:38:16 | INFO     | Progress: 45/147116 | ok=45, fail=0, no_text=0 | elapsed=18m 6s | eta=985h 57m 57s
+2025-09-14 19:38:16 | INFO     | (46/147116) Submitting to checker | url=https://cancer.ca/en/cancer-information/cancer-types/lung/signs-and-symptoms | chars=4869 | class=Human
+2025-09-14 19:39:18 | INFO     | (46/147116) Completed: 200 OK | url=https://cancer.ca/en/cancer-information/cancer-types/lung/signs-and-symptoms | elapsed=61.3s | retries=0
+2025-09-14 19:39:18 | INFO     | Progress: 46/147116 | ok=46, fail=0, no_text=0 | elapsed=19m 7s | eta=1018h 58m 17s
+2025-09-14 19:39:18 | INFO     | (47/147116) Submitting to checker | url=https://pmc.ncbi.nlm.nih.gov/articles/pmc8786400 | chars=4903 | class=Human
+2025-09-14 19:40:02 | INFO     | (47/147116) Completed: 200 OK | url=https://pmc.ncbi.nlm.nih.gov/articles/pmc8786400 | elapsed=44.255s | retries=0
+2025-09-14 19:40:02 | INFO     | Progress: 47/147116 | ok=47, fail=0, no_text=0 | elapsed=19m 52s | eta=1035h 45m 33s
+2025-09-14 19:40:02 | INFO     | (48/147116) Submitting to checker | url=https://www.invisalign.com/resources/orthodontics/difference-between-phase-1-and-phase-2-orthodontic-treatment | chars=5000 | class=Human
+2025-09-14 19:40:22 | INFO     | (48/147116) Completed: 200 OK | url=https://www.invisalign.com/resources/orthodontics/difference-between-phase-1-and-phase-2-orthodontic-treatment | elapsed=19.998s | retries=0
+2025-09-14 19:40:22 | INFO     | Progress: 48/147116 | ok=48, fail=0, no_text=0 | elapsed=20m 12s | eta=1031h 11m 49s
+2025-09-14 19:40:22 | INFO     | (49/147116) Submitting to checker | url=https://www.neaetc.org/p/hiv-and-oral-health-orl-page | chars=4994 | class=Human
+2025-09-14 19:40:58 | INFO     | (49/147116) Completed: 200 OK | url=https://www.neaetc.org/p/hiv-and-oral-health-orl-page | elapsed=35.768s | retries=0
+2025-09-14 19:40:58 | INFO     | Progress: 49/147116 | ok=49, fail=0, no_text=0 | elapsed=20m 47s | eta=1039h 58m 33s
+2025-09-14 19:40:58 | INFO     | (50/147116) Submitting to checker | url=https://www.infobae.com/espana/2024/06/14/que-pasa-si-comes-papaya-todos-los-dias | chars=4999 | class=Human
+2025-09-14 19:41:22 | INFO     | (50/147116) Completed: 200 OK | url=https://www.infobae.com/espana/2024/06/14/que-pasa-si-comes-papaya-todos-los-dias | elapsed=24.224s | retries=0
+2025-09-14 19:41:22 | INFO     | Progress: 50/147116 | ok=50, fail=0, no_text=0 | elapsed=21m 12s | eta=1038h 57m 59s
+2025-09-14 19:41:22 | INFO     | (51/147116) Submitting to checker | url=https://www.theguardian.com/books/2020/sep/12/susanna-clarke-i-was-cut-off-from-the-world-bound-in-one-place-by-illness | chars=5000 | class=Human
+2025-09-14 19:42:01 | INFO     | (51/147116) Completed: 200 OK | url=https://www.theguardian.com/books/2020/sep/12/susanna-clarke-i-was-cut-off-from-the-world-bound-in-one-place-by-illness | elapsed=38.946s | retries=0
+2025-09-14 19:42:01 | INFO     | Progress: 51/147116 | ok=51, fail=0, no_text=0 | elapsed=21m 51s | eta=1049h 47m 19s
+2025-09-14 19:42:01 | INFO     | (52/147116) Submitting to checker | url=https://www.nesteggly.com/investment-withdrawal-calculator | chars=1537 | class=Human
+2025-09-14 19:42:17 | INFO     | (52/147116) Completed: 200 OK | url=https://www.nesteggly.com/investment-withdrawal-calculator | elapsed=15.936s | retries=0
+2025-09-14 19:42:17 | INFO     | Progress: 52/147116 | ok=52, fail=0, no_text=0 | elapsed=22m 7s | eta=1042h 6m 57s
+2025-09-14 19:42:17 | INFO     | (53/147116) Submitting to checker | url=https://www.healthline.com/health/stopping-metformin | chars=511 | class=Human
+2025-09-14 19:42:26 | INFO     | (53/147116) Completed: 200 OK | url=https://www.healthline.com/health/stopping-metformin | elapsed=9.404s | retries=0
+2025-09-14 19:42:26 | INFO     | Progress: 53/147116 | ok=53, fail=0, no_text=0 | elapsed=22m 16s | eta=1029h 41m 55s
+2025-09-14 19:42:26 | INFO     | (54/147116) Submitting to checker | url=https://www.mandg.com/investments/private-investor/en-gb/in-the-spotlight/m-g-insights/2023/08/how-does-inflation-affect-bonds | chars=5000 | class=Human
+2025-09-14 19:42:52 | INFO     | (54/147116) Completed: 200 OK | url=https://www.mandg.com/investments/private-investor/en-gb/in-the-spotlight/m-g-insights/2023/08/how-does-inflation-affect-bonds | elapsed=25.43s | retries=0
+2025-09-14 19:42:52 | INFO     | Progress: 54/147116 | ok=54, fail=0, no_text=0 | elapsed=22m 41s | eta=1029h 51m 54s
+2025-09-14 19:42:52 | INFO     | (55/147116) Submitting to checker | url=https://constitution.findlaw.com/article2/annotation06.html | chars=4999 | class=Human
+2025-09-14 19:43:10 | INFO     | (55/147116) Completed: 200 OK | url=https://constitution.findlaw.com/article2/annotation06.html | elapsed=18.326s | retries=0
+2025-09-14 19:43:10 | INFO     | Progress: 55/147116 | ok=55, fail=0, no_text=0 | elapsed=23m 0s | eta=1024h 44m 50s
+2025-09-14 19:43:10 | INFO     | (56/147116) Submitting to checker | url=https://www.rheumatologyadvisor.com/news/prevalence-of-depression-increased-over-last-decade | chars=3847 | class=Human
+2025-09-14 19:43:32 | INFO     | (56/147116) Completed: 200 OK | url=https://www.rheumatologyadvisor.com/news/prevalence-of-depression-increased-over-last-decade | elapsed=22.326s | retries=0
+2025-09-14 19:43:32 | INFO     | Progress: 56/147116 | ok=56, fail=0, no_text=0 | elapsed=23m 22s | eta=1022h 44m 33s
+2025-09-14 19:43:32 | INFO     | (57/147116) Submitting to checker | url=https://www.monsterfishkeepers.com/forums/threads/fish-with-high-cholesterol.38729 | chars=4972 | class=Human
+2025-09-14 19:44:04 | INFO     | (57/147116) Completed: 200 OK | url=https://www.monsterfishkeepers.com/forums/threads/fish-with-high-cholesterol.38729 | elapsed=31.989s | retries=0
+2025-09-14 19:44:04 | INFO     | Progress: 57/147116 | ok=57, fail=0, no_text=0 | elapsed=23m 54s | eta=1027h 43m 18s
+2025-09-14 19:44:04 | INFO     | (58/147116) Submitting to checker | url=https://www.va.gov/careers-employment/vocational-rehabilitation | chars=2636 | class=Human
+2025-09-14 19:44:21 | INFO     | (58/147116) Completed: 200 OK | url=https://www.va.gov/careers-employment/vocational-rehabilitation | elapsed=16.726s | retries=0
+2025-09-14 19:44:21 | INFO     | Progress: 58/147116 | ok=58, fail=0, no_text=0 | elapsed=24m 11s | eta=1021h 46m 40s
+2025-09-14 19:44:21 | INFO     | (59/147116) Submitting to checker | url=https://www.eatoncounty.org/409/small-claims-court | chars=2758 | class=Human
+2025-09-14 19:44:51 | INFO     | (59/147116) Completed: 200 OK | url=https://www.eatoncounty.org/409/small-claims-court | elapsed=30.286s | retries=0
+2025-09-14 19:44:51 | INFO     | Progress: 59/147116 | ok=59, fail=0, no_text=0 | elapsed=24m 41s | eta=1025h 25m 27s
+2025-09-14 19:44:51 | INFO     | (60/147116) Submitting to checker | url=https://floridacancer.com/cancers-blood-diseases-info/types-of-cancer/colon-rectal-cancer/treatment-options3 | chars=4999 | class=Human
+2025-09-14 19:45:28 | INFO     | (60/147116) Completed: 200 OK | url=https://floridacancer.com/cancers-blood-diseases-info/types-of-cancer/colon-rectal-cancer/treatment-options3 | elapsed=36.603s | retries=0
+2025-09-14 19:45:28 | INFO     | Progress: 60/147116 | ok=60, fail=0, no_text=0 | elapsed=25m 18s | eta=1033h 14m 58s
+2025-09-14 19:45:28 | INFO     | (61/147116) Submitting to checker | url=https://better.com/content/what-are-mortgage-points | chars=5000 | class=Human
+2025-09-14 19:45:48 | INFO     | (61/147116) Completed: 200 OK | url=https://better.com/content/what-are-mortgage-points | elapsed=19.762s | retries=0
+2025-09-14 19:45:48 | INFO     | Progress: 61/147116 | ok=61, fail=0, no_text=0 | elapsed=25m 37s | eta=1029h 32m 23s
+2025-09-14 19:45:48 | INFO     | (62/147116) Submitting to checker | url=https://www.physio.co.uk/what-we-treat/musculoskeletal/conditions/wrist/wrist-strain.php | chars=4994 | class=Human
+2025-09-14 19:46:07 | INFO     | (62/147116) Completed: 200 OK | url=https://www.physio.co.uk/what-we-treat/musculoskeletal/conditions/wrist/wrist-strain.php | elapsed=19.178s | retries=0
+2025-09-14 19:46:07 | INFO     | Progress: 62/147116 | ok=62, fail=0, no_text=0 | elapsed=25m 57s | eta=1025h 33m 56s
+2025-09-14 19:46:07 | INFO     | (63/147116) Submitting to checker | url=https://www.owensearcenter.com/ear-conditions/menieres-disease | chars=3252 | class=Human
+2025-09-14 19:46:29 | INFO     | (63/147116) Completed: 200 OK | url=https://www.owensearcenter.com/ear-conditions/menieres-disease | elapsed=22.151s | retries=0
+2025-09-14 19:46:29 | INFO     | Progress: 63/147116 | ok=63, fail=0, no_text=0 | elapsed=26m 19s | eta=1023h 38m 42s
+2025-09-14 19:46:29 | INFO     | (64/147116) Submitting to checker | url=https://shinehealthwellness.com/common-signs-of-lupus | chars=4238 | class=Human
+2025-09-14 19:46:49 | INFO     | (64/147116) Completed: 200 OK | url=https://shinehealthwellness.com/common-signs-of-lupus | elapsed=20.207s | retries=0
+2025-09-14 19:46:49 | INFO     | Progress: 64/147116 | ok=64, fail=0, no_text=0 | elapsed=26m 39s | eta=1020h 32m 37s
+2025-09-14 19:46:49 | INFO     | (65/147116) Submitting to checker | url=https://www.icd10data.com/icd10cm/codes/n00-n99/n60-n65/n63-/n63 | chars=2323 | class=Human
+2025-09-14 19:47:09 | INFO     | (65/147116) Completed: 200 OK | url=https://www.icd10data.com/icd10cm/codes/n00-n99/n60-n65/n63-/n63 | elapsed=19.925s | retries=0
+2025-09-14 19:47:09 | INFO     | Progress: 65/147116 | ok=65, fail=0, no_text=0 | elapsed=26m 59s | eta=1017h 21m 35s
+2025-09-14 19:47:09 | INFO     | (66/147116) Submitting to checker | url=https://www.stgeorges.nhs.uk/aos/st-georges-healthcare-professional/guidance/skin-rash | chars=4899 | class=Human
+2025-09-14 19:47:31 | INFO     | (66/147116) Completed: 200 OK | url=https://www.stgeorges.nhs.uk/aos/st-georges-healthcare-professional/guidance/skin-rash | elapsed=21.91s | retries=0
+2025-09-14 19:47:31 | INFO     | Progress: 66/147116 | ok=66, fail=0, no_text=0 | elapsed=27m 21s | eta=1015h 30m 5s
+2025-09-14 19:47:31 | INFO     | (67/147116) Submitting to checker | url=https://www.stanfordchildrens.org/en/services/ear-nose-throat/conditions/ankyloglossia.html | chars=5000 | class=Human
+2025-09-14 19:47:54 | INFO     | (67/147116) Completed: 200 OK | url=https://www.stanfordchildrens.org/en/services/ear-nose-throat/conditions/ankyloglossia.html | elapsed=22.457s | retries=0
+2025-09-14 19:47:54 | INFO     | Progress: 67/147116 | ok=67, fail=0, no_text=0 | elapsed=27m 43s | eta=1014h 1m 49s
+2025-09-14 19:47:54 | INFO     | (68/147116) Submitting to checker | url=https://www.thestand.com/menus | chars=5000 | class=Human
+2025-09-14 19:48:14 | INFO     | (68/147116) Completed: 200 OK | url=https://www.thestand.com/menus | elapsed=20.701s | retries=0
+2025-09-14 19:48:14 | INFO     | Progress: 68/147116 | ok=68, fail=0, no_text=0 | elapsed=28m 4s | eta=1011h 32m 56s
+2025-09-14 19:48:14 | INFO     | (69/147116) Submitting to checker | url=https://drbrighten.com/how-to-recover-from-a-hysterectomy | chars=4999 | class=AI
+2025-09-14 19:48:38 | INFO     | (69/147116) Completed: 200 OK | url=https://drbrighten.com/how-to-recover-from-a-hysterectomy | elapsed=23.276s | retries=0
+2025-09-14 19:48:38 | INFO     | Progress: 69/147116 | ok=69, fail=0, no_text=0 | elapsed=28m 27s | eta=1010h 39m 48s
+2025-09-14 19:48:38 | INFO     | (70/147116) Submitting to checker | url=https://www.gov.uk/government/publications/regulatory-approval-of-pfizer-biontech-vaccine-for-covid-19/information-for-uk-recipients-on-pfizerbiontech-covid-19-vaccine | chars=5000 | class=Human
+2025-09-14 19:49:06 | INFO     | (70/147116) Completed: 200 OK | url=https://www.gov.uk/government/publications/regulatory-approval-of-pfizer-biontech-vaccine-for-covid-19/information-for-uk-recipients-on-pfizerbiontech-covid-19-vaccine | elapsed=28.786s | retries=0
+2025-09-14 19:49:06 | INFO     | Progress: 70/147116 | ok=70, fail=0, no_text=0 | elapsed=28m 56s | eta=1013h 1m 8s
+2025-09-14 19:49:06 | INFO     | (71/147116) Submitting to checker | url=https://rheumatology.org/patient-blog/autoimmunity-and-triggers | chars=4999 | class=Human
+2025-09-14 19:49:35 | INFO     | (71/147116) Completed: 200 OK | url=https://rheumatology.org/patient-blog/autoimmunity-and-triggers | elapsed=29.02s | retries=0
+2025-09-14 19:49:35 | INFO     | Progress: 71/147116 | ok=71, fail=0, no_text=0 | elapsed=29m 25s | eta=1015h 26m 35s
+2025-09-14 19:49:35 | INFO     | (72/147116) Submitting to checker | url=https://www.premiercardiology.com/blog/chest-pain-is-it-ever-normal | chars=5000 | class=Human
+2025-09-14 19:50:10 | INFO     | (72/147116) Completed: 200 OK | url=https://www.premiercardiology.com/blog/chest-pain-is-it-ever-normal | elapsed=34.914s | retries=0
+2025-09-14 19:50:10 | INFO     | Progress: 72/147116 | ok=72, fail=0, no_text=0 | elapsed=30m 0s | eta=1021h 8m 37s
+2025-09-14 19:50:10 | INFO     | (73/147116) Submitting to checker | url=https://research-and-innovation.ec.europa.eu/events/special-features/celebrating-40-years-eu-research-and-innovation/health/personalised-vaccine-turns-immune-cells-against-cancer_en | chars=3166 | class=Human
+2025-09-14 19:50:38 | INFO     | (73/147116) Completed: 200 OK | url=https://research-and-innovation.ec.europa.eu/events/special-features/celebrating-40-years-eu-research-and-innovation/health/personalised-vaccine-turns-immune-cells-against-cancer_en | elapsed=27.323s | retries=0
+2025-09-14 19:50:38 | INFO     | Progress: 73/147116 | ok=73, fail=0, no_text=0 | elapsed=30m 27s | eta=1022h 26m 27s
+2025-09-14 19:50:38 | INFO     | (74/147116) Submitting to checker | url=https://www.livescience.com/34732-head-lice-prevention-treatment.html | chars=5000 | class=Human
+2025-09-14 19:51:11 | INFO     | (74/147116) Completed: 200 OK | url=https://www.livescience.com/34732-head-lice-prevention-treatment.html | elapsed=33.12s | retries=0
+2025-09-14 19:51:11 | INFO     | Progress: 74/147116 | ok=74, fail=0, no_text=0 | elapsed=31m 0s | eta=1026h 54m 5s
+2025-09-14 19:51:11 | INFO     | (75/147116) Submitting to checker | url=https://www.keyscalesford.com/blogs/3760 | chars=5000 | class=Human
+2025-09-14 19:51:47 | INFO     | (75/147116) Completed: 200 OK | url=https://www.keyscalesford.com/blogs/3760 | elapsed=35.796s | retries=0
+2025-09-14 19:51:47 | INFO     | Progress: 75/147116 | ok=75, fail=0, no_text=0 | elapsed=31m 36s | eta=1032h 41m 56s
+2025-09-14 19:51:47 | INFO     | (76/147116) Submitting to checker | url=https://pmc.ncbi.nlm.nih.gov/articles/pmc8109522 | chars=4902 | class=Human
+2025-09-14 19:52:07 | INFO     | (76/147116) Completed: 200 OK | url=https://pmc.ncbi.nlm.nih.gov/articles/pmc8109522 | elapsed=20.364s | retries=0
+2025-09-14 19:52:07 | INFO     | Progress: 76/147116 | ok=76, fail=0, no_text=0 | elapsed=31m 57s | eta=1030h 2m 57s
+2025-09-14 19:52:07 | INFO     | (77/147116) Submitting to checker | url=https://www.reumatologiaclinica.org/en-constitutional-syndrome-fever-in-patient-articulo-s2173574319301182 | chars=5000 | class=Human
+2025-09-14 19:52:42 | INFO     | (77/147116) Completed: 200 OK | url=https://www.reumatologiaclinica.org/en-constitutional-syndrome-fever-in-patient-articulo-s2173574319301182 | elapsed=34.637s | retries=0
+2025-09-14 19:52:42 | INFO     | Progress: 77/147116 | ok=77, fail=0, no_text=0 | elapsed=32m 31s | eta=1035h 2m 26s
+2025-09-14 19:52:42 | INFO     | (78/147116) Submitting to checker | url=https://www.icd10data.com/icd10cm/codes/g00-g99/g89-g99/g90-/g90.3 | chars=2502 | class=Human
+2025-09-14 19:53:16 | INFO     | (78/147116) Completed: 200 OK | url=https://www.icd10data.com/icd10cm/codes/g00-g99/g89-g99/g90-/g90.3 | elapsed=34.515s | retries=0
+2025-09-14 19:53:16 | INFO     | Progress: 78/147116 | ok=78, fail=0, no_text=0 | elapsed=33m 6s | eta=1039h 50m 34s
+2025-09-14 19:53:16 | INFO     | (79/147116) Submitting to checker | url=https://diabetesjournals.org/diabetes/article/73/supplement_1/19-or/155675/19-or-sucralose-consumption-decreases-insulin | chars=5000 | class=Human
+2025-09-14 19:53:45 | INFO     | (79/147116) Completed: 200 OK | url=https://diabetesjournals.org/diabetes/article/73/supplement_1/19-or/155675/19-or-sucralose-consumption-decreases-insulin | elapsed=28.853s | retries=0
+2025-09-14 19:53:45 | INFO     | Progress: 79/147116 | ok=79, fail=0, no_text=0 | elapsed=33m 35s | eta=1041h 35m 31s
+2025-09-14 19:53:45 | INFO     | (80/147116) Submitting to checker | url=https://www.lawshelf.com/videocoursesmoduleview/part-1-module-2-social-security-retirement-benefits | chars=5000 | class=Human
+2025-09-14 19:54:08 | INFO     | (80/147116) Completed: 200 OK | url=https://www.lawshelf.com/videocoursesmoduleview/part-1-module-2-social-security-retirement-benefits | elapsed=23.036s | retries=0
+2025-09-14 19:54:08 | INFO     | Progress: 80/147116 | ok=80, fail=0, no_text=0 | elapsed=33m 58s | eta=1040h 19m 45s
+2025-09-14 19:54:08 | INFO     | (81/147116) Submitting to checker | url=https://siteman.wustl.edu/treatment/cancer-types/leukemia/types-of-leukemia | chars=4995 | class=Human
+2025-09-14 19:54:25 | INFO     | (81/147116) Completed: 200 OK | url=https://siteman.wustl.edu/treatment/cancer-types/leukemia/types-of-leukemia | elapsed=16.914s | retries=0
+2025-09-14 19:54:25 | INFO     | Progress: 81/147116 | ok=81, fail=0, no_text=0 | elapsed=34m 15s | eta=1036h 0m 33s
+2025-09-14 19:54:25 | INFO     | (82/147116) Submitting to checker | url=https://drrichardcunningham.com/tib-fib-fractures-in-skiers | chars=5000 | class=AI
+2025-09-14 19:54:49 | INFO     | (82/147116) Completed: 200 OK | url=https://drrichardcunningham.com/tib-fib-fractures-in-skiers | elapsed=24.474s | retries=0
+2025-09-14 19:54:49 | INFO     | Progress: 82/147116 | ok=82, fail=0, no_text=0 | elapsed=34m 39s | eta=1035h 33m 34s
+2025-09-14 19:54:49 | INFO     | (83/147116) Submitting to checker | url=https://www.sciencedirect.com/science/article/pii/s1526590007008942 | chars=777 | class=Human
+2025-09-14 19:54:58 | INFO     | (83/147116) Completed: 200 OK | url=https://www.sciencedirect.com/science/article/pii/s1526590007008942 | elapsed=8.847s | retries=0
+2025-09-14 19:54:58 | INFO     | Progress: 83/147116 | ok=83, fail=0, no_text=0 | elapsed=34m 48s | eta=1027h 25m 52s
+2025-09-14 19:54:58 | INFO     | (84/147116) Submitting to checker | url=https://www.kmobgyn.com/gestational-diabetes | chars=4977 | class=Human
+2025-09-14 19:55:27 | INFO     | (84/147116) Completed: 200 OK | url=https://www.kmobgyn.com/gestational-diabetes | elapsed=28.795s | retries=0
+2025-09-14 19:55:27 | INFO     | Progress: 84/147116 | ok=84, fail=0, no_text=0 | elapsed=35m 17s | eta=1029h 11m 46s
+2025-09-14 19:55:27 | INFO     | (85/147116) Submitting to checker | url=https://www.lybrate.com/topic/hematoma | chars=5000 | class=Human
+2025-09-14 19:55:48 | INFO     | (85/147116) Completed: 200 OK | url=https://www.lybrate.com/topic/hematoma | elapsed=20.876s | retries=0
+2025-09-14 19:55:48 | INFO     | Progress: 85/147116 | ok=85, fail=0, no_text=0 | elapsed=35m 38s | eta=1027h 6m 47s
+2025-09-14 19:55:48 | INFO     | (86/147116) Submitting to checker | url=https://cushingsindogs.com/cushings-in-dogs-diet | chars=4980 | class=AI
+2025-09-14 19:56:16 | INFO     | (86/147116) Completed: 200 OK | url=https://cushingsindogs.com/cushings-in-dogs-diet | elapsed=28.362s | retries=0
+2025-09-14 19:56:16 | INFO     | Progress: 86/147116 | ok=86, fail=0, no_text=0 | elapsed=36m 6s | eta=1028h 38m 2s
+2025-09-14 19:56:16 | INFO     | (87/147116) Submitting to checker | url=https://www.schengenvisas.com/fr/comment-demander-un-visa-schengen-pour-la-grece | chars=4781 | class=Human
+2025-09-14 19:56:35 | INFO     | (87/147116) Completed: 200 OK | url=https://www.schengenvisas.com/fr/comment-demander-un-visa-schengen-pour-la-grece | elapsed=18.742s | retries=0
+2025-09-14 19:56:35 | INFO     | Progress: 87/147116 | ok=87, fail=0, no_text=0 | elapsed=36m 25s | eta=1025h 36m 13s
+2025-09-14 19:56:35 | INFO     | (88/147116) Submitting to checker | url=https://healthcareers.umn.edu/health-careers/physical-therapy | chars=4999 | class=Human
+2025-09-14 19:56:58 | INFO     | (88/147116) Completed: 200 OK | url=https://healthcareers.umn.edu/health-careers/physical-therapy | elapsed=23.13s | retries=0
+2025-09-14 19:56:58 | INFO     | Progress: 88/147116 | ok=88, fail=0, no_text=0 | elapsed=36m 48s | eta=1024h 40m 47s
+2025-09-14 19:56:58 | INFO     | (89/147116) Submitting to checker | url=https://www.medicalnewstoday.com/articles/319506 | chars=5000 | class=AI
+2025-09-14 19:57:20 | INFO     | (89/147116) Completed: 200 OK | url=https://www.medicalnewstoday.com/articles/319506 | elapsed=22.115s | retries=0
+2025-09-14 19:57:20 | INFO     | Progress: 89/147116 | ok=89, fail=0, no_text=0 | elapsed=37m 10s | eta=1023h 18m 32s
+2025-09-14 19:57:20 | INFO     | (90/147116) Submitting to checker | url=https://resources.healthgrades.com/right-care/epilepsy/generalized-seizures | chars=4999 | class=Human
+2025-09-14 19:57:49 | INFO     | (90/147116) Completed: 200 OK | url=https://resources.healthgrades.com/right-care/epilepsy/generalized-seizures | elapsed=28.361s | retries=0
+2025-09-14 19:57:49 | INFO     | Progress: 90/147116 | ok=90, fail=0, no_text=0 | elapsed=37m 38s | eta=1024h 48m 13s
+2025-09-14 19:57:49 | INFO     | (91/147116) Submitting to checker | url=https://en.wikipedia.org/wiki/congenital_syphilis | chars=5000 | class=Human
+2025-09-14 19:58:19 | INFO     | (91/147116) Completed: 200 OK | url=https://en.wikipedia.org/wiki/congenital_syphilis | elapsed=30.034s | retries=0
+2025-09-14 19:58:19 | INFO     | Progress: 91/147116 | ok=91, fail=0, no_text=0 | elapsed=38m 8s | eta=1027h 1m 1s
+2025-09-14 19:58:19 | INFO     | (92/147116) Submitting to checker | url=https://www.evernorth.com/articles/mdlive-intergenerational-study-shows-mental-health-american-families-risk | chars=5000 | class=Human
+2025-09-14 19:58:39 | INFO     | (92/147116) Completed: 200 OK | url=https://www.evernorth.com/articles/mdlive-intergenerational-study-shows-mental-health-american-families-risk | elapsed=20.542s | retries=0
+2025-09-14 19:58:39 | INFO     | Progress: 92/147116 | ok=92, fail=0, no_text=0 | elapsed=38m 29s | eta=1024h 58m 1s
+2025-09-14 19:58:39 | INFO     | (93/147116) Submitting to checker | url=https://www.prevention.com/health/health-conditions/a23307598/how-long-does-the-flu-last | chars=5000 | class=Human
+2025-09-14 19:59:22 | INFO     | (93/147116) Completed: 200 OK | url=https://www.prevention.com/health/health-conditions/a23307598/how-long-does-the-flu-last | elapsed=42.9s | retries=0
+2025-09-14 19:59:22 | INFO     | Progress: 93/147116 | ok=93, fail=0, no_text=0 | elapsed=39m 12s | eta=1032h 46m 46s
+2025-09-14 19:59:22 | INFO     | (94/147116) Submitting to checker | url=https://ew.com/tv/2019/10/21/robert-de-niro-joe-pesci-irishman | chars=5000 | class=Human
+2025-09-14 20:00:01 | INFO     | (94/147116) Completed: 200 OK | url=https://ew.com/tv/2019/10/21/robert-de-niro-joe-pesci-irishman | elapsed=38.604s | retries=0
+2025-09-14 20:00:01 | INFO     | Progress: 94/147116 | ok=94, fail=0, no_text=0 | elapsed=39m 50s | eta=1038h 33m 33s
+2025-09-14 20:00:01 | INFO     | (95/147116) Submitting to checker | url=https://www.mayoclinic.org/diseases-conditions/separation-anxiety-disorder/symptoms-causes/syc-20377455 | chars=5000 | class=Human
+2025-09-14 20:00:45 | INFO     | (95/147116) Completed: 200 OK | url=https://www.mayoclinic.org/diseases-conditions/separation-anxiety-disorder/symptoms-causes/syc-20377455 | elapsed=44.31s | retries=0
+2025-09-14 20:00:45 | INFO     | Progress: 95/147116 | ok=95, fail=0, no_text=0 | elapsed=40m 35s | eta=1046h 40m 13s
+2025-09-14 20:00:45 | INFO     | (96/147116) Submitting to checker | url=https://curaprox.ch/en/blog/post/what-to-do-with-tongue-cancer | chars=5000 | class=Human
+2025-09-14 20:01:05 | INFO     | (96/147116) Completed: 200 OK | url=https://curaprox.ch/en/blog/post/what-to-do-with-tongue-cancer | elapsed=19.426s | retries=0
+2025-09-14 20:01:05 | INFO     | Progress: 96/147116 | ok=96, fail=0, no_text=0 | elapsed=40m 54s | eta=1044h 1m 31s
+2025-09-14 20:01:05 | INFO     | (97/147116) Submitting to checker | url=https://www.vec.com.hk/en/blog/feline-panleukopenia-symptoms | chars=5000 | class=Human
+2025-09-14 20:01:38 | INFO     | (97/147116) Completed: 200 OK | url=https://www.vec.com.hk/en/blog/feline-panleukopenia-symptoms | elapsed=33.565s | retries=0
+2025-09-14 20:01:38 | INFO     | Progress: 97/147116 | ok=97, fail=0, no_text=0 | elapsed=41m 28s | eta=1047h 23m 20s
+2025-09-14 20:01:38 | INFO     | (98/147116) Submitting to checker | url=https://www.healthshots.com/preventive-care/self-care/world-pneumonia-day-know-the-link-between-covid-19-and-pneumonia | chars=5000 | class=Human
+2025-09-14 20:02:19 | INFO     | (98/147116) Completed: 200 OK | url=https://www.healthshots.com/preventive-care/self-care/world-pneumonia-day-know-the-link-between-covid-19-and-pneumonia | elapsed=40.957s | retries=0
+2025-09-14 20:02:19 | INFO     | Progress: 98/147116 | ok=98, fail=0, no_text=0 | elapsed=42m 9s | eta=1053h 45m 51s
+2025-09-14 20:02:19 | INFO     | (99/147116) Submitting to checker | url=https://www.history.com/articles/squanto-pilgrims-help-plymouth-thanksgiving | chars=5000 | class=Human
+2025-09-14 20:02:51 | INFO     | (99/147116) Completed: 200 OK | url=https://www.history.com/articles/squanto-pilgrims-help-plymouth-thanksgiving | elapsed=32.207s | retries=0
+2025-09-14 20:02:51 | INFO     | Progress: 99/147116 | ok=99, fail=0, no_text=0 | elapsed=42m 41s | eta=1056h 24m 11s
+2025-09-14 20:02:51 | INFO     | (100/147116) Submitting to checker | url=https://www.holistapet.com/blogs/home-remedies-for-dogs/ear-infection | chars=5000 | class=Human
+2025-09-14 20:03:12 | INFO     | (100/147116) Completed: 200 OK | url=https://www.holistapet.com/blogs/home-remedies-for-dogs/ear-infection | elapsed=20.205s | retries=0
+2025-09-14 20:03:12 | INFO     | Progress: 100/147116 | ok=100, fail=0, no_text=0 | elapsed=43m 1s | eta=1054h 5m 10s
+2025-09-14 20:03:12 | INFO     | (101/147116) Submitting to checker | url=https://www.maturitas.org/article/s0378-5122(19)30245-2/fulltext | chars=3937 | class=Human
+2025-09-14 20:03:38 | INFO     | (101/147116) Completed: 200 OK | url=https://www.maturitas.org/article/s0378-5122(19)30245-2/fulltext | elapsed=26.189s | retries=0
+2025-09-14 20:03:38 | INFO     | Progress: 101/147116 | ok=101, fail=0, no_text=0 | elapsed=43m 27s | eta=1054h 13m 58s
+2025-09-14 20:03:38 | INFO     | (102/147116) Submitting to checker | url=https://carbuzz.com/mainstream-cars | chars=4319 | class=Human
+2025-09-14 20:04:01 | INFO     | (102/147116) Completed: 200 OK | url=https://carbuzz.com/mainstream-cars | elapsed=23.4s | retries=0
+2025-09-14 20:04:01 | INFO     | Progress: 102/147116 | ok=102, fail=0, no_text=0 | elapsed=43m 51s | eta=1053h 15m 35s
+2025-09-14 20:04:01 | INFO     | (103/147116) Submitting to checker | url=https://www.okoa.org/articles/what-are-the-best-remedies-for-sinus-infection-relief | chars=5000 | class=AI
+2025-09-14 20:04:29 | INFO     | (103/147116) Completed: 200 OK | url=https://www.okoa.org/articles/what-are-the-best-remedies-for-sinus-infection-relief | elapsed=27.524s | retries=0
+2025-09-14 20:04:29 | INFO     | Progress: 103/147116 | ok=103, fail=0, no_text=0 | elapsed=44m 18s | eta=1053h 56m 26s
+2025-09-14 20:04:29 | INFO     | (104/147116) Submitting to checker | url=https://spielmd.com/post-covid-relief | chars=4018 | class=Human
+2025-09-14 20:04:49 | INFO     | (104/147116) Completed: 200 OK | url=https://spielmd.com/post-covid-relief | elapsed=20.527s | retries=0
+2025-09-14 20:04:49 | INFO     | Progress: 104/147116 | ok=104, fail=0, no_text=0 | elapsed=44m 39s | eta=1051h 51m 41s
+2025-09-14 20:04:49 | INFO     | (105/147116) Submitting to checker | url=https://asiasociety.org/policy-institute/chinas-gambit-assessing-beijings-consumer-driven-economic-strategy | chars=5000 | class=Human
+2025-09-14 20:05:09 | INFO     | (105/147116) Completed: 200 OK | url=https://asiasociety.org/policy-institute/chinas-gambit-assessing-beijings-consumer-driven-economic-strategy | elapsed=19.48s | retries=0
+2025-09-14 20:05:09 | INFO     | Progress: 105/147116 | ok=105, fail=0, no_text=0 | elapsed=44m 58s | eta=1049h 24m 53s
+2025-09-14 20:05:09 | INFO     | (106/147116) Submitting to checker | url=https://hhs.iowa.gov/center-acute-disease-epidemiology/rabies-information-public-providers-and-veterinarians | chars=4999 | class=Human
+2025-09-14 20:05:38 | INFO     | (106/147116) Completed: 200 OK | url=https://hhs.iowa.gov/center-acute-disease-epidemiology/rabies-information-public-providers-and-veterinarians | elapsed=29.385s | retries=0
+2025-09-14 20:05:38 | INFO     | Progress: 106/147116 | ok=106, fail=0, no_text=0 | elapsed=45m 28s | eta=1050h 49m 47s
+2025-09-14 20:05:38 | INFO     | (107/147116) Submitting to checker | url=https://www.do-smiles.com/everything-you-need-to-know-about-phase-1-treatment | chars=5000 | class=Human
+2025-09-14 20:06:17 | INFO     | (107/147116) Completed: 200 OK | url=https://www.do-smiles.com/everything-you-need-to-know-about-phase-1-treatment | elapsed=39.297s | retries=0
+2025-09-14 20:06:17 | INFO     | Progress: 107/147116 | ok=107, fail=0, no_text=0 | elapsed=46m 7s | eta=1056h 0m 4s
+2025-09-14 20:06:17 | INFO     | (108/147116) Submitting to checker | url=https://treatcancer.com/blog/skin-cancer-by-skin-tone | chars=4999 | class=Human
+2025-09-14 20:06:42 | INFO     | (108/147116) Completed: 200 OK | url=https://treatcancer.com/blog/skin-cancer-by-skin-tone | elapsed=24.163s | retries=0
+2025-09-14 20:06:42 | INFO     | Progress: 108/147116 | ok=108, fail=0, no_text=0 | elapsed=46m 31s | eta=1055h 21m 16s
+2025-09-14 20:06:42 | INFO     | (109/147116) Submitting to checker | url=https://www.financialexpress.com/policy/economy-cpi-inflation-eases-to-six-year-low-of-2-10-in-june-on-favourable-base-effect-decline-in-food-prices-3913749 | chars=5000 | class=Human
+2025-09-14 20:07:16 | INFO     | (109/147116) Completed: 200 OK | url=https://www.financialexpress.com/policy/economy-cpi-inflation-eases-to-six-year-low-of-2-10-in-june-on-favourable-base-effect-decline-in-food-prices-3913749 | elapsed=34.607s | retries=0
+2025-09-14 20:07:16 | INFO     | Progress: 109/147116 | ok=109, fail=0, no_text=0 | elapsed=47m 6s | eta=1058h 37m 54s
+2025-09-14 20:07:16 | INFO     | (110/147116) Submitting to checker | url=https://jofem.org/index.php/jofem/article/view/662/284284456 | chars=4997 | class=Human
+2025-09-14 20:07:59 | INFO     | (110/147116) Completed: 200 OK | url=https://jofem.org/index.php/jofem/article/view/662/284284456 | elapsed=43.208s | retries=0
+2025-09-14 20:07:59 | INFO     | Progress: 110/147116 | ok=110, fail=0, no_text=0 | elapsed=47m 49s | eta=1065h 2m 37s
+2025-09-14 20:07:59 | INFO     | (111/147116) Submitting to checker | url=https://factcheck.bg/en/no-vaccines-do-not-increase-the-risk-of-spreading-serious-illness-or-death-to-the-unvaccinated | chars=4998 | class=Human
+2025-09-14 20:08:28 | INFO     | (111/147116) Completed: 200 OK | url=https://factcheck.bg/en/no-vaccines-do-not-increase-the-risk-of-spreading-serious-illness-or-death-to-the-unvaccinated | elapsed=28.937s | retries=0
+2025-09-14 20:08:28 | INFO     | Progress: 111/147116 | ok=111, fail=0, no_text=0 | elapsed=48m 18s | eta=1066h 5m 17s
+2025-09-14 20:08:28 | INFO     | (112/147116) Submitting to checker | url=https://www.cdcfoundation.org/blog/how-fdas-vaccine-approval-can-help-us-end-covid-19 | chars=4736 | class=Human
+2025-09-14 20:08:53 | INFO     | (112/147116) Completed: 200 OK | url=https://www.cdcfoundation.org/blog/how-fdas-vaccine-approval-can-help-us-end-covid-19 | elapsed=25.179s | retries=0
+2025-09-14 20:08:53 | INFO     | Progress: 112/147116 | ok=112, fail=0, no_text=0 | elapsed=48m 43s | eta=1065h 44m 36s
+2025-09-14 20:08:53 | INFO     | (113/147116) Submitting to checker | url=https://www.texasfootsurgeons.com/services/foot-pain/gout | chars=4947 | class=Human
+2025-09-14 20:09:12 | INFO     | (113/147116) Completed: 200 OK | url=https://www.texasfootsurgeons.com/services/foot-pain/gout | elapsed=18.27s | retries=0
+2025-09-14 20:09:12 | INFO     | Progress: 113/147116 | ok=113, fail=0, no_text=0 | elapsed=49m 1s | eta=1062h 54m 28s
+2025-09-14 20:09:12 | INFO     | (114/147116) Submitting to checker | url=https://www.healthdirect.gov.au/bowel-infections | chars=4910 | class=Human
+2025-09-14 20:09:45 | INFO     | (114/147116) Completed: 200 OK | url=https://www.healthdirect.gov.au/bowel-infections | elapsed=32.766s | retries=0
+2025-09-14 20:09:45 | INFO     | Progress: 114/147116 | ok=114, fail=0, no_text=0 | elapsed=49m 34s | eta=1065h 18m 52s
+2025-09-14 20:09:45 | INFO     | (115/147116) Submitting to checker | url=https://ecancer.org/en/news/23647-capturing-the-chemistry-of-radium-223-for-cancer-treatment | chars=4999 | class=Human
+2025-09-14 20:10:04 | INFO     | (115/147116) Completed: 200 OK | url=https://ecancer.org/en/news/23647-capturing-the-chemistry-of-radium-223-for-cancer-treatment | elapsed=19.854s | retries=0
+2025-09-14 20:10:04 | INFO     | Progress: 115/147116 | ok=115, fail=0, no_text=0 | elapsed=49m 54s | eta=1063h 5m 38s
+2025-09-14 20:10:04 | INFO     | (116/147116) Submitting to checker | url=https://www.pbs.org/video/july-23-2025-pbs-news-hour-full-episode-1753243201 | chars=5000 | class=Human
+2025-09-14 20:10:37 | INFO     | (116/147116) Completed: 200 OK | url=https://www.pbs.org/video/july-23-2025-pbs-news-hour-full-episode-1753243201 | elapsed=32.157s | retries=0
+2025-09-14 20:10:37 | INFO     | Progress: 116/147116 | ok=116, fail=0, no_text=0 | elapsed=50m 26s | eta=1065h 14m 40s
+2025-09-14 20:10:37 | INFO     | (117/147116) Submitting to checker | url=https://en.wikipedia.org/wiki/diabetes | chars=5000 | class=Human
+2025-09-14 20:10:59 | INFO     | (117/147116) Completed: 200 OK | url=https://en.wikipedia.org/wiki/diabetes | elapsed=22.728s | retries=0
+2025-09-14 20:10:59 | INFO     | Progress: 117/147116 | ok=117, fail=0, no_text=0 | elapsed=50m 49s | eta=1064h 3m 56s
+2025-09-14 20:10:59 | INFO     | (118/147116) Submitting to checker | url=https://louisville.edu/envirome/news/covid-19-coronavirus-they-reveal-at-what-temperature-there-is-greater-transmission-of-the-coronavirus | chars=3127 | class=Human
+2025-09-14 20:11:24 | INFO     | (118/147116) Completed: 200 OK | url=https://louisville.edu/envirome/news/covid-19-coronavirus-they-reveal-at-what-temperature-there-is-greater-transmission-of-the-coronavirus | elapsed=24.576s | retries=0
+2025-09-14 20:11:24 | INFO     | Progress: 118/147116 | ok=118, fail=0, no_text=0 | elapsed=51m 13s | eta=1063h 32m 47s
+2025-09-14 20:11:24 | INFO     | (119/147116) Submitting to checker | url=https://www.cvs.com/minuteclinic/services/high-blood-pressure-treatment | chars=2174 | class=Human
+2025-09-14 20:11:36 | INFO     | (119/147116) Completed: 200 OK | url=https://www.cvs.com/minuteclinic/services/high-blood-pressure-treatment | elapsed=12.386s | retries=0
+2025-09-14 20:11:36 | INFO     | Progress: 119/147116 | ok=119, fail=0, no_text=0 | elapsed=51m 26s | eta=1058h 51m 9s
+2025-09-14 20:11:36 | INFO     | (120/147116) Submitting to checker | url=https://grail.com | chars=4999 | class=Human
+2025-09-14 20:12:05 | INFO     | (120/147116) Completed: 200 OK | url=https://grail.com | elapsed=29.135s | retries=0
+2025-09-14 20:12:05 | INFO     | Progress: 120/147116 | ok=120, fail=0, no_text=0 | elapsed=51m 55s | eta=1059h 56m 13s
+2025-09-14 20:12:05 | INFO     | (121/147116) Submitting to checker | url=https://ufhealth.org/conditions-and-treatments/drug-induced-low-blood-sugar | chars=1275 | class=Human
+2025-09-14 20:12:21 | INFO     | (121/147116) Completed: 200 OK | url=https://ufhealth.org/conditions-and-treatments/drug-induced-low-blood-sugar | elapsed=16.017s | retries=0
+2025-09-14 20:12:21 | INFO     | Progress: 121/147116 | ok=121, fail=0, no_text=0 | elapsed=52m 11s | eta=1056h 34m 35s
+2025-09-14 20:12:21 | INFO     | (122/147116) Submitting to checker | url=https://manifestlaw.com/blog/best-businesses-e2-visa | chars=4926 | class=Human
+2025-09-14 20:12:39 | INFO     | (122/147116) Completed: 200 OK | url=https://manifestlaw.com/blog/best-businesses-e2-visa | elapsed=17.404s | retries=0
+2025-09-14 20:12:39 | INFO     | Progress: 122/147116 | ok=122, fail=0, no_text=0 | elapsed=52m 28s | eta=1053h 44m 6s
+2025-09-14 20:12:39 | INFO     | (123/147116) Submitting to checker | url=https://www.duiprocess.com/connecticut-third-offense-dui | chars=2648 | class=Human
+2025-09-14 20:12:57 | INFO     | (123/147116) Completed: 200 OK | url=https://www.duiprocess.com/connecticut-third-offense-dui | elapsed=18.413s | retries=0
+2025-09-14 20:12:57 | INFO     | Progress: 123/147116 | ok=123, fail=0, no_text=0 | elapsed=52m 47s | eta=1051h 16m 32s
+2025-09-14 20:12:57 | INFO     | (124/147116) Submitting to checker | url=https://www.cedars-sinai.org/health-library/diseases-and-conditions/p/pericarditis.html | chars=4493 | class=Human
+2025-09-14 20:13:15 | INFO     | (124/147116) Completed: 200 OK | url=https://www.cedars-sinai.org/health-library/diseases-and-conditions/p/pericarditis.html | elapsed=17.335s | retries=0
+2025-09-14 20:13:15 | INFO     | Progress: 124/147116 | ok=124, fail=0, no_text=0 | elapsed=53m 4s | eta=1048h 29m 58s
+2025-09-14 20:13:15 | INFO     | (125/147116) Submitting to checker | url=https://bjsm.bmj.com/content/54/12/725 | chars=4999 | class=Human
+2025-09-14 20:13:42 | INFO     | (125/147116) Completed: 200 OK | url=https://bjsm.bmj.com/content/54/12/725 | elapsed=27.661s | retries=0
+2025-09-14 20:13:42 | INFO     | Progress: 125/147116 | ok=125, fail=0, no_text=0 | elapsed=53m 32s | eta=1049h 8m 26s
+2025-09-14 20:13:42 | INFO     | (126/147116) Submitting to checker | url=https://bostonhernia.com/faq/what-are-symptoms-of-a-hernia | chars=4997 | class=Human
+2025-09-14 20:14:08 | INFO     | (126/147116) Completed: 200 OK | url=https://bostonhernia.com/faq/what-are-symptoms-of-a-hernia | elapsed=25.644s | retries=0
+2025-09-14 20:14:08 | INFO     | Progress: 126/147116 | ok=126, fail=0, no_text=0 | elapsed=53m 57s | eta=1049h 7m 5s
+2025-09-14 20:14:08 | INFO     | (127/147116) Submitting to checker | url=https://beyondtype1.org/how-medications-can-impact-blood-sugars | chars=4998 | class=Human
