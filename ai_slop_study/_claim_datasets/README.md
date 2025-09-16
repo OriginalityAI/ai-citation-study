@@ -27,3 +27,6 @@ SERP Progress log
 
 6.  2025-09-15 21:27:22 | INFO | Progress: 2860/147116 | ok=2852, fail=8, no_text=0 | elapsed=26h 7m 12s | eta=1317h 28m 1s
     2025-09-15 21:27:22 | INFO | (2861/147116) Submitting to checker | url=https://www.sandstonecare.com/blog/generational-trauma | chars=5000 | class=Human
+
+7.  2025-09-15 21:57:54 | INFO | Progress: 56/146990 | ok=56, fail=0, no_text=0 | elapsed=28m 47s | eta=1258h 53m 32s
+    2025-09-15 21:57:54 | INFO | (57/146990) Submitting to checker | url=https://stwserve.com/understanding-fers-disability-retirement-rules-2 | chars=5000 | class=Human

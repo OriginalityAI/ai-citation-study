@@ -63436,3 +63436,184 @@
 2025-09-14 20:14:08 | INFO     | (126/147116) Completed: 200 OK | url=https://bostonhernia.com/faq/what-are-symptoms-of-a-hernia | elapsed=25.644s | retries=0
 2025-09-14 20:14:08 | INFO     | Progress: 126/147116 | ok=126, fail=0, no_text=0 | elapsed=53m 57s | eta=1049h 7m 5s
 2025-09-14 20:14:08 | INFO     | (127/147116) Submitting to checker | url=https://beyondtype1.org/how-medications-can-impact-blood-sugars | chars=4998 | class=Human
+2025-09-15 21:28:58 | INFO     | Logger initialized (level=INFO, to_file=1)
+2025-09-15 21:28:58 | INFO     | Loading environment (.env)
+2025-09-15 21:28:58 | INFO     | Base directory: /Users/rustemkakimov/Code/MITACS/ouroboros/samples/ymyl_29000/res_20250723_n100
+2025-09-15 21:28:58 | INFO     | Loading classified CSV: /Users/rustemkakimov/Code/MITACS/ouroboros/samples/ymyl_29000/res_20250723_n100/__classified_urls.csv (14.3MB)
+2025-09-15 21:28:58 | INFO     | Loaded 167856 classified rows in 0s
+2025-09-15 21:28:58 | INFO     | Loading scraped content CSV (this may be large): /Users/rustemkakimov/Code/MITACS/ouroboros/samples/ymyl_29000/res_20250723_n100/_scraped.csv (781.0MB)
+2025-09-15 21:29:05 | INFO     | Built scraped map of 173526 URLs in 7s
+2025-09-15 21:29:05 | INFO     | Deduplicating URLs (keep first occurrence)
+2025-09-15 21:29:05 | INFO     | Deduped: 167856 -> 167856 unique URLs
+2025-09-15 21:29:05 | INFO     | Resume scan: parsing previously completed URLs from /Users/rustemkakimov/Code/MITACS/ouroboros/ai_slop_study/serp_fc_results.jsonl (189.0MB)
+2025-09-15 21:29:06 | INFO     | Resume scan: found 16921 completed URLs
+2025-09-15 21:29:06 | INFO     | Resume scan: parsing previously completed URLs from /Users/rustemkakimov/Code/MITACS/ouroboros/ai_slop_study/serp_fc_results_alpha.jsonl (48.5MB)
+2025-09-15 21:29:07 | INFO     | Resume scan: found 3945 completed URLs
+2025-09-15 21:29:07 | INFO     | Resume state: 20866 already done, 146990 queued for processing
+2025-09-15 21:29:07 | INFO     | Opening output JSONL for append: /Users/rustemkakimov/Code/MITACS/ouroboros/ai_slop_study/serp_fc_results.jsonl
+2025-09-15 21:29:07 | INFO     | (1/146990) Submitting to checker | url=https://www.england.nhs.uk/ourwork/clinical-policy/stroke | chars=4992 | class=Human
+2025-09-15 21:29:42 | INFO     | (1/146990) Completed: 200 OK | url=https://www.england.nhs.uk/ourwork/clinical-policy/stroke | elapsed=35.29s | retries=0
+2025-09-15 21:29:42 | INFO     | Progress: 1/146990 | ok=1, fail=0, no_text=0 | elapsed=35s | eta=1440h 59m 21s
+2025-09-15 21:29:42 | INFO     | (2/146990) Submitting to checker | url=https://www.cancerresearchuk.org/about-cancer/skin-cancer/stages-grades | chars=4954 | class=Human
+2025-09-15 21:30:27 | INFO     | (2/146990) Completed: 200 OK | url=https://www.cancerresearchuk.org/about-cancer/skin-cancer/stages-grades | elapsed=44.835s | retries=0
+2025-09-15 21:30:27 | INFO     | Progress: 2/146990 | ok=2, fail=0, no_text=0 | elapsed=1m 20s | eta=1635h 49m 10s
+2025-09-15 21:30:27 | INFO     | (3/146990) Submitting to checker | url=https://www.healio.com/news/hematology-oncology/20241113/blood-test-may-improve-detection-of-early-pancreatic-cancer | chars=5000 | class=Human
+2025-09-15 21:30:53 | INFO     | (3/146990) Completed: 200 OK | url=https://www.healio.com/news/hematology-oncology/20241113/blood-test-may-improve-detection-of-early-pancreatic-cancer | elapsed=26.011s | retries=0
+2025-09-15 21:30:53 | INFO     | Progress: 3/146990 | ok=3, fail=0, no_text=0 | elapsed=1m 46s | eta=1444h 34m 19s
+2025-09-15 21:30:53 | INFO     | (4/146990) Submitting to checker | url=https://electrek.co/2024/03/28/new-jersey-ev-fee | chars=4998 | class=Human
+2025-09-15 21:31:32 | INFO     | (4/146990) Completed: 200 OK | url=https://electrek.co/2024/03/28/new-jersey-ev-fee | elapsed=38.618s | retries=0
+2025-09-15 21:31:32 | INFO     | Progress: 4/146990 | ok=4, fail=0, no_text=0 | elapsed=2m 25s | eta=1477h 38m 0s
+2025-09-15 21:31:32 | INFO     | (5/146990) Submitting to checker | url=https://www.businessinsider.com/guides/health/treatments/migraine-relief | chars=4984 | class=Human
+2025-09-15 21:32:08 | INFO     | (5/146990) Completed: 200 OK | url=https://www.businessinsider.com/guides/health/treatments/migraine-relief | elapsed=36.658s | retries=0
+2025-09-15 21:32:08 | INFO     | Progress: 5/146990 | ok=5, fail=0, no_text=0 | elapsed=3m 1s | eta=1481h 27m 36s
+2025-09-15 21:32:08 | INFO     | (6/146990) Submitting to checker | url=https://www.prioritystdtesting.com/testing-options/hiv-testing | chars=5000 | class=Human
+2025-09-15 21:32:33 | INFO     | (6/146990) Completed: 200 OK | url=https://www.prioritystdtesting.com/testing-options/hiv-testing | elapsed=24.882s | retries=0
+2025-09-15 21:32:33 | INFO     | Progress: 6/146990 | ok=6, fail=0, no_text=0 | elapsed=3m 26s | eta=1403h 52m 24s
+2025-09-15 21:32:33 | INFO     | (7/146990) Submitting to checker | url=https://www.bmwofpittsburgh.com/commerical-tax-credit.htm | chars=4990 | class=Human
+2025-09-15 21:32:58 | INFO     | (7/146990) Completed: 200 OK | url=https://www.bmwofpittsburgh.com/commerical-tax-credit.htm | elapsed=24.571s | retries=0
+2025-09-15 21:32:58 | INFO     | Progress: 7/146990 | ok=7, fail=0, no_text=0 | elapsed=3m 51s | eta=1346h 38m 7s
+2025-09-15 21:32:58 | INFO     | (8/146990) Submitting to checker | url=https://my.clevelandclinic.org/health/diseases/21535-cholesteatoma | chars=5000 | class=Human
+2025-09-15 21:33:29 | INFO     | (8/146990) Completed: 200 OK | url=https://my.clevelandclinic.org/health/diseases/21535-cholesteatoma | elapsed=31.367s | retries=0
+2025-09-15 21:33:29 | INFO     | Progress: 8/146990 | ok=8, fail=0, no_text=0 | elapsed=4m 22s | eta=1338h 23m 8s
+2025-09-15 21:33:29 | INFO     | (9/146990) Submitting to checker | url=https://www.kaya.in/blog/target-stubborn-fat | chars=4994 | class=AI
+2025-09-15 21:33:46 | INFO     | (9/146990) Completed: 200 OK | url=https://www.kaya.in/blog/target-stubborn-fat | elapsed=17.086s | retries=0
+2025-09-15 21:33:46 | INFO     | Progress: 9/146990 | ok=9, fail=0, no_text=0 | elapsed=4m 39s | eta=1267h 10m 53s
+2025-09-15 21:33:46 | INFO     | (10/146990) Submitting to checker | url=https://www.vaia.com/en-us/textbooks/math/fundamentals-of-corporate-finance-3-edition/chapter-9/problem-28-interest-rate-risk-suppose-interest-rates-increas | chars=4999 | class=Human
+2025-09-15 21:34:18 | INFO     | (10/146990) Completed: 200 OK | url=https://www.vaia.com/en-us/textbooks/math/fundamentals-of-corporate-finance-3-edition/chapter-9/problem-28-interest-rate-risk-suppose-interest-rates-increas | elapsed=31.545s | retries=0
+2025-09-15 21:34:18 | INFO     | Progress: 10/146990 | ok=10, fail=0, no_text=0 | elapsed=5m 11s | eta=1269h 15m 16s
+2025-09-15 21:34:18 | INFO     | (11/146990) Submitting to checker | url=https://www.cancerresearchuk.org/about-cancer/bowel-cancer/metastatic/treatment/treating-symptoms | chars=4956 | class=AI
+2025-09-15 21:34:44 | INFO     | (11/146990) Completed: 200 OK | url=https://www.cancerresearchuk.org/about-cancer/bowel-cancer/metastatic/treatment/treating-symptoms | elapsed=26.397s | retries=0
+2025-09-15 21:34:44 | INFO     | Progress: 11/146990 | ok=11, fail=0, no_text=0 | elapsed=5m 37s | eta=1251h 50m 19s
+2025-09-15 21:34:44 | INFO     | (12/146990) Submitting to checker | url=https://www.nature.com/articles/s41572-023-00487-6 | chars=4964 | class=Human
+2025-09-15 21:35:06 | INFO     | (12/146990) Completed: 200 OK | url=https://www.nature.com/articles/s41572-023-00487-6 | elapsed=22.037s | retries=0
+2025-09-15 21:35:06 | INFO     | Progress: 12/146990 | ok=12, fail=0, no_text=0 | elapsed=5m 59s | eta=1222h 29m 28s
+2025-09-15 21:35:06 | INFO     | (13/146990) Submitting to checker | url=https://healthy.kaiserpermanente.org/health-wellness/drug-encyclopedia/drug.reese's-pinworm-medicine-50-mg-ml-oral-suspension.467377 | chars=4999 | class=Human
+2025-09-15 21:36:30 | INFO     | (13/146990) Completed: 200 OK | url=https://healthy.kaiserpermanente.org/health-wellness/drug-encyclopedia/drug.reese's-pinworm-medicine-50-mg-ml-oral-suspension.467377 | elapsed=84.038s | retries=0
+2025-09-15 21:36:30 | INFO     | Progress: 13/146990 | ok=13, fail=0, no_text=0 | elapsed=7m 23s | eta=1392h 22m 17s
+2025-09-15 21:36:30 | INFO     | (14/146990) Submitting to checker | url=https://www.cardiovascularconsultantspc.com/high-blood-pressure-and-its-impact-on-heart-disease | chars=4979 | class=Human
+2025-09-15 21:37:03 | INFO     | (14/146990) Completed: 200 OK | url=https://www.cardiovascularconsultantspc.com/high-blood-pressure-and-its-impact-on-heart-disease | elapsed=32.328s | retries=0
+2025-09-15 21:37:03 | INFO     | Progress: 14/146990 | ok=14, fail=0, no_text=0 | elapsed=7m 56s | eta=1387h 11m 22s
+2025-09-15 21:37:03 | INFO     | (15/146990) Submitting to checker | url=https://www.kidmagazine.com.au/five-important-signs-your-child-needs-to-see-a-speech-therapist | chars=5000 | class=Human
+2025-09-15 21:37:32 | INFO     | (15/146990) Completed: 200 OK | url=https://www.kidmagazine.com.au/five-important-signs-your-child-needs-to-see-a-speech-therapist | elapsed=29.249s | retries=0
+2025-09-15 21:37:32 | INFO     | Progress: 15/146990 | ok=15, fail=0, no_text=0 | elapsed=8m 25s | eta=1374h 19m 8s
+2025-09-15 21:37:32 | INFO     | (16/146990) Submitting to checker | url=https://www.s4me.info/threads/ferritin-cutoffs-and-diagnosis-of-iron-deficiency-in-primary-care-2024-j%c3%a4ger-et-al.39658 | chars=4999 | class=Human
+2025-09-15 21:38:05 | INFO     | (16/146990) Completed: 200 OK | url=https://www.s4me.info/threads/ferritin-cutoffs-and-diagnosis-of-iron-deficiency-in-primary-care-2024-j%c3%a4ger-et-al.39658 | elapsed=33.379s | retries=0
+2025-09-15 21:38:05 | INFO     | Progress: 16/146990 | ok=16, fail=0, no_text=0 | elapsed=8m 58s | eta=1373h 35m 28s
+2025-09-15 21:38:05 | INFO     | (17/146990) Submitting to checker | url=https://www.patientpower.info/colorectal-cancer/colorectal-cancer-survival-rate | chars=5000 | class=AI
+2025-09-15 21:38:35 | INFO     | (17/146990) Completed: 200 OK | url=https://www.patientpower.info/colorectal-cancer/colorectal-cancer-survival-rate | elapsed=29.953s | retries=0
+2025-09-15 21:38:35 | INFO     | Progress: 17/146990 | ok=17, fail=0, no_text=0 | elapsed=9m 28s | eta=1364h 43m 10s
+2025-09-15 21:38:35 | INFO     | (18/146990) Submitting to checker | url=https://help.guideline.com/en/articles/8593670-what-is-a-401-k-loan-and-do-i-qualify | chars=4987 | class=Human
+2025-09-15 21:39:12 | INFO     | (18/146990) Completed: 200 OK | url=https://help.guideline.com/en/articles/8593670-what-is-a-401-k-loan-and-do-i-qualify | elapsed=36.808s | retries=0
+2025-09-15 21:39:12 | INFO     | Progress: 18/146990 | ok=18, fail=0, no_text=0 | elapsed=10m 5s | eta=1372h 22m 44s
+2025-09-15 21:39:12 | INFO     | (19/146990) Submitting to checker | url=https://mgcdiagnostics.com | chars=5000 | class=Human
+2025-09-15 21:39:47 | INFO     | (19/146990) Completed: 200 OK | url=https://mgcdiagnostics.com | elapsed=35.228s | retries=0
+2025-09-15 21:39:47 | INFO     | Progress: 19/146990 | ok=19, fail=0, no_text=0 | elapsed=10m 40s | eta=1375h 50m 18s
+2025-09-15 21:39:47 | INFO     | (20/146990) Submitting to checker | url=https://www.justanswer.com/urology/1z9x4-75-cancer-prostate-gleason-score-3-4-7and-2-3-5.html | chars=4982 | class=Human
+2025-09-15 21:40:28 | INFO     | (20/146990) Completed: 200 OK | url=https://www.justanswer.com/urology/1z9x4-75-cancer-prostate-gleason-score-3-4-7and-2-3-5.html | elapsed=40.341s | retries=0
+2025-09-15 21:40:28 | INFO     | Progress: 20/146990 | ok=20, fail=0, no_text=0 | elapsed=11m 21s | eta=1389h 23m 13s
+2025-09-15 21:40:28 | INFO     | (21/146990) Submitting to checker | url=https://www.inspire.com/groups/zero-prostate-cancer/discussion/expectations-of-a-stage-4-prostate-cancer-survival-rate | chars=4976 | class=Human
+2025-09-15 21:41:17 | INFO     | (21/146990) Completed: 200 OK | url=https://www.inspire.com/groups/zero-prostate-cancer/discussion/expectations-of-a-stage-4-prostate-cancer-survival-rate | elapsed=48.85s | retries=0
+2025-09-15 21:41:17 | INFO     | Progress: 21/146990 | ok=21, fail=0, no_text=0 | elapsed=12m 10s | eta=1418h 11m 10s
+2025-09-15 21:41:17 | INFO     | (22/146990) Submitting to checker | url=https://my.clevelandclinic.org/health/symptoms/23163-lupus-rash | chars=5000 | class=Human
+2025-09-15 21:42:10 | INFO     | (22/146990) Completed: 200 OK | url=https://my.clevelandclinic.org/health/symptoms/23163-lupus-rash | elapsed=53.549s | retries=0
+2025-09-15 21:42:10 | INFO     | Progress: 22/146990 | ok=22, fail=0, no_text=0 | elapsed=13m 3s | eta=1453h 6m 51s
+2025-09-15 21:42:10 | INFO     | (23/146990) Submitting to checker | url=https://www.sabinorecovery.com/how-can-depression-affect-a-relationship | chars=4932 | class=AI
+2025-09-15 21:42:40 | INFO     | (23/146990) Completed: 200 OK | url=https://www.sabinorecovery.com/how-can-depression-affect-a-relationship | elapsed=29.539s | retries=0
+2025-09-15 21:42:40 | INFO     | Progress: 23/146990 | ok=23, fail=0, no_text=0 | elapsed=13m 33s | eta=1442h 21m 56s
+2025-09-15 21:42:40 | INFO     | (24/146990) Submitting to checker | url=https://nyulangone.org/news/many-hospitalized-covid-19-patients-have-long-term-neurological-problems | chars=5000 | class=Human
+2025-09-15 21:43:50 | INFO     | (24/146990) Completed: 200 OK | url=https://nyulangone.org/news/many-hospitalized-covid-19-patients-have-long-term-neurological-problems | elapsed=70.815s | retries=0
+2025-09-15 21:43:50 | INFO     | Progress: 24/146990 | ok=24, fail=0, no_text=0 | elapsed=14m 43s | eta=1502h 44m 0s
+2025-09-15 21:43:50 | INFO     | (25/146990) Submitting to checker | url=https://romedentalco.com/blog/warning-signs-of-oral-cancer | chars=5000 | class=AI
+2025-09-15 21:44:11 | INFO     | (25/146990) Completed: 200 OK | url=https://romedentalco.com/blog/warning-signs-of-oral-cancer | elapsed=20.037s | retries=0
+2025-09-15 21:44:11 | INFO     | Progress: 25/146990 | ok=25, fail=0, no_text=0 | elapsed=15m 3s | eta=1475h 20m 37s
+2025-09-15 21:44:11 | INFO     | (26/146990) Submitting to checker | url=https://www.aig.com/home | chars=4971 | class=Human
+2025-09-15 21:44:44 | INFO     | (26/146990) Completed: 200 OK | url=https://www.aig.com/home | elapsed=33.216s | retries=0
+2025-09-15 21:44:44 | INFO     | Progress: 26/146990 | ok=26, fail=0, no_text=0 | elapsed=15m 37s | eta=1470h 45m 23s
+2025-09-15 21:44:44 | INFO     | (27/146990) Submitting to checker | url=https://www.sciencedirect.com/science/article/pii/s2319417020302092 | chars=777 | class=Human
+2025-09-15 21:44:55 | INFO     | (27/146990) Completed: 200 OK | url=https://www.sciencedirect.com/science/article/pii/s2319417020302092 | elapsed=11.212s | retries=0
+2025-09-15 21:44:55 | INFO     | Progress: 27/146990 | ok=27, fail=0, no_text=0 | elapsed=15m 48s | eta=1433h 14m 24s
+2025-09-15 21:44:55 | INFO     | (28/146990) Submitting to checker | url=https://www.southeastbank.com/blog/how-old-do-you-have-to-be-to-open-a-bank-account | chars=4999 | class=AI
+2025-09-15 21:45:17 | INFO     | (28/146990) Completed: 200 OK | url=https://www.southeastbank.com/blog/how-old-do-you-have-to-be-to-open-a-bank-account | elapsed=21.806s | retries=0
+2025-09-15 21:45:17 | INFO     | Progress: 28/146990 | ok=28, fail=0, no_text=0 | elapsed=16m 10s | eta=1413h 50m 26s
+2025-09-15 21:45:17 | INFO     | (29/146990) Submitting to checker | url=https://www.healthonephysiciangroup.com/healthy-living/glucose-tolerance-test | chars=3305 | class=Human
+2025-09-15 21:45:39 | INFO     | (29/146990) Completed: 200 OK | url=https://www.healthonephysiciangroup.com/healthy-living/glucose-tolerance-test | elapsed=22.45s | retries=0
+2025-09-15 21:45:39 | INFO     | Progress: 29/146990 | ok=29, fail=0, no_text=0 | elapsed=16m 32s | eta=1396h 41m 18s
+2025-09-15 21:45:39 | INFO     | (30/146990) Submitting to checker | url=https://www.uclahealth.org/news/article/research-being-conducted-using-stem-cells-treat-diabetes | chars=5000 | class=Human
+2025-09-15 21:45:56 | INFO     | (30/146990) Completed: 200 OK | url=https://www.uclahealth.org/news/article/research-being-conducted-using-stem-cells-treat-diabetes | elapsed=16.453s | retries=0
+2025-09-15 21:45:56 | INFO     | Progress: 30/146990 | ok=30, fail=0, no_text=0 | elapsed=16m 49s | eta=1372h 31m 4s
+2025-09-15 21:45:56 | INFO     | (31/146990) Submitting to checker | url=https://ksltv.com/health/aspirin-can-help-reduce-risk-of-second-heart-attack-but-study-finds-less-than-half-of-eligible-adults-take-it/579820 | chars=4981 | class=Human
+2025-09-15 21:46:25 | INFO     | (31/146990) Completed: 200 OK | url=https://ksltv.com/health/aspirin-can-help-reduce-risk-of-second-heart-attack-but-study-finds-less-than-half-of-eligible-adults-take-it/579820 | elapsed=29.048s | retries=0
+2025-09-15 21:46:25 | INFO     | Progress: 31/146990 | ok=31, fail=0, no_text=0 | elapsed=17m 18s | eta=1366h 29m 23s
+2025-09-15 21:46:25 | INFO     | (32/146990) Submitting to checker | url=https://www.bmj.com/content/363/bmj.k4136 | chars=4992 | class=Human
+2025-09-15 21:46:40 | INFO     | (32/146990) Completed: 200 OK | url=https://www.bmj.com/content/363/bmj.k4136 | elapsed=14.92s | retries=0
+2025-09-15 21:46:40 | INFO     | Progress: 32/146990 | ok=32, fail=0, no_text=0 | elapsed=17m 33s | eta=1342h 48m 47s
+2025-09-15 21:46:40 | INFO     | (33/146990) Submitting to checker | url=https://www.refijet.com/blogs/best-times-to-refinance-your-car | chars=5000 | class=Human
+2025-09-15 21:47:15 | INFO     | (33/146990) Completed: 200 OK | url=https://www.refijet.com/blogs/best-times-to-refinance-your-car | elapsed=34.905s | retries=0
+2025-09-15 21:47:15 | INFO     | Progress: 33/146990 | ok=33, fail=0, no_text=0 | elapsed=18m 8s | eta=1345h 18m 7s
+2025-09-15 21:47:15 | INFO     | (34/146990) Submitting to checker | url=https://emedicine.medscape.com/article/297664-overview | chars=3571 | class=Human
+2025-09-15 21:47:31 | INFO     | (34/146990) Completed: 200 OK | url=https://emedicine.medscape.com/article/297664-overview | elapsed=16.041s | retries=0
+2025-09-15 21:47:31 | INFO     | Progress: 34/146990 | ok=34, fail=0, no_text=0 | elapsed=18m 24s | eta=1324h 59m 19s
+2025-09-15 21:47:31 | INFO     | (35/146990) Submitting to checker | url=https://fpnotebook.com/cv/lab/vldlchlstrl.htm | chars=380 | class=Human
+2025-09-15 21:47:38 | INFO     | (35/146990) Completed: 200 OK | url=https://fpnotebook.com/cv/lab/vldlchlstrl.htm | elapsed=7.339s | retries=0
+2025-09-15 21:47:38 | INFO     | Progress: 35/146990 | ok=35, fail=0, no_text=0 | elapsed=18m 31s | eta=1295h 41m 11s
+2025-09-15 21:47:38 | INFO     | (36/146990) Submitting to checker | url=https://www.duffyduffylaw.com/blog/the-true-cost-of-pressure-ulcers | chars=5000 | class=Human
+2025-09-15 21:48:14 | INFO     | (36/146990) Completed: 200 OK | url=https://www.duffyduffylaw.com/blog/the-true-cost-of-pressure-ulcers | elapsed=36.156s | retries=0
+2025-09-15 21:48:14 | INFO     | Progress: 36/146990 | ok=36, fail=0, no_text=0 | elapsed=19m 7s | eta=1300h 41m 35s
+2025-09-15 21:48:14 | INFO     | (37/146990) Submitting to checker | url=https://www.gov.uk/government/publications/list-of-zoonotic-diseases/list-of-zoonotic-diseases | chars=4999 | class=Human
+2025-09-15 21:48:46 | INFO     | (37/146990) Completed: 200 OK | url=https://www.gov.uk/government/publications/list-of-zoonotic-diseases/list-of-zoonotic-diseases | elapsed=31.61s | retries=0
+2025-09-15 21:48:46 | INFO     | Progress: 37/146990 | ok=37, fail=0, no_text=0 | elapsed=19m 39s | eta=1300h 24m 56s
+2025-09-15 21:48:46 | INFO     | (38/146990) Submitting to checker | url=https://www.law.cornell.edu/cfr/text/38/3.750 | chars=4960 | class=Human
+2025-09-15 21:49:08 | INFO     | (38/146990) Completed: 200 OK | url=https://www.law.cornell.edu/cfr/text/38/3.750 | elapsed=21.841s | retries=0
+2025-09-15 21:49:08 | INFO     | Progress: 38/146990 | ok=38, fail=0, no_text=0 | elapsed=20m 1s | eta=1289h 39m 5s
+2025-09-15 21:49:08 | INFO     | (39/146990) Submitting to checker | url=https://us.community.samsung.com/t5/led-and-oled-tvs/netflix-stopped-working-on-smart-tv/td-p/2834597 | chars=4879 | class=Human
+2025-09-15 21:49:31 | INFO     | (39/146990) Completed: 200 OK | url=https://us.community.samsung.com/t5/led-and-oled-tvs/netflix-stopped-working-on-smart-tv/td-p/2834597 | elapsed=22.927s | retries=0
+2025-09-15 21:49:31 | INFO     | Progress: 39/146990 | ok=39, fail=0, no_text=0 | elapsed=20m 23s | eta=1280h 34m 49s
+2025-09-15 21:49:31 | INFO     | (40/146990) Submitting to checker | url=https://www.israelvisa.in/visa-types | chars=4957 | class=Human
+2025-09-15 21:50:00 | INFO     | (40/146990) Completed: 200 OK | url=https://www.israelvisa.in/visa-types | elapsed=29.377s | retries=0
+2025-09-15 21:50:00 | INFO     | Progress: 40/146990 | ok=40, fail=0, no_text=0 | elapsed=20m 53s | eta=1278h 32m 32s
+2025-09-15 21:50:00 | INFO     | (41/146990) Submitting to checker | url=https://www.parkinsons.org.au/information-hub/driving | chars=5000 | class=Human
+2025-09-15 21:50:23 | INFO     | (41/146990) Completed: 200 OK | url=https://www.parkinsons.org.au/information-hub/driving | elapsed=22.823s | retries=0
+2025-09-15 21:50:23 | INFO     | Progress: 41/146990 | ok=41, fail=0, no_text=0 | elapsed=21m 16s | eta=1270h 4m 39s
+2025-09-15 21:50:23 | INFO     | (42/146990) Submitting to checker | url=https://www.researchgate.net/publication/235777184_thyroid_cancer_in_plummer's_disease | chars=628 | class=Human
+2025-09-15 21:50:33 | INFO     | (42/146990) Completed: 200 OK | url=https://www.researchgate.net/publication/235777184_thyroid_cancer_in_plummer's_disease | elapsed=10.694s | retries=0
+2025-09-15 21:50:33 | INFO     | Progress: 42/146990 | ok=42, fail=0, no_text=0 | elapsed=21m 26s | eta=1250h 13m 38s
+2025-09-15 21:50:33 | INFO     | (43/146990) Submitting to checker | url=https://www.self.com/story/out-of-breath-walking-up-stairs | chars=5000 | class=Human
+2025-09-15 21:50:59 | INFO     | (43/146990) Completed: 200 OK | url=https://www.self.com/story/out-of-breath-walking-up-stairs | elapsed=25.533s | retries=0
+2025-09-15 21:50:59 | INFO     | Progress: 43/146990 | ok=43, fail=0, no_text=0 | elapsed=21m 52s | eta=1245h 23m 16s
+2025-09-15 21:50:59 | INFO     | (44/146990) Submitting to checker | url=https://www.uchicagomedicine.org/conditions-services/obgyn/uterine-fibroids/treatments-procedures | chars=5000 | class=Human
+2025-09-15 21:51:27 | INFO     | (44/146990) Completed: 200 OK | url=https://www.uchicagomedicine.org/conditions-services/obgyn/uterine-fibroids/treatments-procedures | elapsed=27.841s | retries=0
+2025-09-15 21:51:27 | INFO     | Progress: 44/146990 | ok=44, fail=0, no_text=0 | elapsed=22m 20s | eta=1242h 54m 40s
+2025-09-15 21:51:27 | INFO     | (45/146990) Submitting to checker | url=https://pmc.ncbi.nlm.nih.gov/articles/pmc8929726 | chars=4903 | class=Human
+2025-09-15 21:51:58 | INFO     | (45/146990) Completed: 200 OK | url=https://pmc.ncbi.nlm.nih.gov/articles/pmc8929726 | elapsed=31.261s | retries=0
+2025-09-15 21:51:58 | INFO     | Progress: 45/146990 | ok=45, fail=0, no_text=0 | elapsed=22m 51s | eta=1243h 38m 35s
+2025-09-15 21:51:58 | INFO     | (46/146990) Submitting to checker | url=https://www.livestrong.com/article/13731565-cant-climb-stairs | chars=5000 | class=Human
+2025-09-15 21:52:14 | INFO     | (46/146990) Completed: 200 OK | url=https://www.livestrong.com/article/13731565-cant-climb-stairs | elapsed=16.003s | retries=0
+2025-09-15 21:52:14 | INFO     | Progress: 46/146990 | ok=46, fail=0, no_text=0 | elapsed=23m 7s | eta=1230h 48m 11s
+2025-09-15 21:52:14 | INFO     | (47/146990) Submitting to checker | url=https://www.christopherreeve.org/todays-care/living-with-paralysis/health/causes-of-paralysis/brain-injury | chars=4999 | class=Human
+2025-09-15 21:52:49 | INFO     | (47/146990) Completed: 200 OK | url=https://www.christopherreeve.org/todays-care/living-with-paralysis/health/causes-of-paralysis/brain-injury | elapsed=35.22s | retries=0
+2025-09-15 21:52:49 | INFO     | Progress: 47/146990 | ok=47, fail=0, no_text=0 | elapsed=23m 42s | eta=1235h 11m 59s
+2025-09-15 21:52:49 | INFO     | (48/146990) Submitting to checker | url=https://www.archives.gov/founding-docs/amendments-11-27 | chars=5000 | class=Human
+2025-09-15 21:53:14 | INFO     | (48/146990) Completed: 200 OK | url=https://www.archives.gov/founding-docs/amendments-11-27 | elapsed=24.952s | retries=0
+2025-09-15 21:53:14 | INFO     | Progress: 48/146990 | ok=48, fail=0, no_text=0 | elapsed=24m 7s | eta=1230h 40m 49s
+2025-09-15 21:53:14 | INFO     | (49/146990) Submitting to checker | url=https://www.baptisthealth.com/blog/weight-management/9-health-benefits-of-weight-loss | chars=4998 | class=Human
+2025-09-15 21:53:22 | INFO     | (49/146990) Completed: 200 OK | url=https://www.baptisthealth.com/blog/weight-management/9-health-benefits-of-weight-loss | elapsed=8.084s | retries=0
+2025-09-15 21:53:22 | INFO     | Progress: 49/146990 | ok=49, fail=0, no_text=0 | elapsed=24m 15s | eta=1212h 17m 33s
+2025-09-15 21:53:22 | INFO     | (50/146990) Submitting to checker | url=https://www.healthinsurance.org/faqs/my-parents-are-68-but-recently-moved-to-the-u-s-so-they-dont-qualify-for-medicare-can-they-buy-insurance-in-the-exchange | chars=5000 | class=Human
+2025-09-15 21:53:53 | INFO     | (50/146990) Completed: 200 OK | url=https://www.healthinsurance.org/faqs/my-parents-are-68-but-recently-moved-to-the-u-s-so-they-dont-qualify-for-medicare-can-they-buy-insurance-in-the-exchange | elapsed=30.822s | retries=0
+2025-09-15 21:53:53 | INFO     | Progress: 50/146990 | ok=50, fail=0, no_text=0 | elapsed=24m 46s | eta=1213h 12m 16s
+2025-09-15 21:53:53 | INFO     | (51/146990) Submitting to checker | url=https://www.boundless.com/immigration-resources/documents-for-travel-visa | chars=5000 | class=Human
+2025-09-15 21:54:19 | INFO     | (51/146990) Completed: 200 OK | url=https://www.boundless.com/immigration-resources/documents-for-travel-visa | elapsed=25.574s | retries=0
+2025-09-15 21:54:19 | INFO     | Progress: 51/146990 | ok=51, fail=0, no_text=0 | elapsed=25m 12s | eta=1209h 52m 45s
+2025-09-15 21:54:19 | INFO     | (52/146990) Submitting to checker | url=https://www.henryford.com/blog/2020/12/otc-remedies-for-to-covid-symptoms | chars=4999 | class=Human
+2025-09-15 21:55:00 | INFO     | (52/146990) Completed: 200 OK | url=https://www.henryford.com/blog/2020/12/otc-remedies-for-to-covid-symptoms | elapsed=41.284s | retries=0
+2025-09-15 21:55:00 | INFO     | Progress: 52/146990 | ok=52, fail=0, no_text=0 | elapsed=25m 53s | eta=1219h 0m 49s
+2025-09-15 21:55:00 | INFO     | (53/146990) Submitting to checker | url=https://www.newyorklife.com/resources/financial-calculators/retirement-401k-calculator | chars=5000 | class=Human
+2025-09-15 21:55:36 | INFO     | (53/146990) Completed: 200 OK | url=https://www.newyorklife.com/resources/financial-calculators/retirement-401k-calculator | elapsed=36.316s | retries=0
+2025-09-15 21:55:36 | INFO     | Progress: 53/146990 | ok=53, fail=0, no_text=0 | elapsed=26m 29s | eta=1223h 58m 50s
+2025-09-15 21:55:36 | INFO     | (54/146990) Submitting to checker | url=https://www.buoyhealth.com/learn/black-or-brown-vomit | chars=5000 | class=Human
+2025-09-15 21:56:10 | INFO     | (54/146990) Completed: 200 OK | url=https://www.buoyhealth.com/learn/black-or-brown-vomit | elapsed=34.04s | retries=0
+2025-09-15 21:56:10 | INFO     | Progress: 54/146990 | ok=54, fail=0, no_text=0 | elapsed=27m 3s | eta=1227h 2m 13s
+2025-09-15 21:56:10 | INFO     | (55/146990) Submitting to checker | url=https://medlineplus.gov/ency/patientinstructions/000885.htm | chars=4955 | class=Human
+2025-09-15 21:57:02 | INFO     | (55/146990) Completed: 200 OK | url=https://medlineplus.gov/ency/patientinstructions/000885.htm | elapsed=51.275s | retries=0
+2025-09-15 21:57:02 | INFO     | Progress: 55/146990 | ok=55, fail=0, no_text=0 | elapsed=27m 55s | eta=1242h 46m 21s
+2025-09-15 21:57:02 | INFO     | (56/146990) Submitting to checker | url=https://www.cnn.com/2025/07/20/world/video/gps0720-britain-immigration-badenoch | chars=4950 | class=Human
