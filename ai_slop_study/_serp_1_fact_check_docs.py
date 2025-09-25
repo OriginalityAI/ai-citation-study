@@ -133,11 +133,13 @@ def read_classified(path: Path) -> List[Dict[str, Any]]:
             u = (r.get("url") or "").strip()
             if not u:
                 continue
-            rows.append({
-                "url": u,
-                "ai_class": (r.get("ai_class") or "").strip(),
-                "confidence": r.get("confidence")
-            })
+            ai_class = r.get("ai_class")
+            if ai_class == "AI": # ONLY AI DOCUMENTS
+                rows.append({
+                    "url": u,
+                    "ai_class": ai_class,
+                    "confidence": r.get("confidence")
+                })
     LOGGER.info("Loaded %d classified rows in %s", len(rows), fmt_secs(time.time() - t0))
     return rows
 

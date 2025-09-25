@@ -36,3 +36,6 @@ SERP Progress log
 
 9.  2025-09-18 16:42:46 | INFO | Progress: 1023/143289 | ok=1006, fail=17, no_text=0 | elapsed=12h 6m 29s | eta=1683h 49m 44s
     2025-09-18 16:42:46 | INFO | (1024/143289) Submitting to checker | url=https://theconversation.com/kids-put-down-the-snails-they-could-carry-rat-lungworm-50183 | chars=4999 | class=Human
+
+10. (AI only) 2025-09-25 11:45:32 | INFO | Progress: 5384/14286 | ok=5360, fail=24, no_text=0 | elapsed=44h 23m 37s | eta=73h 24m 5s
+    2025-09-25 11:45:32 | INFO | (5385/14286) Submitting to checker | url=https://www.economicsonline.co.uk/definitions/regressive-taxes.html | chars=4999 | class=AI
